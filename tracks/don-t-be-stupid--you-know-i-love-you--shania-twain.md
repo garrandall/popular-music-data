@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:6xAF3xYDK915NEvC6WNbj9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-stupid--you-know-i-love-you--shania-twain
 lyrics_url: https://genius.com/Shania-twain-dont-be-stupid-you-know-i-love-you-lyrics
 name: Don't Be Stupid (You Know I Love You)
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
+release_year: 1997
+runtime: 214240
 ---
 Cool
 Yeah

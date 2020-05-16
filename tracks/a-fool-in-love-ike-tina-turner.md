@@ -1,9 +1,12 @@
 ---
+album: The Soul Of Ike & Tina Turner
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:6Srd24SS5VX3tKztnos6gk
 features: []
-genres: []
+first_released_as_single: false
 key: a-fool-in-love-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/afoolinlove.html
 name: A Fool In Love
@@ -60,8 +63,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 160626
 ---
-
 Oh, there's something on my mind
 Won't somebody please, please tell me what's wrong?
 
@@ -117,6 +121,3 @@ Doo doo, doo, doo (Hey, hey, hey, hey, hey... yeah! hey, hey)
 Doo doo, doo, doo (One more time!)
 Doo doo, doo, doo (Oh...)
 Doo doo, doo, doo
-
-
-

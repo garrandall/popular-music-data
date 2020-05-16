@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:6J212smZzpeOCYQ9DITMSC
 features: []
-genres: []
+first_released_as_single: false
 key: a-matter-of-trust-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/amatteroftrust.html
 name: A Matter Of Trust
@@ -79,8 +82,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 248746
 ---
-
 Some love is just a lie of the heart
 The cold remains of what began with a passionate start
 And they may not want it to end
@@ -127,6 +131,3 @@ Some love is just a lie of the heart
 The cold remains of what began with a passionate start
 But that can't happen to us
 Because it's always been a matter of trust
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Screamin' For My Supper
 artists:
 - Beth Hart
+external_ids:
+  spotify: spotify:track:0rxPuXU5yYBNEAq2EobOJx
 features: []
-genres: []
+first_released_as_single: false
 key: la-song-beth-hart
 lyrics_url: https://genius.com/Beth-hart-la-song-lyrics
 name: LA Song
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 216760
 ---
 She hangs around the boulevard
 She's a local girl with local scars

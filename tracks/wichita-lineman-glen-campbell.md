@@ -1,8 +1,11 @@
 ---
+album: Wichita Lineman
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:6V9VCm1zOY2lGR80RehJ9i
 features: []
-genres: []
+first_released_as_single: false
 key: wichita-lineman-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-wichita-lineman-lyrics
 name: Wichita Lineman
@@ -67,6 +70,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1968
+runtime: 186200
 ---
 I am a lineman for the county
 And I drive the main road

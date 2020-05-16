@@ -1,8 +1,11 @@
 ---
+album: All Of You
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:5qP1EhyVCDgyjqEMoJPUWA
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-colbie-caillat
 lyrics_url: https://genius.com/Colbie-caillat-what-if-lyrics
 name: What If
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2011
+runtime: 225120
 ---
 I see you standing over there
 You look around without a care

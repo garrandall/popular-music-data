@@ -1,8 +1,11 @@
 ---
+album: True Believers
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:3xdjjKMcMOFgo1eQrfbogM
 features: []
-genres: []
+first_released_as_single: false
 key: wagon-wheel-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/wagonwheel.html
 name: Wagon Wheel
@@ -111,8 +114,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2013
+runtime: 298373
 ---
-
 Heading down south to the land of the pines
 I'm thumbing my way into North Carolina
 Staring up the road and pray to God I see headlights
@@ -164,6 +168,3 @@ Rock me momma like a south bound train
 (I wanna rock like a south bound train)
 Hey momma rock me
 Rock me
-
-
-

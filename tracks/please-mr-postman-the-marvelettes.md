@@ -1,8 +1,11 @@
 ---
+album: Please Mr. Postman
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:6jX5mso4x00c1EiNMrTU9U
 features: []
-genres: []
+first_released_as_single: false
 key: please-mr-postman-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-please-mr-postman-lyrics
 name: Please Mr Postman
@@ -99,6 +102,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 148040
 ---
 (Wait) Oh yes, wait a minute, Mr. Postman
 (Wait) Wai-hey-hey-hey-it, Mr. Postman

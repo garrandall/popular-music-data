@@ -1,8 +1,11 @@
 ---
+album: We Are Not Alone
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:4BJyt25nburVwbnESDeIc7
 features: []
-genres: []
+first_released_as_single: false
 key: so-cold-breaking-benjamin
 lyrics_url: https://genius.com/Breaking-benjamin-so-cold-lyrics
 name: So Cold
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 2004
+runtime: 273440
 ---
 Crowded streets are cleared away one by one
 Hollow heroes separate

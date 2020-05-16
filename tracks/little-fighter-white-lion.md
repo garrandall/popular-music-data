@@ -1,8 +1,11 @@
 ---
+album: Big Game
 artists:
 - White Lion
+external_ids:
+  spotify: spotify:track:4dx6XGD3jXk6UZ8eBOFdvM
 features: []
-genres: []
+first_released_as_single: false
 key: little-fighter-white-lion
 lyrics_url: https://genius.com/White-lion-little-fighter-lyrics
 name: Little Fighter
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1987
+runtime: 262773
 ---
 Are you cryin tonight?
 Are you feelin all right?

@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:1XEBWsT7jv8xm4OxyUb1h1
 features: []
-genres: []
+first_released_as_single: false
 key: anymore-teresa-brewer
 lyrics_url: https://genius.com/Teresa-brewer-anymore-lyrics
 name: Anymore
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 141466
 ---
 {And I don't believe you love me anymore} (anymore)
 

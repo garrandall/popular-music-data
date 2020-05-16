@@ -1,8 +1,11 @@
 ---
+album: Lullabies To Paralyze
 artists:
 - Queens Of The Stone Age
+external_ids:
+  spotify: spotify:track:0BqQWfhMrkpRAUCbdfdHUC
 features: []
-genres: []
+first_released_as_single: false
 key: little-sister-queens-of-the-stone-age
 lyrics_url: https://www.azlyrics.com/lyrics/queensofthestoneage/littlesister.html
 name: Little Sister
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2005
+runtime: 174026
 ---
-
 Hey, sister, why you all alone?
 I'm standing out your window
 Hey, little sister, can I come inside, dear?
@@ -67,6 +71,3 @@ Just who you really are, baby
 
 Little sister, can't you find another way?
 No more living life behind a shadow
-
-
-

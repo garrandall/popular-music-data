@@ -1,8 +1,11 @@
 ---
+album: Night Moves
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:4cVRPrhh7mTVejhx73qA6U
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-never-forgets-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/rockandrollneverforgets.html
 name: Rock And Roll Never Forgets
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1976
+runtime: 232356
 ---
-
 So you're a little bit older and a lot less bolder
 Than you used to be
 So you used to shake 'em down
@@ -74,6 +78,3 @@ Come back baby
 Rock 'n Roll never forgets
 Said you can come back baby
 Rock 'n Roll never forgets
-
-
-

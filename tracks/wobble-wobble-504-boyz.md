@@ -1,8 +1,11 @@
 ---
+album: Goodfellas
 artists:
 - 504 Boyz
+external_ids:
+  spotify: spotify:track:6frPth5B1zneT8EV71ZO0V
 features: []
-genres: []
+first_released_as_single: false
 key: wobble-wobble-504-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/504boyz/wobblewobble.html
 name: Wobble Wobble
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
+release_year: 2000
+runtime: 214533
 ---
-
 Yo', this Jay-tweezie keeping it live for the heezie
 For cheezy with them 504 Boyz you dig, check it
 This here is to played loud as possible
@@ -161,6 +165,3 @@ Ya' heard me
 
 
 We them 504 Boyz, huh, we them 504 Boyz
-
-
-

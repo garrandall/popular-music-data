@@ -1,8 +1,11 @@
 ---
+album: Hats off to Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:5yeeqLU6PM09ar5MKvMaFs
 features: []
-genres: []
+first_released_as_single: false
 key: cry-myself-to-sleep-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/crymyselftosleep.html
 name: Cry Myself To Sleep
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 142106
 ---
-
 The party's over, everybody go home
 I'm sorry but I'd like to be alone
 'Cause every time I see her I have to weep
@@ -48,6 +52,3 @@ So everybody won't you please go home
 The party's over and I'd like to be alone
 'Cause when I see her I just have to weep
 I'm gonna cry myself to sleep
-
-
-

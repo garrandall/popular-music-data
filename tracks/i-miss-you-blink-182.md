@@ -1,8 +1,11 @@
 ---
+album: blink-182
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:1oTo3ijRbaDAtrjJrGAPSw
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-blink-182
 lyrics_url: https://genius.com/Blink-182-i-miss-you-lyrics
 name: I Miss You
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2003
+runtime: 227240
 ---
 I miss you, I miss you
 

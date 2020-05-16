@@ -1,8 +1,11 @@
 ---
+album: Roulette Sessions In Love
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:7srhHSp2T99MZGF108BM8z
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-sweetheart-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-youre-a-sweetheart-lyrics
 name: You're A Sweetheart
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 149800
 ---
 You're a sweetheart
 If there ever was one

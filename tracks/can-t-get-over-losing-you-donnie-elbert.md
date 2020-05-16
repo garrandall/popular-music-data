@@ -1,8 +1,11 @@
 ---
+album: Can't Get over Losing You / I Got to Get Myself Together (Digital 45)
 artists:
 - Donnie Elbert
+external_ids:
+  spotify: spotify:track:1dbgK8l4fCT6G1YgRI7SpX
 features: []
-genres: []
+first_released_as_single: true
 key: can-t-get-over-losing-you-donnie-elbert
 lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Elbert/Can-t-Get-Over-Losing-You
 name: Can't Get Over Losing You
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 186183
 ---
 I said, baby, baby, baby
 Things ain't like what they used to be

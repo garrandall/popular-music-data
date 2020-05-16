@@ -1,8 +1,11 @@
 ---
+album: Hootie Mack
 artists:
 - Bell Biv DeVoe
+external_ids:
+  spotify: spotify:track:5runzprCX4AqYLnTeo02g6
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-your-eyes-bell-biv-devoe
 lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/somethinginyoureyes.html
 name: Something In Your Eyes
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1993
+runtime: 292533
 ---
-
 You ask me why, I say why not
 Anything is possible, anything can be
 Therefore tonight I'll get you hot
@@ -137,4 +141,3 @@ It was something in your eyes that took me to feel it
 Something in your eyes, and hey, I can see it
 Something in your eyes had given me a sign
 And I knew it was on, I knew it was on
-

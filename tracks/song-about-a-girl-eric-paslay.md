@@ -1,8 +1,11 @@
 ---
+album: Eric Paslay
 artists:
 - Eric Paslay
+external_ids:
+  spotify: spotify:track:5BNgkhr9nadjc1cJGpeJAs
 features: []
-genres: []
+first_released_as_single: false
 key: song-about-a-girl-eric-paslay
 lyrics_url: https://www.azlyrics.com/lyrics/ericpaslay/songaboutagirl.html
 name: Song About A Girl
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2014
+runtime: 224960
 ---
-
 This ain't about tailgates
 Ain't about bonfires
 Ain't about souped up cars, water towers
@@ -109,6 +113,3 @@ This ain't about tailgates
 Ain't about bonfires
 Ain't about souped up cars, water towers
 Drowning in a bottle of Jack
-
-
-

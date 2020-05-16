@@ -1,8 +1,11 @@
 ---
+album: Battle of Gettysburg / Johnny Willow
 artists:
 - Fred Darian
+external_ids:
+  spotify: spotify:track:4P5sAyZWsse8eqdfF6f6fv
 features: []
-genres: []
+first_released_as_single: true
 key: johnny-willow-fred-darian
 lyrics_url: https://www.musixmatch.com/lyrics/Fred-Darian/Johnny-Willow
 name: Johnny Willow
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 161400
 ---
 Johnny Willow was a soldier
 In the U.S. Infantry

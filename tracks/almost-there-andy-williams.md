@@ -1,8 +1,11 @@
 ---
+album: Dear Heart
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:1lwDZyD1jUdsrFxb8vcZGm
 features: []
-genres: []
+first_released_as_single: false
 key: almost-there-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/almostthere.html
 name: Almost There
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 177466
 ---
-
 Almost there, we're almost there
 How wonderful, wonderful our love will be
 For you, for me
@@ -52,6 +56,3 @@ Close your eyes, close your eyes
 Close your eyes for we're almost there
 Almo-o-ost there
 A-a-almost there
-
-
-

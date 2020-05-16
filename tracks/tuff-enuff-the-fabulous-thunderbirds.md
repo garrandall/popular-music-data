@@ -1,8 +1,11 @@
 ---
+album: Tuff Enuff
 artists:
 - The Fabulous Thunderbirds
+external_ids:
+  spotify: spotify:track:4I4vAytEiKVIHsJS0LfCWW
 features: []
-genres: []
+first_released_as_single: false
 key: tuff-enuff-the-fabulous-thunderbirds
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fabulous-Thunderbirds/Tuff-Enuff
 name: Tuff Enuff
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1970
+runtime: 200773
 ---
 I would walk ten miles on my hands and knees
 Ain't no doubt about it baby it's you I aim to please

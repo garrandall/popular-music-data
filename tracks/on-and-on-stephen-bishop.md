@@ -1,8 +1,11 @@
 ---
+album: Careless
 artists:
 - Stephen Bishop
+external_ids:
+  spotify: spotify:track:0Vth3l4XAo8hNYmxjzhr2y
 features: []
-genres: []
+first_released_as_single: false
 key: on-and-on-stephen-bishop
 lyrics_url: https://genius.com/Stephen-bishop-on-and-on-lyrics
 name: On And On
@@ -119,6 +122,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1976
+runtime: 181893
 ---
 Down in Jamaica
 They got lots of pretty women

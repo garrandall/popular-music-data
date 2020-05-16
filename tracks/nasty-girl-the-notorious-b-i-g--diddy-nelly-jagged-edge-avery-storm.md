@@ -1,12 +1,15 @@
 ---
+album: 'Duets: The Final Chapter'
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:4GIsskMpViPkt0uzPJTJSp
 features:
 - Diddy
 - Nelly
 - Jagged Edge
 - Avery Storm
-genres: []
+first_released_as_single: false
 key: nasty-girl-the-notorious-b-i-g--diddy-nelly-jagged-edge-avery-storm
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/nastygirl.html
 name: Nasty Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-03-25'
+release_year: 2005
+runtime: 286186
 ---
-
 The Biggie duets (Uh)
 Jazze Phizzle (phizzle phizzle)
 Jagged Edge
@@ -217,6 +221,3 @@ Notorious
 Ladies and gentlemen
 Let's go
 Hey hey hey... hey
-
-
-

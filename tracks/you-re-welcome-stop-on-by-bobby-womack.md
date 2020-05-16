@@ -1,8 +1,11 @@
 ---
+album: Lookin' For Love Again
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:0Hnt8YwHpMashp7tAYt1f6
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-welcome-stop-on-by-bobby-womack
 lyrics_url: https://genius.com/Bobby-womack-youre-welcome-stop-on-by-lyrics
 name: You're Welcome Stop On By
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 221626
 ---
 Girl, you're welcome...stop on by
 You know I'll be here, baby

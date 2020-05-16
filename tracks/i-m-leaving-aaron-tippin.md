@@ -1,8 +1,11 @@
 ---
+album: What This Country Needs
 artists:
 - Aaron Tippin
+external_ids:
+  spotify: spotify:track:7k5av5sKePQfO6IYC1rUCF
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-leaving-aaron-tippin
 lyrics_url: https://genius.com/Aaron-tippin-im-leaving-lyrics
 name: I'm Leaving
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1998
+runtime: 201773
 ---
 As we passed in the hall
 She said we need to talk

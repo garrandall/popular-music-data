@@ -1,8 +1,11 @@
 ---
+album: American Gangster
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:7qTHHJ8MeXEKBVuopWdw4b
 features: []
-genres: []
+first_released_as_single: false
 key: roc-boys--and-the-winner-is--jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/rocboysandthewinneris.html
 name: Roc Boys (And The Winner Is)
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2007
+runtime: 252106
 ---
-
 And the winner is Hov...my man? SPEECH!
 
 First of all I wan' thank my connect
@@ -110,6 +114,3 @@ Taking flight, coming to a town near you
 Soon as I touch down I just want ya'll to start playing the horns like...
 Hovies home...Lukey baby
 Hahahahaha...ow!
-
-
-

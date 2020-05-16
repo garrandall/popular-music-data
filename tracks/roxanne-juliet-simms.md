@@ -1,8 +1,11 @@
 ---
+album: Roxanne (The Voice Performance)
 artists:
 - Juliet Simms
+external_ids:
+  spotify: spotify:track:1bv51g06fJfEu1rr8Mei60
 features: []
-genres: []
+first_released_as_single: true
 key: roxanne-juliet-simms
 lyrics_url: https://genius.com/Juliet-simms-roxanne-lyrics
 name: Roxanne
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2012
+runtime: 180813
 ---
 Roxanne, you don't have to put on the red light, those days are over
 You don't have to sell your body to the night

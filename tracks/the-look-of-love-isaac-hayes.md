@@ -1,8 +1,11 @@
 ---
+album: Isaac Hayes Sings For Lovers
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:49NHOHNWjCtECqWRDeiTbQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-look-of-love-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/thelookoflove.html
 name: The Look Of Love
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1971
+runtime: 197840
 ---
-
 The look of love
 Is in your eyes
 The look your smile can't disguise
@@ -68,6 +72,3 @@ Now that I have found you
 Don't ever go
 Don't ever go
 I love you so
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Here For The Party
 artists:
 - Gretchen Wilson
+external_ids:
+  spotify: spotify:track:1r5sw5ZdWTQYyXbva03U4g
 features: []
-genres: []
+first_released_as_single: false
 key: homewrecker-gretchen-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/gretchenwilson/homewrecker.html
 name: Homewrecker
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-06-18'
+release_year: 2004
+runtime: 205973
 ---
-
 Well you're a real hot cookie with a new hairdo
 Your high heel boots and your credit card
 Long legs and a mini skirt
@@ -95,4 +99,3 @@ You can take it somewhere else or we can take it outside you little
 Now honey I'm a Christian, But if you keep it up
 I'm gonna go to kickin' your pretty little butt
 Is that clear enough yeah, you little
-

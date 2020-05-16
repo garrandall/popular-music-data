@@ -1,8 +1,11 @@
 ---
+album: I'm Just Me
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:3jhmHJtEtyktmerYrPdUQd
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-just-me-charley-pride
 lyrics_url: https://genius.com/Charley-pride-im-just-me-lyrics
 name: I'm Just Me
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
+release_year: 1971
+runtime: 142173
 ---
 Down at the railroad station there's people gettin' on
 Some are a goin' north some are a goin' south I'm just goin' to be gone

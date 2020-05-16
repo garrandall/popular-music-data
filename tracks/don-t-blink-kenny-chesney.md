@@ -1,8 +1,11 @@
 ---
+album: 'Just Who I Am: Poets & Pirates'
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:6reuJxDtjebwc9FB6rNpp0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-blink-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-dont-blink-lyrics
 name: Don't Blink
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2007
+runtime: 285280
 ---
 I turned on the evening news
 Saw a old man being interviewed

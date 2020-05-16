@@ -1,8 +1,11 @@
 ---
+album: Martika
 artists:
 - Martika
+external_ids:
+  spotify: spotify:track:1m8Bi4DPISDIpsr2aA9d2N
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-you-know-martika
 lyrics_url: https://www.azlyrics.com/lyrics/martika/morethanyouknow.html
 name: More Than You Know
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1988
+runtime: 246040
 ---
-
 If there's a fire in my eyes
 It should come as no surprise to you
 If I've shown you once or twice
@@ -123,6 +127,3 @@ But it's something that I can't control
 And though I'd give you the world if I could
 I'm afraid to let you know
 'Cuz I don't wanna lose your love
-
-
-

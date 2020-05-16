@@ -1,9 +1,12 @@
 ---
+album: More Than A Woman
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:183rFHy125HinXrxjTMx0b
 features:
 - Loon
-genres: []
+first_released_as_single: false
 key: hit-the-freeway-toni-braxton-loon
 lyrics_url: https://genius.com/Toni-braxton-hit-the-freeway-lyrics
 name: Hit The Freeway
@@ -64,6 +67,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2002
+runtime: 228560
 ---
 And we don't stop, no ma
 What's the problem?

@@ -1,8 +1,11 @@
 ---
+album: Grave Dancers Union
 artists:
 - Soul Asylum
+external_ids:
+  spotify: spotify:track:3Ib3SJV8ZXuLvDiDb2w1As
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-train-soul-asylum
 lyrics_url: https://genius.com/Soul-asylum-runaway-train-lyrics
 name: Runaway Train
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1986
+runtime: 266066
 ---
 Call you up in the middle of the night
 Like a firefly without a light

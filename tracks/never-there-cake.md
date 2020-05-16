@@ -1,8 +1,11 @@
 ---
+album: Prolonging the Magic
 artists:
 - Cake
+external_ids:
+  spotify: spotify:track:7aKWgpecgLEqisWcXPElDl
 features: []
-genres: []
+first_released_as_single: false
 key: never-there-cake
 lyrics_url: https://genius.com/Cake-never-there-lyrics
 name: Never There
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1998
+runtime: 164266
 ---
 I need your arms around me
 I need to feel your touch

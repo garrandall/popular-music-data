@@ -1,9 +1,12 @@
 ---
+album: Songs
 artists:
 - Luther Vandross
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:7IljDTNkQEyy77CcaRbiAj
 features: []
-genres: []
+first_released_as_single: false
 key: endless-love-luther-vandross-mariah-carey
 lyrics_url: https://genius.com/Luther-vandross-endless-love-lyrics
 name: Endless Love
@@ -88,6 +91,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
+release_year: 1994
+runtime: 259666
 ---
 My love
 There's only you in my life

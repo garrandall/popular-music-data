@@ -1,8 +1,11 @@
 ---
+album: Harbor Lights
 artists:
 - Bruce Hornsby
+external_ids:
+  spotify: spotify:track:00klbNctBWN9HFIOqxC8Xl
 features: []
-genres: []
+first_released_as_single: false
 key: fields-of-gray-bruce-hornsby
 lyrics_url: https://www.azlyrics.com/lyrics/brucehornsby/fieldsofgray.html
 name: Fields Of Gray
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1993
+runtime: 291600
 ---
-
 When the night lies so still
 Before I go to sleep
 I come by, I come by
@@ -102,6 +106,3 @@ I will grab you and carry you
 Calm your fears if you're afraid
 We'll go walking
 Across the fields of gray
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Brenda, That's All
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:6sEzDVlcfYn2akvtzUitrb
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-depend-on-me-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-you-can-depend-on-me-lyrics
 name: You Can Depend On Me
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 214520
 ---
 Though you say we are through
 I'll always love you

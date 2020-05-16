@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:6wpGqhRvJGNNXwWlPmkMyO
 features: []
-genres: []
+first_released_as_single: false
 key: i-still-haven-t-found-what-i-m-looking-for-u2
 lyrics_url: https://genius.com/U2-i-still-havent-found-what-im-looking-for-lyrics
 name: I Still Haven't Found What I'm Looking For
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
+release_year: 1987
+runtime: 277476
 ---
 I have climbed the highest mountains
 I have run through the fields

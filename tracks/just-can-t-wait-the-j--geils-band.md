@@ -1,8 +1,11 @@
 ---
+album: Love Stinks
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:0VYOEbCV2NaUZ3bQuJ6HDy
 features: []
-genres: []
+first_released_as_single: false
 key: just-can-t-wait-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/justcantwait.html
 name: Just Can't Wait
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 205293
 ---
-
 Your daddy's tellin' you
 I just ain't no good
 And everything I try to do
@@ -77,6 +81,3 @@ I just can't wait, no, no, my baby
 I just can't wait, no, no, no
 I just can't wait, no, no, my baby
 I just can't wait, no, no, no
-
-
-

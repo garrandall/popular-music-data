@@ -1,8 +1,11 @@
 ---
+album: Fore!
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:648BMGrt98kUbLo24A4vgj
 features: []
-genres: []
+first_released_as_single: false
 key: hip-to-be-square-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/hiptobesquare.html
 name: Hip To Be Square
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 245466
 ---
-
 I used to be a renegade, I used to fool around
 But I couldn't take the punishment and had to settle down
 Now I'm playing it real straight, and yes, I cut my hair
@@ -127,6 +131,3 @@ Here, there, and everywhere
 Hip, hip, so hip to be a square
 Here, there, and everywhere
 Hip, hip
-
-
-

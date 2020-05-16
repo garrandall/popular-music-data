@@ -1,8 +1,11 @@
 ---
+album: Building The Perfect Beast
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:4I9AA9H57ySNSv1ZPinL4D
 features: []
-genres: []
+first_released_as_single: false
 key: sunset-grill-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/sunsetgrill.html
 name: Sunset Grill
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1984
+runtime: 379000
 ---
-
 Let's go down to the Sunset Grill
 We can watch the working girls go by
 Watch the "basket people" walk around and mumble
@@ -109,6 +113,3 @@ Down at the Sunset Grill
 Down at the Sunset Grill
 Down at the Sunset Grill
 Down at the Sunset Grill
-
-
-

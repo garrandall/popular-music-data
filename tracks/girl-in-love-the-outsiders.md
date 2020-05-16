@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Outsiders
+external_ids:
+  spotify: spotify:track:6fuqcFBVbRJx7F2D849fXh
 features: []
-genres: []
+first_released_as_single: false
 key: girl-in-love-the-outsiders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Outsiders/Girl-In-Love
 name: Girl In Love
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 200506
 ---
 GIRL IN LOVE
 The Outsiders

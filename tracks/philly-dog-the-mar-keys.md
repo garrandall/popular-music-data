@@ -1,8 +1,11 @@
 ---
+album: The Great Memphis Sound
 artists:
 - The Mar-Keys
+external_ids:
+  spotify: spotify:track:20QTplSupiwBmrUDL0VJ6Y
 features: []
-genres: []
+first_released_as_single: false
 key: philly-dog-the-mar-keys
 name: Philly Dog
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 138026
 ---
 

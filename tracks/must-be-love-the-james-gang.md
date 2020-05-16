@@ -1,8 +1,11 @@
 ---
+album: Welcome to the Real World
 artists:
 - The James Gang
+external_ids:
+  spotify: spotify:track:34vjB0u2gwj175RGZSt4ui
 features: []
-genres: []
+first_released_as_single: false
 key: must-be-love-the-james-gang
 lyrics_url: https://www.azlyrics.com/lyrics/jamesgang/mustbelove.html
 name: Must Be Love
@@ -51,8 +54,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1974
+runtime: 182986
 ---
-
 Lord I'm feelin'
 Kinda weak in the knees
 Somebody help me if I fall please
@@ -93,6 +97,3 @@ Whole lotta' lightning
 Come down from the sky
 Hit me so hard it
 Take my breath away
-
-
-

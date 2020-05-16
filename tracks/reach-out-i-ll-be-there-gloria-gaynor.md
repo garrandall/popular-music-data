@@ -1,8 +1,11 @@
 ---
+album: Never Can Say Goodbye
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:6vgcHUSWMaXgYapcCcElpp
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-i-ll-be-there-gloria-gaynor
 lyrics_url: https://genius.com/Gloria-gaynor-reach-out-ill-be-there-lyrics
 name: Reach Out I'll Be There
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 376386
 ---
 Now if you feel that you can't go on
 Because all of your hope is gone

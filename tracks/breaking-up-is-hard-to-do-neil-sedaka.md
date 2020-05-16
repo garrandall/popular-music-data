@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:2x6pbpjVGjiWCcH89IK8AX
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-up-is-hard-to-do-neil-sedaka
 lyrics_url: https://genius.com/Neil-sedaka-breaking-up-is-hard-to-do-lyrics
 name: Breaking Up Is Hard To Do
@@ -119,6 +122,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1960
+runtime: 139200
 ---
 You tell me that you're leaving
 I can't believe it's true

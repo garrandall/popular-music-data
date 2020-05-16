@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Eddy Grant - Road To Reparation
 artists:
 - Eddy Grant
+external_ids:
+  spotify: spotify:track:1XWIHxBmyiQ4kii2DAsZJz
 features: []
-genres: []
+first_released_as_single: false
 key: romancing-the-stone-eddy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/eddygrant/romancingthestone.html
 name: Romancing The Stone
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1984
+runtime: 287853
 ---
-
 I'm romancing the stone
 Never leaving your poor heart alone
 Every night and every day 
@@ -126,6 +130,3 @@ I'm romancing the stone
 Never leaving your poor heart alone
 Every night and every day 
 Gonna love the heartache away
-
-
-

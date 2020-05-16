@@ -1,8 +1,11 @@
 ---
+album: Sladest (Expanded)
 artists:
 - Slade
+external_ids:
+  spotify: spotify:track:1agVrzicFWExgEiAtk8lmr
 features: []
-genres: []
+first_released_as_single: false
 key: cum-on-feel-the-noize-slade
 lyrics_url: https://www.azlyrics.com/lyrics/slade/cumonfeelthenoize227992.html
 name: Cum On Feel The Noize
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 264880
 ---
-
 Baby, baby, baby!
 
 So you think I've got an evil mind
@@ -93,6 +97,3 @@ So cum on feel the noize (Cum on, cum on, cum on)
 Girls rock the boys (Rock the boys, rock the boys)
 We get wild, wild, wild (We get wild)
 We get wild, wild, wild (We get wild)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1957-62
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:0ValZZqcUDBHJqPZKiGr8D
 features: []
-genres: []
+first_released_as_single: false
 key: my-dream-come-true-jack-scott
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Scott/My-Dream-Come-True
 name: My Dream Come True
@@ -23,6 +26,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 175440
 ---
 One look at you
 One night with you

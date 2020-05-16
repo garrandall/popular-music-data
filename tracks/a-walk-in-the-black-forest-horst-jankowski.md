@@ -1,8 +1,11 @@
 ---
+album: The Genius Of Jankowski!
 artists:
 - Horst Jankowski
+external_ids:
+  spotify: spotify:track:3msjvrkCvIzUNJHULcAafN
 features: []
-genres: []
+first_released_as_single: false
 key: a-walk-in-the-black-forest-horst-jankowski
 lyrics_url: https://genius.com/Horst-jankowski-a-walk-in-the-black-forest-lyrics
 name: A Walk In The Black Forest
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1964
+runtime: 169680
 ---
 The trees join hands and say, "Hello,"
 And suddenly ev'rywhere we go

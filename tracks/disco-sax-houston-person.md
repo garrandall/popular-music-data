@@ -1,8 +1,11 @@
 ---
+album: '''75 / Get Out''a My Way!'
 artists:
 - Houston Person
+external_ids:
+  spotify: spotify:track:45WKJUQIAYivyxtozcWuEF
 features: []
-genres: []
+first_released_as_single: false
 key: disco-sax-houston-person
 name: Disco Sax
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1976
+runtime: 221666
 ---
 

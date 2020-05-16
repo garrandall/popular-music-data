@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:6X29iaaazwho3ab7GNue5r
 features: []
-genres: []
+first_released_as_single: false
 key: 8-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/8.html
 name: '8'
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2019
+runtime: 173201
 ---
-
 Wait a minute, let me finish
 I know you don't care, but can you listen?
 I came committed, guess I overdid it
@@ -41,6 +45,3 @@ You're lookin' at me like I'm see-through
 I guess I'm gonna go
 I just never know how you feel
 Do you even feel anything?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Midnight Mover
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:2Ot3Rd9qlD4WVUOOYFe2Dq
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-a-true-love-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-i-found-a-true-love-lyrics
 name: I Found A True Love
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
+release_year: 1968
+runtime: 144573
 ---
 I found a true love
 I swear by the stars above

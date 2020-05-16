@@ -1,8 +1,11 @@
 ---
+album: Cats Without Claws
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:7KP1J17dxk6h3msMWq07Nz
 features: []
-genres: []
+first_released_as_single: false
 key: supernatural-love-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/supernaturallove.html
 name: Supernatural Love
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 214093
 ---
-
 We were strangers
 Who one were lovers
 We've been everlasting friends
@@ -85,6 +89,3 @@ A supernatural love
 (oh, this must be)
 That makes us true survivors
 A supernatural love
-
-
-

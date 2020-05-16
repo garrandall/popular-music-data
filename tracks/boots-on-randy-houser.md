@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:7K4VxvIXXbDbaVn6ARbch1
 features: []
-genres: []
+first_released_as_single: false
 key: boots-on-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/bootson.html
 name: Boots On
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2008
+runtime: 170813
 ---
-
 Man, I've been workin too hard
 Ten hour days and I'm tired
 Damn this knuckle busted',
@@ -127,6 +131,3 @@ There'll be no trouble finding me
 With my boots on
 He's gonna take me home
 Lord, with my boots on
-
-
-

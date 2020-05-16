@@ -1,8 +1,11 @@
 ---
+album: What You See Is What You Get
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:5Fhe63YOMZsGdB3CgCDuBi
 features: []
-genres: []
+first_released_as_single: false
 key: even-though-i-m-leaving-luke-combs
 lyrics_url: https://genius.com/Luke-combs-even-though-im-leaving-lyrics
 name: Even Though I'm Leaving
@@ -103,6 +106,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 225253
 ---
 Daddy, I'm afraid, won't you stay a little while?
 Keep me safe 'cause there's monsters right outside

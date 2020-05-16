@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 3
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:0TKyzBYzk22WlB2mxheElS
 features: []
-genres: []
+first_released_as_single: false
 key: hello-pretty-girl-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-hello-pretty-girl-lyrics
 name: Hello Pretty Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1965
+runtime: 153960
 ---
 You were sitting by your window
 Just looking up at the moon

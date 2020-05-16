@@ -1,8 +1,11 @@
 ---
+album: 60s Rare Hits
 artists:
 - Jefferson
+external_ids:
+  spotify: spotify:track:1ka15JCWyITGlO3pzbku7I
 features: []
-genres: []
+first_released_as_single: false
 key: the-colour-of-my-love-jefferson
 lyrics_url: https://www.musixmatch.com/lyrics/Jefferson/The-Colour-of-My-Love
 name: The Colour Of My Love
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 153453
 ---
 Her hair was the colour of the sun
 Was the colour of her eyes

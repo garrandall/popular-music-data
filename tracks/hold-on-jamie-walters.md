@@ -1,8 +1,11 @@
 ---
+album: Jamie Walters
 artists:
 - Jamie Walters
+external_ids:
+  spotify: spotify:track:2kQLJexCx8wPTAqK0x0ijO
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-jamie-walters
 lyrics_url: https://genius.com/Jamie-walters-hold-on-lyrics
 name: Hold On
@@ -115,6 +118,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1994
+runtime: 264560
 ---
 I don't wanna see you ever sad
 And everything that I've got you can have

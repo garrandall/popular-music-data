@@ -1,9 +1,12 @@
 ---
+album: Street Opera
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:04NTQf4iDcF5NKTP2mWEsa
 features: []
-genres: []
+first_released_as_single: false
 key: street-corner-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-street-corner-lyrics
 name: Street Corner
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1982
+runtime: 261549
 ---
 Street life
 Rough necks

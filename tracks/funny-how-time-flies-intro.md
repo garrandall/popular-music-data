@@ -1,8 +1,11 @@
 ---
+album: New Life
 artists:
 - Intro
+external_ids:
+  spotify: spotify:track:6JFqUBSzyeBo0G6WFSrzjk
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-time-flies-intro
 lyrics_url: https://genius.com/Intro-funny-how-time-flies-lyrics
 name: Funny How Time Flies
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
+release_year: 1995
+runtime: 284490
 ---
 Funny how time flies
 Funny how time flies when you're making love

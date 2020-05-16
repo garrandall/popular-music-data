@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:3ZRdFTiSPAbcv7C5oBrbnt
 features: []
-genres: []
+first_released_as_single: false
 key: make-no-sense-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-make-no-sense-lyrics
 name: Make No Sense
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 148629
 ---
 Buddah Bless this beat
 

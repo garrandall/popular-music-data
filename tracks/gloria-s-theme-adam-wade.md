@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:7FeYOU2LNGQH6lGmmOpIHn
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-s-theme-adam-wade
 name: Gloria's Theme
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 172200
 ---
 

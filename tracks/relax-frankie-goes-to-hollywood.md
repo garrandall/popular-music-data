@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Pleasuredome
 artists:
 - Frankie Goes To Hollywood
+external_ids:
+  spotify: spotify:track:2K22nUTdyr48JDwI5t906t
 features: []
-genres: []
+first_released_as_single: false
 key: relax-frankie-goes-to-hollywood
 lyrics_url: https://www.azlyrics.com/lyrics/frankiegoestohollywood/relax.html
 name: Relax
@@ -99,8 +102,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1984
+runtime: 236800
 ---
-
 Oh oh
 Wee-ell-Now!
 
@@ -155,6 +159,3 @@ Higher higher
 
 Hey-
 Pray
-
-
-

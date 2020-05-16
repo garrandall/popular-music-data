@@ -1,8 +1,11 @@
 ---
+album: The Wonder Years - Trilogy
 artists:
 - Wonder Girls
+external_ids:
+  spotify: spotify:track:7C3JLAmQzy9SnTZjKcdzCA
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wonder-girls
 lyrics_url: https://genius.com/Wonder-girls-nobody-lyrics
 name: Nobody
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2008
+runtime: 212533
 ---
 HANGUL
 

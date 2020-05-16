@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:5HDPtsnyb3maFmPL8LLUTG
 features: []
-genres: []
+first_released_as_single: false
 key: new-man-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-new-man-lyrics
 name: New Man
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 189280
 ---
 Nah nah nah nah nah
 

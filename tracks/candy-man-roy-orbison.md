@@ -1,8 +1,11 @@
 ---
+album: Black & White Night
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:6Zf6ACqdumM6qBBKx3KOBl
 features: []
-genres: []
+first_released_as_single: false
 key: candy-man-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-candy-man-lyrics
 name: Candy Man
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 212840
 ---
 Come on baby, let me take you by the hand
 Come on sugar, let me take you by the hand

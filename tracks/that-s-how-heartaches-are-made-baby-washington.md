@@ -1,8 +1,11 @@
 ---
+album: That's How Heartaches Are Made
 artists:
 - Baby Washington
+external_ids:
+  spotify: spotify:track:0mmJGR9yiFdUUMadlGA3zJ
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-heartaches-are-made-baby-washington
 lyrics_url: https://genius.com/Baby-washington-thats-how-heartaches-are-made-lyrics
 name: That's How Heartaches Are Made
@@ -55,6 +58,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 161866
 ---
 (That's how heartaches are made, that's how heartaches are made)
 

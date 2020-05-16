@@ -1,8 +1,11 @@
 ---
+album: Out of Order
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:0RBqiot4WkkT43A3ATFniq
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-you-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-lost-in-you-lyrics
 name: Lost In You
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1988
+runtime: 302000
 ---
 Hey baby, you've been on my mind tonight
 I'm so lonely, I just had to sit down and write

@@ -1,8 +1,11 @@
 ---
+album: Janet Jackson
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:6IyzR0X4glFMP4KEjPKHm9
 features: []
-genres: []
+first_released_as_single: false
 key: come-give-your-love-to-me-janet-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Janet-Jackson/Come-Give-Your-Love-to-Me
 name: Come Give Your Love To Me
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1982
+runtime: 303800
 ---
 How can I get you to notice that I want you
 My heart's on fire with desire 'cause I love you

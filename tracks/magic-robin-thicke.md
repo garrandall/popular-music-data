@@ -1,8 +1,11 @@
 ---
+album: Something Else
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:1zy9PC4hGrVtCU7LoMOIqH
 features: []
-genres: []
+first_released_as_single: false
 key: magic-robin-thicke
 lyrics_url: https://www.azlyrics.com/lyrics/robinthicke/magic.html
 name: Magic
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 233226
 ---
-
 Hey...
 Woo...
 Alright baby...
@@ -145,4 +149,3 @@ I got it, You got it, We got the magic girl
 I got it, You got it, We got the magic girl
 I got it, You got it, We got the magic girl
 I got it, You got it, We got the magic girl
-

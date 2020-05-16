@@ -1,8 +1,11 @@
 ---
+album: One Million Years of Doo-Wop
 artists:
 - The Pentagons
+external_ids:
+  spotify: spotify:track:1sNUxDxmEzRuZKizOpv59D
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder--if-your-love-will-ever-belong-to-me--the-pentagons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Pentagons/I-Wonder
 name: I Wonder (If Your Love Will Ever Belong To Me)
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 142800
 ---
 I wonder if your love
 Will ever belong to me,

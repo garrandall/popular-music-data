@@ -1,8 +1,11 @@
 ---
+album: As Cricket In "Hawaiian Eye"
 artists:
 - Connie Stevens
+external_ids:
+  spotify: spotify:track:2RUfmM445DIR4xDwA2vSsh
 features: []
-genres: []
+first_released_as_single: false
 key: too-young-to-go-steady-connie-stevens
 lyrics_url: https://genius.com/Connie-stevens-too-young-to-go-steady-lyrics
 name: Too Young To Go Steady
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 132026
 ---
 Too young to go steady
 Too young, I hear him say

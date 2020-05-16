@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:3kyDtb36csVJe1RdNxonr9
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-a-new-baby-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-i-found-a-new-baby-lyrics
 name: I Found A New Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 128706
 ---
 I found a new baby
 I found a new girl

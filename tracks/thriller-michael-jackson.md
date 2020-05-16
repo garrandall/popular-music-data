@@ -1,8 +1,11 @@
 ---
+album: Thriller 25 Super Deluxe Edition
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3S2R0EVwBSAVMd5UMgKTL0
 features: []
-genres: []
+first_released_as_single: false
 key: thriller-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-thriller-lyrics
 name: Thriller
@@ -83,6 +86,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 1982
+runtime: 357266
 ---
 It's close to midnight
 Something evil's lurking in the dark

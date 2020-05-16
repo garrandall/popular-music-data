@@ -1,8 +1,11 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:04u8JJN1TTwFrFkYnLlaPU
 features: []
-genres: []
+first_released_as_single: false
 key: close-enough-to-perfect-alabama
 lyrics_url: https://www.azlyrics.com/lyrics/alabama/closeenoughtoperfect.html
 name: Close Enough To Perfect
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1980
+runtime: 212640
 ---
-
 Sometimes the morning coffee's way too strong.
 And Sometimes what she says she says all wrong.
 
@@ -96,6 +100,3 @@ And what you think she aught to be!
 She's close enough to perfect for me!
 
 Whooooa... She's close enough to perfect... for me!
-
-
-

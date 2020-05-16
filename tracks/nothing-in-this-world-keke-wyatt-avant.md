@@ -1,9 +1,12 @@
 ---
+album: Soul Sista
 artists:
 - KeKe Wyatt
+external_ids:
+  spotify: spotify:track:54Ev13Dca9qrYZDNLFUYpb
 features:
 - Avant
-genres: []
+first_released_as_single: false
 key: nothing-in-this-world-keke-wyatt-avant
 lyrics_url: https://genius.com/Keke-wyatt-nothing-in-this-world-lyrics
 name: Nothing In This World
@@ -88,6 +91,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2001
+runtime: 251066
 ---
 Oh, yeah, oh, yeah, yeah
 

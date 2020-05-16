@@ -1,8 +1,11 @@
 ---
+album: A Farewell To Kings
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:4u3oXuVeOGoByIMz9pnOKf
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-the-heart-rush
 lyrics_url: https://genius.com/Rush-closer-to-the-heart-lyrics
 name: Closer To The Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1977
+runtime: 171960
 ---
 And the men who hold high places
 Must be the ones who start

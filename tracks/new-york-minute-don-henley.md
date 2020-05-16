@@ -1,8 +1,11 @@
 ---
+album: The End Of The Innocence
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:2jxqu3v4AZAhUNvdAbDGet
 features: []
-genres: []
+first_released_as_single: false
 key: new-york-minute-don-henley
 lyrics_url: https://genius.com/Don-henley-new-york-minute-lyrics
 name: New York Minute
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1989
+runtime: 395400
 ---
 Harry got up, dressed all in black
 Went down to the station, and he never came back

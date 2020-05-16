@@ -1,8 +1,11 @@
 ---
+album: Self Control
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:6B4bbxgcToDVMkw92Oj356
 features: []
-genres: []
+first_released_as_single: false
 key: ti-amo-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/tiamo.html
 name: Ti Amo
@@ -55,8 +58,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 254333
 ---
-
 Ti amo
 God how I love you so
 My heart just won't let go
@@ -139,6 +143,3 @@ God, how I love you so
 My heart just won't let go
 Day after day I'm still holdin' on
 Even though you're gone
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Around the World
 artists:
 - The Village Stompers
+external_ids:
+  spotify: spotify:track:0rc3MPei2pJXS6oUI23NgS
 features: []
-genres: []
+first_released_as_single: false
 key: from-russia-with-love-the-village-stompers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Village-Stompers/From-Russia-With-Love
 name: From Russia With Love
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 181880
 ---
 From Russia with love, I fly to you
 Much wiser since my goodbye to you

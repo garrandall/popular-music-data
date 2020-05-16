@@ -1,9 +1,12 @@
 ---
+album: Here With Me
 artists:
 - Marshmello
+external_ids:
+  spotify: spotify:track:5icOoE6VgqFKohjWWNp0Ac
 features:
 - CHVRCHES
-genres: []
+first_released_as_single: true
 key: here-with-me-marshmello-chvrches
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/herewithme.html
 name: Here With Me
@@ -72,8 +75,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2019
+runtime: 156346
 ---
-
 Can I tell you something just between you and me?
 When I hear your voice I know I'm finally free
 Every single word is perfect as it can be
@@ -117,6 +121,3 @@ Can I tell you something just between you and me?
 When I hear your voice I know I'm finally free
 Every single word is perfect as it can be
 'Cause I need you here with me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: One Of The Boys
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:5gD1OfCiygqxjjOxiaEKUe
 features: []
-genres: []
+first_released_as_single: true
 key: i-kissed-a-girl-katy-perry
 lyrics_url: https://genius.com/Katy-perry-i-kissed-a-girl-lyrics
 name: I Kissed A Girl
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 180946
 ---
 This was never the way I planned
 Not my intention

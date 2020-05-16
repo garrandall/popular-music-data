@@ -1,8 +1,11 @@
 ---
+album: Take No Prisoners
 artists:
 - Peabo Bryson
+external_ids:
+  spotify: spotify:track:6SpqIgl1I2dLVEBZ9VFehw
 features: []
-genres: []
+first_released_as_single: false
 key: take-no-prisoners--in-the-game-of-love--peabo-bryson
 lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/takenoprisonersinthegameoflove.html
 name: Take No Prisoners (In The Game Of Love)
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1985
+runtime: 256026
 ---
-
 There's an all out war tonight
 Here's the chance to win the fight
 Or lose your life
@@ -88,6 +92,3 @@ Oh-oh, I take no prisoners in the game of love
 Take no prisoners in the game of love
 All or nothing, in the game of love
 In the game of love...
-
-
-

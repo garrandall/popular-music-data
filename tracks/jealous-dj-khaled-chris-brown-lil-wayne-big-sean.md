@@ -1,11 +1,14 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:7rGCOjoIzoJz59puQO10Mf
 features:
 - Chris Brown
 - Lil Wayne
 - Big Sean
-genres: []
+first_released_as_single: true
 key: jealous-dj-khaled-chris-brown-lil-wayne-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/jealous.html
 name: Jealous
@@ -14,8 +17,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 255101
 ---
-
 Jealous, jealous (We The Best Music)
 Oh, don't want us together-gether (Another one)
 You need somebody babe, you need somebody babe (DJ Khaled)
@@ -121,6 +125,3 @@ They don't want us together
 They played themselves
 Baby, I got an idea
 Let's be together forever (Forever)
-
-
-

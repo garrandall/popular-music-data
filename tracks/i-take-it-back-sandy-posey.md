@@ -1,8 +1,11 @@
 ---
+album: Devoted to You
 artists:
 - Sandy Posey
+external_ids:
+  spotify: spotify:track:4Gfh3UErGeWmTpm1IS6iT4
 features: []
-genres: []
+first_released_as_single: false
 key: i-take-it-back-sandy-posey
 lyrics_url: https://genius.com/Sandy-posey-i-take-it-back-lyrics
 name: I Take It Back
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 154346
 ---
 Here he comes now
 I've got to tell him somehow

@@ -1,9 +1,12 @@
 ---
+album: Green Onions
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:2hiyBTmktBYzvLixq5V2v4
 features: []
-genres: []
+first_released_as_single: false
 key: mo-onions-booker-t--the-mg-s
 name: Mo-Onions
 rankings:
@@ -19,5 +22,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1962
+runtime: 177066
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Brunswick Essentials
 artists:
 - The Artistics
+external_ids:
+  spotify: spotify:track:0tp8VniEbk9uOzahkDaw8g
 features: []
-genres: []
+first_released_as_single: false
 key: girl-i-need-you-the-artistics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Artistics/Girl-I-Need-You
 name: Girl I Need You
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 147960
 ---
 You went away and
 Left me for another

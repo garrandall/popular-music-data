@@ -1,8 +1,11 @@
 ---
+album: Life As We Know It
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:5ZeKZBB57EnctaXih6hJvE
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-dreams-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/inmydreams.html
 name: In My Dreams
@@ -127,8 +130,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 270226
 ---
-
 There was a time some time ago
 When every sunrise meant a sunny day, oh a sunny day
 But now when the morning light shines in
@@ -158,6 +162,3 @@ She touches me and suddenly I'm alive
 
 
 Oho, in my dreams
-
-
-

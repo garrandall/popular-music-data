@@ -1,8 +1,11 @@
 ---
+album: The Singer & the Songs / Sings the Classics
 artists:
 - John Rowles
+external_ids:
+  spotify: spotify:track:74tfqFV9LekNbvFHmdyzdp
 features: []
-genres: []
+first_released_as_single: true
 key: cheryl-moana-marie-john-rowles
 lyrics_url: https://genius.com/John-rowles-cheryl-moana-marie-lyrics
 name: Cheryl Moana Marie
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1971
+runtime: 192933
 ---
 Cheryl Moana Marie
 Back home she's waiting for me

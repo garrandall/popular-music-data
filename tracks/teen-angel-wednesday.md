@@ -1,8 +1,11 @@
 ---
+album: Last Kiss
 artists:
 - Wednesday
+external_ids:
+  spotify: spotify:track:7xbHHxa4EXyqVi2kb975uL
 features: []
-genres: []
+first_released_as_single: false
 key: teen-angel-wednesday
 lyrics_url: https://www.musixmatch.com/lyrics/Wednesday/Teen-Angel
 name: Teen Angel
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 143226
 ---
 Teen angel, teen angel
 Teen angel, oh, oh

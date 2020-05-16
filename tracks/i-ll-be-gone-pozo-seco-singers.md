@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:6cGWnETSKdUw8JU8MxKv5W
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-gone-pozo-seco-singers
 lyrics_url: https://www.musixmatch.com/lyrics/Pozo-Seco-Singers/I-ll-Be-Gone
 name: I'll Be Gone
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1965
+runtime: 147066
 ---
 When the quiet evening comes
 And the village softly lies

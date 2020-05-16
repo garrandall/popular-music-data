@@ -1,8 +1,11 @@
 ---
+album: '16 Most Requested Songs: Encore!'
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:3NNM8rlskOvhul2y9PDl8u
 features: []
-genres: []
+first_released_as_single: false
 key: love-theme-from--the-godfather---speak-softly-love--andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/speaksoftlylovelovethemefromthegodfather.html
 name: Love Theme From "The Godfather" (Speak Softly Love)
@@ -51,8 +54,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1972
+runtime: 182840
 ---
-
 Speak softly, love 
 And hold me warm against your heart
 I feel your words 
@@ -78,6 +82,3 @@ So no one hears us but the sky
 The vows of love we make will live until we die
 My life is yours and all because
 You came into my world with love so softly love
-
-
-

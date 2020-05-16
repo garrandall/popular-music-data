@@ -1,9 +1,12 @@
 ---
+album: Anytime
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:7HP2lzaK7F55mj7J79bjf4
 features:
 - Mase
-genres: []
+first_released_as_single: false
 key: you-should-be-mine--don-t-waste-your-time--brian-mcknight-mase
 lyrics_url: https://genius.com/Brian-mcknight-f-mase-you-should-be-mine-lyrics
 name: You Should Be Mine (Don't Waste Your Time)
@@ -88,6 +91,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1998-01-17'
+release_year: 1997
+runtime: 287440
 ---
 Brian McKnight F/ Mase
 Miscellaneous

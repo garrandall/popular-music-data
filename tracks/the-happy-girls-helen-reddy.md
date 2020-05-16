@@ -1,8 +1,11 @@
 ---
+album: Ear Candy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:6tisLEithEQkvDCf2reWvW
 features: []
-genres: []
+first_released_as_single: false
 key: the-happy-girls-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/thehappygirls.html
 name: The Happy Girls
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 302946
 ---
-
 Sally met him in the war back in 1944
 He took her home to the states
 His buddies thought that she was great
@@ -80,6 +84,3 @@ Happy girls
 Happy girls
 Happy girls
 Happy, happy, happy
-
-
-

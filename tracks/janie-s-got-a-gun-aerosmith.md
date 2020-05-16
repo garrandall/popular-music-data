@@ -1,8 +1,11 @@
 ---
+album: Pump
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:5XPDEg7yZT893Ocru6IEph
 features: []
-genres: []
+first_released_as_single: false
 key: janie-s-got-a-gun-aerosmith
 lyrics_url: https://genius.com/Aerosmith-janies-got-a-gun-lyrics
 name: Janie's Got A Gun
@@ -79,6 +82,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1989
+runtime: 338840
 ---
 Dum, dum, dum, honey, what have you done?
 Dum, dum, dum, it's the sound of my gun

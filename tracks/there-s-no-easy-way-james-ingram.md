@@ -1,8 +1,11 @@
 ---
+album: It's Your Night
 artists:
 - James Ingram
+external_ids:
+  spotify: spotify:track:7ePEIbrsRXk9En7noiLAo7
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-no-easy-way-james-ingram
 lyrics_url: https://www.azlyrics.com/lyrics/jamesingram/theresnoeasyway.html
 name: There's No Easy Way
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1983
+runtime: 227293
 ---
-
 I held her close to me
 'Cause I know she breaks so easily
 And then I told her
@@ -97,6 +101,3 @@ There's just no easy way
 
 There's just no easy way
 There's just no easy way to break somebody's heart.
-
-
-

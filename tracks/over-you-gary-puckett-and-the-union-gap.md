@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gary Puckett And The Union Gap
+external_ids:
+  spotify: spotify:track:4XYHEuDwsKuxSpiIylcMnB
 features: []
-genres: []
+first_released_as_single: false
 key: over-you-gary-puckett-and-the-union-gap
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-over-you-lyrics
 name: Over You
@@ -51,6 +54,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 144293
 ---
 Why am I losing sleep over you?
 Reliving precious moments we knew

@@ -1,8 +1,11 @@
 ---
+album: 'Bootleg Vol. II: From Memphis To Hollywood'
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:2xTqXfLuhLx6tpRgEYrtuU
 features: []
-genres: []
+first_released_as_single: false
 key: all-over-again-johnny-cash
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Cash/All-Over-Again
 name: All Over Again
@@ -51,6 +54,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1955
+runtime: 127026
 ---
 Every time I look at you I fall in love, all over again
 Every time I think of you it all begins, all over again

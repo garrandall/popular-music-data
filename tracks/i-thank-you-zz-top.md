@@ -1,8 +1,11 @@
 ---
+album: Live In Germany - Rockpalast 1980
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:2ESstGJCCne4W4370YsZwr
 features: []
-genres: []
+first_released_as_single: false
 key: i-thank-you-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/ithankyou.html
 name: I Thank You
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1980
+runtime: 190613
 ---
-
 You didn't have to love me like you did
 But you did, but you did.
 And I thank you.
@@ -91,6 +95,3 @@ I want to thank you
 I want to thank you
 I want to thank you
 Yes, I want to thank you
-
-
-

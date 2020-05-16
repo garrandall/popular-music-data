@@ -1,9 +1,12 @@
 ---
+album: Doctor's Advocate
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:5hg3xm9mxcz9Xb6r59y9Ow
 features:
 - Junior Reid
-genres: []
+first_released_as_single: false
 key: it-s-okay--one-blood--the-game-junior-reid
 lyrics_url: https://www.musixmatch.com/lyrics/The-Game-featuring-Junior-Reid-Junior-Reid/It-s-Okay-One-Blood
 name: It's Okay (One Blood)
@@ -68,6 +71,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
+release_year: 2006
+runtime: 257600
 ---
 Dre, I see dead people
 

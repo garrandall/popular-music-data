@@ -1,8 +1,11 @@
 ---
+album: Sweet Soul From Memphis
 artists:
 - The Newcomers
+external_ids:
+  spotify: spotify:track:4a7VTOY4F3GBkQMD11PTus
 features: []
-genres: []
+first_released_as_single: false
 key: pin-the-tail-on-the-donkey-the-newcomers
 lyrics_url: https://genius.com/The-newcomers-pin-the-tail-on-the-donkey-lyrics
 name: Pin The Tail On The Donkey
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 177320
 ---
 Whoo-oh-oh!
 Come on now!

@@ -1,8 +1,11 @@
 ---
+album: Robyn Is Here
 artists:
 - Robyn
+external_ids:
+  spotify: spotify:track:0idCpkJ2pspfAILbanmERu
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-know--what-it-takes--robyn
 lyrics_url: https://www.azlyrics.com/lyrics/robyn/doyouknowwhatittakes.html
 name: Do You Know (What It Takes)
@@ -119,8 +122,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1995
+runtime: 221293
 ---
-
 Don't you know I can see what you're doing
 Runnin' around with your cheap talk, cheap talk
 What I need is a man who can do me right
@@ -151,6 +155,3 @@ I'll give you everything
 Boy will you do the same for me?
 Will you do anything?
 I gotta know what will it be
-
-
-

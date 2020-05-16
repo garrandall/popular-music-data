@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0nox76VxGYPIIIP7yr5I6o
 features: []
-genres: []
+first_released_as_single: false
 key: 7-rings-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/7rings.html
 name: 7 Rings
@@ -139,8 +142,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2018
+runtime: 178626
 ---
-
 Yeah
 Breakfast at Tiffany's and bottles of bubbles
 Girls with tattoos who like getting in trouble
@@ -248,6 +252,3 @@ Gee, thanks! Just bought it
 I see it, I like it
 I want it, I got it
 Yeah
-
-
-

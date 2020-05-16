@@ -1,8 +1,11 @@
 ---
+album: Natalie
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:7fxJEuAYmvu4W1RYKIL1Vn
 features: []
-genres: []
+first_released_as_single: false
 key: sophisticated-lady--she-s-a-different-lady--natalie-cole
 lyrics_url: https://genius.com/Natalie-cole-sophisticated-lady-lyrics
 name: Sophisticated Lady (She's A Different Lady)
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 207866
 ---
 Sophisticated lady
 Sophisticated lady

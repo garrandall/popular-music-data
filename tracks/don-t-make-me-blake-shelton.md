@@ -1,8 +1,11 @@
 ---
+album: Pure BS
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:00rrluZUPNbfTSWvodUZbV
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-dont-make-me-lyrics
 name: Don't Make Me
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
+release_year: 2007
+runtime: 246560
 ---
 Girl when I look at you, you look through me
 Like I'm not even there

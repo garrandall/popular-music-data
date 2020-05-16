@@ -1,8 +1,11 @@
 ---
+album: Fandango
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:1Tf0xSQyh7O1bsgwjNRkCl
 features: []
-genres: []
+first_released_as_single: false
 key: route-101-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-route-101-lyrics
 name: Route 101
@@ -47,5 +50,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1982
+runtime: 202367
 ---
 INSTRUMENTAL

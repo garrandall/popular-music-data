@@ -1,9 +1,12 @@
 ---
+album: Cry Baby
 artists:
 - Garnet Mimms
 - The Enchanters
+external_ids:
+  spotify: spotify:track:0F4y2dXS9MxisNOO8DksUt
 features: []
-genres: []
+first_released_as_single: false
 key: a-quiet-place-garnet-mimms-the-enchanters
 lyrics_url: https://www.musixmatch.com/lyrics/Garnet-Mimms-feat-The-Enchanters/A-Quiet-Place
 name: A Quiet Place
@@ -36,6 +39,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1963
+runtime: 144306
 ---
 Johnny, Johnny Dollar
 

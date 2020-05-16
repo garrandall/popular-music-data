@@ -1,9 +1,12 @@
 ---
+album: Fishscale
 artists:
 - Ghostface Killah
+external_ids:
+  spotify: spotify:track:5BpSkQX8evaOZATpl9bFoe
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: back-like-that-ghostface-killah-ne-yo
 lyrics_url: https://genius.com/Ghostface-killah-back-like-that-lyrics
 name: Back Like That
@@ -48,6 +51,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2006
+runtime: 242000
 ---
 Damn, damn, ma, we ain't even have to go through it like that
 It wasn't even, even that big, man

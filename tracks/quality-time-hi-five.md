@@ -1,8 +1,11 @@
 ---
+album: Keep It Goin' On
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:5O2eGBugaBlEDpWP5tPs2L
 features: []
-genres: []
+first_released_as_single: false
 key: quality-time-hi-five
 lyrics_url: https://genius.com/Hi-five-quality-time-lyrics
 name: Quality Time
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1990
+runtime: 283066
 ---
 Oh...
 Quality time

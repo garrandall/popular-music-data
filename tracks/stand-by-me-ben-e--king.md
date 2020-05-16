@@ -1,8 +1,11 @@
 ---
+album: Don't Play That Song
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:7jmHyHMEqm9MJWiMAneF05
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-stand-by-me-lyrics
 name: Stand By Me
@@ -147,6 +150,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1961
+runtime: 175493
 ---
 When the night has come
 And the land is dark

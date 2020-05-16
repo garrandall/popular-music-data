@@ -1,8 +1,11 @@
 ---
+album: Startin' Fires
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:4UIOPiM5kNcJFUoRtdDRZa
 features: []
-genres: []
+first_released_as_single: false
 key: she-wouldn-t-be-gone-blake-shelton
 lyrics_url: https://www.musixmatch.com/lyrics/Blake-Shelton/She-Wouldn-t-Be-Gone
 name: She Wouldn't Be Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2008
+runtime: 215613
 ---
 Red roadside wildflower, if I had only picked you
 Took you home set you on the counter

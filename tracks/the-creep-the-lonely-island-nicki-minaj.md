@@ -1,9 +1,12 @@
 ---
+album: Turtleneck & Chain (Explicit Version)
 artists:
 - The Lonely Island
+external_ids:
+  spotify: spotify:track:0MDNAlh3uu0FidvvpvX0mc
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: the-creep-the-lonely-island-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/lonelyisland/thecreep.html
 name: The Creep
@@ -12,9 +15,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2011
+runtime: 159000
 ---
-
-
 Hi, I'm John Waters, and this is...
 The Creep.
 
@@ -99,6 +102,3 @@ Do the Creep! (hah)
 
 
 And don't forget to smile!
-
-
-

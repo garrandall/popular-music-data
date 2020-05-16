@@ -1,8 +1,11 @@
 ---
+album: Damn Yankees
 artists:
 - Damn Yankees
+external_ids:
+  spotify: spotify:track:6Hfvn9qguufsmHp0uk3y3r
 features: []
-genres: []
+first_released_as_single: false
 key: come-again-damn-yankees
 lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/comeagain.html
 name: Come Again
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
+release_year: 1990
+runtime: 339560
 ---
-
 I was a loner crusin' with the wind
 I wasn't lookin' when you pulled me in
 I had to leave you like I always did
@@ -103,6 +107,3 @@ I wasn't lookin' when you pulled me in
 Whoa oh oh oh
 Yeah--
 Lord, here I come again
-
-
-

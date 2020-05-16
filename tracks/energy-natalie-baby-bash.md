@@ -1,9 +1,12 @@
 ---
+album: Natalie
 artists:
 - Natalie
+external_ids:
+  spotify: spotify:track:7B42GdidcsaQdJCBiPtzSW
 features:
 - Baby Bash
-genres: []
+first_released_as_single: false
 key: energy-natalie-baby-bash
 lyrics_url: https://www.azlyrics.com/lyrics/natalie/energy.html
 name: Energy
@@ -40,9 +43,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
+release_year: 2005
+runtime: 208773
 ---
-
-
 Energy, digging on your energy 
 Energy, digging on your energy 
 Energy, digging on your energy. energy 
@@ -112,6 +115,3 @@ And dedicate it to my favorite lover
 Energy, digging on your energy 
 Energy, digging on your energy 
 Energy, digging on your energy. energy
-
-
-

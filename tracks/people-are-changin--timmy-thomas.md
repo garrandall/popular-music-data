@@ -1,8 +1,11 @@
 ---
+album: Timmy Thomas - R&B Hits & More
 artists:
 - Timmy Thomas
+external_ids:
+  spotify: spotify:track:0TFrVhKOpOlQDs8paaoGny
 features: []
-genres: []
+first_released_as_single: false
 key: people-are-changin--timmy-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/timmythomas/peoplearechangin.html
 name: People Are Changin'
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 227266
 ---
-
 People are changing
 I said people people are changing
 This whole world this whole world is changing
@@ -65,6 +69,3 @@ Thousands of people all of us joining hands
 Everybody's changing people
 Do it with me
 People are changing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Night To Remember
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:7r45fN7xpmDIOxKIyPb6qb
 features: []
-genres: []
+first_released_as_single: false
 key: a-night-to-remember-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/anighttoremember.html
 name: A Night To Remember
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-09-25'
+release_year: 1999
+runtime: 210693
 ---
-
 Been one tough week, dead on my feet
 But, I've made plans for tonight
 When I'm feeling blue, know just what to do
@@ -118,6 +122,3 @@ Surrender, and have myself a night to remember.
 Oh it ain't easy being strong and when I can't 
 Forget your gone I'll just surrender and have
 Myself a night to remember
-
-
-

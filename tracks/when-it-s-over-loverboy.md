@@ -1,8 +1,11 @@
 ---
+album: Get Lucky
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:1JItfW2uTpc9qecwEuiOoU
 features: []
-genres: []
+first_released_as_single: false
 key: when-it-s-over-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/whenitsover.html
 name: When It's Over
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1981
+runtime: 307626
 ---
-
 When you look into his eyes
 It comes to you as no surprise
 It's always the same
@@ -138,6 +142,3 @@ You won't be lonely when it's over
 
 It's over, it's over, it's over
 It's over, it's over, it's over
-
-
-

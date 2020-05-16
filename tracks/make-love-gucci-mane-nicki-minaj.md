@@ -1,9 +1,12 @@
 ---
+album: Mr. Davis
 artists:
 - Gucci Mane
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:2KlDzyTJVmOlH1sVTuPcSF
 features: []
-genres: []
+first_released_as_single: true
 key: make-love-gucci-mane-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/makelove.html
 name: Make Love
@@ -12,9 +15,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2017
+runtime: 302057
 ---
-
-
 Uh, Gucci
 Wanna make love, love, love
 
@@ -33,7 +36,7 @@ Damn, who colder than me?
 You think he colder than me?
 You more bipolar than me
 You talkin' crazy
-I'm tryna book BeyoncÃ© for my wedding day
+I'm tryna book Beyoncé for my wedding day
 I'm the type of nigga, spend a million on a wedding cake
 Niggas hate, but hesitate
 They hate to see ya elevate
@@ -95,6 +98,3 @@ Wanna make love, love, love, huh
 I love to see the money stack up
 Hope that we don't ever, ever break up (up)
 Wanna make love, love, love
-
-
-

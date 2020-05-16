@@ -1,8 +1,11 @@
 ---
+album: Comin' On Strong
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:6yXbhtXMMujv7ZcV1UxCuD
 features: []
-genres: []
+first_released_as_single: false
 key: hot-mama-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/hotmama.html
 name: Hot Mama
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2003
+runtime: 200600
 ---
-
 You're doin' all you can to get in them old jeans.
 You want that body back, you had at seventeen.
 Baby, don't get down; don't worry 'bout a thing.
@@ -109,6 +113,3 @@ You're one hot mama,
 Let's turn this room into a sauna, yeah.
 Whaddya say, babe?
 Whaddya say, babe?
-
-
-

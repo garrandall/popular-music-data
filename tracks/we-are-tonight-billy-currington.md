@@ -1,8 +1,11 @@
 ---
+album: We Are Tonight
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:2EvddT8rcO99bKH0rDHAYG
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-tonight-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/wearetonight.html
 name: We Are Tonight
@@ -83,8 +86,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2013
+runtime: 232106
 ---
-
 Summer comin' through a rolled down window
 Tearin' down an almost two lane back road
 Freedom and fireflies in the air
@@ -134,6 +138,3 @@ We are, we are, we are tonight
 Yeah
 We are tonight
 Whoa, oh, oh, oh, oh
-
-
-

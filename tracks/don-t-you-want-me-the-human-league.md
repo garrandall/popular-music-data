@@ -1,8 +1,11 @@
 ---
+album: Dare!
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:3L7RtEcu1Hw3OXrpnthngx
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-want-me-the-human-league
 lyrics_url: https://genius.com/The-human-league-dont-you-want-me-lyrics
 name: Don't You Want Me
@@ -119,6 +122,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1981
+runtime: 236920
 ---
 You were workin' as a waitress in a cocktail bar
 When I met you

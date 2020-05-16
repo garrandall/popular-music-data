@@ -1,9 +1,12 @@
 ---
+album: Battle Of The Sexes
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:3bMNprrp2JDKZsGbiXpsJl
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: my-chick-bad-ludacris-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/mychickbad.html
 name: My Chick Bad
@@ -88,8 +91,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2010
+runtime: 216933
 ---
-
 My chick bad
 My chick hood
 My chick do stuff that ya chick wish she could
@@ -211,6 +215,3 @@ And when we all alone
 I might just tip her
 She slides down the pole
 Like a certified stripper
-
-
-

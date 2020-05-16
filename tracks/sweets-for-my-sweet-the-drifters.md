@@ -1,8 +1,11 @@
 ---
+album: The Best of the Drifters - 23 Super Hits
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:4FTAS12xEcgFXRtHMwuGjp
 features: []
-genres: []
+first_released_as_single: false
 key: sweets-for-my-sweet-the-drifters
 lyrics_url: https://genius.com/The-drifters-sweets-for-my-sweet-lyrics
 name: Sweets For My Sweet
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 147146
 ---
 If you wanted that star that shines so brightly
 To match the star dust in your eyes

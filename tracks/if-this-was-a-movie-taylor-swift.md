@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0vvt4IZOMkRug195S4MUq0
 features: []
-genres: []
+first_released_as_single: false
 key: if-this-was-a-movie-taylor-swift
 lyrics_url: https://www.musixmatch.com/lyrics/Taylor-Swift/If-This-Was-a-Movie
 name: If This Was A Movie
@@ -15,6 +18,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2010
+runtime: 234546
 ---
 Last night I heard my own heart beating
 Sounded like footsteps on my stairs

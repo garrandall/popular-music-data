@@ -1,8 +1,11 @@
 ---
+album: Ultimate Jimmy Smith
 artists:
 - Jimmy Smith
+external_ids:
+  spotify: spotify:track:4w826pcf7KWsHVpXKyzxIf
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-afraid-of-virginia-woolf---part-i--jimmy-smith
 name: Who's Afraid Of Virginia Woolf? (Part I)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 569333
 ---
 

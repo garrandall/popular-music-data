@@ -1,8 +1,11 @@
 ---
+album: Love It To Death
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:3YU9X8ryOR20beT7wOlDIJ
 features: []
-genres: []
+first_released_as_single: false
 key: eighteen-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/imeighteen.html
 name: Eighteen
@@ -59,8 +62,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1971
+runtime: 180760
 ---
-
 Lines form on my face and hands
 Lines form from the ups and downs
 I'm in the middle without any plans
@@ -87,6 +91,3 @@ I'm eighteen and I like it
 Yes I like it
 Oh I like it love it like it love it
 Eighteen eighteen eighteen eighteen and I like it
-
-
-

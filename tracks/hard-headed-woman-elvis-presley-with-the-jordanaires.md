@@ -1,9 +1,12 @@
 ---
+album: Elvis At The Movies
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:7rPfGnzmY6uUcwnMui7jp2
 features: []
-genres: []
+first_released_as_single: false
 key: hard-headed-woman-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Jordanaires/Hard-Headed-Woman
 name: Hard Headed Woman
@@ -40,6 +43,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 112880
 ---
 Well a hard headed woman
 A soft hearted man

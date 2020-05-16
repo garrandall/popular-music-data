@@ -1,8 +1,11 @@
 ---
+album: Everywhere We Go
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2lZIoNIBD533IVeiYtFpjV
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-need-to-do-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/whatineedtodo.html
 name: What I Need To Do
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-07-22'
+release_year: 1999
+runtime: 244466
 ---
-
 I keep tellin' myself this is the right thing to do
 I was wastin' her time, waitin' on dreams that just weren't comin' true
 And this old highway seems to understand
@@ -111,6 +115,3 @@ Knowin' what I need to do
 Girl I'm comin' home to you
 I'm comin' home to you
 Knowin' what I need to do
-
-
-

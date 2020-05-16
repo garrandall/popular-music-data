@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:0DmsCdHUEqiLhl9oSopVRP
 features: []
-genres: []
+first_released_as_single: false
 key: show-business-lou-rawls
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/Show-Business
 name: Show Business
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 155466
 ---
 The world of bright lights,
 Of fortune and fame,

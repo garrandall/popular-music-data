@@ -1,8 +1,11 @@
 ---
+album: Ready An' Willing
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:5qZnB1misAxvptTqwpB4cd
 features: []
-genres: []
+first_released_as_single: false
 key: fool-for-your-loving-whitesnake
 lyrics_url: https://genius.com/Whitesnake-fool-for-your-loving-lyrics
 name: Fool For Your Loving
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1980
+runtime: 255506
 ---
 I was born under a bad sign
 Left out in the cold

@@ -1,8 +1,11 @@
 ---
+album: Metallica
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:5BIMPccDwShpXq784RJlJp
 features: []
-genres: []
+first_released_as_single: false
 key: enter-sandman-metallica
 lyrics_url: https://genius.com/Metallica-enter-sandman-lyrics
 name: Enter Sandman
@@ -87,6 +90,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1992-01-04'
+release_year: 1991
+runtime: 331573
 ---
 Say your prayers, little one, don't forget, my son
 To include everyone

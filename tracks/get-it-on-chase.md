@@ -1,8 +1,11 @@
 ---
+album: Chase
 artists:
 - Chase
+external_ids:
+  spotify: spotify:track:006yvCdaWUS79qp2Ip3Hdl
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-on-chase
 lyrics_url: https://genius.com/Chase-get-it-on-lyrics
 name: Get It On
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 179146
 ---
 I need your lovin'
 I said I want your lovin'

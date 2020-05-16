@@ -1,8 +1,11 @@
 ---
+album: Synchronicity (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:400ZJAUFuEuIGXhr7ie4xf
 features: []
-genres: []
+first_released_as_single: false
 key: wrapped-around-your-finger-the-police
 lyrics_url: https://www.azlyrics.com/lyrics/police/wrappedaroundyourfinger.html
 name: Wrapped Around Your Finger
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1983
+runtime: 313706
 ---
-
 You consider me the young apprentice
 Caught between the Scylla and Charybdis
 Hypnotized by you if I should linger
@@ -103,6 +107,3 @@ You'll be wrapped around my finger
 You'll be wrapped around my finger
 You'll be wrapped around my finger
 Yo Ohhh...
-
-
-

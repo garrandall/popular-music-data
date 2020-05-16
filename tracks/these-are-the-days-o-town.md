@@ -1,8 +1,11 @@
 ---
+album: '02'
 artists:
 - O-Town
+external_ids:
+  spotify: spotify:track:4Mem5PZWPaqQ7X1bGysNxl
 features: []
-genres: []
+first_released_as_single: false
 key: these-are-the-days-o-town
 lyrics_url: https://genius.com/O-town-these-are-the-days-lyrics
 name: These Are The Days
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-01-04'
+release_year: 2001
+runtime: 263933
 ---
 Motel, sitting in the dark
 Empty room like an empty heart

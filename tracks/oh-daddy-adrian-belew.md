@@ -1,8 +1,11 @@
 ---
+album: Mr. Music Head
 artists:
 - Adrian Belew
+external_ids:
+  spotify: spotify:track:6XEewx0jsAB3lM15M6bq8G
 features: []
-genres: []
+first_released_as_single: false
 key: oh-daddy-adrian-belew
 lyrics_url: https://genius.com/Adrian-belew-oh-daddy-lyrics
 name: Oh Daddy
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1989
+runtime: 186733
 ---
 Oh daddy, when you gonna write that big hit?
 Oh daddy, when you gonna hit it real big, real big?

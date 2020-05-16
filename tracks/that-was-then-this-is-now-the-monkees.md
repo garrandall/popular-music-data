@@ -1,8 +1,11 @@
 ---
+album: Then & Now ... The Best Of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:6fnpXCoMEMRIOB6fKuyuI7
 features: []
-genres: []
+first_released_as_single: false
 key: that-was-then-this-is-now-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/thatwasthenthisisnow.html
 name: That Was Then This Is Now
@@ -63,8 +66,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-10-04'
+release_year: 1986
+runtime: 242093
 ---
-
 You always say you like my style.
 You say I'm tough and kind of wild.
 Am I too much for you to tame?
@@ -107,6 +111,3 @@ That was then, this is now.
 
 That was then, this is now.
 That was then, this is now.
-
-
-

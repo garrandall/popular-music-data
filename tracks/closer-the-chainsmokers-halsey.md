@@ -1,9 +1,12 @@
 ---
+album: BestWORK
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:7BKLCZ1jbUBVqRi2FVlTVw
 features:
 - Halsey
-genres: []
+first_released_as_single: true
 key: closer-the-chainsmokers-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/closer.html
 name: Closer
@@ -216,8 +219,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2016
+runtime: 244960
 ---
-
 Hey, I was doing just fine before I met you
 I drink too much and that's an issue
 But I'm OK
@@ -290,6 +294,3 @@ No, we ain't ever getting older
 
 We ain't ever getting older
 No, we ain't ever getting older
-
-
-

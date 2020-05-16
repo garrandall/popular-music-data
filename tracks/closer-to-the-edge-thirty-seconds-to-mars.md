@@ -1,8 +1,11 @@
 ---
+album: This Is War
 artists:
 - Thirty Seconds To Mars
+external_ids:
+  spotify: spotify:track:0UZwcRQAk4QR09HtGRZhYC
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-the-edge-thirty-seconds-to-mars
 lyrics_url: https://genius.com/Thirty-seconds-to-mars-closer-to-the-edge-lyrics
 name: Closer To The Edge
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2009
+runtime: 273466
 ---
 I don't remember the moment I tried to forget
 I lost myself, is it better not said

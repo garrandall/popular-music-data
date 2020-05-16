@@ -1,8 +1,11 @@
 ---
+album: Back To The Hotel
 artists:
 - N2Deep
+external_ids:
+  spotify: spotify:track:2TVWQ8xDTLvjimMSqW3F96
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-the-hotel-n2deep
 lyrics_url: https://genius.com/N2deep-back-to-the-hotel-lyrics
 name: Back To The Hotel
@@ -127,6 +130,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
+release_year: 1990
+runtime: 304360
 ---
 V-Town, brother check it out, I'm bout to throw down
 Dank in hand, the shit that has you toe down

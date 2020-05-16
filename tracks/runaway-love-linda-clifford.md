@@ -1,8 +1,11 @@
 ---
+album: If My Friends Could See Me Now
 artists:
 - Linda Clifford
+external_ids:
+  spotify: spotify:track:2wSs3EGZsJ5XSTgNm3E4pK
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-love-linda-clifford
 lyrics_url: https://genius.com/Linda-clifford-runaway-love-lyrics
 name: Runaway Love
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 425640
 ---
 Hey, baby, where you going?
 Now wait a minute

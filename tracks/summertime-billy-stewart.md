@@ -1,8 +1,11 @@
 ---
+album: Unbelievable
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:6ysKfFyFkn93xSc1fN8yQx
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-summertime-lyrics
 name: Summertime
@@ -47,9 +50,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
+release_year: 1965
+runtime: 295493
 ---
-Intro:
-
 La-la-lie
 La-la, la-la-la-lie
 La-la-lie
@@ -63,12 +66,10 @@ La-la-lie
 
 La-la-lie
 
-B-rrrrrrrrrrrrrrrrrrrrrr
 Dut-chuk-chuk
 Chuka-chuka-chuk
 H'uh! Girl!
 
-(horns & instrumental begin)
 
 A-summertime
 An the livin' is easy
@@ -97,8 +98,6 @@ There's a-nothin' a-gon' harm you, girl
 With a 'dombie', an a-daddy standin' by
 
 Yeah, blues!
-
-(sax & instrumental)
 
 Come a little late
 Payin' up the dues
@@ -158,11 +157,9 @@ Good God-a-Mighty
 That's enough said, girl
 Baby, help you through, don't fall
 Now, settle back down
-Little girl, Giiiiiiiiiiiiiiirl
+Little girl, Girl
 
 Little darling do not let a little tear
-Fall-a from your eye-hi-hi-hi-eye
+Fall-a from your eye
 
 'Whoa!'
-
-~

@@ -1,8 +1,11 @@
 ---
+album: Firehouse
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:0oIbfeHdm2BmD1jWD29dQc
 features: []
-genres: []
+first_released_as_single: false
 key: all-she-wrote-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/allshewrote.html
 name: All She Wrote
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1990
+runtime: 267426
 ---
-
 Bye-bye baby bye-bye
 And that was all she wrote
 
@@ -101,6 +105,3 @@ Bye-bye baby, bye-bye she said in the letter
 And that was all she wrote
 Guess this is good-bye, guess this is forever
 And that was all she wrote
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music from the Motion Picture "Evita"
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:0XzS20zTg74EyoM1dDORlE
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-for-me-argentina-madonna
 lyrics_url: https://www.musixmatch.com/lyrics/Madonna/Don-t-Cry-for-Me-Argentina
 name: Don't Cry For Me Argentina
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1996
+runtime: 335733
 ---
 It won't be easy
 You think it's strange

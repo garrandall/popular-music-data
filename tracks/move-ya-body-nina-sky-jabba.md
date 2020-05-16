@@ -1,9 +1,12 @@
 ---
+album: Nina Sky
 artists:
 - Nina Sky
+external_ids:
+  spotify: spotify:track:2ndnVdR8si7CW9T8vJRHyW
 features:
 - Jabba
-genres: []
+first_released_as_single: false
 key: move-ya-body-nina-sky-jabba
 lyrics_url: https://genius.com/Nina-sky-move-ya-body-feat-jabba-lyrics
 name: Move Ya Body
@@ -112,6 +115,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2004-10-23'
+release_year: 2004
+runtime: 232000
 ---
 Oh, move your body girl
 Makes the fellas go

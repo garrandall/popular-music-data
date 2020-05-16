@@ -1,8 +1,11 @@
 ---
+album: Hold Me
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:2ZupVeLwN3sBNxxNcZUJgi
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-eddie-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/spanisheddie.html
 name: Spanish Eddie
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-10-05'
+release_year: 1985
+runtime: 247666
 ---
-
 There was heat in the air
 Cops everywhere you looked
 There wasn't a lot
@@ -131,6 +135,3 @@ The night Spanish Eddie
 Cashed it in
 They were playin' 
 "Desolation Row" on the radio
-
-
-

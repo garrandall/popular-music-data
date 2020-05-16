@@ -1,8 +1,11 @@
 ---
+album: More Hits By The Supremes
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:52FlwUMMDnTK8TGkCag9Jd
 features: []
-genres: []
+first_released_as_single: false
 key: stop--in-the-name-of-love-the-supremes
 lyrics_url: https://genius.com/The-supremes-stop-in-the-name-of-love-lyrics
 name: Stop! In The Name Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 172906
 ---
 Stop in the name of love
 Before you break my heart

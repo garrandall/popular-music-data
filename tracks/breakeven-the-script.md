@@ -1,8 +1,11 @@
 ---
+album: The Script
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:285hMzLhJwHVLe9QT9qilk
 features: []
-genres: []
+first_released_as_single: false
 key: breakeven-the-script
 lyrics_url: https://www.azlyrics.com/lyrics/script/breakeven.html
 name: Breakeven
@@ -179,8 +182,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2008
+runtime: 261426
 ---
-
 I'm still alive but I'm barely breathing
 Just praying to a god that I don't believe in
 'Cause I got time while she got freedom
@@ -244,6 +248,3 @@ I'm falling to pieces
 Oh, it don't break even, no
 Oh, it don't break even, no
 Oh, it don't break even, no
-
-
-

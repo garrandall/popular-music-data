@@ -1,8 +1,11 @@
 ---
+album: Dreamboat Annie
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:4sUlsy0tPv9n5nqrqeA0lE
 features: []
-genres: []
+first_released_as_single: false
 key: magic-man-heart
 lyrics_url: https://genius.com/Heart-magic-man-lyrics
 name: Magic Man
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1975
+runtime: 328360
 ---
 Cold late night, so long ago
 When I was not so strong, you know

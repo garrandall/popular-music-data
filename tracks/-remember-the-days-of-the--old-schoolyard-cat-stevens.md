@@ -1,8 +1,11 @@
 ---
+album: Izitso
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:2EMAivXu3DdUtYgWMTCR0e
 features: []
-genres: []
+first_released_as_single: false
 key: -remember-the-days-of-the--old-schoolyard-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/rememberthedaysoftheoldschoolyard.html
 name: (Remember The Days Of The) Old Schoolyard
@@ -47,8 +50,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 164826
 ---
-
 Remember the days of the old schoolyard
 We used to laugh a lot, oh don't you
 Remember the days of the old schoolyard
@@ -81,6 +85,3 @@ When we had imaginings and we had
 All kinds of things and we laughed
 And needed love... yes, I do
 Oh and I remember you
-
-
-

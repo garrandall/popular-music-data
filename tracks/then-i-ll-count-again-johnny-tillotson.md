@@ -1,8 +1,11 @@
 ---
+album: That's My Style
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:3YY9XB322S8n5CIobQsR6h
 features: []
-genres: []
+first_released_as_single: false
 key: then-i-ll-count-again-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-then-ill-count-again-lyrics
 name: Then I'll Count Again
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 120038
 ---
 I've always had the upper hand where our love was concerned
 But now you've upped and left me and I think it's time you learned

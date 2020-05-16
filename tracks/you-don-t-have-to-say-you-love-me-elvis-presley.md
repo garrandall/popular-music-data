@@ -1,8 +1,11 @@
 ---
+album: That's the Way It Is
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5eK22bi2XORGVMTHPWlSTZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-say-you-love-me-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-you-dont-have-to-say-you-love-me-lyrics
 name: You Don't Have To Say You Love Me
@@ -47,6 +50,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 150560
 ---
 When I said, I needed you
 You said you would always stay

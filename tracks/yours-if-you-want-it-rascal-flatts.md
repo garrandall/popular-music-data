@@ -1,8 +1,11 @@
 ---
+album: Back To Us
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:4D4xJ4LyDXBWIf9thFSMAJ
 features: []
-genres: []
+first_released_as_single: false
 key: yours-if-you-want-it-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/yoursifyouwantit.html
 name: Yours If You Want It
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 206826
 ---
-
 There's one more sip in this bottle of wine
 A lonely star hangin' in the sky with a wish left on it
 And it's yours if you want it
@@ -102,6 +106,3 @@ Every dollar, every dime, every drop of rain, every single thing
 That I could beg, steal, or borrow
 Baby your name is written on it
 Baby it's yours if you want it
-
-
-

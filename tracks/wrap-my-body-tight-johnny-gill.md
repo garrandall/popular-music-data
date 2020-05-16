@@ -1,8 +1,11 @@
 ---
+album: Johnny Gill
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:1D6rVLLj7gTls5L1TKVsFf
 features: []
-genres: []
+first_released_as_single: false
 key: wrap-my-body-tight-johnny-gill
 lyrics_url: https://genius.com/Johnny-gill-wrap-my-body-tight-lyrics
 name: Wrap My Body Tight
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
+release_year: 1990
+runtime: 280400
 ---
 I fell out of bed
 This morning

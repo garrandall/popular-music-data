@@ -1,10 +1,13 @@
 ---
+album: Finally Famous
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:5xpmdbQcfIOsE1hACcC3UK
 features:
 - Kanye West
 - Roscoe Dash
-genres: []
+first_released_as_single: false
 key: marvin---chardonnay-big-sean-kanye-west-roscoe-dash
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/marvinchardonnay.html
 name: Marvin & Chardonnay
@@ -89,9 +92,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 222866
 ---
-
-
 Yea
 You a nigga don't really wanna take his cool off, ugh
 (Big Sean) Boi, Do It
@@ -194,6 +197,3 @@ It's our way
 This was all inspired by a little Marvin Gaye and Chardonnay
 
 And this was all inspired by a little Marvin Gaye and Chardonnay.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sonic Temple
 artists:
 - The Cult
+external_ids:
+  spotify: spotify:track:3KTYf4XJ0Ghd8EiIhGM1Nb
 features: []
-genres: []
+first_released_as_single: false
 key: edie--ciao-baby--the-cult
 lyrics_url: https://www.azlyrics.com/lyrics/cult/edieciaobaby.html
 name: Edie (Ciao Baby)
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1989
+runtime: 286533
 ---
-
 Always said you were a Youthquaker, Edie
 A stormy little world shaker
 Warhol's darling queen, Edie
@@ -71,6 +75,3 @@ Ciao, Baby!
 Ciao, Baby!
 Ciao, Baby!
 Ciao, Baby!
-
-
-

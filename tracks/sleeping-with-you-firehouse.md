@@ -1,8 +1,11 @@
 ---
+album: Hold Your Fire
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:5M3ZwYKhBoAKgTqebp4BBi
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-with-you-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/sleepingwithyou.html
 name: Sleeping With You
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 230733
 ---
-
 I don't care what they say
 I know this is right
 Because I feel it deep in my heart
@@ -86,6 +90,3 @@ I'll be sleeping with you,
 Sleeping with you tonight
 Yeah sleeping with you
 Sleeping with you tonight
-
-
-

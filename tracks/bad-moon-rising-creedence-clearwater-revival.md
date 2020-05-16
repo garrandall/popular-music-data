@@ -1,8 +1,11 @@
 ---
+album: Green River
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:3CPdkxhsc6DpBAL8xUAATB
 features: []
-genres: []
+first_released_as_single: false
 key: bad-moon-rising-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/badmoonrising.html
 name: Bad Moon Rising
@@ -63,8 +66,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 139279
 ---
-
 I see the bad moon a-rising
 I see trouble on the way
 I see earthquakes and lightning
@@ -97,6 +101,3 @@ There's a bad moon on the rise
 Don't go around tonight
 Well, it's bound to take your life
 There's a bad moon on the rise
-
-
-

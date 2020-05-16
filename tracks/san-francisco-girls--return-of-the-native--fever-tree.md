@@ -1,8 +1,11 @@
 ---
+album: Fever Tree
 artists:
 - Fever Tree
+external_ids:
+  spotify: spotify:track:2Vio9orJlk0fFVeO0CgtA6
 features: []
-genres: []
+first_released_as_single: false
 key: san-francisco-girls--return-of-the-native--fever-tree
 lyrics_url: https://genius.com/Fever-tree-san-francisco-girls-lyrics
 name: San Francisco Girls (Return of the Native)
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 242906
 ---
 Out there it's summertime
 Milk and honey days

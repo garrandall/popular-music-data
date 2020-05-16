@@ -1,8 +1,11 @@
 ---
+album: Push the Feeling On (The Remixes)
 artists:
 - Nightcrawlers
+external_ids:
+  spotify: spotify:track:1EWsVHU4FNAdtN4R8FETag
 features: []
-genres: []
+first_released_as_single: true
 key: push-the-feeling-on-nightcrawlers
 lyrics_url: https://genius.com/Nightcrawlers-push-the-feeling-on-1992-lyrics
 name: Push The Feeling On
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-01-08'
+release_year: 1993
+runtime: 243160
 ---
 Push the feeling
 Push the feeling

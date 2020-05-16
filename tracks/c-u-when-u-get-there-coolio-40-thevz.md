@@ -1,9 +1,12 @@
 ---
+album: My Soul
 artists:
 - Coolio
+external_ids:
+  spotify: spotify:track:4gf05qWuOT4JmtVGBlIXRO
 features:
 - 40 Thevz
-genres: []
+first_released_as_single: false
 key: c-u-when-u-get-there-coolio-40-thevz
 lyrics_url: https://www.azlyrics.com/lyrics/coolio/cuwhenugetthere.html
 name: C U When U Get There
@@ -88,9 +91,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1997-11-15'
+release_year: 1997
+runtime: 311040
 ---
-
-
 Now I've seen places and faces
 and things you ain't never thought about thinkin'
 if you ain't peeped then you must be drinkin'
@@ -183,4 +186,3 @@ stand up for something or lie down in your game
 listen to the song that we sing
 it's up to you to make it be
 I guess I'll see you when you see me
-

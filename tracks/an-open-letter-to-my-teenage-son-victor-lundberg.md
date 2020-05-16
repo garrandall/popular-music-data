@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's
 artists:
 - Victor Lundberg
+external_ids:
+  spotify: spotify:track:0vi7ozUKrpaECgVAt2qOTC
 features: []
-genres: []
+first_released_as_single: false
 key: an-open-letter-to-my-teenage-son-victor-lundberg
 lyrics_url: https://www.musixmatch.com/lyrics/Victor-Lundberg/An-Open-Letter-to-My-Teenage-Son
 name: An Open Letter To My Teenage Son
@@ -31,6 +34,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 263893
 ---
 Dear son
 You ask my reaction to long hair or beards on young people

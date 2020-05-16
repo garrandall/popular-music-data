@@ -1,8 +1,11 @@
 ---
+album: digital druglord
 artists:
 - blackbear
+external_ids:
+  spotify: spotify:track:3Q3myFA7q4Op95DOpHplaY
 features: []
-genres: []
+first_released_as_single: false
 key: do-re-mi-blackbear
 lyrics_url: https://www.azlyrics.com/lyrics/blackbear/doremi.html
 name: Do Re Mi
@@ -107,8 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 212027
 ---
-
 Do, re, mi, fa, so
 Yeah, yeah
 Do, re, mi, fa, so
@@ -176,6 +180,3 @@ I'm ghost
 
 So send the X and Os on another note
 I'm ghost
-
-
-

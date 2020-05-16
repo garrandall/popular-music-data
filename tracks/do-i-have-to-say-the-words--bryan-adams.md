@@ -1,8 +1,11 @@
 ---
+album: Waking Up The Neighbours
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:2jstyP5wqWuPfH8GCRUrwr
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-have-to-say-the-words--bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/doihavetosaythewords.html
 name: Do I Have To Say The Words?
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1991
+runtime: 371173
 ---
-
 Rescue me from the mire
 Whisper words of desire
 Rescue me, darling, rescue me
@@ -145,6 +149,3 @@ Come to me, sweet, sweet darling.
 Rescue me.
 Set me free, set me free, yeah
 Whoa.
-
-
-

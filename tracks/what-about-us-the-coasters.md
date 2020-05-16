@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:7oLItNFdvAwu8wwMohOvZH
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-us-the-coasters
 lyrics_url: https://genius.com/The-coasters-what-about-us-lyrics
 name: What About Us
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 171533
 ---
 He's got a house made of glass
 Got his own swimming pool

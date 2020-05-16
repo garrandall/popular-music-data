@@ -1,8 +1,11 @@
 ---
+album: Death Magnetic
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:2gqzkEF88vMclfRZEIOnQO
 features: []
-genres: []
+first_released_as_single: false
 key: the-day-that-never-comes-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/thedaythatnevercomes.html
 name: The Day That Never Comes
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2008
+runtime: 476266
 ---
-
 Born to push you around
 Better just stay down
 You pull away
@@ -95,6 +99,3 @@ The sun will shine
 This, I swear
 This, I swear
 This, I swear!
-
-
-

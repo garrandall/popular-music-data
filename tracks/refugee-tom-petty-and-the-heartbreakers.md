@@ -1,8 +1,11 @@
 ---
+album: Damn The Torpedoes
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:1rdfbuPPhYy2xKWuNArueD
 features: []
-genres: []
+first_released_as_single: false
 key: refugee-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/refugee.html
 name: Refugee
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1975
+runtime: 12585
 ---
-
 We got somethin', we both know it, we don't talk too much about it
 Ain't no real big secret, all the same, somehow we get around it
 Listen, it don't really matter to me baby
@@ -100,6 +104,3 @@ No you don't have to live like a refugee
 (Don't have to live like a refugee)
 You don't have to live like a refugee
 (Don't have to live like a refugee)
-
-
-

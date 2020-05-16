@@ -1,9 +1,12 @@
 ---
+album: Peaceful Journey
 artists:
 - Heavy D
 - The Boyz
+external_ids:
+  spotify: spotify:track:1KONmY3enP3r3nIPQidWAy
 features: []
-genres: []
+first_released_as_single: false
 key: now-that-we-found-love-heavy-d-the-boyz
 lyrics_url: https://genius.com/Heavy-d-and-the-boyz-now-that-we-found-love-lyrics
 name: Now That We Found Love
@@ -96,6 +99,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1991
+runtime: 258200
 ---
 Now that we found love
 What are we gonna do with it

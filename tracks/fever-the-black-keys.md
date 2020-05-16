@@ -1,8 +1,11 @@
 ---
+album: Turn Blue
 artists:
 - The Black Keys
+external_ids:
+  spotify: spotify:track:3Hx7RXqCS7Kzjy2ot2q1Gk
 features: []
-genres: []
+first_released_as_single: false
 key: fever-the-black-keys
 lyrics_url: https://genius.com/The-black-keys-fever-lyrics
 name: Fever
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2014
+runtime: 246306
 ---
 Fever, where'd you run to?
 Fever, where'd you run to?

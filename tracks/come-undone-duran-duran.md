@@ -1,8 +1,11 @@
 ---
+album: Duran Duran
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:0yfNXxlyXdmP0ue1iJijx1
 features: []
-genres: []
+first_released_as_single: false
 key: come-undone-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/comeundone.html
 name: Come Undone
@@ -107,8 +110,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 256519
 ---
-
 Mine, immaculate dream made breath and skin
 I've been waiting for you.
 Signed with a home tattoo,
@@ -163,6 +167,3 @@ Who do you need, who do you love?
 Who do you love
 When you come undone?
 (Can't ever keep from falling apart)
-
-
-

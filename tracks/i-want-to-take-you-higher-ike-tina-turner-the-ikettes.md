@@ -1,10 +1,13 @@
 ---
+album: Come Together
 artists:
 - Ike
 - Tina Turner
 - The Ikettes
+external_ids:
+  spotify: spotify:track:2W93VKSfWw1evp7FSbHNd1
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-take-you-higher-ike-tina-turner-the-ikettes
 lyrics_url: https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/I-Want-to-Take-You-Higher
 name: I Want To Take You Higher
@@ -81,6 +84,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 175253
 ---
 Hey, hey, hey, hey
 

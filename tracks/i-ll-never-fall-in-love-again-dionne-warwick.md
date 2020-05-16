@@ -1,8 +1,11 @@
 ---
+album: I'll Never Fall In Love Again
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:1MHgV79MSYE6ymNlGa3bRY
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-fall-in-love-again-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-ill-never-fall-in-love-again-lyrics
 name: I'll Never Fall In Love Again
@@ -51,6 +54,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
+release_year: 1969
+runtime: 174840
 ---
 What do you get when you fall in love?
 A guy with a pin to burst your bubble

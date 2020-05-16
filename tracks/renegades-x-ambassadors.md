@@ -1,8 +1,11 @@
 ---
+album: VHS
 artists:
 - X Ambassadors
+external_ids:
+  spotify: spotify:track:0fYVliAYKHuPmECRs1pbRf
 features: []
-genres: []
+first_released_as_single: false
 key: renegades-x-ambassadors
 lyrics_url: https://www.azlyrics.com/lyrics/xambassadors/renegades.html
 name: Renegades
@@ -147,8 +150,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 195200
 ---
-
 Run away-ay with me
 Lost souls in revelry
 Running wild and running free
@@ -192,6 +196,3 @@ Hey, hey, hey
 Hey, hey, hey
 Living like we're renegades
 Renegades, renegades
-
-
-

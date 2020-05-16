@@ -1,8 +1,11 @@
 ---
+album: 'Hell Is What You Make It: Reloaded'
 artists:
 - Breathe Carolina
+external_ids:
+  spotify: spotify:track:0Xm1uwAeW0ujb1AWRgZOdT
 features: []
-genres: []
+first_released_as_single: false
 key: blackout-breathe-carolina
 lyrics_url: https://www.azlyrics.com/lyrics/breathecarolina/blackout.html
 name: Blackout
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
+release_year: 2011
+runtime: 210200
 ---
-
 Cut up and I can't feel my hands
 No need to chase
 Can you relate?
@@ -171,6 +175,3 @@ This won't stop till I say so
 This won't stop till I say so
 Going and going and going and going and go
 I'm only getting started
-
-
-

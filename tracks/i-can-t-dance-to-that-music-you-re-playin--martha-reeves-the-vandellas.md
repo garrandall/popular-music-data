@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Martha Reeves & The Vandellas'
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3re2GxjnWEhou2AMmbyL0n
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-dance-to-that-music-you-re-playin--martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-i-cant-dance-to-that-music-youre-playin-lyrics
 name: I Can't Dance To That Music You're Playin'
@@ -40,6 +43,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 157466
 ---
 To the babe, I wanna tell you what's exactly on my mind
 I won't stay at home another night while you're out makin' time

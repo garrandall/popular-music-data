@@ -1,8 +1,11 @@
 ---
+album: Mad Season
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:2f5N826udWfjT9iomeaBJt
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-gone-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-if-youre-gone-lyrics
 name: If You're Gone
@@ -175,6 +178,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-08-04'
+release_year: 2000
+runtime: 274933
 ---
 I think I've already lost you
 I think you're already gone

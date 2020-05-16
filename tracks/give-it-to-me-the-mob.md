@@ -1,8 +1,11 @@
 ---
+album: The Mob
 artists:
 - The Mob
+external_ids:
+  spotify: spotify:track:5XNEOlFGnYWzTjsOTdusgv
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-me-the-mob
 lyrics_url: https://genius.com/Mobb-deep-give-it-to-me-lyrics
 name: Give It To Me
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1971
+runtime: 184533
 ---
 Yeah..
 

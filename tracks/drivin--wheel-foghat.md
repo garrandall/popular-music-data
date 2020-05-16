@@ -1,8 +1,11 @@
 ---
+album: Night Shift
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:330EfGkhYhSake0MY2SOiA
 features: []
-genres: []
+first_released_as_single: false
 key: drivin--wheel-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/drivinwheel.html
 name: Drivin' Wheel
@@ -47,8 +50,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1976
+runtime: 313800
 ---
-
 Feelin' good, can't be real, must be dreamin' 'bout my drivin' wheel.
 Rollin' on, drivin' on, come to me and rock me all night long.
 We've got a roll goin', too good to stop.
@@ -92,6 +96,3 @@ Let me ride, let me slide, whoo!
 C'mon baby, give it to me baby.
 Yea we gotta ride, we gotta ride, we gotta ride, we gotta ride,
 We gotta ride, ride, ride, yeah.
-
-
-

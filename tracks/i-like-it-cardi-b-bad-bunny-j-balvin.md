@@ -1,10 +1,13 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
 - Bad Bunny
 - J Balvin
+external_ids:
+  spotify: spotify:track:3bsycjdQtbcJeR6822SBvd
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-cardi-b-bad-bunny-j-balvin
 lyrics_url: https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-lyrics
 name: I Like It
@@ -213,6 +216,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 253390
 ---
 Yeah, baby, I like it like that
 You gotta believe me when I tell you

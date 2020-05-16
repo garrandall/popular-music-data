@@ -1,8 +1,11 @@
 ---
+album: I Hear A Symphony
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:1kFCFfR5q4VO02KtYguXgh
 features: []
-genres: []
+first_released_as_single: false
 key: my-world-is-empty-without-you-the-supremes
 lyrics_url: https://genius.com/The-supremes-my-world-is-empty-without-you-lyrics
 name: My World Is Empty Without You
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 154426
 ---
 My world is empty without you, babe
 My world is empty without you, babe

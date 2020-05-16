@@ -1,8 +1,11 @@
 ---
+album: The Nightfly
 artists:
 - Donald Fagen
+external_ids:
+  spotify: spotify:track:2HyrLPJTZ4qDpWJ6qnu0Ke
 features: []
-genres: []
+first_released_as_single: false
 key: new-frontier-donald-fagen
 lyrics_url: https://www.azlyrics.com/lyrics/donaldfagen/newfrontier.html
 name: New Frontier
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 381106
 ---
-
 Yes, we're gonna have a wingding
 A summer smoker underground
 It's just a dugout that my dad built
@@ -69,6 +73,3 @@ We'll open up the doors and climb into the dawn
 
 Confess your passion, your secret fear
 Prepare to meet the challenge of the new frontier
-
-
-

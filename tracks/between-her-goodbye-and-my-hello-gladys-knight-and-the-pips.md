@@ -1,8 +1,11 @@
 ---
+album: 'Motown Legends: Neither One Of Us'
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:691ujzCuHzTrWjs2VZEPNz
 features: []
-genres: []
+first_released_as_single: false
 key: between-her-goodbye-and-my-hello-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-between-her-goodbye-and-my-hello-lyrics
 name: Between Her Goodbye And My Hello
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1973
+runtime: 214826
 ---
 I wish I could have met you
 In a year or two

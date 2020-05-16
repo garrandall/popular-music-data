@@ -1,8 +1,11 @@
 ---
+album: Lap Of Luxury
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:3PFZQsT6UQ6jpYrcbDRwk2
 features: []
-genres: []
+first_released_as_single: false
 key: never-had-a-lot-to-lose-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/neverhadalottolose.html
 name: Never Had A Lot To Lose
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 203160
 ---
-
 I don't need no money, honey
 Fortune and fame
 'Cause I got all the riches, baby
@@ -67,6 +71,3 @@ I never had a lot of love
 I never had too much money
 I never let it slow me down now, honey
 I never had a lot to lose
-
-
-

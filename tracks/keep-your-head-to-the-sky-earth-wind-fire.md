@@ -1,8 +1,11 @@
 ---
+album: Head To The Sky
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0iPy1MWCrOT7SjGs14zSSv
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-head-to-the-sky-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/keepyourheadtothesky.html
 name: Keep Your Head To The Sky
@@ -51,8 +54,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 311080
 ---
-
 Master told me one day
 I'd find peace in every way
 But in search for the clue
@@ -78,6 +82,3 @@ Keep your head in faith's atmosphere...
 
 Keep your head to the sky
 Keep your head to the sky
-
-
-

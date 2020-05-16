@@ -1,8 +1,11 @@
 ---
+album: I Thought I Was An Alien
 artists:
 - Soko
+external_ids:
+  spotify: spotify:track:2yxpMD9Fopz8FZEDSHRYy8
 features: []
-genres: []
+first_released_as_single: false
 key: we-might-be-dead-by-tomorrow-soko
 lyrics_url: https://www.azlyrics.com/lyrics/soko/wemightbedeadbytomorrow.html
 name: We Might Be Dead By Tomorrow
@@ -11,8 +14,9 @@ rankings:
   rank: 9
   ranking_list: Billboard Hot 100
   start_date: '2014-03-29'
+release_year: 2013
+runtime: 161413
 ---
-
 Give me all your love now
 'Cause for all we know
 We might be dead by tomorrow
@@ -39,7 +43,4 @@ How can you be ready for life?
 So let's love fully
 And let's love loud
 Let's love now
-'Cause soon enough we'll die 
-
-
-
+'Cause soon enough we'll die

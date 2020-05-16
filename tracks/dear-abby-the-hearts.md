@@ -1,8 +1,11 @@
 ---
+album: The J & S Years
 artists:
 - The Hearts
+external_ids:
+  spotify: spotify:track:7nzK5Tor2Z8ij4srvvbf06
 features: []
-genres: []
+first_released_as_single: false
 key: dear-abby-the-hearts
 lyrics_url: https://www.musixmatch.com/lyrics/The-Hearts/Dear-Abby
 name: Dear Abby
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 179026
 ---
 Nobody loves me
 Yeah, yeah, yeah

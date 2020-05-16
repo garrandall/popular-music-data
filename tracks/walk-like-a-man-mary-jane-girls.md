@@ -1,8 +1,11 @@
 ---
+album: In My House
 artists:
 - Mary Jane Girls
+external_ids:
+  spotify: spotify:track:4GSKADlhzfGXSZRHVFebNx
 features: []
-genres: []
+first_released_as_single: false
 key: walk-like-a-man-mary-jane-girls
 lyrics_url: https://www.azlyrics.com/lyrics/maryjanegirls/walklikeaman.html
 name: Walk Like A Man
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 219173
 ---
-
 Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
 Oh, oh oohohohh,oh, oh oohoh
@@ -111,6 +115,3 @@ Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
 
 Walk, walk, walk, walk
-
-
-

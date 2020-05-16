@@ -1,8 +1,11 @@
 ---
+album: Greatest
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:0I4NBICw3ljkcXuzYTAsTj
 features: []
-genres: []
+first_released_as_single: false
 key: chain-gang-medley-jim-croce
 lyrics_url: https://genius.com/Jim-croce-chain-gang-medley-lyrics
 name: Chain Gang Medley
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1976
+runtime: 280360
 ---
 That's the sound of the men working on the chain gang
 That's the sound of the men working on the chain gang

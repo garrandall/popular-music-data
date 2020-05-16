@@ -1,8 +1,11 @@
 ---
+album: The Band
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:3yWx3rzS2MDqkopz3utEOx
 features: []
-genres: []
+first_released_as_single: false
 key: rag-mama-rag-the-band
 lyrics_url: https://www.azlyrics.com/lyrics/band/ragmamarag.html
 name: Rag Mama Rag
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1969
+runtime: 184840
 ---
-
 Rag Mama rag, I can't believe its true
 Rag Mama rag, what did you do?
 I crawled up to the railroad track
@@ -75,6 +79,3 @@ All we gotta do is rag, Mama, rag, Mama, rag
 
 Rag Mama rag, where do you roam
 Rag Mama rag, bring your skinny little body back home
-
-
-

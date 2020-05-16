@@ -1,8 +1,11 @@
 ---
+album: From The Vaults
 artists:
 - The Beau Brummels
+external_ids:
+  spotify: spotify:track:5uek1Kh9ofEau9AKJUGtJA
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-music-the-beau-brummels
 lyrics_url: https://genius.com/The-beau-brummels-good-time-music-lyrics
 name: Good Time Music
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 185412
 ---
 Few good sounds on the radio boys
 Good sounds

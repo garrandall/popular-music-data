@@ -1,8 +1,11 @@
 ---
+album: Wonder What's Next
 artists:
 - Chevelle
+external_ids:
+  spotify: spotify:track:1gyee1JuFFiP476LQpRMYU
 features: []
-genres: []
+first_released_as_single: false
 key: the-red-chevelle
 lyrics_url: https://genius.com/Chevelle-the-red-lyrics
 name: The Red
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
+release_year: 2002
+runtime: 238400
 ---
 They say 'Freak'
 When you're singled out

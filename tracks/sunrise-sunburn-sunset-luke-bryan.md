@@ -1,8 +1,11 @@
 ---
+album: What Makes You Country
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:53yTYusPQJ1AApL1hi0Dnc
 features: []
-genres: []
+first_released_as_single: false
 key: sunrise-sunburn-sunset-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/sunrisesunburnsunset.html
 name: Sunrise Sunburn Sunset
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2017
+runtime: 216093
 ---
-
 Your daddy had a lake house
 He had me paint it that summer sophomore year
 Said I could stay for free
@@ -126,6 +130,3 @@ Whoa
 Yeah, girl, you and I were
 Sunrise, sunburn, sunset, repeat
 Sunrise, sunburn, sunset, repeat
-
-
-

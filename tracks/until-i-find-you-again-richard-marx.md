@@ -1,8 +1,11 @@
 ---
+album: Flesh And Bone
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:5AnVYcfpUnyVhNqwyc4Yr9
 features: []
-genres: []
+first_released_as_single: false
 key: until-i-find-you-again-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/untilifindyouagain.html
 name: Until I Find You Again
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1997
+runtime: 265400
 ---
-
 Lately I've been trying
 To fill up my days since you're gone.
 The speed of love is blinding,
@@ -129,6 +133,3 @@ How long can I pretend?
 How many times will love pass me by,
 Till I find you again?
 Till I find you again . . .
-
-
-

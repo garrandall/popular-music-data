@@ -1,8 +1,11 @@
 ---
+album: Nick Jonas X2
 artists:
 - Nick Jonas
+external_ids:
+  spotify: spotify:track:5U2yIZoTI5c4MANyjkuYba
 features: []
-genres: []
+first_released_as_single: true
 key: chains-nick-jonas
 lyrics_url: https://genius.com/Nick-jonas-chains-lyrics
 name: Chains
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2014
+runtime: 241386
 ---
 With her wine-stained lips, yeah, she’s nothing but trouble
 Cold to the touch, but she’s warm as a devil

@@ -1,8 +1,11 @@
 ---
+album: Roy Orbison Sings Don Gibson
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:0xwNTGiv8jFIr31Ah6Wvyj
 features: []
-genres: []
+first_released_as_single: false
 key: too-soon-to-know-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/toosoontoknow.html
 name: Too Soon To Know
@@ -27,8 +30,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 167760
 ---
-
 It's too soon to know if I can forget her
 My heart's been broken in too many pieces
 And It's too soon to know
@@ -45,6 +49,3 @@ My heart's been broken in too many pieces
 And It's too soon to know
 My heart's been broken in too many pieces
 And It's too soon to know
-
-
-

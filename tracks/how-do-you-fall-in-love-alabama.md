@@ -1,8 +1,11 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:7eXVUap6M13npgsz7KmaWk
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-fall-in-love-alabama
 lyrics_url: https://genius.com/Alabama-how-do-you-fall-in-love-lyrics
 name: How Do You Fall In Love
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-01-02'
+release_year: 1980
+runtime: 179826
 ---
 How do you fall in love
 When do you say "I do"

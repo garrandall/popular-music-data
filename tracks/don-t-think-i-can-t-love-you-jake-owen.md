@@ -1,8 +1,11 @@
 ---
+album: Easy Does It
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:1SoP2zC2ttcI2zjuRsQ5xx
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-think-i-can-t-love-you-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/dontthinkicantloveyou.html
 name: Don't Think I Can't Love You
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2009
+runtime: 185106
 ---
-
 I learned the hard way real early in life
 That money sure don't grow on a tree
 And there's a few things that a dollar can't buy
@@ -93,6 +97,3 @@ So girl I can't buy you a big diamond ring
 No house on a hill full of life's finer things
 And I'll tell you right now there's a whole lot that I just can't do
 Oh, but baby, baby, oh baby don't think I can't love you
-
-
-

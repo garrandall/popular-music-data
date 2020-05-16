@@ -1,9 +1,12 @@
 ---
+album: The Quilt
 artists:
 - Gym Class Heroes
+external_ids:
+  spotify: spotify:track:3RDcUlLGp3SLp2AmUbUbls
 features:
 - The-Dream
-genres: []
+first_released_as_single: false
 key: cookie-jar-gym-class-heroes-the-dream
 lyrics_url: https://www.azlyrics.com/lyrics/gymclassheroes/cookiejar.html
 name: Cookie Jar
@@ -28,8 +31,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 216317
 ---
-
 Gym Class Heroes
 
 Radio Killer (killer)
@@ -102,6 +106,3 @@ I went to Cookie Anonymous (always, I'll always, I'll always be a freak)
 I guess I'm a failure (I'll always be, I'll always be)
 I can't seem to keep my damn hands out the cookie jar but it is what it is
 (I'll always be a freak)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bacdafucup
 artists:
 - Onyx
+external_ids:
+  spotify: spotify:track:6yvm3iCA6ki8aquiPbokMq
 features: []
-genres: []
+first_released_as_single: true
 key: slam-onyx
 lyrics_url: https://genius.com/Onyx-slam-lyrics
 name: Slam
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 217400
 ---
 Slam, da duh duh, da duh duh
 Let the boys be boys

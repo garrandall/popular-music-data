@@ -1,8 +1,11 @@
 ---
+album: 15 Big Ones
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4SuksBFSqo6V5Smg2fdi0C
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-music-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-rock-and-roll-music-lyrics
 name: Rock And Roll Music
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 151560
 ---
 Just let me hear some of that rock and roll music
 Any old way you choose it

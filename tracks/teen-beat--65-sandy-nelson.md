@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Sandy Nelson
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:2UbUp7nSoua1BTw4zBAqGJ
 features: []
-genres: []
+first_released_as_single: false
 key: teen-beat--65-sandy-nelson
 name: Teen Beat '65
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 159426
 ---
 

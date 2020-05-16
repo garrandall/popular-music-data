@@ -1,8 +1,12 @@
 ---
+album: '1'
 artists:
-- The Beatles With Billy Preston
-features: []
-genres: []
+- The Beatles
+external_ids:
+  spotify: spotify:track:3d5v5scfknhlp6oOC7BZBs
+features:
+- Billy Preston
+first_released_as_single: false
 key: get-back-the-beatles-with-billy-preston
 name: Get Back
 rankings:
@@ -54,5 +58,7 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 192666
 ---
 

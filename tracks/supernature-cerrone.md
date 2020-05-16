@@ -1,8 +1,11 @@
 ---
+album: Cerrone 8 - Back Track
 artists:
 - Cerrone
+external_ids:
+  spotify: spotify:track:4wou8CIFIlJF3HmPbX0J8y
 features: []
-genres: []
+first_released_as_single: false
 key: supernature-cerrone
 lyrics_url: https://www.musixmatch.com/lyrics/Cerrone/Supernature
 name: Supernature
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1978
+runtime: 497849
 ---
 Once upon a time
 Science opened up the door

@@ -1,8 +1,11 @@
 ---
+album: Brother To Brother
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:7uE9ZeScOg28zFE7OHQxuR
 features: []
-genres: []
+first_released_as_single: false
 key: wheels-of-life-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/wheelsoflife.html
 name: Wheels Of Life
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 254893
 ---
-
 The wheels of life are turning so much faster
 The restless hands of time pass me by
 There are dreams I'll never live to see
@@ -67,6 +71,3 @@ The wheels of life keep turning round and round
 The wheels of life
 The wheels of life keep turning so much faster
 The wheels of life are turning so much stronger
-
-
-

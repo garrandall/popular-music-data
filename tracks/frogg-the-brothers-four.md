@@ -1,8 +1,11 @@
 ---
+album: Roamin'
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:2Jb6nDU9ASzVoBogmgvwrd
 features: []
-genres: []
+first_released_as_single: false
 key: frogg-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-frogg-lyrics
 name: Frogg
@@ -27,6 +30,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1960
+runtime: 161533
 ---
 This is a story about a hip frog
 And we're gonna pick up on it now and

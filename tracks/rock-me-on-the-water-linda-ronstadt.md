@@ -1,8 +1,11 @@
 ---
+album: Linda Ronstadt
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:50DGEghpwDFdZovHi0nz7K
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-on-the-water-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/rockmeonthewater.html
 name: Rock Me On The Water
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 220493
 ---
-
 Oh people look around you
 The signs are everywhere
 You left him for somebody other than you
@@ -76,6 +80,3 @@ The wind is with me now
 O-oh rock me on the water
 Gotta get down to the sea somehow
 I gotta get down to the sea somehow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Two Sides Of Mary Wells
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:0gKQ7oFDnlVYzlMuqwRP64
 features: []
-genres: []
+first_released_as_single: false
 key: dear-lover-mary-wells
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-Wells/Dear-Lover
 name: Dear Lover
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 134066
 ---
 Dear lover
 It's been a long long time

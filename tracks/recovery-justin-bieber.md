@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6pFqCPdvm6C9IHbJrEu8aG
 features: []
-genres: []
+first_released_as_single: false
 key: recovery-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/recovery.html
 name: Recovery
@@ -11,8 +14,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2013
+runtime: 182373
 ---
-
 First I'll acknowledge
 Your trust has been broken now
 A successful recovery
@@ -101,6 +105,3 @@ You know Imma do you right
 You know Imma do you right
 Imma do you right
 You know Imma do you right
-
-
-

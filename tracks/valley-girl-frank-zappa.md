@@ -1,8 +1,11 @@
 ---
+album: Ship Arriving Too Late To Save A Drowning Witch
 artists:
 - Frank Zappa
+external_ids:
+  spotify: spotify:track:2aNLe4KxMByyqjhmVvR3or
 features: []
-genres: []
+first_released_as_single: false
 key: valley-girl-frank-zappa
 lyrics_url: https://www.azlyrics.com/lyrics/frankzappa/valleygirl.html
 name: Valley Girl
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 290533
 ---
-
 Valley Girl
 She's a Valley Girl
 Valley Girl
@@ -187,6 +191,3 @@ Like those things that like stick in your mouth
 They're so gross...
 You like get saliva all over them
 But like, I don't know, it's going to be cool
-
-
-

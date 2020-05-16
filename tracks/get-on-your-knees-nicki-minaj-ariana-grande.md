@@ -1,9 +1,12 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:049V1aSofNvW906vGZgFsD
 features:
 - Ariana Grande
-genres: []
+first_released_as_single: false
 key: get-on-your-knees-nicki-minaj-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/getonyourknees.html
 name: Get On Your Knees
@@ -12,9 +15,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2014
+runtime: 216493
 ---
-
-
 Get on your knees, get on your knees, get on your knees
 Baby, just get on your knees (on your knees!)
 Say pretty please, say pretty please, say pretty please
@@ -99,6 +102,3 @@ Get on your knees, get on your knees, get on your knees
 Baby, just get on your knees (on your knees!)
 Say pretty please, say pretty please, say pretty please
 Baby, just say pretty please (pretty please!)
-
-
-

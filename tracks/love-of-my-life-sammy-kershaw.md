@@ -1,8 +1,11 @@
 ---
+album: Labor Of Love
 artists:
 - Sammy Kershaw
+external_ids:
+  spotify: spotify:track:20ld6ccCge0Xwt2gXfqp6K
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-my-life-sammy-kershaw
 lyrics_url: https://www.azlyrics.com/lyrics/sammykershaw/loveofmylife.html
 name: Love Of My Life
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
+release_year: 1997
+runtime: 262226
 ---
-
 You are the love of my life
 And you are the reason I'm alive
 And baby baby baby
@@ -72,6 +76,3 @@ Is I need you
 
 You are the love of my life
 You are the reason I'm alive
-
-
-

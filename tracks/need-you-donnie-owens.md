@@ -1,8 +1,11 @@
 ---
+album: The Twang Gang
 artists:
 - Donnie Owens
+external_ids:
+  spotify: spotify:track:2mwQS2E6Kwm67fZZdEhg8X
 features: []
-genres: []
+first_released_as_single: false
 key: need-you-donnie-owens
 lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Owens/Need-You
 name: Need You
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1958
+runtime: 140866
 ---
 Need you
 Your tenderness, your understanding heart

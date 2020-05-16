@@ -1,8 +1,11 @@
 ---
+album: From Now On
 artists:
 - Robin S.
+external_ids:
+  spotify: spotify:track:1IB6OPmzFQ2aNvvaupUvZe
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-be-love-robin-s-
 lyrics_url: https://genius.com/Robin-s-it-must-be-love-lyrics
 name: It Must Be Love
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1997
+runtime: 289041
 ---
 Must be love
 It must be love, talkin' 'bout love

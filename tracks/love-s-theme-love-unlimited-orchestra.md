@@ -1,8 +1,11 @@
 ---
+album: In Heat
 artists:
 - Love Unlimited Orchestra
+external_ids:
+  spotify: spotify:track:12HF7fmq1zupYNZLiXq1lG
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-theme-love-unlimited-orchestra
 name: Love's Theme
 rankings:
@@ -94,5 +97,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1973
+runtime: 239173
 ---
 

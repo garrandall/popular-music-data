@@ -1,8 +1,11 @@
 ---
+album: Weezer (Teal Album)
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:297Or4DielLdpBLJdgIQ7S
 features: []
-genres: []
+first_released_as_single: true
 key: africa-weezer
 lyrics_url: https://www.azlyrics.com/lyrics/weezer/africa.html
 name: Africa
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 250133
 ---
-
 I hear the drums echoing tonight
 But she hears only whispers of some quiet conversation
 She's coming in, 12:30 flight
@@ -105,6 +109,3 @@ I bless the rains down in Africa
 I bless the rains down in Africa
 I bless the rains down in Africa
 Gonna take some time to do the things we never have
-
-
-

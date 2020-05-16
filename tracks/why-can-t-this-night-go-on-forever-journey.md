@@ -1,8 +1,11 @@
 ---
+album: Raised On Radio
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:24EhwaalAeVQ6o2WF4Q1nS
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-this-night-go-on-forever-journey
 lyrics_url: https://genius.com/Journey-why-cant-this-night-go-on-forever-lyrics
 name: Why Can't This Night Go On Forever
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1975
+runtime: 222133
 ---
 Lost in twilight, the memories
 Precious moments, you and me

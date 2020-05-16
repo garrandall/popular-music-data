@@ -1,8 +1,11 @@
 ---
+album: The Search
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:0hWzB4dR1zwcokPvccww0k
 features: []
-genres: []
+first_released_as_single: true
 key: when-i-grow-up-nf
 lyrics_url: https://genius.com/Nf-when-i-grow-up-lyrics
 name: When I Grow Up
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2019
+runtime: 196800
 ---
 Yeah, when I grow up, you know what I wanna be?
 Take a seat, let me tell you my ridiculous dreams

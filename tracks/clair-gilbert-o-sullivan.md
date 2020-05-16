@@ -1,8 +1,11 @@
 ---
+album: Back to Front
 artists:
 - Gilbert O'Sullivan
+external_ids:
+  spotify: spotify:track:1lYJDRaadnotdfcZFp5Izd
 features: []
-genres: []
+first_released_as_single: false
 key: clair-gilbert-o-sullivan
 lyrics_url: https://genius.com/Gilbert-osullivan-clair-lyrics
 name: Clair
@@ -71,6 +74,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 180453
 ---
 Clair, the moment I met you, I swear
 I felt as if something, somewhere

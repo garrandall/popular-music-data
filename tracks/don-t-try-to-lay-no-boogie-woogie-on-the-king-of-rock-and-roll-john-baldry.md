@@ -1,8 +1,11 @@
 ---
+album: It Ain't Easy (Expanded)
 artists:
 - John Baldry
+external_ids:
+  spotify: spotify:track:1b6O88K7d9jluz6wac2kKD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-try-to-lay-no-boogie-woogie-on-the-king-of-rock-and-roll-john-baldry
 lyrics_url: https://genius.com/Long-john-baldry-dont-try-to-lay-no-boogie-woogie-on-the-king-of-rock-and-roll-lyrics
 name: Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 205533
 ---
 You know, I remember a few years ago
 Some funny things used to happen to me

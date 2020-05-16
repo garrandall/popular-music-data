@@ -1,8 +1,11 @@
 ---
+album: Vanguard Visionaries
 artists:
 - The Rooftop Singers
+external_ids:
+  spotify: spotify:track:3ZOwTDvPVKjpgV5Mh1z8E4
 features: []
-genres: []
+first_released_as_single: false
 key: mama-don-t-allow-the-rooftop-singers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rooftop-Singers/Mama-Don-t-Allow
 name: Mama Don't Allow
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 163093
 ---
 Mama don't allow no guitar playin' here
 Mama don't allow no guitar playin' here

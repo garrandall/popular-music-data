@@ -1,8 +1,11 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3stOygN0I7CIvkEB2LJGbv
 features: []
-genres: []
+first_released_as_single: false
 key: survival-eminem
 lyrics_url: https://genius.com/Eminem-survival-lyrics
 name: Survival
@@ -63,6 +66,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 272417
 ---
 This is survival of the fittest
 This is do or die

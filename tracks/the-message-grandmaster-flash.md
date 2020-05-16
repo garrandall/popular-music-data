@@ -1,8 +1,11 @@
 ---
+album: The Message
 artists:
 - Grandmaster Flash
+external_ids:
+  spotify: spotify:track:5DuTNKFEjJIySAyJH1yNDU
 features: []
-genres: []
+first_released_as_single: false
 key: the-message-grandmaster-flash
 lyrics_url: https://www.azlyrics.com/lyrics/grandmasterflashandthefuriousfive/themessage.html
 name: The Message
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1982
+runtime: 431800
 ---
-
 It's like a jungle sometimes
 It makes me wonder how I keep from going under
 
@@ -133,4 +137,3 @@ It was plain to see that your life was lost
 You was cold and your body swung back and forth
 But now your eyes sing the sad, sad song
 Of how you lived so fast and died so young so
-

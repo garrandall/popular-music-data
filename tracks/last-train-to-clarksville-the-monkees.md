@@ -1,8 +1,11 @@
 ---
+album: The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:3h4t9qpFktohHeUQc3hZCa
 features: []
-genres: []
+first_released_as_single: false
 key: last-train-to-clarksville-the-monkees
 lyrics_url: https://genius.com/The-monkees-last-train-to-clarksville-lyrics
 name: Last Train To Clarksville
@@ -67,6 +70,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 164093
 ---
 {Intro}
 

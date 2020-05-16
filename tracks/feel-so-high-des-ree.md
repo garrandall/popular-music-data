@@ -1,8 +1,11 @@
 ---
+album: Mind Adventures
 artists:
 - Des'ree
+external_ids:
+  spotify: spotify:track:6Cy8zuRfq2R4tbJIwEmSp4
 features: []
-genres: []
+first_released_as_single: false
 key: feel-so-high-des-ree
 lyrics_url: https://genius.com/Desree-feel-so-high-lyrics
 name: Feel So High
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1992
+runtime: 233906
 ---
 Show me your company
 Come and tell me who you'll be

@@ -1,9 +1,12 @@
 ---
+album: rEVOLVEr (Deluxe Version)
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:133g7oJWqvMnhvwfXL4CU1
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: best-love-song-t-pain-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/tpain/bestlovesong.html
 name: Best Love Song
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 197600
 ---
-
-
 Turn up the bass, turn up the treble,
 I'm about to take it to a whole another level!
 DJ turn off what you're playin',
@@ -147,6 +150,3 @@ Go ahead and kiss your baby
 And now we've got the whole stadium in love like
 Eh, eh, eh, eh, eh, eh
 Oh, oh, oh
-
-
-

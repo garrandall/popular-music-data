@@ -1,8 +1,11 @@
 ---
+album: From Tha Roota To Tha Toota
 artists:
 - Field Mob
+external_ids:
+  spotify: spotify:track:0rBzABScu9c6D1Juislm2z
 features: []
-genres: []
+first_released_as_single: false
 key: sick-of-being-lonely-field-mob
 lyrics_url: https://www.azlyrics.com/lyrics/fieldmob/sickofbeinglonely.html
 name: Sick Of Being Lonely
@@ -87,9 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 229160
 ---
-
-
 Little shawty, we used to be on the phone all day
 Talkin' to the sunshine shinin' on my bald head
 Now today seem strange
@@ -158,4 +161,3 @@ Something so pretty as you at home alone
 That's unbelieveable, like when the cow jumped over the moon
 Now, I never put nothin' before you
 That's like eatin' cereal, pickin' a fork over a spoon
-

@@ -1,8 +1,11 @@
 ---
+album: Europop
 artists:
 - Eiffel 65
+external_ids:
+  spotify: spotify:track:5QRAfvKPyQpwt897Jc0glg
 features: []
-genres: []
+first_released_as_single: true
 key: blue--da-ba-dee--eiffel-65
 lyrics_url: https://www.azlyrics.com/lyrics/eiffel65/bluedabade.html
 name: Blue (Da Ba Dee)
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
+release_year: 1998
+runtime: 283747
 ---
-
 Yo listen up here's a story
 About a little guy that lives in a blue world
 And all day and all night and everything he sees
@@ -134,6 +138,3 @@ And himself and everybody around
 I'm blue da ba dee da ba die
 
 I'm blue (da ba dee da ba die)
-
-
-

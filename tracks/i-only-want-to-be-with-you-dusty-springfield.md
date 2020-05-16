@@ -1,8 +1,11 @@
 ---
+album: Stay Awhile / I Only Want To Be With You
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:31A3oqQxDLdG9HRx45z62d
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-want-to-be-with-you-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-i-only-want-to-be-with-you-lyrics
 name: I Only Want To Be With You
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 158200
 ---
 I don't know what it is that makes me love you so
 I only know I never want to let you go

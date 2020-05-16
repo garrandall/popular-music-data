@@ -1,8 +1,11 @@
 ---
+album: Beauty's Only Skin Deep
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:0CuhInpoE6Ty702Wuc6ZCy
 features: []
-genres: []
+first_released_as_single: false
 key: skin-deep-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/skindeep.html
 name: Skin Deep
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
+release_year: 1978
+runtime: 231053
 ---
-
 You came on to me a house of fire
 One look was all it took for my desire
 I'm still burnin'
@@ -79,6 +83,3 @@ Every time I hear your voice I go
 Skin deep, to the bone
 Tellin' me that I'm in trouble
 Skin deep, to the bone
-
-
-

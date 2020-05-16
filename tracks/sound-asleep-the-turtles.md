@@ -1,8 +1,11 @@
 ---
+album: The Battle of the Bands (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:54K0uCp29RmmmstV3NUDeX
 features: []
-genres: []
+first_released_as_single: false
 key: sound-asleep-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/soundasleep.html
 name: Sound Asleep
@@ -31,8 +34,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 149505
 ---
-
 Ba da da da da da da
 Daytime dreamin', gettin' involved only halfway deeo
 Nighttime schemin', seemin' to be like I'm sound asleep
@@ -48,4 +52,3 @@ The better I feel
 
 Ba da da da da da da
 Ba da da da da da da, da da da da
-

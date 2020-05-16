@@ -1,8 +1,11 @@
 ---
+album: 'Collector''s Series: Johnny Maestro & The Crests'
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:4MaG4nWSIrDAtEUnkam31R
 features: []
-genres: []
+first_released_as_single: false
 key: a-year-ago-tonight-the-crests
 lyrics_url: https://www.musixmatch.com/lyrics/The-Crests/A-Year-Ago-Tonight
 name: A Year Ago Tonight
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 145480
 ---
 A year ago tonight
 You were sixteen

@@ -1,8 +1,11 @@
 ---
+album: When Love Comes Calling
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:34XiwI0h26pO65PZMqEb4k
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-the-next-dance-deniece-williams
 lyrics_url: https://genius.com/Deniece-williams-ive-got-the-next-dance-lyrics
 name: I've Got The Next Dance
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1979
+runtime: 352693
 ---
 I've got the next dance
 I've got the next dance with you

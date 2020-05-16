@@ -1,9 +1,12 @@
 ---
+album: Big Money Heavyweight
 artists:
 - Big Tymers
+external_ids:
+  spotify: spotify:track:03fG7gcSTXuRPuVhFazAqC
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: gangsta-girl-big-tymers-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/bigtymers/gangstagirl.html
 name: Gangsta Girl
@@ -44,9 +47,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-02-21'
+release_year: 2003
+runtime: 258986
 ---
-
-
 Roll, cheah, cheah
 Roll, cheah, cheah
 Roll, cheah, cheah
@@ -118,4 +121,3 @@ Full of drama, baby mama (she's a gangsta girl)
 When they freakin on the weekend (they some gangsta girls)
 But they knowin where they goin (the gangsta girls)
 Fly wheels, pay they bills (the gangsta girls)
-

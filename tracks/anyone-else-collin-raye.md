@@ -1,8 +1,11 @@
 ---
+album: The Walls Came Down
 artists:
 - Collin Raye
+external_ids:
+  spotify: spotify:track:2xvsy2gEUN5AI3PlFNm2Fm
 features: []
-genres: []
+first_released_as_single: false
 key: anyone-else-collin-raye
 lyrics_url: https://www.azlyrics.com/lyrics/collinraye/anyoneelse.html
 name: Anyone Else
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
+release_year: 1998
+runtime: 227706
 ---
-
 Baby I bought wine and roses on my way home
 Yeah I know we can't afford it but life doesn't last too long
 This world has gone half-crazy
@@ -135,6 +139,3 @@ Anyone but you
 
 Anyone else
 Girl, anyone but you
-
-
-

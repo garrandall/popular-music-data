@@ -1,8 +1,11 @@
 ---
+album: Pleasures U Like
 artists:
 - Jon B
+external_ids:
+  spotify: spotify:track:7dZzBG5EzwxGKrWsWLgqgw
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-talk-jon-b
 lyrics_url: https://genius.com/Jon-b-dont-talk-lyrics
 name: Don't Talk
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-05-19'
+release_year: 1995
+runtime: 283826
 ---
 Excuse me love, can I come dance with you?
 Uh (Mmm, yeah)

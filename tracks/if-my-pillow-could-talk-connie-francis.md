@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5a8g5hLCM1komEgKFa6Ad9
 features: []
-genres: []
+first_released_as_single: false
 key: if-my-pillow-could-talk-connie-francis
 lyrics_url: https://genius.com/Connie-francis-if-my-pillow-could-talk-lyrics
 name: If My Pillow Could Talk
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 126973
 ---
 If my pillow could talk
 If my pillow could talk

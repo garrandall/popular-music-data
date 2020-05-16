@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:66rq3vPbZdS4wfHXOQDNMP
 features: []
-genres: []
+first_released_as_single: false
 key: if-mary-s-there-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-if-marys-there-lyrics
 name: If Mary's There
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1963
+runtime: 160040
 ---
 I won't be there if Mary's there
 I'm still in love with her

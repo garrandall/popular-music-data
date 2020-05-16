@@ -1,8 +1,11 @@
 ---
+album: En-Tact
 artists:
 - The Shamen
+external_ids:
+  spotify: spotify:track:3YEBkk7we72NhaDZ50p5ll
 features: []
-genres: []
+first_released_as_single: false
 key: move-any-mountain-the-shamen
 lyrics_url: https://genius.com/The-shamen-move-any-mountain-lyrics
 name: Move Any Mountain
@@ -75,6 +78,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1990
+runtime: 206400
 ---
 I will not fail nor falter I shall succeed
 My perception is altered I do believe

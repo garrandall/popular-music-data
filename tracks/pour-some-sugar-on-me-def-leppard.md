@@ -1,8 +1,11 @@
 ---
+album: Hysteria (Super Deluxe)
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:0PdM2a6oIjqepoEfcJo0RO
 features: []
-genres: []
+first_released_as_single: false
 key: pour-some-sugar-on-me-def-leppard
 lyrics_url: https://genius.com/Def-leppard-pour-some-sugar-on-me-lyrics
 name: Pour Some Sugar On Me
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1987
+runtime: 267306
 ---
 Step inside
 Walk this way

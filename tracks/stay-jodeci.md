@@ -1,8 +1,11 @@
 ---
+album: Forever My Lady
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:0JukF7Yf5qF10ntu6lpJ5I
 features: []
-genres: []
+first_released_as_single: false
 key: stay-jodeci
 lyrics_url: https://genius.com/Jodeci-stay-lyrics
 name: Stay
@@ -79,6 +82,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1991
+runtime: 312040
 ---
 Don't talk, just listen
 First of all

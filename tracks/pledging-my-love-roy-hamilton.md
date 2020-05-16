@@ -1,8 +1,11 @@
 ---
+album: With All My Love
 artists:
 - Roy Hamilton
+external_ids:
+  spotify: spotify:track:00K7iE0TKUUJVRqMcOuFst
 features: []
-genres: []
+first_released_as_single: false
 key: pledging-my-love-roy-hamilton
 lyrics_url: https://genius.com/Roy-hamilton-pledging-my-love-lyrics
 name: Pledging My Love
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1958
+runtime: 169160
 ---
 Forever, my darling, our love will be true
 Always and forever I'll love only you

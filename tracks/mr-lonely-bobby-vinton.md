@@ -1,8 +1,11 @@
 ---
+album: Mr. Lonely
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:5KG2ahk1cONbHvg3dBdTbx
 features: []
-genres: []
+first_released_as_single: false
 key: mr-lonely-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/mrlonely.html
 name: Mr Lonely
@@ -67,8 +70,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1962
+runtime: 161373
 ---
-
 Lonely, I'm Mr. Lonely
 I have nobody for my own
 I'm so lonely, I'm Mr. Lonely
@@ -88,6 +92,3 @@ Now I'm a soldier, a lonely soldier
 Away from home through no wish of my own
 That's why I'm lonely, I'm Mr. Lonely
 I wish that I could go back home
-
-
-

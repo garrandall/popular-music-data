@@ -1,8 +1,11 @@
 ---
+album: Friend Or Foe
 artists:
 - Adam Ant
+external_ids:
+  spotify: spotify:track:7vDvtRSQ1WsGy87TrpBQGM
 features: []
-genres: []
+first_released_as_single: false
 key: desperate-but-not-serious-adam-ant
 lyrics_url: https://www.azlyrics.com/lyrics/adamant/desperatebutnotserious.html
 name: Desperate But Not Serious
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1982
+runtime: 254733
 ---
-
 If I ask you difficult questions
 If I make improper suggestions
 Would you find that a risk to your health?
@@ -75,6 +79,3 @@ Your kisses drive me delirious
 Desperate but not serious
 Your kisses drive me delirious
 ...
-
-
-

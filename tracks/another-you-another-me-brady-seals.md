@@ -1,8 +1,11 @@
 ---
+album: The Truth
 artists:
 - Brady Seals
+external_ids:
+  spotify: spotify:track:2PgE5Vh5YOMnHvRkwBNmk2
 features: []
-genres: []
+first_released_as_single: false
 key: another-you-another-me-brady-seals
 lyrics_url: https://genius.com/Brady-seals-another-you-another-me-lyrics
 name: Another You Another Me
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1983
+runtime: 232773
 ---
 Is it any wonder
 I hold you so tight

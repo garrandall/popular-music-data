@@ -1,8 +1,11 @@
 ---
+album: Me Against The World
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:1PU3Hy2uNXmWGDe9gh4Ukb
 features: []
-genres: []
+first_released_as_single: false
 key: temptations-2pac
 lyrics_url: https://www.azlyrics.com/lyrics/2pac/temptations.html
 name: Temptations
@@ -31,9 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1995
+runtime: 300573
 ---
-
-
 Hey! Hey-ayyaahhyy
 
 
@@ -130,6 +133,3 @@ Hey, heyyyeah, heyyyayy, oh)
 
 All my niggas go, uptown in the, give 'em the finger!
 Throw your hands up, give em the finger!
-
-
-

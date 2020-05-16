@@ -1,8 +1,11 @@
 ---
+album: From The Choir Girl Hotel
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:7bG5NDhlrDel1aNofKPNf6
 features: []
-genres: []
+first_released_as_single: false
 key: spark-tori-amos
 lyrics_url: https://www.azlyrics.com/lyrics/toriamos/spark.html
 name: Spark
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1998
+runtime: 253413
 ---
-
 She's addicted to nicotine patches
 She's addicted to nicotine patches
 She's afraid of the light in the dark
@@ -112,6 +116,3 @@ She's addicted to nicotine patches
 She's afraid of the light in the dark
 6:58 are you sure where my spark is
 Here
-
-
-

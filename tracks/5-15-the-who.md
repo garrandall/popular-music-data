@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:5E7AQh3drqwYcIQkcdUs5Y
 features: []
-genres: []
+first_released_as_single: false
 key: 5-15-the-who
 lyrics_url: https://genius.com/The-who-5-15-lyrics
 name: '5:15'
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1973
+runtime: 300386
 ---
 Why should I care?
 Why should I care?

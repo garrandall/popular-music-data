@@ -1,8 +1,11 @@
 ---
+album: I Wasn't Born Yesterday
 artists:
 - SaFire
+external_ids:
+  spotify: spotify:track:07BKgGOF64DJnffk7ExPaa
 features: []
-genres: []
+first_released_as_single: true
 key: made-up-my-mind-safire
 lyrics_url: https://genius.com/Safire-made-up-my-mind-lyrics
 name: Made Up My Mind
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1991
+runtime: 356302
 ---
 I still remember when I was young
 Someone always had me under their thumb

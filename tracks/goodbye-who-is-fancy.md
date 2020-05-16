@@ -1,8 +1,11 @@
 ---
+album: Pride Jams
 artists:
 - Who Is Fancy
+external_ids:
+  spotify: spotify:track:6K5xY7EabiBLjd2HuBQIak
 features: []
-genres: []
+first_released_as_single: true
 key: goodbye-who-is-fancy
 lyrics_url: https://www.azlyrics.com/lyrics/whoisfancy/goodbye.html
 name: Goodbye
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2015
+runtime: 206213
 ---
-
 I was a hot mess
 In my Sunday best
 Black tears in my eyes
@@ -65,6 +69,3 @@ Goodbye
 Goodbye
 Losin' my mind
 Goodbye
-
-
-

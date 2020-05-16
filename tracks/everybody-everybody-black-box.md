@@ -1,8 +1,11 @@
 ---
+album: Dreamland
 artists:
 - Black Box
+external_ids:
+  spotify: spotify:track:6wBMTv8yTiNh50fqTkT0JC
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-everybody-black-box
 lyrics_url: https://genius.com/Black-box-everybody-everybody-lyrics
 name: Everybody Everybody
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 247001
 ---
 You won't belong to me
 I let you down

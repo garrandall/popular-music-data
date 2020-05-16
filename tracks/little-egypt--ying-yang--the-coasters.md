@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:5QZDBtqTwcWxEZrfZLa5ny
 features: []
-genres: []
+first_released_as_single: false
 key: little-egypt--ying-yang--the-coasters
 lyrics_url: https://genius.com/The-coasters-little-egypt-lyrics
 name: Little Egypt (Ying-Yang)
@@ -55,6 +58,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1961
+runtime: 170040
 ---
 (Gonna find her)
 (Gonna find her)

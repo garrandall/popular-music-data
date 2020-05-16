@@ -1,8 +1,11 @@
 ---
+album: I Just Wasn't Made For These Times
 artists:
 - Brian Wilson
+external_ids:
+  spotify: spotify:track:45RvzLqo8e2rqGPGQRFbFm
 features: []
-genres: []
+first_released_as_single: false
 key: caroline-no-brian-wilson
 lyrics_url: https://genius.com/Brian-wilson-caroline-no-lyrics
 name: Caroline No
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 158800
 ---
 Where did your long hair go
 Where is the girl I used to know

@@ -1,8 +1,11 @@
 ---
+album: The Scene Changes (with The Anita Kerr Quartet)
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:4eWgbX9xS90prGZm9bTq2E
 features: []
-genres: []
+first_released_as_single: false
 key: dream-on-little-dreamer-perry-como
 lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/dreamonlittledreamer.html
 name: Dream On Little Dreamer
@@ -47,8 +50,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 140546
 ---
-
 Dream on little dreamer dreamer on
 Dream on little dreamer dreamer on
 I get a heart full of butterflies, lookin' into your dreamy eyes
@@ -70,6 +74,3 @@ Dream about a love so fine, sweet as apple berry wine
 Dream on (Dream on!) little dreamer dreamer on!
 
 ...little dreamer dreamer on!
-
-
-

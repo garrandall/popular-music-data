@@ -1,8 +1,11 @@
 ---
+album: Holy Water
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:6mrN5zMwHh391zfSKgSChr
 features: []
-genres: []
+first_released_as_single: false
 key: holy-water-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/holywater.html
 name: Holy Water
@@ -31,8 +34,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1990
+runtime: 246240
 ---
-
 In my life, there's been changes
 But nothing seems to satisfy me the way you do, no
 You make it easy, the way you please me, everytime I'm close to you
@@ -60,8 +64,3 @@ It's funny what you've done to me, just wanna see you run to me
 
 All this temptation, I can't see wrong from right
 It's a new sensation, you know I'm blinded by the light
-
-
-
-
-

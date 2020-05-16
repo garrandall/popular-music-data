@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:217TWF5jp26a93UCssbya5
 features: []
-genres: []
+first_released_as_single: false
 key: peace-of-mind-nancy-wilson
 lyrics_url: https://genius.com/Nancy-wilson-peace-of-mind-lyrics
 name: Peace Of Mind
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 160106
 ---
 All we need
 But it's so hard to find

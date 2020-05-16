@@ -1,8 +1,11 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1qsHYUd2c1wFGcn7e63QmG
 features: []
-genres: []
+first_released_as_single: false
 key: yikes-kanye-west
 lyrics_url: https://genius.com/Kanye-west-yikes-lyrics
 name: Yikes
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 188773
 ---
 Shit could get menacin', frightenin', find help
 Sometimes I scare myself, myself

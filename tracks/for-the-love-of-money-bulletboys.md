@@ -1,8 +1,11 @@
 ---
+album: Bulletboys
 artists:
 - BulletBoys
+external_ids:
+  spotify: spotify:track:0mdvfIwuQmfoFJ4K54CCIG
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-money-bulletboys
 lyrics_url: https://www.azlyrics.com/lyrics/bulletboys/fortheloveofmoney.html
 name: For The Love Of Money
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-06-03'
+release_year: 1988
+runtime: 227066
 ---
-
 For the love of money
 You would lie to your mother
 For the love of money
@@ -101,6 +105,3 @@ Don't let money fool ya
 
 For the love of money
 Don't let money fool ya
-
-
-

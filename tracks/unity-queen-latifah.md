@@ -1,8 +1,11 @@
 ---
+album: Boom Bap Shit, Vol. 1
 artists:
 - Queen Latifah
+external_ids:
+  spotify: spotify:track:1dscQo00s6AUF0YlbJwNx6
 features: []
-genres: []
+first_released_as_single: false
 key: unity-queen-latifah
 lyrics_url: https://www.azlyrics.com/lyrics/queenlatifah/unity.html
 name: UNITY
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 247706
 ---
-
 Uh, U.N.I.T.Y., U.N.I.T.Y. that's a unity
 U.N.I.T.Y., love a black man from infinity to infinity
 (Who you calling a bitch?)
@@ -184,6 +188,3 @@ U.N.I.T.Y., U.N.I.T.Y. that's a unity (You gotta let him know)
 (You go, come on here we go)
 U.N.I.T.Y., Love a black man from (You must let him know)
 infinity to infinity (You ain't a bitch or a ho)
-
-
-

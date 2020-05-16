@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:72jCZdH0Lhg93z6Z4hBjgj
 features: []
-genres: []
+first_released_as_single: false
 key: i-knew-you-were-trouble-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-i-knew-you-were-trouble-lyrics
 name: I Knew You Were Trouble
@@ -151,6 +154,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2012
+runtime: 217973
 ---
 Once upon a time, a few mistakes ago
 I was in your sights, you got me alone

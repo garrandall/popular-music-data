@@ -1,8 +1,11 @@
 ---
+album: I Don't Dance
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:2l1fWY1albInvAG9t8WP2p
 features: []
-genres: []
+first_released_as_single: false
 key: that-don-t-sound-like-you-lee-brice
 lyrics_url: https://genius.com/Lee-brice-that-dont-sound-like-you-lyrics
 name: That Don't Sound Like You
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2014
+runtime: 210573
 ---
 Girl, I'm glad you called, first heard you talk
 Took me a second cause I couldn't hear your drawl

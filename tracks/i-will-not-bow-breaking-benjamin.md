@@ -1,8 +1,11 @@
 ---
+album: Dear Agony
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:2yXyz4NLTZx9CLdXfLTp5E
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-not-bow-breaking-benjamin
 lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/iwillnotbow.html
 name: I Will Not Bow
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-01-30'
+release_year: 2009
+runtime: 216733
 ---
-
 Fall
 
 Now the dark begins to rise
@@ -148,6 +152,3 @@ And I am not proud, cold-blooded fake
 I will shut the world away
 
 Fall!
-
-
-

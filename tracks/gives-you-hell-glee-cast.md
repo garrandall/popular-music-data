@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7oN2q9L9YShc6weFVvnnxA
 features: []
-genres: []
+first_released_as_single: false
 key: gives-you-hell-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/givesyouhell.html
 name: Gives You Hell
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2010
+runtime: 206666
 ---
-
 I wake up every evening
 With a big smile on my face
 And it never feels out of place.
@@ -93,6 +97,3 @@ Then you're the fool I've just as well I hope it gives you hell
 When you hear this song I hope that it will give you hell
 (give you hell)
 You can sing along I hope that he will treat you well
-
-
-

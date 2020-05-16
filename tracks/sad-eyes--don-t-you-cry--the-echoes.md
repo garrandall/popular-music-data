@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The Echoes
+external_ids:
+  spotify: spotify:track:27liy9irlAusbfIBGdmVUw
 features: []
-genres: []
+first_released_as_single: false
 key: sad-eyes--don-t-you-cry--the-echoes
 name: Sad Eyes (Don't You Cry)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 147946
 ---
 

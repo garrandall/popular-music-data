@@ -1,8 +1,11 @@
 ---
+album: With The Beatles
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3idqWaBn3mRdsIodCU6uBi
 features: []
-genres: []
+first_released_as_single: false
 key: roll-over-beethoven-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/rolloverbeethoven.html
 name: Roll Over Beethoven
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1963
+runtime: 165466
 ---
-
 Well gonna write a little letter
 Gonna mail it to my local D.J.
 It's a rocking little record
@@ -75,6 +79,3 @@ Roll over Beethoven
 Roll over Beethoven
 Roll over Beethoven
 Dig to these rhythm and blues
-
-
-

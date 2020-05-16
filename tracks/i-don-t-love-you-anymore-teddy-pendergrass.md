@@ -1,8 +1,11 @@
 ---
+album: Teddy Pendergrass
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:2NLgJVAko27NbJo5wINukh
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-love-you-anymore-teddy-pendergrass
 lyrics_url: https://genius.com/Teddy-pendergrass-i-dont-love-you-anymore-lyrics
 name: I Don't Love You Anymore
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 238386
 ---
 I don't love you anymore
 It's just that simple

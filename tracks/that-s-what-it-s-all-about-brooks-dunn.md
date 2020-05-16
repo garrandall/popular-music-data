@@ -1,9 +1,12 @@
 ---
+album: The Greatest Hits Collection II
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:6PToEvKwt5ZbRjgvQkgmJe
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-it-s-all-about-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-thats-what-its-all-about-lyrics
 name: That's What It's All About
@@ -88,6 +91,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-01-08'
+release_year: 2004
+runtime: 239853
 ---
 Hey
 Well you work and you slave and you spend all day in your thankless job

@@ -1,8 +1,11 @@
 ---
+album: Hard Labor
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:4Gde43cnNxOQMH8RHHguj3
 features: []
-genres: []
+first_released_as_single: false
 key: play-something-sweet--brickyard-blues--three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/playsomethingsweetbrickyardblues.html
 name: Play Something Sweet (Brickyard Blues)
@@ -55,8 +58,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 288280
 ---
-
 Well, I tried to run my game
 She said "Man, that's the same old thing I've heard before"
 And I'm too tired to go for your show (again and again)
@@ -128,6 +132,3 @@ Play somethin' sweet and make it funky
 Just let me lay back and grin like a monkey
 Play something I can understand
 Play me some Brickyard Blues
-
-
-

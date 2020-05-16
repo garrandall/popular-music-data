@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5E10OlQFbgG8FjNw0bBHw3
 features: []
-genres: []
+first_released_as_single: false
 key: u-can-t-touch-this-glee-cast
 lyrics_url: https://genius.com/Glee-cast-u-cant-touch-this-lyrics
 name: U Can't Touch This
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2010
+runtime: 247160
 ---
 U can't touch this
 

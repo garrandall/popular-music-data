@@ -1,8 +1,11 @@
 ---
+album: Us (Remastered Version)
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:5tZr0hfXpFCp6Kej0Q7lZv
 features: []
-genres: []
+first_released_as_single: false
 key: digging-in-the-dirt-peter-gabriel
 lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/digginginthedirt.html
 name: Digging In The Dirt
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1992
+runtime: 318013
 ---
-
 Something in me, dark and sticky
 All the time it's getting strong
 No way of dealing with this feeling
@@ -93,4 +97,3 @@ To open up the places I got hurt
 
 Digging in the dirt
 To find the places we got hurt
-

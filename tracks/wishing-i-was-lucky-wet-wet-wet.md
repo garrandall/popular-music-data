@@ -1,8 +1,11 @@
 ---
+album: Popped In Souled Out
 artists:
 - Wet Wet Wet
+external_ids:
+  spotify: spotify:track:4w55wTh9ZbVgD9YC5Z4pZZ
 features: []
-genres: []
+first_released_as_single: false
 key: wishing-i-was-lucky-wet-wet-wet
 lyrics_url: https://www.azlyrics.com/lyrics/wetwetwet/wishingiwaslucky.html
 name: Wishing I Was Lucky
@@ -39,8 +42,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 233800
 ---
-
 I was living in a world of make believe
 When my best friend wrote and told me
 That there may be a job in the city
@@ -81,6 +85,3 @@ Wishing I was lucky, wishing I was lucky
 I was wishing I was lucky
 
 Hey son go, hey son go, to the city
-
-
-

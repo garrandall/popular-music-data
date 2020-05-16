@@ -1,9 +1,12 @@
 ---
+album: Peepshow (Remastered And Expanded)
 artists:
 - Siouxsie
 - The Banshees
+external_ids:
+  spotify: spotify:track:3VkyKA0iCT1ABwaSjb0kpf
 features: []
-genres: []
+first_released_as_single: false
 key: peek-a-boo-siouxsie-the-banshees
 lyrics_url: https://www.azlyrics.com/lyrics/siouxsieandthebanshees/peekaboo.html
 name: Peek-A-Boo
@@ -64,8 +67,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1988
+runtime: 192813
 ---
-
 Creeping up the backstairs
 Slinking into dark stalls
 Shapeless and slumped in bath chairs
@@ -107,6 +111,3 @@ Golly jeepers
 Where'd you get those weepers?
 Peepshow, creepshow
 Where did you get those eyes?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1oqIgJpPpW9wwXcitli8EF
 features: []
-genres: []
+first_released_as_single: false
 key: telephone-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/telephone.html
 name: Telephone
@@ -11,8 +14,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 222960
 ---
-
 Hello, hello baby you called?
 I can't hear a thing
 I have got no service
@@ -132,6 +136,3 @@ And you're not gonna reach my telephone
 "We're sorry
 The number you have reached is not in service at this time
 Please check the number or try your call again"
-
-
-

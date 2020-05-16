@@ -1,8 +1,11 @@
 ---
+album: TP
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:16fL0EBjZAqAVASav7A6Rl
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-we-try-teddy-pendergrass
 lyrics_url: https://genius.com/Teddy-pendergrass-cant-we-try-lyrics
 name: Can't We Try
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 303720
 ---
 Come lay your head on my heart
 Soon it'll be apart, stay here to the touch of morning

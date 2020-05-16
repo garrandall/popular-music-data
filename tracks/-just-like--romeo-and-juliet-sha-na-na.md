@@ -1,8 +1,11 @@
 ---
+album: 'Grease For Peace: The Best of Sha Na Na'
 artists:
 - Sha Na Na
+external_ids:
+  spotify: spotify:track:3UDSfh7CyfmbZ2TbmafkHV
 features: []
-genres: []
+first_released_as_single: false
 key: -just-like--romeo-and-juliet-sha-na-na
 lyrics_url: https://www.musixmatch.com/lyrics/Sha-Na-Na/Just-Like-Romeo-and-Juliet
 name: (Just Like) Romeo And Juliet
@@ -47,6 +50,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 136240
 ---
 (Oh-oh-oop)
 

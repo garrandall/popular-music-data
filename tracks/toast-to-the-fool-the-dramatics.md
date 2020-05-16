@@ -1,8 +1,11 @@
 ---
+album: Dramatically Yours
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:0uGtpUPbqOcVeGAzK3e1nt
 features: []
-genres: []
+first_released_as_single: false
 key: toast-to-the-fool-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/toasttothefool.html
 name: Toast To The Fool
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 331066
 ---
-
 You gave your all and all to him, he was untrue
 He tried to find another girl sweeter than you
 Imagination sent him on a wild goose chase
@@ -148,6 +152,3 @@ To the fool
 Who let you go?
 (Who let you go?)
 But now we're together he can't hurt you no more
-
-
-

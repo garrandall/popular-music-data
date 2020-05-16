@@ -1,8 +1,11 @@
 ---
+album: No Pressure
 artists:
 - Erick Sermon
+external_ids:
+  spotify: spotify:track:6jaj4k0LwFLy1q54TXZZpZ
 features: []
-genres: []
+first_released_as_single: false
 key: stay-real-erick-sermon
 lyrics_url: https://genius.com/Erick-sermon-stay-real-lyrics
 name: Stay Real
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1993
+runtime: 235466
 ---
 It's on breaker 1, 2 mike checkin'
 Flexin no half steppin

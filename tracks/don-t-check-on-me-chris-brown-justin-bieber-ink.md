@@ -1,10 +1,13 @@
 ---
+album: Indigo
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3msKIQc0Yjuz3Zn39g3KLX
 features:
 - Justin Bieber
 - Ink
-genres: []
+first_released_as_single: true
 key: don-t-check-on-me-chris-brown-justin-bieber-ink
 lyrics_url: https://genius.com/Chris-brown-dont-check-on-me-lyrics
 name: Don't Check On Me
@@ -13,6 +16,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2019
+runtime: 204880
 ---
 If I'm out at the bar havin' a night on the town
 Life of the party, pourin' shots of the brown

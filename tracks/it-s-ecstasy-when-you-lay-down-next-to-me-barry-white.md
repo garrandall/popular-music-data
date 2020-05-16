@@ -1,8 +1,11 @@
 ---
+album: Barry White Sings For Someone You Love
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:3QXNBUYJX2aekx6mHQ14GZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-ecstasy-when-you-lay-down-next-to-me-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/itsecstasywhenyoulaydownnexttome.html
 name: It's Ecstasy When You Lay Down Next To Me
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
+release_year: 1977
+runtime: 417600
 ---
-
 When we met, it wasn't quite clear to me
 What you had in store was there for only me
 Silly, you know you took me by surprise
@@ -129,6 +133,3 @@ Oh oh wee, ecstasy, when you're layin' here with me, uh-huh
 
 In this ecstasy when you are here with me, yeah
 Oh, it's ecstasy, Lord knows when you're next to me, yeah
-
-
-

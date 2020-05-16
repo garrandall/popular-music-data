@@ -1,8 +1,11 @@
 ---
+album: Farewell Andromeda
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:20iSnXUqzJiEZyFQQ5DTlH
 features: []
-genres: []
+first_released_as_single: false
 key: farewell-andromeda--welcome-to-my-morning--john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/farewellandromedawelcometomymorning.html
 name: Farewell Andromeda (Welcome To My Morning)
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 243173
 ---
-
 Welcome to my morning, welcome to my day.
 Yes, I'm the one responsible, I made it just this way.
 To make myself some pictures, see what they might bring.
@@ -52,6 +56,3 @@ To make myself some pictures, see what they might bring.
 I think I made it perfectly, I wouldn't change a thing.
 La la la, la la la la la. La la la, la la la la la.
 La la la, la la la la la. La la la, la la la la la.
-
-
-

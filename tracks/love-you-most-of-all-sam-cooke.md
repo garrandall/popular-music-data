@@ -1,8 +1,11 @@
 ---
+album: The Man Who Invented Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:0nvzDz3CqEViJaqT2cuFuY
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-most-of-all-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/loveyoumostofall.html
 name: Love You Most Of All
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1958
+runtime: 136800
 ---
-
 Your my girl you're so sweet
 Honey you can't be beat
 I love you, I love you
@@ -120,6 +124,3 @@ When we walk down the street
 All the fellas go "wooo weeee"
 That's why I love you
 I love you most of all
-
-
-

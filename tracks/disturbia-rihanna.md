@@ -1,8 +1,11 @@
 ---
+album: 'Good Girl Gone Bad: Reloaded'
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4gu5qSI57tgmAkFjXGQyg6
 features: []
-genres: []
+first_released_as_single: false
 key: disturbia-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/disturbia.html
 name: Disturbia
@@ -155,8 +158,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 236400
 ---
-
 Bum bum be-dum bum bum be-dum bum
 Bum bum be-dum bum bum be-dum bum
 Bum bum be-dum bum bum be-dum bum
@@ -270,6 +274,3 @@ Bum bum be-dum bum bum be-dum bum
 Bum bum be-dum bum bum be-dum bum
 Bum bum be-dum bum bum be-dum bum
 Bum bum be-dum bum bum be-dum bum
-
-
-

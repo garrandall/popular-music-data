@@ -1,9 +1,12 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:0RE8WWlaCQM6M4XHUK3u7b
 features:
 - Karen Fairchild
-genres: []
+first_released_as_single: false
 key: home-alone-tonight-luke-bryan-karen-fairchild
 lyrics_url: https://genius.com/Luke-bryan-home-alone-tonight-lyrics
 name: Home Alone Tonight
@@ -84,6 +87,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 190773
 ---
 What you doing in this place?
 Well, I could probably ask you the same thing

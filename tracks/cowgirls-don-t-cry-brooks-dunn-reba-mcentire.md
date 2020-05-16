@@ -1,10 +1,13 @@
 ---
+album: '#1s ... and then some'
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:54007AqKIiRCG69C3ySu0b
 features:
 - Reba McEntire
-genres: []
+first_released_as_single: false
 key: cowgirls-don-t-cry-brooks-dunn-reba-mcentire
 lyrics_url: https://genius.com/Brooks-and-dunn-cowgirls-dont-cry-lyrics
 name: Cowgirls Don't Cry
@@ -89,6 +92,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2009-04-11'
+release_year: 2008
+runtime: 214853
 ---
 Her Daddy gave her, her first pony
 Then taught her to ride

@@ -1,8 +1,11 @@
 ---
+album: '#SantanaWorld (+)'
 artists:
 - Tay-K
+external_ids:
+  spotify: spotify:track:3wGXyJGsCf1myH5MooQIqE
 features: []
-genres: []
+first_released_as_single: false
 key: the-race-tay-k
 lyrics_url: https://genius.com/Tay-k-the-race-lyrics
 name: The Race
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 140000
 ---
 I-I-I'm Lil Tay-K, I don't think you want no action (Gang, gang)
 You want action, you get turned into past tense (In the past)

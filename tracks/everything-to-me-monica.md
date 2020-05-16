@@ -1,8 +1,11 @@
 ---
+album: Still Standing
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:7I7ucdSNlZtt0XVgjIYSML
 features: []
-genres: []
+first_released_as_single: true
 key: everything-to-me-monica
 lyrics_url: https://genius.com/Monica-everything-to-me-lyrics
 name: Everything To Me
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 197213
 ---
 :
 Boy if you ever left my

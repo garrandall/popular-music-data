@@ -1,8 +1,11 @@
 ---
+album: Reel Life
 artists:
 - Boy Meets Girl
+external_ids:
+  spotify: spotify:track:1lsrFXgDqIGhtKXuuQzkqR
 features: []
-genres: []
+first_released_as_single: false
 key: bring-down-the-moon-boy-meets-girl
 lyrics_url: https://genius.com/Boy-meets-girl-bring-down-the-moon-lyrics
 name: Bring Down The Moon
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 301026
 ---
 I'm walking in darkness
 With no shadows

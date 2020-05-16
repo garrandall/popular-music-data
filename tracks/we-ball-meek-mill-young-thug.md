@@ -1,9 +1,12 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:7mlkO7fkD1tJrxoqOMGzqF
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: we-ball-meek-mill-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/weball.html
 name: We Ball
@@ -12,9 +15,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 227956
 ---
-
-
 Yeah!
 RIP Dex Osama
 Lil Snupe
@@ -86,6 +89,3 @@ Yeah, fuck it, we ball
 Tear down the mall, yeah
 Fuck it, we ball
 Tear down the mall, ayy
-
-
-

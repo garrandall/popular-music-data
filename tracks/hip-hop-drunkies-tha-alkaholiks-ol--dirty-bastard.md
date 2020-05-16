@@ -1,9 +1,12 @@
 ---
+album: Likwidation
 artists:
 - Tha Alkaholiks
+external_ids:
+  spotify: spotify:track:51aJEzSZv9jVyNTQNRTYti
 features:
 - Ol' Dirty Bastard
-genres: []
+first_released_as_single: false
 key: hip-hop-drunkies-tha-alkaholiks-ol--dirty-bastard
 lyrics_url: https://genius.com/Tha-alkaholiks-hip-hop-drunkies-lyrics
 name: Hip Hop Drunkies
@@ -44,6 +47,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 294000
 ---
 What's yo' name?
 What's yo' naaaaaame?

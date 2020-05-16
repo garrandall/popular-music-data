@@ -1,8 +1,11 @@
 ---
+album: Diver Down
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:4uKDB1adPk8DgV7WwBePQi
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-street-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/dancinginthestreets.html
 name: Dancing In The Street
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1982
+runtime: 225012
 ---
-
 Wow! 
 Ah yeah! 
 Calling out around the world,are you ready for a brand new beat. 
@@ -79,6 +83,3 @@ Dancing,dancing in the streets,
 Way down in LA,everyday,dancing in the streets (Dancing in the streets) 
 San Francisco way, (Dancing in the streets), they do it everyday now, 
 (Dancing in the streets)
-
-
-

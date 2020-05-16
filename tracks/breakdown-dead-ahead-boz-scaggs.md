@@ -1,8 +1,11 @@
 ---
+album: Middle Man
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:0285gn8Mdgn97TDJLi0r7l
 features: []
-genres: []
+first_released_as_single: false
 key: breakdown-dead-ahead-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/breakdowndeadahead.html
 name: Breakdown Dead Ahead
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
+release_year: 1980
+runtime: 275493
 ---
-
 I call ya
 You ain't in
 What's this cold reaction
@@ -116,6 +120,3 @@ And just maybe you're in way above your head
 I may burn.. might upset you
 But you know I'd never let you down down down down
 No no no oh oh oh
-
-
-

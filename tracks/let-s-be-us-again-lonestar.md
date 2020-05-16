@@ -1,8 +1,11 @@
 ---
+album: Let's Be Us Again
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:4mvzQZHMygKm09qnVdsTFG
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-be-us-again-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/letsbeusagain.html
 name: Let's Be Us Again
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 1995
+runtime: 233440
 ---
-
 Tell me what I have to do tonight
 Cause I'd do anything to make it right
 Let's be us again
@@ -128,6 +132,3 @@ Oh here I am I'm reachin out for you
 Won't you open up your heart and let me come back in
 Lets be us again
 Oh, lets be us again
-
-
-

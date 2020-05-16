@@ -1,8 +1,11 @@
 ---
+album: From Nowhere
 artists:
 - The Troggs
+external_ids:
+  spotify: spotify:track:4hmjM2PqV9hZCsB6Z4bGOP
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-control-myself-the-troggs
 lyrics_url: https://genius.com/The-troggs-i-cant-control-myself-lyrics
 name: I Can't Control Myself
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 185160
 ---
 Oh no!
 

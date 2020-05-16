@@ -1,8 +1,11 @@
 ---
+album: Manic
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:7lidXGPXPYLNThITAOTlkK
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-be-sad-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/youshouldbesad.html
 name: You should be sad
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 205473
 ---
-
 I want to start this out and say
 I gotta get it off my chest
 Got no anger, got no malice
@@ -116,6 +120,3 @@ You should be sad
 You should be
 You should be
 You should be
-
-
-

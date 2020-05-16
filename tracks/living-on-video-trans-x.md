@@ -1,8 +1,11 @@
 ---
+album: On My Own
 artists:
 - Trans-X
+external_ids:
+  spotify: spotify:track:4LxJG3NSTrLkp8LXIv6Ouf
 features: []
-genres: []
+first_released_as_single: false
 key: living-on-video-trans-x
 lyrics_url: https://genius.com/Trans-x-living-on-video-lyrics
 name: Living On Video
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1983
+runtime: 226586
 ---
 Give me light, give me action
 At the touch of a button

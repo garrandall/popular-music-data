@@ -1,8 +1,11 @@
 ---
+album: Stephen Stills
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:3NNkJwiHucP5QyUEAIMXra
 features: []
-genres: []
+first_released_as_single: false
 key: love-the-one-you-re-with-stephen-stills
 lyrics_url: https://genius.com/Stephen-stills-love-the-one-youre-with-lyrics
 name: Love The One You're With
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 185586
 ---
 If you're down and confused
 And you don't remember who you're talking to

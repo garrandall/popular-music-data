@@ -1,8 +1,11 @@
 ---
+album: British Lions
 artists:
 - British Lions
+external_ids:
+  spotify: spotify:track:5RCCLWMF23BMcpUdewDVPp
 features: []
-genres: []
+first_released_as_single: false
 key: wild-in-the-streets-british-lions
 lyrics_url: https://www.musixmatch.com/lyrics/British-Lions/Wild-in-the-Streets
 name: Wild In The Streets
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
+release_year: 1976
+runtime: 180973
 ---
 Wild in the streets
 Wild in the streets

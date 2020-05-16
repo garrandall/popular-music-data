@@ -1,8 +1,11 @@
 ---
+album: The Seasoning
 artists:
 - J'Son
+external_ids:
+  spotify: spotify:track:5DroEIQQK08AHeEeoefOzX
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-look-j-son
 lyrics_url: https://genius.com/Json-take-a-look-lyrics
 name: Take A Look
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1996
+runtime: 230320
 ---
 Oh oh
 Take a look at me

@@ -1,8 +1,11 @@
 ---
+album: Welcome Home
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:6OzujJBXwYPxJ7KeqflLtr
 features: []
-genres: []
+first_released_as_single: false
 key: my-old-man-zac-brown-band
 lyrics_url: https://genius.com/Zac-brown-band-my-old-man-lyrics
 name: My Old Man
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2017
+runtime: 227222
 ---
 He was a giant
 And I was just a kid

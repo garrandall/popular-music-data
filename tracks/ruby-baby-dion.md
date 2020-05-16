@@ -1,8 +1,11 @@
 ---
+album: Ruby Baby
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:6QyhpZJvcIPqx1v0UAk3NM
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-baby-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/rubybaby.html
 name: Ruby Baby
@@ -59,8 +62,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
+release_year: 1962
+runtime: 156866
 ---
-
 Ah now said I love a girl and-a Ruby is her name
 This girl don't love me but I love 'er just the same
 Whoa, oh, oh, oh, Ruby, Ruby, I'm-a want ya
@@ -88,6 +92,3 @@ Hey-hey (Ruby, Ruby, Ruby, baby) hey-hey...
 Ah listen, listen, listen, now
 Ruby, Ruby, Ruby, Ruby will you be mine?
 ...
-
-
-

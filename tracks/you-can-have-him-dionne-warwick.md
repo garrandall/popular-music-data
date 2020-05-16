@@ -1,8 +1,11 @@
 ---
+album: The Sensitive Sound Of Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:1znMBunwCIVomAUacZdkxX
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-have-him-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/youcanhavehim.html
 name: You Can Have Him
@@ -31,8 +34,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 211120
 ---
-
 Well, you can have him, I don't want him,
 He didn't love me anyway.
 He only wanted someone to play with
@@ -77,6 +81,3 @@ But all I want
 All I want
 All I want
 All I want
-
-
-

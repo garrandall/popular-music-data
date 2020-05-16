@@ -1,9 +1,12 @@
 ---
+album: The Return of East Atlanta Santa
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:5tFep7dXGd7vEJ668wTPux
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: both-gucci-mane-drake
 lyrics_url: https://genius.com/Gucci-mane-both-lyrics
 name: Both
@@ -96,6 +99,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 190311
 ---
 Southside
 If Young Metro don't trust you, I'm gon' shoot you

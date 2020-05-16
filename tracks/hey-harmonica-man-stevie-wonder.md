@@ -1,8 +1,11 @@
 ---
+album: Stevie At The Beach
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:23kC1wLVajqmlKE0gTVGMI
 features: []
-genres: []
+first_released_as_single: false
 key: hey-harmonica-man-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/heyharmonicaman.html
 name: Hey Harmonica Man
@@ -39,8 +42,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 158946
 ---
-
 Hey Harmonica Man,
 Whatcha calling my name?
 Tell us if you can,

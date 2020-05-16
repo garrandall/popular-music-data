@@ -1,8 +1,11 @@
 ---
+album: One By One
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:5fw2E2H6yZJWN5H11dDznl
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-kiss-from-you-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/justonekissfromyou.html
 name: Just One Kiss From You
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 161626
 ---
-
 All I need is just one kiss from you
 To see me through
 Just once more might I look in your eyes
@@ -54,6 +58,3 @@ And I'll prove how our love can be so right
 All I need is just one kiss from you
 All I need is just one kiss from you
 All I need is just one kiss from you
-
-
-

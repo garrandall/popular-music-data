@@ -1,8 +1,11 @@
 ---
+album: Shock
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:2JSnduEwkpqphqYB2kUw4R
 features: []
-genres: []
+first_released_as_single: false
 key: shame-the-motels
 lyrics_url: https://genius.com/The-motels-shame-lyrics
 name: Shame
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 252173
 ---
 A very simple statement
 A very simple crime

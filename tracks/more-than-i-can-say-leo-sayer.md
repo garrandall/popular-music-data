@@ -1,8 +1,11 @@
 ---
+album: Living In A Fantasy
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:3RJ81z1sPLeWEFuCfGaCLC
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-i-can-say-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/morethanicansay.html
 name: More Than I Can Say
@@ -99,8 +102,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1980
+runtime: 220533
 ---
-
 Whoa, whoa
 Yeah, yeah
 I love you more than I can say
@@ -154,6 +158,3 @@ I love twice as much tomorrow
 I love you more than I can say
 (More than I can say)
 I love you more than words can say
-
-
-

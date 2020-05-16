@@ -1,8 +1,11 @@
 ---
+album: Electronic Opus
 artists:
 - BT
+external_ids:
+  spotify: spotify:track:4YdBsAfVBjo2E7rqxSiajl
 features: []
-genres: []
+first_released_as_single: false
 key: simply-being-loved--somnambulist--bt
 lyrics_url: https://genius.com/Bt-somnambulist-simply-being-loved-lyrics
 name: Simply Being Loved (Somnambulist)
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
+release_year: 2003
+runtime: 252560
 ---
 So little time, so little time - I'm so frustrated
 So little joy, so little joy - It's complicated

@@ -1,8 +1,11 @@
 ---
+album: Chasing the Sun
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:0xQ0oEwkMxLcuHEWFc7qwX
 features: []
-genres: []
+first_released_as_single: true
 key: chasing-the-sun-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/chasingthesun.html
 name: Chasing The Sun
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-08-16'
+release_year: 2014
+runtime: 162800
 ---
-
 Why am I in such a hurry
 Always getting up too early
 So fast, everything is blurry, oh oh
@@ -62,6 +66,3 @@ Won't miss out on the fun
 Gotta get it while our hearts are young
 I'm chasing the sun
 Oh, ohohohoh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Holland
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:2jPrF2JJsx8Ux8R7hxVXfu
 features: []
-genres: []
+first_released_as_single: false
 key: california-saga--on-my-way-to-sunny-californ-i-a--the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-california-saga-california-lyrics
 name: California Saga (On My Way To Sunny Californ-i-a)
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 204093
 ---
 On my way to sunny California
 On my way to spend another sunny day

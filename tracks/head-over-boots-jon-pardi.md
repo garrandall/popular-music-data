@@ -1,8 +1,11 @@
 ---
+album: California Sunrise
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:4ly1QBXEwYoDmje9rmEgC4
 features: []
-genres: []
+first_released_as_single: false
 key: head-over-boots-jon-pardi
 lyrics_url: https://genius.com/Jon-pardi-head-over-boots-lyrics
 name: Head Over Boots
@@ -103,6 +106,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2016
+runtime: 202346
 ---
 I wanna sweep you off your feet tonight
 I wanna love you and hold you tight

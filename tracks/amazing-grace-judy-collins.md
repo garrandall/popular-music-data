@@ -1,8 +1,11 @@
 ---
+album: Whales & Nightingales
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:2OUlsjE0UMxMSaU9l2avEi
 features: []
-genres: []
+first_released_as_single: false
 key: amazing-grace-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/amazinggrace.html
 name: Amazing Grace
@@ -67,8 +70,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
+release_year: 1970
+runtime: 248693
 ---
-
 Amazing grace! How sweet the sound 
 That saved a wretch like me! 
 I once was lost, but now am found, 
@@ -88,6 +92,3 @@ And when we've been there ten thousand years,
 Bright shining as the sun, 
 We'll have no less days to sing God's praise 
 Than when we first begun.
-
-
-

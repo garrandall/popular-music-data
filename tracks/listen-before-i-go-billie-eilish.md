@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:0tMSssfxAL2oV8Vri0mFHE
 features: []
-genres: []
+first_released_as_single: false
 key: listen-before-i-go-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/listenbeforeigo.html
 name: Listen Before I Go
@@ -11,8 +14,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2019
+runtime: 242652
 ---
-
 Take me to the rooftop
 I wanna see the world when I stop breathing, turnin' blue
 Tell me love is endless, don't be so pretentious
@@ -31,7 +35,7 @@ Taste me, the salty tears on my cheek
 That's what a year-long headache does to you
 I'm not okay, I feel so scattered
 Don't say I'm all that matters
-Leave me, dÃ©jÃ  vu (Hm)
+Leave me, déjÃ  vu (Hm)
 
 If you need me, wanna see me
 You better hurry, I'm leavin' soon
@@ -48,6 +52,3 @@ But I'm not sorry
 Call my friends and tell them that I love them
 And I'll miss them
 Sorry
-
-
-

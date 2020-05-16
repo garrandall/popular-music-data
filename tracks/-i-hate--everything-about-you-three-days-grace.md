@@ -1,8 +1,11 @@
 ---
+album: Three Days Grace
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:0M955bMOoilikPXwKLYpoi
 features: []
-genres: []
+first_released_as_single: false
 key: -i-hate--everything-about-you-three-days-grace
 lyrics_url: https://www.azlyrics.com/lyrics/threedaysgrace/ihateeverythingaboutyou.html
 name: (I Hate) Everything About You
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2004-04-10'
+release_year: 2003
+runtime: 231480
 ---
-
 Every time we lie awake
 After every hit we take
 Every feeling that I get
@@ -135,6 +139,3 @@ You love me
 
 I hate everything about you
 Why do I love you?
-
-
-

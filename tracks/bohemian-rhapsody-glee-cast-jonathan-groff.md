@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Journey To Regionals'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0tjeY2rdrKjUjtO5IwKusl
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: true
 key: bohemian-rhapsody-glee-cast-jonathan-groff
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/bohemianrhapsody.html
 name: Bohemian Rhapsody
@@ -12,8 +15,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 356133
 ---
-
 Is this the real life?
 Is this just fantasy?
 Caught in a landslide
@@ -85,6 +89,3 @@ Nothing really matters
 Nothing really matters to me
 
 Any way the wind blows...
-
-
-

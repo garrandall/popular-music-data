@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:0B6xqg8KkXUxK8rTEyGUM0
 features: []
-genres: []
+first_released_as_single: false
 key: follow-the-boys-connie-francis
 lyrics_url: https://genius.com/Connie-francis-follow-the-boys-lyrics
 name: Follow The Boys
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 159600
 ---
 I'll follow the boys, wherever they go
 I'll follow the boys, 'cause in my heart I know

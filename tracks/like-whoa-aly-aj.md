@@ -1,9 +1,12 @@
 ---
+album: Insomniatic
 artists:
 - Aly
 - AJ
+external_ids:
+  spotify: spotify:track:44e84JcEUfOs9cNGu8nwU5
 features: []
-genres: []
+first_released_as_single: false
 key: like-whoa-aly-aj
 lyrics_url: https://www.azlyrics.com/lyrics/alyaj/likewhoa.html
 name: Like Whoa
@@ -40,8 +43,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2007
+runtime: 150826
 ---
-
 Life is good I can't complain
 I mean I could but no one's listening
 Your image overwhelms my brain
@@ -97,6 +101,3 @@ Every inch of me is like
 Whoa, whoa
 Got me feeling like
 Whoa, whoa
-
-
-

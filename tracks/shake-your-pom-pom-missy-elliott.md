@@ -1,8 +1,11 @@
 ---
+album: Total Dance 2008 Vol. 2
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:6xWYeqSgzXQIum7UjtAZ0v
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-pom-pom-missy-elliott
 lyrics_url: https://genius.com/Missy-elliott-shake-your-pom-pom-lyrics
 name: Shake Your Pom Pom
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
+release_year: 2008
+runtime: 232533
 ---
 I see you got low
 And you got plenty more to show, go

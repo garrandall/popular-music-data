@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:2r3XdCUtHzObUvt7T3An8S
 features: []
-genres: []
+first_released_as_single: false
 key: heather-honey-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/heatherhoney.html
 name: Heather Honey
@@ -39,8 +42,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 172133
 ---
-
 Oh Heather honey
 Warm as the sunshine
 Oh Heather honey
@@ -86,4 +90,3 @@ Oh Heather honey
 Warm as the sunshine
 Oh Heather honey
 Your love is so fine
-

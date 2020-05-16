@@ -1,8 +1,11 @@
 ---
+album: Vital Signs
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:0kly0FygSDXVbvbXxsZ31S
 features: []
-genres: []
+first_released_as_single: false
 key: high-on-you-survivor
 lyrics_url: https://genius.com/Survivor-high-on-you-lyrics
 name: High On You
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 248200
 ---
 There you stood, that'll teach her
 To look so good and feel so right

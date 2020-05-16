@@ -1,8 +1,11 @@
 ---
+album: Turn Back The Hands Of Time
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:4Ef157WA1bCrnuD57IPMnP
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-back-in-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/Let-Me-Back-In
 name: Let Me Back In
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 160466
 ---
 Oh, I know you're surprised, girl
 To see me knocking at your door

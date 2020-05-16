@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Reeves
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:0lYfRy68klt6iA0zsYF1r6
 features: []
-genres: []
+first_released_as_single: false
 key: adios-amigo-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/adiosamigo.html
 name: Adios Amigo
@@ -31,8 +34,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 150266
 ---
-
 Adios amigo, adios my friend
 The road we have travelled has come to an end
 When two love the same love, one love has to lose
@@ -47,6 +51,3 @@ Adios compadre, let us shed no tears
 May all your mananas bring joy through the years
 Away from these memories, my life I must spend
 Adios amigo, adios my friend...
-
-
-

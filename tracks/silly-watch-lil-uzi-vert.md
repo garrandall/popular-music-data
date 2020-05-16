@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5egD7A5x9AHdVO2fMo3Wbo
 features: []
-genres: []
+first_released_as_single: false
 key: silly-watch-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/sillywatch.html
 name: Silly Watch
@@ -11,8 +14,9 @@ rankings:
   rank: 9
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 195692
 ---
-
 Yeah
 Woo, woo (Let's go, Mario)
 Woo, woo (Let's go)
@@ -114,6 +118,3 @@ Man, these niggas out here, I swear they talk a lot
 Drive-by on a rat, you a walkin' cop
 Double-park, new Lambo' with no parkin' spot
 Comme des GarÃ§ons, use my heart a lot (Lil Uzi)
-
-
-

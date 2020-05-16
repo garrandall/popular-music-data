@@ -1,9 +1,12 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:5L9WFUodzACitS1TiGm7Mi
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: no-sense-justin-bieber-travi--scott
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/nosense.html
 name: No Sense
@@ -20,9 +23,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 275040
 ---
-
-
 Yeah, yeah
 It don't make no sense 'less I'm doing it with you
 It don't make no sense 'less I'm doing it with you
@@ -100,6 +103,3 @@ It don't make no sense 'less I'm doing it with you
 No, it don't make sense, it don't make sense
 It don't make no sense 'less I'm doing it with you
 (alright, yeah, alright)
-
-
-

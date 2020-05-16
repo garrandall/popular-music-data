@@ -1,8 +1,11 @@
 ---
+album: Pebbles
 artists:
 - Pebbles
+external_ids:
+  spotify: spotify:track:5VGVY3j6yI8ygGcI0bMIQT
 features: []
-genres: []
+first_released_as_single: false
 key: girlfriend-pebbles
 lyrics_url: https://www.azlyrics.com/lyrics/pebbles/girlfriend.html
 name: Girlfriend
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1987
+runtime: 402600
 ---
-
 To believe
 Or not to believe
 That is the question
@@ -209,6 +213,3 @@ Girlfriend
 You know you were the best he ever had, oh, oh, oh
 
 Girlfriend!
-
-
-

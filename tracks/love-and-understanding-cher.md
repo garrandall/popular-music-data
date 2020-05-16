@@ -1,8 +1,11 @@
 ---
+album: Love Hurts
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:07JHlVmSrvUognDYYBMkOT
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-understanding-cher
 lyrics_url: https://genius.com/Cher-love-and-understanding-lyrics
 name: Love And Understanding
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1991
+runtime: 282040
 ---
 Here, here in this world
 Where do we go?

@@ -1,8 +1,11 @@
 ---
+album: Vanguard Visionaries
 artists:
 - The Rooftop Singers
+external_ids:
+  spotify: spotify:track:5TcgFF2A6lxgbyDhlUph7p
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-in-the-rooftop-singers
 lyrics_url: https://genius.com/The-rooftop-singers-walk-right-in-lyrics
 name: Walk Right In
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
+release_year: 1963
+runtime: 157000
 ---
 Walk right in, sit right down
 Daddy, let your mind roll on

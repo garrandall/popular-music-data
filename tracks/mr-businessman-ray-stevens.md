@@ -1,8 +1,11 @@
 ---
+album: Even Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:0w1Y0je79Ogk72SIiEF7rX
 features: []
-genres: []
+first_released_as_single: false
 key: mr-businessman-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/mrbusinessman.html
 name: Mr Businessman
@@ -35,8 +38,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 199986
 ---
-
 Itemize the things you covet
 As you squander through your life
 Bigger cars, bigger houses
@@ -92,6 +96,3 @@ What's your plan?
 Get down to business, Mr. Businessman
 If you can
 Hey, yeah, hey, hey, hey, yeah, yeah
-
-
-

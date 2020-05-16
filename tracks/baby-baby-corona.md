@@ -1,8 +1,11 @@
 ---
+album: 90S, Vol. 1
 artists:
 - Corona
+external_ids:
+  spotify: spotify:track:1O1EISliV8RNxH0l1GNsfp
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-corona
 lyrics_url: https://genius.com/Corona-band-baby-baby-lyrics
 name: Baby Baby
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
+release_year: 1995
+runtime: 228013
 ---
 Baby baby, baby baby, baby baby, baby baby, baby baby
 

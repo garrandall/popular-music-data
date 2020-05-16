@@ -1,8 +1,11 @@
 ---
+album: LFO
 artists:
 - LFO
+external_ids:
+  spotify: spotify:track:16TZZy0lkwb5CoygaBzUbi
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-kiss-you-goodnight-lfo
 lyrics_url: https://genius.com/Lfo-i-dont-wanna-kiss-you-goodnight-lyrics
 name: I Don't Wanna Kiss You Goodnight
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-05-13'
+release_year: 1999
+runtime: 245360
 ---
 Ohhhh...
 I can't believe the night is gone

@@ -1,10 +1,13 @@
 ---
+album: I Need A Doctor
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:70ATm56tH7OrQ1zurYssz0
 features:
 - Eminem
 - Skylar Grey
-genres: []
+first_released_as_single: true
 key: i-need-a-doctor-dr--dre-eminem-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/drdre/ineedadoctor.html
 name: I Need A Doctor
@@ -89,9 +92,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 283733
 ---
-
-
 I'm about to lose my mind
 You've been gone for so long, I'm runnin' outta time
 I need a doctor, call me a doctor
@@ -181,6 +184,3 @@ I'm about to lose my mind
 You've been gone for so long, I'm runnin' outta time
 I need a doctor, call me a doctor
 I need a doctor, doctor to bring me back to life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Blackbyrds
 artists:
 - The Blackbyrds
+external_ids:
+  spotify: spotify:track:6QRwCMzf1iDap6V8vvTzE9
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-fluid-the-blackbyrds
 lyrics_url: https://genius.com/The-blackbyrds-do-it-fluid-lyrics
 name: Do It Fluid
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 323893
 ---
 I likes to party
 I likes to party

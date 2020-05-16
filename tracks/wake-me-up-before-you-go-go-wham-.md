@@ -1,8 +1,11 @@
 ---
+album: Make It Big
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:0ikz6tENMONtK6qGkOrU3c
 features: []
-genres: []
+first_released_as_single: false
 key: wake-me-up-before-you-go-go-wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/wakemeupbeforeyougogo.html
 name: Wake Me Up Before You Go-Go
@@ -103,8 +106,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 231333
 ---
-
 Jitterbug
 Jitterbug
 Jitterbug
@@ -175,6 +179,3 @@ Take me dancing
 (Boom-boom-boom-boom)
 
 (Boom-boom-boom-boom)
-
-
-

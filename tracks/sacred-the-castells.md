@@ -1,8 +1,11 @@
 ---
+album: So This Is Love
 artists:
 - The Castells
+external_ids:
+  spotify: spotify:track:1gIup4NhkpisuflvrWD4ur
 features: []
-genres: []
+first_released_as_single: false
 key: sacred-the-castells
 lyrics_url: https://genius.com/The-castells-sacred-lyrics
 name: Sacred
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 131533
 ---
 Sacred (whoa oh whoa)
 Our love is sacred (whoa oh whoa)

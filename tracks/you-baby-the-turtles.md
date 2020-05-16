@@ -1,8 +1,11 @@
 ---
+album: You Baby / Let Me Be
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:5AhnV2wQ9d2XJNKEXRWnaw
 features: []
-genres: []
+first_released_as_single: false
 key: you-baby-the-turtles
 lyrics_url: https://genius.com/The-turtles-you-baby-lyrics
 name: You Baby
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 138000
 ---
 From the time I fall asleep
 'Til the mornin' comes I dream about

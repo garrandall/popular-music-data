@@ -1,8 +1,11 @@
 ---
+album: The Genius Of Ray Charles
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:1IV8T9xWxJc0tSEFJit25F
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-good-times-roll-ray-charles
 lyrics_url: https://genius.com/Ray-charles-let-the-good-times-roll-lyrics
 name: Let The Good Times Roll
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 171773
 ---
 Hey everybody
 Let's have some fun

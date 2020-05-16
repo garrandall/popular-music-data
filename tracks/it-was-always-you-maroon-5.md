@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:2PLo8T3kGE9URFvBy3tUdt
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-always-you-maroon-5
 lyrics_url: https://genius.com/Maroon-5-it-was-always-you-lyrics
 name: It Was Always You
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
+release_year: 2014
+runtime: 239920
 ---
 Woke up sweating from a dream
 With a different kind of feeling

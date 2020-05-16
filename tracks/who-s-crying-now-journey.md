@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:5IK2FtuC0qmHHam9sWFxUI
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-crying-now-journey
 lyrics_url: https://genius.com/Journey-whos-crying-now-lyrics
 name: Who's Crying Now
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1981
+runtime: 300146
 ---
 It's been a mystery
 And still they try to see

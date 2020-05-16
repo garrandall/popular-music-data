@@ -1,8 +1,11 @@
 ---
+album: Introspect (Bonus Track Version)
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:50t8gshcAtXiUdk7nHfYDp
 features: []
-genres: []
+first_released_as_single: false
 key: games-people-play-joe-south
 lyrics_url: https://genius.com/Joe-south-games-people-play-lyrics
 name: Games People Play
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1968
+runtime: 215160
 ---
 Mmm
 La-da-da, da-da-da, da-da

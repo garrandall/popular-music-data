@@ -1,9 +1,12 @@
 ---
+album: Red Pill Blues
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:1KzF176eH3k51UwhuQHgr3
 features:
 - Future
-genres: []
+first_released_as_single: true
 key: cold-maroon-5-future
 lyrics_url: https://genius.com/Genius-brasil-traducoes-maroon-5-cold-ft-future-traducao-em-portugues-lyrics
 name: Cold
@@ -88,6 +91,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 224461
 ---
 Letra de "Maroon 5 - Cold (Tradução)" por Genius Brasil Traduções
 

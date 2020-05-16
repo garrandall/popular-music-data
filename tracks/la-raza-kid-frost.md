@@ -1,8 +1,11 @@
 ---
+album: Hispanic Causing Panic
 artists:
 - Kid Frost
+external_ids:
+  spotify: spotify:track:3zCg6CUmhxHukbUs0nd7ar
 features: []
-genres: []
+first_released_as_single: false
 key: la-raza-kid-frost
 lyrics_url: https://genius.com/Og-kid-frost-la-raza-lyrics
 name: La Raza
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-11-03'
+release_year: 1990
+runtime: 209066
 ---
 Q-Vo, aqui estoy, MC Kid Frost
 Yo soy jefe, patron, yes, the big boss

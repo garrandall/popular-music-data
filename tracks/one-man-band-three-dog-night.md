@@ -1,8 +1,11 @@
 ---
+album: Naturally
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:7sZ74qmKb1nyGKUgHROJ1n
 features: []
-genres: []
+first_released_as_single: false
 key: one-man-band-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-one-man-band-lyrics
 name: One Man Band
@@ -51,6 +54,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 174706
 ---
 Ain't no two ways about it
 I just can't live without ya

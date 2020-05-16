@@ -1,8 +1,11 @@
 ---
+album: Lou Christie and The Classics
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:013tlTXGKvrYjMh1cz6ZVK
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-s-the-night-the-chiffons
 lyrics_url: https://www.musixmatch.com/lyrics/Chiffons/Tonights-the-Night
 name: Tonight's The Night
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 110968
 ---
 Said you're gonna meet me
 (Tonight's the night)

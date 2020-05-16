@@ -1,8 +1,11 @@
 ---
+album: Gord's Gold
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:1TZteKaf5z3P3i87jyB8jc
 features: []
-genres: []
+first_released_as_single: false
 key: rainy-day-people-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/rainydaypeople.html
 name: Rainy Day People
@@ -51,8 +54,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 168826
 ---
-
 Rainy day people always seem to know when it's time to call
 Rainy day people don't talk, they just listen till they've heard it all
 Rainy day lovers don't lie when they tell 'ya they've been down like you
@@ -73,6 +77,3 @@ If you've been down too long
 
 Rainy day lovers don't hide love inside they just pass it on
 Rainy day lovers don't hide love inside they just pass it on
-
-
-

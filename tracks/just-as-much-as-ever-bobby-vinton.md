@@ -1,8 +1,11 @@
 ---
+album: Please Love Me Forever
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:0WFZ2nBYLAm5g9leS5f9tV
 features: []
-genres: []
+first_released_as_single: false
 key: just-as-much-as-ever-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/justasmuchasever.html
 name: Just As Much As Ever
@@ -39,8 +42,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 139666
 ---
-
 Just as much as ever
 I need you and want you to be here
 Just as much as ever
@@ -64,6 +68,3 @@ Darling, 'cause I'll never be satisfied till then
 For I am still the same old me
 With the same old love for you
 Just as much as ever, my heart beats for you
-
-
-

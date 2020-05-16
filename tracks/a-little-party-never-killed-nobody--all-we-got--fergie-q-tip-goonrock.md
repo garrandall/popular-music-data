@@ -1,10 +1,13 @@
 ---
+album: Music From Baz Luhrmann's Film The Great Gatsby
 artists:
 - Fergie
 - Q-Tip
 - GoonRock
+external_ids:
+  spotify: spotify:track:1mz9ZrRYu3EPVg9ZHFtjjf
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-party-never-killed-nobody--all-we-got--fergie-q-tip-goonrock
 lyrics_url: https://www.azlyrics.com/lyrics/fergie/alittlepartyneverkillednobodyallwegot.html
 name: A Little Party Never Killed Nobody (All We Got)
@@ -17,8 +20,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2013
+runtime: 240906
 ---
-
 Just one night's all we got
 Just one night's all we got
 Just one night's all we got
@@ -89,6 +93,3 @@ A little party never killed nobody, right here, right now's all we got
 
 A little party never killed nobody, so we gon' dance until we drop
 A little party never killed nobody, right here, right now's all we got
-
-
-

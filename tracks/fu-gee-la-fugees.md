@@ -1,8 +1,11 @@
 ---
+album: The Score
 artists:
 - Fugees
+external_ids:
+  spotify: spotify:track:1rJM37Dd4OcSJvzI84yCcP
 features: []
-genres: []
+first_released_as_single: false
 key: fu-gee-la-fugees
 lyrics_url: https://www.azlyrics.com/lyrics/fugees/fugeela.html
 name: Fu-Gee-La
@@ -87,9 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1995
+runtime: 260066
 ---
-
-
 We used to be number 10
 Now we're permanent one,
 In the battle lost my finger, Mic became my arm
@@ -160,6 +163,3 @@ A boy on the side of Babylon, trying to front like he's down with Mount Zion.
 Oh La La La, It's the way that we rock when we're doing our thang
 Oh La La La, It's the natural LA that the Refugees Bring
 Oh La La La La La La Lalala La Laaah, Sweeeeet Thing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All I Ever Wanted
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:4hxXbusv4Xh5CxAT6U6qHR
 features: []
-genres: []
+first_released_as_single: false
 key: my-life-would-suck-without-you-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/mylifewouldsuckwithoutyou.html
 name: My Life Would Suck Without You
@@ -103,9 +106,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2009
+runtime: 297346
 ---
-
-
 Guess this means you're sorry
 You're standing at my door
 Guess this means you take back
@@ -154,6 +157,3 @@ Forever united here somehow, yeah
 You got a piece of me
 And honestly
 My life (my life) would suck (would suck) without you
-
-
-

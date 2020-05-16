@@ -1,8 +1,11 @@
 ---
+album: Blacks' Magic
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:0S2TYZbaAAafGGyVkp7i0K
 features: []
-genres: []
+first_released_as_single: false
 key: you-showed-me-salt-n-pepa
 lyrics_url: https://genius.com/Salt-n-pepa-you-showed-me-lyrics
 name: You Showed Me
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1990
+runtime: 247426
 ---
 You showed me what to do, exactly what to do
 When I was in love with you

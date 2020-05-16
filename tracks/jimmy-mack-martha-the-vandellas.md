@@ -1,9 +1,12 @@
 ---
+album: Watchout!
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:7N3UAu6FkwdBg9J7OONBBP
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-mack-martha-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-jimmy-mack-831168-lyrics
 name: Jimmy Mack
@@ -64,6 +67,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1966
+runtime: 163733
 ---
 Jimmy Mack, Jimmy
 Oh, Jimmy Mack

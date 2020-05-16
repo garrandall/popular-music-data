@@ -1,8 +1,11 @@
 ---
+album: Sings
 artists:
 - Johnny Burnette
+external_ids:
+  spotify: spotify:track:2IlixBikcetbEkhRZb0S19
 features: []
-genres: []
+first_released_as_single: false
 key: big-big-world-johnny-burnette
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/Big-Big-World
 name: Big Big World
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 143066
 ---
 Nine one, 27th Avenue
 Walked up to the door

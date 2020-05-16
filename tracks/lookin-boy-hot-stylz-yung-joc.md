@@ -1,9 +1,12 @@
 ---
+album: Lookin Boy
 artists:
 - Hot Stylz
+external_ids:
+  spotify: spotify:track:00RYiT3a2lNQ1wTKBQXWSw
 features:
 - Yung Joc
-genres: []
+first_released_as_single: true
 key: lookin-boy-hot-stylz-yung-joc
 lyrics_url: https://genius.com/Hotstylz-lookin-boy-lyrics
 name: Lookin Boy
@@ -52,6 +55,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2008
+runtime: 207013
 ---
 Weak lookin' boy, you slow lookin' boy
 Dirty white sock on your toe lookin' boy
@@ -61,7 +66,7 @@ Midnight train Gladys Knight lookin’boy
 You poor lookin’boy, Don Imus ol' nappy headed ho lookin' boy
 Dig in your booty then smell it lookin' boy
 Rub it with the K-Y Jelly lookin' boy
-Getchya Riiiickkyy! Morris Chestnut shot in ya back lookin' boy
+Getchya Rickkyy! Morris Chestnut shot in ya back lookin' boy
 Valtrex brand new day lookin' boy
 You in house L Cool J lookin' boy
 Getchya No Mama! No Mama! Penny off good times big J.J. lookin' boy

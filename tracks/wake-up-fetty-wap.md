@@ -1,8 +1,11 @@
 ---
+album: Wake Up
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:6BOtDFg6GJm0rPUDuNmx57
 features: []
-genres: []
+first_released_as_single: true
 key: wake-up-fetty-wap
 lyrics_url: https://genius.com/Fetty-wap-wake-up-lyrics
 name: Wake Up
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2016
+runtime: 224000
 ---
 1738
 Tellin' you guys how I feel man...

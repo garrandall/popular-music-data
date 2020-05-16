@@ -1,8 +1,11 @@
 ---
+album: Dangerous Age
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:5KpWJgjvqMea81jjGdJW9A
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-up-bad-company
 lyrics_url: https://genius.com/Bad-company-shake-it-up-lyrics
 name: Shake It Up
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1988
+runtime: 238506
 ---
 I'm so blind, oh I just can't see, what kind of love you expect from me
 Let me know, you gotta sort this out

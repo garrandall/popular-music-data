@@ -1,9 +1,12 @@
 ---
+album: Changin' the Game
 artists:
 - Luke
+external_ids:
+  spotify: spotify:track:0tVDfAiHDgvRyXuVike1Ju
 features:
 - No Good But So Good
-genres: []
+first_released_as_single: false
 key: raise-the-roof-luke-no-good-but-so-good
 lyrics_url: https://genius.com/Luke-raise-the-roof-lyrics
 name: Raise The Roof
@@ -88,6 +91,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
+release_year: 1997
+runtime: 29688
 ---
 (Featuring No Good But So Good)
 WHAT TIME IS IT?? (BOOTY TIME)

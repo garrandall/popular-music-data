@@ -1,8 +1,11 @@
 ---
+album: Another Mother Further
 artists:
 - Mother's Finest
+external_ids:
+  spotify: spotify:track:0hyZgl8tHThlycPEVwBpax
 features: []
-genres: []
+first_released_as_single: false
 key: baby-love-mother-s-finest
 lyrics_url: https://genius.com/Mothers-finest-baby-love-lyrics
 name: Baby Love
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1977
+runtime: 262826
 ---
 There is no other to compare to you
 You've got me blinded, givin' all that I have to you

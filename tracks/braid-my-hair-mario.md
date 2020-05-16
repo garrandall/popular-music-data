@@ -1,8 +1,11 @@
 ---
+album: Mario
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:6HICEWiTO1LSB5wayNBh70
 features: []
-genres: []
+first_released_as_single: false
 key: braid-my-hair-mario
 lyrics_url: https://www.azlyrics.com/lyrics/mario/braidmyhair.html
 name: Braid My Hair
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
+release_year: 2002
+runtime: 247266
 ---
-
 When you look at me, I know you see
 a 15 year old, gettin his dough
 back and fourth to the studios
@@ -101,6 +105,3 @@ girl won't you braid my hair
 baby make me feel allright
 and make it last all nite
 (and take away the stress and drama in my life)
-
-
-

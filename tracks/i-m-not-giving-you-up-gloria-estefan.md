@@ -1,8 +1,11 @@
 ---
+album: DESTINY
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:6A4jyF7Fs3tzgzvmvMbBRn
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-giving-you-up-gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-im-not-giving-you-up-lyrics
 name: I'm Not Giving You Up
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1997-04-12'
+release_year: 1993
+runtime: 247600
 ---
 To be completely honest
 It scares me to imagine

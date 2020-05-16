@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:37hRfyewSghL9gjSd9oOxQ
 features:
 - Sosamann
-genres: []
+first_released_as_single: false
 key: what-about-me-lil-wayne-sosamann
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/whataboutme.html
 name: What About Me
@@ -12,9 +15,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 216961
 ---
-
-
 If you saw me, would you understand?
 That I can't stand you with another man
 I see you happy where your life is at
@@ -73,6 +76,3 @@ And him, and him, how you do that?
 How you act like I never held you every night and now you never call back
 Please, girl, girl what about me?
 Girl, girl, girl what about me? Me?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Young Love
 artists:
 - Mat Kearney
+external_ids:
+  spotify: spotify:track:0RUXHlYhA057fCOe2vqIqu
 features: []
-genres: []
+first_released_as_single: false
 key: ships-in-the-night-mat-kearney
 lyrics_url: https://www.azlyrics.com/lyrics/matkearney/shipsinthenight.html
 name: Ships In The Night
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 255893
 ---
-
 Like ships in the night
 You keep passing me by
 We're just wasting time
@@ -97,6 +101,3 @@ Like ships in the night
 You're passing me by
 You're passing me by
 Like ships in the night
-
-
-

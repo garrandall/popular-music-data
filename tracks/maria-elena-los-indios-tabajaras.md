@@ -1,8 +1,11 @@
 ---
+album: Maria Elena
 artists:
 - Los Indios Tabajaras
+external_ids:
+  spotify: spotify:track:3ygHAK1w3qP4wp83KXUiiu
 features: []
-genres: []
+first_released_as_single: false
 key: maria-elena-los-indios-tabajaras
 name: Maria Elena
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 187866
 ---
 

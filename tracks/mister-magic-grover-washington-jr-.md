@@ -1,9 +1,12 @@
 ---
+album: Mister Magic
 artists:
 - Grover Washington
 - Jr.
+external_ids:
+  spotify: spotify:track:2fmXnPfzguSp3zKDibCBgv
 features: []
-genres: []
+first_released_as_single: false
 key: mister-magic-grover-washington-jr-
 lyrics_url: https://www.musixmatch.com/lyrics/Grover-Washington-Jr/Mister-Magic
 name: Mister Magic
@@ -48,6 +51,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1974
+runtime: 541826
 ---
 "Think About It"]
 Tic-tac, toe'n, three in a row and privilege

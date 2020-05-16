@@ -1,9 +1,12 @@
 ---
+album: 'Fully Loaded: God''s Country'
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:3y8xKFhQWc8DARB3fuGMGA
 features:
 - Trace Adkins
-genres: []
+first_released_as_single: true
 key: hell-right-blake-shelton-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/hellright.html
 name: Hell Right
@@ -12,8 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 207480
 ---
-
 (Hey)
 Yeah?
 (Tell 'em that story you were tellin' me)
@@ -70,6 +74,3 @@ If you gonna raise hell, then you better damn raise
 Hell right
 Hell right
 Hell right
-
-
-

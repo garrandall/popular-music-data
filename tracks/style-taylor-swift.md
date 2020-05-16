@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4lIxdJw6W3Fg4vUIYCB0S5
 features: []
-genres: []
+first_released_as_single: false
 key: style-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-style-lyrics
 name: Style
@@ -135,6 +138,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2014
+runtime: 231000
 ---
 Midnight
 You come and pick me up, no headlights

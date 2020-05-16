@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5Psnhdkyanjpgc2P8A5TSM
 features: []
-genres: []
+first_released_as_single: false
 key: emotionless-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/emotionless.html
 name: Emotionless
@@ -23,9 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-08-04'
+release_year: 2018
+runtime: 302173
 ---
-
-
 You've got me feeling emotions
 Higher, ooah
 You've got me fe-
@@ -108,6 +111,3 @@ You've got me fe-
 You've, oh
 Ayye
 Higher, higher
-
-
-

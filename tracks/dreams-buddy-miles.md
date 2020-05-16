@@ -1,8 +1,11 @@
 ---
+album: Them Changes
 artists:
 - Buddy Miles
+external_ids:
+  spotify: spotify:track:1ovcNC9b3bnQOOLpAisZ7C
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-buddy-miles
 lyrics_url: https://genius.com/Buddy-miles-dreams-lyrics
 name: Dreams
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
+release_year: 1970
+runtime: 291426
 ---
 Just one more morning
 I have to wake up with the blues

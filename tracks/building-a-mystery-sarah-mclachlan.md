@@ -1,8 +1,11 @@
 ---
+album: Surfacing
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:3ozomn4PrGEKEuusxX2HpC
 features: []
-genres: []
+first_released_as_single: false
 key: building-a-mystery-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/buildingamystery.html
 name: Building A Mystery
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1997
+runtime: 247306
 ---
-
 you come out at night
 that's when the energy comes
 and the dark side's light
@@ -142,4 +146,3 @@ oh you're a beautiful
 a beautiful fucked up man
 you're setting up your
 razor wire shrine
-

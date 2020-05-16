@@ -1,8 +1,11 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2oalKRlxTriLRlCUGxT3yC
 features: []
-genres: []
+first_released_as_single: false
 key: anything-but-mine-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/anythingbutmine.html
 name: Anything But Mine
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2004
+runtime: 324466
 ---
-
 Walking along beneath the lights of that miracle mile,
 Me and Mary making our way into the night.
 You can hear the cries from the carnival rides,
@@ -141,6 +145,3 @@ So, tonight I hope that I will do just fine.
 Hey, I don't see
 How you could ever be
 Anything but mine.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Satisfied
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:0nK1BS4E6VB67JTRkOZT0p
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-leave-while-i-m-in-love-rita-coolidge
 lyrics_url: https://genius.com/Rita-coolidge-id-rather-leave-while-im-in-love-lyrics
 name: I'd Rather Leave While I'm In Love
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
+release_year: 1979
+runtime: 205053
 ---
 I'd rather leave while I'm in love
 While I still believe the meaning of the word

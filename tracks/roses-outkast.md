@@ -1,8 +1,11 @@
 ---
+album: Speakerboxxx/The Love Below
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:6bUNEbXT7HovLW6BgPCBsb
 features: []
-genres: []
+first_released_as_single: false
 key: roses-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/roses.html
 name: Roses
@@ -91,9 +94,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2003
+runtime: 369573
 ---
-
-
 Caroline! Caroline!
 See Caroline all the guys would say she's mighty fine
 But mighty fine only got you somewhere half the time
@@ -150,6 +153,3 @@ Crazy bitch
 Bitch, stupid ass bitch
 Old punk ass bitch, old dumb ass bitch
 A bitch's bitch, just a bitch
-
-
-

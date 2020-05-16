@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Tymes 1963-1964
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:1S5ZByB4AaumR96wpHMRcV
 features: []
-genres: []
+first_released_as_single: false
 key: the-magic-of-our-summer-love-the-tymes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Tymes/The-Magic-of-Our-Summer-Love
 name: The Magic Of Our Summer Love
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 130266
 ---
 A walk along the beach
 The world within our reach

@@ -1,8 +1,11 @@
 ---
+album: Storyteller
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:05BgC2247XGi8ySwBzOO0o
 features: []
-genres: []
+first_released_as_single: false
 key: heartbeat-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/heartbeat.html
 name: Heartbeat
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 209920
 ---
-
 I love it when we're at a party
 In a down-town crowd
 But I can't hear you call me, baby,
@@ -127,6 +131,3 @@ Underneath the harvest moon
 Standing on your shoes in my bare feet,
 Dancing to the rhythm of your heartbeat
 And we're dancing to the rhythm of your heartbeat
-
-
-

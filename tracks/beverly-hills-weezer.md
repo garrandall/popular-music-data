@@ -1,8 +1,11 @@
 ---
+album: Make Believe
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:1yKu2MhpwzDXXH2tzG6xoa
 features: []
-genres: []
+first_released_as_single: false
 key: beverly-hills-weezer
 lyrics_url: https://www.azlyrics.com/lyrics/weezer/beverlyhills.html
 name: Beverly Hills
@@ -179,6 +182,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 196093
 ---
 Where I come from isn't all that great
 My automobile is a piece of crap

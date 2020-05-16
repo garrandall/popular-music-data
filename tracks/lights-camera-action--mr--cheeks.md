@@ -1,8 +1,11 @@
 ---
+album: John P. Kelly
 artists:
 - Mr. Cheeks
+external_ids:
+  spotify: spotify:track:36gOOIQaBwXZVKL5z2vC3Z
 features: []
-genres: []
+first_released_as_single: false
 key: lights-camera-action--mr--cheeks
 lyrics_url: https://www.azlyrics.com/lyrics/mrcheeks/lightscameraaction.html
 name: Lights Camera Action!
@@ -127,9 +130,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2001
+runtime: 261026
 ---
-
-
 I'm talkin to these motherfuckers
 Yea, ok
 Yea, oh oohThis one's a vivrant thing)
@@ -194,7 +197,7 @@ And I'm hopin that it's you that a nigga get
 Hear them callin out ya name, I geuss ya showtime
 Get'cha money shorty, lemme see you pole climb
 Toes out, back showin off the tat-toooo
-Fuck the dumb shit, a nigga had to snatch youuuu
+Fuck the dumb shit, a nigga had to snatch you
 Lookin as good as ya smell, pay your own bills
 Ask officer, cuz your pushin your own wheels
 Yea I'm feelin you tryin to see the deal with you
@@ -238,6 +241,3 @@ I'm talkin 'bout lights, camera, action
 Had a nigga singin "I'm sorry Ms. Jackson"
 Yea, oh, ha-ha, sorry Ms. Jackson
 Shorty actin like she ready for some action
-
-
-

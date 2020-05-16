@@ -1,9 +1,12 @@
 ---
+album: LOVE?
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:0Oe49j06Bjrxs8PltuVeaW
 features:
 - Pitbull
-genres: []
+first_released_as_single: true
 key: on-the-floor-jennifer-lopez-pitbull
 lyrics_url: https://genius.com/Covergirl-on-the-floor-jennifer-lopez-feat-pitbull-tribute-lyrics
 name: On The Floor
@@ -124,6 +127,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
+release_year: 2011
+runtime: 230906
 ---
 Girls on the dance floor, stereotypes
 Girls on the dance floor

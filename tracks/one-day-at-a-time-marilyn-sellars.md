@@ -1,8 +1,11 @@
 ---
+album: One Day at a Time
 artists:
 - Marilyn Sellars
+external_ids:
+  spotify: spotify:track:6TleGykqju9GJ83mA3r2bO
 features: []
-genres: []
+first_released_as_single: false
 key: one-day-at-a-time-marilyn-sellars
 lyrics_url: https://genius.com/Marilyn-sellars-one-day-at-a-time-lyrics
 name: One Day At A Time
@@ -47,6 +50,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 211157
 ---
 I'm only human, I'm just a man
 Help me believe in what I could be and all that I am

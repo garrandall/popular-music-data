@@ -1,8 +1,11 @@
 ---
+album: Twice Shy
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:1JxRLFVoFx2f7zumJwRDSw
 features: []
-genres: []
+first_released_as_single: false
 key: the-angel-song-great-white
 lyrics_url: https://genius.com/Great-white-the-angel-song-lyrics
 name: The Angel Song
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 291066
 ---
 Fallen angel ripped and bruised
 Think on better days

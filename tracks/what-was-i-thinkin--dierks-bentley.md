@@ -1,8 +1,11 @@
 ---
+album: Dierks Bentley
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:0r8iDf65NHgFgZOGLwj5r8
 features: []
-genres: []
+first_released_as_single: false
 key: what-was-i-thinkin--dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/whatwasithinkin.html
 name: What Was I Thinkin'
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 260826
 ---
-
 Becky was a beauty from south Alabama
 Her daddy had a heart like a nine-pound hammer
 Think he even did a little time in the slammer
@@ -139,4 +143,3 @@ What was I thinkin', oh what was I thinkin'
 
 Then she gave a come-and-get-me grin
 And like a bullet we were gone again... 'cause I was
-

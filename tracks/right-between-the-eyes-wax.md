@@ -1,8 +1,11 @@
 ---
+album: Magnetic Heaven
 artists:
 - Wax
+external_ids:
+  spotify: spotify:track:6QqEk3nHopgcZIIBmmuZfF
 features: []
-genres: []
+first_released_as_single: false
 key: right-between-the-eyes-wax
 lyrics_url: https://genius.com/Wax-right-between-the-eyes-lyrics
 name: Right Between The Eyes
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1986
+runtime: 248626
 ---
 True love for me was nothing but a mystery
 Just something only captured in a dream

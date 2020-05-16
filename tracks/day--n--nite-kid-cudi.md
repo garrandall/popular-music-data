@@ -1,8 +1,11 @@
 ---
+album: 'Man On The Moon: The End Of Day'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:5FEXPoPnzueFJQCPRIrC3c
 features: []
-genres: []
+first_released_as_single: false
 key: day--n--nite-kid-cudi
 lyrics_url: https://genius.com/Kid-cudi-vs-crookers-day-n-nite-lyrics
 name: Day 'N' Nite
@@ -115,6 +118,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2009
+runtime: 221266
 ---
 Uh, uh, uh, uh, uh, uh...
 

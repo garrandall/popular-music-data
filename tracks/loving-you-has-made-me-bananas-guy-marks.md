@@ -1,8 +1,11 @@
 ---
+album: Wild, Wacky World of Weird Songs
 artists:
 - Guy Marks
+external_ids:
+  spotify: spotify:track:7bZD4PsmyKpgKBXMBWq2A2
 features: []
-genres: []
+first_released_as_single: false
 key: loving-you-has-made-me-bananas-guy-marks
 lyrics_url: https://genius.com/Guy-marks-loving-you-has-made-me-bananas-lyrics
 name: Loving You Has Made Me Bananas
@@ -31,6 +34,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 171200
 ---
 Oh, your red scarf matches your eyes
 You closed your cover before striking

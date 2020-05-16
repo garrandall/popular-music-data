@@ -1,8 +1,11 @@
 ---
+album: Now and Forever
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:20lzW8sXHa20GVDyIwJihy
 features: []
-genres: []
+first_released_as_single: false
 key: the-earth-the-sun-the-rain-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/theearththesuntherain.html
 name: The Earth The Sun The Rain
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1996
+runtime: 255233
 ---
-
 When I was lost
 I could not see
 All the beauty and wonder
@@ -143,4 +147,3 @@ And as I gaze into your eyes
 I see the beauty that God has created
 And I love you girl
 Now and forever
-

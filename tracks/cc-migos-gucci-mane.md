@@ -1,9 +1,12 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:35ffVv9x4mtzBh5rF1K9sP
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: cc-migos-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/migos/cc.html
 name: CC
@@ -12,9 +15,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 259340
 ---
-
-
 Huh?
 Huncho, Gato
 
@@ -156,6 +159,3 @@ If she money, she go get it (go get it)
 All of her friends, they go with her (yuh)
 She keep up them bands with no nigga (racks)
 She keep up them bands with no nigga (hey)
-
-
-

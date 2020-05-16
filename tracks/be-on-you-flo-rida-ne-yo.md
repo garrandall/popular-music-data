@@ -1,9 +1,12 @@
 ---
+album: R.O.O.T.S. (Route of Overcoming the Struggle)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:7maTLYdnHDNsq3bB1tu2nH
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: be-on-you-flo-rida-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/florida/beonyou.html
 name: Be On You
@@ -72,9 +75,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2009
+runtime: 243226
 ---
-
-
 Oh oh oh yeah yeah yeah
 
 
@@ -163,6 +166,3 @@ But I just gotta say, I just gotta say
 
 I just gotta say, I just gotta say..
 Be on you, yeah, yeah, yeah, yeah
-
-
-

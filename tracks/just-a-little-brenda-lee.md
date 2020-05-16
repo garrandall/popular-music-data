@@ -1,8 +1,11 @@
 ---
+album: This Is...Brenda
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:5UCl7gld8lm5qzrJqHcKkK
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-brenda-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Brenda-Lee/Just-a-Little-Talk-With-Jesus
 name: Just A Little
@@ -27,6 +30,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 146160
 ---
 My life was filled with sin ThenJesus took me in
 And then a little light from Heaven filled my soul

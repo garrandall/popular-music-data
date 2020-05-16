@@ -1,9 +1,12 @@
 ---
+album: Ghetto Gospel
 artists:
 - Rod Wave
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:13f84H8l1ZhiAmTQKqiJDP
 features: []
-genres: []
+first_released_as_single: true
 key: cuban-links-rod-wave-kevin-gates
 lyrics_url: https://www.azlyrics.com/lyrics/rodwave/cubanlinks.html
 name: Cuban Links
@@ -20,9 +23,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 192522
 ---
-
-
 Ayy, ayy, ayy, ayy, ayy, that's probably Tago
 Pipe that shit up, TnT
 Tre made this beat
@@ -79,6 +82,3 @@ I'ma die in these Cuban links
 I'm gon' die in these Cuban links
 Die in these Cuban links
 Die in these Cuban links
-
-
-

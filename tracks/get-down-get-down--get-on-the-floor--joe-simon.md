@@ -1,8 +1,11 @@
 ---
+album: Get Down
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2KclP0HSfxYveB2wy85BIY
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-get-down--get-on-the-floor--joe-simon
 lyrics_url: https://genius.com/Joe-simon-get-down-get-down-lyrics
 name: Get Down Get Down (Get On The Floor)
@@ -75,6 +78,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1975
+runtime: 228266
 ---
 Everybody won't you get on the floor
 (Get on the floor and let the good time roll)

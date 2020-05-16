@@ -1,8 +1,11 @@
 ---
+album: Softly, As I Leave You
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:5L1DIODUFYbObdwx7AJnZM
 features: []
-genres: []
+first_released_as_single: false
 key: softly-as-i-leave-you-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/softlyasileaveyou.html
 name: Softly As I Leave You
@@ -51,8 +54,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 171706
 ---
-
 Softly, I will leave you softly
 For my heart would break if you should wake and see me go
 So I leave you softly, long before you miss me
@@ -68,6 +72,3 @@ After all the years, I can't bear the tears to fall
 So, softly as I leave you there
 As I leave you there
 As I leave you there
-
-
-

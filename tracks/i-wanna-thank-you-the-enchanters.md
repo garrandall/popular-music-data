@@ -1,8 +1,11 @@
 ---
+album: Deep Soul of the 60s
 artists:
 - The Enchanters
+external_ids:
+  spotify: spotify:track:3FkJ5VtmZdIjGyTjK1pHlX
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-thank-you-the-enchanters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Enchanters/I-Wanna-Thank-You
 name: I Wanna Thank You
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 174733
 ---
 Someone up there
 I wanna thank you so much

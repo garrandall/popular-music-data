@@ -1,8 +1,11 @@
 ---
+album: Beggars Banquet
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:1qzZJnz8mnJuByJZJt6oc5
 features: []
-genres: []
+first_released_as_single: false
 key: sympathy-for-the-devil--remixes--the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-sympathy-for-the-devil-lyrics
 name: Sympathy For The Devil (Remixes)
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-10-04'
+release_year: 1966
+runtime: 390013
 ---
 Huh, huh, huh
 

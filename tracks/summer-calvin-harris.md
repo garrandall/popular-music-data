@@ -1,8 +1,11 @@
 ---
+album: Motion
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:6zonhXHUitdQqZTqylx7Jf
 features: []
-genres: []
+first_released_as_single: true
 key: summer-calvin-harris
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/summer.html
 name: Summer
@@ -111,8 +114,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 267253
 ---
-
 When I met you in the summer
 To my heartbeat sound
 We fell in love
@@ -148,6 +152,3 @@ Summer
 (Hey)
 (Love)
 (Hey...)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Overexposed
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:4XNrMwGx1SqP01sqkGTDmo
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-night-maroon-5
 lyrics_url: https://genius.com/Maroon-5-one-more-night-lyrics
 name: One More Night
@@ -175,6 +178,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 219466
 ---
 Oh ohoohhohh oh ohohohoh
 Oh ohoohhohh oh ohohohoh

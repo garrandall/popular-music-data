@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:0SY37QOK0zoT0M94mWDZt9
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-just-a-matter-of-time-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/It-s-Just-a-Matter-of-Time
 name: It's Just A Matter Of Time
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1970
+runtime: 155773
 ---
 Someday, some way
 You'll realize that

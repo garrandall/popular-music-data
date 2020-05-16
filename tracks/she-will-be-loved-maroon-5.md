@@ -1,8 +1,11 @@
 ---
+album: 'Songs About Jane: 10th Anniversary Edition'
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:4llK75pXNWZz6KAho2Gp16
 features: []
-genres: []
+first_released_as_single: false
 key: she-will-be-loved-maroon-5
 lyrics_url: https://genius.com/Maroon-5-she-will-be-loved-lyrics
 name: She Will Be Loved
@@ -171,6 +174,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2002
+runtime: 259453
 ---
 Beauty queen of only eighteen
 She had some trouble with herself

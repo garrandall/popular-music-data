@@ -1,8 +1,11 @@
 ---
+album: Mushroom 25 Live
 artists:
 - Choirboys
+external_ids:
+  spotify: spotify:track:6vAE0wytvX7QafXaZLZPTo
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-paradise-choirboys
 lyrics_url: https://genius.com/Choirboys-run-to-paradise-lyrics
 name: Run To Paradise
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1989
+runtime: 427653
 ---
 Baby, you were always gonna be the one
 You only ever did it just for fun

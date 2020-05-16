@@ -1,8 +1,11 @@
 ---
+album: Up Your Alley
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:78IlMYdaAwoR4cTPqPgMax
 features: []
-genres: []
+first_released_as_single: false
 key: little-liar-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/littleliar.html
 name: Little Liar
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 239600
 ---
-
 I was taught to never tell a lie
 To look you in the eye and tell it like it is
 Always thought that you would be the same
@@ -131,6 +135,3 @@ Hey little liar I believed in you
 Hey little liar
 Hey little liar
 Hey little liar
-
-
-

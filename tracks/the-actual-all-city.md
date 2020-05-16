@@ -1,8 +1,11 @@
 ---
+album: Metropolis Gold
 artists:
 - All City
+external_ids:
+  spotify: spotify:track:4LhfMta18ZrujxsPZiPK9m
 features: []
-genres: []
+first_released_as_single: false
 key: the-actual-all-city
 lyrics_url: https://genius.com/All-city-the-actual-lyrics
 name: The Actual
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 251933
 ---
 Check it
 For you to fuck with this apostle, it's not possible

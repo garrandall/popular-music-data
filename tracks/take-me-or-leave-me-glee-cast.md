@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4qywl3iwOeIiCQR5cAakUz
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-or-leave-me-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/takemeorleaveme.html
 name: Take Me Or Leave Me
@@ -11,8 +14,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2011
+runtime: 191826
 ---
-
 Every single day
 I walk down the street
 I hear people say
@@ -78,6 +82,3 @@ Or leave me
 
 Guess I'm leaving
 I'm gone!
-
-
-

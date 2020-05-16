@@ -1,9 +1,12 @@
 ---
+album: Graham Nash & David Crosby
 artists:
 - Graham Nash
 - David Crosby
+external_ids:
+  spotify: spotify:track:7clQKmDN3qnabOJBAUqWEU
 features: []
-genres: []
+first_released_as_single: false
 key: southbound-train-graham-nash-david-crosby
 lyrics_url: https://www.musixmatch.com/lyrics/Graham-Nash-David-Crosby/Southbound-Train
 name: Southbound Train
@@ -16,6 +19,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1972
+runtime: 236213
 ---
 Liberty laughing and shaking your head
 Can you carry the torch that'll bring home the dead?

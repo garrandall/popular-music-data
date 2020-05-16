@@ -1,8 +1,11 @@
 ---
+album: Our Day Will Come
 artists:
 - Ruby And The Romantics
+external_ids:
+  spotify: spotify:track:3ngYXFSYtF5mHguNCA3JZ0
 features: []
-genres: []
+first_released_as_single: false
 key: our-day-will-come-ruby-and-the-romantics
 lyrics_url: https://genius.com/Ruby-and-the-romantics-our-day-will-come-lyrics
 name: Our Day Will Come
@@ -59,6 +62,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 154706
 ---
 Our day will come
 And we'll have everything

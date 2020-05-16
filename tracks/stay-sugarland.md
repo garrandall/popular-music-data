@@ -1,8 +1,11 @@
 ---
+album: Enjoy The Ride
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:0jn2XqaHliEpWd04ZykIHy
 features: []
-genres: []
+first_released_as_single: false
 key: stay-sugarland
 lyrics_url: https://genius.com/Sugarland-stay-lyrics
 name: Stay
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
+release_year: 2006
+runtime: 284426
 ---
 I've been sitting here staring at the clock on the wall
 And I've been laying here praying, praying she won't call

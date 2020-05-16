@@ -1,8 +1,11 @@
 ---
+album: I Remember Tommy
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2NtjfdkR0vVX9KuQBiWS9J
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-seeing-you-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-ill-be-seeing-you-lyrics
 name: I'll Be Seeing You
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1939
+runtime: 184093
 ---
 I'll be seeing you
 In all the old familiar places

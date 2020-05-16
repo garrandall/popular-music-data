@@ -1,8 +1,11 @@
 ---
+album: I Remember Holding You
 artists:
 - Boys Club
+external_ids:
+  spotify: spotify:track:1vg9QIylIW01JyfvDtfd4H
 features: []
-genres: []
+first_released_as_single: true
 key: i-remember-holding-you-boys-club
 lyrics_url: https://genius.com/Boys-club-i-remember-holding-you-lyrics
 name: I Remember Holding You
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 293079
 ---
 Time will never lose
 Memories we choose

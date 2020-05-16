@@ -1,8 +1,11 @@
 ---
+album: Deodato 2
 artists:
 - Deodato
+external_ids:
+  spotify: spotify:track:4lDNT2Ak5FmS6YBHKdVLow
 features: []
-genres: []
+first_released_as_single: false
 key: rhapsody-in-blue-deodato
 name: Rhapsody In Blue
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 525933
 ---
 

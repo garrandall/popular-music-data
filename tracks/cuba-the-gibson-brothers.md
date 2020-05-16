@@ -1,8 +1,11 @@
 ---
+album: Blue Island
 artists:
 - The Gibson Brothers
+external_ids:
+  spotify: spotify:track:48ZDN1LqrsyC8vto7UqMFi
 features: []
-genres: []
+first_released_as_single: true
 key: cuba-the-gibson-brothers
 lyrics_url: https://genius.com/The-gibson-brothers-cuba-lyrics
 name: Cuba
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 218706
 ---
 Cuba
 Quiero bailar la salsa

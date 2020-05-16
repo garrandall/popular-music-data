@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5cevLj53chcpTIZjezsj37
 features: []
-genres: []
+first_released_as_single: false
 key: a-house-is-not-a-home-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/ahouseisnotahome.html
 name: A House Is Not A Home
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 175426
 ---
-
 A chair is still a chair
 Even when there's no one sitting there
 But a chair is not a house
@@ -41,6 +45,3 @@ When I climb the stair and turn the key
 please be there
 
 Still in love with me
-
-
-

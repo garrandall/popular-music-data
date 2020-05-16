@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:71EHOyEOhNx1SzTebRRyng
 features: []
-genres: []
+first_released_as_single: false
 key: weak-swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/weak.html
 name: Weak
@@ -111,8 +114,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1992
+runtime: 291906
 ---
-
 I don't know what it is that you've done to me
 But it's caused me to act in such a crazy way
 Whatever it is that you do when you do what you're doing
@@ -187,6 +191,3 @@ I swallow my pride,
 Your love is so sweet
 It knocks me right off of my feet
 Can't explain why your loving makes me weak
-
-
-

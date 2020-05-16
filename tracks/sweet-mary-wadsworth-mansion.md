@@ -1,8 +1,11 @@
 ---
+album: Wadsworth Mansion
 artists:
 - Wadsworth Mansion
+external_ids:
+  spotify: spotify:track:1a6bVtXQ7ynIdnTw9CpBm9
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-mary-wadsworth-mansion
 lyrics_url: https://genius.com/Wadsworth-mansion-sweet-mary-lyrics
 name: Sweet Mary
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 167280
 ---
 Wop ba-dooba-do wop-wop-wop
 Wo-op wa-dooba-do wop-wop-wop

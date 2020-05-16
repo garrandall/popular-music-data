@@ -1,8 +1,11 @@
 ---
+album: War Child
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:1IQAsCKoXsEJ7tdI0dxTqT
 features: []
-genres: []
+first_released_as_single: false
 key: bungle-in-the-jungle-jethro-tull
 lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/bungleinthejungle.html
 name: Bungle In The Jungle
@@ -71,8 +74,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1974
+runtime: 216213
 ---
-
 Walking through forests of palm tree apartments ---
 scoff at the monkeys who live in their dark tents
 down by the waterhole --- drunk every Friday ---
@@ -102,6 +106,3 @@ yes, the King on His sunset lies waiting for dawn
 to light up His Jungle
 as play is resumed.
 The monkeys seem willing to strike up the tune.
-
-
-

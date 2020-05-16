@@ -1,8 +1,11 @@
 ---
+album: 25 (The Piano Versions)
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:6j0J4WGrxxjRwGvdmOv7vz
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-were-young-adele
 lyrics_url: https://genius.com/Adele-when-we-were-young-lyrics
 name: When We Were Young
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 285316
 ---
 Everybody loves the things you do
 From the way you talk to the way you move

@@ -1,9 +1,12 @@
 ---
+album: Electric Music For The Mind And Body
 artists:
 - Country Joe
 - The Fish
+external_ids:
+  spotify: spotify:track:1JMJZYMdMY3Wl4WAAejSj6
 features: []
-genres: []
+first_released_as_single: false
 key: not-so-sweet-martha-lorraine-country-joe-the-fish
 lyrics_url: https://genius.com/Country-joe-and-the-fish-not-so-sweet-martha-lorraine-lyrics
 name: Not So Sweet Martha Lorraine
@@ -16,6 +19,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 264000
 ---
 McDonald
 

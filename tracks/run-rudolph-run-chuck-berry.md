@@ -1,8 +1,11 @@
 ---
+album: Rock 'N' Roll Rarities
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:2pnPe4pJtq7689i5ydzvJJ
 features: []
-genres: []
+first_released_as_single: false
 key: run-rudolph-run-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-run-rudolph-run-lyrics
 name: Run Rudolph Run
@@ -27,6 +30,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1958
+runtime: 165733
 ---
 Out of all the reindeers, you know you're the mastermind
 Run, run Rudolph, Randalph ain't too far behind

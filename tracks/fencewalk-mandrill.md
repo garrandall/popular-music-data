@@ -1,8 +1,11 @@
 ---
+album: Composite Truth
 artists:
 - Mandrill
+external_ids:
+  spotify: spotify:track:1SGTEdUECjytlDGrB6W5nm
 features: []
-genres: []
+first_released_as_single: false
 key: fencewalk-mandrill
 lyrics_url: https://genius.com/Mandrill-fencewalk-lyrics
 name: Fencewalk
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1972
+runtime: 332400
 ---
 Hey, got your 
 But it's not what you say

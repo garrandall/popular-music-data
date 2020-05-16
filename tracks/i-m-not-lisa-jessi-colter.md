@@ -1,8 +1,11 @@
 ---
+album: I'm Jessi Colter
 artists:
 - Jessi Colter
+external_ids:
+  spotify: spotify:track:2WQCzRvHubJxMIeCf2YhYG
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-lisa-jessi-colter
 lyrics_url: https://genius.com/Jessi-colter-im-not-lisa-lyrics
 name: I'm Not Lisa
@@ -75,6 +78,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1975
+runtime: 203106
 ---
 I'm not Lisa
 My name is Julie

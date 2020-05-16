@@ -1,8 +1,11 @@
 ---
+album: Suit
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:7GgeZtT72GXe9rfJVL5NUt
 features: []
-genres: []
+first_released_as_single: false
 key: n-dey-say-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/ndeysay.html
 name: N Dey Say
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2004
+runtime: 217080
 ---
-
 Yeah, Yeah Yeah Yeah Yeah Yeah Yeah, Let's Go
 
 
@@ -120,6 +124,3 @@ Ha ha ha ha ha oh
 N dey say oh oh oh
 Ha ha ha ha ha oh
 N dey say oh oh oh
-
-
-

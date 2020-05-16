@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:23C8mKYvkkLJl8uncfB96a
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-happy-now--cassadee-pope
 lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/areyouhappynow.html
 name: Are You Happy Now?
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 230746
 ---
-
 Now, don't just walk away
 Pretending everything's okay and you don't care about me.
 And I know it's just no use.
@@ -40,6 +44,3 @@ Yeah, yeah, yeah,
 Yeah, yeah, yeah,
 
 Are You Happy Now?
-
-
-

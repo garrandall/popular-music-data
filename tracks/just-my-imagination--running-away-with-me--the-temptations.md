@@ -1,8 +1,11 @@
 ---
+album: Sky's The Limit
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:39Bd345OWEhRNyfayhp9gv
 features: []
-genres: []
+first_released_as_single: false
 key: just-my-imagination--running-away-with-me--the-temptations
 lyrics_url: https://genius.com/The-temptations-just-my-imagination-running-away-with-me-lyrics
 name: Just My Imagination (Running Away With Me)
@@ -67,6 +70,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1971
+runtime: 228160
 ---
 Each day through my window I watch her as she passes by
 I say to myself you're such a lucky guy

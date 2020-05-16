@@ -1,9 +1,12 @@
 ---
+album: I Want You, I Need You
 artists:
 - Chris Christian
+external_ids:
+  spotify: spotify:track:72zuDcpBfl8yr1a4wbwkyo
 features:
 - Amy Holland
-genres: []
+first_released_as_single: false
 key: ain-t-nothing-like-the-real-thing-chris-christian-with-amy-holland
 lyrics_url: http://www.songlyrics.com/chris-christian/ain-t-nothin-like-the-real-thing-you-re-all-i-need-to-get-by-lyrics/
 name: Ain't Nothing Like The Real Thing
@@ -20,6 +23,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1981
+runtime: 209653
 ---
 I've got your picture hanging on the wall
 But it can't see or come to me

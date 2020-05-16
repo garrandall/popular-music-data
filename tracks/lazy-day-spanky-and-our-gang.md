@@ -1,8 +1,11 @@
 ---
+album: Spanky & Our Gang
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:03n6SIUfhgX23DKSB9KKat
 features: []
-genres: []
+first_released_as_single: false
 key: lazy-day-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-lazy-day-lyrics
 name: Lazy Day
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 188040
 ---
 Blue sky, sunshine
 What a day to take a walk in the park

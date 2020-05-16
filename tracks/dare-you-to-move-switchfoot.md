@@ -1,8 +1,11 @@
 ---
+album: Learning To Breathe
 artists:
 - Switchfoot
+external_ids:
+  spotify: spotify:track:4x3381mYJqptPqT6OKUfmu
 features: []
-genres: []
+first_released_as_single: false
 key: dare-you-to-move-switchfoot
 lyrics_url: https://genius.com/Switchfoot-dare-you-to-move-lyrics
 name: Dare You To Move
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2000
+runtime: 247893
 ---
 Welcome to the planet
 Welcome to existence

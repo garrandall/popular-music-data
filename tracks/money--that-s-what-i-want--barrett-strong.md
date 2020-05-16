@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Motown
 artists:
 - Barrett Strong
+external_ids:
+  spotify: spotify:track:4rLLfUkSqoOjg2Uuycaawr
 features: []
-genres: []
+first_released_as_single: false
 key: money--that-s-what-i-want--barrett-strong
 lyrics_url: https://genius.com/Barrett-strong-money-thats-what-i-want-lyrics
 name: Money (That's what I want)
@@ -75,6 +78,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 157800
 ---
 The best things in life are free
 But you can keep them for the birds and bees

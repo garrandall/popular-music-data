@@ -1,8 +1,11 @@
 ---
+album: Ticket To L.A.
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:7nRrsqPe0TfAtMV0fC0c7k
 features: []
-genres: []
+first_released_as_single: false
 key: here-tonight-brett-young
 lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/heretonight.html
 name: Here Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2018
+runtime: 216533
 ---
-
 If ever I get lost in your eyes tonight
 Please just let me stay right there a little bit longer
 Underneath the stars, we are on fire
@@ -128,6 +132,3 @@ So baby, hold on tight
 So baby, let's just stay here tonight, tonight
 Baby, let's just stay here tonight, tonight, tonight, tonight, yeah
 Let's just stay right here tonight
-
-
-

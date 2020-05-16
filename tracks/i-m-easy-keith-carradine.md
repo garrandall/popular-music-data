@@ -1,8 +1,11 @@
 ---
+album: I'm Easy
 artists:
 - Keith Carradine
+external_ids:
+  spotify: spotify:track:2fOvZexdYmgJgVus0Hwu7Z
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-easy-keith-carradine
 lyrics_url: https://genius.com/Keith-carradine-im-easy-lyrics
 name: I'm Easy
@@ -83,9 +86,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1975
+runtime: 182400
 ---
-
-
 It's not my way to love you
 Just when no one's looking
 It's not my way to take

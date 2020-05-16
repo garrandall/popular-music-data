@@ -1,8 +1,11 @@
 ---
+album: Excitement on Park Avenue, Live at the Waldorf-Astoria
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:6PwgMjWyQJBryRlXiPVXDM
 features: []
-genres: []
+first_released_as_single: false
 key: a-steel-guitar-and-a-glass-of-wine-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/steelguitarandaglassofwine.html
 name: A Steel Guitar And A Glass Of Wine
@@ -47,8 +50,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 263000
 ---
-
 Just give me a steel guitar, a glass of wine 
 And let me drink to a love I thought was mine 
 A love I thought was true to me 
@@ -86,6 +90,3 @@ And one more thing before I go
 Here's a secret, I still love her so 
 And one more thing before I go 
 Here's a secret, I still love her so
-
-
-

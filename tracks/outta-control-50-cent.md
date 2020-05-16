@@ -1,8 +1,11 @@
 ---
+album: The Massacre
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:7BKi4ZcyMBXeAvJ1OPxhdV
 features: []
-genres: []
+first_released_as_single: true
 key: outta-control-50-cent
 lyrics_url: https://genius.com/50-cent-outta-control-lyrics
 name: Outta Control
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
+release_year: 2005
+runtime: 247973
 ---
 Yeah, Shady, Aftermath
 I - guess - you didn't know

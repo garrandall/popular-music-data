@@ -1,9 +1,12 @@
 ---
+album: I'm Comin' Over
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:081t95JRuDUrQYSS3h8iKk
 features:
 - Vince Gill
-genres: []
+first_released_as_single: false
 key: sober-saturday-night-chris-young-vince-gill
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/sobersaturdaynight.html
 name: Sober Saturday Night
@@ -52,8 +55,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2015
+runtime: 194560
 ---
-
 I feel terrible, sunlight's hurting my eyes. 
 So I pull the shades and I make my place as black as night 
 I feel miserable, and I'm missing you and me. 
@@ -77,6 +81,3 @@ I'm just getting over another sober Saturday night.
 No, I'm not out there getting high underneath some neon lights. 
 Ain't no whiskey strong enough to make things right.
 I'm just getting over another sober Saturday night.
-
-
-

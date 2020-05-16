@@ -1,9 +1,12 @@
 ---
+album: 'Man On The Moon II: The Legend Of Mr. Rager'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:5QemHQxj7PRkrw8lJl2W7C
 features:
 - Cee-Lo
-genres: []
+first_released_as_single: false
 key: scott-mescudi-vs-the-world-kid-cudi-cee-lo
 lyrics_url: https://www.musixmatch.com/lyrics/Kid-Cudi-Cee-Lo/Scott-Mescudi-vs-the-World
 name: Scott Mescudi Vs The World
@@ -12,6 +15,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 235293
 ---
 What up? How is everyone doing?
 You are now in the world I am ruling

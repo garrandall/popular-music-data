@@ -1,9 +1,12 @@
 ---
+album: AT.LONG.LAST.A$AP
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:6br4Pc0BzU6dTD5fEmks2i
 features:
 - ScHoolboy Q
-genres: []
+first_released_as_single: false
 key: electric-body-a-ap-rocky-schoolboy-q
 lyrics_url: https://genius.com/A-ap-rocky-electric-body-lyrics
 name: Electric Body
@@ -16,6 +19,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2015
+runtime: 255253
 ---
 Yeah, yeah, yeah this year we finna make a killin' (Yeah)
 Now the money stack up to the ceilin' (Yeah, whoo)

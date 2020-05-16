@@ -1,8 +1,11 @@
 ---
+album: 'Bring Back The Love: Classic Dells Soul'
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:5O5AwtNW8jjhTfM98LmuG1
 features: []
-genres: []
+first_released_as_single: false
 key: does-anybody-know-i-m-here-the-dells
 lyrics_url: https://genius.com/The-dells-does-anybody-know-im-here-single-version-lyrics
 name: Does Anybody Know I'm Here
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1968
+runtime: 198400
 ---
 Alone and far away from home
 A boy stands in a foreign land

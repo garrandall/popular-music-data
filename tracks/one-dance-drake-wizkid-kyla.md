@@ -1,10 +1,13 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1zi7xx7UVEFkmKfv06H8x0
 features:
 - WizKid
 - Kyla
-genres: []
+first_released_as_single: false
 key: one-dance-drake-wizkid-kyla
 lyrics_url: https://www.azlyrics.com/lyrics/drake/onedance.html
 name: One Dance
@@ -153,9 +156,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 173986
 ---
-
-
 Baby, I like your style
 
 
@@ -236,6 +239,3 @@ I need a one dance
 Got a Hennessy in my hand
 One more time 'fore I go
 Higher powers taking a hold on me
-
-
-

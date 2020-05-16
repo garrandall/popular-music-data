@@ -1,8 +1,11 @@
 ---
+album: Rant N' Rave With The Stray Cats
 artists:
 - Stray Cats
+external_ids:
+  spotify: spotify:track:4d3EmY9wwhFYkDtInwgf9T
 features: []
-genres: []
+first_released_as_single: false
 key: -she-s--sexy---17-stray-cats
 lyrics_url: https://genius.com/Stray-cats-shes-sexy-17-lyrics
 name: (she's) Sexy + 17
@@ -67,6 +70,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1983
+runtime: 210866
 ---
 Hey, man, I don't feel like goin' to school no more
 Me neither, they can't make you go, no you daddy, oh yeah

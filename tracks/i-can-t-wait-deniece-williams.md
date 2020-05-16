@@ -1,8 +1,11 @@
 ---
+album: As Good As It Gets
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:1paZtNqGti7o32DSinDmcS
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-wait-deniece-williams
 lyrics_url: https://genius.com/Deniece-williams-i-cant-wait-lyrics
 name: I Can't Wait
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
+release_year: 1988
+runtime: 265626
 ---
 Late in the morning
 The boss is throwin' his hands all in the air

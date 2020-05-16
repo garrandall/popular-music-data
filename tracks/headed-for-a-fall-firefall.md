@@ -1,8 +1,11 @@
 ---
+album: Elan
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:2QhZbxgtkKn9ziVkqkTpjp
 features: []
-genres: []
+first_released_as_single: false
 key: headed-for-a-fall-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/headedforafall.html
 name: Headed For A Fall
@@ -43,8 +46,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1978
+runtime: 257106
 ---
-
 Runnin' from the feelin'
 Can't disguise 
 Findin' all your reasons 
@@ -90,6 +94,3 @@ You're fallin', I see you fallin'
 For a fall 
 You're fallin', I see you fallin' 
 You're headed for a fall...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: "15 A\xF1os De Historia"
 artists:
 - Menudo
+external_ids:
+  spotify: spotify:track:5Fkh7Dxu5r8G7B7sQBAIIa
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-menudo
 lyrics_url: https://genius.com/Menudo-hold-me-lyrics
 name: Hold Me
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 248866
 ---
 Everytime I see you
 You look so good

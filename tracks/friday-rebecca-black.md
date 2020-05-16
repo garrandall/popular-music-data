@@ -1,8 +1,11 @@
 ---
+album: Friday
 artists:
 - Rebecca Black
+external_ids:
+  spotify: spotify:track:4fK6E2UywZTJIa5kWnCD6x
 features: []
-genres: []
+first_released_as_single: true
 key: friday-rebecca-black
 lyrics_url: https://www.azlyrics.com/lyrics/rebeccablack/friday.html
 name: Friday
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2011
+runtime: 210025
 ---
-
 (Yeah, Ah-Ah-Ah-Ah-Ah-Ark)
 Oo-oh-oh, hoo yeah, yeah
 Yeah, yeah
@@ -137,6 +141,3 @@ Partyin', partyin' (Yeah)
 Partyin', partyin' (Yeah)
 Fun, fun, fun, fun
 Lookin' forward to the weekend
-
-
-

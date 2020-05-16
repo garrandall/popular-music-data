@@ -1,8 +1,11 @@
 ---
+album: Put A Little Love In Your Heart
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:6hHEiDOJltnT4oNyKhzduV
 features: []
-genres: []
+first_released_as_single: false
 key: brighton-hill-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-brighton-hill-lyrics
 name: Brighton Hill
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 137613
 ---
 Brighton Hill, where the sky changes its color
 Hopes are high, there's no other place I'd rather be

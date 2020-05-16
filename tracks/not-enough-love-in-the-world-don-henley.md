@@ -1,8 +1,11 @@
 ---
+album: Building The Perfect Beast
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:1nioRt8oPGNEdHAMrPhAEi
 features: []
-genres: []
+first_released_as_single: false
 key: not-enough-love-in-the-world-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/notenoughloveintheworld.html
 name: Not Enough Love In The World
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1984
+runtime: 234000
 ---
-
 Sometimes I wonder where it is love goes
 I don't know if even Heaven knows
 But I know you had some dreams that didn't quite come true
@@ -115,6 +119,3 @@ I was either standing in your shadow or blocking your light
 Though I kept trying I could not make it right
 For you girl-
 There's just not enough love in the world
-
-
-

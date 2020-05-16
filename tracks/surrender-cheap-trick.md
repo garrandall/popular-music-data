@@ -1,8 +1,11 @@
 ---
+album: Heaven Tonight
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:404y97G8bBb1XYvBYubSww
 features: []
-genres: []
+first_released_as_single: false
 key: surrender-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/surrender.html
 name: Surrender
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1977
+runtime: 254026
 ---
-
 Mother told me, yes, she told me
 That I'd meet girls like you
 She also told me, "Stay away
@@ -101,4 +105,3 @@ But don't give yourself away
 Surrender
 Surrender
 But don't give yourself away
-

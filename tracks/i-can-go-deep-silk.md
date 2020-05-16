@@ -1,8 +1,11 @@
 ---
+album: Silk
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:4wcfcpWn3fOyFTs6sdxfdd
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-go-deep-silk
 lyrics_url: https://genius.com/Silk-i-can-go-deep-lyrics
 name: I Can Go Deep
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1994
+runtime: 286946
 ---
 So tell me baby
 Whatchu wanna do?

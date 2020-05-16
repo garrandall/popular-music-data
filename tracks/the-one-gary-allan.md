@@ -1,8 +1,11 @@
 ---
+album: Smoke Rings In The Dark
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:4J6TMkfRT7YD9dqAdJzkVY
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-gary-allan
 lyrics_url: https://genius.com/Gary-allan-the-one-lyrics
 name: The One
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2002-09-28'
+release_year: 1999
+runtime: 198531
 ---
 No rush though I need your touch
 I won't rush your heart

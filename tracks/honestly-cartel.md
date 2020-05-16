@@ -1,8 +1,11 @@
 ---
+album: Chroma
 artists:
 - Cartel
+external_ids:
+  spotify: spotify:track:0wGWmko6pOeimMMATKGz2I
 features: []
-genres: []
+first_released_as_single: false
 key: honestly-cartel
 lyrics_url: https://www.azlyrics.com/lyrics/cartel/honestly.html
 name: Honestly
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2005
+runtime: 207333
 ---
-
 Please don't mind what I'm trying to say 'cause I'm, I'm being honest
 When I tell you that you
 You're part of the reason I'm so set on the rest of my life
@@ -71,6 +75,3 @@ It's so amazing how,
 I know I cant, I could never walk away.
 
 Please don't mind what I'm trying to say, 'cause I'm, I'm being honest.
-
-
-

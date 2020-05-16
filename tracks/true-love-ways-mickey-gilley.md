@@ -1,8 +1,11 @@
 ---
+album: Ten Years Of Hits
 artists:
 - Mickey Gilley
+external_ids:
+  spotify: spotify:track:7pqrRbGKV9jGqrsli2DzzA
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-ways-mickey-gilley
 lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/trueloveways.html
 name: True Love Ways
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-09-27'
+release_year: 1974
+runtime: 174426
 ---
-
 Just you know why
 Why you and I
 Will by and by
@@ -69,6 +73,3 @@ Sometimes we'll cry
 And we'll know why
 Just you and I
 Know true love ways...
-
-
-

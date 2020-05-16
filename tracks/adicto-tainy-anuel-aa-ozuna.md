@@ -1,10 +1,13 @@
 ---
+album: Adicto (with Anuel AA & Ozuna)
 artists:
 - Tainy
 - Anuel AA
 - Ozuna
+external_ids:
+  spotify: spotify:track:3jbT1Y5MoPwEIpZndDDwVq
 features: []
-genres: []
+first_released_as_single: true
 key: adicto-tainy-anuel-aa-ozuna
 lyrics_url: https://genius.com/Tainy-anuel-aa-and-ozuna-adicto-lyrics
 name: Adicto
@@ -17,6 +20,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 270740
 ---
 (Uah)
 Han pasado varios día' y 'toy enfermo de ti

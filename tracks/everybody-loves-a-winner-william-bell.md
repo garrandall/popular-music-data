@@ -1,8 +1,11 @@
 ---
+album: The Soul Of A Bell
 artists:
 - William Bell
+external_ids:
+  spotify: spotify:track:2KOcR8VBO2r9p1nNxDjQdy
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-winner-william-bell
 lyrics_url: https://genius.com/William-bell-everybody-loves-a-winner-lyrics
 name: Everybody Loves A Winner
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 172133
 ---
 Once I had fame
 Oh I was full of pride

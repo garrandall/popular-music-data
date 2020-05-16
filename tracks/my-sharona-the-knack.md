@@ -1,8 +1,11 @@
 ---
+album: Get The Knack
 artists:
 - The Knack
+external_ids:
+  spotify: spotify:track:1HOMkjp0nHMaTnfAkslCQj
 features: []
-genres: []
+first_released_as_single: false
 key: my-sharona-the-knack
 lyrics_url: https://genius.com/The-knack-my-sharona-lyrics
 name: My Sharona
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1979
+runtime: 295400
 ---
 Oh my little pretty one, pretty one
 When you gonna give me some time, Sharona?

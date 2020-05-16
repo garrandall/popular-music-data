@@ -1,8 +1,11 @@
 ---
+album: No Doubt About It
 artists:
 - Neal McCoy
+external_ids:
+  spotify: spotify:track:3VffiMehjhfqo7XZ5zGpCP
 features: []
-genres: []
+first_released_as_single: false
 key: wink-neal-mccoy
 lyrics_url: https://www.azlyrics.com/lyrics/nealmccoy/wink.html
 name: Wink
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 162466
 ---
-
 I woke up this morning
 My head fell dense
 I splashed it with water tryin' to make it make sense
@@ -52,4 +56,3 @@ But simple little things are the miracle cure
 Push to the limit
 I'm standin' at the brink
 All she's gotta do is just give me that wink
-

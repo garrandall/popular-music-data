@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6AAmQM86SXxAq28rST7yjG
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-christmas-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/welcomechristmas.html
 name: Welcome Christmas
@@ -11,8 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2010-12-25'
+release_year: 2010
+runtime: 133666
 ---
-
 Fahoo fores dahoo dores
 Welcome Christmas come this way
 Fahoo fores dahoo dores
@@ -32,6 +36,3 @@ Just as long as we have glee
 Fahoo fores dahoo dores
 Welcome Christmas bring your light
 Oooooooooo...
-
-
-

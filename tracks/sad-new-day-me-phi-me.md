@@ -1,8 +1,11 @@
 ---
+album: One
 artists:
 - Me Phi Me
+external_ids:
+  spotify: spotify:track:2w6NtO0ll8NeJq93UzRi2N
 features: []
-genres: []
+first_released_as_single: false
 key: sad-new-day-me-phi-me
 lyrics_url: https://genius.com/Me-phi-me-sad-new-day-lyrics
 name: Sad New Day
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-09-19'
+release_year: 1992
+runtime: 327866
 ---
 Pain, it's as dark as the night
 Keeps you up-tight
@@ -113,9 +118,3 @@ SAD NEW DAY, GO AWAY!
 SAD NEW DAY, GO AWAY!
 SAD NEW DAY, GO AWAY!
 SAD NEW DAY, GO AWAY!
-
-(Guitar Solo)
-
-Lyrics by La-Ron Wilburn | Music by Chris Cuben (BMI)
-Produced by Christopher Cuben-Tatum for Concept Enterprises International
-BMG/RCA Records

@@ -1,8 +1,11 @@
 ---
+album: Rockin' Til the Day I Die - Deep Cuts '55 to '63
 artists:
 - Bobby Marchan
+external_ids:
+  spotify: spotify:track:30FihDGoNksBkeqlTvAZ81
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-something-on-your-mind--part-2--bobby-marchan
 lyrics_url: https://genius.com/Bobby-marchan-theres-something-on-your-mind-pt-1-lyrics
 name: There's Something On Your Mind (Part 2)
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 172000
 ---
 By the way you look at me I truly do believe
 Something is worrying Your troubled mind

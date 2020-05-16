@@ -1,8 +1,11 @@
 ---
+album: I'll Take Care Of You
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:0jHpO6NhB35tEjRgwcvPLA
 features: []
-genres: []
+first_released_as_single: true
 key: i-don-t-want-to-cry-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-i-dont-want-to-cry-lyrics
 name: I Don't Want To Cry
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 139533
 ---
 I still love you
 Like I did before

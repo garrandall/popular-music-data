@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:1HQAvqPT5ybjUQMWTU2tGf
 features: []
-genres: []
+first_released_as_single: false
 key: songbird-kenny-g
 lyrics_url: https://genius.com/Kenny-g-songbird-lyrics
 name: Songbird
@@ -95,5 +98,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
+release_year: 1986
+runtime: 303253
 ---
 Instrumental

@@ -1,8 +1,11 @@
 ---
+album: Pretzel Logic
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:18a9EGG4xhRELv7bgAw5hb
 features: []
-genres: []
+first_released_as_single: false
 key: rikki-don-t-lose-that-number-steely-dan
 lyrics_url: https://genius.com/Steely-dan-rikki-dont-lose-that-number-lyrics
 name: Rikki Don't Lose That Number
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 271093
 ---
 We hear you're leaving, that's okay
 I thought our little wild time had just begun

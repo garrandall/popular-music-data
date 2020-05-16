@@ -1,8 +1,11 @@
 ---
+album: The Emitt Rhodes Recordings (1969-1973)
 artists:
 - Emitt Rhodes
+external_ids:
+  spotify: spotify:track:0ntV55n5Bm4TF0nkLNjTBt
 features: []
-genres: []
+first_released_as_single: false
 key: fresh-as-a-daisy-emitt-rhodes
 lyrics_url: https://genius.com/Emitt-rhodes-fresh-as-a-daisy-lyrics
 name: Fresh As A Daisy
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 171960
 ---
 Well, if you come from Heaven
 You know that that's OK

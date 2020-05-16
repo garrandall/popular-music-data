@@ -1,8 +1,11 @@
 ---
+album: Neither One Of Us
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:3QgSJ9CqgLPk9B4xLdwLrS
 features: []
-genres: []
+first_released_as_single: false
 key: neither-one-of-us--wants-to-be-the-first-to-say-goodbye--gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-neither-one-of-us-lyrics
 name: Neither One Of Us (Wants To Be The First To Say Goodbye)
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1973
+runtime: 264266
 ---
 It's sad to think we're not gonna make it
 And it's gotten to the point

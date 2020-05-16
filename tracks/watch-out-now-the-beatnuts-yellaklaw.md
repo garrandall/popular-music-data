@@ -1,9 +1,12 @@
 ---
+album: Watch Out Now EP
 artists:
 - The Beatnuts
+external_ids:
+  spotify: spotify:track:5qLbFosmBoFZRWh39mTBAh
 features:
 - Yellaklaw
-genres: []
+first_released_as_single: true
 key: watch-out-now-the-beatnuts-yellaklaw
 lyrics_url: https://genius.com/The-beatnuts-watch-out-now-lyrics
 name: Watch Out Now
@@ -56,6 +59,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1999
+runtime: 174200
 ---
 "Watch out now!"
 

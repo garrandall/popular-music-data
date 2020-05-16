@@ -1,8 +1,11 @@
 ---
+album: Mikaila
 artists:
 - Mikaila
+external_ids:
+  spotify: spotify:track:0h9mUYPhZd2aQK2JmrHPD2
 features: []
-genres: []
+first_released_as_single: false
 key: so-in-love-with-two-mikaila
 lyrics_url: https://www.azlyrics.com/lyrics/mikaila/soinlovewithtwo.html
 name: So In Love With Two
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
+release_year: 2000
+runtime: 206933
 ---
-
 My number one: There could never be no one like you
 How come I feel this way about
 My number two: Never tried to tell me what to say or do
@@ -140,6 +144,3 @@ But the problem is I'm so in love with two
 
 Hey, hey, hey
 I choose the both of you
-
-
-

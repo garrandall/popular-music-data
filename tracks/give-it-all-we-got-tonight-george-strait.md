@@ -1,8 +1,11 @@
 ---
+album: Love Is Everything
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:19PJ75UGKjpBo0muDNyxPW
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-all-we-got-tonight-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/giveitallwegottonight.html
 name: Give It All We Got Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2012
+runtime: 251333
 ---
-
 July moonlight shines
 Your pretty little head on my shoulder
 Pull over on the side of the road
@@ -125,6 +129,3 @@ This moment that says it's so right
 That's all we have in this life
 Drink up this love, c'mon, give it all we got tonight
 Give it all we got tonight
-
-
-

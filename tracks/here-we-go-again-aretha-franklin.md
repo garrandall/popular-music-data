@@ -1,8 +1,11 @@
 ---
+album: A Rose Is Still A Rose
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2LOOazstxedsL3dBhfo5zF
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-go-again-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/herewegoagain.html
 name: Here We Go Again
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1998
+runtime: 210400
 ---
-
 Come on now
 Oh'oh'ho'ho'oh'
 Here we, here we, here we go again
@@ -136,6 +140,3 @@ Or else I'm walking out the door
 Oh, ho'yeah
 Hey, well
 Yeah, baby, oh'oh'
-
-
-

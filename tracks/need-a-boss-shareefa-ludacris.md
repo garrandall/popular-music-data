@@ -1,9 +1,12 @@
 ---
+album: Need A Boss (Edited Version)
 artists:
 - Shareefa
+external_ids:
+  spotify: spotify:track:684c3GEBYgNYtlrCkWGFVw
 features:
 - Ludacris
-genres: []
+first_released_as_single: true
 key: need-a-boss-shareefa-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/shareefa/needaboss.html
 name: Need A Boss
@@ -80,9 +83,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
+release_year: 2006
+runtime: 234813
 ---
-
-
 This that new fire man!
 Dark child!
 Disturbing Tha Peace!
@@ -192,4 +195,3 @@ I need a boss like (hey!)
 Who's flossing like (hey!)
 Tossin' dough like (hey!)
 That drives me crazy!
-

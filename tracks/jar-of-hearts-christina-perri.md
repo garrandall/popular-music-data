@@ -1,8 +1,11 @@
 ---
+album: lovestrong.
 artists:
 - Christina Perri
+external_ids:
+  spotify: spotify:track:4837kNWGD6qqRESyOL2Dn1
 features: []
-genres: []
+first_released_as_single: true
 key: jar-of-hearts-christina-perri
 lyrics_url: https://genius.com/Christina-perri-jar-of-hearts-lyrics
 name: Jar Of Hearts
@@ -131,6 +134,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 245013
 ---
 I know I can't take one more step towards you
 ‘Cause all that's waiting is regret

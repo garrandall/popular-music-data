@@ -1,8 +1,11 @@
 ---
+album: 'Otis Blue: Otis Redding Sings Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:5CYwaNS12milkMMyNgEOLY
 features: []
-genres: []
+first_released_as_single: false
 key: respect-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/respect.html
 name: Respect
@@ -51,8 +54,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 130986
 ---
-
 What you want, honey you got it
 And what you need, baby you got it
 All I'm askin' is for a little respect when I come home
@@ -75,6 +79,3 @@ Is a little respect when I get home
 
 Respect is what I want
 Respect is what I need
-
-
-

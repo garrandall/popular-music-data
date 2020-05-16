@@ -1,8 +1,11 @@
 ---
+album: Blind To Reason
 artists:
 - Grayson Hugh
+external_ids:
+  spotify: spotify:track:2qsYg48euNAahTz3jQN9CH
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-all-back-grayson-hugh
 lyrics_url: https://genius.com/Grayson-hugh-bring-it-all-back-lyrics
 name: Bring It All Back
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1988
+runtime: 244133
 ---
 Girl you know that this is wrong
 Got to go one way or the other

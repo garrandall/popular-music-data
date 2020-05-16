@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:2gofnl02nfeNFuXZdYroRC
 features: []
-genres: []
+first_released_as_single: false
 key: walk-with-faith-in-your-heart-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-walk-with-faith-in-your-heart-lyrics
 name: Walk With Faith In Your Heart
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1967
+runtime: 169666
 ---
 Walk with faith in your heart
 And you'll never walk alone

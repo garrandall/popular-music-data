@@ -1,8 +1,12 @@
 ---
+album: Greatest Bits
 artists:
-- Jeff Foxworthy With Alan Jackson
-features: []
-genres: []
+- Jeff Foxworthy
+external_ids:
+  spotify: spotify:track:6oZwD4YevotSwILeiigaPt
+features:
+- Alan Jackson
+first_released_as_single: false
 key: redneck-games-jeff-foxworthy-with-alan-jackson
 name: Redneck Games
 rankings:
@@ -46,5 +50,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-08-31'
+release_year: 1993
+runtime: 207773
 ---
 

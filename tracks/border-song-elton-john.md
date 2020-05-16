@@ -1,8 +1,11 @@
 ---
+album: Elton John
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:4gpxT82T8ZzRWknBH30Zey
 features: []
-genres: []
+first_released_as_single: false
 key: border-song-elton-john
 lyrics_url: https://genius.com/Elton-john-border-song-lyrics
 name: Border Song
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 202066
 ---
 Holy Moses, I have been removed
 I have seen the spectre, he has been here too

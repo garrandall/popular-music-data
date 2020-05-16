@@ -1,8 +1,11 @@
 ---
+album: Since I Fell For You
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:2NsSdnOYJxCjTFwXmRxB9c
 features: []
-genres: []
+first_released_as_single: false
 key: my-pretending-days-are-over-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/My-Pretending-Days-Are-Over
 name: My Pretending Days Are Over
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 253240
 ---
 My pretending days are over
 Gonna leave the acting

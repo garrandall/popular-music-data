@@ -1,8 +1,11 @@
 ---
+album: The Concert of Love
 artists:
 - Darlene Love
+external_ids:
+  spotify: spotify:track:46pF1zFimM582ss1PrMy68
 features: []
-genres: []
+first_released_as_single: false
 key: christmas--baby-please-come-home--darlene-love
 lyrics_url: https://genius.com/Darlene-love-white-christmas-lyrics
 name: Christmas (Baby Please Come Home)
@@ -19,6 +22,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1963
+runtime: 166453
 ---
 I'm dreaming of a white Christmas
 Just like the ones I used to know

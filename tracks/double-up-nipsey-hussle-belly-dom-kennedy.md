@@ -1,10 +1,13 @@
 ---
+album: Victory Lap
 artists:
 - Nipsey Hussle
+external_ids:
+  spotify: spotify:track:4iVD0fTHGxV9JWloujsL3s
 features:
 - Belly
 - DOM KENNEDY
-genres: []
+first_released_as_single: false
 key: double-up-nipsey-hussle-belly-dom-kennedy
 lyrics_url: https://www.azlyrics.com/lyrics/nipseyhussle/doubleup.html
 name: Double Up
@@ -21,9 +24,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 361280
 ---
-
-
 Double up
 Three or four times, I ain't tellin no lies, I just run it up
 Never let a hard time humble us
@@ -129,6 +132,3 @@ I'd jump off the ledge if you with me
 I'd break you up, you just let me down
 Let me down
 Let me down
-
-
-

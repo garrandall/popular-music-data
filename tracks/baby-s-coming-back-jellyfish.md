@@ -1,8 +1,11 @@
 ---
+album: Bellybutton
 artists:
 - Jellyfish
+external_ids:
+  spotify: spotify:track:3hqU7Q6QBYavIp8l6ykOdr
 features: []
-genres: []
+first_released_as_single: false
 key: baby-s-coming-back-jellyfish
 lyrics_url: https://genius.com/Jellyfish-babys-coming-back-lyrics
 name: Baby's Coming Back
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-04-27'
+release_year: 1990
+runtime: 177000
 ---
 I knew that when I saw her
 That my life would soon move over from the fast lane

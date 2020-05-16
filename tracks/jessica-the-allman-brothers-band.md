@@ -1,8 +1,11 @@
 ---
+album: Wipe The Windows, Check The Oil, Dollar Gas
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:75YUy2xnJXbOvLeizWFbVo
 features: []
-genres: []
+first_released_as_single: false
 key: jessica-the-allman-brothers-band
 lyrics_url: https://genius.com/The-allman-brothers-band-jessica-lyrics
 name: Jessica
@@ -31,6 +34,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1974
+runtime: 550498
 ---
-
 The recording is the album’s version – the long one…

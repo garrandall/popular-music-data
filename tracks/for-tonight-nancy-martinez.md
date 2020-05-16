@@ -1,8 +1,11 @@
 ---
+album: Not Just The Girl Next Door
 artists:
 - Nancy Martinez
+external_ids:
+  spotify: spotify:track:6Ib6spYstXrIWT8R0jAHoF
 features: []
-genres: []
+first_released_as_single: false
 key: for-tonight-nancy-martinez
 lyrics_url: https://genius.com/Nancy-martinez-for-tonight-lyrics
 name: For Tonight
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1986
+runtime: 250293
 ---
 Another night
 It's getting colder

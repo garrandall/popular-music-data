@@ -1,8 +1,11 @@
 ---
+album: Breathless
 artists:
 - Breathless
+external_ids:
+  spotify: spotify:track:6VpWx1LPR1oxuRMfdxtPNA
 features: []
-genres: []
+first_released_as_single: false
 key: takin--it-back-breathless
 lyrics_url: https://www.musixmatch.com/lyrics/Breathless/Takin-It-Back
 name: Takin' It Back
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1980
+runtime: 202426
 ---
 I wanna be the first one on your list
 First thing in the morning

@@ -1,8 +1,11 @@
 ---
+album: Youngblood
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:7HB7Wj26nYVo8CquzM7yX3
 features: []
-genres: []
+first_released_as_single: true
 key: want-you-back-5-seconds-of-summer
 lyrics_url: https://www.musixmatch.com/lyrics/5-Seconds-of-Summer/Want-You-Back
 name: Want You Back
@@ -11,6 +14,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2018
+runtime: 173073
 ---
 Can't help but wondering if this
 Is the last time that I'll see your face

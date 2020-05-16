@@ -1,8 +1,11 @@
 ---
+album: Teen-Age Triangle
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:1cPxnXUCio2zV6yE4pWZ25
 features: []
-genres: []
+first_released_as_single: false
 key: her-royal-majesty-james-darren
 lyrics_url: https://genius.com/James-darren-her-royal-majesty-lyrics
 name: Her Royal Majesty
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
+release_year: 1962
+runtime: 132666
 ---
 Ladies and gentlemen
 Presenting, Her Royal Majesty

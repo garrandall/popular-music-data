@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:2lmPUdIdzlFH64PWJrw6Zb
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-in-the-game-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-its-all-in-the-game-mono-lyrics
 name: It's All In The Game
@@ -95,6 +98,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1958
+runtime: 159040
 ---
 Many a tear have to fall
 But it's all in the game

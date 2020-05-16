@@ -1,8 +1,11 @@
 ---
+album: I Won't Mention It Again
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:1pmzha8pf8WiNpbKoYoTWy
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-mention-it-again-ray-price
 lyrics_url: https://genius.com/Ray-price-i-wont-mention-it-again-lyrics
 name: I Won't Mention It Again
@@ -63,6 +66,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1954
+runtime: 216573
 ---
 I know you're tired of being all I ever wanted
 You'll no longer feel the love I have for you

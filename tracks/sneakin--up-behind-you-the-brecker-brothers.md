@@ -1,8 +1,11 @@
 ---
+album: The Brecker Bros
 artists:
 - The Brecker Brothers
+external_ids:
+  spotify: spotify:track:4v9wiiuLSNGQmUs6Z4KTV9
 features: []
-genres: []
+first_released_as_single: false
 key: sneakin--up-behind-you-the-brecker-brothers
 lyrics_url: https://genius.com/The-brecker-brothers-sneakin-up-behind-you-lyrics
 name: Sneakin' Up Behind You
@@ -43,5 +46,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
+release_year: 1975
+runtime: 293213
 ---
 Sneakin' Up Behind You

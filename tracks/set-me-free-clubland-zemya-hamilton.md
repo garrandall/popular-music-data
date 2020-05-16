@@ -1,9 +1,12 @@
 ---
+album: 'Life Is a Remix, Vol. 3: Lost & Found'
 artists:
 - Clubland
+external_ids:
+  spotify: spotify:track:4nuukfAQwf2NLVhzp1Rk3F
 features:
 - Zemya Hamilton
-genres: []
+first_released_as_single: false
 key: set-me-free-clubland-zemya-hamilton
 name: Set Me Free
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1992
+runtime: 380000
 ---
 

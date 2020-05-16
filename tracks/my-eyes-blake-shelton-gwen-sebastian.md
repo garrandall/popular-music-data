@@ -1,9 +1,12 @@
 ---
+album: Based on a True Story...
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:7kB1UXxStzSa78NdiexiIS
 features:
 - Gwen Sebastian
-genres: []
+first_released_as_single: false
 key: my-eyes-blake-shelton-gwen-sebastian
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/myeyes.html
 name: My Eyes
@@ -72,8 +75,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2013
+runtime: 190213
 ---
-
 Those high heels with that sun dress
 Turquoise heart hanging 'round your neck
 Red lips like wine, wanna drink 'em up
@@ -121,6 +125,3 @@ My eyes are the only thing I don't wanna take off of you
 Come a little closer, come a little closer
 Come a little closer, love the way you look tonight
 My eyes are the only thing I don't wanna take off of you
-
-
-

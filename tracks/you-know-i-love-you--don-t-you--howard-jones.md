@@ -1,8 +1,11 @@
 ---
+album: One To One
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:3rct1zdr68rmn6tXDkl1eK
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-i-love-you--don-t-you--howard-jones
 lyrics_url: https://genius.com/Howard-jones-you-know-i-love-you-dont-you-lyrics
 name: You Know I Love You Don't You?
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 277533
 ---
 YOU KNOW I LOVE YOU...DON'T YOU?
 Howard Jones

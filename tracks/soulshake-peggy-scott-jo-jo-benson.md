@@ -1,9 +1,12 @@
 ---
+album: Soul and R&b Jams!
 artists:
 - Peggy Scott
 - Jo Jo Benson
+external_ids:
+  spotify: spotify:track:5vx2BYGYKU64NR6EFkN0PI
 features: []
-genres: []
+first_released_as_single: false
 key: soulshake-peggy-scott-jo-jo-benson
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Scott-Jo-Jo-Benson/Soulshake
 name: Soulshake
@@ -32,6 +35,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 148266
 ---
 Dancing with you baby
 Really turns the soulshake on

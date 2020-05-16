@@ -1,8 +1,11 @@
 ---
+album: Proud To Be Here
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:1ZxNwqYsJA41CKf2YEhmIK
 features: []
-genres: []
+first_released_as_single: false
 key: just-fishin--trace-adkins
 lyrics_url: https://genius.com/Trace-adkins-just-fishin-lyrics
 name: Just Fishin'
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 210333
 ---
 I’m lost in her there holding that pink rod and reel
 She’s doing almost everything but sitting still

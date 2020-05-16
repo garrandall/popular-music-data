@@ -1,9 +1,12 @@
 ---
+album: Memories
 artists:
 - Barbra Streisand
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:0rdpCZII0axMfdKyFpVozN
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-bring-me-flowers-barbra-streisand-neil-diamond
 lyrics_url: https://www.musixmatch.com/lyrics/Barbra-Streisand-with-Neil-Diamond/You-Don-t-Bring-Me-Flowers
 name: You Don't Bring Me Flowers
@@ -76,6 +79,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1972
+runtime: 203400
 ---
 You don't bring me flowers
 You don't sing me love songs

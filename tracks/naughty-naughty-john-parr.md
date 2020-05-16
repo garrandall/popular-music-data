@@ -1,8 +1,11 @@
 ---
+album: John Parr
 artists:
 - John Parr
+external_ids:
+  spotify: spotify:track:1rEhIxiCM5RFmIz04gLAVf
 features: []
-genres: []
+first_released_as_single: false
 key: naughty-naughty-john-parr
 lyrics_url: https://genius.com/John-parr-naughty-naughty-lyrics
 name: Naughty Naughty
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1984
+runtime: 219933
 ---
 I put my hand on your stocking
 I was movin' nice and slow

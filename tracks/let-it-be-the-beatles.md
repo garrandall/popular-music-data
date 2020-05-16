@@ -1,8 +1,11 @@
 ---
+album: Let It Be
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:7iN1s7xHE4ifF5povM6A48
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-the-beatles
 lyrics_url: https://genius.com/The-beatles-let-it-be-lyrics
 name: Let It Be
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 243026
 ---
 When I find myself in times of trouble, Mother Mary comes to me
 Speaking words of wisdom, “let it be”

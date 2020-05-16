@@ -1,9 +1,12 @@
 ---
+album: WTF (Where They From)
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:7IAa7vUJ11STN7le8XaxsH
 features:
 - Pharrell Williams
-genres: []
+first_released_as_single: true
 key: wtf--where-they-from--missy-elliott-pharrell-williams
 lyrics_url: https://genius.com/Missy-elliott-wtf-where-they-from-lyrics
 name: WTF (Where They From)
@@ -64,6 +67,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
+release_year: 2015
+runtime: 192772
 ---
 (Shorty what?)
 The dance that you doing is dumb

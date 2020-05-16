@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4cw5ZVMd3UdRHnRsO0OlFN
 features: []
-genres: []
+first_released_as_single: false
 key: two-tickets-to-paradise-brook-benton
 lyrics_url: https://genius.com/Brook-benton-two-tickets-to-paradise-lyrics
 name: Two Tickets To Paradise
@@ -47,6 +50,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 159306
 ---
 Money, I ain't got none
 Problems, I sure got some

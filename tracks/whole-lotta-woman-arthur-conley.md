@@ -1,8 +1,11 @@
 ---
+album: 'Get Right: The Ru-Jac Records Story, Vol. 2: 1964-1966'
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:3vXqnKKEZSUNHf6bVqeRUo
 features: []
-genres: []
+first_released_as_single: false
 key: whole-lotta-woman-arthur-conley
 lyrics_url: https://www.musixmatch.com/lyrics/Arthur-Conley/Whole-Lotta-Woman
 name: Whole Lotta Woman
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 165506
 ---
 I got a rocking chair that rock
 I got a rubber ball that roll

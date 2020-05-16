@@ -1,9 +1,12 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:2nE9bkPwLiaHCkQtXnCaNy
 features:
 - YG
-genres: []
+first_released_as_single: false
 key: extra-luv-future-yg
 lyrics_url: https://www.azlyrics.com/lyrics/future/extraluv.html
 name: Extra Luv
@@ -12,9 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 245960
 ---
-
-
 Too much poppin' in my life baby, I just really need some time baby
 Come and check up on my line baby, out of time baby, ah noo
 Fell in love with the lifestyle, black shades, night clout
@@ -103,6 +106,3 @@ Ah, ah, never really loved me
 Oh oh oohohohhoh
 Never really loved me
 It's my lifestyle, it's my lifestyle
-
-
-

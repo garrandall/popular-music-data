@@ -1,8 +1,11 @@
 ---
+album: Chicago Transit Authority (50th Anniversary Remix)
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:05Lh3Pqc8PCNarTKT4sCmi
 features: []
-genres: []
+first_released_as_single: false
 key: does-anybody-really-know-what-time-it-is--chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/doesanybodyreallyknowwhattimeitis.html
 name: Does Anybody Really Know What Time It Is?
@@ -59,8 +62,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1969
+runtime: 280706
 ---
-
 As I was walking down the street one day
 A man came up to me and asked me what the time was that was
 on my watch, yeah
@@ -106,6 +110,3 @@ If so I can't imagine why
 about time
 We've all got time enough to die
 Oh no, no
-
-
-

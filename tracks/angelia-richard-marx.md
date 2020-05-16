@@ -1,8 +1,11 @@
 ---
+album: Repeat Offender
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:2cG2bZy32qIxWVbFrobSQ1
 features: []
-genres: []
+first_released_as_single: false
 key: angelia-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/angelia.html
 name: Angelia
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 317933
 ---
-
 Memories of you and me
 Tumble inside my head
 The way that we used to be
@@ -113,4 +117,3 @@ Tried to be what you wanted
 I gave you all I had
 You left me without nothin'
 Nothin' but a photograph
-

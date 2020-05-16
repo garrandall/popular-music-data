@@ -1,8 +1,11 @@
 ---
+album: Jolene (The Voice Performance)
 artists:
 - Vicci Martinez
+external_ids:
+  spotify: spotify:track:32HGQzCUDOtHJ3qd57TpzY
 features: []
-genres: []
+first_released_as_single: true
 key: jolene-vicci-martinez
 lyrics_url: https://www.azlyrics.com/lyrics/viccimartinez/jolene.html
 name: Jolene
@@ -11,8 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 210013
 ---
-
 Jolene, Jolene, Jolene, Jolene 
 I'm begging of you, please don't take my man 
 Jolene, Jolene, Jolene, Jolene 
@@ -44,6 +48,3 @@ Jolene, Jolene, Jolene, Jolene
 Please don't take him even though you can. 
 
 Jolene, Jolene, (Jolene...)
-
-
-

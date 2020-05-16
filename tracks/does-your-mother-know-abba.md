@@ -1,8 +1,11 @@
 ---
+album: Voulez-Vous
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:1o397dDHRvqZfXfVy9YGdt
 features: []
-genres: []
+first_released_as_single: false
 key: does-your-mother-know-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/doesyourmotherknow.html
 name: Does Your Mother Know
@@ -63,8 +66,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 195666
 ---
-
 You're so hot, teasing me
 So you're blue but I can't take a chance on a chick like you
 That's something I couldn't do
@@ -117,4 +121,3 @@ Does your mother know that you're out?
 And I can chat with you baby
 Flirt a little maybe
 Does your mother know that you're out?
-

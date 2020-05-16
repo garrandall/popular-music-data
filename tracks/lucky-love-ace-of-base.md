@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:5YsxqidHZ9T6yyBKRnVNNK
 features: []
-genres: []
+first_released_as_single: true
 key: lucky-love-ace-of-base
 lyrics_url: https://genius.com/Ace-of-base-lucky-love-lyrics
 name: Lucky Love
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
+release_year: 1995
+runtime: 176000
 ---
 Life is a paradise
 Oho, yeaheah

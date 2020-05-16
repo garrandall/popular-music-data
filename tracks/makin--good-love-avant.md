@@ -1,8 +1,11 @@
 ---
+album: Ecstasy
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:6Q13UWFUuqXLXT7IUVkqM1
 features: []
-genres: []
+first_released_as_single: false
 key: makin--good-love-avant
 lyrics_url: https://genius.com/Avant-makin-good-love-lyrics
 name: Makin' Good Love
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-08-03'
+release_year: 2002
+runtime: 271386
 ---
 I got your legs spread all over the bed
 Hands clenched in the sheets

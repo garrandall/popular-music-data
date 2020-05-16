@@ -1,8 +1,11 @@
 ---
+album: The Folk Song World Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:5wAp4WLK435brIzG2qVLQi
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-dog-cried-jimmie-rodgers
 name: A Little Dog Cried
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 145965
 ---
 

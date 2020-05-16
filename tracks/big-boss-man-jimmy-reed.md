@@ -1,8 +1,11 @@
 ---
+album: Found Love
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:7LhYCokNBDYsVF0A0x95Pc
 features: []
-genres: []
+first_released_as_single: false
 key: big-boss-man-jimmy-reed
 lyrics_url: https://genius.com/Jimmy-reed-big-boss-man-lyrics
 name: Big Boss Man
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1960
+runtime: 170319
 ---
 Big boss man, can't you hear me when I call?
 Big boss man, can't you hear me when I call?

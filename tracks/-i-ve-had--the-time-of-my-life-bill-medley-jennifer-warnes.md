@@ -1,9 +1,12 @@
 ---
+album: 'Dirty Dancing: Anniversary Edition'
 artists:
 - Bill Medley
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:6W7ztLBiRzBN46ZaPAcQ0F
 features: []
-genres: []
+first_released_as_single: false
 key: -i-ve-had--the-time-of-my-life-bill-medley-jennifer-warnes
 lyrics_url: https://genius.com/Bill-medley-ive-had-the-time-of-my-life-lyrics
 name: (I've Had) The Time Of My Life
@@ -92,6 +95,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 290333
 ---
 Now I've had the time of my life
 No, I never felt like this before

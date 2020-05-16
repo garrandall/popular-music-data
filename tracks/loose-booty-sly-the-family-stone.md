@@ -1,9 +1,12 @@
 ---
+album: Small Talk
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:2bODSpA5V6atKBN5WKinQG
 features: []
-genres: []
+first_released_as_single: false
 key: loose-booty-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/loosebooty.html
 name: Loose Booty
@@ -24,8 +27,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 226146
 ---
-
 Booty, loose booty
 
 Booty
@@ -101,6 +105,3 @@ Booty
 (Shadrach, meshack, abednego)
 (Shadrach, meshack, abednego)
 (Shadrach, meshack, abednego)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Divinely Uninspired To A Hellish Extent
 artists:
 - Lewis Capaldi
+external_ids:
+  spotify: spotify:track:2TIlqbIneP0ZY1O0EzYLlc
 features: []
-genres: []
+first_released_as_single: true
 key: someone-you-loved-lewis-capaldi
 lyrics_url: https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
 name: Someone You Loved
@@ -183,6 +186,8 @@ rankings:
   rank: 15
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2018
+runtime: 182160
 ---
 I'm going under, and this time, I fear there's no one to save me
 This all or nothing really got a way of driving me crazy

@@ -1,8 +1,11 @@
 ---
+album: Swing Batta Swing!
 artists:
 - K7
+external_ids:
+  spotify: spotify:track:0Y6z0WSMQpTpj4kQArPnmK
 features: []
-genres: []
+first_released_as_single: false
 key: come-baby-come-k7
 lyrics_url: https://genius.com/K7-come-baby-come-lyrics
 name: Come Baby Come
@@ -91,6 +94,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1993
+runtime: 239733
 ---
 Da ding de ding de ding de de de ding ding
 Da ding de ding de ding de de de ding

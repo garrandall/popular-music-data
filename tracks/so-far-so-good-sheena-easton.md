@@ -1,8 +1,11 @@
 ---
+album: The World Of Sheena Easton - The Singles
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:36H86y0ENZzX3TIb9HMFBQ
 features: []
-genres: []
+first_released_as_single: false
 key: so-far-so-good-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-so-far-so-good-lyrics
 name: So Far So Good
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 245866
 ---
 No way of knowin' where we're goin'
 No way of tellin' what we've got

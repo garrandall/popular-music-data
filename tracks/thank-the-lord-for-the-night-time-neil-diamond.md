@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:3lBEmzljJyCXx0aK94ALK7
 features: []
-genres: []
+first_released_as_single: false
 key: thank-the-lord-for-the-night-time-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/thankthelordforthenighttime.html
 name: Thank The Lord For The Night Time
@@ -51,8 +54,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 181840
 ---
-
 Daytime turns me off,
 And I don't mean maybe
 Nine to five
@@ -98,6 +102,3 @@ I thank the Lord for the night time
 I thank the Lord for you
 Thank the Lord for the night time
 Thank the Lord for you
-
-
-

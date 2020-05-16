@@ -1,8 +1,11 @@
 ---
+album: Shock 'N Y'all
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:2CaxgnHBHuiOYIGIyvMbCl
 features: []
-genres: []
+first_released_as_single: false
 key: whiskey-girl-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/whiskeygirl.html
 name: Whiskey Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2003
+runtime: 239533
 ---
-
 Don't my baby look good in them blue jeans?
 Tight on the top with a belly button ring
 A little tattoo somewhere in between
@@ -142,6 +146,3 @@ My ragged-on-the-edges girl
 Ah, but I like 'em rough
 Yeah, I like 'em rough
 I like 'em rough
-
-
-

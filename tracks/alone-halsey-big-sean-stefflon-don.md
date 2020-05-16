@@ -1,10 +1,13 @@
 ---
+album: Alone
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:3tbNT2X5tfMIVeUflYbZUZ
 features:
 - Big Sean
 - Stefflon Don
-genres: []
+first_released_as_single: true
 key: alone-halsey-big-sean-stefflon-don
 lyrics_url: https://genius.com/Genius-traductions-francaises-halsey-alone-remix-ft-big-sean-and-stefflon-don-traduction-francaise-lyrics
 name: Alone
@@ -65,6 +68,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 207457
 ---
 Original Lyrics here
 

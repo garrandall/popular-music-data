@@ -1,8 +1,11 @@
 ---
+album: Dyke's Greatest Hits - The Complete Singles
 artists:
 - Dyke And The Blazers
+external_ids:
+  spotify: spotify:track:17Y2K7uNxMkaTDBtf1Tcv3
 features: []
-genres: []
+first_released_as_single: false
 key: let-a-woman-be-a-woman---let-a-man-be-a-man-dyke-and-the-blazers
 lyrics_url: https://genius.com/Dyke-and-the-blazers-let-a-woman-be-a-woman-let-a-man-be-a-man-lyrics
 name: Let A Woman Be A Woman - Let A Man Be A Man
@@ -51,6 +54,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1969
+runtime: 193680
 ---
 Some people say now
 Living in a joke, ha

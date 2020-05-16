@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Jimmy "Bo" Horne
+external_ids:
+  spotify: spotify:track:5UgYFEHWs7eS1aGzpf7vL2
 features: []
-genres: []
+first_released_as_single: false
 key: dance-across-the-floor-jimmy--bo--horne
 lyrics_url: https://genius.com/Jimmy-bo-horne-dance-across-the-floor-lyrics
 name: Dance Across The Floor
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1978
+runtime: 366466
 ---
 Ah lets do it
 Lets dance

@@ -1,8 +1,11 @@
 ---
+album: True Blue (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6A8OnjnpShshNpcqWtZRjr
 features: []
-genres: []
+first_released_as_single: false
 key: papa-don-t-preach-madonna
 lyrics_url: https://genius.com/Madonna-papa-dont-preach-lyrics
 name: Papa Don't Preach
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 345280
 ---
 Papa, I know you're going to be upset
 'Cause I was always your little girl

@@ -1,8 +1,11 @@
 ---
+album: Release
 artists:
 - Henry Gross
+external_ids:
+  spotify: spotify:track:4IYoyOVK9oQyJS1QZt5Vyj
 features: []
-genres: []
+first_released_as_single: false
 key: shannon-henry-gross
 lyrics_url: https://genius.com/Henry-gross-shannon-lyrics
 name: Shannon
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 233676
 ---
 Another day is at end
 Mama says she's tired again

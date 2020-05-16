@@ -1,8 +1,11 @@
 ---
+album: One Step Closer
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:77EkoS7xiCev7oblKioJ8Q
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-real-love-lyrics
 name: Real Love
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
+release_year: 1977
+runtime: 259266
 ---
 Darling, I know I'm just
 Another head on your pillow

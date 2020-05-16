@@ -1,8 +1,11 @@
 ---
+album: Brunswick Essentials
 artists:
 - The Artistics
+external_ids:
+  spotify: spotify:track:03rSnO7Vp23WjR4r5dPZAB
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-miss-you-the-artistics
 lyrics_url: https://genius.com/The-artistics-im-gonna-miss-you-lyrics
 name: I'm Gonna Miss You
@@ -47,6 +50,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 159773
 ---
 Ah, I'm gonna miss you
 Ah, I'm gonna miss you

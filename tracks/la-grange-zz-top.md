@@ -1,8 +1,11 @@
 ---
+album: Tres Hombres
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:70YvYr2hGlS01bKRIho1HM
 features: []
-genres: []
+first_released_as_single: false
 key: la-grange-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/lagrange.html
 name: La Grange
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
+release_year: 1973
+runtime: 230480
 ---
-
 Rumour spreadin' a-'round in that Texas town
 'bout that shack outside La Grange
 and you know what I'm talkin' about.
@@ -104,6 +108,3 @@ but now I might be mistaken.
 hm, hm, hm, hm.
 
 Have mercy.
-
-
-

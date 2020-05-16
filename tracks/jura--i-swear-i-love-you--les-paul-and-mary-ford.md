@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - Les Paul And Mary Ford
+external_ids:
+  spotify: spotify:track:5NtfIcgjY7AyBQTx21FgZX
 features: []
-genres: []
+first_released_as_single: false
 key: jura--i-swear-i-love-you--les-paul-and-mary-ford
 name: Jura (I Swear I Love You)
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1958
+runtime: 135333
 ---
 

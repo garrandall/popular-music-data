@@ -1,8 +1,11 @@
 ---
+album: This Type Of Thinking (Could Do Us In)
 artists:
 - Chevelle
+external_ids:
+  spotify: spotify:track:04NGX0b5Tgs7VsErfn5OA1
 features: []
-genres: []
+first_released_as_single: false
 key: vitamin-r--leading-us-along--chevelle
 lyrics_url: https://www.azlyrics.com/lyrics/chevelle/vitaminrleadingusalong.html
 name: Vitamin R (Leading Us Along)
@@ -55,8 +58,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 223004
 ---
-
 Some will learn; many do.
 Cover up or spread it out.
 Turn around, had enough,
@@ -99,4 +103,3 @@ Over and Over a slave
 Became
 Over and Over a slave
 Became
-

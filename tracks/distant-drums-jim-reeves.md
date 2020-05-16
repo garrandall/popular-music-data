@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:38CbMc5Al34k2iE59fyRYi
 features: []
-genres: []
+first_released_as_single: false
 key: distant-drums-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/distantdrums.html
 name: Distant Drums
@@ -35,8 +38,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 170440
 ---
-
 I hear the sound of distant drums
 Far away, far away
 And if they call for me to come
@@ -56,6 +60,3 @@ So Mary marry me, let's not wait
 For the distant drums might change our wedding date 
 And love me now, for now is all the time there may be
 If you love me Mary, Mary marry me
-
-
-

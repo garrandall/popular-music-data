@@ -1,8 +1,11 @@
 ---
+album: Aretha Live at Fillmore West
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0e0isrwFsu5W0KJqxkfPpX
 features: []
-genres: []
+first_released_as_single: false
 key: bridge-over-troubled-water-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/bridgeovertroubledwater.html
 name: Bridge Over Troubled Water
@@ -55,8 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1971
+runtime: 349466
 ---
-
 (Don't trouble the water)
 I won't (leave it alone)
 (Why don't you, why don't you, let it be?)
@@ -137,6 +141,3 @@ Walk out on me
 (Still water run deep)
 Oh
 (Yes it do)...
-
-
-

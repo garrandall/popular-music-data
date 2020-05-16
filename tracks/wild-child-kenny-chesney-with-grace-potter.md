@@ -1,8 +1,12 @@
 ---
+album: The Big Revival
 artists:
-- Kenny Chesney With Grace Potter
-features: []
-genres: []
+- Kenny Chesney
+external_ids:
+  spotify: spotify:track:050iNgNKEUrJboOnH4Jhm6
+features:
+- Grace Potter
+first_released_as_single: false
 key: wild-child-kenny-chesney-with-grace-potter
 name: Wild Child
 rankings:
@@ -66,5 +70,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2014
+runtime: 189800
 ---
 

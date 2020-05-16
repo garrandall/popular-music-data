@@ -1,8 +1,11 @@
 ---
+album: Boys Don't Cry
 artists:
 - Boys Don't Cry
+external_ids:
+  spotify: spotify:track:38mEFmht9K7UcpHvS9vtJG
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-a-cowboy-boys-don-t-cry
 lyrics_url: https://genius.com/Boys-dont-cry-i-wanna-be-a-cowboy-lyrics
 name: I Wanna Be A Cowboy
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1985
+runtime: 366133
 ---
 Riding on the range
 I've got my hat - on

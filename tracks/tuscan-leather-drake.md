@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4MOy68Xuz84lkfu1NQH6Bg
 features: []
-genres: []
+first_released_as_single: false
 key: tuscan-leather-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/tuscanleather.html
 name: Tuscan Leather
@@ -11,9 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 366400
 ---
-
-
 Comin' off the last record, I'm gettin' 20 million off the record
 Just to off these records, nigga that's a record
 I'm livin' like I'm out here on my last adventure
@@ -86,6 +89,3 @@ How much time is this nigga spendin' on the intro?
 How this nigga workin' like he got a fuckin' twin though?
 Life is soundin' crazy, 40 on Martin Scorcese
 And I wouldn't change a thing if you payed me, now real nigga wassup
-
-
-

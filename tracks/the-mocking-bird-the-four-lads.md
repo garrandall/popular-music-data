@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - The Four Lads
+external_ids:
+  spotify: spotify:track:3RPVk2uXTxAVwfxlWr7UBV
 features: []
-genres: []
+first_released_as_single: false
 key: the-mocking-bird-the-four-lads
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Lads/The-Mocking-Bird
 name: The Mocking Bird
@@ -47,6 +50,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1953
+runtime: 140226
 ---
 The Mocking Bird sang his song
 By the break of morn

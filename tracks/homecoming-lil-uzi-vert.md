@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:6vxU64pcIuQ38O015Zy4qj
 features: []
-genres: []
+first_released_as_single: false
 key: homecoming-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/homecoming.html
 name: Homecoming
@@ -11,8 +14,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 213884
 ---
-
 I got one girl from Philly, I think her name Nicki
 And I fuck with Nicki 'cause she not too picky
 And she not too choosy, but sometimes she bougie
@@ -116,6 +120,3 @@ Wait, what the fu...
 Why am I strapped in?
 Wait, I just gotta hit this button, I'm
 I'm out
-
-
-

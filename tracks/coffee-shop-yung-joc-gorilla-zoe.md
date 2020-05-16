@@ -1,9 +1,12 @@
 ---
+album: Hustlenomics
 artists:
 - Yung Joc
+external_ids:
+  spotify: spotify:track:15vZzr1JtorsZPJr8iqTVv
 features:
 - Gorilla Zoe
-genres: []
+first_released_as_single: true
 key: coffee-shop-yung-joc-gorilla-zoe
 lyrics_url: https://www.azlyrics.com/lyrics/yungjoc/coffeeshop.html
 name: Coffee Shop
@@ -12,8 +15,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
+release_year: 2007
+runtime: 241440
 ---
-
 Welcome to starblocks
 Its young dirty
 Whos this?
@@ -116,6 +120,3 @@ One hit n they'll be back to the coffee shop
 
 Ay Kids plz don't do drugs, just bring 'em to me, and i'll get rid of 'em at the Coffee Shop
 Haha Joc you stupid
-
-
-

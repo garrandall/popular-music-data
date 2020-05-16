@@ -1,8 +1,11 @@
 ---
+album: One To One
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:5nI0dG8Div5AApredQ6Z7v
 features: []
-genres: []
+first_released_as_single: false
 key: one-to-one-carole-king
 lyrics_url: https://genius.com/Carole-king-one-to-one-lyrics
 name: One To One
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1982
+runtime: 196493
 ---
 If I am the question
 You are the answer

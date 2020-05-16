@@ -1,8 +1,11 @@
 ---
+album: Slim Slo Slider
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:6IFQt1eYQvFAfHjvcA6T5c
 features: []
-genres: []
+first_released_as_single: false
 key: muddy-river-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-muddy-river-lyrics
 name: Muddy River
@@ -51,6 +54,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 219506
 ---
 Life is like a mighty river
 Rolling on and on forever

@@ -1,8 +1,11 @@
 ---
+album: Lost And Found
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:2bmxx16hNi3W5FGzfFO9xX
 features: []
-genres: []
+first_released_as_single: false
 key: switch-will-smith
 lyrics_url: https://genius.com/Will-smith-switch-lyrics
 name: Switch
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-09-10'
+release_year: 2005
+runtime: 196653
 ---
 Yo mic check, mic check, yeah here you go
 Nah, he over here

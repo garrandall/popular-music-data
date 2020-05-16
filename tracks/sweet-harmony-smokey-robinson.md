@@ -1,8 +1,11 @@
 ---
+album: Smokey
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:51JXslNlY77ICBNCNQjqsJ
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-harmony-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/sweetharmony.html
 name: Sweet Harmony
@@ -59,8 +62,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 277666
 ---
-
 This song is dedicated to some people
 With whom I had the pleasure of living
 Over half the years I've lived 'til now
@@ -112,6 +116,3 @@ Sweet harmony, harmony, oh...
 Spread your joy around the world, oh, yeah
 Sweet harmony, do it
 Do it, do it, do it, do it...
-
-
-

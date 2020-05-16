@@ -1,8 +1,11 @@
 ---
+album: Good Clean Fun
 artists:
 - Sniff 'n' the Tears
+external_ids:
+  spotify: spotify:track:0jzmawRzFPY8JdvyOKisyL
 features: []
-genres: []
+first_released_as_single: false
 key: driver-s-seat-sniff--n--the-tears
 lyrics_url: https://www.azlyrics.com/lyrics/sniffnthetears/driversseat.html
 name: Driver's Seat
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 346040
 ---
-
 Doing all right
 A little driving on a Saturday night
 And come what may
@@ -114,6 +118,3 @@ Driver's seat, yeah
 
 Yeah
 Driver's seat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: One More Story
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:7ttAAvkXzs3IC1Qm3H1N3k
 features: []
-genres: []
+first_released_as_single: false
 key: one-good-woman-peter-cetera
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/onegoodwoman.html
 name: One Good Woman
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1988
+runtime: 277973
 ---
-
 I am so in love with you
 I just can't deny it
 Everybody knows I can't deny it
@@ -139,4 +143,3 @@ Love and devotion
 You taught me how to show my emotion
 Just goes to prove
 What one good woman can do
-

@@ -1,8 +1,11 @@
 ---
+album: Beatles Songs Unplugged
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:48TNLcToLs8DWkdj5vYdiW
 features: []
-genres: []
+first_released_as_single: false
 key: rain-the-beatles
 lyrics_url: https://genius.com/The-beatles-rain-lyrics
 name: Rain
@@ -35,6 +38,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 181320
 ---
 If the rain comes
 They run and hide their heads

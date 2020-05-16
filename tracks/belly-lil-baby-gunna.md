@@ -1,9 +1,12 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:1yQvL8SzbF5JCroRKk9F07
 features: []
-genres: []
+first_released_as_single: false
 key: belly-lil-baby-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/belly.html
 name: Belly
@@ -12,9 +15,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 191724
 ---
-
-
 Ah-ah-ah, hey
 Run that back, Turbo
 
@@ -104,6 +107,3 @@ Just left the bank, I need a bag to hold this
 The streets like a farm 'cause all we ride is horses
 Let my face tell it, we done made a fortune
 I'm ridin' with my dawg and he ain't gotta question (Uh)
-
-
-

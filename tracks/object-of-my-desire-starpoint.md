@@ -1,8 +1,11 @@
 ---
+album: Restless
 artists:
 - Starpoint
+external_ids:
+  spotify: spotify:track:63Ql2zSLiBryLRPihaUToK
 features: []
-genres: []
+first_released_as_single: false
 key: object-of-my-desire-starpoint
 lyrics_url: https://genius.com/Starpoint-object-of-my-desire-lyrics
 name: Object Of My Desire
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1985
+runtime: 306453
 ---
 Oh...
 Whoa, whoa, whoa...yeah

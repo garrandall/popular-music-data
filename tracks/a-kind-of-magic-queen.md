@@ -1,8 +1,11 @@
 ---
+album: A Kind of Magic (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:1LFK84nUerBbYfFd1LmnTm
 features: []
-genres: []
+first_released_as_single: false
 key: a-kind-of-magic-queen
 lyrics_url: https://genius.com/Queen-a-kind-of-magic-lyrics
 name: A Kind Of Magic
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-08-30'
+release_year: 1986
+runtime: 264253
 ---
 It's a kind of magic
 It's a kind of magic

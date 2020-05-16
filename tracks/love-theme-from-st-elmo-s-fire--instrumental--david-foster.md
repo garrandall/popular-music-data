@@ -1,8 +1,11 @@
 ---
+album: David Foster
 artists:
 - David Foster
+external_ids:
+  spotify: spotify:track:6qZPmkfLRGeM504ELF84vj
 features: []
-genres: []
+first_released_as_single: false
 key: love-theme-from-st-elmo-s-fire--instrumental--david-foster
 lyrics_url: https://genius.com/David-foster-love-theme-from-st-elmos-fire-instrumental-lyrics
 name: Love Theme From St Elmo's Fire (Instrumental)
@@ -95,5 +98,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 227239
 ---
-INSTRUMENTAL
+(instrumental)

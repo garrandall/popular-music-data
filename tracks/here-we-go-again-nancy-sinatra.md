@@ -1,8 +1,11 @@
 ---
+album: Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:18ytBAGsV3KoubYAEGgKGt
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-go-again-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/herewegoagain.html
 name: Here We Go Again
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 191123
 ---
-
 Here we go again
 She's back in town again
 I'll take her back again
@@ -44,6 +48,3 @@ One more time
 
 I'll take her back again
 One more time, oh
-
-
-

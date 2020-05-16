@@ -1,8 +1,11 @@
 ---
+album: Collection 1956-62
 artists:
 - George Hamilton IV
+external_ids:
+  spotify: spotify:track:3DWPIldMnH203cF4BK72uL
 features: []
-genres: []
+first_released_as_single: false
 key: gee-george-hamilton-iv
 lyrics_url: https://genius.com/George-hamilton-iv-gee-lyrics
 name: Gee
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 126453
 ---
 Gee, I saw the sweetest girl last night
 I wonder if she even noticed me

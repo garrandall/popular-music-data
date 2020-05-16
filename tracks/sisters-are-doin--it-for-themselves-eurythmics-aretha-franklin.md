@@ -1,9 +1,12 @@
 ---
+album: Who's Zoomin' Who?
 artists:
 - Eurythmics
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1A4MgXs6a4uJ60DW1Itilw
 features: []
-genres: []
+first_released_as_single: false
 key: sisters-are-doin--it-for-themselves-eurythmics-aretha-franklin
 lyrics_url: https://genius.com/Eurythmics-sisters-are-doin-it-for-themselves-lyrics
 name: Sisters Are Doin' It For Themselves
@@ -68,6 +71,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 350600
 ---
 Now there was a time when they used to say
 That behind every - "great man"

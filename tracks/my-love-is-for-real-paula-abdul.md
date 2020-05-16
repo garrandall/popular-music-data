@@ -1,8 +1,11 @@
 ---
+album: Head Over Heels
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:184PRkSaxD8sLMCav7koKg
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-is-for-real-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/myloveisforreal.html
 name: My Love Is For Real
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-09-09'
+release_year: 1995
+runtime: 320773
 ---
-
 I made mistakes when I played with your mind
 Gave you excuses with each story line
 If you ask me how I feel 
@@ -100,6 +104,3 @@ This time it's got to be for you
 
 If you ask me how I feel 
 My love is for real
-
-
-

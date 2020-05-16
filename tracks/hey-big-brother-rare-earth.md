@@ -1,8 +1,11 @@
 ---
+album: In Concert (Live In Concert, US/1971)
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:0I4Kc5jC2k0ECiA22SermO
 features: []
-genres: []
+first_released_as_single: false
 key: hey-big-brother-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/heybigbrother.html
 name: Hey Big Brother
@@ -47,8 +50,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 445960
 ---
-
 Hey big brother, as soon as you arrive
 You better, get in touch with the people, big brother
 Better get them on your side, big brother
@@ -91,6 +95,3 @@ Hey big brother
 Hey big brother
 Hey big brother
 ...
-
-
-

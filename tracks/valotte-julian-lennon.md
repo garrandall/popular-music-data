@@ -1,8 +1,11 @@
 ---
+album: Valotte
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:6lTaVAtnxa69VgRwxOcMsJ
 features: []
-genres: []
+first_released_as_single: false
 key: valotte-julian-lennon
 lyrics_url: https://genius.com/Julian-lennon-valotte-lyrics
 name: Valotte
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1984
+runtime: 257040
 ---
 Sitting on the doorstep of the house I can't afford
 I can feel you there

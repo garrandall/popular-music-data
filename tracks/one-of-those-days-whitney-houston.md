@@ -1,8 +1,11 @@
 ---
+album: Just Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4qoRtBttExNQ8eguqiYsRg
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-those-days-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-one-of-those-days-lyrics
 name: One Of Those Days
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 255733
 ---
 Na na, na na na na
 Cam on, cam on, cam on, oh

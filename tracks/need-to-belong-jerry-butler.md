@@ -1,8 +1,11 @@
 ---
+album: Aware Of Love
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:1dM6Ev8R0vTtj2QX5pw9Xq
 features: []
-genres: []
+first_released_as_single: false
 key: need-to-belong-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-need-to-belong-lyrics
 name: Need To Belong
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1961
+runtime: 176440
 ---
 Wo oh oh oh (need to belong) yeah, (to someone)
 M hm hm hm (need to belong)hm hm hm hm hm (to someone)

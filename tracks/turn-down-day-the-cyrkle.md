@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:7rzM6RguKpfEJUJKPef2Go
 features: []
-genres: []
+first_released_as_single: false
 key: turn-down-day-the-cyrkle
 lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/turndownday.html
 name: Turn-Down Day
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 149200
 ---
-
 It's much too groovy a summer's day
 To waste runnin' 'round in the city
 But here on the sand I can dream away
@@ -82,6 +86,3 @@ Nothing on my mind
 It's a turn-down day
 Just a turn-'round day
 It's a turn-down day
-
-
-

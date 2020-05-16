@@ -1,8 +1,11 @@
 ---
+album: Freedom Suite
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:48G9n0VrQqGbihRFXIDu4G
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-the-rascals
 lyrics_url: https://www.azlyrics.com/lyrics/rascals/heaven.html
 name: Heaven
@@ -31,8 +34,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1969
+runtime: 206613
 ---
-
 Sometimes, baby, when you're really down
 There just don't seem to be a ray of hope around
 And everybody that you meet kind of wears a frown
@@ -85,6 +89,3 @@ For all the stars and all the seas
 And all the birds and all the bees
 
 It's heaven...
-
-
-

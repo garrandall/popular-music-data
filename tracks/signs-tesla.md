@@ -1,8 +1,11 @@
 ---
+album: Five Man Acoustical Jam
 artists:
 - Tesla
+external_ids:
+  spotify: spotify:track:0lyNsWWnut97Jm8aDnn3Us
 features: []
-genres: []
+first_released_as_single: false
 key: signs-tesla
 lyrics_url: https://genius.com/Tesla-signs-lyrics
 name: Signs
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1990
+runtime: 194933
 ---
 And the sign says "long hair freaky people need not apply"
 So I put my hair under my hat and I went in to ask him why

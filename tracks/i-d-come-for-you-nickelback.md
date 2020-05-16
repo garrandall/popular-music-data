@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:1xQZtbipNLyP0e0hihE5F5
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-come-for-you-nickelback
 lyrics_url: https://genius.com/Nickelback-id-come-for-you-lyrics
 name: I'd Come For You
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2008
+runtime: 262626
 ---
 Just one more moment, that's all that's needed
 Like wounded soldiers in need of healing

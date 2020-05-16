@@ -1,8 +1,11 @@
 ---
+album: Baby I Love You
 artists:
 - Andy Kim
+external_ids:
+  spotify: spotify:track:7ntvk3Wh8i14tnMyAkRpfk
 features: []
-genres: []
+first_released_as_single: false
 key: so-good-together-andy-kim
 lyrics_url: https://www.azlyrics.com/lyrics/andykim/sogoodtogether.html
 name: So Good Together
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 174560
 ---
-
 Baby, we're good together
 Yes, we're so good together
 I know it happening but I can't believe it
@@ -78,6 +82,3 @@ Oh baby I will
 Baby we're good together
 Yeah, yeah
 Yes we're so good together
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Stones
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:7jzLUQO3364vbIIaNVpx4A
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-thing-on-my-mind-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/thelastthingonmymind.html
 name: The Last Thing On My Mind
@@ -31,8 +34,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1971
+runtime: 212426
 ---
-
 It's a lesson too late for the learnin'
 Made of sand, made of sand
 In the wink of an eye my soul is turning
@@ -59,6 +63,3 @@ Well I could have loved you better
 I didn't mean to be unkind
 You know that was
 The last thing on my mind.
-
-
-

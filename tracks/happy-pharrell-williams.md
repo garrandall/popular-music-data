@@ -1,8 +1,11 @@
 ---
+album: G I R L
 artists:
 - Pharrell Williams
+external_ids:
+  spotify: spotify:track:60nZcImufyMA1MKQY3dcCH
 features: []
-genres: []
+first_released_as_single: false
 key: happy-pharrell-williams
 lyrics_url: https://genius.com/Pharrell-williams-happy-lyrics
 name: Happy
@@ -195,6 +198,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 232720
 ---
 It might seem crazy what I'm 'bout to say
 Sunshine she's here, you can take a break

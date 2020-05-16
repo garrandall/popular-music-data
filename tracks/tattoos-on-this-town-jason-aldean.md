@@ -1,8 +1,11 @@
 ---
+album: My Kinda Party
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:2SEsRxNSXidnMOZoTEzX1k
 features: []
-genres: []
+first_released_as_single: false
 key: tattoos-on-this-town-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/tattoosonthistown.html
 name: Tattoos On This Town
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2010
+runtime: 202466
 ---
-
 There's still black marks on that county road,
 Where we drag raced our pick-ups and Mustangs
 And weathered all the sun and rain.
@@ -125,6 +129,3 @@ We laid a lot of memories down,
 And we'll always be hangin' around,
 Like tattoos on this town
 Like tattoos on this town
-
-
-

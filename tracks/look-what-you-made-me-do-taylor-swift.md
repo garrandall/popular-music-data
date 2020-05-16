@@ -1,8 +1,11 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1P17dC1amhFzptugyAO7Il
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-you-made-me-do-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-look-what-you-made-me-do-lyrics
 name: Look What You Made Me Do
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
+release_year: 2017
+runtime: 211853
 ---
 I don't like your little games
 Don't like your tilted stage

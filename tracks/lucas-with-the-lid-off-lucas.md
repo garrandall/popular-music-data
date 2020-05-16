@@ -1,8 +1,11 @@
 ---
+album: Lucacentric
 artists:
 - Lucas
+external_ids:
+  spotify: spotify:track:5rId1L9uns3ivmbG1vc4lx
 features: []
-genres: []
+first_released_as_single: false
 key: lucas-with-the-lid-off-lucas
 lyrics_url: https://genius.com/Lucas-lucas-with-the-lid-off-lyrics
 name: Lucas With The Lid Off
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-02-04'
+release_year: 1994
+runtime: 242893
 ---
 "I'll be practicing in my mind"
 

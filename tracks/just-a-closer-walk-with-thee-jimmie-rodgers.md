@@ -1,8 +1,11 @@
 ---
+album: Classic Jimmie
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:4euFlQuR9RXcLOESaIqwtt
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-closer-walk-with-thee-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Just-a-Closer-Walk-With-Thee
 name: Just A Closer Walk With Thee
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 160005
 ---
 Just a closer walk with Thee
 Grant it, Jesus, is my plea

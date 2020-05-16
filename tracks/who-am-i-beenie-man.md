@@ -1,8 +1,11 @@
 ---
+album: Many Moods Of Moses
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:4PaV16f3DUo9QxbQMUzMKH
 features: []
-genres: []
+first_released_as_single: false
 key: who-am-i-beenie-man
 lyrics_url: https://genius.com/Beenie-man-who-am-i-sim-simma-lyrics
 name: Who Am I
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1997
+runtime: 196000
 ---
 Yes nyah!
 Cool nuh, Iyah

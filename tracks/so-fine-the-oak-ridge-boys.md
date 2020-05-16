@@ -1,8 +1,11 @@
 ---
+album: Bobbie Sue
 artists:
 - The Oak Ridge Boys
+external_ids:
+  spotify: spotify:track:2PPAtIWFDVGASzMIIaz3AS
 features: []
-genres: []
+first_released_as_single: false
 key: so-fine-the-oak-ridge-boys
 lyrics_url: https://genius.com/The-oak-ridge-boys-so-fine-lyrics
 name: So Fine
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
+release_year: 1981
+runtime: 164133
 ---
 So fine, so fine, so fine, yeah
 My baby's so doggone fine

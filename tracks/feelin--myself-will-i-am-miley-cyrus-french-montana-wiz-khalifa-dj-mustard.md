@@ -1,12 +1,15 @@
 ---
+album: '#willpower'
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:26XUAwGZqQEyy8Ubhtj4kq
 features:
 - Miley Cyrus
 - French Montana
 - Wiz Khalifa
 - DJ Mustard
-genres: []
+first_released_as_single: false
 key: feelin--myself-will-i-am-miley-cyrus-french-montana-wiz-khalifa-dj-mustard
 lyrics_url: https://www.musixmatch.com/lyrics/will-i-am-feat-Miley-Cyrus-Wiz-Khalifa-French-Montana-DJ-Mustard/Feelin-Myself-explicit
 name: Feelin' Myself
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
+release_year: 2013
+runtime: 253546
 ---
 I be everywhere, everybody know me
 Super, super fresh, what a dope styling

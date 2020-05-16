@@ -1,9 +1,12 @@
 ---
+album: Two Tickets to Paris (Original Soundtrack)
 artists:
 - Joey Dee
 - the Starliters
+external_ids:
+  spotify: spotify:track:7rLd6jQDCc4WDYfMg4VYRa
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-love-is-this-joey-dee-the-starliters
 lyrics_url: https://genius.com/Joey-dee-and-the-starliters-what-kind-of-love-is-this-lyrics
 name: What Kind Of Love Is This
@@ -48,6 +51,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 133786
 ---
 Peaked at # 18 in 1962
 What kind of love is this that makes me want to jump and shout?

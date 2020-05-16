@@ -1,8 +1,11 @@
 ---
+album: Load
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:140u2dqlZbpi4ZLgeolKqA
 features: []
-genres: []
+first_released_as_single: false
 key: king-nothing-metallica
 lyrics_url: https://genius.com/Metallica-king-nothing-lyrics
 name: King Nothing
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-04-19'
+release_year: 1996
+runtime: 328133
 ---
 Wish I may
 Wish I might

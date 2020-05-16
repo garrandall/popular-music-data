@@ -1,8 +1,11 @@
 ---
+album: The Breaker
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:23TxRN09aR1RB0G0tFoT0b
 features: []
-genres: []
+first_released_as_single: false
 key: better-man-little-big-town
 lyrics_url: https://genius.com/Little-big-town-better-man-lyrics
 name: Better Man
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 263120
 ---
 I know I’m probably better off on my own
 Than lovin' a man who didn’t know

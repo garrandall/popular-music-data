@@ -1,8 +1,11 @@
 ---
+album: Shake Your Money Maker
 artists:
 - The Black Crowes
+external_ids:
+  spotify: spotify:track:5IJWnvJJgH4PR4p9aXnNCQ
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-again-the-black-crowes
 lyrics_url: https://www.azlyrics.com/lyrics/blackcrowes/jealousagain.html
 name: Jealous Again
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1990
+runtime: 275066
 ---
-
 Cheat the odds that made you
 Brave to try to gamble at times
 Well I feel like dirty laundry
@@ -83,4 +87,3 @@ Am I acting crazy
 Am I just too proud
 Am I just plain lazy
 Am I, Am I, Am I, ever
-

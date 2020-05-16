@@ -1,8 +1,11 @@
 ---
+album: It's A New Day - Let A Man Come In
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0hA8G8smCwi1h1nmxyRqT3
 features: []
-genres: []
+first_released_as_single: false
 key: let-a-man-come-in-and-do-the-popcorn--part-one--james-brown
 lyrics_url: https://genius.com/James-brown-part-two-let-a-man-come-in-and-do-the-popcorn-lyrics
 name: Let A Man Come In And Do The Popcorn (Part One)
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1969
+runtime: 430120
 ---
 Right now, right now, right now, right now, right now, right now, right now
 Hit it

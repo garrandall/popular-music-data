@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7EdJ8z6IBotTjO50DfzzuV
 features: []
-genres: []
+first_released_as_single: false
 key: furthest-thing-drake
 lyrics_url: https://genius.com/Drake-furthest-thing-lyrics
 name: Furthest Thing
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 267373
 ---
 Somewhere between psychotic and iconic
 Somewhere between I want it and I got it

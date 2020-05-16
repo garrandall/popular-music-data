@@ -1,9 +1,12 @@
 ---
+album: Love Always
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:5GorFaKkP2mLREQvhSblIg
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-life-k-ci-jojo
 lyrics_url: https://genius.com/K-ci-and-jojo-all-my-life-145221-lyrics
 name: All My Life
@@ -152,6 +155,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 331240
 ---
 Baby baby baby baby baby baby baby baby baby baby baby
 

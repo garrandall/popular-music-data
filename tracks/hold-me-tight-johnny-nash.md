@@ -1,8 +1,11 @@
 ---
+album: The Reggae Collection
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:6eiZdeG6uDUylSH8HBTatE
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-tight-johnny-nash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/holdmetight.html
 name: Hold Me Tight
@@ -67,8 +70,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 163373
 ---
-
 I don't want to hear it
 No more fussin' and fightin' baby
 Hold me tight
@@ -91,6 +95,3 @@ You were the only girl for me
 Ah, but now I see the light
 And everything's gonna be all right
 Baby, hold me tight
-
-
-

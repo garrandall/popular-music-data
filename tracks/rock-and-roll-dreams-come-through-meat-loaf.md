@@ -1,8 +1,11 @@
 ---
+album: 'Bat Out Of Hell II: Back Into Hell'
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:452fSzvkB2A8FHVI4JKK2S
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-dreams-come-through-meat-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/meatloaf/rockandrolldreamscomethrough.html
 name: Rock And Roll Dreams Come Through
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
+release_year: 1993
+runtime: 350866
 ---
-
 You can't run away forever
 But there's nothing wrong with getting a good head start
 You want to shut out the night
@@ -161,4 +165,3 @@ That's when rock and roll dreams come through
 For you!
 
 (The beat is yours forever. That's when rock and roll dreams come through)
-

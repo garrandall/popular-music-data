@@ -1,8 +1,11 @@
 ---
+album: Check Out Your Mind!
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:7By083PtTCrwihTP4DgOmm
 features: []
-genres: []
+first_released_as_single: false
 key: -baby--turn-on-to-me-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/babyturnontome.html
 name: (Baby) Turn On To Me
@@ -39,8 +42,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
+release_year: 1970
+runtime: 190893
 ---
-
 Baby, turn on...
 Baby, turn on to me
 Baby, turn on...

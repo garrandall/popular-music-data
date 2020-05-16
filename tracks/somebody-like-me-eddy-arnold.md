@@ -1,8 +1,11 @@
 ---
+album: Somebody Like Me
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:5zX00hfRuRdW6W6Ta8HQ6k
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-like-me-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/somebodylikeme.html
 name: Somebody Like Me
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 146986
 ---
-
 Your baby loves you now so don't make her blue now
 You'd better start bein' true now I'm telling you why
 Because if you break her heart somebody's gonna come along
@@ -53,6 +57,3 @@ Because if you break her heart somebody's gonna come along
 And he'll steal her away from you somebody like me
 
 Will steal her away somebody like me...
-
-
-

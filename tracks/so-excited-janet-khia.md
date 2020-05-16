@@ -1,9 +1,12 @@
 ---
+album: 20 Y.O.
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:0wbNcKAkExGmWiicedOyiR
 features:
 - Khia
-genres: []
+first_released_as_single: false
 key: so-excited-janet-khia
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/soexcited.html
 name: So Excited
@@ -20,8 +23,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 194165
 ---
-
 Breathe
 
 You get me so
@@ -139,6 +143,3 @@ Talk dirty
 And I'll open my spot for you
 Anytime you want me to
 Get me so excited
-
-
-

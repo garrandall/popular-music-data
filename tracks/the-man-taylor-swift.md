@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3RauEVgRgj1IuWdJ9fDs70
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-taylor-swift
 lyrics_url: https://www.musixmatch.com/lyrics/Taylor-Swift/The-Man
 name: The Man
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 190360
 ---
 I would be complex
 I would be cool

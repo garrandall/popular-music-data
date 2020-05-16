@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:7BVMXNnQSswMX8IJeZUb5T
 features: []
-genres: []
+first_released_as_single: false
 key: rock-wit-cha-bobby-brown
 lyrics_url: https://genius.com/Bobby-brown-rock-witcha-lyrics
 name: Rock Wit'cha
@@ -91,6 +94,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1988
+runtime: 289533
 ---
 Now that you are here with me
 Baby, let's do it right

@@ -1,8 +1,11 @@
 ---
+album: Dreams
 artists:
 - Grace Slick
+external_ids:
+  spotify: spotify:track:0ICuNLc9WmLldoXxMlVZFJ
 features: []
-genres: []
+first_released_as_single: false
 key: seasons-grace-slick
 lyrics_url: https://genius.com/Grace-slick-seasons-lyrics
 name: Seasons
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 205066
 ---
 When the winter comes the sun is low upon the fields
 The sky is cold and it throws down icy snow

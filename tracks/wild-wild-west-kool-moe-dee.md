@@ -1,8 +1,11 @@
 ---
+album: How Ya Like Me Now
 artists:
 - Kool Moe Dee
+external_ids:
+  spotify: spotify:track:0fmjCC6ItD4vixqwLTNGfg
 features: []
-genres: []
+first_released_as_single: false
 key: wild-wild-west-kool-moe-dee
 lyrics_url: https://genius.com/Kool-moe-dee-wild-wild-west-lyrics
 name: Wild Wild West
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1987
+runtime: 280840
 ---
 The wild wild west
 The wild wild west

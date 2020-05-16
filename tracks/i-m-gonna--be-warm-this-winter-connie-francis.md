@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4Hw2TMo97xq6N7QDOlWdkc
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna--be-warm-this-winter-connie-francis
 lyrics_url: https://genius.com/Connie-francis-im-gonna-be-warm-this-winter-lyrics
 name: I'm Gonna' Be Warm This Winter
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 144066
 ---
 We met at a ski lodge
 And we fell in love

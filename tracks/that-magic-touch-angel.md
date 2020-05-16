@@ -1,8 +1,11 @@
 ---
+album: On Earth As It Is In Heaven
 artists:
 - Angel
+external_ids:
+  spotify: spotify:track:6NPOJTJB2ETD0AjllenPho
 features: []
-genres: []
+first_released_as_single: false
 key: that-magic-touch-angel
 lyrics_url: https://genius.com/Angel-that-magic-touch-lyrics
 name: That Magic Touch
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1977
+runtime: 208626
 ---
 It's Friday and late after hours
 And still I haven't a date

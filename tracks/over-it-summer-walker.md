@@ -1,8 +1,11 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:0csmcZqM3uTKfjxehw0Lw2
 features: []
-genres: []
+first_released_as_single: false
 key: over-it-summer-walker
 lyrics_url: https://genius.com/Summer-walker-over-it-lyrics
 name: Over It
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 131106
 ---
 Am I really that much to handle?
 Breakin' these niggas down like enamel (Oh)

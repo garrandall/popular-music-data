@@ -1,8 +1,11 @@
 ---
+album: Shepherd Moons
 artists:
 - Enya
+external_ids:
+  spotify: spotify:track:3LxagXDcBMACf7i8J3mgu6
 features: []
-genres: []
+first_released_as_single: true
 key: caribbean-blue-enya
 lyrics_url: https://www.azlyrics.com/lyrics/enya/caribbeanblue.html
 name: Caribbean Blue
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1991
+runtime: 220560
 ---
-
 Eurus
 Afer Ventus
 
@@ -67,6 +71,3 @@ Afer Ventus...
 ... Boreas
 Zephyrus...
 ... Africus...
-
-
-

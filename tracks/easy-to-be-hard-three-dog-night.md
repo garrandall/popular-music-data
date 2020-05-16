@@ -1,8 +1,11 @@
 ---
+album: Suitable For Framing
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:0MNLIgIY9cW7N2rhvx8W9b
 features: []
-genres: []
+first_released_as_single: false
 key: easy-to-be-hard-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-easy-to-be-hard-lyrics
 name: Easy To Be Hard
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 192186
 ---
 How can people be so heartless?
 How can people be so cruel?

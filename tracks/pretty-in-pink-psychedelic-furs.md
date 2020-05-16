@@ -1,8 +1,11 @@
 ---
+album: Talk Talk Talk
 artists:
 - Psychedelic Furs
+external_ids:
+  spotify: spotify:track:1K1TFdBh7NrDyKiwiJEmsy
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-in-pink-psychedelic-furs
 lyrics_url: https://www.azlyrics.com/lyrics/psychedelicfurs/prettyinpink.html
 name: Pretty In Pink
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1981
+runtime: 238106
 ---
-
 Caroline laughs and it's raining all day
 She loves to be one of the girls
 She lives in the place in the side of our lives
@@ -94,6 +98,3 @@ Pretty in pink
 Isn't she?
 Pretty in pink
 Isn't she?
-
-
-

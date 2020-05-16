@@ -1,8 +1,11 @@
 ---
+album: Get Off
 artists:
 - Foxy
+external_ids:
+  spotify: spotify:track:1FyOKN5mOHSn58swIOZ5vI
 features: []
-genres: []
+first_released_as_single: false
 key: get-off-foxy
 lyrics_url: https://genius.com/Foxy-get-off-lyrics
 name: Get Off
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 244173
 ---
 Yeah
 Get off

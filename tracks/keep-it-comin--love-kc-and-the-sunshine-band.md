@@ -1,8 +1,11 @@
 ---
+album: KC & The Sunshine Band - Part 3...And More
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:0YWUf0FuvbOvAlrOAVaH8S
 features: []
-genres: []
+first_released_as_single: false
 key: keep-it-comin--love-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/keepitcominlove.html
 name: Keep It Comin' Love
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 271493
 ---
-
 Keep it coming, love! Keep it coming, love!
 Don't stop it now, don't stop it, no, don't stop it now, don't stop!
 Keep it coming, love! Keep it coming, love!
@@ -111,6 +115,3 @@ Keep it coming, love! Keep it coming, love!
 Don't stop it now, don't stop it, no, don't stop it now, don't stop!
 Keep it coming, love! Keep it coming, love!
 Don't stop it now, don't stop it, no, don't stop it now, don't stop it!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jealousy 81'
 artists:
 - The Dirt Band
+external_ids:
+  spotify: spotify:track:5Z5ZfEUCDN7lGrobPwXHLJ
 features: []
-genres: []
+first_released_as_single: false
 key: fire-in-the-sky-the-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/fireinthesky.html
 name: Fire In The Sky
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 278733
 ---
-
 All alone in a sleepless night
 Passing time with a runaway moon
 talkin' to myself 
@@ -72,6 +76,3 @@ Thinkin' of you
 That I won't give up till your in my arms
 Never give up till what's lost is found
 Won't give up on your sweet, sweet love
-
-
-

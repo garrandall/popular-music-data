@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:6SGuypiccRLrrmejsTApBG
 features: []
-genres: []
+first_released_as_single: false
 key: not-like-the-movies-katy-perry
 lyrics_url: https://genius.com/Katy-perry-not-like-the-movies-lyrics
 name: Not Like The Movies
@@ -11,6 +14,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2010
+runtime: 241333
 ---
 He put it on me, I put it on
 Like there was nothing wrong

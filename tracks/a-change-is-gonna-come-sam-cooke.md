@@ -1,8 +1,11 @@
 ---
+album: Ain't That Good News
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:6WtxOhRKZXY0ex7bXcOAkV
 features: []
-genres: []
+first_released_as_single: false
 key: a-change-is-gonna-come-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-a-change-is-gonna-come-lyrics
 name: A Change Is Gonna Come
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1960
+runtime: 193386
 ---
 I was born by the river in a little tent
 Oh and just like the river I've been running ever since

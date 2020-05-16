@@ -1,8 +1,11 @@
 ---
+album: Behind Bars
 artists:
 - Slick Rick
+external_ids:
+  spotify: spotify:track:1kxq2ByL62HX8YQQdvK3mz
 features: []
-genres: []
+first_released_as_single: false
 key: behind-bars-slick-rick
 lyrics_url: https://www.azlyrics.com/lyrics/slickrick/behindbars.html
 name: Behind Bars
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-12-10'
+release_year: 1994
+runtime: 201960
 ---
-
 "This type of shit that happens every day"
 
 
@@ -102,6 +106,3 @@ Behind bars
 Behind bars
 Behind bars
 Behind bars...
-
-
-

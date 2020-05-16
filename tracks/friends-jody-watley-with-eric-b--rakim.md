@@ -1,9 +1,12 @@
 ---
+album: Larger Than Life
 artists:
-- Jody Watley With Eric B.
+- Jody Watley
 - Rakim
+external_ids:
+  spotify: spotify:track:3Tko0RJ41cH53qq80T7DxC
 features: []
-genres: []
+first_released_as_single: false
 key: friends-jody-watley-with-eric-b--rakim
 lyrics_url: https://www.musixmatch.com/lyrics/Jody-Watley-with-Eric-B-Rakim/Friends
 name: Friends
@@ -80,6 +83,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 268146
 ---
 Friends, friends, friends
 Friends, friends, friends

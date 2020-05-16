@@ -1,8 +1,11 @@
 ---
+album: Circus
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:1os9lKQD0M56nlIiXbWpE5
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-is-dead-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/rockandrollisdead.html
 name: Rock And Roll Is Dead
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 203933
 ---
-
 Ooohoooh yeah
 You think you're on top of the world
 But you know it's really over
@@ -42,7 +46,4 @@ Ooohoooh yeah
 
 Rock and roll is dead 
 
-Rock and roll is dead 
-
-
-
+Rock and roll is dead

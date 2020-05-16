@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:4y9TLt6y1Lh12vLUCiSqOc
 features: []
-genres: []
+first_released_as_single: false
 key: engine-engine--9-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/engineengine9.html
 name: 'Engine Engine #9'
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 137426
 ---
-
 Engine, engine number nine
 Coming down the railroad line
 How much farther back did she get off.
@@ -78,6 +82,3 @@ I don't think she loves me anymore.
 
 No I don't think she loves me anymore.
 I don't think she loves me...
-
-
-

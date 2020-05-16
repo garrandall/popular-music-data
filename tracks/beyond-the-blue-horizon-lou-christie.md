@@ -1,8 +1,11 @@
 ---
+album: Lightning Strikes! (Beyond The Blue Horizon)
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:5w0A5gWwZaIig9EMnFEY3q
 features: []
-genres: []
+first_released_as_single: false
 key: beyond-the-blue-horizon-lou-christie
 lyrics_url: https://genius.com/Lou-christie-beyond-the-blue-horizon-lyrics
 name: Beyond The Blue Horizon
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1974
+runtime: 224933
 ---
 Beyond the blue horizon
 Waits a beautiful day

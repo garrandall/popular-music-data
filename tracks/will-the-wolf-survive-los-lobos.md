@@ -1,8 +1,11 @@
 ---
+album: How Will the Wolf Survive?
 artists:
 - Los Lobos
+external_ids:
+  spotify: spotify:track:1p6OGxxPyfJPV459PdEBjM
 features: []
-genres: []
+first_released_as_single: false
 key: will-the-wolf-survive-los-lobos
 lyrics_url: https://www.azlyrics.com/lyrics/loslobos/willthewolfsurvive.html
 name: Will The Wolf Survive
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1984
+runtime: 222306
 ---
-
 Through the chill of winter
 Running across the frozen lake
 Hunters are out on his trail
@@ -59,6 +63,3 @@ It's the truth that they all look for
 The one thing they must keep alive
 Will the wolf survive?
 Will the wolf survive?
-
-
-

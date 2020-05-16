@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:1PaCeoPNfqgqjLh2hhjWSU
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-made-me-so-very-happy-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-youve-made-me-so-very-happy-lyrics
 name: You've Made Me So Very Happy
@@ -47,6 +50,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 171973
 ---
 I lost at love before
 Gave up and closed the door

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Chris Jamison
+external_ids:
+  spotify: spotify:track:5Zb55VDys0H4jS8Me9I5aG
 features: []
-genres: []
+first_released_as_single: false
 key: velvet-chris-jamison
 lyrics_url: https://www.azlyrics.com/lyrics/chrisjamison/velvet.html
 name: Velvet
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2015
+runtime: 235756
 ---
-
 It's in the air
 The way you smile when you reciprocate my stare
 Just one breath and everyone knows that you're there
@@ -50,7 +54,4 @@ She rides like a dream
 And damn that velvet looks good on me
 
 She rides like a dream
-Velvet looks good on me 
-
-
-
+Velvet looks good on me

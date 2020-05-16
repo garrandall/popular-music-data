@@ -1,8 +1,11 @@
 ---
+album: Heart and Souls
 artists:
 - Frank Stallone
+external_ids:
+  spotify: spotify:track:3yybRgXHBSFdFS9arnJhWo
 features: []
-genres: []
+first_released_as_single: false
 key: case-of-you-frank-stallone
 name: Case Of You
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 187853
 ---
 

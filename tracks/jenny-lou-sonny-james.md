@@ -1,8 +1,11 @@
 ---
+album: That's Where My Money Goes
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:3Yhb42m6lpDCSxMCIQcamN
 features: []
-genres: []
+first_released_as_single: false
 key: jenny-lou-sonny-james
 lyrics_url: https://genius.com/Sonny-james-jenny-lou-lyrics
 name: Jenny Lou
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 156453
 ---
 I was put here by a jury
 Of 12 good men and true

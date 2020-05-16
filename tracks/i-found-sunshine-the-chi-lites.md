@@ -1,8 +1,11 @@
 ---
+album: The Chi-Lites
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:2bsGJGj9IiXXMlkaVV3U3b
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-sunshine-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/ifoundsunshine.html
 name: I Found Sunshine
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 188973
 ---
-
 I found sunshine
 When I found you, oh, baby
 I found sunshine
@@ -110,6 +114,3 @@ I found sunshine
 When I found you, oh, baby
 I found sunshine
 When I found you, oh, baby
-
-
-

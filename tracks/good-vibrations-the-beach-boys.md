@@ -1,8 +1,11 @@
 ---
+album: Pet Sounds
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:27YdREttcWpQT4oGeTxpjh
 features: []
-genres: []
+first_released_as_single: false
 key: good-vibrations-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/goodvibrations.html
 name: Good Vibrations
@@ -63,8 +66,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 269573
 ---
-
 I-I love the colorful clothes she wears
 And the way the sunlight plays upon her hair
 I hear the sound of a gentle word
@@ -115,6 +119,3 @@ Na na na na na, na na na
 Na na na na na, na na na (Bop bop-bop-bop-bop, bop)
 Do do do do do, do do do (Bop bop-bop-bop-bop, bop)
 Do do do do do, do do do (Bop bop-bop-bop-bop, bop)
-
-
-

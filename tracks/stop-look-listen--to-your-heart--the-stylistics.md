@@ -1,8 +1,11 @@
 ---
+album: The Stylistics - The Original Debut Album
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:5rMnr1E2IKWkDpiAk0T5uH
 features: []
-genres: []
+first_released_as_single: false
 key: stop-look-listen--to-your-heart--the-stylistics
 lyrics_url: https://genius.com/The-stylistics-stop-look-listen-to-your-heart-lyrics
 name: Stop Look Listen (To Your Heart)
@@ -71,6 +74,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 172946
 ---
 You're alone all time
 Does it ever puzzle you, have you asked why

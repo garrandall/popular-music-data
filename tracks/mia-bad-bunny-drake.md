@@ -1,9 +1,12 @@
 ---
+album: X 100PRE
 artists:
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:116H0KvKr2Zl4RPuVBruDO
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: mia-bad-bunny-drake
 lyrics_url: https://genius.com/Bad-bunny-and-drake-mia-dom-da-bomb-remix-lyrics
 name: MIA
@@ -116,6 +119,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 210367
 ---
 Bless them
 Ay, there ain't no second guess, then you done know so right now we carry di guess fi di gyal dem

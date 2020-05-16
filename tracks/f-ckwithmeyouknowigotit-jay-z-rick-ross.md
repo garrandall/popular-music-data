@@ -1,9 +1,12 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - Jay Z
+external_ids:
+  spotify: spotify:track:3PBC860LAeS4utDAqlqIe2
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: f-ckwithmeyouknowigotit-jay-z-rick-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-Z-feat-Rick-Ross/F-ckwithmeyouknowigotit
 name: F*ckwithmeyouknowigotit
@@ -44,6 +47,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 243413
 ---
 A little over a year ago I was in bondage,
 And now I'm back out here reaping the blessings and getting the benefits that go along with it, everything that's out here for kings like us.

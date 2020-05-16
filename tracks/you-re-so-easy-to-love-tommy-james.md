@@ -1,8 +1,11 @@
 ---
+album: The Solo Years
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:4JjhYd3lpwmXDDPiNcU1u8
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-so-easy-to-love-tommy-james
 name: You're So Easy To Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 246906
 ---
 

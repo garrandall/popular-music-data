@@ -1,8 +1,11 @@
 ---
+album: Crazysexycool
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:6qspW4YKycviDFjHBOaqUY
 features: []
-genres: []
+first_released_as_single: false
 key: waterfalls-tlc
 lyrics_url: https://genius.com/Tlc-waterfalls-lyrics
 name: Waterfalls
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-01-27'
+release_year: 1994
+runtime: 279506
 ---
 A lonely mother gazing out of the window
 Staring at a son that she just can't touch

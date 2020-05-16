@@ -1,8 +1,11 @@
 ---
+album: Heavy Nova
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:6dTRI60A0KGIH53ski2Waj
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-i-m-not-dreaming-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-tell-me-im-not-dreaming-lyrics
 name: Tell Me I'm Not Dreaming
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1988
+runtime: 227200
 ---
 Tell me I'm not dreaming
 Tell me I'm not dreaming

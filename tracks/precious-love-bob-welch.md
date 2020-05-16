@@ -1,8 +1,11 @@
 ---
+album: Three Hearts
 artists:
 - Bob Welch
+external_ids:
+  spotify: spotify:track:6niExN5Ms190jVugsjh4sL
 features: []
-genres: []
+first_released_as_single: false
 key: precious-love-bob-welch
 lyrics_url: https://genius.com/Bob-welch-precious-love-lyrics
 name: Precious Love
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1979
+runtime: 194520
 ---
 You got those big dark eyes that flash at me, baby
 You got a head on your shoulders, you know what I mean

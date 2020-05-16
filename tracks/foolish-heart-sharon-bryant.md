@@ -1,8 +1,11 @@
 ---
+album: Ladies With Soul
 artists:
 - Sharon Bryant
+external_ids:
+  spotify: spotify:track:7JR5s8DtDZxhVHAqawvo20
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-heart-sharon-bryant
 lyrics_url: https://www.musixmatch.com/lyrics/Sharon-Bryant/Foolish-Heart
 name: Foolish Heart
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 279840
 ---
 Oh oh..
 

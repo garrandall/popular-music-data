@@ -1,8 +1,11 @@
 ---
+album: Blue Shades of Gray
 artists:
 - The Bubble Puppy
+external_ids:
+  spotify: spotify:track:0pRiJigrJnUgN5xGkCvNqU
 features: []
-genres: []
+first_released_as_single: true
 key: hot-smoke---sasafrass-the-bubble-puppy
 lyrics_url: https://www.musixmatch.com/lyrics/Cox-Prince-The-Bubble-Puppy/Hot-Smoke-and-Sasafrass-Stereo
 name: Hot Smoke & Sasafrass
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1968
+runtime: 155527
 ---
 In the mist of sassafras
 Many things will come to pass

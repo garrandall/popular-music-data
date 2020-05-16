@@ -1,8 +1,11 @@
 ---
+album: Share Your Love
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:0WCCGUX0xb3I7yl0x5MAxq
 features: []
-genres: []
+first_released_as_single: false
 key: blaze-of-glory-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/blazeofglory.html
 name: Blaze Of Glory
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 153866
 ---
-
 Let's go out in a blaze of glory
 All good things must end
 Like two heroes in a story
@@ -78,6 +82,3 @@ All good things must end
 Like two heroes in a story
 Let's go out like we came in
 In a blaze of glory
-
-
-

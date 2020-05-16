@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:41L3O37CECZt3N7ziG2z7l
 features: []
-genres: []
+first_released_as_single: true
 key: yummy-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/yummy.html
 name: Yummy
@@ -47,8 +50,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 210426
 ---
-
 Yeah, you got that yummy, yum
 That yummy, yum
 That yummy, yummy
@@ -137,6 +141,3 @@ Say the word, on my way
 Yeah babe, yeah babe, yeah babe (Yeah babe)
 In the morning or late
 Say the word, on my way
-
-
-

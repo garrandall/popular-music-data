@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:7Aobt67JnaF7qN8jCCKvHq
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-to-know-a-secret-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/doyouwanttoknowasecret.html
 name: Do You Want To Know A Secret
@@ -51,8 +54,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1963
+runtime: 117013
 ---
-
 You'll never know how much I really love you
 You'll never know how much I really care
 
@@ -85,6 +89,3 @@ Closer
 Let me whisper in your ear
 Say the words you long to hear
 I'm in love with you
-
-
-

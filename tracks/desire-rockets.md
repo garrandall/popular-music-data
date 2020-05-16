@@ -1,8 +1,11 @@
 ---
+album: Hot Rod Boogie
 artists:
 - Rockets
+external_ids:
+  spotify: spotify:track:6xrRkdxHBYdc7ESKWPSEaK
 features: []
-genres: []
+first_released_as_single: false
 key: desire-rockets
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rockets/Desire
 name: Desire
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 206800
 ---
 We touch I feel a rush
 We clutch

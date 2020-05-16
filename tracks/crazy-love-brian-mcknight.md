@@ -1,8 +1,11 @@
 ---
+album: I Remember You
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:2eCbt6XUilxuWotHnydmsc
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-love-brian-mcknight
 lyrics_url: https://www.azlyrics.com/lyrics/brianmcknight/crazylove.html
 name: Crazy Love
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
+release_year: 1995
+runtime: 241933
 ---
-
 I can hear her heart beat for a thousand miles
 And the heavens open up every time she smiles
 And when I come home to her that's where I belong
@@ -114,4 +118,3 @@ And when I'm returning from so far away
 She gives me such sweet lovin' brightens up my day
 And makes me righteuos and makes me whole
 And it makes me mellow down to my soul
-

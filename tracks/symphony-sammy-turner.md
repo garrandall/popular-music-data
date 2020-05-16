@@ -1,8 +1,11 @@
 ---
+album: Paradise
 artists:
 - Sammy Turner
+external_ids:
+  spotify: spotify:track:2LJJ26EBZuVjT49vOQjfKk
 features: []
-genres: []
+first_released_as_single: false
 key: symphony-sammy-turner
 lyrics_url: https://www.musixmatch.com/lyrics/Sammy-Turner/Symphony
 name: Symphony
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 154933
 ---
 Symphony, symphony of love.
 Music from above. How does it start?

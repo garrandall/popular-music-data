@@ -1,8 +1,11 @@
 ---
+album: Cry Softly Lonely One
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:2X1EonkN2OiF2tKyNEuzHY
 features: []
-genres: []
+first_released_as_single: false
 key: communication-breakdown-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/communicationbreakdown.html
 name: Communication Breakdown
@@ -35,8 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 181146
 ---
-
 We never walk
 We never talk
 We never find the time To be close again
@@ -75,6 +79,3 @@ I can tell Well it's over now
 
 Communication breakdown
 Communication breakdown
-
-
-

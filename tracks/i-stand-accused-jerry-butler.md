@@ -1,8 +1,11 @@
 ---
+album: Aware Of Love
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:5vQBy0V4naPxWG32iFRM3R
 features: []
-genres: []
+first_released_as_single: false
 key: i-stand-accused-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/I-Stand-Accused
 name: I Stand Accused
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1961
+runtime: 178440
 ---
 I stand accused.
 Of lovin' you,

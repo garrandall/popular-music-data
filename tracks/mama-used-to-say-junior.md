@@ -1,8 +1,11 @@
 ---
+album: The Best of Junior - Mama Used to Say
 artists:
 - Junior
+external_ids:
+  spotify: spotify:track:3wF4S7zKO5HEwZM4qW9S82
 features: []
-genres: []
+first_released_as_single: false
 key: mama-used-to-say-junior
 lyrics_url: https://genius.com/Junior-giscombe-mama-used-to-say-lyrics
 name: Mama Used To Say
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1982
+runtime: 245133
 ---
 Oh
 Yeah, girl

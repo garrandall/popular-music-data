@@ -1,9 +1,12 @@
 ---
+album: Wait For A Minute
 artists:
 - Tyga
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:1AcJJerSHcXCnevx9oSoWe
 features: []
-genres: []
+first_released_as_single: true
 key: wait-for-a-minute-tyga-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/tyga/waitforaminute.html
 name: Wait For A Minute
@@ -12,8 +15,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 207013
 ---
-
 Yeah
 Wait for a minute
 Can you wait for a minute?
@@ -94,6 +98,3 @@ Wait just a minute, wait just a minute
 Aggh!
 Yeah, T-raw, JB
 Too fly never stop, know why?
-
-
-

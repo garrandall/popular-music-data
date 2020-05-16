@@ -1,8 +1,11 @@
 ---
+album: Waking Up The Neighbours
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:6O83X8zjAETDfBkHYvpWcA
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-this-thing-we-started-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-cant-stop-this-thing-we-started-lyrics
 name: Can't Stop This Thing We Started
@@ -87,6 +90,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 269133
 ---
 Yeah...
 Baby, I'm coming to get you

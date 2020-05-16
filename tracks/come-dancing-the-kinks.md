@@ -1,8 +1,11 @@
 ---
+album: State of Confusion
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:32y1kRg6IF3f6jpkHxzFoK
 features: []
-genres: []
+first_released_as_single: false
 key: come-dancing-the-kinks
 lyrics_url: https://genius.com/The-kinks-come-dancing-lyrics
 name: Come Dancing
@@ -75,6 +78,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 234853
 ---
 They put a parking lot on a piece of land
 Where the supermarket used to stand

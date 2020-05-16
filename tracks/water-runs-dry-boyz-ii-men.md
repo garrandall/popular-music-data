@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:7yhmvQh1JOzbNiNFQo4Tfc
 features: []
-genres: []
+first_released_as_single: false
 key: water-runs-dry-boyz-ii-men
 lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/waterrunsdry.html
 name: Water Runs Dry
@@ -119,8 +122,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1994
+runtime: 201400
 ---
-
 We don't even talk anymore
 We don't even know what we argue about
 Don't even say I love you no more
@@ -169,6 +173,3 @@ No, oh, oh, oh
 No, oh, oh, oh
 
 Don't do it baby
-
-
-

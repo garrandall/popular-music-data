@@ -1,8 +1,11 @@
 ---
+album: American Beauty
 artists:
 - Grateful Dead
+external_ids:
+  spotify: spotify:track:1I6l01BaBgBCVkfQCpIlR6
 features: []
-genres: []
+first_released_as_single: false
 key: truckin--grateful-dead
 lyrics_url: https://www.azlyrics.com/lyrics/gratefuldead/truckin.html
 name: Truckin'
@@ -39,8 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1970
+runtime: 306973
 ---
-
 Truckin' got my chips cashed in
 Keep truckin' like the doodah man
 Together, more or less in line
@@ -105,6 +109,3 @@ Truckin' I'm a going home
 Whoa, whoa, baby, back where I belong
 Back home, sit down and patch my bones
 And get back truckin' on
-
-
-

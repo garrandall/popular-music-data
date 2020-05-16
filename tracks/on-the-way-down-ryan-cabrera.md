@@ -1,8 +1,11 @@
 ---
+album: Take It All Away (U.S. Version)
 artists:
 - Ryan Cabrera
+external_ids:
+  spotify: spotify:track:4vM4Kn0A5JV9YmVoypme5q
 features: []
-genres: []
+first_released_as_single: true
 key: on-the-way-down-ryan-cabrera
 lyrics_url: https://www.azlyrics.com/lyrics/ryancabrera/onthewaydown.html
 name: On The Way Down
@@ -115,8 +118,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 2004
+runtime: 213280
 ---
-
 Sick and Tired of this world
 There's no more air
 Trippin' over myself
@@ -188,6 +192,3 @@ Down, down, down
 But I held onto you
 Down, down, down
 But I held onto you
-
-
-

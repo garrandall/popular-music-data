@@ -1,8 +1,11 @@
 ---
+album: Dean Martin Hits Again
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:42lA9iaBSjXJ0vlDyHfjs1
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-always-be-the-one-i-love-dean-martin
 lyrics_url: https://www.musixmatch.com/lyrics/Dean-Martin/You-ll-Always-Be-the-One-I-Love
 name: You'll Always Be The One I Love
@@ -27,6 +30,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 120360
 ---
 (You'll aways be the one I love
 You'll always be the one I love)

@@ -1,8 +1,11 @@
 ---
+album: Break Every Rule
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:5kr90kavZCFmPhzk338xrX
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-get-is-what-you-see-tina-turner
 lyrics_url: https://genius.com/Tina-turner-what-you-get-is-what-you-see-lyrics
 name: What You Get Is What You See
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
+release_year: 1986
+runtime: 271533
 ---
 Some boys just got the look of a Greek Adonis
 An' some boys just try to talk you off your feet

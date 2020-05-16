@@ -1,8 +1,11 @@
 ---
+album: Workingman's Dead
 artists:
 - The Grateful Dead
+external_ids:
+  spotify: spotify:track:0kp728Knw5PYvU3QzMZ0yJ
 features: []
-genres: []
+first_released_as_single: false
 key: uncle-john-s-band-the-grateful-dead
 lyrics_url: https://genius.com/Grateful-dead-uncle-johns-band-live-at-the-meadowlands-october-16-1989-lyrics
 name: Uncle John's Band
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 284909
 ---
 Well, the first days are the hardest days
 Don't you worry anymore

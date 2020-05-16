@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:2MfHMWnoCg4dyMTNjZ8oCf
 features: []
-genres: []
+first_released_as_single: false
 key: museum-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/museum.html
 name: Museum
@@ -31,8 +34,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1966
+runtime: 159706
 ---
-
 I drink sweet wine for breakfast
 I slept but an hour or so
 I smiled a little in the silence
@@ -73,6 +77,3 @@ Now don't do it if you don't want to
 I wouldn't do a thing like that
 Now don't do it if you don't want to
 I wouldn't do a thing like that
-
-
-

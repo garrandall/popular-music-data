@@ -1,8 +1,11 @@
 ---
+album: Let's Dance
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:4cVHMHgmWgudD399ZdhQ3L
 features: []
-genres: []
+first_released_as_single: true
 key: let-s-dance-david-bowie
 lyrics_url: https://genius.com/David-bowie-lets-dance-lyrics
 name: Let's Dance
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 247600
 ---
 Ah, ah, ah, ah
 

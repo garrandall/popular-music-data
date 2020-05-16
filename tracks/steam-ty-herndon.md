@@ -1,8 +1,11 @@
 ---
+album: Steam
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:0wFG6e3yYXMavgXioUFELA
 features: []
-genres: []
+first_released_as_single: false
 key: steam-ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/steam.html
 name: Steam
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-01-01'
+release_year: 1995
+runtime: 217226
 ---
-
 Steam from a summer rain drop
 rising off the blacktop
 I wipe the sweat from my brow
@@ -95,6 +99,3 @@ we're going to make steam
 
 Girl the things that you know to do
 just make my heat index go through the roof
-
-
-

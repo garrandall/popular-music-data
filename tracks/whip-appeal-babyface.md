@@ -1,8 +1,11 @@
 ---
+album: Tender Lover
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:4D13ulAZI1V7PG7Zg1Ar7r
 features: []
-genres: []
+first_released_as_single: false
 key: whip-appeal-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/whipappeal.html
 name: Whip Appeal
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1989
+runtime: 349840
 ---
-
 Somebody told me
 There'd be trouble at home
 'Cause we never talk a lot
@@ -142,6 +146,3 @@ Whip all your sweet sweet lovin' on me
 Keep on whippin' on me
 Work it on me
 Whip all your sweet sweet lovin' on me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3OhYsiqwaR8COmR48vOCT8
 features: []
-genres: []
+first_released_as_single: false
 key: zoom-future
 lyrics_url: https://genius.com/Future-zoom-lyrics
 name: Zoom
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2017
+runtime: 191120
 ---
 Bought a drop top Porsche, about to cut the top off
 Trappin' is a sport young nigga get ya knocked off

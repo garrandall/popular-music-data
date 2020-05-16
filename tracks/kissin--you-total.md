@@ -1,8 +1,11 @@
 ---
+album: Total
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:7AgGIN0ZBPVRxHWkIjYTAR
 features: []
-genres: []
+first_released_as_single: true
 key: kissin--you-total
 lyrics_url: https://www.azlyrics.com/lyrics/total/kissinyou.html
 name: Kissin' You
@@ -95,9 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1996
+runtime: 291533
 ---
-
-
 Kissin' you is all that I've been thinking of
 Kissin' you is oo, oo
 
@@ -180,7 +183,3 @@ Kissin' you is oo, oo
 Got to have you
 Have your love
 That's all I'm thinking of
-
-
-
-

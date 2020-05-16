@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:33dpZRUyyjAvGkS8xDJkkO
 features: []
-genres: []
+first_released_as_single: false
 key: be-mad-little-girl-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/bemadlittlegirl.html
 name: Be Mad Little Girl
@@ -35,8 +38,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1963
+runtime: 145893
 ---
-
 Ah be mad little girl
 But not at me
 Be mad little girl
@@ -89,6 +93,3 @@ But not at me
 Ah not at me
 Don't be mad at me
 Not mad at me
-
-
-

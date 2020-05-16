@@ -1,8 +1,11 @@
 ---
+album: Handwritten
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:1T7AiFL9ruKKwlONN35Vh0
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-too-much-shawn-mendes
 lyrics_url: https://www.azlyrics.com/lyrics/shawnmendes/alittletoomuch.html
 name: A Little Too Much
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2015
+runtime: 187026
 ---
-
 She would not show that she was afraid
 But being and feeling alone was too much to face
 Though everyone said that she was so strong
@@ -50,6 +54,3 @@ Sometimes it all gets a little too much
 But you gotta realize that soon the fog will clear up
 And you don't have to be afraid, because we're all the same
 And we know that sometimes it all gets a little too much
-
-
-

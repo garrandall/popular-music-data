@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:68cErZ0aBcmXsWN6GSDBl9
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-ever-see-a-dream-walking-fats-domino
 lyrics_url: https://genius.com/Fats-domino-did-you-ever-see-a-dream-walking-lyrics
 name: Did You Ever See A Dream Walking
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
+release_year: 1962
+runtime: 105333
 ---
 Did you ever see a dream walking?
 Well, I did

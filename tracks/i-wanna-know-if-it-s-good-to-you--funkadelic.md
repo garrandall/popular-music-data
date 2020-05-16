@@ -1,8 +1,11 @@
 ---
+album: Free Your Mind...
 artists:
 - Funkadelic
+external_ids:
+  spotify: spotify:track:5cLFKVLwAMGpWpmLNNZA9M
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-know-if-it-s-good-to-you--funkadelic
 lyrics_url: https://www.azlyrics.com/lyrics/funkadelic/iwannaknowifitsgoodtoyou.html
 name: I Wanna Know If It's Good To You?
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 361533
 ---
-
 I wanna know if it's good to you, baby
 When you do what you do to me
 I know that it must have been good to you, baby
@@ -60,6 +64,3 @@ Look out here I come (here I come)
 Right back where I started from
 Yeah
 Look out here I come (here I come)
-
-
-

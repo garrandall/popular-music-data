@@ -1,8 +1,11 @@
 ---
+album: 'Just Who I Am: Poets & Pirates'
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:5Wz9a5T5T3JgVDxMpX9BFu
 features: []
-genres: []
+first_released_as_single: false
 key: better-as-a-memory-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/betterasamemory.html
 name: Better As A Memory
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2007
+runtime: 252706
 ---
-
 I move on like a sinners prayer
 Letting go like a levee breaks
 Walk away as if I don't care
@@ -117,6 +121,3 @@ It was just a part of the passing through
 Right there in that moment you'll finally understand
 That I was better as a memory than as your man
 Better as a memory than as your man
-
-
-

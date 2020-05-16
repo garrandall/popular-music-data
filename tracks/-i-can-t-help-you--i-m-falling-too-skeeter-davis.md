@@ -1,8 +1,11 @@
 ---
+album: The Essential Skeeter Davis
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:5MXe6dKcR6iO33GWzVW8cr
 features: []
-genres: []
+first_released_as_single: false
 key: -i-can-t-help-you--i-m-falling-too-skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-i-cant-help-you-im-falling-too-lyrics
 name: (I Can't Help You) I'm Falling Too
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 165266
 ---
 You say that you're falling
 But what can I do?

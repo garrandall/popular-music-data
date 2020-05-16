@@ -1,8 +1,11 @@
 ---
+album: White Trash With Money
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:4RYksZuX2OOLjcPJdYkgSU
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-too-late-toby-keith
 lyrics_url: https://genius.com/Toby-keith-a-little-too-late-lyrics
 name: A Little Too Late
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 246320
 ---
 It is a little too late
 I am a little too gone

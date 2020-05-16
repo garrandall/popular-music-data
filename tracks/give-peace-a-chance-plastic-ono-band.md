@@ -1,8 +1,11 @@
 ---
+album: Live Peace in Toronto 1969
 artists:
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:5YFnL82NLPUK9q2d30gZrM
 features: []
-genres: []
+first_released_as_single: false
 key: give-peace-a-chance-plastic-ono-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-Plastic-Ono-Band/Give-Peace-a-Chance
 name: Give Peace A Chance
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 220636
 ---
 Two, one two three four
 

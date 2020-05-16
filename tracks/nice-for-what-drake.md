@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3CA9pLiwRIGtUBiMjbZmRw
 features: []
-genres: []
+first_released_as_single: false
 key: nice-for-what-drake
 lyrics_url: https://genius.com/Drake-nice-for-what-lyrics
 name: Nice For What
@@ -107,6 +110,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 210746
 ---
 I wanna know who mothafuckin' representin' in here tonight
 Hold on, hold on

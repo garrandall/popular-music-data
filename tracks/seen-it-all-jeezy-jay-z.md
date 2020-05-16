@@ -1,9 +1,12 @@
 ---
+album: 'Seen It All: The Autobiography'
 artists:
 - Jeezy
+external_ids:
+  spotify: spotify:track:4JNFp8hvOU9QfD6achbCMl
 features:
 - Jay Z
-genres: []
+first_released_as_single: false
 key: seen-it-all-jeezy-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/youngjeezy/seenitall.html
 name: Seen It All
@@ -16,9 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 207520
 ---
-
-
 I said you already know nigga, young gotta flow
 Before rap, Young really got dough
 Before rap, Young really seen snow
@@ -97,4 +100,3 @@ Emory got knocked we was down 10
 The whole team hot, walls closin' in
 Nigga's can't tell me shit about this dope game
 'Bout this cocaine, man I done seen it all
-

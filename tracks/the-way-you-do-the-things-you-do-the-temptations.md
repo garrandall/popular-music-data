@@ -1,8 +1,11 @@
 ---
+album: Meet The Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3496rr5XSGD6n1Z1OKXovb
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-do-the-things-you-do-the-temptations
 lyrics_url: https://genius.com/The-temptations-the-way-you-do-the-things-you-do-lyrics
 name: The Way You Do The Things You Do
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 165744
 ---
 You've got a smile so bright
 You know you could have been a candle

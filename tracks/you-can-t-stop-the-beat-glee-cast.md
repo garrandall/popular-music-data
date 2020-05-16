@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4xpY2faFPJA2YQE4P9S78U
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-stop-the-beat-glee-cast
 lyrics_url: https://genius.com/Glee-cast-you-cant-stop-the-beat-lyrics
 name: You Can't Stop The Beat
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 223013
 ---
 You can't stop an avalanche as it races down the hill
 You can try to stop the seasons, but you know you never will

@@ -1,8 +1,11 @@
 ---
+album: All That We Needed
 artists:
 - Plain White T's
+external_ids:
+  spotify: spotify:track:4RCWB3V8V0dignt99LZ8vH
 features: []
-genres: []
+first_released_as_single: false
 key: hey-there-delilah-plain-white-t-s
 lyrics_url: https://genius.com/Plain-white-ts-hey-there-delilah-lyrics
 name: Hey There Delilah
@@ -147,6 +150,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2005
+runtime: 232533
 ---
 Hey there Delilah
 What's it like in New York City?

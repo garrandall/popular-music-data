@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:5k4TAzqkVx0xWvfHM0pgVg
 features: []
-genres: []
+first_released_as_single: false
 key: drag-city-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/dragcity.html
 name: Drag City
@@ -52,8 +55,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 137426
 ---
-
 Burn up that quarter mile
 
 Just tuned my car, now she really peels
@@ -130,6 +134,3 @@ Listen to 'em whine
 
 Listen to 'em whine
 (Whine, whine, whine)
-
-
-

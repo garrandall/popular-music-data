@@ -1,8 +1,11 @@
 ---
+album: Aware Of Love
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:2ZJZcqM60OwgqTO1OvJpHL
 features: []
-genres: []
+first_released_as_single: false
 key: he-will-break-your-heart-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-he-will-break-your-heart-lyrics
 name: He Will Break Your Heart
@@ -67,6 +70,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1960
+runtime: 170093
 ---
 He don't love you like I love you
 If he did, he wouldn't break your heart

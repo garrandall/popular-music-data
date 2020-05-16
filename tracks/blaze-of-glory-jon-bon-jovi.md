@@ -1,8 +1,11 @@
 ---
+album: Blaze Of Glory
 artists:
 - Jon Bon Jovi
+external_ids:
+  spotify: spotify:track:1sUTfgduT0WIQO8kXKXxLC
 features: []
-genres: []
+first_released_as_single: false
 key: blaze-of-glory-jon-bon-jovi
 lyrics_url: https://genius.com/Jon-bon-jovi-blaze-of-glory-lyrics
 name: Blaze Of Glory
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 335240
 ---
 I wake up in the morning and I raise my weary head
 I've got an old coat for a pillow, and the earth was last night's bed

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Duane Eddy
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:27O7f9fp9X257Tg2uIK4Fq
 features: []
-genres: []
+first_released_as_single: false
 key: your-baby-s-gone-surfin--duane-eddy
 lyrics_url: https://genius.com/Duane-eddy-your-babys-gone-surfin-lyrics
 name: Your Baby's Gone Surfin'
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 144533
 ---
 Well, I called up my baby
 On the telephone

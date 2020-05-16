@@ -1,8 +1,11 @@
 ---
+album: Loc-ed After Dark
 artists:
 - Tone-Loc
+external_ids:
+  spotify: spotify:track:0gljI0CtjpdZK6ecidfxto
 features: []
-genres: []
+first_released_as_single: false
 key: wild-thing-tone-loc
 lyrics_url: https://www.azlyrics.com/lyrics/tone-loc/wildthing.html
 name: Wild Thing
@@ -107,8 +110,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1988
+runtime: 263573
 ---
-
 Let's do it
 
 Workin' all week 9 to 5 for my money
@@ -167,6 +171,3 @@ Just break out of here
 Hasta la vista baby
 
 Wild thing
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Burn Slow
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:1otonPYqofxM6B8ejJHXjg
 features:
 - Rae Sremmurd
-genres: []
+first_released_as_single: true
 key: burn-slow-wiz-khalifa-rae-sremmurd
 lyrics_url: https://www.musixmatch.com/lyrics/Wiz-Khalifa-feat-Rae-Sremmurd/Burn-Slow
 name: Burn Slow
@@ -12,6 +15,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 222247
 ---
 Burn slow (Get back up from a trap nap)
 Burn slow, burn slow

@@ -1,8 +1,11 @@
 ---
+album: Your Little Secret
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:7tOEXhPdFosbBcQrAISAfl
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-come-over-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/iwanttocomeover.html
 name: I Want To Come Over
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1995
+runtime: 324666
 ---
-
 I know you're home
 You left your light on
 You know I'm here
@@ -148,6 +152,3 @@ I want to come over
 It's a need I can't explain
 To see you again
 I want to come over
-
-
-

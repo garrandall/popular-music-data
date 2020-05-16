@@ -1,8 +1,11 @@
 ---
+album: SEX AND LOVE
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:4e3RCQgj1P4Fa7d86y2qT2
 features: []
-genres: []
+first_released_as_single: false
 key: turn-the-night-up-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/turnthenightup.html
 name: Turn The Night Up
@@ -31,8 +34,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 197733
 ---
-
 Baby, it's you and me,
 You see, we can turn the night up
 And if you feel the way I feel
@@ -106,6 +110,3 @@ We can turn the night up
 (yeah)
 (gimme some of that)
 (gimme some of that)
-
-
-

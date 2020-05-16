@@ -1,8 +1,11 @@
 ---
+album: Eric Clapton
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:27mdmXNcO0gNpXlrWi9DPZ
 features: []
-genres: []
+first_released_as_single: false
 key: after-midnight-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/aftermidnight108859.html
 name: After Midnight
@@ -55,8 +58,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 171013
 ---
-
 After midnight, we're gonna let it all hang down.
 After midnight, we're gonna chug-a-lug and shout.
 We're gonna stimulate some action;
@@ -79,6 +83,3 @@ After midnight, we're gonna let it all hang down.
 After midnight, we're gonna let it all hang down.
 After midnight, we're gonna let it all hang down.
 After midnight, we're gonna let it all hang down.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rockin' The Blues
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:72uhF6sS2bRB0K4E7v4Lnc
 features: []
-genres: []
+first_released_as_single: false
 key: if-walls-could-talk-little-milton
 lyrics_url: https://genius.com/Little-milton-if-walls-could-talk-lyrics
 name: If Walls Could Talk
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1970
+runtime: 188840
 ---
 Hey y'all!
 If walls could talk then I'm sure you'd hear

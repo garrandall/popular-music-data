@@ -1,8 +1,11 @@
 ---
+album: Warm Your Heart
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:6VthESmOYTaHBh1g0pacba
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-plays-the-fool-aaron-neville
 lyrics_url: https://www.azlyrics.com/lyrics/aaronneville/everybodyplaysthefool.html
 name: Everybody Plays The Fool
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 266106
 ---
-
 Ok, so your heart is broken 
 You're sitting around mopin', cryin', cryin' 
 You say you even think about dying 
@@ -128,6 +132,3 @@ Every plays the fool, sometime
 There's no exception to the rule, listen baby 
 It may be factual, it may be cruel, I wanna say it again 
 Everybody plays the fool
-
-
-

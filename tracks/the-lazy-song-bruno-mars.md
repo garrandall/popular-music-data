@@ -1,8 +1,11 @@
 ---
+album: Doo-Wops & Hooligans
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:1ExfPZEiahqhLyajhybFeS
 features: []
-genres: []
+first_released_as_single: false
 key: the-lazy-song-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-the-lazy-song-lyrics
 name: The Lazy Song
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2010
+runtime: 190213
 ---
 Today, I don't feel like doing anything
 I just wanna lay in my bed

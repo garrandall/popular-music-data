@@ -1,8 +1,11 @@
 ---
+album: The Things We Do for Love - 16 Love Songs of the Seventies
 artists:
 - Jim Weatherly
+external_ids:
+  spotify: spotify:track:6nyMrmg3Pimnk4QYCL2oOI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-still-love-you-jim-weatherly
 lyrics_url: https://genius.com/Jim-weatherly-ill-still-love-you-lyrics
 name: I'll Still Love You
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1975
+runtime: 181400
 ---
 Run through life's meadows, the rich green fields
 Have yourself a hundred thrills

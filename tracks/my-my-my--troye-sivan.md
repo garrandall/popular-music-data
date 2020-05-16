@@ -1,8 +1,11 @@
 ---
+album: Bloom
 artists:
 - Troye Sivan
+external_ids:
+  spotify: spotify:track:5e2TOnFWZwFhozXuGDUz4r
 features: []
-genres: []
+first_released_as_single: false
 key: my-my-my--troye-sivan
 lyrics_url: https://genius.com/Troye-sivan-my-my-my-lyrics
 name: My My My!
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-01-27'
+release_year: 2018
+runtime: 205285
 ---
 Shine on, diamond
 Don't make me wait another day

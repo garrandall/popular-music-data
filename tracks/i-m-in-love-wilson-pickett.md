@@ -1,8 +1,11 @@
 ---
+album: I'm In Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:5Hc9S4uQd6xY0SDVcyqyU9
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-love-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-im-in-love-lyrics
 name: I'm In Love
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 149413
 ---
 I'm in love, yes I am
 Love, love, love
@@ -82,6 +87,6 @@ Whoa sho nuff in love
 (love, love, love)
 Sho nuff in love, yes I am
 (love, love, love)
-Fades-
+
 I can knock on wood, now
 (love, love, love

@@ -1,10 +1,13 @@
 ---
+album: Hamilton, Joe Frank & Reynolds
 artists:
 - Hamilton
 - Joe Frank
 - Reynolds
+external_ids:
+  spotify: spotify:track:4wlL8MQ1V1UverYfXnan9v
 features: []
-genres: []
+first_released_as_single: false
 key: annabella-hamilton-joe-frank-reynolds
 lyrics_url: https://www.musixmatch.com/lyrics/Hamilton-feat-Joe-Frank-Reynolds/Annabella
 name: Annabella
@@ -37,6 +40,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 151693
 ---
 I've seen you, Annabella,
 Moving softly through my mind.

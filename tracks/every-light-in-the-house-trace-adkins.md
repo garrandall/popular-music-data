@@ -1,8 +1,11 @@
 ---
+album: Dreamin' Out Loud
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:2A7j0RLnzvvlUFrevBiOQf
 features: []
-genres: []
+first_released_as_single: false
 key: every-light-in-the-house-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/everylightinthehouse.html
 name: Every Light In The House
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 179600
 ---
-
 I told you I'd leave a light on
 In case you ever wanted to come back home
 You smiled and said you appreciate the gesture
@@ -74,6 +78,3 @@ It's kinda like noon in the dead of night
 Every light in the house is on
 Just in case you ever do get tired of being gone
 Every light in the house is on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Echo Park
 artists:
 - Keith Barbour
+external_ids:
+  spotify: spotify:track:1lT6yzipa1NlOCMFjrKbSB
 features: []
-genres: []
+first_released_as_single: false
 key: echo-park-keith-barbour
 lyrics_url: https://genius.com/Keith-barbour-echo-park-lyrics
 name: Echo Park
@@ -43,6 +46,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 233933
 ---
 It's the morning soon he'll rise
 Find the glasses for his eyes

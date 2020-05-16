@@ -1,8 +1,11 @@
 ---
+album: From Me to You
 artists:
 - Hurricane Smith
+external_ids:
+  spotify: spotify:track:1v42y8Tucf49KM1mpRe6Qv
 features: []
-genres: []
+first_released_as_single: false
 key: who-was-it--hurricane-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Hurricane-Smith/Who-Was-It
 name: Who Was It?
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1973
+runtime: 183880
 ---
 Who was it that caught falling
 And put you back on your feet

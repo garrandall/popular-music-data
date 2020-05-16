@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:3kovBaZ1LGLH1PL31qG7cL
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-made-for-dancin--leif-garrett
 lyrics_url: https://www.musixmatch.com/lyrics/Leif-Garrett/I-Was-Made-For-Dancin
 name: I Was Made For Dancin'
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 196440
 ---
 You got me rollin' like a wheel on the road
 Turnin' round and round, nowhere to go

@@ -1,8 +1,11 @@
 ---
+album: Power In The Music
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:2WXZqDDv53ztUcXUtUN0Sy
 features: []
-genres: []
+first_released_as_single: false
 key: shakin--all-over-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-shakin-all-over-lyrics
 name: Shakin' All Over
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 212346
 ---
 When you move in right up close to me
 That's when I get the chills all over me

@@ -1,8 +1,11 @@
 ---
+album: Low Budget
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:4uDnx2eQm8V9Fnj0L0k8bb
 features: []
-genres: []
+first_released_as_single: false
 key: -wish-i-could-fly-like--superman-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/wishicouldflylikesuperman.html
 name: (Wish I Could Fly Like) Superman
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1979
+runtime: 214733
 ---
-
 Woke up this morning, started to sneeze
 I had a cigarette and a cup of tea
 I looked in the mirror what did I see
@@ -101,6 +105,3 @@ Superman Superman wish I could fly like Superman
 Superman Superman wish I could fly like Superman
 Superman Superman I want to be like Superman
 Superman Superman I want to fly like Superman
-
-
-

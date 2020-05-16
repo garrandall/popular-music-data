@@ -1,9 +1,12 @@
 ---
+album: Insomniatic
 artists:
 - Aly
 - AJ
+external_ids:
+  spotify: spotify:track:11dxtPJKR4E0wlSr0A0t47
 features: []
-genres: []
+first_released_as_single: false
 key: potential-breakup-song-aly-aj
 lyrics_url: https://www.azlyrics.com/lyrics/alyaj/potentialbreakupsong.html
 name: Potential Breakup Song
@@ -76,8 +79,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
+release_year: 2007
+runtime: 219773
 ---
-
 It took too long
 It took too long
 It took too long for you to call back
@@ -167,6 +171,3 @@ This is the potential make-up song
 Please just admit you're wrong
 Which will it be?
 Which will it be?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Metropolis - Original Motion Picture Soundtrack
 artists:
 - Bonnie Tyler
+external_ids:
+  spotify: spotify:track:2ezbg11Nb4LqrftcaclK6c
 features: []
-genres: []
+first_released_as_single: false
 key: here-she-comes-bonnie-tyler
 lyrics_url: https://www.azlyrics.com/lyrics/bonnietyler/hereshecomes.html
 name: Here She Comes
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1983
+runtime: 227466
 ---
-
 Shade begins to steal the light
 Confusion throws another mystery
 It's out for focus with eye
@@ -65,6 +69,3 @@ When all resistance is impossible
 This lady's serious make no mistake
 Face to face and eye to eye
 She'll cast a spell that you may never break
-
-
-

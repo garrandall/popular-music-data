@@ -1,8 +1,11 @@
 ---
+album: Sentimentally Yours
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:5FIXfd8t7LmKGXDZJay80X
 features: []
-genres: []
+first_released_as_single: false
 key: heartaches-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/heartaches.html
 name: Heartaches
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 132693
 ---
-
 Heartaches, heartaches,
 My loving you meant only heartaches
 Your kiss was such a sacred thing to me
@@ -63,6 +67,3 @@ I should be happy with someone new
 But my heart aches
 And my heart breaks
 And my heart aches, for you...
-
-
-

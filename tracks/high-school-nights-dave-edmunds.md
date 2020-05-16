@@ -1,8 +1,11 @@
 ---
+album: 'Porky''s Revenge!: The Original Motion Picture Soundtrack'
 artists:
 - Dave Edmunds
+external_ids:
+  spotify: spotify:track:0snjiBeMW3VI8UeNYCStTQ
 features: []
-genres: []
+first_released_as_single: false
 key: high-school-nights-dave-edmunds
 lyrics_url: https://genius.com/Dave-edmunds-high-school-nights-lyrics
 name: High School Nights
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1983
+runtime: 190266
 ---
 You wake up in the morning and another night's gone
 You tumble out of bed and turn the radio on

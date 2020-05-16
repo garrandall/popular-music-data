@@ -1,8 +1,11 @@
 ---
+album: Ritual Of Love
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:5LLRxnEQAbnQNzLK0mAC2R
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-feel-about-you-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/thewayifeelaboutyou.html
 name: The Way I Feel About You
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
+release_year: 1991
+runtime: 275466
 ---
-
 Day after day
 Just thinking about you
 I can't wait to see your smiling face
@@ -137,8 +141,3 @@ I look into your eyes and I see happiness
 And my heart just can't deny what I'm feelin'
 I love what you do when you do all the things
 That you do to me
-
-
-
-
-

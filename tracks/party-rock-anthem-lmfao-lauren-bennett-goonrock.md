@@ -1,10 +1,13 @@
 ---
+album: Sorry For Party Rocking
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:0IkKz2J93C94Ei4BvDop7P
 features:
 - Lauren Bennett
 - GoonRock
-genres: []
+first_released_as_single: false
 key: party-rock-anthem-lmfao-lauren-bennett-goonrock
 lyrics_url: https://genius.com/Lmfao-party-rock-anthem-lyrics
 name: Party Rock Anthem
@@ -281,6 +284,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2011
+runtime: 262173
 ---
 Party Rock
 Yeah

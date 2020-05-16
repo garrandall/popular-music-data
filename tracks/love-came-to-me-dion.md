@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:1lSxosAXNmtgNBMZfFKSpB
 features: []
-genres: []
+first_released_as_single: false
 key: love-came-to-me-dion
 lyrics_url: https://genius.com/Dion-love-came-to-me-lyrics
 name: Love Came To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 164693
 ---
 Shad doy-ya-do, doy doy doy-do
 Shad doy-ya-do, doy doy doy-do (Oh yeah)

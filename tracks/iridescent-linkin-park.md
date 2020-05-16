@@ -1,8 +1,11 @@
 ---
+album: A Thousand Suns
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:6SoUUr6i1X0GReHinApeKI
 features: []
-genres: []
+first_released_as_single: false
 key: iridescent-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/iridescent.html
 name: Iridescent
@@ -19,8 +22,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
+release_year: 2010
+runtime: 296560
 ---
-
 When you were standing in the wake of devastation
 When you were waiting on the edge of the unknown
 And with the cataclysm raining down
@@ -57,6 +61,3 @@ Do you feel cold and lost in desperation?
 You build up hope, but failure's all you've known
 Remember all the sadness and frustration
 And let it go. Let it go
-
-
-

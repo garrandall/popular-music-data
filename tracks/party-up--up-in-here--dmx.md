@@ -1,8 +1,11 @@
 ---
+album: '...And Then There Was X'
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:55iidKcV7570jUzlockime
 features: []
-genres: []
+first_released_as_single: false
 key: party-up--up-in-here--dmx
 lyrics_url: https://www.azlyrics.com/lyrics/dmx/partyup.html
 name: Party Up (Up In Here)
@@ -91,8 +94,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2000-07-15'
+release_year: 1999
+runtime: 268866
 ---
-
 Uhh.. UH!.. WHOO!
 
 
@@ -188,6 +192,3 @@ Swizz Swizz Beatz we bouncin again
 Bouncin again and we bouncin again
 Double R keep it comin, ain't nuttin y'all
 Ain't nuttin y'all can do, now.. (BOOM)
-
-
-

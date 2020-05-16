@@ -1,8 +1,11 @@
 ---
+album: Brown Sugar
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:5MjUkhqCpr5uZ39xZmLZxe
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-those-dreamin--eyes-of-mine-d-angelo
 lyrics_url: https://genius.com/Dangelo-me-and-those-dreamin-eyes-of-mine-lyrics
 name: Me And Those Dreamin' Eyes Of Mine
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1995
+runtime: 286800
 ---
 Woah woah woah yeah yeah yeah
 Woah woah woah yeah yeah yeah yeah

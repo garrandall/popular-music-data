@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4iTGIE1P09KoG0ODB8KoGt
 features: []
-genres: []
+first_released_as_single: false
 key: born-this-way-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/bornthisway.html
 name: Born This Way
@@ -11,8 +14,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 246946
 ---
-
 It doesn't matter if you love him or capital H-I-M
 Just put your paws up
 'Cause you were born this way, baby
@@ -113,6 +117,3 @@ I'm on the right track, baby, I was born this way, hey
 I was born this way, hey
 I was born this way, hey
 I'm on the right track, baby, I was born this way, hey
-
-
-

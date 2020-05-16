@@ -1,8 +1,11 @@
 ---
+album: The Valley Of The Dolls
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:021O8Fvrww2EJB8220tgXo
 features: []
-genres: []
+first_released_as_single: false
 key: -theme-from--valley-of-the-dolls-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/themefromvalleyofthedolls.html
 name: (Theme From) Valley Of The Dolls
@@ -59,8 +62,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 218840
 ---
-
 Gotta get off, gonna get Have to get off from this ride
 Gotta get hold, gonna get Need to get hold of my pride
 When did I get, where did I
@@ -80,6 +84,3 @@ When will I know, where will I How will I learn who I am
 Is this a dream, am I here, where are you
 Tell me, when will I know, how will I know
 When will I know why?
-
-
-

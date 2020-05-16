@@ -1,8 +1,11 @@
 ---
+album: Now
 artists:
 - Patrice Rushen
+external_ids:
+  spotify: spotify:track:1By78kkp659I6PkaO0avAC
 features: []
-genres: []
+first_released_as_single: false
 key: feels-so-real--won-t-let-go--patrice-rushen
 lyrics_url: https://genius.com/Patrice-rushen-feels-so-real-wont-let-go-lyrics
 name: Feels So Real (Won't Let Go)
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1984
+runtime: 409520
 ---
 Feels so real and my mind won't let go
 Feels so real and my mind won't let go

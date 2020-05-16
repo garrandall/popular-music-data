@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Performances
 artists:
 - Kenny Nolan
+external_ids:
+  spotify: spotify:track:4wlRO5dyyO7jYrzs2PltV8
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-dreamin--kenny-nolan
 lyrics_url: https://genius.com/Kenny-nolan-i-like-dreamin-lyrics
 name: I Like Dreamin'
@@ -115,6 +118,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
+release_year: 1976
+runtime: 221560
 ---
 I like dreamin' cause dreamin' can make you mine
 I like dreamin', closing my eyes and feeling fine

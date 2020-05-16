@@ -1,8 +1,11 @@
 ---
+album: Ulta Mixes
 artists:
 - Wa Wa Nee
+external_ids:
+  spotify: spotify:track:3u4hU7hcJrD0Oa4RbXHmMM
 features: []
-genres: []
+first_released_as_single: false
 key: stimulation-wa-wa-nee
 lyrics_url: https://genius.com/Wa-wa-nee-stimulation-lyrics
 name: Stimulation
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 431333
 ---
 Take him out of love
 He's been there before

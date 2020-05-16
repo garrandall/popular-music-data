@@ -1,8 +1,11 @@
 ---
+album: Keep Movin' On
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:4qqZ2bNabXAnC1680IPu7h
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-boy-falls-in-love-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-when-a-boy-falls-in-love-lyrics
 name: When A Boy Falls In Love
@@ -27,6 +30,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1960
+runtime: 152920
 ---
 I've heard them say love was a wonderful things
 Something you couldn't hide on a shelf

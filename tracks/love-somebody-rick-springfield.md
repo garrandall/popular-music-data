@@ -1,8 +1,11 @@
 ---
+album: Hard To Hold
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:4mMmxhapecfE1zp5sDafCU
 features: []
-genres: []
+first_released_as_single: false
 key: love-somebody-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/lovesomebody.html
 name: Love Somebody
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1981
+runtime: 213440
 ---
-
 I can see the path you're cutting
 It cost me a little piece of my heart 
 I can see the doors you're shutting
@@ -133,6 +137,3 @@ One night - oh oh oh oh
 One night - oh oh oh oh
 One night - oh oh oh oh
 One night - oh oh oh oh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:28FGV3ORH14MYORd7s5dlU
 features:
 - Royce Da 5'9
-genres: []
+first_released_as_single: false
 key: not-alike-eminem-royce-da-5-9
 lyrics_url: https://www.musixmatch.com/lyrics/Eminem-feat-Royce-Da-5-9-2/Not-Alike
 name: Not Alike
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2018
+runtime: 288086
 ---
 Tay Keith, fuck these niggas up!
 Yeah

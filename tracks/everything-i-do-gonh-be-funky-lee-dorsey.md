@@ -1,8 +1,11 @@
 ---
+album: Working In The Coal Mine / Everything I Do Gonh Be Funky - Single
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:5xWHmC8GiinBbdYwjdrYVZ
 features: []
-genres: []
+first_released_as_single: true
 key: everything-i-do-gonh-be-funky-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-everything-i-do-gonh-be-funky-from-now-on-lyrics
 name: Everything I Do Gonh Be Funky
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 190554
 ---
 Everything I do gohn be funky
 

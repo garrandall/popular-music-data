@@ -1,8 +1,11 @@
 ---
+album: 'Unchained Melodies: Roy Orbison & The Royal Philharmonic Orchestra'
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:2FNMqr56jFSLyI2GcKgM68
 features: []
-genres: []
+first_released_as_single: false
 key: the-crowd-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/thecrowd.html
 name: The Crowd
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 144280
 ---
-
 I go out with the crowd, I play the game
 Pretending out loud but it don't seem the same
 For the heart of the crowd is gone from sight
@@ -65,6 +69,3 @@ I fall apart each time I hear your name
 Guess I'll go along with the crowd, I'll make believe
 That you'll come back to me, run back to me
 Hurry back to the crowd a-and me
-
-
-

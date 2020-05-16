@@ -1,8 +1,11 @@
 ---
+album: Gamma 1
 artists:
 - Gamma
+external_ids:
+  spotify: spotify:track:5LnX31wL57Ac0UixPWojui
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-alive-gamma
 lyrics_url: https://www.musixmatch.com/lyrics/Gamma/I-m-Alive
 name: I'm Alive
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 198120
 ---
 Did you ever see a man with no heart
 Baby that was me

@@ -1,8 +1,11 @@
 ---
+album: It Never Rains In Southern California
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:3uhCXccMeZyjFrUGC7J2fs
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-gotta-break-another-heart-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/ifyougottabreakanotherheart.html
 name: If You Gotta Break Another Heart
@@ -31,8 +34,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 161560
 ---
-
 If you gotta break another heart
 Then break it, come on and break it
 If you gotta take that kind of chance
@@ -70,6 +74,3 @@ Then take it, you are free to take it
 But don't come runnin' back to me
 
 If you gotta play another tune...
-
-
-

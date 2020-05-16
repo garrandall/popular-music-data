@@ -1,8 +1,11 @@
 ---
+album: Harverd Dropout
 artists:
 - Lil Pump
+external_ids:
+  spotify: spotify:track:12KYvD1Xqv28wwrKza8jMy
 features: []
-genres: []
+first_released_as_single: true
 key: drug-addicts-lil-pump
 lyrics_url: https://www.azlyrics.com/lyrics/lilpump/drugaddicts.html
 name: Drug Addicts
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 175774
 ---
-
 Mmm, ayy, what's up?
 (Me and Dee Money want millions)
 Everybody in my gang is drug addicts
@@ -70,6 +74,3 @@ Whole gang full of drug addicts (Chyeah)
 Whole gang full of drug addicts (Chyeah, oh oh
 Whole gang full of drug addicts (Brrt)
 Whole gang full of drug addicts
-
-
-

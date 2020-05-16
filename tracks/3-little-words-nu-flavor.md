@@ -1,8 +1,11 @@
 ---
+album: It's On!
 artists:
 - Nu Flavor
+external_ids:
+  spotify: spotify:track:4alLyN9my0O1SD9y097cPl
 features: []
-genres: []
+first_released_as_single: false
 key: 3-little-words-nu-flavor
 lyrics_url: https://www.azlyrics.com/lyrics/nuflavor/3littlewords.html
 name: 3 Little Words
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 1999
+runtime: 256306
 ---
-
 One look in your eyes
 I knew we two would always be together
 And there are, 3 little words that say it all
@@ -86,4 +90,3 @@ I know it's written all over my face
 And girl you can believe it's true
 'Cause time could never erase
 These feelings I have for you
-

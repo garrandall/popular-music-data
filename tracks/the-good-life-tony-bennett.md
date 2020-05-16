@@ -1,8 +1,11 @@
 ---
+album: I Wanna Be Around
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:4MVvSNPOUd2z70vkkNCbLr
 features: []
-genres: []
+first_released_as_single: false
 key: the-good-life-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-the-good-life-lyrics
 name: The Good Life
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 134893
 ---
 Oh, the good life, full of fun
 Seems to be the ideal

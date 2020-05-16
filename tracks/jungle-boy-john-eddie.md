@@ -1,8 +1,11 @@
 ---
+album: John Eddie
 artists:
 - John Eddie
+external_ids:
+  spotify: spotify:track:2P5Mokc9Yb50hChyw0bjOs
 features: []
-genres: []
+first_released_as_single: false
 key: jungle-boy-john-eddie
 lyrics_url: https://genius.com/John-eddie-jungle-boy-lyrics
 name: Jungle Boy
@@ -47,6 +50,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 205635
 ---
 Whoa, Whoa, Whoa, Whoa, Whoa, Whoa, Whoa
 Yeah, Yeah, Yeah, Yeah, Yeah, Yeah, Yeah

@@ -1,8 +1,11 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:7l94dyN2hX9c6wWcZQuOGJ
 features: []
-genres: []
+first_released_as_single: false
 key: dangerous-woman-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/dangerouswoman.html
 name: Dangerous Woman
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2016
+runtime: 235946
 ---
-
 Oh, yeah
 
 Don't need permission
@@ -161,6 +165,3 @@ Yeah, there's somethin' 'bout you boy
 Yeah, there's somethin' 'bout you boy
 Yeah, there's somethin' 'bout you boy
 (somethin' 'bout, somethin' 'bout, somethin' 'bout you)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:0yAV9MltdAnL8b3WoLNUu7
 features: []
-genres: []
+first_released_as_single: false
 key: just-how-it-is-young-thug
 lyrics_url: https://genius.com/Young-thug-just-how-it-is-lyrics
 name: Just How It Is
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 207133
 ---
 Wheezy outta here
 

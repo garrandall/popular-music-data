@@ -1,8 +1,11 @@
 ---
+album: Save Rock And Roll
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:53AuxddsgPSlqM619nJhSd
 features: []
-genres: []
+first_released_as_single: false
 key: the-phoenix-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/thephoenix.html
 name: The Phoenix
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2013
+runtime: 244960
 ---
 Put on your war paint
 

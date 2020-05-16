@@ -1,8 +1,11 @@
 ---
+album: Electronic
 artists:
 - Electronic
+external_ids:
+  spotify: spotify:track:4EuRIuCMpmiZXSkgRcQT1N
 features: []
-genres: []
+first_released_as_single: true
 key: getting-away-with-it-electronic
 lyrics_url: https://genius.com/Electronic-getting-away-with-it-lyrics
 name: Getting Away With It
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1990
+runtime: 455693
 ---
 I've been walking in the rain
 Just to get wet on purpose

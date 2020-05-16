@@ -1,9 +1,12 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:6ku4gCfjdxmYpajNONAciN
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: family-feud-jay-z-beyonce
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/familyfeud.html
 name: Family Feud
@@ -12,9 +15,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 251413
 ---
-
-
 My nigga got on
 My nigga got on all white, no socks
 My nigga got that cocaina on today
@@ -99,6 +102,3 @@ Higher, higher
 Love me like, love
 Higher
 Like... yeah, yeah, yeah...
-
-
-

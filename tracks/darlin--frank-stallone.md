@@ -1,8 +1,11 @@
 ---
+album: Frank Stallone
 artists:
 - Frank Stallone
+external_ids:
+  spotify: spotify:track:0mQVIfyacMtq9t0dyQnG7l
 features: []
-genres: []
+first_released_as_single: false
 key: darlin--frank-stallone
 lyrics_url: https://www.musixmatch.com/lyrics/Frank-Stallone/Darlin
 name: Darlin'
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1984
+runtime: 202840
 ---
 Darlin'
 

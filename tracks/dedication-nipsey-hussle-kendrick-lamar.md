@@ -1,9 +1,12 @@
 ---
+album: Victory Lap
 artists:
 - Nipsey Hussle
+external_ids:
+  spotify: spotify:track:6fIjnWrv46njJHLDAY2JdC
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: dedication-nipsey-hussle-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/nipseyhussle/dedication.html
 name: Dedication
@@ -16,9 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2018
+runtime: 245813
 ---
-
-
 Look, my nigga this is dedication, this is anti-hesitation
 This a real nigga celebration, this a Dime Blocc declaration
 Fifty-Ninth and Fifth Ave, granny's house with vanilla wafers
@@ -92,6 +95,3 @@ The sum of all my sacrifice, I'm done waitin'
 I'm done waitin', told you that I wasn't playin'
 Now you hear what I been sayin', dedication
 It's dedication
-
-
-

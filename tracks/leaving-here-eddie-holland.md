@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA - The Motown Singles Collection 1959-1971
 artists:
 - Eddie Holland
+external_ids:
+  spotify: spotify:track:30gCedymqDf867sbH3CGyp
 features: []
-genres: []
+first_released_as_single: false
 key: leaving-here-eddie-holland
 lyrics_url: https://genius.com/Eddie-holland-leaving-here-lyrics
 name: Leaving Here
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1964
+runtime: 152200
 ---
 Hey, fellas, have you heard the news? Oh yeah
 The women of this town are being misused, oh yeah

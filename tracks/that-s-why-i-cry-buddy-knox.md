@@ -1,8 +1,11 @@
 ---
+album: Don't Make Me Cry
 artists:
 - Buddy Knox
+external_ids:
+  spotify: spotify:track:6azrtT01XfuggrOaSOeRxl
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why-i-cry-buddy-knox
 lyrics_url: https://www.musixmatch.com/lyrics/Buddy-Knox/That-s-Why-I-Cry
 name: That's Why I Cry
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1959
+runtime: 120373
 ---
 'Cause you're the sweetest
 Girl in the world

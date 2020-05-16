@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Season 4 Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3zMMmK1gyRKP9mbzW1xyya
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-time-glee-cast
 lyrics_url: https://genius.com/Glee-cast-its-time-lyrics
 name: It's Time
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 223853
 ---
 So this is what you meant
 When you said that you were spent

@@ -1,8 +1,11 @@
 ---
+album: One Step At A Time
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:0lgWbdgPCc5Kt4Ue66jBqj
 features: []
-genres: []
+first_released_as_single: false
 key: we-really-shouldn-t-be-doing-this-george-strait
 lyrics_url: https://genius.com/George-strait-we-really-shouldnt-be-doing-this-lyrics
 name: We Really Shouldn't Be Doing This
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-01-02'
+release_year: 1998
+runtime: 151573
 ---
 We really shouldn't be doing this and we both know why
 Just being close enough to think like this, enough to make you need to lie

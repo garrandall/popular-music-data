@@ -1,8 +1,11 @@
 ---
+album: It Ain't Me Babe
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:62ECcEUTVSnDvavP0al1ja
 features: []
-genres: []
+first_released_as_single: false
 key: eve-of-destruction-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/eveofdestruction.html
 name: Eve Of Destruction
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1965
+runtime: 162200
 ---
-
 The eastern world it is explodin'
 Violence flarin', bullets loadin'
 You're old enough to kill but not for votin'
@@ -52,6 +56,3 @@ You can bury your dead, but don't leave a trace
 Hate your next-door-neighbor, but don't forget to say grace
 And you tell me over and over and over and over again my friend
 Ah, you don't believe we're on the eve of destruction
-
-
-

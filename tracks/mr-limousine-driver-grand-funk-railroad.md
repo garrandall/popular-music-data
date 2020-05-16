@@ -1,8 +1,11 @@
 ---
+album: Bosnia
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:5hhhbfaoGFSOv9i7tApNYf
 features: []
-genres: []
+first_released_as_single: false
 key: mr-limousine-driver-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/mrlimousinedriver.html
 name: Mr Limousine Driver
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 436893
 ---
-
 Hey, Mr. Limousine Driver
 Can I ask you a favor, please?
 Let her in my door and don't look back here no more
@@ -39,6 +43,3 @@ And don't worry 'bout what's goin' on in back
 
 Hey, Mr. Limousine Driver
 Hey, Mr. Limousine Driver
-
-
-

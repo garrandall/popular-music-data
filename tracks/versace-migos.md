@@ -1,8 +1,11 @@
 ---
+album: Young Rich N*ggas
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:6xhblLundMJAiG9jF7nlxs
 features: []
-genres: []
+first_released_as_single: false
 key: versace-migos
 lyrics_url: https://genius.com/Migos-versace-lyrics
 name: Versace
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 195474
 ---
 Versace, Versace, Versace, Versace
 Versace, Versace, Versace, Versace

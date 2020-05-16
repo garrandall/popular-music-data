@@ -1,8 +1,11 @@
 ---
+album: ATLiens
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:6w4MlvpuxtbjGdL9YeTx89
 features: []
-genres: []
+first_released_as_single: false
 key: jazzy-belle-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/jazzybelle.html
 name: Jazzy Belle
@@ -63,10 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1996
+runtime: 251666
 ---
-
-
-
 Yeah
 Oh yes I love her like Egyptian, want a description, my royal highness
 So many plusses when I bust that there can't be no minus
@@ -131,6 +133,3 @@ Off and On like Trendz of Cultures baby
 hey he, fakin it like these sculptured, nails
 But they can go to hell and lay with Lucifer
 Cause they burnin anyway, Big Boi user and abuser
-
-
-

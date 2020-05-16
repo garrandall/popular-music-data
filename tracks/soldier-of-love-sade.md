@@ -1,8 +1,11 @@
 ---
+album: Soldier of Love
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:0bgsj8kz5zWbQ6njk2Oqoz
 features: []
-genres: []
+first_released_as_single: false
 key: soldier-of-love-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/soldieroflove.html
 name: Soldier Of Love
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
+release_year: 2010
+runtime: 356565
 ---
-
 I've lost the use of my heart
 But I'm still alive
 Still looking for the light
@@ -96,6 +100,3 @@ Still wait for love to come
 Turn it all around
 I'm a soldier of love
 I'm a soldier
-
-
-

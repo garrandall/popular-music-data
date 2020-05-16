@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:2fbMIIgUDUcbdspYZKnACp
 features: []
-genres: []
+first_released_as_single: false
 key: shame-on-me-chuck-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Chuck-Jackson/Shame-on-Me
 name: Shame On Me
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 162453
 ---
 Shame on me for hurting you
 What can I say, darling

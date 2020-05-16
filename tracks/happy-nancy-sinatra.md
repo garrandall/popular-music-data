@@ -1,8 +1,11 @@
 ---
+album: Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:72WBu3udxgfDrCpjq02k5U
 features: []
-genres: []
+first_released_as_single: false
 key: happy-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/happy.html
 name: Happy
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1968
+runtime: 150790
 ---
-
 Lonliness is nothin' new
 I've lived with it my whole life through
 So look out gloom
@@ -47,6 +51,3 @@ Up to where our mind are free
 And ev'ryday's philosophy
 Says life is wild be like a child
 Called happy happy
-
-
-

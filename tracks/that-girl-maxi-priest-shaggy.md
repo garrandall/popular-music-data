@@ -1,9 +1,12 @@
 ---
+album: Man With The Fun
 artists:
 - Maxi Priest
+external_ids:
+  spotify: spotify:track:2NFTEx9YLvWs4fWgKD0mZ9
 features:
 - Shaggy
-genres: []
+first_released_as_single: false
 key: that-girl-maxi-priest-shaggy
 lyrics_url: https://www.azlyrics.com/lyrics/maxipriest/thatgirl.html
 name: That Girl
@@ -88,8 +91,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1996
+runtime: 240893
 ---
-
 The girl has got the touch
 What she got is a little something
 That kind of girl
@@ -182,6 +186,3 @@ I got to let them know
 She's the kind of girl that captivates your soul
 A rude girl type of lover
 Shaggy and Maxi definately on the girl them case
-
-
-

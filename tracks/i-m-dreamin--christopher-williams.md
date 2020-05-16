@@ -1,8 +1,11 @@
 ---
+album: New Jack Swing
 artists:
 - Christopher Williams
+external_ids:
+  spotify: spotify:track:04VArZKHm1xesMxqnsutDY
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-dreamin--christopher-williams
 lyrics_url: https://genius.com/Christopher-williams-im-dreamin-lyrics
 name: I'm Dreamin'
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1991
+runtime: 303706
 ---
 Don't wake me, I'm dreaming
 Don't wake me, I'm dreaming

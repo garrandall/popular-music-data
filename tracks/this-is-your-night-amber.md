@@ -1,8 +1,11 @@
 ---
+album: This Is Your Night
 artists:
 - Amber
+external_ids:
+  spotify: spotify:track:6G0ERldHUojvxBcs3dmvU1
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-your-night-amber
 lyrics_url: https://www.musixmatch.com/lyrics/Amber/This-Is-Your-Night
 name: This Is Your Night
@@ -167,6 +170,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
+release_year: 1996
+runtime: 349160
 ---
 Dah dah dah dah dad, ditita ta tay
 Dah dah dah dah dad, ditita ta tay

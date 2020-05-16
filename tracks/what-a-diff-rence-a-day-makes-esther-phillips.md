@@ -1,8 +1,11 @@
 ---
+album: Jazz Moods - Hot
 artists:
 - Esther Phillips
+external_ids:
+  spotify: spotify:track:63EHNSibDHL3JzHfPu8boc
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-diff-rence-a-day-makes-esther-phillips
 lyrics_url: https://www.musixmatch.com/lyrics/Esther-Phillips/What-A-Diff-rence-A-Day-Makes
 name: What A Diff'rence A Day Makes
@@ -71,6 +74,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1970
+runtime: 270600
 ---
 What a difference a day made
 Twenty-four little hours

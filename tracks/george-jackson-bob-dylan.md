@@ -1,8 +1,11 @@
 ---
+album: Side Tracks
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:18tQtthhCQWcWokhHlXDkQ
 features: []
-genres: []
+first_released_as_single: false
 key: george-jackson-bob-dylan
 lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/georgejackson.html
 name: George Jackson
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 217400
 ---
-
 I woke up this mornin'
 There were tears in my bed
 They killed a man I really loved
@@ -85,6 +89,3 @@ Lord, Lord
 They cut George Jackson down
 Lord, Lord
 They laid him in the ground
-
-
-

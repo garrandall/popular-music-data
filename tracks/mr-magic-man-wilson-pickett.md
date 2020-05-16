@@ -1,8 +1,11 @@
 ---
+album: Live in Japan
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:3fYDjZqFh2MTtFG7VM2XF5
 features: []
-genres: []
+first_released_as_single: false
 key: mr-magic-man-wilson-pickett
 lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Pickett/Mr-Magicman
 name: Mr Magic Man
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1973
+runtime: 397253
 ---
 I can take a tear and make it disappear with a wave of my hand
 And If your heart is broken apart I can put it together again

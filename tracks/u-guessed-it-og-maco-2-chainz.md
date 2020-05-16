@@ -1,9 +1,12 @@
 ---
+album: U Guessed It  - Single
 artists:
 - OG Maco
+external_ids:
+  spotify: spotify:track:07J4gvixM0ksqSpgDw15J1
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: true
 key: u-guessed-it-og-maco-2-chainz
 lyrics_url: https://genius.com/Og-maco-u-guessed-it-remix-lyrics
 name: U Guessed It
@@ -24,6 +27,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 209295
 ---
 God damn, boy, that nigga, Mac, didn't never call, bro
 But I'm seeing that nigga everywhere, bro (damn, Brandon)

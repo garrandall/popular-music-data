@@ -1,8 +1,11 @@
 ---
+album: All Over The Road
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:5qNkZdbdfL9tQm1ppZmUrW
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--you-is-fun-easton-corbin
 lyrics_url: https://genius.com/Easton-corbin-lovin-you-is-fun-lyrics
 name: Lovin' You Is Fun
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 199013
 ---
 You’ve got a cousin who’s telling you somethin’
 That doesn’t have nothin’ to do with the lovin’ that we’re in, baby

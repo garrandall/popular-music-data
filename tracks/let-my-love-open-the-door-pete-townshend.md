@@ -1,8 +1,11 @@
 ---
+album: Empty Glass
 artists:
 - Pete Townshend
+external_ids:
+  spotify: spotify:track:0otlwsD3mSogk7VJCTp6Kg
 features: []
-genres: []
+first_released_as_single: false
 key: let-my-love-open-the-door-pete-townshend
 lyrics_url: https://genius.com/Pete-townshend-let-my-love-open-the-door-lyrics
 name: Let My Love Open The Door
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
+release_year: 1980
+runtime: 164653
 ---
 When people keep repeating
 That you'll never fall in love

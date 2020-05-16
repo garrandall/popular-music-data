@@ -1,8 +1,11 @@
 ---
+album: The Toys Sing "A Lover's Concerto" and "Attack!"
 artists:
 - The Toys
+external_ids:
+  spotify: spotify:track:2JVPFUQ17Hap4JxMbUGfb1
 features: []
-genres: []
+first_released_as_single: false
 key: attack-the-toys
 lyrics_url: https://genius.com/The-toys-attack-lyrics
 name: Attack
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 187026
 ---
 Once I walked beside you, so in love were we then
 It had always been that way since we were children

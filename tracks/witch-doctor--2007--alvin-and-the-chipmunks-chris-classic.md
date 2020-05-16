@@ -5,7 +5,7 @@ features:
 - Chris Classic
 genres: []
 key: witch-doctor--2007--alvin-and-the-chipmunks-chris-classic
-name: Witch Doctor (2007)
+name: Witch Doctor
 rankings:
 - end_date: '2008-01-18'
   rank: 62

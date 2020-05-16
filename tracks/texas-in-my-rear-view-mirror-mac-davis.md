@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:6G6txAgWVFlaX2uCqfMc2Z
 features: []
-genres: []
+first_released_as_single: false
 key: texas-in-my-rear-view-mirror-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/texasinmyrearviewmirror.html
 name: Texas In My Rear View Mirror
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
+release_year: 1974
+runtime: 255266
 ---
-
 I was just fifteen and outta control
 Lost to James Dean and rock and roll
 I knew down deep in my country soul
@@ -136,6 +140,3 @@ And I think I finally know
 Just what it means
 And when I die you can bury me
 In Lubbock, Texas, in my jeans
-
-
-

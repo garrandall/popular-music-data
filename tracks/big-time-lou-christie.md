@@ -1,8 +1,11 @@
 ---
+album: Lou Christie Strikes Again
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:3RmCMsQqyCf1eHkZY2XLhO
 features: []
-genres: []
+first_released_as_single: false
 key: big-time-lou-christie
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Christie/Big-Time
 name: Big Time
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 124493
 ---
 (CHORUS)
 Big time (big, big time)

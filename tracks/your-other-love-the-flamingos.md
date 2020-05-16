@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Classics, Vol. 4
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:1H3v333p3oy1mI6zRS5C05
 features: []
-genres: []
+first_released_as_single: false
 key: your-other-love-the-flamingos
 lyrics_url: https://www.musixmatch.com/lyrics/The-Flamingos/Your-Other-Love
 name: Your Other Love
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 165840
 ---
 Your other love may be handsome and when he smiles
 He's got a twinkle in his eyes

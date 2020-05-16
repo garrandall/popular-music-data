@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2WCeDB0ppNhSVyiBNjPttT
 features: []
-genres: []
+first_released_as_single: false
 key: pure-imagination-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/pureimagination.html
 name: Pure Imagination
@@ -11,9 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 198706
 ---
-
-
 Hold your breath
 Make a wish
 Count to three
@@ -65,6 +68,3 @@ Living there
 You'll be free
 If you truly
 Wish to be
-
-
-

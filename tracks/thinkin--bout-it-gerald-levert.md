@@ -1,8 +1,11 @@
 ---
+album: Love & Consequences
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:0s0kLsLIUZpoFoUX7Dyrvg
 features: []
-genres: []
+first_released_as_single: false
 key: thinkin--bout-it-gerald-levert
 lyrics_url: https://genius.com/Gerald-levert-thinkin-bout-it-lyrics
 name: Thinkin' Bout It
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
+release_year: 1998
+runtime: 391826
 ---
 Girl I been waitin' on this day
 Bet you thought you never hear me say

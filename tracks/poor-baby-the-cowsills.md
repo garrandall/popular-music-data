@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Cowsills
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:3FpzyU1FdHsTRa3hwv20nb
 features: []
-genres: []
+first_released_as_single: false
 key: poor-baby-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-poor-baby-lyrics
 name: Poor Baby
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 179693
 ---
 (T Romeo)
 Poor Baby, something always bringing you down

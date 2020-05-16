@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:0jKdN6d5Jb3TgmqR90DGuY
 features: []
-genres: []
+first_released_as_single: false
 key: graduation-s-here-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-graduations-here-lyrics
 name: Graduation's Here
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-07-06'
+release_year: 1959
+runtime: 118306
 ---
 Graduation, graduation, graduation
 

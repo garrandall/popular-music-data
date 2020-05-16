@@ -1,9 +1,12 @@
 ---
+album: Oxymoron
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:0zO8ctW0UiuOefR87OeJOZ
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: collard-greens-schoolboy-q-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/schoolboyq/collardgreens.html
 name: Collard Greens
@@ -40,9 +43,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 299960
 ---
-
-
 Oh, oh, luxury
 Chidi-ching-ching could buy anything, cop that
 Oh, oh, collard greens
@@ -87,8 +90,8 @@ Tu quieres coger mis huevos y papi me molestes pero
 Chuparse puto pendejo el pinche cabron; let's get it
 Nights like this I'm a knight like this,
 sword in my hand, I fight like this
-And I'm more than a man, I'm a god bitch, touchÃ©, en garde
-ToupÃ©e drop and her two tits pop, out of that tank top and bra
+And I'm more than a man, I'm a god bitch, touché, en garde
+Toupée drop and her two tits pop, out of that tank top and bra
 And when I say "Doo Doo Doo Doo!" Bitch, that be K. Dot
 She want some more of this - I give her more of this, I owe her this
 In fact, I know she miss the way I floored this, I'm forgis
@@ -136,6 +139,3 @@ Oh, oh, down with that shit
 Drink this, smoke this, get down with the shit, aye
 Oh, oh, down with the shit
 Cop this, pop this, down with the shit
-
-
-

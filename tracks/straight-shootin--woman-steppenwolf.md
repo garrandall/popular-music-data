@@ -1,8 +1,11 @@
 ---
+album: Slow Flux
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:4IWMZSufcTffNh8tXR0dyT
 features: []
-genres: []
+first_released_as_single: false
 key: straight-shootin--woman-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/straightshootinwoman.html
 name: Straight Shootin' Woman
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 248400
 ---
-
 I was feelin' so bad 'bout my best friend
 I could swear the sky was fallin'
 He had them put-down blues from wond'rin
@@ -91,6 +95,3 @@ Just to ease my troubled mind
 She's all mine
 She's on my mind
 Take her down
-
-
-

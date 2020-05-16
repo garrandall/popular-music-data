@@ -1,8 +1,11 @@
 ---
+album: Judge Jerrod & The Hung Jury
 artists:
 - Jerrod Niemann
+external_ids:
+  spotify: spotify:track:1HYKv0B6bYycqpxWHydKy9
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-drinkin--song-jerrod-niemann
 lyrics_url: https://www.azlyrics.com/lyrics/jerrodniemann/onemoredrinkinsong.html
 name: One More Drinkin' Song
@@ -79,8 +82,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2010
+runtime: 167813
 ---
-
 Yea
 Today I wanted to write a tune started strummin' this little grove,
 I could've wrote about love or money something sad or something funny,
@@ -103,6 +107,3 @@ Hey, hey, hey whats so wrong with one more drinkin' song
 Hold up your cups and sing along to one more drinkin' song
 Hey, hey, hey whats so wrong with one more drinkin' song
 Hold up your cups and sing along to one more drinkin' song
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Only The Lonely
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:6JoRk5bdLx3lzuCuMPmpSP
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-lonely-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Only-the-Lonely
 name: Only The Lonely
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 157560
 ---
 Only the lonely
 Know the way I feel tonight

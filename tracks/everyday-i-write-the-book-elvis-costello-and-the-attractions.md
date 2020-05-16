@@ -1,9 +1,12 @@
 ---
+album: Punch The Clock
 artists:
 - Elvis Costello
+external_ids:
+  spotify: spotify:track:1P9523tBg56NRc78lX2i4l
 features:
 - The Attractions
-genres: []
+first_released_as_single: false
 key: everyday-i-write-the-book-elvis-costello-and-the-attractions
 lyrics_url: https://genius.com/Elvis-costello-everyday-i-write-the-book-lyrics
 name: Everyday I Write The Book
@@ -64,6 +67,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 234306
 ---
 Oh oh oohohoh
 Yeah

@@ -1,8 +1,11 @@
 ---
+album: Baby Now That I've Found You
 artists:
 - The Foundations
+external_ids:
+  spotify: spotify:track:6UUjhnHMYJxgzpB3bFWIFH
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-bad-bad-old-days--before-you-loved-me--the-foundations
 lyrics_url: https://genius.com/The-foundations-in-the-bad-bad-old-days-lyrics
 name: In The Bad Bad Old Days (Before You Loved Me)
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1967
+runtime: 214280
 ---
 Ha, hah
 Alright

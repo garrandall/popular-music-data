@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2k6ahrUpg8CbeTjLocMQJ4
 features: []
-genres: []
+first_released_as_single: false
 key: i-lost-it-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-i-lost-it-lyrics
 name: I Lost It
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 2000
+runtime: 234160
 ---
 I had a hundred dollar ring in my hand
 So weak and tired I could barely stand

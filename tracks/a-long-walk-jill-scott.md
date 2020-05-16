@@ -1,8 +1,11 @@
 ---
+album: Who Is Jill Scott? - Words and Sounds, Vol. 1
 artists:
 - Jill Scott
+external_ids:
+  spotify: spotify:track:1CeizRCGEYPWooEeVfmyFL
 features: []
-genres: []
+first_released_as_single: false
 key: a-long-walk-jill-scott
 lyrics_url: https://www.azlyrics.com/lyrics/jillscott/alongwalk.html
 name: A Long Walk
@@ -83,8 +86,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
+release_year: 2000
+runtime: 280973
 ---
-
 You're here, I'm pleased
 I really dig your company
 Your style, your smile, your peace mentality
@@ -150,6 +154,3 @@ Conversation, verbal elation, stimulation
 Share our situations, temptations, education, relaxations
 Elevations, maybe baby, maybe we can save the nation
 Come on, come on
-
-
-

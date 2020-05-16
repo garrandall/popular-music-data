@@ -1,8 +1,11 @@
 ---
+album: One More Time
 artists:
 - Real McCoy
+external_ids:
+  spotify: spotify:track:13vDH7LlES2hajU7yR07Mz
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-time-real-mccoy
 lyrics_url: https://genius.com/Real-mccoy-one-more-time-lyrics
 name: One More Time
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1997
+runtime: 238706
 ---
 One more time
 Time

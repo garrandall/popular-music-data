@@ -1,8 +1,11 @@
 ---
+album: In Philadelphia
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:1aZ5DzvI7jq895jdYolqMe
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-affair-the-o-jays
 lyrics_url: https://genius.com/The-ojays-one-night-affair-lyrics
 name: One Night Affair
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 137306
 ---
 Don't wanna love you
 Don't wanna make you my wife

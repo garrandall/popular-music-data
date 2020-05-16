@@ -1,8 +1,11 @@
 ---
+album: Josh Gracin
 artists:
 - Josh Gracin
+external_ids:
+  spotify: spotify:track:7oiCqfE8Wjk8wf0pFTgL2H
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--to-lose-josh-gracin
 lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/nothintolose.html
 name: Nothin' To Lose
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2004
+runtime: 156893
 ---
-
 It was noon time, down time, break time
 Summertime, Miller Time, anytime
 She was looking pretty fine
@@ -132,6 +136,3 @@ Just trying anything, hey baby where you been
 All my life I been looking for someone like you
 Falling head over heels hey what can I do
 I got nothin' to lose, yeah
-
-
-

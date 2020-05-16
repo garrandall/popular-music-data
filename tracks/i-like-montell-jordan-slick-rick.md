@@ -1,9 +1,12 @@
 ---
+album: More ...
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:5eTFQ9ZfwY4JlONgdo78w9
 features:
 - Slick Rick
-genres: []
+first_released_as_single: false
 key: i-like-montell-jordan-slick-rick
 lyrics_url: https://genius.com/Montell-jordan-i-like-featuring-slick-rick-lp-version-lyrics
 name: I Like
@@ -88,6 +91,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1996
+runtime: 282626
 ---
 Great, I'm in trouble, I suppose because I does hit
 Girlfriend, ya love me in my drop-top Rolls

@@ -1,8 +1,11 @@
 ---
+album: False Prophets
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3GBSrVcmOqb4Ahv3mTLFmO
 features: []
-genres: []
+first_released_as_single: true
 key: false-prophets-j--cole
 lyrics_url: https://genius.com/J-cole-false-prophets-lyrics
 name: False Prophets
@@ -15,6 +18,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 237840
 ---
 Somebody shoulda told me it would be like this
 Be like this, be like this

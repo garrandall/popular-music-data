@@ -1,8 +1,11 @@
 ---
+album: Magic Garden
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3sgilAlA4ajMpgDfZ2WPUl
 features: []
-genres: []
+first_released_as_single: false
 key: paper-cup-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/papercup.html
 name: Paper Cup
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 163666
 ---
-
 Here inside my paper cup
 Everything is lookin' up
 No one comes in, no one goes out
@@ -89,6 +93,3 @@ And my life is lookin' up
 From inside my paper cup
 And I'm always lookin' up
 From inside my paper cup
-
-
-

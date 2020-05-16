@@ -1,8 +1,11 @@
 ---
+album: Tornado
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:3HvNzmI0hX2dXcE41lBMxi
 features: []
-genres: []
+first_released_as_single: false
 key: tornado-little-big-town
 lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/tornado.html
 name: Tornado
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 223573
 ---
-
 Thought you'd change the weather
 Start a little storm
 Make a little rain
@@ -135,6 +139,3 @@ Oooo...
 
 (I'm gonna lift this house, spin it all around
 Toss it in the air and put it in the ground)
-
-
-

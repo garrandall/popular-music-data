@@ -1,8 +1,11 @@
 ---
+album: Red Octopus
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:0vDZTrAYGsbq1Zn5QwJ5F2
 features: []
-genres: []
+first_released_as_single: false
 key: play-on-love-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/playonlove.html
 name: Play On Love
@@ -31,8 +34,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 223000
 ---
-
 Now when you open your mouth, what comes out
 What's the first word, what's the first line?
 When you open your mouth and love comes out
@@ -92,6 +96,3 @@ Play on love
 Play on love
 Play on love
 Play on love.
-
-
-

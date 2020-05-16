@@ -1,8 +1,11 @@
 ---
+album: You Won' t Ever Be Lonely
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:0trmMvSTIhKC4ZFUimbLlI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-go-crazy-andy-griggs
 lyrics_url: https://www.musixmatch.com/lyrics/Andy-Griggs/I-ll-Go-Crazy
 name: I'll Go Crazy
@@ -47,6 +50,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
+release_year: 1999
+runtime: 184160
 ---
 You say you wanna let me go
 Well theres on thing that you should know

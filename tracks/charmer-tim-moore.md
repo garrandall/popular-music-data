@@ -1,8 +1,11 @@
 ---
+album: Tim Moore
 artists:
 - Tim Moore
+external_ids:
+  spotify: spotify:track:778BoUKMf0vdF4gZUh2ZDO
 features: []
-genres: []
+first_released_as_single: false
 key: charmer-tim-moore
 lyrics_url: https://genius.com/Tim-moore-charmer-lyrics
 name: Charmer
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 168306
 ---
 There's a girl
 Who's as sweet as the summer sky

@@ -1,8 +1,11 @@
 ---
+album: Higher And Higher
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5qyq1H5OPMlfuvZQ1wQNo7
 features: []
-genres: []
+first_released_as_single: false
 key: -your-love-keeps-lifting-me--higher-and-higher-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-your-love-keeps-lifting-me-higher-and-higher-lyrics
 name: (Your Love Keeps Lifting Me) Higher And Higher
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1967
+runtime: 179120
 ---
 Your love is lifting me higher
 

@@ -1,8 +1,11 @@
 ---
+album: Primitive Love
 artists:
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:5xbqrbNPBTAOGDA6GD3O46
 features: []
-genres: []
+first_released_as_single: false
 key: words-get-in-the-way-miami-sound-machine
 lyrics_url: https://genius.com/Miami-sound-machine-words-get-in-the-way-lyrics
 name: Words Get In The Way
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1985
+runtime: 205533
 ---
 I realize you're seeing someone new
 I don't believe she knows you like I do

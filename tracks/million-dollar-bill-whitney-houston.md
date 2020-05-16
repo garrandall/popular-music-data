@@ -1,8 +1,11 @@
 ---
+album: I Look To You
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:78Liq9m8u6xjuamJIeznTd
 features: []
-genres: []
+first_released_as_single: false
 key: million-dollar-bill-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/milliondollarbill.html
 name: Million Dollar Bill
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-09-19'
+release_year: 2009
+runtime: 204266
 ---
-
 Oh, oh yeah
 Oh, oh
 
@@ -75,6 +79,3 @@ Oh, if he makes you feel, oh, if he makes you feel
 Go on and say, go on and say
 Oh, if he makes you feel, oh, if he makes you feel
 Go on and say ah, baby
-
-
-

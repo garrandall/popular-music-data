@@ -1,8 +1,11 @@
 ---
+album: The Best Of Billy "Crash" Craddock
 artists:
 - Billy "Crash" Craddock
+external_ids:
+  spotify: spotify:track:4pA9vbjCtPKjUBHx5hjPPo
 features: []
-genres: []
+first_released_as_single: false
 key: easy-as-pie-billy--crash--craddock
 lyrics_url: https://genius.com/Billy-crash-craddock-easy-as-pie-lyrics
 name: Easy As Pie
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 177893
 ---
 Uh huh uh huh she meant nothing to me just another one night stand
 She was easy as pie and I had her eating out of my hand

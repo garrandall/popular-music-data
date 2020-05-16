@@ -1,8 +1,11 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:3e7Y6sfFlIdBMJhX7wpqVO
 features: []
-genres: []
+first_released_as_single: false
 key: 44-more-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/44more.html
 name: 44 More
@@ -27,8 +30,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2018
+runtime: 188600
 ---
-
 Ayy, bitch I been goin' and goin' like the Energizer
 Yeah, I'm supplyin' the wood like Elijah
 In the cut, smokin' on indica
@@ -102,6 +106,3 @@ Can't sleep on the boy anymore, but the haters that love to hate gon' pop an Amb
 Star Lord, champion
 Know the name, now they know the alias, that's for sure
 Gave 'em 44, now here's 44 more
-
-
-

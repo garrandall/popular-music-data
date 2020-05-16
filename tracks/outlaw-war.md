@@ -1,8 +1,11 @@
 ---
+album: Outlaw
 artists:
 - War
+external_ids:
+  spotify: spotify:track:3tQO5AJkDV4qFs1GoUH59I
 features: []
-genres: []
+first_released_as_single: false
 key: outlaw-war
 lyrics_url: https://genius.com/War-outlaw-lyrics
 name: Outlaw
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1982
+runtime: 302600
 ---
 I'm a stranger in town and my gun's never cold
 I'm a gambler so bet on your life

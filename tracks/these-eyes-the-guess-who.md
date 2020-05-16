@@ -1,8 +1,11 @@
 ---
+album: Wheatfield Soul
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:5lEyMg4GNKnMbaarvT4sRd
 features: []
-genres: []
+first_released_as_single: false
 key: these-eyes-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-these-eyes-lyrics
 name: These Eyes
@@ -63,9 +66,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1968
+runtime: 225920
 ---
-
-
 These eyes, cry every night for you
 These arms, long to hold you again
 

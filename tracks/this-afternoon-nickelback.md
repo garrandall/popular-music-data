@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:1RG8MABX0VciDk6WYb8pBv
 features: []
-genres: []
+first_released_as_single: false
 key: this-afternoon-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/thisafternoon.html
 name: This Afternoon
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
+release_year: 2008
+runtime: 273493
 ---
-
 Lookin' like another Bob-Marley day
 Hittin' from the bong like a diesel train
 And I'm down with hangin' out this afternoon
@@ -183,6 +187,3 @@ Just sitting around hanging out this afternoon
 Drinks on the house
 Just kickin' around, hanging out this afternoon
 Just sitting around hanging out this afternoon
-
-
-

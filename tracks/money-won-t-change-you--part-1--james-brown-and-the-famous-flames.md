@@ -1,8 +1,12 @@
 ---
+album: James Brown Sings Raw Soul
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:0p69ZklPjRk7WahGSDKjwG
+features:
+- The Famous Flames
+first_released_as_single: false
 key: money-won-t-change-you--part-1--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-money-wont-change-you-part-1-lyrics
 name: Money Won't Change You (Part 1)
@@ -43,6 +47,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 145600
 ---
 Told me, darling, that you had to go
 Go fetch somebody, I don't care no more

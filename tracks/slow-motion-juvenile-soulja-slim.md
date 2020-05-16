@@ -1,9 +1,12 @@
 ---
+album: Juve The Great
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:6ihObRBTB8xdSH2mlERtOX
 features:
 - Soulja Slim
-genres: []
+first_released_as_single: false
 key: slow-motion-juvenile-soulja-slim
 lyrics_url: https://www.azlyrics.com/lyrics/juvenile/slowmotion.html
 name: Slow Motion
@@ -120,9 +123,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
+release_year: 2003
+runtime: 248200
 ---
-
-
 Slow motion for me, slow motion for me, move in slow motion for me,
 Slow motion for me, slow motion for me, move in slow motion for me
 
@@ -180,4 +183,3 @@ Who you wit ? I'm in a rental today,
 Its going down at the Hamptown Inn and I remember the way,
 Less money we spend on bullshit, the more for the weed
 Whats it gonna take for you to come in slow motion with me like,
-

@@ -1,9 +1,12 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:0laYHRpNTS6i8FXdupHkJ4
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-like-a-love-song-selena-gomez-the-scene
 lyrics_url: https://genius.com/Selena-gomez-and-the-scene-love-you-like-a-love-song-lyrics
 name: Love You Like A Love Song
@@ -160,6 +163,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 188453
 ---
 It's been said and done
 Every beautiful thought's been already sung

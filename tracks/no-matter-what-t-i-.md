@@ -1,8 +1,11 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:6ufB4VdDWdIXZWHxdtYKFR
 features: []
-genres: []
+first_released_as_single: false
 key: no-matter-what-t-i-
 lyrics_url: https://genius.com/Ti-no-matter-what-lyrics
 name: No Matter What
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2008
+runtime: 315680
 ---
 Never have you seen in your lifetime
 A more divine southern rapper with a swag like mine

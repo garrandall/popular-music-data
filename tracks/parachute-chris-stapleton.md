@@ -1,8 +1,11 @@
 ---
+album: Traveller
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:5jROdl6MhcmP3O7h2sVgtw
 features: []
-genres: []
+first_released_as_single: false
 key: parachute-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/parachute.html
 name: Parachute
@@ -27,8 +30,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2015
+runtime: 253200
 ---
-
 Street lights along the highway
 Throwing shadows in the dark
 And the memories keep on turning
@@ -72,6 +76,3 @@ Say the word and I'll be there for you
 Baby, I will be your
 Baby, I will be your parachute
 Parachute
-
-
-

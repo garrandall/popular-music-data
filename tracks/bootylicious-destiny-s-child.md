@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:29ozby8c3d3hOtm0nIASqJ
 features: []
-genres: []
+first_released_as_single: false
 key: bootylicious-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-bootylicious-lyrics
 name: Bootylicious
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 1999
+runtime: 251200
 ---
 Kelly, can you handle this?
 Michelle, can you handle this?

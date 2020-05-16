@@ -1,8 +1,11 @@
 ---
+album: Meanwhile Back At The Whisky A Go Go (Live)
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:6TrKUjYGgJzPxWPViUmSeZ
 features: []
-genres: []
+first_released_as_single: false
 key: seventh-son-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-seventh-son-lyrics
 name: Seventh Son
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 170466
 ---
 Everybody talkin' 'bout the seventh son
 In the whole wide world there is only one

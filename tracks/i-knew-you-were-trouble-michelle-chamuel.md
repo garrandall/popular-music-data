@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Michelle Chamuel
+external_ids:
+  spotify: spotify:track:0GrAOvAXTH1EHMHV4ZSjgV
 features: []
-genres: []
+first_released_as_single: false
 key: i-knew-you-were-trouble-michelle-chamuel
 lyrics_url: https://genius.com/Michelle-chamuel-i-knew-you-were-trouble-the-voice-performance-lyrics
 name: I Knew You Were Trouble
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2013
+runtime: 206306
 ---
 Once upon a time a few mistakes ago
 I was in your sights, you got me alone

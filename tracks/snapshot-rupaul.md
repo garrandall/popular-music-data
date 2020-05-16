@@ -1,8 +1,11 @@
 ---
+album: Foxy Lady
 artists:
 - RuPaul
+external_ids:
+  spotify: spotify:track:0dcUYuMCksrUQt59z4jIVr
 features: []
-genres: []
+first_released_as_single: false
 key: snapshot-rupaul
 lyrics_url: https://www.azlyrics.com/lyrics/rupaul/snapshot526223.html
 name: Snapshot
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-11-30'
+release_year: 1996
+runtime: 185066
 ---
-
 I want you to remember me...
 
 I want you to remember me (I, I)
@@ -61,6 +65,3 @@ Snapshot, red hot
 I, I, I
 
 Snapshot, red hot (oh)
-
-
-

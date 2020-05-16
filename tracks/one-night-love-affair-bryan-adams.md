@@ -1,8 +1,11 @@
 ---
+album: Reckless
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:5W2wzbDu4os7SbAGVzbYfY
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-love-affair-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/onenightloveaffair.html
 name: One Night Love Affair
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1984
+runtime: 273080
 ---
-
 You're the silent type 
 And you caught my eye 
 But I never thought that I'd be touchin' you 
@@ -110,6 +114,3 @@ We were both reachin' out for somethin'
 One night love affair 
 Sometimes life ain't fair 
 Oh - and not we're left with nothin'
-
-
-

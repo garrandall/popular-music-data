@@ -1,8 +1,11 @@
 ---
+album: Under A Raging Moon
 artists:
 - Roger Daltrey
+external_ids:
+  spotify: spotify:track:7E4LQm69dSSClDJXIorJQH
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-down-easy-roger-daltrey
 lyrics_url: https://genius.com/Roger-daltrey-let-me-down-easy-lyrics
 name: Let Me Down Easy
@@ -23,11 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 247893
 ---
-By Brian Adams/Jim Valance
-©1985 Irving Music, Inc/ Adam Communications, Inc
-Calypso Toonz, PROC
-
 Well I saw you on the avenue
 And as usual you're with someone new
 I guess there's nothing left for me to do but turn away

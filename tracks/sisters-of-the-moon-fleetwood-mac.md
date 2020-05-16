@@ -1,8 +1,11 @@
 ---
+album: Tusk
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:7Gjj6NxSsVwXfOXUjvjCXv
 features: []
-genres: []
+first_released_as_single: false
 key: sisters-of-the-moon-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/sistersofthemoon.html
 name: Sisters Of The Moon
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1979
+runtime: 283013
 ---
-
 Intense silence
 As she walked in the room
 Her black robes trailing
@@ -49,6 +53,3 @@ So we make our choices
 When there is no choice
 And we listen to their voices
 Ignoring our own voice
-
-
-

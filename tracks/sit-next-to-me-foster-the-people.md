@@ -1,8 +1,11 @@
 ---
+album: Sacred Hearts Club
 artists:
 - Foster The People
+external_ids:
+  spotify: spotify:track:4BdGO1CaObRD4La9l5Zanz
 features: []
-genres: []
+first_released_as_single: false
 key: sit-next-to-me-foster-the-people
 lyrics_url: https://www.azlyrics.com/lyrics/fosterthepeople/sitnexttome.html
 name: Sit Next To Me
@@ -87,8 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2017
+runtime: 243146
 ---
-
 And it's over, it's over
 I'm circling these vultures
 Got me praying, man, this hunger
@@ -138,6 +142,3 @@ Just say the word and I'll part the sea
 Just come over here and sit next to me
 
 It's alright
-
-
-

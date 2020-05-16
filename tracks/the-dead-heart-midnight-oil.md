@@ -1,8 +1,11 @@
 ---
+album: Diesel And Dust
 artists:
 - Midnight Oil
+external_ids:
+  spotify: spotify:track:7nfGP5B3Pc508kEb6zL6r9
 features: []
-genres: []
+first_released_as_single: false
 key: the-dead-heart-midnight-oil
 lyrics_url: https://genius.com/Midnight-oil-the-dead-heart-lyrics
 name: The Dead Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1987
+runtime: 311026
 ---
 We don't serve your country
 Don't serve your king

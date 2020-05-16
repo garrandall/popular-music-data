@@ -1,8 +1,11 @@
 ---
+album: All The Girls In The World Beware!!!
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:2DL5cXb2F3nvggbyTiNhzc
 features: []
-genres: []
+first_released_as_single: false
 key: bad-time-grand-funk
 lyrics_url: https://genius.com/Grand-funk-railroad-bad-time-lyrics
 name: Bad Time
@@ -67,6 +70,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1974
+runtime: 175360
 ---
 I'm in love with the girl that I'm talking about
 I'm in love with the girl I can't live without

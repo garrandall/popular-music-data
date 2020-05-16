@@ -1,8 +1,11 @@
 ---
+album: Live At Barker Hangar
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:6NW5mX8pIyF4BeTNaw7pEZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-send-a-message-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/isendamessage.html
 name: I Send A Message
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1984
+runtime: 205626
 ---
-
 In the silence, I think of you
 I send a message, and I hope it get's through
 Think of the distance
@@ -73,6 +77,3 @@ I miss the people
 You miss the fun
 Your my apparition
 She's my only one
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0ZX3x2i2m3VYordfjMonpl
 features:
 - Lil Uzi Vert
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: froze-meek-mill-lil-uzi-vert-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/froze.html
 name: Froze
@@ -13,9 +16,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 209930
 ---
-
-
 I'm a rockstar, smash my guitar
 Diamonds on my fist and on my arms
 Meek and I don't dress the same, relate in Goyard
@@ -106,6 +109,3 @@ Look at my wrist
 You know how froze that is
 Look at my fist
 You know how froze that is
-
-
-

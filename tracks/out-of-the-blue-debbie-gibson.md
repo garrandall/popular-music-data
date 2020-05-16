@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:3A0wRQczzSNVtZfK8IBOMt
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-the-blue-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/outoftheblue.html
 name: Out Of The Blue
@@ -75,8 +78,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1987
+runtime: 233333
 ---
-
 Without you, without you
 I always thought that
 Ev'rything was fine
@@ -115,6 +119,3 @@ I never thought I'd realize
 What love was, what love was,
 What love was
 Here with you
-
-
-

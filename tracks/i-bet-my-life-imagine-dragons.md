@@ -1,8 +1,11 @@
 ---
+album: Smoke + Mirrors
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:15DrrIod12Tc2IoMaHiwlQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-bet-my-life-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/ibetmylife.html
 name: I Bet My Life
@@ -95,8 +98,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 192706
 ---
-
 I know I took the path that you would never want for me
 I know I let you down, didn't I?
 So many sleepless nights where you were waiting up on me
@@ -144,6 +148,3 @@ So I, I bet my life, I bet my life
 I bet my life on you
 I, I bet my life, I bet my life
 I bet my life on you
-
-
-

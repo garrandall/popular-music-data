@@ -1,8 +1,11 @@
 ---
+album: Unapologetically
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:6vlxmQGwmlyp07YjkugV6K
 features: []
-genres: []
+first_released_as_single: false
 key: legends-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/legends.html
 name: Legends
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 244466
 ---
-
 We were golden, we were fire, we were magic
 Yeah, and they all knew our names all over town
 We had it made in the middle of the madness
@@ -107,6 +111,3 @@ We were legends
 
 Yeah, we were legends
 And we wrote our own story
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Safe + Sound
 artists:
 - DJ Quik
+external_ids:
+  spotify: spotify:track:5HP2cXsmqmSRkJuVjyMWVW
 features: []
-genres: []
+first_released_as_single: false
 key: safe---sound-dj-quik
 lyrics_url: https://www.azlyrics.com/lyrics/djquik/safesound.html
 name: Safe + Sound
@@ -47,9 +50,10 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-06-03'
+release_year: 1995
+runtime: 288666
 ---
-
- "Quik you're not a gangster we're not"
+"Quik you're not a gangster we're not"
 
 Some believe in love and some believe in friends
 But niggas like me believe in making ends
@@ -192,6 +196,3 @@ gotta let you knoooooow
 gotta let you knoooooow
 gotta let you knoooooow
 Comptons in the house
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Saved
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:7C8DO2GNmZ8sT03iQKOBvx
 features: []
-genres: []
+first_released_as_single: false
 key: wheel-of-fortune-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-wheel-of-fortune-lyrics
 name: Wheel Of Fortune
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 119640
 ---
 The wheel of fortune goes spinning round
 Will the arrow point my way, will this be the day?

@@ -1,8 +1,11 @@
 ---
+album: Shaft
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:7KMILVTQdVS4zQ8ilTcpRO
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-shaft-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/themefromshaft.html
 name: Theme From Shaft
@@ -59,8 +62,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
+release_year: 1971
+runtime: 279200
 ---
-
 Who's the black private dick
 That's a sex machine to all the chicks?
 (Shaft)
@@ -84,6 +88,3 @@ But I'm talkin' 'bout Shaft
 He's a complicated man
 But no one understands him but his woman
 (John Shaft)
-
-
-

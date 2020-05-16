@@ -1,8 +1,11 @@
 ---
+album: Better Days
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:54g3Dcmu1wUd9hddismf0x
 features: []
-genres: []
+first_released_as_single: true
 key: let-s-stay-home-tonight-joe
 lyrics_url: https://www.azlyrics.com/lyrics/joe/letsstayhometonight.html
 name: Let's Stay Home Tonight
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 206520
 ---
 I'm stayin' home tonight
 I don't wanna go nowhere

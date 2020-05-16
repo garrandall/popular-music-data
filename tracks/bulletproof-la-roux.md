@@ -1,8 +1,11 @@
 ---
+album: La Roux
 artists:
 - La Roux
+external_ids:
+  spotify: spotify:track:6lUY6MoqGgPnA27PHYxem5
 features: []
-genres: []
+first_released_as_single: false
 key: bulletproof-la-roux
 lyrics_url: https://www.azlyrics.com/lyrics/laroux/bulletproof.html
 name: Bulletproof
@@ -115,8 +118,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2009
+runtime: 205733
 ---
-
 Been there, done that, messed around
 I'm having fun, don't put me down
 I'll never let you sweep me off my feet
@@ -160,7 +164,4 @@ This time...I'll be...bulletproof
 This time baby,
 I'll be bulletproof
 This time baby,
-I'll be bulletproof 
-
-
-
+I'll be bulletproof

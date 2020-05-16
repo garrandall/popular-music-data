@@ -1,8 +1,11 @@
 ---
+album: Sexsational
 artists:
 - Tony Thompson
+external_ids:
+  spotify: spotify:track:4r6jPijW3d5iV0eBFVccsa
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-love-like-that-tony-thompson
 lyrics_url: https://genius.com/Tony-thompson-i-wanna-love-like-that-lyrics
 name: I Wanna Love Like That
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-09-09'
+release_year: 1995
+runtime: 307066
 ---
 I wanna be the one who loves you
 Even though you've got another

@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:5932kbyNt445gDTT2chRUS
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-try-george-michael
 lyrics_url: https://genius.com/George-michael-one-more-try-lyrics
 name: One More Try
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1987
+runtime: 350666
 ---
 I've had enough of danger
 And people on the streets

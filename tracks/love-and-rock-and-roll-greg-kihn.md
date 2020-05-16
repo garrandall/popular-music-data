@@ -1,8 +1,11 @@
 ---
+album: Love And Rock And Roll
 artists:
 - Greg Kihn
+external_ids:
+  spotify: spotify:track:65mKYL1C91WVfRqbvDrUji
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-rock-and-roll-greg-kihn
 lyrics_url: https://genius.com/Greg-kihn-love-and-rock-and-roll-lyrics
 name: Love And Rock And Roll
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-04-26'
+release_year: 1986
+runtime: 187207
 ---
 Everybody wants some
 But no one wants to pay

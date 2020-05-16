@@ -1,8 +1,11 @@
 ---
+album: The Definitive Tribute to Bob Dylan
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:1PqehyFiU91KA65LP8Thew
 features: []
-genres: []
+first_released_as_single: false
 key: positively-4th-street-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-positively-4th-street-lyrics
 name: Positively 4th Street
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 262933
 ---
 You got a lot of nerve
 To say you are my friend

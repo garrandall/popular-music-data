@@ -1,8 +1,11 @@
 ---
+album: Notebook Paper
 artists:
 - Huey
+external_ids:
+  spotify: spotify:track:6DbqCKweKwVkHgRv1CI53D
 features: []
-genres: []
+first_released_as_single: false
 key: pop-lock---drop-it-huey
 lyrics_url: https://genius.com/Huey-pop-lock-and-drop-it-lyrics
 name: Pop Lock & Drop It
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
+release_year: 2006
+runtime: 261026
 ---
 Toot that thang up, mami make it roll
 Once you pop, pop lock it for me girl get low

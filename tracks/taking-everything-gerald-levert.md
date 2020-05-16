@@ -1,8 +1,11 @@
 ---
+album: Love & Consequences
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:0TmshMv6MbdsqOkZ9hCVPP
 features: []
-genres: []
+first_released_as_single: false
 key: taking-everything-gerald-levert
 lyrics_url: https://www.azlyrics.com/lyrics/geraldlevert/takingeverything.html
 name: Taking Everything
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
+release_year: 1998
+runtime: 324826
 ---
-
 Never thought you bring me so much pain
 Lord knows I tried to keep you happy girl
 in ever way
@@ -125,4 +129,3 @@ now you're gone and I'm just gonna be a
 weekend Daddy baby
 can I call you baby or is that just a passing
 thing
-

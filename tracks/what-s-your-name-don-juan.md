@@ -1,9 +1,12 @@
 ---
+album: Don & Juan
 artists:
 - Don
 - Juan
+external_ids:
+  spotify: spotify:track:6wA8xWWLUvTMbQbwPZzo78
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-your-name-don-juan
 lyrics_url: https://genius.com/Don-and-juan-whats-your-name-lyrics
 name: What's Your Name
@@ -60,6 +63,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 135560
 ---
 What's your name? I have seen you before
 What's your name? May I walk you to your door?

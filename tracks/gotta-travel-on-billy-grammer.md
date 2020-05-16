@@ -1,8 +1,11 @@
 ---
+album: 'Gotta Travel On: The Very Best Of Billy Grammar'
 artists:
 - Billy Grammer
+external_ids:
+  spotify: spotify:track:3HynxUWKnm7rtzjVkyXoHu
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-travel-on-billy-grammer
 lyrics_url: https://genius.com/Billy-grammer-gotta-travel-on-lyrics
 name: Gotta Travel On
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1958
+runtime: 150493
 ---
 I've laid around and played around this old town too long
 Summer's almost gone, yes, winter's comin' on

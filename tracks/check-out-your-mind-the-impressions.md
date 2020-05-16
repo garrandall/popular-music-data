@@ -1,8 +1,11 @@
 ---
+album: Check Out Your Mind!
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:112ofK4eq7gS0gRqNNxQMM
 features: []
-genres: []
+first_released_as_single: false
 key: check-out-your-mind-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/checkoutyourmind.html
 name: Check Out Your Mind
@@ -55,8 +58,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 210760
 ---
-
 Here's something that you never had
 Slid in on an oily rag
 The price is right up on the tag
@@ -105,6 +109,3 @@ Check out your mind
 Check out your mind
 Check out your mind
 ...
-
-
-

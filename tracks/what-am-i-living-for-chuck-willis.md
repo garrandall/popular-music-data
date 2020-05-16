@@ -1,8 +1,11 @@
 ---
+album: I Remember Chuck Willis (US Internet Release)
 artists:
 - Chuck Willis
+external_ids:
+  spotify: spotify:track:6eIEXINZt8rtgqEtOxP9ur
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-living-for-chuck-willis
 lyrics_url: https://genius.com/Chuck-willis-what-am-i-living-for-lyrics
 name: What Am I Living For
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 146800
 ---
 What am I living for, if not for you?
 What am I living for, if not for you?

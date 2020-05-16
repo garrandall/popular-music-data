@@ -1,8 +1,11 @@
 ---
+album: Back to Back - Atlantic Starr & The Jets
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:3fGR17imrNcMkwm5WZSBbI
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-real-the-jets
 lyrics_url: https://genius.com/The-jets-group-make-it-real-lyrics
 name: Make It Real
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1988
+runtime: 257066
 ---
 Tonight it's been a year
 We met each other here

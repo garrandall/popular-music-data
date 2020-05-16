@@ -1,8 +1,11 @@
 ---
+album: The Earth, A Small Man, His Dog And A Chicken
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:7JLFGPUo8ytYKPkOY9XSsU
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-rock-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/loveisarock.html
 name: Love Is A Rock
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-11-17'
+release_year: 1990
+runtime: 336466
 ---
-
 My love is a rock, an immovable force
 Anywhere that you are, my love is right here
 With any tick of the clock
@@ -82,6 +86,3 @@ Some things are here and then gone before you know
 Some things disappear without a chance to grow
 But my love will not
 My love is a rock
-
-
-

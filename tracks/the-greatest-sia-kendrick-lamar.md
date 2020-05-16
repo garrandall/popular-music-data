@@ -1,9 +1,12 @@
 ---
+album: This Is Acting (Deluxe Version)
 artists:
 - Sia
+external_ids:
+  spotify: spotify:track:7xHWNBFm6ObGEQPaUxHuKO
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: the-greatest-sia-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/sia/thegreatest.html
 name: The Greatest
@@ -100,9 +103,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2016
+runtime: 210226
 ---
-
-
 Uh-oh, running out of breath, but I
 Oh, I, I got stamina
 Uh-oh, running now, I close my eyes
@@ -187,6 +190,3 @@ The greatest, the greatest alive
 (Don't give up, don't give up, don't give up; I got stamina)
 The greatest, the greatest alive
 (Don't give up, don't give up, don't give up; I got stamina)
-
-
-

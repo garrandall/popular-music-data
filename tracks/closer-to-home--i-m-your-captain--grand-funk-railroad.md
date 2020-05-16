@@ -1,8 +1,11 @@
 ---
+album: Closer To Home
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:168aH14F9ef3ymWlk9vWHp
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-home--i-m-your-captain--grand-funk-railroad
 lyrics_url: https://www.musixmatch.com/lyrics/Grand-Funk-Railroad/Closer-to-Home-I-m-Your-Captain
 name: Closer To Home (I'm Your Captain)
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 608933
 ---
 Everybody listen to me
 And return me my ship

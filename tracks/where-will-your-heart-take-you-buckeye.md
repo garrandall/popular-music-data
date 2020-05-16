@@ -1,8 +1,11 @@
 ---
+album: Buckeye
 artists:
 - Buckeye
+external_ids:
+  spotify: spotify:track:0XNpv6XOb6OlRed6dtDpuK
 features: []
-genres: []
+first_released_as_single: false
 key: where-will-your-heart-take-you-buckeye
 name: Where Will Your Heart Take You
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 181066
 ---
 

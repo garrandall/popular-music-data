@@ -1,8 +1,11 @@
 ---
+album: Aijuswanaseing
 artists:
 - Musiq
+external_ids:
+  spotify: spotify:track:5jgEJXjECdlhzNgfITSTVm
 features: []
-genres: []
+first_released_as_single: false
 key: just-friends--sunny--musiq
 lyrics_url: https://genius.com/Musiq-soulchild-just-friends-lyrics
 name: Just Friends (Sunny)
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2000
+runtime: 251426
 ---
 Girl I know this might seem strange
 But let me know if I'm out of order

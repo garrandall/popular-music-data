@@ -1,8 +1,11 @@
 ---
+album: Face Value (Deluxe Editon)
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:18AXbzPzBS8Y3AkgSxzJPb
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-air-tonight-phil-collins
 lyrics_url: https://genius.com/Phil-collins-in-the-air-tonight-lyrics
 name: In The Air Tonight
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 336453
 ---
 I can feel it coming in the air tonight, oh Lord
 And I've been waiting for this moment for all my life, oh Lord

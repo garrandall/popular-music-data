@@ -1,8 +1,11 @@
 ---
+album: Musical Chairs
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:2pWTIqdCumc0dAuEcXx9U7
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-crazy-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/youmakemecrazy.html
 name: You Make Me Crazy
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 167333
 ---
-
 Fill me up to the top and take me away
 To some little hidin' place in old Monterey
 'Cause you, you make me crazy
@@ -84,6 +88,3 @@ Oh, it's so wrong, but it's all right, yeah
 You make me crazy
 Oh, baby
 You make me crazy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 1
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:1h9StB9MP2sFghT4ELNYiZ
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-away-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-kiss-away-lyrics
 name: Kiss Away
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 169893
 ---
 Kiss away, kiss away
 Guess that's all that's left to say

@@ -1,8 +1,11 @@
 ---
+album: Time Further Out
 artists:
 - The Dave Brubeck Quartet
+external_ids:
+  spotify: spotify:track:2VUo8O3ymKRYNgj97ZG2kM
 features: []
-genres: []
+first_released_as_single: false
 key: unsquare-dance-the-dave-brubeck-quartet
 name: Unsquare Dance
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 119866
 ---
 

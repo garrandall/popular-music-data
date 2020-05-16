@@ -1,8 +1,11 @@
 ---
+album: After The Rain
 artists:
 - Nelson
+external_ids:
+  spotify: spotify:track:3JjY2L2bqql54j1SjnjQ23
 features: []
-genres: []
+first_released_as_single: false
 key: -can-t-live-without-your--love-and-affection-nelson
 lyrics_url: https://genius.com/Nelson-cant-live-without-your-love-and-affection-lyrics
 name: (Can't Live Without Your) Love And Affection
@@ -111,6 +114,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
+release_year: 1990
+runtime: 236435
 ---
 (Here she comes) Mmm, just like an angel
 Seems like forever that she's been on my mind

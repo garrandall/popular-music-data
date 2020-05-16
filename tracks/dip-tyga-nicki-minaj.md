@@ -1,9 +1,12 @@
 ---
+album: Legendary
 artists:
 - Tyga
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:2qfR91VvO7hRp4IajDT08h
 features: []
-genres: []
+first_released_as_single: true
 key: dip-tyga-nicki-minaj
 lyrics_url: https://genius.com/Tyga-and-nicki-minaj-dip-lyrics
 name: Dip
@@ -40,6 +43,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 195991
 ---
 Young Money!
 Haha, I know you gon' do it for the ’Gram, right?

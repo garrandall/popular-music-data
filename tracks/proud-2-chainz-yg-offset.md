@@ -1,10 +1,13 @@
 ---
+album: "The Play Don\u2019t Care Who Makes It"
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:1q0AA9eK4OMmy3QKqTAmAc
 features:
 - YG
 - Offset
-genres: []
+first_released_as_single: true
 key: proud-2-chainz-yg-offset
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/proud.html
 name: Proud
@@ -17,9 +20,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2018
+runtime: 234680
 ---
-
-
 Yeah, do it for the hood, nigga, rep
 Yeah, Southside with an F 'cause I'm fresh
 Do it for the hood, nigga, rep
@@ -117,6 +120,3 @@ Do it for the hood, nigga, rep
 Southside with an F 'cause I'm fresh
 Do it for the hood, nigga, rep
 Southside with an F 'cause I'm fresh
-
-
-

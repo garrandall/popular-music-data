@@ -1,8 +1,11 @@
 ---
+album: Skin
 artists:
 - Ephraim Lewis
+external_ids:
+  spotify: spotify:track:2V7AlCtwsvWaondWeo1hvm
 features: []
-genres: []
+first_released_as_single: false
 key: drowning-in-your-eyes-ephraim-lewis
 lyrics_url: https://genius.com/Ephraim-lewis-drowning-in-your-eyes-lyrics
 name: Drowning In Your Eyes
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1992
+runtime: 306426
 ---
 Feel the ground it's slipping away
 Like a sigh that greets the close of day

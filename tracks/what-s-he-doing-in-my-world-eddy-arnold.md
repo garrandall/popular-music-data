@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:3PmZmkgLfJtKdPjFF24uML
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-he-doing-in-my-world-eddy-arnold
 lyrics_url: https://genius.com/Eddy-arnold-whats-he-doing-in-my-world-lyrics
 name: What's He Doing In My World
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 122160
 ---
 What's he doing in my world?
 What's he doing holding my world?

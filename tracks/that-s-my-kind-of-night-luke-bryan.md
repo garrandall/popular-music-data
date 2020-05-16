@@ -1,8 +1,11 @@
 ---
+album: Crash My Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5HGibWoxnkYSkl6mHmAlOE
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-my-kind-of-night-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/thatsmykindofnight.html
 name: That's My Kind Of Night
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 190186
 ---
-
 I got that real good feel good stuff
 Up under the seat of my big black jacked up truck
 Rollin' on 35s
@@ -142,6 +146,3 @@ Yeah, that's my kind of night!
 That's my kind of night!
 Yeah, that's my kind of night!
 Come on...
-
-
-

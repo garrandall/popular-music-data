@@ -1,8 +1,11 @@
 ---
+album: Autobiography
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:7yXibbAYi4to5oQTeO738f
 features: []
-genres: []
+first_released_as_single: false
 key: pieces-of-me-ashlee-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/ashleesimpson/piecesofme.html
 name: Pieces Of Me
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 217440
 ---
-
 On a Monday, I am waiting
 Tuesday, I am fading
 And by Wednesday, I can't sleep
@@ -156,6 +160,3 @@ Ohhhhh
 I love how you can tell
 All the pieces, pieces, pieces of me
 All the pieces, pieces, pieces of me...
-
-
-

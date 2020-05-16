@@ -1,8 +1,11 @@
 ---
+album: 'Motown Legends: Neither One Of Us'
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:1RfvX1pospYGxpvTBJ8I3d
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-need-is-time-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-all-i-need-is-time-lyrics
 name: All I Need Is Time
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 269426
 ---
 All I need is time
 Until I get over you

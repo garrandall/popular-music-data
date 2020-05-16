@@ -1,8 +1,11 @@
 ---
+album: Sail Along Silv'ry Moon
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:4AFiPm2lpASzrpHAFFyzhC
 features: []
-genres: []
+first_released_as_single: false
 key: wheels-billy-vaughn-and-his-orchestra
 name: Wheels
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 125226
 ---
 

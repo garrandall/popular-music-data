@@ -1,8 +1,11 @@
 ---
+album: B Angie B
 artists:
 - B Angie B
+external_ids:
+  spotify: spotify:track:1mbtkaYpvmwnUAIWi1p4br
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-lose-your-love-b-angie-b
 lyrics_url: https://genius.com/B-angie-b-i-dont-want-to-lose-your-love-lyrics
 name: I Don't Want To Lose Your Love
@@ -39,6 +42,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1991
+runtime: 269573
 ---
 Oh, I don't wanna lose you love
 I don't wanna lose your love

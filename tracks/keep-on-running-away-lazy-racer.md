@@ -1,8 +1,11 @@
 ---
+album: Lazy Racer
 artists:
 - Lazy Racer
+external_ids:
+  spotify: spotify:track:3DKVUAzpbm9V13sBrUGdJA
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-running-away-lazy-racer
 name: Keep On Running Away
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 209438
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5lqQaR00aXDezywi6GfrF5
 features: []
-genres: []
+first_released_as_single: false
 key: x-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/witmycrewx1987.html
 name: X
@@ -15,11 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 182728
 ---
-
-
-
-
 Aye, I Just got rid of my boo
 I Might just swerve in a Coupe
 I Fucked your girls in my Coupe
@@ -116,6 +117,3 @@ My Life, It Is Not Normal
 
 
 1987, 1987, 1987, 1987, 1987, 1987, 1987
-
-
-

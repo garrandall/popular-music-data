@@ -1,8 +1,11 @@
 ---
+album: Erotica (PA Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3b3PnE1ROIZzILjmCGjVib
 features: []
-genres: []
+first_released_as_single: false
 key: rain-madonna
 lyrics_url: https://genius.com/Madonna-rain-lyrics
 name: Rain
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1992
+runtime: 328986
 ---
 I feel it, it's coming
 

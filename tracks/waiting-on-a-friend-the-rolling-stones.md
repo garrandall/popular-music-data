@@ -1,8 +1,11 @@
 ---
+album: Tattoo You (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:4Wd9pEtEnZNDjgiswGOpJb
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-on-a-friend-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-waiting-on-a-friend-lyrics
 name: Waiting On A Friend
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 274226
 ---
 {Intro}
 

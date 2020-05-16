@@ -1,8 +1,11 @@
 ---
+album: Storm Front
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:16LYB0chkPiblx33djiNTt
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-to-extremes-billy-joel
 lyrics_url: https://genius.com/Billy-joel-i-go-to-extremes-lyrics
 name: I Go To Extremes
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 263200
 ---
 Call me a joker, call me a fool
 Right at this moment I'm totally cool

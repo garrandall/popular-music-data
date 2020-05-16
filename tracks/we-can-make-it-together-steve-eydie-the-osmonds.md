@@ -1,10 +1,13 @@
 ---
+album: The World of Steve and Eydie
 artists:
 - Steve
 - Eydie
+external_ids:
+  spotify: spotify:track:41knQAk2q0XLuK0SKfSPYE
 features:
 - The Osmonds
-genres: []
+first_released_as_single: false
 key: we-can-make-it-together-steve-eydie-the-osmonds
 name: We Can Make It Together
 rankings:
@@ -48,5 +51,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 183840
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Every Little Sting
 artists:
 - Shana
+external_ids:
+  spotify: spotify:track:0sdtAStTSLikyTg9PTTyys
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-shana
 lyrics_url: https://genius.com/Shana-i-want-you-lyrics
 name: I Want You
@@ -99,6 +102,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1989
+runtime: 305773
 ---
 I want you
 I want you so bad

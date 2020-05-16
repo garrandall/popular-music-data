@@ -1,9 +1,12 @@
 ---
+album: MONTANA
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:7iaw359G2XT14uTfV9feip
 features:
 - Kodak Black
-genres: []
+first_released_as_single: true
 key: lockjaw-french-montana-kodak-black
 lyrics_url: https://genius.com/French-montana-lockjaw-lyrics
 name: Lockjaw
@@ -60,6 +63,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 223146
 ---
 My nigga, my go-to
 You never told me

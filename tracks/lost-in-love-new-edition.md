@@ -1,8 +1,11 @@
 ---
+album: New Edition
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:4pcweTeOtJdAPnmYCBrKKE
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-love-new-edition
 lyrics_url: https://genius.com/New-edition-lost-in-love-lyrics
 name: Lost In Love
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1984
+runtime: 253933
 ---
 Would you love me
 When nights are cold?

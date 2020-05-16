@@ -1,8 +1,11 @@
 ---
+album: Rockihnroll
 artists:
 - Greg Kihn Band
+external_ids:
+  spotify: spotify:track:3gHyNUxOEZq4VltRl2xUW4
 features: []
-genres: []
+first_released_as_single: false
 key: the-breakup-song--they-don-t-write--em--greg-kihn-band
 lyrics_url: https://genius.com/Greg-kihn-band-the-breakup-song-they-dont-write-em-lyrics
 name: The Breakup Song (They Don't Write 'Em)
@@ -99,6 +102,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 169693
 ---
 We had broken up for good just an hour before
 Ah ah ah, ah ah ah ah ah

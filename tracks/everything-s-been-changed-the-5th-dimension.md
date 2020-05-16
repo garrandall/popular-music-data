@@ -1,8 +1,11 @@
 ---
+album: The Essential Fifth Dimension
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:5iTuA7KghUxoHDxQPQKzsr
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-been-changed-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-everythings-been-changed-lyrics
 name: Everything's Been Changed
@@ -23,6 +26,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1972
+runtime: 227866
 ---
 Rearranged
 Every room, every floor

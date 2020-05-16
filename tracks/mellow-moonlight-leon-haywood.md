@@ -1,8 +1,12 @@
 ---
+album: Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor
+  1952 - 1968)
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:1rkT8caKhdEFENiqips7dy
 features: []
-genres: []
+first_released_as_single: false
 key: mellow-moonlight-leon-haywood
 name: Mellow Moonlight
 rankings:
@@ -18,5 +22,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 157106
 ---
 

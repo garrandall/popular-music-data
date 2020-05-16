@@ -1,8 +1,11 @@
 ---
+album: Miss Thang
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:3lQAqfwPQHVfPS3sLP9TtC
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-take-it-personal--just-one-of-dem-days--monica
 lyrics_url: https://genius.com/Monica-dont-take-it-personal-just-one-of-dem-days-lyrics
 name: Don't Take It Personal (Just One Of Dem Days)
@@ -123,6 +126,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1995
+runtime: 249026
 ---
 It's just one of them days when I wanna be all alone
 It's just one of them days when I gotta be all alone

@@ -1,8 +1,11 @@
 ---
+album: The Gap Band IV
 artists:
 - The Gap Band
+external_ids:
+  spotify: spotify:track:2yd0XI7g0BhAgY9GkpPClU
 features: []
-genres: []
+first_released_as_single: false
 key: outstanding-the-gap-band
 lyrics_url: https://www.azlyrics.com/lyrics/gapband/outstanding.html
 name: Outstanding
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1982
+runtime: 198800
 ---
-
 Girl, you're lookin' sweeter now
 You got it every day, girl
 Wish that I could love you now
@@ -118,6 +122,3 @@ It makes me wanna shout (Make me wanna shout, baby)
 Outstanding
 Girl, you knock me out (Girl, you know you knock me out, baby)
 (Girl, you know, you know you knock me out, babe)
-
-
-

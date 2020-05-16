@@ -1,8 +1,11 @@
 ---
+album: The Kingbees
 artists:
 - The Kingbees
+external_ids:
+  spotify: spotify:track:2rstsyuKnpVukdGbziW6ml
 features: []
-genres: []
+first_released_as_single: false
 key: my-mistake-the-kingbees
 lyrics_url: https://genius.com/The-kingbees-my-mistake-lyrics
 name: My Mistake
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 175320
 ---
 You and I been goin' steady for over a year
 And then we suddenly started feelin' like the end was near

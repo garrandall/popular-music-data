@@ -1,8 +1,11 @@
 ---
+album: Sings The Newest Hits
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:7uf6k9h5r6Q4ioi9agamao
 features: []
-genres: []
+first_released_as_single: false
 key: coming-home-soldier-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/cominghomesoldier.html
 name: Coming Home Soldier
@@ -55,8 +58,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 149400
 ---
-
 I'm coming home I'm coming,
 I'm coming home I'm coming home.
 
@@ -93,6 +97,3 @@ I've done my best.
 
 I'm coming home I'm coming,
 I'm coming home I'm coming home.
-
-
-

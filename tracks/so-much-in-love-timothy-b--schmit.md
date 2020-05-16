@@ -1,8 +1,11 @@
 ---
+album: Playin' It Cool
 artists:
 - Timothy B. Schmit
+external_ids:
+  spotify: spotify:track:4HIcn25dIDQgUURWvGKRUq
 features: []
-genres: []
+first_released_as_single: false
 key: so-much-in-love-timothy-b--schmit
 lyrics_url: https://genius.com/Timothy-b-schmit-so-much-in-love-lyrics
 name: So Much In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 136893
 ---
 As we stroll along together
 Holding hands, walking all alone

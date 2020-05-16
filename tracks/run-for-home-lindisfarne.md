@@ -1,8 +1,11 @@
 ---
+album: Back and Fourth
 artists:
 - Lindisfarne
+external_ids:
+  spotify: spotify:track:6JoQg3P42ngcpyBNoTFWPC
 features: []
-genres: []
+first_released_as_single: false
 key: run-for-home-lindisfarne
 lyrics_url: https://genius.com/Lindisfarne-run-for-home-lyrics
 name: Run For Home
@@ -63,6 +66,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 260733
 ---
 Hull
 

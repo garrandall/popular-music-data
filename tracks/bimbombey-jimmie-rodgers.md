@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:4SUe5YYM38r0eVuTRrTyv1
 features: []
-genres: []
+first_released_as_single: false
 key: bimbombey-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Bimbombey
 name: Bimbombey
@@ -71,6 +74,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
+release_year: 1958
+runtime: 137600
 ---
 Bimbombey, Bimbombey
 

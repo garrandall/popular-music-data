@@ -1,8 +1,11 @@
 ---
+album: The Crossing
 artists:
 - Big Country
+external_ids:
+  spotify: spotify:track:2DHmwT9LhjRLTyZkluPXyL
 features: []
-genres: []
+first_released_as_single: false
 key: wonderland-big-country
 lyrics_url: https://genius.com/Big-country-wonderland-lyrics
 name: Wonderland
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1983
+runtime: 238960
 ---
 If you could feel
 How I must feel

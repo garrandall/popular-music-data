@@ -1,8 +1,11 @@
 ---
+album: Portrait of Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:4V6JV9lcGqMIxZ1WvXMjhJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-drum-bobby-sherman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Sherman/The-Drum
 name: The Drum
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 138133
 ---
 Love comes, beats on drums
 And the people sing

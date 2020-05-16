@@ -1,8 +1,11 @@
 ---
+album: We The Kings
 artists:
 - WE the Kings
+external_ids:
+  spotify: spotify:track:0wVluBsVAVzBKrqspuCcwR
 features: []
-genres: []
+first_released_as_single: false
 key: check-yes-juliet--run-baby-run--we-the-kings
 lyrics_url: https://www.azlyrics.com/lyrics/wethekings/checkyesjuliet.html
 name: Check Yes Juliet (Run Baby Run)
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2007
+runtime: 220146
 ---
-
 Check yes Juliet
 Are you with me?
 Rain is falling down on the sidewalk
@@ -113,6 +117,3 @@ Run baby run, forever will be
 You and me
 You and me
 You and me
-
-
-

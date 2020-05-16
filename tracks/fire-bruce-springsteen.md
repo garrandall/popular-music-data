@@ -1,8 +1,11 @@
 ---
+album: Darkness On the Edge of Town
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:1PuHLoIL9LTev7T5ONv5zI
 features: []
-genres: []
+first_released_as_single: false
 key: fire-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-im-on-fire-lyrics
 name: Fire
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1978
+runtime: 243106
 ---
 Hey, little girl, is your daddy home?
 Did he go away and leave you all alone?

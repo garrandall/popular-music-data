@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:07yqpaKGeWU05UwQNdDmdU
 features: []
-genres: []
+first_released_as_single: false
 key: years-from-now-dr--hook
 lyrics_url: https://genius.com/Dr-hook-years-from-now-lyrics
 name: Years From Now
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 194613
 ---
 Years from now, I want you years from now
 And I hold you years from now as I love you tonight

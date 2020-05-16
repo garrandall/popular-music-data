@@ -1,8 +1,11 @@
 ---
+album: Blue Magic
 artists:
 - Blue Magic
+external_ids:
+  spotify: spotify:track:0fopVbPW7N5BK0sOybQCq2
 features: []
-genres: []
+first_released_as_single: false
 key: sideshow-blue-magic
 lyrics_url: https://genius.com/Blue-magic-sideshow-lyrics
 name: Sideshow
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 251520
 ---
 Hurry, hurry, step right up
 See the saddest show in town for only fifty cents

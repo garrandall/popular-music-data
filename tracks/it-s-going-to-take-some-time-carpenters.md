@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:17MRUI1nql2E1GJEltjoyx
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-going-to-take-some-time-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/itsgoingtotakesometimethistime.html
 name: It's Going To Take Some Time
@@ -47,8 +50,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 176053
 ---
-
 It's going to take some time this time
 To get myself in shape
 I really feel out-of line this time
@@ -81,6 +85,3 @@ How could we make amends
 So it's one more round for experience
 And I'm on the road again
 And it's going to take some time this time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Helt Ny Varld (En) (A Whole New World) - Disney Favourites
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:6kvnSiMBa65Nz29g2TYmyW
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-be-in-my-heart-phil-collins
 lyrics_url: https://genius.com/Phil-collins-youll-be-in-my-heart-lyrics
 name: You'll Be In My Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
+release_year: 1999
+runtime: 258399
 ---
 Come stop your crying
 It will be alright

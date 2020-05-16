@@ -1,8 +1,11 @@
 ---
+album: Live From Batley Variety Club
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:3WsIpGX9dv7nj5E4Dm5Y3J
 features: []
-genres: []
+first_released_as_single: false
 key: mean-woman-blues-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/meanwomanblues.html
 name: Mean Woman Blues
@@ -59,8 +62,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 148560
 ---
-
 Hm, well I got a woman mean as she can be
 Well I got a woman mean as she can be
 Some-a-times I think she's almost mean as me
@@ -90,6 +94,3 @@ Yeah I got a woman (sha la la la)
 Yeah I got a woman (sha la la la)
 Well I got a woman (sha la la la)
 Some-a-times I think she's almost mean as me
-
-
-

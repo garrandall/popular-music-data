@@ -1,9 +1,12 @@
 ---
+album: Jungle Rules
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:0jy1pezjONZf68MaI0Yp2Z
 features:
 - Swae Lee
-genres: []
+first_released_as_single: false
 key: unforgettable-french-montana-swae-lee
 lyrics_url: https://www.azlyrics.com/lyrics/frenchmontana/unforgettable.html
 name: Unforgettable
@@ -176,9 +179,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 233832
 ---
-
-
 It's not good enough for me, since I been with you
 It's not gonna work for you, nobody can equal me (I know)
 I'm gonna sip on this drink, when I'm fucked up
@@ -274,6 +277,3 @@ Oh, like we in a hurry
 No, no, I won't tell nobody
 You're on your level too
 Tryna do what lovers do
-
-
-

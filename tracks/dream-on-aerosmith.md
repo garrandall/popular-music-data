@@ -1,8 +1,11 @@
 ---
+album: Aerosmith
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:5MxNLUsfh7uzROypsoO5qe
 features: []
-genres: []
+first_released_as_single: false
 key: dream-on-aerosmith
 lyrics_url: https://genius.com/Aerosmith-dream-on-lyrics
 name: Dream On
@@ -123,6 +126,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1973
+runtime: 266960
 ---
 Every time​ that I look in the mirror
 All these lines on my face getting clearer

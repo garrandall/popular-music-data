@@ -1,8 +1,11 @@
 ---
+album: Laps Around The Sun
 artists:
 - Chris Lane
+external_ids:
+  spotify: spotify:track:3yOs8FffuG6hPbzQG9lIqV
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-about-you-chris-lane
 lyrics_url: https://genius.com/Chris-lane-i-dont-know-about-you-lyrics
 name: I Don't Know About You
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2018
+runtime: 207933
 ---
 I don’t know about you
 But I never come into this bar

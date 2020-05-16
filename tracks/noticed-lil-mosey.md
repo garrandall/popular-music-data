@@ -1,8 +1,11 @@
 ---
+album: Northsbest (Extended)
 artists:
 - Lil Mosey
+external_ids:
+  spotify: spotify:track:5sR0q3i0FAKayqJcBF1gM6
 features: []
-genres: []
+first_released_as_single: false
 key: noticed-lil-mosey
 lyrics_url: https://www.azlyrics.com/lyrics/lilmosey/noticed.html
 name: Noticed
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 164853
 ---
-
 Ughh
 Yeah, yeah
 
@@ -115,6 +119,3 @@ I don't know how to face it, go there
 Got too much going, think I'm fiendin' for that Goyard
 Like I'm up, Maison if you test me I'm gon' go there
 22, up on front, you can't go there
-
-
-

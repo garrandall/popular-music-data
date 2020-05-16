@@ -1,8 +1,11 @@
 ---
+album: The Storm
 artists:
 - The Storm
+external_ids:
+  spotify: spotify:track:7AEaMIHwqNaPMwHqB7brjH
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-lot-to-learn-about-love-the-storm
 lyrics_url: https://genius.com/Storm-ive-got-a-lot-to-learn-about-love-lyrics
 name: I've Got A Lot To Learn About Love
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 265466
 ---
 You, you are the one, you're all I've been thinking about
 And I, I'd give it all away, if only you were here beside me

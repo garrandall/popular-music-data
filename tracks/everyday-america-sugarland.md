@@ -1,8 +1,11 @@
 ---
+album: Enjoy The Ride
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:4mBpC5e5UFUu1cV4hX6j8a
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-america-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/everydayamerica.html
 name: Everyday America
@@ -47,8 +50,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2006
+runtime: 232133
 ---
-
 Grew up on a tightrope, learned to smile
 Even when I was falling down
 Daddy had a hard hand and Mama always had hope
@@ -94,6 +98,3 @@ A little town and a great big life
 A little town and a great big life
 
 A little town and a great big life
-
-
-

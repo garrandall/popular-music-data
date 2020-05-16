@@ -1,9 +1,12 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:4RIl218uURN8ba6Xd6Te4n
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: loyalty-kendrick-lamar-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/loyalty.html
 name: Loyalty
@@ -112,9 +115,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 227360
 ---
-
-
 I said I'm geeked and I'm fired up (fired, fire)
 All I want tonight is just get high up (high, high, high)
 Girl, you look so good, it's to die for (die for)
@@ -224,6 +227,3 @@ It's so hard to be humble
 It's so hard to be
 Lord knows I'm tryin'
 Lord knows I'm dyin', baby
-
-
-

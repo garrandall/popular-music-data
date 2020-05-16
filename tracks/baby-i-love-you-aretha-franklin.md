@@ -1,8 +1,11 @@
 ---
+album: Aretha Arrives
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:5liSqIuo993Rj1ayyqQqAw
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-you-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-baby-i-love-you-lyrics
 name: Baby I Love You
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 164266
 ---
 If you want my lovin'
 If you really do

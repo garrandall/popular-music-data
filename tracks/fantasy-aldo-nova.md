@@ -1,8 +1,11 @@
 ---
+album: Aldo Nova
 artists:
 - Aldo Nova
+external_ids:
+  spotify: spotify:track:5XrZbiH8Tdh4Eq8g6xuDg9
 features: []
-genres: []
+first_released_as_single: false
 key: fantasy-aldo-nova
 lyrics_url: https://www.azlyrics.com/lyrics/aldonova/fantasy.html
 name: Fantasy
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1975
+runtime: 195173
 ---
-
 City nights, summer breeze makes you feel alright
 Neon lights, shining brightly make your brain ignite
 See the girls with the dresses so tight
@@ -104,6 +108,3 @@ Life is just a fantasy, can you live this fantasy life
 Life is just a fantasy, can you live this fantasy life
 I know
 I know
-
-
-

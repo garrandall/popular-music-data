@@ -1,8 +1,11 @@
 ---
+album: Right On
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:29p6x0iUXTs7MI7fpQ0NL5
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-sugar-wilson-pickett
 lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Pickett/Sugar-Sugar
 name: Sugar Sugar
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 178306
 ---
 Sugar, honey honey, you are my candy girl
 Girl, you got me wantin you

@@ -1,8 +1,11 @@
 ---
+album: Inamorata
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:3YgdUfdrTuAm7Romn4m7pN
 features: []
-genres: []
+first_released_as_single: false
 key: days-gone-by-poco
 lyrics_url: https://genius.com/Poco-days-gone-by-lyrics
 name: Days Gone By
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1984
+runtime: 230693
 ---
 (Paul Cotton)
 

@@ -1,8 +1,11 @@
 ---
+album: Mother-In-Law
 artists:
 - Ernie K-Doe
+external_ids:
+  spotify: spotify:track:05M5GJlDSyVHS6zxV5AY3k
 features: []
-genres: []
+first_released_as_single: false
 key: te-ta-te-ta-ta-ernie-k-doe
 lyrics_url: https://genius.com/Ernie-k-doe-te-ta-te-ta-ta-lyrics
 name: Te-Ta-Te-Ta-Ta
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 162106
 ---
 Every time I call your name
 I get such a thrill I can't explain
@@ -47,7 +52,6 @@ Her love for me is wider than the ocean
 More deeper than the sea
 Whoa-oh she make me feel so good
 And she rock and roll for me
-Lyrics courtesy Top40db
 She said
 Ah-ah-ah a-tay-te-tee-ta-ta
 Every time she cha-cha-cha

@@ -1,8 +1,11 @@
 ---
+album: Elton John
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:38zsOOcu31XbbYj9BIPUF1
 features: []
-genres: []
+first_released_as_single: false
 key: your-song-elton-john
 lyrics_url: https://genius.com/Elton-john-your-song-lyrics
 name: Your Song
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 241786
 ---
 It's a little bit funny, this feeling inside
 I'm not one of those who can easily hide

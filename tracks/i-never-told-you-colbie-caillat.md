@@ -1,8 +1,11 @@
 ---
+album: Breakthrough
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:2rJWnAqSuLMls0KOv416Io
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-told-you-colbie-caillat
 lyrics_url: https://genius.com/Colbie-caillat-i-never-told-you-lyrics
 name: I Never Told You
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2009
+runtime: 233200
 ---
 I miss those blue eyes
 How you kiss me at night

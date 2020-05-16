@@ -1,8 +1,11 @@
 ---
+album: Somewhere Somehow
 artists:
 - WE the Kings
+external_ids:
+  spotify: spotify:track:4sOLr3sR4pbDzNdLQUiesp
 features: []
-genres: []
+first_released_as_single: false
 key: just-keep-breathing-we-the-kings
 lyrics_url: https://genius.com/We-the-kings-just-keep-breathing-lyrics
 name: Just Keep Breathing
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2013
+runtime: 245511
 ---
 When heaven seems so far away
 And dreams are just a memory

@@ -1,8 +1,11 @@
 ---
+album: Hums Of The Lovin' Spoonful
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:4R0RBcIoFP0IWlR5KKIKzV
 features: []
-genres: []
+first_released_as_single: false
 key: rain-on-the-roof-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-rain-on-the-roof-lyrics
 name: Rain On The Roof
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1965
+runtime: 131600
 ---
 You and me and rain on the roof
 Caught up in a summer shower

@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3NxAG2ni1lLa8RKL6a0INc
 features: []
-genres: []
+first_released_as_single: false
 key: childs-play-drake
 lyrics_url: https://genius.com/Drake-childs-play-lyrics
 name: Childs Play
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 241400
 ---
 Breaking news, my niggas
 If your girlfriend has went to any

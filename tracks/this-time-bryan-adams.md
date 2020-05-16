@@ -1,8 +1,11 @@
 ---
+album: Cuts Like A Knife
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:27RJqlzy0TXZloJIuEYEbG
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-this-time-lyrics
 name: This Time
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 200560
 ---
 I think about her all the time
 She's my fantasy

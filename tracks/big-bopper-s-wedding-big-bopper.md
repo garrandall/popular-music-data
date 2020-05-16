@@ -1,8 +1,11 @@
 ---
+album: Chantilly Lace
 artists:
 - Big Bopper
+external_ids:
+  spotify: spotify:track:5ZWuiWcMTBohMTTfdD5qys
 features: []
-genres: []
+first_released_as_single: false
 key: big-bopper-s-wedding-big-bopper
 lyrics_url: https://genius.com/The-big-bopper-the-big-boppers-wedding-lyrics
 name: Big Bopper's Wedding
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 132040
 ---
 And the man keeps sayin' 'Do you take this woman
 To be your awful wedded wife?' Heh, heh

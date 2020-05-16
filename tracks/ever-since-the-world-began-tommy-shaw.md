@@ -1,8 +1,11 @@
 ---
+album: Ambition
 artists:
 - Tommy Shaw
+external_ids:
+  spotify: spotify:track:2ZwJYZSzaWc5V5V5V5FUuE
 features: []
-genres: []
+first_released_as_single: false
 key: ever-since-the-world-began-tommy-shaw
 lyrics_url: https://genius.com/Tommy-shaw-ever-since-the-world-began-lyrics
 name: Ever Since The World Began
@@ -43,6 +46,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 248706
 ---
 I'll never know what brought me here
 As if somebody led my hand

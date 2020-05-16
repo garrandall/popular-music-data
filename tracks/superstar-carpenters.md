@@ -1,8 +1,11 @@
 ---
+album: Carpenters
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:1Gv6f7m5ZNDcInxGA8PsLS
 features: []
-genres: []
+first_released_as_single: false
 key: superstar-carpenters
 lyrics_url: https://genius.com/Carpenters-superstar-lyrics
 name: Superstar
@@ -91,6 +94,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 231506
 ---
 Long ago and oh so far away
 I fell in love with you

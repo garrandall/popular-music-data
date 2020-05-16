@@ -1,8 +1,11 @@
 ---
+album: Yours
 artists:
 - Russell Dickerson
+external_ids:
+  spotify: spotify:track:3kgCJPXDlnL5bl1HFesHUi
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-russell-dickerson
 lyrics_url: https://www.azlyrics.com/lyrics/russelldickerson/everylittlething.html
 name: Every Little Thing
@@ -55,8 +58,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2017
+runtime: 190640
 ---
-
 My baby, she's Alabama
 A dixie land delight, kissin' me like molasses
 Slow and sweet, mhm just right
@@ -92,6 +96,3 @@ Cause I love every little, every little, every little thing about her love
 About her love
 Hey hey yeah
 About her love
-
-
-

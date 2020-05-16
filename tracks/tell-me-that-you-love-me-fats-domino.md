@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5qliF3aPblospVoSMI1o1U
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-that-you-love-me-fats-domino
 lyrics_url: https://genius.com/Fats-domino-tell-me-that-you-love-me-lyrics
 name: Tell Me That You Love Me
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 123600
 ---
 When I was only twelve years old
 I fell in love with you, oh heart and soul

@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:6SkGfPa77E4giShVbk9N6R
 features: []
-genres: []
+first_released_as_single: false
 key: soon-as-i-get-home-faith-evans
 lyrics_url: https://www.azlyrics.com/lyrics/faithevans/soonasigethome.html
 name: Soon As I Get Home
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
+release_year: 1995
+runtime: 324280
 ---
-
 Your love is wonderful, yeah
 And I don't want to loose you
 
@@ -135,4 +139,3 @@ Hold you in my arms
 Soon as I get home (soon as , yeah)
 baby I know what I gotta do
 cuz I don't need no one but you (I know what I need)
-

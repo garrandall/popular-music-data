@@ -1,9 +1,12 @@
 ---
+album: DS2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:45hdBpMeqTxfp5M849L3Vy
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: where-ya-at-future-drake
 lyrics_url: https://genius.com/Future-where-ya-at-lyrics
 name: Where Ya At
@@ -108,6 +111,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-01-23'
+release_year: 2015
+runtime: 207590
 ---
 I don't wanna hear all that, I don't wanna hear none of that
 Talkin' commas, how much you need and all that shit

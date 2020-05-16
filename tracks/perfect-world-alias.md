@@ -1,8 +1,11 @@
 ---
+album: Never Say Never
 artists:
 - Alias
+external_ids:
+  spotify: spotify:track:7wbnC3JV0LvBR6We7fXJOb
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-world-alias
 lyrics_url: https://www.azlyrics.com/lyrics/alias/perfectworld.html
 name: Perfect World
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1991
+runtime: 273333
 ---
-
 In a perfect world
 It would never end like this
 There'd be something we could do
@@ -84,6 +88,3 @@ Cause you've got your problems too
 Oh, this ain't no perfect world
 Oh, no, no
 Oh, this ain't no perfect world
-
-
-

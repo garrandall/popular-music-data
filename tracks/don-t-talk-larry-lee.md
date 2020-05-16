@@ -1,8 +1,11 @@
 ---
+album: Marooned
 artists:
 - Larry Lee
+external_ids:
+  spotify: spotify:track:1RJ4vjgb8jz7BkFdnCbLa3
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-talk-larry-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Larry-Lee/Don-t-Talk
 name: Don't Talk
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
+release_year: 1982
+runtime: 199880
 ---
 Sometimes it feels like
 We lack communication

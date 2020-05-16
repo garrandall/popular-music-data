@@ -1,9 +1,12 @@
 ---
+album: The Pure Sound Of The Purifys
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:6b1ZEXdMikajKUfrLzgOwj
 features: []
-genres: []
+first_released_as_single: false
 key: let-love-come-between-us-james-bobby-purify
 lyrics_url: https://genius.com/James-and-bobby-purify-let-love-come-between-us-lyrics
 name: Let Love Come Between Us
@@ -44,6 +47,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 145466
 ---
 Baby I found a way to stop all this fussin', yeah
 It's just not right darling

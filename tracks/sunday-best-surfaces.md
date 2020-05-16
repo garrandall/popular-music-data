@@ -1,8 +1,11 @@
 ---
+album: Where the Light Is
 artists:
 - Surfaces
+external_ids:
+  spotify: spotify:track:1Cv1YLb4q0RzL6pybtaMLo
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-best-surfaces
 lyrics_url: https://www.azlyrics.com/lyrics/surfaces/sundaybest.html
 name: Sunday Best
@@ -15,9 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 158571
 ---
-
-
 Feeling good, like I should
 Went and took a walk around the neighborhood
 Feeling blessed, never stressed
@@ -57,6 +60,3 @@ Feeling good, like I should
 Went and took a walk around the neighborhood
 Feeling blessed, never stressed
 Got that sunshine on my sunday best
-
-
-

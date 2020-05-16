@@ -1,8 +1,11 @@
 ---
+album: Cheers 2 U
 artists:
 - Playa
+external_ids:
+  spotify: spotify:track:3LbKnvAXxKptTqoUYkMmQP
 features: []
-genres: []
+first_released_as_single: false
 key: cheers-2-u-playa
 lyrics_url: https://genius.com/Playa-cheers-2-u-lyrics
 name: Cheers 2 U
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
+release_year: 1998
+runtime: 311426
 ---
 If I had a wish baby I wish he never left you feeling like this
 Cause I can feel your pain

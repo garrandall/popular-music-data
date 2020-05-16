@@ -1,8 +1,11 @@
 ---
+album: Elvis Sings Flaming Star
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4YvSMrVeAntgSWEzfNAJYz
 features: []
-genres: []
+first_released_as_single: false
 key: life-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-pieces-of-my-life-lyrics
 name: Life
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1968
+runtime: 110560
 ---
 A water glass full of whiskey
 And women that I never knew too well

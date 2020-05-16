@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:09gdJbBFAQAdfUFhzZamhv
 features: []
-genres: []
+first_released_as_single: false
 key: --til--i-kissed-you-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-til-i-kissed-you-lyrics
 name: ('til) I Kissed You
@@ -71,6 +74,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1957
+runtime: 146053
 ---
 Never felt like this until I kissed ya
 How did I exist until I kissed ya

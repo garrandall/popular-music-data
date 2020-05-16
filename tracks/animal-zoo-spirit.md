@@ -1,8 +1,11 @@
 ---
+album: Twelve Dreams Of Dr. Sardonicus
 artists:
 - Spirit
+external_ids:
+  spotify: spotify:track:7v9Wj8N4xWA9PyXcMiuxMv
 features: []
-genres: []
+first_released_as_single: false
 key: animal-zoo-spirit
 lyrics_url: https://genius.com/Spirit-animal-zoo-lyrics
 name: Animal Zoo
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 190773
 ---
 Living in the city, I've been abused (he has)
 The jobs I keep, the people I meet

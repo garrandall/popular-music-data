@@ -1,8 +1,11 @@
 ---
+album: Sgt. Pepper's Lonely Hearts Club Band
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3Pqf09cdDlOYDNkrbw5l0p
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-fields-forever-the-beatles
 lyrics_url: https://genius.com/The-beatles-strawberry-fields-forever-lyrics
 name: Strawberry Fields Forever
@@ -43,6 +46,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 249920
 ---
 Let me take you down, 'cause I'm going to
 Strawberry Fields

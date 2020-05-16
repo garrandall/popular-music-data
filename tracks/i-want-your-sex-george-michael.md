@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:6QnFHieoch6U9J8zfv6hml
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-your-sex-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/iwantyoursexparti.html
 name: I Want Your Sex
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 557293
 ---
-
 There's things that you guess
 And things that you know
 There's boys you can trust
@@ -180,6 +184,3 @@ Sex with me
 Have sex with me
 
 C-c-c-c-come on.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's (All Original Artists & Versions)
 artists:
 - Kyu Sakamoto
+external_ids:
+  spotify: spotify:track:6meIeOX3DHdaCnaNw67abE
 features: []
-genres: []
+first_released_as_single: false
 key: sukiyaki-kyu-sakamoto
 lyrics_url: https://www.azlyrics.com/lyrics/kyusakamoto/sukiyakiuewomuitearukou.html
 name: Sukiyaki
@@ -63,21 +66,20 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 189520
 ---
-
-
-
-Ue o muite arukÅ
+Ue o muite arukō
 Namida ga koborenai youni
 Omoidasu haruno hi
 Hitoribocchi no yoru
-Ue o muite arukÅ
+Ue o muite arukō
 Nijinda hoshi o kazoete
 Omoidasu natsuno hi
 Hitoribocchi no yoru
 Shiawase wa kumo no ueni
 Shiawase wa sora no ueni
-Ue o muite arukÅ
+Ue o muite arukō
 Namida ga koborenai youni
 Nakinagara aruku
 Hitoribocchi no yoru
@@ -85,63 +87,8 @@ Omoidasu akino hi
 Hitoribocchi no yoru
 Kanashimi wa hoshino kageni
 Kanashimi wa tsukino kageni
-Ue o muite arukÅ
+Ue o muite arukō
 Namida ga koborenai youni
 Nakinagara aruku
 Hitoribocchi no yoru
 Hitoribocchi no yoru
-
-
-
-ä¸ãåãã¦æ­©ãã
-æ¶ãé¶ããªãããã«
-æãåºãæ¥ã®æ¥
-ä¸äººã¼ã£ã¡ã®å¤
-ä¸ãåãã¦æ­©ãã
-æ»²ãã æããæ°ãã¦
-æãåºãå¤ã®æ¥
-ä¸äººã¼ã£ã¡ã®å¤
-å¹¸ãã¯é²ã®ä¸ã«
-å¹¸ãã¯ç©ºã®ä¸ã«
-ä¸ãåãã¦æ­©ãã
-æ¶ãé¶ããªãããã«
-æ³£ããªããæ­©ã
-ä¸äººã¼ã£ã¡ã®å¤
-æãåºãç§ã®æ¥
-ä¸äººã¼ã£ã¡ã®å¤
-æ²ãã¿ã¯æã®å½±ã«
-æ²ãã¿ã¯æã®å½±ã«
-ä¸ãåãã¦æ­©ãã
-æ¶ãé¶ããªãããã«
-æ³£ããªããæ­©ã
-ä¸äººã¼ã£ã¡ã®å¤
-ä¸äººã¼ã£ã¡ã®å¤
-
-
-
-I look up while I walk
-So the tears won't fall
-Remembering those spring days
-But tonight I'm all alone
-I look up while I walk
-Counting the stars with teary eyes
-Remembering those summer days
-But tonight I'm all alone
-Happiness lies beyond the clouds
-Happiness lies above the sky
-I look up while I walk
-So the tears won't fall
-I cry while I walk
-For I am alone tonight
-Remembering those autumn days
-But tonight I'm all alone
-Sadness hides in the shadow of the stars
-Sadness hides in the shadow of the moon
-I look up while I walk
-So the tears won't fall
-My heart is filled with sorrow
-For tonight I am alone
-For tonight I am alone
-
-
-

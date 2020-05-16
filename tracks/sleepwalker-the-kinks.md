@@ -1,8 +1,11 @@
 ---
+album: Sleepwalker
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:4rD6ZUmIKanxgxuFumAHP1
 features: []
-genres: []
+first_released_as_single: false
 key: sleepwalker-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/sleepwalker.html
 name: Sleepwalker
@@ -35,8 +38,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 243173
 ---
-
 Ev'rybody got problems, buddy. I got mine.
 When midnight comes around, I start to lose my mind.
 When the sun puts out the light,
@@ -77,4 +81,3 @@ I'm a sleepwalker.
 I'm a night stalker.
 I'm a street walker.
 I'm a night hawker.
-

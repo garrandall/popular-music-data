@@ -1,8 +1,11 @@
 ---
+album: American Country - TG Sheppard
 artists:
 - T.G. Sheppard
+external_ids:
+  spotify: spotify:track:65dybTewoR9l85BC6F6OQv
 features: []
-genres: []
+first_released_as_single: false
 key: devil-in-the-bottle-t-g--sheppard
 lyrics_url: https://genius.com/Tg-sheppard-devil-in-the-bottle-lyrics
 name: Devil In The Bottle
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1975
+runtime: 168478
 ---
 I come home late at night with my shoes in my hands
 Stumble in the back door being quite as I can

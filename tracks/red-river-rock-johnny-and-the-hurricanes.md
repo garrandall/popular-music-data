@@ -1,8 +1,11 @@
 ---
+album: Red River Rock
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:643QHUvRNchbEDfcDvMILB
 features: []
-genres: []
+first_released_as_single: false
 key: red-river-rock-johnny-and-the-hurricanes
 lyrics_url: https://genius.com/Johnny-and-the-hurricanes-red-river-rock-lyrics
 name: Red River Rock
@@ -75,6 +78,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
+release_year: 1959
+runtime: 138240
 ---
 Paddy O'Brian left Ireland in glee;
 He had a strong notion old England to see;

@@ -1,8 +1,11 @@
 ---
+album: Live Hits
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:7t9eQkGAbetgA5djLT6c5a
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-gone-tavares
 lyrics_url: https://genius.com/Tavares-shes-gone-lyrics
 name: She's Gone
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 133800
 ---
 Everybody's high on consolation
 Everybody's trying to tell me what is right for me

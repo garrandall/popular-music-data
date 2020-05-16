@@ -1,8 +1,11 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:577YBGuskWkVDCxZrLRB4v
 features: []
-genres: []
+first_released_as_single: false
 key: pure-cocaine-lil-baby
 lyrics_url: https://genius.com/Lil-baby-pure-cocaine-lyrics
 name: Pure Cocaine
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 154023
 ---
 When your wrist like this, you don't check the forecast
 Every day it's gon' rain, yeah

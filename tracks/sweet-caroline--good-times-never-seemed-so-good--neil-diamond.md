@@ -1,8 +1,11 @@
 ---
+album: Sweet Caroline
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:62AuGbAkt8Ox2IrFFb8GKV
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-caroline--good-times-never-seemed-so-good--neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/sweetcaroline.html
 name: Sweet Caroline (Good Times Never Seemed So Good)
@@ -63,8 +66,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 203573
 ---
-
 Where it began
 I can't begin to knowin'
 But then I know it's growin' strong
@@ -106,6 +110,3 @@ I believed they never could
 
 Sweet Caroline
 Good times never seemed so good...
-
-
-

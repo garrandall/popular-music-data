@@ -1,8 +1,11 @@
 ---
+album: Cloud Nine
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:02XOPbUatRnQeDzv9HmOdy
 features: []
-genres: []
+first_released_as_single: false
 key: hey-girl--i-like-your-style--the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/heygirlilikeyourstyle.html
 name: Hey Girl (i Like Your Style)
@@ -51,8 +54,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1969
+runtime: 160893
 ---
-
 Hey girl, I want you to know
 I'm going to miss you so much if you go.
 And hey girl, I'll tell you no lie
@@ -80,6 +84,3 @@ Hey girl, little girl, don't go away.
 I'm beggin' you to stay.
 Little girl, don't go away.
 Hey girl, little girl, don't go away.
-
-
-

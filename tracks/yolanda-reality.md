@@ -1,8 +1,11 @@
 ---
+album: Yolanda
 artists:
 - Reality
+external_ids:
+  spotify: spotify:track:6auKJC7E0UN96e3kQuEaT1
 features: []
-genres: []
+first_released_as_single: true
 key: yolanda-reality
 lyrics_url: https://www.musixmatch.com/lyrics/Reality-3/Yolanda
 name: Yolanda
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-01-01'
+release_year: 1993
+runtime: 307049
 ---
 Excuse me sweet thing may I ask your name,
 She said Yolanda and may I ask the same.

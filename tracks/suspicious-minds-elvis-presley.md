@@ -1,8 +1,11 @@
 ---
+album: From Elvis in Memphis
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1H5IfYyIIAlgDX8zguUzns
 features: []
-genres: []
+first_released_as_single: false
 key: suspicious-minds-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-suspicious-minds-lyrics
 name: Suspicious Minds
@@ -67,6 +70,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 261279
 ---
 We're caught in a trap
 I can't walk out

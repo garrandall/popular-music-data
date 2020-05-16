@@ -1,8 +1,11 @@
 ---
+album: Stars And Stripes
 artists:
 - Aaron Tippin
+external_ids:
+  spotify: spotify:track:1tTZM7LUDkxcykOVVIGW4W
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-stars-and-stripes-and-the-eagle-fly-aaron-tippin
 lyrics_url: https://genius.com/Aaron-tippin-where-the-stars-and-stripes-and-the-eagle-fly-lyrics
 name: Where The Stars And Stripes And The Eagle Fly
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
+release_year: 2001
+runtime: 228200
 ---
 Well, if you ask me where I come from
 Here's what I tell everyone

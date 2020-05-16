@@ -1,8 +1,11 @@
 ---
+album: Rockin'! with the Knickerbockers
 artists:
 - The Knickerbockers
+external_ids:
+  spotify: spotify:track:6ybSSVTO6vMVJUk2bM68Y7
 features: []
-genres: []
+first_released_as_single: false
 key: lies-the-knickerbockers
 lyrics_url: https://genius.com/The-knickerbockers-lies-lyrics
 name: Lies
@@ -59,6 +62,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1965
+runtime: 165360
 ---
 Lies, lies
 Your telling me that you'll be true

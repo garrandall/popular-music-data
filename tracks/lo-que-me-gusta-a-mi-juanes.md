@@ -1,8 +1,11 @@
 ---
+album: Mi Sangre
 artists:
 - Juanes
+external_ids:
+  spotify: spotify:track:722QPOI0pGJJ0Y0P6ETzgE
 features: []
-genres: []
+first_released_as_single: false
 key: lo-que-me-gusta-a-mi-juanes
 lyrics_url: https://genius.com/Juanes-lo-que-me-gusta-a-mi-lyrics
 name: Lo Que Me Gusta A Mi
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2004
+runtime: 210626
 ---
 Cuando yo estoy pensando en ti
 Amor es lo que más fuerte sale de mí

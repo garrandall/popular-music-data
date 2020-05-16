@@ -1,8 +1,11 @@
 ---
+album: Endless Sleep
 artists:
 - Jody Reynolds
+external_ids:
+  spotify: spotify:track:0DCfyBnjzdxibFFC07EYf8
 features: []
-genres: []
+first_released_as_single: false
 key: fire-of-love-jody-reynolds
 lyrics_url: https://www.musixmatch.com/lyrics/Jody-Reynolds/Fire-of-Love
 name: Fire Of Love
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 115133
 ---
 The fire of love
 Is burning deep

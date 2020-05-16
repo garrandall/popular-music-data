@@ -1,8 +1,11 @@
 ---
+album: Jennifer Warnes
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:2XKMIB0VzXF22pJpBKV6xn
 features: []
-genres: []
+first_released_as_single: false
 key: right-time-of-the-night-jennifer-warnes
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferwarnes/righttimeofthenight.html
 name: Right Time Of The Night
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-06-25'
+release_year: 1976
+runtime: 173653
 ---
-
 Sun goes down on a silky day
 Quarter moon walking through the Milky Way
 Oh, you and me, baby
@@ -136,6 +140,3 @@ It's the right time of the night
 The stars are winking above
 It's the right time of the night
 For making love
-
-
-

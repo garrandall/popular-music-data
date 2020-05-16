@@ -1,8 +1,11 @@
 ---
+album: Let's Get The Mood Right
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:6Rm7xbB9i6h144squqLeBy
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-the-mood-right-johnny-gill
 lyrics_url: https://www.azlyrics.com/lyrics/johnnygill/letsgetthemoodright.html
 name: Let's Get The Mood Right
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 315240
 ---
-
 You look sweet as ever
 Just how I picture you
 Swear that you're looking better
@@ -133,6 +137,3 @@ Baby let's cruise (Baby let's cruise)
 Let's just get in the mood Baby let's cruise
 (Baby let's cruise)
 Let's just get in the mood (Baby let's cruise)
-
-
-

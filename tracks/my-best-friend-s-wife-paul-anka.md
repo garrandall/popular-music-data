@@ -1,8 +1,11 @@
 ---
+album: The Best Of The United Artists Years 1973-1977
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4mvDJWv8eZxPOojElYAzwQ
 features: []
-genres: []
+first_released_as_single: false
 key: my-best-friend-s-wife-paul-anka
 lyrics_url: https://genius.com/Paul-anka-my-best-friends-wife-lyrics
 name: My Best Friend's Wife
@@ -15,6 +18,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
+release_year: 1977
+runtime: 173600
 ---
 I took to her, she took to me
 And now we're meeting secretly

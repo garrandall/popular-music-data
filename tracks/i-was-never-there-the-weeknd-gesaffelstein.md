@@ -1,9 +1,12 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:1cKHdTo9u0ZymJdPGSh6nq
 features:
 - Gesaffelstein
-genres: []
+first_released_as_single: false
 key: i-was-never-there-the-weeknd-gesaffelstein
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/iwasneverthere.html
 name: I Was Never There
@@ -12,8 +15,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2018
+runtime: 241066
 ---
-
 What makes a grown man wanna cry? (Cry, cry, cry, cry)
 What makes him wanna take his life? (Yeah)
 His happiness is never real (real, real, real, real)
@@ -71,6 +75,3 @@ It won't matter, baby
 Don't you know?
 Don't you know?
 Oh, no
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Patty Smyth's Greatest Hits Featuring Scandal
 artists:
 - Scandal
+external_ids:
+  spotify: spotify:track:3VoBZSg9JsSyEv6e8vUViA
 features:
 - Patty Smyth
-genres: []
+first_released_as_single: false
 key: goodbye-to-you-scandal-patty-smyth
 lyrics_url: https://www.musixmatch.com/lyrics/Scandal-feat-Patty-Smyth/Goodbye-to-You
 name: Goodbye To You
@@ -52,6 +55,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 226426
 ---
 Those times I waited for you seem so long ago
 I wanted you far too much to ever let you go

@@ -1,8 +1,11 @@
 ---
+album: If You See Him
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:6lDTcYoyLrwUoBhDMTt6W1
 features: []
-genres: []
+first_released_as_single: false
 key: one-honest-heart-reba
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/onehonestheart.html
 name: One Honest Heart
@@ -47,8 +50,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
+release_year: 1998
+runtime: 234200
 ---
-
 Times are tough on an honest heart.
 People don't follow through with what they start.
 Lyin' eyes looking at me up and down.
@@ -106,6 +110,3 @@ It shouldn't be so hard.
 Finding one honest heart.
 
 One good man, one honest heart.
-
-
-

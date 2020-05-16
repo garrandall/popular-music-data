@@ -1,8 +1,11 @@
 ---
+album: Trigga Reloaded
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5fUOCACj0QmqZsBjN9YCQH
 features: []
-genres: []
+first_released_as_single: true
 key: about-you-trey-songz
 lyrics_url: https://genius.com/Trey-songz-about-you-lyrics
 name: About You
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 196899
 ---
 Ay, this for you, baby, you know who I'm talkin' to
 

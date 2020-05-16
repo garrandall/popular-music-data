@@ -1,8 +1,11 @@
 ---
+album: Transmissions From The Satellite Heart
 artists:
 - The Flaming Lips
+external_ids:
+  spotify: spotify:track:1ey26aU5GKo86w0lScHppw
 features: []
-genres: []
+first_released_as_single: true
 key: she-don-t-use-jelly-the-flaming-lips
 lyrics_url: https://www.musixmatch.com/lyrics/The-Flaming-Lips/She-Don-t-Use-Jelly
 name: She Don't Use Jelly
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
+release_year: 1993
+runtime: 222278
 ---
 I know a girl who thinks of ghosts,
 She'll make you breakfast, she'll make you toast.

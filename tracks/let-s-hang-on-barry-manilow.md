@@ -1,8 +1,11 @@
 ---
+album: If I Should Love Again
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:2qWh3R1Tdjik5rCdUSVFek
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-hang-on-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/letshangon.html
 name: Let's Hang On
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1973
+runtime: 190626
 ---
-
 There ain't no good in our goodbyein'
 True love takes a lot of tryin'
 Ohh, I'm cryin'
@@ -104,8 +108,3 @@ Baby
 Baby
 (don't you go)
 Think it over and stay
-
-
-
-
-

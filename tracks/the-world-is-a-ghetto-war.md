@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - War
+external_ids:
+  spotify: spotify:track:3NFgPzgsdoWmgUQneNnwu5
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-is-a-ghetto-war
 lyrics_url: https://genius.com/War-the-world-is-a-ghetto-lyrics
 name: The World Is A Ghetto
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 244360
 ---
 Walkin' down the street, smoggy-eyed
 Looking at the sky, starry-eyed

@@ -1,8 +1,11 @@
 ---
+album: Lou Christie
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:5NqB5TzcSdRl21iOUM0L59
 features: []
-genres: []
+first_released_as_single: false
 key: the-gypsy-cried-lou-christie
 lyrics_url: https://genius.com/Lou-christie-the-gypsy-cried-lyrics
 name: The Gypsy Cried
@@ -59,6 +62,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
+release_year: 1963
+runtime: 130199
 ---
 I had some trouble with my baby
 So I had my fortune read

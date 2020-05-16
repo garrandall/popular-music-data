@@ -1,9 +1,12 @@
 ---
+album: Hot Shot
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:3WkibOpDF7cQ5xntM1epyf
 features:
 - Ricardo "RikRok" Ducent
-genres: []
+first_released_as_single: false
 key: it-wasn-t-me-shaggy-ricardo--rikrok--ducent
 lyrics_url: https://genius.com/Shaggy-it-wasnt-me-remix-lyrics
 name: It Wasn't Me
@@ -108,6 +111,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
+release_year: 2000
+runtime: 227600
 ---
 Shaggy, Cartel remix
 Nucci Rayo

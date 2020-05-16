@@ -1,8 +1,11 @@
 ---
+album: My Promise
 artists:
 - No Mercy
+external_ids:
+  spotify: spotify:track:4z1IYRhVpbLCBaqZXYIl66
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-die-no-mercy
 lyrics_url: https://genius.com/No-mercy-when-i-die-lyrics
 name: When I Die
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1997-10-18'
+release_year: 1996
+runtime: 269306
 ---
 Forever and always
 When I die I keep on living for you

@@ -1,8 +1,11 @@
 ---
+album: Together Forever
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:5VTH3ZneIpi8CQkShLoR89
 features: []
-genres: []
+first_released_as_single: false
 key: dream-lover-the-marshall-tucker-band
 lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/dreamlover.html
 name: Dream Lover
@@ -23,8 +26,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1978
+runtime: 278226
 ---
-
 Was a time when friends of mine said
 Love was just a game
 Find a girl and give her a whirl, then
@@ -56,4 +60,3 @@ But I found a girl with loving
 One to share my hopes and dreams
 A friend to stand beside me
 And the lover of my dreams
-

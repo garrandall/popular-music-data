@@ -1,8 +1,11 @@
 ---
+album: Magic Man
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:3jUQr5Yp19Coma3FQPpTd3
 features: []
-genres: []
+first_released_as_single: false
 key: magic-man-herb-alpert
 name: Magic Man
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 334880
 ---
 

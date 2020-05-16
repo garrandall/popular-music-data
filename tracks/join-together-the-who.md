@@ -1,8 +1,11 @@
 ---
+album: The Kids Are Alright
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:3u2n3FOYt69dwpMX0wkrq6
 features: []
-genres: []
+first_released_as_single: false
 key: join-together-the-who
 lyrics_url: https://genius.com/The-who-join-together-lyrics
 name: Join Together
@@ -47,6 +50,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 591180
 ---
 {intro}
 

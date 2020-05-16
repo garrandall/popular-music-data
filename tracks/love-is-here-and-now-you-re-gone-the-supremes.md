@@ -1,8 +1,11 @@
 ---
+album: The Supremes Sing Holland, Dozier, Holland
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:4KUGhh0lsJ8GxQJ1Um8UrB
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-here-and-now-you-re-gone-the-supremes
 lyrics_url: https://genius.com/The-supremes-love-is-here-and-now-youre-gone-lyrics
 name: Love Is Here And Now You're Gone
@@ -51,6 +54,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 167906
 ---
 Love is here
 And oh, my darling, now you're gone

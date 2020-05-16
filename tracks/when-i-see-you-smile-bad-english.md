@@ -1,8 +1,11 @@
 ---
+album: Bad English
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:0tKjVEJlX3IZ5L1rEJc5hh
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-see-you-smile-bad-english
 lyrics_url: https://genius.com/Bad-english-when-i-see-you-smile-lyrics
 name: When I See You Smile
@@ -95,6 +98,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1989
+runtime: 257440
 ---
 Sometimes I wonder
 How I'd ever make it through

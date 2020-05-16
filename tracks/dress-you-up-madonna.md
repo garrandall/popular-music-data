@@ -1,8 +1,11 @@
 ---
+album: Like a Virgin (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1Fhx9C87IjEAtWI9FF0IzF
 features: []
-genres: []
+first_released_as_single: false
 key: dress-you-up-madonna
 lyrics_url: https://genius.com/Madonna-dress-you-up-lyrics
 name: Dress You Up
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1984
+runtime: 379293
 ---
 You've got style, that's what all the girls say
 Satin sheets and luxuries so fine

@@ -1,8 +1,11 @@
 ---
+album: American Teen
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:7veYmTIhhDuVIpCW6UeoxJ
 features: []
-genres: []
+first_released_as_single: true
 key: location-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/location.html
 name: Location
@@ -179,8 +182,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
+release_year: 2017
+runtime: 245045
 ---
-
 Send me your location
 Let's focus on communicating
 'Cause I just need the time and place to come through
@@ -241,6 +245,3 @@ I don't need nothing else but you
 Nothing else but you
 
 I don't need nothing else but you
-
-
-

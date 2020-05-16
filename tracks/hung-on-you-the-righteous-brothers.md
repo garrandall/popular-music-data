@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:4HHI8Bjcxt6gsRpgAp9B7w
 features: []
-genres: []
+first_released_as_single: false
 key: hung-on-you-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-hung-on-you-lyrics
 name: Hung On You
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 204173
 ---
 Girl you got me to fall in love with you
 Though I'm not free to fall in love with you

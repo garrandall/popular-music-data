@@ -1,8 +1,11 @@
 ---
+album: Playing for Keeps
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:6apMW82KhmI6q6MCGLGDvE
 features: []
-genres: []
+first_released_as_single: false
 key: running-back-eddie-money
 lyrics_url: https://genius.com/Eddie-money-running-back-lyrics
 name: Running Back
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1977
+runtime: 239800
 ---
 Baby, can you hear me?
 Girl, you rock my soul

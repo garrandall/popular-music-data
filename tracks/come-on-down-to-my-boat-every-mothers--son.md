@@ -1,8 +1,11 @@
 ---
+album: 60's Gold
 artists:
 - Every Mothers' Son
+external_ids:
+  spotify: spotify:track:3unFRYDotoc1a2vR08T4yN
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-down-to-my-boat-every-mothers--son
 lyrics_url: https://genius.com/Every-mothers-son-come-on-down-to-my-boat-lyrics
 name: Come On Down To My Boat
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 155200
 ---
 She sits on the dock a fishin' in the water, uh huh
 I don't know her name she's the fisherman's daughter, uh huh

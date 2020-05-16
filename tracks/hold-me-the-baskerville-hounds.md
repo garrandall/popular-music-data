@@ -1,8 +1,11 @@
 ---
+album: Here I Come Miami / Hold Me
 artists:
 - The Baskerville Hounds
+external_ids:
+  spotify: spotify:track:6IpwJjawIPRENAGyEuKUo7
 features: []
-genres: []
+first_released_as_single: true
 key: hold-me-the-baskerville-hounds
 name: Hold Me
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 195790
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Queen Alone
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:4aoFEmO44KyV0zKgmP3jA8
 features: []
-genres: []
+first_released_as_single: false
 key: something-good--is-going-to-happen-to-you--carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-something-good-is-going-to-happen-to-you-lyrics
 name: Something Good (Is Going To Happen To You)
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1967
+runtime: 158040
 ---
 Yes, it is, honey
 Something good's gonna happen to you

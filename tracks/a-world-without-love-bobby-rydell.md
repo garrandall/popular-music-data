@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:2t8n9fRJQHW7yaUOOw1g17
 features: []
-genres: []
+first_released_as_single: false
 key: a-world-without-love-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-a-world-without-love-lyrics
 name: A World Without Love
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 167506
 ---
 I don't care what they say
 I won't stay in a world without love

@@ -1,8 +1,11 @@
 ---
+album: '14:59'
 artists:
 - Sugar Ray
+external_ids:
+  spotify: spotify:track:6zeDYmP3ARpURvpK29Q09P
 features: []
-genres: []
+first_released_as_single: false
 key: someday-sugar-ray
 lyrics_url: https://www.azlyrics.com/lyrics/sugarray/someday.html
 name: Someday
@@ -135,8 +138,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1998
+runtime: 242800
 ---
-
 Someday
 When my life has passed me by
 I'll lay around and wonder why you were always there for me
@@ -174,6 +178,3 @@ And'll fade away
 And'll fade away
 (someday)
 And'll fade away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Years May Come, Years May Go
 artists:
 - The Irish Rovers
+external_ids:
+  spotify: spotify:track:6Z1KbiCLcAu49B9cY1FSfg
 features: []
-genres: []
+first_released_as_single: false
 key: -the-puppet-song--whiskey-on-a-sunday-the-irish-rovers
 lyrics_url: https://genius.com/The-irish-rovers-whiskey-on-a-sunday-lyrics
 name: (The Puppet Song) Whiskey On A Sunday
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 163706
 ---
 Come day go day, I wish in my heart it was Sunday
 Drinkin' buttermilk through the week and whiskey on a Sunday

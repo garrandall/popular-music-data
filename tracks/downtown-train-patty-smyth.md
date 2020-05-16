@@ -1,8 +1,11 @@
 ---
+album: Patty Smyth's Greatest Hits Featuring Scandal
 artists:
 - Patty Smyth
+external_ids:
+  spotify: spotify:track:4196mIkIdm4tVv9qxg0xe9
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-train-patty-smyth
 lyrics_url: https://www.azlyrics.com/lyrics/pattysmyth/downtowntrain.html
 name: Downtown Train
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1982
+runtime: 241906
 ---
-
 Outside another yellow moon
 Punched a hole in the nighttime, yeah
 I climb through the window and down to the street
@@ -76,6 +80,3 @@ On a downtown train
 All my dreams just fall like rain
 All upon a downtown train
 Oh-ohoohhohh-wo-ohoh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: War And Peace
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:4ZEEcEMGjkWOfZNBcIB9yE
 features: []
-genres: []
+first_released_as_single: false
 key: war-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/war.html
 name: War
@@ -67,8 +70,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 200266
 ---
-
 War, huh, yeah
 What is it good for?
 Absolutely nothing, uh-huh, uh-huh
@@ -141,6 +145,3 @@ You tell me, (nothing) say it, say it, say it, say it
 War, huh, good god, yeah, huh
 What is it good for?
 Stand up and shout it (nothing)
-
-
-

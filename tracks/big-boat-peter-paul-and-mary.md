@@ -1,8 +1,11 @@
 ---
+album: Moving
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:1PF4SFguF1v9REtBTcP9iO
 features: []
-genres: []
+first_released_as_single: false
 key: big-boat-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/bigboat.html
 name: Big Boat
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 163200
 ---
-
 I went up the levee to pack some sacks
 And I thought I'd bring me some money back.
 Big boat up the river and she can't come down.
@@ -63,6 +67,3 @@ Somebody tell that woman
 Somebody tell that woman
 Somebody tell that woman
 There's a big boat up the river and she can't come down
-
-
-

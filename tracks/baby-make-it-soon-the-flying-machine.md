@@ -1,8 +1,11 @@
 ---
+album: The Flying Machine
 artists:
 - The Flying Machine
+external_ids:
+  spotify: spotify:track:7qbqZKFVQUzYXqjfThNidJ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-make-it-soon-the-flying-machine
 lyrics_url: https://genius.com/The-flying-machine-baby-make-it-soon-lyrics
 name: Baby Make It Soon
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1969
+runtime: 172608
 ---
 If you're comin' home, like yah letters say
 And the place you're staying now, ain't too far away

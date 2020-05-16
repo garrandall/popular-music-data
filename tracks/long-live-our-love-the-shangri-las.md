@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:3W0jlzDFxWp1Yal48yLoso
 features: []
-genres: []
+first_released_as_single: false
 key: long-live-our-love-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/longliveourlove.html
 name: Long Live Our Love
@@ -31,8 +34,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 174800
 ---
-
 When Johnny comes marching home again
 Hurray, hurrah
 
@@ -88,6 +92,3 @@ Long live our love
 Long live our happiness
 Here's a toast to happiness
 Long live our love...
-
-
-

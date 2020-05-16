@@ -1,8 +1,11 @@
 ---
+album: See If I Care
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:3SRuODYNV4j2ckkJ9Samju
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-on-but-the-radio-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/nothingonbuttheradio.html
 name: Nothing On But The Radio
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 2003
+runtime: 212026
 ---
-
 I sure do hope this is a long night,
 Cause I've never felt one so right
 Each look into your eyes I fall in,
@@ -128,6 +132,3 @@ With nothing on but the radio
 
 You and me and the lights down low, 
 With nothing on but the radio
-
-
-

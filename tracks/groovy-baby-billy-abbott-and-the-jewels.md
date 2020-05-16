@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Billy Abbott And The Jewels
+external_ids:
+  spotify: spotify:track:1hxZhZlC2jCuADQW6i32zl
 features: []
-genres: []
+first_released_as_single: false
 key: groovy-baby-billy-abbott-and-the-jewels
 name: Groovy Baby
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 135066
 ---
 

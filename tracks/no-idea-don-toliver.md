@@ -1,8 +1,11 @@
 ---
+album: Heaven Or Hell
 artists:
 - Don Toliver
+external_ids:
+  spotify: spotify:track:3PEwQ1uaMwg0ehoTeVm7Yq
 features: []
-genres: []
+first_released_as_single: true
 key: no-idea-don-toliver
 lyrics_url: https://www.azlyrics.com/lyrics/dontoliver/noidea.html
 name: No Idea
@@ -51,8 +54,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 195573
 ---
-
 I know, I know, I know that you're drunk (Yeah)
 Tell me what you want after this club (Oh-oh)
 You know I get nasty (Know I get nasty)
@@ -109,6 +113,3 @@ Oh, you got it (Got it)
 You couldn't keep my love, you too exotic (Couldn't keep my love, yeah)
 You want a paper plane, I don't mind it (You want a paper plane, yeah)
 You wonder why your girl always whining (Wonder why your girl, yeah)
-
-
-

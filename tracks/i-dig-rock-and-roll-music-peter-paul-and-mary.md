@@ -1,8 +1,11 @@
 ---
+album: Album 1700
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:6XQZ6hb6ynQafnlSA0JSH4
 features: []
-genres: []
+first_released_as_single: false
 key: i-dig-rock-and-roll-music-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/idigrockandrollmusic.html
 name: I Dig Rock And Roll Music
@@ -51,8 +54,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1967
+runtime: 151706
 ---
-
 I dig rock and roll music
 And I love to get the chance to play (And sing it)
 I figure it's about the happiest sound goin' down today
@@ -78,6 +82,3 @@ I think I could say somethin' if you know what I mean
 But if I really say it
 The radio won't play it
 Unless I lay it between the lines
-
-
-

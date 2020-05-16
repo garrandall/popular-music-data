@@ -1,8 +1,11 @@
 ---
+album: Try Me
 artists:
 - DeJ Loaf
+external_ids:
+  spotify: spotify:track:2CY92qejUrhyPUASawNVRr
 features: []
-genres: []
+first_released_as_single: true
 key: try-me-dej-loaf
 lyrics_url: https://genius.com/Dej-loaf-try-me-lyrics
 name: Try Me
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 217573
 ---
 Let a nigga try me, try me
 I'm a get his whole mothafuckin' family

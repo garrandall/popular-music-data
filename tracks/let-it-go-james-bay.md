@@ -1,8 +1,11 @@
 ---
+album: Chaos And The Calm
 artists:
 - James Bay
+external_ids:
+  spotify: spotify:track:2ggSyGB5HnVvGDGofu3ITZ
 features: []
-genres: []
+first_released_as_single: true
 key: let-it-go-james-bay
 lyrics_url: https://genius.com/James-bay-let-it-go-lyrics
 name: Let It Go
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2014
+runtime: 261160
 ---
 From walking home and talking loads
 To seeing shows in evening clothes with you

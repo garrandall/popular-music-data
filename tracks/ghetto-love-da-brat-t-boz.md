@@ -1,9 +1,12 @@
 ---
+album: ANUTHAFUNKDAFIEDTANTRUM
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:5iJkSPVhITJvlYW3U3BxtS
 features:
 - T-Boz
-genres: []
+first_released_as_single: false
 key: ghetto-love-da-brat-t-boz
 lyrics_url: https://www.azlyrics.com/lyrics/dabrat/ghettolove.html
 name: Ghetto Love
@@ -68,8 +71,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 204000
 ---
-
 I had some problems
 That no one could seem to solve them
 But you had the answer
@@ -133,4 +137,3 @@ Who tell us the opposite of that,
 Forever you and Brat
 I tried to take the blame, but you prefered to handle my fame
 So I'm waitin with open arms to rekindle the flame...
-

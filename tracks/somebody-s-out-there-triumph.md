@@ -1,8 +1,11 @@
 ---
+album: The Sport of Kings
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:0s3xGt46yWMdI1TEs8KnUj
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-out-there-triumph
 lyrics_url: https://www.azlyrics.com/lyrics/triumph/somebodysoutthere.html
 name: Somebody's Out There
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 244573
 ---
-
 Is it fate or random chance
 How can I decide
 Are we victims of circumstance
@@ -124,6 +128,3 @@ Some day (somebody's out there somewhere)
 Some day (somebody's out there somewhere) 
 I will make them mine (somebody's out there somewhere)
 (Somebody's out there somewhere)
-
-
-

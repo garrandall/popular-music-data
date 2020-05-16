@@ -1,8 +1,11 @@
 ---
+album: Music For The Masses
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:6oyt6gI2kMyDsuZBjbsMQ9
 features: []
-genres: []
+first_released_as_single: false
 key: route-66-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/route66.html
 name: Route 66
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 250216
 ---
-
 Well if you ever plan to motor west
 Travel my way
 Take the highway that's the best
@@ -89,6 +93,3 @@ Kingman, Barstow, San Bernardino
 If you get hip to this kind of trip
 And go take that California trip
 Get your kicks on Route 66
-
-
-

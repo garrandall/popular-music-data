@@ -1,8 +1,11 @@
 ---
+album: City High
 artists:
 - City High
+external_ids:
+  spotify: spotify:track:299CkFK2Ex5pVPgfZRu7Po
 features: []
-genres: []
+first_released_as_single: false
 key: what-would-you-do--city-high
 lyrics_url: https://genius.com/City-high-what-would-you-do-lyrics
 name: What Would You Do?
@@ -119,6 +122,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
+release_year: 1999
+runtime: 212200
 ---
 Boys and girls, wanna hear a true story?
 Saturday night I was at this real wild party

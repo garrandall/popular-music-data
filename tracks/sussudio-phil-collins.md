@@ -1,8 +1,11 @@
 ---
+album: No Jacket Required
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4qM461TqtpnP4GLRIXwEnW
 features: []
-genres: []
+first_released_as_single: false
 key: sussudio-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/sussudio.html
 name: Sussudio
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 263106
 ---
-
 There's this girl that's been on my mind
 All the time, Sussudio oh oh
 Now she don't even know my name
@@ -111,6 +115,3 @@ Oh Sussudio I just say the word
 Oh Sussudio I'll say the word
 Sussudio oh oh oh
 Just say the word
-
-
-

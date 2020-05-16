@@ -1,8 +1,11 @@
 ---
+album: 'Ramsey Lewis: Finest Hour'
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:0BH4wsBNL5xfiFsuCTl3Sq
 features: []
-genres: []
+first_released_as_single: false
 key: soul-man-ramsey-lewis
 name: Soul Man
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 169506
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Heart In Motion
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:55lX3vm1G35mUpawXHK5Te
 features: []
-genres: []
+first_released_as_single: false
 key: every-heartbeat-amy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/amygrant/everyheartbeat.html
 name: Every Heartbeat
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 213733
 ---
-
 Hear me speak what's on my mind
 Let me give this testimony
 To reaffirm that you will find
@@ -144,6 +148,3 @@ Every heartbeat bears your name
 Loud and clear they stake my claim
 Ask anyone and they'll tell you it's true
 Every heartbeat belongs to you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Let's Get Together With Hayley Mills
 artists:
 - Hayley Mills
+external_ids:
+  spotify: spotify:track:5TGKESXpi2XExg93Mu7Dbs
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-jingo-hayley-mills
 lyrics_url: https://genius.com/Hayley-mills-johnny-jingo-lyrics
 name: Johnny Jingo
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1962
+runtime: 101680
 ---
 I never loved any boy like I loved Johnny Jingo
 I never kissed any boy like I kissed Johnny Jingo

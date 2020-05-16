@@ -1,8 +1,11 @@
 ---
+album: We Must Believe In Magic
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:7Jpclr7tZ6aQXjoKzWXUJV
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-it-make-my-brown-eyes-blue-crystal-gayle
 lyrics_url: https://genius.com/Crystal-gayle-dont-it-make-my-brown-eyes-blue-lyrics
 name: Don't It Make My Brown Eyes Blue
@@ -111,6 +114,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 157653
 ---
 Don't know when I've been so blue
 Don't know what's come over you

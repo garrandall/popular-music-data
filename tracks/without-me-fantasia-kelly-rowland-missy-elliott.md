@@ -1,10 +1,13 @@
 ---
+album: Side Effects of You
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:63lwbZioX7RZzvQ0sJNd7u
 features:
 - Kelly Rowland
 - Missy Elliott
-genres: []
+first_released_as_single: false
 key: without-me-fantasia-kelly-rowland-missy-elliott
 lyrics_url: https://genius.com/Fantasia-without-me-lyrics
 name: Without Me
@@ -17,6 +20,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2013
+runtime: 270786
 ---
 (Fakin' shit gone kill you, boy I know the real you)
 (Fakin' shit gone kill you, boy I know the real you)

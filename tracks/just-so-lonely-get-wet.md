@@ -1,8 +1,11 @@
 ---
+album: Get Wet
 artists:
 - Get Wet
+external_ids:
+  spotify: spotify:track:1tkd39NvPplGOvdUq0NQgT
 features: []
-genres: []
+first_released_as_single: false
 key: just-so-lonely-get-wet
 lyrics_url: https://genius.com/Get-wet-just-so-lonely-lyrics
 name: Just So Lonely
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 217570
 ---
 JUST SO LONELY
 Get Wet

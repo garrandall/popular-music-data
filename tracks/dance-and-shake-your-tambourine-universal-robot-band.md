@@ -1,8 +1,11 @@
 ---
+album: Dance & Shake Your Tambourine
 artists:
 - Universal Robot Band
+external_ids:
+  spotify: spotify:track:7xY2yPyl8dBJrMifGUbXcn
 features: []
-genres: []
+first_released_as_single: false
 key: dance-and-shake-your-tambourine-universal-robot-band
 lyrics_url: https://www.musixmatch.com/lyrics/Universal-Robot-Band/Dance-and-Shake-Your-Tambourine
 name: Dance And Shake Your Tambourine
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 380440
 ---
 Dance And Shake Your Tambourine
 Dance and shake your tambourine

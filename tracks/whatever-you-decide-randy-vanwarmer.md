@@ -1,8 +1,11 @@
 ---
+album: Terraform
 artists:
 - Randy VanWarmer
+external_ids:
+  spotify: spotify:track:3gxuz5EXI8MdvWOUqSRMe9
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-you-decide-randy-vanwarmer
 lyrics_url: https://genius.com/Randy-vanwarmer-whatever-you-decide-lyrics
 name: Whatever You Decide
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 311973
 ---
 You're so afraid of being wrong
 Your chances will be gone

@@ -1,8 +1,11 @@
 ---
+album: Don't Take Love for Granted
 artists:
 - Lulu
+external_ids:
+  spotify: spotify:track:4zXAKRYT7nRc8Rx3rGQlQH
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-never-miss-you--more-than-i-do--lulu
 lyrics_url: https://www.azlyrics.com/lyrics/lulu/icouldnevermissyoumorethanido.html
 name: I Could Never Miss You (More Than I Do)
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1979
+runtime: 190000
 ---
-
 Finders not keepers, and all that's left is just reminders,
 Love in pieces, the debris and the dust of memories,
 That linger so long, the heartaches that keep hanging on,
@@ -106,6 +110,3 @@ Loving you like this oh I could never miss you more than I do,
 Loving you like this oh I could never miss you more than I do,
 Loving you like this oh I could never miss you more than I do,
 Loving you like this oh I could never miss you more than I do.
-
-
-

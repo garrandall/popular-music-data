@@ -1,8 +1,11 @@
 ---
+album: Carry It On
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:4spU5dh2O8aRQDgIrdpiZi
 features: []
-genres: []
+first_released_as_single: false
 key: we-shall-overcome-joan-baez
 lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/weshallovercome.html
 name: We Shall Overcome
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 284840
 ---
-
 We shall overcome,
 We shall overcome,
 We shall overcome, some day.
@@ -52,6 +56,3 @@ We shall overcome, some day.
 Oh, deep in my heart,
 I do believe
 We shall overcome, some day.
-
-
-

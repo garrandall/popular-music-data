@@ -1,8 +1,11 @@
 ---
+album: Atlantic Crossing
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3Fq5ppF5r5ZvxaNOQNtLW5
 features: []
-genres: []
+first_released_as_single: false
 key: this-old-heart-of-mine-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/thisoldheartofmine.html
 name: This Old Heart Of Mine
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 245293
 ---
-
 This old heart of mine been broke a thousand times.
 Each time you break away, feel you're gone to stay.
 Lonely nights that come, memories that go,
@@ -54,6 +58,3 @@ This old heart weeps for you.
 I love you; this old heart weeps for you.
 I love you; yes I do.
 I love you; this old heart weeps for you.
-
-
-

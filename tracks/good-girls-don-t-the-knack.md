@@ -1,8 +1,11 @@
 ---
+album: Get The Knack
 artists:
 - The Knack
+external_ids:
+  spotify: spotify:track:426i8hiYTwwlImNaluBb9C
 features: []
-genres: []
+first_released_as_single: false
 key: good-girls-don-t-the-knack
 lyrics_url: https://genius.com/The-knack-good-girls-dont-lyrics
 name: Good Girls Don't
@@ -71,6 +74,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 189173
 ---
 She's your adolescent dream
 Schoolboy stuff, a sticky sweet romance

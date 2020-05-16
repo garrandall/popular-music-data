@@ -1,9 +1,12 @@
 ---
+album: The Fire Inside
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:3FMRulxLH3tZMMal3WiNWI
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-love-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/The-Real-Love
 name: The Real Love
@@ -52,6 +55,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 279866
 ---
 Seger Bob
 The Fire Inside

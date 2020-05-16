@@ -1,8 +1,11 @@
 ---
+album: Southern Accents
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:3BSoskNONnjn05yRO2tYFX
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-come-around-here-no-more-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-dont-come-around-here-no-more-lyrics
 name: Don't Come Around Here No More
@@ -63,6 +66,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1985-06-15'
+release_year: 1985
+runtime: 307333
 ---
 Hey!
 Hey!

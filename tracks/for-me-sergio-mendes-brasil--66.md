@@ -1,9 +1,12 @@
 ---
+album: Equinox
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:3pM9cDCqr189aUklAloJaP
 features: []
-genres: []
+first_released_as_single: false
 key: for-me-sergio-mendes-brasil--66
 lyrics_url: https://www.musixmatch.com/lyrics/Sergio-Mendes-feat-Brasil-66-4/For-Me
 name: For Me
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 201173
 ---
 Hey
 There's a hum in the air

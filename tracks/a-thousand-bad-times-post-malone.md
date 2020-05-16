@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:2J0NXdHr6MYvKDSxB7k3V2
 features: []
-genres: []
+first_released_as_single: false
 key: a-thousand-bad-times-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/athousandbadtimes.html
 name: A Thousand Bad Times
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 221173
 ---
-
 Said you needed a ride, but you wanted my car
 Without that face, girl, you wouldn't get far
 I really like you, despite who you are (Who you are)
@@ -73,6 +77,3 @@ You tried to blow my house down, but what's another house to me? (What's that to
 It's gonna take a lot more to kill me, bitch
 So thank you for the grave, I needed me a place to sleep (Place to sleep)
 We go there, oh
-
-
-

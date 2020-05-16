@@ -1,8 +1,11 @@
 ---
+album: The Best R&B Of 2000 Soulfood The Series
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:7MrICetvrWSGK5KTnQk0W8
 features: []
-genres: []
+first_released_as_single: false
 key: separated-avant
 lyrics_url: https://genius.com/Avant-separated-lyrics
 name: Separated
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
+release_year: 2000
+runtime: 253666
 ---
 Mmm, mmm, mmm, mmm, mmm
 Listen, babe

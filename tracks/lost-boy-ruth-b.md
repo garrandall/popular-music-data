@@ -1,8 +1,11 @@
 ---
+album: Safe Haven
 artists:
 - Ruth B
+external_ids:
+  spotify: spotify:track:4h0zU3O9R5xzuTmNO7dNDU
 features: []
-genres: []
+first_released_as_single: true
 key: lost-boy-ruth-b
 lyrics_url: https://www.azlyrics.com/lyrics/ruthb/lostboy.html
 name: Lost Boy
@@ -95,8 +98,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2015
+runtime: 275280
 ---
-
 There was a time when I was alone
 Nowhere to go and no place to call home
 My only friend was the man in the moon
@@ -170,6 +174,3 @@ Neverland is home to lost boys like me
 And lost boys like me are free
 Neverland is home to lost boys like me
 And lost boys like me are free
-
-
-

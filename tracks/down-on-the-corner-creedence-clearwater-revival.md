@@ -1,8 +1,11 @@
 ---
+album: Willy And The Poor Boys
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:3giGGeUX5qtdOu7xwnu2xA
 features: []
-genres: []
+first_released_as_single: false
 key: down-on-the-corner-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/downonthecorner.html
 name: Down On The Corner
@@ -67,8 +70,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 165199
 ---
-
 Early in the evenin' just about supper time
 Over by the courthouse they're starting to unwind
 Four kids on the corner trying to bring you up
@@ -88,4 +92,3 @@ You don't need a penny just to hang around
 But if you've got a nickel, won't you lay your money down?
 Over on the corner there's a happy noise
 People come from all around to watch the magic boy
-

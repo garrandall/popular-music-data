@@ -1,8 +1,12 @@
 ---
+album: 'The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions
+  1949-1960'
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:2k4k2Qytu2ZnYoqDOagNBV
 features: []
-genres: []
+first_released_as_single: false
 key: i-hear-you-knocking-fats-domino
 lyrics_url: https://genius.com/Fats-domino-i-hear-you-knocking-lyrics
 name: I Hear You Knocking
@@ -15,6 +19,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 112600
 ---
 You went away and left me long time ago
 Now you come back knockin' on my do'

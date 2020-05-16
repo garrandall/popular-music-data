@@ -1,9 +1,12 @@
 ---
+album: Two Places at the Same Time
 artists:
 - Ray Parker Jr.
 - Raydio
+external_ids:
+  spotify: spotify:track:2wbUFsywosJCN4vqZ1qnUG
 features: []
-genres: []
+first_released_as_single: false
 key: two-places-at-the-same-time-ray-parker-jr--raydio
 lyrics_url: https://genius.com/Ray-parker-jr-and-raydio-two-places-at-the-same-time-lyrics
 name: Two Places At The Same Time
@@ -64,6 +67,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 236946
 ---
 Doo, doo, doo
 Doo, doo, doo, doo, doo, doo, doo

@@ -1,8 +1,11 @@
 ---
+album: Music Anthology Part 1 (1979-2009)
 artists:
 - Robey
+external_ids:
+  spotify: spotify:track:0ggLrVfGrllijJ5uW4VkWY
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-in-bangkok-robey
 lyrics_url: https://genius.com/Robey-one-night-in-bangkok-lyrics
 name: One Night In Bangkok
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1985
+runtime: 218853
 ---
 Bangkok, Oriental setting
 And the city don't know

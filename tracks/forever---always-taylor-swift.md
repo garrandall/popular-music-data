@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:47HtKpfzpAt8rQjjXWotFj
 features: []
-genres: []
+first_released_as_single: false
 key: forever---always-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-forever-and-always-lyrics
 name: Forever & Always
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2008
+runtime: 225320
 ---
 Once upon a time
 I believe it was a Tuesday when I caught your eye

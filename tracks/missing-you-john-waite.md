@@ -1,8 +1,11 @@
 ---
+album: No Brakes
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:1Qrdlkgg9I4J7r3P4kZNwr
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-john-waite
 lyrics_url: https://genius.com/John-waite-missing-you-lyrics
 name: Missing You
@@ -103,6 +106,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 269760
 ---
 Missing you, missing you
 Missing you, missing you

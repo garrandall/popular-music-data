@@ -1,8 +1,11 @@
 ---
+album: Sings Lonely and Blue
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:4LRhSbyCwaaKTBfeeizCm4
 features: []
-genres: []
+first_released_as_single: false
 key: blue-angel-roy-orbison
 lyrics_url: https://www.musixmatch.com/lyrics/Roy-Orbison/Blue-Angel
 name: Blue Angel
@@ -63,6 +66,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 171360
 ---
 Sha la la, dooby wah
 Dum dum dum, yeh yeh, um

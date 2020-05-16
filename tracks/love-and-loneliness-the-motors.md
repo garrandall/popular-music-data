@@ -1,8 +1,11 @@
 ---
+album: Airport - The Motors Greatest Hits
 artists:
 - The Motors
+external_ids:
+  spotify: spotify:track:07Smk4VcXSDaLXCb89q41M
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-loneliness-the-motors
 lyrics_url: https://www.azlyrics.com/lyrics/motors/loveandloneliness.html
 name: Love And Loneliness
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 290906
 ---
-
 Love and loneliness
 
 You used to think that love was worth the time
@@ -69,6 +73,3 @@ Love and loneliness
 Love and loneliness
 
 Love and loneliness
-
-
-

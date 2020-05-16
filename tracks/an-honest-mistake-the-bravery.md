@@ -1,8 +1,11 @@
 ---
+album: The Bravery
 artists:
 - The Bravery
+external_ids:
+  spotify: spotify:track:7DoMGZLVzga3vhyZlb0hBX
 features: []
-genres: []
+first_released_as_single: false
 key: an-honest-mistake-the-bravery
 lyrics_url: https://www.azlyrics.com/lyrics/bravery/anhonestmistake.html
 name: An Honest Mistake
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2005
+runtime: 219706
 ---
-
 People
 They don't mean a thing to you
 They move right through you
@@ -50,6 +54,3 @@ It was an honest mistake
 Don't look at me that way
 It was an honest mistake
 An honest mistake
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Secret
 artists:
 - Austin Mahone
+external_ids:
+  spotify: spotify:track:52vS7mJ0a70Z4uRCfl8SjH
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-love-austin-mahone
 lyrics_url: https://genius.com/Austin-mahone-what-about-love-lyrics
 name: What About Love
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2013
+runtime: 203344
 ---
 I, I'm feeling your thunder
 The storm's getting closer, this rain is like fire

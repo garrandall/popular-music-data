@@ -1,8 +1,11 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:6DB2KOEwHnjkgEnBt5SdeJ
 features: []
-genres: []
+first_released_as_single: true
 key: mask-off-future
 lyrics_url: https://genius.com/Future-mask-off-lyrics
 name: Mask Off
@@ -131,6 +134,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-10-07'
+release_year: 2017
+runtime: 257986
 ---
 Call it how it is (Call it how it is)
 Hendrix

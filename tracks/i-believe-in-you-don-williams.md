@@ -1,8 +1,11 @@
 ---
+album: I Believe In You
 artists:
 - Don Williams
+external_ids:
+  spotify: spotify:track:1PpbrbgsXRXeKw1GnZMEv7
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-you-don-williams
 lyrics_url: https://genius.com/Don-williams-i-believe-in-you-lyrics
 name: I Believe In You
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
+release_year: 1980
+runtime: 246440
 ---
 I don't believe in superstars
 Organic food and foreign cars

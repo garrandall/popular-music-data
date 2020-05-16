@@ -1,8 +1,11 @@
 ---
+album: Next Friday (Original Motion Picture Soundtrack)
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:4h7wUvVV8Ff8UL7JqAByiL
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-aaliyah
 lyrics_url: https://genius.com/Aaliyah-i-dont-wanna-lyrics
 name: I Don't Wanna
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 1999
+runtime: 255093
 ---
 Yeah
 Mmm

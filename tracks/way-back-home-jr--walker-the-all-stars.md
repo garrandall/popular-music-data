@@ -1,9 +1,12 @@
 ---
+album: Moody Jr.
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:3SjWoL6RVmj5mofAfESnjc
 features: []
-genres: []
+first_released_as_single: false
 key: way-back-home-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-way-back-home-lyrics
 name: Way Back Home
@@ -44,6 +47,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1971
+runtime: 247080
 ---
 Oh, there's good and bad things about the south, boy
 Oh, and some leave a bitter taste in my mouth, now
@@ -83,7 +88,6 @@ But when they play it just ain't the same
 Like way back home
 Sad to sing it, ya'all!
 
-
 Yeah
 Way back home, way back home
 (Way back home)
@@ -95,5 +99,3 @@ Now, way back home
 (Way back home)
 (Way back home)
 (Way back home)
-
-~

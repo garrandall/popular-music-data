@@ -1,8 +1,11 @@
 ---
+album: Lupe Fiasco's Food & Liquor
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:6nz35DNIzbtj5ztpDEcW1j
 features: []
-genres: []
+first_released_as_single: false
 key: kick-push-lupe-fiasco
 lyrics_url: https://genius.com/Lupe-fiasco-kick-push-lyrics
 name: Kick Push
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2006
+runtime: 254466
 ---
 Ugh! (Woo!)
 What up, y'all? Yeah

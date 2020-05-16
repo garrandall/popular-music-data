@@ -1,8 +1,11 @@
 ---
+album: Third Album
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:20a2Sdul23BOafd2X37Dlv
 features: []
-genres: []
+first_released_as_single: false
 key: mama-s-pearl-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/mamaspearl.html
 name: Mama's Pearl
@@ -47,8 +50,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1970
+runtime: 187133
 ---
-
 You send cold chills up and down my spine
 We kiss for thrills, then you draw the line oh baby (oh baby)
 Cause your mama told you that love ain't right
@@ -109,6 +113,3 @@ Goody goody goody girl
 Let's fall in love, let's fall in love
 Daddy's girl we've got it made
 Let's fall in love, let's fall in love)
-
-
-

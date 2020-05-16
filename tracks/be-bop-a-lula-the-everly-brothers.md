@@ -1,8 +1,11 @@
 ---
+album: THE EVERLY BROTHERS
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:4qC8OFZQ90pk1Iqz7C0Tk8
 features: []
-genres: []
+first_released_as_single: false
 key: be-bop-a-lula-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/bebopalula.html
 name: Be Bop A-Lula
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 141573
 ---
-
 Well, be bop a-lula, she's my baby
 Be bop a-lula, I don't mean maybe
 Be bop a-lula, she's my baby
@@ -61,6 +65,3 @@ Be bop a-lula, she's my baby
 Be bop a-lula, I don't mean maybe
 Be bop a-lula, she's my baby doll,
 My baby doll, my baby doll
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Reach Out Of The Darkness
 artists:
 - Friend And Lover
+external_ids:
+  spotify: spotify:track:3DrlHWCoFqHQYGwE8MWsuv
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-of-the-darkness-friend-and-lover
 lyrics_url: https://genius.com/Friend-and-lover-reach-out-of-the-darkness-lyrics
 name: Reach Out Of The Darkness
@@ -63,6 +66,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1968
+runtime: 190706
 ---
 I think it's so groovy now
 That people are finally getting together

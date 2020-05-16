@@ -1,8 +1,11 @@
 ---
+album: Inside Out
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:4KY4oOxb2uGtpTPWK0ZR9S
 features: []
-genres: []
+first_released_as_single: false
 key: high-the-cure
 lyrics_url: https://genius.com/The-cure-high-lyrics
 name: High
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
+release_year: 1991
+runtime: 241000
 ---
 When I see you sky as a kite
 As high as I might, I can't get that high

@@ -1,8 +1,11 @@
 ---
+album: From Me to You
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:3riKiBuGDG2u7vIWFhzgbO
 features: []
-genres: []
+first_released_as_single: false
 key: wonder-could-i-live-there-anymore-charley-pride
 lyrics_url: https://www.azlyrics.com/lyrics/charleypride/wondercouldilivethereanymore.html
 name: Wonder Could I Live There Anymore
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 154040
 ---
-
 Have you ever been awaken by the crowing of a rooster
 While the night is still heavy on the ground
 And the voice of Uncle Ben seems to break the morning silence
@@ -40,6 +44,3 @@ It's nice to think about it maybe even visit but I wonder could I live there any
 As I think about my childhood and of my old hometown
 I don't really miss them like before
 It's nice to think about it maybe even visit but I wonder could I live there anymore
-
-
-

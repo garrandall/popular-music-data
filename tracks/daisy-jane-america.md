@@ -1,8 +1,11 @@
 ---
+album: Hearts (US Internet Release)
 artists:
 - America
+external_ids:
+  spotify: spotify:track:7Lv30zUbvlC5J2VMqpE7Ps
 features: []
-genres: []
+first_released_as_single: false
 key: daisy-jane-america
 lyrics_url: https://www.azlyrics.com/lyrics/america/daisyjane.html
 name: Daisy Jane
@@ -59,8 +62,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1972
+runtime: 186466
 ---
-
 Flyin' me back to Memphis
 Gotta find my Daisy Jane
 Well, the summer's gone
@@ -101,6 +105,3 @@ Like the stars above me
 I know because
 When the sky is bright
 Everything's alright
-
-
-

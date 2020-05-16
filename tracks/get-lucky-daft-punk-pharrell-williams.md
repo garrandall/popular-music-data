@@ -1,9 +1,12 @@
 ---
+album: Random Access Memories
 artists:
 - Daft Punk
+external_ids:
+  spotify: spotify:track:2Foc5Q5nqNiosCNqttzHof
 features:
 - Pharrell Williams
-genres: []
+first_released_as_single: true
 key: get-lucky-daft-punk-pharrell-williams
 lyrics_url: https://www.azlyrics.com/lyrics/daftpunk/getlucky.html
 name: Get Lucky
@@ -124,8 +127,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2013
+runtime: 248413
 ---
-
 Like the legend of the Phoenix
 All ends with beginnings
 What keeps the planets spinning (uh)
@@ -222,6 +226,3 @@ We're up all night to get lucky
 We're up all night to get lucky
 We're up all night to get lucky
 We're up all night to get lucky
-
-
-

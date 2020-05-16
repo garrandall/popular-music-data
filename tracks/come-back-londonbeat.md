@@ -1,8 +1,11 @@
 ---
+album: Londonbeat
 artists:
 - Londonbeat
+external_ids:
+  spotify: spotify:track:1wrb2BWcjHSij6koXArdRg
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-londonbeat
 lyrics_url: https://www.azlyrics.com/lyrics/londonbeat/comeback.html
 name: Come Back
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
+release_year: 1995
+runtime: 234600
 ---
-
 Come back, you know I miss you
 Got to hold you once again in my life
 
@@ -88,6 +92,3 @@ Take a boat, take a train, take the airplane, just come on back, yeah, yeah, com
 (Love you, miss you, need you, want you back in my life)
 I don't care, I don't care how you do it, come on back baby
 (Love you, miss you, need you, want you back in my life)
-
-
-

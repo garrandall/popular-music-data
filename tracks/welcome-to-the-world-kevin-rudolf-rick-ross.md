@@ -1,9 +1,12 @@
 ---
+album: In The City
 artists:
 - Kevin Rudolf
+external_ids:
+  spotify: spotify:track:6etuQn3IkhqFU8RA14b5US
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: welcome-to-the-world-kevin-rudolf-rick-ross
 lyrics_url: https://genius.com/Kevin-rudolf-welcome-to-the-world-rick-ross-version-lyrics
 name: Welcome To The World
@@ -44,6 +47,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2008
+runtime: 183200
 ---
 Welcome to the world, welcome to the world
 

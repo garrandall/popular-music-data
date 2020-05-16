@@ -1,8 +1,11 @@
 ---
+album: Wooden Head (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:04pAW0VZh1O9hrE2ANCrXS
 features: []
-genres: []
+first_released_as_single: false
 key: grim-reaper-of-love-the-turtles
 lyrics_url: https://genius.com/The-turtles-grim-reaper-of-love-lyrics
 name: Grim Reaper Of Love
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 162128
 ---
 Mm, mm, mm, mm, mm
 Mm, mm, mm, mm, mm

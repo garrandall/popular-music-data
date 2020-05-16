@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:22VdIZQfgXJea34mQxlt81
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-feel-my-face-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-cant-feel-my-face-lyrics
 name: Can't Feel My Face
@@ -171,6 +174,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
+release_year: 2015
+runtime: 213520
 ---
 And I know she'll be the death of me
 At least we'll both be numb

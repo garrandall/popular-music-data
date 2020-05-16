@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 73
 artists:
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:6CodACQGZIiTzXd6xxUTsZ
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-start-now-dua-lipa
 lyrics_url: https://genius.com/Dua-lipa-dont-start-now-lyrics
 name: Don't Start Now
@@ -83,6 +86,8 @@ rankings:
   rank: 2
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 216774
 ---
 If you don't wanna see me
 

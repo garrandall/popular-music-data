@@ -1,8 +1,11 @@
 ---
+album: One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:5YOdDTcnCGOBm1SvzIVuPs
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-right-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-its-all-right-lyrics
 name: It's All Right
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 311773
 ---
 Whoa, it's all right
 It's all right

@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:7icbvHw3CAKSyuISfgDQpg
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-be-strong-gene-pitney
 lyrics_url: https://genius.com/Franz-nicolay-im-gonna-be-strong-gene-pitney-cover-lyrics
 name: I'm Gonna Be Strong
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 132600
 ---
 I can see you're slipping away from me
 And you're so afraid I'll plead with you to stay

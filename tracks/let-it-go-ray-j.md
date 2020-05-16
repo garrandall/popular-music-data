@@ -1,8 +1,11 @@
 ---
+album: Set It Off (Music From The New Line Cinema Motion Picture)
 artists:
 - Ray J
+external_ids:
+  spotify: spotify:track:6igXETl1zKir06CA7NWYo2
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-go-ray-j
 lyrics_url: https://genius.com/Ray-j-let-it-go-lyrics
 name: Let It Go
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1997-07-19'
+release_year: 1996
+runtime: 293240
 ---
 Uh huh, yeah
 Uh huh, yeah

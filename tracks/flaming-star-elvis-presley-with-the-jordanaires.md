@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:3soCnWoB7P2thH8TaIys3b
 features: []
-genres: []
+first_released_as_single: false
 key: flaming-star-elvis-presley-with-the-jordanaires
 name: Flaming Star
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 205986
 ---
 

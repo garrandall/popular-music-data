@@ -1,8 +1,11 @@
 ---
+album: Sweet Charlie Babe
 artists:
 - Jackie Moore
+external_ids:
+  spotify: spotify:track:12vArbymFjJeUnRc02kUzn
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-charlie-babe-jackie-moore
 lyrics_url: https://www.musixmatch.com/lyrics/Jackie-Moore/Sweet-Charlie-Babe
 name: Sweet Charlie Babe
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 156874
 ---
 What a man, what a man
 There's a guy that they call sweet charlie babe

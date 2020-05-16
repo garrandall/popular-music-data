@@ -1,8 +1,11 @@
 ---
+album: Dua Lipa
 artists:
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:76cy1WJvNGJTj78UqeA5zr
 features: []
-genres: []
+first_released_as_single: false
 key: idgaf-dua-lipa
 lyrics_url: https://genius.com/Dua-lipa-idgaf-lyrics
 name: IDGAF
@@ -99,6 +102,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2017
+runtime: 217946
 ---
 You call me all friendly
 Tellin' me how much you miss me

@@ -1,8 +1,11 @@
 ---
+album: Letters From Home
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:15cGdiAHmezm0P04jVAjMo
 features: []
-genres: []
+first_released_as_single: false
 key: letters-from-home-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/lettersfromhome.html
 name: Letters From Home
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2004
+runtime: 267533
 ---
-
 My dearest son, it's almost June
 I hope this letter catches up with you and finds you well
 It's been dry but they're callin' for rain
@@ -141,6 +145,3 @@ I fold it up and put in my shirt
 Pick up my gun and get back to work
 And it keeps me drivin' on, waitin' on,
 Letters from home
-
-
-

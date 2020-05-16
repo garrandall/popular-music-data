@@ -1,8 +1,11 @@
 ---
+album: Stacy Earl
 artists:
 - Stacy Earl
+external_ids:
+  spotify: spotify:track:64ZvR7ymMzcav17QqTnF0R
 features: []
-genres: []
+first_released_as_single: false
 key: slowly-stacy-earl
 lyrics_url: https://genius.com/Stacy-earl-slowly-lyrics
 name: Slowly
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1991
+runtime: 286666
 ---
 As the sun is rising
 We’d come back to earth

@@ -1,9 +1,12 @@
 ---
+album: Believe
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:6fvqvUQr12qghH4N8gpAch
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: true
 key: believe-meek-mill-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/believe.html
 name: Believe
@@ -12,9 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2020
+runtime: 211303
 ---
-
-
 You know I still believe, still believe in you and me
 'Cause every night I go to sleep, go to sleep
 I can see it like a movie in my dreams
@@ -89,6 +92,3 @@ As I lay (As I lay) me down to sleep (Down to sleep)
 Pray the Lord (Pray), my soul to keep (Soul to keep)
 Fallen ones (Fallen ones), rest in peace (R.I.P)
 Please God,
-
-
-

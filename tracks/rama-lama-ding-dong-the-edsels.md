@@ -1,8 +1,11 @@
 ---
+album: The Rama Lama Ding Dong EP
 artists:
 - The Edsels
+external_ids:
+  spotify: spotify:track:3MfO2eMTwf5LLyMqjwGXLl
 features: []
-genres: []
+first_released_as_single: true
 key: rama-lama-ding-dong-the-edsels
 lyrics_url: https://genius.com/The-edsels-rama-lama-ding-dong-lyrics
 name: Rama Lama Ding Dong
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1961
+runtime: 147720
 ---
 Rama Lama Lama Lama Ding Dong
 Rama Lama Lama Lama Lama Ding

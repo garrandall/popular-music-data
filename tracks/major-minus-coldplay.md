@@ -1,8 +1,11 @@
 ---
+album: Mylo Xyloto
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:6hREuBpEXpgXosiUuFQfqd
 features: []
-genres: []
+first_released_as_single: true
 key: major-minus-coldplay
 lyrics_url: https://genius.com/Coldplay-major-minus-lyrics
 name: Major Minus
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 210284
 ---
 They got one eye watching you
 One eye on what you do

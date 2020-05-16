@@ -1,8 +1,11 @@
 ---
+album: Your Secret Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:56JRqiQ6QRaehxkG8852pL
 features: []
-genres: []
+first_released_as_single: false
 key: your-secret-love-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/yoursecretlove.html
 name: Your Secret Love
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
+release_year: 1996
+runtime: 252600
 ---
-
 Oh, yes
 A kiss in the dark
 A certain time I can call you
@@ -101,4 +105,3 @@ Don't come now, wait for awhile
 Let's meet at the place downtown
 It's a shame it has to be like this
 But I really miss you baby
-

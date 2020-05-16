@@ -1,9 +1,12 @@
 ---
+album: Love Always
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:7C1rQOGXv6QOBHvYtmEN1V
 features: []
-genres: []
+first_released_as_single: false
 key: last-night-s-letter-k-ci-jojo
 lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/lastnightsletter.html
 name: Last Night's Letter
@@ -88,10 +91,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1997
+runtime: 278306
 ---
-
-
-
 I was sittin' at home
 Thinkin' to myself
 I started thinkin' bout you
@@ -141,6 +143,3 @@ Baby I want you, I want you, I want you
 And there's nothing that I'd rather do
 Than to love you... I love you always
 Every night and every day.
-
-
-

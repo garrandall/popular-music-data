@@ -1,8 +1,11 @@
 ---
+album: Harder Than Hard
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:7CEJH5Ed7FBbXF6CqBQPlJ
 features: []
-genres: []
+first_released_as_single: false
 key: my-dawg-lil-baby
 lyrics_url: https://genius.com/Lil-baby-my-dawg-lyrics
 name: My Dawg
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 215423
 ---
 Cook that shit up, Quay
 Baby

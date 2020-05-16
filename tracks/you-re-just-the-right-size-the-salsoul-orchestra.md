@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol. 1
 artists:
 - The Salsoul Orchestra
+external_ids:
+  spotify: spotify:track:4KafNVRTXQWKjqWaWBRp4d
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-just-the-right-size-the-salsoul-orchestra
 name: You're Just The Right Size
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1975
+runtime: 280000
 ---
 

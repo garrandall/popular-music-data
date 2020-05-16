@@ -1,8 +1,11 @@
 ---
+album: Out Of Our Heads
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:30V02AmDYMRvrHE4L8cZAo
 features: []
-genres: []
+first_released_as_single: false
 key: play-with-fire-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-play-with-fire-lyrics
 name: Play With Fire
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 133320
 ---
 Well, you've got your diamonds and you've got your pretty clothes
 And the chauffeur drives your car

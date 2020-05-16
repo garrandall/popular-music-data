@@ -1,8 +1,11 @@
 ---
+album: Loose
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:1M9uq2yCiOhsO6BFozo2OE
 features: []
-genres: []
+first_released_as_single: false
 key: maneater-nelly-furtado
 lyrics_url: https://www.azlyrics.com/lyrics/nellyfurtado/maneater.html
 name: Maneater
@@ -87,9 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 258839
 ---
-
-
 Everybody look at me, me
 I walk in the door you start screaming
 Come on everybody what you here for?
@@ -131,6 +134,3 @@ you wish you never ever met her at all!
 you wish you never ever met her at all!
 you wish you never ever met her at all!
 you wish you never ever met her at all!
-
-
-

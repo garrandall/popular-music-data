@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4kEzw2gtpxUBfgmhTEwIuE
 features: []
-genres: []
+first_released_as_single: false
 key: need-you-now-glee-cast
 lyrics_url: https://genius.com/Glee-cast-need-you-now-lyrics
 name: Need You Now
@@ -15,6 +18,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 217413
 ---
 Picture perfect memories scattered all around the floor
 Reaching for the phone 'cause I can't fight it anymore

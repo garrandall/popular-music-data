@@ -1,8 +1,11 @@
 ---
+album: The Best of Donnie Brooks
 artists:
 - Donnie Brooks
+external_ids:
+  spotify: spotify:track:12zEAgwHjIQRYNiAAH5UiZ
 features: []
-genres: []
+first_released_as_single: false
 key: mission-bell-donnie-brooks
 lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Brooks/Mission-Bell
 name: Mission Bell
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 143960
 ---
 (Say that you love me)
 (Say those pretty words and I will give my love to you)

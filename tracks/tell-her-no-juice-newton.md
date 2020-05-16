@@ -1,8 +1,11 @@
 ---
+album: Dirty Looks
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:5a8O4F16LkUxt2guaZQF7C
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-no-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/tellherno.html
 name: Tell Her No
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 214746
 ---
-
 And if she should tell you come closer
 And if she tempts you with her charms
 
@@ -83,6 +87,3 @@ No no no no no-no-no-no
 (don't take her love from my arms)
 No no no no no
 Don't leave her now for her love belongs to me
-
-
-

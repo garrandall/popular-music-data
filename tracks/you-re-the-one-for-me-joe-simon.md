@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2pkTteCKnK4jygmlTVpi4S
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-for-me-joe-simon
 name: You're The One For Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 186553
 ---
 

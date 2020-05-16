@@ -1,8 +1,11 @@
 ---
+album: Seconds Of Pleasure
 artists:
 - Rockpile
+external_ids:
+  spotify: spotify:track:4Vb8fzZfCOI351qz1g0ExT
 features: []
-genres: []
+first_released_as_single: false
 key: teacher-teacher-rockpile
 lyrics_url: https://genius.com/Rockpile-teacher-teacher-lyrics
 name: Teacher Teacher
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
+release_year: 1980
+runtime: 154226
 ---
 Young love, teacher's pet
 Cheeks flushed, apple red

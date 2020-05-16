@@ -1,8 +1,11 @@
 ---
+album: 2nd Wave
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:3Nuj3K8YAg7p73Rn7UGPeP
 features: []
-genres: []
+first_released_as_single: false
 key: closer-than-friends-surface
 lyrics_url: https://genius.com/Surface-closer-than-friends-lyrics
 name: Closer Than Friends
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-07-08'
+release_year: 1986
+runtime: 305640
 ---
 Woo
 

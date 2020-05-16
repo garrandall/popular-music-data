@@ -1,8 +1,11 @@
 ---
+album: 25th Day Of December With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:6fVssKMWZYFbiGEB8fvXWJ
 features: []
-genres: []
+first_released_as_single: false
 key: child-of-god-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/childofgod.html
 name: Child Of God
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 119866
 ---
-
 If anybody asked you who I am
 Who I am, who I am
 If anybody asked you who I am
@@ -58,6 +62,3 @@ Keep on telling them
 Keep a telling then
 (Tell them I'm a child of God)
 I mean tell them I'm a child of God
-
-
-

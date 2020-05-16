@@ -1,8 +1,11 @@
 ---
+album: Something Old, Something New
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:57q8tP6DIvApDldr9Hvhnu
 features: []
-genres: []
+first_released_as_single: false
 key: baby-do-the-philly-dog-the-olympics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/Baby-Do-The-Philly-Dog
 name: Baby Do The Philly Dog
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1960
+runtime: 138344
 ---
 Stand up, and kick off your shoes
 Let your hair down, get in the grove

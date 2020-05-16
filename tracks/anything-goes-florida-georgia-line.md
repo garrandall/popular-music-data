@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:46ZfPS5VpSQVU5gb82hg3K
 features: []
-genres: []
+first_released_as_single: false
 key: anything-goes-florida-georgia-line
 lyrics_url: https://genius.com/Florida-georgia-line-anything-goes-lyrics
 name: Anything Goes
@@ -79,6 +82,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2014
+runtime: 218866
 ---
 Alabama on the boombox, baby
 ‘Bout to get a little boondock crazy

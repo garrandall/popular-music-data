@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Normani
+external_ids:
+  spotify: spotify:track:0rIAC4PXANcKmitJfoqmVm
 features: []
-genres: []
+first_released_as_single: true
 key: motivation-normani
 lyrics_url: https://genius.com/Normani-motivation-lyrics
 name: Motivation
@@ -47,6 +50,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 193837
 ---
 I'ma break you off, let me be your motivation
 To  stay and give it tonight

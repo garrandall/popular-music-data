@@ -1,8 +1,11 @@
 ---
+album: Everything To Everyone
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:6rMx1neL9mLYivQ5U6PFk3
 features: []
-genres: []
+first_released_as_single: true
 key: another-postcard--chimps--barenaked-ladies
 lyrics_url: https://www.azlyrics.com/lyrics/barenakedladies/anotherpostcard.html
 name: Another Postcard (Chimps)
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-01-24'
+release_year: 2003
+runtime: 205266
 ---
-
 You can't imagine so many monkeys in the daily mail
 All of them coming anonymously so they leave no trail
 I never thought I'd have an admirer from overseas
@@ -122,6 +126,3 @@ Starsky and Hutch chimps, a chimp who's sitting on the can
 A pair of Dutch chimps who send their love from Amsterdam.
 Some chimps in Mustangs, Some chimps in chain gangs
 I got a birthday wishin' chimp and I got the goin' fishin' chimp
-
-
-

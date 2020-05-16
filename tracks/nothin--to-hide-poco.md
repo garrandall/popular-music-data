@@ -1,8 +1,11 @@
 ---
+album: The Essential Poco
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:6wVq5XSLtGxpsZhbFGaVVr
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--to-hide-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/nothintohide.html
 name: Nothin' To Hide
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 313266
 ---
-
 Cryin' doesn't ease the pain
 When the fire is gone, when the weak break the strong
 There's no danger, when a heart is cold
@@ -86,4 +90,3 @@ Girl
 
 
 Girl
-

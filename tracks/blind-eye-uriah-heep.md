@@ -1,8 +1,11 @@
 ---
+album: The Magician's Birthday
 artists:
 - Uriah Heep
+external_ids:
+  spotify: spotify:track:3PdVc63SZYU7y7KQIT2LF3
 features: []
-genres: []
+first_released_as_single: false
 key: blind-eye-uriah-heep
 lyrics_url: https://www.musixmatch.com/lyrics/Uriah-Heep/Blind-Eye
 name: Blind Eye
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1972
+runtime: 213800
 ---
 Stranger than the sunrise
 Darker than the night

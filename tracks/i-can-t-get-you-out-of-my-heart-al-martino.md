@@ -1,8 +1,11 @@
 ---
+album: Al Martino and the Tony Russo Orchestra
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:5m6N98LZkgqYuuy8RMILdm
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-get-you-out-of-my-heart-al-martino
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/I-Can-t-Get-You-Out-of-My-Heart
 name: I Can't Get You Out Of My Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1959
+runtime: 149675
 ---
 I can't get you out my heart
 For you, love, are part of my heart

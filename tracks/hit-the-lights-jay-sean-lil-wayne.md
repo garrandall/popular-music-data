@@ -1,9 +1,12 @@
 ---
+album: Hit The Lights
 artists:
 - Jay Sean
+external_ids:
+  spotify: spotify:track:3usL7eu7kTW0MLOujOuUSs
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: hit-the-lights-jay-sean-lil-wayne
 lyrics_url: https://genius.com/Jay-sean-hit-the-lights-lyrics
 name: Hit The Lights
@@ -16,6 +19,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2011
+runtime: 221933
 ---
 Hit the lights
 Hit the lights

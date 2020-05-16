@@ -1,9 +1,12 @@
 ---
+album: Juju On That Beat (TZ Anthem)
 artists:
 - Zay Hilfigerrr
 - Zayion McCall
+external_ids:
+  spotify: spotify:track:1lItf5ZXJc1by9SbPeljFd
 features: []
-genres: []
+first_released_as_single: true
 key: juju-on-that-beat--tz-anthem--zay-hilfigerrr-zayion-mccall
 lyrics_url: https://www.azlyrics.com/lyrics/zayhilfigerrr/jujuonthatbeattzanthem.html
 name: Juju On That Beat (TZ Anthem)
@@ -92,9 +95,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2016
+runtime: 144244
 ---
-
-
 Do that one dance baby
 That, that one dance
 Yeah, oh
@@ -189,6 +192,3 @@ Running man on that beat
 Now do your dance, do your dance, do your dance, aye
 You're ugly
 You're your daddy's son
-
-
-

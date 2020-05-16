@@ -1,8 +1,11 @@
 ---
+album: A Man Needs a Woman
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:6rku9SaFvmlCsPeoAOrLxG
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-my-mind-messed-up-james-carr
 lyrics_url: https://genius.com/James-carr-youve-got-my-mind-messed-up-lyrics
 name: You've Got My Mind Messed Up
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 147240
 ---
 Said I wasn't gonna tell nobody else
 But I just can't keep it all to myself now

@@ -1,8 +1,11 @@
 ---
+album: Holy Water
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:6GaFUMG9opnMytdc0lwnQw
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-needed-somebody-bad-company
 lyrics_url: https://genius.com/Bad-company-if-you-needed-somebody-lyrics
 name: If You Needed Somebody
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1990
+runtime: 261000
 ---
 Should have told you by now, but I can't find the words, oh no
 If I could show you somehow, but I don't have the nerve, oh yeah

@@ -1,8 +1,11 @@
 ---
+album: Greatest Recordings
 artists:
 - The Diplomats
+external_ids:
+  spotify: spotify:track:7gAn0WTuoRXL6QkFTqJiRO
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-a-heart-the-diplomats
 lyrics_url: https://www.musixmatch.com/lyrics/The-Diplomats/Here-s-a-Heart
 name: Here's A Heart
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1964
+runtime: 150613
 ---
 Oh, I meet her on the street
 Talk to her in my sleep

@@ -1,8 +1,11 @@
 ---
+album: Skid Row
 artists:
 - Skid Row
+external_ids:
+  spotify: spotify:track:0qgrrDnUUhyxpxbBznUnzg
 features: []
-genres: []
+first_released_as_single: false
 key: 18-and-life-skid-row
 lyrics_url: https://genius.com/Skid-row-18-and-life-lyrics
 name: 18 And Life
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 229960
 ---
 Ricky was a young boy, he had a heart of stone
 Lived nine to five and he worked his fingers to the bone

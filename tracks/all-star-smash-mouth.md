@@ -1,8 +1,11 @@
 ---
+album: Astro Lounge
 artists:
 - Smash Mouth
+external_ids:
+  spotify: spotify:track:3cfOd4CMv2snFaKAnMdnvK
 features: []
-genres: []
+first_released_as_single: false
 key: all-star-smash-mouth
 lyrics_url: https://genius.com/Smash-mouth-all-star-lyrics
 name: All Star
@@ -127,6 +130,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-12-11'
+release_year: 1999
+runtime: 200373
 ---
 Somebody once told me the world is gonna roll me
 I ain't the sharpest tool in the shed

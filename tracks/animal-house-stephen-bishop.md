@@ -1,8 +1,11 @@
 ---
+album: 'On And On: The Hits Of Stephen Bishop'
 artists:
 - Stephen Bishop
+external_ids:
+  spotify: spotify:track:1lWW4f0c0nw9eS1CeJCUV6
 features: []
-genres: []
+first_released_as_single: false
 key: animal-house-stephen-bishop
 lyrics_url: https://www.azlyrics.com/lyrics/stephenbishop/animalhouse.html
 name: Animal House
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 181760
 ---
-
 Let me tell you 'bout some friends I know
 They're kinda crazy but you'll dig the show
 They can party till the break of dawn
@@ -72,6 +76,3 @@ He came in handy when we were short a skunk
 
 At the
 Animal House...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Barbra Joan Streisand
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:5RSwTgz0codolRnFFcGzE2
 features: []
-genres: []
+first_released_as_single: false
 key: mother-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-mother-lyrics
 name: Mother
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 275666
 ---
 Mother you had me
 But I never had you

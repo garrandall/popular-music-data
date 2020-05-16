@@ -1,8 +1,11 @@
 ---
+album: We Too Are One
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:37rzKhbiTGE1gw2GlXYp3a
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ask-me-why-eurythmics
 lyrics_url: https://genius.com/Eurythmics-dont-ask-me-why-lyrics
 name: Don't Ask Me Why
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 262800
 ---
 Miracle of miracles
 Look what the night dragged in

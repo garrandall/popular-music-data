@@ -1,9 +1,12 @@
 ---
+album: Turtleneck & Chain (Explicit Version)
 artists:
 - The Lonely Island
+external_ids:
+  spotify: spotify:track:3O9nQmCkiA2VUAqQpkJZhD
 features:
 - Michael Bolton
-genres: []
+first_released_as_single: false
 key: jack-sparrow-the-lonely-island-michael-bolton
 lyrics_url: https://genius.com/The-lonely-island-jack-sparrow-lyrics
 name: Jack Sparrow
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 187746
 ---
 Guys, Michael Bolton is here
 Oh, great, send him in

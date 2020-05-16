@@ -1,8 +1,11 @@
 ---
+album: Lovin' Every Minute Of It
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:2FtUxAQzfkZF1b7HwYNzZq
 features: []
-genres: []
+first_released_as_single: false
 key: dangerous-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/dangerous.html
 name: Dangerous
@@ -43,8 +46,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 213573
 ---
-
 You're doing it every night, you play with my emotions
 Before we go on fighting let's get one thing straight
 Is it going to be him or me--You know I need an answer
@@ -72,6 +76,3 @@ Ya--you know it won't be long, before you make your last mistake
 Cause you're dangerous, you've got it coming to you
 Dangerous--Now what am I going to do?
 Dangerous--And I'm a lot like you
-
-
-

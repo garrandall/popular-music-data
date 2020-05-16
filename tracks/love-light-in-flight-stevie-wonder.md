@@ -1,8 +1,11 @@
 ---
+album: Selections From The Original Soundtrack The Woman In Red
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5TKz8J4Noz4nZSFIOpHpMm
 features: []
-genres: []
+first_released_as_single: false
 key: love-light-in-flight-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-love-light-in-flight-lyrics
 name: Love Light In Flight
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 414066
 ---
 Make me feel like paradise
 Give me what I'm missing

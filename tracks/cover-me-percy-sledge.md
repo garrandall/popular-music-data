@@ -1,8 +1,11 @@
 ---
+album: Take Time To Know Her
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:6JJ2cZDIEp7ldcB4yDtgjP
 features: []
-genres: []
+first_released_as_single: false
 key: cover-me-percy-sledge
 lyrics_url: https://genius.com/Percy-sledge-cover-me-lyrics
 name: Cover Me
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 170520
 ---
 Cover me, cover me
 Spread your precious love all over me

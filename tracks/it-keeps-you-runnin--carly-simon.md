@@ -1,8 +1,11 @@
 ---
+album: Another Passenger
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:4kmIcVKU595QzqULEp1OzH
 features: []
-genres: []
+first_released_as_single: false
 key: it-keeps-you-runnin--carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/itkeepsyourunnin.html
 name: It Keeps You Runnin'
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 238440
 ---
-
 Where you gonna go
 Where are you gonna hide?
 You go on leaving out your heart
@@ -68,6 +72,3 @@ Why are you in such a hurry
 To be lonely one more night?
 I know what it means to hide your heart
 From a long time ago -
-
-
-

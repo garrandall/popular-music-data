@@ -1,8 +1,11 @@
 ---
+album: Stronger (Deluxe Version)
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:6D60klaHqbCl9ySc8VcRss
 features: []
-genres: []
+first_released_as_single: false
 key: stronger--what-doesn-t-kill-you--kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/whatdoesntkillyoustronger.html
 name: Stronger (What Doesn't Kill You)
@@ -155,6 +158,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
+release_year: 2011
+runtime: 221946
 ---
 You know the bed feels warmer
 Sleeping here alone

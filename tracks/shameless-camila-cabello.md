@@ -1,8 +1,11 @@
 ---
+album: Romance
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:3UYiU57SMiAS5LqolhHJw1
 features: []
-genres: []
+first_released_as_single: true
 key: shameless-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/shameless.html
 name: Shameless
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 219742
 ---
-
 Don't speak, no, don't try
 It's been a secret for the longest time
 Don't run, huh, no don't hide
@@ -94,6 +98,3 @@ Need you more than I want to
 (No uh, no uh, don't wanna do this now)
 (No uh, no uh, don't wanna do this now)
 (No uh, no uh, don't wanna do this now)
-
-
-

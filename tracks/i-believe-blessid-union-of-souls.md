@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:7qnNnQTGxdzI2wZWpa0vDD
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-blessid-union-of-souls
 lyrics_url: https://genius.com/Blessid-union-of-souls-i-believe-lyrics
 name: I Believe
@@ -131,6 +134,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 267447
 ---
 Walk blindly to the light and reach out for his hand
 Don't ask any questions and don't try to understand

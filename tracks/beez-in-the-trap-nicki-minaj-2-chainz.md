@@ -1,9 +1,12 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:0x335qdLBS6o30hYdc8h2I
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: beez-in-the-trap-nicki-minaj-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/beezinthetrap.html
 name: Beez In The Trap
@@ -88,9 +91,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2011
+runtime: 268480
 ---
-
-
 Bitches ain't shit, and they ain't sayin' nothin'
 A hundred motherfuckers can't tell me nothin'
 I beez in the trap, bee, beez in the trap
@@ -169,6 +172,3 @@ Damn, damn what they say about me?
 I don't know man, fuck is on your biscuit?
 If I get hit swinging on a big bitch
 I don't know man, I'm shittin' on your whole life
-
-
-

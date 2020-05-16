@@ -1,8 +1,11 @@
 ---
+album: Winners
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:0YzdjNbhhFJZ07O1jn5NWY
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-always-there-donna-fargo
 lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/youwerealwaysthere.html
 name: You Were Always There
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 192866
 ---
-
 Can't remember my first mem'ry of you you were always there
 And now I know I never knew you well
 But I was just a kid and you were always there to pick me up every time I fell
@@ -62,6 +66,3 @@ For you to tell me your dreams and me to tell you mine
 There were so many things that could have been but now we'll never share
 Cause kids don't know much and you were always there
 No kids don't know much and you were always there
-
-
-

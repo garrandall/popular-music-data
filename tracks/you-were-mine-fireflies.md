@@ -1,8 +1,11 @@
 ---
+album: The Swingin' Fireflies
 artists:
 - Fireflies
+external_ids:
+  spotify: spotify:track:2kr1HneUjO4TmUJNtzevRP
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-mine-fireflies
 lyrics_url: https://genius.com/Fire-flies-you-were-mine-lyrics
 name: You Were Mine
@@ -71,6 +74,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 115821
 ---
 You were mine at the time and the feeling was sublime
 You were mine

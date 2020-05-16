@@ -1,8 +1,11 @@
 ---
+album: Surfer Girl
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:75WMOzv7195ziyx0qEw1yE
 features: []
-genres: []
+first_released_as_single: false
 key: little-deuce-coupe-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/littledeucecoupe.html
 name: Little Deuce Coupe
@@ -51,8 +54,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 100933
 ---
-
 Little deuce coupe
 You don't know what I got
 Little deuce coupe
@@ -98,6 +102,3 @@ You don't know what I got
 (You don't know what I got)
 She's my little deuce coupe
 You don't know what I got
-
-
-

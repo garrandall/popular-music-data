@@ -1,9 +1,12 @@
 ---
+album: Hillbilly Jedi
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:6WDjQq0Noeji2O3bFfFsNW
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why-i-pray-big-rich
 lyrics_url: https://genius.com/Big-and-rich-thats-why-i-pray-lyrics
 name: That's Why I Pray
@@ -48,6 +51,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 241893
 ---
 Oh oh oh oh, oh oh, yeah
 

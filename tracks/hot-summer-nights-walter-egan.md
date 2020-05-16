@@ -1,8 +1,11 @@
 ---
+album: Not Shy
 artists:
 - Walter Egan
+external_ids:
+  spotify: spotify:track:0YM8hlIPY7ubjvp5VgLvoy
 features: []
-genres: []
+first_released_as_single: false
 key: hot-summer-nights-walter-egan
 lyrics_url: https://genius.com/Walter-egan-hot-summer-nights-lyrics
 name: Hot Summer Nights
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 251333
 ---
 There was a time, not too far gone
 When I was changed by just a song

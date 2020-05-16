@@ -1,8 +1,11 @@
 ---
+album: Loud
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:0AuUL648kZtyzlMHTfw9ZT
 features: []
-genres: []
+first_released_as_single: false
 key: man-down-rihanna
 lyrics_url: https://genius.com/Rihanna-man-down-lyrics
 name: Man Down
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2010
+runtime: 267000
 ---
 Sak pasé!
 

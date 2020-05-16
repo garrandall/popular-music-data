@@ -1,8 +1,11 @@
 ---
+album: 2 Years On
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:0bn3kXw8mVZpcHFLvgfZz4
 features: []
-genres: []
+first_released_as_single: false
 key: alone-bee-gees
 lyrics_url: https://genius.com/Bee-gees-alone-lyrics
 name: Alone
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-10-18'
+release_year: 1970
+runtime: 180333
 ---
 I was a midnight rider on a cloud of smoke
 I could make a woman hang on every single stroke

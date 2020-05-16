@@ -1,8 +1,11 @@
 ---
+album: Rocky IV
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:194q6RR0JRyNKZPHiJIvaw
 features: []
-genres: []
+first_released_as_single: false
 key: man-against-the-world-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/managainsttheworld.html
 name: Man Against The World
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1985
+runtime: 215800
 ---
-
 Have you ever walked alone at night
 Like a man against the world
 No one takes your side
@@ -65,6 +69,3 @@ Now the road's grown long, but the spirit's strong
 And the fire within still burns
 Alone I take my stand
 I give you a man against the world
-
-
-

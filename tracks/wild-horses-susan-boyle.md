@@ -1,8 +1,11 @@
 ---
+album: I Dreamed A Dream
 artists:
 - Susan Boyle
+external_ids:
+  spotify: spotify:track:70rEifmDizVTzvvuUMEITz
 features: []
-genres: []
+first_released_as_single: false
 key: wild-horses-susan-boyle
 lyrics_url: https://www.azlyrics.com/lyrics/susanboyle/wildhorses.html
 name: Wild Horses
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 292432
 ---
-
 Childhood living it's easy to do
 The things that you wanted
 well, I bought them for you
@@ -39,6 +43,3 @@ Wild horses couldn't drag me away
 Wild horses couldn't drag me away
 
 Away
-
-
-

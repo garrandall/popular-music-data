@@ -1,9 +1,12 @@
 ---
+album: Nuthin' 2 Prove
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:5R2rsbwCDXORX2tLfprRmM
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: false
 key: yacht-club-lil-yachty-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/lilyachty/yachtclub.html
 name: Yacht Club
@@ -12,8 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 166343
 ---
-
 Earl on the beat
 
 
@@ -74,6 +78,3 @@ Me and Boat got kicked out the yacht club (Out the yacht club)
 
 Listen here, be alright
 Shit hard
-
-
-

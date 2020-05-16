@@ -1,8 +1,11 @@
 ---
+album: Paradise Remixed
 artists:
 - Inner City
+external_ids:
+  spotify: spotify:track:38RLVXTOPM3rzrRGQjM6Xj
 features: []
-genres: []
+first_released_as_single: true
 key: whatcha-gonna-do-with-my-lovin--inner-city
 lyrics_url: https://www.musixmatch.com/lyrics/Inner-City/Whatcha-Gonna-Do-With-My-Lovin
 name: Whatcha Gonna Do With My Lovin'
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1989
+runtime: 507800
 ---
 (Doo doo doo-doo)
 Oh I'm wishin', boy I've got my eyes on you

@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:3mHv5hJCuFTvz3nomrFRJz
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-better-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/justalittlebitbetter.html
 name: Just A Little Bit Better
@@ -47,8 +50,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 173653
 ---
-
 He may send you flowers, baby, every single day
 Buy you fancy clothes from Paris
 And have sweet things to say
@@ -79,6 +83,3 @@ Baby, that ain't such a thrill
 'Cause I can give you love, sweet sweet love
 Now ain't that just a little bit better?
 Uh-ho-ho, uh-ho-ho, uh-ho-ho
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blue
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:1g5EcKDECPxeI7kgkvcbxm
 features: []
-genres: []
+first_released_as_single: false
 key: blue-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/blue.html
 name: Blue
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 169546
 ---
-
 Blue
 Oh, so lonesome for you
 Why can't you be blue over me?
@@ -109,6 +113,3 @@ Blue
 Oh, so lonesome for you
 Why can't you be blue over me?
 Why can't you be blue over me?
-
-
-

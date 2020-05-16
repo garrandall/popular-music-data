@@ -1,8 +1,11 @@
 ---
+album: The Genius Of Ray Charles
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:3pEwXiu1AVstyAluolJnW7
 features: []
-genres: []
+first_released_as_single: false
 key: cry-ray-charles
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Charles/Cry
 name: Cry
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1959
+runtime: 225333
 ---
 If your sweetheart sends a letter of goodbye
 It's no secret, you'll feel better, if you cry

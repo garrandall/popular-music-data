@@ -1,8 +1,11 @@
 ---
+album: Abacab
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:10ThhPNj7E31iHGR0jTfeP
 features: []
-genres: []
+first_released_as_single: false
 key: abacab-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/abacab.html
 name: Abacab
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 418146
 ---
-
 Look up on the wall, there on the floor,
 Under the pillow, behind the door.
 There's a crack in the mirror.
@@ -106,6 +110,3 @@ When they do it you're never there.
 When they show it you stop and stare.
 Abacab he's in anywhere.
 Abacab
-
-
-

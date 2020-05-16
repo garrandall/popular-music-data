@@ -1,8 +1,11 @@
 ---
+album: You Could Have Been With Me
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:4jRJWlkCn3pAwezfqFODU3
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-eyes-only-sheena-easton
 lyrics_url: https://www.musixmatch.com/lyrics/Sheena-Easton/For-Your-Eyes-Only
 name: For Your Eyes Only
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 184480
 ---
 For your eyes only
 Can see me through the night

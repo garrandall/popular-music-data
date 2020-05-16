@@ -1,8 +1,11 @@
 ---
+album: Groovin' (Mono)
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:4NnhLA66RRLXxKbiiscU9R
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-be-sure-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-how-can-i-be-sure-lyrics
 name: How Can I Be Sure
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 175075
 ---
 How can I be sure
 In a world that's constantly changing?

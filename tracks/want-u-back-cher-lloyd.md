@@ -1,8 +1,11 @@
 ---
+album: Sticks & Stones
 artists:
 - Cher Lloyd
+external_ids:
+  spotify: spotify:track:6E11E0lT5Zy7yb6iT3y8DN
 features: []
-genres: []
+first_released_as_single: false
 key: want-u-back-cher-lloyd
 lyrics_url: https://genius.com/Cher-lloyd-want-u-back-lyrics
 name: Want U Back
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2012-11-10'
+release_year: 2012
+runtime: 214573
 ---
 Uh!
 Mmm, yeah

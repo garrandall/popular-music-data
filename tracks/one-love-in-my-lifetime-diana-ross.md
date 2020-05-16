@@ -1,8 +1,11 @@
 ---
+album: Diana Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:1Q0upLHepnwMjcb7kUpoiv
 features: []
-genres: []
+first_released_as_single: false
 key: one-love-in-my-lifetime-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/oneloveinmylifetime.html
 name: One Love In My Lifetime
@@ -55,8 +58,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 220093
 ---
-
 Ohyeah
 From rags to riches, here I stand
 Shaped and molded by your loving hand
@@ -107,6 +111,3 @@ Burning in this heart of mine
 One love
 Burning in this heart of mine
 One love
-
-
-

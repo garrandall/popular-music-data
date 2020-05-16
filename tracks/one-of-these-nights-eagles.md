@@ -1,8 +1,11 @@
 ---
+album: One of These Nights
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:608xszaAxVh4m7NcKJiAbF
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-these-nights-eagles
 lyrics_url: https://genius.com/Eagles-one-of-these-nights-lyrics
 name: One Of These Nights
@@ -75,6 +78,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 291685
 ---
 One of these nights
 One of these crazy old nights

@@ -1,8 +1,11 @@
 ---
+album: The Clark Family Experience
 artists:
 - The Clark Family Experience
+external_ids:
+  spotify: spotify:track:2NpEN6jlCVuUBAJoptmaSF
 features: []
-genres: []
+first_released_as_single: false
 key: meanwhile-back-at-the-ranch-the-clark-family-experience
 lyrics_url: https://genius.com/The-clark-family-experience-meanwhile-back-at-the-ranch-lyrics
 name: Meanwhile Back At The Ranch
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 179466
 ---
 Traffic jams, commuter lines
 Monthly quotas, the daily grind

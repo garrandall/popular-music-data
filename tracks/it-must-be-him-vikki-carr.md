@@ -1,8 +1,11 @@
 ---
+album: It Must Be Him
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:0TepCB1npldYLV9vWk8L2F
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-be-him-vikki-carr
 lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/It-Must-Be-Him
 name: It Must Be Him
@@ -67,6 +70,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 171760
 ---
 I tell myself what's done is done
 I tell myself don't be a fool

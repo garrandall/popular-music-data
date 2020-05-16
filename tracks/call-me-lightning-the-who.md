@@ -1,8 +1,11 @@
 ---
+album: The Who Hits 50
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:7DwHL5o6nscK81sYJrbDbO
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-lightning-the-who
 lyrics_url: https://genius.com/The-who-call-me-lightning-lyrics
 name: Call Me Lightning
@@ -39,6 +42,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 145194
 ---
 See that girl who's smiling so brightly
 Well I reckon she's cool and I reckon rightly

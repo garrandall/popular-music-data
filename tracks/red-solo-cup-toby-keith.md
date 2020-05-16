@@ -1,8 +1,11 @@
 ---
+album: Clancy's Tavern
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:4YKAOXyqkKZ5gOZR0AmVMN
 features: []
-genres: []
+first_released_as_single: false
 key: red-solo-cup-toby-keith
 lyrics_url: https://genius.com/Toby-keith-red-solo-cup-lyrics
 name: Red Solo Cup
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 223386
 ---
 Hey, one, two, three
 

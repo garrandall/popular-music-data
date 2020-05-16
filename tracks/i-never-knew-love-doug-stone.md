@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Doug Stone
+external_ids:
+  spotify: spotify:track:6XqmK1chyZI0FqM44k5IYH
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-knew-love-doug-stone
 lyrics_url: https://www.azlyrics.com/lyrics/dougstone/ineverknewlove.html
 name: I Never Knew Love
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
+release_year: 1990
+runtime: 210466
 ---
-
 I never knew the power of a song
 Until I heard the music playing the day mama passed on
 Never knew what innocence was about
@@ -80,6 +84,3 @@ I never knew that kind of love
 Till this moment with you
 
 Till I was loved by you
-
-
-

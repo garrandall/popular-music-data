@@ -1,8 +1,11 @@
 ---
+album: Tim Moore
 artists:
 - Tim Moore
+external_ids:
+  spotify: spotify:track:41GwdlKBdtQ7Lsow7hHgLo
 features: []
-genres: []
+first_released_as_single: false
 key: second-avenue-tim-moore
 lyrics_url: https://genius.com/Tim-moore-second-avenue-lyrics
 name: Second Avenue
@@ -27,6 +30,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
+release_year: 1974
+runtime: 236653
 ---
 Since we can no longer make it, girl
 I've found a new place to live my life

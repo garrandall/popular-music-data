@@ -1,9 +1,12 @@
 ---
+album: John Denver's Greatest Hits, Volume 3
 artists:
 - John Denver
 - Sylvie Vartan
+external_ids:
+  spotify: spotify:track:6w3AKhmLPm0KLpcfsVZS8g
 features: []
-genres: []
+first_released_as_single: false
 key: love-again-john-denver-sylvie-vartan
 name: Love Again
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 172560
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Mellon Collie And The Infinite Sadness
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:6GtX0jaNL8IjVQfrDBx81z
 features: []
-genres: []
+first_released_as_single: false
 key: bullet-with-butterfly-wings-the-smashing-pumpkins
 lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/bulletwithbutterflywings.html
 name: Bullet With Butterfly Wings
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1996-03-23'
+release_year: 1995
+runtime: 258466
 ---
-
 The world is a vampire, sent to drain
 Secret destroyers, hold you up to the flames
 And what do I get, for my pain?

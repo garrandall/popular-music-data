@@ -1,8 +1,11 @@
 ---
+album: Swamp Dogg Presents Doris Duke & Patti Labell and the Bluebells
 artists:
 - Doris Duke
+external_ids:
+  spotify: spotify:track:18tXe5y0wgurbnzcRUSAdd
 features: []
-genres: []
+first_released_as_single: false
 key: to-the-other-woman--i-m-the-other-woman--doris-duke
 lyrics_url: https://www.musixmatch.com/lyrics/Doris-Duke/To-the-Other-Woman-I-m-the-Other-Woman
 name: To The Other Woman (I'm The Other Woman)
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 177066
 ---
 My friends all ask me
 If I know the real you

@@ -1,8 +1,11 @@
 ---
+album: Enema Of The State
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:4LJhJ6DQS7NwE7UKtvcM52
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-my-age-again--blink-182
 lyrics_url: https://www.azlyrics.com/lyrics/blink182/whatsmyageagain.html
 name: What's My Age Again?
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1999
+runtime: 148360
 ---
-
 I took her out. It was a Friday night
 I wore cologne to get the feeling right
 We started making out, and she took off my pants
@@ -135,6 +139,3 @@ What's my age again?
 What's my age again?
 
 What's my age again?
-
-
-

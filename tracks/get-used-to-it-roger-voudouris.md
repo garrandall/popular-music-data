@@ -1,8 +1,11 @@
 ---
+album: Radio Dreams
 artists:
 - Roger Voudouris
+external_ids:
+  spotify: spotify:track:4lFO4X6ef61SR6M1KXkSRN
 features: []
-genres: []
+first_released_as_single: false
 key: get-used-to-it-roger-voudouris
 lyrics_url: https://genius.com/Roger-voudouris-get-used-to-it-lyrics
 name: Get Used To It
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 182120
 ---
 I did not know what you were about
 Something called love made me want to find out

@@ -1,9 +1,12 @@
 ---
+album: Best Of
 artists:
 - Hi Tek 3
+external_ids:
+  spotify: spotify:track:0sAt5clOC0mNTup5FsjDJE
 features:
 - Ya Kid K
-genres: []
+first_released_as_single: false
 key: spin-that-wheel-hi-tek-3-ya-kid-k
 lyrics_url: https://genius.com/Hi-tek-3-spin-that-wheel-lyrics
 name: Spin That Wheel
@@ -36,6 +39,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1990
+runtime: 220360
 ---
 Hit'em with this
 C'mon, c'mon, c'mon

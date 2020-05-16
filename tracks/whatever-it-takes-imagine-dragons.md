@@ -1,8 +1,11 @@
 ---
+album: Evolve
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:6Qn5zhYkTa37e91HC1D7lb
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-it-takes-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/samtsui/believerthunderwhateverittakesimaginedragonsmashup.html
 name: Whatever It Takes
@@ -115,8 +118,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2017
+runtime: 201240
 ---
-
 First thing's first I'mma say all the words inside my head
 I'm fired up and tired of the way that things have been
 Just a young gun
@@ -198,6 +202,3 @@ Whatever it takes!
 You made me a, you made me a
 Believer, believer
 Whatever it takes
-
-
-

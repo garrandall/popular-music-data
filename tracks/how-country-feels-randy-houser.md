@@ -1,8 +1,11 @@
 ---
+album: How Country Feels
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:6aUhfNWYnMThF3TGtuYUUu
 features: []
-genres: []
+first_released_as_single: false
 key: how-country-feels-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/howcountryfeels.html
 name: How Country Feels
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 185906
 ---
-
 You were raised on an asphalt farm
 Ain't never heard a rooster crow
 Never walked barefoot by a river
@@ -134,6 +138,3 @@ Get you some of this slow down fast
 I'll take you up and down these hollers and hills
 Let me show you how country feels
 Country feels
-
-
-

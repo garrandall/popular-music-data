@@ -1,10 +1,13 @@
 ---
+album: rEVOLVEr (Deluxe Version)
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:6j236RwzFFj4wqH2tWJNBD
 features:
 - Wiz Khalifa
 - Lily Allen
-genres: []
+first_released_as_single: true
 key: 5-o-clock-t-pain-wiz-khalifa-lily-allen
 lyrics_url: https://genius.com/T-pain-5-oclock-lyrics
 name: 5 O'Clock
@@ -89,6 +92,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2011
+runtime: 281533
 ---
 It's 5 o' clock in the morning
 Conversation got boring

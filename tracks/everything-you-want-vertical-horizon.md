@@ -1,8 +1,11 @@
 ---
+album: Everything You Want
 artists:
 - Vertical Horizon
+external_ids:
+  spotify: spotify:track:4cKGldbhGJniI8BrB3K6tb
 features: []
-genres: []
+first_released_as_single: false
 key: everything-you-want-vertical-horizon
 lyrics_url: https://www.azlyrics.com/lyrics/verticalhorizon/everythingyouwant.html
 name: Everything You Want
@@ -171,8 +174,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-10-28'
+release_year: 1999
+runtime: 257066
 ---
-
 Somewhere there's speaking
 It's already coming in
 Oh and it's rising at the back of your mind
@@ -229,6 +233,3 @@ But I mean nothing to you and I don't know why
 And I don't know why
 Why
 I don't know
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:09mEdoA6zrmBPgTEN5qXmN
 features: []
-genres: []
+first_released_as_single: false
 key: call-out-my-name-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-call-out-my-name-lyrics
 name: Call Out My Name
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 228373
 ---
 We found each other
 I helped you out of a broken place

@@ -1,8 +1,11 @@
 ---
+album: London '81 (Live)
 artists:
 - Greg Lake
+external_ids:
+  spotify: spotify:track:0g7bAKnUV00ddgslP6vlmV
 features: []
-genres: []
+first_released_as_single: false
 key: c-est-la-vie-greg-lake
 lyrics_url: https://genius.com/Greg-lake-cest-la-vie-lyrics
 name: C'est La Vie
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 324133
 ---
 C'est la vie
 Have your leaves all turned to brown?

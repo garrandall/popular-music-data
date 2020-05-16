@@ -1,9 +1,12 @@
 ---
+album: Patio Pool Party
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:4t6NQkpUmvpvLDCkl3XuwA
 features: []
-genres: []
+first_released_as_single: false
 key: hot-fun-in-the-summertime-sly-the-family-stone
 lyrics_url: https://genius.com/Sly-and-the-family-stone-hot-fun-in-the-summertime-lyrics
 name: Hot Fun In The Summertime
@@ -72,6 +75,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 157040
 ---
 End of the spring and here she comes back
 Hi, hi, hi, hi there

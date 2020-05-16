@@ -1,8 +1,11 @@
 ---
+album: 'Reba #1''s'
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:7DNp5wliOrg01iwvUnL3Tn
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-survivor-reba
 lyrics_url: https://genius.com/Reba-mcentire-im-a-survivor-lyrics
 name: I'm A Survivor
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
+release_year: 2001
+runtime: 187373
 ---
 I was born 3 months too early
 The doctor gave me 30 days

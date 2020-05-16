@@ -1,9 +1,12 @@
 ---
+album: PCD
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:6LDasBOWaNQEGgpDLaKDnJ
 features:
 - Timbaland
-genres: []
+first_released_as_single: false
 key: wait-a-minute-the-pussycat-dolls-timbaland
 lyrics_url: https://genius.com/The-pussycat-dolls-wait-a-minute-lyrics
 name: Wait A Minute
@@ -76,6 +79,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2005
+runtime: 221946
 ---
 Everybody listen all over the world
 I got a story 'bout my favorite girl, wait a minute

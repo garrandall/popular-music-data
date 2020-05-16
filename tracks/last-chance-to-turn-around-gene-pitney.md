@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:6tlaznrflf77mRPGTgkusp
 features: []
-genres: []
+first_released_as_single: false
 key: last-chance-to-turn-around-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/lastchancetoturnaround.html
 name: Last Chance To Turn Around
@@ -47,8 +50,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 186986
 ---
-
 The wheels of my old car
 Are a'turnin, burnin' up the highway
 Tonight that girl of mine
@@ -87,6 +91,3 @@ The last chance to turn around
 The last exit to Brooklyn
 The last chance to turn around
 ...
-
-
-

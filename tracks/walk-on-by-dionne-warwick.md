@@ -1,8 +1,11 @@
 ---
+album: Make Way For Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:3xsOtNxtBW0oTI1OWKAzTm
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-by-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-walk-on-by-lyrics
 name: Walk On By
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 178333
 ---
 If you see me walkin' down the street
 And I start to cry each time we meet

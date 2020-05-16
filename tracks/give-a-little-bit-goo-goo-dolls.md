@@ -1,8 +1,11 @@
 ---
+album: Live in Buffalo July 4th, 2004
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:4umYKCvExzDsGJlqCNyRvZ
 features: []
-genres: []
+first_released_as_single: false
 key: give-a-little-bit-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/givealittlebit.html
 name: Give A Little Bit
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2004
+runtime: 214400
 ---
-
 Give a little bit
 Give a little bit of your love to me
 Give a little bit
@@ -126,6 +130,3 @@ oo come a long way
 Such a long ride
 Come a long way
 Sing it tonight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Under Construction
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:3jagJCUbdqhDSPuxP8cAqF
 features: []
-genres: []
+first_released_as_single: false
 key: work-it-missy--misdemeanor--elliott
 lyrics_url: https://www.musixmatch.com/lyrics/Missy-Misdemeanor-Elliott-2/Work-It
 name: Work It
@@ -111,6 +114,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2002
+runtime: 263226
 ---
 DJ, please pick up your phone
 I'm on the request line

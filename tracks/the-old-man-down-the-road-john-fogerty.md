@@ -1,8 +1,11 @@
 ---
+album: Premonition (Live 1997)
 artists:
 - John Fogerty
+external_ids:
+  spotify: spotify:track:5xVFZXORCDQUGIzpe45SCO
 features: []
-genres: []
+first_released_as_single: false
 key: the-old-man-down-the-road-john-fogerty
 lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/theoldmandowntheroad.html
 name: The Old Man Down The Road
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1969
+runtime: 213346
 ---
-
 He take a thunder from the mountain
 He take a lightning from the sky
 He bring a strong man to his begging knee
@@ -113,6 +117,3 @@ The old man is down the road
 The old man is down the road
 
 Ah, you got to, you got to, you got to hidey-hidey-hide
-
-
-

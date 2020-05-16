@@ -1,9 +1,12 @@
 ---
+album: Without Warning
 artists:
 - Offset
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:7LAhKXDNWwq3CmnFP3UIOP
 features: []
-genres: []
+first_released_as_single: false
 key: nightmare-offset-metro-boomin
 lyrics_url: https://www.musixmatch.com/lyrics/Offset-feat-Metro-Boomin/Nightmare
 name: Nightmare
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
+release_year: 2017
+runtime: 147986
 ---
 If Young Metro don't trust you I'm 'gon shoot you!
 On demand

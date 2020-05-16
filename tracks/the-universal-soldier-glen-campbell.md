@@ -1,8 +1,11 @@
 ---
+album: Glen Campbell - The Capitol Years 1965 - 1977
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:3Opx1MTq68q1qsidkMNGMT
 features: []
-genres: []
+first_released_as_single: false
 key: the-universal-soldier-glen-campbell
 lyrics_url: https://www.musixmatch.com/lyrics/Glen-Campbell/The-Universal-Soldier
 name: The Universal Soldier
@@ -35,6 +38,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 130133
 ---
 He's five foot two and he's six feet four
 He fights with missiles and with spears

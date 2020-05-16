@@ -1,8 +1,11 @@
 ---
+album: Ten Rounds
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:24vfooRiSdxi947xFLhOGT
 features: []
-genres: []
+first_released_as_single: false
 key: ten-rounds-with-jose-cuervo-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/tenroundswithjosecuervo.html
 name: Ten Rounds With Jose Cuervo
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
+release_year: 1999
+runtime: 182666
 ---
-
 When I walked in the band just started
 The singer couldn't carry a tune in a bucket.
 Was on a mission to drown her memory but
@@ -126,6 +130,3 @@ Five rounds with Jose Cuervo or was it four?
 Six rounds with Jose Cuervo
 Eight rounds with Jose Cuervo
 Ten rounds with Jose Cuervo...
-
-
-

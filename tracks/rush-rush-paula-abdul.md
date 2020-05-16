@@ -1,8 +1,11 @@
 ---
+album: Spellbound
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:015qd1I4v00JIoK7yOUgKC
 features: []
-genres: []
+first_released_as_single: false
 key: rush-rush-paula-abdul
 lyrics_url: https://genius.com/Paula-abdul-rush-rush-lyrics
 name: Rush Rush
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1991
+runtime: 292933
 ---
 You're the whisper of a summer breeze
 You're the kiss that puts my soul at ease

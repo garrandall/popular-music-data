@@ -1,8 +1,11 @@
 ---
+album: Solo
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:0ppuz64FCc6gyXk0MojsdJ
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-gonna--hurt-yourself-frankie-valli
 lyrics_url: https://genius.com/Frankie-valli-youre-gonna-hurt-yourself-lyrics
 name: (You're Gonna) Hurt Yourself
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1966
+runtime: 152293
 ---
 I love you, just you, it's true (Baby, it's true)
 But how much more do you need to be satisfied

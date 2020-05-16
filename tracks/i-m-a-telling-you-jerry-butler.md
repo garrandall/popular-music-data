@@ -1,8 +1,11 @@
 ---
+album: Aware Of Love
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:7aQcAqF4hvBTs5Z0DgzWNp
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-telling-you-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-im-a-telling-you-lyrics
 name: I'm A Telling You
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 142693
 ---
 I'm a telling you
 I'm a telling you

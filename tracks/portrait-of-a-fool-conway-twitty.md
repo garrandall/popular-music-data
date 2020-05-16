@@ -1,8 +1,11 @@
 ---
+album: Portrait Of A Fool
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:43SnuhthBn61wC8535oWnc
 features: []
-genres: []
+first_released_as_single: false
 key: portrait-of-a-fool-conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/portraitofafool.html
 name: Portrait Of A Fool
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1962
+runtime: 151666
 ---
-
 Paint two eyes,
 Make them cry
 Paint two lips,
@@ -42,6 +46,3 @@ Paint two hand
 That once held it all.
 And you've painted
 A portrait of a fool...
-
-
-

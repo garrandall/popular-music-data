@@ -1,8 +1,11 @@
 ---
+album: Johnny Gill
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:40xz60ciGIpsRtDqRfPKBE
 features: []
-genres: []
+first_released_as_single: false
 key: rub-you-the-right-way-johnny-gill
 lyrics_url: https://genius.com/Johnny-gill-rub-you-the-right-way-lyrics
 name: Rub You The Right Way
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
+release_year: 1990
+runtime: 332306
 ---
 Pump up the bass
 Hey

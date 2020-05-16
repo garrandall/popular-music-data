@@ -1,8 +1,11 @@
 ---
+album: Sweet Kisses
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:0rlMgWZOJaCjMjWCz7rCfE
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-jessica-simpson
 lyrics_url: https://genius.com/Jessica-simpson-with-you-lyrics
 name: With You
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-05-29'
+release_year: 1999
+runtime: 197986
 ---
 The real me is a Southern girl with her Levis on and an open heart
 Wish I could save the world, like I was super girl

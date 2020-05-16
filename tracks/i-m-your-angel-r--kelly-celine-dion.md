@@ -1,9 +1,12 @@
 ---
+album: R.
 artists:
 - R. Kelly
 - Celine Dion
+external_ids:
+  spotify: spotify:track:0QWFiyhOqFu9RP8qzP6z5L
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-angel-r--kelly-celine-dion
 lyrics_url: https://www.musixmatch.com/lyrics/C%C3%A9line-Dion-feat-R-Kelly/I-m-Your-Angel-Duet-With-R-Kelly-6
 name: I'm Your Angel
@@ -80,6 +83,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-04-03'
+release_year: 1996
+runtime: 332066
 ---
 No mountain's too high for you to climb
 All you have to do is have some climbing faith, oh yeah (ah)

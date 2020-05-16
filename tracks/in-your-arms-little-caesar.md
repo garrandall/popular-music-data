@@ -1,8 +1,11 @@
 ---
+album: Little Caesar
 artists:
 - Little Caesar
+external_ids:
+  spotify: spotify:track:12DQhZRVJk534inNswAwie
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-arms-little-caesar
 lyrics_url: https://genius.com/Little-caesar-in-your-arms-lyrics
 name: In Your Arms
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1990
+runtime: 263813
 ---
 Everything ain't what it seems
 In this world of broken dreams

@@ -1,8 +1,11 @@
 ---
+album: So
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:6IuOHB4yZcU935GKqT1K6I
 features: []
-genres: []
+first_released_as_single: false
 key: big-time-peter-gabriel
 lyrics_url: https://genius.com/Peter-gabriel-big-time-lyrics
 name: Big Time
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
+release_year: 1986
+runtime: 269080
 ---
 "Hi there"
 

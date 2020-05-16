@@ -1,8 +1,11 @@
 ---
+album: Caribou
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:40tnCfx2mTtHozyaRDcYC5
 features: []
-genres: []
+first_released_as_single: false
 key: the-bitch-is-back-elton-john
 lyrics_url: https://genius.com/Elton-john-the-bitch-is-back-lyrics
 name: The Bitch Is Back
@@ -63,6 +66,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1974
+runtime: 224933
 ---
 I was justified when I was five
 Raising Cain, I spit in your eye

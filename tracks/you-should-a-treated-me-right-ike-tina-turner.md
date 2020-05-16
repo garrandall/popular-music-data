@@ -1,9 +1,12 @@
 ---
+album: Dynamite
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:35sxFUaGPAAcILFl80UYog
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-a-treated-me-right-ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-you-shoulda-treated-me-right-lyrics
 name: You Should'a Treated Me Right
@@ -16,6 +19,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 220493
 ---
 You shoulda treated me right
 You wouldn't have to cry

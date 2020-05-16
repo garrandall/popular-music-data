@@ -1,8 +1,11 @@
 ---
+album: The Mercury Years
 artists:
 - Martin Briley
+external_ids:
+  spotify: spotify:track:7mkH1uCjRViPXrhdOr7MuM
 features: []
-genres: []
+first_released_as_single: false
 key: the-salt-in-my-tears-martin-briley
 lyrics_url: https://genius.com/Martin-briley-the-salt-in-my-tears-lyrics
 name: The Salt In My Tears
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 208173
 ---
 I never did it, no I won't admit it
 Why should I lie for you anymore

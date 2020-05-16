@@ -1,9 +1,12 @@
 ---
+album: Ultra Dance 18
 artists:
 - Steve Aoki
 - Louis Tomlinson
+external_ids:
+  spotify: spotify:track:4z497BbmmKERPpDsDdTlSu
 features: []
-genres: []
+first_released_as_single: true
 key: just-hold-on-steve-aoki-louis-tomlinson
 lyrics_url: https://genius.com/Steve-aoki-and-louis-tomlinson-just-hold-on-lyrics
 name: Just Hold On
@@ -32,6 +35,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 198774
 ---
 Wish that you could build a time machine
 So you could see

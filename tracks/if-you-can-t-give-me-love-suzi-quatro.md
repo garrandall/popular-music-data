@@ -1,8 +1,11 @@
 ---
+album: "If You Knew Suzi\u2026"
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:59mUgn4E4DWcB2lh5oRG2I
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-can-t-give-me-love-suzi-quatro
 lyrics_url: https://genius.com/Suzi-quatro-if-you-cant-give-me-love-lyrics
 name: If You Can't Give Me Love
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1978
+runtime: 232994
 ---
 Well, I've seen you before
 On the discoteque floor

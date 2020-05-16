@@ -1,8 +1,11 @@
 ---
+album: No Angel
 artists:
 - Dido
+external_ids:
+  spotify: spotify:track:751gBcu62kORDelX7FV0mM
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-dido
 lyrics_url: https://www.azlyrics.com/lyrics/dido/thankyou.html
 name: Thank You
@@ -163,8 +166,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-10-06'
+release_year: 1999
+runtime: 217826
 ---
-
 My tea's gone cold, I'm wondering why
 I got out of bed at all
 The morning rain clouds up my window
@@ -204,6 +208,3 @@ And I want to thank you
 For giving me the best day of my life
 Oh, just to be with you
 Is having the best day of my life
-
-
-

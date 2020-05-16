@@ -1,8 +1,11 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:7vxLj7MREliG5i5vSnqSVr
 features: []
-genres: []
+first_released_as_single: false
 key: body-summer-walker
 lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/body.html
 name: Body
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 193840
 ---
-
 (We got London on the track)
 
 I've been all in my phone, I got options
@@ -64,6 +68,3 @@ I know it, we ain't gotta talk, alright
 I know you ain't gotta talk, alright
 Baby, I just wanna talk to you
 (I just wanna talk to you)
-
-
-

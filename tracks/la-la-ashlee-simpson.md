@@ -1,8 +1,11 @@
 ---
+album: Autobiography
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:0i3XYGG0zbHDjnuxO3Sads
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-ashlee-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/ashleesimpson/lala.html
 name: La La
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 222400
 ---
-
 You can dress me up in diamonds
 You can dress me up in dirt
 You can throw me like a line-man
@@ -102,6 +106,3 @@ You make me wanna la la, la la la, la la, la la la la la la la la la
 You make me wanna la la, la la la la
 You make me wanna la la, la la la, la la, la la la la la la la la la
 You make me wanna la la, la la la la
-
-
-

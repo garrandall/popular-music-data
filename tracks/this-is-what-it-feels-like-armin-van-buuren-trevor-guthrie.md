@@ -1,9 +1,12 @@
 ---
+album: Intense
 artists:
 - Armin van Buuren
+external_ids:
+  spotify: spotify:track:6NdkzOSCLzmyV9Qc4DKhJ2
 features:
 - Trevor Guthrie
-genres: []
+first_released_as_single: true
 key: this-is-what-it-feels-like-armin-van-buuren-trevor-guthrie
 lyrics_url: https://genius.com/Armin-van-buuren-this-is-what-it-feels-like-lyrics
 name: This Is What It Feels Like
@@ -12,6 +15,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 204360
 ---
 Nobody here knocking at my door
 The sound of silence I can’t take anymore

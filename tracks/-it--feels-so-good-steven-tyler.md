@@ -1,8 +1,11 @@
 ---
+album: (It) Feels So Good
 artists:
 - Steven Tyler
+external_ids:
+  spotify: spotify:track:3xuzbqmCALn6Ua8JeOrnZl
 features: []
-genres: []
+first_released_as_single: true
 key: -it--feels-so-good-steven-tyler
 lyrics_url: https://www.azlyrics.com/lyrics/steventyler/itfeelssogood.html
 name: (It) Feels So Good
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2011
+runtime: 211293
 ---
-
 Something cool went down
 As I was walking with a friend of mine
 And I, I still remember,
@@ -79,6 +83,3 @@ It feels so good, making love to you
 Uh yeah, oh yeah, oh yeah yeah
 
 Yeah, yeah, yeah, yeah...
-
-
-

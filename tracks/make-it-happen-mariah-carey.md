@@ -1,8 +1,11 @@
 ---
+album: Emotions
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:5UVcgBRW78CCcKCopEGAST
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-happen-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/makeithappen.html
 name: Make It Happen
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1991
+runtime: 307000
 ---
-
 Not more than three short years ago
 I was abandoned and alone
 Without a penny to my name
@@ -140,4 +144,3 @@ Just hold on tight
 And don't let go
 You can make it
 Make it happen
-

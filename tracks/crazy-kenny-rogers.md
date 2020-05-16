@@ -1,8 +1,11 @@
 ---
+album: What About Me
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:1Cg8HzQLJ4rjjXprgotjJj
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-crazy-lyrics
 name: Crazy
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 223666
 ---
 Girl, there are no words to say
 What I feel in my heart

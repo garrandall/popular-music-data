@@ -1,8 +1,11 @@
 ---
+album: Live In Japan
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2grjqo0Frpf2okIBiifQKs
 features: []
-genres: []
+first_released_as_single: false
 key: september-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/september.html
 name: September
@@ -75,8 +78,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 215093
 ---
-
 Do you remember the
 21st night of September?
 Love was changing the minds of pretenders
@@ -136,6 +140,3 @@ De ya
 Ba de ya de ya de ya
 Ba de ya de ya de ya
 Ba de ya de ya de ya
-
-
-

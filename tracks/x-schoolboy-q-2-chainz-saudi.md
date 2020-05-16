@@ -1,10 +1,13 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - ScHoolboy Q
 - 2 Chainz
 - Saudi
+external_ids:
+  spotify: spotify:track:5L5KXOyCkXX2j8RtNccfzA
 features: []
-genres: []
+first_released_as_single: false
 key: x-schoolboy-q-2-chainz-saudi
 lyrics_url: https://genius.com/Schoolboy-q-2-chainz-and-saudi-x-lyrics
 name: X
@@ -29,6 +32,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 267426
 ---
 Somebody pop all day (hol' up)
 Somebody on they way (hol' up)(black panther)

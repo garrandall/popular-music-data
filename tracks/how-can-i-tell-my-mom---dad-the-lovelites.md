@@ -1,8 +1,11 @@
 ---
+album: Sisters of Soul; the Sweeter Voices of Soul
 artists:
 - The Lovelites
+external_ids:
+  spotify: spotify:track:2HCMxcxsVcaFrjAb9efSJ4
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-tell-my-mom---dad-the-lovelites
 lyrics_url: https://www.musixmatch.com/lyrics/The-Lovelites/How-Can-I-Tell-My-Mom-And-Dad
 name: How Can I Tell My Mom & Dad
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 200516
 ---
 That I've been bad
 That I've been bad

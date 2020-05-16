@@ -1,8 +1,11 @@
 ---
+album: Charlie's Angels - Music From The Motion Picture
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:6DRbs8ZLDITcaM7y4JMWvu
 features: []
-genres: []
+first_released_as_single: false
 key: angel-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/angel.html
 name: Angel
@@ -107,8 +110,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1976
+runtime: 202333
 ---
-
 I'm alone
 Yeah, I don't know if I can face the night
 I'm in tears and the cryin' that I do is for you
@@ -167,6 +171,3 @@ Come and save me tonight
 Come and save me tonight
 Come and save me tonight
 Come and save me tonight
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Double Dynamite
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:1hihoCATycPHM3evQt5OEn
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-me-hummin--sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/yougotmehummin.html
 name: You Got Me Hummin'
@@ -32,8 +35,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 175586
 ---
-
 I don't know what you got
 But it's gettin' to me
 It makes my cold nights hot
@@ -71,6 +75,3 @@ You got me hummin' now
 You got me hummin', oh
 You got me hummin', ohyeah
 You got me hummin'
-
-
-

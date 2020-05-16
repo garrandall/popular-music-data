@@ -1,8 +1,11 @@
 ---
+album: 21 At 33
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:7pgAdesi3gGZO8lAyzOTvu
 features: []
-genres: []
+first_released_as_single: false
 key: little-jeannie-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/littlejeannie.html
 name: Little Jeannie
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 317000
 ---
-
 Oh little Jeannie, you got so much love, little Jeannie
 And you take it where it strikes and give it to the likes of me
 Oh little Jeannie, she got so much love, little Jeannie
@@ -119,6 +123,3 @@ Stepped into my life from a bad dream
 Making the life that I had seem suddenly shiny and new
 Oh Jeannie I'm so in love with you
 Stepped into my life from a bad dream
-
-
-

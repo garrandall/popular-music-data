@@ -1,9 +1,12 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:75L0qdzRnhwV62UXoNq3pE
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: up-all-night-drake-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/drake/upallnight.html
 name: Up All Night
@@ -16,9 +19,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-07-10'
+release_year: 2010
+runtime: 234333
 ---
-
-
 Kush rolled, glass full, I prefer the better things
 Niggas with no money act like money isn't everything
 I'm having a good time, they just trying to ruin it
@@ -84,4 +87,3 @@ Oh yeah we in this bitch
 Oww, oww, oww
 Oh yeah we in this bitch
 Oww, oww, oww
-

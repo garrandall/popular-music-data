@@ -1,8 +1,11 @@
 ---
+album: R & B Megahits Of The 1950's - Volume 3
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:31Rx2QoMG5nQkMTq7DLupe
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-what-it-takes-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-you-got-what-it-takes-lyrics
 name: You Got What It Takes
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1959
+runtime: 169440
 ---
 Ow! You don't drive a big fast car, no
 You don't look a-like a movie star

@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Male Standards - Vol.2
 artists:
 - Jimmy Clanton And His Rockets
+external_ids:
+  spotify: spotify:track:5wXrG4NXZV0GgvGtqOJdwl
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-dream-jimmy-clanton-and-his-rockets
 name: Just A Dream
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
+release_year: 1958
+runtime: 152973
 ---
 

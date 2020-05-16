@@ -1,8 +1,11 @@
 ---
+album: Phenomenon
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:7Jc0l11j0Ehx6smWHqDXtX
 features: []
-genres: []
+first_released_as_single: false
 key: phenomenon-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-phenomenon-lyrics
 name: Phenomenon
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-12-27'
+release_year: 1997
+runtime: 244733
 ---
 Ah ah
 Baby girl was draped in Chanel

@@ -1,8 +1,11 @@
 ---
+album: Grand Slam
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:00PETndJmUIbiQKdBAiAQd
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-time-slips-away-the-spinners
 lyrics_url: https://genius.com/The-spinners-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 233840
 ---
 Well hello there
 Ah, it's been a long, long time

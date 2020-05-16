@@ -1,8 +1,11 @@
 ---
+album: Sgt. Pepper's Lonely Hearts Club Band
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:6JkioJZkImC4GRzgw5MGMO
 features: []
-genres: []
+first_released_as_single: false
 key: sgt-pepper-s-lonely-hearts-club-band-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/sgtpepperslonelyheartsclubband.html
 name: Sgt Pepper's Lonely Hearts Club Band
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1967
+runtime: 122133
 ---
-
 It was twenty years ago today
 Sergeant Pepper taught the band to play
 They've been going in and out of style
@@ -65,6 +69,3 @@ And he wants you all to sing along
 So let me introduce to you
 The one and only Billy Shears
 And Sergeant Pepper's Lonely Hearts Club Band, yeah
-
-
-

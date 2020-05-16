@@ -1,8 +1,11 @@
 ---
+album: Clancy's Tavern
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:7Lmwj2fe8MpGXypOuLGO2C
 features: []
-genres: []
+first_released_as_single: false
 key: made-in-america-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/madeinamerica.html
 name: Made In America
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 193133
 ---
-
 My old man's that old man,
 Spent his life livin' off the land,
 Dirty hands, and a clean soul.
@@ -131,6 +135,3 @@ Made in America
 
 My old man's that old man,
 Made in America
-
-
-

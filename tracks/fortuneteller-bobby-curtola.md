@@ -1,8 +1,11 @@
 ---
+album: Hitchhiker, Vol. 1
 artists:
 - Bobby Curtola
+external_ids:
+  spotify: spotify:track:5EYxarXezOkrieJr1LNFP9
 features: []
-genres: []
+first_released_as_single: false
 key: fortuneteller-bobby-curtola
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Curtola/Fortune-Teller
 name: Fortuneteller
@@ -63,6 +66,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 162346
 ---
 Fortune teller, can you see
 What my future's going to be

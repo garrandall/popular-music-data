@@ -1,8 +1,11 @@
 ---
+album: Gravity
 artists:
 - Our Lady Peace
+external_ids:
+  spotify: spotify:track:6fQJg7MdQssgZJDhTJtFtd
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-out-there-our-lady-peace
 lyrics_url: https://genius.com/Our-lady-peace-somewhere-out-there-lyrics
 name: Somewhere Out There
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2003-01-04'
+release_year: 2002
+runtime: 251333
 ---
 Last time I talked to you
 You were lonely and out of place

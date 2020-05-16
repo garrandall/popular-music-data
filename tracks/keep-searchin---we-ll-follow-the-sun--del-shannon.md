@@ -1,8 +1,11 @@
 ---
+album: 1,661 Seconds with Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:2271qTmPggEs2srV3i4g2e
 features: []
-genres: []
+first_released_as_single: false
 key: keep-searchin---we-ll-follow-the-sun--del-shannon
 lyrics_url: https://genius.com/Del-shannon-keep-searchin-well-follow-the-sun-lyrics
 name: Keep Searchin' (We'll Follow The Sun)
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 128973
 ---
 No one will understand what I've gotta do
 I've gotta find a place to hide with my baby by my side

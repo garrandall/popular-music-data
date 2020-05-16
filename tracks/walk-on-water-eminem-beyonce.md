@@ -1,9 +1,12 @@
 ---
+album: Revival
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1MS3NtbmDZt9ERwrP4ugYt
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: walk-on-water-eminem-beyonce
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/walkonwater.html
 name: Walk On Water
@@ -28,9 +31,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 303653
 ---
-
-
 I walk on water
 But I ain't no Jesus
 I walk on water
@@ -138,6 +141,3 @@ If I walked on water, I would drown
 But as long as I got a mic, I'm godlike
 So me and you are not alike
 Bitch, I wrote "Stan"
-
-
-

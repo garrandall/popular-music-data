@@ -1,8 +1,11 @@
 ---
+album: The Best Of Sonny James
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:206xFRhZVaXbGC9YQj2Bb1
 features: []
-genres: []
+first_released_as_single: false
 key: the-minute-you-re-gone-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/The-Minute-You-re-Gone
 name: The Minute You're Gone
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 151933
 ---
 The minute you're gone I cry the minute you're gone I die
 Before you walk out of sight I'm like a child all alone at night

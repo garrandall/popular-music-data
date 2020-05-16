@@ -1,8 +1,11 @@
 ---
+album: Pat Travers
 artists:
 - Pat Travers
+external_ids:
+  spotify: spotify:track:7z0r5vNWFd3tQKsYJ3RPAc
 features: []
-genres: []
+first_released_as_single: false
 key: boom-boom--out-go-the-lights--pat-travers
 lyrics_url: https://genius.com/Pat-travers-boom-boom-lyrics
 name: Boom Boom (Out Go The Lights)
@@ -35,10 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1976
+runtime: 167653
 ---
-BOOM BOOM, OUT GO THE LIGHTS
-As performed by Pat Travers
-
 No kiddin'
 I'm ready to fight
 I've been lookin' for my baby all night
@@ -55,8 +57,6 @@ I thought I treat my baby fair
 I just found out she don't want me here
 If I get her in my sight
 Boom boom! COME ON! Out go the lights!
-
-- solo -
 
 I never felt this mad before
 When I just found out she don't want me no more

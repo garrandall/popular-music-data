@@ -1,8 +1,11 @@
 ---
+album: I Still Am
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:1psC5iHzQxaTMZ5dWGfM6I
 features: []
-genres: []
+first_released_as_single: false
 key: juice-yo-gotti
 lyrics_url: https://genius.com/Yo-gotti-juice-lyrics
 name: Juice
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 149241
 ---
 It's another one
 

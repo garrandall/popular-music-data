@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:4pxUZiQifmJAA0l0KSUf1d
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-so-chuck-jackson-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/I-Need-You-So-feat-Chuck-Jackson
 name: I Need You So
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 151026
 ---
 I need you so
 To keep me happy

@@ -1,9 +1,12 @@
 ---
+album: Mellow Madness
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:5Qd8OkNlebP5u2kqhnZmNv
 features:
 - The Brothers Johnson
-genres: []
+first_released_as_single: false
 key: is-it-love-that-we-re-missin--quincy-jones-the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/isitlovethatweremissin.html
 name: Is It Love That We're Missin'
@@ -48,8 +51,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 232253
 ---
-
 Featuring Brothers Johnson
 Hey, oh, oh...
 Well, the first time I saw you
@@ -96,6 +100,3 @@ But it seems to me, only got hurt
 Is it love that we're missing
 (Tell me, baby, I wanna know)
 Peace of mind we're not getting...
-
-
-

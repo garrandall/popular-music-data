@@ -1,9 +1,12 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:7E390nZTMqEbrNC1TmHd42
 features:
 - Halsey
-genres: []
+first_released_as_single: false
 key: the-feeling-justin-bieber-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/thefeeling.html
 name: The Feeling
@@ -36,9 +39,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 244906
 ---
-
-
 You are to me
 A part of me just like anatomy
 You're pulling me
@@ -101,6 +104,3 @@ Can't get out of my head, and I need you to save me
 If I am delusional then maybe I'm crazy
 In love with you.
 Or am I in love with the feeling?
-
-
-

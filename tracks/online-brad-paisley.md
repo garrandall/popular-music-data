@@ -1,8 +1,11 @@
 ---
+album: 5th Gear
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:77lC0N7M07wmeozHWjNKts
 features: []
-genres: []
+first_released_as_single: false
 key: online-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/online.html
 name: Online
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2007-12-15'
+release_year: 2007
+runtime: 296013
 ---
-
 I work down at the pizza pit
 And I drive an old Hyundai
 I still live with my mom and dad
@@ -152,6 +156,3 @@ I'm so much cooler online
 Yeah I'm cooler online
 I'm so much cooler online
 Yeah I'm cooler online
-
-
-

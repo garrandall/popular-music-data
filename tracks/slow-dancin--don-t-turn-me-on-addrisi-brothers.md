@@ -1,8 +1,11 @@
 ---
+album: Slow Dancin' Don't Turn Me On / We've Got To Get It On Again
 artists:
 - Addrisi Brothers
+external_ids:
+  spotify: spotify:track:5STiECAfC2QDZGzSHgYk0B
 features: []
-genres: []
+first_released_as_single: true
 key: slow-dancin--don-t-turn-me-on-addrisi-brothers
 lyrics_url: https://genius.com/Addrisi-brothers-slow-dancin-dont-turn-me-on-lyrics
 name: Slow Dancin' Don't Turn Me On
@@ -67,6 +70,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1977
+runtime: 189346
 ---
 Slow dancing, it don't turn me on
 I know that chicks like to boogie to the beat in the song

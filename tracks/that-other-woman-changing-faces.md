@@ -1,8 +1,11 @@
 ---
+album: Visit Me
 artists:
 - Changing Faces
+external_ids:
+  spotify: spotify:track:7c9OYhqeRkDQsoRYGjDrv2
 features: []
-genres: []
+first_released_as_single: false
 key: that-other-woman-changing-faces
 lyrics_url: https://genius.com/Changing-faces-that-other-woman-lyrics
 name: That Other Woman
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-12-09'
+release_year: 2000
+runtime: 280200
 ---
 I can't be that other woman
 I can't be that other woman

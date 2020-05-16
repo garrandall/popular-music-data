@@ -1,8 +1,11 @@
 ---
+album: Fanmail
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:79Dduf9L3DBCsmqgv5feXO
 features: []
-genres: []
+first_released_as_single: false
 key: silly-ho-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/sillyho.html
 name: Silly Ho
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1999
+runtime: 255160
 ---
-
 Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
@@ -177,6 +181,3 @@ Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
-
-
-

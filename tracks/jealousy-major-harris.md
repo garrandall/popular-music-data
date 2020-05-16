@@ -1,8 +1,11 @@
 ---
+album: Jealousy
 artists:
 - Major Harris
+external_ids:
+  spotify: spotify:track:7MHrDZRguI970zohSaQrzF
 features: []
-genres: []
+first_released_as_single: false
 key: jealousy-major-harris
 name: Jealousy
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1976
+runtime: 524360
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Wild Exhibitions
 artists:
 - Walter Egan
+external_ids:
+  spotify: spotify:track:5YAumih3F3QwUpJEgSLNFL
 features: []
-genres: []
+first_released_as_single: false
 key: fool-moon-fire-walter-egan
 lyrics_url: https://genius.com/Walter-egan-fool-moon-fire-lyrics
 name: Fool Moon Fire
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1983
+runtime: 211326
 ---
 I once was a fresh young kid
 Nothing could drag me down

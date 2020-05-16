@@ -1,9 +1,12 @@
 ---
+album: Sing The Great Songs
 artists:
 - Nino Tempo
 - April Stevens
+external_ids:
+  spotify: spotify:track:21Se2xxY6xHPjSXhJIPniy
 features: []
-genres: []
+first_released_as_single: false
 key: whispering-nino-tempo-april-stevens
 lyrics_url: https://www.musixmatch.com/lyrics/Nino-Tempo-feat-April-Stevens/Whispering
 name: Whispering
@@ -44,6 +47,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 143493
 ---
 Whispering while you cuddle near me
 Whispering so no one can hear me

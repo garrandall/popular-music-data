@@ -1,8 +1,11 @@
 ---
+album: Kurtis Blow
 artists:
 - Kurtis Blow
+external_ids:
+  spotify: spotify:track:5TvcggVu3s2P1fMAS8BupX
 features: []
-genres: []
+first_released_as_single: false
 key: the-breaks--part-1--kurtis-blow
 lyrics_url: https://genius.com/Kurtis-blow-the-breaks-lyrics
 name: The Breaks (Part 1)
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
+release_year: 1980
+runtime: 463733
 ---
 Clap your hands everybody
 If you got what it takes

@@ -1,8 +1,11 @@
 ---
+album: (If Loving You Is Wrong) I Don't Want to Be Right
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:4CAey4iFN0nyncxkUwcdbl
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-your-shelter--in-time-of-storm--luther-ingram
 lyrics_url: https://www.musixmatch.com/lyrics/Luther-Ingram/I-ll-Be-Your-Shelter-In-Time-of-Storm
 name: I'll Be Your Shelter (In Time Of Storm)
@@ -51,6 +54,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 201333
 ---
 In times when you're troubled
 Seems more than you can afford

@@ -1,8 +1,11 @@
 ---
+album: Livin Shady
 artists:
 - Brown Boy
+external_ids:
+  spotify: spotify:track:1srGZiB4G4At62z2Z8wYL9
 features: []
-genres: []
+first_released_as_single: false
 key: superman-brown-boy
 lyrics_url: https://www.azlyrics.com/lyrics/brownboy/superman.html
 name: Superman
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2005
+runtime: 231146
 ---
-
 I know you're hurting right now 
 Don't worry 
 I'll be your superman (no, no) 
@@ -93,6 +97,3 @@ Gonna love you
 Gonna love you 
 My superman 
 My superman
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Essential Fifth Dimension
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:44HkcygfeT5JyGHEO1uHPL
 features: []
-genres: []
+first_released_as_single: false
 key: never-my-love-the-5th-dimension
 lyrics_url: https://www.musixmatch.com/lyrics/The-5th-Dimension/Never-My-Love
 name: Never My Love
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 236893
 ---
 You ask me if there will come a time
 When I grow tired of you

@@ -1,8 +1,11 @@
 ---
+album: Small World
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:6QhCg9QhK1nK9DWnc4ueYU
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-world-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/perfectworld.html
 name: Perfect World
@@ -67,8 +70,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 251000
 ---
-
 Everybody's looking for the perfect world
 Where you could have everything your heart desires
 The perfect boy will meet the perfect girl
@@ -101,6 +105,3 @@ There ain't no perfect world anyway
 Ain't no livin' in a perfect world
 But we'll keep on dreamin' of livin' in a perfect world
 Keep on dreamin' of livin' in a perfect world
-
-
-

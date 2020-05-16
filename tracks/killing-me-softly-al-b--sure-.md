@@ -1,8 +1,11 @@
 ---
+album: In Effect Mode
 artists:
 - Al B. Sure!
+external_ids:
+  spotify: spotify:track:6SfLOaHzIw2Md8r0swZ6RO
 features: []
-genres: []
+first_released_as_single: false
 key: killing-me-softly-al-b--sure-
 lyrics_url: https://genius.com/Al-b-sure-killing-me-softly-lyrics
 name: Killing Me Softly
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1988
+runtime: 291200
 ---
 I heard she sang a good song
 I heard she had a style

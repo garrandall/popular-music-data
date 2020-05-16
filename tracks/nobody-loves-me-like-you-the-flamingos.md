@@ -1,8 +1,11 @@
 ---
+album: Requestfully Yours
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:0Ed6nYgC601S0UfPASZeUL
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-loves-me-like-you-the-flamingos
 lyrics_url: https://www.musixmatch.com/lyrics/The-Flamingos/Nobody-Loves-Me-Like-You-Do
 name: Nobody Loves Me Like You
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 134520
 ---
 Oh my darling I just love you so;
 There's one thing that I want you to know

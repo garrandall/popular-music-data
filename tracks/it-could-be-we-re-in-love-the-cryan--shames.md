@@ -1,8 +1,11 @@
 ---
+album: A Scratch in the Sky
 artists:
 - The Cryan' Shames
+external_ids:
+  spotify: spotify:track:3yX2zKbHesbRtNp628fIgr
 features: []
-genres: []
+first_released_as_single: false
 key: it-could-be-we-re-in-love-the-cryan--shames
 lyrics_url: https://genius.com/The-cryan-shames-it-could-be-were-in-love-lyrics
 name: It Could Be We're In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 153986
 ---
 Fairs-Kerley
 

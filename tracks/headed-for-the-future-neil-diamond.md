@@ -1,8 +1,11 @@
 ---
+album: Headed For The Future
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:202FXP04wn1t9cQsFAHD9F
 features: []
-genres: []
+first_released_as_single: false
 key: headed-for-the-future-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/headedforthefuture.html
 name: Headed For The Future
@@ -47,8 +50,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1986
+runtime: 248426
 ---
-
 Hey,
 We're headed for the future
 Give us some room
@@ -100,6 +104,3 @@ Come on, come on
 Come on, come on
 Come on, come on
 Yeah
-
-
-

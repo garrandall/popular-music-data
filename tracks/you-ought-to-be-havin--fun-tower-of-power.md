@@ -1,8 +1,11 @@
 ---
+album: Ain't Nothin' Stoppin' Us Now
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:0GEMqWyxl6gGHWFnFkB9Cc
 features: []
-genres: []
+first_released_as_single: false
 key: you-ought-to-be-havin--fun-tower-of-power
 lyrics_url: https://www.musixmatch.com/lyrics/Tower-of-Power/You-Ought-to-Be-Havin-Fun
 name: You Ought To Be Havin' Fun
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1976
+runtime: 186733
 ---
 If you're sittin' out there wondering what to do
 Me and the fellas got a message for you

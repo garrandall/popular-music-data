@@ -1,8 +1,11 @@
 ---
+album: Academy Award Winning Songs
 artists:
 - Eddie Fisher
+external_ids:
+  spotify: spotify:track:3ARiABu5U2Fzkl3QxfSCZn
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-eddie-fisher
 name: Tonight
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1955
+runtime: 177933
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Save Me
 artists:
 - Silver Convention
+external_ids:
+  spotify: spotify:track:4BzIFYuujBQsdmELx5fUhA
 features: []
-genres: []
+first_released_as_single: false
 key: fly-robin-fly-silver-convention
 lyrics_url: https://genius.com/Silver-convention-fly-robin-fly-lyrics
 name: Fly Robin Fly
@@ -75,6 +78,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 228920
 ---
 Fly, robin fly
 Fly, robin fly

@@ -1,9 +1,12 @@
 ---
+album: Finally Rich
 artists:
 - Chief Keef
+external_ids:
+  spotify: spotify:track:2ikkgfIIM9kGKZCXzXnTpj
 features:
 - Lil Reese
-genres: []
+first_released_as_single: false
 key: i-don-t-like-chief-keef-lil-reese
 lyrics_url: https://genius.com/Chief-keef-i-dont-like-lyrics
 name: I Don't Like
@@ -20,6 +23,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 293840
 ---
 Young Chop on the beat
 I'on like

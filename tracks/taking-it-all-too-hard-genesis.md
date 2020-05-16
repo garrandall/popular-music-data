@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:6P2lntEX32VCDfkmPHrpxU
 features: []
-genres: []
+first_released_as_single: false
 key: taking-it-all-too-hard-genesis
 lyrics_url: https://genius.com/Genesis-taking-it-all-too-hard-lyrics
 name: Taking It All Too Hard
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1983
+runtime: 238213
 ---
 Oh, no, not this confused again
 Oh, no not the same mistakes again

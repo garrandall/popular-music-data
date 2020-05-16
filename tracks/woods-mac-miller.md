@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:3Qa944OTMZkg8DHjET8JQv
 features: []
-genres: []
+first_released_as_single: false
 key: woods-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/woods.html
 name: Woods
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 286386
 ---
-
 Yeah, yeah, yeah, yeah, yeah, yeah
 
 Yeah, things like this ain't built to last
@@ -62,6 +66,3 @@ We can only go up, we can only go up
 
 Do I, do I, do I love?
 Can I, can I, can I get enough?
-
-
-

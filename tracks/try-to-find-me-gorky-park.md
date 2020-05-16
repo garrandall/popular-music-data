@@ -1,8 +1,11 @@
 ---
+album: Gorky Park
 artists:
 - Gorky Park
+external_ids:
+  spotify: spotify:track:0Ai4RcassZrCirAWlXiYtK
 features: []
-genres: []
+first_released_as_single: false
 key: try-to-find-me-gorky-park
 lyrics_url: https://genius.com/Gorky-park-try-to-find-me-lyrics
 name: Try To Find Me
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
+release_year: 1989
+runtime: 312826
 ---
 When the rain is pouring down
 And no one is around

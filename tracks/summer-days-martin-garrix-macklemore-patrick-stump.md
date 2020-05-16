@@ -1,10 +1,13 @@
 ---
+album: Summer Days
 artists:
 - Martin Garrix
+external_ids:
+  spotify: spotify:track:7Feaw9WAEREY0DUOSXJLOM
 features:
 - Macklemore
 - Patrick Stump
-genres: []
+first_released_as_single: true
 key: summer-days-martin-garrix-macklemore-patrick-stump
 lyrics_url: https://www.azlyrics.com/lyrics/martingarrix/summerdays.html
 name: Summer Days
@@ -13,9 +16,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2019
+runtime: 163804
 ---
-
-
 (I got this feeling on a summer day)
 (Knew it when I saw her face)
 (I just thought that)
@@ -79,6 +82,3 @@ She could be the one
 (That she could be)
 
 She could be the one
-
-
-

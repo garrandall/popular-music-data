@@ -1,9 +1,12 @@
 ---
+album: Kenny Rogers & The First Edition
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:4m9zF5OiikfhWTjcXTHAJx
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-burning-kenny-rogers-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-somethings-burning-lyrics
 name: Something's Burning
@@ -72,6 +75,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 242093
 ---
 You lie in gentle
 Sleep beside me

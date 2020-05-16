@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2Na0z2gfN67Rzf0vp74Wi3
 features: []
-genres: []
+first_released_as_single: false
 key: lose-you-drake
 lyrics_url: https://genius.com/Drake-lose-you-lyrics
 name: Lose You
@@ -11,6 +14,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2017
+runtime: 305373
 ---
 I don't care what society thinks. They're nothing anyway. They're no better than me. Out there you just have to fit into a pattern that somebody's already laid out for you. Life we live, you have to set your own patterns, your own ideals. You have to handle the whole job yourself. (Yeah)
 

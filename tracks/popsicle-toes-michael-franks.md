@@ -1,8 +1,11 @@
 ---
+album: The Art Of Tea
 artists:
 - Michael Franks
+external_ids:
+  spotify: spotify:track:2gLzBIXTrphTRCZoSRpKZJ
 features: []
-genres: []
+first_released_as_single: false
 key: popsicle-toes-michael-franks
 lyrics_url: https://www.azlyrics.com/lyrics/michaelfranks/popsicletoes.html
 name: Popsicle Toes
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 276400
 ---
-
 And when God gave out rhythm
 He sure was good to you
 You can add, subtract, multiply and divide
@@ -82,6 +86,3 @@ Popsicle toes
 Popsicle toes are always froze
 Popsicle toes
 You're so brave to expose all those popsicle toes
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3WRIaWsws011vHMd9uzPjG
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: first-off-future-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/future/firstoff.html
 name: First Off
@@ -20,8 +23,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2019
+runtime: 228366
 ---
-
 Back on the Forbes, shit crazy (Yeah)
 I make more than Dwyane Wade, baby
 (ATL Jacob)
@@ -107,6 +111,3 @@ Back on the Forbes, shit crazy (Yeah)
 I make more than Dwayne Wade, baby (Yeah)
 I'm a street nigga and I stay faded
 Never worked in a gym, but I weighed it
-
-
-

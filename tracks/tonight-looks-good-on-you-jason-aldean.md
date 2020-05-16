@@ -1,8 +1,11 @@
 ---
+album: Old Boots, New Dirt
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:1pm6AoOYO81llP3gwkTAbI
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-looks-good-on-you-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/tonightlooksgoodonyou.html
 name: Tonight Looks Good On You
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2014
+runtime: 231666
 ---
-
 You ain't got a dress that I don't like
 You ain't got a pair of jeans that don't fit you just right
 There's not a minute in the day
@@ -140,6 +144,3 @@ You're lookin' so good anywhere you are
 Tonight, tonight looks good on you
 Tonight looks good on you
 I just gotta tell you, baby, yeah
-
-
-

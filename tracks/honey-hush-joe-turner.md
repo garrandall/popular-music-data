@@ -1,8 +1,11 @@
 ---
+album: 'Big Joe Turner: The Rhythm & Blues Years'
 artists:
 - Joe Turner
+external_ids:
+  spotify: spotify:track:5ssXU6u9HqUW87W2gglY7F
 features: []
-genres: []
+first_released_as_single: false
 key: honey-hush-joe-turner
 lyrics_url: https://genius.com/Joe-turner-honey-hush-lyrics
 name: Honey Hush
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 162946
 ---
 Ah let 'em roll like a big wheel
 In a Georgia cotton field

@@ -1,8 +1,11 @@
 ---
+album: The Greatest Popular Pianist / The Artist's Choice
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:5I8YPXA3U6tnYpFNvchUeb
 features: []
-genres: []
+first_released_as_single: false
 key: amor-roger-williams
 lyrics_url: https://www.musixmatch.com/lyrics/Roger-Williams/Amor
 name: Amor
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 179133
 ---
 Je me rappelle la première fois où je l'ai rencontrée
 Sur le sable, à la plage, en plein été

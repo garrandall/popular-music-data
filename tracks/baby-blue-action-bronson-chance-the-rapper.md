@@ -1,9 +1,12 @@
 ---
+album: Mr. Wonderful
 artists:
 - Action Bronson
+external_ids:
+  spotify: spotify:track:7gDwRzJhLs0fFHaGtMDJVM
 features:
 - Chance The Rapper
-genres: []
+first_released_as_single: false
 key: baby-blue-action-bronson-chance-the-rapper
 lyrics_url: https://www.azlyrics.com/lyrics/actionbronson/babyblue.html
 name: Baby Blue
@@ -12,9 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
+release_year: 2015
+runtime: 280160
 ---
-
-
 Why you always all on my back?
 Why you gotta do me like that?
 Why you gotta act like a bitch when I'm with you?
@@ -94,6 +97,3 @@ Baby girl I'm blue
 
 
 La La La La
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:1ffMmNQ42w7dIwyCDTKySb
 features: []
-genres: []
+first_released_as_single: false
 key: cold-one-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/coldone.html
 name: Cold One
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 205226
 ---
-
 It was a perfect day for the end of May, they say a record high
 I was starin' at that green water when out of the blue and by surprise
 She had her feet up on the cooler as she put our love on ice
@@ -59,6 +63,3 @@ She left me hanging high and dry in that hell hot summer sun
 Damn, babe, that was a cold one
 
 Damn, babe, that was a cold one
-
-
-

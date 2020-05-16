@@ -1,8 +1,11 @@
 ---
+album: Georgia Satellites
 artists:
 - The Georgia Satellites
+external_ids:
+  spotify: spotify:track:0dJEQ01IPN4ukqRsPrm4ab
 features: []
-genres: []
+first_released_as_single: false
 key: battleship-chains-the-georgia-satellites
 lyrics_url: https://www.azlyrics.com/lyrics/georgiasatellites/battleshipchains.html
 name: Battleship Chains
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
+release_year: 1986
+runtime: 177386
 ---
-
 You got me tied down with battleship chains
 fifty foot long and a two ton anchor
 tied down with battleship chains
@@ -75,6 +79,3 @@ don't you know you got me
 tied tied, whoo hoo
 baby don't you know you got me
 tied tied, whoo hoo
-
-
-

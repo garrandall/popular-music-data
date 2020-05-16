@@ -1,8 +1,11 @@
 ---
+album: Earthling
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:6ZUwzAFkFYHbe8dqqe2pB5
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-afraid-of-americans-david-bowie
 lyrics_url: https://genius.com/David-bowie-im-afraid-of-americans-lyrics
 name: I'm Afraid Of Americans
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
+release_year: 1997
+runtime: 300160
 ---
 Johnny's in America, Lo-Teks at the wheel
 No one needs anyone, they don't even just pretend

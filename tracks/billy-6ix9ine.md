@@ -1,8 +1,11 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:5KhFaq45chTw8RGfWo8T8J
 features: []
-genres: []
+first_released_as_single: false
 key: billy-6ix9ine
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/billy.html
 name: Billy
@@ -39,9 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 112666
 ---
-
-
 That's my word, get up in they face
 Talk your shit, let your nuts drag, nigga
 These niggas just runnin' out they fuckin' mouth, man
@@ -88,6 +91,3 @@ Sending shots, shots, shots, shots, shots, nigga
 Everybody gettin' pop, pop, popped, nigga
 The thing go "rrrah, rrrah, rrrah, rrrah, rrrah," nigga
 We send shots, shots, shots, shots, shots, nigga
-
-
-

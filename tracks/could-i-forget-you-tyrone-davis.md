@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:3kU9VVnb9XfLbrmjS8YoCj
 features: []
-genres: []
+first_released_as_single: false
 key: could-i-forget-you-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/Could-I-Forget-You
 name: Could I Forget You
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 150760
 ---
 Oh, I guess this is the end of the line
 My mind is completely made up

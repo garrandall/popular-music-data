@@ -1,8 +1,11 @@
 ---
+album: Cut
 artists:
 - Golden Earring
+external_ids:
+  spotify: spotify:track:4o8L1f6yH1kiCSNYAXAVWW
 features: []
-genres: []
+first_released_as_single: false
 key: the-devil-made-me-do-it-golden-earring
 lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/thedevilmademedoit.html
 name: The Devil Made Me Do It
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1982
+runtime: 205733
 ---
-
 All set, court's in session
 This judge, got no compassion
 Witness, show me your right hand
@@ -63,6 +67,3 @@ The devil made me do it, oh, oh, oh, oh
 It was an act of a man possessed now
 The devil made me do it, oh, oh, oh, oh
 Your honor, I am innocent
-
-
-

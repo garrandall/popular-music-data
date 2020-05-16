@@ -1,8 +1,11 @@
 ---
+album: The 35th Anniversary Collection
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:0ZzQTQb1o0110UXLSKP1Fl
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-love-is-made-of-the-miracles
 lyrics_url: https://genius.com/The-miracles-thats-what-love-is-made-of-lyrics
 name: That's What Love Is Made Of
@@ -31,6 +34,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 169773
 ---
 You take sugar and spice
 Everything nice

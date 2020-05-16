@@ -1,8 +1,12 @@
 ---
+album: Let's All Sing With The Chipmunks
 artists:
-- David Seville And The Chipmunks
-features: []
-genres: []
+- Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:0vpA8mETso7LKhIddYOVkj
+features:
+- David Seville
+first_released_as_single: false
 key: ragtime-cowboy-joe-david-seville-and-the-chipmunks
 name: Ragtime Cowboy Joe
 rankings:
@@ -42,5 +46,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 128893
 ---
 

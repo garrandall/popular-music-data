@@ -1,11 +1,14 @@
 ---
+album: Hotel California
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:3fT9dyFnGSiXYfNOLZi3Ew
 features:
 - Cedric Gervais
 - Wiz Khalifa
 - Mally Mall
-genres: []
+first_released_as_single: false
 key: molly-tyga-cedric-gervais-wiz-khalifa-mally-mall
 lyrics_url: https://genius.com/Tyga-molly-lyrics
 name: Molly
@@ -58,6 +61,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2013
+runtime: 218440
 ---
 Hi, I'm looking for Molly
 I've been searching everywhere

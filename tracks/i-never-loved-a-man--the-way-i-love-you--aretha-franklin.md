@@ -1,8 +1,11 @@
 ---
+album: I Never Loved a Man the Way I Love You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1hES47PrbU8GPTI5A9lsr0
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-loved-a-man--the-way-i-love-you--aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/ineverlovedaman.html
 name: I Never Loved A Man (The Way I Love You)
@@ -51,8 +54,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 171773
 ---
-
 You're a no good heart breaker
 You're a liar and you're a cheat
 And I don't know why
@@ -96,6 +100,3 @@ Ain't never had a man hurt me so bad
 
 No
 Well this is what I'm gonna do about it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Julie Roberts
 artists:
 - Julie Roberts
+external_ids:
+  spotify: spotify:track:1xsGrsVJwG9zel8pefzVeo
 features: []
-genres: []
+first_released_as_single: false
 key: break-down-here-julie-roberts
 lyrics_url: https://www.azlyrics.com/lyrics/julieroberts/breakdownhere.html
 name: Break Down Here
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-10-02'
+release_year: 2004
+runtime: 245493
 ---
-
 Mile marker 203
 The gas gauge leaning on the edge of E
 I'll be danged if the rain ain't pouring down
@@ -91,6 +95,3 @@ It's too late to turn around
 I'd sure hate to break down here
 
 Mile marker 215
-
-
-

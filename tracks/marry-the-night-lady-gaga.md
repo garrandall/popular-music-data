@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:1k18nxjYj8R5iz82Ap7GEY
 features: []
-genres: []
+first_released_as_single: false
 key: marry-the-night-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/marrythenight.html
 name: Marry The Night
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 264520
 ---
-
 I'm gonna marry the night
 I won't give up on my life
 I'm a warrior queen
@@ -129,6 +133,3 @@ I'm gonna marry
 Marry
 C'mon c'mon the night
 The night
-
-
-

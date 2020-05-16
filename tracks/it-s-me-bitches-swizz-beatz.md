@@ -1,8 +1,11 @@
 ---
+album: One Man Band Man
 artists:
 - Swizz Beatz
+external_ids:
+  spotify: spotify:track:3yoRkq0eirdr7CyvXnh3Mr
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-me-bitches-swizz-beatz
 lyrics_url: https://genius.com/Swizz-beatz-its-me-bitches-lyrics
 name: It's Me Bitches
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-05-12'
+release_year: 2006
+runtime: 154760
 ---
 Chillin' in my Beemer, listenin' to "Ether"
 Bumpin through ya speakers, know I got the heaters

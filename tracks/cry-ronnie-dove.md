@@ -1,8 +1,11 @@
 ---
+album: The Best of Ronnie Dove Volume 2
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:3eq4csfWwOLtrewP6WxSfh
 features: []
-genres: []
+first_released_as_single: false
 key: cry-ronnie-dove
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dove/Cry
 name: Cry
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 184266
 ---
 (Cry, cry, cry)
 

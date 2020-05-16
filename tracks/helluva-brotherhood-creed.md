@@ -1,8 +1,11 @@
 ---
+album: Brotherhood Creed
 artists:
 - Brotherhood Creed
+external_ids:
+  spotify: spotify:track:2PsEdekMAqnqj9jJFu1qoQ
 features: []
-genres: []
+first_released_as_single: false
 key: helluva-brotherhood-creed
 lyrics_url: https://genius.com/Brotherhood-creed-helluva-lyrics
 name: Helluva
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1992
+runtime: 256560
 ---
 1st verse
 Hello Helluva!

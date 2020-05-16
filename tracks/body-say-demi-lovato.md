@@ -1,8 +1,11 @@
 ---
+album: Body Say
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:7xrA11O07xo57Bbg6p4hck
 features: []
-genres: []
+first_released_as_single: true
 key: body-say-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/bodysay.html
 name: Body Say
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 193893
 ---
-
 If I had it my way, I would take you down
 If I had it my way, I would turn you out
 And if my body had a say, I would come again
@@ -82,6 +86,3 @@ Touch, make love, taste you
 If my body told the truth
 Baby, I would do
 Just what I want to, want to, want to
-
-
-

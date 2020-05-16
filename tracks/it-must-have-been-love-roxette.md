@@ -1,8 +1,11 @@
 ---
+album: Pearls of Passion
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:4tNxgaOoOc03uNcY2hEPGS
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-have-been-love-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/itmusthavebeenlove.html
 name: It Must Have Been Love
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
+release_year: 1986
+runtime: 287826
 ---
-
 (It must have been love but it's over now)
 
 Lay a whisper on my pillow
@@ -147,6 +151,3 @@ It's where the water flows, it's where the wind blows
 
 (Must have been love but it's over now)
 (Must have been love but it's over now)
-
-
-

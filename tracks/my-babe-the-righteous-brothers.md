@@ -1,8 +1,11 @@
 ---
+album: Reunion
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:32LW87DmZ11R4Fgkpfd6EL
 features: []
-genres: []
+first_released_as_single: false
 key: my-babe-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-my-babe-lyrics
 name: My Babe
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 188226
 ---
 I'm talkin' 'bout my baby, not your baby
 She's my babe, she's so fine

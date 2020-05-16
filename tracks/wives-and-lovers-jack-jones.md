@@ -1,8 +1,11 @@
 ---
+album: Wives And Lovers
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:33yeTx321qQCaLyh2nE6BY
 features: []
-genres: []
+first_released_as_single: false
 key: wives-and-lovers-jack-jones
 lyrics_url: https://genius.com/Jack-jones-wives-and-lovers-lyrics
 name: Wives And Lovers
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 149040
 ---
 Hey, little girl
 Comb your hair, fix your make-up

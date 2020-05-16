@@ -1,8 +1,11 @@
 ---
+album: 'More: Johnny''s Greatest Hits'
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:1hoin2EVdkWTtOrDdIIulg
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-beautiful-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/youarebeautiful.html
 name: You Are Beautiful
@@ -31,8 +34,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1959
+runtime: 189733
 ---
-
 You are beautiful
 Soft and shy
 You are the girl whose eyes met mind
@@ -59,6 +63,3 @@ Sailed away
 Gently your eyes looked back on mine
 Clearly you heard me say
 You are the girl I will love someday
-
-
-

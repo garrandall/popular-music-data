@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:6cEfNnApZLeaYFUjHgpl4P
 features: []
-genres: []
+first_released_as_single: false
 key: a-world-without-music-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/A-World-Without-Music
 name: A World Without Music
@@ -16,6 +19,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 137013
 ---
 What would the world be like, y'all
 Without, without music

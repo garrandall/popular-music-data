@@ -1,8 +1,11 @@
 ---
+album: Southern Voice
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:44WvPTSJju4U8HbBf7Tuwy
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-business-doing-pleasure-with-you-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/itsabusinessdoingpleasurewithyou.html
 name: It's A Business Doing Pleasure With You
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 188280
 ---
-
 I spent fifteen hundred dollars on your damn dog's collar 
 Put new spinners on you escalade 
 I swear I almost started cryin' 
@@ -85,6 +89,3 @@ there ain't nothing much that I wouldn't do
 It's a business doing pleasure, a business doing pleasure with you 
 No no no no 
 It's a business doing pleasure, a business doing pleasure with you
-
-
-

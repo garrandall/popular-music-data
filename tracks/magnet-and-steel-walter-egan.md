@@ -1,8 +1,11 @@
 ---
+album: Not Shy
 artists:
 - Walter Egan
+external_ids:
+  spotify: spotify:track:2u02gyZqCqOvemiSk8DNyk
 features: []
-genres: []
+first_released_as_single: false
 key: magnet-and-steel-walter-egan
 lyrics_url: https://genius.com/Walter-egan-magnet-and-steel-lyrics
 name: Magnet And Steel
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1972
+runtime: 203960
 ---
 (Oh oh ah)
 

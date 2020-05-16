@@ -1,8 +1,11 @@
 ---
+album: Funhouse
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:1M6dQ8MZQnYxjH8yZzswQt
 features: []
-genres: []
+first_released_as_single: false
 key: glitter-in-the-air-p-nk
 lyrics_url: https://genius.com/P-nk-glitter-in-the-air-lyrics
 name: Glitter In The Air
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2008
+runtime: 227813
 ---
 Have you ever fed a lover with just your hands?
 Closed your eyes and trusted, just trusted?

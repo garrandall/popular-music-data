@@ -1,8 +1,11 @@
 ---
+album: Barbara-Ann
 artists:
 - The Regents
+external_ids:
+  spotify: spotify:track:7suNkdh6CgE9B9hum6x69c
 features: []
-genres: []
+first_released_as_single: false
 key: barbara-ann-the-regents
 lyrics_url: https://genius.com/The-regents-barbara-ann-lyrics
 name: Barbara-Ann
@@ -47,6 +50,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 136866
 ---
 Bar bar bar bar Barbara Ann
 Bar bar bar bar Barbara Ann

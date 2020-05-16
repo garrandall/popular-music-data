@@ -1,8 +1,11 @@
 ---
+album: True Story
 artists:
 - Terror Squad
+external_ids:
+  spotify: spotify:track:2Ozc0me9PV5vlt8cokwdvI
 features: []
-genres: []
+first_released_as_single: false
 key: lean-back-terror-squad
 lyrics_url: https://www.azlyrics.com/lyrics/terrorsquad/leanback.html
 name: Lean Back
@@ -131,8 +134,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 2004
+runtime: 247426
 ---
-
 Yeah... My niggas...
 Throw ya hands in the air right now man...
 Feel this shit right here... 
@@ -223,6 +227,3 @@ I said my niggas don't dance,
 we just pull up our pants and,
 Do the Roc-away.
 Now lean back, lean back, lean back, lean back.
-
-
-

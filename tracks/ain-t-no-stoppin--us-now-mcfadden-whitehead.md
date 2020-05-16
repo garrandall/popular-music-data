@@ -1,9 +1,12 @@
 ---
+album: McFadden & Whitehead
 artists:
 - McFadden
 - Whitehead
+external_ids:
+  spotify: spotify:track:6aWIMYpC15wrCJ5RbwQjVD
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-stoppin--us-now-mcfadden-whitehead
 lyrics_url: https://genius.com/Mcfadden-and-whitehead-aint-no-stoppin-us-now-annotated
 name: Ain't No Stoppin' Us Now
@@ -80,6 +83,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1972
+runtime: 421160
 ---
 Now, are you all ready?
 Are y'all ready?

@@ -1,8 +1,11 @@
 ---
+album: There Goes Rhymin' Simon
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:3f0U5NaD1bCk8nmKpn2ZJY
 features: []
-genres: []
+first_released_as_single: false
 key: kodachrome-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/kodachrome.html
 name: Kodachrome
@@ -63,8 +66,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 215400
 ---
-
 When I think back
 On all the crap I learned in high school
 It's a wonder
@@ -90,6 +94,3 @@ I know they'd never match
 my sweet imagination
 Everything looks worse
 in black and white
-
-
-

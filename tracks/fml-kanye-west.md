@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:30Zcjs7pgEkmJA1lEbGSWT
 features: []
-genres: []
+first_released_as_single: false
 key: fml-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/fml.html
 name: FML
@@ -11,9 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2016
+runtime: 236120
 ---
-
-
 I been waiting for a minute
 For my lady
 So I can't jeopardize that for one of these hoes
@@ -89,6 +92,3 @@ And forget all your cares
 Throw them, throw them away
 Oh, life's a feeling
 Oh, the body's a feeling
-
-
-

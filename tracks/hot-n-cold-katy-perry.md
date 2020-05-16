@@ -1,8 +1,11 @@
 ---
+album: One Of The Boys
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:0IZM2onaTBMRTEIcc5oIi9
 features: []
-genres: []
+first_released_as_single: true
 key: hot-n-cold-katy-perry
 lyrics_url: https://genius.com/Katy-perry-hot-n-cold-lyrics
 name: Hot N Cold
@@ -163,6 +166,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2008
+runtime: 223226
 ---
 You change your mind like a girl changes clothes
 Yeah, you PMS like a bitch; I would know

@@ -1,8 +1,11 @@
 ---
+album: Love Bomb
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:5iS1LpRTQaNoYgBz5oqscz
 features: []
-genres: []
+first_released_as_single: false
 key: piece-by-piece-the-tubes
 lyrics_url: https://genius.com/The-tubes-piece-by-piece-lyrics
 name: Piece By Piece
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1985
+runtime: 268693
 ---
 She looks good
 But she's not altogether right

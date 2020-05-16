@@ -1,8 +1,11 @@
 ---
+album: The Click
 artists:
 - AJR
+external_ids:
+  spotify: spotify:track:4oXQTUwLTqh7f0l84K2P8G
 features: []
-genres: []
+first_released_as_single: true
 key: weak-ajr
 lyrics_url: https://www.azlyrics.com/lyrics/ajr/weak.html
 name: Weak
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2016
+runtime: 201159
 ---
-
 "No. Thank you." is what I should've said,
 I should be in bed
 But temptations of trouble on my tongue,
@@ -119,6 +123,3 @@ Go!
 
 But I'm weak. And what's wrong with that?
 Boy, oh boy I love it when I fall for that
-
-
-

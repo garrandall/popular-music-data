@@ -1,8 +1,11 @@
 ---
+album: Catfish
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6tRGxhyqh6ZcKFxPLw1o0N
 features: []
-genres: []
+first_released_as_single: false
 key: catfish-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/catfish.html
 name: Catfish
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1976
+runtime: 395106
 ---
-
 Hey, hey, yeah, hey, yeah, hey
 She was a disco queen
 She came from New Orleans
@@ -99,6 +103,3 @@ Boy, that girl can shoot the coop
 She can
 Catfish
 Catfish makes my nature rise
-
-
-

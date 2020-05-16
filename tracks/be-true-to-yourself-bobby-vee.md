@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:2Djzx2jL5Yr0zOARwKCSHT
 features: []
-genres: []
+first_released_as_single: false
 key: be-true-to-yourself-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/betruetoyourself.html
 name: Be True To Yourself
@@ -35,8 +38,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 126280
 ---
-
 Be true to yourself
 And you'll always be true to me
 Be true to yourself
@@ -51,6 +55,3 @@ I'm not afraid of losing you
 I have faith in you, can't you see
 Darling be true to yourself
 And you'll always be true to me
-
-
-

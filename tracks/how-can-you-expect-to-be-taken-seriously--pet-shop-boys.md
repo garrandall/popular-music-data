@@ -1,8 +1,11 @@
 ---
+album: Behaviour
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:0rgdUmMZzwmZyZI2fCEhsv
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-you-expect-to-be-taken-seriously--pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/howcanyouexpecttobetakenseriously.html
 name: How Can You Expect To Be Taken Seriously?
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 236200
 ---
-
 You live upon a stage, and everyone's agreed
 You're the brightest hope by far that anyone can see
 So when you take the limelight you can guarantee
@@ -61,6 +65,3 @@ Seriously
 (Seriously)
 Seriously
 Ah, seriously
-
-
-

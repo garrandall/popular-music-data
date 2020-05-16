@@ -1,8 +1,11 @@
 ---
+album: Looking 4 Myself
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:12eMQUn2GzfsfsQLH53M19
 features: []
-genres: []
+first_released_as_single: false
 key: scream-usher
 lyrics_url: https://genius.com/Usher-scream-lyrics
 name: Scream
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 234693
 ---
 Usher, baby
 Yeah, yeah

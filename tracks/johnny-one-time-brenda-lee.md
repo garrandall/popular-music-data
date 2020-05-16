@@ -1,8 +1,11 @@
 ---
+album: Greatest Country Songs
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:6Sl718O9BpeoGanTgfd5xV
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-one-time-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/johnnyonetime.html
 name: Johnny One Time
@@ -51,8 +54,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 214933
 ---
-
 So he told you that you're the dream
 That he's been searching for
 And he told you, he's never met
@@ -104,6 +108,3 @@ Shaped like mine
 Did he tell you
 That he's Know as
 JOHNNY ONE TIME
-
-
-

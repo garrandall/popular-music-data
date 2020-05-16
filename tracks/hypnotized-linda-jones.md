@@ -1,8 +1,11 @@
 ---
+album: Hypnotized
 artists:
 - Linda Jones
+external_ids:
+  spotify: spotify:track:1BW3kyysm0kt1fgQVaIdAv
 features: []
-genres: []
+first_released_as_single: false
 key: hypnotized-linda-jones
 lyrics_url: https://genius.com/Linda-jones-hypnotized-lyrics
 name: Hypnotized
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 160626
 ---
 (Hypnotized)
 La la la la la...ha ha

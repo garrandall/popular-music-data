@@ -1,8 +1,11 @@
 ---
+album: 4 (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:3i2Ddy4a0rNnGQY60pZdYp
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-up-foreigner
 lyrics_url: https://genius.com/Foreigner-break-it-up-lyrics
 name: Break It Up
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1981
+runtime: 253640
 ---
 Made myself a prisoner
 I locked myself away

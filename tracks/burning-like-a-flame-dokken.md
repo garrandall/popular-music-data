@@ -1,8 +1,11 @@
 ---
+album: Back For The Attack
 artists:
 - Dokken
+external_ids:
+  spotify: spotify:track:5O5pZhWTQ6VwxU0ZTGX84C
 features: []
-genres: []
+first_released_as_single: false
 key: burning-like-a-flame-dokken
 lyrics_url: https://www.azlyrics.com/lyrics/dokken/burninglikeaflame.html
 name: Burning Like A Flame
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 284533
 ---
-
 Never thought our love would last
 For so long
 Time and time again
@@ -107,6 +111,3 @@ Don't you know that
 It's our love that's burning
 Our love burning like a flame
 Our love, never gonna change
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: After the Gold Rush
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:4nRhbx8L4ifnMKaE5jSQGR
 features: []
-genres: []
+first_released_as_single: false
 key: only-love-can-break-your-heart-neil-young
 lyrics_url: https://genius.com/Neil-young-only-love-can-break-your-heart-lyrics
 name: Only Love Can Break Your Heart
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
+release_year: 1970
+runtime: 188600
 ---
 When you were young and on your own
 How did it feel to be alone?

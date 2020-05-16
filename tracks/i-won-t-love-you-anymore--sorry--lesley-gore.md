@@ -1,8 +1,11 @@
 ---
+album: All About Love
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:6YNRrZKHLr1cqpo3cOy8CS
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-love-you-anymore--sorry--lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-i-wont-love-you-anymore-sorry-lyrics
 name: I Won't Love You Anymore (Sorry)
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 124000
 ---
 I won't love you anymore (sorry)
 I won't love you anymore (sorry)

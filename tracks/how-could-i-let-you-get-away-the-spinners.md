@@ -1,8 +1,11 @@
 ---
+album: Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:4jnPGIKO0aljX74CmUA2CH
 features: []
-genres: []
+first_released_as_single: false
 key: how-could-i-let-you-get-away-the-spinners
 lyrics_url: https://genius.com/The-spinners-how-could-i-let-you-get-away-lyrics
 name: How Could I Let You Get Away
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 229773
 ---
 Like Howdy Doo
 Your tin soldiers your clowns too

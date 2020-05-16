@@ -1,8 +1,11 @@
 ---
+album: See You On the Other Side
 artists:
 - Korn
+external_ids:
+  spotify: spotify:track:6p2liQLGoDaLXgND68bfVt
 features: []
-genres: []
+first_released_as_single: false
 key: coming-undone-korn
 lyrics_url: https://www.azlyrics.com/lyrics/korn/comingundone.html
 name: Coming Undone
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-08-12'
+release_year: 2005
+runtime: 199773
 ---
-
 Keep holding on
 When my brain's tickin' like a bomb
 Guess the black thoughts have come Again to get me
@@ -109,6 +113,3 @@ And soon I anticipate
 I'm coming undone
 One looks so strong
 So delicate
-
-
-

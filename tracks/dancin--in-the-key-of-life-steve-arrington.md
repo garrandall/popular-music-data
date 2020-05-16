@@ -1,8 +1,11 @@
 ---
+album: Dancin' In The Key Of Life
 artists:
 - Steve Arrington
+external_ids:
+  spotify: spotify:track:32YkbLhtHxiyv0UpEgUmDm
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--in-the-key-of-life-steve-arrington
 lyrics_url: https://genius.com/Steve-arrington-dancin-in-the-key-of-life-lyrics
 name: Dancin' In The Key Of Life
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1985
+runtime: 297240
 ---
 I wake up in the morning
 Thinking of you

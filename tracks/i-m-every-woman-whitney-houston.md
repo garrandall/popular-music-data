@@ -1,8 +1,11 @@
 ---
+album: The Bodyguard - Original Soundtrack Album
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:2eHj0klWkwRQuIrNlPpCPa
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-every-woman-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-im-every-woman-lyrics
 name: I'm Every Woman
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
+release_year: 1992
+runtime: 285106
 ---
 Whatever you want
 Whatever you need

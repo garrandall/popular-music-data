@@ -1,8 +1,11 @@
 ---
+album: Mr. Tambourine Man
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:2wBJWwUYlhNUbmwXP2U3Sh
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-really-want-to-do-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/allireallywanttodo.html
 name: All I Really Want To Do
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 124760
 ---
-
 I ain't lookin' to compete with you
 Beat or cheat or mistreat you
 Simplify you, classify you
@@ -74,6 +78,3 @@ Or select you or disect you
 Or inspect you or reject you
 All I really want to do
 Is baby be friends with you
-
-
-

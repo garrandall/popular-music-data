@@ -1,8 +1,11 @@
 ---
+album: As Cruel as School Children
 artists:
 - Gym Class Heroes
+external_ids:
+  spotify: spotify:track:6miqdoICzUXCL5UHCuucjK
 features: []
-genres: []
+first_released_as_single: false
 key: clothes-off---gym-class-heroes
 lyrics_url: https://genius.com/Gym-class-heroes-clothes-off-lyrics
 name: Clothes Off!
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-10-06'
+release_year: 2006
+runtime: 235480
 ---
 See, here's the thing
 

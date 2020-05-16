@@ -1,8 +1,11 @@
 ---
+album: Candy-O
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:1Lf1BSVQV4Q5SuKeHhGd2A
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-i-can-do-the-cars
 lyrics_url: https://genius.com/The-cars-its-all-i-can-do-lyrics
 name: It's All I Can Do
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 225760
 ---
 One too many times
 I fell over you

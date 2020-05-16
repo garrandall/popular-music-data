@@ -1,8 +1,11 @@
 ---
+album: Elliott Yamin
 artists:
 - Elliott Yamin
+external_ids:
+  spotify: spotify:track:6uXfbEaPdRJssYBkbt0hso
 features: []
-genres: []
+first_released_as_single: true
 key: movin--on-elliott-yamin
 lyrics_url: https://www.azlyrics.com/lyrics/elliottyamin/movinon.html
 name: Movin' On
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2007
+runtime: 220853
 ---
-
 When I think about you baby, I can't help it (help it)
 I lose all my focus and I just can't stand it
 I get so excited every time I hear your name (your name)
@@ -73,6 +77,3 @@ movin' on
 
 Ah, I'll be gone,
 Yes I will.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: When You Lie Next To Me
 artists:
 - Kellie Coffey
+external_ids:
+  spotify: spotify:track:6EwbFB8T0uIaaRCNwAIrnS
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-lie-next-to-me-kellie-coffey
 lyrics_url: https://genius.com/Kellie-coffey-when-you-lie-next-to-me-lyrics
 name: When You Lie Next To Me
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2002
+runtime: 239826
 ---
 Oh
 

@@ -1,8 +1,11 @@
 ---
+album: Made In Dagenham (Original Score From The Motion Picture)
 artists:
 - The Mindbenders
+external_ids:
+  spotify: spotify:track:2xzkdWhWEm9r4laA0mbxtA
 features: []
-genres: []
+first_released_as_single: false
 key: a-groovy-kind-of-love-the-mindbenders
 lyrics_url: https://genius.com/The-mindbenders-a-groovy-kind-of-love-lyrics
 name: A Groovy Kind Of Love
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 120373
 ---
 When I'm feeling blue
 All I have to do

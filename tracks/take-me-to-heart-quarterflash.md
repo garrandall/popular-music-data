@@ -1,8 +1,11 @@
 ---
+album: Take Another Picture
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:4XcUFQNTiX4IHmA4K51snP
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-to-heart-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/takemetoheart.html
 name: Take Me To Heart
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 212893
 ---
-
 You won't forget my eyes
 Oh deep inside you realize
 You're gonna see me wherever you go
@@ -105,7 +109,3 @@ Take me to heart
 What more can I say
 Take me to heart
 Surrender's just a motion away
-
-
-
-

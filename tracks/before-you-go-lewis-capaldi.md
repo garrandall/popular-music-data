@@ -1,8 +1,11 @@
 ---
+album: Divinely Uninspired To A Hellish Extent
 artists:
 - Lewis Capaldi
+external_ids:
+  spotify: spotify:track:7ce20yLkzuXXLUhzIDoZih
 features: []
-genres: []
+first_released_as_single: true
 key: before-you-go-lewis-capaldi
 lyrics_url: https://www.azlyrics.com/lyrics/lewiscapaldi/beforeyougo.html
 name: Before You Go
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 215106
 ---
-
 I fell by the wayside like everyone else
 I hate you, I hate you, I hate you but I was just kidding myself
 Our every moment, I start to replace
@@ -79,6 +83,3 @@ So, before you go
 Was there something I could've said to make it all stop hurting?
 It kills me how your mind could make you feel so worthless
 So, before you go
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: x
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:1Slwb6dOYkBlWal1PGtnNg
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-out-loud-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-thinking-out-loud-lyrics
 name: Thinking Out Loud
@@ -239,6 +242,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2013
+runtime: 281560
 ---
 When your legs don't work like they used to before
 And I can't sweep you off of your feet

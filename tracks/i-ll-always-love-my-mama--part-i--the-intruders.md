@@ -1,8 +1,11 @@
 ---
+album: Save the Children
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:4GBWEnn03yw3Cl5m3AqIIf
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-love-my-mama--part-i--the-intruders
 lyrics_url: https://genius.com/Intruders-ill-always-love-my-mama-lyrics
 name: I'll Always Love My Mama (Part I)
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1964
+runtime: 389720
 ---
 I'll always love my mama
 She's my favorite girl

@@ -1,8 +1,11 @@
 ---
+album: Poison
 artists:
 - Bell Biv DeVoe
+external_ids:
+  spotify: spotify:track:3an1aoJKoBXJKoIfdDbVwf
 features: []
-genres: []
+first_released_as_single: false
 key: do-me--bell-biv-devoe
 lyrics_url: https://genius.com/Bell-biv-devoe-do-me-lyrics
 name: Do Me!
@@ -95,6 +98,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 272440
 ---
 Take a good look at me
 Tell me do you like what you see

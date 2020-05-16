@@ -1,8 +1,11 @@
 ---
+album: After Laughter
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:0w5Bdu51Ka25Pf3hojsKHh
 features: []
-genres: []
+first_released_as_single: false
 key: hard-times-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/hardtimes.html
 name: Hard Times
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 182693
 ---
-
 All that I want
 Is to wake up fine
 Tell me that I'm alright
@@ -91,6 +95,3 @@ Still don't know how I even survive
 Still don't know how I survive)
 
 And I gotta get to rock bottom
-
-
-

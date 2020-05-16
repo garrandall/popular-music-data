@@ -1,8 +1,11 @@
 ---
+album: Echoes Down the Hall - 16 Original Doo Wop Classics
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:5mrJm0THRC6nlcaVGoh6Wl
 features: []
-genres: []
+first_released_as_single: false
 key: letter-full-of-tears-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-letter-full-of-tears-lyrics
 name: Letter Full Of Tears
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1961
+runtime: 167000
 ---
 Mmm
 Here comes the mailman walking up the street

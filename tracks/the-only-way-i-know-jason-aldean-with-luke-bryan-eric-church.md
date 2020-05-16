@@ -1,9 +1,13 @@
 ---
+album: Night Train
 artists:
-- Jason Aldean With Luke Bryan
+- Jason Aldean
+external_ids:
+  spotify: spotify:track:0h3DPHckCUqcWswjVMvdE9
+features:
+- Luke Bryan
 - Eric Church
-features: []
-genres: []
+first_released_as_single: false
 key: the-only-way-i-know-jason-aldean-with-luke-bryan-eric-church
 name: The Only Way I Know
 rankings:
@@ -87,5 +91,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 193186
 ---
 

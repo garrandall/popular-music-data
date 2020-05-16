@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:0JP9xo3adEtGSdUEISiszL
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/moonlight.html
 name: Moonlight
@@ -87,8 +90,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 135090
 ---
-
 Yeah
 
 Spotlight, uh, moonlight, uh
@@ -138,6 +142,3 @@ Spotlight, moonlight
 Nigga, why you trippin'? Get your mood right
 Shawty look good in the moonlight
 All these pussy niggas so bad mind
-
-
-

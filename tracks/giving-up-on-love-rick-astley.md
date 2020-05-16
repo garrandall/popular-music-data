@@ -1,8 +1,11 @@
 ---
+album: Hold Me in Your Arms
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:55O2yCgCC4ZX0TE2vdWELj
 features: []
-genres: []
+first_released_as_single: false
 key: giving-up-on-love-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/givinguponlove.html
 name: Giving Up On Love
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1988
+runtime: 243800
 ---
-
 Giving up on love
 Giving up on love
 I was so crazy about you, everyone knew
@@ -99,4 +103,3 @@ So don't try to stop me now
 (All we had has gone)
 So listen to what I say
 'Cos these feelings are oh so strong
-

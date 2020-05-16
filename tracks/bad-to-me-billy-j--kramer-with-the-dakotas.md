@@ -1,8 +1,12 @@
 ---
+album: EMI Legends Rock 'n' Roll Seris - The Definitive Collection
 artists:
-- Billy J. Kramer With The Dakotas
-features: []
-genres: []
+- Billy J. Kramer
+external_ids:
+  spotify: spotify:track:6N4l8kzKkG6BunFlg28EFX
+features:
+- The Dakotas
+first_released_as_single: false
 key: bad-to-me-billy-j--kramer-with-the-dakotas
 lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-bad-to-me-lyrics
 name: Bad To Me
@@ -47,6 +51,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 141173
 ---
 If you ever leave me, I'll be sad and blue
 Don't you ever leave me, I'm so in love with you

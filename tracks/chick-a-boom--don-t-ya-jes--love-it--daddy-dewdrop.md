@@ -1,8 +1,11 @@
 ---
+album: This Time
 artists:
 - Daddy Dewdrop
+external_ids:
+  spotify: spotify:track:6f03amql575bMW6FT4EqGv
 features: []
-genres: []
+first_released_as_single: false
 key: chick-a-boom--don-t-ya-jes--love-it--daddy-dewdrop
 lyrics_url: https://genius.com/Daddy-dewdrop-chick-a-boom-dont-ya-jes-love-it-lyrics
 name: Chick-A-Boom (Don't Ya Jes' Love It)
@@ -71,6 +74,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 173280
 ---
 Last night I had a crazy dream
 About a chick in a black bikini

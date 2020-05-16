@@ -1,8 +1,11 @@
 ---
+album: 25 Original Greatest Hits- Cameo Parkway
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:0CjaHbKcV0L7G6Ax7rfMC8
 features: []
-genres: []
+first_released_as_single: false
 key: swingin--school-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-swingin-school-lyrics
 name: Swingin' School
@@ -55,6 +58,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 133946
 ---
 Chicks, kicks, cats, cool, yeah school!
 

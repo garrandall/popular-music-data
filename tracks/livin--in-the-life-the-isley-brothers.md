@@ -1,8 +1,11 @@
 ---
+album: Go for Your Guns
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:4ls72E32tZfME91EO0qKwe
 features: []
-genres: []
+first_released_as_single: false
 key: livin--in-the-life-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/livininthelife.html
 name: Livin' In The Life
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1977
+runtime: 252986
 ---
-
 Somebody said, I was living in the life
 Somebody told me, I was living in the life
 Think that you might know, you find that you're really wrong
@@ -66,6 +70,3 @@ You can't only stand on the outside looking in
 
 You ain't me and I ain't you
 That's the horrible difference between the two
-
-
-

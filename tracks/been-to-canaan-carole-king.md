@@ -1,8 +1,11 @@
 ---
+album: Rhymes & Reasons
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:4gYHbsZuSsFT5dRWnygKTL
 features: []
-genres: []
+first_released_as_single: false
 key: been-to-canaan-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/beentocanaan.html
 name: Been To Canaan
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1968
+runtime: 217706
 ---
-
 Green fields and rolling hills
 Room enough to do what we will
 Sweet dreams of yestertime
@@ -79,6 +83,3 @@ Been so long, I can't remember when
 I've been to Canaan and I want to go back again
 Been so long, I'm living till then
 'Cause I've been to Canaan and I won't rest until I go back again
-
-
-

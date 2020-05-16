@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:0IX6yQ2pf6Zd2UfzuBynwq
 features: []
-genres: []
+first_released_as_single: false
 key: he-loves-me-all-the-way-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/helovesmealltheway.html
 name: He Loves Me All The Way
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1964
+runtime: 156200
 ---
-
 Sometimes when he comes home, I'm cookin' breakfast
 I haven't slept a wink all night long
 I've been layin' in bed, thinkin' like a woman
@@ -47,6 +51,3 @@ As long as he makes everything alright today
 I'd rather wonder a little and have his lovin'
 'Cause when he loves me, he loves me all the way
 'Cause when he loves me, he loves me all the way
-
-
-

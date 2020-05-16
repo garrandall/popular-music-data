@@ -1,8 +1,11 @@
 ---
+album: Look At Me!
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7floNISpH8VF4z4459Qo18
 features: []
-genres: []
+first_released_as_single: true
 key: look-at-me--xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-look-at-me-lyrics
 name: Look At Me!
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2017
+runtime: 126345
 ---
 Ayy, I'm like, "Bitch, who is your mans?" (Ayy)
 Can't keep my dick in my pants (Ayy)

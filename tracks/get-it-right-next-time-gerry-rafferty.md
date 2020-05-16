@@ -1,8 +1,11 @@
 ---
+album: Night Owl
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:0o3HJmXnQPRX4jymsmk3sS
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-right-next-time-gerry-rafferty
 lyrics_url: https://www.azlyrics.com/lyrics/gerryrafferty/getitrightnexttime.html
 name: Get It Right Next Time
@@ -59,8 +62,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
+release_year: 1979
+runtime: 282040
 ---
-
 Out on the street I was talkin' to a man
 He said "there's so much of this life of mine that I don't understand"
 You shouldn't worry, I said, that ain't no crime
@@ -82,6 +86,3 @@ When you believe there's no mountain you can climb
 And if you get it wrong you'll get it right next time (next time)
 
 Next time, hm
-
-
-

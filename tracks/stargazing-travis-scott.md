@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:7wBJfHzpfI3032CSD7CE2m
 features: []
-genres: []
+first_released_as_single: false
 key: stargazing-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/stargazing.html
 name: Stargazing
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 270714
 ---
-
 Rollin', rollin', rollin', got me stargazin' (Yeah)
 Sippin' on purp, feelin' like the Barre Baby (It's lit)
 Whatever I downed, it got me goin' crazy (Yah)
@@ -105,6 +109,3 @@ I see you picked up all my ways, I feel responsible
 They tryna say that all my problems is improbable
 They keep itching at my spirit, I'm diabolical
 Ya feel me?
-
-
-

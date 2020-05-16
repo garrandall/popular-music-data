@@ -1,8 +1,11 @@
 ---
+album: Cargo
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:2yD6A7AiyVQ6K6S9FZF1Cg
 features: []
-genres: []
+first_released_as_single: false
 key: dr-heckyll---mr-jive-men-at-work
 lyrics_url: https://www.azlyrics.com/lyrics/menatwork/drheckyllandmrjive.html
 name: Dr Heckyll & Mr Jive
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1981
+runtime: 280533
 ---
-
 Dr. Heckyll works late at the laboratory
 Where things are not as they seem
 Dr. Heckyll wishes nothing more desperately
@@ -106,6 +110,3 @@ This is the story of Dr. Heckyll and Mr. Jive
 They are a person who feels good to be alive
 This is the story of Dr. Heckyll and Mr. Jive
 Believes the underdog will eventually survive
-
-
-

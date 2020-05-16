@@ -1,8 +1,11 @@
 ---
+album: Not Fade Away (for Revlon Colorist. All proceeds to Breast Cancer Research)
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:7FzlbCUcpAfh0ar1yNiKXK
 features: []
-genres: []
+first_released_as_single: true
 key: not-fade-away-sheryl-crow
 lyrics_url: https://genius.com/Sheryl-crow-not-fade-away-lyrics
 name: Not Fade Away
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2007
+runtime: 125080
 ---
 I'm gonna tell you how it's gonna be
 You're gonna give your love to me

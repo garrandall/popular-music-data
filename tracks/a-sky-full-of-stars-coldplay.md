@@ -1,8 +1,11 @@
 ---
+album: Ghost Stories
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:0FDzzruyVECATHXKHFs9eJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-sky-full-of-stars-coldplay
 lyrics_url: https://genius.com/Coldplay-a-sky-full-of-stars-lyrics
 name: A Sky Full Of Stars
@@ -111,6 +114,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 268466
 ---
 'Cause you're a sky, 'cause you're a sky full of stars
 I'm gonna give you my heart

@@ -1,9 +1,12 @@
 ---
+album: Under The Mistletoe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0Pd4lsvSDPkcNCxbcz0UeV
 features:
 - Busta Rhymes
-genres: []
+first_released_as_single: false
 key: drummer-boy-justin-bieber-busta-rhymes
 lyrics_url: https://genius.com/Justin-bieber-drummer-boy-lyrics
 name: Drummer Boy
@@ -16,6 +19,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2011
+runtime: 225333
 ---
 Come they told me, pa rum pum pum pum
 A newborn king to see, pa rum pum pum pum

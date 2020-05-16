@@ -1,8 +1,11 @@
 ---
+album: Supernatural Thing (US Release)
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:34h8j6ErzYW5tU9jhEmfw5
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-in-the-name-of-love-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/doitinthenameoflove.html
 name: Do It In The Name Of Love
@@ -23,8 +26,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 213906
 ---
-
 Do it, do it, you can do it
 Do it in the name of love
 
@@ -123,6 +127,3 @@ Why don't you try (do it)
 You can do it (do it)
 Why don't you
 (Do it in the name of love)
-
-
-

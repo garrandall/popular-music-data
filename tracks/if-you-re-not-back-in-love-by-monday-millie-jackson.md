@@ -1,8 +1,11 @@
 ---
+album: Feelin' Bitchy
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:7rND9MD5vxCOPJNKTe3qJI
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-not-back-in-love-by-monday-millie-jackson
 lyrics_url: https://genius.com/Millie-jackson-if-youre-not-back-in-love-by-monday-lyrics
 name: If You're Not Back In Love By Monday
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 406800
 ---
 Verbal intro
 

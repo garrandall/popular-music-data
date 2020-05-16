@@ -1,8 +1,11 @@
 ---
+album: i am > i was
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:0hPLZrnDgtKxrym1BHjDhd
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-leave-without-it-21-savage
 lyrics_url: https://genius.com/21-savage-cant-leave-without-it-lyrics
 name: Can't Leave Without It
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 205351
 ---
 Yeah
 VVS look like a star, yeah

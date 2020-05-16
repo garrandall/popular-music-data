@@ -1,8 +1,11 @@
 ---
+album: There I've Said It Again
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:1TnDAb0MUJEAK7ajhOZnc7
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-belongs-to-only-you-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/myheartbelongstoonlyyou.html
 name: My Heart Belongs To Only You
@@ -43,8 +46,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1962
+runtime: 162466
 ---
-
 My heart belongs to only you 
 I've never loved as I love you 
 You've set a flame within me burning 
@@ -68,6 +72,3 @@ You are the song within my soul
 A melody that can't grow old 
 I've known for long 
 My heart belongs to only you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blood In My Eye
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:1FK0sZfZzCAIDUn7htCemp
 features: []
-genres: []
+first_released_as_single: false
 key: clap-back-ja-rule
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/clapback.html
 name: Clap Back
@@ -47,9 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2003
+runtime: 296466
 ---
-
-
 Yeah, yeah.. haha yeah!
 I gotta get my headphones
 All my gangsta niggas is in the building on this one!
@@ -162,6 +165,3 @@ When you got one in your waist, let's cock back nigga air out the space!
  All my Jersey niggas, all my Boston niggas
  All my Brooklyn niggas, Brooklyn sir what up!
  Haha, yeah, holla at me man
-
-
-

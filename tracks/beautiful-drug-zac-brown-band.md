@@ -1,8 +1,11 @@
 ---
+album: JEKYLL + HYDE
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:0vcfOQOvTCv8ckiRs8Xc1Z
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-drug-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/beautifuldrug.html
 name: Beautiful Drug
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 191600
 ---
-
 I got a death wish
 Her looks can kill
 She's got a red dress
@@ -139,6 +143,3 @@ Whoa, whoa, whoa
 Whoa, whoa, whoa
 Whoa, whoa, whoa
 Whoa, whoa, whoa
-
-
-

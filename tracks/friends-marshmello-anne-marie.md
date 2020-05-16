@@ -1,9 +1,12 @@
 ---
+album: Speak Your Mind
 artists:
 - Marshmello
 - Anne-Marie
+external_ids:
+  spotify: spotify:track:08bNPGLD8AhKpnnERrAc6G
 features: []
-genres: []
+first_released_as_single: true
 key: friends-marshmello-anne-marie
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/friends.html
 name: Friends
@@ -124,8 +127,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 202620
 ---
-
 You say you love me, I say you crazy
 We're nothing more than friends
 You're not my lover, more like a brother
@@ -198,6 +202,3 @@ Haven't I made it clear? (I made it very clear)
 Want me to spell it out for you?
 F-R-I-E-N-D-S
 F-R-I-E-N-D-S
-
-
-

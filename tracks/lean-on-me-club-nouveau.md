@@ -1,8 +1,11 @@
 ---
+album: Life, Love & Pain
 artists:
 - Club Nouveau
+external_ids:
+  spotify: spotify:track:6HhKj3GiPxDI6ME9Pjx0YU
 features: []
-genres: []
+first_released_as_single: false
 key: lean-on-me-club-nouveau
 lyrics_url: https://genius.com/Club-nouveau-lean-on-me-lyrics
 name: Lean On Me
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1986
+runtime: 348573
 ---
 Sometimes in our lives
 We all have pain

@@ -1,8 +1,11 @@
 ---
+album: A Private Heaven
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:4kVE7IVF3ZlD1d7k08dmVY
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-walls-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/sugarwalls.html
 name: Sugar Walls
@@ -75,8 +78,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1984
+runtime: 241600
 ---
-
 My sugar walls
 My sugar walls
 
@@ -147,6 +151,3 @@ Inside my sugar walls
 
 (My sugar walls)
 (My sugar walls)
-
-
-

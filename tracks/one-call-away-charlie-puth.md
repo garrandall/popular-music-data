@@ -1,8 +1,11 @@
 ---
+album: Nine Track Mind
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:5DtTZfXWnMPzgSsl3GGN8u
 features: []
-genres: []
+first_released_as_single: true
 key: one-call-away-charlie-puth
 lyrics_url: https://genius.com/Charlie-puth-one-call-away-lyrics
 name: One Call Away
@@ -111,6 +114,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2015
+runtime: 189052
 ---
 I'm only one call away
 I'll be there to save the day

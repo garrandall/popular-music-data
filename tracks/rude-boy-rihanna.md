@@ -1,8 +1,11 @@
 ---
+album: Rated R
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:60jzFy6Nn4M0iD1d94oteF
 features: []
-genres: []
+first_released_as_single: false
 key: rude-boy-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/rudeboy.html
 name: Rude Boy
@@ -95,8 +98,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2009
+runtime: 222920
 ---
-
 Come here
 Rude boy, boy
 Can you get it up
@@ -317,6 +321,3 @@ Baby, baby
 Take it, take it
 Love me
 Love me
-
-
-

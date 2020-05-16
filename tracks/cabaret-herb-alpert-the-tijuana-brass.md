@@ -1,9 +1,12 @@
 ---
+album: The Beat Of The Brass
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:3FQinj62NzAWrDVEhAC0Pm
 features: []
-genres: []
+first_released_as_single: false
 key: cabaret-herb-alpert-the-tijuana-brass
 name: Cabaret
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1968
+runtime: 161200
 ---
 

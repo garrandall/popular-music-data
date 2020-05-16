@@ -1,8 +1,11 @@
 ---
+album: The Best of Al Wilson, Freda Payne & Three Degrees
 artists:
 - Freda Payne
+external_ids:
+  spotify: spotify:track:7rdz1bu4LVAWNtnPijFSYa
 features: []
-genres: []
+first_released_as_single: true
 key: deeper---deeper-freda-payne
 lyrics_url: https://genius.com/Freda-payne-deeper-and-deeper-lyrics
 name: Deeper & Deeper
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 187866
 ---
 Deeper and deeper
 I'm falling in love with you

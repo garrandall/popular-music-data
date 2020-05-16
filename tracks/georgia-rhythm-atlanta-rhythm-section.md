@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:4sYAy8Racw2vYZualUAJ4g
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-rhythm-atlanta-rhythm-section
 lyrics_url: https://genius.com/Atlanta-rhythm-section-georgia-rhythm-lyrics
 name: Georgia Rhythm
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1972
+runtime: 326733
 ---
 Livin' out of a suitcase
 Sleepin' in hotel rooms

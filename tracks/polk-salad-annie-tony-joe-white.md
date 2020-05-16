@@ -1,8 +1,11 @@
 ---
+album: Black & White
 artists:
 - Tony Joe White
+external_ids:
+  spotify: spotify:track:0jtz7Ia3HahOqXWnKad0rn
 features: []
-genres: []
+first_released_as_single: false
 key: polk-salad-annie-tony-joe-white
 lyrics_url: https://genius.com/Tony-joe-white-polk-salad-annie-lyrics
 name: Polk Salad Annie
@@ -55,6 +58,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 223533
 ---
 If some of ya'll never been down south too much
 I'm gonna tell you a little bit about this

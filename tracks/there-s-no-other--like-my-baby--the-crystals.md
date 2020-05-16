@@ -1,8 +1,11 @@
 ---
+album: The Crystals
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:6gPzz5O07SPZG9Jk5lwjI6
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-no-other--like-my-baby--the-crystals
 lyrics_url: https://www.musixmatch.com/lyrics/The-Crystals/There-s-No-Other-Like-My-Baby
 name: There's No Other (Like My Baby)
@@ -51,6 +54,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1961
+runtime: 202773
 ---
 There's a story I want you to know
 'Bout my baby, how I love him so

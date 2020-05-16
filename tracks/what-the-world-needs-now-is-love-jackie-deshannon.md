@@ -1,8 +1,11 @@
 ---
+album: This Is Jackie DeShannon
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:1fjOO2k5k2vjg6TrvPJ2NS
 features: []
-genres: []
+first_released_as_single: false
 key: what-the-world-needs-now-is-love-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-what-the-world-needs-now-is-love-lyrics
 name: What The World Needs Now Is Love
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 186400
 ---
 What the world needs now is love, sweet love
 It's the only thing that there's just too little of

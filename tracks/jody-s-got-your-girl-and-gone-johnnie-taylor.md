@@ -1,8 +1,11 @@
 ---
+album: One Step Beyond
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:2XjATPzicorHx6W0vjOpWf
 features: []
-genres: []
+first_released_as_single: false
 key: jody-s-got-your-girl-and-gone-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-jodys-got-your-girl-and-gone-lyrics
 name: Jody's Got Your Girl And Gone
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
+release_year: 1970
+runtime: 183333
 ---
 Every guy I know
 Trying to get ahead

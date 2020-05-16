@@ -1,8 +1,11 @@
 ---
+album: The Letter/Neon Rainbow
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:1F898dzpPq7Erdd8pDgUad
 features: []
-genres: []
+first_released_as_single: false
 key: neon-rainbow-the-box-tops
 lyrics_url: https://genius.com/The-box-tops-neon-rainbow-lyrics
 name: Neon Rainbow
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 181706
 ---
 The city lights, the pretty lights
 They can warm the coldest nights

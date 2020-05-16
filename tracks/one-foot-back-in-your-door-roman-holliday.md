@@ -1,8 +1,11 @@
 ---
+album: Fire Me Up
 artists:
 - Roman Holliday
+external_ids:
+  spotify: spotify:track:6EF4Rt0ozj2CGCM3EhL1jf
 features: []
-genres: []
+first_released_as_single: false
 key: one-foot-back-in-your-door-roman-holliday
 lyrics_url: https://genius.com/Roman-holliday-one-foot-back-in-your-door-lyrics
 name: One Foot Back In Your Door
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 249730
 ---
 All right
 

@@ -1,8 +1,11 @@
 ---
+album: Craig Campbell
 artists:
 - Craig Campbell
+external_ids:
+  spotify: spotify:track:7a1538puknbXpg5LnYNwBX
 features: []
-genres: []
+first_released_as_single: false
 key: family-man-craig-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/craigcampbell/familyman.html
 name: Family Man
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 219186
 ---
-
 I've been working as a temp 
 At the local factory 
 I hope they hire me on full time 
@@ -83,6 +87,3 @@ The livin, breathin, reason that I am
 A family man 
 
 A family man
-
-
-

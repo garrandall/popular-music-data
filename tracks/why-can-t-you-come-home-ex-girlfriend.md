@@ -1,8 +1,11 @@
 ---
+album: X Marks The Spot
 artists:
 - Ex-Girlfriend
+external_ids:
+  spotify: spotify:track:7FT7qUTOQE4XO6PNZPE0av
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-you-come-home-ex-girlfriend
 lyrics_url: https://genius.com/Ex-girlfriend-why-cant-you-come-home-lyrics
 name: Why Can't You Come Home
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 348600
 ---
 Oh, yeah, yeah
 Oh, yeah, yeah

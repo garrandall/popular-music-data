@@ -124,7 +124,7 @@ Had a dream I was king I woke up still king
 Hey! Hey hahaha so. Hahaha
 Baby I like it I i I like it
 You!
-Islands of Waikikiiiiii
+Islands of Waikiki
 I'm wide awake
 Blame it on my a d d baby
 You can be addicted to a certain kind of sadness

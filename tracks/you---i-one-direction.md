@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:2afCBiru10AFckfOa49wIa
 features: []
-genres: []
+first_released_as_single: false
 key: you---i-one-direction
 lyrics_url: https://www.musixmatch.com/lyrics/One-Direction/You-I
 name: You & I
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-07-12'
+release_year: 2013
+runtime: 237933
 ---
 I figured it out
 I figured it out from black and white

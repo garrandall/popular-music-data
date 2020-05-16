@@ -1,8 +1,11 @@
 ---
+album: The Complete Goldwax Singles
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:0KYUufT58DQVuOZ6NAiSYD
 features: []
-genres: []
+first_released_as_single: false
 key: love-attack-james-carr
 lyrics_url: https://genius.com/James-carr-love-attack-lyrics
 name: Love Attack
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 177533
 ---
 Now here I am
 With this pain in my heart now

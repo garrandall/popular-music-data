@@ -1,7 +1,8 @@
 ---
 artists:
-- James Brown And The Famous Flames
-features: []
+- James Brown
+features:
+- The Famous Flames
 genres: []
 key: these-foolish-things-james-brown-and-the-famous-flames
 name: These Foolish Things

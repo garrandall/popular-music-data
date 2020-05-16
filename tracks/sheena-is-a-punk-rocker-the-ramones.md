@@ -1,8 +1,11 @@
 ---
+album: Leave Home
 artists:
 - The Ramones
+external_ids:
+  spotify: spotify:track:1ZbifclKFExSvmtSTYfTRu
 features: []
-genres: []
+first_released_as_single: false
 key: sheena-is-a-punk-rocker-the-ramones
 lyrics_url: https://www.azlyrics.com/lyrics/ramones/sheenaisapunkrocker.html
 name: Sheena Is A Punk Rocker
@@ -59,8 +62,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 167453
 ---
-
 Well the kids are all hopped up and ready to go
 They're ready to go now they got their surfboards
 And they're going to the discotheque Au Go Go
@@ -110,6 +114,3 @@ Sheena is a punk rocker now
 Sheena is a punk rocker
 Sheena is a punk rocker
 Sheena is a punk rocker now
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:4BWAfHcuiNeOW2DrtP6RbD
 features: []
-genres: []
+first_released_as_single: false
 key: all-along-blessid-union-of-souls
 lyrics_url: https://genius.com/Blessid-union-of-souls-all-along-lyrics
 name: All Along
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1995
+runtime: 234706
 ---
 Seems like yesterday but years have passed us by
 Precious memories are clear before my eyes

@@ -1,8 +1,11 @@
 ---
+album: Mud Slide Slim and the Blue Horizon
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:59mPadX6sKWripbp54vDwk
 features: []
-genres: []
+first_released_as_single: false
 key: long-ago-and-far-away-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/longagoandfaraway.html
 name: Long Ago And Far Away
@@ -39,8 +42,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 140973
 ---
-
 Long ago, a young man sits and plays his waiting game.
 But things are not the same it seems as in such tender dreams.
 Slowly passing sailing ships and Sunday afternoon.
@@ -55,6 +59,3 @@ a misbegotten guess alas and bits of broken glass.
 
 Where do your golden rainbows end? Why is this song I sing so sad?
 Dreaming the dreams I dream my friend, loving the love I love to love to love to love.
-
-
-

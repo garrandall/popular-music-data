@@ -1,8 +1,11 @@
 ---
+album: Now Appearing
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:2cQjCciFvT5YmT0oHcsFR0
 features: []
-genres: []
+first_released_as_single: false
 key: close-together-jimmy-reed
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Reed/Close-Together
 name: Close Together
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 157440
 ---
 We gotta stay close together
 We gotta stay close together

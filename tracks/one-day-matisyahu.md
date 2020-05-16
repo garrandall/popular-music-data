@@ -1,8 +1,11 @@
 ---
+album: Light
 artists:
 - Matisyahu
+external_ids:
+  spotify: spotify:track:468jbp2UybC99Ic7MrTDji
 features: []
-genres: []
+first_released_as_single: false
 key: one-day-matisyahu
 lyrics_url: https://genius.com/Matisyahu-one-day-lyrics
 name: One Day
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2005
+runtime: 206973
 ---
 Ooo-ahoo, ah-yah-ahha
 Am-aba-ah-ah-oh-oh

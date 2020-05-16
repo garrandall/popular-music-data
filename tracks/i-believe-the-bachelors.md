@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:0OAQGJH6GmTZ37FjOLJaao
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-i-believe-lyrics
 name: I Believe
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 115173
 ---
 I believe for every drop of rain that falls a flower grows
 I believe that somewhere in the darkest night a candle glows

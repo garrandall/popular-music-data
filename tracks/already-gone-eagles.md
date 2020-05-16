@@ -1,8 +1,11 @@
 ---
+album: On the Border
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:0CKxrnF9KplS21LTjkkqsW
 features: []
-genres: []
+first_released_as_single: false
 key: already-gone-eagles
 lyrics_url: https://genius.com/Eagles-already-gone-lyrics
 name: Already Gone
@@ -67,6 +70,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1974
+runtime: 255345
 ---
 Well, I heard some people talkin' just the other day
 And they said you were gonna put me on a shelf

@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:0El2Zyt68nYySFDG87hZgM
 features: []
-genres: []
+first_released_as_single: false
 key: sun-daze-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/sundaze.html
 name: Sun Daze
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 184706
 ---
-
 Alright
 Make you wanna dance. Don't it, baby?
 
@@ -150,6 +154,3 @@ Work on my lay back, ain't nothin' wrong
 With gettin' my sun daze on
 Gettin' my sun daze on
 Gettin' my sun daze on
-
-
-

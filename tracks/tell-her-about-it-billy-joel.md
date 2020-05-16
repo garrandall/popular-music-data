@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:6kCJMxv445L2okuTiou1fR
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-about-it-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/tellheraboutit.html
 name: Tell Her About It
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 229200
 ---
-
 Listen boy
 Don't want to see you let a good thing
 Slip away
@@ -172,6 +176,3 @@ You got to tell her about it
 You know the girl don't want
 To wait - you got to
 Tell her about it
-
-
-

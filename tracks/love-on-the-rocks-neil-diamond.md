@@ -1,8 +1,11 @@
 ---
+album: The Jazz Singer (Original Songs From The Motion Picture)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6XNGIaXv2xljDcxQ99p65f
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-the-rocks-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/loveontherocks.html
 name: Love On The Rocks
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 217893
 ---
-
 Love on the rocks ain't no surprise
 Pour me a drink,
 And I'll tell you some lies
@@ -137,6 +141,3 @@ Just pour me a drink
 And I'll tell you my lies
 Yesterday 's gone
 Now all I want is a smile...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nicole Renee
 artists:
 - Nicole Renee
+external_ids:
+  spotify: spotify:track:47CWjx4mP2qZEGVRkpactB
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-nicole-renee
 lyrics_url: https://genius.com/Nicole-renee-strawberry-lyrics
 name: Strawberry
@@ -15,6 +18,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 230826
 ---
 Like strawberries, you're like my strawberries
 Sometimes you're bitter, sometimes you're sweet

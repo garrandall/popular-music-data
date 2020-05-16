@@ -1,8 +1,11 @@
 ---
+album: Green, Green Grass Of Home
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:4j3BX19jfJpCrBoCFaSxNB
 features: []
-genres: []
+first_released_as_single: false
 key: funny-familiar-forgotten-feelings-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/funnyfamiliarforgottenfeelings.html
 name: Funny Familiar Forgotten Feelings
@@ -31,8 +34,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 177706
 ---
-
 Last night, quietly, she walked through my mind
 As I lay searching for sleep.
 Her soft hand reached out, she whispered my name
@@ -49,6 +53,3 @@ I must go on, be strong,
 tho' a million teardrops may fall,
 Before these funny familiar forgotten feelings 
 stop walk' all over my mind.
-
-
-

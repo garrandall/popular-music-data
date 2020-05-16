@@ -1,8 +1,11 @@
 ---
+album: Cycles
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:6DjRrgnIppWgyccDDEFAqe
 features: []
-genres: []
+first_released_as_single: false
 key: cycles-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/cycles.html
 name: Cycles
@@ -47,8 +50,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 190373
 ---
-
 So I'm down and so I'm out
 But so are many others
 So I feel like tryin' to hide
@@ -80,6 +84,3 @@ You know it's almost funny
 But things can't get worse than now
 So I'll keep on tryin' to sing
 But please, just don't ask me how
-
-
-

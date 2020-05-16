@@ -1,8 +1,11 @@
 ---
+album: Sonic Temple
 artists:
 - The Cult
+external_ids:
+  spotify: spotify:track:0GyJA0Yn0CcqvHKzeKaVhw
 features: []
-genres: []
+first_released_as_single: false
 key: fire-woman-the-cult
 lyrics_url: https://www.azlyrics.com/lyrics/cult/firewoman.html
 name: Fire Woman
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1989
+runtime: 311026
 ---
-
 Fire woman, yeah
 
 Shake, shake, shake, shake it, yeah
@@ -112,6 +116,3 @@ Say, san stam bye to me
 Say, san stam bye to me, yeah
 
 Fire woman, you're to blame...
-
-
-

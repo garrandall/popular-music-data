@@ -1,8 +1,11 @@
 ---
+album: RIFF
 artists:
 - Riff
+external_ids:
+  spotify: spotify:track:695sRCJTtOHIY5ACQa7qtZ
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-is-failing-me-riff
 lyrics_url: https://genius.com/Riff-my-heart-is-failing-me-lyrics
 name: My Heart Is Failing Me
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
+release_year: 1991
+runtime: 260133
 ---
 Here come the tear drops falling again
 Seems like the night has come to an end

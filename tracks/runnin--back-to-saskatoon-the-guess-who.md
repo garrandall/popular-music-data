@@ -1,8 +1,11 @@
 ---
+album: Live At The Paramount
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:4LKmMzVDraxDrGk9ygR79g
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--back-to-saskatoon-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/runninbacktosaskatoon.html
 name: Runnin' Back To Saskatoon
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 384866
 ---
-
 There's a province up in Canada that's right next door to ours.
 It's called Saskatchewan.
 And, uh, in that province there's a small town, uh, where nothing much ever happens, called Saskatoon.
@@ -91,6 +95,3 @@ This tune is home grown
 Don't come from Hong Kong
 This tune is home grown
 Don't come from Hong Kong
-
-
-

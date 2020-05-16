@@ -1,8 +1,11 @@
 ---
+album: Sports
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:3pecdrUzTZjaqrw6iCLTvd
 features: []
-genres: []
+first_released_as_single: false
 key: heart-and-soul-huey-lewis-the-news
 lyrics_url: https://genius.com/Huey-lewis-and-the-news-heart-and-soul-lyrics
 name: Heart And Soul
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 253253
 ---
 Two o'clock this morning (morning)
 If she should come a-calling (calling)

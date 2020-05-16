@@ -1,8 +1,11 @@
 ---
+album: Their Satanic Majesties Request
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3qOhQH8CUBYE7jZxwTlKzD
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-rainbow-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-shes-a-rainbow-lyrics
 name: She's A Rainbow
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1966
+runtime: 275813
 ---
 {​Instrumental Hook}​
 

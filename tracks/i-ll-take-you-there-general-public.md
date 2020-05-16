@@ -1,8 +1,11 @@
 ---
+album: The Best Of General Public
 artists:
 - General Public
+external_ids:
+  spotify: spotify:track:5p1U3tDtcAhhu5Em2eAhsE
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-you-there-general-public
 lyrics_url: https://genius.com/General-public-ill-take-you-there-lyrics
 name: I'll Take You There
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1994
+runtime: 247093
 ---
 Oh, mmm, I know a place, ain't nobody cryin'
 Ain't nobody worried, ain't no smilin' faces

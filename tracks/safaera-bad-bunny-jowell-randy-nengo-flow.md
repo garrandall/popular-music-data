@@ -1,11 +1,14 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
 - Jowell
 - Randy
 - Nengo Flow
+external_ids:
+  spotify: spotify:track:2DEZmgHKAvm41k4J3R2E9Y
 features: []
-genres: []
+first_released_as_single: false
 key: safaera-bad-bunny-jowell-randy-nengo-flow
 lyrics_url: https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
 name: Safaera
@@ -18,6 +21,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 295176
 ---
 Bla, bla, bla, bla, bla, bla
 Ey, yo', yo', yo'

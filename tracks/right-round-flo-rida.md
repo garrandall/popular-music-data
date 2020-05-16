@@ -1,8 +1,11 @@
 ---
+album: R.O.O.T.S. (Route of Overcoming the Struggle)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:3GpbwCm3YxiWDvy29Uo3vP
 features: []
-genres: []
+first_released_as_single: false
 key: right-round-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/florida/rightround.html
 name: Right Round
@@ -111,9 +114,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 204640
 ---
-
-
 You spin my head right round, right round
 When you go down, when you go down down
 
@@ -224,6 +227,3 @@ When you go down, when you go down down
 
 You spin my head right round, right round
 When you go down, when you go down down
-
-
-

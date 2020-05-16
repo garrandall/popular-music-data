@@ -1,8 +1,11 @@
 ---
+album: Head Over Heels
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:6RH2MM9oW0wgdUnD6yIv0v
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-cool-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/crazycool.html
 name: Crazy Cool
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1995
+runtime: 282426
 ---
-
 Sitting, chilling, thinking about you babe
 You're like a long, cool glass of lemonade - mmm
 Bitter, sweet and I want you so bad it hurts
@@ -84,6 +88,3 @@ Nothing's too good for my baby
 Anything you want be free
 You open me up to love
 oh I Gotta Believe
-
-
-

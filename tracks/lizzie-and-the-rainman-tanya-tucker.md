@@ -1,8 +1,11 @@
 ---
+album: Live At Billy Bob's Texas
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:1gJpDnhZHOLgaXRZDV5jfI
 features: []
-genres: []
+first_released_as_single: false
 key: lizzie-and-the-rainman-tanya-tucker
 lyrics_url: https://www.azlyrics.com/lyrics/tanyatucker/lizzieandtherainman.html
 name: Lizzie And The Rainman
@@ -43,8 +46,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 184826
 ---
-
 He came ridin' in on the sunrise of a hot west Texas day
 A fancy man in a painted wagon with some fancy things to say
 Looks like you folks need some water, well water is my game
@@ -74,4 +78,3 @@ Step back non believers for the rain will never come
 Somebody keep that fire a-burning somebody beat the drum
 You know some folks think I'm crazy for making all these claims
 But I swear before this day is over you folks are going see some rain
-

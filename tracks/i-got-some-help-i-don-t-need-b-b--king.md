@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:6jhPs0mOqnWK2404OEC2Yv
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-some-help-i-don-t-need-b-b--king
 lyrics_url: https://genius.com/Bb-king-i-got-some-help-i-dont-need-lyrics
 name: I Got Some Help I Don't Need
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1972
+runtime: 205626
 ---
 All of your affection is gone baby and your love is growing cold
 I've said all of your affection is gone baby and your love is growing cold

@@ -1,8 +1,11 @@
 ---
+album: 'Danger Days: The True Lives of the Fabulous Killjoys'
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:5FbMKftNTXCKiBYSf0TQrs
 features: []
-genres: []
+first_released_as_single: true
 key: sing-my-chemical-romance
 lyrics_url: https://www.musixmatch.com/lyrics/My-Chemical-Romance/SING
 name: Sing
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2010
+runtime: 203426
 ---
 Sing it out
 Boy, you've got to see what tomorrow brings

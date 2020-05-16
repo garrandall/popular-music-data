@@ -1,8 +1,11 @@
 ---
+album: Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2XWUKtP6ymdNtCMTBtmbN3
 features: []
-genres: []
+first_released_as_single: false
 key: the-raven-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-the-raven-lyrics
 name: The Raven
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-11-06'
+release_year: 1976
+runtime: 237826
 ---
 The clock struck midnight
 And through my sleeping

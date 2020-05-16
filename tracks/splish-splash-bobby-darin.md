@@ -1,8 +1,11 @@
 ---
+album: Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:40fD7ct05FvQHLdQTgJelG
 features: []
-genres: []
+first_released_as_single: false
 key: splish-splash-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/splishsplash.html
 name: Splish Splash
@@ -39,8 +42,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 131719
 ---
-
 Splish splash, I was taking a bath
 Long about a Saturday night, yeah
 A rub dub, just relaxing in the tub
@@ -84,6 +88,3 @@ Mm, splishing and a-splashing, one time
 I was a-splishing and a-splashing, ohwee
 I was a-moving and a-grooving, yeah
 I was a-splishing and a-splashing
-
-
-

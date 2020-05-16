@@ -1,9 +1,12 @@
 ---
+album: Ghetto Fabolous
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:7K4Aq4awgYvDKEJdEvvl4j
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: can-t-deny-it-fabolous-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/cantdenyit.html
 name: Can't Deny It
@@ -88,9 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
+release_year: 2001
+runtime: 306440
 ---
-
-
 Y'all can't deny it, I'ma fuckin rider
 You don't wanna fuck with me (yeah)
 Got skills in the trunk with me (ok)
@@ -174,4 +177,3 @@ Still bumpin ya dex, still dumpin the tec, still
 Yea
 That's right
 Yea, ok
-

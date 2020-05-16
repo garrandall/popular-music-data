@@ -1,9 +1,12 @@
 ---
+album: Lust For Life
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:5hzey1kBGjy3B8tDGcyRTY
 features:
 - The Weeknd
-genres: []
+first_released_as_single: true
 key: lust-for-life-lana-del-rey-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/lustforlife.html
 name: Lust For Life
@@ -12,9 +15,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 264011
 ---
-
-
 Climb up the H
 Of the Hollywood sign, yeah
 In these stolen moments
@@ -115,6 +118,3 @@ And a lust for life, and a lust for life
 And a lust for life, and a lust for life
 Keeps us alive, keeps us alive
 Keeps us alive, keeps us alive
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Oh No Not My Baby: The Best Of Maxine Brown'
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:666Buvs1lbYLjYI8GyYj7t
 features: []
-genres: []
+first_released_as_single: false
 key: funny-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/Funny
 name: Funny
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 149133
 ---
 Funny, but when I pass your door
 I don't hurt like before

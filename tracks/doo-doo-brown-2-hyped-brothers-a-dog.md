@@ -1,9 +1,12 @@
 ---
+album: Ya Rollin' Doo Doo
 artists:
 - 2 Hyped Brothers
 - A Dog
+external_ids:
+  spotify: spotify:track:0VFJiOs6UOzmFCYFaTumKo
 features: []
-genres: []
+first_released_as_single: false
 key: doo-doo-brown-2-hyped-brothers-a-dog
 lyrics_url: https://www.musixmatch.com/lyrics/2-Hyped-Brothers-A-Dog/Doo-Doo-Brown
 name: Doo Doo Brown
@@ -28,6 +31,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1991
+runtime: 338533
 ---
 Gimme the track
 

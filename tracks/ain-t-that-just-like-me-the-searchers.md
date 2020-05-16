@@ -1,8 +1,11 @@
 ---
+album: Sugar And Spice
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:3OHz1Hr64jByifpOS61exg
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-just-like-me-the-searchers
 lyrics_url: https://genius.com/The-searchers-aint-that-just-like-me-lyrics
 name: Ain't That Just Like Me
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1963
+runtime: 145226
 ---
 Mary had a little lamb
 Its fleece was white as snow

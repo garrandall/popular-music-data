@@ -1,8 +1,11 @@
 ---
+album: Anyone Can See
 artists:
 - Irene Cara
+external_ids:
+  spotify: spotify:track:71lQ6KbvNUEGFBNvPWzbcv
 features: []
-genres: []
+first_released_as_single: false
 key: anyone-can-see-irene-cara
 lyrics_url: https://www.azlyrics.com/lyrics/irenecara/anyonecansee.html
 name: Anyone Can See
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1981
+runtime: 223960
 ---
-
 If I could I'd try to know you
 And I would never let you go, oh no!
 But if I were to make you
@@ -114,6 +118,3 @@ Anyone can see)
 Anyone can see)
 Anyone can see...
 Anyone can see...
-
-
-

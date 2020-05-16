@@ -1,8 +1,11 @@
 ---
+album: I Don't Speak The Language
 artists:
 - Matthew Wilder
+external_ids:
+  spotify: spotify:track:1mCsF9Tw4AkIZOjvZbZZdT
 features: []
-genres: []
+first_released_as_single: false
 key: break-my-stride-matthew-wilder
 lyrics_url: https://genius.com/Matthew-wilder-break-my-stride-lyrics
 name: Break My Stride
@@ -123,6 +126,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 184480
 ---
 Last night I had the strangest dream
 I sailed away to China

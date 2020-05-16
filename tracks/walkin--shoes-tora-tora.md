@@ -1,8 +1,11 @@
 ---
+album: Surprise Attack
 artists:
 - Tora Tora
+external_ids:
+  spotify: spotify:track:2DikYAf5jhxg7FtqRW4fA5
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--shoes-tora-tora
 lyrics_url: https://genius.com/Tora-tora-walkin-shoes-lyrics
 name: Walkin' Shoes
@@ -31,8 +34,10 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 240760
 ---
-Oh yeah aallriiiight now
+Oh yeah alright now
 
 I've been up half the night
 Tryin' to find out

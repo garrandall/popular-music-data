@@ -1,8 +1,11 @@
 ---
+album: 'Come Get It: The Very Best Of Aaron Carter'
 artists:
 - Aaron Carter
+external_ids:
+  spotify: spotify:track:4oBi8uciNMjYi3jhBYR9Kg
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-i-beat-shaq-aaron-carter
 lyrics_url: https://www.azlyrics.com/lyrics/aaroncarter/thatshowibeatshaq.html
 name: That's How I Beat Shaq
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
+release_year: 2000
+runtime: 204773
 ---
-
 And it goes, and it goes
 And it goes a little something like this
 
@@ -123,4 +127,3 @@ If it was a dream and it wasn't real
 
 How'd I get a jersey with the name O'Neal?
 Woah...
-

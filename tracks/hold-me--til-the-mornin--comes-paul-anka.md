@@ -1,8 +1,11 @@
 ---
+album: Duets
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:786Bsh40wJdhgUBebTgQjV
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me--til-the-mornin--comes-paul-anka
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka/HOLD-ME-TIL-THE-MORNIN-COMES
 name: Hold Me 'til The Mornin' Comes
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 290493
 ---
 Two broken hearts
 Neither one knows what to say

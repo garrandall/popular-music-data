@@ -1,8 +1,11 @@
 ---
+album: People Like You
 artists:
 - Eddie Fisher
+external_ids:
+  spotify: spotify:track:6cahHUfSQDIB8i0Yx3srwx
 features: []
-genres: []
+first_released_as_single: false
 key: people-like-you-eddie-fisher
 lyrics_url: https://genius.com/Eddie-fisher-people-like-you-lyrics
 name: People Like You
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1967
+runtime: 132773
 ---
 Oh yes it's people like you make life worthwhile for people like me
 And that's why people like me fall in love with people like you

@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:0NSSqYISjnav81CEn6EgBY
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-to-me-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-come-back-to-me-lyrics
 name: Come Back To Me
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1989
+runtime: 332741
 ---
 Looking through my old drawer
 Came across the letter you wrote

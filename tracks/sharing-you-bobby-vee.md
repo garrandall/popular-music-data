@@ -1,8 +1,11 @@
 ---
+album: A Bobby Vee Recording Session
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:4ypZEpTX71A1i5HY8ofw2K
 features: []
-genres: []
+first_released_as_single: false
 key: sharing-you-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/sharingyou.html
 name: Sharing You
@@ -47,8 +50,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 122706
 ---
-
 Sharing you, I know I'm sharing you
 I'm not the only one who's in your heart
 When I'm with you, your love belongs to me
@@ -62,6 +66,3 @@ But even though I must keep sharing you
 You know you'll never be sha-a-rin' me
 Oh, no, you'll never be shar-a-rin' me
 Ah, ah, you'll never be shar-a-rin' me...
-
-
-

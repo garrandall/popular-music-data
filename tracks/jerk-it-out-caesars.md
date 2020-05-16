@@ -1,8 +1,11 @@
 ---
+album: Love For The Streets
 artists:
 - Caesars
+external_ids:
+  spotify: spotify:track:5XMjXjwCkJVmk0AHm7z8IV
 features: []
-genres: []
+first_released_as_single: false
 key: jerk-it-out-caesars
 lyrics_url: https://www.azlyrics.com/lyrics/caesars/jerkitout.html
 name: Jerk It Out
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-05-07'
+release_year: 2002
+runtime: 195666
 ---
-
 Wind me up, put me down, start me off and watch me go
 I'll be running circles around you sooner than you know
 A little off center and I'm out of tune
@@ -88,6 +92,3 @@ When you jerk it out
 Oh baby don't you know you really gotta jerk it out
 When you jerk it out
 Oh baby don't you know you really gotta jerk it out
-
-
-

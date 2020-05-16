@@ -1,8 +1,11 @@
 ---
+album: Forever Your Girl
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:0lmS0Wofcv7B7uFYssSKta
 features: []
-genres: []
+first_released_as_single: false
 key: forever-your-girl-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/foreveryourgirl.html
 name: Forever Your Girl
@@ -95,8 +98,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1988
+runtime: 300466
 ---
-
 Hey baby
 You gotta remember
 I'm forever your girl
@@ -201,6 +205,3 @@ I'm forever your girl
 I'm forever your girl
 Just remember
 I'm forever your girl
-
-
-

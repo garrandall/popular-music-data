@@ -1,8 +1,11 @@
 ---
+album: All About Love
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:06DIV8OvK1jeGmV6NhyY0f
 features: []
-genres: []
+first_released_as_single: false
 key: we-know-we-re-in-love-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-we-know-were-in-love-lyrics
 name: We Know We're In Love
@@ -19,6 +22,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 130000
 ---
 Let's go home and tell my folks
 I think they ought to know

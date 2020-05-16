@@ -1,8 +1,11 @@
 ---
+album: Love, Peace and Happiness / Live at Bill Graham's Fillmore East
 artists:
 - Chambers Brothers
+external_ids:
+  spotify: spotify:track:07Ck35AdNuYalk2GtJftKq
 features: []
-genres: []
+first_released_as_single: false
 key: love-peace-and-happiness-chambers-brothers
 lyrics_url: https://genius.com/The-chambers-brothers-love-peace-and-happiness-lyrics
 name: Love Peace And Happiness
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1969
+runtime: 974640
 ---
 All our love, peace, and happiness
 We're gonna give to you now

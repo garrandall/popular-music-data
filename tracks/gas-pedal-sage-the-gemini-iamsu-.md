@@ -1,9 +1,12 @@
 ---
+album: Remember Me
 artists:
 - Sage The Gemini
+external_ids:
+  spotify: spotify:track:0Nf3vtVBfiayZL7c8r4KBO
 features:
 - IamSu!
-genres: []
+first_released_as_single: true
 key: gas-pedal-sage-the-gemini-iamsu-
 lyrics_url: https://genius.com/Rap-critic-rap-critic-reviews-gas-pedal-by-sage-the-gemini-feat-iamsu-lyrics
 name: Gas Pedal
@@ -108,6 +111,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 207266
 ---
 Okay, so I'm looking at the Rap Song charts for last week, trying to figure out what to review, and I gotta say, I'm kinda happy with the top 5. Holy Grail's not too bad of a song, and it's number one. And the next three slots are taken up by all three of Macklemore's singles, Same Love being number two, which is awesome. Now, what song rounds out the top five of this list? A song called "Gas Pedal", by Sage the Gemini, featuring… IamSu…? So, this guy's on a short list of people who thought it was a good idea to have their rap name be a short sentence. Isn't that right, Souljaboy Tell'em. *shows pic of Souljaboy* Well? Tell em! But for real, who is this Sage the Gemeni and why is his song so high on the charts? Can't be name recognition, because I don't know anyone who's heard of him before. In fact, I haven't even heard this song before, but hey, if it's this high, the guy must have a real explosive single on his hands. Lemme check it out real quick!
 

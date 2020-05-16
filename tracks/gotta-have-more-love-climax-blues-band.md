@@ -1,8 +1,11 @@
 ---
+album: Flying the Flag
 artists:
 - Climax Blues Band
+external_ids:
+  spotify: spotify:track:5ZNUXbnAqjPAURrWaR7xmL
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-have-more-love-climax-blues-band
 lyrics_url: https://www.azlyrics.com/lyrics/climaxbluesband/gottahavemorelove.html
 name: Gotta Have More Love
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 210825
 ---
-
 Don't wanna worry you, baby
 Don't wanna bring you down
 But if my love is too hot to handle
@@ -102,6 +106,3 @@ Gotta have more love, I just can't get enough
 
 Gotta have more love, I just can't get enough
 Gotta have more love, I just can't get enough
-
-
-

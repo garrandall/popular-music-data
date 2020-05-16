@@ -1,8 +1,11 @@
 ---
+album: 'Golden Legends: The Drifters'
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:7DF4WMeIErC7xA1IqyGGwQ
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-cry--true-love-true-love-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/ifyoucrytruelovetruelove.html
 name: (If You Cry) True Love True Love
@@ -51,8 +54,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 138240
 ---
-
 Bom, bom, bom, bom, bom, bom
 Bom, bom, bom, bom, bom, bom
 
@@ -77,6 +81,3 @@ Bom, bom, bom, bom, bom, bom
 Bom, bom, bom, bom, bom, bom
 Bom, bom, bom, bom, bom, bom
 Bom, bom, bom, bom, bom, bom
-
-
-

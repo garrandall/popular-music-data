@@ -1,9 +1,12 @@
 ---
+album: One Love
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:4dTaAiV9xFFCxnPur9c9yL
 features:
 - Kid Cudi
-genres: []
+first_released_as_single: false
 key: memories-david-guetta-kid-cudi
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/memories.html
 name: Memories
@@ -80,8 +83,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2009
+runtime: 210093
 ---
-
 All the crazy shit I did tonight 
 those will be the best memories. 
 I just wanna let it go for the night 
@@ -127,6 +131,3 @@ Hey, hey, yeah, yeah.
 Hey, hey, yeah, yeah. 
 Hey, hey, yeah, yeah. 
 Hey, hey, yeah, yeah.
-
-
-

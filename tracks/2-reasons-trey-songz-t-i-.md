@@ -1,9 +1,12 @@
 ---
+album: Chapter V
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:6lgzJuBX3iqevLdtgNlyAU
 features:
 - T.I.
-genres: []
+first_released_as_single: false
 key: 2-reasons-trey-songz-t-i-
 lyrics_url: https://www.azlyrics.com/lyrics/treysongz/2reasons.html
 name: 2 Reasons
@@ -88,9 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 197626
 ---
-
-
 Tell the DJ turn it up, bet the DJ bring it back
 Tell em play that shit again, tell em that you like that (Like That)
 OH
@@ -160,6 +163,3 @@ I only came here for 2 Reasons (I Only Came Here For), I-IIII can't lie (You kno
 
 
 I only came for the bitches and the drinks
-
-
-

@@ -75,7 +75,7 @@ And it just tears me apart
 To think? been wasted
 She's saving all her love
 Ain't giving none away
-Senoritas they never shout olÃ©
+Senoritas they never shout olé
 Till their wedding day
 Come and help me now
 

@@ -1,8 +1,11 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:3gZRkKhm0uaREQWUvT8Wcv
 features: []
-genres: []
+first_released_as_single: false
 key: get-right-witcha-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/getrightwitcha.html
 name: Get Right Witcha
@@ -11,9 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2017
+runtime: 257699
 ---
-
-
 Hold up, get right witcha (I'm a get right witcha)
 Bad bitches, fuck 'em then dismiss em (bad, woo)
 I ain't really here to take no pictures (flash)
@@ -107,6 +110,3 @@ Get right witcha (I'm a get right witcha)
 Get right witcha (I'm a get right witcha)
 Hold up, get right witcha (I'm a get right witcha)
 Get right witcha
-
-
-

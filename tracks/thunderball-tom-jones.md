@@ -1,8 +1,11 @@
 ---
+album: Live! At The Talk Of The Town
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:1MEbV33yXmnN0cGMogtSX5
 features: []
-genres: []
+first_released_as_single: false
 key: thunderball-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/thunderball.html
 name: Thunderball
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 160181
 ---
-
 He always runs while others walk.
 He acts while other men just talk.
 He looks at this world, and wants it all,
@@ -60,6 +64,3 @@ His days of asking are all gone.
 His fight goes on and on and on.
 But he thinks that the fight is worth it all.
 So he strikes like Thunderball.
-
-
-

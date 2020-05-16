@@ -1,8 +1,11 @@
 ---
+album: Anthology 2
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5frMgt4jqRGJk3yMKfqOyl
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-the-beatles
 lyrics_url: https://genius.com/The-beatles-real-love-lyrics
 name: Real Love
@@ -35,6 +38,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1996
+runtime: 234053
 ---
 All my little plans and schemes
 Lost like some forgotten dreams

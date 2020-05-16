@@ -1,8 +1,11 @@
 ---
+album: American Saturday Night
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3XKbdb9GB6u3hsnUklQTav
 features: []
-genres: []
+first_released_as_single: false
 key: then-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-then-lyrics
 name: Then
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2009-08-15'
+release_year: 2009
+runtime: 321640
 ---
 I remember trying not to stare
 The night that I first met you

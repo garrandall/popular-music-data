@@ -1,8 +1,11 @@
 ---
+album: Brandy
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:3zeyP0JnzXEx3uZLmpOdtP
 features: []
-genres: []
+first_released_as_single: false
 key: brokenhearted-brandy
 lyrics_url: https://www.azlyrics.com/lyrics/brandy/brokenhearted.html
 name: Brokenhearted
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
+release_year: 1994
+runtime: 352733
 ---
-
 Da da
 Da da da da
 Da da da da
@@ -146,6 +150,3 @@ Life's not over
 I can start again
 While I'm lonely brokenhearted
 It's a hurting thing to get over
-
-
-

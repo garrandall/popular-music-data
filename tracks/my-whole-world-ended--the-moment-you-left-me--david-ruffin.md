@@ -1,8 +1,11 @@
 ---
+album: My Whole World Ended
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:09VbZ87CD4kGyQ9QBrnziC
 features: []
-genres: []
+first_released_as_single: false
 key: my-whole-world-ended--the-moment-you-left-me--david-ruffin
 lyrics_url: https://www.musixmatch.com/lyrics/David-Ruffin/My-Whole-World-Ended
 name: My Whole World Ended (The Moment You Left Me)
@@ -47,6 +50,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 212773
 ---
 Last week my life had meaning
 It was beautiful and so sweet

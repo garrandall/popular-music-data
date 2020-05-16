@@ -1,8 +1,11 @@
 ---
+album: Year Of The Gentleman
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:2XbfY2O2v3xwedUJ0J2kkr
 features: []
-genres: []
+first_released_as_single: false
 key: closer-ne-yo
 lyrics_url: https://genius.com/Ne-yo-closer-lyrics
 name: Closer
@@ -163,6 +166,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2008
+runtime: 234360
 ---
 Closer
 Closer

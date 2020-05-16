@@ -1,8 +1,11 @@
 ---
+album: The Gist Of The Gemini
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:2BI6qMfb8scz39V52reDzc
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-my-life-gino-vannelli
 lyrics_url: https://genius.com/Gino-vannelli-love-of-my-life-lyrics
 name: Love Of My Life
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 272640
 ---
 Love of my life
 Take my heart take my soul

@@ -1,8 +1,11 @@
 ---
+album: Recovery
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0dyWQoMOU9oERL6c9vxtRp
 features: []
-genres: []
+first_released_as_single: false
 key: 25-to-life-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/25tolife.html
 name: 25 To Life
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-07-10'
+release_year: 2010
+runtime: 241586
 ---
-
 Too late for the other side
 Caught in a chase
 25 to life
@@ -118,6 +122,3 @@ Caught in a chase
 Too late
 Caught in a chase
 25 to life
-
-
-

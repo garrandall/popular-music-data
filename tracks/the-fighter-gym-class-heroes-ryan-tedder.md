@@ -1,9 +1,12 @@
 ---
+album: The Papercut Chronicles II
 artists:
 - Gym Class Heroes
+external_ids:
+  spotify: spotify:track:77ZdAoTHYoF6Umo76HFD4m
 features:
 - Ryan Tedder
-genres: []
+first_released_as_single: false
 key: the-fighter-gym-class-heroes-ryan-tedder
 lyrics_url: https://www.azlyrics.com/lyrics/gymclassheroes/thefighter.html
 name: The Fighter
@@ -68,8 +71,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
+release_year: 2011
+runtime: 228533
 ---
-
 Just waking up in the morning and to be well
 Quite honest with ya
 I ain't really sleep well
@@ -157,6 +161,3 @@ This one's a fighter
 'Til both your eyes start to swell
 'Til the crowd goes home
 What we gon' do kid?
-
-
-

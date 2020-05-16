@@ -1,8 +1,11 @@
 ---
+album: King Of Kings
 artists:
 - Don Omar
+external_ids:
+  spotify: spotify:track:7zo8XAMYBG6nGpqGiIudBc
 features: []
-genres: []
+first_released_as_single: false
 key: angelito-don-omar
 lyrics_url: https://www.musixmatch.com/lyrics/Don-Omar/Angelito
 name: Angelito
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2006
+runtime: 284933
 ---
 Hey...
 ¿Quiénes son?

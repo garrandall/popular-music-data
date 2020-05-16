@@ -1,9 +1,12 @@
 ---
+album: Try Some Of This!
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:120BvxQsMS1M41PdBClcxa
 features: []
-genres: []
+first_released_as_single: false
 key: -he-s--raining-in-my-sunshine-jay-the-americans
 lyrics_url: https://genius.com/Jay-and-the-americans-hes-raining-in-my-sunshine-lyrics
 name: (He's) Raining In My Sunshine
@@ -24,6 +27,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1964
+runtime: 195733
 ---
 See the raindrops falling, hear them fall so loud
 Once I stood in sunlight; now darkness is my shroud

@@ -1,8 +1,11 @@
 ---
+album: Shadow Realm
 artists:
 - Mann
+external_ids:
+  spotify: spotify:track:0wpbWr0vI9mIV6WpO5CqPi
 features: []
-genres: []
+first_released_as_single: true
 key: buzzin--mann
 lyrics_url: https://genius.com/Mann-buzzin-lyrics
 name: Buzzin'
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2010
+runtime: 196146
 ---
 Man I feel like money (man I feel like money)
 They're attracted to me

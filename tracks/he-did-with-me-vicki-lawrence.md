@@ -1,8 +1,11 @@
 ---
+album: The Night the Lights Went out in Georgia
 artists:
 - Vicki Lawrence
+external_ids:
+  spotify: spotify:track:1yUG9IGqlsocIfxcAZ132X
 features: []
-genres: []
+first_released_as_single: false
 key: he-did-with-me-vicki-lawrence
 lyrics_url: https://genius.com/Vicki-lawrence-he-did-with-me-lyrics
 name: He Did With Me
@@ -35,6 +38,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 150053
 ---
 Look at you, girl
 Walking down the street

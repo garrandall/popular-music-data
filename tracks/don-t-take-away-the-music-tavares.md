@@ -1,8 +1,11 @@
 ---
+album: Don't Take Away The Music
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:732FMehesLUaZiF9bvDDyW
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-away-the-music-tavares
 lyrics_url: https://genius.com/Tavares-dont-take-away-the-music-lyrics
 name: Don't Take Away The Music
@@ -55,6 +58,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 155186
 ---
 Don't take away the music, it's the only thing I've got
 It's my piece of the rock

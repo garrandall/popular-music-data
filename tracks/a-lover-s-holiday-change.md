@@ -1,8 +1,11 @@
 ---
+album: The Glow Of Love
 artists:
 - Change
+external_ids:
+  spotify: spotify:track:5N1QqDvcsqU5oqViKJdhJ4
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-holiday-change
 lyrics_url: https://genius.com/Change-a-lovers-holiday-lyrics
 name: A Lover's Holiday
@@ -59,6 +62,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 390066
 ---
 Not a cloud showed out in the sky that very night in Pitch Black City
 I was so damned scared, it was dark, it was so dim, it was a shame

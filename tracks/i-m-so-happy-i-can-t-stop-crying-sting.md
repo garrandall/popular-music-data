@@ -1,8 +1,11 @@
 ---
+album: Mercury Falling
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:0vYUBofUHIhuBEpNAR8Ry5
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-so-happy-i-can-t-stop-crying-sting
 lyrics_url: https://genius.com/Sting-im-so-happy-i-cant-stop-crying-lyrics
 name: I'm So Happy I Can't Stop Crying
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-11-16'
+release_year: 1996
+runtime: 239960
 ---
 Seven weeks have passed now since she left me
 She shows her face to ask me how I am

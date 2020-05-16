@@ -1,8 +1,11 @@
 ---
+album: Pride
 artists:
 - White Lion
+external_ids:
+  spotify: spotify:track:63IItP7504rQwYgZqmsznL
 features: []
-genres: []
+first_released_as_single: false
 key: wait-white-lion
 lyrics_url: https://genius.com/White-lion-wait-lyrics
 name: Wait
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 240800
 ---
 Wait - Wait - I never had a chance to love you
 Now I only wanna say I love you one more time

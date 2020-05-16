@@ -1,10 +1,13 @@
 ---
+album: Next Friday (Original Motion Picture Soundtrack)
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:7vRa23L7FPZdx7X5RhsWVk
 features:
 - Mack 10
 - Ms. Toi
-genres: []
+first_released_as_single: false
 key: you-can-do-it-ice-cube-mack-10-ms--toi
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/youcandoit.html
 name: You Can Do It
@@ -57,9 +60,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 274733
 ---
-
-
 Yeah, yeah
 Get your ass up and hurra
 Uh, Ice Cube baby
@@ -238,6 +241,3 @@ Yeah uh-huh, Ice Cube, Westside Connection
 Know how we do?
 We puttin' it down, constantly
 Get your ass up and hurra
-
-
-

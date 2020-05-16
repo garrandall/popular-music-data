@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:2T1y8Kb33Xvur4SJMlXyaG
 features: []
-genres: []
+first_released_as_single: false
 key: kids-say-the-darndest-things-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/kidssaythedarndestthings.html
 name: Kids Say The Darndest Things
@@ -23,8 +26,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1964
+runtime: 174440
 ---
-
 Kids say the darndest things
 Have you ever listened close to the games they play or the little songs they sing
 Last night dressed up in high heel shoes and wearing my old hat
@@ -48,6 +52,3 @@ My first grader just said a four letter word and it sure wasn't love
 Kids say the darndest things...
 Have you ever listened close to the games they play or the little songs they sing
 Kids say the darndest things...
-
-
-

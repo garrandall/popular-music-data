@@ -1,8 +1,11 @@
 ---
+album: Three Window Coupe
 artists:
 - The Rip Chords
+external_ids:
+  spotify: spotify:track:0GYWWUgg0OV4d1mVXBWPvr
 features: []
-genres: []
+first_released_as_single: false
 key: three-window-coupe-the-rip-chords
 lyrics_url: https://genius.com/The-rip-chords-three-window-coupe-lyrics
 name: Three Window Coupe
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1962
+runtime: 119026
 ---
 Three window coupe, you're the toughest machine in town
 Got a three window coupe that's short on looks

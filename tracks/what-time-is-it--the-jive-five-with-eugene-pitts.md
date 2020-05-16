@@ -1,7 +1,8 @@
 ---
 artists:
-- The Jive Five With Eugene Pitts
-features: []
+- The Jive Five
+features:
+- Eugene Pitts
 genres: []
 key: what-time-is-it--the-jive-five-with-eugene-pitts
 name: What Time Is It?

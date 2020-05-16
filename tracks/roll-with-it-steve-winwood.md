@@ -1,8 +1,11 @@
 ---
+album: Roll With It
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:2QlPByrmEO9XciNBXCrawR
 features: []
-genres: []
+first_released_as_single: false
 key: roll-with-it-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/rollwithit.html
 name: Roll With It
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1988
+runtime: 320733
 ---
-
 When life is too much, roll with it, baby
 Don't stop and lose your touch, oh no, baby
 Hard times knocking on your door, I'll tell them you ain't there no more
@@ -106,6 +110,3 @@ You can do it, roll with it, baby
 Then you'll see life will be so nice, it's just a step up to paradise
 You just roll with it, baby, you just roll with it, baby
 You and me, just roll with it, baby, Come on and just roll with it, baby
-
-
-

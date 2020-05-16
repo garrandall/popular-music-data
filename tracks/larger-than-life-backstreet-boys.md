@@ -1,8 +1,11 @@
 ---
+album: Millennium
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:6sbXGUn9V9ZaLwLdOfpKRE
 features: []
-genres: []
+first_released_as_single: false
 key: larger-than-life-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-larger-than-life-lyrics
 name: Larger Than Life
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
+release_year: 1999
+runtime: 232826
 ---
 Hm
 Yeah-ha-ha-ha-ha, woah

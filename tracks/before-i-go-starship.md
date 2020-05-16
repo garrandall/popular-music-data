@@ -1,8 +1,11 @@
 ---
+album: Knee Deep In The Hoopla
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:5yYYnayajHu9jM6CPo3NmO
 features: []
-genres: []
+first_released_as_single: false
 key: before-i-go-starship
 lyrics_url: https://genius.com/Starship-before-i-go-lyrics
 name: Before I Go
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
+release_year: 1985
+runtime: 314853
 ---
 Turn me around, don't let me walk out forever
 If there's a chance, the slightest chance, darling never say never

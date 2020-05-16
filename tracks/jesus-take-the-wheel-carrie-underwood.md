@@ -1,8 +1,11 @@
 ---
+album: Some Hearts
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:3lec3CzDPAxsZokPph5w87
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-take-the-wheel-carrie-underwood
 lyrics_url: https://genius.com/Carrie-underwood-jesus-take-the-wheel-lyrics
 name: Jesus Take The Wheel
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-04-29'
+release_year: 2005
+runtime: 226493
 ---
 She was driving last Friday on the way to Cincinnati
 On a snow white Christmas Eve

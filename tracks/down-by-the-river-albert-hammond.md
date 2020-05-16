@@ -1,8 +1,11 @@
 ---
+album: It Never Rains In Southern California
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:2uRzXLE4iFneelNzhiVFWa
 features: []
-genres: []
+first_released_as_single: false
 key: down-by-the-river-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/downbytheriver.html
 name: Down By The River
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 186346
 ---
-
 City life was gettin' us down
 So we spent a weekend out of town
 Pitched the tent on a patch of ground
@@ -101,6 +105,3 @@ Down by the river
 Down by the river
 The banks will soon be black and dead
 Down by the river
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2durxb17bXcmQJHSt8JAdO
 features: []
-genres: []
+first_released_as_single: false
 key: no-tellin--drake
 lyrics_url: https://genius.com/Drake-no-tellin-lyrics
 name: No Tellin'
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2015
+runtime: 310933
 ---
 Envelopes comin' in the mail, let her open 'em
 Hopin' for a check again, ain't no tellin'

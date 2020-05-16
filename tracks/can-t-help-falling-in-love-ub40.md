@@ -1,8 +1,11 @@
 ---
+album: Live at Montreux
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:3yQIQh9gTtgFO4acRQpA4i
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-falling-in-love-ub40
 lyrics_url: https://www.musixmatch.com/lyrics/UB40/I-Can-t-Help-Falling-in-Love
 name: Can't Help Falling In Love
@@ -123,6 +126,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-11-27'
+release_year: 1993
+runtime: 237626
 ---
 Wise men say
 Only fools rush in

@@ -1,8 +1,11 @@
 ---
+album: Raditude
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:09aDV0TC2RfWFU5IwZfIdG
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-re-wondering-if-i-want-you-to--i-want-you-to-weezer
 lyrics_url: https://genius.com/Weezer-if-youre-wondering-if-i-want-you-to-i-want-you-to-lyrics
 name: (If You're Wondering If I Want You To) I Want You To
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
+release_year: 2009
+runtime: 208773
 ---
 The moon was shining on the lake at night
 The Slayer T-shirt fit the scene just right

@@ -1,8 +1,11 @@
 ---
+album: Lost and Found
 artists:
 - Mudvayne
+external_ids:
+  spotify: spotify:track:0cmmNK8b41hchRPaR7LW9u
 features: []
-genres: []
+first_released_as_single: false
 key: happy--mudvayne
 lyrics_url: https://www.azlyrics.com/lyrics/mudvayne/happy.html
 name: Happy?
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
+release_year: 2000
+runtime: 216946
 ---
-
 In this hole
 That is me
 The dead are rolling over
@@ -89,8 +93,8 @@ Tear meat from the bone
 Tear me from myself
 Are you feeling happy?
 
-Peel me from the skiiiiiiiiiin
-Peel me from the skiiiiiiiiiin
+Peel me from the skin
+Peel me from the skin
 Tear me from the rind
 Does it make you happy now?
 
@@ -108,6 +112,3 @@ Does it make you happy?
 Are you feeling happy?
 Are you fucking happy?
 Now that I'm lost left with nothing
-
-
-

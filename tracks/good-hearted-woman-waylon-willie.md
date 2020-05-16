@@ -1,9 +1,12 @@
 ---
+album: Wanted! The Outlaws
 artists:
 - Waylon
 - Willie
+external_ids:
+  spotify: spotify:track:626F8maJSf76OASLsnShlq
 features: []
-genres: []
+first_released_as_single: false
 key: good-hearted-woman-waylon-willie
 lyrics_url: https://genius.com/Waylon-jennings-and-willie-nelson-good-hearted-woman-live-lyrics
 name: Good Hearted Woman
@@ -56,6 +59,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 173200
 ---
 A long time forgotten are dreams that just felt by the way
 And the good life he promised ain't what she's living today

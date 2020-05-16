@@ -1,8 +1,11 @@
 ---
+album: Tiffany
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:019LymYgh7wHQaInMdZd0Z
 features: []
-genres: []
+first_released_as_single: false
 key: feelings-of-forever-tiffany
 lyrics_url: https://www.azlyrics.com/lyrics/tiffany/feelingsofforever.html
 name: Feelings Of Forever
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
+release_year: 1987
+runtime: 232573
 ---
-
 If there was no tomorrow
 Then tonight would never end
 If we could freeze the hands of time
@@ -80,6 +84,3 @@ And we can make it through this night together
 And all I need is for you to show me how
 (All I want is for you, is for you to hold me, yeah)
 'Cause nothing can stop this feeling or forever
-
-
-

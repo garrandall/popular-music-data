@@ -1,8 +1,11 @@
 ---
+album: Doin' It Now!
 artists:
 - Sybil
+external_ids:
+  spotify: spotify:track:17tmb0V1MDEFS3Y9jhrpsg
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-love-of-my-life-sybil
 lyrics_url: https://www.musixmatch.com/lyrics/Sybil/You-re-the-Love-of-My-Life
 name: You're The Love Of My Life
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1993
+runtime: 291266
 ---
 You just crossed my mind
 Like a border with no wall up

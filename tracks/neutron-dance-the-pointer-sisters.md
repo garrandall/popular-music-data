@@ -1,8 +1,11 @@
 ---
+album: Break Out
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:3Uyxe1fbF4zWSEwy38qgMw
 features: []
-genres: []
+first_released_as_single: false
 key: neutron-dance-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/neutrondance.html
 name: Neutron Dance
@@ -99,8 +102,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1983
+runtime: 253413
 ---
-
 I don't want to take it anymore
 I'll just stay here locked behind the door
 Just no time to stop and get away
@@ -145,6 +149,3 @@ I'm so happy doin' the neutron dance
 And I'm just burning doin' the neutron dance
 I'm so happy doin' the neutron dance
 I'm just burning doin' the neutron dance
-
-
-

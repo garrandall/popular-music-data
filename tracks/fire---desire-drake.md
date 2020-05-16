@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4BhGTc3Cgay2U1QcTS7vQe
 features: []
-genres: []
+first_released_as_single: false
 key: fire---desire-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/firedesire.html
 name: Fire & Desire
@@ -23,8 +26,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 238120
 ---
-
 Dedicate, I dedicate the world
 Yeah, oh
 I dedicate, I dedicate
@@ -89,6 +93,3 @@ I dedicate, I dedicate
 I give you my all
 I give you my voice
 This song's for you
-
-
-

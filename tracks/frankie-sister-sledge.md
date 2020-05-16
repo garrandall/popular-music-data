@@ -1,8 +1,11 @@
 ---
+album: When The Boys Meet The Girls
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:6th7K3C0mmxk5AlT4x4oro
 features: []
-genres: []
+first_released_as_single: false
 key: frankie-sister-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/sistersledge/frankie.html
 name: Frankie
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1985
+runtime: 257000
 ---
-
 Hey Frankie?!
 I was walking down the street one day
 
@@ -83,6 +87,3 @@ My baby
 Frankie - do you remember me?
 Frankie - do you remember me?
 Frankie
-
-
-

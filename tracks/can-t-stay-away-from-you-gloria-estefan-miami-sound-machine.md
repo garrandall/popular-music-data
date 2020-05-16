@@ -1,9 +1,12 @@
 ---
+album: Let It Loose
 artists:
 - Gloria Estefan
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:4K1jON7gVevkouUx9kxG6v
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stay-away-from-you-gloria-estefan-miami-sound-machine
 lyrics_url: https://genius.com/Gloria-estefan-cant-stay-away-from-you-lyrics
 name: Can't Stay Away From You
@@ -100,6 +103,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1984
+runtime: 237733
 ---
 "Time flies when you're having fun"
 I heard somebody say

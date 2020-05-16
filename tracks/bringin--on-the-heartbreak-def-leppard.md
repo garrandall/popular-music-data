@@ -1,8 +1,11 @@
 ---
+album: High 'N' Dry
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:7iEVmnzJr1V7duYKPWplzp
 features: []
-genres: []
+first_released_as_single: false
 key: bringin--on-the-heartbreak-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/bringinontheheartbreak.html
 name: Bringin' On The Heartbreak
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1981
+runtime: 273733
 ---
 Gypsy, sittin' lookin' pretty 
 The broken rose with laughin' eyes 

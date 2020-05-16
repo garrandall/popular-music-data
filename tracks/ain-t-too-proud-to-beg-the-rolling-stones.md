@@ -1,8 +1,11 @@
 ---
+album: It's Only Rock 'N' Roll (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:657o30OsXhfnfi3IoWHprm
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-too-proud-to-beg-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-aint-too-proud-to-beg-lyrics
 name: Ain't Too Proud To Beg
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 210560
 ---
 I know you want to leave me
 But I refuse to let you go

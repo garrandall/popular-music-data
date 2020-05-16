@@ -1,9 +1,12 @@
 ---
+album: Weapons of Mass Destruction (Explicit)
 artists:
 - Xzibit
+external_ids:
+  spotify: spotify:track:7Lks6OYsHGNnkPZFrKJXOE
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: true
 key: hey-now--mean-muggin--xzibit-keri-hilson
 lyrics_url: https://genius.com/Xzibit-hey-now-mean-muggin-lyrics
 name: Hey Now (Mean Muggin)
@@ -24,6 +27,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
+release_year: 2004
+runtime: 262520
 ---
 Oh! C'mon! Oh! Ah! C'mon!
 

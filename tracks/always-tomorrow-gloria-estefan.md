@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:6znQ8d94uFOfREB86KmgUw
 features: []
-genres: []
+first_released_as_single: false
 key: always-tomorrow-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/alwaystomorrow.html
 name: Always Tomorrow
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1985
+runtime: 290249
 ---
-
 I've been alone inside myself, far too long
 Never really wanted it that way, but I let it happen
 If I could do it all again, my life would be infinitely better than before
@@ -63,6 +67,3 @@ Has yet to be (one)
 Yes there's always tomorrow though people come and they go
 But if you've brought some love to their lives
 Then you've got something to show
-
-
-

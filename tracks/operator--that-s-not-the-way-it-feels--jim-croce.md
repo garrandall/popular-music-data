@@ -1,8 +1,11 @@
 ---
+album: You Don't Mess Around With Jim
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:3NJzkMApQqAudLSgYb5Bz2
 features: []
-genres: []
+first_released_as_single: false
 key: operator--that-s-not-the-way-it-feels--jim-croce
 lyrics_url: https://genius.com/Jim-croce-operator-lyrics
 name: Operator (That's Not the Way it Feels)
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 230213
 ---
 Operator
 Oh, could you help me place this call?

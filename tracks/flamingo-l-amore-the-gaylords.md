@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Gaylords
 artists:
 - The Gaylords
+external_ids:
+  spotify: spotify:track:0tMI27AY8D79WiKQcdVIzc
 features: []
-genres: []
+first_released_as_single: false
 key: flamingo-l-amore-the-gaylords
 lyrics_url: https://www.musixmatch.com/lyrics/The-Gaylords/Flamingo-Lamore
 name: Flamingo L'Amore
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
+release_year: 1958
+runtime: 116693
 ---
 Sospiro d'amor
 Ripensi ancor

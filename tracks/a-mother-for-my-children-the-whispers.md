@@ -1,8 +1,11 @@
 ---
+album: Whispers Gettin' Louder
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:0ETedkMatGARAojbErTcuV
 features: []
-genres: []
+first_released_as_single: false
 key: a-mother-for-my-children-the-whispers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Whispers-4/A-Mother-for-My-Children-1
 name: A Mother For My Children
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1974
+runtime: 194741
 ---
 I can't stand to live alone
 With two children and a home

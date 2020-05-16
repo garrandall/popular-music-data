@@ -1,9 +1,12 @@
 ---
+album: The Light Of The Sun
 artists:
 - Jill Scott
+external_ids:
+  spotify: spotify:track:1BBzI4Q2KBXaWnXBTDDuSB
 features:
 - Anthony Hamilton
-genres: []
+first_released_as_single: true
 key: so-in-love-jill-scott-anthony-hamilton
 lyrics_url: https://genius.com/Jill-scott-so-in-love-lyrics
 name: So In Love
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2011
+runtime: 275400
 ---
 I'm glad this week is over
 I need to get away

@@ -1,8 +1,11 @@
 ---
+album: I Gotta Make It
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5Q4lFAfvLhGB7DNcg2DwgA
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-go-trey-songz
 lyrics_url: https://genius.com/Trey-songz-gotta-go-lyrics
 name: Gotta Go
@@ -79,6 +82,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2006-04-01'
+release_year: 2005
+runtime: 247053
 ---
 Good evening
 I'd like to thank everybody for coming out

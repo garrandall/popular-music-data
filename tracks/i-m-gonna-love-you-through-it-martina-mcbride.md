@@ -1,8 +1,11 @@
 ---
+album: Eleven
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:4GwbSrCJFRze2tK4H12Zew
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-love-you-through-it-martina-mcbride
 lyrics_url: https://genius.com/Martina-mcbride-im-gonna-love-you-through-it-lyrics
 name: I'm Gonna Love You Through It
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2011
+runtime: 227613
 ---
 She dropped the phone and burst into tears
 The doctor just confirmed her fears

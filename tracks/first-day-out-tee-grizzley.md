@@ -1,8 +1,11 @@
 ---
+album: My Moment
 artists:
 - Tee Grizzley
+external_ids:
+  spotify: spotify:track:21P0TzbZncDj0mb7rwFwy9
 features: []
-genres: []
+first_released_as_single: false
 key: first-day-out-tee-grizzley
 lyrics_url: https://genius.com/Tee-grizzley-first-day-out-lyrics
 name: First Day Out
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 254972
 ---
 Helluva made this beat, baby
 

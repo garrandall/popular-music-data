@@ -1,8 +1,11 @@
 ---
+album: Right On
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:3fgvWwNUUVhgwOCftLlHAN
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-got-the-right-to-love-the-supremes
 lyrics_url: https://genius.com/The-supremes-everybodys-got-the-right-to-love-lyrics
 name: Everybody's Got The Right To Love
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 156933
 ---
 When you're alone and in a corner
 Your only mourner, is the face that

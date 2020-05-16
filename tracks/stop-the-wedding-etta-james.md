@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:7rCow4T8qTxnFWHeGGlvSa
 features: []
-genres: []
+first_released_as_single: false
 key: stop-the-wedding-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/stopthewedding.html
 name: Stop The Wedding
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 161333
 ---
-
 Wait, wait! Stop the wedding!
 You're just marrying her for spite
 If she knew the inside story
@@ -69,6 +73,3 @@ Don't do it (don't you do it)
 Stop the wedding (don't you do it)
 Oh, Don't you break, don't you break two hearts
 (oh don't break two hearts)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7AFASza1mXqntmGtbxXprO
 features: []
-genres: []
+first_released_as_single: false
 key: changes-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/changes.html
 name: Changes
@@ -87,9 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 121886
 ---
-
-
 Mmm, baby, I don't understand this
 You're changing, I can't stand it
 My heart can't take this damage
@@ -124,6 +127,3 @@ You're changing, I can't stand it
 My heart can't take this damage
 And the way I feel, can't stand it
 Mmm, baby, I don't understand this
-
-
-

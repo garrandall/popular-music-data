@@ -1,9 +1,12 @@
 ---
+album: Undiscovered (Walmart Version)
 artists:
 - Brooke Hogan
+external_ids:
+  spotify: spotify:track:6REZUx5kZ8H8RRnIlKgINi
 features:
 - Paul Wall
-genres: []
+first_released_as_single: false
 key: about-us-brooke-hogan-paul-wall
 lyrics_url: https://www.azlyrics.com/lyrics/brookehogan/aboutus.html
 name: About Us
@@ -76,9 +79,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 203346
 ---
-
-
 Boys talkin' down
 On the sidelines watching wishin' they was playin' the game we playin'
 But its all good though
@@ -154,6 +157,3 @@ But they don't know nothing about us
 I see your lips moving but I don't hear nothing
 Everybody talking like they really wanna know about us
 But they don't know nothing about us
-
-
-

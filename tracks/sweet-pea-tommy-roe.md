@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:6B9Gnk2MK2KRiwdwzbjpne
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-pea-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/sweetpea.html
 name: Sweet Pea
@@ -63,8 +66,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 148400
 ---
-
 Oh Sweet Pea come on and dance with me
 Come on, come on, come on and dance with me
 Oh Sweet Pea won't you be my girl
@@ -98,6 +102,3 @@ And underneath the stars I said to Sweet Pea
 Oh Sweet Pea I love you can't you see
 Love you, love you, love you can't you see
 Oh Sweet Pea won't you be my girl
-
-
-

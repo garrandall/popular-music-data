@@ -1,8 +1,11 @@
 ---
+album: III Sides To Every Story
 artists:
 - Extreme
+external_ids:
+  spotify: spotify:track:4uLq7Jp2wtgnocqoAgTdih
 features: []
-genres: []
+first_released_as_single: false
 key: rest-in-peace-extreme
 lyrics_url: https://www.azlyrics.com/lyrics/extreme/restinpeace.html
 name: Rest In Peace
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1992
+runtime: 361773
 ---
-
 Let's talk of peace,
 Sounds so cliche
 A novelty, catch phrase of the day
@@ -65,6 +69,3 @@ Shows a trace of,
 Hypocrisy,
 Don't tread on me, boy
 Now you can see
-
-
-

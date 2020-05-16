@@ -1,8 +1,11 @@
 ---
+album: Bye Bye Baby
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:2zsACOescN0P52A1vXI0iK
 features: []
-genres: []
+first_released_as_single: false
 key: bye-bye-baby-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marywells/byebyebaby.html
 name: Bye Bye Baby
@@ -51,8 +54,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 176560
 ---
-
 Well, you know you took my heart
 And you broke it apart
 Why did our love baby, yeah yeah
@@ -119,6 +123,3 @@ Bye bye baby, yeah
 (Bye bye bye)
 Bye bye baby, oh
 (Bye bye bye)
-
-
-

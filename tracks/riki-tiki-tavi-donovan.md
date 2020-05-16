@@ -1,8 +1,11 @@
 ---
+album: Open Road
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:2gXClZwvXiuC9W3uMxmh67
 features: []
-genres: []
+first_released_as_single: false
 key: riki-tiki-tavi-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/rikitikitavi.html
 name: Riki Tiki Tavi
@@ -39,10 +42,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1964
+runtime: 175666
 ---
-
-
-
 Better get into what you gotta get into
 Better get into it now, no slacking please
 United Nations ain't really united
@@ -141,6 +143,3 @@ Oh ma
 
 Well, natural high is the best high in the world.
 Oh, natural high is the best high in the world
-
-
-

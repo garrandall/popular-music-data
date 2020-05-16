@@ -1,8 +1,11 @@
 ---
+album: All For Love
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:0Orud39gtgh83Ner8eIMIl
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-love--is-all-it-takes--new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/alittlebitofloveisallittakes.html
 name: A Little Bit Of Love (Is All It Takes)
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 249800
 ---
-
 Yeah
 Woo...oh...oh.ohoh
 
@@ -157,6 +161,3 @@ A little bit of love is lovely
 
 A little bit of love is all it takes
 A little bit of love goes a long, long way
-
-
-

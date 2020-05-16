@@ -1,8 +1,11 @@
 ---
+album: The Complete Goldwax Singles
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:7yoQffRa6eRWfWASKTbRnN
 features: []
-genres: []
+first_released_as_single: false
 key: pouring-water-on-a-drowning-man-james-carr
 lyrics_url: https://genius.com/James-carr-pouring-water-on-a-drowning-man-lyrics
 name: Pouring Water On A Drowning Man
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 163361
 ---
 You push me when I'm falling
 And you kick me when I'm down

@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:6bOkaEXc5CopinGazSLokx
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-good-tyler-the-creator
 lyrics_url: https://genius.com/Tyler-the-creator-whats-good-lyrics
 name: What's Good
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 205626
 ---
 Turn my lights on
 How the fuck you quiet with the mic on?

@@ -1,9 +1,12 @@
 ---
+album: Da REAList
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:2cvrqWPrVUampcQP46MMdV
 features:
 - Ashanti
-genres: []
+first_released_as_single: false
 key: want-it-need-it-plies-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/plies/wantitneedit.html
 name: Want It Need It
@@ -12,8 +15,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
+release_year: 2008
+runtime: 229946
 ---
-
 I neva knew you felt like dat baby, pleasures all mine
 
 
@@ -45,4 +49,3 @@ Dose of ya medicine you wanna see tha doctor gon' take em off so I can gon'
 Lock ya I call you momma you call me poppa tonite I wanna make you tonite my baby
 Mama scent like water me no aroma come a lil closer so I can put it on ya
 You my property I'm yo owner
-

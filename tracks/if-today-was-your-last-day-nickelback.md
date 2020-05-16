@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4QJLKU75Rg4558f4LbDBRi
 features: []
-genres: []
+first_released_as_single: false
 key: if-today-was-your-last-day-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/iftodaywasyourlastday.html
 name: If Today Was Your Last Day
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2008
+runtime: 249066
 ---
-
 My best friend gave me the best advice
 He said, "Each day's a gift and not a given right.
 Leave no stone unturned, leave your fears behind
@@ -157,6 +161,3 @@ And would you find that one you're dreamin' of?
 Swear up and down to God above
 That you finally fall in love
 If today was your last day
-
-
-

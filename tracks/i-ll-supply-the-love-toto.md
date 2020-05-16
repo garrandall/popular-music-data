@@ -1,8 +1,11 @@
 ---
+album: Toto
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:3kETGXBpOCSESrSOEf6P84
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-supply-the-love-toto
 lyrics_url: https://genius.com/Toto-ill-supply-the-love-lyrics
 name: I'll Supply The Love
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
+release_year: 1978
+runtime: 224346
 ---
 You supply the night, baby
 I'll supply the love

@@ -1,8 +1,11 @@
 ---
+album: The Legendary Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:6KA0K9vQqnXoZNRrmNsB0H
 features: []
-genres: []
+first_released_as_single: false
 key: if-a-man-answers-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/ifamananswers.html
 name: If A Man Answers
@@ -39,8 +42,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 143266
 ---
-
 If a man answers your phone when I call
 Oh.. there's gonna be some screamin'
 And that ain't all
@@ -83,6 +87,3 @@ Well... I'm wastin' my time
 Not to mention my dime
 So, if a man answers your phone
 Then, honey I'm gone!
-
-
-

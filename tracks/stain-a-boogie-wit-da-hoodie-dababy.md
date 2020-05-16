@@ -1,9 +1,12 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:43gxRIYWkbfutTm2BpXOEF
 features:
 - DaBaby
-genres: []
+first_released_as_single: false
 key: stain-a-boogie-wit-da-hoodie-dababy
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-stain-lyrics
 name: Stain
@@ -12,6 +15,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 175128
 ---
 Pooh, you a fool for this one
 Go Grizz

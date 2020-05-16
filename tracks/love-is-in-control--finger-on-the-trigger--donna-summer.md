@@ -1,8 +1,11 @@
 ---
+album: Donna Summer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:5ljxv8aOm8HukHTjdtEHQ6
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-in-control--finger-on-the-trigger--donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/loveisincontrol.html
 name: Love Is In Control (Finger On The Trigger)
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 260200
 ---
-
 Hung around with big shots
 Never knew love was in the sights
 I guess I missed the target
@@ -139,6 +143,3 @@ I've got my finger on the trigger
 Love is in control
 I've got my finger on the trigger
 I ain't lettin' go...
-
-
-

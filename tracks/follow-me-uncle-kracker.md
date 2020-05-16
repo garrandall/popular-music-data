@@ -1,8 +1,11 @@
 ---
+album: Double Wide
 artists:
 - Uncle Kracker
+external_ids:
+  spotify: spotify:track:4KoecuyOpZaNFZ0UqVsllc
 features: []
-genres: []
+first_released_as_single: false
 key: follow-me-uncle-kracker
 lyrics_url: https://www.azlyrics.com/lyrics/unclekracker/followme.html
 name: Follow Me
@@ -139,8 +142,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2000
+runtime: 218439
 ---
-
 You don't know how you met me
 You don't know why
 You can't turn around and say goodbye
@@ -205,6 +209,3 @@ I'll be the one to tuck you in at night
 And if you
 Want to leave I can guarantee
 You won't find nobody else like me
-
-
-

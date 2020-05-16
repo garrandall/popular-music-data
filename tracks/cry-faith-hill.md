@@ -1,8 +1,11 @@
 ---
+album: Cry
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:6mJMvtuCMZt4XXNs5zw1zx
 features: []
-genres: []
+first_released_as_single: false
 key: cry-faith-hill
 lyrics_url: https://genius.com/Faith-hill-cry-lyrics
 name: Cry
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-02-22'
+release_year: 2002
+runtime: 226306
 ---
 If I had just one tear running down your cheek
 Maybe I could cope, maybe I'd get some sleep

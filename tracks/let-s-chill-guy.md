@@ -1,8 +1,11 @@
 ---
+album: The Future
 artists:
 - Guy
+external_ids:
+  spotify: spotify:track:12soRJf1RZRsCd0QUnJUYL
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-chill-guy
 lyrics_url: https://genius.com/Guy-lets-chill-lyrics
 name: Let's Chill
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1990
+runtime: 323826
 ---
 Sweetheart I’ve been trying so hard to get over you, just simply can’t
 ‘Cause the love we shared through the years...Meant so much to me

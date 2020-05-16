@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0OG63dGTsQ3coYISapSL13
 features: []
-genres: []
+first_released_as_single: false
 key: used-2-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-used-2-lyrics
 name: Used 2
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 240199
 ---
 I used to smoke to get high, now I smoke to get vibes
 I used to tote the semi, I still tote the semi

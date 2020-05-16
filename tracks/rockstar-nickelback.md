@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:6n9yCXvLhnYMgJIiIcMu7D
 features: []
-genres: []
+first_released_as_single: false
 key: rockstar-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/rockstar.html
 name: Rockstar
@@ -203,8 +206,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-01-26'
+release_year: 2005
+runtime: 252040
 ---
-
 I'm through with standing in line
 To clubs we'll never get in
 It's like the bottom of the ninth
@@ -305,6 +309,3 @@ Well
 
 Hey, hey, I wanna be a rockstar
 Hey, hey, I wanna be a rockstar
-
-
-

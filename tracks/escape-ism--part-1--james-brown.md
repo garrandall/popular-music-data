@@ -1,8 +1,11 @@
 ---
+album: Hot Pants
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4UMmdDcu2yKZ6fcq4nJPq3
 features: []
-genres: []
+first_released_as_single: false
 key: escape-ism--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-escape-ism-lyrics
 name: Escape-ism (Part 1)
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1971
+runtime: 249893
 ---
 Fellows, can I get into it?
 Can I get into it?

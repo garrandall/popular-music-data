@@ -1,8 +1,11 @@
 ---
+album: When Somebody Loves You
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:4ycTot7CIH1cQULltBNajo
 features: []
-genres: []
+first_released_as_single: false
 key: when-somebody-loves-you-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/whensomebodylovesyou.html
 name: When Somebody Loves You
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2000
+runtime: 207400
 ---
-
 When your heart is all alone every second
 Seems so long
 When it's just you, you can't see through
@@ -115,6 +119,3 @@ The way I love you
 
 The way I love you
 The way I love you
-
-
-

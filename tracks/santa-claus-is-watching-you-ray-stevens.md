@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ray Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:3dUE44K0A7Ar6BbCbscpKs
 features: []
-genres: []
+first_released_as_single: false
 key: santa-claus-is-watching-you-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/santaclausiswatchingyou.html
 name: Santa Claus Is Watching You
@@ -19,8 +22,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1899
+runtime: 152388
 ---
-
 Now baby doll, sweetie-pie, sugarplum
 Honey-bunch, angel face
 You know you better be good
@@ -83,6 +87,3 @@ I got a call into the North Pole right now
 Them little elves gonna come down here, whoop up on you
 I'm mean you got to be true blue - through and through
 Or Santa's gonna get you!
-
-
-

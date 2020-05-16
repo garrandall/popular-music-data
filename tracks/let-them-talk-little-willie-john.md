@@ -1,8 +1,11 @@
 ---
+album: In Action!
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:0ZLSsyB8meufwwos05peiO
 features: []
-genres: []
+first_released_as_single: false
 key: let-them-talk-little-willie-john
 lyrics_url: https://genius.com/Little-willie-john-let-them-talk-lyrics
 name: Let Them Talk
@@ -11,15 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1960
+runtime: 154945
 ---
-(Thompson)
-King Single #5274 Pop Chart #100 Feb 22, 1960
-R&B Chart#11
-With Ernie Hayes-piano, Mickey Baker-guitar, Emile Russell-drums
-Shafek Kareem (Skippy Williams) & Bellino Ramaglia-tenor sax
-Arleem Kareem (Pinky Williams)-Baritone sax
-Alfred Cobbs-trombone, unk strings
-
 Let them talk if they want to
 Talk don't bother me
 I want the whole wide world to know

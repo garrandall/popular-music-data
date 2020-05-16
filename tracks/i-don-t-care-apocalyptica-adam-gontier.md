@@ -1,9 +1,12 @@
 ---
+album: Worlds Collide
 artists:
 - Apocalyptica
+external_ids:
+  spotify: spotify:track:0t9Jd84JnsV8HRMaQzHUom
 features:
 - Adam Gontier
-genres: []
+first_released_as_single: false
 key: i-don-t-care-apocalyptica-adam-gontier
 lyrics_url: https://genius.com/Apocalyptica-i-dont-care-lyrics
 name: I Don't Care
@@ -72,6 +75,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2007
+runtime: 221480
 ---
 I try to make it through my life
 In my way there's you...

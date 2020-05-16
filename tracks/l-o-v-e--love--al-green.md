@@ -1,8 +1,11 @@
 ---
+album: Al Green Is Love
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:49qkJtDdi3KHmENFzleve4
 features: []
-genres: []
+first_released_as_single: false
 key: l-o-v-e--love--al-green
 lyrics_url: https://genius.com/Al-green-l-o-v-e-love-lyrics
 name: L-O-V-E (Love)
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1975
+runtime: 189306
 ---
 I started to write this song about you
 And then I decided that I would write it all about love

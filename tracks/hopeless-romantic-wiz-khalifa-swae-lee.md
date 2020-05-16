@@ -1,9 +1,12 @@
 ---
+album: Rolling Papers 2
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:6EAFW3wFihz2OlyTiWkeJb
 features:
 - Swae Lee
-genres: []
+first_released_as_single: false
 key: hopeless-romantic-wiz-khalifa-swae-lee
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/hopelessromantic.html
 name: Hopeless Romantic
@@ -36,9 +39,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 226742
 ---
-
-
 Young Chop on the beat
 Oh, oh, oh, oh
 She's gonna get
@@ -108,6 +111,3 @@ We can make arrangements though
 And if you down, down, who knows
 I might just do you like we lovin', yeah
 Or make you my numero uno
-
-
-

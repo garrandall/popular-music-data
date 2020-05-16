@@ -1,9 +1,12 @@
 ---
+album: The Mountain
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:4a1oIihVt6xSnDRpgX387M
 features:
 - Brothers Osborne
-genres: []
+first_released_as_single: false
 key: burning-man-dierks-bentley-brothers-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/burningman.html
 name: Burning Man
@@ -76,8 +79,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2018
+runtime: 238493
 ---
-
 Half your life you struggle
 Half your life you fly
 Half your life makin' trouble
@@ -124,6 +128,3 @@ Still just a burn, burn, burning man
 Just a burning man
 
 Burning man
-
-
-

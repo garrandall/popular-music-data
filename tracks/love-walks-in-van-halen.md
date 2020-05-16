@@ -1,8 +1,11 @@
 ---
+album: '5150'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:6FRQGRdhueJGTKiYnirDNy
 features: []
-genres: []
+first_released_as_single: false
 key: love-walks-in-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/lovewalksin.html
 name: Love Walks In
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1986
+runtime: 310933
 ---
-
 Contact
 Is all it takes
 To change your life
@@ -136,6 +140,3 @@ Love comes walkin' in
 Baby, pull the string
 Love comes walkin' in
 Love comes walkin' in
-
-
-

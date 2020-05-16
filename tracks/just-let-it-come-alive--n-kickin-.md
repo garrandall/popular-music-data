@@ -1,8 +1,11 @@
 ---
+album: Alive 'N Kickin'
 artists:
 - Alive 'N Kickin'
+external_ids:
+  spotify: spotify:track:2RZzhUYHDlb2hKap8YqBxN
 features: []
-genres: []
+first_released_as_single: false
 key: just-let-it-come-alive--n-kickin-
 lyrics_url: https://www.musixmatch.com/lyrics/Alive-N-Kickin/Just-Let-it-Come
 name: Just Let It Come
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
+release_year: 1970
+runtime: 192213
 ---
 Don't you know I saw you, baby
 As I passed you by

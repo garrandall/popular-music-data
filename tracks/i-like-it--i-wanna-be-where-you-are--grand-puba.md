@@ -1,8 +1,11 @@
 ---
+album: '2000'
 artists:
 - Grand Puba
+external_ids:
+  spotify: spotify:track:3nqnWEZnYoetfO2ksMZZVK
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it--i-wanna-be-where-you-are--grand-puba
 lyrics_url: https://genius.com/Grand-puba-i-like-it-buckwild-remix-lyrics
 name: I Like It (I Wanna Be Where You Are)
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1995
+runtime: 263533
 ---
 "Ladies and gentlemen, I've found him, I want you to meet the
 Baddest motherfucker in town (right on, right on, right on)"

@@ -1,8 +1,11 @@
 ---
+album: Premonition
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:7bjlsOZE5N3zl4WttKgSi5
 features: []
-genres: []
+first_released_as_single: false
 key: poor-man-s-son-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/poormansson.html
 name: Poor Man's Son
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 215733
 ---
-
 Baby if you really love me
 You had better understand
 That the silver in your pocket
@@ -107,6 +111,3 @@ You're a rich mans daughter
 Look at what you've done
 You went and fell in love 
 With a poor mans son
-
-
-

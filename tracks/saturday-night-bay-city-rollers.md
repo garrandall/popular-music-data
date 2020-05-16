@@ -1,8 +1,11 @@
 ---
+album: Rollin'
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:2Z7FT1lDIAwdAtoQNHNWxB
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-bay-city-rollers
 lyrics_url: https://genius.com/Bay-city-rollers-saturday-night-lyrics
 name: Saturday Night
@@ -75,6 +78,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1974
+runtime: 174466
 ---
 S-A-T-U-R-D-A-Y night!
 S-A-T-U-R-D-A-Y night!

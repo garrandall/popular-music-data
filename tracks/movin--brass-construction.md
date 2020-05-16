@@ -1,8 +1,11 @@
 ---
+album: Brass Construction
 artists:
 - Brass Construction
+external_ids:
+  spotify: spotify:track:1plCuPFkEbc05PB9np0q1P
 features: []
-genres: []
+first_released_as_single: false
 key: movin--brass-construction
 lyrics_url: https://genius.com/Brass-construction-movin-lyrics
 name: Movin'
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1975
+runtime: 521426
 ---
 Got myself together, yeah
 Gonna get higher

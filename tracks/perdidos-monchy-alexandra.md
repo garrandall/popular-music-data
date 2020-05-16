@@ -1,9 +1,12 @@
 ---
+album: Hasta El Fin (Pistas)
 artists:
 - Monchy
 - Alexandra
+external_ids:
+  spotify: spotify:track:0jF9xxKr7NOo8mUsX8qoTI
 features: []
-genres: []
+first_released_as_single: false
 key: perdidos-monchy-alexandra
 lyrics_url: https://genius.com/Monchy-and-alexandra-perdidos-lyrics
 name: Perdidos
@@ -36,6 +39,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 269600
 ---
 Esa sonrisa divina esa mirada
 Que mata, esa aroma que envuelve

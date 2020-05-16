@@ -1,8 +1,11 @@
 ---
+album: Blessed Are...
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:27r24k2dm1xEDpPMUedJRk
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-joan-baez
 lyrics_url: https://genius.com/Joan-baez-let-it-be-lyrics
 name: Let It Be
@@ -39,6 +42,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-01-01'
+release_year: 1971
+runtime: 231933
 ---
 When I find myself in times of trouble
 Mother Mary comes to me

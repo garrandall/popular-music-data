@@ -1,8 +1,11 @@
 ---
+album: Sammy Johns
 artists:
 - Sammy Johns
+external_ids:
+  spotify: spotify:track:31S6oGx81hVIjWz6cu5oNw
 features: []
-genres: []
+first_released_as_single: false
 key: chevy-van-sammy-johns
 lyrics_url: https://www.azlyrics.com/lyrics/sammyjohns/chevyvan.html
 name: Chevy Van
@@ -75,8 +78,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1973
+runtime: 179000
 ---
-
 I gave a girl a ride in my wagon
 She crawled in and took control
 She was tired as her mind was draggin'
@@ -120,6 +124,3 @@ And that's all right with me
 Moonlight dancing off her hair
 She woke up and took me by the hand 
 We made love in my Chevy van
-
-
-

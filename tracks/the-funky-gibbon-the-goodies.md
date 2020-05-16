@@ -1,8 +1,11 @@
 ---
+album: The Funky Gibbon  - Single
 artists:
 - The Goodies
+external_ids:
+  spotify: spotify:track:7oBOYRKnQ0RuneQ7Wm1Wt6
 features: []
-genres: []
+first_released_as_single: true
 key: the-funky-gibbon-the-goodies
 lyrics_url: https://www.musixmatch.com/lyrics/the-goodies/The-Funky-Gibbon
 name: The Funky Gibbon
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 173387
 ---
 Come on everybody
 It's gibbon time

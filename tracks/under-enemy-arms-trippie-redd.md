@@ -1,8 +1,11 @@
 ---
+album: '!'
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:1NF9EkR5OpMaoVWbsllcm9
 features: []
-genres: []
+first_released_as_single: true
 key: under-enemy-arms-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/underenemyarms.html
 name: Under Enemy Arms
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-06-15'
+release_year: 2019
+runtime: 162461
 ---
-
 You niggas gon' end up in a hearse (Hearse)
 You niggas gon' end up in the dirt (Dirt)
 From the trenches had to make it work (Work)
@@ -76,6 +80,3 @@ Tear down an enemy's army (Army)
 Tear down an enemy's army (Army)
 Hoe that's a enemy's arms (Arms)
 Hoe that's a enemy's arms (Arms)
-
-
-

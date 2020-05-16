@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:5u7BDyugDW7ZXkXdCxU9JC
 features: []
-genres: []
+first_released_as_single: false
 key: please-remember-me-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/pleaserememberme.html
 name: Please Remember Me
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
+release_year: 1999
+runtime: 296333
 ---
-
 When all our tears have reached the sea
 Part of you will live in me
 Way down deep inside my heart
@@ -127,6 +131,3 @@ Deep as the river runs
 Warm as the morning sun
 Please remember me
 Please remember me
-
-
-

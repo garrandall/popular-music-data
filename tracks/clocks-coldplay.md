@@ -1,8 +1,11 @@
 ---
+album: A Rush of Blood to the Head
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:0BCPKOYdS2jbQ8iyB56Zns
 features: []
-genres: []
+first_released_as_single: false
 key: clocks-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/clocks.html
 name: Clocks
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-06-28'
+release_year: 2002
+runtime: 307879
 ---
-
 The lights go out and I can't be saved
 Tides that I tried to swim against
 Have brought me down upon my knees
@@ -134,6 +138,3 @@ Home, home where I wanted to go
 Home, home where I wanted to go
 Home, home where I wanted to go
 Home, home where I wanted to go
-
-
-

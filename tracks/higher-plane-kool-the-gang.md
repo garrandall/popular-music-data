@@ -1,9 +1,12 @@
 ---
+album: Light Of Worlds
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:4eC1gIBRsBamJPcnoFT7sT
 features: []
-genres: []
+first_released_as_single: false
 key: higher-plane-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/higherplane.html
 name: Higher Plane
@@ -40,8 +43,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 301000
 ---
-
 Higher, higher
 Higher, higher
 Yeah, yeah
@@ -96,6 +100,3 @@ Gotta keep on liftin', liftin', liftin', liftin' you
 High, high, high, high, high
 High, high, high, high, high
 High, high, high, high, high
-
-
-

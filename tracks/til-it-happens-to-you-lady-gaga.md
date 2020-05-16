@@ -1,8 +1,11 @@
 ---
+album: Til It Happens To You
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:0bCCGLHflR08UVA6oJJc8I
 features: []
-genres: []
+first_released_as_single: true
 key: til-it-happens-to-you-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-til-it-happens-to-you-lyrics
 name: Til It Happens To You
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 258093
 ---
 You tell me it gets better, it gets better in time
 You say I'll pull myself together, pull it together, you'll be fine

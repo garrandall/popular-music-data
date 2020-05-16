@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:416Fw1yj39fQ0z5ilnGovb
 features: []
-genres: []
+first_released_as_single: false
 key: dead-man-s-curve-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/deadmanscurve.html
 name: Dead Man's Curve
@@ -64,8 +67,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 150666
 ---
-
 I was cruisin' in my stingray late one night
 When an XKE pulled up on the right
 And rolled down the window of his shiny new jag
@@ -104,6 +108,3 @@ Dead man's curve, it's no place to play
 Dead man's curve, you best keep away
 Dead man's curve, I can hear 'em say
 Won't come back from dead man's curve
-
-
-

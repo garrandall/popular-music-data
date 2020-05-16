@@ -1,8 +1,11 @@
 ---
+album: Love Is Not Sex
 artists:
 - Captain Hollywood Project
+external_ids:
+  spotify: spotify:track:3szbUvkrU3pE7re5pjiTTx
 features: []
-genres: []
+first_released_as_single: true
 key: more-and-more-captain-hollywood-project
 lyrics_url: https://genius.com/Captain-hollywood-project-more-and-more-lyrics
 name: More And More
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1992
+runtime: 253573
 ---
 (More and more and more
 I don't know where we're going to

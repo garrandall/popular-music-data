@@ -1,8 +1,11 @@
 ---
+album: Planet P Project
 artists:
 - Planet P
+external_ids:
+  spotify: spotify:track:6ryzreUu7YzUGjWNBpkPKp
 features: []
-genres: []
+first_released_as_single: false
 key: why-me--planet-p
 lyrics_url: https://genius.com/Planet-p-project-why-me-lyrics
 name: Why Me?
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1983
+runtime: 246360
 ---
 Sitting up here watching all the lights blink down below
 The earth is turning, why does it go so slow?

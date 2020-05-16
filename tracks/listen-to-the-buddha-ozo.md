@@ -1,8 +1,11 @@
 ---
+album: Listen To The Buddha
 artists:
 - Ozo
+external_ids:
+  spotify: spotify:track:5LcKuJLxeIIDrueZRUfwrD
 features: []
-genres: []
+first_released_as_single: false
 key: listen-to-the-buddha-ozo
 name: Listen To The Buddha
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 384284
 ---
 

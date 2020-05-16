@@ -1,8 +1,11 @@
 ---
+album: Shake Your Money Maker
 artists:
 - The Black Crowes
+external_ids:
+  spotify: spotify:track:5NK8jad728pj6YeqM5VJD4
 features: []
-genres: []
+first_released_as_single: false
 key: she-talks-to-angels-the-black-crowes
 lyrics_url: https://www.azlyrics.com/lyrics/blackcrowes/shetalkstoangels.html
 name: She Talks To Angels
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1990
+runtime: 329400
 ---
-
 She never mentions the word "addiction"
 In certain company
 Yes, she'll tell you she's an orphan
@@ -124,6 +128,3 @@ Yeah, ee, eah, eah, eah, eah
 Call her out
 Don't you know that they
 Call her out by her name?
-
-
-

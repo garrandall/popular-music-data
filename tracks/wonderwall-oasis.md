@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Oasis
+external_ids:
+  spotify: spotify:track:5wj4E6IsrVtn8IBJQOd0Cl
 features: []
-genres: []
+first_released_as_single: false
 key: wonderwall-oasis
 lyrics_url: https://www.azlyrics.com/lyrics/oasis/wonderwall.html
 name: Wonderwall
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
+release_year: 1995
+runtime: 258732
 ---
-
 Today is gonna be the day
 That they're gonna throw it back to you
 By now you should've somehow
@@ -141,6 +145,3 @@ I said maybe (I said maybe)
 You're gonna be the one that saves me (saves me)
 You're gonna be the one that saves me (saves me)
 You're gonna be the one that saves me (saves me)
-
-
-

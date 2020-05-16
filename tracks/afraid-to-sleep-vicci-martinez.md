@@ -1,8 +1,11 @@
 ---
+album: Afraid To Sleep (The Voice Performance)
 artists:
 - Vicci Martinez
+external_ids:
+  spotify: spotify:track:06Km3ZJ7x5Bbw6BzwvKNgq
 features: []
-genres: []
+first_released_as_single: true
 key: afraid-to-sleep-vicci-martinez
 lyrics_url: https://www.azlyrics.com/lyrics/viccimartinez/afraidtosleep.html
 name: Afraid To Sleep
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 200773
 ---
-
 Slept in this room together
 But now you're gone
 And it's so quiet I turn the TV on
@@ -56,6 +60,3 @@ Baby I'm afraid of sleep
 Baby I'm afraid of sleep
 
 We slept in this room together and now you're gone
-
-
-

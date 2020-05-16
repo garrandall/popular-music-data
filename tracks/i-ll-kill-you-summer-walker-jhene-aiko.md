@@ -1,9 +1,12 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:7EkiMl81fUHVwpItgtzI4r
 features:
 - Jhene Aiko
-genres: []
+first_released_as_single: false
 key: i-ll-kill-you-summer-walker-jhene-aiko
 lyrics_url: https://genius.com/Summer-walker-ill-kill-you-lyrics
 name: I'll Kill You
@@ -20,6 +23,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 179973
 ---
 If them bitches 'round you, better be blood
 If it ain't me or your mama, shouldn't be showin' you no love

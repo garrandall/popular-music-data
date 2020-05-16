@@ -1,8 +1,11 @@
 ---
+album: Bodies And Souls
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:7z2lrcW8tG8ietwg2itOKe
 features: []
-genres: []
+first_released_as_single: false
 key: spice-of-life-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/spiceoflife.html
 name: Spice Of Life
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 222133
 ---
-
 Down on the corner there's a reason to smile
 When those evenin' shadows fall
 Some kinda feelin' that it's hard to deny
@@ -99,6 +103,3 @@ All night we'll taste the spice of life
 Keep it sweet until the mornin' light
 Watch fantasy unfold
 That's the only way to go
-
-
-

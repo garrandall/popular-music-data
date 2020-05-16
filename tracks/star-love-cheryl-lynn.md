@@ -1,8 +1,11 @@
 ---
+album: Cheryl Lynn
 artists:
 - Cheryl Lynn
+external_ids:
+  spotify: spotify:track:3Qf3MFEgl1laKe49NAXYKq
 features: []
-genres: []
+first_released_as_single: false
 key: star-love-cheryl-lynn
 lyrics_url: https://genius.com/Cheryl-lynn-star-love-lyrics
 name: Star Love
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1978
+runtime: 444120
 ---
 Come with me tonight
 All across the universe, we will sail for the skies

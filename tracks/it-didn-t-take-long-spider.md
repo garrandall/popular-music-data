@@ -1,8 +1,11 @@
 ---
+album: Between the Lines
 artists:
 - Spider
+external_ids:
+  spotify: spotify:track:79b3gEFmD4SKMHZknn5LSE
 features: []
-genres: []
+first_released_as_single: false
 key: it-didn-t-take-long-spider
 lyrics_url: https://genius.com/Spider-it-didnt-take-long-lyrics
 name: It Didn't Take Long
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 232840
 ---
 Said you'd always be my friend
 Never let me down again

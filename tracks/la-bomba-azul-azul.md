@@ -1,8 +1,11 @@
 ---
+album: El Sapo
 artists:
 - Azul Azul
+external_ids:
+  spotify: spotify:track:0Tl84qfow6Dv0PM60zoBhb
 features: []
-genres: []
+first_released_as_single: false
 key: la-bomba-azul-azul
 lyrics_url: https://genius.com/Azul-azul-la-bomba-lyrics
 name: La Bomba
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2000
+runtime: 123960
 ---
 Booooooommmmba (sensual)
 Un movimiento sensual (sensual)

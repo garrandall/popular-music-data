@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:5PYQUBXc7NYeI1obMKSJK0
 features: []
-genres: []
+first_released_as_single: true
 key: never-really-over-katy-perry
 lyrics_url: https://genius.com/Katy-perry-never-really-over-lyrics
 name: Never Really Over
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 223523
 ---
 I'm losing my self control
 Yeah, you’re starting to trickle back in

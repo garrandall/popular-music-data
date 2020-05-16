@@ -1,9 +1,12 @@
 ---
+album: Best Friend (Remix)
 artists:
 - 50 Cent
 - Olivia
+external_ids:
+  spotify: spotify:track:1wI3UvluGGKUeFeVFsP9do
 features: []
-genres: []
+first_released_as_single: true
 key: best-friend-50-cent-olivia
 lyrics_url: https://genius.com/50-cent-best-friend-remix-lyrics
 name: Best Friend
@@ -68,6 +71,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2006
+runtime: 254493
 ---
 Ohhhh oh! (Yeah! It's my tape man) Whoa
 Whoa ohhoh!ohisten to my tape)

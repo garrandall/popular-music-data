@@ -1,8 +1,11 @@
 ---
+album: Coming Around Again
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:6joaljcemJFCZi5zrg6Zf8
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-is-you-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/alliwantisyou.html
 name: All I Want Is You
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
+release_year: 1987
+runtime: 237693
 ---
 What do the neighbors say
 When they hear us scream at night

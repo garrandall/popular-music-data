@@ -1,8 +1,11 @@
 ---
+album: The Essential R. Kelly
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:1OCFE38LYUf22diBKJ8Z4W
 features: []
-genres: []
+first_released_as_single: false
 key: gotham-city-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/gothamcity.html
 name: Gotham City
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1997
+runtime: 285680
 ---
-
 I'm looking over the skyline of the city
 How loud, quiet nights in the mist of crime
 How next door to happiness lives sorrow
@@ -146,6 +150,3 @@ A Gotham City
 A Gotham City
 A Gotham City
 A Gotham City
-
-
-

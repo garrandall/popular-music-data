@@ -1,8 +1,11 @@
 ---
+album: The Purple People Eater
 artists:
 - Sheb Wooley
+external_ids:
+  spotify: spotify:track:0WkZQPNC0c7yrsMX1arVAd
 features: []
-genres: []
+first_released_as_single: false
 key: the-purple-people-eater-sheb-wooley
 lyrics_url: https://genius.com/Sheb-wooley-the-purple-people-eater-lyrics
 name: The Purple People Eater
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1958
+runtime: 137960
 ---
 AAAAAHHHH!
 

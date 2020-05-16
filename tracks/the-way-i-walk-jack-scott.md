@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:6IwZQSZSVJPAxcfbXR8ZuB
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-walk-jack-scott
 lyrics_url: https://genius.com/Jack-scott-the-way-i-walk-lyrics
 name: The Way I Walk
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 162400
 ---
 The way I walk is just the way I walk
 The way I talk is just the way I talk

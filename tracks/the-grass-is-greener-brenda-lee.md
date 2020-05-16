@@ -1,8 +1,11 @@
 ---
+album: By Request
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:0Hak8JUqy0aqo2HQgTOR6v
 features: []
-genres: []
+first_released_as_single: false
 key: the-grass-is-greener-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/thegrassisgreener.html
 name: The Grass Is Greener
@@ -39,8 +42,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 161186
 ---
-
 I had the world when you were mine
 But I threw it away
 I thought the grass was greener there
@@ -59,6 +63,3 @@ And the grass is really greener there
 For that's just where you are
 I know the grass is greener there
 For that's just where you are
-
-
-

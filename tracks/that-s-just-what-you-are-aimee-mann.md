@@ -1,8 +1,11 @@
 ---
+album: I'm With Stupid
 artists:
 - Aimee Mann
+external_ids:
+  spotify: spotify:track:42u7ZMYiu6EVCDQqa0H2hY
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-just-what-you-are-aimee-mann
 lyrics_url: https://genius.com/Aimee-mann-thats-just-what-you-are-lyrics
 name: That's Just What You Are
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
+release_year: 1994
+runtime: 258106
 ---
 In our endeavor we are never seeing eye to eye
 No guts to serve us so forever may we wave goodbye

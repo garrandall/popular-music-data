@@ -1,8 +1,11 @@
 ---
+album: Dirty Water
 artists:
 - The Standells
+external_ids:
+  spotify: spotify:track:07OITSVGt7vOSMcN3uvF9t
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-good-guys-don-t-wear-white-the-standells
 lyrics_url: https://genius.com/The-standells-sometimes-good-guys-dont-wear-white-lyrics
 name: Sometimes Good Guys Don't Wear White
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 173373
 ---
 I'm a poor boy born in a rubble
 And some say my manners ain't the best

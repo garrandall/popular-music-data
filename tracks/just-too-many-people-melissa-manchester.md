@@ -1,8 +1,11 @@
 ---
+album: Melissa
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:0XToeFbdeWatXIItEKtoWX
 features: []
-genres: []
+first_released_as_single: false
 key: just-too-many-people-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/justtoomanypeople.html
 name: Just Too Many People
@@ -55,8 +58,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 219293
 ---
-
 Somebody told me a long, long time ago
 O baby, I feel a change in me
 Is comin' on
@@ -96,6 +100,3 @@ There's just too many lonely people
 Livin' in a house divided
 By loneliness and sorrow
 It's more than I can stand
-
-
-

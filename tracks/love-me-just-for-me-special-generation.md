@@ -1,8 +1,11 @@
 ---
+album: Take It To The Floor
 artists:
 - Special Generation
+external_ids:
+  spotify: spotify:track:6ODgFXCenDGKdWHdoRmfY5
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-just-for-me-special-generation
 lyrics_url: https://genius.com/Special-generation-love-me-just-for-me-lyrics
 name: Love Me Just For Me
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
+release_year: 1990
+runtime: 238320
 ---
 Love me just for me. Love me just for me
 Love me just for me. Love me just for me

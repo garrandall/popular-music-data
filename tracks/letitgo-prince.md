@@ -1,8 +1,11 @@
 ---
+album: Come
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:3LuCnnGkixRVdEKFo4K0az
 features: []
-genres: []
+first_released_as_single: false
 key: letitgo-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/letitgo.html
 name: Letitgo
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 335040
 ---
-
 Ready or not, here I come
 (Come on)
 (Come on)
@@ -122,6 +126,3 @@ I am ready 4 the real (Come a little closer)
 
 (letitgo)
 (Lay back and let the vibe just flow)
-
-
-

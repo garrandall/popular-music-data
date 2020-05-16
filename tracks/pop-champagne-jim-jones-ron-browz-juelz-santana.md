@@ -1,10 +1,13 @@
 ---
+album: Pray IV Reign
 artists:
 - Jim Jones
 - Ron Browz
+external_ids:
+  spotify: spotify:track:6ZULTiMcrmGeuj6GilRgod
 features:
 - Juelz Santana
-genres: []
+first_released_as_single: true
 key: pop-champagne-jim-jones-ron-browz-juelz-santana
 lyrics_url: https://www.azlyrics.com/lyrics/jimjones/popchampagne.html
 name: Pop Champagne
@@ -89,9 +92,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 221000
 ---
-
-
 Ether boy! Hey!
 
 
@@ -184,6 +187,3 @@ OHHHHHHHH! Pop champagne!
 OHHHHHHHH! Pop champagne!
 OHHHHHHHH! We pop champagne!
 OHHHHHHHH! We pop champagne!
-
-
-

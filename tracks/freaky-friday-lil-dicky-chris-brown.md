@@ -1,9 +1,12 @@
 ---
+album: Freaky Friday
 artists:
 - Lil Dicky
+external_ids:
+  spotify: spotify:track:10Igtw8bSDyyFs7KIsKngZ
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: freaky-friday-lil-dicky-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/lildicky/freakyfriday.html
 name: Freaky Friday
@@ -88,9 +91,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 216631
 ---
-
-
 Lil Dicky, oh
 Mustard on the beat, ho
 
@@ -191,6 +194,3 @@ Huh, I'm Kendall Jenner
 I got a vagina, I'm gonna explore that right now (woo)
 Holy shit, I got a vagina (uh), I'm gonna learn
 I'm gonna understand the inner workings of a woman
-
-
-

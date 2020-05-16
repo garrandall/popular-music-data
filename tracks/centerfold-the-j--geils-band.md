@@ -1,8 +1,11 @@
 ---
+album: Freeze Frame
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:1ynmMEK1fkyiZ6Z6F3ThEt
 features: []
-genres: []
+first_released_as_single: false
 key: centerfold-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/centerfold.html
 name: Centerfold
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1981
+runtime: 216533
 ---
-
 Come on
 
 Does she walk? Does she talk?
@@ -145,7 +149,7 @@ When angel passed close by
 
 Those soft, fuzzy sweaters
 Too magical to touch
-To see her in that negligÃ©e
+To see her in that negligée
 Is really just too much
 
 My blood runs cold
@@ -200,6 +204,3 @@ My blood runs cold, oh yeah
 My memory has just been sold
 My angel is the centerfold
 Angel is the centerfold
-
-
-

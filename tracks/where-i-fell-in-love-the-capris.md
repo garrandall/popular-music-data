@@ -1,8 +1,11 @@
 ---
+album: Old Town Doo Wop, Vol. 2
 artists:
 - The Capris
+external_ids:
+  spotify: spotify:track:3RN7zbk7QEKR0k3IYGObfp
 features: []
-genres: []
+first_released_as_single: false
 key: where-i-fell-in-love-the-capris
 lyrics_url: https://www.musixmatch.com/lyrics/The-Capris/Where-I-Fell-in-Love
 name: Where I Fell In Love
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 143106
 ---
 Do do do do...
 

@@ -1,9 +1,12 @@
 ---
+album: The Dynasty
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:2mipgXZMxEju9GLP7U1LOp
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: guilty-until-proven-innocent-jay-z-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/guiltyuntilproveninnocent.html
 name: Guilty Until Proven Innocent
@@ -40,9 +43,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 2000
+runtime: 295960
 ---
-
-
 I thought this was America people!
 Uhh, yeah, guilty until proven innocent huh?
 That's how we workin huh? Okay
@@ -173,6 +176,3 @@ Jigga, Kelly, not guilty
 I got, all, my mamis
 Tell me, what you, want from me
 Y'all, cats, can't touch me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The New Lee Dorsey
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:4DHcdrqwNX6iuwgZxEiNYA
 features: []
-genres: []
+first_released_as_single: false
 key: working-in-the-coal-mine-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-working-in-the-coal-mine-lyrics
 name: Working In The Coal Mine
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1962
+runtime: 169640
 ---
 (Workin' in a coal mine)
 (Goin' down down down)

@@ -1,9 +1,12 @@
 ---
+album: Guilty
 artists:
 - Yarbrough
 - Peoples
+external_ids:
+  spotify: spotify:track:3NICTJCD9VHYN5esjGvrdT
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-lie-yarbrough-peoples
 lyrics_url: https://www.musixmatch.com/lyrics/Yarbrough-feat-Peoples/I-Wouldn-t-Lie
 name: I Wouldn't Lie
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1985
+runtime: 304480
 ---
 Oh, oh
 Hey, hey, hey

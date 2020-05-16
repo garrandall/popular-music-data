@@ -1,8 +1,11 @@
 ---
+album: Ship Ahoy
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:7koota4uKhP2atjY5qjKu1
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-money-the-o-jays
 lyrics_url: https://genius.com/The-ojays-for-the-love-of-money-lyrics
 name: For The Love Of Money
@@ -71,6 +74,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1972
+runtime: 439200
 ---
 Money money money money, money
 Money money money money, money

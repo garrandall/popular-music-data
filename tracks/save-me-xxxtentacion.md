@@ -1,8 +1,11 @@
 ---
+album: '17'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:2UwbhMie1EAYuTZ0QXeMwl
 features: []
-genres: []
+first_released_as_single: false
 key: save-me-xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-save-me-lyrics
 name: Save Me
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 163201
 ---
 Up there (Yeah)
 Who do I have?

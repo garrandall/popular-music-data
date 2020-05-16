@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits
 artists:
 - Brenda K. Starr
+external_ids:
+  spotify: spotify:track:6TgWi4fFYyZNxKdUH5jGxQ
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-see-is-what-you-get-brenda-k--starr
 lyrics_url: https://genius.com/Brenda-k-starr-what-you-see-is-what-you-get-lyrics
 name: What You See Is What You Get
@@ -59,6 +62,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 319253
 ---
 Oh, yeah
 

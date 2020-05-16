@@ -1,9 +1,12 @@
 ---
+album: Piano Classics
 artists:
 - Ferrante
 - Teicher
+external_ids:
+  spotify: spotify:track:5MXbEWZpjoFoyo8yHgbY9s
 features: []
-genres: []
+first_released_as_single: false
 key: smile-ferrante-teicher
 name: Smile
 rankings:
@@ -19,5 +22,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 148440
 ---
 

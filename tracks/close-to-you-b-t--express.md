@@ -1,8 +1,11 @@
 ---
+album: Non-Stop
 artists:
 - B.T. Express
+external_ids:
+  spotify: spotify:track:6F0lIh4zqlgCZLDAk9BvBL
 features: []
-genres: []
+first_released_as_single: false
 key: close-to-you-b-t--express
 lyrics_url: https://www.musixmatch.com/lyrics/B-T-Express/Close-to-You
 name: Close To You
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
+release_year: 1970
+runtime: 317413
 ---
 I know why birds suddenly appear
 Every time you are near

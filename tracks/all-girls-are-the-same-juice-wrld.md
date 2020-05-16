@@ -1,8 +1,11 @@
 ---
+album: Goodbye & Good Riddance
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:4VXIryQMWpIdGgYR4TrjT1
 features: []
-genres: []
+first_released_as_single: false
 key: all-girls-are-the-same-juice-wrld
 lyrics_url: https://genius.com/Juice-wrld-all-girls-are-the-same-lyrics
 name: All Girls Are The Same
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 165819
 ---
 Mhm, they're rotting my brain, love
 These hoes are the same

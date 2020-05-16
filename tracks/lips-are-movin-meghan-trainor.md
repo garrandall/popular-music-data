@@ -1,8 +1,11 @@
 ---
+album: Title - Track by Track Commentary
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:2tIwC8WXQTzTEeMqYMDJqj
 features: []
-genres: []
+first_released_as_single: false
 key: lips-are-movin-meghan-trainor
 lyrics_url: https://www.musixmatch.com/lyrics/Meghan-Trainor/Lips-Are-Movin
 name: Lips Are Movin
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2014
+runtime: 31369
 ---
 If your lips are moving, if your lips are moving
 If your lips are moving then you're ly-ly-lying, baby

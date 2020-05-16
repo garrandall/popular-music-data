@@ -1,8 +1,11 @@
 ---
+album: Loose
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:6NyWT02RGO5OgT55JDjI08
 features: []
-genres: []
+first_released_as_single: false
 key: all-good-things--come-to-an-end--nelly-furtado
 lyrics_url: https://www.azlyrics.com/lyrics/nellyfurtado/allgoodthingscometoanend.html
 name: All Good Things (Come To An End)
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2006
+runtime: 311093
 ---
-
 Honestly what will become of me
 don't like reality
 It's way too clear to me
@@ -91,6 +95,3 @@ the rain forgot how to bring salvation
 the dogs were barking at the new moon
 Whistling a new tune
 Hoping it would come soon so that they could die.
-
-
-

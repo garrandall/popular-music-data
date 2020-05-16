@@ -1,8 +1,11 @@
 ---
+album: The Dimension Dolls
 artists:
 - The Cookies
+external_ids:
+  spotify: spotify:track:6NYAr0Lx5iWQj7lDwh6jbO
 features: []
-genres: []
+first_released_as_single: false
 key: girls-grow-up-faster-than-boys-the-cookies
 lyrics_url: https://genius.com/The-cookies-girls-grow-up-faster-than-boys-lyrics
 name: Girls Grow Up Faster Than Boys
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1963
+runtime: 167213
 ---
 Girls grow up faster than boys do
 Girls grow up faster than boys

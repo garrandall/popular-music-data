@@ -1,8 +1,11 @@
 ---
+album: One Love
 artists:
 - Dr. Alban
+external_ids:
+  spotify: spotify:track:32kWu9IvkaCiQotcA0rJBa
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-my-life-dr--alban
 lyrics_url: https://www.azlyrics.com/lyrics/dralban/itsmylife.html
 name: It's My Life
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1992
+runtime: 240392
 ---
-
 It's my life take it or leave it
 Set me free what's that crap papa-knew-it-all
 I got my own life you got your own life
@@ -123,6 +127,3 @@ It's my life (It's my life)
 Stop fighting me stop bugging me (It's my life)
 Stop forcing me stop yelling at me (It's my life)
 It's my life... (It's my life)
-
-
-

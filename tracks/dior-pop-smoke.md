@@ -1,8 +1,11 @@
 ---
+album: Meet The Woo
 artists:
 - Pop Smoke
+external_ids:
+  spotify: spotify:track:79s5XnCN4TJKTVMSmOx8Ep
 features: []
-genres: []
+first_released_as_single: false
 key: dior-pop-smoke
 lyrics_url: https://genius.com/Pop-smoke-dior-lyrics
 name: Dior
@@ -23,6 +26,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 216386
 ---
 Traphouse Mob
 Huh,  roll another one

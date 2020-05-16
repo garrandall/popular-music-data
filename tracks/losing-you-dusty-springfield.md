@@ -1,8 +1,11 @@
 ---
+album: Ooooooweeee!
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:34b1l60ziYc3VDgrSg4Khx
 features: []
-genres: []
+first_released_as_single: true
 key: losing-you-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-losing-you-lyrics
 name: Losing You
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 181195
 ---
 How many tears do you cry
 If love should break your heart in two?

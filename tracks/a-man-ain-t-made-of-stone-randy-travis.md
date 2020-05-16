@@ -1,8 +1,11 @@
 ---
+album: A Man Ain't Made Of Stone
 artists:
 - Randy Travis
+external_ids:
+  spotify: spotify:track:0zfROzbYJMHs9xz6XeDrRl
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-ain-t-made-of-stone-randy-travis
 lyrics_url: https://genius.com/Randy-travis-a-man-aint-made-of-stone-lyrics
 name: A Man Ain't Made Of Stone
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
+release_year: 1999
+runtime: 213506
 ---
 I was supposed to be the rock
 That you could stand on

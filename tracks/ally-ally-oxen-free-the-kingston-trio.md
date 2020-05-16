@@ -1,8 +1,11 @@
 ---
+album: Time To Think
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:7EGlmAjnE6Wri26haVmwVN
 features: []
-genres: []
+first_released_as_single: false
 key: ally-ally-oxen-free-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-ally-ally-oxen-free-lyrics
 name: Ally Ally Oxen Free
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1963
+runtime: 125426
 ---
 Time to let the rain fall without the help of man. Time to let the trees grow tall. Now, if they only can
 Time to let our children live in a land that's free. Ally, ally, ally, ally, oxen free

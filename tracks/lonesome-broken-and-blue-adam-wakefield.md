@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 10 Collection (The Voice Performance)
 artists:
 - Adam Wakefield
+external_ids:
+  spotify: spotify:track:1mx5Q2cmOzUUjEURXbJNOB
 features: []
-genres: []
+first_released_as_single: false
 key: lonesome-broken-and-blue-adam-wakefield
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wakefield/Lonesome-Broken-and-Blue-The-Voice-Performance
 name: Lonesome Broken And Blue
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 232853
 ---
 "Lovin' you is like staring into the sun
 The more I try

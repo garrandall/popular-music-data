@@ -1,8 +1,11 @@
 ---
+album: Completely
 artists:
 - Diamond Rio
+external_ids:
+  spotify: spotify:track:7LvK43IERbcLsuabmyKQgi
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-mess-diamond-rio
 lyrics_url: https://www.azlyrics.com/lyrics/diamondrio/beautifulmess.html
 name: Beautiful Mess
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
+release_year: 1991
+runtime: 227920
 ---
-
 Going out of my mind these days,
 Like I'm walkin' round in a haze.
 I can't think straight, I can't concentrate.
@@ -148,6 +152,3 @@ What a beautiful, what a beautiful mess I'm in.
 Ah.
 
 Ah.
-
-
-

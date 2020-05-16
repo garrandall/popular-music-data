@@ -1,8 +1,11 @@
 ---
+album: Armando
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:2sFU5bR4Nsk0SWtZZIc36r
 features: []
-genres: []
+first_released_as_single: false
 key: bon-bon-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/chichibonbon.html
 name: Bon Bon
@@ -27,9 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-12-25'
+release_year: 2010
+runtime: 215880
 ---
-
-
 Ah, Osmani Gacria
 Welcome to Miami Beach
 La ciudad del sol y del chi chi
@@ -121,6 +124,3 @@ Chi chi chi bon bon Venezuela
 Chi chi chi bon bon Colombia
 Chi chi chi bon bon Latinos
 Chi chi chi bon bon como fue
-
-
-

@@ -1,7 +1,8 @@
 ---
 artists:
-- James Brown And The Famous Flames
-features: []
+- James Brown
+features:
+- The Famous Flames
 genres: []
 key: i-can-t-stand-myself--when-you-touch-me--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-i-cant-stand-myself-when-you-touch-me-lyrics

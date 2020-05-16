@@ -1,8 +1,11 @@
 ---
+album: Jason Derulo
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5BoIP8Eha5hwmRVURkC2Us
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-head-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-in-my-head-lyrics
 name: In My Head
@@ -143,6 +146,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2009
+runtime: 199026
 ---
 Jason Derulo
 (Beluga Heights)

@@ -1,8 +1,11 @@
 ---
+album: The Best of Lisette Melendez
 artists:
 - Lisette Melendez
+external_ids:
+  spotify: spotify:track:3FPfeks0aMg9sL1PGUNv9B
 features: []
-genres: []
+first_released_as_single: false
 key: goody-goody-lisette-melendez
 lyrics_url: https://genius.com/Lisette-melendez-goody-goody-lyrics
 name: Goody Goody
@@ -67,6 +70,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1994-03-19'
+release_year: 1993
+runtime: 286306
 ---
 The vibe you send me
 Reaches deep inside

@@ -1,8 +1,11 @@
 ---
+album: Barrio Fino (Bonus Track Version)
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:6jEZLz3YpnEBRpVkv35AmP
 features: []
-genres: []
+first_released_as_single: false
 key: gasolina-daddy-yankee
 lyrics_url: https://genius.com/Daddy-yankee-gasolina-lyrics
 name: Gasolina
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2004
+runtime: 192600
 ---
 Who's this?
 Da-ddy Yan-kee!

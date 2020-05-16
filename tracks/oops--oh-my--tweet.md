@@ -1,8 +1,11 @@
 ---
+album: Southern Hummingbird (U.S. Version)
 artists:
 - Tweet
+external_ids:
+  spotify: spotify:track:5Y0E3dOeynKuLDAXu0t0Bg
 features: []
-genres: []
+first_released_as_single: false
 key: oops--oh-my--tweet
 lyrics_url: https://www.azlyrics.com/lyrics/tweet/oopsohmy.html
 name: Oops (Oh My)
@@ -87,9 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-06-22'
+release_year: 2002
+runtime: 237800
 ---
-
-
 Tell you what I did last night
 I came home, say, around a quater to three
 Still so high
@@ -171,6 +174,3 @@ Oh I'm turning red
 Who could this be?
 
 Oh My
-
-
-

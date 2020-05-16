@@ -1,8 +1,11 @@
 ---
+album: The Delta Sweete
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:58n4w23hXUwot69NOvIB2x
 features: []
-genres: []
+first_released_as_single: false
 key: okolona-river-bottom-band-bobbie-gentry
 lyrics_url: https://genius.com/Bobbie-gentry-okolona-river-bottom-band-lyrics
 name: Okolona River Bottom Band
@@ -23,6 +26,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 184957
 ---
 La-la-la, la-la
 Oh, hey-hey-hey

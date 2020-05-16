@@ -1,8 +1,11 @@
 ---
+album: Try Too Hard
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:17QOLAql5iYwYquHZS0eon
 features: []
-genres: []
+first_released_as_single: false
 key: try-too-hard-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-try-too-hard-lyrics
 name: Try Too Hard
@@ -39,6 +42,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 128573
 ---
 Tell me, do you want my love
 Tell me what you're thinking of

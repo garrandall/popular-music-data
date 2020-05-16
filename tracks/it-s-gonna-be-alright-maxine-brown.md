@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:7mUSp0Mn3AZ1jkmBY3Tp0E
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-gonna-be-alright-maxine-brown
 lyrics_url: https://genius.com/Maxine-brown-its-gonna-be-alright-lyrics
 name: It's Gonna Be Alright
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 157360
 ---
 I told you when I met you
 I just couldn't give you

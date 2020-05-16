@@ -1,9 +1,12 @@
 ---
+album: Easy (Remix)
 artists:
 - DaniLeigh
+external_ids:
+  spotify: spotify:track:4CMrdHWqic0usIZfTrKoI3
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: easy-danileigh-chris-brown
 lyrics_url: https://genius.com/Danileigh-easy-remix-lyrics
 name: Easy
@@ -68,6 +71,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 186586
 ---
 Yeah, yeah
 

@@ -1,8 +1,11 @@
 ---
+album: Wheelhouse
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2lfmRyTLtsTCkLwMQcFSQk
 features: []
-genres: []
+first_released_as_single: false
 key: southern-comfort-zone-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/southerncomfortzone.html
 name: Southern Comfort Zone
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 316986
 ---
-
 When your wheelhouse is the land of cotton,
 The first time you leave it can be strange, it can be shocking
 
@@ -136,6 +140,3 @@ Outside My Southern Comfort Zone
 Look away, look away
 
 I wish I was in Dixie, away, look away
-
-
-

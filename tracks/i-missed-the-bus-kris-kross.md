@@ -1,8 +1,11 @@
 ---
+album: Totally Krossed Out
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:793gh4IXh7mQsMBhvcJRlt
 features: []
-genres: []
+first_released_as_single: false
 key: i-missed-the-bus-kris-kross
 lyrics_url: https://www.azlyrics.com/lyrics/kriskross/imissedthebus.html
 name: I Missed The Bus
@@ -67,8 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1993-01-09'
+release_year: 1992
+runtime: 179160
 ---
-
 Oh
 Oh
 
@@ -116,4 +120,3 @@ It was nothin I could do, I tried to explain
 But the teacher treated me like I was playin a game
 YOU LOSE YOU LOSE - the day was a no win
 I learned to never miss my bus again
-

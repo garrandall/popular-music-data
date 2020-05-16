@@ -1,8 +1,11 @@
 ---
+album: Moonshine in the Trunk
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:14UE0L5fL5TL0ohEiAv56X
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-storm-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/perfectstorm.html
 name: Perfect Storm
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 234840
 ---
-
 If she was a drink, she'd be single barrel bourbon on ice
 Smooth with a kick, a chill and a burn all at the same time
 She's Sunday drive meets high-speed chase
@@ -112,6 +116,3 @@ Woah-oh-oh
 Woah-oh-oh
 
 (She destroys me in that t-shirt)
-
-
-

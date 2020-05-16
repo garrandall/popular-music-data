@@ -72,7 +72,7 @@ What is love but a little angel who's makin' me lose my sleep?
 And she's always makin' promises that she says she'll keep
 What is love? Five feet of heaven in a ponytail
 The cutest ponytail that sways with a wiggle when she walks
-Brief instrumental interlude
+
 Shows you a dimple, yes a dimple when she talks
 Shows you a dimple when she talks
 Shows you a dimple, yes a dimple when she talks
@@ -84,6 +84,6 @@ The cutest ponytail that sways with a wiggle when she walks
 The cutest ponytail that sways with a wiggle when she walks
 Sways with a wiggle, with a wiggle when she walks
 Sways with a wiggle when she walks
-FADE
+
 Sways with a wiggle, with a wiggle when she walks
 Sways with a wiggle when she walks

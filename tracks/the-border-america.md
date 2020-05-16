@@ -1,8 +1,11 @@
 ---
+album: Your Move
 artists:
 - America
+external_ids:
+  spotify: spotify:track:3AmI2VHM7ShH1C7maJa6H2
 features: []
-genres: []
+first_released_as_single: false
 key: the-border-america
 lyrics_url: https://genius.com/America-the-border-lyrics
 name: The Border
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 239165
 ---
 You must be lost in a faraway land
 I searched forever your footprints in the sand

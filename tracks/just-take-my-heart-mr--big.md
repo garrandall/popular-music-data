@@ -1,8 +1,11 @@
 ---
+album: Lean Into It
 artists:
 - Mr. Big
+external_ids:
+  spotify: spotify:track:7mqqMOgnRE50GOJFPxRF8x
 features: []
-genres: []
+first_released_as_single: false
 key: just-take-my-heart-mr--big
 lyrics_url: https://genius.com/Mr-big-just-take-my-heart-lyrics
 name: Just Take My Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1992-08-22'
+release_year: 1991
+runtime: 265306
 ---
 It's late at night and neither one of us is sleeping
 I can't imagine living my life after you're gone

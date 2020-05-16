@@ -1,8 +1,11 @@
 ---
+album: The Captivatin Johnny Crawford
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:1vHK496r8mzXkvDiCeKw4m
 features: []
-genres: []
+first_released_as_single: false
 key: daydreams-johnny-crawford
 name: Daydreams
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 126706
 ---
 

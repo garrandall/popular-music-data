@@ -1,8 +1,11 @@
 ---
+album: Mistaken Identity
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:7HVxCsQDdlIXFleuz4k8Rr
 features: []
-genres: []
+first_released_as_single: false
 key: draw-of-the-cards-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/drawofthecards.html
 name: Draw Of The Cards
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 295626
 ---
-
 Sleight of hand
 Hands of Fate
 Chance you take
@@ -94,6 +98,3 @@ The rest should go
 
 And it's all in the draw of the cards
 And it's all in the draw of the cards
-
-
-

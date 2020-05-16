@@ -1,8 +1,11 @@
 ---
+album: Get A Grip
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:4avSaixVwu8uqfSs7zgoj3
 features: []
-genres: []
+first_released_as_single: false
 key: livin--on-the-edge-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/livinontheedge.html
 name: Livin' On The Edge
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
+release_year: 1993
+runtime: 380893
 ---
-
 There's somethin' wrong with the world today
 I don't know what it is
 Something's wrong with our eyes
@@ -166,6 +170,3 @@ You can't help yourself
 You can't help yourself
 Livin' on the edge
 You can't help yourself from fallin'
-
-
-

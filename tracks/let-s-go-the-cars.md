@@ -1,8 +1,11 @@
 ---
+album: Candy-O
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:43G3McVkRa8V7oGQzfQuRr
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-the-cars
 lyrics_url: https://genius.com/The-cars-lets-go-lyrics
 name: Let's Go
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 213173
 ---
 She's driving away
 With the dim lights on

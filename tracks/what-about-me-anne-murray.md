@@ -1,8 +1,11 @@
 ---
+album: What About Me
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:4nHFJleVgRTlqlI8WVKen0
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-me-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/whataboutme.html
 name: What About Me
@@ -39,9 +42,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1968
+runtime: 188026
 ---
-
-
 Hey hey hey, what about me?
 I've got some feelings on my mind, too
 Hey hey hey, what about me?
@@ -62,6 +65,3 @@ And it would be the sweetest song that I have ever known
 
 
 I'd like to have a song to sing, too.
-
-
-

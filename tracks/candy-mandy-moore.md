@@ -1,8 +1,11 @@
 ---
+album: So Real
 artists:
 - Mandy Moore
+external_ids:
+  spotify: spotify:track:5bKnBOwL5mEUfNf0QDYYOU
 features: []
-genres: []
+first_released_as_single: false
 key: candy-mandy-moore
 lyrics_url: https://www.azlyrics.com/lyrics/mandymoore/candy.html
 name: Candy
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1997
+runtime: 203973
 ---
-
 I'm so addicted
 To the loving that you're feeding to me
 Can't do without it.
@@ -147,6 +151,3 @@ Like sugar to my heart
 oh baby
 I'm craving for you
 I'm missing you like candy
-
-
-

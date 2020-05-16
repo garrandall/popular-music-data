@@ -1,8 +1,11 @@
 ---
+album: The Lady's Not For Sale
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:4g7PsZ5ScsSEc4q6BbEKyX
 features: []
-genres: []
+first_released_as_single: false
 key: fever-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/fever.html
 name: Fever
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 209000
 ---
-
 Never know how much I love you
 Never know how much I care
 When you put your arms around me
@@ -93,6 +97,3 @@ Fever till you sizzle
 What a lovely way to burn
 What a lovely way to burn
 What a lovely way to burn
-
-
-

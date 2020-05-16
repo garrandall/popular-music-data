@@ -1,8 +1,11 @@
 ---
+album: Moondance
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:683b4ikwa62JevCjwrmfg6
 features: []
-genres: []
+first_released_as_single: false
 key: moondance-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/moondance.html
 name: Moondance
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1970
+runtime: 274040
 ---
-
 Well, it's a marvelous night for a Moondance
 With the stars up above in your eyes
 A fantabulous night to make romance
@@ -56,6 +60,3 @@ On a magic night
 La, la, la, la in the moonlight
 On a magic night
 Can't I just have one more dance with you my love
-
-
-

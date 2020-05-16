@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:69EkMYkCSqbl4ZoX6HQryg
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-sad-song-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/likeasadsong.html
 name: Like A Sad Song
@@ -35,8 +38,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 222266
 ---
-
 Usually in the morning I'm filled with sweet belonging and everything is beautiful to see.
 Even when it's raining, the sound of heaven singing is simply joyful music to me.
 But sometimes I feel like a sad song, like I'm all alone without you.
@@ -51,6 +55,3 @@ Oh, and in the nighttime, I know that it's the right time to hold you close and 
 To have someone to share with and someone I can care with
 and that is why I wanted you to know.
 Sometimes I feel like a sad song, like I'm all alone without you, without you .
-
-
-

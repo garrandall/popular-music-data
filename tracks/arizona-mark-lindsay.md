@@ -1,8 +1,11 @@
 ---
+album: Arizona
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:2RtmMC4btQbvQ9w5KxPZpy
 features: []
-genres: []
+first_released_as_single: false
 key: arizona-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-arizona-lyrics
 name: Arizona
@@ -71,6 +74,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1969
+runtime: 188133
 ---
 She must belong to San Francisco
 She must have lost her way

@@ -1,8 +1,11 @@
 ---
+album: Carl Smith, Vol. 7
 artists:
 - Carl Smith
+external_ids:
+  spotify: spotify:track:79dLFh7b5tFEt98pjFlRAw
 features: []
-genres: []
+first_released_as_single: false
 key: guess-i-ve-been-around-too-long-carl-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Carl-Smith/Guess-I-ve-Been-Around-Too-Long-1958
 name: Guess I've Been Around Too Long
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 173373
 ---
 Guess I've been around too long
 

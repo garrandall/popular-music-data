@@ -1,8 +1,11 @@
 ---
+album: Best Of Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:2It5KW85y1U0G4qlt4Lx1D
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-want-my-love-andy-williams
 lyrics_url: https://genius.com/Andy-williams-in-the-summertime-you-dont-want-my-love-lyrics
 name: You Don't Want My Love
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 137226
 ---
 In the summertime when all the trees and leaves are green
 And the redbird sings, I'll be blue

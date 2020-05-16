@@ -1,8 +1,11 @@
 ---
+album: Winds Of Change
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:1CSXrsLDRvo4fC9jA26ajt
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-lady-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/bemylady.html
 name: Be My Lady
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 231293
 ---
-
 I just look at you and I'm hypnotized 
 Like I'm drowning now, drowning in your eyes 
 You are beautiful, past imagining 
@@ -105,6 +109,3 @@ And I want your love
 Be my lady, you know I love you now
 Be my lady
 Won't you be my lady
-
-
-

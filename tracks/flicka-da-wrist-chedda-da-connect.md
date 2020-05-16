@@ -1,8 +1,11 @@
 ---
+album: Chedda World "The Album"
 artists:
 - Chedda Da Connect
+external_ids:
+  spotify: spotify:track:1xbtDA39SMrLEU3U0CqLQQ
 features: []
-genres: []
+first_released_as_single: true
 key: flicka-da-wrist-chedda-da-connect
 lyrics_url: https://www.azlyrics.com/lyrics/cheddadaconnect/flickadawrist.html
 name: Flicka Da Wrist
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2015
+runtime: 222733
 ---
-
 Look at the flicka da wrist
 
 Catchin' plays, catchin' plays
@@ -80,6 +84,3 @@ Look at the flicka da wrist, look at the flicka da wrist
 Look at the flicka da wrist, look at the flicka da wrist
 That wrist, look at the flicka da wrist
 That wrist, look at the flicka da wrist
-
-
-

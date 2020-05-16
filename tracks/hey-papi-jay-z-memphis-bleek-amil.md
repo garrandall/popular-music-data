@@ -1,10 +1,13 @@
 ---
+album: The Nutty Professor II - The Klumps
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:5RpSXFipAX2W6zo4HnHScn
 features:
 - Memphis Bleek
 - Amil
-genres: []
+first_released_as_single: false
 key: hey-papi-jay-z-memphis-bleek-amil
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/heypapi.html
 name: Hey Papi
@@ -69,9 +72,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
+release_year: 2000
+runtime: 268693
 ---
-
-
 All my mamis bounce, uh
 (Yeah, yeah, yeah, yeah, yeah, yeah)
 (Come on)
@@ -229,6 +232,3 @@ Promise you'll never let me go
 Promise you'll never leave me
 Promise we'll grow, they saying
 (Hey papi!)
-
-
-

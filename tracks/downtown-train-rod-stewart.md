@@ -1,8 +1,11 @@
 ---
+album: Vagabond Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6VN54AeeQMTAANv6P3EfYT
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-train-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/downtowntrain.html
 name: Downtown Train
@@ -79,8 +82,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1989
+runtime: 280173
 ---
-
 Outside another yellow moon
 has punched a hole in the night time mist
 I climb through the window and down to the street
@@ -125,6 +129,3 @@ On a downtown train
 On a downtown train
 All my dreams fall like rain
 On a downtown train
-
-
-

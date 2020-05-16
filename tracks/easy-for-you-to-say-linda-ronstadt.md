@@ -1,8 +1,11 @@
 ---
+album: Get Closer
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:2KmvTthSR8R05yX3gdS0kE
 features: []
-genres: []
+first_released_as_single: false
 key: easy-for-you-to-say-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/easyforyoutosay.html
 name: Easy For You To Say
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1982
+runtime: 242893
 ---
-
 I heard some talk around this town
 Talk about you and me
 How a fool fell out of love with you
@@ -81,6 +85,3 @@ That I don't know what I'm doing
 When you've thrown our love away
 Left my life in ruin
 That's easy for you to say
-
-
-

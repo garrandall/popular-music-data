@@ -1,9 +1,12 @@
 ---
+album: Ladies & Gentlemen
 artists:
 - George Michael
 - Queen
+external_ids:
+  spotify: spotify:track:1kn8Jj0i9IwyO3yDgDyUSR
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-george-michael-queen
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/somebodytolove.html
 name: Somebody To Love
@@ -44,8 +47,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1993
+runtime: 318866
 ---
-
 Can anybody find me somebody to love?
 
 Each morning I get up, I die a little
@@ -88,6 +92,3 @@ Can anybody find me somebody to love?
 Find me somebody to love
 Find me somebody to love
 Find me somebody to love)
-
-
-

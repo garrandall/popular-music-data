@@ -1,8 +1,11 @@
 ---
+album: September Morn
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2CXkN6UAb3jAFwz4VbsDq0
 features: []
-genres: []
+first_released_as_single: false
 key: september-morn--neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/septembermorn.html
 name: September Morn'
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1979
+runtime: 232000
 ---
-
 Stay for just a while
 Stay and let me look at you
 It's been so long, I hardly knew you
@@ -125,6 +129,3 @@ September morning
 Still can make me feel that way
 September morning
 Still can make me feel that way
-
-
-

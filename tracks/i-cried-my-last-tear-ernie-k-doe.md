@@ -1,8 +1,11 @@
 ---
+album: Mother-In-Law
 artists:
 - Ernie K-Doe
+external_ids:
+  spotify: spotify:track:3QaD1V1SYVrYalTPl0N9qP
 features: []
-genres: []
+first_released_as_single: false
 key: i-cried-my-last-tear-ernie-k-doe
 name: I Cried My Last Tear
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 132666
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: You Got What It Takes
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:65s2XkRfOUdAadGgA9bjGS
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-to-have-a-reason-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-ive-got-to-have-a-reason-lyrics
 name: I've Got To Have A Reason
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1967
+runtime: 113075
 ---
 I've got to have a reason
 I got to have a reason

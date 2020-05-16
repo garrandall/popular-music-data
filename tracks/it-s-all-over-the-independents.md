@@ -1,8 +1,11 @@
 ---
+album: Chuck, Helen, Eric, Maurice
 artists:
 - The Independents
+external_ids:
+  spotify: spotify:track:0nYSmoUca3lz2G9UwBOGof
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-over-the-independents
 name: It's All Over
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 213461
 ---
 

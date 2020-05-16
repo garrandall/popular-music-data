@@ -1,8 +1,11 @@
 ---
+album: Barabajagal
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:45wRJMOeQlQf8kxg2JwRqU
 features: []
-genres: []
+first_released_as_single: false
 key: to-susan-on-the-west-coast-waiting-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/tosusanonthewestcoastwaiting.html
 name: To Susan On The West Coast Waiting
@@ -31,8 +34,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1964
+runtime: 191373
 ---
-
 Dear Susan, I know you love me so
 But I want to hear it in my ear
 You know I'd be there working at my craft
@@ -76,6 +80,3 @@ To Susan on the west coast waiting
 From Andy supposedly hating
 To Susan on the west coast waiting
 From Andy in Vietnam fighting
-
-
-

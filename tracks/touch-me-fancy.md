@@ -1,8 +1,11 @@
 ---
+album: Wild Thing / Turns You On
 artists:
 - Fancy
+external_ids:
+  spotify: spotify:track:24s666uIUt5YzkpEmQx3bB
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-fancy
 lyrics_url: https://genius.com/Fancy-touch-me-lyrics
 name: Touch Me
@@ -47,6 +50,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1972
+runtime: 230893
 ---
 In the night, in the city
 Alone in my room, all alone

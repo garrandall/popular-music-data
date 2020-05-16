@@ -1,8 +1,11 @@
 ---
+album: Contact
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:6uZHgVaZZTTFHHbK27bfcf
 features: []
-genres: []
+first_released_as_single: false
 key: be-there-the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-be-there-lyrics
 name: Be There
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
+release_year: 1985
+runtime: 213560
 ---
 If you stick with me, baby
 I won't do you wrong

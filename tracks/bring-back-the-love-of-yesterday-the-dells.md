@@ -1,8 +1,11 @@
 ---
+album: Since I Fell For You
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:51w418nMcXw95BTrWYz6o0
 features: []
-genres: []
+first_released_as_single: false
 key: bring-back-the-love-of-yesterday-the-dells
 lyrics_url: https://genius.com/The-dells-bring-back-the-love-of-yesterday-lyrics
 name: Bring Back The Love Of Yesterday
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 225266
 ---
 Oh, baby
 Let's pick up the pieces

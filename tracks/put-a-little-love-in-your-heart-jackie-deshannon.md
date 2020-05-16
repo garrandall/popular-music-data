@@ -1,8 +1,11 @@
 ---
+album: Laurel Canyon
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:7MUO4NG8cNjTEQlANYwmoU
 features: []
-genres: []
+first_released_as_single: false
 key: put-a-little-love-in-your-heart-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-put-a-little-love-in-your-heart-lyrics
 name: Put A Little Love In Your Heart
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1968
+runtime: 156826
 ---
 Think of your fellow man
 Lend him a helping hand

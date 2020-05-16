@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:5JIPLZrxKIaXNE7nnI6NUC
 features: []
-genres: []
+first_released_as_single: false
 key: bobby-sox-to-stockings-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-bobby-sox-to-stockings-lyrics
 name: Bobby Sox To Stockings
@@ -59,6 +62,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1959
+runtime: 161533
 ---
 When a girl changes from bobby sox to stockings
 And she starts trading her baby toys for boys

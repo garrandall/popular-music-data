@@ -1,8 +1,11 @@
 ---
+album: It Was Written
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:0QnGI4OgY8ReggLWvEXdgD
 features: []
-genres: []
+first_released_as_single: false
 key: street-dreams-nas
 lyrics_url: https://genius.com/Nas-street-dreams-lyrics
 name: Street Dreams
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
+release_year: 1996
+runtime: 279933
 ---
 Street dreams are made of these
 Niggas push Bimmers and 300 E's

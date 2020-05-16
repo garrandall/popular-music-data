@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4A2LfnduSTsE8u0ecYROxE
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-in-love-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-you-are-in-love-lyrics
 name: You Are In Love
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2014
+runtime: 267106
 ---
 One look, dark room
 Meant just for you

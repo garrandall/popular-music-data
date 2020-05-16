@@ -1,9 +1,12 @@
 ---
+album: The Works
 artists:
 - The KLF
+external_ids:
+  spotify: spotify:track:6kRE4FvX9ic4gOODwII1y0
 features:
 - Tammy Wynette
-genres: []
+first_released_as_single: false
 key: justified-and-ancient-the-klf-tammy-wynette
 lyrics_url: https://genius.com/The-klf-justified-and-ancient-stand-by-the-jams-extended-version-lyrics
 name: Justified And Ancient
@@ -80,6 +83,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
+release_year: 1992
+runtime: 329716
 ---
 (All bound for Mu Mu Land)
 (All bound for Mu Mu Land)

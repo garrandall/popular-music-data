@@ -1,8 +1,11 @@
 ---
+album: Old Town Doo Wop, Vol. 4
 artists:
 - The Capris
+external_ids:
+  spotify: spotify:track:25pEPwORWMZslc5RabedUb
 features: []
-genres: []
+first_released_as_single: false
 key: girl-in-my-dreams-the-capris
 lyrics_url: https://www.musixmatch.com/lyrics/The-Capris/Girl-in-My-Dreams
 name: Girl In My Dreams
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 152544
 ---
 Dear, it seems years since we parted,
 Years full of tears and regret;

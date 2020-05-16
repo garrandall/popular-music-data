@@ -1,8 +1,11 @@
 ---
+album: Forever Your Girl
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:5xl5582IihbEZAnfj0xyso
 features: []
-genres: []
+first_released_as_single: false
 key: straight-up-paula-abdul
 lyrics_url: https://genius.com/Paula-abdul-straight-up-lyrics
 name: Straight Up
@@ -107,6 +110,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1988
+runtime: 251466
 ---
 Lost in a dream
 I don't know which way to go

@@ -1,8 +1,11 @@
 ---
+album: Big Hero 6 (Original Motion Picture Soundtrack)
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:3c1ItvzDDDpmDgLH9SIUp4
 features: []
-genres: []
+first_released_as_single: false
 key: immortals-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/immortals.html
 name: Immortals
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2014
+runtime: 195026
 ---
-
 They say we are what we are
 But we don't have to be
 I'm bad behavior but I do it in the best way
@@ -93,6 +97,3 @@ Immooooooo- immortals
 Immooooooo- immortals
 Immooooooo- immortals
 (Immortals)
-
-
-

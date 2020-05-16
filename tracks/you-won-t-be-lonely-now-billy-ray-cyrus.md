@@ -1,8 +1,11 @@
 ---
+album: Southern Rain
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:1uVRIEqMTtnbcxZocYDJRH
 features: []
-genres: []
+first_released_as_single: false
 key: you-won-t-be-lonely-now-billy-ray-cyrus
 lyrics_url: https://genius.com/Billy-ray-cyrus-you-wont-be-lonely-now-lyrics
 name: You Won't Be Lonely Now
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 2000
+runtime: 232506
 ---
 I know you've seen all your dreams turn to dust
 I know your heart's been left in the rain to rust

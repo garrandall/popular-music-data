@@ -1,8 +1,11 @@
 ---
+album: Electric Comic Book
 artists:
 - Blues Magoos
+external_ids:
+  spotify: spotify:track:65OrMO60eZdpH8FTpHdUvK
 features: []
-genres: []
+first_released_as_single: false
 key: pipe-dream-blues-magoos
 lyrics_url: https://genius.com/Blues-magoos-pipe-dream-lyrics
 name: Pipe Dream
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 144973
 ---
 It's been a happy day
 Try not to spoil it now

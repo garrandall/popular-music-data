@@ -1,8 +1,11 @@
 ---
+album: Circle Of Life
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5vKkaZHPzuqQheytfKuXzp
 features: []
-genres: []
+first_released_as_single: false
 key: circle-of-life-elton-john
 lyrics_url: https://genius.com/Elton-john-circle-of-life-lyrics
 name: Circle Of Life
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
+release_year: 1994
+runtime: 291600
 ---
 From the day we arrive on the planet
 And blinking, step into the sun

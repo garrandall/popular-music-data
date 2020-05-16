@@ -1,8 +1,11 @@
 ---
+album: Break the Cycle
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:464HG7mt7NNKtKY0Hco8Y8
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-staind
 lyrics_url: https://genius.com/Staind-for-you-lyrics
 name: For You
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 2001
+runtime: 206200
 ---
 To my mother, to my father
 It's your son or, it's your daughter

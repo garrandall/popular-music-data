@@ -1,8 +1,11 @@
 ---
+album: With Love, Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:1UBraIHyT1ZT0HqP1aIlsy
 features: []
-genres: []
+first_released_as_single: false
 key: hey-mister-sun-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-hey-mister-sun-lyrics
 name: Hey Mister Sun
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
+release_year: 1970
+runtime: 153971
 ---
 When I got up this morning
 I said good morning Mr. Sun

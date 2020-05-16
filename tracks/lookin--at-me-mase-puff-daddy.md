@@ -1,9 +1,12 @@
 ---
+album: Harlem World
 artists:
 - Mase
+external_ids:
+  spotify: spotify:track:2dieHErJLwG7fOzD8WAtFO
 features:
 - Puff Daddy
-genres: []
+first_released_as_single: false
 key: lookin--at-me-mase-puff-daddy
 lyrics_url: https://www.musixmatch.com/lyrics/Mase-feat-Puff-Daddy/Lookin-at-Me
 name: Lookin' At Me
@@ -84,6 +87,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 255160
 ---
 Hey, yo, Mase, you know what I don't like?
 (Why you over there lookin' at me?)

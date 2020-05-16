@@ -1,7 +1,8 @@
 ---
 artists:
-- Ashlee Simpson With Tom Higgenson
-features: []
+- Ashlee Simpson
+features:
+- Tom Higgenson
 genres: []
 key: little-miss-obsessive-ashlee-simpson-with-tom-higgenson
 name: Little Miss Obsessive

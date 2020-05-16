@@ -1,8 +1,11 @@
 ---
+album: IV
 artists:
 - Godsmack
+external_ids:
+  spotify: spotify:track:7bbdNZXwpwMSNAvoxMjJPc
 features: []
-genres: []
+first_released_as_single: false
 key: speak-godsmack
 lyrics_url: https://www.azlyrics.com/lyrics/godsmack/speak.html
 name: Speak
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2006
+runtime: 237280
 ---
-
 Free, you better love me
 And hide or run away
 From all your yesterdays
@@ -50,6 +54,3 @@ Speak
 Speak
 Speak
 Speak!
-
-
-

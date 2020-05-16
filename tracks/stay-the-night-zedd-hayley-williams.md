@@ -1,9 +1,12 @@
 ---
+album: Clarity
 artists:
 - Zedd
+external_ids:
+  spotify: spotify:track:2QtJA4gbwe1AcanB2p21aP
 features:
 - Hayley Williams
-genres: []
+first_released_as_single: false
 key: stay-the-night-zedd-hayley-williams
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/staythenight.html
 name: Stay The Night
@@ -96,9 +99,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2012
+runtime: 217346
 ---
-
-
 I know that we are upside down
 So hold your tongue and hear me out
 I know that we were made to break
@@ -156,6 +159,3 @@ Are you gonna stay the night?
 Are you gonna stay the night?
 Oh oh oh oh.
 Are you gonna stay the night?
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Harlem World
 artists:
 - Mase
+external_ids:
+  spotify: spotify:track:6hxn98poTu1O4YZfafvC18
 features:
 - Total
-genres: []
+first_released_as_single: false
 key: what-you-want-mase-total
 lyrics_url: https://www.musixmatch.com/lyrics/Mase-feat-Total/What-You-Want
 name: What You Want
@@ -104,6 +107,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-07-11'
+release_year: 1997
+runtime: 242946
 ---
 Tell me what you want
 Tell me what you want

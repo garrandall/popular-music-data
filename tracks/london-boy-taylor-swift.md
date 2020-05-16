@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1LLXZFeAHK9R4xUramtUKw
 features: []
-genres: []
+first_released_as_single: false
 key: london-boy-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/londonboy.html
 name: London Boy
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 190240
 ---
-
 We can go driving in, on my scooter
 Uh, you know, just round London
 Alright, yeah
@@ -78,6 +82,3 @@ Just wanna be with you (Oh
 Wanna be with you
 I fancy you (Yeah), I fancy you
 Oh whoa, ah
-
-
-

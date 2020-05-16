@@ -1,8 +1,11 @@
 ---
+album: Picture This (20th Anniversary Edition / Commentary)
 artists:
 - Wet Wet Wet
+external_ids:
+  spotify: spotify:track:1DJ7sGOjJmJMKpq7Y3bIki
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-around-wet-wet-wet
 lyrics_url: https://genius.com/Wet-wet-wet-love-is-all-around-lyrics
 name: Love Is All Around
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 237760
 ---
 I feel it in my fingers
 I feel it in my toes

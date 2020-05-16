@@ -1,8 +1,11 @@
 ---
+album: Mel Carter Live! In Hollywood
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:6x5BiQwNlbtisITsEHa8Eu
 features: []
-genres: []
+first_released_as_single: false
 key: -all-of-a-sudden--my-heart-sings-mel-carter
 lyrics_url: https://www.musixmatch.com/lyrics/Mel-Carter/All-Of-A-Sudden-My-Heart-Sings
 name: (All Of A Sudden) My Heart Sings
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 164066
 ---
 The secret way you hold my hand
 To let me know you understand

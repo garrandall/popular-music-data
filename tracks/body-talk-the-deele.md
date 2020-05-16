@@ -1,8 +1,11 @@
 ---
+album: Street Beat
 artists:
 - The Deele
+external_ids:
+  spotify: spotify:track:0JBJd4ZMup9JpV8GywdPKa
 features: []
-genres: []
+first_released_as_single: false
 key: body-talk-the-deele
 lyrics_url: https://genius.com/The-deele-body-talk-lyrics
 name: Body Talk
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
+release_year: 1983
+runtime: 332000
 ---
 Pimp dolls, jam
 Jigglettes, slam

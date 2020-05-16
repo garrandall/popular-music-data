@@ -1,8 +1,11 @@
 ---
+album: Joyride (Deluxe Version)
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:7qSd3WHSPUtmt6c36pwJaY
 features: []
-genres: []
+first_released_as_single: false
 key: fading-like-a-flower--every-time-you-leave--roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/fadinglikeaflowereverytimeyouleave.html
 name: Fading Like A Flower (Every Time You Leave)
@@ -79,8 +82,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1991
+runtime: 230680
 ---
-
 In a time where the sun descends alone 
 I ran a long long way from home 
 To find a heart that's made of stone 
@@ -114,6 +118,3 @@ Oh, it's a such cold town
 Every time I see you oh I try to hide away 
 But when we meet it seems I can't let go 
 Every time you leave the room I feel I'm fading like a flower
-
-
-

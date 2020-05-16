@@ -1,8 +1,11 @@
 ---
+album: 'Music, Harmony And Rhythm: The Casablanca Years'
 artists:
 - Brooklyn Dreams
+external_ids:
+  spotify: spotify:track:11jbFBDpBlJwMOJQi3m9jk
 features: []
-genres: []
+first_released_as_single: false
 key: music-harmony-and-rhythm-brooklyn-dreams
 lyrics_url: https://genius.com/Brooklyn-dreams-music-harmony-and-rhythm-lyrics
 name: Music Harmony And Rhythm
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-05-13'
+release_year: 1978
+runtime: 217026
 ---
 Music, harmony and rhythm
 The magical mystery of music, harmony and rhythm

@@ -1,8 +1,11 @@
 ---
+album: Love Like Crazy
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:1nRgcfeBzeGWbktx9hpe8F
 features: []
-genres: []
+first_released_as_single: false
 key: boy-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/boy.html
 name: Boy
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2010
+runtime: 229773
 ---
-
 Boy, you're gonna know it all
 You'll think you're ten feet tall
 And run like you're bulletproof
@@ -63,6 +67,3 @@ He's gonna know it all
 He'll think he's ten feet tall
 And run like he's bulletproof
 And total a car or two
-
-
-

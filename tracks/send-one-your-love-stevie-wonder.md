@@ -1,8 +1,11 @@
 ---
+album: Journey Through The Secret Life Of Plants
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:3GcHkmz4horYIEPYvdB0xF
 features: []
-genres: []
+first_released_as_single: false
 key: send-one-your-love-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-send-one-your-love-lyrics
 name: Send One Your Love
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1979
+runtime: 242333
 ---
 Send her your love
 With a dozen roses

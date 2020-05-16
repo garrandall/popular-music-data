@@ -1,8 +1,11 @@
 ---
+album: The Who Sell Out
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:0yfHVc7ofa81X3iXHiyvyA
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-blues-the-who
 lyrics_url: https://genius.com/The-who-summertime-blues-lyrics
 name: Summertime Blues
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1967
+runtime: 155680
 ---
 Well, I'm a gonna raise a fuss, I'm a gonna raise a holler
 I've been working all summer just to try and earn a dollar

@@ -1,8 +1,11 @@
 ---
+album: All American Girls
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:28gKFaRNe013GtaKLtiHbH
 features: []
-genres: []
+first_released_as_single: false
 key: all-american-girls-sister-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/sistersledge/allamericangirls.html
 name: All American Girls
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1981
+runtime: 283826
 ---
-
 We're all American girls
 And we love the life that we lead
 We're all American girls
@@ -93,6 +97,3 @@ We're all American girls
 And we love the life that we lead
 We're all American girls
 Hear what we say
-
-
-

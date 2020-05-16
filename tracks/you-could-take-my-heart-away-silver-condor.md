@@ -1,8 +1,11 @@
 ---
+album: Silver Condor
 artists:
 - Silver Condor
+external_ids:
+  spotify: spotify:track:2oMBNCnB3BGKZjfN8HqR5Z
 features: []
-genres: []
+first_released_as_single: false
 key: you-could-take-my-heart-away-silver-condor
 lyrics_url: https://genius.com/Silver-condor-you-could-take-my-heart-away-lyrics
 name: You Could Take My Heart Away
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 170599
 ---
 You could take my heart away tonight
 You could take my heart away tonight

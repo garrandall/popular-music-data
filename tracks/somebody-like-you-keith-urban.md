@@ -1,8 +1,11 @@
 ---
+album: Golden Road
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:0b9djfiuDIMw1zKH6gV74g
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-like-you-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/somebodylikeyou.html
 name: Somebody Like You
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
+release_year: 2002
+runtime: 323040
 ---
-
 There's a new wind blowin' like I've never known.
 I'm breathin' deeper than I've ever done.
 And it sure feels good, to finally feel the way I do.
@@ -138,6 +142,3 @@ I wanna be the man that you run to whenever I call on you
 When everything that loved someone finally found it's way
 Wanna be a better man
 I see it in you yeah...
-
-
-

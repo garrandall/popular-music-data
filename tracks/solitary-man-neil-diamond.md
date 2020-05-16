@@ -1,8 +1,11 @@
 ---
+album: Gold (Live At The Troubadour/1970)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:0UULMaolAJ24gxpSOHtS5A
 features: []
-genres: []
+first_released_as_single: false
 key: solitary-man-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-solitary-man-lyrics
 name: Solitary Man
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1966
+runtime: 204440
 ---
 Melinda was mine
 'Til the time that I found her
@@ -131,8 +136,6 @@ The girl who'll stay
 And won't play games behind me
 I'll be what I am
 A solitary man, solitary man
-
-(instrumental)
 
 Don't know that I will
 But until I can find me

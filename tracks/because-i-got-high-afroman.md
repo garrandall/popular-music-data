@@ -1,8 +1,11 @@
 ---
+album: The Good Times
 artists:
 - Afroman
+external_ids:
+  spotify: spotify:track:4q8b0VTHu8QnFvydKdSdsf
 features: []
-genres: []
+first_released_as_single: false
 key: because-i-got-high-afroman
 lyrics_url: https://www.azlyrics.com/lyrics/afroman/becauseigothighextendedversion.html
 name: Because I Got High
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2001
+runtime: 200000
 ---
-
 It's like, I don't care about nothing man,
 Roll another blunt
 Oh, good
@@ -186,6 +190,3 @@ AEIOU, AEIOU and sometimes W
 We gon' sell another of these motherfucking albums
 Let's go back to marshal durbin and hang some more chicken
 Fuck the corporate world, bitch
-
-
-

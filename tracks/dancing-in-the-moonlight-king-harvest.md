@@ -1,8 +1,11 @@
 ---
+album: Dancing in the Moonlight
 artists:
 - King Harvest
+external_ids:
+  spotify: spotify:track:7ufDF5ePKsnxYgP0DAZoZE
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-in-the-moonlight-king-harvest
 lyrics_url: https://genius.com/King-harvest-dancing-in-the-moonlight-lyrics
 name: Dancing In The Moonlight
@@ -95,6 +98,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1972
+runtime: 181133
 ---
 We get it on most every night
 When that moon is big and bright

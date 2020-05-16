@@ -1,8 +1,11 @@
 ---
+album: Mud On The Tires
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:1Jmkm1iiVn6cxiKRaOlqOW
 features: []
-genres: []
+first_released_as_single: false
 key: celebrity-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/celebrity.html
 name: Celebrity
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 2003
+runtime: 223200
 ---
-
 Someday I'm gonna be famous, do I have talent, well no
 These days you don't really need it thanks to reality shows
 Can't wait to date a supermodel, can't wait to sue my dad
@@ -139,6 +143,3 @@ People think you're cool
 Just 'cause you're on TV
 Being a celebrity
 Yeah celebrity
-
-
-

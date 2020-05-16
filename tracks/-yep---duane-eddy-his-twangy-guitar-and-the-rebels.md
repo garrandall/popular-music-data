@@ -1,9 +1,12 @@
 ---
+album: Yep! (UK Chart Top 20 - No. 17)
 artists:
 - Duane Eddy
 - The Rebels
+external_ids:
+  spotify: spotify:track:4eYyFuTN49vMooQHFvob8P
 features: []
-genres: []
+first_released_as_single: true
 key: -yep---duane-eddy-his-twangy-guitar-and-the-rebels
 name: '"Yep!"'
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 158640
 ---
 

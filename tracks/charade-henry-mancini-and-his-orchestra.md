@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:2rMpAOMp2v6fcZZklQGeRd
 features: []
-genres: []
+first_released_as_single: false
 key: charade-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-charade-lyrics
 name: Charade
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1958
+runtime: 155466
 ---
 When we played our charade
 We were like children posing

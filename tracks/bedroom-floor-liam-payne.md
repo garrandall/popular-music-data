@@ -1,8 +1,11 @@
 ---
+album: LP1
 artists:
 - Liam Payne
+external_ids:
+  spotify: spotify:track:1OG4nxGMy72EklX2DwcN3Z
 features: []
-genres: []
+first_released_as_single: true
 key: bedroom-floor-liam-payne
 lyrics_url: https://www.azlyrics.com/lyrics/liampayne/bedroomfloor.html
 name: Bedroom Floor
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 188346
 ---
-
 Baby
 Heard you've been talking about me lately
 Telling all your friends how much you hate me
@@ -81,6 +85,3 @@ But your clothes say different on my bedroom floor
 (You said it was over, you said it was over)
 But your clothes say different on my bedroom floor
 But your clothes say different on my bedroom floor, yeah
-
-
-

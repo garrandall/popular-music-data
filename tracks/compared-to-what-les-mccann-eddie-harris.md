@@ -1,9 +1,12 @@
 ---
+album: Swiss Movement (Montreux 30th Anniversary)
 artists:
 - Les McCann
 - Eddie Harris
+external_ids:
+  spotify: spotify:track:32hdwm17L8lc2OfBxfarsJ
 features: []
-genres: []
+first_released_as_single: false
 key: compared-to-what-les-mccann-eddie-harris
 lyrics_url: https://genius.com/Les-mccann-and-eddie-harris-compared-to-what-lyrics
 name: Compared To What
@@ -24,6 +27,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1970
+runtime: 516173
 ---
 I love the lie and lie the love
 A-Hangin' on, with push and shove

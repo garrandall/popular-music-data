@@ -1,8 +1,11 @@
 ---
+album: Janet Jackson
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:2huqjk8DHIPRgkkrcWwtxW
 features: []
-genres: []
+first_released_as_single: false
 key: young-love-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/younglove.html
 name: Young Love
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 298106
 ---
-
 Young love, young love
 Young love, young love
 
@@ -87,6 +91,3 @@ Young love, a pocket full of poses
 Young love, it all adds up to me and you
 Young love, young love, young love, young love
 (Di da da da di da da)
-
-
-

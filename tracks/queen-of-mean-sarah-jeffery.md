@@ -1,8 +1,11 @@
 ---
+album: Descendants 3 (Original TV Movie Soundtrack)
 artists:
 - Sarah Jeffery
+external_ids:
+  spotify: spotify:track:4o05DiC0RQ9DNtGJGauwna
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-mean-sarah-jeffery
 lyrics_url: https://genius.com/Sarah-jeffery-queen-of-mean-lyrics
 name: Queen Of Mean
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 189397
 ---
 I'm so tired of pretending
 Where's my happy ending?

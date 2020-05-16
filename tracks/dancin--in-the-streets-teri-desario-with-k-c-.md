@@ -1,7 +1,8 @@
 ---
 artists:
-- Teri DeSario With K.C.
-features: []
+- Teri DeSario
+features:
+- K.C.
 genres: []
 key: dancin--in-the-streets-teri-desario-with-k-c-
 name: Dancin' In The Streets

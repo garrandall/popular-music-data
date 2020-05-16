@@ -1,8 +1,11 @@
 ---
+album: Drama V
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:3ab0nkCTFLms3KtBBY7XQu
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-fooling-you-the-dramatics
 lyrics_url: https://genius.com/The-dramatics-youre-fooling-you-lyrics
 name: You're Fooling You
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 196773
 ---
 You ain't fooling me
 Huh, huh, no, well

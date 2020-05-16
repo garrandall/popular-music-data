@@ -1,8 +1,11 @@
 ---
+album: Tougher Than Love
 artists:
 - Diana King
+external_ids:
+  spotify: spotify:track:67EJJfVy93Hlyo3Z742Ka7
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-diana-king
 lyrics_url: https://genius.com/Diana-king-aint-nobody-lyrics
 name: Ain't Nobody
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-04-06'
+release_year: 1995
+runtime: 321906
 ---
 I wanna tell you, baby
 There ain't nobody like you

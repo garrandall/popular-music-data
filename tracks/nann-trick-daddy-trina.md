@@ -1,9 +1,12 @@
 ---
+album: www.thug.com
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:6IUtTrTK1B9BCWnyGLjJIR
 features:
 - Trina
-genres: []
+first_released_as_single: false
 key: nann-trick-daddy-trina
 lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/nannnigga.html
 name: Nann
@@ -88,9 +91,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
+release_year: 1999
+runtime: 214226
 ---
-
-
 Hell no I don't wanna holla at no motherfuckin Trick
 He all over there smelling like boonk and Hennesey and shit
 Hell no
@@ -224,6 +227,3 @@ Oh you know nann nigga
 Bitch you know nann nigga
 Bitch you know nann nigga
 No no bitch you know nann nigga
-
-
-

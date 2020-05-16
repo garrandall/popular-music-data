@@ -1,8 +1,11 @@
 ---
+album: Get up on It
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:4wiwUgr26EF6CgmjUvG4Yg
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-give-my-love-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-when-i-give-my-love-lyrics
 name: When I Give My Love
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
+release_year: 1994
+runtime: 365893
 ---
 When I give my love
 When I give my love to you

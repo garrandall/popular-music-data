@@ -1,8 +1,11 @@
 ---
+album: The Works
 artists:
 - Chris Rea
+external_ids:
+  spotify: spotify:track:2fCXGyWLazfdiChzAkm6Wq
 features: []
-genres: []
+first_released_as_single: false
 key: working-on-it-chris-rea
 lyrics_url: https://www.azlyrics.com/lyrics/chrisrea/workingonit.html
 name: Working On It
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1988
+runtime: 265226
 ---
-
 Oh how I'd love it girl, just you and me
 Take the day and fly
 But oh this job, it's got the best of me
@@ -80,6 +84,3 @@ Oh, oh can't you see I'm working on it
 Oh, oh I'm working on it
 Oh, oh I'm working
 Oh, oh can't you see I'm working on it
-
-
-

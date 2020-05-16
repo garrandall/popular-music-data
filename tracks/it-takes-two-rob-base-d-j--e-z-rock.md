@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call 80s Hits & Remixes
 artists:
 - Rob Base
 - D.J. E-Z Rock
+external_ids:
+  spotify: spotify:track:3nPKKSA8WDa8s4THPamwPG
 features: []
-genres: []
+first_released_as_single: false
 key: it-takes-two-rob-base-d-j--e-z-rock
 lyrics_url: https://www.azlyrics.com/lyrics/robbasedjezrock/ittakestwo.html
 name: It Takes Two
@@ -72,8 +75,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1988
+runtime: 292933
 ---
-
 Right about now, you're about to be possessed by the sounds of emcee Rob Base and D.J. E-Z Rock
 
 It takes two to make a thing go right
@@ -184,4 +188,3 @@ You ready now?
 One, two, three, get loose now!
 
 It takes two to make a
-

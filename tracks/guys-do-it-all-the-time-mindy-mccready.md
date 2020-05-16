@@ -1,8 +1,11 @@
 ---
+album: Ten Thousand Angels
 artists:
 - Mindy McCready
+external_ids:
+  spotify: spotify:track:0uZRJmWi1TH3wrAN7hAbyF
 features: []
-genres: []
+first_released_as_single: false
 key: guys-do-it-all-the-time-mindy-mccready
 lyrics_url: https://www.azlyrics.com/lyrics/mindymccready/guysdoitallthetime.html
 name: Guys Do It All The Time
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-10-26'
+release_year: 1996
+runtime: 191800
 ---
-
 Got in this morning at 4 A.M.
 You're as mad as you can be
 Well, I was drinking and talking and you know how that goes
@@ -101,6 +105,3 @@ All the time, all the time
 Yeah, guys do it
 Yeah, guys do it
 All the time
-
-
-

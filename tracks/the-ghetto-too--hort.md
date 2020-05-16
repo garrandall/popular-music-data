@@ -1,8 +1,11 @@
 ---
+album: Short Dog's In The House
 artists:
 - Too $hort
+external_ids:
+  spotify: spotify:track:3B6WDceNe6lUQnczntRIuf
 features: []
-genres: []
+first_released_as_single: false
 key: the-ghetto-too--hort
 lyrics_url: https://www.azlyrics.com/lyrics/toohort/theghetto.html
 name: The Ghetto
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
+release_year: 1990
+runtime: 302133
 ---
 Talking bout the ghetto...funky funky ghetto
 Trying to survive, trying to stay alive

@@ -1,8 +1,11 @@
 ---
+album: Twice The Speed Of Life
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:4MSnF5Ajr8P0LqC4Zd66DH
 features: []
-genres: []
+first_released_as_single: false
 key: just-might--make-me-believe--sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/justmightmakemebelieve.html
 name: Just Might (Make Me Believe)
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2004
+runtime: 247800
 ---
-
 I got miles of trouble spreadin' far and wide
 Bills on the table gettin' higher and higher
 They just keep on comin', there ain't no end in sight
@@ -104,6 +108,3 @@ And tell me we'll be alright
 If you promise never to leave you just might make me
 Oh, you just might make me
 You just might make me believe
-
-
-

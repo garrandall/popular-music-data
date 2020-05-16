@@ -1,9 +1,12 @@
 ---
+album: Country, God Or The Girl
 artists:
 - K'Naan
+external_ids:
+  spotify: spotify:track:4hgOvDJXYPCqEpEKznz9YX
 features:
 - Nelly Furtado
-genres: []
+first_released_as_single: false
 key: is-anybody-out-there--k-naan-nelly-furtado
 lyrics_url: https://genius.com/Knaan-is-anybody-out-there-lyrics
 name: Is Anybody Out There?
@@ -16,6 +19,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2012
+runtime: 238746
 ---
 I don't wanna be left
 In this war tonight

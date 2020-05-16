@@ -1,9 +1,12 @@
 ---
+album: Shine
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:7guTVjzgdF5IJ1VPfkqdjo
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: running-back-wale-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/wale/runningback.html
 name: Running Back
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2017
+runtime: 215360
 ---
-
-
 Bitches want money stacks, I just want my percent
 She told me to hit the hole, I used to play running back
 You niggas be fumbling, don't you give 'em no gun again
@@ -93,6 +96,3 @@ Mula baby!
 Yeah, Blue Moon, yeah
 We gon' ball all season, whole season and post-season
 For no reason, fuck with me
-
-
-

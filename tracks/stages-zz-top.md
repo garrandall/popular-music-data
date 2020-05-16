@@ -1,8 +1,11 @@
 ---
+album: Afterburner
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:4Sx0FBH0vNWZVxeUCpdHoL
 features: []
-genres: []
+first_released_as_single: false
 key: stages-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/stages.html
 name: Stages
@@ -55,8 +58,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 212026
 ---
-
 It's a fine time to fall in love with you,
 I ain't got a single thing to do.
 It happened before I knew what was going on.
@@ -77,6 +81,3 @@ Tell me it's for real and let me know
 why does lovin' have to come and go.
 Stages keep on changing,
 stages rearranging love.
-
-
-

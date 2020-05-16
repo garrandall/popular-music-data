@@ -1,8 +1,11 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:13VDHbpoKlRhtgUaWTE2Ld
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-hoe-nicki-minaj
 lyrics_url: https://genius.com/Nicki-minaj-stupid-hoe-lyrics
 name: Stupid Hoe
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2011
+runtime: 196893
 ---
 Uh, yaow, yaow
 

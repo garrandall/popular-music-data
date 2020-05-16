@@ -1,8 +1,11 @@
 ---
+album: Jermaine Jackson
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:1pWW4L3frDisJVhSNxEw99
 features: []
-genres: []
+first_released_as_single: false
 key: dynamite-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/dynamite.html
 name: Dynamite
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 362266
 ---
-
 I don't know too much
 But I know love the way I've been touched
 It's your love that heats me up
@@ -122,6 +126,3 @@ You're dynamite
 All night you supply the spark I like
 Intense heavy dose of dynamite
 Pure dynamite
-
-
-

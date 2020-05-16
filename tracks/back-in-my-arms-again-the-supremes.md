@@ -1,8 +1,11 @@
 ---
+album: More Hits By The Supremes
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:2WjW8DjQru6Ic4KvYDqLys
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-my-arms-again-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/backinmyarmsagain.html
 name: Back In My Arms Again
@@ -51,8 +54,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 174306
 ---
-
 All day long I hear my telephone ring
 Friends calling giving their advice
 From the boy I love I should break away
@@ -107,6 +111,3 @@ I'm satisfied, yeah
 So satisfied
 I'm satisfied
 I'm satisfied
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My Kinda Party
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:17X2tSzibD9n9QRjdExcWT
 features: []
-genres: []
+first_released_as_single: false
 key: fly-over-states-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/flyoverstates.html
 name: Fly Over States
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2010
+runtime: 218200
 ---
-
 A couple of guys in first class on a flight
 From New York to Los Angeles
 Kinda making small talk killin' time
@@ -133,6 +137,3 @@ In those fly over states
 Have you ever been through Indiana
 On the plains of Oklahoma
 Take a ride
-
-
-

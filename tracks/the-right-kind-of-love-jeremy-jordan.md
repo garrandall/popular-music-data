@@ -1,8 +1,11 @@
 ---
+album: Try My Love
 artists:
 - Jeremy Jordan
+external_ids:
+  spotify: spotify:track:6WTwlLmhaq935X1jCq19wT
 features: []
-genres: []
+first_released_as_single: false
 key: the-right-kind-of-love-jeremy-jordan
 lyrics_url: https://genius.com/Jeremy-jordan-the-right-kind-of-love-7-mix-lyrics
 name: The Right Kind Of Love
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1992
+runtime: 285373
 ---
 It's the right kinda love, it's the right kinda night, you're the right kinda girl... oh Woh!
 

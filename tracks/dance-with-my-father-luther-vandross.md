@@ -1,8 +1,11 @@
 ---
+album: Dance With My Father
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:7snmvZMLdGGk3l9PcvoYSM
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-my-father-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-dance-with-my-father-lyrics
 name: Dance With My Father
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 2003
+runtime: 266000
 ---
 Back when I was a child
 Before life removed all the innocence

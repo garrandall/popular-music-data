@@ -1,9 +1,12 @@
 ---
+album: The Notorious K.I.M.
 artists:
 - Lil' Kim
+external_ids:
+  spotify: spotify:track:5jv3QxL0MFswzM1UJ2qQJM
 features:
 - Sisqo
-genres: []
+first_released_as_single: false
 key: how-many-licks--lil--kim-sisqo
 lyrics_url: https://genius.com/Lil-kim-how-many-licks-lyrics
 name: How Many Licks?
@@ -44,6 +47,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 233053
 ---
 Hold up, so what you're saying is
 (Niggas got me pissed like Lil' Kim)

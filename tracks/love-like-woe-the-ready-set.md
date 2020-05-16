@@ -1,8 +1,11 @@
 ---
+album: I'm Alive, I'm Dreaming
 artists:
 - The Ready Set
+external_ids:
+  spotify: spotify:track:4XRZbiVdsA5qv6f6qP70lS
 features: []
-genres: []
+first_released_as_single: false
 key: love-like-woe-the-ready-set
 lyrics_url: https://www.azlyrics.com/lyrics/readyset/lovelikewoe.html
 name: Love Like Woe
@@ -91,8 +94,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 200453
 ---
-
 Woe oh, oh, oh!
 Woe oh, oh, oh!
 I kinda feel like it don't make, like it don't make
@@ -197,6 +201,3 @@ Then you moved on (Woe oh oh oh)
 Now I'm hung up in suspense
 Because you're bringing me in
 And then you're kicking me out again
-
-
-

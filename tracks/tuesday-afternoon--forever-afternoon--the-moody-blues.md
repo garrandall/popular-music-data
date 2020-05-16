@@ -1,8 +1,11 @@
 ---
+album: Days Of Future Passed (Deluxe Version)
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:3KmV9aALIx3QdF3DoUwSSr
 features: []
-genres: []
+first_released_as_single: false
 key: tuesday-afternoon--forever-afternoon--the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-tuesday-afternoon-lyrics
 name: Tuesday Afternoon (Forever Afternoon)
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1967
+runtime: 260480
 ---
 Tuesday afternoon
 I'm just beginning to see

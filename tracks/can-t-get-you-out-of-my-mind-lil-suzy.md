@@ -1,8 +1,11 @@
 ---
+album: Lil' Suzy - The Greatest Hits
 artists:
 - Lil Suzy
+external_ids:
+  spotify: spotify:track:0dgVkWzPFSmEZbfPPcVsmo
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-you-out-of-my-mind-lil-suzy
 lyrics_url: https://genius.com/Lil-suzy-cant-get-you-out-of-my-mind-lyrics
 name: Can't Get You Out Of My Mind
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 216066
 ---
 I can't get, no
 I can't get, no

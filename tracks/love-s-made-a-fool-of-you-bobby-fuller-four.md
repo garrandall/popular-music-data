@@ -1,8 +1,11 @@
 ---
+album: Never To Be Forgotten - The Mustang Years
 artists:
 - Bobby Fuller Four
+external_ids:
+  spotify: spotify:track:0BhbbbNTK2W7voVHSbR1In
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-made-a-fool-of-you-bobby-fuller-four
 lyrics_url: https://genius.com/Bobby-fuller-four-loves-made-a-fool-of-you-lyrics
 name: Love's Made A Fool Of You
@@ -31,6 +34,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 119893
 ---
 You know love makes a fool of you
 You do anything that it wants you to

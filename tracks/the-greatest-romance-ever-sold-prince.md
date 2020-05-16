@@ -1,8 +1,11 @@
 ---
+album: Rave Un2 the Joy Fantastic
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:3A8pzjcWgAHry1Ix19z7ip
 features: []
-genres: []
+first_released_as_single: false
 key: the-greatest-romance-ever-sold-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/thegreatestromanceeversold.html
 name: The Greatest Romance Ever Sold
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-01-15'
+release_year: 1999
+runtime: 333226
 ---
-
 The greatest romance that's ever been sold
 
 So what do U know, U and me
@@ -122,6 +126,3 @@ And in return, girl, in return I will surrender
 Oh yeah, I will surrender, oh yes, I will
 
 The greatest romance that's ever been sold
-
-
-

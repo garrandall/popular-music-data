@@ -1,8 +1,11 @@
 ---
+album: Let's Do It Again Original Sound Track
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:1YQIOrrOg1UDqZCGcZWQ0a
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-do-it-again-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-lets-do-it-again-lyrics
 name: Let's Do It Again
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 293600
 ---
 Do it again, do it (Do it)
 Let's do it again (Do it)

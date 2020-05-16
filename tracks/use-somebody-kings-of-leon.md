@@ -1,8 +1,11 @@
 ---
+album: Only By The Night
 artists:
 - Kings Of Leon
+external_ids:
+  spotify: spotify:track:5VGlqQANWDKJFl0MBG3sg2
 features: []
-genres: []
+first_released_as_single: false
 key: use-somebody-kings-of-leon
 lyrics_url: https://www.azlyrics.com/lyrics/kingsofleon/usesomebody.html
 name: Use Somebody
@@ -235,8 +238,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2008
+runtime: 230760
 ---
-
 I've been roaming around
 Always looking down at all I see
 Painted faces, fill the places I can't reach
@@ -266,6 +270,3 @@ Someone like you, somebody
 
 I've been roaming around
 Always looking down at all I see
-
-
-

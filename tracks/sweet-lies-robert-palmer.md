@@ -1,8 +1,11 @@
 ---
+album: Addictions Volume 1
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:2iOZznkx9Xav30SNt435we
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-lies-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-sweet-lies-lyrics
 name: Sweet Lies
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1988
+runtime: 188600
 ---
 By Robert Palmer / Frank Blair / Dony Wynn
 

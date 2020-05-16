@@ -1,8 +1,11 @@
 ---
+album: The Kids Are Alright
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:6VIFNNGZ4yzKjWWHdqcHEp
 features: []
-genres: []
+first_released_as_single: false
 key: long-live-rock-the-who
 lyrics_url: https://genius.com/The-who-long-live-rock-lyrics
 name: Long Live Rock
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1974
+runtime: 238293
 ---
 Down at the Astoria the scene was changing
 Bingo and rock were pushing out X-rating

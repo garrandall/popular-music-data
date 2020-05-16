@@ -1,8 +1,11 @@
 ---
+album: Tic Tic Tac & Other Hits
 artists:
 - Fruit De La Passion
+external_ids:
+  spotify: spotify:track:6epE4UMlTKlQhzlJo14DYP
 features: []
-genres: []
+first_released_as_single: false
 key: tic-tic-tac-fruit-de-la-passion
 lyrics_url: https://www.musixmatch.com/lyrics/Fruit-de-la-Passion/Tic-Tic-Tac
 name: Tic Tic Tac
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-03-28'
+release_year: 1996
+runtime: 227826
 ---
 I hear the birds
 When they're singing

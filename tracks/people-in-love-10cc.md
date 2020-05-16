@@ -1,8 +1,11 @@
 ---
+album: Deceptive Bends
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:5OesuURQhsAqUzjegDkSQP
 features: []
-genres: []
+first_released_as_single: false
 key: people-in-love-10cc
 lyrics_url: https://www.azlyrics.com/lyrics/10cc/peopleinlove.html
 name: People In Love
@@ -35,8 +38,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 225546
 ---
-
 People in love do funny things
 Walk under buses and burn their wings
 People like us do nothing right
@@ -65,6 +69,3 @@ Oh feeling you close to me
 We're in a dream
 But the hands on the clock seem to know
 Tell us it's time to go
-
-
-

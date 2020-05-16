@@ -1,8 +1,11 @@
 ---
+album: Coast To Coast
 artists:
 - Paul Shaffer
+external_ids:
+  spotify: spotify:track:68ZvOwqhOxhMfiOTDRtQk6
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-radio-is-on-paul-shaffer
 lyrics_url: https://genius.com/Paul-shaffer-when-the-radio-is-on-lyrics
 name: When The Radio Is On
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 241533
 ---
 Radio!
 I wake up in the morning

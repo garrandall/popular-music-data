@@ -1,8 +1,11 @@
 ---
+album: Head
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:02tiurLpJcKS0aFVsyvKz3
 features: []
-genres: []
+first_released_as_single: false
 key: porpoise-song-the-monkees
 lyrics_url: https://genius.com/The-monkees-the-porpoise-song-theme-from-head-lyrics
 name: Porpoise Song
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 160319
 ---
 My, my the clock in the sky is pounding away
 There's so much to say

@@ -1,8 +1,11 @@
 ---
+album: Firefall
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:6nwlPs3mgpHYUJJ0ETPIXP
 features: []
-genres: []
+first_released_as_single: false
 key: cinderella-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/cinderella.html
 name: Cinderella
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 216066
 ---
-
 Last December I met a girl
 She took a likin' to me
 Said she loved me
@@ -101,6 +105,3 @@ Cinderella couldn't you see
 I didn't want your company
 You shoulda left that mornin' left that day
 Took your love and your child away
-
-
-

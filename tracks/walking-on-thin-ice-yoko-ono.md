@@ -1,8 +1,11 @@
 ---
+album: Open Your Box
 artists:
 - Yoko Ono
+external_ids:
+  spotify: spotify:track:2NjEAGbncVkNCY057hqTaU
 features: []
-genres: []
+first_released_as_single: false
 key: walking-on-thin-ice-yoko-ono
 lyrics_url: https://genius.com/Yoko-ono-walking-on-thin-ice-lyrics
 name: Walking On Thin Ice
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1981
+runtime: 265280
 ---
 Walking on thin ice
 I'm paying the price

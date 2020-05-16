@@ -1,8 +1,11 @@
 ---
+album: Just Mary
 artists:
 - Mary Macgregor
+external_ids:
+  spotify: spotify:track:0uSrLvAGZPVkO2DgCj6DfC
 features: []
-genres: []
+first_released_as_single: false
 key: torn-between-two-lovers-mary-macgregor
 lyrics_url: https://genius.com/Mary-macgregor-torn-between-two-lovers-lyrics
 name: Torn Between Two Lovers
@@ -95,6 +98,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1976
+runtime: 231732
 ---
 There are times when a woman has to say what's on her mind
 Even though she knows how much it's gonna hurt

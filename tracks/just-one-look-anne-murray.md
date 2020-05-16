@@ -1,8 +1,11 @@
 ---
+album: A Love Song
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:28s7HBLF1BUheegPgmR2Ve
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-look-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/justonelook.html
 name: Just One Look
@@ -15,8 +18,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 176133
 ---
-
 Just one look and I fell so hard
 In love with you, oh-oh, oh-oh
 I found out how good it feels
@@ -45,6 +49,3 @@ You know I love you, baby
 I built my world around you
 C'mon, baby
 (Just one look, that's all it took)
-
-
-

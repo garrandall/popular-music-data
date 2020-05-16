@@ -1,8 +1,11 @@
 ---
+album: Midnight Magic
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2OQOYULLeWnGzlGcXQMGLv
 features: []
-genres: []
+first_released_as_single: false
 key: still-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/still.html
 name: Still
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 347093
 ---
-
 Lady, morning's just a moment away
 And I'm without you once again
 You laughed at me
@@ -119,6 +123,3 @@ We were too blind to see
 But then most of all
 I do love you
 Still!
-
-
-

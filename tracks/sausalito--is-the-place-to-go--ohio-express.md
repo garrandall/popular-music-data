@@ -1,8 +1,11 @@
 ---
+album: The Best of the Ohio Express
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:5lCPJWsjGhgCRVzrYsDuow
 features: []
-genres: []
+first_released_as_single: false
 key: sausalito--is-the-place-to-go--ohio-express
 lyrics_url: https://genius.com/Ohio-express-sausalito-is-the-place-to-go-lyrics
 name: Sausalito (Is The Place To Go)
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 137800
 ---
 Crusin' 'round 'round fell out of my boat
 Swam around swam around started to float

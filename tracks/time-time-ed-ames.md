@@ -1,8 +1,11 @@
 ---
+album: Time, Time
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:5L0BOVGNGUK5XjuDePp86G
 features: []
-genres: []
+first_released_as_single: false
 key: time-time-ed-ames
 lyrics_url: https://www.musixmatch.com/lyrics/Ed-Ames/Time-Time
 name: Time Time
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 172693
 ---
 Rolls the hills along
 Makes the stars go round

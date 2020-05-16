@@ -1,8 +1,11 @@
 ---
+album: Take Me All The Way
 artists:
 - Stacy Lattisaw
+external_ids:
+  spotify: spotify:track:5WjY2gsByLDNjqIp2dJYCE
 features: []
-genres: []
+first_released_as_single: false
 key: nail-it-to-the-wall-stacy-lattisaw
 lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/nailittothewall.html
 name: Nail It To The Wall
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 235026
 ---
-
 Don't even think about tomorrow
 Just keep tonight on your mind
 Gonna rip it up, boy
@@ -110,6 +114,3 @@ Nail it to the wall
 If you want an education
 Come on, nail it to the wall
 It's the perfect situation, come on
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 2 Hot!
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:5gMsYrfBVWhjHVVZE0G6Rp
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-got-love-peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-weve-got-love-lyrics
 name: We've Got Love
@@ -40,6 +43,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1978
+runtime: 202026
 ---
 I could be tryin'
 Look the rest of my life

@@ -1,8 +1,11 @@
 ---
+album: Right Where You Want Me
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:58ZvuqZgeuZMCbpCsH9E76
 features: []
-genres: []
+first_released_as_single: false
 key: right-where-you-want-me-jesse-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/jessemccartney/rightwhereyouwantme.html
 name: Right Where You Want Me
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
+release_year: 2006
+runtime: 211693
 ---
-
 Girl,
 There's something 'bout me that you ought to know.
 I've never felt the need to lose control.
@@ -100,6 +104,3 @@ Let's do something, maybe.
 Please don't take your time,
 You got me,
 Right where you want me.
-
-
-

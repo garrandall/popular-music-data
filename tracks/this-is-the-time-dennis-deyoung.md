@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Dennis DeYoung'
 artists:
 - Dennis DeYoung
+external_ids:
+  spotify: spotify:track:3VfcrkWaSIm4drCBlhmUzR
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-time-dennis-deyoung
 lyrics_url: https://www.azlyrics.com/lyrics/dennisdeyoung/thisisthetime.html
 name: This Is The Time
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
+release_year: 1986
+runtime: 234093
 ---
-
 If I knew back then
 All the things I know today
 Baby I would not have changed on hour
@@ -67,6 +71,3 @@ We had a dream
 My God it happened
 Nobody believed that we could get this far
 And now I know that this is our time
-
-
-

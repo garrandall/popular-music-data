@@ -1,8 +1,11 @@
 ---
+album: Here I Stand
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5plaq14SjHGpAqs0aCj4f7
 features: []
-genres: []
+first_released_as_single: true
 key: moving-mountains-usher
 lyrics_url: https://www.azlyrics.com/lyrics/usher/movingmountains.html
 name: Moving Mountains
@@ -43,8 +46,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2008
+runtime: 297986
 ---
-
 It's like whatever I do
 Oh
 Just can't get through to you
@@ -133,6 +137,3 @@ Just leave me be, oh
 
 Baby, baby
 Whoa, yeah
-
-
-

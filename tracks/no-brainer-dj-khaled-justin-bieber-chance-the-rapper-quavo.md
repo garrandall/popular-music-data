@@ -1,11 +1,14 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:5WvAo7DNuPRmk4APhdPzi8
 features:
 - Justin Bieber
 - Chance The Rapper
 - Quavo
-genres: []
+first_released_as_single: true
 key: no-brainer-dj-khaled-justin-bieber-chance-the-rapper-quavo
 lyrics_url: https://genius.com/Genius-brasil-traducoes-dj-khaled-no-brainer-ft-justin-bieber-quavo-and-chance-the-rapper-traducao-em-portugues-lyrics
 name: No Brainer
@@ -70,6 +73,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 260000
 ---
 We the Best Music!
 Mais uma!

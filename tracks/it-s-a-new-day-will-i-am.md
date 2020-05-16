@@ -1,8 +1,11 @@
 ---
+album: It's A New Day
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:6yhxhDaC4d1EMsjeWISfkG
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-new-day-will-i-am
 lyrics_url: https://genius.com/William-its-a-new-day-lyrics
 name: It's A New Day
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
+release_year: 2006
+runtime: 218746
 ---
 I went asleep last night
 Tired from the fight

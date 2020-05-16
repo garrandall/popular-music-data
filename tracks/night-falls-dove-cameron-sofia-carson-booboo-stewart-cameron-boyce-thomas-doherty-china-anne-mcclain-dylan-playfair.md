@@ -1,4 +1,5 @@
 ---
+album: Descendants 3 (Original TV Movie Soundtrack)
 artists:
 - Dove Cameron
 - Sofia Carson
@@ -7,8 +8,10 @@ artists:
 - Thomas Doherty
 - China Anne McClain
 - Dylan Playfair
+external_ids:
+  spotify: spotify:track:3doNvO8zrwzcM0PJrcn8Rb
 features: []
-genres: []
+first_released_as_single: false
 key: night-falls-dove-cameron-sofia-carson-booboo-stewart-cameron-boyce-thomas-doherty-china-anne-mcclain-dylan-playfair
 lyrics_url: https://www.azlyrics.com/lyrics/dovecameron/nightfalls.html
 name: Night Falls
@@ -17,8 +20,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 188217
 ---
-
 Watch your back, watch your back
 Watch your back, watch your back
 We can counter their attack, hit 'em 'til the armor cracks
@@ -84,6 +88,3 @@ I'm gonna help you win this battle because
 I got your back, got your back
 Got your back, got your back
 All for one and that's a fact, knights fall pitch black
-
-
-

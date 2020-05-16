@@ -1,9 +1,12 @@
 ---
+album: 'B.o.B Presents: The Adventures of Bobby Ray'
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:5uHYcK0nbEYgRaFTY5BqnP
 features:
 - Rivers Cuomo
-genres: []
+first_released_as_single: false
 key: magic-b-o-b-rivers-cuomo
 lyrics_url: https://www.azlyrics.com/lyrics/bob/magic.html
 name: Magic
@@ -88,8 +91,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 196133
 ---
-
 Hi, my name is Bob, and I approve this message...
 
 
@@ -155,6 +159,3 @@ Magic, magic, magic
 ( M M M) Magic, magic, magic
 Ah oo
 I got the magic in me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Essential Ray Price 1951-1962
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:0cPPjVcDeOZTXYBBzdNkTO
 features: []
-genres: []
+first_released_as_single: false
 key: city-lights-ray-price
 lyrics_url: https://genius.com/Ray-price-city-lights-lyrics
 name: City Lights
@@ -19,6 +22,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1954
+runtime: 179093
 ---
 A bright array of city lights as far as I can see
 The great white way shines through the night for lonely guys like me

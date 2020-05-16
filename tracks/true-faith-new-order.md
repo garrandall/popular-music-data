@@ -1,8 +1,11 @@
 ---
+album: Brotherhood
 artists:
 - New Order
+external_ids:
+  spotify: spotify:track:6gIg6yHRojDG9Px3eSIZ3P
 features: []
-genres: []
+first_released_as_single: false
 key: true-faith-new-order
 lyrics_url: https://genius.com/New-order-true-faith-lyrics
 name: True Faith
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1986
+runtime: 543440
 ---
 I feel so extraordinary
 Something's got a hold on me

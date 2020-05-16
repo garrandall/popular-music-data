@@ -1,8 +1,11 @@
 ---
+album: Imperial Blaze
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:3qdVKNSeUOiBoFDPv75LrN
 features: []
-genres: []
+first_released_as_single: false
 key: so-fine-sean-paul
 lyrics_url: https://genius.com/Sean-paul-so-fine-lyrics
 name: So Fine
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 211480
 ---
 Girl, girl, I'll be your sunshine, you can be mine
 You'll be my wind chime, I've got the rhyme

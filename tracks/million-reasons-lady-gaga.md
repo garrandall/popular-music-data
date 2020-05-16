@@ -1,8 +1,11 @@
 ---
+album: Joanne
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:7dZ1Odmx9jWIweQSatnRqo
 features: []
-genres: []
+first_released_as_single: false
 key: million-reasons-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/millionreasons.html
 name: Million Reasons
@@ -87,8 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2016
+runtime: 205280
 ---
-
 You're giving me a million reasons to let you go
 You're giving me a million reasons to quit the show
 You're givin' me a million reasons
@@ -146,6 +150,3 @@ I've got a hundred million reasons to walk away
 But baby, I just need one good one, good one
 Tell me that you'll be the good one, good one
 Baby, I just need one good one to stay
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Feelin' Good
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:3BH6jRogHdFvpGkQoxzJTZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-glad-i-fell-for-you-david-ruffin
 lyrics_url: https://genius.com/David-ruffin-im-so-glad-i-fell-for-you-lyrics
 name: I'm So Glad I Fell For You
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 264746
 ---
 Yesterday my life was filled with sadness
 I had little hope of ever, ever finding gladness

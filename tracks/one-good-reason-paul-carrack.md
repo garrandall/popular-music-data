@@ -1,8 +1,11 @@
 ---
+album: One Good Reason
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:42j9QOlX7EQlWkIpaV4AzH
 features: []
-genres: []
+first_released_as_single: false
 key: one-good-reason-paul-carrack
 lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/onegoodreason.html
 name: One Good Reason
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1987
+runtime: 199600
 ---
-
 I stand on my ground when we fight
 No matter where we are
 I am the sad clown with tear eyes
@@ -95,6 +99,3 @@ One good reason, I should
 I should hang around
 I should hang around
 (One good reason)
-
-
-

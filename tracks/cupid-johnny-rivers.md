@@ -1,8 +1,11 @@
 ---
+album: In Action!
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:7rnVUsD2Ay8esSXNM6fU8Z
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/cupid.html
 name: Cupid
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1965
+runtime: 154933
 ---
-
 Cupid, draw back your bow
 And let your arrow go
 Straight to that girl's heart for me
@@ -67,6 +71,3 @@ Cupid
 Cupid
 Cupid
 Draw back that bow
-
-
-

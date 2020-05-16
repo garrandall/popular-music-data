@@ -1,8 +1,11 @@
 ---
+album: 'The Legendary Henry Stone Presents: Steve Alaimo- The 50s-The 70s'
 artists:
 - Steve Alaimo
+external_ids:
+  spotify: spotify:track:3F3Hwe7PGMUledxl25QeGH
 features: []
-genres: []
+first_released_as_single: false
 key: cast-your-fate-to-the-wind-steve-alaimo
 lyrics_url: https://genius.com/Steve-alaimo-cast-your-fate-to-the-wind-lyrics
 name: Cast Your Fate To The Wind
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 141600
 ---
 Steve Alaimo
 Miscellaneous

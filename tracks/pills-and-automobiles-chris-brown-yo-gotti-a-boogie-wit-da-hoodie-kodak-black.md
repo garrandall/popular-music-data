@@ -1,11 +1,14 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:4YkwUfWSIxdKNLDXw0caFO
 features:
 - Yo Gotti
 - A Boogie Wit da Hoodie
 - Kodak Black
-genres: []
+first_released_as_single: true
 key: pills-and-automobiles-chris-brown-yo-gotti-a-boogie-wit-da-hoodie-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/pillsandautomobiles.html
 name: Pills And Automobiles
@@ -90,9 +93,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 292910
 ---
-
-
 Ow
 
 Wet, wet, wet, wet
@@ -196,6 +199,3 @@ Ba-ba-baby
 Just tryna change your life (ba-ba-baby)
 I'm just tryna change your life (ba-ba-baby)
 Just tryna change your life (ba-ba-baby), oh baby
-
-
-

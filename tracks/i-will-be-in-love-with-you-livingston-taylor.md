@@ -1,8 +1,11 @@
 ---
+album: Best Of Livingston Taylor 20th Century Masters The Millennium Collection
 artists:
 - Livingston Taylor
+external_ids:
+  spotify: spotify:track:6x7zqY521TZJwwUYlElZoq
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-be-in-love-with-you-livingston-taylor
 lyrics_url: https://genius.com/Livingston-taylor-i-will-be-in-love-with-you-lyrics
 name: I Will Be In Love With You
@@ -63,6 +66,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 211893
 ---
 I don't know what words to say
 But when I see you I know they'll come

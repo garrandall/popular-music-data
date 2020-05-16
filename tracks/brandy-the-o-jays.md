@@ -1,8 +1,11 @@
 ---
+album: So Full Of Love
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:4FgHURAh8kHbMCQJJ37Etc
 features: []
-genres: []
+first_released_as_single: false
 key: brandy-the-o-jays
 lyrics_url: https://genius.com/The-ojays-brandy-lyrics
 name: Brandy
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 251746
 ---
 Sittin' by the open fireplace in my favorite dungarees
 Played a few bars of a melody, and it sounded sweet to me

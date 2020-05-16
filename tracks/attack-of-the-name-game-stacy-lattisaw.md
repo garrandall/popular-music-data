@@ -1,8 +1,11 @@
 ---
+album: Sneakin' Out
 artists:
 - Stacy Lattisaw
+external_ids:
+  spotify: spotify:track:5UWcAoVoUpFteuMd5DUYlH
 features: []
-genres: []
+first_released_as_single: false
 key: attack-of-the-name-game-stacy-lattisaw
 lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/attackofthenamegame.html
 name: Attack Of The Name Game
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 383760
 ---
-
 Attack of the name game
 Attack of the name game
 
@@ -151,6 +155,3 @@ Attack of the name game (I'll make her do what she hadn't oughta)
 (Check it out, hey)
 (Gotta split, baby)
 (Goodbye)
-
-
-

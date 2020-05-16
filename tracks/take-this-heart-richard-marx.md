@@ -1,8 +1,11 @@
 ---
+album: Rush Street
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:7BJmdTL1vefkcA2weu0AMt
 features: []
-genres: []
+first_released_as_single: false
 key: take-this-heart-richard-marx
 lyrics_url: https://genius.com/Richard-marx-take-this-heart-lyrics
 name: Take This Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1991
+runtime: 251266
 ---
 I've been where you are before
 No one understands you more

@@ -1,8 +1,11 @@
 ---
+album: Under the Weather - EP
 artists:
 - Wind
+external_ids:
+  spotify: spotify:track:7GYUDhLNm2DoG94NsaMd6J
 features: []
-genres: []
+first_released_as_single: true
 key: make-believe-wind
 lyrics_url: https://genius.com/Wind-make-believe-lyrics
 name: Make Believe
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 252728
 ---
 I know, you know
 Everybody knows it's true

@@ -1,8 +1,11 @@
 ---
+album: Modjo
 artists:
 - Modjo
+external_ids:
+  spotify: spotify:track:49X0LAl6faAusYq02PRAY6
 features: []
-genres: []
+first_released_as_single: false
 key: lady--hear-me-tonight--modjo
 lyrics_url: https://www.azlyrics.com/lyrics/modjo/ladyhearmetonight.html
 name: Lady (Hear Me Tonight)
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
+release_year: 2001
+runtime: 307153
 ---
-
 Lady
 Hear me tonight
 'Cos my feeling
@@ -153,6 +157,3 @@ Lady
 Hear me tonight
 Can't you see
 You're my delight
-
-
-

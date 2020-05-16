@@ -1,8 +1,11 @@
 ---
+album: Lost Soul
 artists:
 - The Vibrations
+external_ids:
+  spotify: spotify:track:2rjaHAF0MzEpxVVYkh8Bnj
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-them-there-hills-the-vibrations
 lyrics_url: https://www.musixmatch.com/lyrics/The-Vibrations/Love-in-Them-There-Hills
 name: Love In Them There Hills
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1968
+runtime: 138065
 ---
 Everytime I go out and come home
 I can hear my Mama say,

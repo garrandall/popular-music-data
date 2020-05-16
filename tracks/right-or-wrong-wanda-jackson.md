@@ -1,8 +1,11 @@
 ---
+album: Right Or Wrong
 artists:
 - Wanda Jackson
+external_ids:
+  spotify: spotify:track:7fApvo3GabRhZnX9KA5u0q
 features: []
-genres: []
+first_released_as_single: false
 key: right-or-wrong-wanda-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/rightorwrongillbewithyou.html
 name: Right Or Wrong
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 159306
 ---
-
 Right or wrong I'll be with you
 I'll do what you want me to
 I believe that I belong
@@ -73,6 +77,3 @@ All my love, all the way
 I believe that I belong
 By your side, right or wrong
 Right or wrong!
-
-
-

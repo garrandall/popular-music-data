@@ -1,9 +1,12 @@
 ---
+album: Rotten Apple
 artists:
 - Lloyd Banks
+external_ids:
+  spotify: spotify:track:2GlhJyZRWP3MnSXOvnovIa
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: hands-up-lloyd-banks-50-cent
 lyrics_url: https://genius.com/Lloyd-banks-hands-up-lyrics
 name: Hands Up
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2006
+runtime: 240213
 ---
 Put 'em up
 Put 'em up, put 'em up, put 'em up

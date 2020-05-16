@@ -1,8 +1,11 @@
 ---
+album: Adventures Beyond Clubland
 artists:
 - Clubland
+external_ids:
+  spotify: spotify:track:0t6CcEKsUfvZ9oP02wA8WX
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on--tighter-to-love--clubland
 lyrics_url: https://www.musixmatch.com/lyrics/Clubland/Hold-On-Tighter-to-Love
 name: Hold On (Tighter To Love)
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-03-21'
+release_year: 1992
+runtime: 372912
 ---
 Hold it now, hold it now
 Hold it now, hold it now

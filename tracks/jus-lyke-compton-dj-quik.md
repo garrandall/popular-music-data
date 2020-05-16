@@ -1,8 +1,11 @@
 ---
+album: Way 2 Fonky
 artists:
 - DJ Quik
+external_ids:
+  spotify: spotify:track:6KMoKU9mRNthObqYAMrXnD
 features: []
-genres: []
+first_released_as_single: false
 key: jus-lyke-compton-dj-quik
 lyrics_url: https://www.azlyrics.com/lyrics/djquik/juslykecomptonclean.html
 name: Jus Lyke Compton
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-10-03'
+release_year: 1991
+runtime: 251173
 ---
-
 Finally got a chance to leave the C-P-T
 Off to other cities to trip
 No longer just an underground hit
@@ -147,6 +151,3 @@ Now Denver...
 Yeah, and Denver...
 ...
 I thought ya knew
-
-
-

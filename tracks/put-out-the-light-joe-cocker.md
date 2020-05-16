@@ -1,8 +1,11 @@
 ---
+album: I Can Stand A Little Rain
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:7iwHpSGNA5JqR0Hq6oGmQx
 features: []
-genres: []
+first_released_as_single: false
 key: put-out-the-light-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/putoutthelight.html
 name: Put Out The Light
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1974
+runtime: 249760
 ---
-
 Why should I worry when I know you're loving me
 Why should I care when there's joy everywhere
 Why can't I see the beauty of the life
@@ -107,6 +111,3 @@ Put out the light, don't put out the light, yeah
 Put out the light, don't put out the light, yeah
 Put out the light, don't put out the light, yeah
 ...
-
-
-

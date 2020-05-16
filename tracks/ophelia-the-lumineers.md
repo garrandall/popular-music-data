@@ -1,8 +1,11 @@
 ---
+album: Cleopatra
 artists:
 - The Lumineers
+external_ids:
+  spotify: spotify:track:3qhobDAfBcVoOWZP8Ck8R2
 features: []
-genres: []
+first_released_as_single: true
 key: ophelia-the-lumineers
 lyrics_url: https://www.azlyrics.com/lyrics/lumineers/ophelia.html
 name: Ophelia
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 160097
 ---
-
 Ah, ah, when I was younger, ah, ah, should have known better
 And I can't feel no remorse, and you don't feel nothing back
 
@@ -80,6 +84,3 @@ Oh, Ophelia, heaven help a fool who falls in love
 
 Oh, Ophelia, you've been on my mind girl like a drug
 Oh, Ophelia, heaven help a fool who falls in love
-
-
-

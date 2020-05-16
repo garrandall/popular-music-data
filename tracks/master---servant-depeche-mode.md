@@ -1,8 +1,11 @@
 ---
+album: Some Great Reward
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:27qyG4lnpfcYb3QbuA4V7o
 features: []
-genres: []
+first_released_as_single: false
 key: master---servant-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/masterandservant.html
 name: Master & Servant
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1984
+runtime: 252800
 ---
-
 There's a new game
 We like to play you see
 A game with added reality
@@ -55,6 +59,3 @@ Let's play master and servant
 
 Let's play master and servant
 Come on master and servant
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Waking & Dreaming
 artists:
 - Orleans
+external_ids:
+  spotify: spotify:track:2dtK02TSAuTvVYU2wGAVG0
 features: []
-genres: []
+first_released_as_single: false
 key: still-the-one-orleans
 lyrics_url: https://genius.com/Orleans-still-the-one-lyrics
 name: Still The One
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 234040
 ---
 We've been together since way back when
 Sometimes I never want to see you again

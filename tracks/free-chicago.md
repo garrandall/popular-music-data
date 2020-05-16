@@ -1,8 +1,11 @@
 ---
+album: Chicago Transit Authority
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:27zXeT09UWPqE1y68Mdxih
 features: []
-genres: []
+first_released_as_single: false
 key: free-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/free.html
 name: Free
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1969
+runtime: 409426
 ---
 I just want to be free
 I just want to be free

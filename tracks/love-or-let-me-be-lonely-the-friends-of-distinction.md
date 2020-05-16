@@ -1,8 +1,11 @@
 ---
+album: The Best Of Friends Of Distinction
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:4uW80X0ObmZ5YV3zeXU2Dm
 features: []
-genres: []
+first_released_as_single: false
 key: love-or-let-me-be-lonely-the-friends-of-distinction
 lyrics_url: https://genius.com/The-friends-of-distinction-love-or-let-me-be-lonely-lyrics
 name: Love Or Let Me Be Lonely
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 200466
 ---
 Love me let me be lonely
 Part time love I can find any day

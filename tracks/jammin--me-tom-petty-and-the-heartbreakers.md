@@ -1,8 +1,11 @@
 ---
+album: Let Me Up (I've Had Enough)
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:2AFJkvRUFVx0MccykGaHV2
 features: []
-genres: []
+first_released_as_single: false
 key: jammin--me-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/jamminme.html
 name: Jammin' Me
@@ -55,8 +58,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1987
+runtime: 249093
 ---
-
 You got me in a corner
 You got me against the wall
 I got nowhere to go
@@ -94,6 +98,3 @@ Take back Pasadena
 Take back El Salvador
 Take back that country club
 They're tryin' to build outside my door
-
-
-

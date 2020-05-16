@@ -1,8 +1,11 @@
 ---
+album: Cold Blood
 artists:
 - Cold Blood
+external_ids:
+  spotify: spotify:track:1A4eGVWeU3TUd1MxNdxU65
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-me-hummin-cold-blood
 lyrics_url: https://genius.com/Cold-blood-you-got-me-hummin-lyrics
 name: You Got Me Hummin
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1969
+runtime: 345093
 ---
 I don't know what you got
 But it's getting to me

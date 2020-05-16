@@ -1,8 +1,11 @@
 ---
+album: This Time By Basie
 artists:
 - Count Basie
+external_ids:
+  spotify: spotify:track:3rGZUTr7tBqpnN7YOXnpAp
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-loving-you-count-basie
 lyrics_url: https://genius.com/Count-basie-and-his-orchestra-and-ray-charles-i-cant-stop-loving-you-lyrics
 name: I Can't Stop Loving You
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1963
+runtime: 274266
 ---
 I can't stop loving you, I've made up my mind
 To live in memory of the lonesome times

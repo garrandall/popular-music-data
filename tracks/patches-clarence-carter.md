@@ -1,8 +1,11 @@
 ---
+album: Patches
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:5vk9PL1tTyWrQY3TqRq2Rg
 features: []
-genres: []
+first_released_as_single: false
 key: patches-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-patches-lyrics
 name: Patches
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 193826
 ---
 I was born and raised down in Alabama
 On a farm way back up in the woods

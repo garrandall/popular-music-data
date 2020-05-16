@@ -1,8 +1,11 @@
 ---
+album: In Through The Out Door
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:62p6fF2r4NY6pwZbxxvmr8
 features: []
-genres: []
+first_released_as_single: false
 key: fool-in-the-rain-led-zeppelin
 lyrics_url: https://www.azlyrics.com/lyrics/ledzeppelin/foolintherain.html
 name: Fool In The Rain
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 372893
 ---
-
 Well there's a light in your eye that keeps shining
 Like a star that can't wait for the night
 I hate to think I've been blinded baby
@@ -125,6 +129,3 @@ Light of the love that I found
 Light of the, hey, eh, light of the, hey, eh
 Light of the love that I found
 Light of the love that I found
-
-
-

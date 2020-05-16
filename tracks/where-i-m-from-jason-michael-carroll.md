@@ -1,8 +1,11 @@
 ---
+album: Growing Up Is Getting Old
 artists:
 - Jason Michael Carroll
+external_ids:
+  spotify: spotify:track:2ktagyRc8FSLX4yB5tr3TU
 features: []
-genres: []
+first_released_as_single: true
 key: where-i-m-from-jason-michael-carroll
 lyrics_url: https://www.musixmatch.com/lyrics/Jason-Michael-Carroll/Where-I-m-From
 name: Where I'm From
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2008
+runtime: 275973
 ---
 On a three hour flight from Memphis to L.A.
 I was silently celebrating my first-class upgrade

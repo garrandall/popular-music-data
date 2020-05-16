@@ -1,11 +1,14 @@
 ---
+album: Neon Future I
 artists:
 - Steve Aoki
 - Chris Lake
 - Tujamo
+external_ids:
+  spotify: spotify:track:2mgqX1B86n2zMYdhYEK8jI
 features:
 - Kid Ink
-genres: []
+first_released_as_single: true
 key: delirious--boneless--steve-aoki-chris-lake-tujamo-kid-ink
 lyrics_url: https://www.azlyrics.com/lyrics/steveaoki/deliriousboneless.html
 name: Delirious (Boneless)
@@ -22,8 +25,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
+release_year: 2014
+runtime: 223600
 ---
-
 Hold up, you got me woke up,
 The way you roll that
 Sticky like okra
@@ -130,6 +134,3 @@ La la la la la la
 La la la la la la la
 Come and take a ride
 Stay up all night, ohhkaay
-
-
-

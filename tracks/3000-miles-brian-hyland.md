@@ -1,8 +1,11 @@
 ---
+album: The Joker Went Wild / Run Run Look And See
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:50nZXZID6sNOP0XIweYRmE
 features: []
-genres: []
+first_released_as_single: false
 key: 3000-miles-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-3000-miles-lyrics
 name: 3000 Miles
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 163466
 ---
 Was I wrong to think that you
 Could live like I'm accustomed to?

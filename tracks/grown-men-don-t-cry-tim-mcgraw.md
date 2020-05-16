@@ -1,8 +1,11 @@
 ---
+album: Set This Circus Down
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4RtDZMumlKxsN7IL3AJPUx
 features: []
-genres: []
+first_released_as_single: false
 key: grown-men-don-t-cry-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-grown-men-dont-cry-lyrics
 name: Grown Men Don't Cry
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2001-08-11'
+release_year: 2001
+runtime: 235760
 ---
 I pulled into the shopping centre
 And saw a little boy wrapped around the legs of his mother

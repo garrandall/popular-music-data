@@ -1,9 +1,12 @@
 ---
+album: Euphoria (Standard US/Latin version)
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:4nVyHATevhl5RC6Qmoko5H
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: i-like-it-enrique-iglesias-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/ilikeit.html
 name: I Like It
@@ -160,9 +163,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 231786
 ---
-
-
 One life, one love
 Enrique Iglesias, Pitbull
 Ya'll know what time it is.
@@ -270,6 +273,3 @@ I, I, I like it!
 Party (oh yes I like it!) karamu, fiesta, forever!
 Oh yes I like it!
 Party, karamu (oh yes I like it!) fiesta, forever!
-
-
-

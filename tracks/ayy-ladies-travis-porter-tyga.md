@@ -1,9 +1,12 @@
 ---
+album: From Day 1
 artists:
 - Travis Porter
+external_ids:
+  spotify: spotify:track:163ExVYtJrtdE86Qd5Fw2N
 features:
 - Tyga
-genres: []
+first_released_as_single: true
 key: ayy-ladies-travis-porter-tyga
 lyrics_url: https://genius.com/Travis-porter-ayy-ladies-lyrics
 name: Ayy Ladies
@@ -84,6 +87,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2012
+runtime: 213106
 ---
 Okay now ladies (yeah?)
 If you know you bad (yeah?)

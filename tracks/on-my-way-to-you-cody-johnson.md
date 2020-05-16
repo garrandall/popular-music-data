@@ -1,8 +1,11 @@
 ---
+album: Ain't Nothin' to It
 artists:
 - Cody Johnson
+external_ids:
+  spotify: spotify:track:3OjNkFFZavF89xvRqWCXmU
 features: []
-genres: []
+first_released_as_single: false
 key: on-my-way-to-you-cody-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/codyjohnson/onmywaytoyou.html
 name: On My Way To You
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 213306
 ---
-
 All the boats I've missed
 All the hell I've caused
 All the lips I've kissed
@@ -125,6 +129,3 @@ I guess he always knew
 I was on my way to you...
 On my way to you...
 On my way to you...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Back In Black
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:2SiXAy7TuUkycRVbbWDEpo
 features: []
-genres: []
+first_released_as_single: false
 key: you-shook-me-all-night-long-ac-dc
 lyrics_url: https://www.azlyrics.com/lyrics/acdc/youshookmeallnightlong.html
 name: You Shook Me All Night Long
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
+release_year: 1980
+runtime: 210173
 ---
-
 She was a fast machine she kept her motor clean
 She was the best damn woman that I ever seen
 She had the sightless eyes telling me no lies
@@ -116,6 +120,3 @@ Shook me all night long
 Yeah you shook me
 Yeah you shook me
 All night long
-
-
-

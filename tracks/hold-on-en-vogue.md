@@ -1,8 +1,11 @@
 ---
+album: Born To Sing
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:3ZqjDpr3qCZnZBPcd0Hpj2
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-en-vogue
 lyrics_url: https://genius.com/En-vogue-hold-on-lyrics
 name: Hold On
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1990
+runtime: 304466
 ---
 When I had you
 I treated you bad

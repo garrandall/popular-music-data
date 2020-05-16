@@ -1,8 +1,11 @@
 ---
+album: 1960s Happy Days
 artists:
 - Ray Peterson
+external_ids:
+  spotify: spotify:track:1EwpgXlVIzs1E7XBZoRVQl
 features: []
-genres: []
+first_released_as_single: false
 key: tell-laura-i-love-her-ray-peterson
 lyrics_url: https://genius.com/Ray-peterson-tell-laura-i-love-her-lyrics
 name: Tell Laura I Love Her
@@ -63,6 +66,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
+release_year: 1960
+runtime: 174693
 ---
 Laura and Tommy were lovers
 He wanted to give her everything

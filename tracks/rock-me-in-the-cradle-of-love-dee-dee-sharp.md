@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dee Dee Sharp 1962-1966
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:0v1lcmxKiEwhjFxeuK02EM
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-in-the-cradle-of-love-dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-rock-me-in-the-cradle-of-love-lyrics
 name: Rock Me In The Cradle Of Love
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 137906
 ---
 I wanna be your lady
 (Rock me in the cradle of love)

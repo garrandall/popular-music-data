@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 3
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:1ZyDUw0tcHzTqkFYhY2TSU
 features: []
-genres: []
+first_released_as_single: false
 key: right-or-wrong-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-right-or-wrong-lyrics
 name: Right Or Wrong
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 131840
 ---
 Right or wrong I'll be with you (right or wrong I'll be with you)
 I'll do what you want me to (I'll do what you want me to)

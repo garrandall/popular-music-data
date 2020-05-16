@@ -1,8 +1,11 @@
 ---
+album: Turn on Your Love Light
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:1E2MEAXoC2qgwDspNaE7rl
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-your-love-light-bill-black-s-combo
 name: Turn On Your Love Light
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 129973
 ---
 

@@ -1,10 +1,13 @@
 ---
+album: On The 6
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:1AlvKwk3NBZ8lAt7GC6SiT
 features:
 - Big Pun
 - Fat Joe
-genres: []
+first_released_as_single: false
 key: feelin--so-good-jennifer-lopez-big-pun-fat-joe
 lyrics_url: https://genius.com/Jennifer-lopez-feelin-so-good-lyrics
 name: Feelin' So Good
@@ -77,6 +80,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
+release_year: 1999
+runtime: 326000
 ---
 Tired and relieved because he alone?
 We haven't got Artist of the Year (Yup), Rhyme of the Year (Yup, yup, yup)

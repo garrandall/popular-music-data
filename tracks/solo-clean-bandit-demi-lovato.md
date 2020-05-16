@@ -1,9 +1,12 @@
 ---
+album: What Is Love?
 artists:
 - Clean Bandit
+external_ids:
+  spotify: spotify:track:6kPJZM97LwdG9QIsT7khp6
 features:
 - Demi Lovato
-genres: []
+first_released_as_single: true
 key: solo-clean-bandit-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/cleanbandit/solo.html
 name: Solo
@@ -60,8 +63,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 222653
 ---
-
 It's solo, solo, everybody
 It's solo, everybody
 It's solo, solo, everybody
@@ -151,6 +155,3 @@ It's solo, solo, everybody
 I do it solo
 
 So I do it solo
-
-
-

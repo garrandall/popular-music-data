@@ -1,8 +1,11 @@
 ---
+album: It's Our Thing
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:3ZxfehzRtB3oJcBuxWXFZQ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-your-thing-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-its-your-thing-lyrics
 name: It's Your Thing
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 169293
 ---
 It's your thing, do what you wanna do
 I can't tell you who to sock it to

@@ -1,9 +1,12 @@
 ---
+album: Bionic (Deluxe Version)
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:3bvVm2LbaW5OHN4llakfmY
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: woohoo-christina-aguilera-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/woohoo.html
 name: Woohoo
@@ -16,9 +19,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 328280
 ---
-
-
 You know you really wanna (hey), wanna taste my
 You know you wanna get a peek wanna see my
 You know you wanna put your lips where my hips are
@@ -123,6 +126,3 @@ If you gotta sweet (woohoo)
 Let me hear you scream (woohoo)
 But bitches keep it clean (woohoo)
 Woohoo
-
-
-

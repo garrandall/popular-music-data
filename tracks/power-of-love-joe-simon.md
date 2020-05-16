@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2z3cD4AL82fu1qRE4OjTlw
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love-joe-simon
 lyrics_url: https://genius.com/Joe-simon-power-of-love-lyrics
 name: Power Of Love
@@ -67,6 +70,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 178436
 ---
 Whoa-yeah, baby, sugar
 Honey, sweet darlin', I'm yours

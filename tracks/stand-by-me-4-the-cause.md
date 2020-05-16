@@ -1,8 +1,11 @@
 ---
+album: Disco BBQ 2017
 artists:
 - 4 The Cause
+external_ids:
+  spotify: spotify:track:6ayxaDStavOn5gJzlw6S84
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-4-the-cause
 lyrics_url: https://genius.com/4-the-cause-stand-by-me-lyrics
 name: Stand By Me
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-09-19'
+release_year: 1998
+runtime: 223207
 ---
 When the night has come
 When the night has come and the land is dark

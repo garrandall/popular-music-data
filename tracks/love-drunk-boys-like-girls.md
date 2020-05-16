@@ -1,8 +1,11 @@
 ---
+album: Love Drunk
 artists:
 - Boys Like Girls
+external_ids:
+  spotify: spotify:track:6736wD8j2vi0XDxoNRI4Nk
 features: []
-genres: []
+first_released_as_single: true
 key: love-drunk-boys-like-girls
 lyrics_url: https://genius.com/Boys-like-girls-love-drunk-lyrics
 name: Love Drunk
@@ -87,6 +90,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 227520
 ---
 Hey, hey, hey, hey!
 

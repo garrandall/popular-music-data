@@ -1,8 +1,11 @@
 ---
+album: 'Beverly Hills Cop: Music From The Motion Picture Soundtrack'
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:4yVYOpNP5OBi0YyieRL33O
 features: []
-genres: []
+first_released_as_single: true
 key: the-heat-is-on-glenn-frey
 lyrics_url: https://genius.com/Glenn-frey-the-heat-is-on-soundtrack-version-lyrics
 name: The Heat Is On
@@ -103,6 +106,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 226666
 ---
 The heat is on, on the street
 Inside your head, on every beat

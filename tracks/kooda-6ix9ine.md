@@ -1,8 +1,11 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:5NT0aZqWImC9fTzkW4z48o
 features: []
-genres: []
+first_released_as_single: true
 key: kooda-6ix9ine
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/kooda.html
 name: Kooda
@@ -43,8 +46,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2017
+runtime: 142582
 ---
-
 Scum Gang
 
 Niggas runnin' out they mouth but they never pop out
@@ -99,6 +103,3 @@ All my niggas really gang bang, talk that damn slang
 Rap about it, do the same thing, let your nuts hang
 We gon' pull up, nigga Â¡Ã¡ndale!, on sangre
 We post up, we don't do the race, you gon' die today
-
-
-

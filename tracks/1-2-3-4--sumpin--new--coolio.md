@@ -1,8 +1,11 @@
 ---
+album: Gangsta's Paradise
 artists:
 - Coolio
+external_ids:
+  spotify: spotify:track:3aln8WgAUps6efYtdEYxP3
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-4--sumpin--new--coolio
 lyrics_url: https://www.azlyrics.com/lyrics/coolio/1234sumpinnew.html
 name: 1 2 3 4 (Sumpin' New)
@@ -91,8 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1995
+runtime: 214306
 ---
-
 This is some of the lingua-fringa of da funk business,
 And people come from miles around with an almost religious
 devotion to get on down...
@@ -165,4 +169,3 @@ I got size in my rise and the motion for your ocean
 Coolio got the potion to kick the party open
 slide, slide, but that's the past
 I got sumpin' brand new for that ass.
-

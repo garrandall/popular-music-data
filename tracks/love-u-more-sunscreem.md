@@ -1,8 +1,11 @@
 ---
+album: '03'
 artists:
 - Sunscreem
+external_ids:
+  spotify: spotify:track:2dijmgOCRcOLny3u90Q88U
 features: []
-genres: []
+first_released_as_single: false
 key: love-u-more-sunscreem
 lyrics_url: https://www.musixmatch.com/lyrics/Sunscreem/Love-U-More
 name: Love U More
@@ -83,6 +86,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 251680
 ---
 You can make the sun turn purple
 You can make the sea turn turtle

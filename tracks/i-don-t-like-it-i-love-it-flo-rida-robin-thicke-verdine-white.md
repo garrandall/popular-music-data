@@ -1,10 +1,13 @@
 ---
+album: My House
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:2S5LNtRVRPbXk01yRQ14sZ
 features:
 - Robin Thicke
 - Verdine White
-genres: []
+first_released_as_single: false
 key: i-don-t-like-it-i-love-it-flo-rida-robin-thicke-verdine-white
 lyrics_url: https://genius.com/Flo-rida-i-dont-like-it-i-love-it-lyrics
 name: I Don't Like It I Love It
@@ -65,6 +68,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
+release_year: 2015
+runtime: 224258
 ---
 I don't like it, I love it, love it, love it, uh oh
 So good it hurts

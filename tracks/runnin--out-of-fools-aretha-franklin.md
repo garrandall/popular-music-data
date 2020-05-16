@@ -1,8 +1,11 @@
 ---
+album: Runnin' Out of Fools
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0MCH9gCM4CphdKB6NWivyQ
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--out-of-fools-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/runninoutoffools.html
 name: Runnin' Out Of Fools
@@ -47,8 +50,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 152960
 ---
-
 Sure you haven't got the wrong number
 You sure its me you wanna talk to tonight?
 Everyone in town's got your number
@@ -87,6 +91,3 @@ Even fools like me
 Even fools like me
 I said you're running out of fools
 Even old fools like me
-
-
-

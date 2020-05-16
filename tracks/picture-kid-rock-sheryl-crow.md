@@ -1,9 +1,12 @@
 ---
+album: Cocky
 artists:
 - Kid Rock
+external_ids:
+  spotify: spotify:track:69j0KoPJuwpnbGWrfn7Yll
 features:
 - Sheryl Crow
-genres: []
+first_released_as_single: false
 key: picture-kid-rock-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/kidrock/picture.html
 name: Picture
@@ -144,9 +147,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2001
+runtime: 298960
 ---
-
-
 Livin' my life in a slow hell
 Different girl every night at the hotel
 I ain't seen the sun shine in three damn days
@@ -213,6 +216,3 @@ I swear I'll change my ways
 I just called to say I want you to come back home
 
 I just called to say, I love you come back home
-
-
-

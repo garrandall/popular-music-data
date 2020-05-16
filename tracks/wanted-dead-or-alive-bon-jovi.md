@@ -1,8 +1,11 @@
 ---
+album: Slippery When Wet
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0oerlffJSzhRVvtDfLcp3N
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-dead-or-alive-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-wanted-dead-or-alive-lyrics
 name: Wanted Dead Or Alive
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1986
+runtime: 308666
 ---
 It's all the same, only the names will change
 Everyday it seems we're wasting away

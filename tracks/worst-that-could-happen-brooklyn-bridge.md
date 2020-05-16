@@ -1,8 +1,11 @@
 ---
+album: Brooklyn Bridge
 artists:
 - Brooklyn Bridge
+external_ids:
+  spotify: spotify:track:3qXM7Lz5hcYnpTj4IXvFld
 features: []
-genres: []
+first_released_as_single: false
 key: worst-that-could-happen-brooklyn-bridge
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Maestro-The-Brooklyn-Bridge/Worst-That-Could-Happen
 name: Worst That Could Happen
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1962
+runtime: 186226
 ---
 Girl, I heard you're getting married
 Heard you're getting married, this time you're really sure

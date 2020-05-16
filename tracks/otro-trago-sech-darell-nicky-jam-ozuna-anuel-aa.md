@@ -1,12 +1,15 @@
 ---
+album: Otro Trago (Remix)
 artists:
 - Sech
 - Darell
 - Nicky Jam
 - Ozuna
 - Anuel AA
+external_ids:
+  spotify: spotify:track:4bTZeO72FwMa6wKOiqoynL
 features: []
-genres: []
+first_released_as_single: true
 key: otro-trago-sech-darell-nicky-jam-ozuna-anuel-aa
 lyrics_url: https://genius.com/Genius-english-translations-sech-ozuna-and-anuel-aa-otro-trago-remix-ft-darell-and-nicky-jam-english-tranaslation-lyrics
 name: Otro Trago
@@ -91,6 +94,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 287773
 ---
 Keep here taking another dri-
 (¡This is the remix!)

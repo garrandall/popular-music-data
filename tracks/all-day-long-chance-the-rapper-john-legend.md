@@ -1,9 +1,12 @@
 ---
+album: The Big Day
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:1g3ErLqysBJ5EIGdYYMWFZ
 features:
 - John Legend
-genres: []
+first_released_as_single: false
 key: all-day-long-chance-the-rapper-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/chancetherapper/alldaylong.html
 name: All Day Long
@@ -12,9 +15,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 208238
 ---
-
-
 Yup
 And we back (Igh)
 Na-na-na (Igh)
@@ -101,6 +104,3 @@ Baby, all day long (Oh, I...)
 Baby, all day long (Yeah)
 Baby, all day long
 Baby, all day long
-
-
-

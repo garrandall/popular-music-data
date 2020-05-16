@@ -1,8 +1,11 @@
 ---
+album: Messenger
 artists:
 - Edwin McCain
+external_ids:
+  spotify: spotify:track:14J3PO0VnhtcRa31r7Aj1L
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-not-ask-for-more-edwin-mccain
 lyrics_url: https://www.azlyrics.com/lyrics/edwinmccain/icouldnotaskformore.html
 name: I Could Not Ask For More
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-11-06'
+release_year: 1999
+runtime: 273573
 ---
-
 Lying here with you 
 Listening to the rain 
 Smiling just to see the smile upon your face 
@@ -124,6 +128,3 @@ I could not ask for more than the love you give me
 'Coz it's all I've waited for 
 And I could not ask for more 
 I could not ask for more
-
-
-

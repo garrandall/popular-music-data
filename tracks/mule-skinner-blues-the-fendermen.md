@@ -1,8 +1,11 @@
 ---
+album: Mule Skinner Blues
 artists:
 - The Fendermen
+external_ids:
+  spotify: spotify:track:5KPCpGCjdjvXdsXy89AQSQ
 features: []
-genres: []
+first_released_as_single: false
 key: mule-skinner-blues-the-fendermen
 lyrics_url: https://genius.com/The-fendermen-mule-skinner-blues-lyrics
 name: Mule Skinner Blues
@@ -79,6 +82,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 148333
 ---
 Well, good morning, Captain
 Well, good morning to you

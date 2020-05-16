@@ -1,8 +1,11 @@
 ---
+album: Blackbyrd
 artists:
 - Donald Byrd
+external_ids:
+  spotify: spotify:track:4EemH5m9zrfoyspVPKbwJg
 features: []
-genres: []
+first_released_as_single: false
 key: black-byrd-donald-byrd
 lyrics_url: https://genius.com/Donald-byrd-black-byrd-lyrics
 name: Black Byrd
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 441040
 ---
 Walking along playing a song
 Walk along, starting us off

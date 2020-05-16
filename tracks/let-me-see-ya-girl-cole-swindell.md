@@ -1,8 +1,11 @@
 ---
+album: Cole Swindell
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:3y1t2sEahs8idFz2tiYNPO
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-see-ya-girl-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/letmeseeyagirl.html
 name: Let Me See Ya Girl
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2014
+runtime: 187586
 ---
-
 Yeah, you got every guy in here
 Spinnin' around, spillin' their beer
 I bet you came out to have a good time
@@ -132,6 +136,3 @@ That's how I wanna see you, girl
 Yeah, let me see you, girl
 
 Come on, come on, come on, let me see you, girl
-
-
-

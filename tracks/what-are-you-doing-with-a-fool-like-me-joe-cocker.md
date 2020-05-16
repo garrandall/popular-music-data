@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker Live
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:1ADmyvNaireK0kH2xNdVyO
 features: []
-genres: []
+first_released_as_single: false
 key: what-are-you-doing-with-a-fool-like-me-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-what-are-you-doing-with-a-fool-like-me-lyrics
 name: What Are You Doing With A Fool Like Me
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1990
+runtime: 290160
 ---
 Sometimes I watch you
 As you're sleeping

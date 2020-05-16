@@ -1,8 +1,11 @@
 ---
+album: Some Tough City
 artists:
 - Tony Carey
+external_ids:
+  spotify: spotify:track:0tyzH2HadIm4eMKZVB8DkO
 features: []
-genres: []
+first_released_as_single: false
 key: a-fine-fine-day-tony-carey
 lyrics_url: https://genius.com/Tony-carey-a-fine-fine-day-lyrics
 name: A Fine Fine Day
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1984
+runtime: 265600
 ---
 When my Uncle Sonny blew back into town
 Said "I'll just go for a ride

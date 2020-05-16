@@ -1,8 +1,11 @@
 ---
+album: Love Me For A Reason
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:1rdEDyNqQb7AsG193Q58Fl
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-for-a-reason-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-love-me-for-a-reason-lyrics
 name: Love Me For A Reason
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
+release_year: 1974
+runtime: 243813
 ---
 Girl when you hold me
 How you control me

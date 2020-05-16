@@ -1,8 +1,11 @@
 ---
+album: For Real Tho'
 artists:
 - Levert
+external_ids:
+  spotify: spotify:track:3msTYr3qkU0vN4Rb9J8zUU
 features: []
-genres: []
+first_released_as_single: false
 key: abc-123-levert
 lyrics_url: https://genius.com/Levert-abc-123-lyrics
 name: ABC-123
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-09-25'
+release_year: 1993
+runtime: 355933
 ---
 See, there comes a time in every
 Man's life when he's got to fall in love

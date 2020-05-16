@@ -1,8 +1,11 @@
 ---
+album: Modern Times
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:4wF2bTARfLo0uFQngz1PNk
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/stranger.html
 name: Stranger
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 283280
 ---
-
 Raindrops falling 
 Winter feels so gloomy 
 Hear a knock upon my door 
@@ -92,6 +96,3 @@ Should I know your name
 Did we meet some time ago 
 Are you someone I should know 
 Did we meet some time ago
-
-
-

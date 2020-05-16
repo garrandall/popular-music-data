@@ -1,8 +1,11 @@
 ---
+album: Down In The Boondocks - 20 Great Songs
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:3CJHm3a6hgq2gorIjhH2Pj
 features: []
-genres: []
+first_released_as_single: false
 key: campfire-girls-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-campfire-girls-lyrics
 name: Campfire Girls
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 149373
 ---
 You better go join the Campfire Girls
 Take a few piano lessons

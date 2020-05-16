@@ -1,9 +1,12 @@
 ---
+album: Pray
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:3n3b5WNEohHP7Ou4ndBo6b
 features:
 - Logic
-genres: []
+first_released_as_single: true
 key: pray-sam-smith-logic
 lyrics_url: https://genius.com/Sam-smith-pray-remix-lyrics
 name: Pray
@@ -16,6 +19,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
+release_year: 2017
+runtime: 221760
 ---
 They never knew my struggle
 Rose above the rubble

@@ -1,10 +1,13 @@
 ---
+album: The Price Of Fame
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:3LGeYNY9aWQuBJovOOowqm
 features:
 - T-Pain
 - Johnta Austin
-genres: []
+first_released_as_single: false
 key: outta-my-system-bow-wow-t-pain-johnta-austin
 lyrics_url: https://genius.com/Bow-wow-outta-my-system-lyrics
 name: Outta My System
@@ -89,6 +92,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2006
+runtime: 238266
 ---
 Oh, Damn!
 I mean I just keep thinkin about you (awww baby)

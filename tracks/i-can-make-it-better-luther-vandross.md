@@ -1,8 +1,11 @@
 ---
+album: Your Secret Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:70NmePXQxL3b688VuLSFae
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-make-it-better-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-i-can-make-it-better-lyrics
 name: I Can Make It Better
@@ -47,6 +50,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1997-02-22'
+release_year: 1996
+runtime: 335480
 ---
 Well, once again, my love
 It's time for you to go

@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2cZGFVhPogaxV2eYm1V7KS
 features: []
-genres: []
+first_released_as_single: false
 key: some-things-never-change-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/somethingsneverchange.html
 name: Some Things Never Change
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
+release_year: 1999
+runtime: 236600
 ---
-
 After all this time I still miss you everyday
 The same world spins 'round
 I guess some things never change
@@ -89,6 +93,3 @@ Girl I'm still in love with you
 I guess some things never change
 
 I still love you
-
-
-

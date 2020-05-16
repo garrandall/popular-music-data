@@ -1,8 +1,11 @@
 ---
+album: Rock a Little
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:1PAnGhRo2tHpM2DNibEEe6
 features: []
-genres: []
+first_released_as_single: false
 key: has-anyone-ever-written-anything-for-you-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/hasanyoneeverwrittenanythingforyou.html
 name: Has Anyone Ever Written Anything For You
@@ -31,8 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1986
+runtime: 279413
 ---
-
 Has anyone ever written anything for you
 In all your darkest hours
 Have you ever heard me sing
@@ -70,6 +74,3 @@ If not for me then
 Do it for the world
 Poet... priest of nothing
 Poet... priest of nothing
-
-
-

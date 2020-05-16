@@ -1,8 +1,11 @@
 ---
+album: Venni Vetti Vecci
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:27te5wEv1SXij9SP9d1Rib
 features: []
-genres: []
+first_released_as_single: false
 key: holla-holla-ja-rule
 lyrics_url: https://genius.com/Ja-rule-holla-holla-lyrics
 name: Holla Holla
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
+release_year: 1999
+runtime: 264533
 ---
 (Holla, holla)
 All my niggas that's ready to get (dollars, dollars)

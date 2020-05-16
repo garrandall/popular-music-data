@@ -1,8 +1,11 @@
 ---
+album: 5-10-15-20 (25-30 Years of Love)
 artists:
 - The Presidents
+external_ids:
+  spotify: spotify:track:32K61QzaFuPzsAQRd2a4OV
 features: []
-genres: []
+first_released_as_single: false
 key: 5-10-15-20--25-30-years-of-love--the-presidents
 lyrics_url: https://www.musixmatch.com/lyrics/The-Presidents/5-10-15-20-25-30-Years-of-Love
 name: 5-10-15-20 (25-30 Years Of Love)
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
+release_year: 1970
+runtime: 193026
 ---
 The Presidents
 Miscellaneous

@@ -1,9 +1,12 @@
 ---
+album: How Deep Is Your Love
 artists:
 - Calvin Harris
 - Disciples
+external_ids:
+  spotify: spotify:track:22mek4IiqubGD9ctzxc69s
 features: []
-genres: []
+first_released_as_single: true
 key: how-deep-is-your-love-calvin-harris-disciples
 lyrics_url: https://genius.com/Calvin-harris-how-deep-is-your-love-lyrics
 name: How Deep Is Your Love
@@ -88,6 +91,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 212640
 ---
 I want you to breathe me
 Let me be your air

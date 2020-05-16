@@ -1,8 +1,11 @@
 ---
+album: Exotic Birds and Fruit
 artists:
 - Procol Harum
+external_ids:
+  spotify: spotify:track:3s9BMeZYF2Y1uPlj8lfWBP
 features: []
-genres: []
+first_released_as_single: false
 key: homburg-procol-harum
 lyrics_url: https://www.azlyrics.com/lyrics/procolharum/homburg.html
 name: Homburg
@@ -27,8 +30,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 266920
 ---
-
 Your multilingual business friend
 has packed her bags and fled
 Leaving only ash-filled ashtrays
@@ -49,6 +53,3 @@ both themselves and also any fool
 who dares to tell the time
 And the sun and moon will shatter
 and the signposts cease to sign
-
-
-

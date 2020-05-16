@@ -1,8 +1,11 @@
 ---
+album: Up, Up And Away
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:22ajmorGB394NsdoMXYhaD
 features: []
-genres: []
+first_released_as_single: false
 key: go-where-you-wanna-go-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/gowhereyouwannago.html
 name: Go Where You Wanna Go
@@ -47,8 +50,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 142653
 ---
-
 You gotta go where you wanna go
 Do what you wanna do
 With whomever you wanna do it with
@@ -78,6 +82,3 @@ Not to be the cryin' kind, not to be the girl you left behind
 You gotta go where you wanna go
 Do what you wanna do
 With whomever you wanna do it with
-
-
-

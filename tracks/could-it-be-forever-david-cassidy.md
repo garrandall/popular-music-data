@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - David Cassidy
+external_ids:
+  spotify: spotify:track:1DZN6RZKbKdiewj3o1WLbL
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-forever-david-cassidy
 lyrics_url: https://www.azlyrics.com/lyrics/davidcassidy/coulditbeforever.html
 name: Could It Be Forever
@@ -43,8 +46,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 138440
 ---
-
 Could it be forever
 Or is my mind just rambling on
 Well I touched you once and I kissed you once
@@ -80,6 +84,3 @@ Well I feel like you're mine
 And I see in your face I'm not wrong to have these feelings
 Well I feel like you're mine and I've never known a time before
 That's had so many meanings
-
-
-

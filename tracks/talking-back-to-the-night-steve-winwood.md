@@ -1,8 +1,11 @@
 ---
+album: Talking Back To The Night
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:09rPMrDjbJw8RUef9TXh7N
 features: []
-genres: []
+first_released_as_single: false
 key: talking-back-to-the-night-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/talkingbacktothenight.html
 name: Talking Back To The Night
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1982
+runtime: 343000
 ---
-
 High above the heat of a summer New York street
 An out-of-work musician plays a solo saxophone
 He's a preacher and a teacher
@@ -78,6 +82,3 @@ Woman never minds, pulls the shade and draws the blinds
 She takes him in the darkness where the loneliest can feed
 She gives him all she has to
 And it's no more than he needs
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4nuk4c4QdrxGVROylbgE2P
 features: []
-genres: []
+first_released_as_single: false
 key: show-some-respect-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/showsomerespect.html
 name: Show Some Respect
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-06-22'
+release_year: 1984
+runtime: 199213
 ---
-
 I MADE A RESOLUTION
 AND A PLAN TO DO MY WORK
 BUT I NEED YOU TO MAKE IT WORK
@@ -78,4 +82,3 @@ FOR THE THINGS THAT I LOVE ABOUT YOU
 FROM THE WOMAN THAT YOU SEE INSIDE
 DON`T LET IT WALK OUT THE DOOR
 LOVE FOLLOWS EVERY TIME
-

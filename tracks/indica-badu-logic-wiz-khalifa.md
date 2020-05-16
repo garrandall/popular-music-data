@@ -1,9 +1,12 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:0jqBo5RYn008f4ZY8kPewW
 features:
 - Wiz Khalifa
-genres: []
+first_released_as_single: false
 key: indica-badu-logic-wiz-khalifa
 lyrics_url: https://www.azlyrics.com/lyrics/logic/indicabadu.html
 name: Indica Badu
@@ -12,9 +15,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 260320
 ---
-
-
 Yeah, yeah, SlayDro!
 This that J Dilla right here
 Badu, Indica Badu
@@ -115,6 +118,3 @@ Yeah, and if you don't know by now - I smoke weed!
 He ain't gonna give me the laugh though?
 "Hahahaha," that shit iconic
 Yeah, yeah, yeah, Indica Badu
-
-
-

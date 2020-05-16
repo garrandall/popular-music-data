@@ -1,8 +1,11 @@
 ---
+album: Let's Dance!
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:0fFY4JvHfSkChtwlGNtE38
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-me-the-drifters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Drifters/Dance-With-Me
 name: Dance With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 145546
 ---
 Dance with me
 Dance with me

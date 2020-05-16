@@ -1,7 +1,8 @@
 ---
 artists:
-- El DeBarge With DeBarge
-features: []
+- El DeBarge
+features:
+- DeBarge
 genres: []
 key: you-wear-it-well-el-debarge-with-debarge
 name: You Wear It Well

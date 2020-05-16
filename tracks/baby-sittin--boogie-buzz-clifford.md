@@ -1,8 +1,11 @@
 ---
+album: Baby Sittin'
 artists:
 - Buzz Clifford
+external_ids:
+  spotify: spotify:track:1slM0ReqNDX2j0CE4E4Spi
 features: []
-genres: []
+first_released_as_single: false
 key: baby-sittin--boogie-buzz-clifford
 lyrics_url: https://genius.com/Buzz-clifford-baby-sittin-boogie-lyrics
 name: Baby Sittin' Boogie
@@ -63,6 +66,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
+release_year: 1961
+runtime: 127426
 ---
 (gggggggggggggggg da da da-da-da-da!)
 My girl baby sister saw it on her block

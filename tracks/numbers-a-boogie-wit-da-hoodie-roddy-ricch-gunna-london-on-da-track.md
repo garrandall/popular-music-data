@@ -1,11 +1,14 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:0L0lFq8Dd9LfPhYKnQFTIA
 features:
 - Roddy Ricch
 - Gunna
 - London On Da Track
-genres: []
+first_released_as_single: false
 key: numbers-a-boogie-wit-da-hoodie-roddy-ricch-gunna-london-on-da-track
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-numbers-lyrics
 name: Numbers
@@ -22,6 +25,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 188563
 ---
 We got London on da Track
 

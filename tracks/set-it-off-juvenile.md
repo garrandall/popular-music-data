@@ -1,8 +1,11 @@
 ---
+album: Project English
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:44LFap7VrB4356vfbQOZHg
 features: []
-genres: []
+first_released_as_single: false
 key: set-it-off-juvenile
 lyrics_url: https://genius.com/Juvenile-set-it-off-lyrics
 name: Set It Off
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-11-17'
+release_year: 2001
+runtime: 257000
 ---
 KICK ASS!
 (Mmm-hm) C'mon

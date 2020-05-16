@@ -1,8 +1,11 @@
 ---
+album: Live Radio Broadcast
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:62JeaDOGr6JMZm0AegXeBD
 features: []
-genres: []
+first_released_as_single: false
 key: chip-away-the-stone-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/chipawaythestone.html
 name: Chip Away The Stone
@@ -19,8 +22,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 248093
 ---
-
 Well your actin' like a prima donna
 Playin' so hard to get
 Actin' so cool and nonchalant
@@ -84,6 +88,3 @@ I won't stop
 Won't stop
 
 Chip it, I'm gonna nip it, all night long
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: How Country Feels
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:2eQQ7YHhROyqSPiMrTOuum
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-cowboy-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/likeacowboy.html
 name: Like A Cowboy
@@ -63,8 +66,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2013
+runtime: 262133
 ---
-
 Every time I fall I get back up again
 Cinch my saddle up and find me another wind
 Let it take me where it wants to go
@@ -115,6 +119,3 @@ Like a cowboy
 
 Every time I fall I get back up again
 Cinch my saddle up and find me another wind
-
-
-

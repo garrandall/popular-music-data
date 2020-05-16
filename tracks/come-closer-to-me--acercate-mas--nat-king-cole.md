@@ -1,8 +1,11 @@
 ---
+album: The Classic Singles
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:4EWzX1rNaid4E8sULZd1UZ
 features: []
-genres: []
+first_released_as_single: false
 key: come-closer-to-me--acercate-mas--nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-acercate-mas-come-closer-to-me-lyrics
 name: Come Closer To Me (Acercate Mas)
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 168360
 ---
 Acércate más
 Y más, y más

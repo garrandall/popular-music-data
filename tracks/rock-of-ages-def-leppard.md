@@ -1,8 +1,11 @@
 ---
+album: Pyromania
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:2AmEv442DGwSxMGZ9XEvBA
 features: []
-genres: []
+first_released_as_single: false
 key: rock-of-ages-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/rockofages.html
 name: Rock Of Ages
@@ -67,8 +70,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 247828
 ---
-
 Gunter glieben glausen globen
 All right
 I got something to say
@@ -136,6 +140,3 @@ We're gonna burn this damn place down
 Down to the ground
 
 Heh heh heh heh heh heh heh heh heh heh heh heh
-
-
-

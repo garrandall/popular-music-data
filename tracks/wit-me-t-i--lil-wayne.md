@@ -1,9 +1,12 @@
 ---
+album: Wit Me  - Single
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:4FMtPpDo4l4AJitaFxvaMV
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: wit-me-t-i--lil-wayne
 lyrics_url: https://genius.com/Ti-wit-me-lyrics
 name: Wit Me
@@ -16,6 +19,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2013
+runtime: 305080
 ---
 Bitch! Put my dick on yo face, put my gun in yo purse
 Put my work in yo pussy, bitch don’t cum on the work

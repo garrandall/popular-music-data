@@ -1,9 +1,12 @@
 ---
+album: Time Out For Smokey Robinson & The Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:4CkVs6jrJc67kaU6qj73J9
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-go-again-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/hereigoagain.html
 name: Here I Go Again
@@ -44,8 +47,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 177733
 ---
-
 Saw you there and your laughter seemed to fill the air
 A scent like perfume from your lovely hair
 I said that I do adore
@@ -72,6 +76,3 @@ Here I go again walking into love
 
 Here I go, here I go
 Here I go, here I go again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Swing Batta Swing!
 artists:
 - K7
+external_ids:
+  spotify: spotify:track:2s0M4nflkOKvUJPHzMj9fL
 features: []
-genres: []
+first_released_as_single: false
 key: move-it-like-this-k7
 lyrics_url: https://genius.com/K7-move-it-like-this-lyrics
 name: Move It Like This
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
+release_year: 1993
+runtime: 325000
 ---
 Smooth!
 

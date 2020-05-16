@@ -1,8 +1,11 @@
 ---
+album: Dreams/Answers
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:0g47wleoXKLePsUPRDrSMf
 features: []
-genres: []
+first_released_as_single: false
 key: get-ready-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/getready.html
 name: Get Ready
@@ -87,8 +90,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1968
+runtime: 174720
 ---
-
 Never met a girl could make me feel the way that you do
 Whenever I'm asked what makes my dreams real, I tell 'em you do
 Well, tweedlee dee, tweedlee dum, look out, baby, 'cause here I come
@@ -114,6 +118,3 @@ I'm bringin' you a love that's true, get ready
 I'll start makin' love to you, get ready
 Don't you know I'm coming
 On my way
-
-
-

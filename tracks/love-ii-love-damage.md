@@ -1,8 +1,11 @@
 ---
+album: Forever
 artists:
 - Damage
+external_ids:
+  spotify: spotify:track:1m1xRfGOhuGUdgbqfU0U0B
 features: []
-genres: []
+first_released_as_single: false
 key: love-ii-love-damage
 lyrics_url: https://genius.com/Damage-love-ii-love-lyrics
 name: Love II Love
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
+release_year: 1997
+runtime: 267093
 ---
 Oh
 Oh yeah

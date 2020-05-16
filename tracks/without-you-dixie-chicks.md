@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:5ucNGmVbZo3ZdUe1gpTgbF
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/withoutyou.html
 name: Without You
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2001-02-17'
+release_year: 1999
+runtime: 210533
 ---
-
 I've sure enjoyed the rain
 but I'm looking forward to the sun
 You have to feel the pain
@@ -131,6 +135,3 @@ I've lost my way
 My heart's stuck
 in second place oh
 Without you...Without you
-
-
-

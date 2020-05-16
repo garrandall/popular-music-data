@@ -1,8 +1,11 @@
 ---
+album: Cuts Like A Knife
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:5eaK7PLGwyDXmHfTdWZZuE
 features: []
-genres: []
+first_released_as_single: false
 key: straight-from-the-heart-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/straightfromtheheart.html
 name: Straight From The Heart
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1983
+runtime: 211933
 ---
-
 I could start dreamin' but it never ends
 As long as you're gone we may as well pretend
 I've been dreamin'
@@ -129,6 +133,3 @@ Give it to me oh no oh no straight from the heart
 You know I'll never go
 As long as I know
 It's coming straight from the heart
-
-
-

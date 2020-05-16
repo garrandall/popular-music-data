@@ -1,8 +1,11 @@
 ---
+album: The Complete Best Of
 artists:
 - Barry Mann
+external_ids:
+  spotify: spotify:track:4L5XnD2PMJrc9A4Mcp1asi
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-baby-barry-mann
 lyrics_url: https://www.musixmatch.com/lyrics/Barry-Mann/Talk-to-Me-Baby
 name: Talk To Me Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 138106
 ---
 Hey, pretty please now
 Talk to me, baby

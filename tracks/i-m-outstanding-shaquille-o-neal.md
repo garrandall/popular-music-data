@@ -1,8 +1,11 @@
 ---
+album: Shaq Diesel
 artists:
 - Shaquille O'Neal
+external_ids:
+  spotify: spotify:track:1bNdtZeHdLoi5KuilQTqVn
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-outstanding-shaquille-o-neal
 lyrics_url: https://genius.com/Shaquille-oneal-im-outstanding-lyrics
 name: I'm Outstanding
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1993
+runtime: 247506
 ---
 I was born three-six-seventy-two, I think it's on a Wednesday
 Hail to the moon, just like Kunta Kinte

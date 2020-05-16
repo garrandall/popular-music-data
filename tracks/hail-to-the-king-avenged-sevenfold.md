@@ -1,8 +1,11 @@
 ---
+album: Hail to the King
 artists:
 - Avenged Sevenfold
+external_ids:
+  spotify: spotify:track:5anCkDvJ17aznvK5TED5uo
 features: []
-genres: []
+first_released_as_single: false
 key: hail-to-the-king-avenged-sevenfold
 lyrics_url: https://www.azlyrics.com/lyrics/avengedsevenfold/hailtotheking.html
 name: Hail To The King
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 305906
 ---
-
 Watch your tongue or have it cut from your head
 Save your life by keeping whispers unsaid
 Children roam the streets, now orphans of war
@@ -76,6 +80,3 @@ Hail to the king!
 Hail!
 Hail!
 Hail!
-
-
-

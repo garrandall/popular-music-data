@@ -1,8 +1,11 @@
 ---
+album: Carry On
 artists:
 - Chris Cornell
+external_ids:
+  spotify: spotify:track:4MR9iW77LJoPPDjwAYbIZZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-my-name-chris-cornell
 lyrics_url: https://www.azlyrics.com/lyrics/chriscornell/youknowmyname.html
 name: You Know My Name
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 240226
 ---
-
 If you take a life, do you know what you'll give
 Odds are, you won't like what it is
 When the storm arrives, would you be seen with me 
@@ -77,6 +81,3 @@ You know my name
 You know my name!
 You know my name!
 You know my name!
-
-
-

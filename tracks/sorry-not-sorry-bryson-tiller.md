@@ -1,8 +1,11 @@
 ---
+album: T R A P S O U L
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:1TK6MwCSTO4c8ackS4CQ01
 features: []
-genres: []
+first_released_as_single: true
 key: sorry-not-sorry-bryson-tiller
 lyrics_url: https://genius.com/Bryson-tiller-sorry-not-sorry-lyrics
 name: Sorry Not Sorry
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 201053
 ---
 Fight!
 Hey

@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:2MMZ1Llts0rTaU834P2Xct
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-fall-you-re-going-down-with-me-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-if-i-fall-youre-going-down-with-me-lyrics
 name: If I Fall You're Going Down With Me
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 1999
+runtime: 183200
 ---
 Was it the pull of the moon now baby
 That led you to my door

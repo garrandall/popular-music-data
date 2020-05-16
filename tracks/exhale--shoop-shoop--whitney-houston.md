@@ -1,8 +1,11 @@
 ---
+album: Exhale
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:1X3ypzPnyerpZuMqrDFK29
 features: []
-genres: []
+first_released_as_single: true
 key: exhale--shoop-shoop--whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/exhaleshoopshoop.html
 name: Exhale (Shoop Shoop)
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1996-04-13'
+release_year: 1995
+runtime: 204333
 ---
-
 Everyone falls in love sometime
 Sometimes it's wrong
 And sometimes it's right
@@ -149,6 +153,3 @@ Shoo Be Doop Shoop Shoop (Shoo be doop doop doop hoo hoo hoo)
 Shoo Be Doop Shoop Shoop (do do shoo be shoo be feels alright)
 Shoo Be Doop Shoop Shoop (You can say oh)
 Shoo Be Doo
-
-
-

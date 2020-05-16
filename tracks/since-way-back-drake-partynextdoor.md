@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5JUu0unA8VwhTZ9LkMWUVI
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: false
 key: since-way-back-drake-partynextdoor
 lyrics_url: https://www.azlyrics.com/lyrics/drake/sincewayback.html
 name: Since Way Back
@@ -12,8 +15,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2017
+runtime: 368035
 ---
-
 Yeah
 
 
@@ -102,6 +106,3 @@ Gotta let me know something
 What are you on?
 Gotta let me know something
 Wonder how you've been, babe
-
-
-

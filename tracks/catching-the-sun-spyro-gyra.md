@@ -1,8 +1,11 @@
 ---
+album: Catching the Sun
 artists:
 - Spyro Gyra
+external_ids:
+  spotify: spotify:track:31lmQKukCAolRicff7wD4N
 features: []
-genres: []
+first_released_as_single: false
 key: catching-the-sun-spyro-gyra
 lyrics_url: https://genius.com/Spyro-gyra-catching-the-sun-lyrics
 name: Catching The Sun
@@ -27,5 +30,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 281946
 ---
 INSTRUMENTAL

@@ -1,8 +1,11 @@
 ---
+album: Olivia's Live Hits
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:56BSwBKWHYldQOgYLHiehs
 features: []
-genres: []
+first_released_as_single: false
 key: magic-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/magic.html
 name: Magic
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
+release_year: 1980
+runtime: 271666
 ---
-
 Come take my hand
 You should know me
 I've always been in your mind
@@ -141,6 +145,3 @@ And if all your hopes survive
 Your destiny will arrive
 I'll bring all your dreams alive
 For you
-
-
-

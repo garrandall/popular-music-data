@@ -1,8 +1,11 @@
 ---
+album: Fandango!
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:6zGDIDjfDkPyNxrEERO3XG
 features: []
-genres: []
+first_released_as_single: false
 key: tush-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/tush.html
 name: Tush
@@ -43,8 +46,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 137933
 ---
-
 I been up, I been down.
 Take my word, my way around.
 I ain't askin' for much.
@@ -62,6 +66,3 @@ not by myself, not alone.
 I ain't askin' for much.
 I said, Lord, take me downtown,
 I'm just lookin' for some tush.
-
-
-

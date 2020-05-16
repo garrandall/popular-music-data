@@ -1,9 +1,12 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:490r1lg2turCiWsPAAxVBP
 features:
 - Skylar Grey
-genres: []
+first_released_as_single: false
 key: bed-of-lies-nicki-minaj-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/bedoflies.html
 name: Bed Of Lies
@@ -32,9 +35,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 269946
 ---
-
-
 Do you ever think of me when you lie
 Lie down in your bed, your bed of lies?
 And I knew better than to look in your eyes
@@ -107,6 +110,3 @@ And oh how you made me believe
 You had me caught in every web that you weaved
 But do you ever think of me when you lie
 Lie down in your bed, your bed of lies?
-
-
-

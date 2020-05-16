@@ -1,8 +1,11 @@
 ---
+album: Restless Nights
 artists:
 - Karla Bonoff
+external_ids:
+  spotify: spotify:track:6WearzOTuR0pEewHf1NR8E
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-go-karla-bonoff
 lyrics_url: https://genius.com/Karla-bonoff-baby-dont-go-lyrics
 name: Baby Don't Go
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1977
+runtime: 195493
 ---
 Chorus:
 You're takin' all I got and now you're leaving

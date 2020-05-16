@@ -1,8 +1,11 @@
 ---
+album: What If
 artists:
 - Tommy Shaw
+external_ids:
+  spotify: spotify:track:39VSnBKOP7zHeJS1cWXh3j
 features: []
-genres: []
+first_released_as_single: false
 key: remo-s-theme--what-if--tommy-shaw
 lyrics_url: https://genius.com/Tommy-shaw-remos-theme-what-if-lyrics
 name: Remo's Theme (What If)
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1985
+runtime: 262600
 ---
 There's a message I'm receiving
 And it's coming in clear

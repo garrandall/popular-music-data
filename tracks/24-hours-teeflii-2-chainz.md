@@ -1,9 +1,12 @@
 ---
+album: Starr
 artists:
 - TeeFLii
+external_ids:
+  spotify: spotify:track:7LWtfSW68VAkHp3hpcFDCY
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: true
 key: 24-hours-teeflii-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/teeflii/24hours.html
 name: 24 Hours
@@ -36,9 +39,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-10-25'
+release_year: 2014
+runtime: 215986
 ---
-
-
 Girl, don't hide that pussy
 You should be the type to provide that pussy
 And let a thug hit it
@@ -102,6 +105,3 @@ Girl I got 24 hours
 24 hours, it's just me and you
 I got 24 hours, 24 hours, 24 hours
 You won't have nothing on, for 24 hours!
-
-
-

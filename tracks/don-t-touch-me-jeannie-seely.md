@@ -1,8 +1,11 @@
 ---
+album: The Seely Style
 artists:
 - Jeannie Seely
+external_ids:
+  spotify: spotify:track:1Y2G8nl3CGR3qMPDDBuDhb
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-touch-me-jeannie-seely
 lyrics_url: https://genius.com/Jeannie-seely-dont-touch-me-lyrics
 name: Don't Touch Me
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 192960
 ---
 Your hand is like a torch, each time you touch me
 The look in your eyes pulls me apart

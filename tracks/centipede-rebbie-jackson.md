@@ -1,8 +1,11 @@
 ---
+album: Centipede
 artists:
 - Rebbie Jackson
+external_ids:
+  spotify: spotify:track:7dox9B92nanss0YuviceR9
 features: []
-genres: []
+first_released_as_single: false
 key: centipede-rebbie-jackson
 lyrics_url: https://genius.com/Rebbie-jackson-centipede-lyrics
 name: Centipede
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 270626
 ---
 Your love is like a raging fire
 You're a snake that's on the loose

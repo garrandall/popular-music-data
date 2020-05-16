@@ -1,8 +1,11 @@
 ---
+album: 3 Doors Down
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:7fKsaiVDwKe6VVsiGk48YG
 features: []
-genres: []
+first_released_as_single: false
 key: citizen-3-doors-down
 lyrics_url: https://www.azlyrics.com/lyrics/3doorsdown/citizensoldier.html
 name: Citizen
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2008
+runtime: 232906
 ---
-
 Beyond the boundaries of your city's lights,
 Stand the heroes waiting for your cries.
 So many times you did not bring this on yourself,
@@ -56,6 +60,3 @@ Citizen soldiers holding the light for the ones that we guide from the dark of d
 (Citizen soldiers)
 Standing on guard for the ones that we sheltered,
 We'll always be ready because we will always be there.
-
-
-

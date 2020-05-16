@@ -1,8 +1,11 @@
 ---
+album: Mahogany Soul
 artists:
 - Angie Stone
+external_ids:
+  spotify: spotify:track:2sNAjuCXxyj8jHt93t9IJ9
 features: []
-genres: []
+first_released_as_single: false
 key: brotha-angie-stone
 lyrics_url: https://genius.com/Angie-stone-brotha-lyrics
 name: Brotha
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-03-23'
+release_year: 2001
+runtime: 268133
 ---
 He is my king, he is my one
 Yes, he's my father

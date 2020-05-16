@@ -1,8 +1,11 @@
 ---
+album: Chaka
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:1oFiPGBafH9Woo9AMwgBSl
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-every-woman-chaka-khan
 lyrics_url: https://genius.com/Chaka-khan-im-every-woman-lyrics
 name: I'm Every Woman
@@ -71,6 +74,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 247413
 ---
 I'm every woman, it's all in me
 Anything you want done, baby, I'll do it naturally

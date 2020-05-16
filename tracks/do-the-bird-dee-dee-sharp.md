@@ -1,8 +1,11 @@
 ---
+album: It's Mashed Potato Time/Do The Bird
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:1BSiYIjfWrSKiCnxJu2RwG
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-bird-dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-do-the-bird-lyrics
 name: Do The Bird
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1962
+runtime: 132880
 ---
 Look out, look out
 There's a big bad bird that's flyin' about

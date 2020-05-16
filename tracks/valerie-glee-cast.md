@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4hBW3h6FnQNh7NRmyxLLG7
 features: []
-genres: []
+first_released_as_single: false
 key: valerie-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/valerie.html
 name: Valerie
@@ -11,8 +14,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 213413
 ---
-
 Well, sometimes I go out by myself and I look across the water
 And I think of all the things, what you're doing
 And in my head I paint a picture
@@ -51,6 +55,3 @@ I won't you come on over, stop making a fool out of me
 Why don't you come on over Valerie, Valerie, Valerie, Valerie?
 
 Yeah Valerie
-
-
-

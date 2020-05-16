@@ -1,8 +1,11 @@
 ---
+album: Hits Of '64
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:7oWWiJW6cVFGfd5jAlO59W
 features: []
-genres: []
+first_released_as_single: false
 key: lazy-elsie-molly-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/lazyelsiemolly.html
 name: Lazy Elsie Molly
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 140973
 ---
-
 Lazy Lazy Elsie Molly
 A put the pack back on your back
 Lazy Lazy Elsie Molly
@@ -78,6 +82,3 @@ Lazy Lazy Elsie Molly
 A put the pack back on your back
 Lazy Lazy Elsie Molly
 Carry it on down to the railroad track...
-
-
-

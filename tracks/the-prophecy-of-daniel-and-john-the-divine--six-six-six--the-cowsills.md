@@ -1,8 +1,11 @@
 ---
+album: II X II
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:6UVMhsNRskMxkAQhTXDQAh
 features: []
-genres: []
+first_released_as_single: false
 key: the-prophecy-of-daniel-and-john-the-divine--six-six-six--the-cowsills
 lyrics_url: https://www.azlyrics.com/lyrics/cowsills/theprophecyofdanielandjohnthedivine.html
 name: The Prophecy Of Daniel and John The Divine (Six-Six-Six)
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 191333
 ---
 And when they saw her rising, from the ocean
 A name was on her forehead Babylon, Babylon

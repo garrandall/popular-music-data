@@ -1,8 +1,11 @@
 ---
+album: Only The Young (Featured in Miss Americana)
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2slqvGLwzZZYsT4K4Y1GBC
 features: []
-genres: []
+first_released_as_single: true
 key: only-the-young-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-only-the-young-lyrics
 name: Only The Young
@@ -11,6 +14,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 157507
 ---
 It keeps me awake, the look on your face
 The moment you heard the news

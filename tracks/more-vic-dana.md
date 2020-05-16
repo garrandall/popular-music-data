@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:1bltfamMcxuxLvw6VzEYDC
 features: []
-genres: []
+first_released_as_single: false
 key: more-vic-dana
 lyrics_url: https://genius.com/Vic-dana-more-lyrics
 name: More
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 141333
 ---
 More than the greatest love the world has known
 This is the love I give to you alone

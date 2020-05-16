@@ -1,8 +1,11 @@
 ---
+album: '30 Years Of Funk: 1969-1999 The Anthology'
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:2Fns5n1hiCpoSO7iI8pyo1
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-do-it-grand-funk-railroad
 lyrics_url: https://genius.com/Grand-funk-railroad-can-you-do-it-lyrics
 name: Can You Do It
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 197693
 ---
 (Open mike in the studio ...)
 LSD Duckblind

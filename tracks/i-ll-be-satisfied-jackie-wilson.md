@@ -1,8 +1,11 @@
 ---
+album: So Much
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:79kk3BS5nhll19cRYGxUrV
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-satisfied-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-ill-be-satisfied-lyrics
 name: I'll Be Satisfied
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 130400
 ---
 Oh just a kiss, just a smile
 Hold my hand, baby

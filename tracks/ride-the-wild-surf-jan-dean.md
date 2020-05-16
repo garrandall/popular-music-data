@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:0nqnKtIzXjccQBh9CqF00T
 features: []
-genres: []
+first_released_as_single: false
 key: ride-the-wild-surf-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/ridethewildsurf.html
 name: Ride The Wild Surf
@@ -40,8 +43,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 143866
 ---
-
 In Hawaii there's a place known as Waimea Bay
 Where the best surfers in the world come to stay
 And ride the wild surf they come to try
@@ -79,6 +83,3 @@ Ride, ride, ride the wild surf
 Ride, ride, ride the wild surf
 Ride, ride, ride the wild surf
 Gotta take that one last ride
-
-
-

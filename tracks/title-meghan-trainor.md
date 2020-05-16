@@ -1,8 +1,11 @@
 ---
+album: Title
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:0k5hoseEJnCAbpRh38dNoI
 features: []
-genres: []
+first_released_as_single: false
 key: title-meghan-trainor
 lyrics_url: https://www.azlyrics.com/lyrics/meghantrainor/title.html
 name: Title
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2015
+runtime: 174733
 ---
-
 If you want my love
 You gotta do what it does
 If you want these sweet-like-sugar Gucci lips
@@ -78,6 +82,3 @@ Gimme that title, title
 Come and gimme that title, title
 Better gimme that title, title
 Come and gimme that title, title
-
-
-

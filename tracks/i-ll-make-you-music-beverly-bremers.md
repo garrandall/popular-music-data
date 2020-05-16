@@ -1,8 +1,11 @@
 ---
+album: I'll Make You Music
 artists:
 - Beverly Bremers
+external_ids:
+  spotify: spotify:track:1R2kT6eq0aXfipWc8W18Vl
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-make-you-music-beverly-bremers
 lyrics_url: https://genius.com/Beverly-bremers-ill-make-you-music-lyrics
 name: I'll Make You Music
@@ -43,6 +46,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 180678
 ---
 Long time gone away from me
 I knew that you'd return

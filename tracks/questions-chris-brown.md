@@ -1,8 +1,11 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:5XQMr19TL7Mfksq9zihbOu
 features: []
-genres: []
+first_released_as_single: true
 key: questions-chris-brown
 lyrics_url: https://genius.com/Chris-brown-questions-lyrics
 name: Questions
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 129477
 ---
 Oh, yuh ah deal wid
 

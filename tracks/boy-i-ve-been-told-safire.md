@@ -1,8 +1,11 @@
 ---
+album: Freestyle's Best Extended Versions Volumes 3 & 4
 artists:
 - SaFire
+external_ids:
+  spotify: spotify:track:0AcmTuNAihP5wlws9eBwQc
 features: []
-genres: []
+first_released_as_single: false
 key: boy-i-ve-been-told-safire
 lyrics_url: https://genius.com/Safire-boy-ive-been-told-lyrics
 name: Boy I've Been Told
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-01-07'
+release_year: 1988
+runtime: 375386
 ---
 Looking in your eyes
 I see a memory

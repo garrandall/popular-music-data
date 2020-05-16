@@ -1,9 +1,12 @@
 ---
+album: Before and After
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:66ark8uqwtus4LkRSTn8UG
 features: []
-genres: []
+first_released_as_single: false
 key: before-and-after-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-before-and-after-lyrics
 name: Before And After
@@ -44,6 +47,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 159133
 ---
 Van McCoy
 

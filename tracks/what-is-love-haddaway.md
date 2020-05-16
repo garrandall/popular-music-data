@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - Haddaway
+external_ids:
+  spotify: spotify:track:0bgkE357h56UcH4tyAnzil
 features: []
-genres: []
+first_released_as_single: true
 key: what-is-love-haddaway
 lyrics_url: https://www.musixmatch.com/lyrics/Haddaway/What-Is-Love-7-mix
 name: What Is Love
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1992
+runtime: 270373
 ---
 What is love?
 Baby, don't hurt me

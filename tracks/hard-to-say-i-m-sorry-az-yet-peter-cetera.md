@@ -1,9 +1,12 @@
 ---
+album: Az Yet
 artists:
 - Az Yet
+external_ids:
+  spotify: spotify:track:2OWzR8QoH7KaLtiN65v32x
 features:
 - Peter Cetera
-genres: []
+first_released_as_single: false
 key: hard-to-say-i-m-sorry-az-yet-peter-cetera
 lyrics_url: https://genius.com/Az-yet-hard-to-say-im-sorry-lyrics
 name: Hard To Say I'm Sorry
@@ -144,6 +147,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1996
+runtime: 195693
 ---
 Everybody needs a little time away
 I heard her say, from each other

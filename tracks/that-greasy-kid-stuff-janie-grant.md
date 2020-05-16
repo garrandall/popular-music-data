@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - Janie Grant
+external_ids:
+  spotify: spotify:track:1f7tW1eUo3KbU2mvaioPGI
 features: []
-genres: []
+first_released_as_single: false
 key: that-greasy-kid-stuff-janie-grant
 lyrics_url: https://www.musixmatch.com/lyrics/Janie-Grant/That-Greasy-Kid-Stuff
 name: That Greasy Kid Stuff
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 117480
 ---
 Cleopatra sailing down the Nile with Mark
 Was huggin' and kissin' was as happy as a lark

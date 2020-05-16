@@ -1,8 +1,11 @@
 ---
+album: New English
 artists:
 - Desiigner
+external_ids:
+  spotify: spotify:track:275a9yzwGB6ncAW4SxY7q3
 features: []
-genres: []
+first_released_as_single: true
 key: panda-desiigner
 lyrics_url: https://genius.com/Desiigner-panda-lyrics
 name: Panda
@@ -167,6 +170,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 247866
 ---
 This what they all been waitin' for
 I guess so

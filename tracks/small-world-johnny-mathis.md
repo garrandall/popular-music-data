@@ -1,8 +1,11 @@
 ---
+album: 'More: Johnny''s Greatest Hits'
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:2DugUShG2wj81Zf51l29Je
 features: []
-genres: []
+first_released_as_single: false
 key: small-world-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/smallworld.html
 name: Small World
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 200933
 ---
-
 Funny, you're a stranger who's come here,
 come from another town.
 Funny, I'm a stranger myself here.
@@ -104,6 +108,3 @@ Small world, isn't it?
 Funny, isn't it
 isn't it
 small and funny and fine?
-
-
-

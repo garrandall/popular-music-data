@@ -1,8 +1,11 @@
 ---
+album: Battle Studies
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:7hR5toSPEgwFZ78jfHdANM
 features: []
-genres: []
+first_released_as_single: false
 key: half-of-my-heart-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/halfofmyheart.html
 name: Half Of My Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2009
+runtime: 250373
 ---
-
 I was born in the arms of imaginary friends
 free to roam, made a home out of everywhere I've been
 then you come crashing in, like the realest thing
@@ -132,6 +136,3 @@ half of my heart is a shotgun wedding to a bride with a paper ring
 And half of my heart is the part of a man who's never truly loved anything
 
 half of my heart
-
-
-

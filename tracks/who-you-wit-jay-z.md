@@ -1,8 +1,11 @@
 ---
+album: In My Lifetime Vol.1
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:3DG2hUPMLKcFptV1Gv32oI
 features: []
-genres: []
+first_released_as_single: false
 key: who-you-wit-jay-z
 lyrics_url: https://genius.com/Jay-z-who-you-wit-lyrics
 name: Who You Wit
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1997
+runtime: 269706
 ---
 Uh-huh, yeah hah
 Never sprung huh?

@@ -1,9 +1,12 @@
 ---
+album: New Eyes
 artists:
 - Clean Bandit
+external_ids:
+  spotify: spotify:track:3s4U7OHV7gnj42VV72eSZ6
 features:
 - Jess Glynne
-genres: []
+first_released_as_single: true
 key: rather-be-clean-bandit-jess-glynne
 lyrics_url: https://www.azlyrics.com/lyrics/cleanbandit/ratherbe.html
 name: Rather Be
@@ -132,8 +135,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2014
+runtime: 227833
 ---
-
 Oh, Woah, Oh, oh
 
 We're a thousand miles from comfort, we have traveled land and sea
@@ -187,6 +191,3 @@ N-n-no, no, no, no place I'd rather be
 N-n-no, no, no, no place I'd rather be
 
 When I am with you, there's no place I'd rather be
-
-
-

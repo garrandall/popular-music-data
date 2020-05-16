@@ -1,8 +1,11 @@
 ---
+album: Psychedelic Shack
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:5kx4xMErn45NZvEChKiqdo
 features: []
-genres: []
+first_released_as_single: false
 key: psychedelic-shack-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/psychedelicshack.html
 name: Psychedelic Shack
@@ -51,8 +54,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 230293
 ---
-
 Psychedelic shack, that's where it's at
 Psychedelic shack, that's where it's at
 Psychedelic shack, that's where it's at
@@ -114,6 +118,3 @@ I guarantee this place will blow your mind
 Don't you know it's right around the corner
 Just across the track
 People I'm talking about the psychedelic shack
-
-
-

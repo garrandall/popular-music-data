@@ -1,8 +1,11 @@
 ---
+album: Diamonds & Rust
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:1XoM7kSwnMJZtbVTd4vscz
 features: []
-genres: []
+first_released_as_single: false
 key: blue-sky-joan-baez
 lyrics_url: https://genius.com/Joan-baez-blue-sky-lyrics
 name: Blue Sky
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 165666
 ---
 Walk along the river
 Sweet lullaby

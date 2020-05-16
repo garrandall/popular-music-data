@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:1I0HPyA358wezY1aCpuLBS
 features: []
-genres: []
+first_released_as_single: false
 key: soldier-of-love-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/soldieroflove.html
 name: Soldier Of Love
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 353440
 ---
-
 So you heard that I'm a rebel 
 With a heart made of stone
 I got a restless spirit 
@@ -161,6 +165,3 @@ Like a shot in the dark
 When the goin' gets rough
 It's a state of the heart 
 When you're a soldier of love
-
-
-

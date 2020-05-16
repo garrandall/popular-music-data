@@ -1,9 +1,12 @@
 ---
+album: Right Back
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:6PYnUsNEpYC7A4BS2sjw3L
 features:
 - A Boogie Wit da Hoodie
-genres: []
+first_released_as_single: true
 key: right-back-khalid-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/Khalid-right-back-remix-lyrics
 name: Right Back
@@ -52,6 +55,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 254999
 ---
 Oh
 

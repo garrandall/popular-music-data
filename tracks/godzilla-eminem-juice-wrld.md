@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7FIWs0pqAYbP91WWM0vlTQ
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: false
 key: godzilla-eminem-juice-wrld
 lyrics_url: https://genius.com/Genius-russian-translations-eminem-godzilla-ft-juice-wrld-lyrics
 name: Godzilla
@@ -40,6 +43,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 210800
 ---
 Фу, ты чудовище!
 

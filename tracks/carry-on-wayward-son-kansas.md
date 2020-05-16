@@ -1,8 +1,11 @@
 ---
+album: Leftoverture
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:4DMKwE2E2iYDKY01C335Uw
 features: []
-genres: []
+first_released_as_single: false
 key: carry-on-wayward-son-kansas
 lyrics_url: https://genius.com/Kansas-carry-on-wayward-son-lyrics
 name: Carry On Wayward Son
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
+release_year: 1976
+runtime: 323000
 ---
 Carry on, my wayward son
 There'll be peace when you are done

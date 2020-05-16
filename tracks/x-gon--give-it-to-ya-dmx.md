@@ -1,8 +1,11 @@
 ---
+album: 'The Definition of X: Pick Of The Litter'
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:32VjGZWrYx3fB0Ma1Qjydq
 features: []
-genres: []
+first_released_as_single: false
 key: x-gon--give-it-to-ya-dmx
 lyrics_url: https://genius.com/Dmx-x-gon-give-it-to-ya-lyrics
 name: X Gon' Give It To Ya
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-05-24'
+release_year: 2003
+runtime: 219040
 ---
 Yeah, uh, yeah, yeah, uh (Grr)
 Yeah, don't get it twisted

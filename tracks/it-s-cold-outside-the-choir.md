@@ -1,8 +1,11 @@
 ---
+album: A Very McCrary Christmas
 artists:
 - The Choir
+external_ids:
+  spotify: spotify:track:5ScW4qn0ZjVktOLxOT3MM8
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-cold-outside-the-choir
 lyrics_url: https://genius.com/The-choir-1960s-its-cold-outside-lyrics
 name: It's Cold Outside
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 169200
 ---
 Well My World Used To Be Sunny
 And Jokes Used To Be Funny

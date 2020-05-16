@@ -1,8 +1,11 @@
 ---
+album: Caught In The Act
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:7a13xzsyUJGciP6Wr3Ku6R
 features: []
-genres: []
+first_released_as_single: false
 key: slippery-when-wet-commodores
 lyrics_url: https://genius.com/Commodores-slippery-when-wet-lyrics
 name: Slippery When Wet
@@ -67,6 +70,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1975
+runtime: 200866
 ---
 Listen to me brothers
 Listen well

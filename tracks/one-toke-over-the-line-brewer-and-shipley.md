@@ -1,8 +1,11 @@
 ---
+album: Tarkio Road
 artists:
 - Brewer And Shipley
+external_ids:
+  spotify: spotify:track:5NU6nNizcd38J1xJi1tGXE
 features: []
-genres: []
+first_released_as_single: false
 key: one-toke-over-the-line-brewer-and-shipley
 lyrics_url: https://genius.com/Brewer-and-shipley-one-toke-over-the-line-lyrics
 name: One Toke Over The Line
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1970
+runtime: 199293
 ---
 One toke over the line sweet Jesus
 One toke over the line

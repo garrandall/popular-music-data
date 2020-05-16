@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:60iNCdO3iDf3YcMb63yPck
 features: []
-genres: []
+first_released_as_single: false
 key: here-with-me-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/herewithme.html
 name: Here With Me
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 304533
 ---
-
 Maybe it's too late but this feelin is runnin through my soul
 I think I learned what love is but I'm afraid I let it go
 Maybe it's too late, maybe you've already changed your mind
@@ -113,4 +117,3 @@ It's not fate to have you here with me
 Here with me, I don't know where you are, all I know is I need you to be
 Here with me, I know it's not to late, to turn around and get it straight
 It's not fate to have you here with me
-

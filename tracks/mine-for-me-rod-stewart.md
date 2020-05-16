@@ -1,8 +1,11 @@
 ---
+album: Smiler
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6SKj0HX82vdBCX6fQ0gpez
 features: []
-genres: []
+first_released_as_single: false
 key: mine-for-me-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-mine-for-me-lyrics
 name: Mine For Me
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
+release_year: 1974
+runtime: 240746
 ---
 In a couple of hours I'll be drivin' home to the one I love
 So save your breath sweet painted lady it won't be me

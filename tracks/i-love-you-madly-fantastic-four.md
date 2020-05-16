@@ -1,8 +1,11 @@
 ---
+album: Best Of The Fantastic Four
 artists:
 - Fantastic Four
+external_ids:
+  spotify: spotify:track:2ojKGPiEJq23dELloVlwJf
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-madly-fantastic-four
 lyrics_url: https://genius.com/Fantastic-four-i-love-you-madly-lyrics
 name: I Love You Madly
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 190600
 ---
 Hm-hm
 

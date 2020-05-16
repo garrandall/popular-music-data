@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: jambalaya--on-the-bayou--the-blue-ridge-rangers
-lyrics_url: https://www.musixmatch.com/lyrics/The-Blue-Ridge-Rangers/Jambalaya
+lyrics_url: http://www.songlyrics.com/blue-ridge-rangers/jambalaya-on-the-bayou-lyrics/
 name: Jambalaya (On The Bayou)
 rankings:
 - end_date: '1972-12-08'
@@ -72,23 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
 ---
-Jambalaya
-Jimmy C. Newman
-Notes: Also performed by "
-Creedence Clearwater Revival"
 Goodbye, Joe, me gotta go, me oh my oh.
 Me gotta go, pole the pirogue down the bayou.
 My Yvonne, the sweetest one, me oh my oh.
 Son of a gun, we'll have big fun on the bayou.
-Jambalaya and a crawfish pie and fil? gumbo'Cause tonight I'm gonna see my ma cher amio.
-Pick guitar, fill fruit jar and be gayo, Son of a gun, we'll have big fun on the bayou.
-Thibodaux, Fontaineaux, the place is buzzin', kinfolk come to see Yvonne by the dozen.
+
+Jambalaya and a crawfish pie and fil gumbo
+'Cause tonight I'm gonna see my ma cher amio.
+Pick guitar, fill fruit jar and be gayo,
+Son of a gun, we'll have big fun on the bayou.
+
+Thibodaux, Fontaineaux, the place is buzzin',
+kinfolk come to see Yvonne by the dozen.
 Dress in style and go hog wild, me oh my oh.
 Son of a gun, we'll have big fun on the bayou.
-Jambalaya and a crawfish pie and fil? gumbo'Cause tonight I'm gonna see my ma cher amio.
-Pick guitar, fill fruit jar and be gayo, Son of a gun, we'll have big fun on the bayou.
-Settle down far from town, get me a pirogueand I'll catch all the fish in the bayou.
+
+Jambalaya and a crawfish pie and fil gumbo
+'Cause tonight I'm gonna see my ma cher amio.
+Pick guitar, fill fruit jar and be gayo,
+Son of a gun, we'll have big fun on the bayou.
+
+Settle down far from town, get me a pirogue
+and I'll catch all the fish in the bayou.
 Swap my mon to buy Yvonne what she need-o.
 Son of a gun, we'll have big fun on the bayou.
-Jambalaya and a crawfish pie and fil? gumbo'Cause tonight I'm gonna see my ma cher amio.
-Pick guitar, fill fruit jar and be gayo, Son of a gun, we'll have big fun on the bayou.(The word fil?(with an acute accent on the e, pronounced feelay) is a spice used to flavor the soup...)
+
+Jambalaya and a crawfish pie and fil gumbo
+'Cause tonight I'm gonna see my ma cher amio.
+Pick guitar, fill fruit jar and be gayo,
+Son of a gun, we'll have big fun on the bayou.

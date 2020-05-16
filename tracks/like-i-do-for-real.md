@@ -1,8 +1,11 @@
 ---
+album: Free
 artists:
 - For Real
+external_ids:
+  spotify: spotify:track:7fiDNH3mHRq5mDgQycNWQZ
 features: []
-genres: []
+first_released_as_single: false
 key: like-i-do-for-real
 lyrics_url: https://genius.com/For-real-like-i-do-lyrics
 name: Like I Do
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
+release_year: 1996
+runtime: 249173
 ---
 It's been three years and seven days
 Since I first gave my all to you

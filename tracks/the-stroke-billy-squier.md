@@ -1,8 +1,11 @@
 ---
+album: Don't Say No
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:52KvuGmgcgRdrLMXOtda0E
 features: []
-genres: []
+first_released_as_single: false
 key: the-stroke-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/thestroke.html
 name: The Stroke
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1981
+runtime: 217613
 ---
-
 Now everybody
 Have you heard
 If you're in the game
@@ -174,6 +178,3 @@ Stroke me, stroke me
 Stroke me, stroke me
 Say you're a winner
 But man you're just a sinner now
-
-
-

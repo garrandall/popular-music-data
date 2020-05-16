@@ -1,8 +1,11 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:6IUiqtI8tE49sqGbmtrNd8
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-baby-usher
 lyrics_url: https://genius.com/Usher-there-goes-my-baby-lyrics
 name: There Goes My Baby
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2010
+runtime: 281293
 ---
 Yeah... right...
 Usher baby... okay, yeah man

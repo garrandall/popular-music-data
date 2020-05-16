@@ -1,8 +1,11 @@
 ---
+album: Slayed? (Expanded)
 artists:
 - Slade
+external_ids:
+  spotify: spotify:track:2Gp23sr178DBntGtqKnJez
 features: []
-genres: []
+first_released_as_single: false
 key: mama-weer-all-crazee-now-slade
 lyrics_url: https://www.azlyrics.com/lyrics/slade/mamaweerallcrazeenow.html
 name: Mama Weer All Crazee Now
@@ -47,8 +50,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 225000
 ---
-
 I don't want to drink my whiskey like you do
 I don't need to spend my money but still do
 
@@ -72,6 +76,3 @@ I had enough to fill up "H" Hill's left shoe
 
 
 Mama mama mama mama oh yeah...
-
-
-

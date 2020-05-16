@@ -1,8 +1,11 @@
 ---
+album: Love An Adventure
 artists:
 - Pseudo Echo
+external_ids:
+  spotify: spotify:track:3ertpqNsmoDueJvuHQGxOT
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-a-dream-pseudo-echo
 lyrics_url: https://genius.com/Pseudo-echo-living-in-a-dream-lyrics
 name: Living In A Dream
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1985
+runtime: 205594
 ---
 Walking in a strange light, looking at the walls
 The walls are getting higher and I think they're gonna fall

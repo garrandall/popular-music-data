@@ -1,8 +1,11 @@
 ---
+album: Sisters of Soul; the Sweeter Voices of Soul
 artists:
 - The Fuzz
+external_ids:
+  spotify: spotify:track:0VuejPra2aBVpZ9QdU9q8U
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-glad-the-fuzz
 lyrics_url: https://genius.com/Fuzz-im-so-glad-lyrics
 name: I'm So Glad
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 157075
 ---
 I'm so glad I found someone like you to love me
 I'm so glad I found you, boy

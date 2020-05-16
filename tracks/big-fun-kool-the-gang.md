@@ -1,9 +1,12 @@
 ---
+album: As One
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:6ADOMUfJOuPZw00pXZdyO5
 features: []
-genres: []
+first_released_as_single: false
 key: big-fun-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/bigfun.html
 name: Big Fun
@@ -52,8 +55,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 302306
 ---
-
 Have some fun, have some fun
 Have some fun, have some fun
 
@@ -114,6 +118,3 @@ Burn it up, burn it up
 
 Let's burn up the night, baby, let's do it together
 Let's burn up the night, let's have big fun
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nipper's Greatests Hits 60's Vol. 1
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:28ngG54ZWIaYWDDmYAwg34
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-warm-and-tender-paul-anka
 lyrics_url: https://genius.com/Paul-anka-love-me-warm-and-tender-lyrics
 name: Love Me Warm And Tender
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1962
+runtime: 138360
 ---
 Love me warm and tender, dear
 Love me warm like the glow of the morning sun

@@ -1,8 +1,11 @@
 ---
+album: A Seat at the Table
 artists:
 - Solange
+external_ids:
+  spotify: spotify:track:48EjSdYh8wz2gBxxqzrsLe
 features: []
-genres: []
+first_released_as_single: false
 key: cranes-in-the-sky-solange
 lyrics_url: https://genius.com/Solange-cranes-in-the-sky-lyrics
 name: Cranes In The Sky
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2016
+runtime: 250973
 ---
 I tried to drink it away
 I tried to put one in the air

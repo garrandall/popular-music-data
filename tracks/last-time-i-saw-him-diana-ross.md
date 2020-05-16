@@ -1,8 +1,11 @@
 ---
+album: Last Time I Saw Him
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:7lejSFiZNw8EjwQ2zSavAb
 features: []
-genres: []
+first_released_as_single: false
 key: last-time-i-saw-him-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/lasttimeisawhim.html
 name: Last Time I Saw Him
@@ -63,8 +66,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1973
+runtime: 169706
 ---
-
 Last time I saw him
 He sweetly kissed my lips
 Last time I saw him
@@ -131,6 +135,3 @@ He was looking fine
 And as he waved goodbye
 He said don't cry
 I'm coming back, no rain or shine
-
-
-

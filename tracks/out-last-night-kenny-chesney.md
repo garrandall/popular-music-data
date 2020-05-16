@@ -1,8 +1,11 @@
 ---
+album: Live in No Shoes Nation
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:4QoZGQ8woaho94v629kVl1
 features: []
-genres: []
+first_released_as_single: false
 key: out-last-night-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/outlastnight.html
 name: Out Last Night
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 199773
 ---
-
 We went out last night
 Like we swore we wouldn't do
 Drank too much beer last night
@@ -141,6 +145,3 @@ And howling at the moon
 Pairing off together and pretty soon
 There was not a soul in sight
 When we went out last night
-
-
-

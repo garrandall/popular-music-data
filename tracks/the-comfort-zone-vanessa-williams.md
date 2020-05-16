@@ -1,8 +1,11 @@
 ---
+album: The Comfort Zone
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:5H3fmuXrnpL3VLcmSk7tPy
 features: []
-genres: []
+first_released_as_single: false
 key: the-comfort-zone-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/thecomfortzone.html
 name: The Comfort Zone
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
+release_year: 1991
+runtime: 240200
 ---
-
 Where do we go
 When there's a need to be loved
 Like you need to be loved
@@ -93,6 +97,3 @@ Let's turn the lights down low
 And oh the rest you know
 I'll be here for you
 'cause you just stepped into the comfort zone
-
-
-

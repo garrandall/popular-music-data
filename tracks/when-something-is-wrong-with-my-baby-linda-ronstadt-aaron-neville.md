@@ -1,9 +1,12 @@
 ---
+album: Cry Like a Rainstorm Howl Like the Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:7eJc5KwqGHDcBwnTjsSgEm
 features:
 - Aaron Neville
-genres: []
+first_released_as_single: false
 key: when-something-is-wrong-with-my-baby-linda-ronstadt-aaron-neville
 lyrics_url: https://genius.com/Linda-ronstadt-and-aaron-neville-when-something-is-wrong-with-my-baby-lyrics
 name: When Something Is Wrong With My Baby
@@ -32,6 +35,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1989
+runtime: 231760
 ---
 When something is wrong with my baby, something is wrong with me
 And If I know that she's worried, I know I'd feel the same misery

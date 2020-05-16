@@ -34,7 +34,7 @@ So follow me down (Where to?)
 Out of this town (With you)
 Girl you're moving way too slow
 
-So follow me down (Which way? Down, down...)
+So follow me down (Which way? Down, down)
 I'll show you around (ok)
 There's a place we gotta go...
 
@@ -43,9 +43,9 @@ Fol-la-la-lala
 Follow me, follow me
 Fol-la-la-lala
 
-Uuuuuaah Oh
-Uuuuuaah Oh
-Uuuuuaah Oh Oh
+Uuaah Oh
+Uuaah Oh
+Uuaah Oh Oh
 Fol-la-la-lala
 
 Dancing, walking
@@ -62,7 +62,7 @@ So follow me down (Where to?)
 Out of this town (With you)
 Girl you're moving way too slow
 
-So follow me down (Which way? Down, down...)
+So follow me down (Which way? Down, down)
 I'll show you around (ok)
 There's a place we gotta go...
 
@@ -71,9 +71,9 @@ Fol-la-la-lala
 Follow me, follow me,
 Fol-la-la-lala
 
-Uuuuuaah Oh
-Uuuuuaah Oh
-Uuuuuaah Oh Oh
+Uuaah Oh
+Uuaah Oh
+Uuaah Oh Oh
 Fol-la-la-lala
 
 Follow me, follow me
@@ -81,9 +81,9 @@ Fol-la-la-lala
 Follow me, follow me,
 Fol-la-la-lala
 
-Uuuuuaah Oh
-Uuuuuaah Oh
-Uuuuuaah Oh Oh
+Uuaah Oh
+Uuaah Oh
+Uuaah Oh Oh
 Fol-la-la-lala
 
 Ah Ah Oh Ah
@@ -104,9 +104,9 @@ Fol-la-la-lala
 Follow me, follow me,
 Fol-la-la-lala
 
-Uuuuuaah Oh
-Uuuuuaah Oh
-Uuuuuaah Oh Oh
+Uuaah Oh
+Uuaah Oh
+Uuaah Oh Oh
 Fol-la-la-lala
 
 Follow me, follow me
@@ -114,9 +114,9 @@ Fol-la-la-lala
 Follow me, follow me,
 Fol-la-la-lala
 
-Uuuuuaah Oh
-Uuuuuaah Oh
-Uuuuuaah Oh Oh
+Uuaah Oh
+Uuaah Oh
+Uuaah Oh Oh
 Fol-la-la-lala
 
 

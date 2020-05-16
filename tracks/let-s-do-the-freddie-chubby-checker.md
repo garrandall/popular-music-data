@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Again - 20 Twist & Limbo Hits
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:2x8J4apESFBOPmGqMpLh0a
 features: []
-genres: []
+first_released_as_single: true
 key: let-s-do-the-freddie-chubby-checker
 lyrics_url: https://www.musixmatch.com/lyrics/Chubby-Checker/Let-s-Do-The-Freddie
 name: Let's Do The Freddie
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 146826
 ---
 Are you ready, let's do the freddie
 Are you ready, gonna do the freddie

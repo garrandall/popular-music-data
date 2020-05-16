@@ -1,8 +1,11 @@
 ---
+album: Crash! Boom! Bang! (Extended Version)
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:521uF3jhz9GIIlLeP9YV7J
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-in-my-car-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/sleepinginmycar.html
 name: Sleeping In My Car
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1994
+runtime: 226133
 ---
-
 I'll tell you what I've done
 I'll tell you what I'll do
 Been driving all nite just to get close to you
@@ -89,6 +93,3 @@ Laying in the back seat of my car making up.
 I will undress you
 I will undress you. 
 The night is so pretty and so young.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tonight
 artists:
 - Sydney Youngblood
+external_ids:
+  spotify: spotify:track:3GuoGbthtGJEsnYjknxuUe
 features: []
-genres: []
+first_released_as_single: true
 key: i-d-rather-go-blind-sydney-youngblood
 lyrics_url: https://genius.com/Sydney-youngblood-id-rather-go-blind-lyrics
 name: I'd Rather Go Blind
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-11-03'
+release_year: 1990
+runtime: 204026
 ---
 Something told me it was over
 When I saw you and her talking

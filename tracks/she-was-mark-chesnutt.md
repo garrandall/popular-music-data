@@ -1,8 +1,11 @@
 ---
+album: Mark Chesnutt
 artists:
 - Mark Chesnutt
+external_ids:
+  spotify: spotify:track:2Ld2x7huZedcVSANqnpOwi
 features: []
-genres: []
+first_released_as_single: false
 key: she-was-mark-chesnutt
 lyrics_url: https://genius.com/Mark-chesnutt-she-was-lyrics
 name: She Was
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
+release_year: 1999
+runtime: 201360
 ---
 She started her new life ten dollars in debt
 That's all it took to get started back then

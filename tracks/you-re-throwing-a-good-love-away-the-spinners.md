@@ -1,8 +1,11 @@
 ---
+album: Yesterday, Today & Tomorrow
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:0t3JTvtTR1Cj87cpx29u4A
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-throwing-a-good-love-away-the-spinners
 lyrics_url: https://www.musixmatch.com/lyrics/The-Spinners/You-re-Throwing-a-Good-Love-Away
 name: You're Throwing A Good Love Away
@@ -35,6 +38,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1977
+runtime: 517746
 ---
 You had your fill,
 And now you're on your way.

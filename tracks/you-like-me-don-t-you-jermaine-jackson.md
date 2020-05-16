@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits And Rare Classics
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:1t1PCraowOf7NKoGWBDyoJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-like-me-don-t-you-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-you-like-me-dont-you-lyrics
 name: You Like Me Don't You
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1981
+runtime: 300440
 ---
 I remember when we met
 Your eyes I can't forget
@@ -89,7 +94,6 @@ Don't you
 
 One thing that's true
 I noticed you like me
-Lyrics courtesy Top40db
 Don't you
 
 I knew it all the time

@@ -1,8 +1,11 @@
 ---
+album: Pink Shoe Laces
 artists:
 - Dodie Stevens
+external_ids:
+  spotify: spotify:track:1ugc1PHB2qbkcuOaGiXXIu
 features: []
-genres: []
+first_released_as_single: false
 key: no-dodie-stevens
 lyrics_url: https://genius.com/Dodie-stevens-no-lyrics
 name: 'No'
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
+release_year: 1960
+runtime: 116706
 ---
 No
 (Hey baby, won't you give me a kiss?)

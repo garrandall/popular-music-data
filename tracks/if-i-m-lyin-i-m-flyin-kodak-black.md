@@ -1,8 +1,11 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:6oojUe4BZXxRUctIRSgO8t
 features: []
-genres: []
+first_released_as_single: true
 key: if-i-m-lyin-i-m-flyin-kodak-black
 lyrics_url: https://genius.com/Kodak-black-if-im-lyin-im-flyin-lyrics
 name: If I'm Lyin I'm Flyin
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 130929
 ---
 Glee
 

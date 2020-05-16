@@ -1,8 +1,11 @@
 ---
+album: Little Wonders
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:6j6bTAiW0oEfLlAjmRNcbb
 features: []
-genres: []
+first_released_as_single: true
 key: little-wonders-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/littlewonders.html
 name: Little Wonders
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2007
+runtime: 224720
 ---
-
 Let it go
 Let it roll right off your shoulder
 Don't you know
@@ -124,6 +128,3 @@ These twists & turns of fate
 Time falls away
 But these small hours
 These little wonders still remain
-
-
-

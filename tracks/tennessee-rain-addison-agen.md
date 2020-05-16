@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 13 Collection (The Voice Performance)
 artists:
 - Addison Agen
+external_ids:
+  spotify: spotify:track:54p39OJ544KF6iFeCzbVjs
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-rain-addison-agen
 lyrics_url: https://genius.com/Addison-agen-tennessee-rain-lyrics
 name: Tennessee Rain
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-01-03'
+release_year: 2017
+runtime: 210985
 ---
 You never see it coming, it happens all of a sudden
 And when it finally hits you, it's too late

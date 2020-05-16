@@ -1,8 +1,11 @@
 ---
+album: SKYBOX
 artists:
 - Gunna
+external_ids:
+  spotify: spotify:track:604JscnWY4wNi97NWbGflF
 features: []
-genres: []
+first_released_as_single: true
 key: skybox-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/gunna/skybox.html
 name: SKYBOX
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 178096
 ---
-
 Uh
 (Taurus)
 Uh
@@ -78,6 +82,3 @@ Paint the town (Town), and slime committed ('Mitted)
 Bloodhound ('Hound), mmh, cold hard Crippin'
 Best part (Yeah), we got all the vibes with it (Vibes)
 Head start (Start), you can't catch up, so forget it
-
-
-

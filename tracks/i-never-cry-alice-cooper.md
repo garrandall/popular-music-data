@@ -1,8 +1,11 @@
 ---
+album: Goes To Hell
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:7y5mfSJLUmPYmrI5hcCWnT
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-cry-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-i-never-cry-lyrics
 name: I Never Cry
@@ -115,6 +118,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 224600
 ---
 If there is a tear on my face
 It makes me shiver to the bone

@@ -1,10 +1,13 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:7e44z4wOjkllaD8eulUeMd
 features:
 - Drake
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: truffle-butter-nicki-minaj-drake-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/trufflebutter.html
 name: Truffle Butter
@@ -89,9 +92,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2014
+runtime: 220466
 ---
-
-
 Uh, thinkin' out loud
 I must have a quarter million on me right now
 Hard to make a song 'bout somethin' other than the money
@@ -155,6 +158,3 @@ Smallest regardless, largest in charge and born in New Orleans
 Get killed 4 Jordans
 Skateboard, I'm gnarly; Drake, Tunechi and Barbie
 You know
-
-
-

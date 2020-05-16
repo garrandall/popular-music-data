@@ -1,8 +1,11 @@
 ---
+album: Song Book, Vol. 3
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:6QK8yyegKCFkvMTz6VAiKZ
 features: []
-genres: []
+first_released_as_single: false
 key: sermonette-della-reese
 lyrics_url: https://www.musixmatch.com/lyrics/Della-Reese/Sermonette
 name: Sermonette
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1959
+runtime: 147133
 ---
 I heard me a sermonette, have you heard it yet
 With that soulful message that you won't soon forget

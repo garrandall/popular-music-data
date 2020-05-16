@@ -1,9 +1,12 @@
 ---
+album: My Melody
 artists:
 - Queen Pen
+external_ids:
+  spotify: spotify:track:1rlnJyBKqBSuSj3CQGngRg
 features:
 - Eric Williams
-genres: []
+first_released_as_single: false
 key: all-my-love-queen-pen-eric-williams
 lyrics_url: https://genius.com/Queen-pen-all-my-love-lyrics
 name: All My Love
@@ -68,6 +71,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1997
+runtime: 204200
 ---
 I'm taking you back
 I'm taking you back

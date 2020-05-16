@@ -1,8 +1,11 @@
 ---
+album: 'It''s My Party: The Mercury Anthology'
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:4WSc4jv49Kj3ZqcCUiWH9D
 features: []
-genres: []
+first_released_as_single: false
 key: brink-of-disaster-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/brinkofdisaster.html
 name: Brink Of Disaster
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 143906
 ---
-
 I'm your conscience, listen to me
 Don't give in, 'cause it's a conspiracy
 I cannot help myself
@@ -59,6 +63,3 @@ But tell that to my heart
 It's so hard for me to think
 When my heart is on the brink
 Of disaster
-
-
-

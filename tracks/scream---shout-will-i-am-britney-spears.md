@@ -1,9 +1,12 @@
 ---
+album: '#willpower'
 artists:
 - will.i.am
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2iJuuzV8P9Yz0VSurttIV5
 features: []
-genres: []
+first_released_as_single: false
 key: scream---shout-will-i-am-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/william/screamandshout.html
 name: Scream & Shout
@@ -104,8 +107,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2013-05-25'
+release_year: 2012
+runtime: 283400
 ---
-
 Bring the action
 
 When you hear this in the club
@@ -209,6 +213,3 @@ And scream and shout, and let it out
 We saying, "Oh wee oh wee oh wee oh."
 
 You are now, now rocking with will.i.am and Britney bitch
-
-
-

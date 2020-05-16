@@ -1,9 +1,12 @@
 ---
+album: The Papas & The Mamas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:5sCiymtGHzbRkyAwwhlmPI
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-ivy-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/fortheloveofivy.html
 name: For The Love Of Ivy
@@ -28,8 +31,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 222000
 ---
-
 I never thought I'd try for the love of Ivy;
 I never thought I'd cry for the love of Ivy.
 Somebody hide me from the love, the love of Ivy.
@@ -79,6 +83,3 @@ For the love of Ivy...
 Ivy...
 For the love of...
 For the love of...
-
-
-

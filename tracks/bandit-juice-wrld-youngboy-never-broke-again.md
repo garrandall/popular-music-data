@@ -1,9 +1,12 @@
 ---
+album: Bandit (with YoungBoy Never Broke Again)
 artists:
 - Juice WRLD
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:6Gg1gjgKi2AK4e0qzsR7sd
 features: []
-genres: []
+first_released_as_single: true
 key: bandit-juice-wrld-youngboy-never-broke-again
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/bandit.html
 name: Bandit
@@ -88,9 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2019
+runtime: 189322
 ---
-
-
 It's funny, the shit I put on this song ain't gonna sound nothin' like the shit we was just doin'
 Oh
 Yeah
@@ -162,6 +165,3 @@ Aye, I don't need no Molly to be savage
 Aye, but when I'm on that Molly I feel savage
 Aye, my girl the definition of a bad bitch, stole her heart
 I'm the definition of a bandit
-
-
-

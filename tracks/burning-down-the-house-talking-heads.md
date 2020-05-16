@@ -1,8 +1,11 @@
 ---
+album: Speaking in Tongues (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:3yO1OjqT59JyjHaQZcCYDX
 features: []
-genres: []
+first_released_as_single: false
 key: burning-down-the-house-talking-heads
 lyrics_url: https://genius.com/Talking-heads-burning-down-the-house-lyrics
 name: Burning Down The House
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 241773
 ---
 Ah
 Watch out, you might get what you're after

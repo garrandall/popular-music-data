@@ -1,8 +1,11 @@
 ---
+album: The Unavailable 16 & The Original Nitty Gritty
 artists:
 - Rosie And The Originals
+external_ids:
+  spotify: spotify:track:71keN33KR0rS5jwKi4JNLE
 features: []
-genres: []
+first_released_as_single: false
 key: angel-baby-rosie-and-the-originals
 lyrics_url: https://genius.com/Rosie-and-the-originals-angel-baby-lyrics
 name: Angel Baby
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1960
+runtime: 227624
 ---
 It's just like heaven
 Being here with you

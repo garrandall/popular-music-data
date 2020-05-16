@@ -1,8 +1,11 @@
 ---
+album: Pocketful Of Sunshine
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:1uigwk5hNV84zRd5YQQRTk
 features: []
-genres: []
+first_released_as_single: false
 key: pocketful-of-sunshine-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/pocketfulofsunshine.html
 name: Pocketful Of Sunshine
@@ -147,8 +150,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 202906
 ---
-
 I got a pocket,
 Got a pocketful of sunshine
 I've got a love and I know that it's all mine
@@ -224,4 +228,3 @@ The sun is on my side
 Take me for a ride
 I smile up to the sky
 I know I'll be alright
-

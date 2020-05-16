@@ -1,8 +1,12 @@
 ---
+album: Just Like Fire (From the Original Motion Picture "Alice Through The Looking
+  Glass")
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:7K5dzhGda2vRTaAWYI3hrb
 features: []
-genres: []
+first_released_as_single: true
 key: just-like-fire-p-nk
 lyrics_url: https://genius.com/P-nk-just-like-fire-lyrics
 name: Just Like Fire
@@ -111,6 +115,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2016
+runtime: 215413
 ---
 I know that I am runnin' out of time
 I want it all, mmm, mmm

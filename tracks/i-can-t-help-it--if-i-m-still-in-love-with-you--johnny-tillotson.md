@@ -1,8 +1,11 @@
 ---
+album: It Keeps Right On A-Hurtin'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:4mcMYG0a9Pr9hZOP4HQrhW
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-it--if-i-m-still-in-love-with-you--johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-i-cant-help-it-if-im-still-in-love-with-you-lyrics
 name: I Can't Help It (If I'm Still In Love With You)
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 146906
 ---
 Today I passed you on the street
 And my heart fell at your feet

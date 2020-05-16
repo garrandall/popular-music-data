@@ -1,8 +1,11 @@
 ---
+album: Time After Time
 artists:
 - Timmy T.
+external_ids:
+  spotify: spotify:track:2drQ6wg2hdl6RDslarifh8
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-try-timmy-t-
 lyrics_url: https://genius.com/Timmy-t-one-more-try-lyrics
 name: One More Try
@@ -107,6 +110,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1990
+runtime: 209426
 ---
 It's been a long time since you left me
 I didn't mean to make you cry

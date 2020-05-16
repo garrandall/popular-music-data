@@ -1,8 +1,11 @@
 ---
+album: Growing In the Dark
 artists:
 - Glass Moon
+external_ids:
+  spotify: spotify:track:0HqFLSXWRpQGEF0KYKFInX
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-carousel-glass-moon
 lyrics_url: https://www.musixmatch.com/lyrics/Glass-Moon/On-a-Carousel
 name: On A Carousel
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1981
+runtime: 200000
 ---
 Riding along on a carousel, trying to catch up to you.
 Riding along on a carousel, will I catch up to you?

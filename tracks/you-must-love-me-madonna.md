@@ -1,8 +1,11 @@
 ---
+album: Music from the Motion Picture "Evita"
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3lYAHwvog7SYNxNW7Kj9EN
 features: []
-genres: []
+first_released_as_single: false
 key: you-must-love-me-madonna
 lyrics_url: https://genius.com/Madonna-you-must-love-me-lyrics
 name: You Must Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
+release_year: 1996
+runtime: 170840
 ---
 Where do we go from here?
 This isn't where we intended to be

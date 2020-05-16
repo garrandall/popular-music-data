@@ -1,8 +1,11 @@
 ---
+album: Stand By Your Man
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:1KIDx2a73MKgOPfn7IpgHL
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-feeling-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/sweetfeeling.html
 name: Sweet Feeling
@@ -39,8 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 168546
 ---
-
 You picked me up
 Oh, yes you did
 When nobody else would
@@ -111,6 +115,3 @@ I need you, baby
 I need you, baby
 To stay right here by my side
 I need you, baby...
-
-
-

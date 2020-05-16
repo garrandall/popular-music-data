@@ -1,8 +1,11 @@
 ---
+album: Ultra
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:6mdIrM3u2GwIJJVK1qNH6C
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-no-good-depeche-mode
 lyrics_url: https://genius.com/Depeche-mode-its-no-good-lyrics
 name: It's No Good
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
+release_year: 1997
+runtime: 358533
 ---
 I'm gonna take my time
 I have all the time in the world

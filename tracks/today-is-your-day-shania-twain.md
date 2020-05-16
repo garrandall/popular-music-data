@@ -1,8 +1,11 @@
 ---
+album: 'Still The One: Live From Vegas'
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:7qGHAkt0DcvSJNwBPF7e31
 features: []
-genres: []
+first_released_as_single: true
 key: today-is-your-day-shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/todayisyourday.html
 name: Today Is Your Day
@@ -11,8 +14,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 193920
 ---
-
 (You got what it takes you can win)
 
 You got what it takes you can win
@@ -57,6 +61,3 @@ Everything's going your way
 Today, today, today, today
 
 Today is your day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Every Picture Tells A Story
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:7s7ylhLGL0sV6TU9bzpN5S
 features: []
-genres: []
+first_released_as_single: false
 key: -i-know--i-m-losing-you-rod-stewart-with-faces
 lyrics_url: https://genius.com/Rod-stewart-i-know-im-losing-you-lyrics
 name: (I Know) I'm Losing You
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 323733
 ---
 Your love is fading, can feel your love fading
 Woman, it's fading away from me

@@ -1,8 +1,11 @@
 ---
+album: Silver Convention
 artists:
 - Silver Convention
+external_ids:
+  spotify: spotify:track:6LNCUjTYG9KMaLdNJHVwaT
 features: []
-genres: []
+first_released_as_single: false
 key: no-no-joe-silver-convention
 lyrics_url: https://genius.com/Silver-convention-no-no-joe-lyrics
 name: No No Joe
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 178200
 ---
 No, no, Joe
 No, no, Joe

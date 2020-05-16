@@ -1,8 +1,12 @@
 ---
+album: Lucky Old Sun
 artists:
-- Kenny Chesney With Mac McAnally
-features: []
-genres: []
+- Kenny Chesney
+external_ids:
+  spotify: spotify:track:534bvgqusXzhI13Olu56oX
+features:
+- Mac McAnally
+first_released_as_single: false
 key: down-the-road-kenny-chesney-with-mac-mcanally
 name: Down The Road
 rankings:
@@ -78,5 +82,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2008
+runtime: 181333
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Story & Cover Stories
 artists:
 - Brandi Carlile
+external_ids:
+  spotify: spotify:track:44IeABaLLsnFVb7rjzNTzS
 features: []
-genres: []
+first_released_as_single: false
 key: the-story--i-was-made-for-you--brandi-carlile
 lyrics_url: https://genius.com/Brandi-carlile-the-story-lyrics
 name: The Story (I Was Made For You)
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2007
+runtime: 238493
 ---
 All of these lines across my face
 Tell you the story of who I am

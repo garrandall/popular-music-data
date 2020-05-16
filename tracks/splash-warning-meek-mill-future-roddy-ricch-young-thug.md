@@ -1,11 +1,14 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0QOxNkoDnfB112hVEJBP4w
 features:
 - Future
 - Roddy Ricch
 - Young Thug
-genres: []
+first_released_as_single: false
 key: splash-warning-meek-mill-future-roddy-ricch-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/splashwarning.html
 name: Splash Warning
@@ -14,8 +17,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 168494
 ---
-
 Okay, yeah-yeah, yeah-yeah
 Woo-woo-woo
 Ayy-ayy, oh-oh
@@ -84,6 +88,3 @@ I be cookin' coco out the pot, pot, yeah-yeah
 I just gave away my lil thot, thot, yeah-yeah
 I just skrrt off in a robot, yeah-yeah
 Pushed one button, the top go in the trunk, uh-huh, uh-huh
-
-
-

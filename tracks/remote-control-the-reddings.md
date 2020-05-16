@@ -1,8 +1,11 @@
 ---
+album: The Awakening
 artists:
 - The Reddings
+external_ids:
+  spotify: spotify:track:7jOeDXQvqfu2ZLp7lYwOy8
 features: []
-genres: []
+first_released_as_single: false
 key: remote-control-the-reddings
 lyrics_url: https://www.musixmatch.com/lyrics/The-Reddings/Remote-Control
 name: Remote Control
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
+release_year: 1980
+runtime: 307946
 ---
 Transistor connector, solid state invention
 Guaranteed to make you move

@@ -1,8 +1,11 @@
 ---
+album: 'I Couldn''t Live Without Your Love: Hits, Classics & More'
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:3vGXU8AxtVrlHrmiIM9qRN
 features: []
-genres: []
+first_released_as_single: false
 key: wedding-song--there-is-love--petula-clark
 lyrics_url: https://genius.com/Petula-clark-wedding-song-there-is-love-lyrics
 name: Wedding Song (There Is Love)
@@ -47,6 +50,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
+release_year: 1972
+runtime: 195026
 ---
 He is now to be among you
 At the calling of your hearts

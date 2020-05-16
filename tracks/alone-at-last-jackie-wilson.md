@@ -1,8 +1,11 @@
 ---
+album: The Definitive Jackie Wilson
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5QZyGPDlIyk75zl8sOOXbh
 features: []
-genres: []
+first_released_as_single: false
 key: alone-at-last-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-alone-at-last-lyrics
 name: Alone At Last
@@ -67,6 +70,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 184626
 ---
 Alone at last, you and I
 Together locked in a sigh

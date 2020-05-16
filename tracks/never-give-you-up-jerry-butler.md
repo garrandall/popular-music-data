@@ -1,8 +1,11 @@
 ---
+album: Brand New Me
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:0P7kgYQQs0HcFItbQjJyFw
 features: []
-genres: []
+first_released_as_single: false
 key: never-give-you-up-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-never-give-you-up-lyrics
 name: Never Give You Up
@@ -63,6 +66,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 176000
 ---
 Never gonna give you up
 No matter how you treat me

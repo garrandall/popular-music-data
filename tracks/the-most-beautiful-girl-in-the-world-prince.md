@@ -1,8 +1,11 @@
 ---
+album: An Acoustic Tribute To Prince
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:2TAdelKqtPjyHWYMMkcmVX
 features: []
-genres: []
+first_released_as_single: false
 key: the-most-beautiful-girl-in-the-world-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/themostbeautifulgirlintheworld.html
 name: The Most Beautiful Girl In The World
@@ -111,8 +114,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
+release_year: 1994
+runtime: 270345
 ---
-
 Could U be the most beautiful girl in the world?
 It's plain 2 see U're the reason that God made a girl
 When the day turns into the last day of all time
@@ -150,7 +154,4 @@ Girl (Could U be?)
 U must be ... oh yeah!
 (Could U be?)
 U're the reason ... oh yeah
-(Could) 
-
-
-
+(Could)

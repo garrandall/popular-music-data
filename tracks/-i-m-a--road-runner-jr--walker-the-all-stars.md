@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:5llZqDjRHnn5pAUswFqQCf
 features: []
-genres: []
+first_released_as_single: false
 key: -i-m-a--road-runner-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-im-a-roadrunner-lyrics
 name: (I'm A) Road Runner
@@ -56,6 +59,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1965
+runtime: 165946
 ---
 Money, who needs it?
 Just to live my life free and easy

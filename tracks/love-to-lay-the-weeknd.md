@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:1E43TJhKcM8hXgM958ROQ1
 features: []
-genres: []
+first_released_as_single: false
 key: love-to-lay-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-love-to-lay-lyrics
 name: Love To Lay
@@ -11,6 +14,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 223293
 ---
 It has begun again, my friend
 In this room, we are nothing but strangers in a bed

@@ -1,9 +1,12 @@
 ---
+album: Born Into The 90's
 artists:
 - R. Kelly
 - Public Announcement
+external_ids:
+  spotify: spotify:track:3lmn7LmNwdeqplUa0qvnrU
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-r--kelly-public-announcement
 lyrics_url: https://genius.com/R-kelly-and-public-announcement-dedicated-lyrics
 name: Dedicated
@@ -88,6 +91,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 277906
 ---
 This is dedicated to my favorite girl
 

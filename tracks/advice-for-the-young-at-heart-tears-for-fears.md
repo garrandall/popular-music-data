@@ -1,8 +1,11 @@
 ---
+album: The Seeds Of Love
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:3BjD16l0CBQxUvcRI7vLWN
 features: []
-genres: []
+first_released_as_single: false
 key: advice-for-the-young-at-heart-tears-for-fears
 lyrics_url: https://www.azlyrics.com/lyrics/tearsforfears/advicefortheyoungatheart.html
 name: Advice For The Young At Heart
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1989
+runtime: 290640
 ---
-
 Advice for the young at heart
 Soon we will be older
 When we gonna make it work ?
@@ -68,6 +72,3 @@ Working hour is over
 We can do anyhting that we want
 Anything that we feel like doing
 Advice...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack
 artists:
 - Buchanan Brothers
+external_ids:
+  spotify: spotify:track:70MqJOpUHPB10OzrI06x7U
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-a-lovin--man-buchanan-brothers
 lyrics_url: https://genius.com/Buchanan-brothers-son-of-a-lovin-man-lyrics
 name: Son Of A Lovin' Man
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 176693
 ---
 Get it
 

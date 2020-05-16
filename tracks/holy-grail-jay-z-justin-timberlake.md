@@ -1,9 +1,12 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - Jay Z
+external_ids:
+  spotify: spotify:track:37jTPJgwCCmIGMPB45jrPV
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: holy-grail-jay-z-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/holygrail.html
 name: Holy Grail
@@ -116,9 +119,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 338413
 ---
-
-
 You'd take the clothes off my back and I'd let you
 You'd steal the food right out my mouth
 And I'd watch you eat it
@@ -230,6 +233,3 @@ Sippin' from your cup 'til it runneth over
 Holy Grail
 
 Don't know why
-
-
-

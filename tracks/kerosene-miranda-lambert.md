@@ -1,8 +1,11 @@
 ---
+album: Kerosene
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:2yhhcHTfvLC0HzSajGYL0h
 features: []
-genres: []
+first_released_as_single: false
 key: kerosene-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/kerosene.html
 name: Kerosene
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 185800
 ---
-
 I'm waitin' on the sun to set cause yesterday aint over yet
 I started smoking cigarettes there's nothing else to do I guess
 Dusty roads aint made for walking, spinning tires aint made for stoppin'
@@ -94,6 +98,3 @@ He's out there holding on to someone, I'm holding up my smoking gun
 I'll find somewhere to lay my blame the day she changes her last name
 Well I'm giving up on love cause love's given up on me
 Well I'm giving up on love HEY love's given up on me
-
-
-

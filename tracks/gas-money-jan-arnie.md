@@ -1,9 +1,12 @@
 ---
+album: Hot Rod Gang
 artists:
 - Jan
 - Arnie
+external_ids:
+  spotify: spotify:track:2wh41h8XJWXIds4gPpfOzN
 features: []
-genres: []
+first_released_as_single: false
 key: gas-money-jan-arnie
 lyrics_url: https://www.musixmatch.com/lyrics/Jan-Arnie/Gas-Money
 name: Gas Money
@@ -16,6 +19,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 144466
 ---
 Say man, let's split (who's driving?)
 Not me (well not me)

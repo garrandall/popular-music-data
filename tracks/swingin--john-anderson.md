@@ -1,8 +1,11 @@
 ---
+album: Wild And Blue
 artists:
 - John Anderson
+external_ids:
+  spotify: spotify:track:03EqWmiVXS6zgi1eCm8JU9
 features: []
-genres: []
+first_released_as_single: false
 key: swingin--john-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/johnanderson/swingin.html
 name: Swingin'
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1983
+runtime: 184626
 ---
-
 There's a little girl in our neighborhood,
 Her name is Charlotte Johnson and she's really lookin' good.
 I had to go and see her, so I called her on the phone.
@@ -93,6 +97,3 @@ Just-a-swangin.
 I said, Little Charlotte she's as pretty as the angels when they sang,
 I can't believe I'm out here on her front porch in the swang,
 Just-a-swangin.
-
-
-

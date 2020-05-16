@@ -1,8 +1,11 @@
 ---
+album: Leaps And Bounds
 artists:
 - Bill Doggett
+external_ids:
+  spotify: spotify:track:4i8rf7zLJSyyTWvz6JbWik
 features: []
-genres: []
+first_released_as_single: false
 key: honky-tonk--part-2--bill-doggett
 lyrics_url: https://genius.com/Bill-doggett-honky-tonk-lyrics
 name: Honky Tonk (Part 2)
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 187320
 ---
 Stuck it on a slab of ash
 Sold one to Luther, threw in a pick

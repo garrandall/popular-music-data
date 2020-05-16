@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1hgvykolO4kBIEozATmpyj
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-fell-the-beatles
 lyrics_url: https://genius.com/The-beatles-if-i-fell-lyrics
 name: If I Fell
@@ -43,6 +46,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 139466
 ---
 If I fell in love with you
 Would you promise to be true

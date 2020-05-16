@@ -1,9 +1,12 @@
 ---
+album: Good Times-Original Film Soundtrack
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:7hvHl6eoO57DcFH6TIeqXJ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-little-things-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/itsthelittlethings.html
 name: It's The Little Things
@@ -36,8 +39,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 182040
 ---
-
 You're not the kind of guy
 That make the girls all sigh
 And they never turn their heads
@@ -63,6 +67,3 @@ And every word you ever said I won't forget
 And so I guess that's why until the day I die
 When you're bad and make me sad
 You're still my guy
-
-
-

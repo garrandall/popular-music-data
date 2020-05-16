@@ -1,9 +1,12 @@
 ---
+album: Rags To Rufus
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:1OO2Fp9PsnaayiekeXuGJX
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: tell-me-something-good-rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-tell-me-something-good-live-lyrics
 name: Tell Me Something Good
@@ -76,6 +79,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 277066
 ---
 You ain't got no kind of feeling inside
 I got something that'll sho nuff set yo' stuff on fire

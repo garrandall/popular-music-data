@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:0NFT2UXI5WmqTNeqqymAeb
 features: []
-genres: []
+first_released_as_single: false
 key: bright-lights-big-city-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Bright-Lights-Big-City
 name: Bright Lights Big City
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 156133
 ---
 Bright light, big city, gone to my baby's head
 Whoa, bright light, an'big city, gone to my baby's head

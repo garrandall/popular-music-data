@@ -1,8 +1,11 @@
 ---
+album: 'Come Get It: The Very Best Of Aaron Carter'
 artists:
 - Aaron Carter
+external_ids:
+  spotify: spotify:track:0osyPhZsaMy7AlYNajBMBq
 features: []
-genres: []
+first_released_as_single: false
 key: aaron-s-party--come-get-it--aaron-carter
 lyrics_url: https://www.azlyrics.com/lyrics/aaroncarter/aaronspartycomegetit.html
 name: Aaron's Party (Come Get It)
@@ -67,9 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 2000
+runtime: 205373
 ---
-
-
 Here's a little bit of old school for ya,
 That goes a little something like this...
 
@@ -197,8 +200,3 @@ Grounded
 Aaron C's in the house, come on
 (come get it)
 Uh uh what what
-
-
-
-
-

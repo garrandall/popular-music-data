@@ -1,8 +1,11 @@
 ---
+album: Maurice White
 artists:
 - Maurice White
+external_ids:
+  spotify: spotify:track:78ed1StERMVBNocbSEQpCF
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-maurice-white
 lyrics_url: https://genius.com/Maurice-white-stand-by-me-lyrics
 name: Stand By Me
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 249640
 ---
 When the night has come
 And the land is dark

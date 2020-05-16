@@ -1,8 +1,11 @@
 ---
+album: Sarina Paris
 artists:
 - Sarina Paris
+external_ids:
+  spotify: spotify:track:42MVI9N0ikM6m8QgrC1nUu
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-us-sarina-paris
 lyrics_url: https://www.azlyrics.com/lyrics/sarinaparis/lookatus.html
 name: Look At Us
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2001
+runtime: 209786
 ---
-
 For all the times that we,
 We ever wouldn't be,
 Look at us baby,
@@ -134,6 +138,3 @@ Look at us
 Baby look at us,
 Baby look at us,
 Baby look at us.
-
-
-

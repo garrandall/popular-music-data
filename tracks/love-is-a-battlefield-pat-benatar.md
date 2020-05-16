@@ -1,8 +1,11 @@
 ---
+album: Live From Earth
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:06dAFXkgM2OGAkGS3CxpEm
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-battlefield-pat-benatar
 lyrics_url: https://genius.com/Pat-benatar-love-is-a-battlefield-lyrics
 name: Love Is A Battlefield
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 325066
 ---
 (We are young) we are young
 (Heartache to heartache) heartache to heartache

@@ -1,8 +1,11 @@
 ---
+album: Look At Me
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:4GOhstuymDo7yP2SL0N9ZT
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-me--i-m-in-love--the-moments
 lyrics_url: https://genius.com/The-moments-look-at-me-im-in-love-lyrics
 name: Look At Me (I'm In Love)
@@ -39,6 +42,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 191066
 ---
 Look at me, I'm in love
 Look at me, I'm in love

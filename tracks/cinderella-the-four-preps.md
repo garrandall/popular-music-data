@@ -1,8 +1,11 @@
 ---
+album: The Single Collection, Vol. 1
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:2pgFEUd7qK8fVyASICkglU
 features: []
-genres: []
+first_released_as_single: false
 key: cinderella-the-four-preps
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Preps/Cinderella
 name: Cinderella
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 106733
 ---
 Gotta cute little girl and I call her Cinderella
 I'm so in love with her

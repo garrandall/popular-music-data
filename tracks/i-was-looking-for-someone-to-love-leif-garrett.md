@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:2VAFPbaGuEdwcT9U1vhKcI
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-looking-for-someone-to-love-leif-garrett
 lyrics_url: https://genius.com/Leif-garrett-i-was-looking-for-someone-to-love-lyrics
 name: I Was Looking For Someone To Love
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1980
+runtime: 179493
 ---
 I told myself when you smiled at me
 This time it's gonna be forever

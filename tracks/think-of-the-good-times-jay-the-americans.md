@@ -1,9 +1,12 @@
 ---
+album: Blockbusters
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:7MfympqWLMGXftSmPWY3W2
 features: []
-genres: []
+first_released_as_single: false
 key: think-of-the-good-times-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/thinkofthegoodtimes.html
 name: Think Of The Good Times
@@ -40,8 +43,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1964
+runtime: 170306
 ---
-
 You were the only one I could see
 Now that we're through, if you think of me
 Think of the good times, only the good times
@@ -67,6 +71,3 @@ But this time we won't let our good times go wrong
 We'll think of the good times, only the good times
 Yeah, we'll think of the good times, only the good times
 Oh, we'll think of the good times, only the good times
-
-
-

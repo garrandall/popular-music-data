@@ -1,8 +1,11 @@
 ---
+album: Expectations
 artists:
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:2zM29oLNLITQCBLo7gAeyZ
 features: []
-genres: []
+first_released_as_single: true
 key: i-got-you-bebe-rexha
 lyrics_url: https://genius.com/Bebe-rexha-i-got-you-lyrics
 name: I Got You
@@ -51,6 +54,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 193558
 ---
 I can see you hurting
 I've been through the same thing

@@ -1,8 +1,11 @@
 ---
+album: The Hits--Chapter One
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:0AiTIiCQ15NW8QHQwSxKuR
 features: []
-genres: []
+first_released_as_single: false
 key: drowning-backstreet-boys
 lyrics_url: https://www.azlyrics.com/lyrics/backstreetboys/drowning.html
 name: Drowning
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
+release_year: 2001
+runtime: 267226
 ---
-
 Don't pretend you're sorry
 I know you're not
 You know you got the power
@@ -178,6 +182,3 @@ I'm swept away by love
 Baby I can't help it
 You keep me
 Drowning in your love
-
-
-

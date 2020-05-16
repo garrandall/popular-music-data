@@ -1,8 +1,11 @@
 ---
+album: FREE 6LACK
 artists:
 - 6LACK
+external_ids:
+  spotify: spotify:track:4AtZRwSR8BOTTQg5ihSggt
 features: []
-genres: []
+first_released_as_single: false
 key: prblms-6lack
 lyrics_url: https://www.azlyrics.com/lyrics/6lack/prblms.html
 name: Prblms
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 246773
 ---
-
 And she said
 You a God damn lie
 I ain't mean to say that shit girl I was God damn high
@@ -110,6 +114,3 @@ So I found me a new thing I'm not as lost as you think
 Got plenty queens in my hometown all they need is drank and that dank
 So I found me a new thing I'm not as lost as you think
 Got plenty queens in my hometown all they need is drank and that dank
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mercury Lane
 artists:
 - Jimmie Allen
+external_ids:
+  spotify: spotify:track:3VamXAvVMczcS2PTYtPfBQ
 features: []
-genres: []
+first_released_as_single: false
 key: best-shot-jimmie-allen
 lyrics_url: https://www.azlyrics.com/lyrics/jimmieallen/bestshot.html
 name: Best Shot
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
+release_year: 2018
+runtime: 195053
 ---
-
 I'm just flesh and bone, heart and soul
 And I've earned a couple scars
 I've let once in a lifetime kind of things slide right out of my arms
@@ -138,6 +142,3 @@ I'm gonna give you, I'll give you my best shot
 I'm gonna give you, I'm gonna give you, yeah
 Whoa whoa yeah
 Whoa yeah
-
-
-

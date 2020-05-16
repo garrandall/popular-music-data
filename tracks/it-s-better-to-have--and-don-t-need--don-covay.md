@@ -1,8 +1,11 @@
 ---
+album: Checkin' In With Don Covay
 artists:
 - Don Covay
+external_ids:
+  spotify: spotify:track:5pfrAvtQr4VbfPXHIF8grV
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-better-to-have--and-don-t-need--don-covay
 lyrics_url: https://genius.com/Don-covay-its-better-to-have-and-dont-need-lyrics
 name: It's Better To Have (and Don't Need)
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 190693
 ---
 You know, I can't get no more
 (Satisfaction)

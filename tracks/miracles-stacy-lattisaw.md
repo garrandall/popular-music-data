@@ -1,8 +1,11 @@
 ---
+album: Sixteen
 artists:
 - Stacy Lattisaw
+external_ids:
+  spotify: spotify:track:7gU995YhmwZ4hvBlNtZPLY
 features: []
-genres: []
+first_released_as_single: false
 key: miracles-stacy-lattisaw
 lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/miracles.html
 name: Miracles
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 208693
 ---
-
 You are my best idea
 The moment I became inspired
 And we've created something special here
@@ -99,6 +103,3 @@ Were supernatural tonight
 A real life fantasy
 The first time I saw you I knew
 I'd found a miracle in you
-
-
-

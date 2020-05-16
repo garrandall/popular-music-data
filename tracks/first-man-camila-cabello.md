@@ -1,8 +1,11 @@
 ---
+album: Romance
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:6TRt2bniIq0EIlrDlje7b8
 features: []
-genres: []
+first_released_as_single: false
 key: first-man-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/firstman.html
 name: First Man
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2019
+runtime: 228758
 ---
-
 Yes, I'm gonna stay with him tonight
 I'll see you in the morning
 No, of course, he won't drink and drive
@@ -63,6 +67,3 @@ That you were the first man that really loved me
 
 Oh, that really loved me, oh
 You really love me
-
-
-

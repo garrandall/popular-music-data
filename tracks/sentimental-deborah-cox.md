@@ -1,8 +1,11 @@
 ---
+album: Deborah Cox (Expanded)
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:1W8dIZW0oC716qoaL9NwJH
 features: []
-genres: []
+first_released_as_single: false
 key: sentimental-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/sentimental.html
 name: Sentimental
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
+release_year: 1995
+runtime: 270333
 ---
-
 I used to mess around
 But I never let it get into me
 'Cause I didn't take you serious baby
@@ -132,4 +136,3 @@ I said it slapped me on my face
 And then my friends don't understand
 Because I had the chance
 I don't know why
-

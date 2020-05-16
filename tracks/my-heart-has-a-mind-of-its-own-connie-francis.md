@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:3045nQoh0ac7z0unR09c13
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-has-a-mind-of-its-own-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/myhearthasamindofitsown.html
 name: My Heart Has A Mind Of Its Own
@@ -75,8 +78,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 150760
 ---
-
 I told this heart of mine
 Our love could never be
 But then I hear your voice
@@ -109,6 +113,3 @@ I say I'll let you go
 But then my heart says no
 Guess my heart has a mine of its own
 Guess my heart has a mind of its own
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Diana Ross & The Supremes Join The Temptations
 artists:
 - Supremes
 - Temptations
+external_ids:
+  spotify: spotify:track:4bsCuHdTpVqf90EJ7oowMX
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-try-something-new-supremes-temptations
 lyrics_url: https://genius.com/Diana-ross-and-the-supremes-and-the-temptations-ill-try-something-new-lyrics
 name: I'll Try Something New
@@ -36,6 +39,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1968
+runtime: 140640
 ---
 I will build you a castle with a tower so high
 It reaches the moon

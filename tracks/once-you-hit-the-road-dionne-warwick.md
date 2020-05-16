@@ -1,8 +1,11 @@
 ---
+album: Track Of The Cat
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:65LQRYMXKnLzroeUazcgQV
 features: []
-genres: []
+first_released_as_single: false
 key: once-you-hit-the-road-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/onceyouhittheroad.html
 name: Once You Hit The Road
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 245413
 ---
-
 You come home with lipstick 
 Stains all over your face
 Tell me no lies
@@ -70,6 +74,3 @@ No, baby, there ain't no, ain't no turning back.
 Once you hit the road, oh baby
 There ain't no, ain't no turning back.
 No, baby, there ain't no, ain't no turning back.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:00mrTzjxIRuWJY01sRBJmO
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: dark-side-of-the-moon-lil-wayne-nicki-minaj
 lyrics_url: https://genius.com/Lil-wayne-dark-side-of-the-moon-lyrics
 name: Dark Side Of The Moon
@@ -12,6 +15,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 242972
 ---
 As I wipe the stars off the windows on my space ship
 Call out the spirits in my basement

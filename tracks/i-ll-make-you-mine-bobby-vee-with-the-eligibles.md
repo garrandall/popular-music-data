@@ -1,7 +1,8 @@
 ---
 artists:
-- Bobby Vee With The Eligibles
-features: []
+- Bobby Vee
+features:
+- The Eligibles
 genres: []
 key: i-ll-make-you-mine-bobby-vee-with-the-eligibles
 name: I'll Make You Mine

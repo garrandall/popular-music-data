@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of/20th Century Masters: The Christmas Collection'
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:5jFiyUs5R6kHuKbAs0ZU2s
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-snow-boyz-ii-men
 lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/letitsnow.html
 name: Let It Snow
@@ -35,8 +38,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1993
+runtime: 251133
 ---
-
 Let It Snow
 Let it snow, Let it snow
 
@@ -79,4 +83,3 @@ Let it snow (leeet it snooow oh
 
 I don't care what the weather may be
 As long as you're here with me
-

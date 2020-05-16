@@ -1,8 +1,11 @@
 ---
+album: The Best Of Friends Of Distinction
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:0YZW2GvxSvrcRhyc4Nc1Ki
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-the-friends-of-distinction
 lyrics_url: https://genius.com/The-friends-of-distinction-i-need-you-lyrics
 name: I Need You
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1971
+runtime: 190733
 ---
 Get together, get together, get together, you gotta
 Get together, get together, get together, you gotta

@@ -1,8 +1,11 @@
 ---
+album: The Ramblin' Man
 artists:
 - Waylon
+external_ids:
+  spotify: spotify:track:62jCWEeUEIjzli6sFPcFnK
 features: []
-genres: []
+first_released_as_single: false
 key: amanda-waylon
 lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/amanda.html
 name: Amanda
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1974
+runtime: 177133
 ---
-
 I've held it all inward, God knows, I've tried,
 But it's an awful awakening in a country boy's life,
 To look in the mirror in total surprise.
@@ -56,6 +60,3 @@ Amanda, light of my life.
 Fate should have made you a gentleman's wife.
 Amanda, light of my life. 
 Fate should have made you a gentleman's wife.
-
-
-

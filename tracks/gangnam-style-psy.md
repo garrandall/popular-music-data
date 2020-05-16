@@ -1,8 +1,11 @@
 ---
+album: "Gangnam Style (\uAC15\uB0A8\uC2A4\uD0C0\uC77C)"
 artists:
 - PSY
+external_ids:
+  spotify: spotify:track:03UrZgTINDqvnUMbbIMhql
 features: []
-genres: []
+first_released_as_single: true
 key: gangnam-style-psy
 lyrics_url: https://www.azlyrics.com/lyrics/psy/gangnamstyle.html
 name: Gangnam Style
@@ -131,8 +134,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 219493
 ---
-
 Oppan Gangnam style
 Gangnam style
 
@@ -297,6 +301,3 @@ Uncle is Gangnam style
 Eh sexy lady
 Uncle is Gangnam style
 Eh sexy lady
-
-
-

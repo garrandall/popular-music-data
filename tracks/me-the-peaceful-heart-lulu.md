@@ -1,8 +1,11 @@
 ---
+album: Most Of Lulu / Lulu's Album
 artists:
 - Lulu
+external_ids:
+  spotify: spotify:track:7aSWx5ikbPDrbMzS9SNLRM
 features: []
-genres: []
+first_released_as_single: false
 key: me-the-peaceful-heart-lulu
 lyrics_url: https://www.azlyrics.com/lyrics/lulu/methepeacefulheart.html
 name: Me The Peaceful Heart
@@ -35,8 +38,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 144773
 ---
-
 Sitting in the shade of a rain soaked orange blossom
 Wondering which way I can turn my sorrow
 Now he's left me behind
@@ -63,6 +67,3 @@ Thinking 'bout love that brought us together
 Thinking 'bout love that keeps us apart
 Wondering why the stormy weather
 Always finds me, the peaceful heart
-
-
-

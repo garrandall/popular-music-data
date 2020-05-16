@@ -1,8 +1,11 @@
 ---
+album: 'Come Softly To Me: The Very Best Of The Fleetwoods'
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:4MszoBMW2yFxHFEHmjXmiT
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-one-to-know-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-the-last-one-to-know-lyrics
 name: The Last One To Know
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 188960
 ---
 I saw a friend as I walked down the street
 He said "Let's sit down

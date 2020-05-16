@@ -1,10 +1,13 @@
 ---
+album: Future & Juice WRLD Present... WRLD ON DRUGS
 artists:
 - Future
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:2OsDoAzo5SGq10qwmKSQBv
 features:
 - Young Scooter
-genres: []
+first_released_as_single: false
 key: jet-lag-future-juice-wrld-young-scooter
 lyrics_url: https://genius.com/Future-and-juice-wrld-jet-lag-lyrics
 name: Jet Lag
@@ -13,6 +16,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 271066
 ---
 I just got a juug, I just got a juug, juug, juug
 I just called the plug (Uh), I just called the plug, plug, plug

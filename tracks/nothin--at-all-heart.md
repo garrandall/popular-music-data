@@ -1,8 +1,11 @@
 ---
+album: Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:4lCF99jVlxFpiAPCuvPfga
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--at-all-heart
 lyrics_url: https://genius.com/Heart-nothin-at-all-lyrics
 name: Nothin' At All
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1985
+runtime: 247565
 ---
 I would walk home every evening
 Through the pyramids of light

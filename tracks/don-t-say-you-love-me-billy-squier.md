@@ -1,8 +1,11 @@
 ---
+album: Hear And Now
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:2LAlFTU4y8o96vice3cmG0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-you-love-me-billy-squier
 lyrics_url: https://genius.com/Billy-squier-dont-say-you-love-me-lyrics
 name: Don't Say You Love Me
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 270160
 ---
 You can't get up
 You can't get down

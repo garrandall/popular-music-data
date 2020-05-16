@@ -1,8 +1,11 @@
 ---
+album: Vision Records Booty Bass Disc 12
 artists:
 - Shana
+external_ids:
+  spotify: spotify:track:5qkT7HSVN1l19cyjoP5huG
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-get-away-shana
 lyrics_url: https://genius.com/Shana-you-cant-get-away-lyrics
 name: You Can't Get Away
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1990
+runtime: 253906
 ---
 Love begins
 And when love ends

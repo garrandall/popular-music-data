@@ -1,8 +1,11 @@
 ---
+album: Annette
 artists:
 - Annette
+external_ids:
+  spotify: spotify:track:7o3MC7f0giOGJDHuF9nicM
 features: []
-genres: []
+first_released_as_single: false
 key: jo-jo-the-dog-faced-boy-annette
 lyrics_url: https://www.musixmatch.com/lyrics/Annette-Funicello/Jo-Jo-the-Dog-Faced-Boy
 name: Jo-Jo The Dog-Faced Boy
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 130506
 ---
 Saturday night at
 The high school dance

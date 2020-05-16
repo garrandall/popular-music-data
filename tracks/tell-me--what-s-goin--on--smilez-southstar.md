@@ -1,9 +1,12 @@
 ---
+album: Crash the Party
 artists:
 - Smilez
 - Southstar
+external_ids:
+  spotify: spotify:track:7aXXjA800sXYKpM8D9pCVT
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me--what-s-goin--on--smilez-southstar
 lyrics_url: https://www.azlyrics.com/lyrics/smilezandsouthstar/tellme.html
 name: Tell Me (What's Goin' On)
@@ -72,8 +75,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 278800
 ---
-
 Yea this right here
 is goin out to all them girls out there
 that did me n south wrong, ya kno?
@@ -155,6 +159,3 @@ love, hate, mistakes, tell me what you think is goin on
 debates, all day tell me what you think is goin on
 too late, heartbreak tell me what you think is goin on
 wats goin on wats goin on
-
-
-

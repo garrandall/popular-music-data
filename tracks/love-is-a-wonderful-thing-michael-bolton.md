@@ -1,8 +1,11 @@
 ---
+album: Time, Love & Tenderness
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:2LCIRBYUBMFy9hL81qthi1
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-wonderful-thing-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/loveisawonderfulthing.html
 name: Love Is A Wonderful Thing
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1991
+runtime: 282933
 ---
-
 Birds fly, they don't think twice
 They simply spread their wings
 The sun shines, it don't ask why
@@ -120,6 +124,3 @@ Love is a wonderful, wonderful thing
 Love is a wonderful, wonderful thing
 It's what makes honey taste sweet
 It's what makes your life complete
-
-
-

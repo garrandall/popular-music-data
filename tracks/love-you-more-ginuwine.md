@@ -1,8 +1,11 @@
 ---
+album: The Senior
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:2KIxyCvBR4u1f9B2IRdlXX
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-more-ginuwine
 lyrics_url: https://genius.com/Ginuwine-love-you-more-lyrics
 name: Love You More
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2003
+runtime: 241373
 ---
 (I just don't know what else to say baby
 There's really nothing left to say

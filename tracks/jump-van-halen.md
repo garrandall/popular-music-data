@@ -1,8 +1,11 @@
 ---
+album: '1984'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:3wX6fQkDLjYxWU9b6HwNlf
 features: []
-genres: []
+first_released_as_single: true
 key: jump-van-halen
 lyrics_url: https://genius.com/Van-halen-jump-lyrics
 name: Jump
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1983
+runtime: 243800
 ---
 I get up, and nothing gets me down
 You got it tough, I've seen the toughest around

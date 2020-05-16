@@ -1,8 +1,11 @@
 ---
+album: Room To Breathe
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:46a3BjDPBdi6OngVhTkuM6
 features: []
-genres: []
+first_released_as_single: false
 key: he-gets-that-from-me-reba-mcentire
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/hegetsthatfromme.html
 name: He Gets That From Me
@@ -55,8 +58,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-03-05'
+release_year: 2003
+runtime: 219933
 ---
-
 His early mornin' attitude
 You have to drag him out of bed
 Only frosted flakes will do
@@ -96,6 +100,3 @@ He said he sure misses you
 He sure misses you
 He really misses you
 He gets that from me
-
-
-

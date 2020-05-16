@@ -1,8 +1,12 @@
 ---
+album: Christmas With The Chipmunks
 artists:
-- David Seville And The Chipmunks
-features: []
-genres: []
+- Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:0BUEXy5V1kLDtHFDRr764t
+features:
+- David Seville
+first_released_as_single: false
 key: rudolph-the-red-nosed-reindeer-david-seville-and-the-chipmunks
 name: Rudolph The Red Nosed Reindeer
 rankings:
@@ -38,5 +42,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1960
+runtime: 151264
 ---
 

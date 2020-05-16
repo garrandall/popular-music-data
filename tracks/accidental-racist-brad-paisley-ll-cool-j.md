@@ -1,9 +1,12 @@
 ---
+album: Wheelhouse
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:23q6Nowh5GeqtY5jTDzKyQ
 features:
 - LL Cool J
-genres: []
+first_released_as_single: false
 key: accidental-racist-brad-paisley-ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/accidentalracist.html
 name: Accidental Racist
@@ -12,8 +15,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2013
+runtime: 351173
 ---
-
 To the man that waited on me at the Starbucks down on Main, I hope you understand
 When I put on that t-shirt, the only thing I meant to say is I'm a Skynyrd fan
 The red flag on my chest somehow is like the elephant in the corner of the south
@@ -81,6 +85,3 @@ Where all that's left is southern pride
 (R.I.P. Robert E. Lee but I've gotta thank Abraham Lincoln for freeing me, know what I mean)
 It's real, it's real
 It's truth
-
-
-

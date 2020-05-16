@@ -1,9 +1,12 @@
 ---
+album: Small Talk
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:1oQjAXbu9xARHLpKH73N1p
 features: []
-genres: []
+first_released_as_single: false
 key: time-for-livin--sly-the-family-stone
 lyrics_url: https://genius.com/Sly-and-the-family-stone-time-for-livin-lyrics
 name: Time For Livin'
@@ -56,6 +59,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 197173
 ---
 Time for livin', time for givin'
 No time for makin' up a monster to share

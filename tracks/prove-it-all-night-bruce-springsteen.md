@@ -1,8 +1,11 @@
 ---
+album: Darkness On the Edge of Town
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:0Ye9OGxiHF3jylblTCuX7Q
 features: []
-genres: []
+first_released_as_single: false
 key: prove-it-all-night-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/proveitallnight.html
 name: Prove It All Night
@@ -43,8 +46,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 237440
 ---
-
 I've been working real hard, trying to get my hands clean, 
 We'll drive that dusty road from Monroe to Angeline,
 To buy you a gold ring and pretty dress of blue, 
@@ -90,6 +94,3 @@ I prove it all night...
 I prove it all night...
 I prove it all night...
 I prove it all night...
-
-
-

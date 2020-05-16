@@ -1,8 +1,11 @@
 ---
+album: I'm No Hero
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:1LJ0MDKqjtXy9ZU9ITGKZZ
 features: []
-genres: []
+first_released_as_single: false
 key: give-a-little-bit-more-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/neversaydiegivealittlebitmore.html
 name: Give A Little Bit More
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1980
+runtime: 215546
 ---
-
 You look so sad - like you lost your only friend
 Don't feel so bad - you can always try again
 So don't hide, go seek, don't let the grass grow
@@ -107,6 +111,3 @@ And if you wanna win you don't give in
 Give a little bit more
 When you think you're through what you gotta do
 Give a little bit more
-
-
-

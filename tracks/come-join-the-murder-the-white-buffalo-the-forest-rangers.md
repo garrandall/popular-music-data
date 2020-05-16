@@ -1,9 +1,12 @@
 ---
+album: Songs of Anarchy, Vol. 4 (Music from Sons of Anarchy)
 artists:
 - The White Buffalo
 - The Forest Rangers
+external_ids:
+  spotify: spotify:track:1jZoQ2R3wgs1UbOhio9j8I
 features: []
-genres: []
+first_released_as_single: true
 key: come-join-the-murder-the-white-buffalo-the-forest-rangers
 lyrics_url: https://www.azlyrics.com/lyrics/whitebuffalo/comejointhemurder.html
 name: Come Join The Murder
@@ -12,8 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 448093
 ---
-
 There's a blackbird perched outside my window
 I hear him calling
 I hear him sing
@@ -104,4 +108,3 @@ Soar on my wings
 You'll touch the hand of God
 And He'll make you king
 And He'll make you king
-

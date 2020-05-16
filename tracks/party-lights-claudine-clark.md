@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Female Oldies - Vol.1
 artists:
 - Claudine Clark
+external_ids:
+  spotify: spotify:track:6n9RoEivAfO0KU9FltgJfL
 features: []
-genres: []
+first_released_as_single: false
 key: party-lights-claudine-clark
 lyrics_url: https://genius.com/Claudine-clark-party-lights-lyrics
 name: Party Lights
@@ -67,6 +70,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 143045
 ---
 (Party lights, I see the party lights)
 Wo

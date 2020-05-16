@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:539bM90Bz4djvChrhY7Q7o
 features: []
-genres: []
+first_released_as_single: false
 key: time-alone-will-tell-connie-francis
 lyrics_url: https://genius.com/Connie-francis-non-pensare-a-me-time-alone-will-tell-lyrics
 name: Time Alone Will Tell
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 163793
 ---
 Time alone will tell
 My love for you will never end

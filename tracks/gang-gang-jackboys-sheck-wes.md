@@ -1,9 +1,12 @@
 ---
+album: JACKBOYS
 artists:
 - JACKBOYS
 - Sheck Wes
+external_ids:
+  spotify: spotify:track:6uJONCdr2rC65BNmCnTBWK
 features: []
-genres: []
+first_released_as_single: false
 key: gang-gang-jackboys-sheck-wes
 lyrics_url: https://genius.com/Jackboys-and-sheck-wes-gang-gang-lyrics
 name: GANG GANG
@@ -16,6 +19,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 244760
 ---
 What the fuck is we doin'?
 Yeah

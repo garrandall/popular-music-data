@@ -1,8 +1,11 @@
 ---
+album: Ctrl
 artists:
 - SZA
+external_ids:
+  spotify: spotify:track:1Iu2xRcZGoVRJ57Jo5BAzZ
 features: []
-genres: []
+first_released_as_single: true
 key: broken-clocks-sza
 lyrics_url: https://www.azlyrics.com/lyrics/sza/brokenclocks.html
 name: Broken Clocks
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2017
+runtime: 231253
 ---
-
 Run fast from my day job
 Running fast from the way it was
 Jump quick to a pay check
@@ -111,6 +115,3 @@ Think I forgot
 You love me
 You love me
 You love me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Revolver
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3tGhRLgcCP6SIZU3tbGl7l
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-get-you-into-my-life-the-beatles
 lyrics_url: https://genius.com/The-beatles-got-to-get-you-into-my-life-lyrics
 name: Got To Get You Into My Life
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1966
+runtime: 149240
 ---
 I was alone, I took a ride
 I didn't know what I would find there

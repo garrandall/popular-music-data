@@ -1,8 +1,11 @@
 ---
+album: In The Blood
 artists:
 - Londonbeat
+external_ids:
+  spotify: spotify:track:1fALXFVWhnXVME9MNCQmt1
 features: []
-genres: []
+first_released_as_single: false
 key: a-better-love-londonbeat
 lyrics_url: https://www.azlyrics.com/lyrics/londonbeat/abetterlove.html
 name: A Better Love
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1990
+runtime: 240400
 ---
-
 I remember how
 The sun came shining through the trees
 Made shadows on the road
@@ -102,6 +106,3 @@ You are where I belong
 I live and breathe in you
 
 I'll never find a better love not in a minute...
-
-
-

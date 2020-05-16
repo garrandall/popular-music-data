@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:58fnw6HtW7CwDXVrvXu3TB
 features: []
-genres: []
+first_released_as_single: false
 key: games-that-lovers-play-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-games-that-lovers-play-lyrics
 name: Games That Lovers Play
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 153906
 ---
 There are games
 That many foolish lovers play

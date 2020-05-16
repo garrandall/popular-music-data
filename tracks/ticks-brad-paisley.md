@@ -1,8 +1,11 @@
 ---
+album: 5th Gear
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:736KP0gdltJQWPKk0wVL7l
 features: []
-genres: []
+first_released_as_single: false
 key: ticks-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/ticks.html
 name: Ticks
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 273160
 ---
-
 Every time you take a sip
 In this smoky atmosphere
 You press that bottle to your lips
@@ -136,6 +140,3 @@ I'd like to walk you through a field of wildflowers
 And I'd like to check you for ticks.
 
 I'd sure like to check you for ticks...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1zigoX1Bxo39a9lIHPxFyR
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: mr-carter-lil-wayne-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/mrcarter.html
 name: Mr Carter
@@ -76,9 +79,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 316266
 ---
-
-
 Yo, yo Drew and Inf
 This-this, this right here is crazy
 Like I I feel big, you know what I mean
@@ -167,7 +170,7 @@ Young Carter, go farther
 Go further, go harder
 Is that not why we came?
 And if not, then why bother?
-Show no mercy in MurciÃ©laga's
+Show no mercy in Murciélaga's
 so far from being the bastard that Marcy had fathered
 Now my name's been mentioned with the Martyrs
 The Biggies and the Pacs, and the Marleys and the Marcuses
@@ -222,6 +225,3 @@ Ah, we'll lose two lives, yours and mine
 Gimme any amount of time, don't let Miss Carter grieve
 At the Funeral Parlor, drippin' tears down my sleeve
 Gimme any amount of time, don't let Miss Carter grieve
-
-
-

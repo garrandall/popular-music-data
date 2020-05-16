@@ -1,8 +1,11 @@
 ---
+album: EVERYTHING IS LOVE (Clean)
 artists:
 - The Carters
+external_ids:
+  spotify: spotify:track:7zmleW3XZx0uUsL2CkFuDe
 features: []
-genres: []
+first_released_as_single: false
 key: summer-the-carters
 lyrics_url: https://genius.com/The-carters-summer-lyrics
 name: Summer
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2018
+runtime: 285200
 ---
 Right now inside the place to be with the one JAY-Z and Bey
 Slowing down the dance to a different type of speed

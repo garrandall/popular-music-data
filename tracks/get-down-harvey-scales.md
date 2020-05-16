@@ -1,8 +1,11 @@
 ---
+album: Love-Itis
 artists:
 - Harvey Scales
+external_ids:
+  spotify: spotify:track:1HfDPwJVY6ReeQ1AtA5NiL
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-harvey-scales
 name: Get Down
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 167906
 ---
 

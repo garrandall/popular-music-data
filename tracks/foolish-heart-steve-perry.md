@@ -1,8 +1,11 @@
 ---
+album: Street Talk
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:4mxkQkZSX1BWgIYh5Q2Jt9
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-heart-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/steveperry/foolishheart.html
 name: Foolish Heart
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
+release_year: 1984
+runtime: 219720
 ---
-
 I need a love that grows
 I don't want it unless I know
 With each passing hour
@@ -130,6 +134,3 @@ Foolish heart
 Oh, foolish, foolish heart
 You've been wrong before
 Foolish, foolish heart
-
-
-

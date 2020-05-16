@@ -1,8 +1,11 @@
 ---
+album: Hunky Dory (2015 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:0LrwgdLsFaWh9VXIjBRe8t
 features: []
-genres: []
+first_released_as_single: false
 key: changes-david-bowie
 lyrics_url: https://www.musixmatch.com/lyrics/David-Bowie/Changes
 name: Changes
@@ -79,6 +82,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1971
+runtime: 217746
 ---
 I still don't know what I was waiting for
 And my time was running wild

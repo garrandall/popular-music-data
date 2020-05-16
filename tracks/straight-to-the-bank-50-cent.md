@@ -1,8 +1,11 @@
 ---
+album: Curtis
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:6530klKZZmOHL2ACme2rRJ
 features: []
-genres: []
+first_released_as_single: false
 key: straight-to-the-bank-50-cent
 lyrics_url: https://genius.com/50-cent-straight-to-the-bank-lyrics
 name: Straight To The Bank
@@ -19,6 +22,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
+release_year: 2007
+runtime: 190653
 ---
 When I'm out in N.Y., boy, it's blunts and Phillies
 When I'm out in L.A., boy, it's wraps and Swishers

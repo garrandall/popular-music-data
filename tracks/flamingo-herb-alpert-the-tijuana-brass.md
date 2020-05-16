@@ -1,9 +1,12 @@
 ---
+album: S.R.O.
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:1GgSvmJAqs8vEH4YCtm3H0
 features: []
-genres: []
+first_released_as_single: false
 key: flamingo-herb-alpert-the-tijuana-brass
 name: Flamingo
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 146720
 ---
 

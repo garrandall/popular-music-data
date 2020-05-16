@@ -1,8 +1,11 @@
 ---
+album: Try This
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:6liVe4QuupDwqkVhO7ZFcS
 features: []
-genres: []
+first_released_as_single: false
 key: try-p-nk
 lyrics_url: https://genius.com/P-nk-try-lyrics
 name: Try
@@ -103,6 +106,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2003
+runtime: 193546
 ---
 Ever wonder about what he's doing
 How it all turned to lies?

@@ -1,8 +1,11 @@
 ---
+album: Open Up And Say...Ahh!
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:27kMqdX3aoN3gBndVKlTfR
 features: []
-genres: []
+first_released_as_single: false
 key: fallen-angel-poison
 lyrics_url: https://genius.com/Poison-fallen-angel-lyrics
 name: Fallen Angel
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
+release_year: 1988
+runtime: 238200
 ---
 She stepped off the bus and out
 Into the city streets

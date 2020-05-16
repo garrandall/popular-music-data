@@ -1,9 +1,12 @@
 ---
+album: Paula DeAnda
 artists:
 - Paula DeAnda
+external_ids:
+  spotify: spotify:track:0Sc9UwBpChiRKRF8DKvWKZ
 features:
 - The DEY
-genres: []
+first_released_as_single: false
 key: walk-away--remember-me--paula-deanda-the-dey
 lyrics_url: https://genius.com/Paula-deanda-walk-away-remember-me-lyrics
 name: Walk Away (Remember Me)
@@ -96,6 +99,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2006
+runtime: 238160
 ---
 I'm gonna remember you, you're gonna remember me
 (I'm gonna remember you, you're gonna remember me)

@@ -1,8 +1,11 @@
 ---
+album: Scoundrel Days
 artists:
 - a-ha
+external_ids:
+  spotify: spotify:track:4aPf0wQ6VBlRqWABaVjfRN
 features: []
-genres: []
+first_released_as_single: false
 key: cry-wolf-a-ha
 lyrics_url: https://genius.com/A-ha-cry-wolf-lyrics
 name: Cry Wolf
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1986
+runtime: 246586
 ---
 "Night I left the city
 I dreamt of a wolf..."

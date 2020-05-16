@@ -1,8 +1,11 @@
 ---
+album: In My Tribe
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:19X5dUlxVWC5jDg3eOysMz
 features: []
-genres: []
+first_released_as_single: false
 key: like-the-weather-10-000-maniacs
 lyrics_url: https://www.musixmatch.com/lyrics/10-000-Maniacs/Like-the-Weather
 name: Like The Weather
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1987
+runtime: 236653
 ---
 Color of the sky as far as I can see is coal grey.
 Lift my head from the pillow and then fall again.

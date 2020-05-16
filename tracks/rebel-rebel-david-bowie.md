@@ -1,8 +1,11 @@
 ---
+album: Diamond Dogs (2016 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:2EC9IJj7g0mN1Q5VrZkiYY
 features: []
-genres: []
+first_released_as_single: false
 key: rebel-rebel-david-bowie
 lyrics_url: https://genius.com/David-bowie-rebel-rebel-lyrics
 name: Rebel Rebel
@@ -39,6 +42,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 274746
 ---
 Doo doo doo-doo doo doo-doo doo
 Doo doo doo-doo doo doo-doo doo

@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:54MVjh8mBGVNcqGz0pEnAN
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-me-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-let-it-be-me-lyrics
 name: Let It Be Me
@@ -67,6 +70,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1957
+runtime: 158638
 ---
 I bless the day I found you
 I want to stay around you

@@ -1,8 +1,11 @@
 ---
+album: Christopher Cross
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:2vUoP3ppYxD1F5ovbnmM46
 features: []
-genres: []
+first_released_as_single: false
 key: never-be-the-same-christopher-cross
 lyrics_url: https://www.azlyrics.com/lyrics/christophercross/neverbethesame.html
 name: Never Be The Same
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1979
+runtime: 249733
 ---
-
 It was good for me
 It was good for you
 Now nothing either of us can say or do
@@ -144,6 +148,3 @@ Hey...I'll
 Never be the same without your love
 I'll live alone
 Try so hard to rise above
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mann Made Hits
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:7gEpTMp9MQc1uJwivtL37R
 features: []
-genres: []
+first_released_as_single: true
 key: do-wah-diddy-diddy-manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-do-wah-diddy-diddy-lyrics
 name: Do Wah Diddy Diddy
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 143400
 ---
 There she was just walkin' down the street
 Singin', "Do wah diddy, diddy, dum diddy do"

@@ -1,8 +1,11 @@
 ---
+album: The Music of My World
 artists:
 - Little Caesar And The Consuls
+external_ids:
+  spotify: spotify:track:3CrE3QPWWgwX2gE0foJTcS
 features: []
-genres: []
+first_released_as_single: false
 key: -my-girl--sloopy-little-caesar-and-the-consuls
 name: (My Girl) Sloopy
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 213629
 ---
 

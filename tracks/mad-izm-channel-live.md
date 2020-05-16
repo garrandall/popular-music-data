@@ -1,8 +1,11 @@
 ---
+album: Station Identification
 artists:
 - Channel Live
+external_ids:
+  spotify: spotify:track:0hvxqftYCZT406ElE03giM
 features: []
-genres: []
+first_released_as_single: false
 key: mad-izm-channel-live
 lyrics_url: https://genius.com/Channel-live-mad-izm-lyrics
 name: Mad Izm
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1995
+runtime: 255533
 ---
 Uhh! Yeahhh
 I know you're diggin' this type of shit right here

@@ -1,9 +1,12 @@
 ---
+album: Steers & Stripes
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:0IoG0OQsFXpDTuDX6QALjg
 features: []
-genres: []
+first_released_as_single: false
 key: only-in-america-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/onlyinamerica.html
 name: Only In America
@@ -88,8 +91,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
+release_year: 2001
+runtime: 269466
 ---
-
 Sun coming up over New York City
 School bus driver in a traffic jam
 Starin' at the faces in her rearview mirror
@@ -129,6 +133,3 @@ Only in America
 Yeah only in America
 Where we dream in red, white and blue
 Yeah we dream as big as we want to
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Border Girl
 artists:
 - Paulina Rubio
+external_ids:
+  spotify: spotify:track:5nuvvKXACbvkftbe1oS0Oy
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-you-love-paulina-rubio
 lyrics_url: https://www.azlyrics.com/lyrics/paulinarubio/theoneyoulove.html
 name: The One You Love
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-11-09'
+release_year: 2002
+runtime: 227600
 ---
-
 When you're on top of the world
 Or it's got you down
 When you're flying through the air
@@ -104,6 +108,3 @@ I only wanna be your every need
 I wanna be the girl in all your dreams
 I'll do anything to be
 The one you love
-
-
-

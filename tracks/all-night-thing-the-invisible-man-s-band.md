@@ -1,8 +1,11 @@
 ---
+album: The Invisible Man's Band
 artists:
 - The Invisible Man's Band
+external_ids:
+  spotify: spotify:track:0SWIwGe12CPw3QV8hB9EPa
 features: []
-genres: []
+first_released_as_single: false
 key: all-night-thing-the-invisible-man-s-band
 lyrics_url: https://genius.com/The-invisible-mans-band-all-night-thing-lyrics
 name: All Night Thing
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 386906
 ---
 One, two, three...
 

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Graduation Album'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1zugfOhn6BebboqGcpUlba
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-young-glee-cast
 lyrics_url: https://genius.com/Glee-cast-we-are-young-lyrics
 name: We Are Young
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2011
+runtime: 249773
 ---
 Give me a second, I, I need to get my story straight
 My friends are in the bathroom getting higher than the Empire State

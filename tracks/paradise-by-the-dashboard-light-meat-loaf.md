@@ -1,8 +1,11 @@
 ---
+album: Bat Out Of Hell
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:2g7gviEeJr6pyxO7G35EWQ
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-by-the-dashboard-light-meat-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/meatloaf/paradisebythedashboardlight.html
 name: Paradise By The Dashboard Light
@@ -47,9 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1977
+runtime: 508333
 ---
-
-
 Well I remember every little thing
 As if it happened only yesterday
 Parking by the lake
@@ -274,6 +277,3 @@ And it was so much better than it is today
 
 It never felt so good, it never felt so right
 And we were glowing like the metal on the edge of a knife
-
-
-

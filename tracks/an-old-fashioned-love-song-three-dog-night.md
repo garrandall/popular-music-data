@@ -1,8 +1,11 @@
 ---
+album: Harmony
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:0mkRIQZWFIdNPoIlr0owYd
 features: []
-genres: []
+first_released_as_single: false
 key: an-old-fashioned-love-song-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-an-old-fashioned-love-song-lyrics
 name: An Old Fashioned Love Song
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 206360
 ---
 Just an old-fashioned love song
 Playin' on the radio

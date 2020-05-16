@@ -1,8 +1,11 @@
 ---
+album: Because Of You
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:0JKjqJLo145b1mqA6MnhIl
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-ne-yo
 lyrics_url: https://genius.com/Ne-yo-do-you-lyrics
 name: Do You
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-10-27'
+release_year: 2007
+runtime: 228266
 ---
 Maybe this decision was a mistake
 You probably don't care what I have to say

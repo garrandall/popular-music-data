@@ -1,10 +1,13 @@
 ---
+album: Hamilton, Joe Frank & Reynolds
 artists:
 - Hamilton
 - Joe Frank
 - Reynolds
+external_ids:
+  spotify: spotify:track:7tJsTykoo4Jk5JguHTx9W7
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-pull-your-love-hamilton-joe-frank-reynolds
 lyrics_url: https://genius.com/Hamilton-joe-frank-and-reynolds-dont-pull-your-love-lyrics
 name: Don't Pull Your Love
@@ -65,6 +68,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 163040
 ---
 Don't pull your love out on me, baby
 If you do then I think that maybe

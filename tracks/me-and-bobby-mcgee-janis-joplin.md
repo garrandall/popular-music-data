@@ -1,8 +1,11 @@
 ---
+album: Pearl
 artists:
 - Janis Joplin
+external_ids:
+  spotify: spotify:track:1IqFh00G2kvvMm8pRMpehA
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-bobby-mcgee-janis-joplin
 lyrics_url: https://genius.com/Janis-joplin-me-and-bobby-mcgee-lyrics
 name: Me And Bobby McGee
@@ -67,6 +70,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 271333
 ---
 Busted flat in Baton Rouge, waiting for a train
 When I was feeling nearly faded as my jeans

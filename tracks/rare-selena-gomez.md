@@ -1,8 +1,11 @@
 ---
+album: Rare
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:7HMmFQsKsljwTw8bS7lu19
 features: []
-genres: []
+first_released_as_single: false
 key: rare-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/rare.html
 name: Rare
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 220589
 ---
-
 Baby, you've been so distant from me lately
 And lately don't even wanna call you "baby"
 
@@ -113,6 +117,3 @@ Oh yeah
 So rare
 (Rare)
 (Rare)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Armageddon - The Album
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:225xvV8r1yKMHErSWivnow
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-miss-a-thing-aerosmith
 lyrics_url: https://genius.com/Aerosmith-i-dont-want-to-miss-a-thing-lyrics
 name: I Don't Want To Miss A Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 298760
 ---
 I could stay awake just to hear you breathin'
 Watch you smile while you are sleeping

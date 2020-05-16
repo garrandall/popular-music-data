@@ -1,8 +1,11 @@
 ---
+album: In The Right Place
 artists:
 - Dr. John
+external_ids:
+  spotify: spotify:track:3GppcLIGlSlvujXgR0pPRt
 features: []
-genres: []
+first_released_as_single: false
 key: such-a-night-dr--john
 lyrics_url: https://genius.com/Dr-john-such-a-night-lyrics
 name: Such A Night
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 177733
 ---
 Such a night, it's such a night
 Sweet confusion under the moonlight

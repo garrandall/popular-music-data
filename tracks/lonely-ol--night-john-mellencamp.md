@@ -1,8 +1,11 @@
 ---
+album: Scarecrow
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:0TBMx8wWJkwSEVSOJUn21e
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-ol--night-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/lonelyolnight.html
 name: Lonely Ol' Night
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-01-04'
+release_year: 1985
+runtime: 225173
 ---
-
 She calls me up and says baby it's a lonely ol' night
 I don't know I'm just so scared and lonely all at the same time
 Nobody told us it was gonna work out this way
@@ -114,4 +118,3 @@ But it's okay
 
 She calls me Baby She calls everybody Baby
 It's a lonely ol' night but ain't they all
-

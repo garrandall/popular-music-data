@@ -1,8 +1,11 @@
 ---
+album: The Essential Bobby Bare
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:6f8RdBMG6A7EMfVF7uOEqO
 features: []
-genres: []
+first_released_as_single: false
 key: have-i-stayed-away-too-long-bobby-bare
 lyrics_url: https://genius.com/Bobby-bare-have-i-stayed-away-too-long-lyrics
 name: Have I Stayed Away Too Long
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 129666
 ---
 Have I stayed away too long
 Have I stayed away too long

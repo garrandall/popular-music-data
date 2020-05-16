@@ -1,8 +1,11 @@
 ---
+album: ABC
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:6wDviYDtmSDZ0S6TVMM9Vc
 features: []
-genres: []
+first_released_as_single: false
 key: abc-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/thejackson5medleyiwantyoubackabctheloveyousaveimmortalversion.html
 name: ABC
@@ -59,9 +62,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 177733
 ---
-
-
 Uh-huh huh huhhh
 Let me tell ya now, hh-huh
 (Mmhhmmm)
@@ -166,6 +169,3 @@ S is for "Save it"
 T is for "Take it slow"
 O is for "Oh, no"
 P is for "Please, please, don't go! "
-
-
-

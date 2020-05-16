@@ -1,8 +1,11 @@
 ---
+album: Smooth Is The Way
 artists:
 - Around The Way
+external_ids:
+  spotify: spotify:track:6ZvTqBPdKw6ynie8oiDT7I
 features: []
-genres: []
+first_released_as_single: false
 key: really-into-you-around-the-way
 lyrics_url: https://www.musixmatch.com/lyrics/Around-The-Way/Really-Into-You
 name: Really Into You
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1992
+runtime: 309773
 ---
 Post my meaning
 

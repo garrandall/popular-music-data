@@ -1,8 +1,11 @@
 ---
+album: Love Ballads
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:18BLPLHPRpxcXUr7rxnHpn
 features: []
-genres: []
+first_released_as_single: false
 key: come-what-may-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-come-what-may-lyrics
 name: Come What May
@@ -19,6 +22,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
+release_year: 1958
+runtime: 101946
 ---
 I am yours and you are mine
 Come what may

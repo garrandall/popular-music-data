@@ -1,8 +1,11 @@
 ---
+album: Cry Softly Lonely One
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:1yXzgdB3Tdd986SDY0ssZd
 features: []
-genres: []
+first_released_as_single: false
 key: cry-softly-lonely-one-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/crysoftlylonelyone.html
 name: Cry Softly Lonely One
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 174013
 ---
-
 Cry softly lonely one 
 It's over, it's said, it's done 
 Don't let your heart break down 
@@ -62,6 +66,3 @@ Don't cry all alone
 You can run to me, come to me 
 You can cry to me 
 Tonight and forever, lonely one
-
-
-

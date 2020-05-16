@@ -1,8 +1,11 @@
 ---
+album: I Love How You Love Me
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:3NQbjpaVxHz5s8ZIUtRAhu
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-how-you-love-me-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/ilovehowyouloveme.html
 name: I Love How You Love Me
@@ -63,8 +66,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1962
+runtime: 148600
 ---
-
 I love how your eyes close
 Whenever you kiss me.
 And when I'm away from you
@@ -94,6 +98,3 @@ Tease me, please me
 Love how you love me 
 
 I love how you love me
-
-
-

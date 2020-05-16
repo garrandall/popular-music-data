@@ -1,8 +1,11 @@
 ---
+album: Groovin' (Mono)
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:6zqsyB7uIvWrL1iCJzpNrs
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-run-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-you-better-run-lyrics
 name: You Better Run
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 149702
 ---
 (Well, now you'd better run)
 Run when I say

@@ -1,8 +1,11 @@
 ---
+album: Touch The World
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:6DOXo042sAORxIuZV67qKC
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-of-you-earth-wind-fire
 name: Thinking Of You
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1987
+runtime: 281746
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Elite Hotel
 artists:
 - Emmylou Harris
+external_ids:
+  spotify: spotify:track:0cqh5DPUXvg7IHmHwLUC0C
 features: []
-genres: []
+first_released_as_single: false
 key: here-there-and-everywhere-emmylou-harris
 lyrics_url: https://www.azlyrics.com/lyrics/emmylouharris/herethereandeverywhere.html
 name: Here There And Everywhere
@@ -27,8 +30,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1975
+runtime: 221280
 ---
-
 Here making each day of the year
 Changing my life with one wave of his hand
 Nobody can deny that there's something there
@@ -48,6 +52,3 @@ Everywhere knowing that love is to share
 Each one believing that love never dies watching his eyes and hoping I'm
 always there
 To be there and everywhere here there and everywhere
-
-
-

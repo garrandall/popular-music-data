@@ -1,9 +1,12 @@
 ---
+album: No Mercy
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:0yJpq0T48tKm6YPfSx2qnu
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: get-back-up-t-i--chris-brown
 lyrics_url: https://genius.com/Ti-get-back-up-lyrics
 name: Get Back Up
@@ -12,6 +15,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 264200
 ---
 I'm only, I'm only human dog, hello, out there
 I'm only human dog, can you, hear me?

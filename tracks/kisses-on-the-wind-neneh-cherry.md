@@ -1,8 +1,11 @@
 ---
+album: Raw Like Sushi
 artists:
 - Neneh Cherry
+external_ids:
+  spotify: spotify:track:6F7LbHGLir4Z0sTVNPVgax
 features: []
-genres: []
+first_released_as_single: false
 key: kisses-on-the-wind-neneh-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/kissesonthewind.html
 name: Kisses On The Wind
@@ -63,8 +66,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1989
+runtime: 237373
 ---
-
 Down this wild street walks
 Walks a child with no trace
 Of ever being as young as her sister is
@@ -112,6 +116,3 @@ So young
 Making love was only dreaming
 This girl she's got another story
 When they are gone she blows them kisses on the wind
-
-
-

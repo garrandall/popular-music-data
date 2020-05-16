@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:3Lfiu5sZ4M4B6JaKMBc0FU
 features: []
-genres: []
+first_released_as_single: false
 key: barcelona-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/barcelona.html
 name: Barcelona
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 191146
 ---
-
 Well get up up on the dancefloor tonight
 I've got two left feet and a bottle of red wine
 Making me feel like the beat and the bassline
@@ -60,6 +64,3 @@ Las Ramblas, I'll meet ya, come on and dance with me, in Barcelona
 Drinking Sangria, I just want to be in Barcelona
 Mamacita, rica, feel that summer breeze in Barcelona
 Los otros, viva la vida, siempre vida Barcelona
-
-
-

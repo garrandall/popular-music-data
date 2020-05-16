@@ -1,8 +1,11 @@
 ---
+album: Shout! Shout! (Knock Yourself Out)
 artists:
 - Ernie Maresca
+external_ids:
+  spotify: spotify:track:5x6EGByCHCfGtVCwg1Z1PG
 features: []
-genres: []
+first_released_as_single: false
 key: shout--shout---knock-yourself-out--ernie-maresca
 lyrics_url: https://genius.com/Ernie-maresca-shout-shout-knock-yourself-out-lyrics
 name: Shout! Shout! (Knock Yourself Out)
@@ -63,6 +66,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 130093
 ---
 SHOUT! SHOUT! (KNOCK YOURSELF OUT)
 Ernie Maresca

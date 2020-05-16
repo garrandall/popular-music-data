@@ -1,9 +1,12 @@
 ---
+album: I'm All Yours
 artists:
 - Jay Sean
+external_ids:
+  spotify: spotify:track:4RP3afrf3AVFV1rTO0hFZh
 features:
 - Pitbull
-genres: []
+first_released_as_single: true
 key: i-m-all-yours-jay-sean-pitbull
 lyrics_url: https://genius.com/Jay-sean-im-all-yours-lyrics
 name: I'm All Yours
@@ -12,6 +15,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
+release_year: 2012
+runtime: 218573
 ---
 I'm all yours tonight
 Got a feeling that I can't deny

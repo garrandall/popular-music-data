@@ -1,8 +1,11 @@
 ---
+album: Rock Artifacts, Vol. I
 artists:
 - Chi Coltrane
+external_ids:
+  spotify: spotify:track:2xmrtkH6Kt74rn7Yv9DAxj
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-and-lightning-chi-coltrane
 lyrics_url: https://genius.com/Chi-coltrane-thunder-and-lightning-lyrics
 name: Thunder And Lightning
@@ -59,6 +62,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 181000
 ---
 Oh, what a good thing I've got
 Oh, it's such a good thing I've got

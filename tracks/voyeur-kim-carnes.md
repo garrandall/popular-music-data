@@ -1,8 +1,11 @@
 ---
+album: Voyeur
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:7iuznl4Z4gOLGVdI4WvwqH
 features: []
-genres: []
+first_released_as_single: false
 key: voyeur-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/voyeur.html
 name: Voyeur
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 238733
 ---
-
 When voices from the thin walls
 Speak of aberrant behavior
 And the video (videos)
@@ -89,6 +93,3 @@ Till it makes you feel good
 Voyeur, voyeur who ya' got tonight?
 Where love is still alive
 It's just locked up inside
-
-
-

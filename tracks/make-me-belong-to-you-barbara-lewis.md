@@ -1,8 +1,11 @@
 ---
+album: Working On A Groovy Thing
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:1C1Ou0rEJwjpZZgdaQjf0y
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-belong-to-you-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-make-me-belong-to-you-lyrics
 name: Make Me Belong To You
@@ -39,6 +42,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 149920
 ---
 Darlin, I am whatever you make me
 So baby, baby whatever you make me

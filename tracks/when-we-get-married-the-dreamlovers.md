@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Dreamlovers - The Heritage Years Plus...
 artists:
 - The Dreamlovers
+external_ids:
+  spotify: spotify:track:6Jh1r6aDr8Z7jU2zairxW6
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-get-married-the-dreamlovers
 lyrics_url: https://genius.com/The-dreamlovers-when-we-get-married-lyrics
 name: When We Get Married
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
+release_year: 1961
+runtime: 149026
 ---
 Darling...oh oh
 When we get married

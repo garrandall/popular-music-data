@@ -1,8 +1,11 @@
 ---
+album: The Hits Of New Vaudeville Band
 artists:
 - The New Vaudeville Band
+external_ids:
+  spotify: spotify:track:1UOB6yEXaMQ1hbhmBQW5wZ
 features: []
-genres: []
+first_released_as_single: true
 key: peek-a-boo-the-new-vaudeville-band
 lyrics_url: https://www.musixmatch.com/lyrics/New-Vaudeville-Band/Peek-A-Boo
 name: Peek-A-Boo
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1967
+runtime: 161573
 ---
 Peek-A-Boo, I do love you.
 You're the girl for me.

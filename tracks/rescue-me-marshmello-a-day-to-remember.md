@@ -1,9 +1,12 @@
 ---
+album: Joytime III
 artists:
 - Marshmello
+external_ids:
+  spotify: spotify:track:5dLP5JbgWGZttnUv4NFJeg
 features:
 - A Day To Remember
-genres: []
+first_released_as_single: true
 key: rescue-me-marshmello-a-day-to-remember
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/rescueme.html
 name: Rescue Me
@@ -12,8 +15,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2019
+runtime: 237203
 ---
-
 Never been safe, but I've never come closer
 Another year down and another year older
 A million fresh starts, what I needed was closure, yeah
@@ -63,6 +67,3 @@ When I found you, I found me
 Lines in the sand, only you can read
 My S.O.S., yeah, you rescued me
 Rescued me
-
-
-

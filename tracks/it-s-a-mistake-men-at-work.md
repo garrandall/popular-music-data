@@ -1,8 +1,11 @@
 ---
+album: Cargo
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:06CUB4iLHgyenwlMwiLSF1
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-mistake-men-at-work
 lyrics_url: https://genius.com/Men-at-work-its-a-mistake-lyrics
 name: It's A Mistake
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1981
+runtime: 284573
 ---
 Jump down the shelters to get away
 The boys are cockin' up their guns

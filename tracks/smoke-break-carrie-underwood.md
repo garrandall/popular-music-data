@@ -1,8 +1,11 @@
 ---
+album: Storyteller
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:46W2wkCzFerbeQbNz3EIaa
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-break-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/smokebreak.html
 name: Smoke Break
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-01-23'
+release_year: 2015
+runtime: 198333
 ---
-
 She's a small-town, hard-working woman just trying to make a living
 Working three jobs, feeding four little mouths in a run-down kitchen
 When you never taking nothing and doing nothing but giving
@@ -133,6 +137,3 @@ Grab that cup,
 Fill it up
 Sip it slow
 And let it all go
-
-
-

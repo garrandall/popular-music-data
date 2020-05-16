@@ -1,8 +1,11 @@
 ---
+album: 25 Miles
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:0vstoapfzoOlqD8zurG2uJ
 features: []
-genres: []
+first_released_as_single: false
 key: twenty-five-miles-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/twentyfivemiles.html
 name: Twenty-Five Miles
@@ -63,8 +66,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 198213
 ---
-
 Come on, feet, start moving
 Got to get me there
 Ow!
@@ -128,6 +132,3 @@ I got to walk on, let me ya, y'all
 (Walking) Hey, hey now
 I got to walk on, let me ya, y'all, got to be
 (I-I, I-I, I, I, I)
-
-
-

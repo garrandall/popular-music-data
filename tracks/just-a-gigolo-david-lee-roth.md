@@ -1,8 +1,11 @@
 ---
+album: Just a Gigolo/I Ain't Got Nobody (45 Version) / Just a Gigolo/I Ain't Got Nobody
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:0QcIphdyZIVgFvW7ijEiPX
 features: []
-genres: []
+first_released_as_single: true
 key: just-a-gigolo-david-lee-roth
 lyrics_url: https://www.azlyrics.com/lyrics/davidleeroth/medleyjustagigoloiaintgotnobody.html
 name: Just A Gigolo
@@ -75,8 +78,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1985
+runtime: 259158
 ---
-
 I'm just a gigolo and everywhere I go
 People know the part I'm playing
 Paid for every dance, selling each romance
@@ -151,6 +155,3 @@ Nobody (nobody), nobody (nobody)
 Nobody (nobody), nobody (nobody)
 Nobody (nobody)
 Nobody cares for me
-
-
-

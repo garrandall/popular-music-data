@@ -1,8 +1,11 @@
 ---
+album: Patty Smyth
 artists:
 - Patty Smyth
+external_ids:
+  spotify: spotify:track:3tJFi9WLf1qtkPXumt9THq
 features: []
-genres: []
+first_released_as_single: false
 key: i-should-be-laughing-patty-smyth
 lyrics_url: https://www.azlyrics.com/lyrics/pattysmyth/ishouldbelaughing.html
 name: I Should Be Laughing
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 305933
 ---
-
 Somewhere in a scrap book
 There's a rose you gave to me
 And the photograph that's torn in half
@@ -62,6 +66,3 @@ When should be laughin' at this joke
 Dressed up as love, diguised as hope
 And isn't funny after all this time
 A tear is fallin' when I should be laughin'
-
-
-

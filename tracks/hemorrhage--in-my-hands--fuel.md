@@ -1,8 +1,11 @@
 ---
+album: Something Like Human
 artists:
 - Fuel
+external_ids:
+  spotify: spotify:track:1sjrDQXqAa9V07FjKIlAQ4
 features: []
-genres: []
+first_released_as_single: false
 key: hemorrhage--in-my-hands--fuel
 lyrics_url: https://www.azlyrics.com/lyrics/fuel/hemorrhageinmyhands.html
 name: Hemorrhage (In My Hands)
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
+release_year: 2000
+runtime: 236866
 ---
-
 Memories are just where you laid them 
 Dragging the waters til the depths give up their dead 
 What did you expect to find? 
@@ -125,6 +129,3 @@ Don't fall away and leave me to myself
 Don't fall away and leave love bleeding in my hands, in my hands again 
 Leave love bleeding in my hands, in my hands again 
 Leave love bleeding in my hands, in my hands again, oh
-
-
-

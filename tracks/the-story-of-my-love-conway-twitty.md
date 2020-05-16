@@ -1,8 +1,11 @@
 ---
+album: Conway Twitty Sings
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:2PB9pDKwuJMXdaBuY4AXao
 features: []
-genres: []
+first_released_as_single: false
 key: the-story-of-my-love-conway-twitty
 lyrics_url: https://www.musixmatch.com/lyrics/Conway-Twitty/The-Story-of-My-Love
 name: The Story Of My Love
@@ -55,6 +58,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 137133
 ---
 Darling, were not very old
 But theres a love story that has to be told

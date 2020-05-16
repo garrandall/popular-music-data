@@ -1,8 +1,11 @@
 ---
+album: Maurice White
 artists:
 - Maurice White
+external_ids:
+  spotify: spotify:track:2z0bWcFtSYWgszc1Dbj7o0
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-maurice-white
 lyrics_url: https://genius.com/Maurice-white-i-need-you-lyrics
 name: I Need You
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 274773
 ---
 I can take a woman or leave her alone
 Temporary lovers come and go

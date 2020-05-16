@@ -1,8 +1,11 @@
 ---
+album: Beyond The Reef
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:6ZsJqksJCvEvKlzlCpIVE3
 features: []
-genres: []
+first_released_as_single: false
 key: swingin--gently-earl-grant
 name: Swingin' Gently
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 162533
 ---
 

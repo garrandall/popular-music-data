@@ -1,9 +1,12 @@
 ---
+album: Brunswick Top 40 Singles 1966-1975
 artists:
 - Gene Chandler
 - Barbara Acklin
+external_ids:
+  spotify: spotify:track:6ob3S7MjngWrcV377CQkDu
 features: []
-genres: []
+first_released_as_single: false
 key: from-the-teacher-to-the-preacher-gene-chandler-barbara-acklin
 lyrics_url: https://genius.com/Gene-chandler-from-the-teacher-to-the-preacher-lyrics
 name: From The Teacher To The Preacher
@@ -40,6 +43,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 146000
 ---
 With Barbara Acklin
 I used to carry your books

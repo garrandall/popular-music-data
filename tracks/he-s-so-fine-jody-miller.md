@@ -1,8 +1,11 @@
 ---
+album: Complete Epic Hits
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:7hpsgVgYPN6390zYO5hVrd
 features: []
-genres: []
+first_released_as_single: true
 key: he-s-so-fine-jody-miller
 lyrics_url: https://genius.com/Jody-miller-hes-so-fine-lyrics
 name: He's So Fine
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 174933
 ---
 He's so fine wish he were mine
 That good looking boy over there the one with the coal black hair

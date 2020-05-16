@@ -1,8 +1,11 @@
 ---
+album: 12 Inches Of Snow
 artists:
 - Snow
+external_ids:
+  spotify: spotify:track:2LjiPAQOVazT8sRyXL3XRs
 features: []
-genres: []
+first_released_as_single: false
 key: informer-snow
 lyrics_url: https://www.azlyrics.com/lyrics/snow/informer.html
 name: Informer
@@ -107,8 +110,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1993
+runtime: 268910
 ---
-
 What's up man, hey yo what's up
 Yeah what's going on here?
 Sick and tired of 5-0 running up on the block here
@@ -233,6 +237,3 @@ You no say Daddy me Snow me, I'll go blame
 A licky boom-boom down
 'Tective man says Daddy me Snow me stabbed someone down the lane
 A licky boom-boom down
-
-
-

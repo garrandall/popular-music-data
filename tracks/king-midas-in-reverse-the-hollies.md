@@ -1,8 +1,11 @@
 ---
+album: Dear Eloise / King Midas In Reverse
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:42z2Q7qj0NoWhprZnho5d8
 features: []
-genres: []
+first_released_as_single: false
 key: king-midas-in-reverse-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/kingmidasinreverse.html
 name: King Midas In Reverse
@@ -27,8 +30,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 185773
 ---
-
 If you could only see me
 I know exactly where I am
 You wouldn't want to be me
@@ -73,6 +77,3 @@ He's King Midas with a curse
 He's King Midas in reverse
 He's King Midas with a curse
 He's King Midas in reverse
-
-
-

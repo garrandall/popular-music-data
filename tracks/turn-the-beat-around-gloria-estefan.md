@@ -1,8 +1,11 @@
 ---
+album: Hold Me, Thrill Me, Kiss Me
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:2Ub01ptSMqI6iBvq1E2Pji
 features: []
-genres: []
+first_released_as_single: false
 key: turn-the-beat-around-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/turnthebeataround.html
 name: Turn The Beat Around
@@ -107,8 +110,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-03-11'
+release_year: 1984
+runtime: 233240
 ---
-
 Turn the beat around
 Love to hear percussion
 Turn it upside down
@@ -154,6 +158,3 @@ Love to hear percussion
 Turn it upside down
 Love to hear percussion
 Love to hear it
-
-
-

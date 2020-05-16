@@ -1,8 +1,11 @@
 ---
+album: The Innocence
 artists:
 - The Innocence
+external_ids:
+  spotify: spotify:track:3mabymD8ortwKJfJQ6nVR2
 features: []
-genres: []
+first_released_as_single: false
 key: mairzy-doats-the-innocence
 lyrics_url: https://www.musixmatch.com/lyrics/The-Innocence/Mairzy-Doats
 name: Mairzy Doats
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 100493
 ---
 Mairzy doats and dozy doats
 And little lambsy dyvy,

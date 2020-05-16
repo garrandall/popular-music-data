@@ -1,8 +1,11 @@
 ---
+album: Chantilly Lace
 artists:
 - Big Bopper
+external_ids:
+  spotify: spotify:track:07GtDOCxmye5KDWsTSACPk
 features: []
-genres: []
+first_released_as_single: false
 key: chantilly-lace-big-bopper
 lyrics_url: https://genius.com/The-big-bopper-chantilly-lace-lyrics
 name: Chantilly Lace
@@ -107,6 +110,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 145266
 ---
 Hello, baby
 Yeah, this is the Big Bopper speakin'

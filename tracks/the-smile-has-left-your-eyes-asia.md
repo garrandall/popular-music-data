@@ -1,8 +1,11 @@
 ---
+album: Alpha
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:1RvKjCpz3PbzogBMtVwxxa
 features: []
-genres: []
+first_released_as_single: false
 key: the-smile-has-left-your-eyes-asia
 lyrics_url: https://www.azlyrics.com/lyrics/asia/thesmilehasleftyoureyes.html
 name: The Smile Has Left Your Eyes
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1983
+runtime: 193093
 ---
-
 I saw you standing hand in hand
 And now you come to me the solitary man
 And I know what it is that made us live
@@ -90,6 +94,3 @@ Now it's too late you realized
 Now there's no one can sympathize
 Now it's too late you realized
 Now that the Smile Has Left Your Eyes
-
-
-

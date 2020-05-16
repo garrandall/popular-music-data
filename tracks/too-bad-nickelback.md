@@ -1,8 +1,11 @@
 ---
+album: Silver Side Up
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:2cCWbBmadLbKvr9xddC79R
 features: []
-genres: []
+first_released_as_single: false
 key: too-bad-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/toobad.html
 name: Too Bad
@@ -87,12 +90,13 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 2001
+runtime: 232240
 ---
-
 Fathers hands were lined with dirt
 From long days in the field
 And mothers hands are serving meals
-In a cafÃ© on Main Street
+In a café on Main Street
 With mouths to feed
 Just trying to keep clothing on our backs
 And all I hear about is
@@ -127,6 +131,3 @@ And how it's so bad, it's so bad
 
 
 Long time, let's walk, let's talk
-
-
-

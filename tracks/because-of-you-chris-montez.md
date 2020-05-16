@@ -1,8 +1,11 @@
 ---
+album: Foolin' Around
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:5iOLpj0NhHykqe5uOI0F4h
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-you-chris-montez
 lyrics_url: https://genius.com/Chris-montez-because-of-you-lyrics
 name: Because Of You
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 150186
 ---
 Because of you
 There's a song in my heart

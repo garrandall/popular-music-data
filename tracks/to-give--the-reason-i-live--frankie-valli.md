@@ -1,8 +1,11 @@
 ---
+album: Timeless
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:6sGv0jL7wEH5ikjjoSpEcs
 features: []
-genres: []
+first_released_as_single: false
 key: to-give--the-reason-i-live--frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/togivethereasonilive.html
 name: To Give (The Reason I Live)
@@ -39,8 +42,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 202360
 ---
-
 To give is the reason I live
 To give all I can give
 In return for the life that I earn
@@ -72,6 +76,3 @@ I'll go out empty hand
 Leaving dust to the land
 Just the soul I have found
 Leaves the ground
-
-
-

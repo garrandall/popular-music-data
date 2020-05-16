@@ -1,8 +1,11 @@
 ---
+album: Ritchie
 artists:
 - Ritchie Valens
+external_ids:
+  spotify: spotify:track:3vNjmFiKa1MFpdetnDFlha
 features: []
-genres: []
+first_released_as_single: false
 key: little-girl-ritchie-valens
 lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/littlegirl.html
 name: Little Girl
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1959
+runtime: 143333
 ---
-
 Well now little girl
 You hurt me so
 Oh now little girl
@@ -46,6 +50,3 @@ So now little girl
 Promise you'll do
 Oh oh little girl
 Just say you'll be true
-
-
-

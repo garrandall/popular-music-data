@@ -1,8 +1,11 @@
 ---
+album: The Hits Of Edwin Starr
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:3RkJsA0JxopALjE3Nkfrm7
 features: []
-genres: []
+first_released_as_single: false
 key: back-street-edwin-starr
 lyrics_url: https://genius.com/Edwin-starr-back-street-lyrics
 name: Back Street
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 168040
 ---
 (Back street)
 (Back street)

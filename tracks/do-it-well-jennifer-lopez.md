@@ -1,8 +1,11 @@
 ---
+album: Brave
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:59bOmD3OyfAGlt4HJDl7im
 features: []
-genres: []
+first_released_as_single: true
 key: do-it-well-jennifer-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Jennifer-Lopez/Do-It-Well
 name: Do It Well
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 188186
 ---
 Do it, do it
 You do it, do it

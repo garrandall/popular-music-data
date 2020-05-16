@@ -1,8 +1,11 @@
 ---
+album: Astro Lounge
 artists:
 - Smash Mouth
+external_ids:
+  spotify: spotify:track:50MfV7a1pnOEcf2t9kobxW
 features: []
-genres: []
+first_released_as_single: false
 key: then-the-morning-comes-smash-mouth
 lyrics_url: https://www.azlyrics.com/lyrics/smashmouth/thenthemorningcomes.html
 name: Then The Morning Comes
@@ -111,8 +114,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
+release_year: 1999
+runtime: 182266
 ---
-
 Paint the town
 Take a bow
 Thank everybody
@@ -176,6 +180,3 @@ It's just the way that you talk
 Like it ain't no thing
 And every single day is just a fling
 Then the morning comes
-
-
-

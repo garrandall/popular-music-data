@@ -1,9 +1,12 @@
 ---
+album: PSY 7TH ALBUM
 artists:
 - PSY
+external_ids:
+  spotify: spotify:track:4fAvxYyU2u4fAJ0dmUsKfw
 features:
 - CL
-genres: []
+first_released_as_single: false
 key: daddy-psy-cl
 lyrics_url: https://genius.com/Chad-wild-clay-psy-daddy-in-english-lyrics
 name: Daddy
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 230635
 ---
 I feel nice
 You look nice

@@ -1,8 +1,11 @@
 ---
+album: Album
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:2XsBSbENuPJNqp50W3iy48
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-people-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/everydaypeople.html
 name: Everyday People
@@ -43,8 +46,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 159986
 ---
-
 Sometimes I'm right then I can be wrong
 My own beliefs are in my songs
 A butcher, a banker, a drummer and then
@@ -87,6 +91,3 @@ And so on and so on and
 Scooby dooby dooby
 Oh sha sha
 I am everyday people
-
-
-

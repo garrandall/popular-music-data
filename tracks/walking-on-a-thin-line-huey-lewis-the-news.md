@@ -1,8 +1,11 @@
 ---
+album: Sports
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:1OU4uVYuoUOHfwriMnS1Km
 features: []
-genres: []
+first_released_as_single: false
 key: walking-on-a-thin-line-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/walkingonathinline.html
 name: Walking On A Thin Line
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1983
+runtime: 310666
 ---
-
 Sometimes in my bed at night
 I curse the dark and I pray for light
 And sometimes, the light's no consolation
@@ -135,6 +139,3 @@ See what it's doing to me
 Walking on a thin line
 Walking on a thin line
 Walking on a thin line
-
-
-

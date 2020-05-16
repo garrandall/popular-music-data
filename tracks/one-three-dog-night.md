@@ -1,8 +1,11 @@
 ---
+album: One
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:4ME2YQNThxEW63fxojzHvN
 features: []
-genres: []
+first_released_as_single: false
 key: one-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-one-lyrics
 name: One
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1968
+runtime: 185826
 ---
 One is the loneliest number that you'll ever do
 Two can be as bad as one

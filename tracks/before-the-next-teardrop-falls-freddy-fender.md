@@ -1,8 +1,11 @@
 ---
+album: Before The Next Teardrop Falls
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:2SVW5774QbmEjWfbHOEnz3
 features: []
-genres: []
+first_released_as_single: false
 key: before-the-next-teardrop-falls-freddy-fender
 lyrics_url: https://genius.com/Freddy-fender-before-the-next-teardrop-falls-lyrics
 name: Before The Next Teardrop Falls
@@ -91,6 +94,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 149951
 ---
 If he brings you happiness
 Then I wish you all the best

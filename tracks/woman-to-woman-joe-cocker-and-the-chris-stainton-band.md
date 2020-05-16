@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:0K3Dem9aRwRG9DVo0W2T3o
 features: []
-genres: []
+first_released_as_single: false
 key: woman-to-woman-joe-cocker-and-the-chris-stainton-band
 lyrics_url: https://genius.com/Joe-cocker-woman-to-woman-lyrics
 name: Woman To Woman
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 270693
 ---
 Woman to woman (woman to woman)
 Heartache to heartache (hardache to hardache)

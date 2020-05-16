@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:4Gd7iIqVtOoYKxM2yh9Gz2
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-the-good-times-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/It-s-Only-the-Good-Times
 name: It's Only The Good Times
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 146600
 ---
 It's only the good times I remember
 Whenever I think of you

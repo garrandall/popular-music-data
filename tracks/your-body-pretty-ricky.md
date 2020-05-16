@@ -1,8 +1,11 @@
 ---
+album: Bluestars
 artists:
 - Pretty Ricky
+external_ids:
+  spotify: spotify:track:5y4TDQdYzlT4eoQIPOgNDz
 features: []
-genres: []
+first_released_as_single: false
 key: your-body-pretty-ricky
 lyrics_url: https://genius.com/Pretty-ricky-your-body-lyrics
 name: Your Body
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2005-12-17'
+release_year: 2005
+runtime: 240040
 ---
 Yes, sir..
 Yes, sir..

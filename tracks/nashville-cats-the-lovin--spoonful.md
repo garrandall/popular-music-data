@@ -1,8 +1,11 @@
 ---
+album: Hums Of The Lovin' Spoonful
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:06KGDyZuru33dtJoMQM6Xc
 features: []
-genres: []
+first_released_as_single: false
 key: nashville-cats-the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/nashvillecats.html
 name: Nashville Cats
@@ -47,8 +50,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1965
+runtime: 154133
 ---
-
 Nashville Cats, play clean as country water
 Nashville Cats, play wild as mountain dew
 Nashville Cats, been playin' since they's babies
@@ -93,6 +97,3 @@ Nashville Cats, been playin' since they's babies
 Nashville Cats, get work before they're two
 
 Pick it
-
-
-

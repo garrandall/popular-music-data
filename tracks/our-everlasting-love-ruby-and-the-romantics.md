@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Album
 artists:
 - Ruby And The Romantics
+external_ids:
+  spotify: spotify:track:1QKoN8bfkLOr5RTIX0iQIV
 features: []
-genres: []
+first_released_as_single: false
 key: our-everlasting-love-ruby-and-the-romantics
 lyrics_url: https://genius.com/Ruby-and-the-romantics-our-everlasting-love-lyrics
 name: Our Everlasting Love
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 144800
 ---
 The ever winding stream
 The ever blowing breeze

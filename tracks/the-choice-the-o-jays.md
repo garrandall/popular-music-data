@@ -1,8 +1,11 @@
 ---
+album: Back On Top
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:28DfnajP63VCCr1eGREU6q
 features: []
-genres: []
+first_released_as_single: false
 key: the-choice-the-o-jays
 name: The Choice
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 159906
 ---
 

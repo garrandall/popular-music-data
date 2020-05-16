@@ -1,8 +1,11 @@
 ---
+album: 'Beverly Hills Cop: Music From The Motion Picture Soundtrack'
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:0rV3kstHk88onlJQJWKP1y
 features: []
-genres: []
+first_released_as_single: false
 key: new-attitude-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/newattitude.html
 name: New Attitude
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1984
+runtime: 278600
 ---
-
 Running hot
 Running cold
 I was running into overload
@@ -131,4 +135,3 @@ Or forget your love for just being like I should
 
 
 Ooo, Ooo, Oooo
-

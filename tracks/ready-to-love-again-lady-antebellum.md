@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:4jJEEPrPMTMHpabgjefRN7
 features: []
-genres: []
+first_released_as_single: false
 key: ready-to-love-again-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/readytoloveagain.html
 name: Ready To Love Again
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-01-30'
+release_year: 2010
+runtime: 173266
 ---
-
 Seems like I was walking in the wrong direction
 I barely recognize my own reflection, no
 Scared of love but scared of life alone
@@ -47,6 +51,3 @@ No longer am I afraid of the fall down
 It must be time to move on now
 Without the fear of how it might end
 I guess I'm ready, I'm ready to love again
-
-
-

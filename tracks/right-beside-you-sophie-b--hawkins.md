@@ -1,8 +1,11 @@
 ---
+album: Whaler
 artists:
 - Sophie B. Hawkins
+external_ids:
+  spotify: spotify:track:5Q4djRRS0wxG1LazHHGnaq
 features: []
-genres: []
+first_released_as_single: false
 key: right-beside-you-sophie-b--hawkins
 lyrics_url: https://www.azlyrics.com/lyrics/sophiebhawkins/rightbesideyou.html
 name: Right Beside You
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 286666
 ---
-
 I'm dancing in the shadows of life
 And death is all around me tonight
 I miss you making love to me right
@@ -122,6 +126,3 @@ Right beside you I see
 Right beside you I stay
 Right beside you I'll be
 Right beside you always
-
-
-

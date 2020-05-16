@@ -1,8 +1,11 @@
 ---
+album: Same Trailer Different Park
 artists:
 - Kacey Musgraves
+external_ids:
+  spotify: spotify:track:4CLPNURPcKztF9RRdcWLGP
 features: []
-genres: []
+first_released_as_single: false
 key: follow-your-arrow-kacey-musgraves
 lyrics_url: https://www.azlyrics.com/lyrics/kaceymusgraves/followyourarrow.html
 name: Follow Your Arrow
@@ -11,8 +14,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2014-02-15'
+release_year: 2013
+runtime: 199640
 ---
-
 If you save yourself for marriage
 You're a bore
 If you don't save yourself for marriage
@@ -85,6 +89,3 @@ And follow your arrow
 Wherever it points, yeah
 Follow your arrow
 Wherever it points
-
-
-

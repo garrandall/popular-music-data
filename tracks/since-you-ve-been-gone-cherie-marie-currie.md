@@ -1,9 +1,12 @@
 ---
+album: Messin' with the Boys
 artists:
 - Cherie
 - Marie Currie
+external_ids:
+  spotify: spotify:track:2GZI4BNVJJs6qbovuBohmp
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-ve-been-gone-cherie-marie-currie
 lyrics_url: https://genius.com/Cherie-currie-since-youve-been-gone-lyrics
 name: Since You've Been Gone
@@ -20,6 +23,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
+release_year: 1979
+runtime: 220533
 ---
 I get the same old dreams same time every night
 Fall to the ground and I wake up

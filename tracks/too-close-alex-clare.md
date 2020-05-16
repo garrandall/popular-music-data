@@ -1,8 +1,11 @@
 ---
+album: The Lateness Of The Hour
 artists:
 - Alex Clare
+external_ids:
+  spotify: spotify:track:4sK96UnGx3NjBaqvfTG2dm
 features: []
-genres: []
+first_released_as_single: false
 key: too-close-alex-clare
 lyrics_url: https://genius.com/Alex-clare-too-close-lyrics
 name: Too Close
@@ -183,6 +186,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2011
+runtime: 256560
 ---
 You know I'm not one to break promises
 I don't want to hurt you, but I need to breathe

@@ -1,8 +1,11 @@
 ---
+album: Suitable For Framing
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:3uQyGzJkoJ4N0rBVuCCuOB
 features: []
-genres: []
+first_released_as_single: false
 key: celebrate-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/celebrate.html
 name: Celebrate
@@ -43,8 +46,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1969
+runtime: 194773
 ---
-
 Slippin' away, sittin' on a pillow
 Waitin' for night to fall
 A girl and a dream, sittin' on a pillow
@@ -66,6 +70,3 @@ She'll open her eyes when he goes to the celebrity ball
 Celebrate, celebrate, dance to the music
 Celebrate, celebrate, dance to the music
 Celebrate, celebrate, dance to the music
-
-
-

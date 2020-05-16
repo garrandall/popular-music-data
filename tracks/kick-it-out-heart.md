@@ -1,8 +1,11 @@
 ---
+album: Little Queen
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:4QUjwfigQ1qSv0E1jN5yOr
 features: []
-genres: []
+first_released_as_single: false
 key: kick-it-out-heart
 lyrics_url: https://genius.com/Heart-kick-it-out-lyrics
 name: Kick It Out
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 165466
 ---
 Out of the street - get on home
 Tail shaking filly running on her own

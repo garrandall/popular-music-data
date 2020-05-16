@@ -1,8 +1,11 @@
 ---
+album: Conversation Peace
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5mPzlwYXl0wTmho0rYbl7O
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-love-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-for-your-love-lyrics
 name: For Your Love
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1995-06-03'
+release_year: 1995
+runtime: 300093
 ---
 All the gold in all the world
 Is nothing to possess

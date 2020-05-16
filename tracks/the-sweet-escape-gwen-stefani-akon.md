@@ -1,9 +1,12 @@
 ---
+album: The Sweet Escape
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:66ZcOcouenzZEnzTJvoFmH
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: the-sweet-escape-gwen-stefani-akon
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/thesweetescape.html
 name: The Sweet Escape
@@ -168,9 +171,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
+release_year: 2006
+runtime: 246466
 ---
-
-
 If I could escape I would
 But first of all, let me say
 I must apologize
@@ -256,6 +259,3 @@ And tell me boy now wouldn't that be sweet?
 I wanna get away, get away
 To our sweet escape
 I wanna get away
-
-
-

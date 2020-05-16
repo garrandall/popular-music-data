@@ -1,8 +1,11 @@
 ---
+album: No Mercy
 artists:
 - Da Youngsta's
+external_ids:
+  spotify: spotify:track:2MYP61a4O2CcM9tEYwM0gf
 features: []
-genres: []
+first_released_as_single: false
 key: hip-hop-ride-da-youngsta-s
 lyrics_url: https://genius.com/Da-youngstas-hip-hop-ride-lyrics
 name: Hip Hop Ride
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 259933
 ---
 As I flip it again, I'm on the loose
 Watch me, nah man, hold up, no...

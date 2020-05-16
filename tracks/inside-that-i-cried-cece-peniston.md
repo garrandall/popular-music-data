@@ -1,8 +1,11 @@
 ---
+album: Finally
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:5yJRsrLvOSgrTy1JQquGE1
 features: []
-genres: []
+first_released_as_single: false
 key: inside-that-i-cried-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-inside-that-i-cried-lyrics
 name: Inside That I Cried
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 351373
 ---
 The talks we had on stormy nights
 I often rushed away

@@ -1,8 +1,11 @@
 ---
+album: We Gotta Start Lovin'
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:2Vj4areWrIspLiZw1wSZSC
 features: []
-genres: []
+first_released_as_single: false
 key: watching-scotty-grow-bobby-goldsboro
 lyrics_url: https://genius.com/Bobby-goldsboro-watching-scotty-grow-lyrics
 name: Watching Scotty Grow
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
+release_year: 1970
+runtime: 156666
 ---
 There he sits with a pen and a yellow pad
 What a handsome lad

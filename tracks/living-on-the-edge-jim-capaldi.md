@@ -1,8 +1,11 @@
 ---
+album: Heard It On the Radio, Vol. 7
 artists:
 - Jim Capaldi
+external_ids:
+  spotify: spotify:track:5Z4Sku2Isd3b0mxzWhdago
 features: []
-genres: []
+first_released_as_single: false
 key: living-on-the-edge-jim-capaldi
 lyrics_url: https://genius.com/Jim-capaldi-living-on-the-edge-lyrics
 name: Living On The Edge
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 281346
 ---
 You know I've had my share of dealing with despair
 I'm tired of seeing my dreams vanish in the air

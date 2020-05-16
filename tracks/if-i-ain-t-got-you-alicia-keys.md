@@ -1,8 +1,11 @@
 ---
+album: The Diary Of Alicia Keys
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:3XVBdLihbNbxUwZosxcGuJ
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-ain-t-got-you-alicia-keys
 lyrics_url: https://genius.com/Alicia-keys-if-i-aint-got-you-lyrics
 name: If I Ain't Got You
@@ -167,6 +170,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2003
+runtime: 228706
 ---
 Some people live for the fortune
 Some people live just for the fame

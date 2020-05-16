@@ -1,8 +1,11 @@
 ---
+album: My Way
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5PIveStlGgjVL54GpVcqxr
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-usher
 lyrics_url: https://genius.com/Usher-my-way-lyrics
 name: My Way
@@ -103,6 +106,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 214853
 ---
 Yo, yo, yo
 Yo, yo, yo, yo

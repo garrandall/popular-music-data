@@ -1,8 +1,11 @@
 ---
+album: The World We Knew
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:62KZRwymXq9Rgm8Cm5UCfx
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-we-knew--over-and-over--frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-the-world-we-knew-over-and-over-lyrics
 name: The World We Knew (Over And Over)
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 167053
 ---
 Over and over I keep going over the world we knew
 Once when you walked beside me

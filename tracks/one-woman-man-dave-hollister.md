@@ -1,8 +1,11 @@
 ---
+album: Chicago '85...The Movie
 artists:
 - Dave Hollister
+external_ids:
+  spotify: spotify:track:3oV13nZWand6V7pG1liiZB
 features: []
-genres: []
+first_released_as_single: false
 key: one-woman-man-dave-hollister
 lyrics_url: https://genius.com/Dave-hollister-one-woman-man-lyrics
 name: One Woman Man
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
+release_year: 2000
+runtime: 271640
 ---
 Alright, (hm)
 It's so funny runnin' into you

@@ -1,8 +1,11 @@
 ---
+album: Long Trip Alone
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:4g1KdhosR6v8qCT1F1Njev
 features: []
-genres: []
+first_released_as_single: false
 key: every-mile-a-memory-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/everymileamemory.html
 name: Every Mile A Memory
@@ -71,8 +74,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
+release_year: 2006
+runtime: 232720
 ---
-
 Country Roads, old theater marquee signs
 Parkin' lots, and billboards flyin' by
 Spanish moss, little hick town squares
@@ -106,6 +110,3 @@ Like a freight train rollin' through my dreams
 Every mile, a memory
 Every mile, a memory
 Every mile, a memory
-
-
-

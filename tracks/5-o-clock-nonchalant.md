@@ -1,8 +1,12 @@
 ---
+album: 'Only for the Real Dj: A Premier Selection of Hip Hop Inspired by the Boom
+  Bap Sound'
 artists:
 - Nonchalant
+external_ids:
+  spotify: spotify:track:6oSCS3HtxuYlKH8y4nS3Qn
 features: []
-genres: []
+first_released_as_single: false
 key: 5-o-clock-nonchalant
 lyrics_url: https://genius.com/Nonchalant-5-oclock-lyrics
 name: 5 O'Clock
@@ -87,6 +91,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1996
+runtime: 302640
 ---
 It's really real, when I feel the way that I do right now
 I see all my brothers underground

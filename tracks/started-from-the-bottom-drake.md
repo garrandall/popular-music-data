@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5DI9jxTHrEiFAhStG7VA8E
 features: []
-genres: []
+first_released_as_single: false
 key: started-from-the-bottom-drake
 lyrics_url: https://genius.com/Drake-started-from-the-bottom-lyrics
 name: Started From The Bottom
@@ -95,6 +98,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 174133
 ---
 Started…
 (Zombie on the track)

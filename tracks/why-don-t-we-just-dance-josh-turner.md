@@ -1,8 +1,11 @@
 ---
+album: Haywire
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:2p07VcUwRZ5sru3mJ0JogS
 features: []
-genres: []
+first_released_as_single: false
 key: why-don-t-we-just-dance-josh-turner
 lyrics_url: https://genius.com/Josh-turner-why-dont-we-just-dance-lyrics
 name: Why Don't We Just Dance
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
+release_year: 2009
+runtime: 192800
 ---
 Baby why don't we just turn that TV off?
 Three hundred fifteen channels

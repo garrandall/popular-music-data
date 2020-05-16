@@ -1,8 +1,11 @@
 ---
+album: Blues with Soul
 artists:
 - Jimmy Hughes
+external_ids:
+  spotify: spotify:track:6DfQ5isWcsabpShWiMhBpP
 features: []
-genres: []
+first_released_as_single: false
 key: neighbor-neighbor-jimmy-hughes
 lyrics_url: https://genius.com/Jimmy-hughes-neighbor-neighbor-lyrics
 name: Neighbor Neighbor
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 177680
 ---
 Neighbor, neighbor, why you messin' in my life?
 Neighbor, neighbor, you've been talkin' to my wife

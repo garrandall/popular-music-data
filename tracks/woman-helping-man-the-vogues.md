@@ -1,8 +1,11 @@
 ---
+album: Till
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:0oem2FjDstqU4UklvfIJvg
 features: []
-genres: []
+first_released_as_single: false
 key: woman-helping-man-the-vogues
 lyrics_url: https://www.azlyrics.com/lyrics/vogues/womanhelpingman.html
 name: Woman Helping Man
@@ -31,8 +34,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 191773
 ---
-
 A boy chases a girl until she catches him
 But this is one thing he should never see
 And the love for her man makes a woman understand
@@ -56,6 +60,3 @@ And man protecting her the best he can
 Woman helping man
 Underneath God's plan
 ...
-
-
-

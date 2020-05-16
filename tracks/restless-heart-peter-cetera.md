@@ -1,8 +1,11 @@
 ---
+album: World Falling Down
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:03700DXvpDN5MXqaLeU0J0
 features: []
-genres: []
+first_released_as_single: false
 key: restless-heart-peter-cetera
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/restlessheart.html
 name: Restless Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
+release_year: 1992
+runtime: 249106
 ---
-
 I don't wanna lose you
 I don't want you walking away
 We're so good together
@@ -171,6 +175,3 @@ Baby right from the start
 With my restless
 With my restless
 With my restless heart
-
-
-

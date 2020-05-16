@@ -1,8 +1,11 @@
 ---
+album: 100% Ginuwine
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:7jgZiwNyTH08evb3bDLfIy
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-so-different-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/whatssodifferent.html
 name: What's So Different
@@ -83,11 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1999
+runtime: 235400
 ---
-
-
-
-
 What's so different? (Uh huh)
 Baby (Say what?)
 What's so different? (Uh huh)
@@ -181,4 +182,3 @@ Cause tell me how I'll know
 You won't do that shit to me?
 (Not to me baby)
 You would do it to me
-

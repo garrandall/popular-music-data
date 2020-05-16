@@ -1,8 +1,11 @@
 ---
+album: We Went to Different Schools Together
 artists:
 - The Jaggerz
+external_ids:
+  spotify: spotify:track:7oQBG3L9oEEmHOehtTNVNs
 features: []
-genres: []
+first_released_as_single: false
 key: i-call-my-baby-candy-the-jaggerz
 lyrics_url: https://genius.com/The-jaggerz-i-call-my-baby-candy-lyrics
 name: I Call My Baby Candy
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 177960
 ---
 Call my baby candy
 She's sweet as sweet can be

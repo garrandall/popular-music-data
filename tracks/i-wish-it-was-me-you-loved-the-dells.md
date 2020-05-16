@@ -1,8 +1,11 @@
 ---
+album: The Dells Vs. The Dramatics
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:1qmvkMyrKabcgBUgqntwUv
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-it-was-me-you-loved-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/I-Wish-It-Was-Me-You-Loved
 name: I Wish It Was Me You Loved
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1974
+runtime: 230626
 ---
 Oh, oh, Lord
 All alone again

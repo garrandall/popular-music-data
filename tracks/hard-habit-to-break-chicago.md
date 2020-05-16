@@ -1,8 +1,11 @@
 ---
+album: Chicago 17
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:58ad5AATQGQxXa5vgUiYsW
 features: []
-genres: []
+first_released_as_single: true
 key: hard-habit-to-break-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/hardhabittobreak.html
 name: Hard Habit To Break
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 283733
 ---
-
 I guess I thought you'd be here forever
 Another illusion I chose to create
 You don't know what ya got until it's gone
@@ -151,6 +155,3 @@ Instead of getting any easier
 It's the hardest thing to take
 I'm addicted to you
 You're a hard habit to break
-
-
-

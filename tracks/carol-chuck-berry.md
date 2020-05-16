@@ -1,8 +1,11 @@
 ---
+album: Berry Is On Top
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:41ADUIxv4MkkWi7kgaZMrH
 features: []
-genres: []
+first_released_as_single: false
 key: carol-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/carol.html
 name: Carol
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 168600
 ---
-
 Oh Carol, don't let him steal your heart away
 I'm gonna learn to dance if it takes me all night and day
 
@@ -75,6 +79,3 @@ I'm gonna learn to dance if it takes me all night and day
 Don't let him steal your heart away
 I've got to learn to dance if it takes you all night and day
 Oh Carol
-
-
-

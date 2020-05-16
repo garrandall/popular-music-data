@@ -1,8 +1,11 @@
 ---
+album: King Size Soul
 artists:
 - King Curtis
+external_ids:
+  spotify: spotify:track:6MqfTP3OwngywVTOS5OAFt
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-soul-stew-king-curtis
 lyrics_url: https://genius.com/King-curtis-memphis-soul-stew-lyrics
 name: Memphis Soul Stew
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 179413
 ---
 Today's special is Memphis soul stew
 We sell so much of this people wonder what we put in it

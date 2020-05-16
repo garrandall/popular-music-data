@@ -1,8 +1,11 @@
 ---
+album: We Love You Tecca
 artists:
 - Lil Tecca
+external_ids:
+  spotify: spotify:track:4guBZjUyrGoHsTahO3IHdj
 features: []
-genres: []
+first_released_as_single: false
 key: did-it-again-lil-tecca
 lyrics_url: https://www.azlyrics.com/lyrics/liltecca/diditagain.html
 name: Did It Again
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 116240
 ---
-
 We love you, Tecca
 
 I got a pack, hit 'em and do it again
@@ -75,6 +79,3 @@ It's crazy, worry about yourself nigga, make a move
 You steady watchin' all the winnin' niggas, you gon' lose
 I don't gotta prove, you steady watchin' all the winnin' niggas
 You gon' lose, I will never lose
-
-
-

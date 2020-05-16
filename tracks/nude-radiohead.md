@@ -1,8 +1,11 @@
 ---
+album: In Rainbows
 artists:
 - Radiohead
+external_ids:
+  spotify: spotify:track:5k7VKj1Xwy5DjO4B0PdAOb
 features: []
-genres: []
+first_released_as_single: false
 key: nude-radiohead
 lyrics_url: https://www.azlyrics.com/lyrics/radiohead/nude.html
 name: Nude
@@ -11,8 +14,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 255386
 ---
-
 Don't get any big ideas
 They're not gonna happen
 

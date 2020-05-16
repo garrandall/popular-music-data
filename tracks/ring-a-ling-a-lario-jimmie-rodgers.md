@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:1fsOLtk2oKkI5u56OXqyP0
 features: []
-genres: []
+first_released_as_single: false
 key: ring-a-ling-a-lario-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Ring-A-Ling-A-Lario
 name: Ring-A-Ling-A-Lario
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1959
+runtime: 143733
 ---
 I'm much too young to marry-o, marry-o, marry-o...
 But if I should marry-o, then I would marry you.

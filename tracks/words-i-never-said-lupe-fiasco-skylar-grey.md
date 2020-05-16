@@ -1,9 +1,12 @@
 ---
+album: Lasers
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:5AcOdoDOQOKtPlAM1FqBO8
 features:
 - Skylar Grey
-genres: []
+first_released_as_single: false
 key: words-i-never-said-lupe-fiasco-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/wordsineversaid.html
 name: Words I Never Said
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 256959
 ---
-
-
 It's so loud Inside my head
 With words that I should've said!
 As I drown in my regrets
@@ -93,6 +96,3 @@ It's so loud inside my head
 With words that I should have said!
 As I drown in my regrets
 I can't take back the words I never said
-
-
-

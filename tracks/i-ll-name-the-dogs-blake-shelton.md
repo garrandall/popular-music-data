@@ -1,8 +1,11 @@
 ---
+album: Texoma Shore
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:2n5ZD87XQ2yvIxGjoYbUmZ
 features: []
-genres: []
+first_released_as_single: true
 key: i-ll-name-the-dogs-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-ill-name-the-dogs-lyrics
 name: I'll Name The Dogs
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 183200
 ---
 Girl, it's high time I tell ya
 No more messin' around

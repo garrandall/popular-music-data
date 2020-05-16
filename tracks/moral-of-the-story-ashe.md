@@ -1,8 +1,11 @@
 ---
+album: Moral of the Story
 artists:
 - Ashe
+external_ids:
+  spotify: spotify:track:2nC3QhMI9reBIOWutbU3Tj
 features: []
-genres: []
+first_released_as_single: true
 key: moral-of-the-story-ashe
 lyrics_url: https://www.azlyrics.com/lyrics/ashe/moralofthestory.html
 name: Moral Of The Story
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 201083
 ---
-
 So I never really knew you
 God I really tried to
 Blindsided, addicted
@@ -82,6 +86,3 @@ Some mistakes get made
 That's alright, that's okay
 In the end it's better for me
 That's the moral of the story babe
-
-
-

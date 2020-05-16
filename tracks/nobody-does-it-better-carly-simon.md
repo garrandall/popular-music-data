@@ -1,8 +1,11 @@
 ---
+album: Bridget Jones The Edge Of Reason
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:49RUdNvwSiUTC8fBh4KKoC
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-does-it-better-carly-simon
 lyrics_url: https://genius.com/Carly-simon-nobody-does-it-better-lyrics
 name: Nobody Does It Better
@@ -107,6 +110,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 212666
 ---
 Nobody does it better
 Makes me feel sad for the rest

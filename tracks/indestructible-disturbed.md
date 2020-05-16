@@ -1,8 +1,11 @@
 ---
+album: Indestructible
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:42ZVk59gT4tMlrZmd8Ijxf
 features: []
-genres: []
+first_released_as_single: false
 key: indestructible-disturbed
 lyrics_url: https://www.azlyrics.com/lyrics/disturbed/indestructible.html
 name: Indestructible
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2008
+runtime: 278026
 ---
-
 Another mission, the powers have called me away
 Another time to carry the colors again
 My motivation, an oath I've sworn to defend
@@ -75,6 +79,3 @@ That their opponent had to be invincible
 Take a last look around while you're alive
 I'm an indestructible
 Master of war
-
-
-

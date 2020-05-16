@@ -1,8 +1,11 @@
 ---
+album: The Everlovin' World Of Eddy Arnold
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:0g9I3oSDuyNF2JfnhM6jsv
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-heaven-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/herecomesheaven.html
 name: Here Comes Heaven
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 137560
 ---
-
 Here comes heaven all satin and lace
 Love in her heart and a smile on her face
 She's the world to me
@@ -43,6 +47,3 @@ I'd give my life to keep her from harm
 She makes my heart sing
 Here comes heaven again
 Here comes heaven again...
-
-
-

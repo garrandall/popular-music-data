@@ -1,8 +1,11 @@
 ---
+album: Young Americans (2016 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:1PehfITh0TTRx3LkDdV4h3
 features: []
-genres: []
+first_released_as_single: false
 key: fame-david-bowie
 lyrics_url: https://genius.com/David-bowie-fame-lyrics
 name: Fame
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1975
+runtime: 261373
 ---
 Fame, (fame) makes a man take things over
 Fame, (fame) lets him loose, hard to swallow

@@ -1,8 +1,11 @@
 ---
+album: Blowout Comb
 artists:
 - Digable Planets
+external_ids:
+  spotify: spotify:track:2YM9qQklVODlkC3T9YD0e0
 features: []
-genres: []
+first_released_as_single: false
 key: 9th-wonder--slicker-this-year--digable-planets
 lyrics_url: https://www.azlyrics.com/lyrics/digableplanets/9thwonderblackitolism.html
 name: 9th Wonder (Slicker This Year)
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-11-26'
+release_year: 1994
+runtime: 267266
 ---
-
 Ah yeah...
 Whole world
 MCs
@@ -150,6 +154,3 @@ Cool are you slicker this year?
 (Yeah, watch)
 
 Hit it...
-
-
-

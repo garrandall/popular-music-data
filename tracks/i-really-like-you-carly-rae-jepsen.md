@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Carly Rae Jepsen
+external_ids:
+  spotify: spotify:track:7CZvFZDozMBgbfKSePgpSk
 features: []
-genres: []
+first_released_as_single: true
 key: i-really-like-you-carly-rae-jepsen
 lyrics_url: https://genius.com/Carly-rae-jepsen-i-really-like-you-lyrics
 name: I Really Like You
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2015
+runtime: 215626
 ---
 I really wanna stop, but I just got the taste for it
 I feel like I could fly with the boy on the moon

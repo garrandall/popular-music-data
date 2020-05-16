@@ -1,8 +1,11 @@
 ---
+album: That's The Way Love Is
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4d8MN3egxWp2lqC7J7VKlj
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-give-her-all-the-love-i-ve-got-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-gonna-give-her-all-the-love-ive-got-lyrics
 name: Gonna Give Her All The Love I've Got
@@ -23,6 +26,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 200800
 ---
 There's a train leaving here tomorrow
 And I'll be a free man once again

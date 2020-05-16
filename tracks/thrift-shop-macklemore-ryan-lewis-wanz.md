@@ -1,10 +1,13 @@
 ---
+album: The Heist
 artists:
 - Macklemore
 - Ryan Lewis
+external_ids:
+  spotify: spotify:track:1CmUZGtH29Kx36C1Hleqlz
 features:
 - Wanz
-genres: []
+first_released_as_single: true
 key: thrift-shop-macklemore-ryan-lewis-wanz
 lyrics_url: https://genius.com/Macklemore-and-ryan-lewis-thrift-shop-lyrics
 name: Thrift Shop
@@ -205,6 +208,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2012
+runtime: 235613
 ---
 "Hey, Macklemore, can we go thrift shopping?"
 What what, what, what

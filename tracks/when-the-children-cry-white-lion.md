@@ -1,8 +1,11 @@
 ---
+album: Pride
 artists:
 - White Lion
+external_ids:
+  spotify: spotify:track:4ZCLM74MYhUy80TPiaAuee
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-children-cry-white-lion
 lyrics_url: https://www.azlyrics.com/lyrics/whitelion/whenthechildrencry.html
 name: When The Children Cry
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1987
+runtime: 258546
 ---
-
 Little child
 Dry your crying eyes
 How can I explain
@@ -169,6 +173,3 @@ When the children pray
 Let them know the way
 'Cause when the children sing
 Then the new world begins
-
-
-

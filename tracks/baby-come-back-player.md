@@ -1,8 +1,11 @@
 ---
+album: Player
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:41sGGCCoHI2GLV9qadX80A
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-back-player
 lyrics_url: https://genius.com/Player-baby-come-back-lyrics
 name: Baby Come Back
@@ -135,6 +138,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 255845
 ---
 Spendin' all my nights, all my money goin' out on the town
 Doin' anythin' just to get you off of my mind

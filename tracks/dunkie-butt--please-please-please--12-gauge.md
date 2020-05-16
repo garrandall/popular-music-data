@@ -1,8 +1,11 @@
 ---
+album: 12 Gauge
 artists:
 - 12 Gauge
+external_ids:
+  spotify: spotify:track:5xuyqQ6bcOtqbMYC0aCNum
 features: []
-genres: []
+first_released_as_single: false
 key: dunkie-butt--please-please-please--12-gauge
 lyrics_url: https://genius.com/12-gauge-dunkie-butt-lyrics
 name: Dunkie Butt (Please Please Please)
@@ -91,6 +94,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1994
+runtime: 258933
 ---
 Gimme that Dunkie Butt and them big ol' legs
 I ain't too hard to beg

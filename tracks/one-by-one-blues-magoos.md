@@ -1,8 +1,11 @@
 ---
+album: Psychedelic Lollipop
 artists:
 - Blues Magoos
+external_ids:
+  spotify: spotify:track:1BO8bCK5u4isl5RCuPIuKB
 features: []
-genres: []
+first_released_as_single: false
 key: one-by-one-blues-magoos
 lyrics_url: https://genius.com/Blues-magoos-one-by-one-lyrics
 name: One By One
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1966
+runtime: 170480
 ---
 Did you ever see a girl grow up before your eyes
 Her girlish smile has turned to woman's sighs

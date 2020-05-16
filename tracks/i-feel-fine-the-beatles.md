@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:4gxs9En3aoaOm2J5wNMMm9
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-fine-the-beatles
 lyrics_url: https://genius.com/The-beatles-i-feel-fine-lyrics
 name: I Feel Fine
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1964
+runtime: 140400
 ---
 Baby's good to me, you know
 She's happy as can be, you know

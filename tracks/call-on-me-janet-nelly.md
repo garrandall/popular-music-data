@@ -1,9 +1,12 @@
 ---
+album: Call On Me
 artists:
 - Janet
 - Nelly
+external_ids:
+  spotify: spotify:track:6rnfNRuxKLpMT3mU6OQqiE
 features: []
-genres: []
+first_released_as_single: true
 key: call-on-me-janet-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/callonme.html
 name: Call On Me
@@ -80,9 +83,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2006
+runtime: 308533
 ---
-
-
 I don't know if I've ever felt like this before
 But I'm sure that the way I feel, I don't want it to go
 'Cuz I've cried my share of tears
@@ -160,6 +163,3 @@ It don't matter where you go
 I'll come anywhere you want me to
 It don't matter near or far
 It's like anything you say I'll do
-
-
-

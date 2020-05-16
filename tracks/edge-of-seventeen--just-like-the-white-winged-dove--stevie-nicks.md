@@ -1,8 +1,11 @@
 ---
+album: Bella Donna
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:7L3b6iaVhDVjfo52Hbvh9Z
 features: []
-genres: []
+first_released_as_single: false
 key: edge-of-seventeen--just-like-the-white-winged-dove--stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/edgeofseventeen.html
 name: Edge Of Seventeen (Just Like The White Winged Dove)
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1981
+runtime: 329413
 ---
-
 Just like the white winged dove
 Sings a song
 Sounds like she's singin'
@@ -183,6 +187,3 @@ Sings a song
 Sounds like she's singin'
 Whoo, baby, whoo
 Said, whoo
-
-
-

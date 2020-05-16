@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Regina Belle
+external_ids:
+  spotify: spotify:track:3GBbMmkl9LJes8Szk8KGMa
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-to-me-regina-belle
 lyrics_url: https://www.azlyrics.com/lyrics/reginabelle/babycometome.html
 name: Baby Come To Me
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1987
+runtime: 341000
 ---
-
 Silver moon
 Shining on my bed
 Beside my pillow
@@ -183,6 +187,3 @@ Baby, come to me
 (Oh)
 Sweet baby
 I love you
-
-
-

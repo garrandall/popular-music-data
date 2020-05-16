@@ -1,8 +1,11 @@
 ---
+album: 'AM Hits: The Crazy Wacky Hits of Radio'
 artists:
 - Mark Dinning
+external_ids:
+  spotify: spotify:track:62z2Gtm5Pmzecb2lvLp8PU
 features: []
-genres: []
+first_released_as_single: false
 key: top-forty-news-weather-and-sports-mark-dinning
 lyrics_url: https://www.musixmatch.com/lyrics/Mark-Dinning/Top-Forty-News-Weather-and-Sports
 name: Top Forty News Weather And Sports
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 145266
 ---
 Top 40, news, weather and sports
 Top 40, news, weather and sports

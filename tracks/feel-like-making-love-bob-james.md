@@ -1,8 +1,11 @@
 ---
+album: One
 artists:
 - Bob James
+external_ids:
+  spotify: spotify:track:73bhgZZgIdQAeoKIZNSG0x
 features: []
-genres: []
+first_released_as_single: false
 key: feel-like-making-love-bob-james
 name: Feel Like Making Love
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 399133
 ---
 

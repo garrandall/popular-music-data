@@ -1,8 +1,11 @@
 ---
+album: Simon Pure Soul
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:7AEdZoN28bEm1BcDZDpo6e
 features: []
-genres: []
+first_released_as_single: false
 key: my-special-prayer-joe-simon
 lyrics_url: https://genius.com/Joe-simon-my-special-prayer-lyrics
 name: My Special Prayer
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 162280
 ---
 While the choir sang, Ave Marie I was singing with all my heart
 And I sent a special prayer, up to heaven

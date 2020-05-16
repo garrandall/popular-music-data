@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:1e9oZCCiX42nJl0AcqriVo
 features: []
-genres: []
+first_released_as_single: true
 key: watermelon-sugar-harry-styles
 lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/watermelonsugar.html
 name: Watermelon Sugar
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 174000
 ---
-
 Tastes like strawberries on a summer evenin'
 And it sounds just like a song
 I want more berries and that summer feelin'
@@ -96,6 +100,3 @@ Watermelon sugar high
 I just wanna taste it, I just wanna taste it (Oh)
 Watermelon sugar high
 Watermelon sugar
-
-
-

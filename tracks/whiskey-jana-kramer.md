@@ -1,8 +1,11 @@
 ---
+album: Jana Kramer
 artists:
 - Jana Kramer
+external_ids:
+  spotify: spotify:track:2PlV5tbBAReUfsO6R55gxe
 features: []
-genres: []
+first_released_as_single: false
 key: whiskey-jana-kramer
 lyrics_url: https://www.azlyrics.com/lyrics/janakramer/whiskey.html
 name: Whiskey
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2011
+runtime: 215906
 ---
-
 Everybody down in Houston calls him "Texas".
 Everybody way up North calls him "Cornbread".
 You shoulda heard the way that his momma called him "baby",
@@ -48,6 +52,3 @@ The burn and the sting, and the high, and the heat, and the "left-me-wanting-mor
 I shoulda just called him "Whiskey".
 Shoulda just called him "Whiskey".
 I shoulda just called him "Whiskey".
-
-
-

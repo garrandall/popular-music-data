@@ -1,8 +1,11 @@
 ---
+album: You're the Best Thing that Ever Happened to Me
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:4vBDBspUXQQIOZgnEYPVnD
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-best-thing-that-ever-happened-to-me-ray-price
 lyrics_url: https://genius.com/Ray-price-youre-the-best-thing-that-ever-happened-to-me-lyrics
 name: You're The Best Thing That Ever Happened To Me
@@ -43,6 +46,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1956
+runtime: 228040
 ---
 I've had my share of life's ups and downs
 But fate's been kind, the downs have been few

@@ -1,8 +1,11 @@
 ---
+album: Even The Bad Times Are Good
 artists:
 - The Tremeloes
+external_ids:
+  spotify: spotify:track:3pcPIODR7n3EWz4nhWg7Ky
 features: []
-genres: []
+first_released_as_single: false
 key: even-the-bad-times-are-good-the-tremeloes
 lyrics_url: https://genius.com/The-tremeloes-even-the-bad-times-are-good-original-1967-recording-lyrics
 name: Even The Bad Times Are Good
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 156266
 ---
 La la la la la la la la la
 La la la la la la la la la

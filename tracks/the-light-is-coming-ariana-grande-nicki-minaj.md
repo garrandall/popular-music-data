@@ -1,9 +1,12 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0sdbFOyfgAhAhWq8DpzkaW
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: the-light-is-coming-ariana-grande-nicki-minaj
 lyrics_url: https://genius.com/Ariana-grande-the-light-is-coming-lyrics
 name: The Light Is Coming
@@ -16,6 +19,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 228373
 ---
 You wouldn't let anybody speak and instead—
 You wouldn't let anybody speak and instead—

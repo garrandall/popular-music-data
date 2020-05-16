@@ -1,8 +1,11 @@
 ---
+album: 'Donna Fargo: All-Time Greatest Hits'
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:1rpUIpCNkr40mDNoPUuuu5
 features: []
-genres: []
+first_released_as_single: false
 key: it-do-feel-good-donna-fargo
 lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/itdofeelgood.html
 name: It Do Feel Good
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1975
+runtime: 156026
 ---
-
 I'm kickin' my heel together free again I feel like me again
 I know without a doubt I'm in love love love
 And I don't have to make believe or feed a guilty conscience
@@ -43,6 +47,3 @@ And a whole lot of patience will make it grow
 I'm kickin' my heel together...
 I'm kickin' my heel together...
 I'm kickin' my heel together...
-
-
-

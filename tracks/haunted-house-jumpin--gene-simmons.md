@@ -1,8 +1,11 @@
 ---
+album: Jumpin' Gene Simmons
 artists:
 - Jumpin' Gene Simmons
+external_ids:
+  spotify: spotify:track:2DWIxuI27lV9lroARABz3Z
 features: []
-genres: []
+first_released_as_single: false
 key: haunted-house-jumpin--gene-simmons
 lyrics_url: https://genius.com/Jumpin-gene-simmons-haunted-house-lyrics
 name: Haunted House
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 151733
 ---
 I just moved in my new house today
 Movin' was hard but I got squared away

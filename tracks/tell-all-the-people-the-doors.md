@@ -1,8 +1,11 @@
 ---
+album: The Soft Parade
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:0g1NRq4KmbEYgzaPF7G6CG
 features: []
-genres: []
+first_released_as_single: false
 key: tell-all-the-people-the-doors
 lyrics_url: https://genius.com/The-doors-tell-all-the-people-lyrics
 name: Tell All The People
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 200266
 ---
 Tell all the people that you see
 Follow me

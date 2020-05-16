@@ -1,9 +1,12 @@
 ---
+album: In Outer Space
 artists:
 - Sparks
 - Jane Wiedlin
+external_ids:
+  spotify: spotify:track:6w0A4rf6lIbFeFcIgFL1hV
 features: []
-genres: []
+first_released_as_single: false
 key: cool-places-sparks-jane-wiedlin
 lyrics_url: https://genius.com/Sparks-cool-places-lyrics
 name: Cool Places
@@ -56,6 +59,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
+release_year: 1983
+runtime: 205200
 ---
 I wanna got to cool places with you
 I wanna take you cool places tonight

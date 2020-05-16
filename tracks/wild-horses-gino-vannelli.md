@@ -1,8 +1,11 @@
 ---
+album: The Best and Beyond
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:1dm00I58PW9kfpQ7su2opJ
 features: []
-genres: []
+first_released_as_single: false
 key: wild-horses-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/wildhorses.html
 name: Wild Horses
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1987
+runtime: 356022
 ---
-
 As the sun goes down on the Arizona plain
 And the wind whistles by like a runaway train
 Hey hey hey it's a beautiful thing
@@ -106,6 +110,3 @@ Hey no matter what you do
 
 Wild horses could not drag me away from you
 Wild horses could not drag me away from you
-
-
-

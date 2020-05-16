@@ -1,8 +1,11 @@
 ---
+album: Girls and Boys
 artists:
 - Ingrid Michaelson
+external_ids:
+  spotify: spotify:track:43ddJFnP8m3PzNJXiHuiyJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-am-ingrid-michaelson
 lyrics_url: https://genius.com/Ingrid-michaelson-the-way-i-am-lyrics
 name: The Way I Am
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
+release_year: 2007
+runtime: 135386
 ---
 If you were falling
 Then I would catch you

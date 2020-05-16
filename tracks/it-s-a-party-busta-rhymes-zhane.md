@@ -1,9 +1,12 @@
 ---
+album: The Coming
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:0Ml8PkxnlGUrrMPpJWPBc3
 features:
 - Zhane
-genres: []
+first_released_as_single: false
 key: it-s-a-party-busta-rhymes-zhane
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/itsaparty.html
 name: It's A Party
@@ -60,8 +63,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
+release_year: 1996
+runtime: 277440
 ---
-
 Right right right right
 Right, Busta Rhymes exclusive with the Zhane
 Each and every day
@@ -165,6 +169,3 @@ You can't see what we doin y'all
 Zhane and Busta B y'all
 Yes we doin the whole entire party makin y'all
 Woo, yeah yeah yeah yeah yeah, forever and ever and ever...
-
-
-

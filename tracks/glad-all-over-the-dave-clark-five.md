@@ -1,8 +1,11 @@
 ---
+album: Glad All Over
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:2w8oMeJjXn1KTnU2fr9eFB
 features: []
-genres: []
+first_released_as_single: false
 key: glad-all-over-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/gladallover.html
 name: Glad All Over
@@ -63,8 +66,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 163327
 ---
-
 You say that you love (Say you love me)
 All of the time (All of the time)
 You say that you need me (Say you need me)
@@ -121,6 +125,3 @@ So glad you're mine, now
 (Mi-i-i-i-i-i-ine)
 Whoa whoa whoa whoa whoa whoa
 (Mi-i-i-i-ine)
-
-
-

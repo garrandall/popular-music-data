@@ -1,8 +1,11 @@
 ---
+album: Bad Animals
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:5qMNvVFTJoTLkaXbudbVNF
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-the-girl-heart
 lyrics_url: https://genius.com/Heart-theres-the-girl-lyrics
 name: There's The Girl
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1987
+runtime: 230066
 ---
 You're a polished diamond
 Now you're feeling kinda rough

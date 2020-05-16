@@ -1,8 +1,11 @@
 ---
+album: Son Of Schmilsson
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:3ZX2yWXRnavMoQQ5oilWnY
 features: []
-genres: []
+first_released_as_single: false
 key: remember--christmas--nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/rememberchristmas.html
 name: Remember (Christmas)
@@ -31,8 +34,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 246333
 ---
-
 Long ago, far away
 Life was clear
 Close your eyes
@@ -59,6 +63,3 @@ Dream
 Long ago, far away
 Life was clear
 Close your eyes
-
-
-

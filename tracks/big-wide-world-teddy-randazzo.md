@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - Teddy Randazzo
+external_ids:
+  spotify: spotify:track:6iyGPtpKJ1tFOvksK5bqlt
 features: []
-genres: []
+first_released_as_single: false
 key: big-wide-world-teddy-randazzo
 lyrics_url: https://www.musixmatch.com/lyrics/Teddy-Randazzo/Big-Wide-World
 name: Big Wide World
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1963
+runtime: 172840
 ---
 Yes it's a big wide world we live in,
 But I can't believe it's true;

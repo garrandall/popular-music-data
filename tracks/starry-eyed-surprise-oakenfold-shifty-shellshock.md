@@ -1,9 +1,12 @@
 ---
+album: Bunkka
 artists:
 - Oakenfold
+external_ids:
+  spotify: spotify:track:6A4Kuy7JL0Znab3Skgloiv
 features:
 - Shifty Shellshock
-genres: []
+first_released_as_single: false
 key: starry-eyed-surprise-oakenfold-shifty-shellshock
 lyrics_url: https://genius.com/Paul-oakenfold-starry-eyed-surprise-lyrics
 name: Starry Eyed Surprise
@@ -40,6 +43,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
+release_year: 2002
+runtime: 228493
 ---
 Hey DJ (J-J-J-J-)
 Tonight, to the stars

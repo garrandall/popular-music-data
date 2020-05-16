@@ -1,8 +1,11 @@
 ---
+album: When the Whistle Blows Anything Goes
 artists:
 - Soul Survivors
+external_ids:
+  spotify: spotify:track:7knoxBr7kSFcmJtfp5iIOI
 features: []
-genres: []
+first_released_as_single: false
 key: impossible-mission--mission-impossible--soul-survivors
 lyrics_url: https://www.musixmatch.com/lyrics/The-Soul-Survivors/Impossible-Mission-Mission-Impossibel
 name: Impossible Mission (Mission Impossible)
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1967
+runtime: 144000
 ---
 This little girl of mine
 She's as cold as ice

@@ -1,9 +1,12 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Bobby Pedrick
 - Jr.
+external_ids:
+  spotify: spotify:track:2rsg5k0xxGYu21Yn7sLSo4
 features: []
-genres: []
+first_released_as_single: false
 key: white-bucks-and-saddle-shoes-bobby-pedrick-jr-
 lyrics_url: https://genius.com/Bobby-pedrick-jr-white-bucks-and-saddle-shoes-lyrics
 name: White Bucks And Saddle Shoes
@@ -24,6 +27,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 128413
 ---
 White bucks and saddle shoes
 That's what the kids all choose

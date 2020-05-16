@@ -1,8 +1,11 @@
 ---
+album: Dreaming My Dreams
 artists:
 - Waylon Jennings
+external_ids:
+  spotify: spotify:track:5Z0Khiz8xgC8AYMr4ctS8Y
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-sure-hank-done-it-this-way-waylon-jennings
 lyrics_url: https://genius.com/Waylon-jennings-are-you-sure-hank-done-it-this-way-lyrics
 name: Are You Sure Hank Done It This Way
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1975
+runtime: 174600
 ---
 Lord, it's the same old tune, fiddle and guitar
 Where do we take it from here?

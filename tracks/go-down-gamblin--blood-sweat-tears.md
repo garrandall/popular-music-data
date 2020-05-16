@@ -1,10 +1,13 @@
 ---
+album: B, S & T; 4
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:6bWjr4qT4d58NuPEepedEr
 features: []
-genres: []
+first_released_as_single: false
 key: go-down-gamblin--blood-sweat-tears
 lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/godowngamblin.html
 name: Go Down Gamblin'
@@ -41,8 +44,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 255226
 ---
-
 Born a natural loser - can't recall just where
 Raised on brew and poker and a dollar here and there
 Blackjack hand, dealer man, you better pay off that last bet
@@ -58,6 +62,3 @@ Honey, I'm just a natural gambler but I try to do my share
 
 Go down gamblin', say it when you're runnin' low
 Go down gamblin' - you may never have to go
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live At The House Of Blues
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:4myyvVXj77DRgzLQOAIwef
 features: []
-genres: []
+first_released_as_single: false
 key: down-in-the-valley-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/downinthevalley.html
 name: Down In The Valley
@@ -39,8 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 154200
 ---
-
 Down in the valley, the valley so low,
 Late in the evenin', hear the train blow.
 Hear the train blow, dear, hear the train blow,
@@ -55,6 +59,3 @@ The train is gone, love, and out of sight;
 Goodnight my darlin', darlin' goodnight!
 
 Goodnight my darlin', darlin' goodnight!
-
-
-

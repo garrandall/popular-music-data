@@ -1,8 +1,11 @@
 ---
+album: Indian Summer
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:2g0JNtavgE7txeooDT7PVX
 features: []
-genres: []
+first_released_as_single: true
 key: king-of-wishful-thinking-go-west
 lyrics_url: https://genius.com/Go-west-king-of-wishful-thinking-lyrics
 name: King Of Wishful Thinking
@@ -103,6 +106,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 259399
 ---
 I don't need to fall at your feet
 Just cause you cut me to the bone

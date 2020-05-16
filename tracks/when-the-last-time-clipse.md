@@ -1,8 +1,11 @@
 ---
+album: Lord Willin'
 artists:
 - Clipse
+external_ids:
+  spotify: spotify:track:0EXm0iaB0CzqtsB3VaupXj
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-last-time-clipse
 lyrics_url: https://www.azlyrics.com/lyrics/clipse/whenthelasttime.html
 name: When The Last Time
@@ -91,9 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
+release_year: 2002
+runtime: 254306
 ---
-
-
 (Get down!)
 Niggas and bitches (Get down!)
 You are now listening to... (Get down!)
@@ -237,6 +240,3 @@ Get down!
 Get down!
 Get down!
 Get down!
-
-
-

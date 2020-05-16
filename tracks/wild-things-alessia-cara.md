@@ -1,8 +1,11 @@
 ---
+album: Know-It-All
 artists:
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:2ZyuwVvV6Z3XJaXIFbspeE
 features: []
-genres: []
+first_released_as_single: false
 key: wild-things-alessia-cara
 lyrics_url: https://genius.com/Alessia-cara-wild-things-lyrics
 name: Wild Things
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2015
+runtime: 188493
 ---
 Find table spaces
 Say your social graces

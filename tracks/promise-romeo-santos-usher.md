@@ -1,9 +1,12 @@
 ---
+album: "F\xF3rmula Vol. 1"
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:0jr6tT2vc4cIFPHb6wufG3
 features:
 - Usher
-genres: []
+first_released_as_single: false
 key: promise-romeo-santos-usher
 lyrics_url: https://genius.com/Romeo-santos-promise-lyrics
 name: Promise
@@ -44,6 +47,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 252253
 ---
 He perdido el balance por tu amor
 En tus manos yo caí, tienes control sobre mi

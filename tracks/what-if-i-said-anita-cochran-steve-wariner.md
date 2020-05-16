@@ -1,9 +1,12 @@
 ---
+album: Back To You
 artists:
 - Anita Cochran
 - Steve Wariner
+external_ids:
+  spotify: spotify:track:3uIDvQDSwldkJPFXPZAVVz
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-i-said-anita-cochran-steve-wariner
 lyrics_url: https://genius.com/Anita-cochran-and-steve-wariner-what-if-i-said-lyrics
 name: What If I Said
@@ -68,6 +71,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
+release_year: 1997
+runtime: 292626
 ---
 We've been friends for a long long time
 You tell me your secrets and I tell you mine

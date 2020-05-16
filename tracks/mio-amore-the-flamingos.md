@@ -1,8 +1,11 @@
 ---
+album: Flamingo Favorites
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:2biPaOxz8M2BJZOaEa9qNH
 features: []
-genres: []
+first_released_as_single: false
 key: mio-amore-the-flamingos
 lyrics_url: https://www.azlyrics.com/lyrics/flamingos/mioamore.html
 name: Mio Amore
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 185440
 ---
-
 Mio amore
 Take my lips and a kiss them
 Take my love
@@ -62,6 +66,3 @@ I am yours my love, till the end of time
 
 Whoo... till the end
 Till the end of time, of time
-
-
-

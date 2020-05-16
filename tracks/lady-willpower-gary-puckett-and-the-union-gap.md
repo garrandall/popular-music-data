@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gary Puckett And The Union Gap
+external_ids:
+  spotify: spotify:track:2v32CGfALncxmdlF4JbKZ4
 features: []
-genres: []
+first_released_as_single: false
 key: lady-willpower-gary-puckett-and-the-union-gap
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-lady-willpower-lyrics
 name: Lady Willpower
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 159533
 ---
 Lady Willpower
 It's now or never

@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:65jrjEhWfAvysKfnojk1i0
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-boardwalk-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/undertheboardwalk.html
 name: Under The Boardwalk
@@ -63,8 +66,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 161960
 ---
-
 Oh, when the sun beats down and burns the tar up on the roof
 And your shoes get so hot, you wish your tired feet were fireproof
 Under the boardwalk, down by the sea, yeah
@@ -95,6 +99,3 @@ On a blanket with my baby is where I'll be
 (Under the boardwalk) People walking above
 (Under the boardwalk) We'll be falling in love
 Under the boardwalk, boardwalk
-
-
-

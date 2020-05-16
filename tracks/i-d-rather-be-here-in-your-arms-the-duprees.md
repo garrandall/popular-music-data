@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Duprees
 artists:
 - The Duprees
+external_ids:
+  spotify: spotify:track:5kVbS9GaVRCf0BgEslm723
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-be-here-in-your-arms-the-duprees
 lyrics_url: https://www.musixmatch.com/lyrics/The-Duprees/I-d-Rather-Be-Here-in-Your-Arms
 name: I'd Rather Be Here In Your Arms
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1963
+runtime: 133066
 ---
 Been around but I've found
 I'd rather be here in your arms

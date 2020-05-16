@@ -1,9 +1,12 @@
 ---
+album: Hot Space (Deluxe Remastered Version)
 artists:
 - Queen
 - David Bowie
+external_ids:
+  spotify: spotify:track:11IzgLRXV7Cgek3tEgGgjw
 features: []
-genres: []
+first_released_as_single: false
 key: under-pressure-queen-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/queen/underpressure.html
 name: Under Pressure
@@ -72,8 +75,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 1981
+runtime: 248440
 ---
-
 Pressure: pushing down on me,
 Pressing down on you, no man ask for.
 Under pressure that burns a building down,
@@ -131,6 +135,3 @@ This is ourselves.
 Under pressure.
 Under pressure.
 Pressure.
-
-
-

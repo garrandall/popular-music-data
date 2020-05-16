@@ -1,8 +1,11 @@
 ---
+album: Reflections of The Marmalade (Original Recordings)
 artists:
 - The Marmalade
+external_ids:
+  spotify: spotify:track:0p24oduL61x8l5izf8niSx
 features: []
-genres: []
+first_released_as_single: false
 key: reflections-of-my-life-the-marmalade
 lyrics_url: https://www.azlyrics.com/lyrics/marmalade/reflectionsofmylife.html
 name: Reflections Of My Life
@@ -67,8 +70,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 251280
 ---
-
 The changing of sunlight to moonlight
 Reflections of my life
 Oh, how they fill my eyes
@@ -101,6 +105,3 @@ Sad tomorrow
 Take me back (take me back) to my old home
 All my crying (all my crying)
 Feel I'm dying...
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: FATHER OF 4
 artists:
 - Offset
+external_ids:
+  spotify: spotify:track:7pMRoGLEJuFM2wl5pt0R99
 features:
 - Travis Scott
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: legacy-offset-travis-scott-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/offset/legacy.html
 name: Legacy
@@ -13,9 +16,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 244941
 ---
-
-
 808 Mafia!
 What they gone' do?
 What they gone' do?
@@ -123,6 +126,3 @@ I fuel up the Rari, performance (Skrt)
 I been left out the streets like an orphan (Streets)
 I was strong but I wanted to forfeit (Strong)
 I got famous and rich, now I'm corporate (Uh, hey)
-
-
-

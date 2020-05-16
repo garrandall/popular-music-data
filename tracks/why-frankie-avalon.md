@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0KY3UEEB4Uf80uxD0ciUEv
 features: []
-genres: []
+first_released_as_single: false
 key: why-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-why-lyrics
 name: Why
@@ -71,6 +74,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1959
+runtime: 156400
 ---
 I'll never let you go
 Why? Because I love you

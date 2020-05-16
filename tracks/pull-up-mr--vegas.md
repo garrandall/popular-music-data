@@ -1,8 +1,11 @@
 ---
+album: 'Mr Vegas: The Hits'
 artists:
 - Mr. Vegas
+external_ids:
+  spotify: spotify:track:2HIDgTPcG2TF4tpJvzzGVR
 features: []
-genres: []
+first_released_as_single: true
 key: pull-up-mr--vegas
 lyrics_url: https://genius.com/Mr-vegas-pull-up-lyrics
 name: Pull Up
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2004
+runtime: 219640
 ---
 Mr. Vegas, alongside Wayne Anthony
 

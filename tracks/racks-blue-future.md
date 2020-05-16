@@ -1,8 +1,11 @@
 ---
+album: BEASTMODE 2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:4lc61NBCDzy2srBHDQeTfN
 features: []
-genres: []
+first_released_as_single: false
 key: racks-blue-future
 lyrics_url: https://genius.com/Future-racks-blue-lyrics
 name: Racks Blue
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 204311
 ---
 Zaytoven!
 

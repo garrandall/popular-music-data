@@ -1,8 +1,11 @@
 ---
+album: Schubert Dip
 artists:
 - EMF
+external_ids:
+  spotify: spotify:track:5VYTKiOnHw4iTrB9pG3yum
 features: []
-genres: []
+first_released_as_single: false
 key: unbelievable-emf
 lyrics_url: https://www.azlyrics.com/lyrics/emf/unbelievable.html
 name: Unbelievable
@@ -99,8 +102,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1991
+runtime: 209813
 ---
-
 Oh!
 (What the?)
 (What the fuck was that?)
@@ -194,6 +198,3 @@ Oh!
 (What the?)
 (What the fuck was that?)
 You're unbelievable
-
-
-

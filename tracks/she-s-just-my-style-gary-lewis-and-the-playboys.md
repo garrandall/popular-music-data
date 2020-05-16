@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:0LCX2CdYWmeawTAybH2j2V
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-just-my-style-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-shes-just-my-style-lyrics
 name: She's Just My Style
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1965
+runtime: 191773
 ---
 Every time I see her she don't even look my way
 Maybe she will notice me, but then what would I say?

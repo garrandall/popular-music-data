@@ -1,9 +1,12 @@
 ---
+album: Supernatural
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:2pX4FpOgwItRVPPUFdRcxA
 features:
 - Rob Thomas
-genres: []
+first_released_as_single: false
 key: smooth-santana-rob-thomas
 lyrics_url: https://www.musixmatch.com/lyrics/Santana-ft-Rob-Thomas/Smooth
 name: Smooth
@@ -240,6 +243,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
+release_year: 1999
+runtime: 294986
 ---
 Man, it's a hot one
 Like seven inches from the midday sun

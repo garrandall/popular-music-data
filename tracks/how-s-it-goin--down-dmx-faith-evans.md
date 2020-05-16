@@ -1,9 +1,12 @@
 ---
+album: It's Dark And Hell Is Hot
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:5AP5KTPHWgOf56LFdjSwD2
 features:
 - Faith Evans
-genres: []
+first_released_as_single: false
 key: how-s-it-goin--down-dmx-faith-evans
 lyrics_url: https://genius.com/Dmx-hows-it-goin-down-lyrics
 name: How's It Goin' Down
@@ -48,6 +51,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 243400
 ---
 Guy: Whose dick you sucking?
 Girl: Don't call me with that bullshit, alright?

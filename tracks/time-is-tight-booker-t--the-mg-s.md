@@ -1,9 +1,12 @@
 ---
+album: Uptight - Soundtrack From the Motion Picture
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:2iHHYNcNiGPAQmr9lRGM6m
 features: []
-genres: []
+first_released_as_single: false
 key: time-is-tight-booker-t--the-mg-s
 name: Time Is Tight
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 296093
 ---
 

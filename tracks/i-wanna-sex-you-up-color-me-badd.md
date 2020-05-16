@@ -1,8 +1,11 @@
 ---
+album: C.M.B.
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:3lsse1FoSHnNXc6y0jHxvd
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-sex-you-up-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/iwannasexyouup.html
 name: I Wanna Sex You Up
@@ -99,8 +102,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 236946
 ---
-
 Come inside, take off your coat, I'll make you feel at home.
 Now let's pour a glass of wine 'cause now we're all alone.
 I've been waiting all night so just let me hold you close to me,
@@ -134,6 +138,3 @@ Feels so right it can't be wrong...
 Don't be shy girl rescue me...
 (I wanna sex you up)
 Open up your heart and I'll set you free...
-
-
-

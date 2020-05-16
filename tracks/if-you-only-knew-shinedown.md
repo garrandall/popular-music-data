@@ -1,8 +1,11 @@
 ---
+album: The Sound of Madness
 artists:
 - Shinedown
+external_ids:
+  spotify: spotify:track:0CkSF2TAqIu8TJaVwwAOnT
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-only-knew-shinedown
 lyrics_url: https://www.azlyrics.com/lyrics/shinedown/ifyouonlyknew.html
 name: If You Only Knew
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
+release_year: 2008
+runtime: 226640
 ---
-
 If you only knew
 I'm hanging by a thread
 The web I spin for you
@@ -146,6 +150,3 @@ The only thing that I still believe
 In is you, believe in is you
 I still believe in you
 Oh, if you only knew
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0so0moYLqkFWE6dquoCOsh
 features:
 - Gwyneth Paltrow
-genres: []
+first_released_as_single: false
 key: forget-you-glee-cast-gwyneth-paltrow
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/forgetyou.html
 name: Forget You
@@ -28,8 +31,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2010
+runtime: 221360
 ---
-
 I see you driving 'round town
 With the guy I love and I'm like,
 Forget you!
@@ -143,6 +147,3 @@ And although there's pain in my chest
 I still wish you the best with a
 Forget you!
 Oo, oo, oo
-
-
-

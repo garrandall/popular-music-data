@@ -1,9 +1,12 @@
 ---
+album: Boomerang
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:6pMliTILbMMQJVFvru12DX
 features:
 - Toni Braxton
-genres: []
+first_released_as_single: false
 key: give-u-my-heart-babyface-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/giveumyheart.html
 name: Give U My Heart
@@ -72,8 +75,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1992
+runtime: 301626
 ---
-
 Your love's so exciting
 Boy I can't deny it
 Since you found a place in my heart
@@ -124,8 +128,3 @@ I will go all the way down
 I'll make it feel so good
 I wanna do you right
 If I could just make love to you
-
-
-
-
-

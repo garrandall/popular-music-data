@@ -1,8 +1,11 @@
 ---
+album: 22 Best Of The Best
 artists:
 - Sheb Wooley
+external_ids:
+  spotify: spotify:track:4tkxuXxeKBeR428wU4XfB7
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-my-pa-sheb-wooley
 lyrics_url: https://www.musixmatch.com/lyrics/Sheb-Wooley/That-s-My-Pa
 name: That's My Pa
@@ -51,6 +54,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1962
+runtime: 157600
 ---
 Now back in the country,
 Where I was born,

@@ -1,8 +1,11 @@
 ---
+album: A Gift From A Flower To A Garden
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:0DJEprQwDjcMJ4P1WR5RRQ
 features: []
-genres: []
+first_released_as_single: false
 key: wear-your-love-like-heaven-donovan
 lyrics_url: https://www.musixmatch.com/lyrics/Donovan/Wear-Your-Love-Like-Heaven
 name: Wear Your Love Like Heaven
@@ -35,6 +38,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1964
+runtime: 145360
 ---
 Color in sky, Prussian blue
 Scarlet fleece changes hue

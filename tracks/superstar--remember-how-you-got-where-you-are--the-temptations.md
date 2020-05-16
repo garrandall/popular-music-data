@@ -1,8 +1,11 @@
 ---
+album: Solid Rock
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:64s4Grin1A4UabYVF5O2vF
 features: []
-genres: []
+first_released_as_single: false
 key: superstar--remember-how-you-got-where-you-are--the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/superstarrememberhowyougotwhereyouare.html
 name: Superstar (Remember How You Got Where You Are)
@@ -47,8 +50,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
+release_year: 1971
+runtime: 173533
 ---
-
 Higher, higher
 Fire
 
@@ -102,6 +106,3 @@ Like everyday people you're just a human being
 Superstar, superstar do you know who your real friends are
 Ah, talkin' to you
 Superstar remember how you got where you are
-
-
-

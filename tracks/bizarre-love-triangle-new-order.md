@@ -1,8 +1,11 @@
 ---
+album: Brotherhood
 artists:
 - New Order
+external_ids:
+  spotify: spotify:track:2hAch35sdBIIohme90PY26
 features: []
-genres: []
+first_released_as_single: true
 key: bizarre-love-triangle-new-order
 lyrics_url: https://genius.com/New-order-bizarre-love-triangle-lyrics
 name: Bizarre Love Triangle
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1986
+runtime: 402200
 ---
 Every time I think of you
 I feel shot right through with a bolt of blue

@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:70khXICDeTTxgYtw3EysKH
 features: []
-genres: []
+first_released_as_single: false
 key: sweetener-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/sweetener.html
 name: Sweetener
@@ -11,8 +14,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 208493
 ---
-
 When life deals us cards
 Make everything taste like it is salt
 Then you come through like the sweetener you are
@@ -86,6 +90,3 @@ Mix it and mix it and mix it and mix it
 Kiss it, kiss it, kiss it
 You make me say oh, oh (sheesh, sheesh)
 You make me say oh, babe
-
-
-

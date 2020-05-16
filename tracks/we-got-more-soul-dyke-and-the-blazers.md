@@ -1,8 +1,11 @@
 ---
+album: Dyke's Greatest Hits - The Complete Singles
 artists:
 - Dyke And The Blazers
+external_ids:
+  spotify: spotify:track:5FrCb3dn8zBDQidICpI4Q5
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-more-soul-dyke-and-the-blazers
 lyrics_url: https://genius.com/Dyke-and-the-blazers-we-got-more-soul-lyrics
 name: We Got More Soul
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 199946
 ---
 Tell the world
 Sisters and my brothers

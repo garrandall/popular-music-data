@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 7: 1967'
 artists:
 - The Elgins
+external_ids:
+  spotify: spotify:track:4EHD0TJ9HPMLSfiHI17tjK
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-been-a-long-long-time-the-elgins
 lyrics_url: https://genius.com/The-elgins-its-been-a-long-long-time-a-long-time-lyrics
 name: It's Been A Long Long Time
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 177053
 ---
 (It's been a long, long time)
 (It's been a long, long time)

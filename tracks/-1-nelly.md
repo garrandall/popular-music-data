@@ -1,8 +1,11 @@
 ---
+album: Whoa, Nelly!
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:3eHXUhYRivIcR5mehQ7Og6
 features: []
-genres: []
+first_released_as_single: false
 key: -1-nelly
 lyrics_url: https://www.musixmatch.com/lyrics/Nelly-feat-Avery-Storm/If-I-Gave-U-1
 name: '#1'
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
+release_year: 2000
+runtime: 263000
 ---
 Uh, uh, uh, uh
 

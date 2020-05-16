@@ -1,8 +1,11 @@
 ---
+album: Loop De Loop
 artists:
 - Johnny Thunder
+external_ids:
+  spotify: spotify:track:12KirOpUDcCAjySIfqxSng
 features: []
-genres: []
+first_released_as_single: false
 key: loop-de-loop-johnny-thunder
 lyrics_url: https://genius.com/Johnny-thunder-loop-de-loop-lyrics
 name: Loop De Loop
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 141960
 ---
 LOOP DE LOOP
 Johnny Thunder

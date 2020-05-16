@@ -1,8 +1,11 @@
 ---
+album: Toto
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:4aVuWgvD0X63hcOCnZtNFA
 features: []
-genres: []
+first_released_as_single: false
 key: hold-the-line-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/holdtheline.html
 name: Hold The Line
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 235546
 ---
-
 It's not in the way that you hold me
 It's not in the way you say you care
 It's not in the way you've been treating my friends
@@ -140,6 +144,3 @@ Love isn't always on time
 Love isn't always on time
 Love isn't always on time
 Whoa oh oh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: City High
 artists:
 - City High
+external_ids:
+  spotify: spotify:track:5dXmPzPDTMWmxmpzxAV1JZ
 features:
 - Eve
-genres: []
+first_released_as_single: false
 key: caramel-city-high-eve
 lyrics_url: https://genius.com/City-high-caramel-lyrics
 name: Caramel
@@ -104,6 +107,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-03-23'
+release_year: 2001
+runtime: 212293
 ---
 Fo' real and that's no question
 No frontin' and no guessin'

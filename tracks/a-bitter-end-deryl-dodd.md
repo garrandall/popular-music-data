@@ -1,8 +1,11 @@
 ---
+album: Pearl Snaps
 artists:
 - Deryl Dodd
+external_ids:
+  spotify: spotify:track:1T5eKL9pr0HmSbNWxtVCZw
 features: []
-genres: []
+first_released_as_single: false
 key: a-bitter-end-deryl-dodd
 lyrics_url: https://genius.com/Deryl-dodd-a-bitter-end-lyrics
 name: A Bitter End
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
+release_year: 1996
+runtime: 220173
 ---
 (Deryl Dodd/Kenny Beard)
 (Track 4 - Time 3:40)

@@ -1,8 +1,11 @@
 ---
+album: Reverse Cowgirl
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:57C67IcoKSWaiijRkYulHW
 features: []
-genres: []
+first_released_as_single: true
 key: reverse-cowgirl-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/tpain/reversecowgirl.html
 name: Reverse Cowgirl
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
+release_year: 2010
+runtime: 229400
 ---
-
 Welcome to my rodeo
 Hold on to me
 Baby Imma take it slow
@@ -118,6 +122,3 @@ Get it up get it up
 Set it up set it up
 Get it up get it up
 Set it up set it up
-
-
-

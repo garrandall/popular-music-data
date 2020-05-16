@@ -1,8 +1,11 @@
 ---
+album: Anka
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4mvZnMDlsR2dxSO6iQrSu9
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-get-to-know-you-paul-anka
 lyrics_url: https://genius.com/Paul-anka-let-me-get-to-know-you-lyrics
 name: Let Me Get To Know You
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1974
+runtime: 202800
 ---
 Let me get to know you
 Help me make it last

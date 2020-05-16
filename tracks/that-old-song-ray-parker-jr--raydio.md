@@ -1,9 +1,12 @@
 ---
+album: A Woman Needs Love
 artists:
 - Ray Parker Jr.
 - Raydio
+external_ids:
+  spotify: spotify:track:3csafR3bWUk9NtyJwn09Es
 features: []
-genres: []
+first_released_as_single: false
 key: that-old-song-ray-parker-jr--raydio
 lyrics_url: https://genius.com/Ray-parker-jr-and-raydio-that-old-song-lyrics
 name: That Old Song
@@ -68,6 +71,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 264306
 ---
 A good song and a love affair
 Go hand in hand together

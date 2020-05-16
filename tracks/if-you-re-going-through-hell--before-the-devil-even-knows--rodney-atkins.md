@@ -1,8 +1,11 @@
 ---
+album: If You're Going Through Hell
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:7vSn3VNbzOtPebdj6ZSebj
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-going-through-hell--before-the-devil-even-knows--rodney-atkins
 lyrics_url: https://genius.com/Rodney-atkins-if-youre-going-through-hell-lyrics
 name: If You're Going Through Hell (Before The Devil Even Knows)
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
+release_year: 2006
+runtime: 216773
 ---
 Well you know those times when you feel like
 There's a sign there on your back

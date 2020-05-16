@@ -1,8 +1,11 @@
 ---
+album: Proto-Punk Classics
 artists:
 - Beau Brummels
+external_ids:
+  spotify: spotify:track:7EiWrR27y0mfzEJrsoSwQU
 features: []
-genres: []
+first_released_as_single: false
 key: one-too-many-mornings-beau-brummels
 lyrics_url: https://genius.com/The-beau-brummels-one-too-many-mornings-lyrics
 name: One Too Many Mornings
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 171893
 ---
 Down the street the dogs are barkin'
 And the day is a-gettin' dark

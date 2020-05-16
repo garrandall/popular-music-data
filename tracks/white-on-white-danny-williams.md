@@ -1,8 +1,11 @@
 ---
+album: Collection
 artists:
 - Danny Williams
+external_ids:
+  spotify: spotify:track:4GwosqCFTn7RKfyPgy3kWW
 features: []
-genres: []
+first_released_as_single: false
 key: white-on-white-danny-williams
 lyrics_url: https://genius.com/Danny-williams-white-on-white-lyrics
 name: White On White
@@ -63,6 +66,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 139893
 ---
 White on white, lace on satin
 Blue velvet ribbons on her bouquet

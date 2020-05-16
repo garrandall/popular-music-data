@@ -1,8 +1,11 @@
 ---
+album: Children Of The World
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2xiOdusRnZezQok1RgLNeS
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-be-dancing-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/youshouldbedancing.html
 name: You Should Be Dancing
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
+release_year: 1976
+runtime: 256493
 ---
-
 My baby moves at midnight
 Goes right on till the dawn
 My woman takes me higher
@@ -124,6 +128,3 @@ You should be dancing, yeah
 You should be dancing, yeah
 You should be dancing, yeah
 You should be dancing, yeah
-
-
-

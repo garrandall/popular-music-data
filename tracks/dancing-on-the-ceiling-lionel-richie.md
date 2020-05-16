@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:0snPJPxkk0MbTc0xeUvAPt
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-on-the-ceiling-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-dancing-on-the-ceiling-lyrics
 name: Dancing On The Ceiling
@@ -75,6 +78,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 270720
 ---
 (Cheering)
 Whoo!

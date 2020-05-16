@@ -1,8 +1,11 @@
 ---
+album: '15'
 artists:
 - Bhad Bhabie
+external_ids:
+  spotify: spotify:track:5JW8njiQorZ7m2VHYddTt6
 features: []
-genres: []
+first_released_as_single: true
 key: hi-bich-bhad-bhabie
 lyrics_url: https://genius.com/Bhad-bhabie-hi-bich-lyrics
 name: Hi Bich
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2017
+runtime: 104528
 ---
 Oh my God, Ronny
 

@@ -1,8 +1,11 @@
 ---
+album: Portfolio
 artists:
 - Grace Jones
+external_ids:
+  spotify: spotify:track:3Zc9b3YS8wcGDzH92joizS
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-a-man-grace-jones
 lyrics_url: https://genius.com/Grace-jones-i-need-a-man-lyrics
 name: I Need A Man
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1977
+runtime: 203840
 ---
 When I'm feelin' lonely
 Someone telephone me

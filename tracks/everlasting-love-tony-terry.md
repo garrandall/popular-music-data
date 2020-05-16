@@ -1,8 +1,11 @@
 ---
+album: Tony Terry
 artists:
 - Tony Terry
+external_ids:
+  spotify: spotify:track:36VqMzrUe5lAWgfVwaLECE
 features: []
-genres: []
+first_released_as_single: false
 key: everlasting-love-tony-terry
 lyrics_url: https://genius.com/Tony-terry-everlasting-love-lyrics
 name: Everlasting Love
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1990
+runtime: 318933
 ---
 Yeah hey
 

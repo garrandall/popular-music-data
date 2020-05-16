@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:40nmiiOO6KT87CwLYwPkBh
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-rita-leif-garrett
 lyrics_url: https://genius.com/Leif-garrett-runaway-rita-lyrics
 name: Runaway Rita
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 169533
 ---
 See how I'm walking
 See how I'm talking

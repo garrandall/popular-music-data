@@ -1,8 +1,11 @@
 ---
+album: The Joe South Story
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:23Z7SuXIUt2WVcdD2iA9PS
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-reason-joe-south
 lyrics_url: https://genius.com/Joe-south-youre-the-reason-lyrics
 name: You're The Reason
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 155248
 ---
 (Walkin' the floor)
 (Feelin' so blue)

@@ -1,8 +1,11 @@
 ---
+album: Johnny Burnette
 artists:
 - Johnny Burnette
+external_ids:
+  spotify: spotify:track:5NOITvzXKvrqsRqJz5FgIJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-sixteen-johnny-burnette
 lyrics_url: https://genius.com/Johnny-burnette-youre-sixteen-lyrics
 name: You're Sixteen
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1960
+runtime: 119000
 ---
 !
 You come on like a dream, peaches and cream

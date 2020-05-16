@@ -1,8 +1,11 @@
 ---
+album: Heart In Motion
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:2GwDKcTJlvoRDaJXkA7ULJ
 features: []
-genres: []
+first_released_as_single: false
 key: good-for-me-amy-grant
 lyrics_url: https://genius.com/Amy-grant-good-for-me-lyrics
 name: Good For Me
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
+release_year: 1991
+runtime: 239493
 ---
 You like to dance
 And listen to the music

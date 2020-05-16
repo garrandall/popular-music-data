@@ -1,9 +1,12 @@
 ---
+album: Gossip Columns
 artists:
 - Marc E. Bassy
+external_ids:
+  spotify: spotify:track:52qH79XktzCUPkN0dlRbUs
 features:
 - G-Eazy
-genres: []
+first_released_as_single: true
 key: you---me-marc-e--bassy-g-eazy
 lyrics_url: https://genius.com/Marc-e-bassy-you-and-me-lyrics
 name: You & Me
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 218480
 ---
 Girl you party all the time
 Don't let me stay on your mind

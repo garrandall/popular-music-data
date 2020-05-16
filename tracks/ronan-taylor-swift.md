@@ -1,8 +1,11 @@
 ---
+album: Ronan
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0Nw8hv79MLJa1yjtsEgz08
 features: []
-genres: []
+first_released_as_single: true
 key: ronan-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/ronan.html
 name: Ronan
@@ -15,8 +18,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 265306
 ---
-
 I remember your bare feet down the hallway
 I remember your little laugh
 Race cars on the kitchen floor, plastic dinosaurs
@@ -61,6 +65,3 @@ You were my best four years
 
 I remember your bare feet down the hallway
 I love you to the moon and back
-
-
-

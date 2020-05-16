@@ -1,10 +1,13 @@
 ---
+album: Hot Girl Summer
 artists:
 - Megan Thee Stallion
 - Nicki Minaj
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:5EjNEaFiXpddlZglT4RoWi
 features: []
-genres: []
+first_released_as_single: true
 key: hot-girl-summer-megan-thee-stallion-nicki-minaj-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/megantheestallion/hotgirlsummer.html
 name: Hot Girl Summer
@@ -73,9 +76,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 199427
 ---
-
-
 Bone Collector the plug
 Real Hot Girl shit
 (Real ass bitch, give a fuck about a nigga)
@@ -184,6 +187,3 @@ I'm a hot girl, so you know ain't shit stoppin' (Hey, hey)
 I'm a hot girl, so you know ain't shit stoppin' (Hey, hey)
 
 Know we got it lit, yeah
-
-
-

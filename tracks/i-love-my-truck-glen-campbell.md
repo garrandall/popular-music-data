@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:0nB8uoxIoqF1jei3CpROK3
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-my-truck-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-i-love-my-truck-lyrics
 name: I Love My Truck
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 178200
 ---
 Well, it'll just get you down
 If you let life get to you

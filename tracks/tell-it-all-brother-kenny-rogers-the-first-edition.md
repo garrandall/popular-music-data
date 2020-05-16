@@ -1,9 +1,12 @@
 ---
+album: Kenny Rogers & The First Edition
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:2MdO4nF4dFGIrYnS4EsM4p
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-all-brother-kenny-rogers-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-tell-it-all-brother-lyrics
 name: Tell It All Brother
@@ -52,6 +55,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 204173
 ---
 Tell it all brother, before we fall
 Tell it all brothers and sisters

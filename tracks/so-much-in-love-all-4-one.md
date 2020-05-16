@@ -1,8 +1,11 @@
 ---
+album: All-4-One
 artists:
 - All-4-One
+external_ids:
+  spotify: spotify:track:1J1Wz0UPt4NPp4MMwSJCcz
 features: []
-genres: []
+first_released_as_single: false
 key: so-much-in-love-all-4-one
 lyrics_url: https://genius.com/All-4-one-so-much-in-love-lyrics
 name: So Much In Love
@@ -95,6 +98,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1994
+runtime: 212640
 ---
 As we stroll along together
 Holding hands walking all along

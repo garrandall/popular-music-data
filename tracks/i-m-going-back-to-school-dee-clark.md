@@ -1,8 +1,11 @@
 ---
+album: Rain Drops
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:2xQHeKqEg5K4W56czd0v84
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-going-back-to-school-dee-clark
 name: I'm Going Back To School
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 148673
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Dance Again...The Hits
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:4d2hD63oUGU3s7L66JD0BE
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: dance-again-jennifer-lopez-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/danceagain.html
 name: Dance Again
@@ -80,8 +83,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2012
+runtime: 237266
 ---
-
 Dance, yes (RedOne)
 Love, next
 Dance, yes (J.Lo)
@@ -185,6 +189,3 @@ Who cares what they're gonna say
 
 I wanna dance, and love, and dance again
 I wanna dance, and love, and dance again.
-
-
-

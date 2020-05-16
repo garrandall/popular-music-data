@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:1CgPquzpxMX4QeCbrqweuh
 features: []
-genres: []
+first_released_as_single: false
 key: dark-queen-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/darkqueen.html
 name: Dark Queen
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 173419
 ---
-
 Dear momma
 Love you momma
 I ain't goin, momma
@@ -81,6 +85,3 @@ I don't wanna sign off (woah)
 Dear momma (1600)
 Love you momma
 That's my momma (1600 block)
-
-
-

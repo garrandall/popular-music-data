@@ -1,9 +1,12 @@
 ---
+album: Windy City Workout
 artists:
 - Alvin Cash
 - The Crawlers
+external_ids:
+  spotify: spotify:track:5BkcuH5kyZC5ZJWfWHmahH
 features: []
-genres: []
+first_released_as_single: false
 key: the-barracuda-alvin-cash-the-crawlers
 lyrics_url: https://www.musixmatch.com/lyrics/Alvin-Cash-The-Crawlers/The-Barracuda
 name: The Barracuda
@@ -36,6 +39,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 138601
 ---
 And The Crawlers
 

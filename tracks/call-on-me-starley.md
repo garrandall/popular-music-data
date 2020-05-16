@@ -1,8 +1,11 @@
 ---
+album: Call On Me
 artists:
 - Starley
+external_ids:
+  spotify: spotify:track:52tbWCKaMaSLpYNw71XO9l
 features: []
-genres: []
+first_released_as_single: true
 key: call-on-me-starley
 lyrics_url: https://genius.com/Starley-call-on-me-lyrics
 name: Call On Me
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2016
+runtime: 161632
 ---
 When you're low
 And your knees can't rise

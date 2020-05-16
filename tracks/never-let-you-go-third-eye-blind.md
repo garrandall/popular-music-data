@@ -1,8 +1,11 @@
 ---
+album: Blue
 artists:
 - Third Eye Blind
+external_ids:
+  spotify: spotify:track:1sxUaLi0G2vB7dl4ogtCxH
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-you-go-third-eye-blind
 lyrics_url: https://genius.com/Third-eye-blind-never-let-you-go-lyrics
 name: Never Let You Go
@@ -95,6 +98,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 1999
+runtime: 237240
 ---
 There's every good reason
 For letting you go

@@ -1,8 +1,11 @@
 ---
+album: Doin' Mickey's Monkey
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:6pSaA74lbjhcaRQJP5Vi8O
 features: []
-genres: []
+first_released_as_single: false
 key: mickey-s-monkey-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/mickeysmonkey.html
 name: Mickey's Monkey
@@ -55,8 +58,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 165760
 ---
-
 Alright, is everybody ready
 Alright now, here we go
 A one, a two, a one, two, three, four
@@ -100,6 +104,3 @@ Mickey's monkey (Mickey's monkey)
 Mickey's monkey (Mickey's monkey)
 One more time
 Lum de Lum de lai
-
-
-

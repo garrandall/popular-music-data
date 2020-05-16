@@ -1,8 +1,11 @@
 ---
+album: Four The Record
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:1ThdZzM4DCcNIRf9EyBMg5
 features: []
-genres: []
+first_released_as_single: false
 key: all-kinds-of-kinds-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/allkindsofkinds.html
 name: All Kinds Of Kinds
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2011
+runtime: 266946
 ---
-
 Ilsa was an acrobat who went and fell in love with that
 Horatio the human cannonball
 A weddin' 'neath the big top tent with barkers clowns and elephants
@@ -63,6 +67,3 @@ That ever since the beginning to keep the world spinning
 It takes all kinds of kinds
 All kinds of kinds
 All kinds of kinds
-
-
-

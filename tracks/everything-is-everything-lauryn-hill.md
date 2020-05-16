@@ -1,8 +1,11 @@
 ---
+album: The Miseducation of Lauryn Hill
 artists:
 - Lauryn Hill
+external_ids:
+  spotify: spotify:track:7t86fVeDAd63ThaR0ZkxXS
 features: []
-genres: []
+first_released_as_single: false
 key: everything-is-everything-lauryn-hill
 lyrics_url: https://genius.com/Lauryn-hill-everything-is-everything-lyrics
 name: Everything Is Everything
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1998
+runtime: 293266
 ---
 Everything is everything
 What is meant to be, will be

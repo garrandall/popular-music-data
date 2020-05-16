@@ -1,8 +1,11 @@
 ---
+album: 200 KM/H In The Wrong Lane
 artists:
 - t.A.T.u.
+external_ids:
+  spotify: spotify:track:4bJygwUKrRgq1stlNXcgMg
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-things-she-said-t-a-t-u-
 lyrics_url: https://genius.com/Tatu-all-the-things-she-said-lyrics
 name: All The Things She Said
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
+release_year: 2002
+runtime: 214440
 ---
 All the things she said, all the things she said
 Runnin' through my head, runnin' through my head

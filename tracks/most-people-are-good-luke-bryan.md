@@ -1,8 +1,11 @@
 ---
+album: What Makes You Country
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:79LAFAkR1ATb4iIQvZuCL0
 features: []
-genres: []
+first_released_as_single: false
 key: most-people-are-good-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/mostpeoplearegood.html
 name: Most People Are Good
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2017
+runtime: 221800
 ---
-
 I believe kids oughta stay kids as long as they can
 Turn off the screen, go climb a tree, get dirt on their hands
 I believe we gotta forgive and make amends
@@ -124,6 +128,3 @@ I believe most people are good
 
 I believe most people are good
 I believe most people are good
-
-
-

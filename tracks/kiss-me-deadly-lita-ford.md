@@ -1,8 +1,11 @@
 ---
+album: Lita
 artists:
 - Lita Ford
+external_ids:
+  spotify: spotify:track:0kFM6t9htbB53Dg8frGDGh
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-deadly-lita-ford
 lyrics_url: https://www.azlyrics.com/lyrics/litaford/kissmedeadly.html
 name: Kiss Me Deadly
@@ -99,8 +102,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1988
+runtime: 241800
 ---
-
 I went to a party last Saturday night
 I didn't get laid, I got in a fight,
 Uh, huh
@@ -151,6 +155,3 @@ Kiss me twice
 C'mon pretty baby, kiss me
 C'mon pretty baby, kiss me
 C'mon pretty baby, kiss me deadly
-
-
-

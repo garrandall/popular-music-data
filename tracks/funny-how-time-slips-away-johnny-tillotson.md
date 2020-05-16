@@ -1,8 +1,11 @@
 ---
+album: It Keeps Right On A-Hurtin'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:2Am7WtGYjUQVizt4Lfi5Kj
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-time-slips-away-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1962
+runtime: 190560
 ---
 Well hello there
 My it's been a long, long time

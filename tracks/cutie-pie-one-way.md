@@ -1,8 +1,11 @@
 ---
+album: Cutie Pie
 artists:
 - One Way
+external_ids:
+  spotify: spotify:track:3kim6v8wY7HLPaNmw99SxD
 features: []
-genres: []
+first_released_as_single: false
 key: cutie-pie-one-way
 lyrics_url: https://genius.com/One-way-cutie-pie-lyrics
 name: Cutie Pie
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1982
+runtime: 328893
 ---
 Cutie pie
 You're the reason why

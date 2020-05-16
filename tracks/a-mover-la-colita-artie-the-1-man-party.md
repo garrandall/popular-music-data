@@ -1,8 +1,11 @@
 ---
+album: Ultimate Latin Dance Mix - Mixed By Dj Juanito
 artists:
 - Artie The 1 Man Party
+external_ids:
+  spotify: spotify:track:4eOfIfkwvZhvYEzMT6OI5s
 features: []
-genres: []
+first_released_as_single: false
 key: a-mover-la-colita-artie-the-1-man-party
 name: A Mover La Colita
 rankings:
@@ -82,5 +85,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 184613
 ---
 

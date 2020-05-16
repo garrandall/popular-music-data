@@ -1,8 +1,11 @@
 ---
+album: Frontiers
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:7762XHJsFFdRNw3pgxV8ns
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-young-journey
 lyrics_url: https://genius.com/Journey-only-the-young-lyrics
 name: Only The Young
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1975
+runtime: 246440
 ---
 Another night in any town
 You can hear the thunder of their cry

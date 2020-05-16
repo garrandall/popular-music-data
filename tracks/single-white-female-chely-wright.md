@@ -1,8 +1,11 @@
 ---
+album: Single White Female
 artists:
 - Chely Wright
+external_ids:
+  spotify: spotify:track:3rDYYPicaQbT2rcpdfqQF9
 features: []
-genres: []
+first_released_as_single: false
 key: single-white-female-chely-wright
 lyrics_url: https://www.azlyrics.com/lyrics/chelywright/singlewhitefemale.html
 name: Single White Female
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1999-09-25'
+release_year: 1999
+runtime: 197880
 ---
-
 I know that every morning you go thumbing
 Through the personal want ads
 You grab the latest copy, a cup of coffee
@@ -125,6 +129,3 @@ It's my confession I hope you get the message
 
 Looking for a man like you
 Looking for a man like you
-
-
-

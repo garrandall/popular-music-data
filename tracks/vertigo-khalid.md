@@ -1,8 +1,11 @@
 ---
+album: Suncity
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:06GcodDliPWAYFX2LSFLIu
 features: []
-genres: []
+first_released_as_single: false
 key: vertigo-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/vertigo.html
 name: Vertigo
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 270413
 ---
-
 Are we better off believin'
 What the ignorance suggests
 I wish livin' life was easy (Mhm)
@@ -94,6 +98,3 @@ Eyes closed, eyes closed
 I've been fallin' with my
 Eyes low, eyes low
 I've been fallin' with my
-
-
-

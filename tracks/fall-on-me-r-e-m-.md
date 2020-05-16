@@ -1,8 +1,11 @@
 ---
+album: Lifes Rich Pageant
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:3xPKSMgZl4N3rfTyIgSPfa
 features: []
-genres: []
+first_released_as_single: false
 key: fall-on-me-r-e-m-
 lyrics_url: https://genius.com/Rem-fall-on-me-lyrics
 name: Fall On Me
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 169920
 ---
 There's the problem, feathers, iron
 Bargain buildings, weights and pulleys

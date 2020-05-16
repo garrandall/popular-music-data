@@ -1,8 +1,11 @@
 ---
+album: Time Out
 artists:
 - The Dave Brubeck Quartet
+external_ids:
+  spotify: spotify:track:6ZjJ9GbDScXotGP8PTvz5G
 features: []
-genres: []
+first_released_as_single: false
 key: take-five-the-dave-brubeck-quartet
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dave-Brubeck-Quartet/Take-Five-2
 name: Take Five
@@ -55,6 +58,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1917
+runtime: 172560
 ---
 This is who we are, nothing quite like it, nothing
 This is coming to a culture that everything is cross-eyed

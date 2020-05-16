@@ -1,8 +1,11 @@
 ---
+album: Daydream
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:6xkryXuiZU360Lngd4sx13
 features: []
-genres: []
+first_released_as_single: false
 key: fantasy-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-fantasy-lyrics
 name: Fantasy
@@ -107,6 +110,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 243493
 ---
 Oh, when you walk by every night
 Talking sweet and looking fine

@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:4mUIe9gfsdtsVP2zFIl74x
 features: []
-genres: []
+first_released_as_single: false
 key: maze-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/maze.html
 name: Maze
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
+release_year: 2019
+runtime: 144090
 ---
-
 Stuck in a maze, oh oh oh oh
 
 Stuck in a maze, mmm
@@ -62,6 +66,3 @@ I'm tormented every day
 I'm, I'm losin' my mental
 Sorrows that I been through
 Story to be continued
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: FutureSex/LoveSounds Deluxe Edition
 artists:
 - Justin Timberlake
 - Beyonce
+external_ids:
+  spotify: spotify:track:2wZTnl0pPFr3HBcyXfOaVJ
 features: []
-genres: []
+first_released_as_single: false
 key: until-the-end-of-time-justin-timberlake-beyonce
 lyrics_url: https://genius.com/Justin-timberlake-until-the-end-of-time-beyonce-remix-lyrics
 name: Until The End Of Time
@@ -108,6 +111,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2006
+runtime: 322093
 ---
 I woke up this morning
 And heard the TV saying something

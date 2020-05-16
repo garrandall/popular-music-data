@@ -1,8 +1,11 @@
 ---
+album: Blues Groove
 artists:
 - Today's People
+external_ids:
+  spotify: spotify:track:0AqbCN6GPsvGtwLqqYHo4H
 features: []
-genres: []
+first_released_as_single: false
 key: he-today-s-people
 name: He
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1973
+runtime: 260493
 ---
 

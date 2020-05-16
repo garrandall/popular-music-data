@@ -1,8 +1,11 @@
 ---
+album: Another Place and Time
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:47XPUkAsZjZ96UzaYO7sEC
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-i-know-it-s-for-real-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/thistimeiknowitsforreal.html
 name: This Time I Know It's For Real
@@ -75,8 +78,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
+release_year: 1989
+runtime: 218960
 ---
-
 What would I have to do
 To get you to notice me too
 Do I
@@ -123,6 +127,3 @@ I'm going crazy just to let you know
 If I waited too long for you I might explode baby
 I've been around the block enough to know
 That this time I know it's for real
-
-
-

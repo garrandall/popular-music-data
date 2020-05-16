@@ -1,8 +1,11 @@
 ---
+album: That's Rich
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:2xckVMo7e4bJdfR8ynX01i
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-see-me-in-your-eyes-anymore-charlie-rich
 lyrics_url: https://genius.com/Charlie-rich-i-dont-see-me-in-your-eyes-anymore-lyrics
 name: I Don't See Me In Your Eyes Anymore
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1965
+runtime: 133280
 ---
 (Ah-ah-ah-ah-ah-ah-ah)
 I don't see me

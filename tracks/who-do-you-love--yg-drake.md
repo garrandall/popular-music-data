@@ -1,9 +1,12 @@
 ---
+album: My Krazy Life
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:1uDjaezEbalGyGnuH80zDK
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: who-do-you-love--yg-drake
 lyrics_url: https://genius.com/Yg-who-do-you-love-lyrics
 name: Who Do You Love?
@@ -88,6 +91,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2014
+runtime: 233506
 ---
 I'm that nigga with the plugs
 I'm the nigga who got homies that be sellin' drugs

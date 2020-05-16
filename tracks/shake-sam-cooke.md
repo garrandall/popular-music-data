@@ -1,8 +1,11 @@
 ---
+album: Night Beat
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:5naGmbqRY9AlitnRgbw0uX
 features: []
-genres: []
+first_released_as_single: false
 key: shake-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/shake.html
 name: Shake
@@ -51,8 +54,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1960
+runtime: 173613
 ---
-
 Shake!
 Shake!
 Shake!
@@ -137,6 +141,3 @@ Don't, do it baby
 Shake
 Oh, yeah
 Shake
-
-
-

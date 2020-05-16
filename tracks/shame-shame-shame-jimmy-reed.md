@@ -1,8 +1,11 @@
 ---
+album: Big Boss Man
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:5JPNay0AmfvMqJKAWDEveT
 features: []
-genres: []
+first_released_as_single: false
 key: shame-shame-shame-jimmy-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/shameshameshame.html
 name: Shame Shame Shame
@@ -39,8 +42,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 167731
 ---
-
 Well I tried to tell you baby
 But it make no sense
 Know you got me baby
@@ -70,6 +74,3 @@ An' ain't it a shame, shame, shame
 Shame, shame, the way you do
 Oh, it's a shame, shame, shame
 Shame, shame on you
-
-
-

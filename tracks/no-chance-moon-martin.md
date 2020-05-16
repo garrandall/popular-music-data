@@ -1,8 +1,11 @@
 ---
+album: Escape From Domination
 artists:
 - Moon Martin
+external_ids:
+  spotify: spotify:track:5PU1YjafP4hiN9K2uF0xxL
 features: []
-genres: []
+first_released_as_single: false
 key: no-chance-moon-martin
 lyrics_url: https://genius.com/Moon-martin-no-chance-lyrics
 name: No Chance
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 161720
 ---
 Every night the sun goes down
 All alone my room gets dark

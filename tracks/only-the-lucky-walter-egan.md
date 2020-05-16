@@ -1,8 +1,11 @@
 ---
+album: Fundamental Roll
 artists:
 - Walter Egan
+external_ids:
+  spotify: spotify:track:4GEtUGOPj4zDF9cJyRvphy
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-lucky-walter-egan
 lyrics_url: https://genius.com/Walter-egan-only-the-lucky-lyrics
 name: Only The Lucky
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1977
+runtime: 179626
 ---
 I had a dream just the other day...
 I dreamed that you would never believe in me

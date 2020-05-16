@@ -1,8 +1,11 @@
 ---
+album: 'Project: Funk Da World'
 artists:
 - Craig Mack
+external_ids:
+  spotify: spotify:track:4JYUDRtPZuVNi7FAnbHyux
 features: []
-genres: []
+first_released_as_single: true
 key: flava-in-ya-ear-craig-mack
 lyrics_url: https://genius.com/Craig-mack-flava-in-ya-ear-lyrics
 name: Flava In Ya Ear
@@ -107,6 +110,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1994
+runtime: 302013
 ---
 Yo, Mack, I don't even understand
 How they didn't understand you in that Mary joint

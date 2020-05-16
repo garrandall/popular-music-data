@@ -1,8 +1,11 @@
 ---
+album: Macarena (Wil Veloz)
 artists:
 - Los Del Mar
+external_ids:
+  spotify: spotify:track:0Rmj0wREQDbwuAQtb22ZC7
 features: []
-genres: []
+first_released_as_single: false
 key: macarena-los-del-mar
 lyrics_url: https://genius.com/Los-del-mar-macarena-lyrics
 name: Macarena
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1995
+runtime: 230173
 ---
 Dale a tu cuerpo alegria Macarena
 Que tu cuerpo es pa darle alegria why cosa buena

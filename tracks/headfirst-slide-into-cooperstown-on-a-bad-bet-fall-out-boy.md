@@ -1,8 +1,11 @@
 ---
+album: "Folie \xE0 Deux"
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:5qiG5FhrnE7dl0ZxhKc3My
 features: []
-genres: []
+first_released_as_single: false
 key: headfirst-slide-into-cooperstown-on-a-bad-bet-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/headfirstslideintocooperstownonabadbet.html
 name: Headfirst Slide Into Cooperstown On A Bad Bet
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 234493
 ---
-
 Mr. Sandman showing his beam
 When he walks into the room the walls lean in to listen
 Surfed out brain waves flick back and forth
@@ -84,6 +88,3 @@ The last time you came through
 Oh darling I know what you're going through
 The last time you came through
 Oh darling I know what you're going through
-
-
-

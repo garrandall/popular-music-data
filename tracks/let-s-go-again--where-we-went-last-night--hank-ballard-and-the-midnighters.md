@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:5sPgxY0a6An6nA6ixuqp3t
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-again--where-we-went-last-night--hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-lets-go-again-where-we-went-last-night-lyrics
 name: Let's Go Again (Where We Went Last Night)
@@ -31,6 +34,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 187373
 ---
 Let's go again
 Where we went last night

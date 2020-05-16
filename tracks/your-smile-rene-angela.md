@@ -1,9 +1,12 @@
 ---
+album: Street Called Desire
 artists:
 - Rene
 - Angela
+external_ids:
+  spotify: spotify:track:7GPd68coLrQ0prQcbceWkG
 features: []
-genres: []
+first_released_as_single: false
 key: your-smile-rene-angela
 lyrics_url: https://genius.com/Rene-and-angela-winbush-your-smile-lyrics
 name: Your Smile
@@ -32,6 +35,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-04-26'
+release_year: 1985
+runtime: 255973
 ---
 Smile
 Oh, oh

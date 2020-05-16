@@ -1,8 +1,11 @@
 ---
+album: Pleasure
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:6j6zSLwHRvHpfGCnZ0z55v
 features: []
-genres: []
+first_released_as_single: false
 key: funky-worm-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/funkyworm.html
 name: Funky Worm
@@ -83,8 +86,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1972
+runtime: 160986
 ---
-
 She's here, Mr. Johnson
 Okay, thank you very much
 Granny, they're expecting you
@@ -147,6 +151,3 @@ Do we get paid for this?
 Yes, of course
 I just wanted to make sure, we do, okay
 OK, you're welcome
-
-
-

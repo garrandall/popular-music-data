@@ -1,8 +1,11 @@
 ---
+album: Hit Singles - EP
 artists:
 - Eddie Hodges
+external_ids:
+  spotify: spotify:track:4PeZdZt3Mf46SfsL6Gj1EY
 features: []
-genres: []
+first_released_as_single: true
 key: -girls-girls-girls--made-to-love-eddie-hodges
 lyrics_url: https://genius.com/Eddie-hodges-girls-girls-girls-were-made-to-love-lyrics
 name: (Girls Girls Girls) Made To Love
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 150666
 ---
 My father looked at me one day, said Son, it's plain to see
 That you're getting older and should have a talk with me

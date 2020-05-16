@@ -1,8 +1,11 @@
 ---
+album: 'Bring Back The Love: Classic Dells Soul'
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:2WdnJk4swlIs7O0dNUAvY3
 features: []
-genres: []
+first_released_as_single: false
 key: the-glory-of-love-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/The-Glory-of-Love
 name: The Glory Of Love
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1971
+runtime: 235200
 ---
 Mmm
 I love you, I love you

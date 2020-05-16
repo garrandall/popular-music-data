@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dion & The Belmonts
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:3T4obVwhuRZkhVUepaFMf4
 features: []
-genres: []
+first_released_as_single: false
 key: kissin-game-dion
 lyrics_url: https://genius.com/Dion-kissin-game-lyrics
 name: Kissin Game
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 160826
 ---
 Every kiss I ever kissed you
 Darling, came from my heart

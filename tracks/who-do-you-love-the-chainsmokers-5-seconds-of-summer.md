@@ -1,9 +1,12 @@
 ---
+album: World War Joy
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:5QkVPG2Hf3MmAarireF6lh
 features:
 - 5 Seconds Of Summer
-genres: []
+first_released_as_single: true
 key: who-do-you-love-the-chainsmokers-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/whodoyoulove.html
 name: Who Do You Love
@@ -72,8 +75,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 152120
 ---
-
 Yeah
 Found cigarettes in your Fendi coat
 Even though you don't even smoke
@@ -156,6 +160,3 @@ I wanna know, I wanna know who
 (Who do you, who do you love, love)
 (Now, now, who do you, who do you love now)
 (Now, now, who do you, who do you love, love)
-
-
-

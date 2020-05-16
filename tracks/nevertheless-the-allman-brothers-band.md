@@ -1,8 +1,11 @@
 ---
+album: Win, Lose Or Draw
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:6zikKdPm2W9lvfbNm4RrfQ
 features: []
-genres: []
+first_released_as_single: false
 key: nevertheless-the-allman-brothers-band
 lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/nevertheless.html
 name: Nevertheless
@@ -19,8 +22,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 210840
 ---
-
 Lay a hand full of marked cards,
 I played the last game.
 Well, all the time you know,
@@ -46,4 +50,3 @@ And even my good friends call me,
 Make me feel the fool.
 But then I find no reason why you're
 Doin' the things you do.
-

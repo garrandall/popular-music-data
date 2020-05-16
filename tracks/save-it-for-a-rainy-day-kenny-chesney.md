@@ -1,8 +1,11 @@
 ---
+album: The Big Revival
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:6wfTb2he5ANMQSFnlamnyi
 features: []
-genres: []
+first_released_as_single: false
 key: save-it-for-a-rainy-day-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/saveitforarainyday.html
 name: Save It For A Rainy Day
@@ -75,8 +78,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2014
+runtime: 182213
 ---
-
 It's no secret that lately there ain't no escaping
 That I've been waking up alone
 Just me and the TV and a sinking feeling
@@ -126,6 +130,3 @@ I'll save it for a rainy day
 Gonna take this heartbreak and tuck it away
 Save it for a rainy day
 Save it for a rainy day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Satin Sheets
 artists:
 - Jeanne Pruett
+external_ids:
+  spotify: spotify:track:2QdsEmYGj8ZZVKnh48YvfC
 features: []
-genres: []
+first_released_as_single: false
 key: satin-sheets-jeanne-pruett
 lyrics_url: https://genius.com/Jeanne-pruett-satin-sheets-lyrics
 name: Satin Sheets
@@ -67,6 +70,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 176173
 ---
 Satin sheets to lie on, satin pillows to cry on
 Still, I'm not happy don't you see

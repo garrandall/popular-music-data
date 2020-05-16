@@ -1,8 +1,11 @@
 ---
+album: From The Bottom Up
 artists:
 - Brownstone
+external_ids:
+  spotify: spotify:track:69sIrKE4gd2NdIdstf9Ebh
 features: []
-genres: []
+first_released_as_single: false
 key: grapevyne-brownstone
 lyrics_url: https://www.azlyrics.com/lyrics/brownstone/grapevyne.html
 name: Grapevyne
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1993
+runtime: 336933
 ---
-
 Oh...oh...oh...oh...
 Oh...I heard (I heard) it through grapevyne
 (Boy, you know that I)
@@ -182,6 +186,3 @@ Heard it through, heard it through
 I heard it through that grapevyne
 Hope that you feel much better
 Yes, I do
-
-
-

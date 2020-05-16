@@ -1,8 +1,11 @@
 ---
+album: What Are Words
 artists:
 - Chris Medina
+external_ids:
+  spotify: spotify:track:50A1WCxKycJUHRr4Rz6WrD
 features: []
-genres: []
+first_released_as_single: false
 key: what-are-words-chris-medina
 lyrics_url: https://www.azlyrics.com/lyrics/chrismedina/whatarewords.html
 name: What Are Words
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 189093
 ---
-
 Anywhere you are, I am near
 Anywhere you go, I'll be there
 Anytime you whisper my name, you'll see
@@ -64,6 +68,3 @@ Every single promise I'll keep
 If I was to leave when you need me most
 
 I'm forever keeping my angel close
-
-
-

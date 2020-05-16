@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:2PMqneh7p2gAZKntR93ney
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-sunshine-lyrics
 name: Sunshine
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-12-16'
+release_year: 1989
+runtime: 229000
 ---
 Oh, yeah
 

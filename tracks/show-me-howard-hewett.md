@@ -1,8 +1,11 @@
 ---
+album: Howard Hewett
 artists:
 - Howard Hewett
+external_ids:
+  spotify: spotify:track:3yzNUDVcATvQUqqgnykHXB
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-howard-hewett
 lyrics_url: https://genius.com/Howard-hewett-show-me-lyrics
 name: Show Me
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1990
+runtime: 335466
 ---
 Every day my imagination anticipates
 Ways I can show you how much I love you

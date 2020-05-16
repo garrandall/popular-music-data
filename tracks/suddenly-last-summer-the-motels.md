@@ -1,8 +1,11 @@
 ---
+album: Little Robbers
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:08pnzLwZrh8lernK2aRaGz
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-last-summer-the-motels
 lyrics_url: https://www.azlyrics.com/lyrics/motels/suddenlylastsummer.html
 name: Suddenly Last Summer
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 216533
 ---
-
 It happened one summer
 It happened one time
 It happened forever
@@ -138,6 +142,3 @@ And then suddenly
 Last summer
 Until suddenly
 Last summer
-
-
-

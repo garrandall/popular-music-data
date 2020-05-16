@@ -1,8 +1,11 @@
 ---
+album: Martha Wash
 artists:
 - Martha Wash
+external_ids:
+  spotify: spotify:track:43q7tUWo0XY7znhZf9bEAK
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-you-martha-wash
 lyrics_url: https://genius.com/Martha-wash-give-it-to-you-lyrics
 name: Give It To You
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 229906
 ---
 To you, to you, gonna give it to ya
 To you, to you, gonna give it to

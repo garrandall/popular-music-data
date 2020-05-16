@@ -1,8 +1,11 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:2sBHQfX9QxJwGcdutAj6Pj
 features: []
-genres: []
+first_released_as_single: false
 key: wins---losses-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/winslosses.html
 name: Wins & Losses
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 189056
 ---
-
 You have to eat the dream
 You have to sleep the dream
 You have to dream the dream
@@ -73,6 +77,3 @@ Never change on my roll dawgs
 'Bout that Cain bang them thangs like we O-Dog
 Walk up in a dealer and I pull that rolls off
 These niggas said I wouldn't make it like I told y'all, ah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Marvelettes Recorded Live On Stage
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:1YNWx9gWmfEExZJwG6kvCK
 features: []
-genres: []
+first_released_as_single: false
 key: strange-i-know-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/strangeiknow.html
 name: Strange I Know
@@ -63,8 +66,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 211066
 ---
-
 It's strange, I know, but that's the way it goes
 Leaving you this way, I'm sorry to say
 That my love has faded, faded away
@@ -89,6 +93,3 @@ It's strange, I know
 But that's they way, that's they way, that's the way, that's the way it goes
 
 Oh it's strange I know
-
-
-

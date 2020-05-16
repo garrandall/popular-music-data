@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:7hvt01ajDRx5yRAXzB2F33
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: you-re-a-lady-dawn-tony-orlando
 lyrics_url: https://genius.com/Tony-orlando-and-dawn-youre-a-lady-lyrics
 name: You're A Lady
@@ -40,6 +43,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 288493
 ---
 Now the year has come to a close
 And I've had my last dance with you

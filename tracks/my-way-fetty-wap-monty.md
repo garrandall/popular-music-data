@@ -1,9 +1,12 @@
 ---
+album: Fetty Wap
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:1WoOzgvz6CgH4pX6a1RKGp
 features:
 - Monty
-genres: []
+first_released_as_single: false
 key: my-way-fetty-wap-monty
 lyrics_url: https://genius.com/Fetty-wap-my-way-lyrics
 name: My Way
@@ -96,6 +99,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 213053
 ---
 Ayy, yeah, baby
 Squaaa, ayy, ayy

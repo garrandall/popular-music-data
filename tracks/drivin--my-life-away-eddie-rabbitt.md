@@ -1,8 +1,11 @@
 ---
+album: Beatin' The Odds
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:3PJ9yQv8IUmLx24KFvaVEI
 features: []
-genres: []
+first_released_as_single: false
 key: drivin--my-life-away-eddie-rabbitt
 lyrics_url: https://genius.com/Eddie-rabbitt-drivin-my-life-away-lyrics
 name: Drivin' My Life Away
@@ -107,6 +110,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 194666
 ---
 Well, the midnight headlight blind you on a rainy night
 Steep grade up ahead slow me down makin' no time

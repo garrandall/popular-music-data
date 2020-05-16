@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:6buQETVRsFKSwOHQWTzRnF
 features: []
-genres: []
+first_released_as_single: true
 key: overnight-celebrity-twista
 lyrics_url: https://www.azlyrics.com/lyrics/twista/overnightcelebrity.html
 name: Overnight Celebrity
@@ -87,9 +90,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
+release_year: 2004
+runtime: 210613
 ---
-
-
 Oh you didn't think we can do it again...?
 Twista
 Kanye West...
@@ -165,6 +168,3 @@ Come here, girl, you can hang if you're bored, we can do plenty things plus more
 I'm about to have you changin' in stores, I can even get you to the Soul Train Awards,
 We're about to do a show tonight, you're lookin' good girl, show you right,
 Take you places, I know you like, I can make you a celebrity overnight...
-
-
-

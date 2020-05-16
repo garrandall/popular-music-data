@@ -1,9 +1,12 @@
 ---
+album: Gold
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:0MffRzAW3tcVsK0aC3ethW
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-darlin--martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-sweet-darlin-lyrics
 name: Sweet Darlin'
@@ -28,6 +31,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 182813
 ---
 Hm hm-mm-mmm (sweet darlin')
 Hm hm-mm-mmm

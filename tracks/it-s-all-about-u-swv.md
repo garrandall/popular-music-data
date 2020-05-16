@@ -1,8 +1,11 @@
 ---
+album: New Beginning
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:1ask6D7sAOBSqe9xNOPL8t
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-about-u-swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/itsallaboutu.html
 name: It's All About U
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-04-26'
+release_year: 1996
+runtime: 224800
 ---
-
 Hey, yeah, yeah, oo, yeah, it's all about you
 Oh yeah, aw yeah, yeah
 
@@ -100,4 +104,3 @@ You gotta believe me
 
 So I'll give you time
 To let go of what's hurting inside
-

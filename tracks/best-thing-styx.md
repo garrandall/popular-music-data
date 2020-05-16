@@ -1,8 +1,11 @@
 ---
+album: Styx
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:70rLkkYqA02MZPsehqGsnw
 features: []
-genres: []
+first_released_as_single: false
 key: best-thing-styx
 lyrics_url: https://genius.com/Styx-best-thing-lyrics
 name: Best Thing
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 194026
 ---
 Your loving seemed to be the best thing
 That I ever had

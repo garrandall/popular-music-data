@@ -1,8 +1,11 @@
 ---
+album: Lookin' For Love
 artists:
 - Johnny Lee
+external_ids:
+  spotify: spotify:track:5pvNhGuCow3Eq1nWbP3Sco
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--for-love-johnny-lee
 lyrics_url: https://genius.com/Johnny-lee-lookin-for-love-lyrics
 name: Lookin' For Love
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
+release_year: 1980
+runtime: 220440
 ---
 Well I spent a lifetime looking for you
 Single bars and good time lovers were never true

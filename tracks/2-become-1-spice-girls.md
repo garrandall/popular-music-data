@@ -1,8 +1,11 @@
 ---
+album: Spice
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:36AWdhZIGLUTkWpJDhe7va
 features: []
-genres: []
+first_released_as_single: false
 key: 2-become-1-spice-girls
 lyrics_url: https://genius.com/Spice-girls-2-become-1-lyrics
 name: 2 Become 1
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1996
+runtime: 241026
 ---
 Candle light and soul forever
 A dream of you and me together

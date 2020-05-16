@@ -1,10 +1,13 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
 - Dr. Dre
 - 50 Cent
+external_ids:
+  spotify: spotify:track:4dK00wCxlqWEeN8BoM1BHT
 features: []
-genres: []
+first_released_as_single: false
 key: crack-a-bottle-eminem-dr--dre-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/crackabottle.html
 name: Crack A Bottle
@@ -77,8 +80,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2009
+runtime: 297520
 ---
-
 Ooww ladies and gentlemen
 The moment you've all been waiting for..
 In this corner: weighing 175 pounds,
@@ -195,6 +199,3 @@ And there's really not that many of us.
 and ladies love us and my posse's kicking up dust.
 It's on till the break of dawn
 And we're starting this party from dusk
-
-
-

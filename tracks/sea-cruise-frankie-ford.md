@@ -1,8 +1,11 @@
 ---
+album: R & B Megahits Of The 1950's - Volume 2
 artists:
 - Frankie Ford
+external_ids:
+  spotify: spotify:track:3rs1ferv5DqJXU2Y1lzd50
 features: []
-genres: []
+first_released_as_single: false
 key: sea-cruise-frankie-ford
 lyrics_url: https://genius.com/Frankie-ford-sea-cruise-lyrics
 name: Sea Cruise
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-06-01'
+release_year: 1959
+runtime: 158600
 ---
 Sound effects-buoy bell and fog horn
 Instrumental open

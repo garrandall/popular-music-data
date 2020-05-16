@@ -1,9 +1,12 @@
 ---
+album: No Hard Feelings
 artists:
 - Dreezy
+external_ids:
+  spotify: spotify:track:20s34XSPIiYMGSFDRSs24t
 features:
 - Jeremih
-genres: []
+first_released_as_single: false
 key: body-dreezy-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/dreezy/body.html
 name: Body
@@ -80,9 +83,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 232706
 ---
-
-
 Yo body on my body baby
 I'm about to catch a body in here baby
 I love the way you grind on me
@@ -150,6 +153,3 @@ And do you just right
 This could be your best night
 Get you home for the night
 And do you just right (ima bout to catch a body in here baby)
-
-
-

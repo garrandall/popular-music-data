@@ -1,8 +1,11 @@
 ---
+album: Unbroken
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:0fMhhdMdbC94rHHK63jwWu
 features: []
-genres: []
+first_released_as_single: false
 key: fix-a-heart-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/fixaheart.html
 name: Fix A Heart
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 193040
 ---
-
 It's probably what's best for you
 I only want the best for you
 And if I'm not the best then you're stuck
@@ -68,6 +72,3 @@ Oh no, no, no
 You never really can fix a heart
 Oh-oh, oh, oh-oh yeah-oh, oh, oh, oh
 You never really can fix my heart
-
-
-

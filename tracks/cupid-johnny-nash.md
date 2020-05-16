@@ -1,8 +1,11 @@
 ---
+album: The Reggae Collection
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:74FDr9vJuxKWvXPhF5lPf7
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-johnny-nash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/cupid.html
 name: Cupid
@@ -63,8 +66,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
+release_year: 1969
+runtime: 205066
 ---
-
 Cupid draw back your bow
 And let your arrow flow
 Straight to my lover's heart for me
@@ -101,6 +105,3 @@ Straight to my lover's heart for me
 
 Hey Cupid Cupid I'm calling
 Don't you hear me I'm calling you
-
-
-

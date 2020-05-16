@@ -1,8 +1,11 @@
 ---
+album: 4 (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:0t7szxjCNe2CCnlmIihHwS
 features: []
-genres: []
+first_released_as_single: false
 key: luanne-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/luanne.html
 name: Luanne
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
+release_year: 1981
+runtime: 207493
 ---
-
 Luanne, Luanne
 Why do you run and hide?
 Luanne, Luanne
@@ -85,6 +89,3 @@ Give me a little love, I know you can
 Luanne, Luanne
 Can't you hear me calling?
 Luanne
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lasers
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:4NTWZqvfQTlOMitlVn6tew
 features: []
-genres: []
+first_released_as_single: false
 key: the-show-goes-on-lupe-fiasco
 lyrics_url: https://genius.com/Lupe-fiasco-the-show-goes-on-lyrics
 name: The Show Goes On
@@ -139,6 +142,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
+release_year: 2010
+runtime: 239613
 ---
 LA-SER
 Yeah, yeah

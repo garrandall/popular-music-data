@@ -1,8 +1,11 @@
 ---
+album: Feels So Good
 artists:
 - Chuck Mangione
+external_ids:
+  spotify: spotify:track:2M7EflZCPCqqRLB9hy5MDy
 features: []
-genres: []
+first_released_as_single: false
 key: feels-so-good-chuck-mangione
 name: Feels So Good
 rankings:
@@ -106,5 +109,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1977
+runtime: 582733
 ---
 

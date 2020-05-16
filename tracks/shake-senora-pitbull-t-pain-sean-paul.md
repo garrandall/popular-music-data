@@ -1,10 +1,13 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:1LomM3L6atrf79ZL7nHDp4
 features:
 - T-Pain
 - Sean Paul
-genres: []
+first_released_as_single: false
 key: shake-senora-pitbull-t-pain-sean-paul
 lyrics_url: https://genius.com/Pitbull-shake-senora-remix-lyrics
 name: Shake Senora
@@ -17,6 +20,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 214826
 ---
 Hey! Mr. Worl
 Ide; Miami

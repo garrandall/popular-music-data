@@ -1,8 +1,11 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6RGvWCHTS6BC46TsMyN0WM
 features: []
-genres: []
+first_released_as_single: true
 key: headlines-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/headlines.html
 name: Headlines
@@ -107,8 +110,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 236733
 ---
-
 I might be too strung out on compliments
 Overdosed on confidence
 Started not to give a fuck and stopped fearing the consequence
@@ -168,6 +172,3 @@ They know, they know, they know,
 I be yelling out, "Money over everything, money on my mind (mind, mind, mind)!"
 Tell 'em I apologize it happened over time (time, time, time)
 They know
-
-
-

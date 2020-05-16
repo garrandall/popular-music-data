@@ -1,8 +1,11 @@
 ---
+album: 'The Sue Records Story: The Sound Of Soul'
 artists:
 - Inez Foxx
+external_ids:
+  spotify: spotify:track:2YEnvth6DNZZfDTPQruzME
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-inez-foxx
 name: Ask Me
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1964
+runtime: 160200
 ---
 

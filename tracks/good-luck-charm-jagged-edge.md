@@ -1,8 +1,11 @@
 ---
+album: Jagged Edge
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:0rZcydvddLHUPzJxt5ItaM
 features: []
-genres: []
+first_released_as_single: true
 key: good-luck-charm-jagged-edge
 lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/goodluckcharm.html
 name: Good Luck Charm
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-06-24'
+release_year: 2006
+runtime: 264840
 ---
-
 She's my light
 My shining star
 She's so dear to me yes she is yes she is
@@ -110,4 +114,3 @@ See you're my yeah
 See you're my
 See you're my yeah
 See you're my
-

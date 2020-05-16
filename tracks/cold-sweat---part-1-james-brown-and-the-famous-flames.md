@@ -1,8 +1,12 @@
 ---
+album: Cold Sweat
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:39PqVnxzNG1O9So8nE55CS
+features:
+- The Famous Flames
+first_released_as_single: false
 key: cold-sweat---part-1-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-cold-sweat-part-1-lyrics
 name: Cold Sweat - Part 1
@@ -55,6 +59,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 144960
 ---
 I don't care, about your past
 I just want, our love to last

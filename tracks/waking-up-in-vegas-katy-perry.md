@@ -1,8 +1,11 @@
 ---
+album: One Of The Boys
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:6fvxos1qSHrIgOkKw4dhWS
 features: []
-genres: []
+first_released_as_single: false
 key: waking-up-in-vegas-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/wakingupinvegas.html
 name: Waking Up In Vegas
@@ -99,8 +102,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2008
+runtime: 199186
 ---
-
 You gotta help me out
 It's all a blur last night
 We need a taxi 'cause you're hung-over and I'm broke
@@ -158,6 +162,3 @@ Shake, shake, shake the glitter!
 
 Give me some cash out, baby
 Give me some cash out, baby
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Eat 'Em And Smile
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:5Fh5nmTu6TEk0ze8QAU7og
 features: []
-genres: []
+first_released_as_single: false
 key: yankee-rose-david-lee-roth
 lyrics_url: https://www.azlyrics.com/lyrics/davidleeroth/yankeerose.html
 name: Yankee Rose
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 234706
 ---
-
 What?
 Well, let me roll up on to the sidewalk and take a look, yes
 Whoa! She's beautiful!
@@ -134,6 +138,3 @@ I wanna get a little bit a' apple pie, man
 Bright lights, city lights
 Bright lights, city lights
 Bright lights, city lights
-
-
-

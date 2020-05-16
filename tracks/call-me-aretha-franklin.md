@@ -1,8 +1,11 @@
 ---
+album: This Girl's in Love with You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1JEFsHZxUy24AvyC49GKVj
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-call-me-lyrics
 name: Call Me
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 237066
 ---
 I love you (I love you
 And I love you (I love you

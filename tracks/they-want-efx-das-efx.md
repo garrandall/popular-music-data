@@ -1,8 +1,11 @@
 ---
+album: Dead Serious
 artists:
 - Das EFX
+external_ids:
+  spotify: spotify:track:3HCzj965m8Fz2E8wZkir6q
 features: []
-genres: []
+first_released_as_single: false
 key: they-want-efx-das-efx
 lyrics_url: https://genius.com/Das-efx-they-want-efx-lyrics
 name: They Want EFX
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1992-09-19'
+release_year: 1992
+runtime: 221400
 ---
 Bum stiggedy bum stiggedy bum, hon, I got the old pa-rum-pum-pum-pum
 But I can fe-fi or fo, diddly-bum, here I come

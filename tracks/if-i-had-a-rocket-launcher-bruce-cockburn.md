@@ -1,8 +1,11 @@
 ---
+album: Stealing Fire
 artists:
 - Bruce Cockburn
+external_ids:
+  spotify: spotify:track:01Q1QVzXToNlHRrytdtpR3
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-a-rocket-launcher-bruce-cockburn
 lyrics_url: https://www.azlyrics.com/lyrics/brucecockburn/ifihadarocketlauncher.html
 name: If I Had A Rocket Launcher
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1984
+runtime: 297866
 ---
-
 Here comes the helicopter
 Second time today
 Everybody scatters
@@ -64,6 +68,3 @@ If I had a rocket launcher
 If I had a rocket launcher
 If I had a rocket launcher
 Some son of a bitch would die
-
-
-

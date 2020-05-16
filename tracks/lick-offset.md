@@ -1,8 +1,11 @@
 ---
+album: FATHER OF 4
 artists:
 - Offset
+external_ids:
+  spotify: spotify:track:4W9XGjEUVG9junR70FOLii
 features: []
-genres: []
+first_released_as_single: false
 key: lick-offset
 lyrics_url: https://genius.com/Offset-lick-lyrics
 name: Lick
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 204515
 ---
 (Hey) I took a couple of my dawgs on a lick
 Do or die, gotta survive, pay the rent (Survive)

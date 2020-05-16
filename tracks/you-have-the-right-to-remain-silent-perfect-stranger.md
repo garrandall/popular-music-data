@@ -1,8 +1,11 @@
 ---
+album: You Have The Right To Remain Silent
 artists:
 - Perfect Stranger
+external_ids:
+  spotify: spotify:track:7KgBgVGO5Ey46Z8r78eKAG
 features: []
-genres: []
+first_released_as_single: false
 key: you-have-the-right-to-remain-silent-perfect-stranger
 lyrics_url: https://genius.com/Perfect-stranger-you-have-the-right-to-remain-silent-lyrics
 name: You Have The Right To Remain Silent
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 210866
 ---
 Can I have this dance my you're looking pretty
 Is there something wrong did he leave you hurting

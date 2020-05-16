@@ -1,8 +1,11 @@
 ---
+album: The Complete Sarah Vaughan On Mercury Vol. 3 (Great Show On Stage, 1957-59)
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:7lNtHO9IJFQJIVyahuZ7hY
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-baby-sarah-vaughan
 lyrics_url: https://www.musixmatch.com/lyrics/Sarah-Vaughan/You-re-My-Baby
 name: You're My Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1960
+runtime: 143866
 ---
 Mmm, You're my baby, say you love me
 You're my baby, say you love me

@@ -1,8 +1,11 @@
 ---
+album: R & B Megahits Of The 1950's - Volume 3
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:34AvHPOeji3FZ74tfBFdNt
 features: []
-genres: []
+first_released_as_single: false
 key: poison-ivy-the-coasters
 lyrics_url: https://genius.com/The-coasters-poison-ivy-lyrics
 name: Poison Ivy
@@ -71,6 +74,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 165480
 ---
 She comes on like a rose but everybody knows
 She'll get you in Dutch

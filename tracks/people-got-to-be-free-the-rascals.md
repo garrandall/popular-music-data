@@ -1,8 +1,11 @@
 ---
+album: Freedom Suite
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:5tUEIByLWg1sYWajZ2x5zx
 features: []
-genres: []
+first_released_as_single: false
 key: people-got-to-be-free-the-rascals
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rascals/People-Got-to-Be-Free
 name: People Got To Be Free
@@ -63,6 +66,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 181786
 ---
 All the world over, so easy to see
 People everywhere just wanna be free

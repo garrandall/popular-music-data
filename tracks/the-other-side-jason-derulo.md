@@ -1,8 +1,11 @@
 ---
+album: Talk Dirty
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5FljCWR0cys07PQ9277GTz
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-the-other-side-lyrics
 name: The Other Side
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 226986
 ---
 In the beginning
 I never thought it would be you

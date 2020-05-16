@@ -1,8 +1,11 @@
 ---
+album: Hey Paul - The Very Best Of
 artists:
 - Paul and Paula
+external_ids:
+  spotify: spotify:track:7zYzLH2ns0tsRGipvyghJv
 features: []
-genres: []
+first_released_as_single: false
 key: young-lovers-paul-and-paula
 lyrics_url: https://genius.com/Paul-and-paula-young-lovers-lyrics
 name: Young Lovers
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 153426
 ---
 We pledged our love to each other
 We know that our love will last

@@ -1,8 +1,11 @@
 ---
+album: Don't Say No
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:2dgjjOdz8qnGXLos9xbNNV
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-dark-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/inthedark.html
 name: In The Dark
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1981
+runtime: 250066
 ---
-
 Life isn't easy from the singular side
 Down in the hole, some emotions are hard to hide
 It's your decision, it's a chance that you take
@@ -107,6 +111,3 @@ In the dark
 In the dark
 In the dark
 In the dark
-
-
-

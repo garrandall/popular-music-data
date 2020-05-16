@@ -1,11 +1,14 @@
 ---
+album: Without Warning
 artists:
 - 21 Savage
 - Offset
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:0tdCy39PgWN8LFWu34ORn3
 features:
 - Quavo
-genres: []
+first_released_as_single: false
 key: rap-saved-me-21-savage-offset-metro-boomin-quavo
 lyrics_url: https://genius.com/21-savage-offset-and-metro-boomin-rap-saved-me-lyrics
 name: Rap Saved Me
@@ -22,6 +25,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 257600
 ---
 Goyard duffel got a lot of racks (Hey)
 Louis Vuitton got a lot of racks (Yeah, yeah, yeah, yeah)

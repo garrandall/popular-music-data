@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:3jO1i8XuhtCCp2okRWPaHX
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-gone-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-when-im-gone-lyrics
 name: When I'm Gone
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 128093
 ---
 What are you gonna do when I'm gone
 Whose shoulder are you gonna cry on

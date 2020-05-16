@@ -1,8 +1,11 @@
 ---
+album: The Best Of
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:7utH4pVmFAmMpOmhq5YUYL
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-move---groove--together--johnny-nash
 name: Let's Move & Groove (Together)
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 202973
 ---
 

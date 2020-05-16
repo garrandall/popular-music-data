@@ -1,8 +1,11 @@
 ---
+album: Age Ain't Nothing But A Number
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:2hMk3VNicbCoV8I81m7Z3q
 features: []
-genres: []
+first_released_as_single: false
 key: age-ain-t-nothing-but-a-number-aaliyah
 lyrics_url: https://genius.com/Aaliyah-age-aint-nothing-but-a-number-lyrics
 name: Age Ain't Nothing But A Number
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1994
+runtime: 253960
 ---
 Age ain't nothin' but a number
 Throwin' down ain't nothin' but a thang

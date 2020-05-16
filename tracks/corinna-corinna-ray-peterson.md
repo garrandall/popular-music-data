@@ -1,8 +1,11 @@
 ---
+album: Tell Laura I Love Her / Corinna, Corinna
 artists:
 - Ray Peterson
+external_ids:
+  spotify: spotify:track:6pk9jEjuyJfZyM1F193K3N
 features: []
-genres: []
+first_released_as_single: true
 key: corinna-corinna-ray-peterson
 lyrics_url: https://genius.com/Ray-peterson-corinna-corinna-lyrics
 name: Corinna Corinna
@@ -67,6 +70,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1960
+runtime: 155186
 ---
 I love Corinna, tell the world I do
 I love Corinna, tell the world I do

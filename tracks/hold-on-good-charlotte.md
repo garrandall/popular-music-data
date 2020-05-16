@@ -1,8 +1,11 @@
 ---
+album: The Young and The Hopeless
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:3UyL1yzD5B1nIaFJRs4W8r
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-good-charlotte
 lyrics_url: https://www.musixmatch.com/lyrics/Good-Charlotte/Hold-On
 name: Hold On
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2002
+runtime: 245600
 ---
 This world, this world is cold
 But you don't, you don't have to go

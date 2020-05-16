@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits of the Golden Groups
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:3QlrXlXuaBLMYGmlroFRTV
 features: []
-genres: []
+first_released_as_single: false
 key: tears-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-tears-lyrics
 name: Tears
@@ -27,6 +30,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1963
+runtime: 132800
 ---
 Tears for souvenirs
 Are all you left me

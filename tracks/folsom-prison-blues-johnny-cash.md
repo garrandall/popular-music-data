@@ -1,8 +1,11 @@
 ---
+album: With His Hot and Blue Guitar
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:0Avmi9t3sOcaGSs1DSbgDg
 features: []
-genres: []
+first_released_as_single: false
 key: folsom-prison-blues-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-folsom-prison-blues-lyrics
 name: Folsom Prison Blues
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
+release_year: 1957
+runtime: 168554
 ---
 I hear the train a comin', it's rolling 'round the bend
 And I ain't seen the sunshine since I don't know when

@@ -1,8 +1,11 @@
 ---
+album: '..."Let Me Sing"'
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:78HTdAIfx2UBmFWZN4s7A6
 features: []
-genres: []
+first_released_as_single: false
 key: losing-you-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-losing-you-lyrics
 name: Losing You
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 154173
 ---
 Don't sigh a sigh for me
 Don't ever cry for me

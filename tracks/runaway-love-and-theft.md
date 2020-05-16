@@ -1,8 +1,11 @@
 ---
+album: World Wide Open
 artists:
 - Love And Theft
+external_ids:
+  spotify: spotify:track:5Dkz21OtkkM0OKcAaeflWp
 features: []
-genres: []
+first_released_as_single: true
 key: runaway-love-and-theft
 lyrics_url: https://www.azlyrics.com/lyrics/loveandtheft/runaway.html
 name: Runaway
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2008
+runtime: 236200
 ---
-
 It's been a long week
 I've got a slow leak in my left front tire
 I'm sick of where I work
@@ -107,6 +111,3 @@ And at the break of day
 I'll be a runaway, I'll be a runaway
 (I'll be a runaway, I'll be a runaway, I'll be a runaway)
 (I'll be a runaway, I'll be a runaway, I'll be a runaway)
-
-
-

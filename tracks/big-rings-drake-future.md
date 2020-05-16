@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:7jslhIiELQkgW9IHeYNOWE
 features: []
-genres: []
+first_released_as_single: false
 key: big-rings-drake-future
 lyrics_url: https://genius.com/Drake-and-future-big-rings-lyrics
 name: Big Rings
@@ -88,6 +91,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2015
+runtime: 217706
 ---
 Yeah, I know we just signed a deal but
 I need my advance on the next one too

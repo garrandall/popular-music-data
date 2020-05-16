@@ -1,8 +1,11 @@
 ---
+album: Release Some Tension
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:6DJoLa3EsX2PWQAIkjw08F
 features: []
-genres: []
+first_released_as_single: false
 key: can-we-swv
 lyrics_url: https://genius.com/Swv-can-we-lyrics
 name: Can We
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
+release_year: 1997
+runtime: 290626
 ---
 Me and Timbaland we got the shot
 That hits from here, from here to overseas

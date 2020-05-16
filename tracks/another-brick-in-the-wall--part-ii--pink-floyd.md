@@ -1,8 +1,11 @@
 ---
+album: The Wall
 artists:
 - Pink Floyd
+external_ids:
+  spotify: spotify:track:4gMgiXfqyzZLMhsksGmbQV
 features: []
-genres: []
+first_released_as_single: false
 key: another-brick-in-the-wall--part-ii--pink-floyd
 lyrics_url: https://www.azlyrics.com/lyrics/pinkfloyd/anotherbrickinthewallpartii.html
 name: Another Brick In The Wall (Part II)
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1979
+runtime: 238746
 ---
-
 We don't need no education
 We don't need no thought control
 No dark sarcasm in the classroom
@@ -137,6 +141,3 @@ Wrong! Do it again!
 If you don't eat your meat, you can't have any pudding!
 How can you have any pudding if you don't eat your meat?!
 You! Yes, you, behind the bike sheds, stand still, laddy!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Alright, Still
 artists:
 - Lily Allen
+external_ids:
+  spotify: spotify:track:4aR9bPMAOFySBuQSbVWF3d
 features: []
-genres: []
+first_released_as_single: false
 key: smile-lily-allen
 lyrics_url: https://www.azlyrics.com/lyrics/lilyallen/smile.html
 name: Smile
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2006
+runtime: 196893
 ---
-
 When you first left me I was wanting more
 But you were fucking that girl next door, what you do that for (what you do that for)?
 When you first left me I didn't know what to say
@@ -120,6 +124,3 @@ At first when I see you cry,
 Yeah, it makes me smile, yeah, it makes me smile
 At worst I feel bad for a while,
 But then I just smile, I go ahead and smile
-
-
-

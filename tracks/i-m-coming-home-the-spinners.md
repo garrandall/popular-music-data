@@ -1,8 +1,11 @@
 ---
+album: Mighty Love
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:4vpaUCy75uopyoE4Fv2lOH
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-home-the-spinners
 lyrics_url: https://genius.com/The-spinners-im-coming-home-lyrics
 name: I'm Coming Home
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1974
+runtime: 204133
 ---
 Sittin' in a railway station with my suitcase in my hand
 Goin' back where I came from, I've had more than I can stand

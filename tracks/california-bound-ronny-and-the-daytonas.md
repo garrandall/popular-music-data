@@ -1,8 +1,11 @@
 ---
+album: G.T.O. Best Of The Mala Recordings
 artists:
 - Ronny And The Daytonas
+external_ids:
+  spotify: spotify:track:39VqKubwf5yfOgAs00OOBi
 features: []
-genres: []
+first_released_as_single: false
 key: california-bound-ronny-and-the-daytonas
 name: California Bound
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 135493
 ---
 

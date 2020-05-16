@@ -1,9 +1,12 @@
 ---
+album: Loud
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:1pYKzfOlpHWtVUiEIu4Vn7
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: what-s-my-name--rihanna-drake
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/whatsmyname.html
 name: What's My Name?
@@ -96,9 +99,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2010
+runtime: 263173
 ---
-
-
 Oh na na, what's my name?
 Oh na na, what's my name?
 Oh na na, what's my name?
@@ -182,6 +185,3 @@ Oh na na na na
 I need a boy to take it over
 Looking for a guy to put you work up
 Oh, oh
-
-
-

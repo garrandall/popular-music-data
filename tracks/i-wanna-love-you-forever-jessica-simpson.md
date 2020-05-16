@@ -1,8 +1,11 @@
 ---
+album: Sweet Kisses
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:7Fc2YcWVsdP1hvf9JdWWRK
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-love-you-forever-jessica-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/iwannaloveyouforever.html
 name: I Wanna Love You Forever
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1995
+runtime: 242773
 ---
-
 You set my soul at ease
 Chased darkness out of view
 Left your desperate spell on me
@@ -127,4 +131,3 @@ Cause when I'm with you there's nowhere else
 That I would ever wanna be no
 I'm breathing for the next second I can feel you
 Loving me ... I'm gonna love
-

@@ -1,8 +1,11 @@
 ---
+album: Holiday for Kids
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:2BdZLgiRQcxyArUjlxFAx5
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-hear-what-i-hear-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/doyouhearwhatihear.html
 name: Do You Hear What I Hear
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 251346
 ---
-
 Said the night wind to the little lamb,
 "Do you see what I see?
 Way up in the sky, little lamb.
@@ -60,6 +64,3 @@ He will bring us goodness and light.
 He will bring us goodness and light."
 
 He will bring us goodness and light
-
-
-

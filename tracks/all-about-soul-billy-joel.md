@@ -1,8 +1,11 @@
 ---
+album: River Of Dreams
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:00p615Q4EFYMIAr055wqRu
 features: []
-genres: []
+first_released_as_single: false
 key: all-about-soul-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/allaboutsoul.html
 name: All About Soul
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1994-03-19'
+release_year: 1993
+runtime: 361306
 ---
-
 She waits for me at night, she waits for me in silence
 She gives me all her tenderness and takes away my pain
 And so far she hasn't run, though I swear she's had her moments

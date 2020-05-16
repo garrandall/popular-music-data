@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:50XXRUFNjs85P0MjCZ1c9X
 features: []
-genres: []
+first_released_as_single: false
 key: we-don-t-need-another-hero--thunderdome--tina-turner
 lyrics_url: https://genius.com/Tina-turner-we-dont-need-another-hero-thunderdome-lyrics
 name: We Don't Need Another Hero (Thunderdome)
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1984
+runtime: 255186
 ---
 Out of the ruins
 Out from the wreckage

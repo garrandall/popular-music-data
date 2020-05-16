@@ -1,9 +1,12 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:6IaieqiCVvsNvEt6Y7yOFa
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: ball-for-me-post-malone-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/ballforme.html
 name: Ball For Me
@@ -64,9 +67,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 206266
 ---
-
-
 Yeah
 Uh
 Yeah
@@ -145,6 +148,3 @@ B-ball for me, yeah
 Ball for me
 (What it tastes like)
 B-ball for me, yeah
-
-
-

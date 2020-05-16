@@ -1,8 +1,11 @@
 ---
+album: American Standard
 artists:
 - Seven Mary Three
+external_ids:
+  spotify: spotify:track:6u1yKoh00WaoSpNp46RzKF
 features: []
-genres: []
+first_released_as_single: false
 key: cumbersome-seven-mary-three
 lyrics_url: https://www.azlyrics.com/lyrics/sevenmarythree/cumbersome.html
 name: Cumbersome
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
+release_year: 1995
+runtime: 236973
 ---
-
 She calls me Goliath and I wear the David mask
 I guess the stones are coming too fast for her now
 You know I'd like to believe this nervousness will pass
@@ -127,6 +131,3 @@ She's wanting me less and I'm wanting her more
 A bitter taste is cumbersome
 
 Your life has become cumbersome
-
-
-

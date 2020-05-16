@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:7h7U3OYppI7HpgFqCc2VZ3
 features: []
-genres: []
+first_released_as_single: false
 key: betty-lou-got-a-new-pair-of-shoes-bobby-freeman
 lyrics_url: https://genius.com/Bobby-freeman-betty-lou-got-a-new-pair-of-shoes-lyrics
 name: Betty Lou Got A New Pair Of Shoes
@@ -43,6 +46,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 149200
 ---
 Betty Lou got a new pair of shoes
 Betty Lou got a new pair of shoes (whooo)

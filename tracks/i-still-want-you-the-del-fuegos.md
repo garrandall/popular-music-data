@@ -1,8 +1,11 @@
 ---
+album: Boston, Mass.
 artists:
 - The Del Fuegos
+external_ids:
+  spotify: spotify:track:70cZHC1D4BXXOMWwYTXlK1
 features: []
-genres: []
+first_released_as_single: false
 key: i-still-want-you-the-del-fuegos
 lyrics_url: https://genius.com/The-del-fuegos-i-still-want-you-lyrics
 name: I Still Want You
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1985
+runtime: 232160
 ---
 Seasons change and lessons get learned
 It's been awhile, but my heart burns

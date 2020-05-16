@@ -1,8 +1,11 @@
 ---
+album: Head On
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:6zwOQNYl1gdugyxK3bC4oC
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-like-a-man-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/takeitlikeaman.html
 name: Take It Like A Man
@@ -35,8 +38,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
+release_year: 1975
+runtime: 221946
 ---
-
 Only three stops to make in Alabama
 Everyone a one night stand
 Workin' for a man down South Louisiana
@@ -60,4 +64,3 @@ I guess I'm gonna have to change until this mess is rearranged
 
 
 I guess I'm gonna have to change until my life is rearranged
-

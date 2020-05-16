@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2QErvFddvI9I4QokOsQXdC
 features: []
-genres: []
+first_released_as_single: false
 key: six-feet-under-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/sixfeetunder.html
 name: Six Feet Under
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 237573
 ---
-
 Ask around about her
 She don't get emotional
 Kill off all her feelings
@@ -99,6 +103,3 @@ Six feet under she gon' kill me for that paper (till she)
 Six feet under she gon' kill me for that paper (till she)
 Six feet under she gon' kill me for that paper
 Not the type to fuck around, gonna turn that ass around
-
-
-

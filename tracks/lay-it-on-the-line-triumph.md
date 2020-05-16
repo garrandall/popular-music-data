@@ -1,8 +1,11 @@
 ---
+album: Just a Game
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:4Iy7RJ8dBBfWY1Acm4QmAf
 features: []
-genres: []
+first_released_as_single: false
 key: lay-it-on-the-line-triumph
 lyrics_url: https://genius.com/Triumph-lay-it-on-the-line-lyrics
 name: Lay It On The Line
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 245773
 ---
 It's the same old story all over again
 You turn a lover into just another friend
@@ -65,4 +70,3 @@ You know I love you, you know it's true
 It's up to you, girl,now what've I got to do
 Don't hold me up, girl, don't waste my precious time
 Won't you lay it on the line
-

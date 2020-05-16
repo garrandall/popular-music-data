@@ -1,8 +1,11 @@
 ---
+album: All I Really Want To Do
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:7mkhdRep3PFme6KECigXsS
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-really-want-to-do-cher
 lyrics_url: https://www.musixmatch.com/lyrics/Cher/All-I-Really-Want-to-Do
 name: All I Really Want To Do
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 178146
 ---
 Now I ain't lookin' to compete with you
 Beat on, cheat on, mistreat you

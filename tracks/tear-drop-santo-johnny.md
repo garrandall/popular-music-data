@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits
 artists:
 - Santo
 - Johnny
+external_ids:
+  spotify: spotify:track:1rH9Pgv6D3qvZcRjlTNyUS
 features: []
-genres: []
+first_released_as_single: false
 key: tear-drop-santo-johnny
 name: Tear Drop
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 127293
 ---
 

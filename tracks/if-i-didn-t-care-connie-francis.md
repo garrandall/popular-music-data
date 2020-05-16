@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2zV7gsB1vUUxThMTIUAKUp
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-care-connie-francis
 lyrics_url: https://genius.com/Connie-francis-if-i-didnt-care-lyrics
 name: If I Didn't Care
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 157160
 ---
 If I didn't care
 More than words can say

@@ -1,8 +1,11 @@
 ---
+album: Fiesta Macarena
 artists:
 - Los Del Rio
+external_ids:
+  spotify: spotify:track:4oaj36KzXRgDg4McgcTsZK
 features: []
-genres: []
+first_released_as_single: false
 key: macarena--bayside-boys-mix--los-del-rio
 lyrics_url: https://www.azlyrics.com/lyrics/losdelrio/macarenabaysideboysmix.html
 name: Macarena (Bayside Boys Mix)
@@ -247,8 +250,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1995
+runtime: 249506
 ---
-
 I'm not trying to seduce you
 
 When I dance they call me Macarena
@@ -311,6 +315,3 @@ Dale a tu cuerpo alegria Macarena
 Que tu cuerpo es pa' darle alegria cosa buena
 Dale a tu cuerpo alegria, Macarena
 Hey Macarena
-
-
-

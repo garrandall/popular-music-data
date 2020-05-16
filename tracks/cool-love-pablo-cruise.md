@@ -1,8 +1,11 @@
 ---
+album: Reflector
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:4f3J8zrr85LAVUhzZ3llYP
 features: []
-genres: []
+first_released_as_single: false
 key: cool-love-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/coollove.html
 name: Cool Love
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 233360
 ---
-
 A room full of faceless strangers
 Here I am again
 Suddenly, my eyes meet yours
@@ -123,6 +127,3 @@ Yes, a cool love, baby
 That's what it's all about
 It's a cool kinda love
 You know it's a cool kinda love
-
-
-

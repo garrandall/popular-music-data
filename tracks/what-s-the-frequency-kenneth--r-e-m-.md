@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:1yStBw3HI2pnjbO3ihq33N
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-the-frequency-kenneth--r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/whatsthefrequencykenneth.html
 name: What's The Frequency Kenneth?
@@ -87,8 +90,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-02-04'
+release_year: 1994
+runtime: 240400
 ---
-
 "What's the frequency, Kenneth?" is your Benzedrine, uh-huh
 I was brain-dead, locked out, numb, not up to speed
 I thought I'd pegged you an idiot's dream
@@ -117,6 +121,3 @@ I couldn't understand
 You wore a shirt of violent green, uh-huh
 I couldn't understand
 I never understood, don't fuck with me, uh-huh
-
-
-

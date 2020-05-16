@@ -1,8 +1,11 @@
 ---
+album: 25 Miles
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:1kgtLKvVAxeci5kU0u5ov7
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-a-struggling-man-edwin-starr
 lyrics_url: https://genius.com/Edwin-starr-im-still-a-struggling-man-lyrics
 name: I'm Still A Struggling Man
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 142613
 ---
 You better stop fooling if you want to get along with me
 We grew up on the block and we know about poverty

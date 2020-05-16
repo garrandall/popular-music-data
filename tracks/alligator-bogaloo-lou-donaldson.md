@@ -1,8 +1,11 @@
 ---
+album: Alligator Bogaloo
 artists:
 - Lou Donaldson
+external_ids:
+  spotify: spotify:track:2Wq889rsIlEG0l2ea9pE9J
 features: []
-genres: []
+first_released_as_single: false
 key: alligator-bogaloo-lou-donaldson
 name: Alligator Bogaloo
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 417000
 ---
 

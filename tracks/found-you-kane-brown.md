@@ -1,8 +1,11 @@
 ---
+album: Kane Brown
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:4iLeL1aYGcQBsYcWIhXIUO
 features: []
-genres: []
+first_released_as_single: false
 key: found-you-kane-brown
 lyrics_url: https://genius.com/Kane-brown-found-you-lyrics
 name: Found You
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-09-30'
+release_year: 2017
+runtime: 191733
 ---
 I be sitting in the same old bar
 Heart breaking on a broken bar stool

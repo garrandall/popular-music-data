@@ -1,8 +1,11 @@
 ---
+album: Looking Back
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:628s8U1MWzAvh3UmqGI7fO
 features: []
-genres: []
+first_released_as_single: false
 key: i-must-be-dreaming-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-i-must-be-dreaming-lyrics
 name: I Must Be Dreaming
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 108426
 ---
 I must be dreaming
 I must be dreaming

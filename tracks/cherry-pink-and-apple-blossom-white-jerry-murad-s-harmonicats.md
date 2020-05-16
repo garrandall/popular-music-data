@@ -1,8 +1,11 @@
 ---
+album: Ballroom Moments
 artists:
 - Jerry Murad's Harmonicats
+external_ids:
+  spotify: spotify:track:6Y65LpAnr4nWSdWTUgXsjw
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-pink-and-apple-blossom-white-jerry-murad-s-harmonicats
 name: Cherry Pink And Apple Blossom White
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 114826
 ---
 

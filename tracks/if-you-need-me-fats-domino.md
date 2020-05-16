@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:6i9vakbAAPjn7qEUv3BNos
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-need-me-fats-domino
 lyrics_url: https://genius.com/Fats-domino-if-you-need-me-version-lyrics
 name: If You Need Me
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1960
+runtime: 126426
 ---
 If you need me, call my name
 I'll come a runnin' like a choo-choo train

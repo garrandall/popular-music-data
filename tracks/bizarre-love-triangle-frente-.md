@@ -1,8 +1,11 @@
 ---
+album: Marvin The Album - 21st Anniversary Edition
 artists:
 - FRENTE!
+external_ids:
+  spotify: spotify:track:7sgi66biRYpAXuRZJBDuli
 features: []
-genres: []
+first_released_as_single: false
 key: bizarre-love-triangle-frente-
 lyrics_url: https://www.azlyrics.com/lyrics/frente/bizarrelovetriangle.html
 name: Bizarre Love Triangle
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
+release_year: 1994
+runtime: 119813
 ---
-
 Every time I think of you
 I get a shot right through
 Into a bolt of blue
@@ -112,6 +116,3 @@ Every time I see you falling
 I'll get down on my knees and pray
 I'm waiting for the final moment
 You'll say the words that I can't say
-
-
-

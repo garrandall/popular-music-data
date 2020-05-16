@@ -1,8 +1,11 @@
 ---
+album: 'Soul Masters: Don''t Be Cruel'
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:1iFZg04GymvclCjNJ8iBVC
 features: []
-genres: []
+first_released_as_single: false
 key: blue-tango-bill-black-s-combo
 lyrics_url: https://genius.com/Bill-blacks-combo-blue-tango-lyrics
 name: Blue Tango
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 127733
 ---
 Here am I with you in a world of blue
 And we're dancing to the tango we loved when first we met

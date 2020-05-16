@@ -1,10 +1,13 @@
 ---
+album: Marques Houston
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:1UmI1kV6HpC56GtcMtV22b
 features:
 - Joe Budden
 - Pied Piper
-genres: []
+first_released_as_single: false
 key: clubbin-marques-houston-joe-budden-pied-piper
 lyrics_url: https://www.azlyrics.com/lyrics/marqueshouston/clubbin.html
 name: Clubbin
@@ -89,9 +92,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 2003
+runtime: 244226
 ---
-
-
 Wooh, Come on
 Its the Piper
 Marques..
@@ -245,6 +248,3 @@ MH and pied piper
 
 
 MH, Pied Piper, Joe Buddens, TUG, Platinum Status, Chris Stokes, I see you baby, Holla!
-
-
-

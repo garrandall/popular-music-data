@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - Five Star
+external_ids:
+  spotify: spotify:track:3sNNxTQprci6YQno1ftNEy
 features: []
-genres: []
+first_released_as_single: false
 key: all-fall-down-five-star
 lyrics_url: https://genius.com/Five-star-all-fall-down-lyrics
 name: All Fall Down
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 212306
 ---
 All fall down, all fall down
 All fall down

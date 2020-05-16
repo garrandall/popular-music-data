@@ -1,8 +1,11 @@
 ---
+album: No Shoes, No Shirt, No Problems
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:208bYsadJ56km31IENM2qS
 features: []
-genres: []
+first_released_as_single: false
 key: no-shoes-no-shirt-no-problems-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/noshoesnoshirtnoproblems.html
 name: No Shoes No Shirt No Problems
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 2002
+runtime: 209666
 ---
-
 I've been up to my neck workin' 6 days a week
 wearin' holes in the soles of the shoes on my feet
 been dreamin' of gettin' away since I don't know
@@ -114,6 +118,3 @@ and no shoes, no shirt, and no problems
 Babe lets get packed...tank tops and flip flops if you got them
 No shoes, no shirt, no problems
 No problems.
-
-
-

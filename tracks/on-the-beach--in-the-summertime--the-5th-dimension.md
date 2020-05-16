@@ -1,8 +1,11 @@
 ---
+album: Portrait
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3eo6U9elPvgaldllwUAFk1
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-beach--in-the-summertime--the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/onthebeachinthesummertime.html
 name: On The Beach (In The Summertime)
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 210160
 ---
-
 On the beach in the summertime
 Where the happenings are
 
@@ -94,6 +98,3 @@ Yeah, yeah
 (On the beach)
 Strolling
 On the boardwalk
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Back In The Saddle
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:5XsFHtfZJ8yHRWvKK4uQWO
 features: []
-genres: []
+first_released_as_single: false
 key: let-there-be-cowgirls-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/lettherebecowgirls.html
 name: Let There Be Cowgirls
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-02-23'
+release_year: 2012
+runtime: 273480
 ---
-
 On that very first day, the Lord sat down
 And saw fit to say, "Let there be light!"
 So He could tell the day time from the night
@@ -75,6 +79,3 @@ She's got a drawl, ya'll,
 Yeah, she's the salt of the earth that rocks my world.
 Let there be cowgirls, oh
 Let there be cowgirls, come on.
-
-
-

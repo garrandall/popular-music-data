@@ -1,8 +1,11 @@
 ---
+album: Search and Nearness
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:0td5EfZGjerFykMFRrBklN
 features: []
-genres: []
+first_released_as_single: false
 key: glory-glory-the-rascals
 lyrics_url: https://www.azlyrics.com/lyrics/rascals/gloryglory.html
 name: Glory Glory
@@ -31,8 +34,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1970
+runtime: 209533
 ---
-
 I saw a child, he was carryin' a light
 I asked where it came from, he blew it right out
 His eyes looked into me, his voice was a song
@@ -64,6 +68,3 @@ I got to sing it
 (Glory, glory)
 Singing hallelujah
 The truth keeps marchin' on
-
-
-

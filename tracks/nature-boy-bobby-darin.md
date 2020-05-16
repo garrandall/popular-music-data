@@ -1,8 +1,11 @@
 ---
+album: Things & Other Things
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:0VlhWuh99mX1fpWtOLschV
 features: []
-genres: []
+first_released_as_single: false
 key: nature-boy-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/natureboy.html
 name: Nature Boy
@@ -31,8 +34,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 154346
 ---
-
 There was a boy
 A very strange enchanted boy
 They say he wandered very far, very far
@@ -53,6 +57,3 @@ Is just to love and be loved in return
 
 The greatest thing you'll ever learn
 Is just to love and be loved in return
-
-
-

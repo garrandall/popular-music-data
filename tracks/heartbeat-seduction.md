@@ -1,8 +1,11 @@
 ---
+album: Nothing Matters Without Love
 artists:
 - Seduction
+external_ids:
+  spotify: spotify:track:3PFFwk0K0TrFmBC9ZEZaeg
 features: []
-genres: []
+first_released_as_single: false
 key: heartbeat-seduction
 lyrics_url: https://genius.com/Seduction-heartbeat-lyrics
 name: Heartbeat
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 422533
 ---
 Theres nothing I wouldn't do
 Anything you want me to

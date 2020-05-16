@@ -1,8 +1,11 @@
 ---
+album: Greetings From...Jake
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:7bzo7pQlAYvJeeo8AT2QJr
 features: []
-genres: []
+first_released_as_single: true
 key: down-to-the-honkytonk-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/downtothehonkytonk.html
 name: Down To The Honkytonk
@@ -59,8 +62,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 183140
 ---
-
 I got a house down a back road
 I got a flag on the front porch
 I got a dog named Waylon
@@ -113,6 +117,3 @@ I go down, I go down to the honky-tonk
 I go down to the honky-tonk
 I go down to the honky-tonk
 I go down, I go down to the honky-tonk
-
-
-

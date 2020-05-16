@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:0vsX5Kro8RMU412Tb7Yatn
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-gone-3-doors-down
 lyrics_url: https://genius.com/3-doors-down-when-im-gone-lyrics
 name: When I'm Gone
@@ -187,6 +190,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
+release_year: 2000
+runtime: 292760
 ---
 There's another world inside of me that you may never see
 There's secrets in this life that I can't hide

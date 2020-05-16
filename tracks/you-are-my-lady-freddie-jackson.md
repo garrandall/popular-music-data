@@ -1,8 +1,11 @@
 ---
+album: Rock Me Tonight
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:5MPxgVGxq79wcoNKtlRaTf
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-my-lady-freddie-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/youaremylady.html
 name: You Are My Lady
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 284119
 ---
-
 There's something that I want to say
 But words sometimes get in the way
 I just want to show
@@ -130,6 +134,3 @@ You're ev'rything I need and more
 You are my lady
 You're all I'm living for
 ...
-
-
-

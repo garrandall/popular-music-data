@@ -1,8 +1,11 @@
 ---
+album: I Am
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:3cfnGXJ9bmiWvFqEO6ff8B
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-love-has-gone-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-after-the-love-has-gone-lyrics
 name: After The Love Has Gone
@@ -75,6 +78,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 278040
 ---
 For awhile, to love was all we could do
 We were young and we knew

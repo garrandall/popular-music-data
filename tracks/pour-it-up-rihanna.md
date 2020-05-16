@@ -1,8 +1,11 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:1UyaDGT3DyL8Jfk5rYF8mj
 features: []
-genres: []
+first_released_as_single: false
 key: pour-it-up-rihanna
 lyrics_url: https://genius.com/Rihanna-pour-it-up-lyrics
 name: Pour It Up
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2012
+runtime: 161200
 ---
 Throw it up, throw it up
 Watch it all fall out

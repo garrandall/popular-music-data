@@ -1,9 +1,12 @@
 ---
+album: Anka
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:5PuAFxKmqG72uKyoo11zpQ
 features:
 - Odia Coates
-genres: []
+first_released_as_single: false
 key: -you-re--having-my-baby-paul-anka-with-odia-coates
 lyrics_url: https://genius.com/Paul-anka-youre-having-my-baby-lyrics
 name: (You're) Having My Baby
@@ -68,6 +71,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 156293
 ---
 Having my baby
 What a lovely way of saying

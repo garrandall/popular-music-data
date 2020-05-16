@@ -1,8 +1,11 @@
 ---
+album: Ecology
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:42C6QluWaSi7Ws2iE6OwIc
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-wander-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/borntowander.html
 name: Born To Wander
@@ -51,8 +54,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 190440
 ---
-
 There's nothin' you can do girl, there's nothin' you can say
 You talkin' to the sky babe, I just got to get away, yeah
 Got to hear the wind song singin' in my ear
@@ -81,6 +85,3 @@ Born to wander, born to wander
 Born to wander, born to wander
 Born to wander, born to wander
 ...
-
-
-

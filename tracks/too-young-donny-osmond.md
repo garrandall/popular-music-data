@@ -1,8 +1,11 @@
 ---
+album: Too Young
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:2EMbzZQTDR9lr94U8aZyRY
 features: []
-genres: []
+first_released_as_single: false
 key: too-young-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/tooyoung.html
 name: Too Young
@@ -43,8 +46,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 186506
 ---
-
 They try to tell us we're too young
 Too young to really be in love
 They say that love's a word, a word we've only heard
@@ -63,6 +67,3 @@ Oh, This love will last though years may go
 And then some day
 They may recall
 We were not too young at all
-
-
-

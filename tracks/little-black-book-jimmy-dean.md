@@ -1,8 +1,11 @@
 ---
+album: 'Jimmy Dean: All-Time Greatest Hits'
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:488dRd8vrjZI4AI2dF69TA
 features: []
-genres: []
+first_released_as_single: false
 key: little-black-book-jimmy-dean
 lyrics_url: https://genius.com/Jimmy-dean-little-black-book-lyrics
 name: Little Black Book
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1961
+runtime: 146066
 ---
 Well, my pretty baby just left me this mornin'
 Said she didn't wanna see me no more

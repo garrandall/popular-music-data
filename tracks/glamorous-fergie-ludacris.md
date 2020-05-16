@@ -1,9 +1,12 @@
 ---
+album: The Dutchess
 artists:
 - Fergie
+external_ids:
+  spotify: spotify:track:4KTtYhxFtFL7mBwnjkKfLm
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: glamorous-fergie-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/fergie/glamorous.html
 name: Glamorous
@@ -124,8 +127,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
+release_year: 2006
+runtime: 246573
 ---
-
 Are you ready?
 
 If you ain't got no money take your broke ass home.
@@ -244,6 +248,3 @@ He let his daughter know
 My daddy told me so
 (If you ain't go no money take your broke ass home)
 He let his daughter know
-
-
-

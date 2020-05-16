@@ -1,8 +1,11 @@
 ---
+album: Riptide
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:3VJjqM7mmhxwnSaTXR01mS
 features: []
-genres: []
+first_released_as_single: false
 key: discipline-of-love-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-discipline-of-love-lyrics
 name: Discipline Of Love
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-12-14'
+release_year: 1985
+runtime: 368693
 ---
 You naughty girl
 So sharp and dry

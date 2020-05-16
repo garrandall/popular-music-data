@@ -1,8 +1,11 @@
 ---
+album: Paul Stanley
 artists:
 - Paul Stanley
+external_ids:
+  spotify: spotify:track:0gIWCk4xiMOxbe8Q4IKenu
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-touch-me-paul-stanley
 lyrics_url: https://www.azlyrics.com/lyrics/paulstanley/holdmetouchmethinkofmewhenwereapart.html
 name: Hold Me Touch Me
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 220773
 ---
-
 Though I know that you are sleepin' 
 Girl, there's somethin' I must say 
 Though the road may wind
@@ -90,6 +94,3 @@ And think of me here in the night
 And you know it'll be alright
 
 Mmm, aha, yeah
-
-
-

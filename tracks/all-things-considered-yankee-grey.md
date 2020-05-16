@@ -1,8 +1,11 @@
 ---
+album: Untamed
 artists:
 - Yankee Grey
+external_ids:
+  spotify: spotify:track:6UFpbLu6DpxTZzCHlb1A1j
 features: []
-genres: []
+first_released_as_single: false
 key: all-things-considered-yankee-grey
 lyrics_url: https://genius.com/Yankee-grey-all-things-considered-lyrics
 name: All Things Considered
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
+release_year: 1999
+runtime: 159666
 ---
 All things considered I'm doin' just fine even though
 You left a hole the size of Texas deep inside of my heart

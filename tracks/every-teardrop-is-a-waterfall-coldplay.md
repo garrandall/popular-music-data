@@ -1,8 +1,11 @@
 ---
+album: Mylo Xyloto
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:6P5g398JKsPAYSt4NKqsrX
 features: []
-genres: []
+first_released_as_single: true
 key: every-teardrop-is-a-waterfall-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/everyteardropisawaterfall.html
 name: Every Teardrop Is A Waterfall
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 243000
 ---
-
 I turn the music up, I got my records on
 I shut the world outside until the lights come on
 Maybe the streets alight, maybe the trees are gone
@@ -141,6 +145,3 @@ Every teardrop is a waterfall
 Every tear
 Every tear
 Every teardrop is a waterfall
-
-
-

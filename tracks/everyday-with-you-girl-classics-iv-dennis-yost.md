@@ -1,9 +1,12 @@
 ---
+album: Traces
 artists:
 - Classics IV
+external_ids:
+  spotify: spotify:track:14ghRClZJjRaCYbbwBnVZV
 features:
 - Dennis Yost
-genres: []
+first_released_as_single: false
 key: everyday-with-you-girl-classics-iv-dennis-yost
 lyrics_url: https://www.musixmatch.com/lyrics/Classics-IV/Every-Day-With-You-Girl
 name: Everyday With You Girl
@@ -52,6 +55,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 154960
 ---
 Cada día contigo chica,
 Es más dulce

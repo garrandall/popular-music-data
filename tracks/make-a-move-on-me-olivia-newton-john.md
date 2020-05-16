@@ -1,8 +1,11 @@
 ---
+album: Physical
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:1HKzbaJa69dMplZfb49TN1
 features: []
-genres: []
+first_released_as_single: false
 key: make-a-move-on-me-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/makeamoveonme.html
 name: Make A Move On Me
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1981
+runtime: 197840
 ---
-
 I can tell you got plans for me
 And your eyes are saying you made them carefully
 But tonight I have to say there just might be another way
@@ -94,6 +98,3 @@ So come on baby make a move on me
 Got nowhere to go, all my time is free
 So come on baby make a move on me tonight
 I can't wait, I can't wait
-
-
-

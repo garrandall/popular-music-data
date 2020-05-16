@@ -1,8 +1,11 @@
 ---
+album: Portrait Of A Fool
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:7kOC1rXz5Kx6TycRg8yzMj
 features: []
-genres: []
+first_released_as_single: false
 key: the-next-kiss--is-the-last-goodbye--conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/thenextkissisthelastgoodbye.html
 name: The Next Kiss (Is The Last Goodbye)
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 127440
 ---
-
 Time to say goodbye I know I've said it before
 Though I hate to go I can't be hurt anymore
 You've never seen me with a tear in my eye
@@ -43,6 +47,3 @@ Wish you all the luck with your somebody knew
 If I said I'd forget I'd be telling a lie
 The next kiss is the last goodbye
 Just one more kiss and then baby goodbye
-
-
-

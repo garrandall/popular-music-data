@@ -1,8 +1,11 @@
 ---
+album: Crystal
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:3KtCCE9JqkfNE4Ld3jFVWE
 features: []
-genres: []
+first_released_as_single: false
 key: ready-for-the-times-to-get-better-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/readyforthetimestogetbetter.html
 name: Ready For The Times To Get Better
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1976
+runtime: 145093
 ---
-
 I've got to tell you I've been rackin' my brain
 Hopin' to find a way out
 I've had enough of this continual rain
@@ -73,6 +77,3 @@ It's been a too long time
 With no peace of mind
 And I'm ready for the times
 To get better
-
-
-

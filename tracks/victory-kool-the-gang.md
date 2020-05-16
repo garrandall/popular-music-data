@@ -1,9 +1,12 @@
 ---
+album: Forever
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:1089tBrasHIE2g91xuy0QV
 features: []
-genres: []
+first_released_as_single: false
 key: victory-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/victory.html
 name: Victory
@@ -80,8 +83,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 278293
 ---
-
 People get ready it's time to show
 What you got
 Players take your place it's only
@@ -124,6 +128,3 @@ Feel that victory release that energy
 So sweet to the top-go ahead, go ahead
 
 Players take your places to the top Victory
-
-
-

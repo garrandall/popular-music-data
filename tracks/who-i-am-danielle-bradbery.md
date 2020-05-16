@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:41IWskPv7SMaeJTyV0fVhz
 features: []
-genres: []
+first_released_as_single: false
 key: who-i-am-danielle-bradbery
 lyrics_url: https://www.azlyrics.com/lyrics/daniellebradbery/whoiam.html
 name: Who I Am
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 216413
 ---
-
 If I live to be a hundred
 And never see the seven wonders
 That'll be alright
@@ -67,6 +71,3 @@ But I've got friends who love me
 And they know just where I stand
 It's all a part of me
 And that's who I am
-
-
-

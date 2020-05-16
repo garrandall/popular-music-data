@@ -1,8 +1,11 @@
 ---
+album: Binaural
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:1pNSYQkmeFSqsSOGwwxs5L
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-as-it-seems-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/nothingasitseems.html
 name: Nothing As It Seems
@@ -31,8 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 2000
+runtime: 321293
 ---
-
 don't feel like home, he's a little out...
 and all these words elope, it's nothing like your poem
 putting in, inputting in, don't feel like methadone
@@ -51,6 +55,3 @@ it's nothing as it seems, the little that he needs, it's home
 the little that he sees, is nothing he concedes, it's home
 and all that he frees, a little bittersweet, it's home
 it's nothing as it seems, the little that you see, it's home...
-
-
-

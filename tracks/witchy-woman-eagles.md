@@ -1,8 +1,11 @@
 ---
+album: Eagles
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:436yrzQWA32vb1sTZKXg9r
 features: []
-genres: []
+first_released_as_single: false
 key: witchy-woman-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/witchywoman.html
 name: Witchy Woman
@@ -59,8 +62,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 250888
 ---
-
 Raven hair and ruby lips
 Sparks fly from her fingertips
 Echoed voices in the night
@@ -94,6 +98,3 @@ Woo hoo witchy woman
 See how high she flies
 Woo hoo witchy woman
 She got the moon in her eye
-
-
-

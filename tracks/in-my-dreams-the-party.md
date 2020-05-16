@@ -1,8 +1,11 @@
 ---
+album: Party Tyme Karaoke - Classic Country 5
 artists:
 - The Party
+external_ids:
+  spotify: spotify:track:0jM6oJ4rlUODNVmXbqFEfK
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-dreams-the-party
 lyrics_url: https://www.musixmatch.com/lyrics/The-Party/In-My-Dreams
 name: In My Dreams
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1991
+runtime: 208953
 ---
 In my dreams it's still the same
 Your love is strong, it still remains

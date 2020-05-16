@@ -1,8 +1,12 @@
 ---
+album: Dream Walkin'
 artists:
-- Toby Keith With Sting
-features: []
-genres: []
+- Toby Keith
+external_ids:
+  spotify: spotify:track:2as3i1sxSmEPFMtJJLyIaR
+features:
+- Sting
+first_released_as_single: false
 key: i-m-so-happy-i-can-t-stop-crying-toby-keith-with-sting
 name: I'm So Happy I Can't Stop Crying
 rankings:
@@ -26,5 +30,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-01-03'
+release_year: 1997
+runtime: 243400
 ---
 

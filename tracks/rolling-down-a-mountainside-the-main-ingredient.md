@@ -1,8 +1,11 @@
 ---
+album: Rolling Down a Mountainside
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:3fGNEVwPUykuWKsFFx2xAX
 features: []
-genres: []
+first_released_as_single: false
 key: rolling-down-a-mountainside-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-rolling-down-a-mountainside-lyrics
 name: Rolling Down A Mountainside
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 274693
 ---
 Losers and winners
 Everyone must play fair

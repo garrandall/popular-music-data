@@ -1,8 +1,11 @@
 ---
+album: 'From A Room: Volume 1'
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:6Wo5YxkdXgwzKQZbDg2r17
 features: []
-genres: []
+first_released_as_single: false
 key: either-way-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/eitherway.html
 name: Either Way
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2017
+runtime: 248053
 ---
-
 We pass in the hall on our way to separate rooms
 The only time we ever talk is when the monthly bills are due
 We go to work, we go to church
@@ -48,6 +52,3 @@ We can just go on like this
 Say the word, we'll call it quits
 Baby, you can go or you can stay
 But I won't love you either way
-
-
-

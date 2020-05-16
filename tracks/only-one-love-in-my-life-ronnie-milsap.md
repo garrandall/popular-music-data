@@ -1,8 +1,11 @@
 ---
+album: Only One Love In My Life
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:6CqFcfdEStrPC123ZX9CR6
 features: []
-genres: []
+first_released_as_single: false
 key: only-one-love-in-my-life-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/onlyoneloveinmylife.html
 name: Only One Love In My Life
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 208533
 ---
-
 So many times
 These few dreams of mine
 Seem hidden behind
@@ -83,6 +87,3 @@ Yeah!
 
 You're my guiding light
 And you're the only love in my life
-
-
-

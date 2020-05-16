@@ -1,8 +1,11 @@
 ---
+album: The Sensitive Sound Of Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:71jFHfc9fM2aOjyJ233St4
 features: []
-genres: []
+first_released_as_single: false
 key: who-can-i-turn-to-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/whocaniturntowhennobodyneedsme.html
 name: Who Can I Turn To
@@ -31,8 +34,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 188333
 ---
-
 Who can I turn to 
 When nobody needs me?
 My heart wants to know 
@@ -59,6 +63,3 @@ With you I could learn to
 With you what a new day
 But who can I turn to 
 If you turn away?
-
-
-

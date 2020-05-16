@@ -1,8 +1,11 @@
 ---
+album: Introducing The Hardline According To Terence Trent D'Arby
 artists:
 - Terence Trent D'Arby
+external_ids:
+  spotify: spotify:track:2bvzxeD1hPWEYotw40Euq9
 features: []
-genres: []
+first_released_as_single: false
 key: wishing-well-terence-trent-d-arby
 lyrics_url: https://genius.com/Terence-trent-darby-wishing-well-lyrics
 name: Wishing Well
@@ -107,6 +110,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 210466
 ---
 Kissing like a bandit, stealing time
 Underneath a sycamore tree

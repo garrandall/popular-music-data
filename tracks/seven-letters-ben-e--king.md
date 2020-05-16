@@ -1,8 +1,11 @@
 ---
+album: Seven Letters (US Release)
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:5jigs11acXjiOECfV4KRYu
 features: []
-genres: []
+first_released_as_single: false
 key: seven-letters-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-seven-letters-lyrics
 name: Seven Letters
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 170333
 ---
 This is my last letter
 Dear, to you

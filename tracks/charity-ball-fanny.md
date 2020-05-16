@@ -1,8 +1,11 @@
 ---
+album: Charity Ball
 artists:
 - Fanny
+external_ids:
+  spotify: spotify:track:0DRXqi8Hw3xTeEv5VbvtVZ
 features: []
-genres: []
+first_released_as_single: false
 key: charity-ball-fanny
 lyrics_url: https://genius.com/Fanny-charity-ball-lyrics
 name: Charity Ball
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 149106
 ---
 Dance, oh, stand, oh
 Move to charity ball

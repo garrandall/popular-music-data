@@ -1,8 +1,11 @@
 ---
+album: The Big Hurt!
 artists:
 - Toni Fisher
+external_ids:
+  spotify: spotify:track:1JwNYwuXPcFyOcv0s7b5Cd
 features: []
-genres: []
+first_released_as_single: false
 key: west-of-the-wall-toni-fisher
 lyrics_url: https://genius.com/Toni-fisher-west-of-the-wall-lyrics
 name: West Of The Wall
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 154943
 ---
 West of the wall I'll wait for you
 West of the wall our dreams can all come true

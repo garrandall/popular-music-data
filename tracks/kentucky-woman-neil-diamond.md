@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6qgTa1576okxuCV35oRoGe
 features: []
-genres: []
+first_released_as_single: false
 key: kentucky-woman-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-kentucky-woman-lyrics
 name: Kentucky Woman
@@ -39,6 +42,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 145466
 ---
 Kentucky woman
 She shines with her own kind of light

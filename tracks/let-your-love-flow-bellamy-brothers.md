@@ -1,8 +1,11 @@
 ---
+album: Bellamy Brothers
 artists:
 - Bellamy Brothers
+external_ids:
+  spotify: spotify:track:064SVQsmWl5EF0zahmzkQk
 features: []
-genres: []
+first_released_as_single: false
 key: let-your-love-flow-bellamy-brothers
 lyrics_url: https://genius.com/The-bellamy-brothers-let-your-love-flow-lyrics
 name: Let Your Love Flow
@@ -83,6 +86,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1976
+runtime: 198760
 ---
 There's a reason for the sun-shining sky
 And there's a reason why I'm feeling so high

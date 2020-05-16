@@ -1,8 +1,11 @@
 ---
+album: C.M.B.
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:05R2lE5g9hnaSmxIrUl3C0
 features: []
-genres: []
+first_released_as_single: false
 key: i-adore-mi-amor-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/iadoremiamor.html
 name: I Adore Mi Amor
@@ -87,9 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
+release_year: 1991
+runtime: 289200
 ---
-
-
 Dream on... Dream away
 I think I'm gonna have to stay
 Stay forever
@@ -142,6 +145,3 @@ You're the one that I adore (I adore)
 I'll be forever your love (mi amor)
 You're the one that I wanna see (I adore)
 I want you to stay with me... yeah (mi amor
-
-
-

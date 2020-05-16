@@ -1,8 +1,11 @@
 ---
+album: Best Of Jailbait Records, Vol. 8 - Black Rock&Roll and R&B
 artists:
 - Ike Clanton
+external_ids:
+  spotify: spotify:track:07WmDyqnKQ1lwDNK3vqa6s
 features: []
-genres: []
+first_released_as_single: false
 key: down-the-aisle-ike-clanton
 lyrics_url: https://www.musixmatch.com/lyrics/Ike-Clanton/Down-the-Aisle
 name: Down The Aisle
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1960
+runtime: 148166
 ---
 Walk down the aisle
 Walk down the aisle

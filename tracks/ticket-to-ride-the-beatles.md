@@ -1,8 +1,11 @@
 ---
+album: Help!
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:7CZiDzGVjUssMSOXrDNYHL
 features: []
-genres: []
+first_released_as_single: false
 key: ticket-to-ride-the-beatles
 lyrics_url: https://genius.com/The-beatles-ticket-to-ride-lyrics
 name: Ticket To Ride
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 189680
 ---
 I think I'm going to be sad, I think it's today, yeah
 The girl that's driving me mad is going away

@@ -1,8 +1,11 @@
 ---
+album: 'Sockin'' It To You: The Complete Dynovoice / New Voice Recordings'
 artists:
 - Mitch Ryder
+external_ids:
+  spotify: spotify:track:36mdlSTkI395sFQlPQL2Ls
 features: []
-genres: []
+first_released_as_single: false
 key: what-now-my-love-mitch-ryder
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Ryder/What-Now-My-Love
 name: What Now My Love
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 256386
 ---
 What Now My Love
 

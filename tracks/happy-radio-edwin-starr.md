@@ -1,8 +1,11 @@
 ---
+album: The Best Of Edwin Starr
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:3m81oBsOBH4HqQqlrMESjS
 features: []
-genres: []
+first_released_as_single: false
 key: happy-radio-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/happyradio.html
 name: Happy Radio
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1979
+runtime: 292826
 ---
-
 An automatic alarm
 Turns my radio on
 Before my feet can hit the floor
@@ -85,6 +89,3 @@ Oh Station H.A.P.P.Y.
 H.A.P.P.Y.
 Hey hey hey
 Woo
-
-
-

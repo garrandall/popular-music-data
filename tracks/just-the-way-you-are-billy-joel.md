@@ -1,8 +1,11 @@
 ---
+album: The Stranger
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:49MHCPzvMLXhRjDantBMVH
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-way-you-are-billy-joel
 lyrics_url: https://genius.com/Billy-joel-just-the-way-you-are-lyrics
 name: Just The Way You Are
@@ -115,6 +118,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-05-13'
+release_year: 1977
+runtime: 290573
 ---
 Don't go changing to try and please me
 You never let me down before

@@ -1,8 +1,11 @@
 ---
+album: Skywriter
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:73JLEHdqAiB0SyaeUziJU9
 features: []
-genres: []
+first_released_as_single: false
 key: corner-of-the-sky-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/cornerofthesky.html
 name: Corner Of The Sky
@@ -55,8 +58,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 210013
 ---
-
 Everything has its season
 Everything has its time
 Show me a reason
@@ -110,6 +114,3 @@ Gotta find my corner, yes, I do
 Gotta find my corner
 (Gotta find)
 Gotta find my corner of the sky
-
-
-

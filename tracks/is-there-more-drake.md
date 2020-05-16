@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1Tnw0ItH1Macok8gblnPPd
 features: []
-genres: []
+first_released_as_single: false
 key: is-there-more-drake
 lyrics_url: https://genius.com/Drake-is-there-more-lyrics
 name: Is There More
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 226906
 ---
 Only holdin' up I do is my end of the bargain
 Only beggin' that I do is me beggin' your pardon

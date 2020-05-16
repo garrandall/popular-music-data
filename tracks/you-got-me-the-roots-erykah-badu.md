@@ -1,9 +1,12 @@
 ---
+album: Things Fall Apart
 artists:
 - The Roots
+external_ids:
+  spotify: spotify:track:4pdLZsxq0y5oJDb6Cxlokw
 features:
 - Erykah Badu
-genres: []
+first_released_as_single: false
 key: you-got-me-the-roots-erykah-badu
 lyrics_url: https://www.azlyrics.com/lyrics/roots/yougotme.html
 name: You Got Me
@@ -64,10 +67,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1999
+runtime: 259306
 ---
-
-
-
 If you were worried 'bout where
 I been or who I saw or
 what club I went to with my homies
@@ -139,4 +141,3 @@ I've seen people caught in love like whirlwinds
 listening to they squads and listening to girlfriends
 that's exactly the point where they whole world ends
 lies come in, that's where that drama begins, she like
-

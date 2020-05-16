@@ -1,8 +1,11 @@
 ---
+album: Love Child
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:5gAdATsfINRIljv4LbrKX2
 features: []
-genres: []
+first_released_as_single: false
 key: if-wishes-came-true-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/ifwishescametrue.html
 name: If Wishes Came True
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 315160
 ---
-
 All alone, silence fills my room
 But in a memory, I hear you calling me
 Close my eyes and I'm there with you
@@ -136,6 +140,3 @@ If wishes came true
 Then I would be that someone always special in your heart
 And we would still be lovers, not apart
 If wishes came true
-
-
-

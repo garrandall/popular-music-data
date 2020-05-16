@@ -1,8 +1,11 @@
 ---
+album: Fools Gold
 artists:
 - Fools Gold
+external_ids:
+  spotify: spotify:track:0JHKa7kPtfEiSw7zXKVuSz
 features: []
-genres: []
+first_released_as_single: false
 key: rain-oh-rain-fools-gold
 lyrics_url: https://www.musixmatch.com/lyrics/Fools-Gold/Rain-oh-rain
 name: Rain Oh Rain
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 282386
 ---
 I Heard some news this morning that the river is on the rise
 If you don't know how to swim you better know how to fly

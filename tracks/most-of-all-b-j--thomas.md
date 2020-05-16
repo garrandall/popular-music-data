@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:49vfBpxD5VZltFh0F0DMrl
 features: []
-genres: []
+first_released_as_single: false
 key: most-of-all-b-j--thomas
 lyrics_url: https://genius.com/Bj-thomas-most-of-all-lyrics
 name: Most Of All
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 197853
 ---
 Hello darlin', my – it's good to hear you
 I'm at the railroad station in st. Paul

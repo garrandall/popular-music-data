@@ -1,8 +1,11 @@
 ---
+album: Trap-A-Thon
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:7GG3AwSd2l2WWv69jGlM9y
 features: []
-genres: []
+first_released_as_single: true
 key: freaky-gurl-gucci-mane
 lyrics_url: https://genius.com/Gucci-mane-freaky-gurl-lyrics
 name: Freaky Gurl
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-01-26'
+release_year: 2006
+runtime: 215560
 ---
 (Yeaa!)
 Yeaa! Yeaa!

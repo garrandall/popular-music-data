@@ -1,8 +1,11 @@
 ---
+album: Simply Deep
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:4CTX9iU2a0Q9vM2T4YMUQL
 features: []
-genres: []
+first_released_as_single: false
 key: stole-kelly-rowland
 lyrics_url: https://www.azlyrics.com/lyrics/kellyrowland/stole.html
 name: Stole
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2002
+runtime: 249293
 ---
-
 He was always such a nice boy
 The quiet one
 With good intentions
@@ -182,6 +186,3 @@ Oh now we'll never know
 
 Oh no no no
 Yeah their lives were stole
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Don't Dance
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:4QAXLB2Hkx3n7LbOFxD34h
 features: []
-genres: []
+first_released_as_single: false
 key: drinking-class-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/drinkingclass.html
 name: Drinking Class
@@ -95,8 +98,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2014
+runtime: 207346
 ---
-
 We're up when the rooster crows
 Clock in when the whistle blows
 Eight hours ticking slow
@@ -144,6 +148,3 @@ Yeah, we belong to the drinking class
 Monday through Friday, man we bust our backs
 And if you're one of us, raise your glass
 We belong to the drinking class
-
-
-

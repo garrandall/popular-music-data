@@ -1,9 +1,12 @@
 ---
+album: Kiss Of Death
 artists:
 - Jadakiss
+external_ids:
+  spotify: spotify:track:66PlVvBwKgTseZ1vCU3e46
 features:
 - Mariah Carey
-genres: []
+first_released_as_single: false
 key: u-make-me-wanna-jadakiss-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/jadakiss/umakemewanna.html
 name: U Make Me Wanna
@@ -60,8 +63,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2004
+runtime: 293800
 ---
-
 Let's go, uh huh..
 
 K-i-s-s- me...
@@ -154,6 +158,3 @@ Ya uh, I love it when u say
 K-i-s-s me
 Uh and I just wanna make
 Love, love, love
-
-
-

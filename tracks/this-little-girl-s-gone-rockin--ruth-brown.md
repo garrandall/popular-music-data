@@ -1,8 +1,11 @@
 ---
+album: Miss Rhythm
 artists:
 - Ruth Brown
+external_ids:
+  spotify: spotify:track:29b6koG5fo7UtnSy7HZGJk
 features: []
-genres: []
+first_released_as_single: false
 key: this-little-girl-s-gone-rockin--ruth-brown
 lyrics_url: https://genius.com/Ruth-brown-this-little-girls-gone-rockin-lyrics
 name: This Little Girl's Gone Rockin'
@@ -47,6 +50,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
+release_year: 1958
+runtime: 108293
 ---
 I wrote my mom a letter and this is what I said...
 

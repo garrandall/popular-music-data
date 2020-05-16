@@ -1,8 +1,11 @@
 ---
+album: Paul Simon
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:2SgNoPUi4SOUNmp2Y7SNQj
 features: []
-genres: []
+first_released_as_single: false
 key: duncan-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/duncan.html
 name: Duncan
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1972
+runtime: 283133
 ---
-
 Couple in the next room
 Bound to win a prize
 They've been going at it all night long
@@ -86,6 +90,3 @@ Lying underneath the stars
 Just thanking the Lord
 For my fingers,
 For my fingers
-
-
-

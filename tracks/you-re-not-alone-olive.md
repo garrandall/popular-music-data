@@ -1,8 +1,11 @@
 ---
+album: Extra Virgin
 artists:
 - Olive
+external_ids:
+  spotify: spotify:track:6gVF2GmmmU1h3tiQSNnoxW
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-not-alone-olive
 lyrics_url: https://genius.com/Olive-youre-not-alone-lyrics
 name: You're Not Alone
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
+release_year: 1997
+runtime: 265240
 ---
 In a way, it's all a matter of time
 I will not worry for you, you'll be just fine

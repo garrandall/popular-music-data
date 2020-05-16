@@ -1,8 +1,11 @@
 ---
+album: Another Smash!!!
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:4Q0fMB8MfDBV8YZhvNq9xF
 features: []
-genres: []
+first_released_as_single: false
 key: lullaby-of-the-leaves-the-ventures
 name: Lullaby Of The Leaves
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 119506
 ---
 

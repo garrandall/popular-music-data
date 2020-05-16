@@ -1,8 +1,11 @@
 ---
+album: Shabba Ranks and Friends
 artists:
 - Shabba Ranks
+external_ids:
+  spotify: spotify:track:0eNQ3lXPTGQB4o4ZJy5e7k
 features: []
-genres: []
+first_released_as_single: false
 key: mr-loverman-shabba-ranks
 lyrics_url: https://genius.com/Shabba-ranks-with-chevelle-franklin-mr-loverman-lyrics
 name: Mr Loverman
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1985
+runtime: 216573
 ---
 Chevelle Franklin:
 Mr Loverman ... (Shabba)

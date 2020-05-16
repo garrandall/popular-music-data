@@ -1,8 +1,11 @@
 ---
+album: Crazy Ex-Girlfriend
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:3z1PqYwMtct2Dm4R9lhWnT
 features: []
-genres: []
+first_released_as_single: false
 key: gunpowder-and-lead-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-gunpowder-and-lead-lyrics
 name: Gunpowder And Lead
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2007
+runtime: 191693
 ---
 County road 233, under my feet
 Nothing on this white rock but little ol’ me

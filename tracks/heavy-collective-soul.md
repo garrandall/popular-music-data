@@ -1,8 +1,11 @@
 ---
+album: Dosage
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:4XKsdyKsgojxsFOHam52Mr
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-collective-soul
 lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/heavy.html
 name: Heavy
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
+release_year: 1999
+runtime: 173266
 ---
-
 Complicate this world you wrapped for me
 I'm acquainted with your suffering
 
@@ -101,6 +105,3 @@ It falls on me
 
 Hold me up to all whom you've deceived
 Promises you break you still believe
-
-
-

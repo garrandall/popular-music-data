@@ -1,8 +1,11 @@
 ---
+album: Timeless
 artists:
 - Dickey Lee
+external_ids:
+  spotify: spotify:track:1Ex4c1VTqxomrggLvR5Y31
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-from-peyton-place-dickey-lee
 lyrics_url: https://genius.com/Dickey-lee-the-girl-from-peyton-place-lyrics
 name: The Girl From Peyton Place
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 129828
 ---
 THE GIRL FROM PEYTON PLACE
 There she goes

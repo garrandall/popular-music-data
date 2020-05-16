@@ -1,8 +1,11 @@
 ---
+album: Good 2 Go
 artists:
 - Elephant Man
+external_ids:
+  spotify: spotify:track:5jhYPoygJNUvoQmBn8uU09
 features: []
-genres: []
+first_released_as_single: false
 key: jook-gal--wine-wine--elephant-man
 lyrics_url: https://www.azlyrics.com/lyrics/elephantman/jookgalwinewine.html
 name: Jook Gal (Wine Wine)
@@ -79,9 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 2003
+runtime: 285453
 ---
-
-
 Elephant (Hey!) Lil' Jon (Hey!)
 Bone Crusher wid anotha hit song
 New York girls (Hey!) carribean (Hey!)
@@ -228,6 +231,3 @@ One ting deh pon yuh mind (Wine wine) bend over and wine (Wine wine)
 Di Jamaican girls (Wine wine) di New York girls (Wine wine)
 Mi see di down south girls dem a (Wine wine)
 Dem a wine wine dem a wine wine, alright...
-
-
-

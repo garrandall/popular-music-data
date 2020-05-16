@@ -1,8 +1,11 @@
 ---
+album: Harlem Nocturne
 artists:
 - The Viscounts
+external_ids:
+  spotify: spotify:track:6GROMP4q49fsqQzs8s9mCw
 features: []
-genres: []
+first_released_as_single: false
 key: harlem-nocturne-the-viscounts
 lyrics_url: https://genius.com/The-viscounts-harlem-nocturne-lyrics
 name: Harlem Nocturne
@@ -123,5 +126,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1959
+runtime: 143386
 ---
 (Instrumental)

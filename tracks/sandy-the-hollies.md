@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:74oicDOeSwojnAbUVJIiIV
 features: []
-genres: []
+first_released_as_single: false
 key: sandy-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/4thofjulyasburyparksandy.html
 name: Sandy
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1967
+runtime: 247266
 ---
-
 Sandy the aurora is risin' behind us
 Those pier lights our carnival life forever
 Oh love me tonight for I may never see you again
@@ -42,6 +46,3 @@ For me this boardwalk life is through You ought to quit this scene too
 
 Hey Sandy girl Oh my baby
 Hey Sandy girl My baby
-
-
-

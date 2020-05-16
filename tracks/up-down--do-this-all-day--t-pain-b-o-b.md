@@ -1,9 +1,12 @@
 ---
+album: Up Down (Do This All Day)
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:1uH1Nd8vet2uoZSDFSDwbh
 features:
 - B.o.B
-genres: []
+first_released_as_single: true
 key: up-down--do-this-all-day--t-pain-b-o-b
 lyrics_url: https://genius.com/T-pain-up-down-do-this-all-day-lyrics
 name: Up Down (Do This All Day)
@@ -88,6 +91,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2013
+runtime: 231893
 ---
 Uh
 Uh

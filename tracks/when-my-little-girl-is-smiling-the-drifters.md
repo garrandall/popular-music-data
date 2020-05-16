@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:19Y5cJp2ex4zxPix2TbxQ8
 features: []
-genres: []
+first_released_as_single: false
 key: when-my-little-girl-is-smiling-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/whenmylittlegirlissmiling.html
 name: When My Little Girl Is Smiling
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 153253
 ---
-
 Every time my baby and I have a quarrel,
 I swear I won't give in.
 Then my baby starts to smile at me,
@@ -71,6 +75,3 @@ It's the greatest thrill there can be.
 She gets her way it's true,
 But I know I won't be blue
 As long as she just smiles for me.
-
-
-

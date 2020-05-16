@@ -1,8 +1,11 @@
 ---
+album: 'The First Family of Soul: The Best of The Five Stairsteps'
 artists:
 - The Five Stairsteps
+external_ids:
+  spotify: spotify:track:7K6KRwyvE0plDEzxrVmCon
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-the-five-stairsteps
 lyrics_url: https://www.musixmatch.com/lyrics/Five-Stairsteps-2/Come-Back
 name: Come Back
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 174706
 ---
 Come back
 Come back

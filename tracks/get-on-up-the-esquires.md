@@ -1,8 +1,11 @@
 ---
+album: Get On Up And Get Away
 artists:
 - The Esquires
+external_ids:
+  spotify: spotify:track:2a7C7IcqJeNp2d361QjuN4
 features: []
-genres: []
+first_released_as_single: false
 key: get-on-up-the-esquires
 lyrics_url: https://genius.com/The-esquires-get-on-up-lyrics
 name: Get On Up
@@ -67,6 +70,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 144600
 ---
 Oh, oh oh, dit-dit-dit-do
 Oh, oh oh, dit-dit-dit-do

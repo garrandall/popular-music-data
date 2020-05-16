@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Steely Dan
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:3j3AQc4yU8vrnHl5uITbho
 features: []
-genres: []
+first_released_as_single: false
 key: fm--no-static-at-all--steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/fm.html
 name: FM (No Static At All)
@@ -47,8 +50,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 306893
 ---
-
 Worry the bottle Mamma, it's grapefruit wine
 Kick off your high heel sneakers, it's party time
 The girls don't seem to care what's on
@@ -69,6 +73,3 @@ The girls don't seem to care tonight
 As long as the mood is right
 
 FM - no static at all
-
-
-

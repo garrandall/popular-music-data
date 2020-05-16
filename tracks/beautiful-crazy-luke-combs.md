@@ -1,8 +1,11 @@
 ---
+album: This One's for You Too
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:2rxQMGVafnNaRaXlRMWPde
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-crazy-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/beautifulcrazy.html
 name: Beautiful Crazy
@@ -131,8 +134,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2018
+runtime: 193200
 ---
-
 Her day starts with a coffee
 And ends with a wine.
 Takes forever getting ready.
@@ -184,6 +188,3 @@ She's crazy.
 She's crazy,
 But her crazy is beautiful to me.
 Her crazy is beautiful to me.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Keep The Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:4Bh83s84d9YUiuLzeuF24N
 features:
 - Puff Daddy
-genres: []
+first_released_as_single: false
 key: all-night-long-faith-evans-puff-daddy
 lyrics_url: https://www.azlyrics.com/lyrics/faithevans/allnightlong.html
 name: All Night Long
@@ -84,9 +87,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1998
+runtime: 234253
 ---
-
-
 I like this right here, yeah
 Bad Boy, and we won't stop
 Faith, '99
@@ -171,4 +174,3 @@ Have a good time
 Lay back, relax
 Just free your mind
 Let the music take control of you
-

@@ -1,8 +1,11 @@
 ---
+album: Psychotic Supper
 artists:
 - Tesla
+external_ids:
+  spotify: spotify:track:6XKLX2SOAdS0ZDQK2PbZKn
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-give-tesla
 lyrics_url: https://genius.com/Tesla-what-you-give-lyrics
 name: What You Give
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-05-23'
+release_year: 1991
+runtime: 435226
 ---
 Who's the one that makes you happy?
 Or maybe, who's the one always on your mind?

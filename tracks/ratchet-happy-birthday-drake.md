@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4SUwJA3eUVNHExxMPEUhQe
 features: []
-genres: []
+first_released_as_single: false
 key: ratchet-happy-birthday-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/ratchethappybirthday.html
 name: Ratchet Happy Birthday
@@ -11,9 +14,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 207306
 ---
-
-
 It's your fuckin' birthday (oh, birthday, happy birthday)
 It's a fuckin' celebration (oh oh)
 Tonight we celebrate
@@ -71,6 +74,3 @@ It's a celebration, oh oh
 
 
 Oh, it's your fuckin' birthday, oh, oh
-
-
-

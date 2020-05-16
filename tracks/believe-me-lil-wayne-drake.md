@@ -1,9 +1,12 @@
 ---
+album: Believe Me
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:6t2eIONH4Sax3R21QWiKNp
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: believe-me-lil-wayne-drake
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/believeme.html
 name: Believe Me
@@ -88,9 +91,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2014-10-25'
+release_year: 2014
+runtime: 337640
 ---
-
-
 I'm the only one that get the job done
 I don't know a nigga that can cover for me
 Yeah, got some game from my day
@@ -184,6 +187,3 @@ Gone
 (Believe me)
 
  Rip, rip, nigga
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:3PB0CCgLO03jtAsdLAEVIg
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-alright-the-newbeats
 lyrics_url: https://genius.com/The-newbeats-everythings-alright-lyrics
 name: Everything's Alright
@@ -43,6 +46,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 133013
 ---
 There's a bunch of guys in town
 Whose been buggin' you and hangin' around

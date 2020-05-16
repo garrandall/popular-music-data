@@ -1,8 +1,11 @@
 ---
+album: Seize The Day
 artists:
 - Shades
+external_ids:
+  spotify: spotify:track:4PVpFx2xDb2cMsNlOWsfxf
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me--i-ll-be-around--shades
 lyrics_url: https://genius.com/Shades-tell-me-lyrics
 name: Tell Me (I'll Be Around)
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 292360
 ---
 Yeah, come on, Motown
 Girls, help me sing it

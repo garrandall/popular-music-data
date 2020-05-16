@@ -1,8 +1,11 @@
 ---
+album: It's Not Me, It's You
 artists:
 - Lily Allen
+external_ids:
+  spotify: spotify:track:66350E9b6xxnI93qHdVZST
 features: []
-genres: []
+first_released_as_single: false
 key: the-fear-lily-allen
 lyrics_url: https://www.azlyrics.com/lyrics/lilyallen/thefear.html
 name: The Fear
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
+release_year: 2008
+runtime: 206080
 ---
-
 I want to be rich and I want lots of money
 I don't care about clever I don't care about funny
 I want loads of clothes and fuckloads of diamonds
@@ -79,4 +83,3 @@ Forget about guns and forget ammunition
 'Cause I'm killing them all on my own little mission
 Now I'm not a saint but I'm not a sinner
 Now everything's cool as long as I'm getting thinner
-

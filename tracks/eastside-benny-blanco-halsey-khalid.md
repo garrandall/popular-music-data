@@ -1,10 +1,13 @@
 ---
+album: FRIENDS KEEP SECRETS
 artists:
 - benny blanco
 - Halsey
 - Khalid
+external_ids:
+  spotify: spotify:track:0d2iYfpKoM0QCKvcLCkBao
 features: []
-genres: []
+first_released_as_single: true
 key: eastside-benny-blanco-halsey-khalid
 lyrics_url: https://genius.com/Benny-blanco-halsey-and-khalid-eastside-lyrics
 name: Eastside
@@ -217,6 +220,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2018
+runtime: 173799
 ---
 Uh
 Yeah, yeah

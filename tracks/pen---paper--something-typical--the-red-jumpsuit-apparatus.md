@@ -1,8 +1,11 @@
 ---
+album: Lonely Road
 artists:
 - The Red Jumpsuit Apparatus
+external_ids:
+  spotify: spotify:track:4avrnJ1t946he63pkD4syn
 features: []
-genres: []
+first_released_as_single: false
 key: pen---paper--something-typical--the-red-jumpsuit-apparatus
 lyrics_url: https://www.azlyrics.com/lyrics/redjumpsuitapparatus/penpaper.html
 name: Pen & Paper (Something Typical)
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2009
+runtime: 204346
 ---
-
 This whole routine is getting old
 So am I, and so are you
 My reputation lets me know
@@ -63,6 +67,3 @@ just thought that you should know
 And you're all the same,
 and when the curtain drops down
 You'll be replaced by something typical
-
-
-

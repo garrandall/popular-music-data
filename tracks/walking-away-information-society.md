@@ -1,8 +1,11 @@
 ---
+album: Information Society
 artists:
 - Information Society
+external_ids:
+  spotify: spotify:track:1ySU5eDCMIV2ttnsniySm5
 features: []
-genres: []
+first_released_as_single: false
 key: walking-away-information-society
 lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/walkingaway.html
 name: Walking Away
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1988
+runtime: 304466
 ---
-
 It is useless to resist us
 
 Cold winds blow around me
@@ -143,6 +147,3 @@ Walking away from
 Walking away from things in my own past
 Walking away from
 Walking away from things that just won't last
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: PRISM
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:1NOZvdCovG42qQV7ftVD5d
 features: []
-genres: []
+first_released_as_single: false
 key: birthday-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/birthday.html
 name: Birthday
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2013
+runtime: 215042
 ---
-
 I heard you're feeling nothing's going right
 Why don't you let me stop by?
 The clock is ticking, running out of time
@@ -106,7 +110,7 @@ I'll be your gift
 Give you something good to celebrate
 
 Pop your confetti
-Pop your PÃ©rignon
+Pop your Pérignon
 So hot and heavy
 'Til dawn
 I got you spinning
@@ -160,6 +164,3 @@ I'll be your gift
 Give you something good to celebrate
 
 Happy birthday
-
-
-

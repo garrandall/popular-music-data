@@ -1,8 +1,11 @@
 ---
+album: Words
 artists:
 - The Tony Rich Project
+external_ids:
+  spotify: spotify:track:1qIDLkxvnYpSrLSwiMaEXJ
 features: []
-genres: []
+first_released_as_single: false
 key: leavin--the-tony-rich-project
 lyrics_url: https://genius.com/The-tony-rich-project-thoughts-of-leavin-lyrics
 name: Leavin'
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
+release_year: 1996
+runtime: 224000
 ---
 You say ya like to travel
 But you don't even have a ride

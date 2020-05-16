@@ -1,8 +1,11 @@
 ---
+album: The Second Time Around
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:52JFZ4D1kYCspWMolxYtTo
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-baby-etta-james
 lyrics_url: https://genius.com/Etta-james-dont-cry-baby-lyrics
 name: Don't Cry Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 146226
 ---
 Don't cry, don't cry baby
 Don't cry baby

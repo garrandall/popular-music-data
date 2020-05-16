@@ -1,8 +1,11 @@
 ---
+album: The Night Has A Thousand Eyes
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:7oeacNYuOm66e6QcIxsksw
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-has-a-thousand-eyes-bobby-vee
 lyrics_url: https://genius.com/Bobby-vee-the-night-has-a-thousand-eyes-lyrics
 name: The Night Has A Thousand Eyes
@@ -63,6 +66,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1962
+runtime: 155666
 ---
 They say that you're a runaround lover
 Though you say it isn't so

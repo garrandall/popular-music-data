@@ -1,9 +1,12 @@
 ---
+album: Back To Basics
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:37x4pxxBym5g4kdbTWrccE
 features:
 - Ms. Thing
-genres: []
+first_released_as_single: false
 key: dude-beenie-man-ms--thing
 lyrics_url: https://www.azlyrics.com/lyrics/beenieman/dude.html
 name: Dude
@@ -112,9 +115,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2003
+runtime: 273386
 ---
-
-
 You want a proper fix, call me,
 you want to get your kicks, call me
 You want your G's fixed, call me,
@@ -166,4 +169,3 @@ she waan di rockula well until it curve
 Har ex bwoyfriend ain't got di nerve
 Have har a wait and she nah get served,
 so she seh Beenie...
-

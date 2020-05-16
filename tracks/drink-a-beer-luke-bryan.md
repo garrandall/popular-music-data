@@ -1,8 +1,11 @@
 ---
+album: Crash My Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:1PoGWZbJPGmViVi7CYbDUK
 features: []
-genres: []
+first_released_as_single: false
 key: drink-a-beer-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/drinkabeer.html
 name: Drink A Beer
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2013
+runtime: 202626
 ---
-
 When I got the news today
 I didn't know what to say
 So I just hung up the phone
@@ -128,6 +132,3 @@ And drink a beer
 Drink a beer
 Drink a beer
 Yeah
-
-
-

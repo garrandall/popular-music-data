@@ -1,9 +1,12 @@
 ---
+album: Best of Ernie Fields Orchestra
 artists:
 - Ernie Fields
 - Orch.
+external_ids:
+  spotify: spotify:track:52kPYFi0ItruJj9dLMo2OR
 features: []
-genres: []
+first_released_as_single: false
 key: chattanooga-choo-choo-ernie-fields-orch-
 name: Chattanooga Choo Choo
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1960
+runtime: 159506
 ---
 

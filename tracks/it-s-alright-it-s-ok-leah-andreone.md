@@ -1,8 +1,11 @@
 ---
+album: Veiled
 artists:
 - Leah Andreone
+external_ids:
+  spotify: spotify:track:3VmMPFCqLlbELgN5hne7nu
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-alright-it-s-ok-leah-andreone
 lyrics_url: https://genius.com/Leah-andreone-its-alright-its-ok-lyrics
 name: It's Alright It's Ok
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1996
+runtime: 265133
 ---
 Broken doll baby
 And she says that life's a waste

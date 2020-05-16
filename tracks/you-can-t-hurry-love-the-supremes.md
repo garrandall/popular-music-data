@@ -1,8 +1,11 @@
 ---
+album: The Supremes A' Go-Go
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:1OppEieGNdItZbE14gLBEv
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-hurry-love-the-supremes
 lyrics_url: https://genius.com/The-supremes-you-cant-hurry-love-lyrics
 name: You Can't Hurry Love
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 167933
 ---
 I need love, love
 To ease my mind

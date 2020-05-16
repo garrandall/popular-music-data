@@ -1,8 +1,11 @@
 ---
+album: Hunting High and Low
 artists:
 - a-ha
+external_ids:
+  spotify: spotify:track:2WfaOiMkCvy7F5fcp2zZ8L
 features: []
-genres: []
+first_released_as_single: false
 key: take-on-me-a-ha
 lyrics_url: https://genius.com/A-ha-take-on-me-lyrics
 name: Take On Me
@@ -115,6 +118,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 225280
 ---
 We're talking away
 I don't know what I'm to say

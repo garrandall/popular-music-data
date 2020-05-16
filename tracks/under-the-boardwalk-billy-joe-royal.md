@@ -1,8 +1,11 @@
 ---
+album: Under the Boardwalk
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:5jnwtQAj5RKUZFhH1tD8J2
 features: []
-genres: []
+first_released_as_single: true
 key: under-the-boardwalk-billy-joe-royal
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Joe-Royal/Under-the-Boardwalk
 name: Under The Boardwalk
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1978
+runtime: 157269
 ---
 When the sun beats down
 And burns the tar up on the roof

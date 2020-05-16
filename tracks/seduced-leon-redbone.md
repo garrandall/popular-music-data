@@ -1,8 +1,11 @@
 ---
+album: Branch To Branch
 artists:
 - Leon Redbone
+external_ids:
+  spotify: spotify:track:0BprbgD6cFjzyUEHNOcRur
 features: []
-genres: []
+first_released_as_single: false
 key: seduced-leon-redbone
 lyrics_url: https://genius.com/Leon-redbone-seduced-lyrics
 name: Seduced
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1981
+runtime: 163133
 ---
 I want to be seduced
 Want a woman to take me out to dinner for two

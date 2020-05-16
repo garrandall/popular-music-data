@@ -1,8 +1,11 @@
 ---
+album: For Your Entertainment
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:1ZXm0TPFH0Hv8roeUlZNFI
 features: []
-genres: []
+first_released_as_single: true
 key: time-for-miracles-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/timeformiracles.html
 name: Time For Miracles
@@ -11,8 +14,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 283040
 ---
-
 It's late at night and I can't sleep
 Missing you just runs too deep
 Oh I can't breathe thinking of your smile
@@ -68,6 +72,3 @@ Cuz I ain't, I ain't giving up on love
 No I ain't giving up on us
 I ain't giving up, no
 Oh I ain't giving up on us
-
-
-

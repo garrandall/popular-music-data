@@ -1,8 +1,11 @@
 ---
+album: Islah
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:0wdKiSBUT7aZkXUIdJWcwC
 features: []
-genres: []
+first_released_as_single: false
 key: 2-phones-kevin-gates
 lyrics_url: https://genius.com/Kevin-gates-2-phones-lyrics
 name: 2 Phones
@@ -107,6 +110,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2016-07-09'
+release_year: 2016
+runtime: 240000
 ---
 Hello? What the deal? Bet
 

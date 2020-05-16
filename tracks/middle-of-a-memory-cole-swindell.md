@@ -1,8 +1,11 @@
 ---
+album: You Should Be Here
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:38gZVjeaeR3gcnCzziAxBm
 features: []
-genres: []
+first_released_as_single: false
 key: middle-of-a-memory-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/middleofamemory.html
 name: Middle Of A Memory
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 226306
 ---
-
 Baby, it just took one look at you
 For me to change my one drink order to two
 Like we already knew each other
@@ -141,6 +145,3 @@ But, girl, it ain't right, no
 How you gonna leave me right in the middle of a memory?
 In the middle of a memory
 In the middle of a memory
-
-
-

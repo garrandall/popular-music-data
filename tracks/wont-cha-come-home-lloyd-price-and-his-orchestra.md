@@ -1,8 +1,11 @@
 ---
+album: American Legend
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:4W6VKRCjQw8tFRU8pu3ExW
 features: []
-genres: []
+first_released_as_single: false
 key: wont-cha-come-home-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-wontcha-come-home-lyrics
 name: Wont'cha Come Home
@@ -47,6 +50,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 129733
 ---
 Oh baby, please come home
 Won'tcha come home

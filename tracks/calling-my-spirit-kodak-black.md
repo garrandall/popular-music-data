@@ -1,8 +1,11 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:6qmz1bQ8HEuXafyCwqpXdK
 features: []
-genres: []
+first_released_as_single: true
 key: calling-my-spirit-kodak-black
 lyrics_url: https://genius.com/Kodak-black-calling-my-spirit-lyrics
 name: Calling My Spirit
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 152000
 ---
 I put my heart in my lyrics
 I gave it all I could give

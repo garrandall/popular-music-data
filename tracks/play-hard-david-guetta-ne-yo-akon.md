@@ -1,10 +1,13 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:2QD4C6RRHgRNRAyrfnoeAo
 features:
 - Ne-Yo
 - Akon
-genres: []
+first_released_as_single: false
 key: play-hard-david-guetta-ne-yo-akon
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/playhard.html
 name: Play Hard
@@ -45,8 +48,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-08-10'
+release_year: 2011
+runtime: 201000
 ---
-
 Hey, said a hustler's work is never through
 We makin' it 'cause we make it move
 The only thing we know how to do
@@ -117,6 +121,3 @@ Work hard, play hard
 Work hard, play hard.
 We work hard, play hard
 Keep partyin' like it's your job
-
-
-

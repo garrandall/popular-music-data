@@ -1,8 +1,11 @@
 ---
+album: Falling In Love Again
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:0FIWbmMoNPBCRHpp9e9lNz
 features: []
-genres: []
+first_released_as_single: false
 key: where-does-the-lovin--go-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/wheredoesthelovingo.html
 name: Where Does The Lovin' Go
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1980
+runtime: 187280
 ---
-
 Tell me where does the lovin' go
 When it's gone away
 Tell me when does the heartache end
@@ -75,6 +79,3 @@ I can't imagine what I'm gonna do
 'Cause I've lived my life for you and all we've planned
 And I don't think I'll ever understand
 Where does the lovin' go
-
-
-

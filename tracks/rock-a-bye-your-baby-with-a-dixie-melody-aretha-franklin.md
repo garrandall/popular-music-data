@@ -1,8 +1,11 @@
 ---
+album: The Electrifying Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:7vNq9awmDqVRUhA0HW1OaL
 features: []
-genres: []
+first_released_as_single: false
 key: rock-a-bye-your-baby-with-a-dixie-melody-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/rockabyeyourbabywithadixiemelody.html
 name: Rock-A-Bye Your Baby With A Dixie Melody
@@ -43,8 +46,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 142693
 ---
-
 Rock-a-bye your baby with a Dixie melody. 
 When you croon, croon a tune from the heart of Dixie. 
 Just place my cradle, mammy mine, 
@@ -61,6 +65,3 @@ You had me on your knee.
 A million baby kisses I'd deliver, 
 If you would only sing that Swanee River. 
 Rock-a-bye your rock-a-bye baby with a Dixie melody
-
-
-

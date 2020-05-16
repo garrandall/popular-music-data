@@ -1,9 +1,12 @@
 ---
+album: Elton John And Tim Rice's Aida
 artists:
 - Elton John
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:780nZxOcESLOfeMbLddd1D
 features: []
-genres: []
+first_released_as_single: false
 key: written-in-the-stars-elton-john-leann-rimes
 lyrics_url: https://genius.com/Elton-john-and-leann-rimes-written-in-the-stars-lyrics
 name: Written In The Stars
@@ -48,6 +51,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1999
+runtime: 257600
 ---
 I am here to tell you we can never meet again
 Simple really - isnt it

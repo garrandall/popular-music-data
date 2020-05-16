@@ -1,8 +1,11 @@
 ---
+album: Everything
 artists:
 - Climie Fisher
+external_ids:
+  spotify: spotify:track:1y748kOQshZECWk5MddfOv
 features: []
-genres: []
+first_released_as_single: false
 key: love-changes--everything--climie-fisher
 lyrics_url: https://genius.com/Climie-fisher-love-changes-lyrics
 name: Love Changes (Everything)
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1988
+runtime: 268186
 ---
 I was only seventeen when she looked at me that way
 Seems like yesterday

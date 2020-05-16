@@ -1,9 +1,12 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:4evmHXcjt3bTUHD1cvny97
 features:
 - Khalid
-genres: []
+first_released_as_single: true
 key: beautiful-people-ed-sheeran-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/beautifulpeople.html
 name: Beautiful People
@@ -112,8 +115,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 197866
 ---
-
 We are, we are, we are
 
 L.A. on a Saturday night in the summer
@@ -192,6 +196,3 @@ We are not beautiful
 
 (We are, we are, we are)
 We are not beautiful
-
-
-

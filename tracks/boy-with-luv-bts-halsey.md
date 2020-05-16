@@ -1,9 +1,12 @@
 ---
+album: 'MAP OF THE SOUL : PERSONA'
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:5KawlOMHjWeUjQtnuRs22c
 features:
 - Halsey
-genres: []
+first_released_as_single: false
 key: boy-with-luv-bts-halsey
 lyrics_url: https://genius.com/Bts-boy-with-luv-lyrics
 name: Boy With Luv
@@ -40,6 +43,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-06-15'
+release_year: 2019
+runtime: 229773
 ---
 (워워워워워)
 (워워워워워)

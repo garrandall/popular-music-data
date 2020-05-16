@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:3KW1FwspaOaaqLvcF8vSsS
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-jo-dee-messina
 lyrics_url: https://genius.com/Jo-dee-messina-i-wish-lyrics
 name: I Wish
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2003
+runtime: 213546
 ---
 It's not easy saying this to you
 It's the hardest thing I've ever had to do

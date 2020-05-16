@@ -1,8 +1,11 @@
 ---
+album: Made in Japan
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:01LwLPBaI7eDL0YN3tzA3m
 features: []
-genres: []
+first_released_as_single: false
 key: black-night-deep-purple
 lyrics_url: https://genius.com/Deep-purple-black-night-lyrics
 name: Black Night
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
+release_year: 1970
+runtime: 418466
 ---
 Black night is not right
 I don't feel so bright

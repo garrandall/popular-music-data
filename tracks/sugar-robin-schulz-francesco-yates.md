@@ -1,9 +1,12 @@
 ---
+album: Sugar
 artists:
 - Robin Schulz
+external_ids:
+  spotify: spotify:track:3NFuE3uDOr6QUw9UZ9HzKo
 features:
 - Francesco Yates
-genres: []
+first_released_as_single: true
 key: sugar-robin-schulz-francesco-yates
 lyrics_url: https://www.azlyrics.com/lyrics/robinschulz/sugar.html
 name: Sugar
@@ -68,9 +71,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2015
+runtime: 219043
 ---
-
-
 Oh
 Oh
 Oh
@@ -134,6 +137,3 @@ Sugar, how you get so fly?
 Sugar, how you get so fly?
 Sugar, sugar, how you get so fly?
 Sugar, how you get so fly?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Goodbye & Good Riddance
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:5wujBwqG7INdStqGd4tRMX
 features: []
-genres: []
+first_released_as_single: false
 key: armed-and-dangerous-juice-wrld
 lyrics_url: https://www.musixmatch.com/lyrics/Juice-Wrld/Armed-And-Dangerous
 name: Armed And Dangerous
@@ -75,6 +78,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2018
+runtime: 169999
 ---
 Gun 'em down (Bih, yeah)
 With a .50 (Brr, bih, brr)

@@ -1,8 +1,11 @@
 ---
+album: Rotting Pinata
 artists:
 - Sponge
+external_ids:
+  spotify: spotify:track:6nvixw7XmqBSuYVpgCqvPY
 features: []
-genres: []
+first_released_as_single: false
 key: molly--sixteen-candles--sponge
 lyrics_url: https://www.azlyrics.com/lyrics/sponge/molly16candlesdownthedrain.html
 name: Molly (Sixteen Candles)
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
+release_year: 1994
+runtime: 215000
 ---
-
 Seen you naked in the bath
 Cigarette stains on your hands
 Wilted flowers in a vase
@@ -129,6 +133,3 @@ Sixteen candles down the drain
 (The drain)
 Sixteen candles down the drain
 (The drain)
-
-
-

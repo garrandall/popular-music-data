@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:2HaoxHKWqGb5ShHNPNn6FX
 features: []
-genres: []
+first_released_as_single: false
 key: many-a-time-steve-lawrence
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence-Eydie-Gorme-3/Many-a-Time
 name: Many A Time
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 144714
 ---
 Many a time
 Sad tears were in my eyes

@@ -1,8 +1,11 @@
 ---
+album: It's Now Winters Day
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:4aaf6Me2nRCDWRajaYJdNo
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-now-winters-day-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/itsnowwintersday.html
 name: It's Now Winters Day
@@ -51,8 +54,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 203466
 ---
-
 Everyone is warm inside, their houses in the snow
 The mercury is dropping down to minus ten below
 Outside it's chilling but inside it's thrilling
@@ -76,6 +80,3 @@ And everyone is warm inside, their houses in the snow
 The mercury is dropping down to minus ten below
 Outside it's chilling but inside it's thrilling
 With fireplaces burning and records that keep turning
-
-
-

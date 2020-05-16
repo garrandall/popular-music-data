@@ -1,8 +1,11 @@
 ---
+album: The Battle of the Bands (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:1gqCuy1lYevkKamxmxW8xE
 features: []
-genres: []
+first_released_as_single: false
 key: you-showed-me-the-turtles
 lyrics_url: https://genius.com/The-turtles-you-showed-me-lyrics
 name: You Showed Me
@@ -55,6 +58,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1968
+runtime: 193746
 ---
 You showed me how to do
 Exactly what you do

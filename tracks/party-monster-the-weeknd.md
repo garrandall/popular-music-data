@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2dNVHgOx99fv4oSVF9GN1Y
 features: []
-genres: []
+first_released_as_single: false
 key: party-monster-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/partymonster.html
 name: Party Monster
@@ -83,9 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2016
+runtime: 249213
 ---
-
-
 I'm good, I'm good, I'm great
 Know it's been a while, now I'm mixing up the drink
 I just need a girl who gon' really understand
@@ -171,6 +174,3 @@ Woke up, woke up by a girl. I don't even know her name
 
 
 You're paranoid
-
-
-

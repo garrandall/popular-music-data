@@ -1,8 +1,11 @@
 ---
+album: Something To Be
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:02acUMylPHMjJ9miDc9b38
 features: []
-genres: []
+first_released_as_single: false
 key: ever-the-same-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/everthesame.html
 name: Ever The Same
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
+release_year: 2005
+runtime: 256600
 ---
-
 We were drawn from the weeds
 We were brave like soldiers
 Falling down under the pale moonlight
@@ -146,6 +150,3 @@ Ever the same
 Forever with you
 Forever in me
 Ever the same(Ever the same)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Save the Children
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:0FltFmk3k0U6R2vpzymmET
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-know-your-name-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/iwannaknowyourname.html
 name: I Wanna Know Your Name
@@ -59,8 +62,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1968
+runtime: 349693
 ---
-
 I wanna know your name, mmm
 Oh you look so good
 I wanna know your name
@@ -161,6 +165,3 @@ Don't leave me, don't leave me, unless you tell
 Just tell, just tell me, girl, just wait a minute
 (I wanna know your name)
 Baby
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: No More Games/The Remix Album
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:3dig6BZId5NGo6SShVaNMQ
 features: []
-genres: []
+first_released_as_single: false
 key: cover-girl-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-cover-girl-lyrics
 name: Cover Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1986
+runtime: 245400
 ---
 I get up in the morning and I see your face, girl
 You’re looking so good, everything’s in place

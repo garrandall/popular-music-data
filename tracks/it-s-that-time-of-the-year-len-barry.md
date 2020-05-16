@@ -1,8 +1,11 @@
 ---
+album: The Lost LP
 artists:
 - Len Barry
+external_ids:
+  spotify: spotify:track:7aQ1gzWP5UXI56c09Y90v5
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-that-time-of-the-year-len-barry
 lyrics_url: https://www.musixmatch.com/lyrics/Len-Barry/It-s-That-Time-of-the-Year
 name: It's That Time Of The Year
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 157093
 ---
 It's that time of the year
 Summertime's almost here

@@ -1,9 +1,12 @@
 ---
+album: You The Boss
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:24XPxbzGwOlPKf1pdf1ZtW
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: you-the-boss-rick-ross-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/youtheboss.html
 name: You The Boss
@@ -76,9 +79,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2011
+runtime: 280666
 ---
-
-
 In the world of so many, baby girl you are that one
 I deserve that, I deserve you
 
@@ -217,6 +220,3 @@ Hey daddy won't you come and be my boss
 Let me work it for you with no days off
 Hey daddy won't you come and be my boss
 With no days off (uh)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The House Of Dolls
 artists:
 - Gene Loves Jezebel
+external_ids:
+  spotify: spotify:track:3kDNbgnKWe8rd7DL34tQwt
 features: []
-genres: []
+first_released_as_single: false
 key: the-motion-of-love-gene-loves-jezebel
 lyrics_url: https://genius.com/Gene-loves-jezebel-the-motion-of-love-lyrics
 name: The Motion Of Love
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 233400
 ---
 Hey listen, treasure
 You know I'm waiting for you

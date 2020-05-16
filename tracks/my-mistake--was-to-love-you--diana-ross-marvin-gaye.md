@@ -1,9 +1,12 @@
 ---
+album: Diana & Marvin
 artists:
 - Diana Ross
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0Uk4vrQwR4mlEoHBoTp6Q8
 features: []
-genres: []
+first_released_as_single: false
 key: my-mistake--was-to-love-you--diana-ross-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/mymistakewastoloveyou.html
 name: My Mistake (Was To Love You)
@@ -72,8 +75,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 180653
 ---
-
 My mistake was to love you, girl
 Love you, girl
 My mistake was to give you all
@@ -126,6 +130,3 @@ My mistake was to love you, girl
 Love you, girl
 My mistake was to give you all
 Tell the world
-
-
-

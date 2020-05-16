@@ -1,8 +1,11 @@
 ---
+album: Live Like You Were Dying
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4KtdRKst8VADDsG5xVjvdL
 features: []
-genres: []
+first_released_as_single: false
 key: my-old-friend-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/myoldfriend.html
 name: My Old Friend
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
+release_year: 2004
+runtime: 217066
 ---
-
 My old friend, I recall
 The times we had hanging on my wall
 I wouldn't trade them for gold
@@ -95,6 +99,3 @@ Goodbye, goodbye
 
 My old friend, my old friend
 Goodbye, goodbye
-
-
-

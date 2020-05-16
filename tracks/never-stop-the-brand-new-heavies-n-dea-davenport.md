@@ -1,9 +1,12 @@
 ---
+album: Brand New Heavies
 artists:
 - The Brand New Heavies
+external_ids:
+  spotify: spotify:track:3ZoSZxoFhHNYB77ZuXXqxw
 features:
 - N'Dea Davenport
-genres: []
+first_released_as_single: false
 key: never-stop-the-brand-new-heavies-n-dea-davenport
 lyrics_url: https://genius.com/The-brand-new-heavies-never-stop-lyrics
 name: Never Stop
@@ -40,6 +43,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 253826
 ---
 Never stop never giving up
 Never stop never giving up

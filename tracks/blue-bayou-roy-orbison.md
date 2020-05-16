@@ -1,8 +1,11 @@
 ---
+album: In Dreams
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:6a0arm7sfmKWF30xWqAL9D
 features: []
-genres: []
+first_released_as_single: false
 key: blue-bayou-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-blue-bayou-lyrics
 name: Blue Bayou
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 149426
 ---
 I feel so bad I've got a worried mind
 I'm so lonesome all the time

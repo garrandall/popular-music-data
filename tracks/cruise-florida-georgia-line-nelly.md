@@ -1,9 +1,12 @@
 ---
+album: Here's To The Good Times...This Is How We Roll
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:0jHSdjxn9LfzNL0WkDu93W
 features:
 - Nelly
-genres: []
+first_released_as_single: false
 key: cruise-florida-georgia-line-nelly
 lyrics_url: https://genius.com/Florida-georgia-line-cruise-remix-lyrics
 name: Cruise
@@ -224,6 +227,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2012
+runtime: 208786
 ---
 Baby, you a song
 You make me wanna roll my windows down and cruise

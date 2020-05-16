@@ -1,8 +1,11 @@
 ---
+album: Bananarama
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:2EGaDf0cPX789H3LNeB03D
 features: []
-genres: []
+first_released_as_single: false
 key: cruel-summer-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/cruelsummer.html
 name: Cruel Summer
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1984
+runtime: 215326
 ---
-
 Hot summer streets 
 And the pavements are burning 
 I sit around 
@@ -133,6 +137,3 @@ It's a cruel,
 It's a cruel cruel summer 
 Now you're gone
 You're not the only one
-
-
-

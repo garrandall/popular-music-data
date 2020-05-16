@@ -1,9 +1,12 @@
 ---
+album: Send It
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:2qfbeZ2JqTm7rIlC8Zyhgc
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cost-you-nothing-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-dont-cost-you-nothing-lyrics
 name: Don't Cost You Nothing
@@ -44,6 +47,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 293600
 ---
 Don't cost You nothing
 

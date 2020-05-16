@@ -1,8 +1,11 @@
 ---
+album: At Last!
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:5Zu9mG353GB3p26t7M5AmR
 features: []
-genres: []
+first_released_as_single: false
 key: trust-in-me-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/trustinme.html
 name: Trust In Me
@@ -43,8 +46,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1960
+runtime: 178466
 ---
-
 Trust in me in all you do
 Have the faith I have in you
 Love will see us through, if only you trust in me
@@ -64,6 +68,3 @@ Oh And love will see us through, if only you trust in me Yeah...Yeah Yeah
 Why don't you come to me, when things go wrong, cling to me and woh,
 And I'll be strong 
 We can get along, we can get along oh, if only you trust in me...
-
-
-

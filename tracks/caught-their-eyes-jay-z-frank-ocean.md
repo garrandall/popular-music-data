@@ -1,9 +1,12 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:71oM9w2BbJxzTpxzWIE0lw
 features:
 - Frank Ocean
-genres: []
+first_released_as_single: false
 key: caught-their-eyes-jay-z-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/caughttheireyes.html
 name: Caught Their Eyes
@@ -12,9 +15,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 206133
 ---
-
-
 Ready for it
 I'm ready for it
 Yeah...
@@ -102,6 +105,3 @@ With that East Side
 That dance, uh
 Your eyes speak the truth with everything else, stars
 They pretend we can but the vibes don't fly
-
-
-

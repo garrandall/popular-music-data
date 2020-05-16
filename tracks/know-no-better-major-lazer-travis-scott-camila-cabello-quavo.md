@@ -1,11 +1,14 @@
 ---
+album: Major Lazer Essentials
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:6BKeNWeUqxmvQ09Gxd3ZGX
 features:
 - Travis Scott
 - Camila Cabello
 - Quavo
-genres: []
+first_released_as_single: true
 key: know-no-better-major-lazer-travis-scott-camila-cabello-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/knownobetter.html
 name: Know No Better
@@ -22,9 +25,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 225849
 ---
-
-
 Yeah
 Straight up
 
@@ -126,6 +129,3 @@ Baby I know you better
 Baby I know you better
 Baby I know you better
 (Baby I know, I know no better)
-
-
-

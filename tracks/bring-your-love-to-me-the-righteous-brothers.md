@@ -1,8 +1,11 @@
 ---
+album: The Moonglow Years
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:2Ki680uvSg17E1p7VLZvVL
 features: []
-genres: []
+first_released_as_single: false
 key: bring-your-love-to-me-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-bring-your-love-to-me-lyrics
 name: Bring Your Love To Me
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 140266
 ---
 When your lips long to be kissed
 And your heart cries for love that you have missed

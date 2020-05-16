@@ -1,8 +1,11 @@
 ---
+album: Tamia
 artists:
 - Tamia
+external_ids:
+  spotify: spotify:track:3c6afiysmB7OnxQzzSqRfD
 features: []
-genres: []
+first_released_as_single: false
 key: so-into-you-tamia
 lyrics_url: https://www.azlyrics.com/lyrics/tamia/sointoyou.html
 name: So Into You
@@ -87,8 +90,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 261866
 ---
-
 With every passing moment
 Thoughts of you run through my head
 Every time that I'm near you
@@ -127,6 +131,3 @@ Don't you ever leave my side
 
 I really like what you've done to me
 I can't really explain it, I'm so into you
-
-
-

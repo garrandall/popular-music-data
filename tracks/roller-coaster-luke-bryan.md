@@ -1,8 +1,11 @@
 ---
+album: Crash My Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5r00wpsojd4mBYaQFDvni7
 features: []
-genres: []
+first_released_as_single: false
 key: roller-coaster-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-roller-coaster-lyrics
 name: Roller Coaster
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2013
+runtime: 259079
 ---
 She had a cross around her neck
 And a flower in her hand

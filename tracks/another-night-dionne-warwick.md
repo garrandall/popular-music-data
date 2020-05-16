@@ -1,8 +1,11 @@
 ---
+album: The Windows Of The World
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:5DqcFlqxSWYQztGqJNbymY
 features: []
-genres: []
+first_released_as_single: false
 key: another-night-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/anothernight.html
 name: Another Night
@@ -31,8 +34,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 148680
 ---
-
 Another night, another dream, and always you
 It's like a vision of love that seems to be true 
 Another night, another dream, and always you 
@@ -97,6 +101,3 @@ Another night, another dream, and always you
 It's like a vision of love that seems to be true 
 Another night, another dream, and always you 
 In the night I dream of a love so true
-
-
-

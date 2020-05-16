@@ -1,8 +1,11 @@
 ---
+album: Like A Rock
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:46XtPLEWJU2ln4poIIFUvR
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-you-bob-seger
 lyrics_url: https://genius.com/Bob-seger-its-you-lyrics
 name: It's You
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 243924
 ---
 Just about the time I think I've had it
 Everything I've planned has fallen through

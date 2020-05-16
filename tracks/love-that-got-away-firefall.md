@@ -1,8 +1,11 @@
 ---
+album: Undertow
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:3gHfkihp7u39cPckHNJpLn
 features: []
-genres: []
+first_released_as_single: false
 key: love-that-got-away-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/lovethatgotaway.html
 name: Love That Got Away
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
+release_year: 1980
+runtime: 204653
 ---
-
 I can't believe it
 I never thought I'd see you smile again
 Now that I see it
@@ -84,6 +88,3 @@ I say welcome home
 To the love that got away
 
 Got away
-
-
-

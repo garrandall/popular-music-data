@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:6JfYJbpxUTz7wn4jvprRkg
 features: []
-genres: []
+first_released_as_single: false
 key: empty-arms-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Empty-Arms
 name: Empty Arms
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 141693
 ---
 Empty arms that long for you
 And they wait, they wait just for you

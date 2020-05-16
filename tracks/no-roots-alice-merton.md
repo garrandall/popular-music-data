@@ -1,8 +1,11 @@
 ---
+album: Mint
 artists:
 - Alice Merton
+external_ids:
+  spotify: spotify:track:4CdfFYzaAJ0y0beKzmgJSn
 features: []
-genres: []
+first_released_as_single: true
 key: no-roots-alice-merton
 lyrics_url: https://genius.com/Alice-merton-no-roots-lyrics
 name: No Roots
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2017
+runtime: 235813
 ---
 I like digging holes and hiding things inside them
 When I grow old, I hope I won't forget to find them

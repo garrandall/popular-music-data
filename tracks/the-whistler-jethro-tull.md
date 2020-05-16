@@ -1,8 +1,11 @@
 ---
+album: Songs from the Wood
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:6pDbR6ALIngNefnmsg7Osb
 features: []
-genres: []
+first_released_as_single: false
 key: the-whistler-jethro-tull
 lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/thewhistler.html
 name: The Whistler
@@ -31,8 +34,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 211293
 ---
-
 I'll buy you six bay mares to put in your stable ---
 six golden apples bought with my pay.
 I am the first piper who calls the sweet tune,
@@ -59,6 +63,3 @@ Deep red are the sun-sets in mystical places.
 Black are the nights on summer-day sands.
 We'll find the speck of truth in each riddle.
 Hold the first grain of love in our hands.
-
-
-

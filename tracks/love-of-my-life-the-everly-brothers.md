@@ -1,8 +1,11 @@
 ---
+album: All I Have to Do Is Dream
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:726uXObvGO9CclvclDbaBq
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-my-life-the-everly-brothers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Everly-Brothers/Love-of-My-Life
 name: Love Of My Life
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 129093
 ---
 Love of my life
 Come close to me

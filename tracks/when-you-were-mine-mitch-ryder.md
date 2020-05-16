@@ -1,8 +1,11 @@
 ---
+album: Air Harmonie (Live in Bonn 2008)
 artists:
 - Mitch Ryder
+external_ids:
+  spotify: spotify:track:5giLynsakhbrG39FuubvPh
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-were-mine-mitch-ryder
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Ryder/When-You-Were-Mine
 name: When You Were Mine
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 224986
 ---
 When you were mine...
 I gave you all of my money

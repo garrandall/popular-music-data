@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:3O4s2m47MFhnGqmpkjoKYk
 features: []
-genres: []
+first_released_as_single: false
 key: leader-of-the-band-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/leaderoftheband.html
 name: Leader Of The Band
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1979
+runtime: 256399
 ---
-
 An only child, alone and wild, a cabinet maker's son
 His hands were meant for different work and his heart was known to none
 He left his home and went his lone and solitary way
@@ -119,6 +123,3 @@ But his blood runs through my instrument and his song is in my soul
 My life has been a poor attempt to imitate the man
 I'm just a living legacy to the leader of the band
 I am the living legacy to the leader of the band
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: R.
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:2RzJwBCXsS1VnjDm2jKKAa
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-i-can-fly-r--kelly
 lyrics_url: https://genius.com/R-kelly-i-believe-i-can-fly-lyrics
 name: I Believe I Can Fly
@@ -143,6 +146,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1997-08-02'
+release_year: 1996
+runtime: 320666
 ---
 I used to think that I could not go on
 And life was nothing but an awful song

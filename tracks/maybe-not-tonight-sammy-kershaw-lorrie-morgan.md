@@ -1,9 +1,12 @@
 ---
+album: Maybe Not Tonight
 artists:
 - Sammy Kershaw
 - Lorrie Morgan
+external_ids:
+  spotify: spotify:track:4muhZQlGsDxS63XbEWE5aC
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-not-tonight-sammy-kershaw-lorrie-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/sammykershaw/maybenottonight.html
 name: Maybe Not Tonight
@@ -28,8 +31,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1999
+runtime: 246960
 ---
-
 You don't touch me anymore
 You never say the words I love you
 You just sit behind your paper
@@ -77,6 +81,3 @@ Maybe we can fall back in
 You don't touch me anymore
 You never say the words I love you
 I love you
-
-
-

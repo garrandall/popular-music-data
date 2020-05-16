@@ -1,8 +1,11 @@
 ---
+album: The Sylvers II
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:5uo21FsnKyuy7IzH8X1Swd
 features: []
-genres: []
+first_released_as_single: false
 key: stay-away-from-me-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-stay-away-from-me-lyrics
 name: Stay Away From Me
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 222053
 ---
 Oh oh
 Yeah, yeah, yeah

@@ -1,9 +1,12 @@
 ---
+album: Never Say Never
 artists:
 - Brandy
 - Monica
+external_ids:
+  spotify: spotify:track:6sHsXIJoEN5JpdkGMQDJxt
 features: []
-genres: []
+first_released_as_single: false
 key: the-boy-is-mine-brandy-monica
 lyrics_url: https://www.musixmatch.com/lyrics/Monica-feat-Brandy-2/The-Boy-Is-Mine
 name: The Boy Is Mine
@@ -116,6 +119,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 294786
 ---
 (Brandy) Excuse me, can I please talk to you for a minute
 (Monica) Uh huh, sure, you know you look kinda familiar

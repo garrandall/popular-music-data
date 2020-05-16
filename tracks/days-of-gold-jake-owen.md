@@ -1,8 +1,11 @@
 ---
+album: Days of Gold
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:5ETe7SElBIgm2NAZY3SpX4
 features: []
-genres: []
+first_released_as_single: false
 key: days-of-gold-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/daysofgold.html
 name: Days Of Gold
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 201373
 ---
-
 Long truck bed, hop in it, fire engine red like her lipstick
 Out here we can let it go, yeah
 Just me and my good friends, jug of wine a little sip
@@ -86,6 +90,3 @@ Beer's ice cold, got a pretty little lady to hold
 Southern summer
 That sun shining down like daddy's silver dollar
 Gotta hop on the old dirt road to the days of gold
-
-
-

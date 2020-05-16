@@ -1,8 +1,11 @@
 ---
+album: Open Up And Say...Ahh!
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:43GS3mtezoIFiuIZCLLiDY
 features: []
-genres: []
+first_released_as_single: false
 key: every-rose-has-its-thorn-poison
 lyrics_url: https://www.azlyrics.com/lyrics/poison/everyrosehasitsthorn.html
 name: Every Rose Has Its Thorn
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
+release_year: 1988
+runtime: 260173
 ---
-
 We both lie silently still in the dead of the night
 Although we both lie close together we feel miles apart inside
 Was it something I said or something I did?
@@ -131,4 +135,3 @@ And that I never meant that much to you
 To hear that tears me up inside
 And to see you cuts me like a knife
 I guess
-

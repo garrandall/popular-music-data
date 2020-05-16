@@ -1,8 +1,11 @@
 ---
+album: That's How Much I Love You
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:54EbKMSg0FZFhV22twNEmK
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-your-love-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-dont-take-your-love-lyrics
 name: Don't Take Your Love
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1973
+runtime: 187440
 ---
 Don't take your love from me
 Don't take your love, baby

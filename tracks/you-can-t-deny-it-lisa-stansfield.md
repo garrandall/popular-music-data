@@ -1,8 +1,11 @@
 ---
+album: Affection
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:4NxDK6Bd4dgxiupgMmrcVI
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-deny-it-lisa-stansfield
 lyrics_url: https://genius.com/Lisa-stansfield-you-cant-deny-it-lyrics
 name: You Can't Deny It
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1989
+runtime: 331746
 ---
 We got it together darlin'
 We're ready for it

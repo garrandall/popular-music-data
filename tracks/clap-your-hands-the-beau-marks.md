@@ -1,8 +1,11 @@
 ---
+album: By Special Request
 artists:
 - The Beau-Marks
+external_ids:
+  spotify: spotify:track:2H6SpsGpbhNEPmQIcaPowh
 features: []
-genres: []
+first_released_as_single: false
 key: clap-your-hands-the-beau-marks
 lyrics_url: https://genius.com/The-beau-marks-clap-your-hands-lyrics
 name: Clap Your Hands
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 118600
 ---
 Oh, clap your hands, clap your hands
 Oh, clap your hands if you can

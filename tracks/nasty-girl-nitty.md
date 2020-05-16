@@ -1,8 +1,11 @@
 ---
+album: Players Paradise
 artists:
 - Nitty
+external_ids:
+  spotify: spotify:track:08amb3BZ7xhL2vGtZg9KqT
 features: []
-genres: []
+first_released_as_single: true
 key: nasty-girl-nitty
 lyrics_url: https://www.azlyrics.com/lyrics/nitty/nastygirl.html
 name: Nasty Girl
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 247040
 ---
-
 Do it.
 Whoo, Little nasty girl
 (Yo man, see that??)
@@ -146,6 +150,3 @@ Mommy (Ooo Whee Poppi)
 Shake that sexy body (Do you like what you see?)
 I just wanna nasty girl
 Now tell me is that nasty girl you? (I can love you long time)
-
-
-

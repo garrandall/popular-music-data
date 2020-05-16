@@ -1,8 +1,11 @@
 ---
+album: 'Moon River: The Very Best Of Andy Williams'
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:5Kr3pIvgFzOL0qAHm7YAVE
 features: []
-genres: []
+first_released_as_single: false
 key: one-day-of-your-life-andy-williams
 lyrics_url: https://genius.com/Andy-williams-one-day-of-your-life-lyrics
 name: One Day Of Your Life
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 147600
 ---
 One day of your life
 Is all I'm asking you

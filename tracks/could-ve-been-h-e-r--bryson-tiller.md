@@ -1,9 +1,12 @@
 ---
+album: I Used To Know Her
 artists:
 - H.E.R.
+external_ids:
+  spotify: spotify:track:6oEVnWKgPqIEPc53OYDNqG
 features:
 - Bryson Tiller
-genres: []
+first_released_as_single: false
 key: could-ve-been-h-e-r--bryson-tiller
 lyrics_url: https://genius.com/Her-couldve-been-lyrics
 name: Could've Been
@@ -12,6 +15,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 252746
 ---
 Please, allow me to show you something
 Mmm, somebody give me, yeah

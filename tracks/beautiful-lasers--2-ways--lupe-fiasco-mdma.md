@@ -1,9 +1,12 @@
 ---
+album: Lasers
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:5Cs55JEAsk7oSLnniBwI2x
 features:
 - MDMA
-genres: []
+first_released_as_single: false
 key: beautiful-lasers--2-ways--lupe-fiasco-mdma
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/beautifullasers2ways.html
 name: Beautiful Lasers (2 Ways)
@@ -12,9 +15,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2011
+runtime: 241853
 ---
-
-
 There's only 2 ways out of here
 You're way too late, you'll be trapped here forever
 There's only 2 ways out of here
@@ -90,6 +93,3 @@ There's only 2 ways out of here
 You're way too late, you'll be trapped here forever
 There's only 2 ways out of here
 One's through the door, the other's through me
-
-
-

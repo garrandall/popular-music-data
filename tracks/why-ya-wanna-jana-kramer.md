@@ -1,8 +1,11 @@
 ---
+album: Jana Kramer
 artists:
 - Jana Kramer
+external_ids:
+  spotify: spotify:track:08f0fHqZigPgPHCfRjk8SC
 features: []
-genres: []
+first_released_as_single: false
 key: why-ya-wanna-jana-kramer
 lyrics_url: https://www.azlyrics.com/lyrics/janakramer/whyyawanna.html
 name: Why Ya Wanna
@@ -95,8 +98,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 221373
 ---
-
 Out of all of the places in this little town
 Yeah, you had to come walking in here and sit down
 I'm hiding and hoping my face ain't too red
@@ -134,6 +138,3 @@ Make me keep wanting you
 Out of all of the places
 In this little town
 Yeah, you had to come walking in here and sit down
-
-
-

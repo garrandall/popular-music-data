@@ -1,8 +1,11 @@
 ---
+album: The Name Game
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:1wQjtqCtUqvaV6CjPKIGdc
 features: []
-genres: []
+first_released_as_single: false
 key: the-name-game-shirley-ellis
 lyrics_url: https://www.musixmatch.com/lyrics/Shirley-Ellis/The-Name-Game
 name: The Name Game
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1964
+runtime: 164866
 ---
 The name game!
 Shirley!

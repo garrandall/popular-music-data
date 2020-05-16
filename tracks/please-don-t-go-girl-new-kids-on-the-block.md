@@ -1,8 +1,11 @@
 ---
+album: No More Games/The Remix Album
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:3uWDev1JIiPQgH6FRX5HyM
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-girl-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-please-dont-go-girl-lyrics
 name: Please Don't Go Girl
@@ -119,6 +122,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1986
+runtime: 247226
 ---
 We’ve been together for a long time, baby
 Do you have to leave?

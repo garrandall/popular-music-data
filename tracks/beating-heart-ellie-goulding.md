@@ -1,8 +1,11 @@
 ---
+album: Beating Heart
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:74ShSWUO9MyQ12K5b9ToCf
 features: []
-genres: []
+first_released_as_single: true
 key: beating-heart-ellie-goulding
 lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/beatingheart.html
 name: Beating Heart
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2014
+runtime: 212125
 ---
-
 Eyes make their peace in difficulties
 With wounded lips and salted cheeks
 And finally we step to leave
@@ -62,6 +66,3 @@ Before the bleeding sun comes alive
 I want to make the best of what is left, hold tight
 And hear my beating heart one last time
 Wanna hear your beating heart tonight
-
-
-

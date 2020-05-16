@@ -1,9 +1,12 @@
 ---
+album: Faith, Hope & Charity
 artists:
 - Faith
 - Hope And Charity
+external_ids:
+  spotify: spotify:track:1tEtX4jn9JPQwwGsW6oVwj
 features: []
-genres: []
+first_released_as_single: false
 key: so-much-love-faith-hope-and-charity
 name: So Much Love
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 191626
 ---
 

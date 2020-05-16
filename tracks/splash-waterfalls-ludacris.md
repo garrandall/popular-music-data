@@ -1,8 +1,11 @@
 ---
+album: Chicken - N - Beer
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:2T8hXV9LUZMDBKR5RALGEa
 features: []
-genres: []
+first_released_as_single: false
 key: splash-waterfalls-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/splashwaterfalls.html
 name: Splash Waterfalls
@@ -91,9 +94,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
+release_year: 2003
+runtime: 290760
 ---
-
-
 Ohhhh! Ohhhh! Ohhhh! Say it (make love to me)
 Ohhhh! Ohhhh! Ohhhh! What? (fuck, meee!)
 Ohhhh! Ohhhh! Ohhhh! Say it (make love to me)
@@ -151,4 +154,3 @@ Nothin but fights and fussin, plus there's a lot of cussin
 Just grab ahold of SOMETHIN - say it (make love to me)
 Y'all do that BAD stuff, she like it rammed up
 Ropes and HANDCUFFS - what? (fuck, meee!)
-

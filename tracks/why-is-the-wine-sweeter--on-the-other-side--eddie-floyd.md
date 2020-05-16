@@ -1,8 +1,11 @@
 ---
+album: California Girl
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:28efchnjqL1fidQ135kcRd
 features: []
-genres: []
+first_released_as_single: false
 key: why-is-the-wine-sweeter--on-the-other-side--eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-why-is-the-wine-sweeter-on-the-other-side-lyrics
 name: Why Is The Wine Sweeter (On The Other Side)
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 151440
 ---
 Why is the wine sweeter on the other side? Yeah
 Oh there's got to be somebody just for me yeah

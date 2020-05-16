@@ -1,8 +1,11 @@
 ---
+album: "Folie \xE0 Deux"
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:62Vulfjc2qjCWim4LWBvvc
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-catch-donnie-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/whatacatchdonnie.html
 name: What A Catch Donnie
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 290800
 ---
-
 I got troubled thoughts
 And the self-esteem to match
 What a catch, what a catch
@@ -98,6 +102,3 @@ Growing up, growing up
 I got troubled thoughts
 And the self-esteem to match
 What a catch, what a catch
-
-
-

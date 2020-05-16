@@ -1,8 +1,11 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3YlpGFTDejP3woEAnFCT1F
 features: []
-genres: []
+first_released_as_single: false
 key: draco-future
 lyrics_url: https://genius.com/Future-draco-lyrics
 name: Draco
@@ -39,6 +42,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 225320
 ---
 Yeah, Pluto
 You better not raise your voice at me (You)

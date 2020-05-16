@@ -1,8 +1,11 @@
 ---
+album: Tonight
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:3hlC4wlQoaLqwbT2QEmkEL
 features: []
-genres: []
+first_released_as_single: true
 key: blue-jean-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/bluejean.html
 name: Blue Jean
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1984
+runtime: 192160
 ---
-
 Blue Jean-I just met me a girl named Blue Jean
 
 Blue Jean-she got a camouflaged face and no money
@@ -105,6 +109,3 @@ Remember that everybody has to wait in line
 Blue Jean-look out world you know I've got mine
 She got Latin roots
 She got everything
-
-
-

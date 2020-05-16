@@ -1,8 +1,11 @@
 ---
+album: Best Of Colourbox 82/87
 artists:
 - M/A/R/R/S
+external_ids:
+  spotify: spotify:track:3CqQIRZng2MVh3k1H2jHHN
 features: []
-genres: []
+first_released_as_single: true
 key: pump-up-the-volume-m-a-r-r-s
 lyrics_url: https://genius.com/M-a-r-r-s-pump-up-the-volume-lyrics
 name: Pump Up The Volume
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1987
+runtime: 389066
 ---
 That's right, this is gonna be the greatest record of the year
 

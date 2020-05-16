@@ -1,8 +1,11 @@
 ---
+album: Elvis Now
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0mWM576NnQfdza8CKlY1BU
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-love-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-its-only-love-lyrics
 name: It's Only Love
@@ -31,6 +34,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 157280
 ---
 I see the sunlight in her hair
 I feel the warm smile that she wears

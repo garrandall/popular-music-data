@@ -1,8 +1,11 @@
 ---
+album: Back To Basics
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:2vACumvzzT2ZngO2p7i3Gu
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-the-dancehall-beenie-man
 lyrics_url: https://www.azlyrics.com/lyrics/beenieman/kingofthedancehall.html
 name: King Of The Dancehall
@@ -55,9 +58,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 217106
 ---
-
-
 Eeeh heh, zagga zow,
 zagga now now now now now
 Ziggy, yo, lets do this
@@ -180,6 +183,3 @@ Pon bed pon floor against wall
 We sex dem all till dem call mi
 Im di girls dem sugar dats all
 Welcome di king of di dancehall
-
-
-

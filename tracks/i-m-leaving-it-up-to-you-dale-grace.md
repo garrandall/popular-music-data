@@ -1,9 +1,12 @@
 ---
+album: Old 'N Golden
 artists:
 - Dale
 - Grace
+external_ids:
+  spotify: spotify:track:5FLISSVWvr79vIuY5qIkcp
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-leaving-it-up-to-you-dale-grace
 lyrics_url: https://genius.com/Dale-and-grace-im-leaving-it-up-to-you-lyrics
 name: I'm Leaving It Up To You
@@ -68,6 +71,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 139386
 ---
 I'm leavin' it all up to you oh oh
 You decide what you're gonna do

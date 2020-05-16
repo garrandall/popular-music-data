@@ -1,9 +1,12 @@
 ---
+album: Bad As I Wanna B
 artists:
 - MC Lyte
+external_ids:
+  spotify: spotify:track:42aZFX1bcCDj75ue0KoNSd
 features:
 - Xscape
-genres: []
+first_released_as_single: false
 key: keep-on-keepin--on-mc-lyte-xscape
 lyrics_url: https://genius.com/Mc-lyte-keep-on-keepin-on-lyrics
 name: Keep On Keepin' On
@@ -88,6 +91,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1996
+runtime: 271440
 ---
 B-boy where the fuck you at
 I been looking for you're ass since a quarter past

@@ -1,8 +1,11 @@
 ---
+album: TOTAL XANARCHY
 artists:
 - Lil Xan
+external_ids:
+  spotify: spotify:track:6NWl2m8asvH83xjuXVNsuG
 features: []
-genres: []
+first_released_as_single: true
 key: betrayed-lil-xan
 lyrics_url: https://genius.com/Lil-xan-betrayed-lyrics
 name: Betrayed
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 187453
 ---
 Huh, ayy (Yeah)
 You are now listening to a Bobby Johnson beat

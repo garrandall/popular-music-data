@@ -1,8 +1,11 @@
 ---
+album: No Frills
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:72ug00g96euwyQXdy3msvJ
 features: []
-genres: []
+first_released_as_single: false
 key: favorite-waste-of-time-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/favoritewasteoftime.html
 name: Favorite Waste Of Time
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1983
+runtime: 159133
 ---
-
 You're my-i-i-i-i-i, baby, you're my favorite waste of time.
 My-i-i-i-i-i, baby, you're my favorite waste of time.
 
@@ -54,6 +58,3 @@ you're my-i-i-i-i-i-i-i, baby, you're my favorite waste of time.
 My-i-i-i-i-i, baby. you're my favorite waste of time.
 My-i-i-i-i-i, baby, you're my favorite waste of time.
 My-i-i-i-i-i, baby, you're my favorite waste of time.
-
-
-

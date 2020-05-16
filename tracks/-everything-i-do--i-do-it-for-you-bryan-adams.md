@@ -1,8 +1,11 @@
 ---
+album: Waking Up The Neighbours
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:5HQ6AUDMbMuwktvcNPuV1y
 features: []
-genres: []
+first_released_as_single: false
 key: -everything-i-do--i-do-it-for-you-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-everything-i-do-i-do-it-for-you-lyrics
 name: (Everything I Do) I Do It For You
@@ -95,6 +98,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1991
+runtime: 398026
 ---
 Look into my eyes - you will see
 What you mean to me

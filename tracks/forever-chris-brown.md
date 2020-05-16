@@ -1,8 +1,11 @@
 ---
+album: Forever
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3NZJlJemX3mzjf56MqC5ML
 features: []
-genres: []
+first_released_as_single: true
 key: forever-chris-brown
 lyrics_url: https://genius.com/Chris-brown-forever-lyrics
 name: Forever
@@ -139,6 +142,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-12-20'
+release_year: 2008
+runtime: 278573
 ---
 One, two, three, four
 Hey, hey (Forever)

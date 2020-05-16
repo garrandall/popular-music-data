@@ -1,8 +1,11 @@
 ---
+album: Nuclear Furniture
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:5ncLNCx0nnz763Aug1q4ay
 features: []
-genres: []
+first_released_as_single: false
 key: no-way-out-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/nowayout.html
 name: No Way Out
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
+release_year: 1984
+runtime: 262573
 ---
-
 No intentions 
 Whatsoever 
 I was gone for a night 
@@ -132,6 +136,3 @@ She doesn't buy my story
 No way out 
 No way out 
 No way out
-
-
-

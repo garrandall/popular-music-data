@@ -1,8 +1,11 @@
 ---
+album: Give the People What They Want
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:1dpD3rzGYW1mHtNxG1NbwI
 features: []
-genres: []
+first_released_as_single: false
 key: destroyer-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/destroyer.html
 name: Destroyer
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
+release_year: 1981
+runtime: 227066
 ---
-
 Met a girl called Lola and I took her back to my place
 Feelin' guilty, feelin' scared, hidden cameras everywhere
 Stop! Hold on. Stay in control
@@ -83,6 +87,3 @@ Paranoia, the destroyer
 
 Paranoia, the destroyer
 (And it goes like this.)
-
-
-

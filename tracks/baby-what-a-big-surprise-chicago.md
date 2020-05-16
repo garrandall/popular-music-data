@@ -1,8 +1,11 @@
 ---
+album: Chicago XI
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:11dAtktxQQzipxuLqljEfY
 features: []
-genres: []
+first_released_as_single: false
 key: baby-what-a-big-surprise-chicago
 lyrics_url: https://genius.com/Chicago-baby-what-a-big-surprise-lyrics
 name: Baby What A Big Surprise
@@ -75,6 +78,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
+release_year: 1977
+runtime: 183666
 ---
 Right before my very eyes
 I thought that you were only faking it

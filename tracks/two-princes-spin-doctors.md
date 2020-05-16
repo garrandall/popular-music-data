@@ -1,8 +1,11 @@
 ---
+album: So I Married An Axe Murderer Original Motion Picture Soundtrack
 artists:
 - Spin Doctors
+external_ids:
+  spotify: spotify:track:5OXp3ineToycMdMNZnQLAt
 features: []
-genres: []
+first_released_as_single: false
 key: two-princes-spin-doctors
 lyrics_url: https://www.azlyrics.com/lyrics/spindoctors/twoprinces.html
 name: Two Princes
@@ -123,8 +126,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
+release_year: 1988
+runtime: 255333
 ---
-
 One, two princes kneel before you
 That's what I said now
 Princes, princes who adore you
@@ -208,7 +212,4 @@ Just go ahead now
 Come on, come on, come on
 Just go ahead now
 Go ahead now
-Just go ahead now, 
-
-
-
+Just go ahead now,

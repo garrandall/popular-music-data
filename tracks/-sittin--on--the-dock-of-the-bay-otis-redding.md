@@ -1,8 +1,11 @@
 ---
+album: The Dock of the Bay (Mono)
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:3zBhihYUHBmGd2bcQIobrF
 features: []
-genres: []
+first_released_as_single: false
 key: -sittin--on--the-dock-of-the-bay-otis-redding
 lyrics_url: https://genius.com/Otis-redding-sittin-on-the-dock-of-the-bay-lyrics
 name: (Sittin' On) The Dock Of The Bay
@@ -71,6 +74,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 163755
 ---
 Sittin' in the mornin' sun
 I'll be sittin' when the evenin' come

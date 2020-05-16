@@ -1,8 +1,11 @@
 ---
+album: A Star Is Born Soundtrack (Without Dialogue)
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:2rbDhOo9Fh61Bbu23T2qCk
 features: []
-genres: []
+first_released_as_single: false
 key: always-remember-us-this-way-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-always-remember-us-this-way-lyrics
 name: Always Remember Us This Way
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
+release_year: 2018
+runtime: 210200
 ---
 That Arizona sky
 Burnin' in your eyes

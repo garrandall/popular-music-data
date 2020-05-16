@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:65vdMBskhx3akkG9vQlSH1
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-love-her-the-beatles
 lyrics_url: https://genius.com/The-beatles-and-i-love-her-lyrics
 name: And I Love Her
@@ -43,6 +46,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 149693
 ---
 I give her all my love
 That's all I do

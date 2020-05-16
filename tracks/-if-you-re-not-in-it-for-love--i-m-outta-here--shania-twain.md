@@ -1,8 +1,11 @@
 ---
+album: The Woman In Me
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:6Lst3nF4McKOTLSLuTvLhw
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-re-not-in-it-for-love--i-m-outta-here--shania-twain
 lyrics_url: https://genius.com/Shania-twain-if-youre-not-in-it-for-love-im-outta-here-lyrics
 name: (If You're Not In It For Love) I'm Outta Here!
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1995
+runtime: 270026
 ---
 Three, four, five
 

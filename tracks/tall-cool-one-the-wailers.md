@@ -1,8 +1,11 @@
 ---
+album: Tall Cool One
 artists:
 - The Wailers
+external_ids:
+  spotify: spotify:track:3skp6Cep5AgA6Dq34d5ZzB
 features: []
-genres: []
+first_released_as_single: false
 key: tall-cool-one-the-wailers
 lyrics_url: https://genius.com/The-wailers-tall-cool-one-lyrics
 name: Tall Cool One
@@ -99,5 +102,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1959
+runtime: 156840
 ---
 (Instrumental)

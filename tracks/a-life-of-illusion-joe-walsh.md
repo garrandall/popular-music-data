@@ -1,8 +1,11 @@
 ---
+album: There Goes The Neighborhood
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:19P4fwkPhE6yVAXApFWDoF
 features: []
-genres: []
+first_released_as_single: false
 key: a-life-of-illusion-joe-walsh
 lyrics_url: https://www.azlyrics.com/lyrics/joewalsh/alifeofillusion.html
 name: A Life Of Illusion
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 210533
 ---
-
 Sometimes I can't help the feeling that I'm
 Living a life of illusion
 And oh, why can't we let it be
@@ -79,6 +83,3 @@ Based upon jumping conclusions
 Caught up in endless solutions
 Backed up against a wall of confusion
 Living a life of illusion
-
-
-

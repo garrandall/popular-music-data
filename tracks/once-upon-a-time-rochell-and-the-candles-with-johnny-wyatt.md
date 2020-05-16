@@ -1,9 +1,12 @@
 ---
+album: Once Upon a Time
 artists:
 - Rochell And The Candles
+external_ids:
+  spotify: spotify:track:7MTHzGaWm4Z4h1hrZl9vgx
 features:
 - Johnny Wyatt
-genres: []
+first_released_as_single: true
 key: once-upon-a-time-rochell-and-the-candles-with-johnny-wyatt
 name: Once Upon A Time
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 172653
 ---
 

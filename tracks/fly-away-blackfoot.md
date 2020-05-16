@@ -1,8 +1,11 @@
 ---
+album: Marauder
 artists:
 - Blackfoot
+external_ids:
+  spotify: spotify:track:5TN7RTbTATxPfhQLsZv92R
 features: []
-genres: []
+first_released_as_single: false
 key: fly-away-blackfoot
 lyrics_url: https://www.azlyrics.com/lyrics/blackfoot/flyaway.html
 name: Fly Away
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 177826
 ---
-
 Wake up baby, smile at me
 The sun is shinin' and the wind's blowin' free
 I got to thinkin' oo yesterday
@@ -87,4 +91,3 @@ Friends of mine want'a'buy me a drink
 So loaded now, hell, I can't even think
 Went on home, I put my lady in the car
 Jumped on that bird just to see how far we could...
-

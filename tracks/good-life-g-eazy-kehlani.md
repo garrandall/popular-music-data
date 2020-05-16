@@ -1,9 +1,12 @@
 ---
+album: BestWORK
 artists:
 - G-Eazy
 - Kehlani
+external_ids:
+  spotify: spotify:track:1Eck97uRMlprKOOJN9oO1E
 features: []
-genres: []
+first_released_as_single: true
 key: good-life-g-eazy-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/goodlife.html
 name: Good Life
@@ -28,9 +31,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2017
+runtime: 225525
 ---
-
-
 Raise a cup up for all my day ones
 Two middle fingers for the haters
 Life's only getting greater
@@ -151,6 +154,3 @@ Hey, hey, hey, hey, hey
 
 
 Uh, the good life
-
-
-

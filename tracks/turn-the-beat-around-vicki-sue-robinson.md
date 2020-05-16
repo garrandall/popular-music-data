@@ -1,8 +1,11 @@
 ---
+album: Never Gonna Let You Go
 artists:
 - Vicki Sue Robinson
+external_ids:
+  spotify: spotify:track:2TziLOnBMT8kDVo2LA1X6t
 features: []
-genres: []
+first_released_as_single: false
 key: turn-the-beat-around-vicki-sue-robinson
 lyrics_url: https://genius.com/Vicki-sue-robinson-turn-the-beat-around-lyrics
 name: Turn The Beat Around
@@ -107,6 +110,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1972
+runtime: 252373
 ---
 Turn the beat around
 Love to hear percussion

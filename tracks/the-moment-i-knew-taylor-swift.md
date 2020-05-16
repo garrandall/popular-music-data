@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5AsmAjBSSQjRPWgAYIp8tm
 features: []
-genres: []
+first_released_as_single: false
 key: the-moment-i-knew-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/themomentiknew.html
 name: The Moment I Knew
@@ -11,8 +14,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2013-01-26'
+release_year: 2012
+runtime: 285560
 ---
-
 You should've been there,
 Should've burst through the door,
 With that 'baby I'm right here' smile,
@@ -84,6 +88,3 @@ You called me later,
 And said, "I'm sorry, I didn't make it,"
 And I said, "I'm sorry too,"
 And that was the moment I knew.
-
-
-

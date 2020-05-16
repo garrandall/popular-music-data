@@ -1,8 +1,11 @@
 ---
+album: The Bigger Artist
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:2BJpuAoDeQ1QuPvnryfAWK
 features: []
-genres: []
+first_released_as_single: false
 key: no-promises-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-no-promises-lyrics
 name: No Promises
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 197666
 ---
 Wasn't I good to you?
 Cardo got wings

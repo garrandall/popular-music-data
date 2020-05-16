@@ -1,8 +1,11 @@
 ---
+album: Temptin' Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:1uzcPl4GZSU9Ysl1ZcMLTb
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-lost-my-baby-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/sinceilostmybaby.html
 name: Since I Lost My Baby
@@ -47,8 +50,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 174626
 ---
-
 The sun is shining, there's plenty of light (oh yeah)
 A new day is dawning, sunny and bright (oh yeah)
 But after I've been crying all night
@@ -89,6 +93,3 @@ Everything is wrong
 This heart is hard to carry on (since I lost my baby)
 I'm lost as can be (since I lost my baby)
 What's gonna happen to me?
-
-
-

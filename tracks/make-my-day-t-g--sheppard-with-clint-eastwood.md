@@ -1,7 +1,8 @@
 ---
 artists:
-- T.G. Sheppard With Clint Eastwood
-features: []
+- T.G. Sheppard
+features:
+- Clint Eastwood
 genres: []
 key: make-my-day-t-g--sheppard-with-clint-eastwood
 name: Make My Day

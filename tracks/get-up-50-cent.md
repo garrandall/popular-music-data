@@ -1,8 +1,11 @@
 ---
+album: Get Up
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:4lyphUu7lt4KKuf8jZKjjh
 features: []
-genres: []
+first_released_as_single: true
 key: get-up-50-cent
 lyrics_url: https://genius.com/50-cent-get-up-lyrics
 name: Get Up
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-12-27'
+release_year: 2008
+runtime: 195680
 ---
 Man I finna do my thang (get up!)
 It's crazy in the club when I'm in there mayne (get up!)

@@ -1,8 +1,11 @@
 ---
+album: Nothing to Lose
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:5wArSCkGgV2OczxstX5ivr
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-in-eddie-money
 lyrics_url: https://genius.com/Eddie-money-let-me-in-lyrics
 name: Let Me In
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-06-03'
+release_year: 1988
+runtime: 293293
 ---
 Oh-we-oh, my love say no, that you can let me in
 Oh-we-oh, my love say no, that you can let me in

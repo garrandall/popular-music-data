@@ -1,9 +1,12 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:6LyAwkJsHlW7RQ8S1cYAtM
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: overdue-metro-boomin-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/overdue.html
 name: Overdue
@@ -12,9 +15,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 166093
 ---
-
-
 Overtime and overdue (Due)
 Ain't no sleep, that is old news (Old news)
 Been outside, that's with the crew (Yeah)
@@ -52,6 +55,3 @@ About to click though (Yeah), this shit been busy
 Chasing after paper, come and get me (Me)
 Like I'm sick though, sippin' plenty (Sip)
 We been outside, going in (21)
-
-
-

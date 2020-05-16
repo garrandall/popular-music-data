@@ -1,9 +1,12 @@
 ---
+album: Cream Of The Crop
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:1J9L1lhlcjL1W4G3cnXjLZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-young-folks-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-feat-The-Supremes-24/The-Young-Folks
 name: The Young Folks
@@ -28,6 +31,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 192360
 ---
 (H. Gordy/A. Story)
 

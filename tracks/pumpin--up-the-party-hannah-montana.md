@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:3rcXcJT6Uwg1ojuCdPRjeJ
 features: []
-genres: []
+first_released_as_single: false
 key: pumpin--up-the-party-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/pumpinuptheparty.html
 name: Pumpin' Up The Party
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 189080
 ---
-
 Hey
 Get up
 Get loud
@@ -66,7 +70,4 @@ Party now, party now
 Hey
 Get up
 Get loud
-Start pumpin' up the party now 
-
-
-
+Start pumpin' up the party now

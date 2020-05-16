@@ -1,9 +1,12 @@
 ---
+album: Secreto
 artists:
 - Anuel AA
 - Karol G
+external_ids:
+  spotify: spotify:track:5W83ErFkO3aKAIS1WMi6u0
 features: []
-genres: []
+first_released_as_single: true
 key: secreto-anuel-aa-karol-g
 lyrics_url: https://genius.com/Karol-g-and-anuel-aa-secreto-lyrics
 name: Secreto
@@ -52,6 +55,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2019
+runtime: 258800
 ---
 Bebecita
 Bebe-bebecita, uah

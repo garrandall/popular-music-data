@@ -1,11 +1,14 @@
 ---
+album: It's Already Written
 artists:
 - Houston
+external_ids:
+  spotify: spotify:track:0DRAmZDhhG5K2U70daPhbx
 features:
 - Chingy
 - Nate Dogg
 - I-20
-genres: []
+first_released_as_single: true
 key: i-like-that-houston-chingy-nate-dogg-i-20
 lyrics_url: https://www.azlyrics.com/lyrics/houston/ilikethat.html
 name: I Like That
@@ -90,9 +93,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2004-10-30'
+release_year: 2003
+runtime: 237893
 ---
-
-
 Houston (bounce)...
 Yeah...i like that
 Chingaling (bounce)...
@@ -264,6 +267,3 @@ Yeah you know how we do
 Turn around
 Come here
 Let me see ya back
-
-
-

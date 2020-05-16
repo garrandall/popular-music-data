@@ -1,8 +1,11 @@
 ---
+album: Pop
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:3fsTb3a8l5kJrtzpl04Ljr
 features: []
-genres: []
+first_released_as_single: false
 key: staring-at-the-sun-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/staringatthesun.html
 name: Staring At The Sun
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 276800
 ---
-
 Summer stretching on the grass... summer dresses pass
 In the shade of a willow tree creeps a crawling over me
 Over me and over you stuck together with God's glue
@@ -119,6 +123,3 @@ You're not the only one staring at the sun
 Afraid of what you'd find if you stepped back inside
 I'm not sucking my thumb I'm staring at the sun
 Not the only one who's happy to go blind
-
-
-

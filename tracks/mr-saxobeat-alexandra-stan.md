@@ -1,8 +1,11 @@
 ---
+album: Dance Anthems 2011
 artists:
 - Alexandra Stan
+external_ids:
+  spotify: spotify:track:5JSi3EFlNrxkq26M28I9O9
 features: []
-genres: []
+first_released_as_single: true
 key: mr-saxobeat-alexandra-stan
 lyrics_url: https://www.azlyrics.com/lyrics/alexandrastan/mrsaxobeat.html
 name: Mr Saxobeat
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2011
+runtime: 195105
 ---
-
 You make me dance, bring me up, bring me down, play it sweet
 Make me move like a freak, Mr. Saxobeat
 Makes me dance, brings me up, brings me down, plays it sweet
@@ -126,6 +130,3 @@ Makes me dance, brings me up, brings me down, plays it sweet
 Makes me move like a freak
 You make me dance, bring me up, bring me down, Mr. Saxobeat
 You make me dance, bring me up, bring me down, Mr. Saxobeat
-
-
-

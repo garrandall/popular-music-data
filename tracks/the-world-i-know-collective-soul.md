@@ -1,8 +1,11 @@
 ---
+album: Collective Soul
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:4beuBXU4k3YWwVKm0PpWhv
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-i-know-collective-soul
 lyrics_url: https://genius.com/Collective-soul-the-world-i-know-lyrics
 name: The World I Know
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
+release_year: 1995
+runtime: 255466
 ---
 Has our conscious shown?
 Has the sweet breeze blown?

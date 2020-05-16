@@ -1,8 +1,11 @@
 ---
+album: 'The Magic Touch: An Anthology'
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:6ifFwz5geGpi2FvyYLiOWL
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-platters
 lyrics_url: https://genius.com/The-platters-where-lyrics
 name: Where
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 161173
 ---
 Where is the heaven that we hoped would be?
 Where is the gladness my heart came to see?

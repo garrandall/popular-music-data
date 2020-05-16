@@ -1,8 +1,11 @@
 ---
+album: Dirty Rotten Filthy Stinking Rich
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:0m5RdyFFcOKhut3sGkeWHG
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-she-cries-warrant
 lyrics_url: https://www.azlyrics.com/lyrics/warrant/sometimesshecries.html
 name: Sometimes She Cries
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 283794
 ---
-
 Mercy don't think she's pretty no more,
 Starin' at the stars through her back screen door,
 She tries and tries to make it all work out,
@@ -131,6 +135,3 @@ Sometimes the pain,
 Oh, it tears her up inside,
 Sometimes she cries
 Oh, yeah, yeah, yeah.
-
-
-

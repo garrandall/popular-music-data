@@ -1,8 +1,11 @@
 ---
+album: Tender Lover
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:2zFqQ0xLiMHOVUuV5zw9Gq
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-no-crime-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/itsnocrime.html
 name: It's No Crime
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 241493
 ---
-
 Calling all cars 
 
 I never thought that
@@ -151,6 +155,3 @@ Oh so do I
 
 
 Why
-
-
-

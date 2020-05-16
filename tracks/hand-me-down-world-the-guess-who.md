@@ -1,8 +1,11 @@
 ---
+album: Share The Land
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:5WOJuP8YyDD7TSeL5miBDt
 features: []
-genres: []
+first_released_as_single: false
 key: hand-me-down-world-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-hand-me-down-world-lyrics
 name: Hand Me Down World
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 206493
 ---
 Anybody here see the noise
 See the fear and commotion?

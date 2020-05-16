@@ -1,8 +1,11 @@
 ---
+album: Don't Hold Back
 artists:
 - Public Announcement
+external_ids:
+  spotify: spotify:track:4ZUuOMlV8T3bNaiEwtoR3L
 features: []
-genres: []
+first_released_as_single: false
 key: mamacita-public-announcement
 lyrics_url: https://www.azlyrics.com/lyrics/publicannouncement/mamacita.html
 name: Mamacita
@@ -39,8 +42,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 2000
+runtime: 226266
 ---
-
 Mamacita
 Where you at?
 Been trying to reach you
@@ -133,6 +137,3 @@ It's gettin' late and
 Got me fiendin'
 Tryna reach ya
 Mamacita
-
-
-

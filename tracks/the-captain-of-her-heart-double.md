@@ -1,7 +1,11 @@
 ---
+album: Blue
 artists:
 - Double
+external_ids:
+  spotify: spotify:track:5EwltLwI9hRLyiTUAjMsQ6
 features: []
+first_released_as_single: false
 genres: []
 key: the-captain-of-her-heart-double
 lyrics_url: https://www.musixmatch.com/lyrics/Double/The-Captain-of-Her-Heart
@@ -79,6 +83,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1985
+runtime: 274616
 ---
 It was way past midnight
 And she still couldn't fall asleep

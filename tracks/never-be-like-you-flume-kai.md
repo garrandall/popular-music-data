@@ -1,9 +1,12 @@
 ---
+album: 'One In A Million: A Future Classic Compilation'
 artists:
 - Flume
+external_ids:
+  spotify: spotify:track:1mUo8IwNYhm4q2489xqk6m
 features:
 - Kai
-genres: []
+first_released_as_single: true
 key: never-be-like-you-flume-kai
 lyrics_url: https://www.azlyrics.com/lyrics/flume/neverbelikeyou.html
 name: Never Be Like You
@@ -112,8 +115,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 234909
 ---
-
 What I would do to take away this fear of being loved
 Allegiance to the pain
 Now I'm fucked up and I'm missing you
@@ -188,6 +192,3 @@ Baby, baby, please believe me
 C'mon, take it easy
 Please don't ever leave me
 Never be like you
-
-
-

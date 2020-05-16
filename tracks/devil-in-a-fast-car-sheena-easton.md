@@ -1,8 +1,11 @@
 ---
+album: Best Kept Secret
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:3PdwVzIIoF2RQyb5QXxwNS
 features: []
-genres: []
+first_released_as_single: false
 key: devil-in-a-fast-car-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/devilinafastcar.html
 name: Devil In A Fast Car
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1983
+runtime: 241920
 ---
-
 I used to think that I was made of stone, I only wanted to be on my own
 It gets so lonely when you're all alone and you just can't take anymore
 
@@ -45,4 +49,3 @@ Just to see what lies in the store
 
 Flyin' east to the risin' sun, for ninety minutes I'll be under the gun
 I'll dream about you while I'm on the run til I just can't dream anymore
-

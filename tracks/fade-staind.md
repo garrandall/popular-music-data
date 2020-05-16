@@ -1,8 +1,11 @@
 ---
+album: Break the Cycle
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:70b6WxS0cjxbQqvdu4Q4Sa
 features: []
-genres: []
+first_released_as_single: false
 key: fade-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/fade.html
 name: Fade
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
+release_year: 2001
+runtime: 242600
 ---
-
 I try to breathe
 Memories overtaking me
 I try to face them but
@@ -133,6 +137,3 @@ But it seems the surface I am scratching
 Is the bed that I have made
 
 I try to breathe...
-
-
-

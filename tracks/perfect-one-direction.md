@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:3DnzEB8Ffnp5sjnCbOugUX
 features: []
-genres: []
+first_released_as_single: true
 key: perfect-one-direction
 lyrics_url: https://genius.com/One-direction-perfect-lyrics
 name: Perfect
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 230333
 ---
 I might never be your knight in shining armor
 I might never be the one you take home to mother

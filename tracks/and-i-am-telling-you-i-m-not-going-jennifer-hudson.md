@@ -1,8 +1,11 @@
 ---
+album: Jennifer Hudson
 artists:
 - Jennifer Hudson
+external_ids:
+  spotify: spotify:track:48YDjCClglRAlqAy1LI5uP
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-am-telling-you-i-m-not-going-jennifer-hudson
 lyrics_url: https://genius.com/Jennifer-hudson-and-i-am-telling-you-im-not-going-lyrics
 name: And I Am Telling You I'm Not Going
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 283893
 ---
 And I am telling you
 I'm not going

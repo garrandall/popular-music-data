@@ -1,8 +1,11 @@
 ---
+album: Who Is Jill Scott? - Words and Sounds, Vol. 1
 artists:
 - Jill Scott
+external_ids:
+  spotify: spotify:track:49aUxrufliNDGj7MTm7pNU
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-jill-scott
 lyrics_url: https://genius.com/Jill-scott-gettin-in-the-way-lyrics
 name: The Way
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2001-11-17'
+release_year: 2000
+runtime: 255733
 ---
 You're getting in the way of what I'm feeling
 You're getting in the way of what I'm feeling

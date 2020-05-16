@@ -1,8 +1,11 @@
 ---
+album: Alone
 artists:
 - Marshmello
+external_ids:
+  spotify: spotify:track:3MEYFivt6bilQ9q9mFWZ4g
 features: []
-genres: []
+first_released_as_single: true
 key: alone-marshmello
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/alone.html
 name: Alone
@@ -51,8 +54,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2016
+runtime: 273802
 ---
-
 I'm so alone
 Nothing feels like home
 I'm so alone
@@ -78,6 +82,3 @@ Trying to find my way back home to you
 
 I'm so alone
 Trying to find my way back home to you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Recycler
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:57JtOe7GSDOWbIB71EOCNj
 features: []
-genres: []
+first_released_as_single: false
 key: doubleback-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/doubleback.html
 name: Doubleback
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1990
+runtime: 236200
 ---
-
 I got shot through a space not long ago,
 I thought I knew the place so well.
 It wasn't the same, now it goes to show,
@@ -84,6 +88,3 @@ Lookin' high and low, don't know where to go,
 I got to double back, my friend.
 The only way to find, what I left behind
 I got to double back again, double back again.
-
-
-

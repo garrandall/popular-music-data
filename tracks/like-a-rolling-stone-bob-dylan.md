@@ -1,8 +1,11 @@
 ---
+album: Highway 61 Revisited
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:4NmAXebgrCnkx8G1NJOATX
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-rolling-stone-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-like-a-rolling-stone-lyrics
 name: Like A Rolling Stone
@@ -55,6 +58,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 103720
 ---
 Once upon a time you dressed so fine
 Threw the bums a dime in your prime, didn't you?

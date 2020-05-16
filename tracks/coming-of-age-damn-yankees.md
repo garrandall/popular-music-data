@@ -1,8 +1,11 @@
 ---
+album: Damn Yankees
 artists:
 - Damn Yankees
+external_ids:
+  spotify: spotify:track:1VMqkvlOqaH0HP0nsj1bx5
 features: []
-genres: []
+first_released_as_single: false
 key: coming-of-age-damn-yankees
 lyrics_url: https://genius.com/Damn-yankees-coming-of-age-lyrics
 name: Coming Of Age
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1990
+runtime: 259839
 ---
 Dressed to kill and lookin' dynamite
 With her high-laced stockings and her sweater so tight

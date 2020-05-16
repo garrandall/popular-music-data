@@ -1,8 +1,11 @@
 ---
+album: Black Reign
 artists:
 - Queen Latifah
+external_ids:
+  spotify: spotify:track:4ZlwcqC7NG6Fb1QJIqsJLn
 features: []
-genres: []
+first_released_as_single: false
 key: weekend-love-queen-latifah
 lyrics_url: https://www.azlyrics.com/lyrics/queenlatifah/weekendlove.html
 name: Weekend Love
@@ -59,9 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1993
+runtime: 249000
 ---
-
-
 Weekend love
 Caught up in a weekend love
 Weekend love
@@ -160,6 +163,3 @@ Weekend love
 Gonna spend a weekend love
 Weekend love
 Just a case of weekend love
-
-
-

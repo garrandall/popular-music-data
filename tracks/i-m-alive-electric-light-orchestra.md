@@ -1,8 +1,11 @@
 ---
+album: Xanadu
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:6jbuhSdZ5l8WDO88xJLt3T
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-alive-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-im-alive-lyrics
 name: I'm Alive
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 226693
 ---
 I'm alive!
 And the world shines for me today

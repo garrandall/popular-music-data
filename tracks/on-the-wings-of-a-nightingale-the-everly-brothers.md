@@ -1,8 +1,11 @@
 ---
+album: EB 84
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:3w1wRiviJPONmrkndazULS
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-wings-of-a-nightingale-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/onthewingsofanightingale.html
 name: On The Wings Of A Nightingale
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1984
+runtime: 154800
 ---
-
 When I love,
 I get a feeling like I'm travelling through the sky.
 On the wings of a nightingale.
@@ -93,6 +97,3 @@ On the wings of a nightingale
 On the wings of a nightingale
 On the wings of a nightingale fly
 On the wings of a nightingale
-
-
-

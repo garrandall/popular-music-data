@@ -1,8 +1,11 @@
 ---
+album: RnB
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:1IXJGD8IUfcPmP98bHFydC
 features: []
-genres: []
+first_released_as_single: false
 key: i-apologize-anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/iapologize.html
 name: I Apologize
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1994
+runtime: 311026
 ---
-
 Operator, get my baby on the line
 'Cause jus the other night we had a horrible fight.
 I admit that I, I was out of control,
@@ -108,6 +112,3 @@ I'm talking to you
 Oh yeah, I was wrong, baby
 Now listen to me right now
 Singing it to you right now
-
-
-

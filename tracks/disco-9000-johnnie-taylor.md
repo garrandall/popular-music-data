@@ -1,8 +1,11 @@
 ---
+album: 'Rated X-Traordinaire: The Best of Johnnie Taylor'
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:360MwBaZ7xdIOMFlft5tCL
 features: []
-genres: []
+first_released_as_single: false
 key: disco-9000-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-disco-9000-lyrics
 name: Disco 9000
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1976
+runtime: 271266
 ---
 LA - here's to you
 For being the kind of place a man can do his due

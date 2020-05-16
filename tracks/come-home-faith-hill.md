@@ -1,8 +1,11 @@
 ---
+album: Come Home
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:7IALMJlkjCSc0brxaQnCbV
 features: []
-genres: []
+first_released_as_single: true
 key: come-home-faith-hill
 lyrics_url: https://genius.com/Faith-hill-come-home-lyrics
 name: Come Home
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 338053
 ---
 Hello world, hope you’re listening
 Forgive me if I’m young

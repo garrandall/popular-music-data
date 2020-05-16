@@ -1,8 +1,11 @@
 ---
+album: Found Love
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:5qeCt0zgEPA6LvLIrWRxbT
 features: []
-genres: []
+first_released_as_single: false
 key: found-love-jimmy-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/foundlove.html
 name: Found Love
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
+release_year: 1960
+runtime: 139862
 ---
-
 I found true love, one worth waitin' for
 I found true love, one worth waitin' for
 I'm gonna sign it to a contract, you won't find one little flaw
@@ -32,6 +36,3 @@ You can't trust nobody and girl, you know it's a sin
 I found true love, one worth me waitin' for
 I found true love, one worth me waitin' for
 And I'll sign it to a contract, you won't find one little flaw
-
-
-

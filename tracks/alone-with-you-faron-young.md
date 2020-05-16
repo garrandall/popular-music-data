@@ -1,8 +1,11 @@
 ---
+album: The Complete Capitol Hits Of Faron Young
 artists:
 - Faron Young
+external_ids:
+  spotify: spotify:track:1sgU6LtIDuTT2bxqdmSbh4
 features: []
-genres: []
+first_released_as_single: false
 key: alone-with-you-faron-young
 lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/alonewithyou.html
 name: Alone With You
@@ -27,8 +30,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 117400
 ---
-
 How I'd love to be around you
 When the lonely night surrounds you
 How I'd love to be alone with you
@@ -67,6 +71,3 @@ Won't you try to be my baby
 Just for once and then well maybe
 I could always be alone with you
 And I could always be alone with you...
-
-
-

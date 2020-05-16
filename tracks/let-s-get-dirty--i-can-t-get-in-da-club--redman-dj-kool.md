@@ -1,9 +1,12 @@
 ---
+album: Malpractice
 artists:
 - Redman
+external_ids:
+  spotify: spotify:track:5BlLqiaTwttKiqzLhBrN1v
 features:
 - DJ Kool
-genres: []
+first_released_as_single: false
 key: let-s-get-dirty--i-can-t-get-in-da-club--redman-dj-kool
 lyrics_url: https://genius.com/Redman-lets-get-dirty-i-cant-get-in-da-club-lyrics
 name: Let's Get Dirty (I Can't Get In Da Club)
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 2001
+runtime: 235533
 ---
 Attention, all you niggas, all you bitches
 Time to put down the Cristal, time to take off the ice for a minute

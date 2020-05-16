@@ -1,8 +1,11 @@
 ---
+album: Live From Texas
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:2JaHGxFJd6R5mwmYTRZS6I
 features: []
-genres: []
+first_released_as_single: false
 key: teacher-teacher-38-special
 lyrics_url: https://genius.com/38-special-teacher-teacher-lyrics
 name: Teacher Teacher
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 195133
 ---
 Just when I thought I finally learned my lesson well
 There was more to this than meets the eye

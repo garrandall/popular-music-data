@@ -1,8 +1,11 @@
 ---
+album: Suzi Quatro
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:0we3Dc7RJzORAX1U4E5sF0
 features: []
-genres: []
+first_released_as_single: false
 key: all-shook-up-suzi-quatro
 lyrics_url: https://www.azlyrics.com/lyrics/suziquatro/allshookup.html
 name: All Shook Up
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1973
+runtime: 230733
 ---
-
 Well, bless my soul. What's wrong with me?
 I'm itchin' like a man on a fuzzy tree
 My friends say I'm acting queer as a bug
@@ -45,6 +49,3 @@ I'm itchin' like a man on a fuzzy tree
 My friends say I'm acting queer as a bug
 I'm in love
 I'm all shook up
-
-
-

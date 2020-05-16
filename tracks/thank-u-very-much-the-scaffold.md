@@ -1,8 +1,11 @@
 ---
+album: Children Classics
 artists:
 - The Scaffold
+external_ids:
+  spotify: spotify:track:6tIEW4jhonURp53h9Qc8wX
 features: []
-genres: []
+first_released_as_single: false
 key: thank-u-very-much-the-scaffold
 lyrics_url: https://genius.com/The-scaffold-thank-u-very-much-lyrics
 name: Thank U Very Much
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 153293
 ---
 Thank you very much for the Aintree Iron, thank you very much, thank
 You

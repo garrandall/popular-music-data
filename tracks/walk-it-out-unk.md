@@ -1,8 +1,11 @@
 ---
+album: Beat'n Down Yo Block
 artists:
 - Unk
+external_ids:
+  spotify: spotify:track:6PBAPjshd2JfEiWpdf3C2a
 features: []
-genres: []
+first_released_as_single: false
 key: walk-it-out-unk
 lyrics_url: https://genius.com/Unk-walk-it-out-lyrics
 name: Walk It Out
@@ -151,6 +154,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2006
+runtime: 173040
 ---
 Ayyyyyyyyyyyy!
 Now walk it out (Now walk it out) now walk it out (Now walk it out)

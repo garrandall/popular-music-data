@@ -1,8 +1,11 @@
 ---
+album: Wow.../Bound To Happen (Reissue)
 artists:
 - William Bell
+external_ids:
+  spotify: spotify:track:3PLKsooF2oGUBdGzblvOlI
 features: []
-genres: []
+first_released_as_single: false
 key: i-forgot-to-be-your-lover-william-bell
 lyrics_url: https://genius.com/William-bell-i-forgot-to-be-your-lover-lyrics
 name: I Forgot To Be Your Lover
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 138960
 ---
 Have I told you lately that I love you?
 Well, if I didn't, darlin', I'm sorry!

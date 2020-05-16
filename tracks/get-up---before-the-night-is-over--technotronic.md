@@ -1,8 +1,11 @@
 ---
+album: Pump Up The Jam
 artists:
 - Technotronic
+external_ids:
+  spotify: spotify:track:2MOOJh1xUgND4rLjB6h4jY
 features: []
-genres: []
+first_released_as_single: false
 key: get-up---before-the-night-is-over--technotronic
 lyrics_url: https://www.azlyrics.com/lyrics/technotronic/getupbeforethenightisover.html
 name: Get Up! (Before The Night Is Over)
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 337093
 ---
-
 Get up on your feet
 Before the night is through for you want miss
 Get down to the beat
@@ -169,6 +173,3 @@ Get up people now get down to it (before the night is over)
 Get up, get up, get busy do it
 I wanna see you party
 Get up people now get down to it (before the night is over)
-
-
-

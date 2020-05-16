@@ -1,8 +1,11 @@
 ---
+album: 'True 2 the Streets: G-Funk Hood Classics'
 artists:
 - MC Eiht
+external_ids:
+  spotify: spotify:track:0WMJXESGo1php2fVgnahdS
 features: []
-genres: []
+first_released_as_single: false
 key: streiht-up-menace-mc-eiht
 lyrics_url: https://genius.com/Mc-eiht-streiht-up-menace-lyrics
 name: Streiht Up Menace
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 277582
 ---
 Wake yo' punk-ass up for the '93 shot
 MC Eiht's in the motherfuckin' house, gyeah

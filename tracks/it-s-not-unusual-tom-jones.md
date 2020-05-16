@@ -1,8 +1,11 @@
 ---
+album: Along Came Tom Jones
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:3TlIt0ReIxPsVZcOEivT5U
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-unusual-tom-jones
 lyrics_url: https://genius.com/Tom-jones-its-not-unusual-lyrics
 name: It's Not Unusual
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 119800
 ---
 It's not unusual to be loved by anyone
 It's not unusual to have fun with anyone

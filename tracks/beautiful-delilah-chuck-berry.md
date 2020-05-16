@@ -1,8 +1,11 @@
 ---
+album: Rock 'N' Roll Rarities
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:7nQ757lcDRUlX4F64yXmEg
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-delilah-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-beautiful-delilah-lyrics
 name: Beautiful Delilah
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 127600
 ---
 Beautiful Delilah, sweet as apple pie
 Always gets a second look from fellas passing by

@@ -1,8 +1,11 @@
 ---
+album: 50th Anniversary | The Singles Collection | 1964-1972
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5t9Iwtpl6DAf1UpYAKpoDB
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-running-away-four-tops
 lyrics_url: https://genius.com/The-four-tops-you-keep-running-away-lyrics
 name: You Keep Running Away
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 168533
 ---
 You keep running away
 You come back to me

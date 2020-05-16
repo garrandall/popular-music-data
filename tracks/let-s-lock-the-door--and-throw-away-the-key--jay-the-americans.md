@@ -1,9 +1,12 @@
 ---
+album: Blockbusters
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:4u3hbJHvz3ROzMi7gLm7x0
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-lock-the-door--and-throw-away-the-key--jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/letslockthedoor.html
 name: Let's Lock The Door (And Throw Away The Key)
@@ -48,8 +51,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1964
+runtime: 149826
 ---
-
 Let's lock the door and throw away the key now
 (Shom dooby-dum dooby-dum-dum)
 I can't wait to kiss you (oh no)
@@ -94,6 +98,3 @@ Let's lock the door and throw away the key now
 (Shom dooby-dum dooby-dum-dum)
 I can't wait to kiss you (oh no)
 One little minute more
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: channel ORANGE
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:7ehvyx8K9ZRbOofjeUyIic
 features: []
-genres: []
+first_released_as_single: true
 key: thinkin-bout-you-frank-ocean
 lyrics_url: https://genius.com/Frank-ocean-thinkin-bout-you-lyrics
 name: Thinkin Bout You
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2012
+runtime: 201106
 ---
 A tornado flew around my room before you came
 Excuse the mess it made, it usually doesn't rain in

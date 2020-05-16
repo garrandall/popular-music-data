@@ -1,7 +1,8 @@
 ---
 artists:
-- Brook Benton With The Dixie Flyers
-features: []
+- Brook Benton
+features:
+- The Dixie Flyers
 genres: []
 key: don-t-it-make-you-want-to-go-home-brook-benton-with-the-dixie-flyers
 name: Don't It Make You Want To Go Home

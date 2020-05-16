@@ -1,8 +1,11 @@
 ---
+album: Realization
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:1bWBu90VwbW7PNrZdDII2j
 features: []
-genres: []
+first_released_as_single: false
 key: look-to-your-soul-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-look-to-your-soul-lyrics
 name: Look To Your Soul
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 191843
 ---
 Hendricks
 

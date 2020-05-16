@@ -1,9 +1,12 @@
 ---
+album: Paradise Valley
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:7IByJvSqRFltGyiiIiL4wn
 features:
 - Katy Perry
-genres: []
+first_released_as_single: false
 key: who-you-love-john-mayer-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/whoyoulove.html
 name: Who You Love
@@ -16,8 +19,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-01-04'
+release_year: 2013
+runtime: 249933
 ---
-
 You love, who you love
 Who you love
 You love, who you love
@@ -76,6 +80,3 @@ Who you love
 Who you love
 Who you love
 You're the one I love
-
-
-

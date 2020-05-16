@@ -1,8 +1,11 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4aX4Oycsk1fhHIee1zqsDe
 features: []
-genres: []
+first_released_as_single: false
 key: how-to-love-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-how-to-love-lyrics
 name: How To Love
@@ -103,6 +106,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 240306
 ---
 Cut the music up
 A little louder

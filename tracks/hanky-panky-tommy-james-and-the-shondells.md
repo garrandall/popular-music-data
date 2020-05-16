@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:3uqEiaO6MUoM89nLSIs05c
 features: []
-genres: []
+first_released_as_single: false
 key: hanky-panky-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/hankypanky.html
 name: Hanky Panky
@@ -55,8 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1966
+runtime: 172400
 ---
-
 My baby does the hanky panky
 Yeah, my baby does the hanky panky
 My baby does the hanky panky
@@ -105,6 +109,3 @@ Let's knock em dead one time, let's go
 Yeah, my baby does the hanky panky
 My baby does the hanky panky
 Yeah, my baby does the hanky panky
-
-
-

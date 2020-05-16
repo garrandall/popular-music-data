@@ -1,8 +1,11 @@
 ---
+album: Mad Love
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:3c0Ys2ie05I4Csansv7Jhi
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-so-bad-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/hurtsobad.html
 name: Hurt So Bad
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1980
+runtime: 196000
 ---
-
 I know you
 Don't know what I'm going through
 Standing here looking at you
@@ -105,6 +109,3 @@ I'm begging you please
 Oh
 No
 Noooooo
-
-
-

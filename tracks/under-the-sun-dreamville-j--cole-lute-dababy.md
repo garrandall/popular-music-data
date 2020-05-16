@@ -1,11 +1,14 @@
 ---
+album: Revenge Of The Dreamers III
 artists:
 - Dreamville
+external_ids:
+  spotify: spotify:track:5WkwnJgiVZ7ZG8Id7hUSbi
 features:
 - J. Cole
 - Lute
 - DaBaby
-genres: []
+first_released_as_single: false
 key: under-the-sun-dreamville-j--cole-lute-dababy
 lyrics_url: https://genius.com/Dreamville-j-cole-and-lute-under-the-sun-lyrics
 name: Under The Sun
@@ -22,6 +25,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2019
+runtime: 202040
 ---
 If you miss me
 And you can't find

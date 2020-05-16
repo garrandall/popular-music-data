@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:7rMDB1bKHO0Sh8oTWWvdsJ
 features: []
-genres: []
+first_released_as_single: false
 key: lover-s-eyes-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/loverseyes.html
 name: Lover's Eyes
@@ -16,6 +19,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2012
+runtime: 321120
 ---
 Well, love was kind for a time
 Now just aches and it makes me blind

@@ -1,8 +1,11 @@
 ---
+album: No Parking on the Dance Floor
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:68ffXcOFU1Qxjo3Wbg5hMB
 features: []
-genres: []
+first_released_as_single: false
 key: no-parking--on-the-dance-floor--midnight-star
 lyrics_url: https://genius.com/Midnight-star-no-parking-on-the-dance-floor-lyrics
 name: No Parking (On The Dance Floor)
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1983
+runtime: 479055
 ---
 Excuse me, madam
 You're standing still in a no parking zone

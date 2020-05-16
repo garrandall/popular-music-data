@@ -1,8 +1,11 @@
 ---
+album: Life Beyond L.A.
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:3GVhCuS4BRxCTvVj4Cmc8w
 features: []
-genres: []
+first_released_as_single: false
 key: how-much-i-feel-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/howmuchifeel.html
 name: How Much I Feel
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 283400
 ---
-
 I don't know how
 This whole business started
 Of you thinkin' that
@@ -174,6 +178,3 @@ How much I live
 I live for your loving
 That's how much
 That's how much
-
-
-

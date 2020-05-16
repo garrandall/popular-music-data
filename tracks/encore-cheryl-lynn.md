@@ -1,8 +1,11 @@
 ---
+album: Preppie
 artists:
 - Cheryl Lynn
+external_ids:
+  spotify: spotify:track:48ifRcXHbUjc1moUjJcwhx
 features: []
-genres: []
+first_released_as_single: false
 key: encore-cheryl-lynn
 lyrics_url: https://www.azlyrics.com/lyrics/cheryllynn/encore.html
 name: Encore
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 319760
 ---
-
 Your love so good deserves an encore
 (Your good love deserves an encore)
 Your love so good deserves an encore
@@ -84,6 +88,3 @@ Makes me want to break it down now
 
 Feels so good, feels so good
 It deserves an encore
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:4ClTOGZc8kcb8l58Vx5z5A
 features: []
-genres: []
+first_released_as_single: false
 key: ghosts-that-we-knew-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/ghoststhatweknew.html
 name: Ghosts That We Knew
@@ -20,8 +23,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2012
+runtime: 339720
 ---
-
 You saw my pain washed out in the rain
 Broken glass, saw the blood run from my veins
 But you saw no fault, no cracks in my heart
@@ -59,6 +63,3 @@ Just promise me we'll be alright
 But we'll live a long life"]
 And the ghosts that we knew will flicker from view
 And we'll live a long life
-
-
-

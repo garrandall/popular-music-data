@@ -1,8 +1,11 @@
 ---
+album: The Meters
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:6yA5SVX720UO6G99jPUoyh
 features: []
-genres: []
+first_released_as_single: false
 key: ease-back-the-meters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Meters/Ease-Back
 name: Ease Back
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 194973
 ---
 Everclear
 Miscellaneous

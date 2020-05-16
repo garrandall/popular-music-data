@@ -1,8 +1,11 @@
 ---
+album: Kickin' It Up
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:7pY4ul6PNtKKHCCQgYVtT7
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-baby-tonight-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/bemybabytonight.html
 name: Be My Baby Tonight
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1994
+runtime: 172200
 ---
-
 I know you've heard that worn out line
 About love at first sight
 Well I never knew those words were true
@@ -95,6 +99,3 @@ So could ya would ya ain't ya gonna if I asked you
 Would ya wanna be my baby tonight
 Could ya would ya ain't ya gonna if I asked you
 Would ya wanna be my baby tonight
-
-
-

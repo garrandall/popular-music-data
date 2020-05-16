@@ -1,8 +1,11 @@
 ---
+album: Jackson 5 - Dell Bundle (100 Track Dell Bundle)
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3WQsMF6KkGKSkFlnDoWgnm
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-supposed-to-keep-your-love-for-me-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-youre-supposed-to-keep-your-love-for-me-lyrics
 name: You're Supposed To Keep Your Love For Me
@@ -59,6 +62,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 229360
 ---
 What are you doing out there baby
 Messin' 'round with all the guys

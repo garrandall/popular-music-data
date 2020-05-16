@@ -1,8 +1,11 @@
 ---
+album: Some Things
 artists:
 - Lasgo
+external_ids:
+  spotify: spotify:track:6hVdYM1RKjPIYv17KJ6Cll
 features: []
-genres: []
+first_released_as_single: false
 key: alone-lasgo
 lyrics_url: https://www.azlyrics.com/lyrics/lasgo/alone.html
 name: Alone
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2001
+runtime: 241040
 ---
-
 If only I had one more chance
 to change my life today
 Then I would never let you go
@@ -87,6 +91,3 @@ I close my eyes but I can't stop
 Thinking of you
 And now I stand here alone in the dark
 Without you
-
-
-

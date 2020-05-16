@@ -1,8 +1,11 @@
 ---
+album: Black Diamond
 artists:
 - Angie Stone
+external_ids:
+  spotify: spotify:track:6mZI2vbLv1UvlclwDQ4uvc
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-rain--in-this-cloud--angie-stone
 lyrics_url: https://www.azlyrics.com/lyrics/angiestone/nomoreraininthiscloud.html
 name: No More Rain (In This Cloud)
@@ -75,9 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 283701
 ---
-
-
 No more rain in this cloud
 No more rain in this cloud
 
@@ -156,6 +159,3 @@ Things you do, come back to you
 Y'all believe that?
 Goes around, comes around
 What goes up, must come down
-
-
-

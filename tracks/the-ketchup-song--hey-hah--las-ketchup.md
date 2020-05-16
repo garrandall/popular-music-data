@@ -1,8 +1,11 @@
 ---
+album: Hijas del Tomate
 artists:
 - Las Ketchup
+external_ids:
+  spotify: spotify:track:6UEfyhyfhYQsyipxOd95Ie
 features: []
-genres: []
+first_released_as_single: false
 key: the-ketchup-song--hey-hah--las-ketchup
 lyrics_url: https://genius.com/Las-ketchup-the-ketchup-song-asereje-spanglish-version-lyrics
 name: The Ketchup Song (Hey Hah)
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
+release_year: 2002
+runtime: 213973
 ---
 Friday night, it's party time
 Feelin' ready, lookin' fine

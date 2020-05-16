@@ -1,8 +1,11 @@
 ---
+album: Back In The High Life
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:1Bj6YgjjPbEb4jhQ50T8tJ
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-the-high-life-again-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/backinthehighlifeagain.html
 name: Back In The High Life Again
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1986
+runtime: 335840
 ---
-
 It used to seem to me
 That my life ran on too fast
 And I had to take it slowly
@@ -138,6 +142,3 @@ And we'll drink and dance with one hand free
 And have the world so easily
 And oh we'll be a sight to see
 Back in the high life again
-
-
-

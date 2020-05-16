@@ -1,8 +1,11 @@
 ---
+album: A Million Dreams
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:0oagwWkGlBoACUuKvTmqZV
 features: []
-genres: []
+first_released_as_single: true
 key: a-million-dreams-p-nk
 lyrics_url: https://genius.com/P-nk-a-million-dreams-lyrics
 name: A Million Dreams
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 273640
 ---
 I close my eyes and I can see
 A world that's waiting up for me that I call my own

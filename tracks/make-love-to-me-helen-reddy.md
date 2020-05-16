@@ -1,8 +1,11 @@
 ---
+album: Reddy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:2jkZfZ93ZEipzJoY0SfPFS
 features: []
-genres: []
+first_released_as_single: false
 key: make-love-to-me-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/makelovetome.html
 name: Make Love To Me
@@ -47,8 +50,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 229826
 ---
-
 Won't you make love to me
 Let it be, set me free
 You and me so tenderly
@@ -99,6 +103,3 @@ Won't you make love to me
 Let it be, set me free
 You and me so tenderly
 Make love to me
-
-
-

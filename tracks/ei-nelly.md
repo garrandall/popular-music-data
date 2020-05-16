@@ -149,10 +149,10 @@ Ayo, I smash-mouth a whole ounce, of that sticky
 Wash my hands under a gold spout, when feelin' icky. Let
 Go off in a ho's mouth, I ain't picky
 Start frontin' when the shows out, whatchu mean?!
-Twenty inches when they roll ouuuuuuut, come and get me
-Big faces when they fold ouuuuuuut, is you wit me?
-Don't make me pull that fo'-fo' ouuuuuuut
-I keep it closer when the dough ouuuuuuut, then I
+Twenty inches when they roll out, come and get me
+Big faces when they fold out, is you wit me?
+Don't make me pull that fo'-fo' out
+I keep it closer when the dough out, then I
 Slide up in the Escalade, me and E gettin' solid like the Ice Capades And me and Heezy, Frosty, Roger the Rabbit and Bugsy
 You understand me, wrapped wrists like mummies. If
 You compare me to your local grocery, then

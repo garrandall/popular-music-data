@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: My Prerogative'
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:01ACsk2knUnsfWeZp63nqa
 features: []
-genres: []
+first_released_as_single: false
 key: do-somethin--britney-spears
 lyrics_url: https://genius.com/Britney-spears-do-somethin-lyrics
 name: Do Somethin'
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 2004
+runtime: 204493
 ---
 Do you feel this?
 I know you feel this

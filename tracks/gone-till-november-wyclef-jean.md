@@ -1,8 +1,11 @@
 ---
+album: Wyclef Jean presents The Carnival featuring Refugee Allstars
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:6Gd123r71KDdpH8JRdYvrh
 features: []
-genres: []
+first_released_as_single: false
 key: gone-till-november-wyclef-jean
 lyrics_url: https://genius.com/Wyclef-jean-gone-till-november-lyrics
 name: Gone Till November
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-06-20'
+release_year: 1997
+runtime: 207626
 ---
 I dedicate this record, The Carnival, to all you brothers takin' long trips down south, Virginia, Baltimore, all around the world, and your girl gets this message that you ain't comin' back. She's sittin' back in the room, the lights are off, she's cryin', and then my voice comes in, POW!, in the middle of the night, and this is what I told her for you
 

@@ -1,9 +1,12 @@
 ---
+album: The Best Of Westside Connection
 artists:
 - Westside Connection
+external_ids:
+  spotify: spotify:track:3UvpMz4mNB6SEKCdaBT6qO
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: gangsta-nation-westside-connection-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/westsideconnection/gangstanation.html
 name: Gangsta Nation
@@ -80,9 +83,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2003
+runtime: 270240
 ---
-
-
 Consider this an invitation to my gangsta nation
 
 
@@ -141,9 +144,9 @@ That's how you get these nuts parked in you mouth
 Westside ride bitch, the same old shit
 I don't conversate with pussy I ain't gon' get
 I don't holler at these hoes that sing like Ashante
-Body like BeyoncÃ©, face like Andre (uh)
-Bitch you kinda strangÃ©
-But I'm rich so my entrÃ©
+Body like Beyoncé, face like Andre (uh)
+Bitch you kinda strangé
+But I'm rich so my entré
 Got to be bomb grade
 
 
@@ -216,6 +219,3 @@ Na na na na na na na na
 Na na na na na na na na
 Bitch you know the side
 We're world-motherfucking-wide
-
-
-

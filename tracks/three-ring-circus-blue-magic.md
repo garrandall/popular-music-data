@@ -1,8 +1,11 @@
 ---
+album: Blue Magic Live In Concert
 artists:
 - Blue Magic
+external_ids:
+  spotify: spotify:track:3AT3D2atbyVbJiQNrJtDlo
 features: []
-genres: []
+first_released_as_single: false
 key: three-ring-circus-blue-magic
 lyrics_url: https://genius.com/Blue-magic-three-ring-circus-lyrics
 name: Three Ring Circus
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 318373
 ---
 The whistle blows as he makes his rounds
 He's seen every town west of Mississippi

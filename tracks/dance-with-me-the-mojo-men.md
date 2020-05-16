@@ -1,8 +1,11 @@
 ---
+album: San Francisco Roots
 artists:
 - The Mojo Men
+external_ids:
+  spotify: spotify:track:5WQZJeEGbFddlcrnPRcjmh
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-me-the-mojo-men
 lyrics_url: https://genius.com/The-mojo-men-dance-with-me-lyrics
 name: Dance With Me
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 147727
 ---
 Dance with me
 Hold my hand

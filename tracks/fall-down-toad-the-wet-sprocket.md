@@ -1,8 +1,11 @@
 ---
+album: Dulcinea
 artists:
 - Toad The Wet Sprocket
+external_ids:
+  spotify: spotify:track:6ax1MOtpjpYt0itcxa5Ddz
 features: []
-genres: []
+first_released_as_single: false
 key: fall-down-toad-the-wet-sprocket
 lyrics_url: https://genius.com/Toad-the-wet-sprocket-fall-down-lyrics
 name: Fall Down
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
+release_year: 1991
+runtime: 202253
 ---
 She said, "I'm fine, I'm OK," cover up your trembling hands
 There's indecision when you know you ain't got nothing left

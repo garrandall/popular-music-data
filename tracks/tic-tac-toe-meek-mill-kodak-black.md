@@ -1,9 +1,12 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0v9zuREQk0dXreqDX88VkX
 features:
 - Kodak Black
-genres: []
+first_released_as_single: false
 key: tic-tac-toe-meek-mill-kodak-black
 lyrics_url: https://genius.com/Meek-mill-tic-tac-toe-lyrics
 name: Tic Tac Toe
@@ -12,6 +15,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 185261
 ---
 Tay Keith, fuck these niggas up
 It's a Kodak moment, got Kodak in this bitch

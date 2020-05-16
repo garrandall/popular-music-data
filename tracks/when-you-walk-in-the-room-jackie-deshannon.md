@@ -1,8 +1,11 @@
 ---
+album: Breakin' It Up On The Beatles Tour!
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:0sEo7YlOWZ1gCxNO6Smo2H
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-walk-in-the-room-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-when-you-walk-in-the-room-lyrics
 name: When You Walk In The Room
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1964
+runtime: 159186
 ---
 I could feel a new expression on my face
 I could feel a glowin' sensation takin' place

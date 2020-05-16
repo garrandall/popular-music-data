@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:4UKCKdYiLN6IMA5ZESUTL7
 features: []
-genres: []
+first_released_as_single: false
 key: the-remedy-for-a-broken-heart--why-am-i-so-in-love--xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/theremedyforabrokenheartwhyamisoinlove.html
 name: The Remedy For A Broken Heart (Why Am I So In Love)
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 160184
 ---
-
 Why am I so in love?
 Why am I so in love?
 Why am I so in love?
@@ -86,6 +90,3 @@ Why am I so in love?
 Why am I so in love?
 Why am I so in love?
 I don't know why
-
-
-

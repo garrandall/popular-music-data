@@ -1,8 +1,11 @@
 ---
+album: Smoke + Mirrors
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:2Xaw1RrXP3mdooKWysuRJ8
 features: []
-genres: []
+first_released_as_single: false
 key: monster-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/monster.html
 name: Monster
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 249493
 ---
-
 Ever since I could remember
 Everything inside of me
 Just wanted to fit in (oh oh oh oh)
@@ -63,6 +67,3 @@ A monster, a monster
 I've turned into a monster
 A monster, a monster
 And it keeps getting stronger
-
-
-

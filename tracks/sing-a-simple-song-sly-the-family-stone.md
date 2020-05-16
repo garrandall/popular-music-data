@@ -1,9 +1,12 @@
 ---
+album: 'Sly & The Family Stone: The Woodstock Experience'
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:3AAFGUaiulxxR3lZxS8ZjH
 features: []
-genres: []
+first_released_as_single: false
 key: sing-a-simple-song-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/singasimplesong.html
 name: Sing A Simple Song
@@ -24,9 +27,10 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 313706
 ---
-
- Sing a simple song
+Sing a simple song
 
  I'm talkin' talkin' talkin' talkin' talkin' in my sleep
  I'm walkin' walkin' walkin' walkin' walkin' in the street
@@ -53,4 +57,3 @@ Let me hear you say
  I'm livin' lovin' know about lovin'
 
  Everybody sing together
-

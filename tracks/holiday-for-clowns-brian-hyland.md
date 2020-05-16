@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:533HNhwB09dgjuYrPU51cW
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-for-clowns-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-holiday-for-clowns-lyrics
 name: Holiday For Clowns
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 155000
 ---
 There should be a holiday for clowns
 There should be a big parade downtown

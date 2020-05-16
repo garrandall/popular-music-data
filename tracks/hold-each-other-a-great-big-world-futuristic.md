@@ -1,9 +1,12 @@
 ---
+album: When the Morning Comes
 artists:
 - A Great Big World
+external_ids:
+  spotify: spotify:track:1qHiDbTJI7GB62W3BBFigx
 features:
 - FUTURISTIC
-genres: []
+first_released_as_single: false
 key: hold-each-other-a-great-big-world-futuristic
 lyrics_url: https://genius.com/A-great-big-world-hold-each-other-lyrics
 name: Hold Each Other
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 216040
 ---
 I miss the words we used to say
 I miss the sounds of yesterday

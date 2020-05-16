@@ -1,8 +1,11 @@
 ---
+album: Smoke & Mirrors
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:7AsqUKKbPMxOFNIbRLBxHt
 features: []
-genres: []
+first_released_as_single: false
 key: halfway-gone-lifehouse
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/halfwaygone.html
 name: Halfway Gone
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 195306
 ---
-
 You were always hard to hold
 So letting go ain't easy
 I'm hanging on but growing cold
@@ -134,6 +138,3 @@ Cause you're halfway in, but don't take too long
 Cause I'm halfway gone, I'm halfway gone
 Cause I'm halfway gone, and I'm halfway gone
 Cause I'm halfway gone, yeah I'm halfway gone
-
-
-

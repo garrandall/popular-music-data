@@ -1,8 +1,11 @@
 ---
+album: Mark-Almond II
 artists:
 - Mark-Almond
+external_ids:
+  spotify: spotify:track:0XM4RoGvkXF4HEnt5Je6UK
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-sunday-mark-almond
 lyrics_url: https://genius.com/Mark-almond-one-way-sunday-lyrics
 name: One Way Sunday
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 334666
 ---
 Here in the morning light I stand
 With a suitcase and a guitar in my hand

@@ -1,8 +1,11 @@
 ---
+album: 'Please: Further Listening 1984 - 1986'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:3SZhwgn2fYVmpBuzi4NIyM
 features: []
-genres: []
+first_released_as_single: false
 key: suburbia-pet-shop-boys
 lyrics_url: https://genius.com/Pet-shop-boys-suburbia-lyrics
 name: Suburbia
@@ -47,6 +50,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 307466
 ---
 Lost in the high street, where the dogs run
 Roaming suburban boys

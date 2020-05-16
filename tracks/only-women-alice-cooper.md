@@ -1,8 +1,11 @@
 ---
+album: Welcome To My Nightmare
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:59xDvLlKHcLI0c9CSmzxSN
 features: []
-genres: []
+first_released_as_single: false
 key: only-women-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-only-women-bleed-lyrics
 name: Only Women
@@ -71,6 +74,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1975
+runtime: 210933
 ---
 Man got his woman to take his seed
 He got the power, oh

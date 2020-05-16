@@ -1,8 +1,11 @@
 ---
+album: Woman to Woman
 artists:
 - Shirley Brown
+external_ids:
+  spotify: spotify:track:4vrOAcjaNkGkV2ZswUZHC1
 features: []
-genres: []
+first_released_as_single: false
 key: woman-to-woman-shirley-brown
 lyrics_url: https://genius.com/Shirley-brown-woman-to-woman-lyrics
 name: Woman To Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 238000
 ---
 Hello, may I speak to Barbara
 Barbara, this is Shirley

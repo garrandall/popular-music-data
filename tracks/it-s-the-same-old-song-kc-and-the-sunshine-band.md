@@ -1,8 +1,11 @@
 ---
+album: Who Do Ya (Love)
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:7Ms3j1cnuqoZKeAKKSaolz
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-same-old-song-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/itsthesameoldsong.html
 name: It's The Same Old Song
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1978
+runtime: 268080
 ---
-
 You're sweet as a honey bee
 But like a honey bee stings
 You've gone and left my heart in pain
@@ -102,6 +106,3 @@ Since you been gone
 It's the same old song
 But with a different meaning
 Since you been gone
-
-
-

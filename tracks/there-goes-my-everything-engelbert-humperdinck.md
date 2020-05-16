@@ -1,8 +1,11 @@
 ---
+album: Live In Concert / All of Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:2aX2TqMr3dcACn2sBwAS2d
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-everything-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/theregoesmyeverything.html
 name: There Goes My Everything
@@ -35,8 +38,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 167066
 ---
-
 There goes my only possession
 There goes my everything
 
@@ -61,6 +65,3 @@ There goes my only possession
 There goes my everything
 There goes my only possession
 There goes my everything
-
-
-

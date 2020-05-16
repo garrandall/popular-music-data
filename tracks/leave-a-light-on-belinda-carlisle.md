@@ -1,8 +1,11 @@
 ---
+album: Runaway Horses
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:6XEoRP3ligos6GnuCkxBkj
 features: []
-genres: []
+first_released_as_single: false
 key: leave-a-light-on-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/leavealighton.html
 name: Leave A Light On
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 277293
 ---
-
 Take my hand
 Tell me what you are feeling
 Understand
@@ -112,6 +116,3 @@ That would be the one regret of my life
 
 Just like a spark lights up the dark
 Baby that's your heart
-
-
-

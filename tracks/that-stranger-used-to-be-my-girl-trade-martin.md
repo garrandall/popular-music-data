@@ -1,8 +1,11 @@
 ---
+album: The Best of COED Records, Vol. 1
 artists:
 - Trade Martin
+external_ids:
+  spotify: spotify:track:5xzl2OQovqmO7mwikm5AP2
 features: []
-genres: []
+first_released_as_single: false
 key: that-stranger-used-to-be-my-girl-trade-martin
 lyrics_url: https://www.musixmatch.com/lyrics/Trade-Martin/That-Stranger-Used-to-Be-My-Girl
 name: That Stranger Used To Be My Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 169733
 ---
 I look at her
 And my heart says run to her, run fast

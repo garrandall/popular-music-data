@@ -1,8 +1,11 @@
 ---
+album: Read My Lips
 artists:
 - Jimmy Somerville
+external_ids:
+  spotify: spotify:track:7zrNVkp55pOrjMNkbLQECJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-feel--mighty-real--jimmy-somerville
 lyrics_url: https://genius.com/Jimmy-somerville-you-make-me-feel-mighty-real-lyrics
 name: You Make Me Feel (Mighty Real)
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 309973
 ---
 When we're up and dancing on the floor, darling
 And I feel like I need some more

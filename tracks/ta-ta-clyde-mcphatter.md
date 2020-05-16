@@ -1,8 +1,11 @@
 ---
+album: Lover Please/The Complete MGM & Mercury Singles
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:6QSeYjBe7JxgRzGqzHi3b6
 features: []
-genres: []
+first_released_as_single: false
 key: ta-ta-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-ta-ta-lyrics
 name: Ta Ta
@@ -63,6 +66,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 136200
 ---
 When I hold my baby tight
 With all my might

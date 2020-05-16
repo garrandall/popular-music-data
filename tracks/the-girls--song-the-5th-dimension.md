@@ -1,8 +1,11 @@
 ---
+album: Magic Garden
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:6ANvtPRAfFifhp1vQqVPha
 features: []
-genres: []
+first_released_as_single: false
 key: the-girls--song-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/thegirlssong.html
 name: The Girls' Song
@@ -39,8 +42,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 223333
 ---
-
 I'd like, to make, a long distance call
 To a number West L.A.
 I've been trying to reach it all day
@@ -80,6 +84,3 @@ I'll make it up to him
 If he hasn't changed his number
 (If he hasn't changed his number)
 If he hasn't changed his mind
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hot Pants
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4Sg9fbJQtEwPLgmsXOWhZi
 features: []
-genres: []
+first_released_as_single: false
 key: hot-pants--she-got-to-use-what-she-got-to-get-what-she-wants---pt-1--james-brown
 lyrics_url: https://genius.com/James-brown-hot-pants-lyrics
 name: Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt 1)
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1971
+runtime: 522559
 ---
 One-two one-two-three uh!
 Hot pants- hey hot pants uh! Smoking

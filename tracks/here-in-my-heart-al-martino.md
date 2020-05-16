@@ -1,8 +1,11 @@
 ---
+album: 20 Love Songs
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:0mRAY4VhmgEsBvLEFxB6Vm
 features: []
-genres: []
+first_released_as_single: false
 key: here-in-my-heart-al-martino
 lyrics_url: https://genius.com/Al-martino-here-in-my-heart-lyrics
 name: Here In My Heart
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 193373
 ---
 Here in my heart I'm alone, I'm so lonely
 Here in my heart I just yearn for you only

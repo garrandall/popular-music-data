@@ -1,8 +1,11 @@
 ---
+album: Wanna Be A Star
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:5K2MHXsiPXxL4Y2sItKyR6
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/ibelieve.html
 name: I Believe
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 239133
 ---
-
 I was lost in time
 Feelin' like the victim of a perfect crime
 Until that night I met you
@@ -99,6 +103,3 @@ Oh, can't you see?
 I believe in you and me
 Oh, can't you see?
 I believe in you and me
-
-
-

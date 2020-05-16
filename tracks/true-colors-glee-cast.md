@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7mSADMHSbGcgeYIcF26dPZ
 features: []
-genres: []
+first_released_as_single: false
 key: true-colors-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/truecolors.html
 name: True Colors
@@ -11,8 +14,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 214000
 ---
-
 You with the sad eyes
 Don't be discouraged
 Oh I realize
@@ -70,6 +74,3 @@ So don't be afraid to let them show
 Your true colors
 True colors
 True colors are beautiful like a rainbow
-
-
-

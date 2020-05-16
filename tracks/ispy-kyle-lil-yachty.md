@@ -1,9 +1,12 @@
 ---
+album: Light of Mine
 artists:
 - KYLE
+external_ids:
+  spotify: spotify:track:2EEeOnHehOozLq4aS0n6SL
 features:
 - Lil Yachty
-genres: []
+first_released_as_single: true
 key: ispy-kyle-lil-yachty
 lyrics_url: https://www.azlyrics.com/lyrics/kyle/ispy.html
 name: iSpy
@@ -128,9 +131,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2016
+runtime: 253106
 ---
-
-
 Man fuck...
 What's wrong Kyle?
 Man, these... kids, man, talkin' shit, makin' me feel bad

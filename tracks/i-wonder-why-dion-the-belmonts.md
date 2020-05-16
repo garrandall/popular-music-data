@@ -1,9 +1,12 @@
 ---
+album: Presenting Dion And The Belmonts
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:7vAw4LLIms6X8ZHcbtoazz
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-why-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-i-wonder-why-lyrics
 name: I Wonder Why
@@ -16,6 +19,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 141386
 ---
 (Dun dun dun dun dun dun dun dun dun dun dun dun dun d-d-duh-duh-duh)
  know why I do

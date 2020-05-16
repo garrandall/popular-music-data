@@ -1,8 +1,11 @@
 ---
+album: Jody Watley
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:26jC8SFZobz3bsUc32bxV8
 features: []
-genres: []
+first_released_as_single: false
 key: most-of-all-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/mostofall.html
 name: Most Of All
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1987
+runtime: 268640
 ---
-
 You made a promise
 That you'd never desert me
 So where are you now
@@ -99,6 +103,3 @@ When I needed you most of all
 No one wins when love takes a fall
 How could you let me down
 I needed you most of all
-
-
-

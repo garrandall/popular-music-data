@@ -1,8 +1,11 @@
 ---
+album: This Is Your Night
 artists:
 - Amber
+external_ids:
+  spotify: spotify:track:6atodngcu0uc9uHkP1mdKS
 features: []
-genres: []
+first_released_as_single: false
 key: colour-of-love-amber
 lyrics_url: https://genius.com/Amber-colour-of-love-lyrics
 name: Colour Of Love
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 212693
 ---
 Whoa, Whoa
 Whoa, Whoa
@@ -91,4 +96,3 @@ Whoa, Whoa
 I can't do without you
 A love so true
 Whoa, Whoa
-

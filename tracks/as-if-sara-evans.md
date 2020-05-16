@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:5ZikjYD4kjkwYRhLO8azoD
 features: []
-genres: []
+first_released_as_single: false
 key: as-if-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/asif.html
 name: As If
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2007
+runtime: 210626
 ---
-
 Oh yeah
 
 I love the way you wear those worn out blue jeans
@@ -109,6 +113,3 @@ Oh yeah
 Oh I'm actin' as if
 (As if, as if, as if)
 (As if, as if, as if)
-
-
-

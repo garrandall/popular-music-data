@@ -1,8 +1,11 @@
 ---
+album: Brass Construction II
 artists:
 - Brass Construction
+external_ids:
+  spotify: spotify:track:4kBFrPP6brcgNEsSruP9cz
 features: []
-genres: []
+first_released_as_single: false
 key: ha-cha-cha--funktion--brass-construction
 name: Ha Cha Cha (funktion)
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1976
+runtime: 352546
 ---
 

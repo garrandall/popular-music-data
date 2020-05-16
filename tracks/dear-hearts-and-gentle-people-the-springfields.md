@@ -1,8 +1,11 @@
 ---
+album: The Early Years Pop Hits Vol. 1
 artists:
 - The Springfields
+external_ids:
+  spotify: spotify:track:2Q7HyvRr2lkoDcyD0rBrwz
 features: []
-genres: []
+first_released_as_single: false
 key: dear-hearts-and-gentle-people-the-springfields
 lyrics_url: https://www.musixmatch.com/lyrics/The-Springfields/Dear-Hearts-and-Gentle-People
 name: Dear Hearts And Gentle People
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 184386
 ---
 I love the dear heart, and gentle people
 Who live in my home town.

@@ -1,8 +1,11 @@
 ---
+album: In The Night-Time
 artists:
 - Michael Henderson
+external_ids:
+  spotify: spotify:track:6JjERCOeWhnecHC46jiyV8
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-i-m-yours-michael-henderson
 lyrics_url: https://genius.com/Michael-henderson-take-me-im-yours-lyrics
 name: Take Me I'm Yours
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 262213
 ---
 I got excited when I first heard that you
 Wanted to meet me

@@ -1,8 +1,11 @@
 ---
+album: Carnival Ride
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:44xWtabQzBHKXxD0UVLSNQ
 features: []
-genres: []
+first_released_as_single: false
 key: last-name-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/lastname.html
 name: Last Name
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2007
+runtime: 241053
 ---
-
 Last night I got served a little bit too much of that poison, baby
 Last night I did things I'm not proud of
 And I got a little crazy
@@ -141,6 +145,3 @@ And I don't even know my last name
 It started off "Hey, cutie, where you from?"
 And then it turned into, "Oh, no! What have I done?"
 And I don't even know my last name
-
-
-

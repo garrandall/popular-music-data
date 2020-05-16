@@ -1,8 +1,11 @@
 ---
+album: Save Me, San Francisco
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:7gA5OQWsvAY7HhazroFuwI
 features: []
-genres: []
+first_released_as_single: false
 key: save-me-san-francisco-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/savemesanfrancisco.html
 name: Save Me San Francisco
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2010
+runtime: 249426
 ---
-
 I used to love the Tenderloin
 Till I made some tender coin
 Then I met some ladies from Marin
@@ -119,6 +123,3 @@ Oo oo oo...oh oh
 Won't you save me San Francisco
 Oo oo oo...oh oh
 Won't you save me San Francisco
-
-
-

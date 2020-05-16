@@ -1,8 +1,11 @@
 ---
+album: Red Roses For A Blue Lady
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:7f3lRc8FIp0KWdi4rGT04k
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-with-you-in-apple-blossom-time-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-ill-be-with-you-in-apple-blossom-time-lyrics
 name: I'll Be With You In Apple Blossom Time
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 148640
 ---
 I'll be with you in apple blossom time
 I'll be with you to change your name to mine

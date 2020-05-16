@@ -1,8 +1,11 @@
 ---
+album: Have a Drink on Me (Live)
 artists:
 - Kenny Ball and his Jazzmen
+external_ids:
+  spotify: spotify:track:1Fr9lN5agksbmJYi0qlWmG
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-in-moscow-kenny-ball-and-his-jazzmen
 name: Midnight In Moscow
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 242533
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Sunset Hours - Marini's on 57
 artists:
 - Razzy
+external_ids:
+  spotify: spotify:track:1agdlfvoBHKUTYQ6rNKoMp
 features: []
-genres: []
+first_released_as_single: false
 key: i-hate-hate-razzy
 lyrics_url: https://genius.com/Razzy-bailey-i-hate-hate-lyrics
 name: I Hate Hate
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1974
+runtime: 416583
 ---
 Here's a song I want
 Everybody to listen to

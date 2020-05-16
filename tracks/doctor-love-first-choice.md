@@ -1,8 +1,11 @@
 ---
+album: Delusions (Bonus Version)
 artists:
 - First Choice
+external_ids:
+  spotify: spotify:track:0zewaxyhaiad2J2V8X12GL
 features: []
-genres: []
+first_released_as_single: false
 key: doctor-love-first-choice
 lyrics_url: https://genius.com/First-choice-doctor-love-lyrics
 name: Doctor Love
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 457746
 ---
 He's got the potion and the motion
 When I'm feeling low

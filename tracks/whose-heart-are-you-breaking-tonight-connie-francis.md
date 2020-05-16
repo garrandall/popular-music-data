@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:6wXVUSh5lxvulIR1sSWaEz
 features: []
-genres: []
+first_released_as_single: false
 key: whose-heart-are-you-breaking-tonight-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/whoseheartareyoubreakingtonight.html
 name: Whose Heart Are You Breaking Tonight
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 143613
 ---
-
 Whose heart are you breaking tonight
 Who's kissing and holding you tight
 Who's looking in your eyes
@@ -55,6 +59,3 @@ Who's playing the fool for you now
 While sleeping or waking
 While my heart is aching
 Whose heart are you breaking tonight
-
-
-

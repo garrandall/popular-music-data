@@ -1,8 +1,11 @@
 ---
+album: Oracular Spectacular
 artists:
 - MGMT
+external_ids:
+  spotify: spotify:track:4IrmWy6NFy5kpZC01rWcRx
 features: []
-genres: []
+first_released_as_single: true
 key: kids-mgmt
 lyrics_url: https://www.azlyrics.com/lyrics/mgmt/kids.html
 name: Kids
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2005
+runtime: 331306
 ---
-
 You were a child
 Crawling on your knees toward it
 Making momma so proud
@@ -81,6 +85,3 @@ To be haunted
 Control yourself
 Take only what you need from it
 A family of trees
-
-
-

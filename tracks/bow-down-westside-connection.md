@@ -1,8 +1,11 @@
 ---
+album: Bow Down
 artists:
 - Westside Connection
+external_ids:
+  spotify: spotify:track:2Vpj5colB0MPy3Zg5SITEC
 features: []
-genres: []
+first_released_as_single: false
 key: bow-down-westside-connection
 lyrics_url: https://www.azlyrics.com/lyrics/westsideconnection/bowdown.html
 name: Bow Down
@@ -87,9 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 206826
 ---
-
-
 Tha world is mine nigga get back
 Dont fuck with my stack the gage is racked
 About to drop the bomb Iam tha motherfuckin don
@@ -171,6 +174,3 @@ Could kiss my converse like sh'o nuff...
 (you aint gotta clown)
 (But if you livin on tha WEST SIDE of yo town)
 (Make them other fool's BOW DOWN)
-
-
-

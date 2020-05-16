@@ -1,8 +1,11 @@
 ---
+album: A Few Questions
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:5aiToW71TQJlX0xQKNCnmw
 features: []
-genres: []
+first_released_as_single: false
 key: a-few-questions-clay-walker
 lyrics_url: https://www.azlyrics.com/lyrics/claywalker/afewquestions.html
 name: A Few Questions
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 227666
 ---
-
 How in this world can we put a man on the moon
 And still have a need for a place like St. Jude's
 And why is one man born in a place where all they know is war
@@ -89,6 +93,3 @@ Why do I feel like you're hearing these prayers of mine
 When so many outta be ahead of me in line
 When you look down on me, can you see the good through all the bad
 These are just a few questions I have
-
-
-

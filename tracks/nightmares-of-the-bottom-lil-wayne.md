@@ -1,8 +1,11 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:37sImz0wkOcX1cMWzo080d
 features: []
-genres: []
+first_released_as_single: false
 key: nightmares-of-the-bottom-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/nightmaresofthebottom.html
 name: Nightmares Of The Bottom
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 281080
 ---
-
 Sleepin' at the top, nightmares of the bottom
 Everybody wanna be fly til you swat 'em
 But who am I to talk? I ain't shittin' roses
@@ -89,6 +93,3 @@ I'm tryna keep spirit when the ghost disappear
 Weezy F baby and the F ain't for fear
 
 (Uh)
-
-
-

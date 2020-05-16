@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6wn61Fzx9XMxQmieLpoIhW
 features: []
-genres: []
+first_released_as_single: false
 key: white-horse-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-white-horse-lyrics
 name: White Horse
@@ -95,6 +98,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2008
+runtime: 234426
 ---
 Say you're sorry, that face of an angel
 Comes out just when you need it to

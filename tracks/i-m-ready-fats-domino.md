@@ -1,8 +1,11 @@
 ---
+album: Fats Is Back
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:3QBByMrU9qkSVXEnf2p5Yf
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-ready-fats-domino
 lyrics_url: https://genius.com/Fats-domino-im-ready-lyrics
 name: I'm Ready
@@ -51,6 +54,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1959
+runtime: 155040
 ---
 Well, I'm ready, I'm willing
 And I'm able to rock and roll all night

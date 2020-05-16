@@ -1,8 +1,11 @@
 ---
+album: 'Late Night Tales: Music For Pleasure'
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:1mcQF2Oq45J4RaqvhvZps7
 features: []
-genres: []
+first_released_as_single: false
 key: the-guitar-man-bread
 lyrics_url: https://genius.com/Bread-the-guitar-man-lyrics
 name: The Guitar Man
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1972
+runtime: 225053
 ---
 Who draws the crowd
 And plays so loud

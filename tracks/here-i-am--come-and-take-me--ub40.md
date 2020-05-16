@@ -1,8 +1,11 @@
 ---
+album: UB44
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:6TkO2w1j2XXwy30Mwklzcd
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-am--come-and-take-me--ub40
 lyrics_url: https://www.azlyrics.com/lyrics/ub40/hereiamcomeandtakeme.html
 name: Here I Am (Come And Take Me)
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1982
+runtime: 234493
 ---
-
 I can't believe that it's real
 The way that you make me feel
 A burning deep down inside
@@ -134,8 +138,3 @@ Oh I know it's you and me babe
 That makes the world go round
 Ah keeping you in love with me baby
 Laying all my troubles down
-
-
-
-
-

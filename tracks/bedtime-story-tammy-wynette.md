@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:1KQr7XLIu4sCMtWSjEGljb
 features: []
-genres: []
+first_released_as_single: false
 key: bedtime-story-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/bedtimestory.html
 name: Bedtime Story
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1964
+runtime: 254426
 ---
-
 I've told you almost every bedtime story
 And you've heard almost every nursery rhyme
 So, tonight before you go to sleep
@@ -67,6 +71,3 @@ So, please forgive mommy if she cries.
 
 Won't you please forgive your mommy
 If she cries.
-
-
-

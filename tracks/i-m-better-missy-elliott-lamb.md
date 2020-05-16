@@ -1,9 +1,12 @@
 ---
+album: Quarantunes
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:2Kf9fwIOwZwd6Aw7OxfkF0
 features:
 - Lamb
-genres: []
+first_released_as_single: true
 key: i-m-better-missy-elliott-lamb
 lyrics_url: https://genius.com/Missy-elliott-im-better-lyrics
 name: I'm Better
@@ -12,6 +15,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2017
+runtime: 213120
 ---
 I'mma start it from the bottom
 Show you how to flip a dollar

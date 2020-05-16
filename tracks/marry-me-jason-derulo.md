@@ -1,8 +1,11 @@
 ---
+album: Talk Dirty
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:3ogtSrlbtiTamktbA0hw0E
 features: []
-genres: []
+first_released_as_single: false
 key: marry-me-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/marryme.html
 name: Marry Me
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-02-08'
+release_year: 2013
+runtime: 225026
 ---
-
 A hundred and five is the number that comes to my head
 When I think of all the years I wanna be with you
 Wake up every morning with you in my bed
@@ -142,6 +146,3 @@ A hundred and five is the number that comes to my head
 When I think of all the years I wanna be with you
 Wake up every morning with you in my bed
 That's precisely what I plan to do, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:7qEKqBCD2vE5vIBsrUitpD
 features: []
-genres: []
+first_released_as_single: false
 key: ilomilo-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/ilomilo.html
 name: Ilomilo
@@ -11,6 +14,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2019
+runtime: 156370
 ---
 Told you not to worry
 But maybe that's a lie

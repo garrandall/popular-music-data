@@ -1,8 +1,11 @@
 ---
+album: 1,661 Seconds with Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:6TAn0qOnqpqcWHXkVpKiiw
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-town-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/strangerintown.html
 name: Stranger In Town
@@ -31,8 +34,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 152360
 ---
-
 Me and my baby been on the run
 So very long
 Her folks sent a man to get us
@@ -66,6 +70,3 @@ From the stranger in town
 
 Stranger in town, stranger in town
 Stranger in town, stranger in town
-
-
-

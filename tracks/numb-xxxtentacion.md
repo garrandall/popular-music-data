@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:01TnVDiet1DFTsyWKUKovl
 features: []
-genres: []
+first_released_as_single: false
 key: numb-xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-numb-lyrics
 name: Numb
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 186267
 ---
 And every single year
 I'm drowning in my tears, I'm drowning in my tears again

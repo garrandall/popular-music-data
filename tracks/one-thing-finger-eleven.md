@@ -1,8 +1,11 @@
 ---
+album: Finger Eleven
 artists:
 - Finger Eleven
+external_ids:
+  spotify: spotify:track:2BepFzUWfczDk68DXj10w3
 features: []
-genres: []
+first_released_as_single: false
 key: one-thing-finger-eleven
 lyrics_url: https://genius.com/Finger-eleven-one-thing-lyrics
 name: One Thing
@@ -123,6 +126,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2003
+runtime: 279573
 ---
 Restless tonight
 'Cause I wasted the light

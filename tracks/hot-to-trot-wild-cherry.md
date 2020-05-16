@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Wild Cherry
+external_ids:
+  spotify: spotify:track:2ijknyJKypKfmCqYTtDsD8
 features: []
-genres: []
+first_released_as_single: false
 key: hot-to-trot-wild-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/wildcherry/hottotrot.html
 name: Hot To Trot
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
+release_year: 1977
+runtime: 196000
 ---
-
 (Stand back)
 I see you standin' over there
 Just checkin' me out
@@ -101,6 +105,3 @@ Hey Cherry Brothers, tell them one more time
 When you're hot, you're hot, you're hot to trot
 When you're hot, you're hot, you're hot to trot
 When you're hot, you're hot, you're hot to trot
-
-
-

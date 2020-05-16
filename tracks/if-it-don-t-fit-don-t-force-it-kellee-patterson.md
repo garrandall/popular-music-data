@@ -1,8 +1,11 @@
 ---
+album: Turn on the Lights - Be Happy
 artists:
 - Kellee Patterson
+external_ids:
+  spotify: spotify:track:1oQo0TQoCLbWmkXEtNTfoA
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-don-t-fit-don-t-force-it-kellee-patterson
 name: If It Don't Fit Don't Force It
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 315497
 ---
 

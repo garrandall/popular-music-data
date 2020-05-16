@@ -1,8 +1,11 @@
 ---
+album: Where Does That Leave Love 2.0
 artists:
 - George LaMond
+external_ids:
+  spotify: spotify:track:0uCblGxozywHsi40jeutqr
 features: []
-genres: []
+first_released_as_single: true
 key: where-does-that-leave-love-george-lamond
 lyrics_url: https://genius.com/George-lamond-where-does-that-leave-love-lyrics
 name: Where Does That Leave Love
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 244957
 ---
 Magic fills the air whenever you are near
 I can finally see the mystery of love in your eyes
@@ -128,4 +133,3 @@ Where does that leave you
 You always said that you'd be here
 How could you leave me now
 We got so much more we can share
-

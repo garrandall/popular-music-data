@@ -1,8 +1,11 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:5K1oAvr0whnWcFptb9gHvZ
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-love-hang-you-up-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-dont-let-love-hang-you-up-lyrics
 name: Don't Let Love Hang You Up
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 147333
 ---
 Don't let love hang you up
 Don't let it make you sad and blue

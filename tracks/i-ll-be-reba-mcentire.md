@@ -1,8 +1,11 @@
 ---
+album: Whoever's In New England
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:4wjEqCPNTD3gP7EGiHPw6e
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-reba-mcentire
 lyrics_url: https://genius.com/Reba-mcentire-ill-be-lyrics
 name: I'll Be
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
+release_year: 1986
+runtime: 162653
 ---
 When darkness falls upon your heart and soul
 I'll be the light that shines for you

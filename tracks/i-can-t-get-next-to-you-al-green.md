@@ -1,8 +1,11 @@
 ---
+album: Gets Next to You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:2UclV6Lu93Ssh1spktn0Fp
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-get-next-to-you-al-green
 lyrics_url: https://genius.com/Al-green-i-cant-get-next-to-you-lyrics
 name: I Can't Get Next To You
@@ -47,6 +50,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1970
+runtime: 228813
 ---
 I ...(my my my my)
 Oh, I can turn a gray sky blue

@@ -1,8 +1,11 @@
 ---
+album: 'What the World Needs Now Is Love: The Remixes'
 artists:
 - Broadway For Orlando
+external_ids:
+  spotify: spotify:track:7IYU41rxDOremaBZi0vEMn
 features: []
-genres: []
+first_released_as_single: true
 key: what-the-world-needs-now-is-love-broadway-for-orlando
 lyrics_url: https://www.musixmatch.com/lyrics/Broadway-for-Orlando/What-the-World-Needs-Now-Is-Love
 name: What The World Needs Now Is Love
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-07-09'
+release_year: 2016
+runtime: 224000
 ---
 What the world needs now is love sweet love
 It's the only thing that there's just too little of.

@@ -1,8 +1,11 @@
 ---
+album: Hearts In Motion
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:6gAhuDvn8Ef6P710UMze9W
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-is-the-night-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/lonelyisthenight.html
 name: Lonely Is The Night
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 249066
 ---
-
 Really thought that I could live without you
 Really thought that I could make it on my own
 Sent you away yeah I said I didn't need you
@@ -71,4 +75,3 @@ And I tell myself I'll be alright
 
 But lonely is the night
 Lonely is the night
-

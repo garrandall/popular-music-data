@@ -1,9 +1,12 @@
 ---
+album: Thug Holiday (Explicit Version)
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:10TfdwQqSz1DzJirOAcqZI
 features:
 - LaTocha Scott
-genres: []
+first_released_as_single: false
 key: thug-holiday-trick-daddy-latocha-scott
 lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/thugholiday.html
 name: Thug Holiday
@@ -44,9 +47,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
+release_year: 2002
+runtime: 293546
 ---
-
-
 Thug holiday, go ahead you can cry it's alright baby
 Everything gone be gravy later, that's right
 This the time when we take time to remember
@@ -114,4 +117,3 @@ It gets hard sometimes, but you
 Got to keep your head up, and be strong
 Here's a message from coast to coast
 Cause when them thugs really need it the most, a thug holiday
-

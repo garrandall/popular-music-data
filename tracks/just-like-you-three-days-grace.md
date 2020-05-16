@@ -1,8 +1,11 @@
 ---
+album: Three Days Grace
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:0CA3RxBx2xSQXPfpmUBK1v
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-you-three-days-grace
 lyrics_url: https://genius.com/Three-days-grace-just-like-you-lyrics
 name: Just Like You
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-12-11'
+release_year: 2003
+runtime: 186893
 ---
 I could be mean
 I could be angry

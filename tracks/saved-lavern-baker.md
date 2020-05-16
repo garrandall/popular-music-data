@@ -1,8 +1,11 @@
 ---
+album: Saved
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:091baWWCDEowJprUts9La0
 features: []
-genres: []
+first_released_as_single: false
 key: saved-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-saved-lyrics
 name: Saved
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 174733
 ---
 I used to smoke, I used to drink
 I used to smoke, drink, and dance the hoochie-coo

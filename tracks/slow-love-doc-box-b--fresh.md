@@ -1,9 +1,12 @@
 ---
+album: West Coast Livin', Volume Three
 artists:
 - Doc Box
 - B. Fresh
+external_ids:
+  spotify: spotify:track:7zFh6rhSiZ0bNVR7t7RDi9
 features: []
-genres: []
+first_released_as_single: false
 key: slow-love-doc-box-b--fresh
 lyrics_url: https://www.musixmatch.com/lyrics/Doc-Box-B-Fresh/Slow-Love
 name: Slow Love
@@ -68,6 +71,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 339577
 ---
 Bust it
 

@@ -1,8 +1,11 @@
 ---
+album: '"Awaken, My Love!"'
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:31tf1qEai5o5f4r66Kd0pU
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-your-mama-childish-gambino
 lyrics_url: https://genius.com/Childish-gambino-me-and-your-mama-lyrics
 name: Me And Your Mama
@@ -15,6 +18,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 379226
 ---
 I'm in love when we are smoking that la-la-la-la-la
 I'm in love when we are smoking that la-la-la-la-la

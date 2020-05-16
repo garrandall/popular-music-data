@@ -1,8 +1,11 @@
 ---
+album: The Book Of Taliesyn
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:4KncOqIAEYnAM90go8Ielw
 features: []
-genres: []
+first_released_as_single: false
 key: kentucky-woman-deep-purple
 lyrics_url: https://www.azlyrics.com/lyrics/deeppurple/kentuckywoman.html
 name: Kentucky Woman
@@ -39,8 +42,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 284533
 ---
-
 Kentucky Woman
 She shines in her own kind of light
 She looks at you once in a day
@@ -88,6 +92,3 @@ Kentucky Woman
 Kentucky Woman
 Kentucky Woman
 Kentucky Woman
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tropico
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:665Jxlgi1HamPKbW1vwzx4
 features: []
-genres: []
+first_released_as_single: false
 key: we-belong-pat-benatar
 lyrics_url: https://genius.com/Pat-benatar-we-belong-lyrics
 name: We Belong
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 221133
 ---
 We belong, we belong to the light
 

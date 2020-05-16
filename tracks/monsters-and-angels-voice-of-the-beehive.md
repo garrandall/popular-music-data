@@ -1,8 +1,11 @@
 ---
+album: Honey Lingers
 artists:
 - Voice Of The Beehive
+external_ids:
+  spotify: spotify:track:4SLY61BWDF7uZ8RcuuPDaE
 features: []
-genres: []
+first_released_as_single: false
 key: monsters-and-angels-voice-of-the-beehive
 lyrics_url: https://genius.com/Voice-of-the-beehive-monsters-and-angels-lyrics
 name: Monsters And Angels
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1991
+runtime: 218146
 ---
 I'm nobodys' wife & I'm nobodys' baby
 I like it that way well then again maybe

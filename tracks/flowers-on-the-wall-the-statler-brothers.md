@@ -1,8 +1,11 @@
 ---
+album: Flowers on the Wall
 artists:
 - The Statler Brothers
+external_ids:
+  spotify: spotify:track:4kiPXTIW37v2MUZD9DsuPp
 features: []
-genres: []
+first_released_as_single: false
 key: flowers-on-the-wall-the-statler-brothers
 lyrics_url: https://genius.com/The-statler-brothers-flowers-on-the-wall-lyrics
 name: Flowers On The Wall
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1954
+runtime: 138600
 ---
 I keep hearing you're concerned about my happiness
 But all the thought you're giving me is, conscience I guess

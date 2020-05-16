@@ -1,8 +1,11 @@
 ---
+album: 'The Best of Buffalo Springfield: Retrospective'
 artists:
 - The Buffalo Springfield
+external_ids:
+  spotify: spotify:track:3Wq9UcmwILpu8rSv10X7At
 features: []
-genres: []
+first_released_as_single: false
 key: bluebird-the-buffalo-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/buffalospringfield/bluebird.html
 name: Bluebird
@@ -35,8 +38,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 268960
 ---
-
 Listen to my bluebird laugh.
 She can't tell you why.
 Deep within her heart, you see,
@@ -70,6 +74,3 @@ Soon she's going to fly away.
 Sadness is her own.
 Give herself a bath of tears
 And go home, and go home.
-
-
-

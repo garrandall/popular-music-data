@@ -1,9 +1,12 @@
 ---
+album: Letting Go (Dutty Love) featuring Nicki Minaj
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:0wDbYIl4fN2mccHczCJqEf
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: letting-go--dutty-love--sean-kingston-nicki-minaj
 lyrics_url: https://genius.com/Sean-kingston-letting-go-dutty-love-lyrics
 name: Letting Go (Dutty Love)
@@ -88,6 +91,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 230600
 ---
 Ay' yo Sean, you Mr. Kingston
 

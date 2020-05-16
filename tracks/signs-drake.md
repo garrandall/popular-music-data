@@ -1,8 +1,11 @@
 ---
+album: Club Beats Are Still Here
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6Na5uKk5SsqZimk0hAWo8y
 features: []
-genres: []
+first_released_as_single: true
 key: signs-drake
 lyrics_url: https://genius.com/Drake-signs-lyrics
 name: Signs
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 234373
 ---
 Yeah, yeah, yeah, yeah, yeah
 Yeah

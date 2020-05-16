@@ -1,9 +1,12 @@
 ---
+album: Back On My B.S.
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:1pQeV76FKi3g4xydzq1BKX
 features:
 - Ron Browz
-genres: []
+first_released_as_single: false
 key: arab-money-busta-rhymes-ron-browz
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/arabmoney.html
 name: Arab Money
@@ -32,9 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2008
+runtime: 165186
 ---
-
- 
 Ron Browz, yes! 
 Oh, we back in the most amazin' way 
 Well, lemme introduce you to the new talk 
@@ -110,6 +113,3 @@ Ha La Shiki Hai Lili Ba La!
 Milli Ai Lai Shi Lili Ba La! 
 We gettin' Arab money! 
 We gettin' Arab money!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: You Don't Mess Around With Jim
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:561F1zqRwGPCTMRsLsXVtL
 features: []
-genres: []
+first_released_as_single: false
 key: time-in-a-bottle-jim-croce
 lyrics_url: https://www.musixmatch.com/lyrics/Jim-Croce/Time-in-a-Bottle
 name: Time In A Bottle
@@ -67,6 +70,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1972
+runtime: 146175
 ---
 If I could save time in a bottle
 The first thing that I'd like to do

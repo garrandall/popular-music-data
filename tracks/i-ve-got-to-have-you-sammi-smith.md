@@ -1,8 +1,11 @@
 ---
+album: Help Me Make It Through The Night & Other Country Hits
 artists:
 - Sammi Smith
+external_ids:
+  spotify: spotify:track:1LsphiQpg9dJzK9VfUWoyK
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-to-have-you-sammi-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Sammi-Smith/I-ve-Got-to-Have-You
 name: I've Got To Have You
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 194626
 ---
 You came smiling softly shinin' through,
 Easy as a dreamer, into my world

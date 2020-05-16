@@ -1,8 +1,11 @@
 ---
+album: Waitin' On Joe
 artists:
 - Steve Azar
+external_ids:
+  spotify: spotify:track:5v1bA7NmQcQHvH9IDkeeF4
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-have-to-be-me---til-monday--steve-azar
 lyrics_url: https://genius.com/Steve-azar-i-dont-have-to-be-me-til-monday-lyrics
 name: I Don't Have To Be Me ('til Monday)
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
+release_year: 2002
+runtime: 196960
 ---
 I got me a brand new car
 Waiting in the driveway

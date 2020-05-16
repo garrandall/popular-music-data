@@ -1,8 +1,11 @@
 ---
+album: Above The Rim
 artists:
 - The Lady Of Rage
+external_ids:
+  spotify: spotify:track:2sK1a4QxXQm6Jq8z2R1WgO
 features: []
-genres: []
+first_released_as_single: false
 key: afro-puffs-the-lady-of-rage
 lyrics_url: https://genius.com/The-lady-of-rage-afro-puffs-lyrics
 name: Afro Puffs
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
+release_year: 1994
+runtime: 288333
 ---
 I rock rough and stuff with my Afro Puffs (Rage!)
 Rock on, wit cha bad self

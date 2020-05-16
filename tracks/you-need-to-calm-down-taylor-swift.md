@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:7Bjf96uNizpvXLvNyOJpst
 features: []
-genres: []
+first_released_as_single: true
 key: you-need-to-calm-down-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-you-need-to-calm-down-lyrics
 name: You Need To Calm Down
@@ -91,6 +94,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 152773
 ---
 You are somebody that I don't know
 But you're takin' shots at me like it's Patrón

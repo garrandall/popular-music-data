@@ -1,8 +1,11 @@
 ---
+album: Melba
 artists:
 - Melba Moore
+external_ids:
+  spotify: spotify:track:29NBqITzgvrpmO0QJvYht9
 features: []
-genres: []
+first_released_as_single: false
 key: you-stepped-into-my-life-melba-moore
 lyrics_url: https://genius.com/Melba-moore-you-stepped-into-my-life-lyrics
 name: You Stepped Into My Life
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1972
+runtime: 304733
 ---
 You stepped into my life
 And I'm oh, so happy

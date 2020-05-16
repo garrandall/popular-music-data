@@ -1,8 +1,11 @@
 ---
+album: St. Louis To Liverpool
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:3Hh5o5GUOveghI5l7DrvgT
 features: []
-genres: []
+first_released_as_single: false
 key: little-marie-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/littlemarie.html
 name: Little Marie
@@ -31,8 +34,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 155933
 ---
-
 Yes, oh yes, Long Distance, I'll accept the charge, I'll pay
 Which love one is calling me, I did not hear you say
 Both are deep within my hearth, her Mom and my Marie
@@ -52,6 +56,3 @@ I guess I should stop talking; after all you placed the call
 But anyway that I can help, you know I'll help you all
 Then she spoke and asked me to come back and see Marie
 And live together in our home in Memphis, Tennessee
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ten Years Of Hits
 artists:
 - Mickey Gilley
+external_ids:
+  spotify: spotify:track:3Fa7jdzVHdykpioJP1Qw7Z
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-mickey-gilley
 lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/standbyme.html
 name: Stand By Me
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1974
+runtime: 215106
 ---
-
 When the night has come
 And the land is dark
 And the moon is the only light we'll see
@@ -108,6 +112,3 @@ If you're in need, won't you stand by me
 Darlin', stand by me
 Won't you stand by me
 If you're in need, won't you stand, stand by me...
-
-
-

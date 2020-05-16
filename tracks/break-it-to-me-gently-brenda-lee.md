@@ -1,8 +1,11 @@
 ---
+album: '..."Let Me Sing"'
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:5JccvAiwcZ7n3urnXqWPsG
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-to-me-gently-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/breakittomegently.html
 name: Break It To Me Gently
@@ -59,8 +62,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 164000
 ---
-
 Break it to me gently, let me down the easy way
 Make me feel that you still love me, if it's just, if it's just for one more day.
 Break it to me gently, so my tears, my tears won't fall too fast.
@@ -75,6 +79,3 @@ Oh, oh...break it, break it to me gently.
 Give me time, oh give me a little time to ease the pain.
 Love me just a little longer, 'cause I'll never never love again.
 'Cause I'll never love again.
-
-
-

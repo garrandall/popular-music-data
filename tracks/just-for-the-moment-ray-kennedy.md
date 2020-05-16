@@ -1,8 +1,11 @@
 ---
+album: Ray Kennedy
 artists:
 - Ray Kennedy
+external_ids:
+  spotify: spotify:track:3mpoNiTLdOUAS4WDxUJKVz
 features: []
-genres: []
+first_released_as_single: false
 key: just-for-the-moment-ray-kennedy
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Kennedy-5/Just-for-the-Moment
 name: Just For The Moment
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 197000
 ---
 How did this happen
 That the only one who can touch me again

@@ -1,8 +1,11 @@
 ---
+album: OU812
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:7gG1RvwQRrofiL3tvq8pBI
 features: []
-genres: []
+first_released_as_single: false
 key: when-it-s-love-van-halen
 lyrics_url: https://genius.com/Van-halen-when-its-love-lyrics
 name: When It's Love
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1988
+runtime: 337906
 ---
 Everybody's looking for something
 Something to fill in the holes

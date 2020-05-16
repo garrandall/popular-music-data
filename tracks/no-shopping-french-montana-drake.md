@@ -1,9 +1,12 @@
 ---
+album: MONTANA
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:6lJDiHzVKoUz6XfuPZfBrU
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: no-shopping-french-montana-drake
 lyrics_url: https://www.azlyrics.com/lyrics/frenchmontana/noshopping.html
 name: No Shopping
@@ -52,9 +55,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 227727
 ---
-
-
 Sippin' on the drank, sippin' on the drank
 Sippin' on the drank, sippin' on the drank
 All about the mula, all about the mula
@@ -131,6 +134,3 @@ But we'll never take the bird shoppin', you know
 Still, you already dun know
 Big up, Six God
 Haaaan, skrrt, skrrt!
-
-
-

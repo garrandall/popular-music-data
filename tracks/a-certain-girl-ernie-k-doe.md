@@ -1,8 +1,11 @@
 ---
+album: Mother-In-Law
 artists:
 - Ernie K-Doe
+external_ids:
+  spotify: spotify:track:5VToyZ5cdGGwakh4wRSvMK
 features: []
-genres: []
+first_released_as_single: false
 key: a-certain-girl-ernie-k-doe
 lyrics_url: https://www.musixmatch.com/lyrics/Ernie-K-Doe/A-Certain-Girl-2002-Digital-Remaster
 name: A Certain Girl
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 165826
 ---
 There's a certain girl I've been in love with a long, long time
 What's her name?

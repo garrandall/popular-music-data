@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - Bull Moose Jackson
+external_ids:
+  spotify: spotify:track:4RdB68qqZ4QKxsnVWMi6tQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-yes-i-do-bull-moose-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Bull-Moose-Jackson/I-Love-You-Yes-I-Do
 name: I Love You Yes I Do
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 185280
 ---
 I love you, yes, I do
 I want you, yes, I do

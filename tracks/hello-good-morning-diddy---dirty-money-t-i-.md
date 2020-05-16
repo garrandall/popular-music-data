@@ -1,9 +1,12 @@
 ---
+album: Last Train To Paris
 artists:
 - Diddy - Dirty Money
+external_ids:
+  spotify: spotify:track:7yzSijmAyOMBcHrK6Tfsoe
 features:
 - T.I.
-genres: []
+first_released_as_single: false
 key: hello-good-morning-diddy---dirty-money-t-i-
 lyrics_url: https://genius.com/Diddy-dirty-money-hello-good-morning-lyrics
 name: Hello Good Morning
@@ -88,6 +91,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-08-28'
+release_year: 2010
+runtime: 268746
 ---
 Yeah, yeah
 Yeah, yeah

@@ -1,8 +1,11 @@
 ---
+album: Live Concert At The Forum
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:2T3R19V9qMiiuRWPor8Axf
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-inspiration-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-sweet-inspiration-where-you-lead-lyrics
 name: Sweet Inspiration
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 377573
 ---
 I need your sweet inspiration
 I need you here on my mind

@@ -1,8 +1,11 @@
 ---
+album: I Love You
 artists:
 - Eddie Holman
+external_ids:
+  spotify: spotify:track:1MI8aQJAoaYhIaVNz5giKB
 features: []
-genres: []
+first_released_as_single: false
 key: hey-there-lonely-girl-eddie-holman
 lyrics_url: https://genius.com/Eddie-holman-hey-there-lonely-girl-lyrics
 name: Hey There Lonely Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 216760
 ---
 Hey there lonely girl
 Lonely girl

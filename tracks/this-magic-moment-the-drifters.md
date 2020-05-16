@@ -1,8 +1,11 @@
 ---
+album: Hits and Rarities
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:45C3jX6PWVnhwgqtrmPN9P
 features: []
-genres: []
+first_released_as_single: false
 key: this-magic-moment-the-drifters
 lyrics_url: https://genius.com/The-drifters-this-magic-moment-lyrics
 name: This Magic Moment
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 149106
 ---
 This magic moment
 So different and so new

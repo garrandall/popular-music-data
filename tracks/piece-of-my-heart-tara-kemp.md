@@ -1,8 +1,11 @@
 ---
+album: Tara Kemp
 artists:
 - Tara Kemp
+external_ids:
+  spotify: spotify:track:1jRAg7uqdsm5VYKKeEVKVd
 features: []
-genres: []
+first_released_as_single: false
 key: piece-of-my-heart-tara-kemp
 lyrics_url: https://genius.com/Tara-kemp-piece-of-my-heart-lyrics
 name: Piece Of My Heart
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 289740
 ---
 You take a piece of my heart
 With you

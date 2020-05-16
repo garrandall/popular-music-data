@@ -1,8 +1,11 @@
 ---
+album: Melt
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:5nWgEBtaRwVrCMjer1RtLm
 features: []
-genres: []
+first_released_as_single: false
 key: these-days-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-these-days-lyrics
 name: These Days
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
+release_year: 2002
+runtime: 254493
 ---
 Hey baby, is that you?
 Wow, your hair got so long

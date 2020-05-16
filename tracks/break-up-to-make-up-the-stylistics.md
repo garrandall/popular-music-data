@@ -1,8 +1,11 @@
 ---
+album: Round 2
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:3cTXpaEpx5wzDB8CNcdGzG
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-to-make-up-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/breakuptomakeup.html
 name: Break Up To Make Up
@@ -63,8 +66,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1972
+runtime: 239840
 ---
-
 Tell me what's wrong with you now , tell me why I
 Never seem to make you happy though heaven knows I try
 What does it take to please you? Tell me just how
@@ -96,6 +100,3 @@ That's a game for fools
 Break up to make up, that's all we do
 First you love me then you hate me
 That's a game for fools
-
-
-

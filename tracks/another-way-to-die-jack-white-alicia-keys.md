@@ -1,9 +1,12 @@
 ---
+album: As I Am
 artists:
 - Jack White
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:3ODl8J0TZAykdMCtCIO28n
 features: []
-genres: []
+first_released_as_single: false
 key: another-way-to-die-jack-white-alicia-keys
 lyrics_url: https://genius.com/Jack-white-another-way-to-die-lyrics
 name: Another Way to Die
@@ -16,6 +19,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2007
+runtime: 262240
 ---
 Another ringer with the slick trigger finger for Her Majesty
 Another one with the golden tongue poisoning your fantasy

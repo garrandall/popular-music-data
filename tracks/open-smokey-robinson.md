@@ -1,8 +1,11 @@
 ---
+album: Smokey's Family Robinson
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:3YoajGjjCPHvipiuNvP4a3
 features: []
-genres: []
+first_released_as_single: false
 key: open-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/open.html
 name: Open
@@ -43,8 +46,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
+release_year: 1976
+runtime: 230920
 ---
-
 Open
 My love for you is open
 My love for you is open to
@@ -93,6 +97,3 @@ Everything that I wanna do
 Is depending on you
 
 Open...
-
-
-

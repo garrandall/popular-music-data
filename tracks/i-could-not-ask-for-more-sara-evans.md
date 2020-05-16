@@ -1,8 +1,11 @@
 ---
+album: Born To Fly
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:3TcoHf7nvC8RaDVdfIFjFR
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-not-ask-for-more-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/icouldnotaskformore.html
 name: I Could Not Ask For More
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2001-09-01'
+release_year: 2000
+runtime: 287733
 ---
-
 Lying here with you
 Listening to the rain
 Smiling just to see the smile upon your face
@@ -134,6 +138,3 @@ Cause it's all I've waited for
 And I could not ask for more
 No, yeah
 No, I could not ask for more
-
-
-

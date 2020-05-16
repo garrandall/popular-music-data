@@ -1,8 +1,11 @@
 ---
+album: Pioneer
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:7t3yEWJXS4ZZE64JyJDJIg
 features: []
-genres: []
+first_released_as_single: false
 key: done-the-band-perry
 lyrics_url: https://genius.com/The-band-perry-done-lyrics
 name: DONE
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2013-08-10'
+release_year: 2013
+runtime: 205266
 ---
 You've been wearing that crown and tearing me down
 It's been a while since you've treated me right

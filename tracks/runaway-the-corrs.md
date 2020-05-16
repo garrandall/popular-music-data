@@ -1,8 +1,11 @@
 ---
+album: Forgiven, Not Forgotten
 artists:
 - The Corrs
+external_ids:
+  spotify: spotify:track:6csX1JjmeoLhGqMBXGnZF0
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-the-corrs
 lyrics_url: https://www.azlyrics.com/lyrics/corrs/runaway.html
 name: Runaway
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
+release_year: 1995
+runtime: 265133
 ---
-
 Say it's true, there's nothing like me and you
 I'm not alone, tell me you feel it too
 
@@ -94,4 +98,3 @@ No never I'm never gonna stop falling in love with you
 With you, my love, with you...
 na ni na ni na na
 (With you, with you, with you, with you)
-

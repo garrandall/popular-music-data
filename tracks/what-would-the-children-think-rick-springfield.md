@@ -1,8 +1,11 @@
 ---
+album: Beginnings
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:2rCOvizLsJZWVAPbU1spAj
 features: []
-genres: []
+first_released_as_single: false
 key: what-would-the-children-think-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/whatwouldthechildrenthink.html
 name: What Would The Children Think
@@ -23,8 +26,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 224960
 ---
-
 She wakes up in the morning with the new sunrise
 Looks at her husband sleeping still
 Inside she cries
@@ -76,6 +80,3 @@ Where would the children think
 What would the children think
 Where would the children go
 What would the children do:.
-
-
-

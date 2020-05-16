@@ -1,10 +1,13 @@
 ---
+album: 'Man On The Moon: The End Of Day'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:7dZAPeA3Of5j5Vaef0DQ6M
 features:
 - Kanye West
 - Common
-genres: []
+first_released_as_single: false
 key: make-her-say-kid-cudi-kanye-west-common
 lyrics_url: https://genius.com/Kid-cudi-make-her-say-afrojack-remix-lyrics
 name: Make Her Say
@@ -69,6 +72,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2009
+runtime: 216413
 ---
 Kid Cudi
 I Make Her Say

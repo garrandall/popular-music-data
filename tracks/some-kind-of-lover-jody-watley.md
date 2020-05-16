@@ -1,8 +1,11 @@
 ---
+album: Jody Watley
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:7mJq5UJOfh5yzyjCaiPaZH
 features: []
-genres: []
+first_released_as_single: false
 key: some-kind-of-lover-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/somekindoflover.html
 name: Some Kind Of Lover
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1987
+runtime: 249440
 ---
-
 I never knew what I was missing
 Love with no passion in the kissing
 I can't explain it, how you made me open up
@@ -120,6 +124,3 @@ You're some kinda lover, yeah
 You make me feel, oh, so real
 
 You're some kinda lover, ho
-
-
-

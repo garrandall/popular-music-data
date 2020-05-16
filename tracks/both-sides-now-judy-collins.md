@@ -1,8 +1,11 @@
 ---
+album: Wildflowers
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:2xSfwtV4mUr2h63Q1zJH58
 features: []
-genres: []
+first_released_as_single: false
 key: both-sides-now-judy-collins
 lyrics_url: https://genius.com/Judy-collins-both-sides-now-lyrics
 name: Both Sides Now
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1967
+runtime: 195840
 ---
 Bows and flows of angel hair
 And ice cream castles in the air

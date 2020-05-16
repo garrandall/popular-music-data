@@ -1,8 +1,11 @@
 ---
+album: The Soul of Rock And Roll
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:1FmN2ZJQ8W5Dn5rVzWvth1
 features: []
-genres: []
+first_released_as_single: false
 key: -say--you-re-my-girl-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-youre-my-girl-lyrics
 name: (Say) You're My Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 167133
 ---
 Hello, may I have this dance with you?
 How have you been, girl?

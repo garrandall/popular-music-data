@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:0wEC0GNF74lAqrEFZJMl1m
 features: []
-genres: []
+first_released_as_single: false
 key: puppet-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/puppet.html
 name: Puppet
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 179013
 ---
 Ayo, I wanna talk
 I wanna call you and talk, I wanna walk to your front door and knock

@@ -1,8 +1,11 @@
 ---
+album: Angel Clare
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:5VAw5AYO7FAPCdaRvAmiTY
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-know-garfunkel
 lyrics_url: https://genius.com/Art-garfunkel-all-i-know-lyrics
 name: All I Know
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1973
+runtime: 230786
 ---
 I bruise you, you bruise me
 We both bruise too easily

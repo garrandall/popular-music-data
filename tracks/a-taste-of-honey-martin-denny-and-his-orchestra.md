@@ -1,8 +1,11 @@
 ---
+album: A Taste Of Honey
 artists:
 - Martin Denny
+external_ids:
+  spotify: spotify:track:25wU5JOn2RSG2MpHxw9NBH
 features: []
-genres: []
+first_released_as_single: false
 key: a-taste-of-honey-martin-denny-and-his-orchestra
 name: A Taste Of Honey
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 192346
 ---
 

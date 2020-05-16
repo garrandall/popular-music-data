@@ -1,8 +1,11 @@
 ---
+album: Too Legit To Quit
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:66B84XJ9vqdAs4tJCC2uaI
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-way-we-roll-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-this-is-the-way-we-roll-lyrics
 name: This Is The Way We Roll
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1991
+runtime: 353893
 ---
-Lyrics
 Yeah, yeah, yeah, I'm rolling on
 This Is The Way We Roll, we roll
 This Is The Way We Roll

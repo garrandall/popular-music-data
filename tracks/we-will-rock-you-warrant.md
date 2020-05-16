@@ -1,8 +1,11 @@
 ---
+album: Music From The Motion Picture Soundtrack Gladiator
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:5FylBXAfuYbboXX6EW4bmd
 features: []
-genres: []
+first_released_as_single: false
 key: we-will-rock-you-warrant
 lyrics_url: https://genius.com/Warrant-we-will-rock-you-lyrics
 name: We Will Rock You
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1992
+runtime: 175666
 ---
 We will, we will rock you
 We will, we will rock you

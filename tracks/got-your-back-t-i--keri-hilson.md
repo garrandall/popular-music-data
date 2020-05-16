@@ -1,9 +1,12 @@
 ---
+album: F*ck A Mixtape
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:2aZ8Mfrh353IAYOrXrDtBA
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: false
 key: got-your-back-t-i--keri-hilson
 lyrics_url: https://genius.com/Ti-got-your-back-lyrics
 name: Got Your Back
@@ -88,6 +91,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 274526
 ---
 (Keri Hilson)
 Hey, shorty I know you be hearin this and that from here and there but

@@ -1,8 +1,11 @@
 ---
+album: The Point!
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:5KjRITicSHJM88w3U9LwLM
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-arrow-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/meandmyarrow.html
 name: Me And My Arrow
@@ -67,8 +70,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1970
+runtime: 125666
 ---
-
 Me and my Arrow
 straighter than narrow
 where ever we go
@@ -105,6 +109,3 @@ straighter than narrow
 where ever we go
 everyone knows
 it's me and my Arrow
-
-
-

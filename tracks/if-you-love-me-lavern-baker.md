@@ -1,8 +1,11 @@
 ---
+album: Blues Ballads
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:6wSzp7jdrDUk9vJFIsdwKR
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-love-me-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-if-you-love-me-lyrics
 name: If You Love Me
@@ -15,6 +18,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
+release_year: 1959
+runtime: 161213
 ---
 If you love me, if you love me
 If you love me

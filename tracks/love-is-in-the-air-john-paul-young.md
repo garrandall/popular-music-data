@@ -1,8 +1,11 @@
 ---
+album: I Hate the Music
 artists:
 - John Paul Young
+external_ids:
+  spotify: spotify:track:38GqIQ4RVkat91RnQrLJYP
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-in-the-air-john-paul-young
 lyrics_url: https://genius.com/John-paul-young-love-is-in-the-air-lyrics
 name: Love Is In The Air
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 208866
 ---
 Love is in the air
 Everywhere I look around

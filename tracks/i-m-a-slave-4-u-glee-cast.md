@@ -1,8 +1,11 @@
 ---
+album: Glee The 3D Concert Movie (Motion Picture Soundtrack)
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6cJYecL5EcPoRROOHBxtX5
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-slave-4-u-glee-cast
 lyrics_url: https://genius.com/Glee-cast-im-a-slave-4-u-lyrics
 name: I'm A Slave 4 U
@@ -11,6 +14,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 203586
 ---
 I know I may be young
 But I've got feelings, too

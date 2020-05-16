@@ -1,8 +1,11 @@
 ---
+album: The Comfort Zone
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:2906fV2q5W2xRmAEf9vCoW
 features: []
-genres: []
+first_released_as_single: false
 key: work-to-do-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/worktodo.html
 name: Work To Do
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1991
+runtime: 276533
 ---
-
 I can't wait to get home to you
 I got so much work to do, work
 I'm taking care of business baby can't you see
@@ -77,6 +81,3 @@ I got work to do, said I got work to do
 
 I can't wait to get home to you
 I got so much work to do
-
-
-

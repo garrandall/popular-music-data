@@ -1,10 +1,13 @@
 ---
+album: Ain't I
 artists:
 - Yung L.A.
+external_ids:
+  spotify: spotify:track:6cnufgF6qLJGZT2PRFZBr1
 features:
 - Young Dro
 - T.I.
-genres: []
+first_released_as_single: true
 key: ain-t-i-yung-l-a--young-dro-t-i-
 lyrics_url: https://genius.com/Yung-la-aint-i-remix-lyrics
 name: Ain't I
@@ -85,6 +88,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2008
+runtime: 252093
 ---
 Oh!
 Bow, (bow), bow, bow, bow

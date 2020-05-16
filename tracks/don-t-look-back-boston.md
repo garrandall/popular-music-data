@@ -1,8 +1,11 @@
 ---
+album: Don't Look Back
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:4QySZtWymRGNgrwxZOODKF
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-look-back-boston
 lyrics_url: https://genius.com/Boston-dont-look-back-lyrics
 name: Don't Look Back
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 360333
 ---
 Don't look back (oh, a new day is breakin')
 It's been too long since I felt this way

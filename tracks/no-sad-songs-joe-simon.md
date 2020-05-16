@@ -1,8 +1,11 @@
 ---
+album: No Sad Songs
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:4AmG9Ni0nMnGT0Ad40U3MZ
 features: []
-genres: []
+first_released_as_single: false
 key: no-sad-songs-joe-simon
 lyrics_url: https://genius.com/Joe-simon-no-sad-songs-lyrics
 name: No Sad Songs
@@ -35,6 +38,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1968
+runtime: 138866
 ---
 I've been searchin'
 So long

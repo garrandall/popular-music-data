@@ -1,8 +1,11 @@
 ---
+album: High Noon
 artists:
 - Jerrod Niemann
+external_ids:
+  spotify: spotify:track:3M31S6f0z8S3nkFh3eS06W
 features: []
-genres: []
+first_released_as_single: false
 key: drink-to-that-all-night-jerrod-niemann
 lyrics_url: https://www.azlyrics.com/lyrics/jerrodniemann/drinktothatallnight.html
 name: Drink To That All Night
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2014
+runtime: 224813
 ---
-
 Pullin' up now, and the parking lot's full
 Gonna ride that cow with a Dallas bull
 Everybody in the ATL is coming
@@ -148,6 +152,3 @@ Take your cup fill it up
 You can't raise it high enough
 Take your cup fill it up
 You can't raise it high enough
-
-
-

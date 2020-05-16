@@ -1,8 +1,11 @@
 ---
+album: Goodbye Yellow Brick Road
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1L9fzw2pXprOqtemTwtxXF
 features: []
-genres: []
+first_released_as_single: false
 key: candle-in-the-wind-elton-john
 lyrics_url: https://genius.com/Elton-john-candle-in-the-wind-lyrics
 name: Candle In The Wind
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1973
+runtime: 228932
 ---
 Goodbye, Norma Jeane
 Though I never knew you at all

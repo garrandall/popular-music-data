@@ -1,8 +1,11 @@
 ---
+album: Save Me, San Francisco
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:1NghHeg0wE32eBYrQBVQXL
 features: []
-genres: []
+first_released_as_single: false
 key: shake-up-christmas-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/shakeupchristmas.html
 name: Shake Up Christmas
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-01-08'
+release_year: 2010
+runtime: 232213
 ---
-
 Ho, ho, ho...
 
 Shake up the happiness
@@ -97,6 +101,3 @@ Ho, ho, ho,
 Ho, ho, ho,
 Ho, ho, ho,
 It's Christmas time
-
-
-

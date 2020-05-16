@@ -1,9 +1,12 @@
 ---
+album: Loyalty
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:5SHAtcfNqfxHrMs59Fe3rO
 features:
 - Ginuwine
-genres: []
+first_released_as_single: true
 key: crush-tonight-fat-joe-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/crushtonight.html
 name: Crush Tonight
@@ -36,9 +39,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
+release_year: 2002
+runtime: 234013
 ---
-
-
 Baby, if you wit' it, just clap yo' hands
 Stop playin' girl, back that ass up and
 Spend that cash dog, drink the Henny and
@@ -99,4 +102,3 @@ Mami, your body like Malery on Natural Born Killer
 She like, they got money but ya'll are more realer
 She wanna roll wit' us, pretty much to crit' us
 No beatin' around the bush, just beatin' it 'till you bit us
-

@@ -1,8 +1,11 @@
 ---
+album: Tommy Page
 artists:
 - Tommy Page
+external_ids:
+  spotify: spotify:track:5YRjPuBxgb9GaOfEvYCzHo
 features: []
-genres: []
+first_released_as_single: false
 key: a-shoulder-to-cry-on-tommy-page
 lyrics_url: https://www.azlyrics.com/lyrics/tommypage/ashouldertocryon.html
 name: A Shoulder To Cry On
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1988
+runtime: 202306
 ---
-
 Life is full of lots of up and downs,
 And the distance feels further when you're headed for the ground,
 And there's nothing more painful than to let you're feelings take you down,
@@ -135,6 +139,3 @@ Cause I'll be there!
 
 And when the whole world is gone
 You'll always have my shoulder to cry on...
-
-
-

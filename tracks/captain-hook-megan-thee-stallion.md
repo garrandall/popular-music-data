@@ -1,8 +1,11 @@
 ---
+album: Suga
 artists:
 - Megan Thee Stallion
+external_ids:
+  spotify: spotify:track:4c65mUFCSzlLJv7ughOoVZ
 features: []
-genres: []
+first_released_as_single: false
 key: captain-hook-megan-thee-stallion
 lyrics_url: https://www.azlyrics.com/lyrics/megantheestallion/captainhook.html
 name: Captain Hook
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 176749
 ---
-
 Real Hot Girl shit, ah
 (And if the beat live, you know Lil Ju made it)
 
@@ -83,6 +87,3 @@ Not a stylist, but I'll push your fucking wig back, huh
 
 Real Hot Girl shit, ah
 Mwah
-
-
-

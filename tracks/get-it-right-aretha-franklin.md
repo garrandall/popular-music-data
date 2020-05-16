@@ -1,8 +1,11 @@
 ---
+album: Get It Right
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1zaigPe4NB94tc4CRshK46
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-right-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-get-it-right-lyrics
 name: Get It Right
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 377093
 ---
 Alright gang, let's start from number one
 Let's throw down 'til it's done

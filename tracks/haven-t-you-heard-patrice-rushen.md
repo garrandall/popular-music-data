@@ -1,8 +1,11 @@
 ---
+album: Pizzazz
 artists:
 - Patrice Rushen
+external_ids:
+  spotify: spotify:track:0rgGwEybYIQvqHf5qEkFOB
 features: []
-genres: []
+first_released_as_single: false
 key: haven-t-you-heard-patrice-rushen
 lyrics_url: https://genius.com/Patrice-rushen-havent-you-heard-lyrics
 name: Haven't You Heard
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 405293
 ---
 Have you heard that there's an ad
 Listed in the classifieds

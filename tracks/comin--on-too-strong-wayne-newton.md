@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:2BOdbqFnRer3wiYNMaV33W
 features: []
-genres: []
+first_released_as_single: false
 key: comin--on-too-strong-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-comin-on-too-strong-lyrics
 name: Comin' On Too Strong
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1965
+runtime: 145160
 ---
 I feel there's something on your mind every time I hold ya tight
 When we kiss and say goodnight

@@ -1,8 +1,11 @@
 ---
+album: Careless
 artists:
 - Stephen Bishop
+external_ids:
+  spotify: spotify:track:5AHjRKFCVUaRClF2Oxx8Ld
 features: []
-genres: []
+first_released_as_single: false
 key: save-it-for-a-rainy-day-stephen-bishop
 lyrics_url: https://www.azlyrics.com/lyrics/stephenbishop/saveitforarainyday.html
 name: Save It For A Rainy Day
@@ -67,8 +70,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 192973
 ---
-
 Well, she's kind of pretty
 Drives a big car too
 And when I hold her in my arms
@@ -105,6 +109,3 @@ She'll break your heart like it was a toy
 
 You better save it for a rainy day
 You better save it for a rainy day
-
-
-

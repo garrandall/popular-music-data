@@ -1,8 +1,11 @@
 ---
+album: Speak Her Name (Expanded)
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:4HAyMHh9VqIVu3Ws4IbxKd
 features: []
-genres: []
+first_released_as_single: false
 key: a-corner-in-the-sun-walter-jackson
 name: A Corner In The Sun
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 140573
 ---
 

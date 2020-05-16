@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:6u0MfwA7p9rmTR5zYioATQ
 features: []
-genres: []
+first_released_as_single: false
 key: every-breath-i-take-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/everybreathitake.html
 name: Every Breath I Take
@@ -39,8 +42,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 165960
 ---
-
 (dip-dip, dooba bop bop) (dip-dip, dooba bop bop)
 
 I hardly ever thank the stars above
@@ -76,6 +80,3 @@ Ah, ah, ah, ah, uh, ah
 Ah, ah, ah, every breath I take
 
 (dip-dip, dooba bop bop) (dip-dip, dooba bop bop)...
-
-
-

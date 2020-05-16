@@ -1,8 +1,11 @@
 ---
+album: Rise
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:1CwNogTShsnsn1C8UhRmYX
 features: []
-genres: []
+first_released_as_single: true
 key: rise-katy-perry
 lyrics_url: https://genius.com/Katy-perry-rise-lyrics
 name: Rise
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 203474
 ---
 I won't just survive
 Oh, you will see me thrive

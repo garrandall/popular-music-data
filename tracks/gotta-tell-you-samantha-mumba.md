@@ -1,8 +1,11 @@
 ---
+album: Gotta Tell You
 artists:
 - Samantha Mumba
+external_ids:
+  spotify: spotify:track:7ccz9p1ErD6Kq5ZSQmyvLm
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-tell-you-samantha-mumba
 lyrics_url: https://www.azlyrics.com/lyrics/samanthamumba/gottatellyou.html
 name: Gotta Tell You
@@ -95,8 +98,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 201066
 ---
-
 Yeah, yeah, yeah, yeah, yeah
 
 Your love for me came as a waterfall
@@ -156,6 +160,3 @@ Don't wanna need you when you won't need me too
 Don't wanna tell you this now, but it wouldn't be
 right
 If I didn't tell you this tonight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The First Time
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:2wqXQjOmQ9KoBm9Ssgt4Fo
 features: []
-genres: []
+first_released_as_single: false
 key: peter-pan-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/peterpan.html
 name: Peter Pan
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2015
+runtime: 200040
 ---
-
 The smile, the charm, the words, the spark,
 Everything, you had it
 I guess I had a naive heart,
@@ -142,6 +146,3 @@ Yeah, you're never gonna be a man,
 Peter Pan
 
 Never gonna be a man
-
-
-

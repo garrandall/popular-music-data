@@ -1,8 +1,11 @@
 ---
+album: Busted
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:5u6tE49JDHC6qiA0d2Ci6i
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-would-i-be-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/whereverwouldibe.html
 name: Wherever Would I Be
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
+release_year: 1990
+runtime: 246186
 ---
-
 When my world is turning
 When it's turning upside down
 When all I see is rain
@@ -71,4 +75,3 @@ And I got reason to believe again
 Without you to love me
 I'd just be wasting time
 And goin' out of my mind
-

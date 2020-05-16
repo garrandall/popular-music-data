@@ -1,8 +1,11 @@
 ---
+album: Hybrid Theory
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:60a0Rd6pjrkxjPbaKzXjfq
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-end-linkin-park
 lyrics_url: https://genius.com/Linkin-park-in-the-end-lyrics
 name: In The End
@@ -163,6 +166,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2000
+runtime: 216880
 ---
 It starts with one
 One thing, I don't know why

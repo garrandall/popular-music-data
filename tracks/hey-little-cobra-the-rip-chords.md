@@ -1,8 +1,11 @@
 ---
+album: Hey Little Cobra
 artists:
 - The Rip Chords
+external_ids:
+  spotify: spotify:track:5LV5LgYnApxTF0BoZ3cDye
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-cobra-the-rip-chords
 lyrics_url: https://genius.com/The-rip-chords-hey-little-cobra-lyrics
 name: Hey Little Cobra
@@ -63,6 +66,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1962
+runtime: 119960
 ---
 Hey, Little Cobra
 Don't you know

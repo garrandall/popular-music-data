@@ -1,8 +1,11 @@
 ---
+album: I Told You
 artists:
 - Tory Lanez
+external_ids:
+  spotify: spotify:track:16Ah4QqH4mgYVXqfC4mdSd
 features: []
-genres: []
+first_released_as_single: false
 key: luv-tory-lanez
 lyrics_url: https://www.azlyrics.com/lyrics/torylanez/whatsluv.html
 name: Luv
@@ -95,9 +98,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 228640
 ---
-
-
 New York City
 We got another one
 Tory Lanez the don
@@ -160,6 +163,3 @@ What's love, got to do, got to do with it, babe
 (What's love, what's love, what's love if you got it for me babe)
 What's love, it should be about us, it should be about trust babe
 (We're supposed to be about each other)
-
-
-

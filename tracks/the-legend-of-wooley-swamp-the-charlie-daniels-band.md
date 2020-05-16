@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:15rq5I9f5h6KrsarWqAz9d
 features: []
-genres: []
+first_released_as_single: false
 key: the-legend-of-wooley-swamp-the-charlie-daniels-band
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/thelegendofwooleyswamp.html
 name: The Legend Of Wooley Swamp
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1973
+runtime: 254440
 ---
-
 Well, if you ever go back into Wooley Swamp, well, you better not go at night
 There's things out there in the middle of them woods
 That'd make a strong man die from fright
@@ -137,6 +141,3 @@ But I couldn't believe it, (I) just had to find out for myself
 And I couldn't conceive it, (I) never would listen to nobody else
 And I couldn't believe it, (I) just had to find out for myself
 There's some things in this world you just can't explain
-
-
-

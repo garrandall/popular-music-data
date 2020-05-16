@@ -1,8 +1,11 @@
 ---
+album: The Big Revival
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1Lh8n5owE0h0hgqWfqtvuD
 features: []
-genres: []
+first_released_as_single: false
 key: til-it-s-gone-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/tilitsgone.html
 name: Til It's Gone
@@ -63,8 +66,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 250533
 ---
-
 Got nowhere to go, all night to get there
 But I'm going there with you
 Tonight we're running on luck
@@ -114,6 +118,3 @@ I don't wanna waste a drop
 
 I'm gonna drink it all up
 'Til it's gone, 'til it's gone, it's gone
-
-
-

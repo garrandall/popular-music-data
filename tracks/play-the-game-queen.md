@@ -1,8 +1,11 @@
 ---
+album: The Game (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:4b0mX1GtrQLiUW9jpb6Xcx
 features: []
-genres: []
+first_released_as_single: false
 key: play-the-game-queen
 lyrics_url: https://genius.com/Queen-play-the-game-lyrics
 name: Play The Game
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
+release_year: 1980
+runtime: 212533
 ---
 Open up your mind and let me step inside
 Rest your weary head and let your heart decide

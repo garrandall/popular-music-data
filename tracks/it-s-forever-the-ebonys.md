@@ -1,8 +1,11 @@
 ---
+album: The Ebonys
 artists:
 - The Ebonys
+external_ids:
+  spotify: spotify:track:1PRyPD26m9oOWr9bzgICCS
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-forever-the-ebonys
 lyrics_url: https://genius.com/The-ebonys-its-forever-lyrics
 name: It's Forever
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1971
+runtime: 437706
 ---
 (Ba ba-ba ba-ba baaa)
 (Ba ba-ba ba-ba baaa)

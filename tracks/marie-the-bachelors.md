@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:4LdUHHBAvJrZIE5Q9wvWzE
 features: []
-genres: []
+first_released_as_single: false
 key: marie-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-marie-lyrics
 name: Marie
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 138760
 ---
 (Irving Berlin)
 

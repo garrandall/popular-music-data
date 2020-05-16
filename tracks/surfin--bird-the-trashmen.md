@@ -1,8 +1,11 @@
 ---
+album: Live Bird '65-'67
 artists:
 - The Trashmen
+external_ids:
+  spotify: spotify:track:4kOO2ADjyM5oJxcUiPsG15
 features: []
-genres: []
+first_released_as_single: true
 key: surfin--bird-the-trashmen
 lyrics_url: https://www.azlyrics.com/lyrics/trashmen/surfinbird.html
 name: Surfin' Bird
@@ -59,8 +62,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1963
+runtime: 150000
 ---
-
 A-well-a everybody's heard about the bird!
 Bird bird bird, b-bird's the word
 A-well-a bird bird bird, bird is the word
@@ -137,6 +141,3 @@ Oom mow m-mow
 Pa pa oom m-mow mow
 Oom mow m-mow
 Pa pa oom m-mow mow
-
-
-

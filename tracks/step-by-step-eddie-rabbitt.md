@@ -1,8 +1,11 @@
 ---
+album: Step By Step
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:49HfSdzgsXmzbZPMZ560Xn
 features: []
-genres: []
+first_released_as_single: false
 key: step-by-step-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/stepbystep.html
 name: Step By Step
@@ -95,8 +98,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1981
+runtime: 220706
 ---
-
 She seems a million miles away
 When she walks by you don't know what to say
 You gonna make a move, you better make it now
@@ -157,6 +161,3 @@ Take her in your arms and never let her go
 Don't you know that step by step
 Step by step
 You'll win her love
-
-
-

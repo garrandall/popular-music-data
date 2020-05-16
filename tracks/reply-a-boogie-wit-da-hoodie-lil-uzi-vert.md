@@ -1,9 +1,12 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:4t59cyfPphwb0scDRTrtKt
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: true
 key: reply-a-boogie-wit-da-hoodie-lil-uzi-vert
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-reply-lyrics
 name: Reply
@@ -16,6 +19,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 183588
 ---
 Woah, if I write (It's JoeFromYO)
 If I write you, girl, will you reply? (Go Grizz)

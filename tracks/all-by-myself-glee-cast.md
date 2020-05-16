@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2L0KAh7BezY9lbHqPLjk7R
 features: []
-genres: []
+first_released_as_single: false
 key: all-by-myself-glee-cast
 lyrics_url: https://genius.com/Glee-cast-all-by-myself-lyrics
 name: All By Myself
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2011
+runtime: 247306
 ---
 Sunshine:
 When I was young

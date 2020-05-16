@@ -1,8 +1,11 @@
 ---
+album: Bobby Darin Sings Ray Charles
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:0s9JzqeMRyJwPfcZ1Qw1aX
 features: []
-genres: []
+first_released_as_single: false
 key: what-d-i-say--part-1--bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-whatd-i-say-lyrics
 name: What'd I Say (Part 1)
@@ -39,6 +42,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 248466
 ---
 You must have been a beautiful baby
 You must have been a wonderful child

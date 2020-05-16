@@ -1,8 +1,11 @@
 ---
+album: Hang on Sloopy
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:27nSMBSuBs6b3OCEHPhXhu
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-sloopy-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-hang-on-sloopy-lyrics
 name: Hang On Sloopy
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 181733
 ---
 (Hang on, Sloopy)
 (Sloopy, hang on)

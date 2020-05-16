@@ -1,8 +1,11 @@
 ---
+album: On The Way To The Sky
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2YVyaN6rLkYSrGFcL9BdYS
 features: []
-genres: []
+first_released_as_single: false
 key: be-mine-tonight-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-be-mine-tonight-lyrics
 name: Be Mine Tonight
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1981
+runtime: 158440
 ---
 I never needed to hear the truth
 You never wanted to know

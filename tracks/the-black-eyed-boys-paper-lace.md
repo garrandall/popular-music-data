@@ -1,8 +1,11 @@
 ---
+album: The Night Chicago Died
 artists:
 - Paper Lace
+external_ids:
+  spotify: spotify:track:7k3shMhYOBCv5DHM8z7SiV
 features: []
-genres: []
+first_released_as_single: true
 key: the-black-eyed-boys-paper-lace
 lyrics_url: https://www.azlyrics.com/lyrics/paperlace/theblackeyedboys.html
 name: The Black-Eyed Boys
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1974
+runtime: 225520
 ---
-
 Oh, the black-eyed boys
 They motor-cycled into town
 The people cried, it's the black-eyed gang
@@ -88,6 +92,3 @@ Oh, the black-eyed boys
 Oh, the black-eyed boys
 Rock and rollin' - rock and rollin' - rock and rollin'
 Yeah yeah yeah yeah
-
-
-

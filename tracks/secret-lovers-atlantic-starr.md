@@ -1,8 +1,11 @@
 ---
+album: As The Band Turns
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:4nKPgKXfFiPW7cNex5oDtt
 features: []
-genres: []
+first_released_as_single: false
 key: secret-lovers-atlantic-starr
 lyrics_url: https://www.azlyrics.com/lyrics/atlanticstarr/secretlovers.html
 name: Secret Lovers
@@ -99,8 +102,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 330666
 ---
-
 Here we are, the two of us together
 Taking this crazy chance to be all alone
 We both know that we should not be together
@@ -150,6 +154,3 @@ Trying so hard to hide the way we feel
 But we can't let it go
 'Cause what we feel
 Is, oh, so real, so real, so real, so real
-
-
-

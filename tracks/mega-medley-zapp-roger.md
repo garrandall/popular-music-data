@@ -1,9 +1,12 @@
 ---
+album: All The Greatest Hits
 artists:
 - Zapp
 - Roger
+external_ids:
+  spotify: spotify:track:6QRHr540RPyPgWNyCtX0Y5
 features: []
-genres: []
+first_released_as_single: false
 key: mega-medley-zapp-roger
 lyrics_url: https://www.azlyrics.com/lyrics/zapp/megamedley.html
 name: Mega Medley
@@ -68,8 +71,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-11-13'
+release_year: 1993
+runtime: 248600
 ---
-
 More bounce
 More bounce
 More bounce
@@ -132,6 +136,3 @@ Oh, oh, oh, I heard it through the grapevine
 Oh, oh, oh, I heard it through the grapevine
 Oh, oh, oh, I heard it through the grapevine
 Oh, oh, oh, I heard it through the grapevine
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Down By the Station
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:5wthTiKPlzFNY93AoVcwsc
 features: []
-genres: []
+first_released_as_single: false
 key: lazy-summer-night-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-lazy-summer-night-lyrics
 name: Lazy Summer Night
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 135026
 ---
 It's such a lazy summer night
 There's not a moving thing in sight

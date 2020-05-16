@@ -1,8 +1,11 @@
 ---
+album: Three Window Coupe
 artists:
 - The Rip Chords
+external_ids:
+  spotify: spotify:track:0t0lQGbNepBQLTmk8HQtMW
 features: []
-genres: []
+first_released_as_single: false
 key: one-piece-topless-bathing-suit-the-rip-chords
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rip-Chords/One-Piece-Topless-Bathing-Suit
 name: One Piece Topless Bathing Suit
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1962
+runtime: 150560
 ---
 Go granny go
 

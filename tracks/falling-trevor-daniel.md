@@ -1,8 +1,11 @@
 ---
+album: Nicotine
 artists:
 - Trevor Daniel
+external_ids:
+  spotify: spotify:track:4TnjEaWOeW0eKTKIEvJyCa
 features: []
-genres: []
+first_released_as_single: true
 key: falling-trevor-daniel
 lyrics_url: https://www.azlyrics.com/lyrics/trevordaniel/falling.html
 name: Falling
@@ -75,8 +78,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2018
+runtime: 159381
 ---
-
 My last made me feel like I would never try again
 But when I saw you, I felt something I never felt
 Come closer, I'll give you all my love
@@ -113,6 +117,3 @@ I'll never give my all again
 When I open up and give my trust
 They find a way to break it down
 Tear me up inside, and you break me down
-
-
-

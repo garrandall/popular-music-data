@@ -1,8 +1,11 @@
 ---
+album: Don't Get It Twisted
 artists:
 - Pressha
+external_ids:
+  spotify: spotify:track:1MflDzSByzgySx1rV7Ocyl
 features: []
-genres: []
+first_released_as_single: false
 key: splackavellie-pressha
 lyrics_url: https://genius.com/Pressha-splackavellie-lyrics
 name: Splackavellie
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-12-05'
+release_year: 1998
+runtime: 242160
 ---
 Voice: You know there comes a period in every womans life when
 She gets frustrated or fed up with her man and all his silly hangups

@@ -1,9 +1,12 @@
 ---
+album: He's The DJ, I'm The Rapper
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:0Dm4GfHdXZnA78BfwuuOpv
 features: []
-genres: []
+first_released_as_single: false
 key: parents-just-don-t-understand-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-parents-just-dont-understand-lyrics
 name: Parents Just Don't Understand
@@ -84,6 +87,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1987
+runtime: 314840
 ---
 You know parents are the same no matter time nor place
 They don't understand that us kids are gonna make some mistakes

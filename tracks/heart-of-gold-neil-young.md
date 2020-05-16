@@ -1,8 +1,11 @@
 ---
+album: Harvest
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:1Q1b8eVkUPGlpSArl8JAVw
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-gold-neil-young
 lyrics_url: https://genius.com/Neil-young-heart-of-gold-lyrics
 name: Heart Of Gold
@@ -63,6 +66,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1972
+runtime: 187013
 ---
 I want to live, I want to give
 I've been a miner for a heart of gold

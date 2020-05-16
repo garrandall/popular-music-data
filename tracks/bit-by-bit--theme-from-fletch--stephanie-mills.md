@@ -1,8 +1,11 @@
 ---
+album: Fletch (Original Motion Picture Soundtrack)
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:7igb7vlsFZkREmg9wS8R5h
 features: []
-genres: []
+first_released_as_single: false
 key: bit-by-bit--theme-from-fletch--stephanie-mills
 lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/bitbybitthemefromfletch.html
 name: Bit By Bit (Theme From Fletch)
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 208626
 ---
-
 Moving in, making my connection
 Something's up, you can feel it in the air
 Private eyes, never know who's watching
@@ -84,6 +88,3 @@ Tonight can't lose, making all the headlines
 
 Bit by bit, gettin' to the bottom
 Bit by bit, nothing's gonna stop us tonight
-
-
-

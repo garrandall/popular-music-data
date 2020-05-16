@@ -1,8 +1,11 @@
 ---
+album: Savage
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:2DlpVY9jR43GlK2M6XYcgM
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-a-man-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/ineedaman.html
 name: I Need A Man
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 264333
 ---
-
 I don't care if you won't
 Talk to me
 You know I'm not that kind of girl.
@@ -100,6 +104,3 @@ You should know I'm not impressed
 'Cause there's just one thing
 That I'm looking for
 And he don't wear a dress.
-
-
-

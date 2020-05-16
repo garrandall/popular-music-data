@@ -1,8 +1,11 @@
 ---
+album: Livin' On The Fault Line
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:6MuvhJoYVjRZgmmjPPTBD7
 features: []
-genres: []
+first_released_as_single: false
 key: echoes-of-love-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/echoesoflove.html
 name: Echoes Of Love
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 178026
 ---
-
 I hear your voice everywhere
 It's echoes of love
 Making me look back over my shoulder
@@ -76,6 +80,3 @@ Keeps on haunting
 Echoes of love, echoes of love
 Keeps on burning
 Echoes of love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gutterflower
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:4KqTGPPmXowMPEoShSVOta
 features: []
-genres: []
+first_released_as_single: false
 key: here-is-gone-goo-goo-dolls
 lyrics_url: https://genius.com/Goo-goo-dolls-here-is-gone-lyrics
 name: Here Is Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2002-08-03'
+release_year: 2002
+runtime: 238173
 ---
 You and I got something
 But it's all and then it's nothing to me, yeah

@@ -1,8 +1,11 @@
 ---
+album: No More Jinx
 artists:
 - Wild Blue
+external_ids:
+  spotify: spotify:track:3HDqENDSzP13dpDE05sOhX
 features: []
-genres: []
+first_released_as_single: false
 key: fire-with-fire-wild-blue
 lyrics_url: https://www.musixmatch.com/lyrics/Wild-Blue-2/Fire-With-Fire
 name: Fire With Fire
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1986
+runtime: 273215
 ---
 ...
 Tell me, are you listening

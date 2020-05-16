@@ -1,8 +1,11 @@
 ---
+album: Phoebe Snow
 artists:
 - Phoebe Snow
+external_ids:
+  spotify: spotify:track:5uhULfoDgTvz7BeWlqrV4a
 features: []
-genres: []
+first_released_as_single: false
 key: poetry-man-phoebe-snow
 lyrics_url: https://www.azlyrics.com/lyrics/phoebesnow/poetryman.html
 name: Poetry Man
@@ -79,8 +82,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1974
+runtime: 278800
 ---
-
 You make me laugh
 'Cause your eyes they light the night
 They look right through me
@@ -116,6 +120,3 @@ Talk to me some more
 You don't have to go
 You're the Poetry Man
 You make things all rhyme
-
-
-

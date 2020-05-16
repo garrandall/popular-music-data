@@ -1,8 +1,11 @@
 ---
+album: Feels Like Today
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:0PprD6oGodYXihViAHuoOc
 features: []
-genres: []
+first_released_as_single: false
 key: feels-like-today-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/feelsliketoday.html
 name: Feels Like Today
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 200733
 ---
-
 I woke up this morning
 With this feeling inside me that I can't explain
 Like a weight that I've carried
@@ -105,6 +109,3 @@ Feels like
 Feels like your life changes
 Feels like
 Feels like your life changes
-
-
-

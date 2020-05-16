@@ -1,8 +1,11 @@
 ---
+album: Blondes Have More Fun
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:4z7maGZkAonDlXlwo8q69f
 features: []
-genres: []
+first_released_as_single: false
 key: da-ya-think-i-m-sexy--rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-da-ya-think-im-sexy-lyrics
 name: Da Ya Think I'm Sexy?
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1978
+runtime: 331333
 ---
 {Intro}
 

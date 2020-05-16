@@ -1,8 +1,11 @@
 ---
+album: Hits & Rarities
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:4m7o9S3a4Gj69b09nrdQv7
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-hanging-up-my-heart-for-you-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-im-hanging-up-my-heart-for-you-lyrics
 name: I'm Hanging Up My Heart For You
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 185093
 ---
 I'm gonna stop wasting time, honey
 Being a run around

@@ -1,8 +1,11 @@
 ---
+album: Heart Of Stone
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:5JGdpqo9wrRtOZtui5GShI
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-jesse-james-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/justlikejessejames.html
 name: Just Like Jesse James
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 245733
 ---
-
 You're struttin' into town like you're slingin' a gun
 Just a small town dude with a big city attitude
 Honey are ya lookin' for some trouble tonight
@@ -138,6 +142,3 @@ Tonight you're gonna go down in flames
 Just like Jesse James
 
 I'm gonna shoot you down Jesse James
-
-
-

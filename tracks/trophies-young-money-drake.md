@@ -1,9 +1,12 @@
 ---
+album: Rise Of An Empire
 artists:
 - Young Money
+external_ids:
+  spotify: spotify:track:6HfOzLLjsaXsehIFEsrxTk
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: trophies-young-money-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Young-Money-feat-Drake/Trophies
 name: Trophies
@@ -88,6 +91,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-08-02'
+release_year: 2014
+runtime: 188320
 ---
 Had hit records on my demo
 Did y'all boys not get the memo

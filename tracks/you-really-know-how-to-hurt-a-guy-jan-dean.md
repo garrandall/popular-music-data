@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:4ryl610VB8Nb7aOKwuA4wQ
 features: []
-genres: []
+first_released_as_single: false
 key: you-really-know-how-to-hurt-a-guy-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/youreallyknowhowtohurtaguy.html
 name: You Really Know How To Hurt A Guy
@@ -44,8 +47,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 200666
 ---
-
 We've been goin' steady now for such a long time
 And up until now, everything was just fine
 You say you still love me but it's not the same
@@ -85,6 +89,3 @@ You really know how to hurt a guy
 You really know how to make me cry
 You really know how to hurt a guy
 But what a mean way to say goodbye
-
-
-

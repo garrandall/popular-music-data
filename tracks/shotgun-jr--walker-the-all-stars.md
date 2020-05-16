@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:6VzM9C7CXyn1BQdgTJVqDx
 features: []
-genres: []
+first_released_as_single: false
 key: shotgun-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shotgun-lyrics
 name: Shotgun
@@ -64,6 +67,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 176626
 ---
 I said, Shotgun!
 Shoot 'em 'fore they run now

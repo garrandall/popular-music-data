@@ -1,8 +1,11 @@
 ---
+album: Ram Jam
 artists:
 - Ram Jam
+external_ids:
+  spotify: spotify:track:2gCg7yKK7h7WzGt8Dl2bj2
 features: []
-genres: []
+first_released_as_single: false
 key: black-betty-ram-jam
 lyrics_url: https://genius.com/Ram-jam-black-betty-lyrics
 name: Black Betty
@@ -75,6 +78,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1970
+runtime: 235800
 ---
 Whoa, Black Betty (bam-ba-lam)
 Whoa, Black Betty (bam-ba-lam)

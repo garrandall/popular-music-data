@@ -1,8 +1,11 @@
 ---
+album: Some Mad Hope
 artists:
 - Matt Nathanson
+external_ids:
+  spotify: spotify:track:38YgZVHPWOWsKrsCXz6JyP
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-get-higher-matt-nathanson
 lyrics_url: https://www.musixmatch.com/lyrics/Matt-Nathanson/Come-on-Get-Higher
 name: Come On Get Higher
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2007
+runtime: 215173
 ---
 I miss the sound of your voice
 I miss the rush of your skin

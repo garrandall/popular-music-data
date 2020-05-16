@@ -1,8 +1,11 @@
 ---
+album: Bernadette
 artists:
 - Bernadette Peters
+external_ids:
+  spotify: spotify:track:4kUKCTfQMQ4moExucmhg02
 features: []
-genres: []
+first_released_as_single: false
 key: gee-whiz-bernadette-peters
 lyrics_url: https://genius.com/Bernadette-peters-gee-whiz-lyrics
 name: Gee Whiz
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1980
+runtime: 156933
 ---
 Gee whiz, look at his eyes
 Gee whiz, how they hypnotize

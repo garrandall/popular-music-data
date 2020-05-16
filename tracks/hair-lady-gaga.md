@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:2uk0YH2ahN0UE5jaCMa5jn
 features: []
-genres: []
+first_released_as_single: false
 key: hair-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-hair-lyrics
 name: Hair
@@ -11,6 +14,8 @@ rankings:
   rank: 12
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 307893
 ---
 Oh, oh, oh, oh, oh, oh, oh, oh, woah
 Oh, oh, oh, oh, oh, oh, oh, oh, woah

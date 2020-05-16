@@ -1,8 +1,11 @@
 ---
+album: Hotter Than July
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4bHyimydtSofP9RFMdUCJq
 features: []
-genres: []
+first_released_as_single: false
 key: i-ain-t-gonna-stand-for-it-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-i-aint-gonna-stand-for-it-lyrics
 name: I Ain't Gonna Stand For It
@@ -83,6 +86,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1980
+runtime: 278964
 ---
 Don't wanna believe what they're telling me
 Somebody's been picking in my cherry tree

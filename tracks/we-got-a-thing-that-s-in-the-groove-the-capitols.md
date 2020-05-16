@@ -1,8 +1,11 @@
 ---
+album: We Got A Thing That's In The Groove
 artists:
 - The Capitols
+external_ids:
+  spotify: spotify:track:2Du61OdJ7CXmUBG7FaZST6
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-a-thing-that-s-in-the-groove-the-capitols
 name: We Got A Thing That's In The Groove
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 147186
 ---
 

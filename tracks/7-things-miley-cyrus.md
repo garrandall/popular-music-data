@@ -1,8 +1,11 @@
 ---
+album: Breakout
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:5ecZWU5uQOiCVSnPxBZNmT
 features: []
-genres: []
+first_released_as_single: false
 key: 7-things-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/7things.html
 name: 7 Things
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
+release_year: 2008
+runtime: 213453
 ---
-
 I probably shouldn't say this
 But at times I get so scared
 When I think about the previous
@@ -149,6 +153,3 @@ I want to be with the one I know
 And the 7th thing I like the most that you do
 You make me love you
 You do
-
-
-

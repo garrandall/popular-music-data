@@ -1,8 +1,11 @@
 ---
+album: Eve-Olution
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:0klzutEUO6IX3QSmtRDFrq
 features: []
-genres: []
+first_released_as_single: false
 key: satisfaction-eve
 lyrics_url: https://www.azlyrics.com/lyrics/eve/satisfaction.html
 name: Satisfaction
@@ -71,9 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 258733
 ---
-
-
 Now I'ma do this thing like it ain't done before
 Never leave the game stranded, I had to give more
 I'ma give you what you want, what you waitin' for?
@@ -172,6 +175,3 @@ They never thought that I would make it rappin'
 Anything I need
 Gotta have it, bet I'm gonna grab it
 Ain't nothin' better than the satisfaction
-
-
-

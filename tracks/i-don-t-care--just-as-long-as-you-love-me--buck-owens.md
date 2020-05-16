@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits, Vol. 3
 artists:
 - Buck Owens
+external_ids:
+  spotify: spotify:track:5WCqBgvwxBV7I3WkFP3lkl
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-care--just-as-long-as-you-love-me--buck-owens
 lyrics_url: https://www.musixmatch.com/lyrics/Buck-Owens/I-Don-t-Care
 name: I Don't Care (Just As Long As You Love Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 131560
 ---
 Well, I don't care if the sun don't shine
 I don't care if the bells don't chime

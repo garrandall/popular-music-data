@@ -1,8 +1,11 @@
 ---
+album: Teaser And The Firecat
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:1ppuHX1oVMku5LTL0swNZP
 features: []
-genres: []
+first_released_as_single: false
 key: peace-train-cat-stevens
 lyrics_url: https://genius.com/Cat-stevens-peace-train-lyrics
 name: Peace Train
@@ -55,6 +58,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 251333
 ---
 Now I've been happy lately
 Thinkin' about the good things to come

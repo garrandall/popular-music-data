@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:5BHQG3Ibf7qZUlhWFaXqDa
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-with-your-girlfriend-i-m-bored-ariana-grande
 lyrics_url: https://www.musixmatch.com/lyrics/Ariana-Grande/break-up-with-your-girlfriend-i-m-bored
 name: Break Up With Your Girlfriend I'm Bored
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2018
+runtime: 190440
 ---
 You got me some type of way (hm)
 Ain't used to feelin' this way (hm-hm)

@@ -1,8 +1,11 @@
 ---
+album: Balin
 artists:
 - Marty Balin
+external_ids:
+  spotify: spotify:track:1T6qWyfo0RYyN0YFzC3APi
 features: []
-genres: []
+first_released_as_single: false
 key: atlanta-lady--something-about-your-love--marty-balin
 lyrics_url: https://www.azlyrics.com/lyrics/martybalin/atlantalady.html
 name: Atlanta Lady (Something About Your Love)
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 228560
 ---
-
 Atlanta lady, I'm losing my mind
 Girl, I want my arms around you now
 For the thrill of you one more time
@@ -107,6 +111,3 @@ There's just something about you
 
 There's just something about your love
 There's just something about you
-
-
-

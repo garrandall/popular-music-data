@@ -1,8 +1,11 @@
 ---
+album: Hey Paul - The Very Best Of
 artists:
 - Paul and Paula
+external_ids:
+  spotify: spotify:track:44bYUSTnQmg2FUV2PfLaro
 features: []
-genres: []
+first_released_as_single: false
 key: something-old-something-new-paul-and-paula
 lyrics_url: https://genius.com/Paul-and-paula-something-old-something-new-lyrics
 name: Something Old Something New
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 131720
 ---
 Something old
 Something new

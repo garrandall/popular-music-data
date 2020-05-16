@@ -1,8 +1,11 @@
 ---
+album: Where Country Grows
 artists:
 - Ashton Shepherd
+external_ids:
+  spotify: spotify:track:7qxgBX1BU0B2hwp7NjQV9Y
 features: []
-genres: []
+first_released_as_single: false
 key: look-it-up-ashton-shepherd
 lyrics_url: https://www.azlyrics.com/lyrics/ashtonshepherd/lookitup.html
 name: Look It Up
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 179013
 ---
-
 The word is faithful, look it up 
 It don't mean sneakin' around 
 Behind my back like you ain't gettin' enough 
@@ -59,6 +63,3 @@ Look it up
 Asshole 
 
 Just look it up, look it up
-
-
-

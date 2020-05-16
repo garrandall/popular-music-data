@@ -1,9 +1,12 @@
 ---
+album: Universal Soldier
 artists:
 - Pastor Troy
+external_ids:
+  spotify: spotify:track:5fy0FmftBG7KZK7PxyE4kU
 features:
 - Ms. Jade
-genres: []
+first_released_as_single: false
 key: are-we-cuttin--pastor-troy-ms--jade
 lyrics_url: https://www.azlyrics.com/lyrics/pastortroy/arewecuttin.html
 name: Are We Cuttin'
@@ -28,11 +31,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 2002
+runtime: 296640
 ---
-
-
-
-
 Ha-ha, ha-ha, come here girl
 Ha-ha, ha-ha, come here girl
 Ha-ha, ha-ha, come here girl
@@ -97,4 +98,3 @@ Pastor Troy, won't you just pass the boy
 In a, split second I'm answerin all questions
 You dummies are still confessin how money make you undress
 And so tell me
-

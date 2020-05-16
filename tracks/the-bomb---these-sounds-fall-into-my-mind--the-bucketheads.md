@@ -1,8 +1,11 @@
 ---
+album: All In The Mind
 artists:
 - The Bucketheads
+external_ids:
+  spotify: spotify:track:4OIMUs3KgUh77mjzJ8I5f9
 features: []
-genres: []
+first_released_as_single: false
 key: the-bomb---these-sounds-fall-into-my-mind--the-bucketheads
 lyrics_url: https://genius.com/The-bucketheads-the-bomb-these-sounds-fall-into-my-mind-lyrics
 name: The Bomb! (These Sounds Fall Into My Mind)
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1995
+runtime: 203826
 ---
 These sounds, The-the-the-the
 These sounds, These, These

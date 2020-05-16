@@ -1,8 +1,11 @@
 ---
+album: Life Is A Song Worth Singing
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:1LYyzm8SQLRL8EE5yt61Or
 features: []
-genres: []
+first_released_as_single: false
 key: close-the-door-teddy-pendergrass
 lyrics_url: https://genius.com/Teddy-pendergrass-close-the-door-lyrics
 name: Close The Door
@@ -59,6 +62,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1972
+runtime: 325853
 ---
 Close the door
 Let me give you what you've been waiting for

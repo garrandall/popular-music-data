@@ -1,8 +1,11 @@
 ---
+album: My Guy
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:2icF6bsxF94JgEnAQupHrn
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-easy-for-two-is-so-hard-for-one-mary-wells
 lyrics_url: https://genius.com/Mary-wells-whats-easy-for-two-is-so-hard-for-one-lyrics
 name: What's Easy For Two Is So Hard For One
@@ -75,6 +78,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1963
+runtime: 177625
 ---
 Let's get together and go for a walk in the park
 And while we're walking we can steal a little kiss in the dark

@@ -1,8 +1,12 @@
 ---
+album: The Amazing James Brown
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:2ccAMXmyEIP9JUIWSsTZFA
+features:
+- The Famous Flames
+first_released_as_single: false
 key: i-don-t-mind-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-i-dont-mind-lyrics
 name: I Don't Mind
@@ -39,6 +43,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 163266
 ---
 I don't mind...your love
 I don't mind the one you're thinking of

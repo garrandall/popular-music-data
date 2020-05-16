@@ -1,8 +1,11 @@
 ---
+album: Living In A Fantasy
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:6NBzu71ByNuXGhiJW5FNq3
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-a-fantasy-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/livinginafantasy.html
 name: Living In A Fantasy
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
+release_year: 1980
+runtime: 266506
 ---
-
 You, you are my reason to live
 You make me shine, with all the love that you give
 And when I think of you, I keep driftin' away, yeah
@@ -103,6 +107,3 @@ Love has got a hold on me
 I'm drowning
 Ever since you came to me
 Living in a dream
-
-
-

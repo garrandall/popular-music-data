@@ -1,8 +1,11 @@
 ---
+album: Phantoms
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:3RKV0qgfRwF902iLcbdZDv
 features: []
-genres: []
+first_released_as_single: false
 key: are-we-ourselves--the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/areweourselves.html
 name: Are We Ourselves?
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
+release_year: 1984
+runtime: 147760
 ---
-
 Lost feelings return
 So maybe I can learn
 To stop the world of a lie
@@ -99,6 +103,3 @@ Ooo, do we know, are we ourselves?
 Are we ourselves?
 Do we really know?
 (Are we ourselves?)
-
-
-

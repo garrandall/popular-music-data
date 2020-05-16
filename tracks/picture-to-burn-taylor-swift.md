@@ -1,8 +1,11 @@
 ---
+album: Taylor Swift
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:32mVHdy0bi1XKgr0ajsBlG
 features: []
-genres: []
+first_released_as_single: false
 key: picture-to-burn-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/picturetoburn.html
 name: Picture To Burn
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2006
+runtime: 173066
 ---
-
 State the obvious, I didn't get my perfect fantasy
 I realize you love yourself more than you could ever love me
 So go and tell your friends that I'm obsessive and crazy
@@ -147,6 +151,3 @@ You're just another picture to burn!
 Burn, burn, burn, baby, burn
 You're just another picture to burn
 Baby, burn...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Nick Cannon
 artists:
 - Nick Cannon
+external_ids:
+  spotify: spotify:track:0X4lKKXNQz7cds7ep89z2b
 features:
 - B2K
-genres: []
+first_released_as_single: false
 key: feelin--freaky-nick-cannon-b2k
 lyrics_url: https://www.azlyrics.com/lyrics/nickcannon/feelinfreaky.html
 name: Feelin' Freaky
@@ -20,9 +23,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
+release_year: 2003
+runtime: 215466
 ---
-
-
 'Yo put the kids to bed
 Yo Shawty...I know you aint scared
 
@@ -150,6 +153,3 @@ Excuse me whats ya name?
 
 
 Don't say nothing
-
-
-

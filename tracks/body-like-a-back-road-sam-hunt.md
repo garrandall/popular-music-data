@@ -1,8 +1,11 @@
 ---
+album: SOUTHSIDE
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:7mldq42yDuxiUNn08nvzHO
 features: []
-genres: []
+first_released_as_single: true
 key: body-like-a-back-road-sam-hunt
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-Hunt/Body-Like-a-Back-Road
 name: Body Like A Back Road
@@ -171,6 +174,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
+release_year: 2017
+runtime: 165386
 ---
 Got a girl from the Southside
 Got braids in her hair

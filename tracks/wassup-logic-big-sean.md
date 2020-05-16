@@ -1,9 +1,12 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:5KVciTEfXvpcFHR3RFbtJy
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: wassup-logic-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/logic/wassup.html
 name: Wassup
@@ -12,9 +15,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 219480
 ---
-
-
 I'm like Wassup hoe?
 Where you been?
 What you know about?
@@ -146,6 +149,3 @@ Who's really down or just down and out
 Never know
 Who's really down
 I-I-I-I-I'm like
-
-
-

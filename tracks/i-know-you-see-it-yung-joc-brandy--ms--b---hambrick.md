@@ -1,9 +1,12 @@
 ---
+album: I Know You See It
 artists:
 - Yung Joc
+external_ids:
+  spotify: spotify:track:1bAMeiA8k2rCbC8pPTOzTE
 features:
 - Brandy 'Ms. B.' Hambrick
-genres: []
+first_released_as_single: false
 key: i-know-you-see-it-yung-joc-brandy--ms--b---hambrick
 lyrics_url: https://www.azlyrics.com/lyrics/yungjoc/iknowyouseeitsingleversion.html
 name: I Know You See It
@@ -88,9 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2006
+runtime: 208720
 ---
-
-
 Inny Meeny Minny Mo
 How Many Bitches From The Club Won't Go
 (I Know You See It, I Know You See It)
@@ -178,6 +181,3 @@ She Chewing On The Dick Like A Piece Of Bubble Yum
 I'm Like Inny Meeny Minny Mo
 How Many Niggas From The Club Won't Go
 (I Know You See It, I Know You See It)
-
-
-

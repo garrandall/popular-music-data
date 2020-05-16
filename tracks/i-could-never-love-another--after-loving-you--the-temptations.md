@@ -1,8 +1,11 @@
 ---
+album: Wish It Would Rain
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3IVgZoEiWpv2FKgWpmdPeL
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-never-love-another--after-loving-you--the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/icouldneverloveanotherafterlovingyou.html
 name: I Could Never Love Another (After Loving You)
@@ -47,8 +50,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 214066
 ---
-
 Girl, I can't believe my ears.
 Are you really telling my goodbye?
 See, you've taken away my reason for livin'
@@ -109,6 +113,3 @@ No other love will I share 'cause none could compare
 After loving you.
 Baby, baby, baby, baby.
 (Never love another, after loving you)
-
-
-

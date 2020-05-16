@@ -1,8 +1,11 @@
 ---
+album: Wonderful Wanda
 artists:
 - Wanda Jackson
+external_ids:
+  spotify: spotify:track:27kB8oSksaiZLIsAgzgDL1
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-cried-every-time-you-hurt-me-wanda-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/ificriedeverytimeyouhurtme.html
 name: If I Cried Every Time You Hurt Me
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1962
+runtime: 154306
 ---
-
 If I'd cry every time you hurt me
 I'd be cryin' all the time
 If I made a scene each time you were mean
@@ -60,6 +64,3 @@ But I love you so and I'll stay somehow
 My tears won't flow and my head won't bow
 If I'd cry every time you hurt me
 I'd be cryin' all the time
-
-
-

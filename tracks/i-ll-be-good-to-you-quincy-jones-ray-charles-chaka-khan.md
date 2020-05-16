@@ -1,10 +1,13 @@
 ---
+album: Back On The Block
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:4cLXNwNqXWT1CTR5Gyr7ei
 features:
 - Ray Charles
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: i-ll-be-good-to-you-quincy-jones-ray-charles-chaka-khan
 lyrics_url: https://genius.com/Quincy-jones-ill-be-good-to-you-lyrics
 name: I'll Be Good To You
@@ -73,6 +76,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 294626
 ---
 Want to know, baby
 Just how you feel, girl

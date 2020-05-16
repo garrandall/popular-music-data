@@ -1,8 +1,12 @@
 ---
+album: My City of Ruins / My Father's House (Live) (Benefiting Artists for Peace and
+  Justice Haiti Relief)
 artists:
 - Eddie Vedder
+external_ids:
+  spotify: spotify:track:21BL3kK8feVhrEz27j2GER
 features: []
-genres: []
+first_released_as_single: true
 key: my-city-of-ruins-eddie-vedder
 lyrics_url: https://genius.com/Eddie-vedder-my-city-of-ruins-lyrics
 name: My City Of Ruins
@@ -11,6 +15,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2010
+runtime: 241643
 ---
 There's a blood red circle
 On a cold dark ground

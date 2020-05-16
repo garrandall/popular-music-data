@@ -1,8 +1,11 @@
 ---
+album: 'Remember Then: 27 Original Classics'
 artists:
 - The Earls
+external_ids:
+  spotify: spotify:track:7bPkugM3pcS49I0b1UJP8Q
 features: []
-genres: []
+first_released_as_single: false
 key: remember-then-the-earls
 lyrics_url: https://genius.com/The-earls-remember-then-lyrics
 name: Remember Then
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 129586
 ---
 Re-mem-mem, re-mem-mem-mem-ber oop-shoop
 Re-mem-mem, re-mem-mem-mem-ber oop-shoop

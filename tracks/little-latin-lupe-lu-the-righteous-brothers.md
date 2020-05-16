@@ -1,8 +1,11 @@
 ---
+album: Reunion
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:4chenBloh1KMtdNSjkDAzR
 features: []
-genres: []
+first_released_as_single: false
 key: little-latin-lupe-lu-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/littlelatinlupelu.html
 name: Little Latin Lupe Lu
@@ -35,8 +38,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 139586
 ---
-
 Talk about my baby
 A little Latin Lupelu
 She's a hot footin' baby
@@ -75,6 +79,3 @@ A little Latin Lupelu
 A little Latin Lupelu
 A little Latin Lupelu
 A little Latin Lupelu
-
-
-

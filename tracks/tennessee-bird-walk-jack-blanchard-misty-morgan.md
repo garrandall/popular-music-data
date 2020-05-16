@@ -1,9 +1,12 @@
 ---
+album: Life And Death (And Almost Everything Else).
 artists:
 - Jack Blanchard
 - Misty Morgan
+external_ids:
+  spotify: spotify:track:0jZsxKUontwAuac1Yp613y
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-bird-walk-jack-blanchard-misty-morgan
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Blanchard/Tennessee-Bird-Walk-feat-Misty-Morgan
 name: Tennessee Bird Walk
@@ -60,6 +63,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 160200
 ---
 Take away the trees and the birds
 All have to sit upon the ground, uum

@@ -1,8 +1,11 @@
 ---
+album: Signs Of Life
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:5d0ixACDQzqeMJnOyM2vOe
 features: []
-genres: []
+first_released_as_single: false
 key: eye-on-you-billy-squier
 lyrics_url: https://genius.com/Billy-squier-eye-on-you-lyrics
 name: Eye On You
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1984
+runtime: 280775
 ---
 I watch you on the tv--you're with me every place I go
 I'm caught up in the daydream--I'm into everyone you know

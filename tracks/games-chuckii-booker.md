@@ -1,8 +1,11 @@
 ---
+album: Niice 'N Wiild
 artists:
 - Chuckii Booker
+external_ids:
+  spotify: spotify:track:1zyqa3Hv2KpCGz8L9AirJi
 features: []
-genres: []
+first_released_as_single: false
 key: games-chuckii-booker
 lyrics_url: https://genius.com/Chuckii-booker-games-lyrics
 name: Games
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
+release_year: 1992
+runtime: 325600
 ---
 Would you be with me if I had nothing
 If I couldn't buy you something

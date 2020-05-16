@@ -1,8 +1,11 @@
 ---
+album: It's Pony Time/Let's Twist Again
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:1INWPr855fwWdAOeecbu0W
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-twist-again-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/letstwistagain.html
 name: Let's Twist Again
@@ -99,8 +102,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1961
+runtime: 137360
 ---
-
 Come on everybody!
 Clap your hands!
 All you looking good!
@@ -152,6 +156,3 @@ Let's twist again, like we did last year!
 
 Come on, let's twist again,
 Twistin' time is heeeere!
-
-
-

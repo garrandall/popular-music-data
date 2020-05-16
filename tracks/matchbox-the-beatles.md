@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:4jXXFZtmxoYU15WKTIiYrE
 features: []
-genres: []
+first_released_as_single: false
 key: matchbox-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/matchbox.html
 name: Matchbox
@@ -39,8 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 118746
 ---
-
 I said I'm sitting here watching
 Matchbox hole in my clothes
 I said I'm sitting here wondering
@@ -75,6 +79,3 @@ I said I'm sitting here watching
 Matchbox hole in my clothes
 I ain't got no matches but I sure
 Got a long way to go
-
-
-

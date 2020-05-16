@@ -1,8 +1,11 @@
 ---
+album: The Many Sides of Troy Shondell
 artists:
 - Troy Shondell
+external_ids:
+  spotify: spotify:track:5CxzqLlmJNMDYGQtYsDNh0
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-troy-shondell
 lyrics_url: https://genius.com/Troy-shondell-this-time-lyrics
 name: This Time
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 155040
 ---
 This time we're really breaking up
 This time we said way too much

@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:4KBx9DSSbFaumwlEqjX4CP
 features: []
-genres: []
+first_released_as_single: false
 key: thank-u-next-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-thank-u-next-lyrics
 name: Thank U Next
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 207320
 ---
 Thought I'd end up with Sean
 But he wasn't a match

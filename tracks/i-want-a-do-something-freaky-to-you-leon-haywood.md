@@ -1,8 +1,11 @@
 ---
+album: Come And Get Yourself Some
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:4xiVqeo21JSq78pFGojGVY
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-a-do-something-freaky-to-you-leon-haywood
 lyrics_url: https://www.musixmatch.com/lyrics/Leon-Haywood/I-Want-a-Do-Something-Freaky-To-You
 name: I Want'a Do Something Freaky To You
@@ -75,6 +78,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1974
+runtime: 352893
 ---
 I want'a do something freaky to you
 Baby

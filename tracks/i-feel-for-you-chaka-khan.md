@@ -1,8 +1,11 @@
 ---
+album: I Feel For You
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:5yR9u8QiOt8hJaddv32oo7
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-for-you-chaka-khan
 lyrics_url: https://genius.com/Chaka-khan-i-feel-for-you-lyrics
 name: I Feel For You
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
+release_year: 1984
+runtime: 343400
 ---
 MELLE MEL:
 Chaka, Chaka, Chaka, Chaka Khan

@@ -1,10 +1,13 @@
 ---
+album: I Hope We Get To Love In Time
 artists:
 - Marilyn McCoo
 - Billy Davis
 - Jr.
+external_ids:
+  spotify: spotify:track:2b8HYUkTwYYbDrVV7r4KYC
 features: []
-genres: []
+first_released_as_single: false
 key: i-hope-we-get-to-love-in-time-marilyn-mccoo-billy-davis-jr-
 lyrics_url: https://genius.com/Marilyn-mccoo-and-billy-davis-jr-i-hope-we-get-to-love-in-time-lyrics
 name: I Hope We Get To Love In Time
@@ -41,6 +44,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 179253
 ---
 I hope we get to love in time
 'Cause I got to make you mine

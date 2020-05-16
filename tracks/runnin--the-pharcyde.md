@@ -1,8 +1,11 @@
 ---
+album: Labcabincalifornia
 artists:
 - The Pharcyde
+external_ids:
+  spotify: spotify:track:0XgpiStoxq1IJncYlPrvZ5
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--the-pharcyde
 lyrics_url: https://www.azlyrics.com/lyrics/pharcyde/runnin.html
 name: Runnin'
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-01-27'
+release_year: 1995
+runtime: 296266
 ---
-
 Can't keep runnin' away...
 
 
@@ -116,6 +120,3 @@ cuz when you in my position, it ain't never easy
 to do any type of maintaining cuz all this gaming and famin' from
 entertainin' is hella straining to the brain and...
 But I can't keep runnin I just gotta keep keen and cunnin'...
-
-
-

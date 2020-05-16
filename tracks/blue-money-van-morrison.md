@@ -1,8 +1,11 @@
 ---
+album: His Band and the Street Choir
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:7xl2NWfTiZzTycHhDwws7u
 features: []
-genres: []
+first_released_as_single: false
 key: blue-money-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/bluemoney.html
 name: Blue Money
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1970
+runtime: 228106
 ---
-
 Photographer smile
 Take a break for a while
 Take a rest, do your very best
@@ -179,6 +183,3 @@ Juice money
 Ow!
 
 Long as you wanna be.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5hQSXkFgbxjZo9uCwd11so
 features: []
-genres: []
+first_released_as_single: false
 key: false-god-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/falsegod.html
 name: False God
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 200306
 ---
-
 We were crazy to think
 Crazy to think that this could work
 Remember how I said I'd die for you?
@@ -68,6 +72,3 @@ Still worship this love
 Even if it's a false god
 Even if it's a false god
 Still worship this love
-
-
-

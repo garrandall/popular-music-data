@@ -1,8 +1,11 @@
 ---
+album: 'Obsession: The Best Of Animotion'
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:32oO3V7ccsFg5AbYYedyvL
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-animotion
 lyrics_url: https://genius.com/Animotion-i-want-you-lyrics
 name: I Want You
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1986
+runtime: 277666
 ---
 Time and time again
 I keep trying to

@@ -1,8 +1,11 @@
 ---
+album: Forever My Lady
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:2T12BleYYXpuWuT1zuXnfS
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-waiting-jodeci
 lyrics_url: https://genius.com/Jodeci-im-still-waiting-lyrics
 name: I'm Still Waiting
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1991
+runtime: 261360
 ---
 It's been so long
 Since I touched a lady

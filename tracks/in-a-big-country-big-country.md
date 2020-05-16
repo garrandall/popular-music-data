@@ -1,8 +1,11 @@
 ---
+album: The Crossing
 artists:
 - Big Country
+external_ids:
+  spotify: spotify:track:1tAFvq63jO3n9WaDCZPJNh
 features: []
-genres: []
+first_released_as_single: false
 key: in-a-big-country-big-country
 lyrics_url: https://www.musixmatch.com/lyrics/Big-Country/In-a-Big-Country
 name: In A Big Country
@@ -67,6 +70,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 284066
 ---
 Shock
 

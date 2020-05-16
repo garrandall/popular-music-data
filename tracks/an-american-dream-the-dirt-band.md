@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 70's
 artists:
 - The Dirt Band
+external_ids:
+  spotify: spotify:track:6bPELB2u0bEx6LFpJPhnx8
 features: []
-genres: []
+first_released_as_single: false
 key: an-american-dream-the-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/anamericandream.html
 name: An American Dream
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1979
+runtime: 211733
 ---
-
 I beg your pardon, mama, what did you say?
 My mind was drifting off on Martinique Bay.
 It's not that I'm not interested, you see;
@@ -124,6 +128,3 @@ Just think Jamaican in the moonlight.
 Sandy beaches, drinking rum every night.
 We got no money, mama, but we can go;
 We'll split the difference, go to Coconut Grove.
-
-
-

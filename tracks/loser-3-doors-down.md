@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:1aC1IBAETh2XYGOE8kCC6t
 features: []
-genres: []
+first_released_as_single: false
 key: loser-3-doors-down
 lyrics_url: https://www.azlyrics.com/lyrics/3doorsdown/loser.html
 name: Loser
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 2000
+runtime: 264800
 ---
-
 Breathe in right away
 Nothing seems to fill this place
 I need this every time
@@ -148,6 +152,3 @@ You're getting closer
 You're holding the rope and I'm taking the fall (I'm taking, I'm taking)
 'Cause I'm a loser
 Yeah
-
-
-

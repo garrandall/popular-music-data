@@ -1,9 +1,12 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5OiR5z4F0mbL9sM1F2Y5CE
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: loveeeeeee-song-rihanna-future
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/loveeeeeeesong.html
 name: Loveeeeeee Song
@@ -88,8 +91,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2012
+runtime: 256320
 ---
-
 Ain't nothin' wrong with it
 
 I don't wanna give you the wrong impression
@@ -157,6 +161,3 @@ And I hope I'm not sounding too desperate
 I need love and affection
 Love, love, love, love and affection
 Love, love, L-O-V-E-E-E and affection
-
-
-

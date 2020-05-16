@@ -1,8 +1,11 @@
 ---
+album: The One That You Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:38mMrNPAJKXMBK2l9actEA
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-am--just-when-i-thought-i-was-over-you--air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/hereiam.html
 name: Here I Am (Just When I Thought I Was Over You)
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 230400
 ---
-
 Here I am playing with those memories again
 And just when I thought time had set me free
 Those thoughts of you keep taunting me
@@ -118,6 +122,3 @@ Oh baby those memories come crashing through
 And I just can't go on without
 Go on without
 It's just no good without you
-
-
-

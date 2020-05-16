@@ -1,8 +1,11 @@
 ---
+album: Chocolate City
 artists:
 - Parliament
+external_ids:
+  spotify: spotify:track:0tkokbqEygQIxlQ8oap3KN
 features: []
-genres: []
+first_released_as_single: false
 key: chocolate-city-parliament
 lyrics_url: https://www.azlyrics.com/lyrics/parliament/chocolatecity.html
 name: Chocolate City
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 336426
 ---
-
 Uh, what's happenin', CC?
 They still call it the White House, but that's a temporary condition too
 Can you dig it, CC?
@@ -116,6 +120,3 @@ Heh
 Get deep
 Uh
 Just got New York, I'm told
-
-
-

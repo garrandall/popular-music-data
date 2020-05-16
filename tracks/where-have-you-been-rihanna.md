@@ -1,8 +1,11 @@
 ---
+album: Talk That Talk
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5WQQIDU3HRaMyPkob8mpFb
 features: []
-genres: []
+first_released_as_single: false
 key: where-have-you-been-rihanna
 lyrics_url: https://genius.com/Rihanna-where-have-you-been-lyrics
 name: Where Have You Been
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2011
+runtime: 242680
 ---
 I've been everywhere, man, looking for someone
 Someone who can please me, love me all night long

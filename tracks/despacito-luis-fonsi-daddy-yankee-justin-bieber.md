@@ -1,10 +1,13 @@
 ---
+album: VIDA
 artists:
 - Luis Fonsi
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:6rPO02ozF3bM7NnOV4h6s2
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: true
 key: despacito-luis-fonsi-daddy-yankee-justin-bieber
 lyrics_url: https://genius.com/Malinda-google-translate-sings-despacito-by-luis-fonsi-and-daddy-yankee-ft-justin-bieber-lyrics
 name: Despacito
@@ -217,6 +220,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 228826
 ---
 Come at me
 Many priests, the good things in there

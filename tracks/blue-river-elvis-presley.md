@@ -1,8 +1,11 @@
 ---
+album: Double Trouble
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0puKKRrt0j7O8wDroYOedE
 features: []
-genres: []
+first_released_as_single: false
 key: blue-river-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/blueriver.html
 name: Blue River
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1966
+runtime: 130386
 ---
-
 Blue river, it can't be found on any map that I know
 But it's the place where lonely lovers all go
 To cry their tears, blue river
@@ -26,6 +30,3 @@ But I gotta go
 Blue river because you never really cared about me
 From now on baby that's where I'm gonna be
 Cryin' over you, by the river of blue
-
-
-

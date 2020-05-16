@@ -1,8 +1,11 @@
 ---
+album: Living In The Material World
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:3XLeGkYI3ekR5ByhrNauEN
 features: []
-genres: []
+first_released_as_single: false
 key: bangla-desh-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/bangladesh.html
 name: Bangla-Desh
@@ -35,8 +38,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 237026
 ---
-
 My friend came to me, with sadness in his eyes
 He told me that he wanted help
 Before his country dies
@@ -69,6 +73,3 @@ We've got to relieve Bangla Desh
 Relieve the people of Bangla Desh
 We've got to relieve Bangla Desh
 Relieve the people of Bangla Desh
-
-
-

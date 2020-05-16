@@ -1,8 +1,11 @@
 ---
+album: Solitude / Solitaire
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:1eyq8cjUQ2daFthW2PC2GM
 features: []
-genres: []
+first_released_as_single: false
 key: glory-of-love--theme-from--the-karate-kid-part-ii---peter-cetera
 lyrics_url: https://genius.com/Peter-cetera-glory-of-love-lyrics
 name: Glory Of Love (Theme From "The Karate Kid Part II")
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 258120
 ---
 Tonight it's very clear
 'Cause we're both lying here

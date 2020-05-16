@@ -1,8 +1,11 @@
 ---
+album: Soul Legend
 artists:
 - The Glories
+external_ids:
+  spotify: spotify:track:51wC0EhWxyaSCIvWCvWXQv
 features: []
-genres: []
+first_released_as_single: false
 key: i-stand-accused--of-loving-you--the-glories
 name: I Stand Accused (Of Loving You)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 149666
 ---
 

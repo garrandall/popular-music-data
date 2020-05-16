@@ -1,8 +1,11 @@
 ---
+album: The ABC-Paramount Rarities
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:74eNTEW5v73x0jDGusJiPd
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-rolling-on--part-i--the-impressions
 lyrics_url: https://genius.com/The-impressions-were-rolling-on-lyrics
 name: We're Rolling On (Part I)
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 137773
 ---
 People get ready
 I got good news for you

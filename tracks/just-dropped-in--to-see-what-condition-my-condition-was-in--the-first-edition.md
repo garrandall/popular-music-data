@@ -1,8 +1,11 @@
 ---
+album: The First Edition
 artists:
 - The First Edition
+external_ids:
+  spotify: spotify:track:4Wrc3Jz4POj0ibPj5iuq0r
 features: []
-genres: []
+first_released_as_single: false
 key: just-dropped-in--to-see-what-condition-my-condition-was-in--the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-just-dropped-in-to-see-what-condition-my-condition-was-in-lyrics
 name: Just Dropped In (To See What Condition My Condition Was In)
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1967
+runtime: 201213
 ---
 (Yeah, yeah, oh, yeah)
 (What condition my condition was in)

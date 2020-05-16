@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:2FjF4NEH5vw69RjnPKCnM0
 features: []
-genres: []
+first_released_as_single: false
 key: honky-tonk-man-johnny-horton
 lyrics_url: https://genius.com/Johnny-horton-honky-tonk-man-lyrics
 name: Honky-Tonk Man
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1956
+runtime: 131800
 ---
 I'm a honky tonk man, and I cain't seem to stop
 I love to give the girls a whirl to the music of an old jukebox

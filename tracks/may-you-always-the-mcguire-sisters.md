@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:4mukuhBTvrraxi3TqoqmXr
 features: []
-genres: []
+first_released_as_single: false
 key: may-you-always-the-mcguire-sisters
 lyrics_url: https://www.musixmatch.com/lyrics/The-McGuire-Sisters/May-You-Always
 name: May You Always
@@ -71,6 +74,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 178800
 ---
 May you always walk in sunshine
 Slumber warm when night winds blow

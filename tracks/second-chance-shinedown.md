@@ -1,8 +1,11 @@
 ---
+album: The Sound of Madness
 artists:
 - Shinedown
+external_ids:
+  spotify: spotify:track:0CwYG1UnRmOx8Q1EzElCIL
 features: []
-genres: []
+first_released_as_single: false
 key: second-chance-shinedown
 lyrics_url: https://www.azlyrics.com/lyrics/shinedown/secondchance.html
 name: Second Chance
@@ -171,8 +174,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-09-19'
+release_year: 2008
+runtime: 222066
 ---
-
 My eyes are open wide
 By the way
 I made it through the day
@@ -231,6 +235,3 @@ Sometimes goodbye is a second chance
 
 Sometimes goodbye is a second chance
 Sometimes goodbye is a second chance
-
-
-

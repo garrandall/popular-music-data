@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:6ir6mS8vlECYYzU6MSQ3Ra
 features: []
-genres: []
+first_released_as_single: false
 key: wrap-it-up-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/Wrap-It-Up
 name: Wrap It Up
@@ -16,6 +19,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1969
+runtime: 168719
 ---
 I've been watching
 You for days, now baby

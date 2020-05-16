@@ -1,8 +1,11 @@
 ---
+album: Nightbirds
 artists:
 - Labelle
+external_ids:
+  spotify: spotify:track:1oiFqhXJDtakpQULbBXpu0
 features: []
-genres: []
+first_released_as_single: false
 key: lady-marmalade-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/ladymarmalade.html
 name: Lady Marmalade
@@ -79,8 +82,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1968
+runtime: 234200
 ---
-
 Hey Sister, Go Sister, Soul Sister, Go Sister
 Hey Sister, Go Sister, Soul Sister, Go Sister
 
@@ -143,6 +147,3 @@ Itchi Gitchi Ya Ya Da Da
 Itchi Gitchi Ya Ya here
 Mocha-choca-lata Ya Ya
 Itchi Gitchi Ya Ya here
-
-
-

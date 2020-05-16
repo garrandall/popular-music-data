@@ -1,8 +1,11 @@
 ---
+album: L.T.D.
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:6G0uA9jBD01xfBibTG48It
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-been-my-inspiration-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-youve-been-my-inspiration-lyrics
 name: You've Been My Inspiration
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 172826
 ---
 Prettier than all the world
 And I'm so proud (I'm so proud)

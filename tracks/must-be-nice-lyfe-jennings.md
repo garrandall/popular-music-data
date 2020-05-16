@@ -1,8 +1,11 @@
 ---
+album: Lyfe 268-192
 artists:
 - Lyfe Jennings
+external_ids:
+  spotify: spotify:track:3DLz5er50bBSbjSg3rXeEq
 features: []
-genres: []
+first_released_as_single: false
 key: must-be-nice-lyfe-jennings
 lyrics_url: https://www.musixmatch.com/lyrics/Lyfe-Jennings/Must-Be-Nice
 name: Must Be Nice
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2004
+runtime: 223720
 ---
 Ayo you
 You that just flipped on this CD player

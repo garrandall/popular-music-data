@@ -1,8 +1,11 @@
 ---
+album: Runaround Sue
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:5Z3W07qqoJxwDqssONsdeW
 features: []
-genres: []
+first_released_as_single: false
 key: the-majestic-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/themajestic.html
 name: The Majestic
@@ -39,8 +42,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 162906
 ---
-
 Dooby-do yeah let's do this dance now
 This dance started down in NYC
 Now they're doing it on TV
@@ -65,6 +69,3 @@ There even grooving in Chicago town
 This dance is really getting around
 Dance dance people
 Get up and do this dance oh...
-
-
-

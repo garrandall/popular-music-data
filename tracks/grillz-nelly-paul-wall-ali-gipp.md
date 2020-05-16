@@ -1,11 +1,14 @@
 ---
+album: Sweatsuit
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:3YQjgTpUVNWvpYeb2mtTF7
 features:
 - Paul Wall
 - Ali
 - Gipp
-genres: []
+first_released_as_single: false
 key: grillz-nelly-paul-wall-ali-gipp
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/grillz.html
 name: Grillz
@@ -122,8 +125,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 271160
 ---
-
 Rob the jewelry store and tell 'em make me a grill.
 Dirrty, R&B.
 Add da whole top diamond and the bottom Row's gold.
@@ -222,4 +226,3 @@ Boy how you get grill that way and
 How much did you pay
 Every time I see you
 Tha first thing I'm gon' say hey...
-

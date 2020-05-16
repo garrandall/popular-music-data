@@ -1,8 +1,11 @@
 ---
+album: Back to Bedlam
 artists:
 - James Blunt
+external_ids:
+  spotify: spotify:track:6gxycjJNMgmAyfzUXBN80P
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-my-lover-james-blunt
 lyrics_url: https://www.azlyrics.com/lyrics/jamesblunt/goodbyemylover.html
 name: Goodbye My Lover
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 258653
 ---
-
 Did I disappoint you or let you down?
 Should I be feeling guilty or let the judges frown?
 'Cause I saw the end before we'd begun.
@@ -94,6 +98,3 @@ I'm so hollow, baby, I'm so hollow.
 I'm so, I'm so, I'm so hollow.
 I'm so hollow, baby, I'm so hollow.
 I'm so, I'm so, I'm so hollow.
-
-
-

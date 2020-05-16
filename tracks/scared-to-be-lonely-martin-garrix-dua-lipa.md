@@ -1,9 +1,12 @@
 ---
+album: Scared to Be Lonely
 artists:
 - Martin Garrix
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:3ebXMykcMXOcLeJ9xZ17XH
 features: []
-genres: []
+first_released_as_single: true
 key: scared-to-be-lonely-martin-garrix-dua-lipa
 lyrics_url: https://genius.com/Martin-garrix-and-dua-lipa-scared-to-be-lonely-lyrics
 name: Scared To Be Lonely
@@ -64,6 +67,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-06-24'
+release_year: 2017
+runtime: 220883
 ---
 It was great at the very start
 Hands on each other

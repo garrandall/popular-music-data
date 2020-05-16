@@ -1,8 +1,11 @@
 ---
+album: Sings Top Ten
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:5ze36eiI3Pm2EFJOKGkZzt
 features: []
-genres: []
+first_released_as_single: false
 key: what-becomes-of-the-brokenhearted-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-what-becomes-of-the-brokenhearted-lyrics
 name: What Becomes Of The Brokenhearted
@@ -75,10 +78,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 181840
 ---
-
-
-
 As I walk this land of broken dreams
 I have visions of many things
 But happiness is just an illusion

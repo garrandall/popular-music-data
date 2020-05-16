@@ -1,8 +1,11 @@
 ---
+album: Affairs Of The Heart
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:24zXT3xZXpsHPOYPcrE90c
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-one-you-need-jody-watley
 lyrics_url: https://genius.com/Jody-watley-im-the-one-you-need-lyrics
 name: I'm The One You Need
@@ -75,6 +78,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 261040
 ---
 I've been around for quite some time
 Patiently waiting for you to settle down

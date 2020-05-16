@@ -1,9 +1,12 @@
 ---
+album: Turtleneck & Chain (Explicit Version)
 artists:
 - The Lonely Island
+external_ids:
+  spotify: spotify:track:5PEleSkK4p4E1sx3x7cOLt
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: i-just-had-sex-the-lonely-island-akon
 lyrics_url: https://www.azlyrics.com/lyrics/lonelyisland/ijusthadsex.html
 name: I Just Had Sex
@@ -52,8 +55,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 166560
 ---
-
 Sometimes (Oh)
 Something beautiful happens
 In this world (Akon)
@@ -152,6 +156,3 @@ I just had sex
 And I'll never go back (No no no)
 To the not-having-sex
 Ways of the past
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Love
 artists:
 - Barbara George
+external_ids:
+  spotify: spotify:track:7xs6gLM1L7UBmBefBawVXC
 features: []
-genres: []
+first_released_as_single: false
 key: send-for-me--if-you-need-some-lovin--barbara-george
 lyrics_url: https://genius.com/Barbara-george-send-for-me-if-you-need-some-lovin-lyrics
 name: Send For Me (If you need some Lovin)
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 134040
 ---
 If you ever need you some lovin' now
 Send for me (send for me, send for me)

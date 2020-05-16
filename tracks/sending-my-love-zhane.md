@@ -1,8 +1,11 @@
 ---
+album: Mighty Real Pool Side Pride 2019
 artists:
 - Zhane
+external_ids:
+  spotify: spotify:track:1uZD8gSMFnuQrcjTT4gMjv
 features: []
-genres: []
+first_released_as_single: false
 key: sending-my-love-zhane
 lyrics_url: https://www.azlyrics.com/lyrics/zhane/sendingmylove.html
 name: Sending My Love
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1994
+runtime: 461110
 ---
-
 If I could mail my heart
 Right to you, I would
 I'd pack it up, seal it tight
@@ -141,6 +145,3 @@ If I could mail my heart
 Right to you, I would
 I'd pack it up, seal it tight
 And I'd send it over night
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Blueprint 2 The Gift & The Curse
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:5ljCWsDlSyJ41kwqym2ORw
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: -03-bonnie---clyde-jay-z-beyonce-knowles
 lyrics_url: https://genius.com/Jay-z-03-bonnie-and-clyde-lyrics
 name: '''03 Bonnie & Clyde'
@@ -100,6 +103,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2002
+runtime: 205560
 ---
 Uhh, uhh, uhh
 You ready, B?

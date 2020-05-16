@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:0nGzwlShUTBEQePuzMoUjN
 features: []
-genres: []
+first_released_as_single: false
 key: blessed-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/blessed.html
 name: Blessed
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 2001
+runtime: 276600
 ---
-
 I get kissed by the sun
 Each morning
 Put my feet on a hardwood floor
@@ -126,4 +130,3 @@ This love is a beautiful gift
 When I'm singing my kids to sleep
 When I feel you holding me
 I know
-

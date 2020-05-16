@@ -1,8 +1,11 @@
 ---
+album: Song For The Lonely
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:5SCIg0aASb27rgLqMlmYP4
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-magic-the-platters
 lyrics_url: https://genius.com/The-platters-its-magic-lyrics
 name: It's Magic
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1962
+runtime: 151680
 ---
 You sigh and the song begins
 You speak and I hear violins

@@ -1,8 +1,11 @@
 ---
+album: Lola Versus Powerman and the Moneygoround, Pt. One
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:6iB5UGqQpAhnSMdksc9Kau
 features: []
-genres: []
+first_released_as_single: false
 key: apeman-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/apeman.html
 name: Apeman
@@ -43,8 +46,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 231773
 ---
-
 I think I'm sophisticated
 'Cos I'm living my life like a good homosapien
 But all around me everybody's multiplying
@@ -96,6 +100,3 @@ I don't feel safe in this world no more
 I don't want to die in a nuclear war
 I want to sail away to a distant shore
 And make like an ape man.
-
-
-

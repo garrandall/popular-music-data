@@ -1,8 +1,11 @@
 ---
+album: Come Clean
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:08gPIszvF40VERe5PLxe4s
 features: []
-genres: []
+first_released_as_single: false
 key: she-hates-me-puddle-of-mudd
 lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/shehatesme.html
 name: She Hates Me
@@ -99,8 +102,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2001
+runtime: 216466
 ---
-
 Met a girl, thought she was grand
 fell in love, found out first hand
 went well for a week or two
@@ -145,6 +149,3 @@ la la la la la la la la la love
 Trust
 and she tore my feelings like I had none
 she fucking hates me
-
-
-

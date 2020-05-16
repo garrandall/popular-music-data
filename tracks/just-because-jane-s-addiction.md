@@ -1,8 +1,11 @@
 ---
+album: Strays
 artists:
 - Jane's Addiction
+external_ids:
+  spotify: spotify:track:3k6L0H08zSY5yRDgqI8fqx
 features: []
-genres: []
+first_released_as_single: false
 key: just-because-jane-s-addiction
 lyrics_url: https://www.azlyrics.com/lyrics/janesaddiction/justbecause.html
 name: Just Because
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
+release_year: 2003
+runtime: 231853
 ---
-
 If I were you
 I'd better watch out
 When was the last time
@@ -79,6 +83,3 @@ Yeah you, oh you really should have known
 Just because
 Just because
 Just because
-
-
-

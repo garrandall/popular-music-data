@@ -1,8 +1,11 @@
 ---
+album: Road Back Home
 artists:
 - Heather B.
+external_ids:
+  spotify: spotify:track:3fzKNhHsHnHlU8r9g3SI96
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-heather-b-
 lyrics_url: https://genius.com/Heather-b-do-you-lyrics
 name: Do You
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
+release_year: 1998
+runtime: 258333
 ---
 What, what?
 Bitches backstab with no remorse, fuck bitches

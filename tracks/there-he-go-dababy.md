@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:0pegcONe6MuDQRoPCtCBRf
 features: []
-genres: []
+first_released_as_single: false
 key: there-he-go-dababy
 lyrics_url: https://genius.com/Dababy-there-he-go-lyrics
 name: There He Go
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 143295
 ---
 Huh? (We got London on da Track), okay
 Look (I'm in London got my beat from London)

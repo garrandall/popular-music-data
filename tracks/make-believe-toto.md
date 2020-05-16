@@ -1,8 +1,11 @@
 ---
+album: Toto IV
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:15taea6JZLAfG5OX0pzfG6
 features: []
-genres: []
+first_released_as_single: false
 key: make-believe-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/makebelieve.html
 name: Make Believe
@@ -59,9 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1982
+runtime: 223133
 ---
-
-
 Why don't we make believe we're in love again
 Who says the crimson moon doesn't shine
 Where do people go when they're looking for that one of a kind
@@ -84,4 +87,3 @@ Lead you on and waste your time
 All alone in the evening, getting day
 
 Why don't we make believe
-

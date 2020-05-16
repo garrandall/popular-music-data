@@ -1,8 +1,11 @@
 ---
+album: Lord, Mr. Ford
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:0Zh7kkQ9GcL5wGaGkFubeI
 features: []
-genres: []
+first_released_as_single: false
 key: lord-mr-ford-jerry-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jerryreed/lordmrford.html
 name: Lord Mr Ford
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 196580
 ---
-
 Well if you're one of the millions who own one of them
 Gas drinkin' piston clinkin' air pollutin' smoke belchin'
 Four wheeled buggies from Detroit City then pay attention
@@ -100,6 +104,3 @@ To say the least got a little out of hand
 Well Lord Mr Ford what have you done
 Come away with me Lucille
 In my smokin' chokin' automobile
-
-
-

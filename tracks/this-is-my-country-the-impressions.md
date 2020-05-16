@@ -1,8 +1,11 @@
 ---
+album: This Is My Country
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:0jQ6JOVJqRb70yo1DFjeUC
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-my-country-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/thisismycountry.html
 name: This Is My Country
@@ -47,8 +50,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 168026
 ---
-
 Doo doo doo
 Doo doo doo
 
@@ -81,6 +85,3 @@ This is my country
 Doo doo doo
 Doo doo doo
 Doo doo doo
-
-
-

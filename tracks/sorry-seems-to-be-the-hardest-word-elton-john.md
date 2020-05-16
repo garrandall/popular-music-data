@@ -1,8 +1,11 @@
 ---
+album: Blue Moves
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:4eP6oyNbAJcViaiHtPsOCh
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-seems-to-be-the-hardest-word-elton-john
 lyrics_url: https://genius.com/Elton-john-sorry-seems-to-be-the-hardest-word-lyrics
 name: Sorry Seems To Be The Hardest Word
@@ -63,6 +66,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 228226
 ---
 What have I gotta do to make you love me?
 What have I gotta do to make you care?

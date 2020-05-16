@@ -1,8 +1,11 @@
 ---
+album: Raspberries
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:5A3nftO7SgKA91W5OdC7Ze
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-want-to-say-goodbye-raspberries
 lyrics_url: https://genius.com/Raspberries-dont-want-to-say-goodbye-lyrics
 name: Don't Want To Say Goodbye
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 308080
 ---
 Raspberries
 Miscellaneous

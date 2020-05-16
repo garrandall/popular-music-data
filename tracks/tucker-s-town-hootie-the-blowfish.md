@@ -1,8 +1,11 @@
 ---
+album: Fairweather Johnson
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:5wDeYEOMGyOEKjlo7bbKsE
 features: []
-genres: []
+first_released_as_single: false
 key: tucker-s-town-hootie-the-blowfish
 lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/tuckerstown.html
 name: Tucker's Town
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 241973
 ---
-
 Staring back at you
 Did you see my lips
 Or were you smiling right in front of me
@@ -135,6 +139,3 @@ I don't know
 What I can't see...
 I don't know
 What I can't see
-
-
-

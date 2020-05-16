@@ -1,8 +1,11 @@
 ---
+album: Rmg's Top Doo-Wop Cloud Hits Volume 1
 artists:
 - The Dubs
+external_ids:
+  spotify: spotify:track:3HgV08D7OOay214URalpnZ
 features: []
-genres: []
+first_released_as_single: false
 key: chapel-of-dreams-the-dubs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dubs/Chapel-of-Dreams
 name: Chapel Of Dreams
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 152600
 ---
 In the chapel of dreams
 Every dream will come true

@@ -1,8 +1,11 @@
 ---
+album: Classic Male Pop - Vol. 32 - Karaoke
 artists:
 - Skylark
+external_ids:
+  spotify: spotify:track:6RfttBQBAxeU21SQf8agsN
 features: []
-genres: []
+first_released_as_single: false
 key: wildflower-skylark
 lyrics_url: https://genius.com/Skylark-canadian-band-wildflower-lyrics
 name: Wildflower
@@ -91,6 +94,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1973
+runtime: 258321
 ---
 She's faced the hardest times you could imagine
 And many times her eyes fought back the tears

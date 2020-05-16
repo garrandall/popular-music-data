@@ -1,8 +1,11 @@
 ---
+album: David Bowie (aka Space Oddity)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:6wwTF2rXBu7WMW8GwmM3na
 features: []
-genres: []
+first_released_as_single: true
 key: space-oddity-david-bowie
 lyrics_url: https://genius.com/David-bowie-space-oddity-lyrics
 name: Space Oddity
@@ -67,6 +70,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 1969
+runtime: 282386
 ---
 Ground Control to Major Tom
 Ground Control to Major Tom

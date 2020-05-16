@@ -1,8 +1,11 @@
 ---
+album: B.M.O.C. (Best Music On/Off Campus)
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:5dChkXb4Qxqr6V0dEG1eAr
 features: []
-genres: []
+first_released_as_single: false
 key: the-green-leaves-of-summer-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-the-green-leaves-of-summer-lyrics
 name: The Green Leaves Of Summer
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 174760
 ---
 Oh, oh...
 

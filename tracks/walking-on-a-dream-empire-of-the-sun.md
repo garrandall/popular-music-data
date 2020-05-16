@@ -1,8 +1,11 @@
 ---
+album: Walking On A Dream
 artists:
 - Empire Of The Sun
+external_ids:
+  spotify: spotify:track:5eK1WOUtVsW9hwJMEs6uJ8
 features: []
-genres: []
+first_released_as_single: true
 key: walking-on-a-dream-empire-of-the-sun
 lyrics_url: https://www.azlyrics.com/lyrics/empireofthesun/walkingonadream.html
 name: Walking On A Dream
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2008
+runtime: 196346
 ---
-
 Walking on a dream
 How can I explain
 Talking to myself
@@ -81,6 +85,3 @@ Is it real now
 When two people become one
 I can feel it
 When two people become one
-
-
-

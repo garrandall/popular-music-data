@@ -1,8 +1,11 @@
 ---
+album: Seven Nation Army (The Voice Performance)
 artists:
 - Melanie Martinez
+external_ids:
+  spotify: spotify:track:4wTBwrYUzGmmDpl7ewM8in
 features: []
-genres: []
+first_released_as_single: true
 key: seven-nation-army-melanie-martinez
 lyrics_url: https://www.azlyrics.com/lyrics/melaniemartinez/sevennationarmy.html
 name: Seven Nation Army
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2012
+runtime: 175733
 ---
-
 I'm gonna fight 'em off
 A seven nation army couldn't hold me back
 They're gonna rip it off
@@ -46,6 +50,3 @@ And I will think no more
 
 And the stains coming from my blood tells me go back home
 Go back home...
-
-
-

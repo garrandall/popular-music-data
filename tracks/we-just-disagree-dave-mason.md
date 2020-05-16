@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:7qpuECko60EoztznowMWj1
 features: []
-genres: []
+first_released_as_single: false
 key: we-just-disagree-dave-mason
 lyrics_url: https://genius.com/Dave-mason-we-just-disagree-lyrics
 name: We Just Disagree
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1973
+runtime: 180133
 ---
 Been away, haven't seen you in a while
 How've you been, have you changed your style?

@@ -1,9 +1,12 @@
 ---
+album: Shock Value II
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:360UM2DaiHZPRu0EsrOvMp
 features:
 - Katy Perry
-genres: []
+first_released_as_single: false
 key: if-we-ever-meet-again-timbaland-katy-perry
 lyrics_url: https://genius.com/Timbaland-if-we-ever-meet-again-lyrics
 name: If We Ever Meet Again
@@ -80,6 +83,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-07-31'
+release_year: 2009
+runtime: 292706
 ---
 What's somebody like you, doing in a place like this?
 Say, did you come alone, or did you bring all your friends?

@@ -1,8 +1,11 @@
 ---
+album: Honkytonk University
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:1aF6yVzmxhTyVChoLMD2JI
 features: []
-genres: []
+first_released_as_single: false
 key: big-blue-note-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/bigbluenote.html
 name: Big Blue Note
@@ -55,8 +58,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2005-12-31'
+release_year: 2005
+runtime: 177240
 ---
-
 See that big blue note over there on the counter
 You Don't want to read that thing man, it's a real getcha downer
 But don't you dare say nothin else bad about her
@@ -100,6 +104,3 @@ She's gone
 
 Crash landin
 Bye, bye, baby
-
-
-

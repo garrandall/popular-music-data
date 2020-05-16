@@ -1,8 +1,11 @@
 ---
+album: Totally Krossed Out
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:3jDtyGBzie4dMnpEXIvy72
 features: []
-genres: []
+first_released_as_single: false
 key: warm-it-up-kris-kross
 lyrics_url: https://www.azlyrics.com/lyrics/kriskross/warmitup.html
 name: Warm It Up
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1992
+runtime: 229600
 ---
-
 Uh, well, this is how nice and smooth it is 
 Hey uh, listen to them
 
@@ -171,7 +175,4 @@ Kris Kross show 'em how it's done
 
 Warm it up Kris I'm about to 
 Warm it up Kris cause that's what I was born to do 
-Warm it up Kris 
-
-
-
+Warm it up Kris

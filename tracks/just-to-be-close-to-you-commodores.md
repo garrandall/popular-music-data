@@ -1,8 +1,11 @@
 ---
+album: Hot On The Tracks
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:60ijzJRo70XLwAEaX6y0eZ
 features: []
-genres: []
+first_released_as_single: false
 key: just-to-be-close-to-you-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/justtobeclosetoyou.html
 name: Just To Be Close To You
@@ -71,8 +74,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 381360
 ---
-
 Just to be close to you girl
 Just for a moment, well just for an hour
 Just to be close to you girl
@@ -137,6 +141,3 @@ Yeah, yeah, yeah, yeah, yeah, yeah,
 My arms are still burnin' girl
 Ya got me yearnin' for your love
 Yeah, yeah, yeah, yeah, yeah, yeah, yeah
-
-
-

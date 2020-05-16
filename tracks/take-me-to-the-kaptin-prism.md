@@ -1,8 +1,11 @@
 ---
+album: Alive In America
 artists:
 - Prism
+external_ids:
+  spotify: spotify:track:0Sau961kPPWvscaG0xNgKH
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-to-the-kaptin-prism
 lyrics_url: https://genius.com/Prism-take-me-to-the-kaptin-lyrics
 name: Take Me To The Kaptin
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1978
+runtime: 260253
 ---
 The planet dies... no one cries
 So hard to believe

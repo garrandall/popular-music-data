@@ -1,8 +1,11 @@
 ---
+album: By Request
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:1qxSpM8ExFGmQkkbrqwYA4
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-i-wonder-lyrics
 name: I Wonder
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 180053
 ---
 I wonder my little darling
 Where can you be this moonlit night

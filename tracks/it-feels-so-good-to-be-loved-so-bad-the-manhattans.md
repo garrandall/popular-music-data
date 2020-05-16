@@ -1,8 +1,11 @@
 ---
+album: It Feels So Good (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:6ogqSvwFtA9dQLl7Bg7XYP
 features: []
-genres: []
+first_released_as_single: false
 key: it-feels-so-good-to-be-loved-so-bad-the-manhattans
 lyrics_url: https://www.azlyrics.com/lyrics/manhattans/itfeelssogoodtobelovedsobad.html
 name: It Feels So Good To Be Loved So Bad
@@ -79,10 +82,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-07-23'
+release_year: 1973
+runtime: 276906
 ---
-
-
-
 Ohh baby the more I love you
 The more I want to love you
 Cause loving you is all that is on my mind
@@ -119,6 +121,3 @@ And it makes me feel glad
 'Cuz it feels, it feels so good to be loved so bad
 Loving you is all that's on my mind
 I want to have you just one more chance
-
-
-

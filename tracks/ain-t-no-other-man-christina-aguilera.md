@@ -1,8 +1,11 @@
 ---
+album: Back To Basics
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:7huo2wvrCgRucUsjdSDLQV
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-other-man-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-aint-no-other-man-lyrics
 name: Ain't No Other Man
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2006
+runtime: 228906
 ---
 Heeeeey! Yeah
 (Do your thang, honey!)

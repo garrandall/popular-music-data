@@ -1,8 +1,11 @@
 ---
+album: The Animals
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:7BY005dacJkbO6EPiOh2wb
 features: []
-genres: []
+first_released_as_single: false
 key: house-of-the-rising-sun-the-animals
 lyrics_url: https://genius.com/The-animals-the-house-of-the-rising-sun-lyrics
 name: House Of The Rising Sun
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 271280
 ---
 There is a house in New Orleans
 They call the Rising Sun

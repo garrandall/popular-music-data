@@ -1,8 +1,11 @@
 ---
+album: Lotus (Deluxe Version)
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:2CUImQXlGQLqSelOQQvkD4
 features: []
-genres: []
+first_released_as_single: true
 key: your-body-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-your-body-lyrics
 name: Your Body
@@ -43,6 +46,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 222013
 ---
 Ah-ah
 Ah-ah

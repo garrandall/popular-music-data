@@ -1,8 +1,11 @@
 ---
+album: Femme Fatale (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5cCAZS9VhLGEDV4NCfieeg
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-go-britney-spears
 lyrics_url: https://genius.com/Britney-spears-i-wanna-go-lyrics
 name: I Wanna Go
@@ -87,6 +90,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 210266
 ---
 Lately, I've been stuck imagining
 What I wanna do and what I really think

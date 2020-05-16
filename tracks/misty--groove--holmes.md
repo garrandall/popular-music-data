@@ -1,8 +1,11 @@
 ---
+album: Soul Message
 artists:
 - '"Groove" Holmes'
+external_ids:
+  spotify: spotify:track:7DZsH0df0GuULl0FGwXMfd
 features: []
-genres: []
+first_released_as_single: false
 key: misty--groove--holmes
 lyrics_url: https://genius.com/Richard-groove-holmes-misty-lyrics
 name: Misty
@@ -51,5 +54,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1965
+runtime: 360986
 ---
 (Instrumental)

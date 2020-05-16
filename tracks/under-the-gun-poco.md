@@ -1,8 +1,11 @@
 ---
+album: Under The Gun
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:49IooF2Pshjms6iidmHeHQ
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-gun-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/underthegun.html
 name: Under The Gun
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 193226
 ---
-
 Now and then you see me falling, way behind the things I need to do
 Don't you believe I've missed my calling, I'm just the one to play your fool
 
@@ -64,4 +68,3 @@ It's just enough to get me through the day
 
 Now and then you see me falling, way behind the things I need to do
 Don't you believe I've missed my calling, I'm just the one to play your fool
-

@@ -1,8 +1,11 @@
 ---
+album: 20/20
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:3qlVEv0Qtd6jVVjXQCKPZv
 features: []
-genres: []
+first_released_as_single: false
 key: bluebirds-over-the-mountain-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/bluebirdsoverthemountain.html
 name: Bluebirds Over The Mountain
@@ -31,8 +34,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1968
+runtime: 173733
 ---
-
 Bluebirds over the mountain
 Seagulls over the sea-ea-ea
 Bluebirds over the mountain
@@ -77,6 +81,3 @@ Bring my baby to me
 Bring my baby
 Oooo Baby
 Oooo oo oo oo
-
-
-

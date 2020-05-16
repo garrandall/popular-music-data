@@ -1,8 +1,11 @@
 ---
+album: hopeless fountain kingdom
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:0SN5u2E7YUBcHbajdAKbo1
 features: []
-genres: []
+first_released_as_single: true
 key: now-or-never-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/nowornever.html
 name: Now Or Never
@@ -87,8 +90,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 158773
 ---
-
 I don't wanna fight right now
 Know you always right,
 Now I know I need you 'round with me
@@ -160,6 +164,3 @@ Said you know I wanna keep you around
 'Round forever, hey, hey, hey
 I want you to love me now, now, now, now, now, now
 Now or never
-
-
-

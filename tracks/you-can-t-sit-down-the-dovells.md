@@ -1,8 +1,11 @@
 ---
+album: For Your Hully Gully Party/You Can't Sit Down
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:35L0j5RhgrxCrbQB41VkMk
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-sit-down-the-dovells
 lyrics_url: https://genius.com/The-dovells-you-cant-sit-down-lyrics
 name: You Can't Sit Down
@@ -63,6 +66,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1962
+runtime: 139493
 ---
 Hey pretty baby! (you can't sit down)
 A don't you hear the drummer thumpin' (you can't sit down)

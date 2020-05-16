@@ -1,9 +1,12 @@
 ---
+album: Epiphany
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:3guTXJKmMURN76FdZLZz29
 features:
 - Yung Joc
-genres: []
+first_released_as_single: true
 key: buy-u-a-drank--shawty-snappin---t-pain-yung-joc
 lyrics_url: https://www.azlyrics.com/lyrics/tpain/buyuadrankshawtysnappin.html
 name: Buy U A Drank (Shawty Snappin')
@@ -148,8 +151,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2007
+runtime: 229946
 ---
-
 Shawty snap (yeah)
 T-pain
 Damn
@@ -268,6 +272,3 @@ We in the bed like
 Ohohoh, oohhoh
 We in the bed like
 Ohohoohohohoh
-
-
-

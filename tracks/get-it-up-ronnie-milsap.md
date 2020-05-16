@@ -1,8 +1,11 @@
 ---
+album: Images
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:09nnS3oOFUxZFzJOskjsQr
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-up-ronnie-milsap
 lyrics_url: https://genius.com/Ronnie-milsap-get-it-up-lyrics
 name: Get It Up
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 320320
 ---
 Been preparin'
 All week long

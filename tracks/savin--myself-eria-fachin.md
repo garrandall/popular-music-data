@@ -1,8 +1,11 @@
 ---
+album: My Name Is Eria Fachin
 artists:
 - Eria Fachin
+external_ids:
+  spotify: spotify:track:0akxjbTfOeUjdT9FLDZvhY
 features: []
-genres: []
+first_released_as_single: false
 key: savin--myself-eria-fachin
 lyrics_url: https://genius.com/Eria-fachin-savin-myself-lyrics
 name: Savin' Myself
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1988
+runtime: 213410
 ---
 Seeing you today
 Was quite a surprise

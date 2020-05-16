@@ -1,8 +1,11 @@
 ---
+album: Riot!
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:1JdKrFyoU05abww0Zv0ayQ
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-you-get-paramore
 lyrics_url: https://genius.com/Paramore-thats-what-you-get-lyrics
 name: That's What You Get
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2007
+runtime: 220480
 ---
 No sir
 Well, I don't wanna be the blame, not anymore

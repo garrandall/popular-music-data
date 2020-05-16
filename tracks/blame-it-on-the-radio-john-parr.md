@@ -1,8 +1,11 @@
 ---
+album: Running The Endless Mile
 artists:
 - John Parr
+external_ids:
+  spotify: spotify:track:13pqL4Dqi4j65ifahqk9F8
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it-on-the-radio-john-parr
 lyrics_url: https://genius.com/John-parr-blame-it-on-the-radio-lyrics
 name: Blame It On The Radio
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 257533
 ---
 Blame it on the moonlight, blame it on the radio
 I just wanna hold her tight, and never let her go

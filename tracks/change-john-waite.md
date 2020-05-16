@@ -1,8 +1,11 @@
 ---
+album: Ignition
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:00ODCfwZix0sfqSfBYT18Z
 features: []
-genres: []
+first_released_as_single: false
 key: change-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/change.html
 name: Change
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1982
+runtime: 196693
 ---
-
 People talking
 And they're saying that you're leaving
 You're so unhappy
@@ -101,6 +105,3 @@ It's all the same (What's in your heart)
 It's only, it's only, it's only change
 Never (It doesn't matter)
 You ain't gonna, you ain't gonna change (What's in your heart)
-
-
-

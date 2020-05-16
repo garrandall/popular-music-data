@@ -1,8 +1,11 @@
 ---
+album: 'True'
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:4f1PgGgzxo6fHH98jt1cK0
 features: []
-genres: []
+first_released_as_single: true
 key: hey-brother-avicii
 lyrics_url: https://genius.com/Avicii-hey-brother-lyrics
 name: Hey Brother
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2013
+runtime: 330240
 ---
 Hey, brother
 There's an endless road to rediscover

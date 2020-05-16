@@ -1,8 +1,11 @@
 ---
+album: Run Joey Run
 artists:
 - David Geddes
+external_ids:
+  spotify: spotify:track:1g2nJvSNGFj145mRiT6usx
 features: []
-genres: []
+first_released_as_single: false
 key: run-joey-run-david-geddes
 lyrics_url: https://genius.com/David-geddes-run-joey-run-lyrics
 name: Run Joey Run
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 175760
 ---
 Daddy, please don't
 It wasn't his fault
@@ -119,4 +124,4 @@ We're gon...na get... mar...ried...
 
 Run, Joey run, Joey, run
 Joey, run, Joey, run
-Joey, run, Joey, ruuuuuunn!
+Joey, run, Joey, runn!

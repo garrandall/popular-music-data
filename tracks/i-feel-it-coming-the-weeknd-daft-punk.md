@@ -1,9 +1,12 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:5GXAXm5YOmYT0kL5jHvYBt
 features:
 - Daft Punk
-genres: []
+first_released_as_single: false
 key: i-feel-it-coming-the-weeknd-daft-punk
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/ifeelitcoming.html
 name: I Feel It Coming
@@ -112,6 +115,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 269186
 ---
 Tell me what you really like
 Baby I can take my time

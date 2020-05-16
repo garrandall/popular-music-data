@@ -1,8 +1,11 @@
 ---
+album: Give Me The Reason
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:4jwj7WcGHwNpG0ovatCbST
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-the-reason-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/givemethereason.html
 name: Give Me The Reason
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 285600
 ---
-
 Oh-oh-oh-oh-oh
 Yeah-yeah
 Oh-oh
@@ -143,6 +147,3 @@ To love you, girl
 To love you, girl
 To love you, girl
 To love you, girl
-
-
-

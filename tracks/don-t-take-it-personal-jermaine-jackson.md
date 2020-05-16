@@ -1,8 +1,11 @@
 ---
+album: Don't Take It Personal
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:0NnvKaAPQSIMFngGVRxyEi
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-it-personal-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-dont-take-it-personal-lyrics
 name: Don't Take It Personal
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1989
+runtime: 271013
 ---
 It's just one of them days, when I wanna be all alone
 It's just one of them days, when I gotta be all alone

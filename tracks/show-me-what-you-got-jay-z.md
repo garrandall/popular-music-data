@@ -1,8 +1,11 @@
 ---
+album: Kingdom Come
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:1SlPhbS52PbNqqVCqGU12I
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-what-you-got-jay-z
 lyrics_url: https://genius.com/Jay-z-show-me-what-you-got-lyrics
 name: Show Me What You Got
@@ -67,6 +70,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 223120
 ---
 This is a state of emergency
 What you want me to do? I'm sorry!

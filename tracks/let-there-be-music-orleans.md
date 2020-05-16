@@ -1,8 +1,11 @@
 ---
+album: Let There Be Music
 artists:
 - Orleans
+external_ids:
+  spotify: spotify:track:75L28GB8Zum6ogTMHgA3xi
 features: []
-genres: []
+first_released_as_single: false
 key: let-there-be-music-orleans
 lyrics_url: https://genius.com/Orleans-let-there-be-music-lyrics
 name: Let There Be Music
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 244440
 ---
 When the world was in trouble
 And it looked like there was hell to pay

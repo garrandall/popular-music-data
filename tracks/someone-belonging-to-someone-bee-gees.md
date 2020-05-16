@@ -1,8 +1,11 @@
 ---
+album: Staying Alive (Original Motion Picture Soundtrack)
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4zEpjAzlm1iTocJFbfLePE
 features: []
-genres: []
+first_released_as_single: false
 key: someone-belonging-to-someone-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/someonebelongingtosomeone.html
 name: Someone Belonging To Someone
@@ -31,8 +34,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1977
+runtime: 265266
 ---
-
 I know how I feel
 Lonely in the black of night
 There can be no love for me now
@@ -83,4 +87,3 @@ Something except goodbye
 
 And there is someone belonging to someone
 And I got no one belonging to me
-

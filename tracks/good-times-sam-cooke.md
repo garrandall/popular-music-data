@@ -1,8 +1,11 @@
 ---
+album: Ain't That Good News
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:4hu98NLP8cjHmxmJ3TYKY9
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-good-times-lyrics
 name: Good Times
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1960
+runtime: 148053
 ---
 Wo ah la ta da, wo ah la ta da, da da da all night long
 Wo ah la ta da, wo ah la ta da, da da da all night long

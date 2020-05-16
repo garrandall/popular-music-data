@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Bobby Gregg and His Friends
+external_ids:
+  spotify: spotify:track:7Mlg4u24dWWzfgpwdGpt3H
 features: []
-genres: []
+first_released_as_single: false
 key: the-jam---part-1-bobby-gregg-and-his-friends
 name: The Jam - Part 1
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 147666
 ---
 

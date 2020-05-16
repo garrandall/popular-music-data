@@ -1,8 +1,11 @@
 ---
+album: New Joc City (Explicit Content U.S. Version)
 artists:
 - Yung Joc
+external_ids:
+  spotify: spotify:track:05Sgj1Hx03ZXc57gsV1kfX
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-goin--down-yung-joc
 lyrics_url: https://genius.com/Yung-joc-its-goin-down-lyrics
 name: It's Goin' Down
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-10-21'
+release_year: 2006
+runtime: 241840
 ---
 Here we go again
 Ghettoville U.S.A. (uh oh)

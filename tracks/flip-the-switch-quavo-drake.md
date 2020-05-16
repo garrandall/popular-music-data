@@ -1,9 +1,12 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:1rlIrbWboTRGeKfHhgbJRZ
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: flip-the-switch-quavo-drake
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/fliptheswitch.html
 name: Flip The Switch
@@ -12,8 +15,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 156195
 ---
-
 Tsunami warning
 
 
@@ -83,6 +87,3 @@ Make them dollars out the street, huh? (Cash)
 Baddest bitch you ever seen, huh? (Bad)
 You the one who split the guap with your team, huh? (Split it)
 You the one who drink a lotta codeine, huh? (Drank)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Rubber Biscuit: Essential ''50s Hits'
 artists:
 - Larry Hall
+external_ids:
+  spotify: spotify:track:7vF9CfYTUiif1wHSFdrTyN
 features: []
-genres: []
+first_released_as_single: false
 key: sandy-larry-hall
 lyrics_url: https://genius.com/Larry-hall-sandy-lyrics
 name: Sandy
@@ -67,6 +70,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1959
+runtime: 145026
 ---
 Sandy, Sandy
 Took every sweet thing, like sugar and spice

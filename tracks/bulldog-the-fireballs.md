@@ -1,8 +1,11 @@
 ---
+album: The Fireballs / Vaquero
 artists:
 - The Fireballs
+external_ids:
+  spotify: spotify:track:6t60WZiWBwEcSm7yZYwauK
 features: []
-genres: []
+first_released_as_single: false
 key: bulldog-the-fireballs
 name: Bulldog
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1960
+runtime: 132933
 ---
 

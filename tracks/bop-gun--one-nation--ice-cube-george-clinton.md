@@ -1,9 +1,12 @@
 ---
+album: Lethal Injection
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:6ahvJBzznCQvbJt0SmqtkL
 features:
 - George Clinton
-genres: []
+first_released_as_single: false
 key: bop-gun--one-nation--ice-cube-george-clinton
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/bopgunonenation.html
 name: Bop Gun (One Nation)
@@ -88,8 +91,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1994-12-10'
+release_year: 1993
+runtime: 665160
 ---
-
 At these up late times, hardcore funkateers before the bop gun.
 We unleash you a positive light. The bop gun can do you no harm.
 It frees yo mind, so yo kind can follow (yeah)

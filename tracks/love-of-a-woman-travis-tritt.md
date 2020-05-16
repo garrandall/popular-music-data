@@ -1,8 +1,11 @@
 ---
+album: Down The Road I Go
 artists:
 - Travis Tritt
+external_ids:
+  spotify: spotify:track:7dVINsv6faqqTUelZdvd5U
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-a-woman-travis-tritt
 lyrics_url: https://www.azlyrics.com/lyrics/travistritt/loveofawoman.html
 name: Love Of A Woman
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
+release_year: 2000
+runtime: 217533
 ---
-
 My baby knows me better that I do
 Funny how a woman has that over a man
 I can do anything with her here beside me
@@ -121,6 +125,3 @@ Standing behind her man even when he's wrong
 The true, pure, undying love of a woman 
 Makes a man a fool to think he can make it alone
 Makes a man a fool to think he can make it alone
-
-
-

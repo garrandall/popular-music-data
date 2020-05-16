@@ -1,8 +1,11 @@
 ---
+album: Donna the Prima Donna
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:3GbqGe2D692YDe1aV297DP
 features: []
-genres: []
+first_released_as_single: false
 key: this-little-girl-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/thislittlegirl.html
 name: This Little Girl
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1962
+runtime: 155666
 ---
-
 People, don't you worry, I know what I'm doin'
 I know what love's all about
 Oh this little girl won't make a fool out of me
@@ -71,6 +75,3 @@ I tell you again now
 This little girl, I'm a man now
 This little girl, I'll tell you again now
 My little girl, oh yeah this little girl
-
-
-

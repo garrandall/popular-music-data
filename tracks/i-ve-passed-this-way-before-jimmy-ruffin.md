@@ -1,8 +1,11 @@
 ---
+album: Sings Top Ten
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:1AOn4Cu6dwb03lu2Bdydt5
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-passed-this-way-before-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-ive-passed-this-way-before-lyrics
 name: I've Passed This Way Before
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1966
+runtime: 169200
 ---
 Life lends a crushing blow
 And once again a heart is broken

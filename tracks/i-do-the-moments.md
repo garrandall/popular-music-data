@@ -1,8 +1,11 @@
 ---
+album: A Moment With The Moments
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:31UxhZObJGA9eJxVMYtSO5
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-the-moments
 lyrics_url: https://genius.com/The-moments-i-do-lyrics
 name: I Do
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 194960
 ---
 Please give me peace of mind
 Oh oh say you'll be mine

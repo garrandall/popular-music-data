@@ -1,8 +1,11 @@
 ---
+album: Rockin'! with the Knickerbockers
 artists:
 - The Knickerbockers
+external_ids:
+  spotify: spotify:track:4ooOGejCK8ScT3UmudJzMX
 features: []
-genres: []
+first_released_as_single: false
 key: high-on-love-the-knickerbockers
 lyrics_url: https://genius.com/The-knickerbockers-high-on-love-lyrics
 name: High On Love
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1965
+runtime: 182386
 ---
 High on love
 

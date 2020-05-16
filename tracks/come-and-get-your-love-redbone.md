@@ -1,8 +1,11 @@
 ---
+album: Wovoka
 artists:
 - Redbone
+external_ids:
+  spotify: spotify:track:7GVUmCP00eSsqc4tzj1sDD
 features: []
-genres: []
+first_released_as_single: true
 key: come-and-get-your-love-redbone
 lyrics_url: https://genius.com/Redbone-come-and-get-your-love-lyrics
 name: Come And Get Your Love
@@ -99,6 +102,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1973
+runtime: 205933
 ---
 Hail (Hail), what's the matter with your head, yeah
 Hail (Hail), what's the matter with your mind

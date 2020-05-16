@@ -1,8 +1,11 @@
 ---
+album: I Need Your Loving
 artists:
 - Don Gardner And Dee Dee Ford
+external_ids:
+  spotify: spotify:track:17qZSndXFP5z2bRc4hYzaH
 features: []
-genres: []
+first_released_as_single: true
 key: i-need-your-loving-don-gardner-and-dee-dee-ford
 name: I Need Your Loving
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-08-25'
+release_year: 1962
+runtime: 179493
 ---
 

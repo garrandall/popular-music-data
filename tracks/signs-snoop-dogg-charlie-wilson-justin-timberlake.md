@@ -1,10 +1,13 @@
 ---
+album: 'R&G (Rhythm & Gangsta): The Masterpiece'
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:4HSAJpNocVNJbwbQvtCMdO
 features:
 - Charlie Wilson
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: signs-snoop-dogg-charlie-wilson-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/signs.html
 name: Signs
@@ -65,9 +68,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
+release_year: 2004
+runtime: 236480
 ---
-
-
 I'm not sure what I see
 Cupid don't fuck wit me!
 Are you telling me this is a sign?
@@ -148,6 +151,3 @@ Don't think about it, boy leave her alone
 (Oh wee!) Nigga you ain't no G!
 She likes my tone, my colone and the way I roll (hey!) you ain't no G!
 (Oh wee!) You ain't no G! (oh oh oh! .. Oh wee!)
-
-
-

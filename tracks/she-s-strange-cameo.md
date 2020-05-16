@@ -1,8 +1,11 @@
 ---
+album: She's Strange
 artists:
 - Cameo
+external_ids:
+  spotify: spotify:track:5QW1EprEeYRlalLAAlo0d6
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-strange-cameo
 lyrics_url: https://genius.com/Cameo-shes-strange-lyrics
 name: She's Strange
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
+release_year: 1984
+runtime: 431666
 ---
 Strange
 

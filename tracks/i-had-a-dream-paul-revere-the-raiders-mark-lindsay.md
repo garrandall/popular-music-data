@@ -1,10 +1,13 @@
 ---
+album: Revolution!
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:1pw0PCc3LHtSQjYwRo9WqP
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: i-had-a-dream-paul-revere-the-raiders-mark-lindsay
 name: I Had A Dream
 rankings:
@@ -44,5 +47,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 140333
 ---
 

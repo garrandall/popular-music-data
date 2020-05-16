@@ -1,8 +1,11 @@
 ---
+album: Ultra
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:01CtACmrryjzFmcyMPTtfB
 features: []
-genres: []
+first_released_as_single: true
 key: barrel-of-a-gun-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/barrelofagun.html
 name: Barrel Of A Gun
@@ -27,8 +30,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1997
+runtime: 330333
 ---
-
 Do you mean this horny creep
 Set upon weary feet
 Who looks in need of sleep
@@ -69,6 +73,3 @@ Your holy one
 
 Whatever I've done
 I've been staring down the barrel of a gun
-
-
-

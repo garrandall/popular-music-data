@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits '93 - '03
 artists:
 - '311'
+external_ids:
+  spotify: spotify:track:3mtukCAgd0mE260QcBfXAX
 features: []
-genres: []
+first_released_as_single: false
 key: love-song-311
 lyrics_url: https://www.azlyrics.com/lyrics/311/lovesong.html
 name: Love Song
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2004
+runtime: 211693
 ---
-
 Whenever I'm alone with you
 You make me feel like I am home again
 Whenever I'm alone with you
@@ -113,6 +117,3 @@ However far away, I will always love you
 However long I stay, I will always love you
 Whatever words I say, I will always love you
 I will always love you
-
-
-

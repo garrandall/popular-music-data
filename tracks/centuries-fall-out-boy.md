@@ -1,8 +1,11 @@
 ---
+album: American Beauty/American Psycho
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:4ZzbcSm6MxnC15BcDqEYyK
 features: []
-genres: []
+first_released_as_single: true
 key: centuries-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/centuries.html
 name: Centuries
@@ -143,8 +146,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-05-16'
+release_year: 2014
+runtime: 259600
 ---
-
 Du du du-du, du du du-du
 Du du du-du, du du du-du
 Du du...
@@ -234,6 +238,3 @@ He-e-e-ey ya, oh he-e-e-ey
 We'll go down in history
 He-e-e-ey ya
 Remember me for centuries
-
-
-

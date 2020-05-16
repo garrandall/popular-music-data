@@ -1,8 +1,11 @@
 ---
+album: The Low End Theory
 artists:
 - A Tribe Called Quest
+external_ids:
+  spotify: spotify:track:0301nLjG0ti26rx5ZmfqtP
 features: []
-genres: []
+first_released_as_single: false
 key: scenario-a-tribe-called-quest
 lyrics_url: https://genius.com/A-tribe-called-quest-scenario-lyrics
 name: Scenario
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-09-12'
+release_year: 1991
+runtime: 250133
 ---
 Here we go, yo, here we go, yo
 So what, so what, so what's the scenario?

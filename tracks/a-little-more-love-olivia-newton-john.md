@@ -1,8 +1,11 @@
 ---
+album: Totally Hot
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:2g5egJm0qwJPKgpblzIHlI
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-more-love-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/alittlemorelove.html
 name: A Little More Love
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
+release_year: 1978
+runtime: 207013
 ---
-
 Night is draggin' her feet
 I wait alone in the heat
 I know, know that you'll have your way
@@ -114,6 +118,3 @@ Will a little more love make you start depending
 Will a little more love bring a happy ending
 Will a little more love make it right?
 Will a little more love make it right?
-
-
-

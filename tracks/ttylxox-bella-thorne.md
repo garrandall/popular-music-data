@@ -1,8 +1,11 @@
 ---
+album: 'Shake It Up: Live 2 Dance'
 artists:
 - Bella Thorne
+external_ids:
+  spotify: spotify:track:1nIDYHvLaZnD5lEf66SH80
 features: []
-genres: []
+first_released_as_single: true
 key: ttylxox-bella-thorne
 lyrics_url: https://www.azlyrics.com/lyrics/bellathorne/ttylxox.html
 name: TTYLXOX
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2012
+runtime: 154773
 ---
-
 Watch this!
 
 Be be be my BFF
@@ -97,6 +101,3 @@ Be be be my BFF
 And I'll be LMHO with the rest
 So TTYLXOX
 X!
-
-
-

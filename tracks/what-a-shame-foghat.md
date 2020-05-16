@@ -1,8 +1,11 @@
 ---
+album: Rock & Roll (aka Foghat)
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:3c43072r6RVnNQ7cGahE6G
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-shame-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/whatashame.html
 name: What A Shame
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 232000
 ---
-
 Room 57 in the midnight hour,
 I'm fresh out of coffee and the cream turned sour.
 I'm thinkin' 'bout the people I've been talkin' to,
@@ -57,6 +61,3 @@ Ain't it shame, ain't it a pity, the bluebird's gone from the windy city.
 
 What a shame, what a shame,
 What a shame, what a shame.
-
-
-

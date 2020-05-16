@@ -1,8 +1,11 @@
 ---
+album: Fly Like An Eagle
 artists:
 - Steve Miller
+external_ids:
+  spotify: spotify:track:0s5U7jfzLLjm4Pzl4MRvWX
 features: []
-genres: []
+first_released_as_single: false
 key: take-the-money-and-run-steve-miller
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/takethemoneyandrun.html
 name: Take The Money And Run
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1973
+runtime: 168426
 ---
-
 This here's a story about Billy Joe and Bobbie Sue
 Two young lovers with nothin' better to do
 Than sit around the house, get high, and watch the tube
@@ -106,6 +110,3 @@ Go on take the money and run
 Go on take the money and run
 Go on take the money and run
 Go on take the money and run
-
-
-

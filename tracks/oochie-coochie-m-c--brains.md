@@ -1,8 +1,11 @@
 ---
+album: Boom Box Flava
 artists:
 - M.C. Brains
+external_ids:
+  spotify: spotify:track:406BLwaoWwW4Hc2dzR9DfN
 features: []
-genres: []
+first_released_as_single: false
 key: oochie-coochie-m-c--brains
 lyrics_url: https://genius.com/Mc-brains-oochie-coochie-lyrics
 name: Oochie Coochie
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
+release_year: 1992
+runtime: 222293
 ---
 Get on, get on nigga though
 1991 and I heard somebody dropped then dropped the bomb

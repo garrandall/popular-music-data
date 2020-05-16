@@ -1,8 +1,11 @@
 ---
+album: Shaken 'N' Stirred
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:7igoJOuQB199t3sRaKVErt
 features: []
-genres: []
+first_released_as_single: false
 key: little-by-little-robert-plant
 lyrics_url: https://genius.com/Robert-plant-little-by-little-lyrics
 name: Little By Little
@@ -51,6 +54,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
+release_year: 1985
+runtime: 284386
 ---
 Little by little, my heart grieves
 Little by little, I call your name

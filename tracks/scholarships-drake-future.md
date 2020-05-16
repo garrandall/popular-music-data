@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:0B5OTb36fzLayn6XQHg5A1
 features: []
-genres: []
+first_released_as_single: false
 key: scholarships-drake-future
 lyrics_url: https://genius.com/Drake-and-future-scholarships-lyrics
 name: Scholarships
@@ -36,6 +39,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-11-21'
+release_year: 2015
+runtime: 209287
 ---
 I wake up on a daily basis
 I count this money up, I'm already rich

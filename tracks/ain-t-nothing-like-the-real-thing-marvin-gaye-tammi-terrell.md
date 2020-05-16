@@ -1,9 +1,12 @@
 ---
+album: You're All I Need
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:37soQoNhEEIrhhYgHWK1xU
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nothing-like-the-real-thing-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-aint-nothing-like-the-real-thing-lyrics
 name: Ain't Nothing Like The Real Thing
@@ -60,6 +63,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 138533
 ---
 Ain't nothing like the real thing, baby
 Ain't nothing like the real thing

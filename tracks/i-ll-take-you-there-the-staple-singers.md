@@ -1,8 +1,11 @@
 ---
+album: 'Be Altitude: Respect Yourself'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:7sxTjnPqokxnHlLrZorBK7
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-you-there-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-ill-take-you-there-lyrics
 name: I'll Take You There
@@ -67,6 +70,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 289013
 ---
 Oh, mmm..
 I know a place

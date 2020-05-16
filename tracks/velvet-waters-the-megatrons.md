@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Dance Delivery, Vol. 2
 artists:
 - The Megatrons
+external_ids:
+  spotify: spotify:track:1lmI8YqGQNoYwL7o9Rr8GM
 features: []
-genres: []
+first_released_as_single: false
 key: velvet-waters-the-megatrons
 name: Velvet Waters
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 136213
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Quarterback
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4Vbwap6K56bB5sYnBBD6GY
 features: []
-genres: []
+first_released_as_single: true
 key: make-you-feel-my-love-glee-cast
 lyrics_url: https://genius.com/Glee-cast-make-you-feel-my-love-lyrics
 name: Make You Feel My Love
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 195440
 ---
 When the rain is blowing in your face
 And the whole world is on your case

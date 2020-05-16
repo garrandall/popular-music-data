@@ -1,9 +1,12 @@
 ---
+album: '1992'
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:4cJh4FGxuHx0VCvzHOfUIU
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: all-eyez-the-game-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/game/alleyez.html
 name: All Eyez
@@ -28,9 +31,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 215297
 ---
-
-
 All eyes on ya
 Ask you how your week been
 Workin' always, let me
@@ -122,6 +125,3 @@ We both tryna fuck
 
 All eyes on me
 All eyes on me
-
-
-

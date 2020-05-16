@@ -1,8 +1,11 @@
 ---
+album: We Are Not Alone
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:6VGKfZmYkkMsd2pij0jNiF
 features: []
-genres: []
+first_released_as_single: false
 key: sooner-or-later-breaking-benjamin
 lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/soonerorlater.html
 name: Sooner Or Later
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2004
+runtime: 218800
 ---
-
 I want a normal life
 just like a new born child
 I am a lover hater
@@ -60,6 +64,3 @@ Go ahead and throw our life away
 Throw our life away
 Ooooo
 Throw our life away
-
-
-

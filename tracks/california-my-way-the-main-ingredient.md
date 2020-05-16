@@ -1,8 +1,11 @@
 ---
+album: Euphrates River (Bonus Track Version)
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:0eoVcSKmRdsyEC5wdhwu2b
 features: []
-genres: []
+first_released_as_single: false
 key: california-my-way-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-california-my-way-lyrics
 name: California My Way
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1974
+runtime: 277413
 ---
 Oh, oh
 California my way

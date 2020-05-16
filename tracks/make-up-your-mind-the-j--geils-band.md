@@ -1,8 +1,11 @@
 ---
+album: Bloodshot
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:6Xa2bs31bL5ZpieGeMuoDS
 features: []
-genres: []
+first_released_as_single: false
 key: make-up-your-mind-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/makeupyourmind.html
 name: Make Up Your Mind
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 209840
 ---
-
 I don't mind waitin' for you
 It's what I really, really want to do
 But you got me standin', waitin' all night
@@ -72,6 +76,3 @@ Before it's too late
 Make up your mind
 (Make up, make up your mind)
 (Make up, make up your mind)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Source - Hip Hop Hits Vol. 6
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0IeAhZNRSUxHTqKSsqcRMq
 features: []
-genres: []
+first_released_as_single: false
 key: without-me-eminem
 lyrics_url: https://genius.com/Eminem-without-me-lyrics
 name: Without Me
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 288440
 ---
 Obie Trice! Real name, no gimmicks (*record scratch*)
 

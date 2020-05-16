@@ -1,9 +1,12 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:2tqoJQbv6dNNOi0PCCjuse
 features:
 - Gloria Carter
-genres: []
+first_released_as_single: false
 key: smile-jay-z-gloria-carter
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/smile.html
 name: Smile
@@ -12,8 +15,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 289853
 ---
-
 (Good morn' or evening, friends
 Smile, you recordin')
 
@@ -142,6 +146,3 @@ No harm for them, no harm for me
 But life is short, and it's time to be free
 Love who you love, because life isn't guaranteed
 Smile
-
-
-

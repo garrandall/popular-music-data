@@ -1,8 +1,11 @@
 ---
+album: Twist With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:1ATiocRsFUbrnEFhb5Y4y9
 features: []
-genres: []
+first_released_as_single: false
 key: you-must-have-been-a-beautiful-baby-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-you-must-have-been-a-beautiful-baby-lyrics
 name: You Must Have Been A Beautiful Baby
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 129706
 ---
 Oh … you know, you know, you know, you know …
 

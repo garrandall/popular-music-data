@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5lqQaR00aXDezywi6GfrF5
 features: []
-genres: []
+first_released_as_single: false
 key: xo-tour-llif3-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-xo-tour-llif3-lyrics
 name: XO TOUR Llif3
@@ -143,6 +146,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 182728
 ---
 Are you alright?
 I'm alright, I'm quite alright

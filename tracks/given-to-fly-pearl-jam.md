@@ -1,8 +1,11 @@
 ---
+album: Yield
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:4ir4aakTTK4RNCh07x3mCB
 features: []
-genres: []
+first_released_as_single: true
 key: given-to-fly-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/giventofly.html
 name: Given To Fly
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-05-09'
+release_year: 1997
+runtime: 241426
 ---
-
 He could've tuned in, tuned in
 But he tuned out
 A bad time, nothing could save him
@@ -107,6 +111,3 @@ High.. flying
 Oh, oh
 He's flying
 Oh, oh
-
-
-

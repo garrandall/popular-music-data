@@ -1,8 +1,11 @@
 ---
+album: R.
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:015A6ZcNAWSSuwY7iDcD1b
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-woman-s-fed-up-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/whenawomansfedup.html
 name: When A Woman's Fed Up
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
+release_year: 1996
+runtime: 278760
 ---
-
 I'm standing here looking in the mirror
 Saying "damn" to myself
 I should have known the day would come
@@ -164,6 +168,3 @@ Some of the best cookin' you ever had
 Yes, it was and I miss her
 Hey woman, if you're listening
 I said I miss you baby
-
-
-

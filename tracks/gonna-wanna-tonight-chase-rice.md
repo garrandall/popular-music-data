@@ -1,8 +1,11 @@
 ---
+album: Ignite the Night
 artists:
 - Chase Rice
+external_ids:
+  spotify: spotify:track:6C2XDnr9B6obGMVhHS1Nmo
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-wanna-tonight-chase-rice
 lyrics_url: https://www.azlyrics.com/lyrics/chaserice/gonnawannatonight.html
 name: Gonna Wanna Tonight
@@ -55,8 +58,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2014
+runtime: 214949
 ---
-
 If you wanna climb a ladder on a water tower
 Then we'll kick it with the stars for a couple hours
 If you wanna then we're gonna get way up high
@@ -115,6 +119,3 @@ Gonna wanna slide it on over
 Gonna wanna
 
 Ya gonna wanna tonight
-
-
-

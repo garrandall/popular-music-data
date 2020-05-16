@@ -1,8 +1,11 @@
 ---
+album: Right Here
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:5u3FywQOPJ5O7ZAjm31cnq
 features: []
-genres: []
+first_released_as_single: false
 key: right-here-swv
 lyrics_url: https://genius.com/Swv-right-here-lyrics
 name: Right Here
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
+release_year: 1992
+runtime: 226800
 ---
 * Taje of SWV RAPS on this song
 

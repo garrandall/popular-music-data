@@ -1,8 +1,11 @@
 ---
+album: Present Tense
 artists:
 - Sagittarius
+external_ids:
+  spotify: spotify:track:5k0QqnRx7NKihQ7LXSv4wA
 features: []
-genres: []
+first_released_as_single: false
 key: my-world-fell-down-sagittarius
 lyrics_url: https://genius.com/Sagittarius-my-world-fell-down-lyrics
 name: My World Fell Down
@@ -27,6 +30,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 175840
 ---
 Just like a breath of spring
 You came my way

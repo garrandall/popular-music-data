@@ -1,8 +1,11 @@
 ---
+album: Come And Get It - The Best Of Apple Records
 artists:
 - Ronnie Spector
+external_ids:
+  spotify: spotify:track:4bYpOfPbNe6J8X7ZzPNrA6
 features: []
-genres: []
+first_released_as_single: false
 key: try-some-buy-some-ronnie-spector
 lyrics_url: https://genius.com/Ronnie-spector-try-some-buy-some-lyrics
 name: Try Some Buy Some
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 252880
 ---
 Way back in time
 Someone said try some

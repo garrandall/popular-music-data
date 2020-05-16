@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:0xtmTk3mEK9aZRbsDYfmRM
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-it-adam-wade
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/I-Can-t-Help-It
 name: I Can't Help It
@@ -35,6 +38,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 156853
 ---
 Today I passed you on the street
 And my heart fell at your feet

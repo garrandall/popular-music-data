@@ -1,8 +1,11 @@
 ---
+album: Like Water For Chocolate
 artists:
 - Common
+external_ids:
+  spotify: spotify:track:5NiUrZVKyLpsyj62Roq5FW
 features: []
-genres: []
+first_released_as_single: false
 key: the-light-common
 lyrics_url: https://genius.com/Common-the-light-lyrics
 name: The Light
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-12-09'
+release_year: 2000
+runtime: 261693
 ---
 Yeah, doo-doo-doo
 Doo-doo-d-doo, diggy-doo, yo

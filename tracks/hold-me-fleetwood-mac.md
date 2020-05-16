@@ -1,8 +1,11 @@
 ---
+album: Mirage
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:2zYCip88nwoF96SC7WEjJm
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-hold-me-lyrics
 name: Hold Me
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 225034
 ---
 Can you understand me
 Baby, don't you hand me a line

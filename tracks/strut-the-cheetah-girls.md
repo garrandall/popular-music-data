@@ -1,8 +1,11 @@
 ---
+album: The Cheetah Girls 2
 artists:
 - The Cheetah Girls
+external_ids:
+  spotify: spotify:track:1g1Jor1zrllXn2ogj8KGAH
 features: []
-genres: []
+first_released_as_single: false
 key: strut-the-cheetah-girls
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cheetah-Girls/Strut
 name: Strut
@@ -15,6 +18,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2006
+runtime: 198360
 ---
 You can breathe in the music the city makes
 Move by the rhythm the gypsies play

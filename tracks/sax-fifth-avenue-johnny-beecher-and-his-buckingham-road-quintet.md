@@ -1,8 +1,11 @@
 ---
+album: Sax 5th Avenue
 artists:
 - Johnny Beecher
+external_ids:
+  spotify: spotify:track:1tkyWHi97vUK6DzyQLvA4q
 features: []
-genres: []
+first_released_as_single: false
 key: sax-fifth-avenue-johnny-beecher-and-his-buckingham-road-quintet
 name: Sax Fifth Avenue
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 151335
 ---
 

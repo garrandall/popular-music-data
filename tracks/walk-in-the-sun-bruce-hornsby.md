@@ -1,8 +1,11 @@
 ---
+album: Hot House
 artists:
 - Bruce Hornsby
+external_ids:
+  spotify: spotify:track:5vfcJoymUx7gz6L6IXJzph
 features: []
-genres: []
+first_released_as_single: false
 key: walk-in-the-sun-bruce-hornsby
 lyrics_url: https://www.azlyrics.com/lyrics/brucehornsby/walkinthesun.html
 name: Walk In The Sun
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 298160
 ---
-
 My name is Vernon James
 And I live to the south of town
 I work my window, watching the women 
@@ -94,6 +98,3 @@ One day we'll walk in the sun
 One day we'll walk in the sun
 One day we'll walk in the sun
 One day we'll walk in the sun
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Saturday Night With Conway Twitty
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:5noWD027Ap82HrdLi2X418
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-mine-conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-shes-mine-lyrics
 name: She's Mine
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1959
+runtime: 117640
 ---
 I've got a gal who treats me right
 Plenty good loving every night

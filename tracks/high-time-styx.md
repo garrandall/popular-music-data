@@ -1,8 +1,11 @@
 ---
+album: Kilroy Was Here
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:3L6QNpfmdYuIG1ey3RqMDb
 features: []
-genres: []
+first_released_as_single: false
 key: high-time-styx
 lyrics_url: https://genius.com/Styx-high-time-lyrics
 name: High Time
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 273026
 ---
 I flip the switch on my laser video
 And there's the man staring back at me

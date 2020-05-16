@@ -1,8 +1,11 @@
 ---
+album: Au
 artists:
 - The Troggs
+external_ids:
+  spotify: spotify:track:7f2wFlQy050aOCq0DrPntu
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-around-the-troggs
 lyrics_url: https://www.azlyrics.com/lyrics/troggs/loveisallaround.html
 name: Love Is All Around
@@ -71,8 +74,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 204053
 ---
-
 I feel it in my fingers, I feel it in my toes
 Well love is all around me, and so the feeling grows
 It's written on the wind, it's everywhere I go
@@ -100,6 +104,3 @@ Come on and let it show
 Come on and let it show
 Come on and let it show
 Come on and let it show
-
-
-

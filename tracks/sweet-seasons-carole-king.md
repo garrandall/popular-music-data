@@ -1,8 +1,11 @@
 ---
+album: Music
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:6oiXWfdIY1X1t2TUOcfxRE
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-seasons-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/sweetseasons.html
 name: Sweet Seasons
@@ -47,8 +50,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1968
+runtime: 195426
 ---
-
 Sometimes you win sometimes you lose
 And sometimes the blues just get a hold of you
 Just when you though you had made it
@@ -80,6 +84,3 @@ Just like a sailboat a-sailin' on the sea
 Talkin' 'bout a sweet seasons
 Talkin' 'bout a sweet, sweet, sweet seasons
 Talkin' 'bout a sweeeeeet seasons
-
-
-

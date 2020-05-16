@@ -1,8 +1,11 @@
 ---
+album: Live Your Life
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:6cQNKnUTSO07IwUJavzTFZ
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-get-down-lyrics
 name: Get Down
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1979
+runtime: 216613
 ---
 Fine, fine foxy lady
 Get down (get on down)
@@ -92,8 +97,6 @@ Get on down, hoo hoo hoo
 You move like
 You're a wheel, baby
 Baby, get on down (get on down)
-
-Lyrics courtesy Top40db
 
 Shift it in third gear, mama
 Get on down (get on down)

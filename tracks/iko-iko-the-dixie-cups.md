@@ -1,8 +1,11 @@
 ---
+album: Chapel of Love
 artists:
 - The Dixie Cups
+external_ids:
+  spotify: spotify:track:2xZPpUIcajScKX99PH0fD9
 features: []
-genres: []
+first_released_as_single: false
 key: iko-iko-the-dixie-cups
 lyrics_url: https://genius.com/The-dixie-cups-iko-iko-lyrics
 name: Iko Iko
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1964
+runtime: 122344
 ---
 My grandma and your grandma
 Were sittin' by the fire

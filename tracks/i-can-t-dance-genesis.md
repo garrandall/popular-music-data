@@ -1,8 +1,11 @@
 ---
+album: We Can't Dance
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:4iTuFIpXfLSrFv8HySzjPM
 features: []
-genres: []
+first_released_as_single: true
 key: i-can-t-dance-genesis
 lyrics_url: https://genius.com/Genesis-i-cant-dance-lyrics
 name: I Can't Dance
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1991
+runtime: 240613
 ---
 Hot sun beating down
 Burning my feet just walking around

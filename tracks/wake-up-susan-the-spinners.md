@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Being With Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:6oV96Q5ejobnSXzl59kEOu
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-susan-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/wakeupsusan.html
 name: Wake Up Susan
@@ -27,8 +30,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 207813
 ---
-
 Lazy Susan, lazy Susan
 
 I can't stand to wait a minute longer
@@ -73,6 +77,3 @@ I'm right here
 Wake up, Susan
 Don't you know what you're missing?
 I'm right here
-
-
-

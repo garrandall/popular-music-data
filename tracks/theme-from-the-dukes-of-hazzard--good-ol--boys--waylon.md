@@ -1,8 +1,11 @@
 ---
+album: The Dukes Of Hazzard
 artists:
 - Waylon
+external_ids:
+  spotify: spotify:track:7xRind9RPsvGHWR0qbGmfE
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-the-dukes-of-hazzard--good-ol--boys--waylon
 lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/themefromthedukesofhazzardgoodolboys.html
 name: Theme From The Dukes Of Hazzard (Good Ol' Boys)
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1978
+runtime: 126586
 ---
-
 Just'a good ol' boys
 Never meanin' no harm
 Beats all you never saw
@@ -128,6 +132,3 @@ But she don't understand
 They keep a showin my hands and not my face on TV
 
 Oh yeah
-
-
-

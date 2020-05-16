@@ -1,8 +1,12 @@
 ---
+album: Greatest Hits
 artists:
-- Martina McBride With Jim Brickman
-features: []
-genres: []
+- Martina McBride
+external_ids:
+  spotify: spotify:track:2VXsh1m4uxDdhmOgQfehFI
+features:
+- Jim Brickman
+first_released_as_single: false
 key: valentine-martina-mcbride-with-jim-brickman
 name: Valentine
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1997
+runtime: 192173
 ---
 

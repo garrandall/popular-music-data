@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of The Contours'
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:6g0ndHejSrzJ0CX43RqSq5
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-do-it-the-contours
 lyrics_url: https://genius.com/The-contours-can-you-do-it-lyrics
 name: Can You Do It
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 138346
 ---
 1964 and we will dance some more
 You gotta keep up with the times if you wanna be mine

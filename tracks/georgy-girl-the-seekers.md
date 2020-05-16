@@ -1,8 +1,11 @@
 ---
+album: The Seekers
 artists:
 - The Seekers
+external_ids:
+  spotify: spotify:track:73XQBWHSVLL1939hb8cQTm
 features: []
-genres: []
+first_released_as_single: false
 key: georgy-girl-the-seekers
 lyrics_url: https://www.azlyrics.com/lyrics/seekers/georgygirl.html
 name: Georgy Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 140440
 ---
-
 Hey there, Georgy girl
 Swingin' down the street so fancy-free
 Nobody you meet could ever see
@@ -121,6 +125,3 @@ Come on, Georgy girl
 Wake up, Georgy girl
 (Hey there, Georgy girl)
 Come on, Georgy girl
-
-
-

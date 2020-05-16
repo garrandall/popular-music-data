@@ -1,8 +1,12 @@
 ---
+album: EMI Legends Rock 'n' Roll Seris - The Definitive Collection
 artists:
-- Billy J. Kramer With The Dakotas
-features: []
-genres: []
+- Billy J. Kramer
+external_ids:
+  spotify: spotify:track:4aujj2kV23BXYJkETWFevo
+features:
+- The Dakotas
+first_released_as_single: false
 key: from-a-window-billy-j--kramer-with-the-dakotas
 lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-from-a-window-lyrics
 name: From A Window
@@ -47,6 +51,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 119133
 ---
 Late yesterday night
 I saw a light shine from a window

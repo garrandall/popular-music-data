@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4kug64P6ubEaU8cIsqP2If
 features: []
-genres: []
+first_released_as_single: false
 key: self-control-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-self-control-lyrics
 name: Self Control
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 185865
 ---
 Drum Dummie
 CashMoneyAP

@@ -1,9 +1,12 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:5EBr6I5VPfut2oUyyR7b5E
 features:
 - U2
-genres: []
+first_released_as_single: false
 key: xxx-kendrick-lamar-u2
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/xxx.html
 name: XXX
@@ -20,9 +23,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2017
+runtime: 254200
 ---
-
-
 America, God bless you if it's good to you
 America please take my hand
 Can you help me underst-
@@ -114,6 +117,3 @@ America's reflections of me, that's what a mirror does
 It's not a place
 This country is to be a sound of drum and bass
 You close your eyes to look ar-
-
-
-

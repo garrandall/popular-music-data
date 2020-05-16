@@ -1,9 +1,12 @@
 ---
+album: PCD
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:5TXNLJ2EENAt3Tf9MX4kT2
 features:
 - will.i.am
-genres: []
+first_released_as_single: false
 key: beep-the-pussycat-dolls-will-i-am
 lyrics_url: https://www.azlyrics.com/lyrics/pussycatdolls/beep.html
 name: Beep
@@ -88,8 +91,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2005
+runtime: 229360
 ---
-
 Ha, ha-ha, ha-ha
 Ha, ha-ha, ha
 Ha-ha, ha-ha, ha-ha
@@ -214,6 +218,3 @@ Keep looking at my...
 'Cause it don't mean a thing if you're looking at my...
 I'm a do my thang while you're playing with your...
 Ha, ha-ha, ha-ha, ha-ha
-
-
-

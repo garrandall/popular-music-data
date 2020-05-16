@@ -1,8 +1,11 @@
 ---
+album: Reach The Beach
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:5B37ocpk2zxeZL1lq5F6ui
 features: []
-genres: []
+first_released_as_single: false
 key: one-thing-leads-to-another-the-fixx
 lyrics_url: https://genius.com/The-fixx-one-thing-leads-to-another-lyrics
 name: One Thing Leads To Another
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1983
+runtime: 199826
 ---
 The deception with tact
 Just what are you trying to say?

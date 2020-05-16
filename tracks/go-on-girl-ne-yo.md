@@ -1,8 +1,11 @@
 ---
+album: Because Of You
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:3QE7ObGjkt1kYnhLvZPRUy
 features: []
-genres: []
+first_released_as_single: false
 key: go-on-girl-ne-yo
 lyrics_url: https://genius.com/Ne-yo-go-on-girl-lyrics
 name: Go On Girl
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 261426
 ---
 I can't get it back
 But I don't want it back

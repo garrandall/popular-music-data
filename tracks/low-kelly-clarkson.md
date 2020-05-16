@@ -1,8 +1,11 @@
 ---
+album: Thankful
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:7HtE5z6XsuogcQJmnTNAIH
 features: []
-genres: []
+first_released_as_single: false
 key: low-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-low-lyrics
 name: Low
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-11-29'
+release_year: 2003
+runtime: 208640
 ---
 Everybody’s talking
 But they don’t say a thing

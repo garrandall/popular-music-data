@@ -1,9 +1,12 @@
 ---
+album: Motion
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:07nH4ifBxUB4lZcsf44Brn
 features:
 - John Newman
-genres: []
+first_released_as_single: false
 key: blame-calvin-harris-john-newman
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/blame.html
 name: Blame
@@ -88,8 +91,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-02-07'
+release_year: 2014
+runtime: 212960
 ---
-
 Can't be sleepin'
 Keep on waking
 Is that the woman next to me?
@@ -143,6 +147,3 @@ Oh, I promise (I'll be better this time, I will be better this time)
 
 Don't blame it on me
 Don't blame it on me
-
-
-

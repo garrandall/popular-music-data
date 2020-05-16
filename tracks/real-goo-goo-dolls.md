@@ -1,8 +1,11 @@
 ---
+album: Something for the Rest of Us
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:5gWnJbOpNKAcOZw7snskjK
 features: []
-genres: []
+first_released_as_single: false
 key: real-goo-goo-dolls
 lyrics_url: https://genius.com/Goo-goo-dolls-nothing-is-real-lyrics
 name: Real
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2008
+runtime: 244973
 ---
 Hey, anybody in this world?
 Can you talk to me a while?

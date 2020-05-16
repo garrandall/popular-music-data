@@ -1,8 +1,11 @@
 ---
+album: Dream Into Action
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:1RbOObDFn7GOseR1w529Zj
 features: []
-genres: []
+first_released_as_single: false
 key: things-can-only-get-better-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/thingscanonlygetbetter.html
 name: Things Can Only Get Better
@@ -99,8 +102,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 235826
 ---
-
 We're not scared to lose it all
 Security throw through the wall
 Future dreams we have to realize
@@ -151,6 +155,3 @@ Whoa whoa whoa-oh-oh whoa-whoa oh-oh-oh-oh
 Whoa whoa whoa-whoa oh-oh-oh
 (Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
 Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
-
-
-

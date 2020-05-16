@@ -1,9 +1,12 @@
 ---
+album: Anka
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:218AiunmmYDSPVKgCTa4Q7
 features:
 - Odia Coates
-genres: []
+first_released_as_single: false
 key: one-man-woman-paul-anka-with-odia-coates
 lyrics_url: https://genius.com/Paul-anka-and-odia-coates-one-man-woman-one-woman-man-lyrics
 name: One Man Woman
@@ -72,6 +75,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 184066
 ---
 You caught me fooling around with somebody new
 You caught me fooling around now I'm losing you

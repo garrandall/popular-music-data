@@ -1,8 +1,11 @@
 ---
+album: The Allnighter
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:2mUSUOsodxXcJ3HloZyYtk
 features: []
-genres: []
+first_released_as_single: false
 key: smuggler-s-blues-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/smugglersblues.html
 name: Smuggler's Blues
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1984
+runtime: 259826
 ---
-
 There's trouble on the street tonight, I can feel it in my bones
 I had a premonition that he should not go alone
 I knew the gun was loaded, but I didn't think he'd kill
@@ -118,6 +122,3 @@ Me and you
 It's a losing proposition, but one you can't refuse
 It's the politics of contraband, it's the smugglers' blues
 Smuggler's blues
-
-
-

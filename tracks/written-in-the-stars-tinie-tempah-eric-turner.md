@@ -1,9 +1,12 @@
 ---
+album: Disc-Overy
 artists:
 - Tinie Tempah
+external_ids:
+  spotify: spotify:track:61HQWI1Woxup7CnGwVUsdI
 features:
 - Eric Turner
-genres: []
+first_released_as_single: false
 key: written-in-the-stars-tinie-tempah-eric-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinietempah/writteninthestars20.html
 name: Written In The Stars
@@ -88,8 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2010
+runtime: 219560
 ---
-
 Oh! Written in the stars
 A million miles away
 A message to the main. O-o-o-oh
@@ -123,6 +127,3 @@ And I'm on my way
 
 Is it the top of the mountain?
 I'm on my way
-
-
-

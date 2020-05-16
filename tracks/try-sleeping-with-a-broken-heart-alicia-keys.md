@@ -1,8 +1,11 @@
 ---
+album: The Element Of Freedom
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:5sJL8yIbZQq4TV8uFmzCT4
 features: []
-genres: []
+first_released_as_single: true
 key: try-sleeping-with-a-broken-heart-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/trysleepingwithabrokenheart.html
 name: Try Sleeping With A Broken Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2009
+runtime: 249013
 ---
-
 Even if you were a million miles away
 I could still feel you in my bed
 Near me, touch me, feel me
@@ -137,6 +141,3 @@ So tonight, I'm gonna find a way to make it without you
 Tonight I'm gonna find a way to make it without you
 I'm gonna hold onto the times that we had tonight
 I'm gonna find a way to make it without you
-
-
-

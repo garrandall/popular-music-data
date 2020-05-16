@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:4WY4gPC9fCmYJGp2Ghm3xT
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-really-over--jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-is-it-really-over-lyrics
 name: Is It Really Over?
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 133253
 ---
 Is it really over, is this the end of the line?
 Don't tell me I'm losing the love that was mine

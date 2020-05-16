@@ -1,8 +1,11 @@
 ---
+album: My Cherie
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:6ssGZDVOXfKHoIQHoANSHW
 features: []
-genres: []
+first_released_as_single: false
 key: my-cherie-al-martino
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/My-Cherie
 name: My Cherie
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 154960
 ---
 It seems like only yesterday
 I'd meet her in that small cafe

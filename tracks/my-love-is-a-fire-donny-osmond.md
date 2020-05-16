@@ -1,8 +1,11 @@
 ---
+album: One Night Only (Live)
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:0pR67cDnsieEM5F0jTHdlP
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-is-a-fire-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/myloveisafire.html
 name: My Love Is A Fire
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-01-26'
+release_year: 1990
+runtime: 334973
 ---
-
 Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
 Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
 
@@ -140,6 +144,3 @@ Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
 Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
 Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
 Oh-oh Oh-oh, Oh-oh-oh Oh-oh-oh
-
-
-

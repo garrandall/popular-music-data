@@ -1,8 +1,11 @@
 ---
+album: In Action!
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:0OKqLn2fLfpRvmBZo047Lt
 features: []
-genres: []
+first_released_as_single: false
 key: mountain-of-love-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-mountain-of-love-lyrics
 name: Mountain Of Love
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 161626
 ---
 Standing on the mountain looking down on the city
 The way I feel is a doggone pity

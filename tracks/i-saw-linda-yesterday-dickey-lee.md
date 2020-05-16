@@ -1,8 +1,11 @@
 ---
+album: American Music Collection
 artists:
 - Dickey Lee
+external_ids:
+  spotify: spotify:track:3piobnyJRHaoyMRvFORrXl
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-linda-yesterday-dickey-lee
 lyrics_url: https://genius.com/Dickey-lee-i-saw-linda-yesterday-lyrics
 name: I Saw Linda Yesterday
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 128133
 ---
 (Hey, hey, hey, hey-ay, hey, hey, hey, hey-ay)
 Nights didn't seem so long no more

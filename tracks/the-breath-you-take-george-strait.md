@@ -1,8 +1,11 @@
 ---
+album: Twang
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:0zKsfGlBHj6mzZRhmACl8M
 features: []
-genres: []
+first_released_as_single: false
 key: the-breath-you-take-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/thebreathyoutake.html
 name: The Breath You Take
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2009
+runtime: 215880
 ---
-
 He looks up from second base, dad's up in the stands
 He saw the hit, the run, the slide, there ain't no bigger fan
 In the parking lot after the game
@@ -118,6 +122,3 @@ Life's not the breath you take, the breathing in and out
 That gets you through the day, ain't what it's all about
 Just might miss the point if you don't slow down the pace
 Life's not the breaths you take but the moments that take your breath away
-
-
-

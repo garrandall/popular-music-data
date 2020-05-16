@@ -1,8 +1,11 @@
 ---
+album: Baby I'm-a Want You
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:0VdcSHXCPRfQQZYQPXSlZ9
 features: []
-genres: []
+first_released_as_single: false
 key: diary-bread
 lyrics_url: https://genius.com/Bread-diary-lyrics
 name: Diary
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 189426
 ---
 I found her diary underneath a tree
 And started reading about me

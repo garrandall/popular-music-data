@@ -1,8 +1,11 @@
 ---
+album: 461 Ocean Blvd.
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:7aDdRtuCpHGdz7OZFvgbHJ
 features: []
-genres: []
+first_released_as_single: false
 key: willie-and-the-hand-jive-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/willieandthehandjive.html
 name: Willie And The Hand Jive
@@ -43,8 +46,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 209853
 ---
-
 I know a cat named Way-Out Willie,
 Got a cool little chick named Rocking Millie.
 He can walk and stroll and Susie Q
@@ -70,4 +74,3 @@ Willie and Millie got married last fall.
 They had a little Willie junior and that ain't all.
 Well, the kids got crazy and it's plain to see,
 Doing the hand jive on T.V.
-

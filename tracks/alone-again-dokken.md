@@ -1,8 +1,11 @@
 ---
+album: Tooth And Nail
 artists:
 - Dokken
+external_ids:
+  spotify: spotify:track:1j06ieEC2BOCM0fTmYhn2l
 features: []
-genres: []
+first_released_as_single: false
 key: alone-again-dokken
 lyrics_url: https://www.azlyrics.com/lyrics/dokken/aloneagain.html
 name: Alone Again
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1984
+runtime: 262200
 ---
-
 I'd like to see you in the morning light
 I like to feel you when it comes to night
 Now I'm here and I'm all alone
@@ -86,6 +90,3 @@ Alone again without you
 Alone again
 Alone again
 Alone again without you
-
-
-

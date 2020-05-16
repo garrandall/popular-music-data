@@ -1,8 +1,11 @@
 ---
+album: Niteflyte
 artists:
 - Niteflyte
+external_ids:
+  spotify: spotify:track:1s16yZ0cyNAJJT1iUVMwam
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-want-it-niteflyte
 lyrics_url: https://genius.com/Niteflyte-if-you-want-it-lyrics
 name: If You Want It
@@ -59,6 +62,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 270933
 ---
 If you want it you can get it
 With your love

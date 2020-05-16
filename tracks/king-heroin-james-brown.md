@@ -1,8 +1,11 @@
 ---
+album: There It Is
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0zu7GG2nftctpGY7WAYfhW
 features: []
-genres: []
+first_released_as_single: false
 key: king-heroin-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/kingheroin.html
 name: King Heroin
@@ -35,8 +38,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 238426
 ---
-
 Ladies and Gentlemen
 Fellow Americans
 Lady Americans
@@ -106,6 +110,3 @@ Get your mind together
 And get away from drugs!
 That's the man!
 Back! Back
-
-
-

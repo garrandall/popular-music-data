@@ -1,8 +1,11 @@
 ---
+album: Just Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:3GausKoBU00yMNgWRZPoQh
 features: []
-genres: []
+first_released_as_single: true
 key: whatchulookinat-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/whatchulookinat.html
 name: Whatchulookinat
@@ -19,9 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-09-07'
+release_year: 2002
+runtime: 248546
 ---
-
-
 It's time for you to strike back
 They're lookin' at you
 Whitney Houston
@@ -125,6 +128,3 @@ And I don't need you looking at me
 
 
 Look atcha self
-
-
-

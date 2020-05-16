@@ -1,8 +1,11 @@
 ---
+album: I Will Stand
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3W3ZHm27GvXUzUD7R5vmB8
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why-i-m-here-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-thats-why-im-here-lyrics
 name: That's Why I'm Here
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-06-20'
+release_year: 1997
+runtime: 241400
 ---
 Well I ain't had nothin' to drink
 I knew that's probably what you'd think

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:7omziClFP8SlnUiIOy33RH
 features: []
-genres: []
+first_released_as_single: true
 key: all-in-my-mind-maxine-brown
 lyrics_url: https://genius.com/Maxine-brown-all-in-my-mind-lyrics
 name: All In My Mind
@@ -55,6 +58,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 153746
 ---
 I think that you don't care
 And its more than I can bare

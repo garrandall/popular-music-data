@@ -1,8 +1,11 @@
 ---
+album: My Love Is Your Love
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:3wACjmQo7ZkRNMLfZXndFB
 features: []
-genres: []
+first_released_as_single: false
 key: i-learned-from-the-best-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/ilearnedfromthebest.html
 name: I Learned From The Best
@@ -51,8 +54,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2000-04-29'
+release_year: 1998
+runtime: 259533
 ---
-
 Did you really think that
 I would really take you back
 Let you back in my heart one more time
@@ -88,4 +92,3 @@ So when all you've got are sleepless nights
 When those tears are clouding up your eyes
 Just remember it was you who said goodbye
 Who said goodbye.
-

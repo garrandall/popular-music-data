@@ -1,8 +1,11 @@
 ---
+album: Buddha And The Chocolate Box
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:7eiNxeOC8dvYAJWgTOu6xn
 features: []
-genres: []
+first_released_as_single: false
 key: oh-very-young-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/ohveryyoung.html
 name: Oh Very Young
@@ -75,8 +78,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
+release_year: 1974
+runtime: 156773
 ---
-
 Oh very young
 What will you leave us this time
 You're only dancing on this earth for a short while
@@ -104,6 +108,3 @@ What will you leave us this time
 You're only dancing on this earth for a short while
 Oh very young
 What will you leave us this time
-
-
-

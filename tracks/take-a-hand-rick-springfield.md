@@ -1,8 +1,11 @@
 ---
+album: Wait for the Night
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:1yrSqOAUR8oNYFaK0Maf2L
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-hand-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/takeahand.html
 name: Take A Hand
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1976
+runtime: 138866
 ---
-
 Turn up your radio and put your ear to the sweet, sweet music
 And take your baby and hold her in your arms
 And hear the music go "Oh oh"
@@ -70,6 +74,3 @@ You've go to take a hand, take a hand
 You've got to let her know
 Take a hand, take a hand
 You've got to let it show
-
-
-

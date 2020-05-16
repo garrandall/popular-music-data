@@ -1,8 +1,11 @@
 ---
+album: Rejoice
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:0WFUX8JPRy6Zz91QxwZZll
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ask-my-neighbors-the-emotions
 lyrics_url: https://genius.com/The-emotions-dont-ask-my-neighbors-lyrics
 name: Don't Ask My Neighbors
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1976
+runtime: 266066
 ---
 You're wondering if
 I care about you

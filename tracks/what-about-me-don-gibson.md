@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:1QdxAlq7M0dW9Kpu7LQbgx
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-me-don-gibson
 lyrics_url: https://genius.com/Don-gibson-what-about-me-lyrics
 name: What About Me
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1960
+runtime: 131560
 ---
 You're happy now it's plain to see you're not concerned with your old used to be's
 You could at least show some sympathy you're happy I see what about me

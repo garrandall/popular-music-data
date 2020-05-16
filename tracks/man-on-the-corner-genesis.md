@@ -1,8 +1,11 @@
 ---
+album: Abacab
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0oZIhxPO45rQkDIMr75gK5
 features: []
-genres: []
+first_released_as_single: false
 key: man-on-the-corner-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/manonthecorner.html
 name: Man On The Corner
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1981
+runtime: 267426
 ---
-
 See the lonely man there on the corner,
 What he's waiting for, I don't know,
 But he waits everyday now.
@@ -98,6 +102,3 @@ Who's the lonely man there on the corner,
 What he's waiting for, I don't know.
 Oh but he waits every day now.
 He's just waiting for that something to show.
-
-
-

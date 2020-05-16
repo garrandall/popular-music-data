@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol. 1
 artists:
 - The Salsoul Orchestra
+external_ids:
+  spotify: spotify:track:5FmI3OB8tuHIP2j7WogSnr
 features: []
-genres: []
+first_released_as_single: false
 key: tangerine-the-salsoul-orchestra
 lyrics_url: https://genius.com/The-salsoul-orchestra-tangerine-lyrics
 name: Tangerine
@@ -59,6 +62,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1975
+runtime: 280866
 ---
 (Male)
 Tangerine - she is all they claim

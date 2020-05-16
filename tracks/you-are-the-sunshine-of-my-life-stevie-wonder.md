@@ -1,8 +1,11 @@
 ---
+album: Talking Book
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0n2pjCIMKwHSXoYfEbYMfX
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-sunshine-of-my-life-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-you-are-the-sunshine-of-my-life-lyrics
 name: You Are The Sunshine Of My Life
@@ -75,6 +78,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1972
+runtime: 178200
 ---
 You are the sunshine of my life
 That's why I'll always be around

@@ -1,8 +1,11 @@
 ---
+album: A Night To Remember
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:7rGFyfE73J6lkEvFnCHucC
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-always-somethin--joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/itsalwayssomethin.html
 name: It's Always Somethin'
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
+release_year: 1999
+runtime: 178533
 ---
-
 Downtown, stoplight, red car rolls by.
 What else can I do, but wonder if it's you.
 Scanning the stations, every song they're playin'
@@ -98,6 +102,3 @@ What I wouldn't give, what I wouldn't do.
 If only I could just stop missin' you.
 I'd let go of our love, like it was never nothing.
 But it's always something.
-
-
-

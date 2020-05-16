@@ -1,9 +1,12 @@
 ---
+album: Settle (The Remixes)
 artists:
 - Disclosure
+external_ids:
+  spotify: spotify:track:3pgC6hv9bbZSAzEOl6K5nG
 features:
 - Sam Smith
-genres: []
+first_released_as_single: true
 key: latch-disclosure-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/disclosure/latch.html
 name: Latch
@@ -140,8 +143,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
+release_year: 2012
+runtime: 256940
 ---
-
 (Never )
 
 You lift my heart up when the rest of me is down (never)
@@ -198,6 +202,3 @@ I won't let go of you
 
 Never
 Never
-
-
-

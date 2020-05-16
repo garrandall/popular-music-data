@@ -1,8 +1,11 @@
 ---
+album: Part Time Love
 artists:
 - Ann Peebles
+external_ids:
+  spotify: spotify:track:30lLlmQZBHsiVLNcTKpqjd
 features: []
-genres: []
+first_released_as_single: false
 key: part-time-love-ann-peebles
 lyrics_url: https://www.musixmatch.com/lyrics/Ann-Peebles/Part-Time-Love
 name: Part Time Love
@@ -51,6 +54,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
+release_year: 1970
+runtime: 174973
 ---
 I need somebody
 Who's consistent with me

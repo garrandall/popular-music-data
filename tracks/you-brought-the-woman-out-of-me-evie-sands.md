@@ -1,8 +1,11 @@
 ---
+album: Estate Of Mind
 artists:
 - Evie Sands
+external_ids:
+  spotify: spotify:track:2ZWgfIzgvdmCSpCCPO7vcK
 features: []
-genres: []
+first_released_as_single: false
 key: you-brought-the-woman-out-of-me-evie-sands
 name: You Brought The Woman Out Of Me
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 221733
 ---
 

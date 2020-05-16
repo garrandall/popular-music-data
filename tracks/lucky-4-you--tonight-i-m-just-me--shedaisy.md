@@ -1,8 +1,11 @@
 ---
+album: The Whole Shebang
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:1mpWPva1J4iAzM6mvfeSCF
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-4-you--tonight-i-m-just-me--shedaisy
 lyrics_url: https://genius.com/Shedaisy-lucky-4-you-tonight-im-just-me-lyrics
 name: Lucky 4 You (Tonight I'm Just Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 1999
+runtime: 240600
 ---
 You always say that I have multiple personalities
 I bounce around somewhere between my dreams and reality

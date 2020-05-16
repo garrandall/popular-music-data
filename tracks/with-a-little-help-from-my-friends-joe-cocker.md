@@ -1,8 +1,11 @@
 ---
+album: With A Little Help From My Friends
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:0YZ3J8xzGwLOg4yEgST1YK
 features: []
-genres: []
+first_released_as_single: false
 key: with-a-little-help-from-my-friends-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-with-a-little-help-from-my-friends-lyrics
 name: With A Little Help From My Friends
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 312173
 ---
 What would you do if I sang out of tune?
 Would you stand up and walk out on me?

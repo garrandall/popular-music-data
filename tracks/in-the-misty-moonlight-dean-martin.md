@@ -1,8 +1,11 @@
 ---
+album: The Door Is Still Open to My Heart
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:4d1Hu4WB0cIrI3n7CWeaTE
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-misty-moonlight-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/inthemistymoonlight.html
 name: In The Misty Moonlight
@@ -35,8 +38,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1964
+runtime: 163053
 ---
-
 In the misty moonlight
 By the flickering firelight
 Any place is all right
@@ -84,6 +88,3 @@ Long as I'm with you
 
 In the misty moonlight
 By the flickering firelight...
-
-
-

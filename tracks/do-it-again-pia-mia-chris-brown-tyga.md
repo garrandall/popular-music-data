@@ -1,10 +1,13 @@
 ---
+album: Do It Again
 artists:
 - Pia Mia
+external_ids:
+  spotify: spotify:track:72Bz4ciRZPBcVSw0nrZDHi
 features:
 - Chris Brown
 - Tyga
-genres: []
+first_released_as_single: true
 key: do-it-again-pia-mia-chris-brown-tyga
 lyrics_url: https://www.azlyrics.com/lyrics/piamia/doitagain.html
 name: Do It Again
@@ -53,9 +56,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 207746
 ---
-
-
 Bye, baby, they ain't fly, baby
 Looking at the whip frame, that's a nice 'Cedez
 You should throw it to me, like Tom Brady
@@ -104,6 +107,3 @@ Can we go back (can you take me, baby)
 Boy, can we go back
 
 Pia, let me know
-
-
-

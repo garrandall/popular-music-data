@@ -1,8 +1,12 @@
 ---
+album: James Brown And His Famous Flames Tour The U.S.A.
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:2GX6Ruz7jOHVikmoTZ32IP
+features:
+- The Famous Flames
+first_released_as_single: false
 key: three-hearts-in-a-tangle-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-three-hearts-in-a-tangle-lyrics
 name: Three Hearts In A Tangle
@@ -19,6 +23,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 172333
 ---
 Three hearts in a tangle
 And one heart will have to break

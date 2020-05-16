@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:4SPu0Ql902hTVXkBoNIYtq
 features: []
-genres: []
+first_released_as_single: false
 key: nasa-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-nasa-lyrics
 name: NASA
@@ -19,6 +22,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 182000
 ---
 This is one small step for woman
 One giant leap for woman-kind

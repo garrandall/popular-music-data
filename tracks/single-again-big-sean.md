@@ -1,8 +1,11 @@
 ---
+album: Single Again
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:7IP0lO9tHfNwBWZ9X6TJ84
 features: []
-genres: []
+first_released_as_single: true
 key: single-again-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/singleagain.html
 name: Single Again
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 213733
 ---
-
 Yeah, what happens when it's too good to throw away?
 You either let it go bad, or go away
 I need to pray
@@ -44,7 +48,7 @@ Maybe I should spend this cash on me (On me)
 
 Instead of blaming all my old girls when I leave (What?)
 Instead of calling up these fake hoes that I don't need (What?)
-Old relationships turn to new DÃ©jÃ -Vu's
+Old relationships turn to new DéjÃ -Vu's
 Got me feeling like 'I Don't Fuck With You'
 Oh no-no, nah, that's the old me, you fuckin' with the new me
 Honestly all the disrespect had damn near ruined me (Damn near)
@@ -102,6 +106,3 @@ Yeah even if I'm late I'ma take my time
 
 Stay on this grind
 ($)
-
-
-

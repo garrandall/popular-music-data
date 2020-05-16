@@ -1,9 +1,12 @@
 ---
+album: All I Feel
 artists:
 - Ray J
 - Yung Berg
+external_ids:
+  spotify: spotify:track:0DdpxWfVvUGgkJv5536tiF
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-can-i-ray-j-yung-berg
 lyrics_url: https://www.azlyrics.com/lyrics/rayj/sexycani.html
 name: Sexy Can I
@@ -112,8 +115,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2008
+runtime: 204040
 ---
-
 Sexy can I
 Yeah, Yeah
 All we wanna know is...
@@ -186,4 +190,3 @@ Fresh out the pool no towel
 just let it air dry.
 And if you ain't fuckin' tonight
 Man you can watch that tour bus go by
-

@@ -1,8 +1,11 @@
 ---
+album: All of Me
 artists:
 - Estelle
+external_ids:
+  spotify: spotify:track:5rHl4RFZ563Ju1WaPYAQwW
 features: []
-genres: []
+first_released_as_single: true
 key: thank-you-estelle
 lyrics_url: https://genius.com/Estelle-thank-you-lyrics
 name: Thank You
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2011
+runtime: 252013
 ---
 Sometimes I wonder… Do you
 Even recognize the woman

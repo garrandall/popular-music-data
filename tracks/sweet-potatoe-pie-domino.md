@@ -1,8 +1,11 @@
 ---
+album: Domino
 artists:
 - Domino
+external_ids:
+  spotify: spotify:track:1hlUjyisgYDHZUSGWUR3mf
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-potatoe-pie-domino
 lyrics_url: https://genius.com/Domino-sweet-potatoe-pie-lyrics
 name: Sweet Potatoe Pie
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1993
+runtime: 211853
 ---
 It's like this
 I'm that guy, you're so fly

@@ -1,8 +1,11 @@
 ---
+album: September Of My Years
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2ID3rNM3hFBjqrLcV0Wr0y
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-a-very-good-year-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-it-was-a-very-good-year-lyrics
 name: It Was A Very Good Year
@@ -39,6 +42,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 267240
 ---
 When I was seventeen
 It was a very good year

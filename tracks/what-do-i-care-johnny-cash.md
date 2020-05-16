@@ -1,8 +1,11 @@
 ---
+album: 'Ring Of Fire: The Best Of Johnny Cash'
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:172tOpuxcdARN92RIFvZaq
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-i-care-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-what-do-i-care-lyrics
 name: What Do I Care
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 127373
 ---
 When I'm all through if I haven't been what they think I should be
 If the total isn't high enough when they figure me

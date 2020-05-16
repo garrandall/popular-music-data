@@ -1,8 +1,11 @@
 ---
+album: New Beginning
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:1iXtpeHC0i6c7JBrKi3yaq
 features: []
-genres: []
+first_released_as_single: false
 key: use-your-heart-swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/useyourheartinterlude.html
 name: Use Your Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
+release_year: 1996
+runtime: 289000
 ---
-
 Use your heart 
 And not your eyes 
 You've got time 
@@ -102,6 +106,3 @@ And watch them fly
 Use your heart 
 And not your eyes 
 (Please)
-
-
-

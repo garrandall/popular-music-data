@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Festival
+external_ids:
+  spotify: spotify:track:0e4Z8z10FBvZsTLpxuja4F
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-for-me-argentina-festival
 lyrics_url: https://www.musixmatch.com/lyrics/Boris-Midney-feat-The-Festival/Don-t-Cry-for-Me-Argentina
 name: Don't Cry For Me Argentina
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 295172
 ---
 Evita Festival Disco Version
 Boris Midney
@@ -65,7 +70,7 @@ Hello
 What's do Buenos Aires?, aha,
 I wanna say I'm just a little stuck on you, you'll be on me too.
 I'm just a little stock on you (bis 4)
-I'm just a little stock on youuuu.
+I'm just a little stock on you.
 (Music break 3)
 It's seem crazy that you must belive,
 It's nothing calculated, nothing planned

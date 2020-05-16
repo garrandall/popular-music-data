@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gary Puckett And The Union Gap
+external_ids:
+  spotify: spotify:track:1TqwcNTF7f8nR9U0WlSGR3
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-give-in-to-him-gary-puckett-and-the-union-gap
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-dont-give-in-to-him-lyrics
 name: Don't Give In To Him
@@ -43,6 +46,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1968
+runtime: 148760
 ---
 It starts out with a kiss
 Even though you're only friends

@@ -1,8 +1,11 @@
 ---
+album: Satellite (U.S. Version WEA Distribution)
 artists:
 - P.O.D.
+external_ids:
+  spotify: spotify:track:0UrWr7Jnu1heq1o99ZwUd0
 features: []
-genres: []
+first_released_as_single: false
 key: youth-of-the-nation-p-o-d-
 lyrics_url: https://www.azlyrics.com/lyrics/pod/youthofthenation.html
 name: Youth Of The Nation
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-06-15'
+release_year: 2001
+runtime: 256240
 ---
-
 Last day of the rest of my life
 I wish I would've known
 'Cause I didn't kiss my mama goodbye
@@ -189,6 +193,3 @@ We are youth of the nation
 We are youth of the nation
 We are youth of the nation
 We are
-
-
-

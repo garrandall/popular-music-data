@@ -1,8 +1,11 @@
 ---
+album: Collectors Edition Greatest Hits
 artists:
 - William Bell
+external_ids:
+  spotify: spotify:track:0a1Rp4ZF2kT6lMu2bPGLtC
 features: []
-genres: []
+first_released_as_single: false
 key: tryin--to-love-two-william-bell
 lyrics_url: https://genius.com/William-bell-tryin-to-love-two-lyrics
 name: Tryin' To Love Two
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1977
+runtime: 205573
 ---
 Trying to love two
 Ain't easy to do

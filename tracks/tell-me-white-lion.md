@@ -1,8 +1,11 @@
 ---
+album: Fight To Survive
 artists:
 - White Lion
+external_ids:
+  spotify: spotify:track:6gf2SUYYqpCnRpKSvuwwT1
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-white-lion
 lyrics_url: https://genius.com/White-lion-tell-me-lyrics
 name: Tell Me
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1985
+runtime: 347508
 ---
 We held each other tight
 And ran away into the night

@@ -1,8 +1,11 @@
 ---
+album: Hear My Cry
 artists:
 - Sonique
+external_ids:
+  spotify: spotify:track:5GJOuVtD5nGTjlnqyZ0q3A
 features: []
-genres: []
+first_released_as_single: true
 key: it-feels-so-good-sonique
 lyrics_url: https://www.azlyrics.com/lyrics/sonique/itfeelssogood.html
 name: It Feels So Good
@@ -103,8 +106,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
+release_year: 1998
+runtime: 229760
 ---
-
 You always make me smile
 When I'm feeling down
 You give me such a vibe
@@ -140,6 +144,3 @@ Thought I should let you know
 That your touch it means so much
 When I'm alone at night
 It's you I'm always thinking of
-
-
-

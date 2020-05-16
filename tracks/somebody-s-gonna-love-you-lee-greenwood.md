@@ -1,8 +1,11 @@
 ---
+album: Somebody's Gonna Love You
 artists:
 - Lee Greenwood
+external_ids:
+  spotify: spotify:track:12OfUHapshY5lPelMfGL5z
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-gonna-love-you-lee-greenwood
 lyrics_url: https://genius.com/Lee-greenwood-somebodys-gonna-love-you-lyrics
 name: Somebody's Gonna Love You
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1983
+runtime: 224373
 ---
 Lonely lady living down the hall
 Don't you have any friends at all

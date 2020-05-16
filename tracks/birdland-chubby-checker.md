@@ -1,8 +1,11 @@
 ---
+album: It's Pony Time/Let's Twist Again
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:4qqTLJME5EZKItpY2doTP9
 features: []
-genres: []
+first_released_as_single: false
 key: birdland-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/birdland.html
 name: Birdland
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1961
+runtime: 145706
 ---
-
 Who likes Birdland
 (We like Birdland)
 (We like Birdland)
@@ -101,6 +105,3 @@ You like Birdland
 He likes Birdland
 She likes Birdland
 We like Birdland
-
-
-

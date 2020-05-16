@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4HG1YiGBseVKzjyKcmAJen
 features: []
-genres: []
+first_released_as_single: false
 key: summer-games-drake
 lyrics_url: https://genius.com/Drake-summer-games-lyrics
 name: Summer Games
@@ -15,6 +18,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 247893
 ---
 I think you're changing your mind
 Starting to see it in your eyes

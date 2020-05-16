@@ -1,8 +1,11 @@
 ---
+album: Ace Frehley
 artists:
 - Ace Frehley
+external_ids:
+  spotify: spotify:track:1BvpeiApX8qhof8Pmi3YlH
 features: []
-genres: []
+first_released_as_single: false
 key: new-york-groove-ace-frehley
 lyrics_url: https://www.azlyrics.com/lyrics/acefrehley/newyorkgroove.html
 name: New York Groove
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1978
+runtime: 183693
 ---
-
 Many years since I was here
 On the street I was passin' my time away
 To the left and to the right, buildings towering to the sky
@@ -133,6 +137,3 @@ I'm back, back in the New York Groove
 
 I'm back, back in the New York Groove
 I'm back, back in the New York Groove
-
-
-

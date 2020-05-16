@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:0kRBPmbybgxHwYWHnRpuB2
 features: []
-genres: []
+first_released_as_single: false
 key: and-we-danced-hooters
 lyrics_url: https://www.azlyrics.com/lyrics/hooters/andwedanced.html
 name: And We Danced
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1981
+runtime: 226200
 ---
-
 She was a be-bop baby on a hard day's night
 She was hangin' on Johnny, he was holdin' on tight
 I could feel her coming from a mile away
@@ -135,6 +139,3 @@ And we danced
 And we danced and danced and danced
 and danced and danced and danced
 and danced and danced and danced
-
-
-

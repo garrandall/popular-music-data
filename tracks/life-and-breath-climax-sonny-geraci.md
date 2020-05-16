@@ -1,9 +1,12 @@
 ---
+album: Climax Featuring Sonny Geraci
 artists:
 - Climax
+external_ids:
+  spotify: spotify:track:4G2Syk7LwowEwa9qqku4xM
 features:
 - Sonny Geraci
-genres: []
+first_released_as_single: false
 key: life-and-breath-climax-sonny-geraci
 name: Life And Breath
 rankings:
@@ -67,5 +70,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 197186
 ---
 

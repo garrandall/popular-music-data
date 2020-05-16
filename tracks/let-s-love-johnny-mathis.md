@@ -1,8 +1,11 @@
 ---
+album: 'More: Johnny''s Greatest Hits'
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:2Pt84VgBfQD85fMwsDVCx3
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-love-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-lets-love-lyrics
 name: Let's Love
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1959
+runtime: 164680
 ---
 Lets love
 While the night is young

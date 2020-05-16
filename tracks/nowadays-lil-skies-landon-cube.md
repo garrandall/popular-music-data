@@ -1,9 +1,12 @@
 ---
+album: Life of a Dark Rose
 artists:
 - Lil Skies
+external_ids:
+  spotify: spotify:track:2u7mxWSeoqTXndK5e08jMp
 features:
 - Landon Cube
-genres: []
+first_released_as_single: false
 key: nowadays-lil-skies-landon-cube
 lyrics_url: https://www.azlyrics.com/lyrics/lilskies/nowadays.html
 name: Nowadays
@@ -60,9 +63,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 203907
 ---
-
-
 CashMoneyAP
 Aye, aye, aye
 
@@ -133,6 +136,3 @@ Nowadays I'm too cool for a girlfriend
 Nowadays I don't know when the world spins
 Live your life like we die when the world ends
 So it's alright every time we fuckin' break a sin
-
-
-

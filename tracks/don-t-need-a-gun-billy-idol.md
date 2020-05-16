@@ -1,8 +1,11 @@
 ---
+album: Whiplash Smile
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:2QnmBN9FmRsYHvKUJQrebB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-need-a-gun-billy-idol
 lyrics_url: https://genius.com/Billy-idol-dont-need-a-gun-lyrics
 name: Don't Need A Gun
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 377813
 ---
 A human heart goes out tonight
 Yes, a red hot love on a red stop light

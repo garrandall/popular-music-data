@@ -1,9 +1,12 @@
 ---
+album: Yo Philadelphia!!!! Look What I Found
 artists:
 - Candy
 - The Kisses
+external_ids:
+  spotify: spotify:track:18YvISWeh8DqycLiVdxIpZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-81-candy-the-kisses
 lyrics_url: https://www.musixmatch.com/lyrics/Candy-and-the-Kisses/The-81
 name: The 81
@@ -48,6 +51,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1962
+runtime: 155080
 ---
 There's a new dance going around
 They call the 81 (81)

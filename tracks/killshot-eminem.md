@@ -1,8 +1,11 @@
 ---
+album: Killshot
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1jo3TwNGCXfNdB5uba3ZVv
 features: []
-genres: []
+first_released_as_single: true
 key: killshot-eminem
 lyrics_url: https://genius.com/Eminem-killshot-lyrics
 name: Killshot
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 253579
 ---
 You sound like a bitch, bitch
 Shut the fuck up

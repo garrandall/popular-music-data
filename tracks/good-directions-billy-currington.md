@@ -1,8 +1,11 @@
 ---
+album: Doin' Somethin' Right
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:7GQjJEwqlp6m5HNWVQd6OR
 features: []
-genres: []
+first_released_as_single: false
 key: good-directions-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/gooddirections.html
 name: Good Directions
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2007-08-04'
+release_year: 2005
+runtime: 215853
 ---
-
 I was sittin' there sellin' turnips on a flatbed truck
 Crunchin' on a pork rind when she pulled up
 She had to be thinkin' "This is where Rednecks come from"
@@ -125,6 +129,3 @@ When she stopped in and asked Miss Bell for some of her sweet tea
 Mama gave her a big 'ol glass and sent her right back here to me
 
 Thank God for good directions and turnip greens
-
-
-

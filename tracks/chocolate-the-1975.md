@@ -1,8 +1,11 @@
 ---
+album: The 1975
 artists:
 - The 1975
+external_ids:
+  spotify: spotify:track:1TaLP9QdlbZ0s9CQQzDGkI
 features: []
-genres: []
+first_released_as_single: true
 key: chocolate-the-1975
 lyrics_url: https://www.azlyrics.com/lyrics/1975/chocolate.html
 name: Chocolate
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2012
+runtime: 238003
 ---
-
 Hey, now I call it a split 'cause I know that you will
 Uh, oh, you bite your friends like chocolate
 And you said, "We go where nobody knows, we got guns hidden under our petticoats.
@@ -93,6 +97,3 @@ Well, I think we better go
 Said the feds are here you know
 Said Rebecca better know
 Seriously better go
-
-
-

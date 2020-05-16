@@ -1,8 +1,11 @@
 ---
+album: Rearview Town
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:3yHTTHbT058Ow0favhZO38
 features: []
-genres: []
+first_released_as_single: true
 key: rearview-town-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/rearviewtown.html
 name: Rearview Town
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2018
+runtime: 184173
 ---
-
 Wipe the footprints off my dash
 Tore up those sun-faded photographs
 Threw 'em in the wind, ya'll can have it back
@@ -122,6 +126,3 @@ Population minus me
 On the other side of that dust cloud
 Ain't nothin' but a rearview town
 Ain't nothin' but a rearview town
-
-
-

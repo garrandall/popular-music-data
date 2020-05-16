@@ -1,8 +1,11 @@
 ---
+album: America's Least Wanted
 artists:
 - Ugly Kid Joe
+external_ids:
+  spotify: spotify:track:6XUuSvFmYeoFCqNsGaedCZ
 features: []
-genres: []
+first_released_as_single: true
 key: everything-about-you-ugly-kid-joe
 lyrics_url: https://www.azlyrics.com/lyrics/uglykidjoe/everythingaboutyou.html
 name: Everything About You
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1991
+runtime: 254400
 ---
-
 I hate the rain and sunny weather
 And I hate beach and mountains too
 (And) I don't like a thing about the city, no, no
@@ -131,6 +135,3 @@ I can't stand to be around
 I hate everything about... 
 
 YOU!
-
-
-

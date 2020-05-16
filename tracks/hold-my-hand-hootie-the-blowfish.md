@@ -1,8 +1,11 @@
 ---
+album: Cracked Rear View
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:4WnYuVFXe6Si4fZqkxbnvS
 features: []
-genres: []
+first_released_as_single: false
 key: hold-my-hand-hootie-the-blowfish
 lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/holdmyhand.html
 name: Hold My Hand
@@ -183,8 +186,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1994
+runtime: 258333
 ---
-
 With a little love, and some tenderness
 We'll walk upon the water
 We'll rise above this mess
@@ -241,6 +245,3 @@ Hold my hand
 Maybe we can't change the world but
 I wanna love you the best that, best that I can
 Oh, The best that I can
-
-
-

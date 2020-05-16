@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Rex Allen
+external_ids:
+  spotify: spotify:track:0x8M9S0YZVRCIshCQHZxzk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-near-the-indians-rex-allen
 lyrics_url: https://genius.com/Rex-allen-dont-go-near-the-indians-lyrics
 name: Don't Go Near The Indians
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
+release_year: 1962
+runtime: 202626
 ---
 {Son, don't go near the Indians
 Please stay away

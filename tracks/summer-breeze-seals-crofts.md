@@ -1,9 +1,12 @@
 ---
+album: Summer Breeze
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:01UYpHuzHi4eB9PAbDoPY2
 features: []
-genres: []
+first_released_as_single: false
 key: summer-breeze-seals-crofts
 lyrics_url: https://genius.com/Seals-and-crofts-summer-breeze-lyrics
 name: Summer Breeze
@@ -80,6 +83,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 205480
 ---
 See the curtains hangin' in the window
 In the evening on a Friday night

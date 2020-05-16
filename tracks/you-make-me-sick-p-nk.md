@@ -1,8 +1,11 @@
 ---
+album: Can't Take Me Home
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:1icygp76kVbs429RikF0jJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-sick-p-nk
 lyrics_url: https://genius.com/P-nk-you-make-me-sick-lyrics
 name: You Make Me Sick
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
+release_year: 2000
+runtime: 247533
 ---
 They make me sick
 I know I feel you, that is why we got to stick together

@@ -1,8 +1,11 @@
 ---
+album: What's New Pussycat
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:14n0uNnkPEpGDCJ4I4KsOI
 features: []
-genres: []
+first_released_as_single: false
 key: with-these-hands-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/withthesehands.html
 name: With These Hands
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 164440
 ---
-
 With these hands, I will cling to you,
 I'm yours forever and a day.
 With these hands, I will bring to you,
@@ -53,6 +57,3 @@ Should there be a stormy sea,
 I'll turn the tide for you,
 And I'll never,
 No, I'll never let you go.
-
-
-

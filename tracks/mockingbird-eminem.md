@@ -1,8 +1,11 @@
 ---
+album: Encore (Deluxe Version)
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:561jH07mF1jHuk7KlaeF0s
 features: []
-genres: []
+first_released_as_single: false
 key: mockingbird-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/mockingbird.html
 name: Mockingbird
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2004
+runtime: 250760
 ---
-
 Yeah
 I know sometimes things may not always make sense to you right now
 But hey, what daddy always tell you?
@@ -194,6 +198,3 @@ And if that mockingbird don't sing and that ring don't shine
 I'mma break that birdie's neck
 I'll go back to the jeweler who sold it to ya
 And make him eat every carat don't fuck with dad (ha ha)
-
-
-

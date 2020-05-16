@@ -1,8 +1,11 @@
 ---
+album: Room With A View
 artists:
 - Carolyn Dawn Johnson
+external_ids:
+  spotify: spotify:track:72xOalbgbNEnV8RsMarPey
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-carolyn-dawn-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/carolyndawnjohnson/georgia.html
 name: Georgia
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2001
+runtime: 293160
 ---
-
 If I'm not over you by the time I get to Georgia
 Then I guess I'll be Alabama bound
 There was a time when I'd do anything for you
@@ -100,6 +104,3 @@ I won't, I won't turn around
 I won't turn around
 I won't, I won't turn around
 I won't turn around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Burl Ives Live
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:7yAqrX8haTHkTVb6yAQ6PD
 features: []
-genres: []
+first_released_as_single: false
 key: funny-way-of-laughin--burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/funnywayoflaughin.html
 name: Funny Way Of Laughin'
@@ -51,8 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 113194
 ---
-
 It's just my funny way of laughin'
 Yes, my funny way of laughin'
 Your leavin' didn't bother me
@@ -99,6 +103,3 @@ I'm really happy as can be
 Funny way of laughin', laughin'
 Funny way of laughin', laughin'
 Funny way of laughin', laughin'
-
-
-

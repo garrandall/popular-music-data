@@ -1,8 +1,11 @@
 ---
+album: ANTI
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4pAl7FkDMNBsjykPXo91B3
 features: []
-genres: []
+first_released_as_single: false
 key: needed-me-rihanna
 lyrics_url: https://genius.com/Rihanna-needed-me-lyrics
 name: Needed Me
@@ -187,6 +190,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 191600
 ---
 Mustard on the beat, ho!
 

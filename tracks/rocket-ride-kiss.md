@@ -1,8 +1,11 @@
 ---
+album: Alive II (Live)
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3xjObvccQUvtUcV5GL3Hh3
 features: []
-genres: []
+first_released_as_single: false
 key: rocket-ride-kiss
 lyrics_url: https://genius.com/Kiss-rocket-ride-lyrics
 name: Rocket Ride
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1977
+runtime: 248240
 ---
 Lady space, you like the way
 I make you feel inside

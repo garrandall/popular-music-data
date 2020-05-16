@@ -1,8 +1,11 @@
 ---
+album: I've Been Expecting You
 artists:
 - Robbie Williams
+external_ids:
+  spotify: spotify:track:1nrackcWUBo87xecPgry2G
 features: []
-genres: []
+first_released_as_single: false
 key: millennium-robbie-williams
 lyrics_url: https://www.azlyrics.com/lyrics/robbiewilliams/millennium.html
 name: Millennium
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 247573
 ---
-
 We've got stars directing our fate
 and we're praying it's not too late
 Millennium
@@ -84,7 +88,4 @@ and we're praying it's not too late (Millennium)
 We've got stars directing our fate
 and we're praying it's not too late 
 'cause we know we're falling from grace 
-Millennium 
-
-
-
+Millennium

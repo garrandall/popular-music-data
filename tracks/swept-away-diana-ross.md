@@ -1,8 +1,11 @@
 ---
+album: Swept Away
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3U3eFYWcekCDDFnYYctCnp
 features: []
-genres: []
+first_released_as_single: false
 key: swept-away-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/sweptaway.html
 name: Swept Away
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 323533
 ---
-
 I was lying there
 Lying on the beach
 I dreamed you were there
@@ -136,6 +140,3 @@ Swept away
 No it won't, no it won't
 No it doesn't matter
 Nothing last forever
-
-
-

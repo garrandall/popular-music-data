@@ -1,8 +1,11 @@
 ---
+album: Tell Mama
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:6eFgjBTF91pOZTQ8t7xBHv
 features: []
-genres: []
+first_released_as_single: false
 key: tell-mama-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/tellmama.html
 name: Tell Mama
@@ -63,8 +66,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 144000
 ---
-
 You thought you had found a good girl,
 One to love you and give you the world
 Now you find that you been misused,
@@ -98,6 +102,3 @@ Tell Mama, what you want, tell Mama
 What you want right now, tell me
 Tell your Mam... 
 Tell your Mama, what you got to have
-
-
-

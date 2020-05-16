@@ -1,8 +1,11 @@
 ---
+album: Trap Lord
 artists:
 - A$AP Ferg
+external_ids:
+  spotify: spotify:track:54oACFHRfeOa7VD0FTQSkJ
 features: []
-genres: []
+first_released_as_single: true
 key: work-a-ap-ferg
 lyrics_url: https://genius.com/A-ap-ferg-work-lyrics
 name: Work
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2013
+runtime: 178506
 ---
 Yeah, straight off the plane
 Drop in the flame

@@ -1,8 +1,11 @@
 ---
+album: 'Complete & Unbelievable: The Otis Redding Dictionary of Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:36AlMHDBFwSsD3FQOy1R81
 features: []
-genres: []
+first_released_as_single: false
 key: try-a-little-tenderness-otis-redding
 lyrics_url: https://genius.com/Otis-redding-try-a-little-tenderness-lyrics
 name: Try A Little Tenderness
@@ -47,6 +50,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 201733
 ---
 Oh, she may be weary
 And young girls they do get weary

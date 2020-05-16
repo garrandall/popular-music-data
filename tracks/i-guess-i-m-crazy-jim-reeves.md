@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Reeves
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:4GPbOUUbitW3e6aEVccrhf
 features: []
-genres: []
+first_released_as_single: false
 key: i-guess-i-m-crazy-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-i-guess-im-crazy-lyrics
 name: I Guess I'm Crazy
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 142306
 ---
 I guess I'm crazy for loving you
 You tell me many ways that I won't do

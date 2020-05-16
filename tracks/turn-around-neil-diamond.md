@@ -1,8 +1,11 @@
 ---
+album: Primitive
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6fQbHt19xd7KLkofX7S6Y9
 features: []
-genres: []
+first_released_as_single: false
 key: turn-around-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-dont-turn-around-lyrics
 name: Turn Around
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1984
+runtime: 223493
 ---
 If you wanna leave
 I won't beg you to stay

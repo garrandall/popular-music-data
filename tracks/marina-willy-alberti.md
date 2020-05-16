@@ -1,8 +1,11 @@
 ---
+album: 25 Jaar Willy Alberti Successen
 artists:
 - Willy Alberti
+external_ids:
+  spotify: spotify:track:2UX90NAln1t8lrGcj6Pfzf
 features: []
-genres: []
+first_released_as_single: false
 key: marina-willy-alberti
 lyrics_url: https://www.musixmatch.com/lyrics/Willy-Alberti/Marina
 name: Marina
@@ -39,6 +42,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 169506
 ---
 Marina, Marina, Marina
 Ti voglio al piu presto sposar

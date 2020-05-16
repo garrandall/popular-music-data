@@ -1,9 +1,12 @@
 ---
+album: 'Trouble Man: Heavy is the Head'
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:55YsJg7StsBPr4PZQXAcRH
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: ball-t-i--lil-wayne
 lyrics_url: https://genius.com/Ti-ball-lyrics
 name: Ball
@@ -88,6 +91,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 203746
 ---
 Okay we walk off in this bitch, ballin’ in this bitch
 Hoppin’ out of Lambos and Ferraris in this bitch

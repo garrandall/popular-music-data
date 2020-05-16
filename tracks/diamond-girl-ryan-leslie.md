@@ -1,8 +1,11 @@
 ---
+album: Ryan Leslie
 artists:
 - Ryan Leslie
+external_ids:
+  spotify: spotify:track:2gprP8t4HefQ1f0dxxc7Rg
 features: []
-genres: []
+first_released_as_single: false
 key: diamond-girl-ryan-leslie
 lyrics_url: https://genius.com/Ryan-leslie-diamond-girl-lyrics
 name: Diamond Girl
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2008
+runtime: 225613
 ---
 Yeah! They tried to put me in the box!
 It's impossible! R. Les! (Oh Yeah!)
@@ -43,13 +48,13 @@ I'm over all them other girls I dated
 I'll tell you what you are
 
 
-Your my diiiiiiamond girl
+Your my diamond girl
 Your the one, I put the rock on
-Your my diiiiiiamond girl
+Your my diamond girl
 Your the one that I quit the game for
-Your my diiiiiiamond girl
+Your my diamond girl
 Your the one, I put the rock on
-Your my diiiiiiamond girl
+Your my diamond girl
 Your the reason I quit the game for
 
 

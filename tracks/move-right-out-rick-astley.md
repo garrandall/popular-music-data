@@ -1,8 +1,11 @@
 ---
+album: Free
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:44PvpRyvYoC14K6szyxmCH
 features: []
-genres: []
+first_released_as_single: false
 key: move-right-out-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/moverightout.html
 name: Move Right Out
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
+release_year: 1991
+runtime: 235840
 ---
-
 She comes home in the morning light
 Tries to hide the secret of last night
 Tells a tale of working late
@@ -90,6 +94,3 @@ I'm gonna move right out
 Gonna take my time
 Gonna keep my pride
 Gonna move right out yeah
-
-
-

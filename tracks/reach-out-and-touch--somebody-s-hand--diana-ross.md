@@ -1,8 +1,11 @@
 ---
+album: Diana Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:1X3aOfOAtg26Z1oZkf9kJh
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-and-touch--somebody-s-hand--diana-ross
 lyrics_url: https://genius.com/Diana-ross-reach-out-and-touch-somebodys-hand-lyrics
 name: Reach Out And Touch (Somebody's Hand)
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 188200
 ---
 Reach out and touch
 Somebody's hand

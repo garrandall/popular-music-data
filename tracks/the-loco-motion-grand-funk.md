@@ -1,8 +1,11 @@
 ---
+album: Shinin' On
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:0PxYWaGiwWtcuL1VIMiEW4
 features: []
-genres: []
+first_released_as_single: false
 key: the-loco-motion-grand-funk
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/thelocomotion.html
 name: The Loco-Motion
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 165800
 ---
-
 Everybody's doin' a brand new dance now
 (Come on baby, do the Loco-Motion)
 I know you'll get to like it if you give it a chance now
@@ -129,6 +133,3 @@ So, come on, come on, and do the Loco-Motion with me
 (Come on baby, do the Loco-Motion)
 (Come on baby, do the Loco-Motion)
 (Come on baby, do the Loco-Motion)
-
-
-

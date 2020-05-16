@@ -1,8 +1,11 @@
 ---
+album: Great Balls Of Fire
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:3DU1u3h9OJevZ8HLLneRhi
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-one-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-youre-the-only-one-lyrics
 name: You're The Only One
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 202040
 ---
 I found out the hard way
 And I'm never gonna break your heart

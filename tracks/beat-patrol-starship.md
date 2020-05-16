@@ -1,8 +1,11 @@
 ---
+album: No Protection
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:6y4zeRB8JhTeQVF5ALpnSF
 features: []
-genres: []
+first_released_as_single: false
 key: beat-patrol-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/beatpatrol.html
 name: Beat Patrol
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
+release_year: 1987
+runtime: 265666
 ---
-
 Heaven move me, move my soul 
 Here comes the beat 
 Here comes the beat patrol 
@@ -107,6 +111,3 @@ Here come the beat, here come the beat patrol
 We will dance, we will dance 
 (Heaven move me move my soul 
 Here comes the beat, here comes the beat patrol)...
-
-
-

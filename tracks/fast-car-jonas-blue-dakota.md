@@ -1,9 +1,12 @@
 ---
+album: Blue
 artists:
 - Jonas Blue
+external_ids:
+  spotify: spotify:track:2mCF8L0brIs88eH6Kf2h9p
 features:
 - Dakota
-genres: []
+first_released_as_single: true
 key: fast-car-jonas-blue-dakota
 lyrics_url: https://www.azlyrics.com/lyrics/jonasblue/fastcar.html
 name: Fast Car
@@ -28,8 +31,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 212424
 ---
-
 You got a fast car
 I want a ticket to anywhere
 Maybe we make a deal
@@ -91,6 +95,3 @@ And your arm felt nice wrapped 'round my shoulder
 And I, I had a feeling that I belonged
 And I, I had a feeling that I could be someone
 Had a feeling that I could be someone
-
-
-

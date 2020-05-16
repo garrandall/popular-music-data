@@ -1,8 +1,11 @@
 ---
+album: Faster Than the Speed of Night
 artists:
 - Bonnie Tyler
+external_ids:
+  spotify: spotify:track:6iZ6C2di9bFQ7I5NbpLFYt
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-back-bonnie-tyler
 lyrics_url: https://genius.com/Bonnie-tyler-take-me-back-lyrics
 name: Take Me Back
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 321693
 ---
 You said it's over now
 It's just not right

@@ -1,8 +1,11 @@
 ---
+album: Dialogue
 artists:
 - Michael Johnson
+external_ids:
+  spotify: spotify:track:3u9g38eyqu5eJxU4Mhhzam
 features: []
-genres: []
+first_released_as_single: false
 key: this-night-won-t-last-forever-michael-johnson
 lyrics_url: https://genius.com/Michael-johnson-this-night-wont-last-forever-lyrics
 name: This Night Won't Last Forever
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 241266
 ---
 Everybody likes a celebration
 Happy music and conversation

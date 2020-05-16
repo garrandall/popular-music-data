@@ -1,8 +1,11 @@
 ---
+album: Silver Convention
 artists:
 - Silver Convention
+external_ids:
+  spotify: spotify:track:6kkHnD5hJK75kHRRR2zUJG
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-and-boogie--that-s-right--silver-convention
 lyrics_url: https://genius.com/Silver-convention-get-up-and-boogie-lyrics
 name: Get Up And Boogie (That's Right)
@@ -91,6 +94,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 170066
 ---
 (That's right)
 Get up and boogie, get up and boogie

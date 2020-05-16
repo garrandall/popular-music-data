@@ -1,8 +1,11 @@
 ---
+album: Black Cars (Bonus Track Version)
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:6RL5nRfZ2ubP8wIiPOjOSr
 features: []
-genres: []
+first_released_as_single: false
 key: black-cars-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/blackcars.html
 name: Black Cars
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
+release_year: 1985
+runtime: 188600
 ---
-
 Under the cover of night
 She crawls into sight
 Her skin is cold china white
@@ -106,6 +110,3 @@ Black cars look better in the
 Black cars
 Black cars look better in the shade
 Shade
-
-
-

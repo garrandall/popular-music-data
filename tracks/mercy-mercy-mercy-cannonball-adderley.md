@@ -1,8 +1,11 @@
 ---
+album: Phenix
 artists:
 - Cannonball Adderley
+external_ids:
+  spotify: spotify:track:7vfmqCgxHFFgvZ8iZuwg1x
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-mercy-cannonball-adderley
 lyrics_url: https://genius.com/Cannonball-adderley-mercy-mercy-mercy-lyrics
 name: Mercy Mercy Mercy
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 452866
 ---
 Have mercy, have mercy, baby
 Have mercy, have mercy on me

@@ -1,8 +1,11 @@
 ---
+album: Dress Rehearsal
 artists:
 - Carolyn Dawn Johnson
+external_ids:
+  spotify: spotify:track:7jp5yLTwHNJL9awtdZf2Br
 features: []
-genres: []
+first_released_as_single: false
 key: simple-life-carolyn-dawn-johnson
 lyrics_url: https://genius.com/Carolyn-dawn-johnson-simple-life-lyrics
 name: Simple Life
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2004
+runtime: 229533
 ---
 Da Da Da Da, Da Da Da
 I have wondered this world

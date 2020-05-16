@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:1hh6PfvINPBnKplONjgju4
 features: []
-genres: []
+first_released_as_single: false
 key: black-sheep-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-black-sheep-lyrics
 name: Black Sheep
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 168253
 ---
 Black sheep lays around drinking wine all day
 Readin' poetry and layin' in the grass

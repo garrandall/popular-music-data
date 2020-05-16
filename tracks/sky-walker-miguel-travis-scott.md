@@ -1,9 +1,12 @@
 ---
+album: War & Leisure
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:5WoaF1B5XIEnWfmb5NZikf
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: sky-walker-miguel-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/miguel/skywalker.html
 name: Sky Walker
@@ -112,9 +115,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2017
+runtime: 259333
 ---
-
-
 (Quick to dead the bull like a matador
 Quick to dead the bull like a matador
 Bull, bull, bull like a matador
@@ -207,6 +210,3 @@ Lift off, we in the clouds now
 Laughin' in the moments
 First you put the work in till it works out
 Work it out 'til it's turnt out, yah
-
-
-

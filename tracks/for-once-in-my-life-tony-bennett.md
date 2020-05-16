@@ -1,8 +1,11 @@
 ---
+album: For Once In My Life
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:1SHjeFXej7qNXpHFAuv9zL
 features: []
-genres: []
+first_released_as_single: false
 key: for-once-in-my-life-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/foronceinmylife.html
 name: For Once In My Life
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 201973
 ---
-
 For once in my life I have someone who needs me
 Someone I've needed so long
 For once, unafraid, I can go where life leads me
@@ -65,6 +69,3 @@ For once in my life, I have someone who needs me
 For once in my life
 Yeah Somebody like my
 Oh baby
-
-
-

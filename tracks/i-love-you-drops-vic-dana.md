@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:07GpPzN1AAk1mLBLpnK12b
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-drops-vic-dana
 lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/I-Love-You-Drops
 name: I Love You Drops
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 170600
 ---
 They're not teardrops
 Just sincere drops

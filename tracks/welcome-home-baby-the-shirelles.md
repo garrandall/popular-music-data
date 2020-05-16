@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of...
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:5rlmnMcaZpQ93CzYyNcLv6
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-home-baby-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-welcome-home-baby-lyrics
 name: Welcome Home Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1962
+runtime: 153626
 ---
 There is no place like home
 There is no place like home

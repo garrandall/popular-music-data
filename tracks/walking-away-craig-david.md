@@ -1,8 +1,11 @@
 ---
+album: Born to Do It
 artists:
 - Craig David
+external_ids:
+  spotify: spotify:track:7nh4vgAMPAETo1QLmeFYrJ
 features: []
-genres: []
+first_released_as_single: false
 key: walking-away-craig-david
 lyrics_url: https://genius.com/Craig-david-walking-away-lyrics
 name: Walking Away
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2001
+runtime: 206800
 ---
 I'm walking away from the troubles in my life
 I'm walking away, oh, to find a better day

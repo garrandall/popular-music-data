@@ -1,9 +1,12 @@
 ---
+album: Steers & Stripes
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:5dPSCeB8Ly3RxNLme5bomi
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nothing--bout-you-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-aint-nothing-bout-you-lyrics
 name: Ain't Nothing 'Bout You
@@ -88,6 +91,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
+release_year: 2001
+runtime: 201266
 ---
 Once I thought that love was something I could never do
 Never knew that I could feel this much

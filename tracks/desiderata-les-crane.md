@@ -1,8 +1,11 @@
 ---
+album: Desiderata
 artists:
 - Les Crane
+external_ids:
+  spotify: spotify:track:5V6wfV3Mkvd30zpSoKjsOh
 features: []
-genres: []
+first_released_as_single: false
 key: desiderata-les-crane
 lyrics_url: https://genius.com/Les-crane-desiderata-lyrics
 name: Desiderata
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 278960
 ---
 Desiderata. Desiderata. Desiderata
 Go placidly amid the noise and haste

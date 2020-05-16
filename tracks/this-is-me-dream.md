@@ -1,8 +1,11 @@
 ---
+album: It Was All A Dream
 artists:
 - Dream
+external_ids:
+  spotify: spotify:track:0nWA4QP4asDdLGP5dnj1N2
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-me-dream
 lyrics_url: https://genius.com/Dream-girl-group-this-is-me-remix-lyrics
 name: This Is Me
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
+release_year: 2000
+runtime: 250906
 ---
 Uh yeah, come on, Bad Boy, baby
 This is the - remix

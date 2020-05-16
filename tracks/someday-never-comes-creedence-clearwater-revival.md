@@ -1,8 +1,11 @@
 ---
+album: Mardi Gras
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:5YgaxBGE09BdrdpEwkvpx2
 features: []
-genres: []
+first_released_as_single: false
 key: someday-never-comes-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/somedaynevercomes.html
 name: Someday Never Comes
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 239506
 ---
-
 First thing I remember was askin' papa, "Why?",
 For there were many things I didn't know.
 And Daddy always smiled; took me by the hand,
@@ -69,4 +73,3 @@ Think it was September, the year I went away,
 For there were many things I didn't know.
 And I still see him standing, try'n' to be a man;
 I said, "Someday you'll understand."
-

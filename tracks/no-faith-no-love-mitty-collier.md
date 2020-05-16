@@ -1,8 +1,11 @@
 ---
+album: All Blues, Mitty Collier
 artists:
 - Mitty Collier
+external_ids:
+  spotify: spotify:track:4apEbZFw4yWoQf8UM1JVFz
 features: []
-genres: []
+first_released_as_single: false
 key: no-faith-no-love-mitty-collier
 lyrics_url: https://www.musixmatch.com/lyrics/Mitty-Collier/No-Faith-No-Love
 name: No Faith No Love
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1965
+runtime: 224960
 ---
 If I can't be alone sometimes
 If I can't talk on the telephone

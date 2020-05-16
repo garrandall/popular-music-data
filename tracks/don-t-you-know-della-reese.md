@@ -1,8 +1,11 @@
 ---
+album: The Classic Della
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:4l52Uoxxt4mnscMjnWNMZk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-know-della-reese
 lyrics_url: https://genius.com/Della-reese-dont-you-know-lyrics
 name: Don't You Know
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 154666
 ---
 Don't you know
 I have fallen in love with you

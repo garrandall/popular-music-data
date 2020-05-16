@@ -1,8 +1,11 @@
 ---
+album: Absolutely
 artists:
 - Tia
+external_ids:
+  spotify: spotify:track:0L7oP7SMdPfPWlRJy0Vd2m
 features: []
-genres: []
+first_released_as_single: false
 key: boy-toy-tia
 name: Boy Toy
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1987
+runtime: 422053
 ---
 

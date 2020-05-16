@@ -1,10 +1,13 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:1pPWLAfELypeAmi0bMdEXu
 features:
 - Camila Cabello
 - Cardi B
-genres: []
+first_released_as_single: true
 key: south-of-the-border-ed-sheeran-camila-cabello-cardi-b
 lyrics_url: https://genius.com/Yves-laurence-south-of-the-border-ed-sheeran-camila-cabello-cardi-b-cover-solo-version-lyrics
 name: South Of The Border
@@ -57,17 +60,19 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 204466
 ---
-She got the, mm, brown eyes, caramel thighs
+She got the brown eyes, caramel thighs
 Long  hair, no wedding ring, hey
-I  saw you lookin' from across the way
+I saw you lookin' from across the way
 And now I really wanna know your name
 She got the, mm, white dress, but when she's wearin' less
-Man,  you know that she drives me crazy
-The,  mm, brown eyes, beautiful smile
+Man, you know that she drives me crazy
+The brown eyes, beautiful smile
 You know I love watching you do your thing
 
-I  love her hips, curves, lips say the words
+I love her hips, curves, lips say the words
 "Te amo, mami, ah, te amo, mami"
 I kiss her, this love is like a dream
 So join me in this bed that I'm in
@@ -146,7 +151,3 @@ Jump in that water, be free
 Come south of the border with me
 Jump in that water, be free
 Come south of the border with me
-
-
-Original lyrics by Ed Sheeran
-New rap verse written by Yves Laurence

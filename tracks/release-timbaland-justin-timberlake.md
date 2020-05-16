@@ -1,9 +1,12 @@
 ---
+album: Shock Value
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:6psdUDK8ojdMj563fniLfm
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: release-timbaland-justin-timberlake
 lyrics_url: https://genius.com/Timbaland-release-lyrics
 name: Release
@@ -12,6 +15,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-04-21'
+release_year: 2007
+runtime: 205480
 ---
 Alright
 Hey! Clap

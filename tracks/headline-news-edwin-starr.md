@@ -1,8 +1,11 @@
 ---
+album: The Hits Of Edwin Starr
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:5SNecHuDWzdg7myOXrVk3x
 features: []
-genres: []
+first_released_as_single: false
 key: headline-news-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/headlinenews.html
 name: Headline News
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 153133
 ---
-
 I wanna spread news all around
 About the new love that I found
 I found a love that I've been looking for
@@ -69,6 +73,3 @@ Extra, extra, read all about it
 Extra, extra, read all about it
 
 One, two, one, two, three, four
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gratitude
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:5W5FVsgGCe3T9nIMkiXqNo
 features: []
-genres: []
+first_released_as_single: false
 key: sing-a-song-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-sing-a-song-lyrics
 name: Sing A Song
@@ -75,6 +78,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 203866
 ---
 When you feel down and out
 Sing a song (it'll make your day)

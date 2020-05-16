@@ -1,8 +1,11 @@
 ---
+album: So-Called Chaos
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:0q5zi64ydrL7hacFmIEAvK
 features: []
-genres: []
+first_released_as_single: false
 key: everything-alanis-morissette
 lyrics_url: https://genius.com/Alanis-morissette-everything-lyrics
 name: Everything
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
+release_year: 2004
+runtime: 273826
 ---
 I can be an asshole of the grandest kind
 I can withhold like it's going out of style

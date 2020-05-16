@@ -1,8 +1,11 @@
 ---
+album: On Record
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:00HHXyQsZ21t3E3VBGTAUF
 features: []
-genres: []
+first_released_as_single: false
 key: you-could-have-been-a-lady-april-wine
 lyrics_url: https://www.azlyrics.com/lyrics/aprilwine/youcouldhavebeenalady.html
 name: You Could Have Been A Lady
@@ -51,8 +54,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 220746
 ---
-
 Could have been alright, could have been here tonight
 Could have been sweet as wine, could have been a lady
 I could have been alright, could have been here tonight
@@ -90,6 +94,3 @@ Alright, could have been here tonight
 Could have been sweet as wine, could have been a lady
 It could have been alright, could have been here tonight
 Could have been sweet as wine, could have been a lady
-
-
-

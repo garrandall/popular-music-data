@@ -1,8 +1,11 @@
 ---
+album: Third Stage
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:4gpext9x0CbdD9NWaa4nDj
 features: []
-genres: []
+first_released_as_single: false
 key: amanda-boston
 lyrics_url: https://www.azlyrics.com/lyrics/boston/amanda.html
 name: Amanda
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1986
+runtime: 256200
 ---
-
 Babe, tomorrow's so far away
 There's something I just have to say
 I don't think I can hide what I'm feelin' inside
@@ -128,6 +132,3 @@ And tomorow may be too late
 And, feelin' the way I do
 I don't wanna wait my whole life through
 To say I'm in love with you
-
-
-

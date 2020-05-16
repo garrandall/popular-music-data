@@ -1,8 +1,11 @@
 ---
+album: Girl Talk
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:5xhP0ie13xzoWAvfmsb6vn
 features: []
-genres: []
+first_released_as_single: false
 key: hey-now-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/heynow.html
 name: Hey Now
@@ -31,8 +34,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 135000
 ---
-
 Hey now, what you gonna do
 Are you gonna be mine tried and true
 Hey hey hey now, give it to me straight?
@@ -49,6 +53,3 @@ When I can find another guy, so...
 
 Hey hey hey now, what you gonna say?
 Are you gonna go on or are you gonna stay?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pleasure & Pain
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:6oQvfVYa0XTuYlvgirfuey
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-time-in-the-world-dr--hook
 lyrics_url: https://genius.com/Dr-hook-all-the-time-in-the-world-lyrics
 name: All The Time In The World
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 155573
 ---
 Lay down
 Let's explore this tenderness between us

@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5Qe7NHxeLAn8KoLTNLSdwe
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-hold-your-hand-the-beatles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Beatles/I-Want-to-Hold-Your-Hand-2
 name: I Want To Hold Your Hand
@@ -67,6 +70,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 146720
 ---
 Oh, yeah, I tell you something
 I think you'll understand

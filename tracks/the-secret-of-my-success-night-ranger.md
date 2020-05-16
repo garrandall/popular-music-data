@@ -1,8 +1,11 @@
 ---
+album: Big Life
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:3M2yrfGLuKQPpQGt01k3Po
 features: []
-genres: []
+first_released_as_single: false
 key: the-secret-of-my-success-night-ranger
 lyrics_url: https://www.azlyrics.com/lyrics/nightranger/thesecretofmysuccess.html
 name: The Secret Of My Success
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1987
+runtime: 267200
 ---
-
 Think of it, I hold the world in the palm of my hand
 Run a comb through my hair, head on out for some new foreign land
 And all this could seem like a dream out the door
@@ -80,6 +84,3 @@ The secret of my success is I'm living 25 hours a day
 
 The secret of my success is I'm living 25 hours a day
 25 hours a day
-
-
-

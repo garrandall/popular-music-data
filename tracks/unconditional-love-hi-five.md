@@ -1,8 +1,11 @@
 ---
+album: Faithful
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:1jVaaVBHRC1me5WONdnkTw
 features: []
-genres: []
+first_released_as_single: false
 key: unconditional-love-hi-five
 lyrics_url: https://genius.com/Hi-five-unconditional-love-lyrics
 name: Unconditional Love
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1990
+runtime: 302506
 ---
 I will climb the highest peak
 Swim the deepest sea

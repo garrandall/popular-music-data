@@ -1,8 +1,11 @@
 ---
+album: That's All
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:3KzgdYUlqV6TOG7JCmx2Wg
 features: []
-genres: []
+first_released_as_single: false
 key: beyond-the-sea-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-beyond-the-sea-lyrics
 name: Beyond The Sea
@@ -63,6 +66,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1959
+runtime: 172480
 ---
 Somewhere beyond the sea
 Somewhere waiting for me

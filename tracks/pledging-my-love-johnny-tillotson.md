@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:3Ms4gpmNvxOyCMyeUFcF5J
 features: []
-genres: []
+first_released_as_single: false
 key: pledging-my-love-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-pledging-my-love-lyrics
 name: Pledging My Love
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 151933
 ---
 Forever my darling our love will be true
 Always and forever I'll love just you

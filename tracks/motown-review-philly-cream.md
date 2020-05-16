@@ -1,8 +1,11 @@
 ---
+album: Motown Review
 artists:
 - Philly Cream
+external_ids:
+  spotify: spotify:track:4Ajw0QFjYVh8zrlItY2i5M
 features: []
-genres: []
+first_released_as_single: true
 key: motown-review-philly-cream
 lyrics_url: https://www.musixmatch.com/lyrics/Philly-Cream/Motown-Review
 name: Motown Review
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 348706
 ---
 Ain't no more Motown Review
 And The Beatles have broken up too

@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Boy George
+external_ids:
+  spotify: spotify:track:4yXv2xk1QUEvldi34AXmLG
 features: []
-genres: []
+first_released_as_single: false
 key: live-my-life-boy-george
 lyrics_url: https://genius.com/Boy-george-live-my-life-lyrics
 name: Live My Life
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1987
+runtime: 253266
 ---
 I tell you baby, this is no way to live
 Make sacrifies, 'til there's nothing to give

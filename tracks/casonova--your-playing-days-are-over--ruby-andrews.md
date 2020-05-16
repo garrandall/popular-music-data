@@ -1,8 +1,11 @@
 ---
+album: Essential Ruby
 artists:
 - Ruby Andrews
+external_ids:
+  spotify: spotify:track:6eZJUryN1ksA3X9qpXMVZd
 features: []
-genres: []
+first_released_as_single: false
 key: casonova--your-playing-days-are-over--ruby-andrews
 name: Casonova (Your Playing Days Are Over)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 168367
 ---
 

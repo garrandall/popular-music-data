@@ -1,8 +1,11 @@
 ---
+album: Intensified
 artists:
 - Desmond Dekker And The Aces
+external_ids:
+  spotify: spotify:track:5U1GMgbXXM5eLvKUDnvqNS
 features: []
-genres: []
+first_released_as_single: false
 key: israelites-desmond-dekker-and-the-aces
 lyrics_url: https://genius.com/Desmond-dekker-and-the-aces-israelites-lyrics
 name: Israelites
@@ -47,6 +50,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1968
+runtime: 157693
 ---
 Get up in the morning, slaving for bread, sir
 So that every mouth can be fed

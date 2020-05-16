@@ -1,8 +1,11 @@
 ---
+album: Always
 artists:
 - Pebbles
+external_ids:
+  spotify: spotify:track:5J8FSmpybnVziZhErdhZlT
 features: []
-genres: []
+first_released_as_single: false
 key: love-makes-things-happen-pebbles
 lyrics_url: https://www.azlyrics.com/lyrics/pebbles/lovemakesthingshappen.html
 name: Love Makes Things Happen
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 311133
 ---
-
 Deep in the heart
 Love has many ways
 Of touching your emotions
@@ -149,6 +153,3 @@ You never know what you're gonna do
 When ever true love takes hold of you
 
 You never know
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rev It Up!
 artists:
 - Vixen
+external_ids:
+  spotify: spotify:track:4CSFgPEx1PDP3PHDatvxsz
 features: []
-genres: []
+first_released_as_single: false
 key: how-much-love-vixen
 lyrics_url: https://genius.com/Vixen-rock-how-much-love-lyrics
 name: How Much Love
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 280800
 ---
 You're in the corner, turning your back, you're running away again
 The more I give you, the less that you take, tell me where is it gonna end?

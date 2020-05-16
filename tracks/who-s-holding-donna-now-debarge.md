@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of The Night
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:66rdGSb6FMm0neFXxmJdPQ
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-holding-donna-now-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/debarge/whosholdingdonnanow.html
 name: Who's Holding Donna Now
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-10-05'
+release_year: 1985
+runtime: 267733
 ---
-
 Sometimes a love won't let go
 Hard as I try I know it shows
 Everybody's telling me
@@ -140,6 +144,3 @@ I keep wonderin'
 Who's heart she's knocking around
 There's nothing I wouldn't do
 To be in his shoes right now
-
-
-

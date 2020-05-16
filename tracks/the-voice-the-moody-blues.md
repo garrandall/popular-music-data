@@ -1,8 +1,11 @@
 ---
+album: Long Distance Voyager (Expanded)
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:0iGNd4z2m80OjE2JcWmBSs
 features: []
-genres: []
+first_released_as_single: false
 key: the-voice-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-the-voice-lyrics
 name: The Voice
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1981
+runtime: 316560
 ---
 Won't you take me back to school?
 I need to learn the golden rule

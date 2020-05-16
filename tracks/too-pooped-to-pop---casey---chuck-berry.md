@@ -1,8 +1,11 @@
 ---
+album: Rockin' At The Hops
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:70SnE9a7hQL6H067apySdF
 features: []
-genres: []
+first_released_as_single: false
 key: too-pooped-to-pop---casey---chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/toopoopedtopop.html
 name: Too Pooped To Pop ("Casey")
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1960
+runtime: 152026
 ---
-
 Casey is an old man who wants to be a teen
 He goes to all the dances and they call him cha-cha king
 He cha-chas when the band is playin' rock and roll
@@ -66,6 +70,3 @@ Or, you'll be too pooped to pop, too old a soul
 You hips are gettin' weaker when you'll try to do the stroll
 And every time your feet gettin' to go in one way
 Here comes a new dance you'll be left to stray.
-
-
-

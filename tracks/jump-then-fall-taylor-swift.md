@@ -1,8 +1,11 @@
 ---
+album: Fearless Platinum Edition
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:08gavXombT6KR0af88i9tA
 features: []
-genres: []
+first_released_as_single: false
 key: jump-then-fall-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/jumpthenfall.html
 name: Jump Then Fall
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2008
+runtime: 237066
 ---
-
 I like the way you sound in the morning
 We're on the phone and without a warning
 I realize your laugh is the best sound
@@ -87,6 +91,3 @@ And every time you're here
 Baby I'll show you, I'll show you
 You can Jump then fall, jump then fall
 Jump then fall into me, into me, yeah
-
-
-

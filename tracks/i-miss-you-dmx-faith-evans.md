@@ -1,9 +1,12 @@
 ---
+album: The Great Depression
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:3DwoQNhaFD3mCKh93w2MHH
 features:
 - Faith Evans
-genres: []
+first_released_as_single: false
 key: i-miss-you-dmx-faith-evans
 lyrics_url: https://www.azlyrics.com/lyrics/dmx/imissyou.html
 name: I Miss You
@@ -36,8 +39,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
+release_year: 2001
+runtime: 280866
 ---
-
 i know that my saviour lives and at the end he will stand on this earth
 my flesh may be destroyed but from this body I will see god
 yes I will see him for myself and I long for that moment...
@@ -112,6 +116,3 @@ i once was lost
 but now am found
 was blind
 but now I see, yeah
-
-
-

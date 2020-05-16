@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits - Original Recordings
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:3YVjw7GkjjistFa7qzlyeK
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-my-mind-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-out-of-my-mind-lyrics
 name: Out Of My Mind
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 157333
 ---
 I just can't understand how you could hurt me so
 Then turn and walk away, pretending you don't know

@@ -1,8 +1,11 @@
 ---
+album: Chicago 19
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:6XvDozCQhTvSutezyoYgB0
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-man-would-i-be--chicago
 lyrics_url: https://genius.com/Chicago-what-kind-of-man-would-i-be-lyrics
 name: What Kind Of Man Would I Be?
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1988
+runtime: 256200
 ---
 Girl, well it's been one of those days again
 And it seems like the harder I try

@@ -1,8 +1,11 @@
 ---
+album: Gypsy Moon
 artists:
 - Troy Newman
+external_ids:
+  spotify: spotify:track:5GVTSRvxUuPwT4PaTfvKKg
 features: []
-genres: []
+first_released_as_single: false
 key: love-gets-rough-troy-newman
 name: Love Gets Rough
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
+release_year: 1991
+runtime: 296226
 ---
 

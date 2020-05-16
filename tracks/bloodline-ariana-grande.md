@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:2bHfFzMY457XUjTX3eMtsj
 features: []
-genres: []
+first_released_as_single: false
 key: bloodline-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-bloodline-lyrics
 name: Bloodline
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 216893
 ---
 Because I'm trying to do the best I can
 And they can't find something to satisfy me, ugh

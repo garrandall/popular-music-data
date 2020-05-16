@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:45S5WTQEGOB1VHr1Q4FuPl
 features: []
-genres: []
+first_released_as_single: false
 key: golden-harry-styles
 lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/golden.html
 name: Golden
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 208906
 ---
-
 Golden, golden, golden
 As I open my eyes
 Hold it, focus, hoping
@@ -64,6 +68,3 @@ You're so golden
 I'm out of my head
 And I know that you're scared
 Because hearts get broken
-
-
-

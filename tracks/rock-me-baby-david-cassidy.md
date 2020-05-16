@@ -1,8 +1,11 @@
 ---
+album: Rock Me Baby
 artists:
 - David Cassidy
+external_ids:
+  spotify: spotify:track:3V5sEfoOofKDWn5sMM3Yx1
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-baby-david-cassidy
 lyrics_url: https://www.azlyrics.com/lyrics/davidcassidy/rockmebaby.html
 name: Rock Me Baby
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 209000
 ---
-
 You may call me a rollin' stone, I'm a free born man and I stand alone
 I come a-lookin' for a little satisfaction
 I don't drive no Cadillac, all I've got's hangin' on my back
@@ -75,6 +79,3 @@ Come on and squeeze me, oh, you sure can please me, uh-uh
 All right now, get down
 
 Hoo, rock me baby, let me feel that beat
-
-
-

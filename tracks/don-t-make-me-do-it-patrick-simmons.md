@@ -1,8 +1,11 @@
 ---
+album: Arcade
 artists:
 - Patrick Simmons
+external_ids:
+  spotify: spotify:track:4fsXdci4h7RUH7ohZwFwCB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-do-it-patrick-simmons
 lyrics_url: https://genius.com/Patrick-simmons-dont-make-me-do-it-lyrics
 name: Don't Make Me Do It
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1983
+runtime: 173653
 ---
 A girl like you is never wrong
 Someone like me can't be too strong

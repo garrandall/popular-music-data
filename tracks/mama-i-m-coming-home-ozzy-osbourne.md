@@ -1,8 +1,11 @@
 ---
+album: No More Tears
 artists:
 - Ozzy Osbourne
+external_ids:
+  spotify: spotify:track:0H16bK2n2hwCnd7M4cx1Pj
 features: []
-genres: []
+first_released_as_single: false
 key: mama-i-m-coming-home-ozzy-osbourne
 lyrics_url: https://genius.com/Ozzy-osbourne-mama-im-coming-home-lyrics
 name: Mama I'm Coming Home
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1964
+runtime: 252066
 ---
 Times have changed and times are strange
 Here I come, but I ain't the same

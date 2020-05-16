@@ -1,8 +1,11 @@
 ---
+album: Andy Grammer
 artists:
 - Andy Grammer
+external_ids:
+  spotify: spotify:track:4wTChU0tU44TAMC0xcQizi
 features: []
-genres: []
+first_released_as_single: false
 key: fine-by-me-andy-grammer
 lyrics_url: https://www.azlyrics.com/lyrics/andygrammer/finebyme.html
 name: Fine By Me
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2011
+runtime: 172893
 ---
-
 You're not the type, type of girl to remain
 With the guy, with the guy 
 Too shy, too afraid to say he'll give his heart to you forever
@@ -116,6 +120,3 @@ I'm just saying it's fine by me
 If we never leave
 And we can lay like this forever
 It's fine by me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits, Part Two
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:06HBSxmvh5kXGUX3dS7RhJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-hear-anymore-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/I-Don-t-Want-to-Hear-Anymore
 name: I Don't Want To Hear Anymore
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 182813
 ---
 In my neighborhood
 Where folks don't live so good now

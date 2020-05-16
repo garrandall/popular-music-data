@@ -1,9 +1,12 @@
 ---
+album: I Wonder What She's Doing Tonite?
 artists:
 - Tommy Boyce
 - Bobby Hart
+external_ids:
+  spotify: spotify:track:4UZ5xERMJAskse5AH8dNb0
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-baby--i-don-t-want-to-see-you-cry--tommy-boyce-bobby-hart
 lyrics_url: https://genius.com/Tommy-boyce-and-bobby-hart-goodbye-baby-i-dont-want-to-see-you-cry-lyrics
 name: Goodbye Baby (I Don't Want To See You Cry)
@@ -32,6 +35,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 236800
 ---
 She knew what she wanted
 I knew what I wanted too

@@ -1,9 +1,12 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:59UzZmpX2o65yHZHZmadh1
 features:
 - '''N Sync'
-genres: []
+first_released_as_single: false
 key: god-must-have-spent-a-little-more-time-on-you-alabama--n-sync
 lyrics_url: https://www.musixmatch.com/lyrics/Alabama-feat-N-Sync/God-Must-Have-Spent-a-Little-More-Time-On-You
 name: God Must Have Spent A Little More Time On You
@@ -88,6 +91,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1980
+runtime: 280666
 ---
 Can this be true? Tell me can this be real?
 How can I put into words what I feel?

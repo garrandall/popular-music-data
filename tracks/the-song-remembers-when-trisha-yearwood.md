@@ -1,8 +1,11 @@
 ---
+album: The Song Remembers When
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:4dS7TYCTGKyhs9ZDt8iPcT
 features: []
-genres: []
+first_released_as_single: false
 key: the-song-remembers-when-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/thesongrememberswhen.html
 name: The Song Remembers When
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1993
+runtime: 234333
 ---
 I was standing at the counter
 I was waiting for the change
@@ -99,6 +104,3 @@ For even if the whole world has forgotten
 The song remembers when
 Yeah, and even if the whole world has forgotten
 The song remembers when
-
-
-

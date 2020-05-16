@@ -1,8 +1,11 @@
 ---
+album: 'High School Musical: The Musical: The Series (Original Soundtrack)'
 artists:
 - Olivia Rodrigo
+external_ids:
+  spotify: spotify:track:4Yxc55NX3tAXC2mHRAhtcW
 features: []
-genres: []
+first_released_as_single: true
 key: all-i-want-olivia-rodrigo
 lyrics_url: https://genius.com/Olivia-rodrigo-all-i-want-lyrics
 name: All I Want
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 177322
 ---
 I found a guy, told me I was a star
 He held the door, held my hand in the dark

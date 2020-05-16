@@ -1,8 +1,11 @@
 ---
+album: Keith Urban
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:1xJ4bCEkzAyf1WUZ99yoKU
 features: []
-genres: []
+first_released_as_single: false
 key: your-everything-keith-urban
 lyrics_url: https://genius.com/Keith-urban-your-everything-lyrics
 name: Your Everything
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-10-28'
+release_year: 1999
+runtime: 251813
 ---
 The first time I looked in your eyes I knew
 That I would do anything for you

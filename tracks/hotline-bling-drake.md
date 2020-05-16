@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0wwPcA6wtMf6HUMpIRdeP7
 features: []
-genres: []
+first_released_as_single: false
 key: hotline-bling-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/hotlinebling.html
 name: Hotline Bling
@@ -151,8 +154,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 267066
 ---
-
 You used to call me on my
 You used to, you used to
 Yeah
@@ -225,6 +229,3 @@ I know when that hotline bling
 That can only mean one thing
 
 Ever since I left the city...
-
-
-

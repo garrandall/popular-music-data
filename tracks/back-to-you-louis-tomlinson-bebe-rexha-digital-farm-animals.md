@@ -1,10 +1,13 @@
 ---
+album: Ultra Dance 19
 artists:
 - Louis Tomlinson
+external_ids:
+  spotify: spotify:track:7F9vK8hNFMml4GtHsaXui6
 features:
 - Bebe Rexha
 - Digital Farm Animals
-genres: []
+first_released_as_single: true
 key: back-to-you-louis-tomlinson-bebe-rexha-digital-farm-animals
 lyrics_url: https://www.azlyrics.com/lyrics/louistomlinson/backtoyou.html
 name: Back To You
@@ -49,9 +52,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2017
+runtime: 190427
 ---
-
-
 I know you say you know me, know me well
 But these days I don't even know myself, no
 I always thought I'd be with someone else
@@ -111,6 +114,3 @@ Oh, no, no, I just keep on coming back to you (back to you)
 Oh, no, no, I just keep on coming back to you
 Back to you
 I just keep on coming back to you
-
-
-

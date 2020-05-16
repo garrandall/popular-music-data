@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4N5HyZ1PlXuP6sryIa4hOQ
 features: []
-genres: []
+first_released_as_single: false
 key: better-be-good-to-me-tina-turner
 lyrics_url: https://genius.com/Tina-turner-better-be-good-to-me-lyrics
 name: Better Be Good To Me
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 312386
 ---
 A prisoner of your love
 Entangled in your web

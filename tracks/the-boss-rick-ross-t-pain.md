@@ -1,9 +1,12 @@
 ---
+album: Trilla
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:3n5qF6aprwEIjHWuH5jECM
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: the-boss-rick-ross-t-pain
 lyrics_url: https://genius.com/Rick-ross-the-boss-lyrics
 name: The Boss
@@ -88,6 +91,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2008
+runtime: 225653
 ---
 Rick Ross (the Boss)
 T-Pain (J-J-J-J-J.R)

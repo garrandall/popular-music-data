@@ -1,9 +1,12 @@
 ---
+album: Homebase
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:4xgqgAdEq0mBE6jooPEVWU
 features: []
-genres: []
+first_released_as_single: false
 key: ring-my-bell-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-ring-my-bell-lyrics
 name: Ring My Bell
@@ -84,6 +87,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1987
+runtime: 244266
 ---
 Yo, baby, you know what's up
 Girl, you can call me up

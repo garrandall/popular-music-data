@@ -1,9 +1,12 @@
 ---
+album: Together (With Bonus Tracks)
 artists:
 - Marvin Gaye
 - Mary Wells
+external_ids:
+  spotify: spotify:track:60SBAA4eKlVzQ8GtC9MPuY
 features: []
-genres: []
+first_released_as_single: false
 key: once-upon-a-time-marvin-gaye-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/onceuponatime.html
 name: Once Upon A Time
@@ -44,8 +47,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 153346
 ---
-
 Once upon a time I almost lost my mind
 I was lonely, so lonely
 Once upon a time
@@ -59,6 +63,3 @@ Now everything is oh so cozy
 Now my skies are blue all because of you
 I'm so glad; I was lonely
 Once upon a time
-
-
-

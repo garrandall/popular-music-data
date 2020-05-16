@@ -1,8 +1,11 @@
 ---
+album: Planetary Invasion
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:0I9TLsVsGOFha25EogO3nC
 features: []
-genres: []
+first_released_as_single: true
 key: operator-midnight-star
 lyrics_url: https://genius.com/Midnight-star-operator-lyrics
 name: Operator
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-03-23'
+release_year: 1983
+runtime: 450800
 ---
 Will someone please hang that phone up?
 

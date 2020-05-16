@@ -1,9 +1,12 @@
 ---
+album: Fantasy Ride
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:4T98TDognj7iIhj2RW81fp
 features:
 - Young Jeezy
-genres: []
+first_released_as_single: true
 key: never-ever-ciara-young-jeezy
 lyrics_url: https://genius.com/Ciara-never-ever-lyrics
 name: Never Ever
@@ -68,6 +71,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2009
+runtime: 273000
 ---
 Listen
 If he don’t love you by now

@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:6leiB1fEsTnVCuPiielde5
 features: []
-genres: []
+first_released_as_single: false
 key: something-like-that-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-something-like-that-lyrics
 name: Something Like That
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
+release_year: 1999
+runtime: 183733
 ---
 It was Labor Day weekend I was seventeen
 I bought a Coke and some gasoline

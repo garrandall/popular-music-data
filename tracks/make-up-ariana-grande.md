@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:6SzMGHWwN4RcDdZEriNCxR
 features: []
-genres: []
+first_released_as_single: false
 key: make-up-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-make-up-lyrics
 name: Make Up
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 140693
 ---
 I like to fuck with you just to make up with you
 'Cause the way you be screamin’ my name

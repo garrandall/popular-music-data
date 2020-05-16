@@ -1,9 +1,12 @@
 ---
+album: Globalization
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:49eplIHvgCLY8HAgcaWrUb
 features:
 - John Ryan
-genres: []
+first_released_as_single: true
 key: fireball-pitbull-john-ryan
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/fireball.html
 name: Fireball
@@ -88,8 +91,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2014
+runtime: 235012
 ---
-
 Mr. Worldwide to infinity
 You know the roof on fire
 We gon' boogie oogie oogie, jiggle, wiggle and dance
@@ -205,6 +209,3 @@ Tell her baby baby baby baby
 I'm on fire
 I tell her baby baby baby
 I'm a fireball
-
-
-

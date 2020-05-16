@@ -1,8 +1,11 @@
 ---
+album: Baby the Rain Must Fall
 artists:
 - Glenn Yarbrough
+external_ids:
+  spotify: spotify:track:6bZKOc50K0nlfNAPleAlkA
 features: []
-genres: []
+first_released_as_single: false
 key: baby-the-rain-must-fall-glenn-yarbrough
 lyrics_url: https://genius.com/Glenn-yarbrough-baby-the-rain-must-fall-lyrics
 name: Baby The Rain Must Fall
@@ -63,6 +66,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 139040
 ---
 Some men climb a mountain
 Some men swim the sea

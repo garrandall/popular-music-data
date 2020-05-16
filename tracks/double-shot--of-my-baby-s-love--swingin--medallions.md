@@ -1,8 +1,11 @@
 ---
+album: Double Shot (Of My Baby's Love)
 artists:
 - Swingin' Medallions
+external_ids:
+  spotify: spotify:track:1M6AwCSEreUZddHSomDNUj
 features: []
-genres: []
+first_released_as_single: true
 key: double-shot--of-my-baby-s-love--swingin--medallions
 lyrics_url: https://genius.com/Swingin-medallions-double-shot-of-my-babys-love-lyrics
 name: Double Shot (Of My Baby's Love)
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 138947
 ---
 Woke up this morning, my head was so bad
 The worst hangover that I ever had

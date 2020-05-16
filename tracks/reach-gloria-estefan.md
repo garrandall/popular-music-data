@@ -1,8 +1,11 @@
 ---
+album: DESTINY
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:6WH7JQtPd52ngpQocxbJz6
 features: []
-genres: []
+first_released_as_single: false
 key: reach-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/reach.html
 name: Reach
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1996-08-31'
+release_year: 1984
+runtime: 230213
 ---
-
 Some dreams live on in time forever
 Those dreams, you want with all
 Your heart
@@ -149,6 +153,3 @@ Reach, I'd reach, I'd reach
 I'd reach, I'd reach so
 Much higher
 Be stronger
-
-
-

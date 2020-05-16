@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 6 Collection
 artists:
 - Christina Grimmie
 - Adam Levine
+external_ids:
+  spotify: spotify:track:5DEpO2jZQagRQvptOEzFwo
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-that-i-used-to-know-christina-grimmie-adam-levine
 lyrics_url: https://genius.com/Christina-grimmie-somebody-that-i-used-to-know-the-voice-performance-lyrics
 name: Somebody That I Used To Know
@@ -12,6 +15,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 199126
 ---
 Now and then I think of when we were together
 Like when you said you felt so happy you could die

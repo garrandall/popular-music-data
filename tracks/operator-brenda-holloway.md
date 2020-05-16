@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:20BAZymbssG2AE5JCpqT9G
 features: []
-genres: []
+first_released_as_single: false
 key: operator-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-operator-lyrics
 name: Operator
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 201040
 ---
 Operator, operator, I'm so glad that you rang my phone
 Operator, operator, I'm so glad that you found me home

@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:7A2Z3qpV8pEBlj7qPOe8oz
 features: []
-genres: []
+first_released_as_single: false
 key: magic-town-the-vogues
 lyrics_url: https://www.azlyrics.com/lyrics/vogues/magictown.html
 name: Magic Town
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1965
+runtime: 180586
 ---
-
 They told me the streets were all paved with gold
 But these dirty sidewalks are gray and concrete cold
 They said neon lights were a beautiful sight
@@ -76,6 +80,3 @@ I'm gonna find it, girl, if it can be found
 Before I bring you to
 
 This magic town...
-
-
-

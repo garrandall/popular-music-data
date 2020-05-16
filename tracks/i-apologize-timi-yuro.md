@@ -1,8 +1,11 @@
 ---
+album: The Best Of Timi Yuro
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:6oYXOWb4Cf3frnvOREtISE
 features: []
-genres: []
+first_released_as_single: false
 key: i-apologize-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-i-apologize-lyrics
 name: I Apologize
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 175400
 ---
 If I told a lie
 If I made you cry

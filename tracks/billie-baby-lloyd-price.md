@@ -1,8 +1,11 @@
 ---
+album: Lawdy Miss Clawdy
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:6PpxbyZHlyQdrNlpT7wRik
 features: []
-genres: []
+first_released_as_single: false
 key: billie-baby-lloyd-price
 name: Billie Baby
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1964
+runtime: 180213
 ---
 

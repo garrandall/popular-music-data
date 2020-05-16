@@ -1,8 +1,11 @@
 ---
+album: Magical Mystery Tour
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0vZ97gHhemKm6c64hTfJNA
 features: []
-genres: []
+first_released_as_single: false
 key: hello-goodbye-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/hellogoodbye.html
 name: Hello Goodbye
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 208840
 ---
-
 You say yes, I say no
 You say stop and I say go go go, oh no
 You say goodbye and I say hello
@@ -95,7 +99,4 @@ Hela heba helloa, wooo
 Hela heba helloa, hela
 Hela heba helloa, cha cha cha
 Hela heba helloa, wooo
-Hela heba helloa, cha cah cah 
-
-
-
+Hela heba helloa, cha cah cah

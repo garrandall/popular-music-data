@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1NdBLNUZSEpBEITAt08ZmM
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-life-glee-cast
 lyrics_url: https://genius.com/Glee-cast-its-my-life-confessions-part-ii-lyrics
 name: It's My Life
@@ -15,6 +18,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 111333
 ---
 This ain't a song for the broken hearted
 No silent prayer for the faith departed

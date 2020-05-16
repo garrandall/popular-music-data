@@ -1,8 +1,11 @@
 ---
+album: The Iceman
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6bIVxvmTWZdeIYpY5Qpc5f
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-run--but-you-can-t-hide--jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-you-can-run-but-you-cant-hide-lyrics
 name: You Can Run (But You Can't Hide)
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 162866
 ---
 Sit down awhile
 My mother said one day

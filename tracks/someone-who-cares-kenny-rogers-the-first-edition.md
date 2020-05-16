@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:2c8E4quQBZaGBuTXhJo8nE
 features: []
-genres: []
+first_released_as_single: false
 key: someone-who-cares-kenny-rogers-the-first-edition
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers-feat-The-First-Edition-3/Someone-Who-Cares-From-Fools-Soundtrack
 name: Someone Who Cares
@@ -36,6 +39,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 157733
 ---
 Someone who cares
 Someone who dares to love you

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Wayne Newton Now
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:7buqgbdJkbLhAQIKqyYbbz
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-don-t-you-walk-so-fast-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-daddy-dont-you-walk-so-fast-lyrics
 name: Daddy Don't You Walk So Fast
@@ -87,6 +90,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 198666
 ---
 The love between the two of us was dying
 And it got so bad I knew I had to leave

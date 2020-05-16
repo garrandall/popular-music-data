@@ -1,9 +1,12 @@
 ---
+album: Don & Juan
 artists:
 - Don
 - Juan
+external_ids:
+  spotify: spotify:track:09EOb0A1DBETowU7tODmFx
 features: []
-genres: []
+first_released_as_single: false
 key: magic-wand-don-juan
 lyrics_url: https://www.musixmatch.com/lyrics/Don-Juan-12/Magic-Wand
 name: Magic Wand
@@ -20,6 +23,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 140333
 ---
 I wish I had a magic wand
 I would touch your arms

@@ -1,8 +1,11 @@
 ---
+album: Goodbye & Good Riddance
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:1Bmn5aStO2S33dz1Di0g3K
 features: []
-genres: []
+first_released_as_single: true
 key: lucid-dreams-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/luciddreams.html
 name: Lucid Dreams
@@ -199,8 +202,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2018
+runtime: 239960
 ---
-
 Enviyon on the mix
 No, no, no, no
 No-no, no, no, no
@@ -289,6 +293,3 @@ Easier said than done
 I thought you were the one
 (Instead of my head)
 I won't let you forget me
-
-
-

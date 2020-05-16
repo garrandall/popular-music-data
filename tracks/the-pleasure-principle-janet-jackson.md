@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:1krKp0OXeCH6SI5SXl8tu5
 features: []
-genres: []
+first_released_as_single: false
 key: the-pleasure-principle-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/thepleasureprinciple.html
 name: The Pleasure Principle
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1986
+runtime: 297973
 ---
-
 You might think I'm crazy but I'm serious
 It's better you know now
 What I thought was happiness was only part time bliss
@@ -140,6 +144,3 @@ Hoo ohoohhoh
 It's the pleasure principle
 Yeah yeah, yeah yeah!
 Oh
-
-
-

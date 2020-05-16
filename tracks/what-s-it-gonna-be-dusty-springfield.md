@@ -1,8 +1,11 @@
 ---
+album: The Look Of Love
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:3QMEgLBMIWuvOelcq0h9qB
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-it-gonna-be-dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/whatsitgonnabe.html
 name: What's It Gonna Be
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 134133
 ---
-
 What's it gonna be?
 Please tell me
 Is it really me?
@@ -88,6 +92,3 @@ Come on, baby
 (What's it gonna be?)
 Hey, hey, you gotta tell me
 What's it gonna be?
-
-
-

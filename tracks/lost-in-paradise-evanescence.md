@@ -1,8 +1,11 @@
 ---
+album: Evanescence
 artists:
 - Evanescence
+external_ids:
+  spotify: spotify:track:7c8unZeNL9gI6Go9DgGYpb
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-paradise-evanescence
 lyrics_url: https://www.azlyrics.com/lyrics/evanescence/lostinparadise.html
 name: Lost In Paradise
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 282293
 ---
-
 I've been believing in something so distant
 As if I was human
 And I've been denying this feeling of hopelessness
@@ -53,6 +57,3 @@ We've been falling for all this time
 And now I'm lost in paradise
 
 Alone, and lost in paradise
-
-
-

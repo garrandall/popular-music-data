@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:6rnmPmCF4fcggWUB8JGr25
 features: []
-genres: []
+first_released_as_single: false
 key: melancholy-music-man-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/melancholymusicman.html
 name: Melancholy Music Man
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 156320
 ---
-
 Hear the music playing, what makes it sound that way
 Look who's now appearing and sharing his feelings in that roadside cafe
 Though he won't find fortune or fame, he's not that kind
@@ -51,6 +55,3 @@ Just for me, (just for me) won't you please (won't you please)
 Won't you please (won't you please) play for me (play for me)
 Melancholy music man
 Melancholy music man
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Arizona
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:5HYrPsCxp8DOxeCMobRRkK
 features: []
-genres: []
+first_released_as_single: false
 key: miss-america-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-miss-america-lyrics
 name: Miss America
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 212573
 ---
 As a young girl she ran wild
 Freely gave herself to men who understood

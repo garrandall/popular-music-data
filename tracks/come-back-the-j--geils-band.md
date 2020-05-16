@@ -1,8 +1,11 @@
 ---
+album: Love Stinks
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:4SnovfTMzsmOnAfITyPFTP
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-the-j--geils-band
 lyrics_url: https://genius.com/The-j-geils-band-come-back-lyrics
 name: Come Back
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1980
+runtime: 312600
 ---
 When you left me all alone
 You left me cryin' on my own

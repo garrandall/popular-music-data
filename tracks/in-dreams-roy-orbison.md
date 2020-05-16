@@ -1,8 +1,11 @@
 ---
+album: In Dreams
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:44pN9jfSqY3d3lrKuv3QeN
 features: []
-genres: []
+first_released_as_single: false
 key: in-dreams-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-in-dreams-lyrics
 name: In Dreams
@@ -59,6 +62,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 169160
 ---
 A candy-colored clown they call the sandman
 Tiptoes to my room every night

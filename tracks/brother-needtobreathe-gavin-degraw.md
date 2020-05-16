@@ -1,9 +1,12 @@
 ---
+album: Brother
 artists:
 - NEEDTOBREATHE
+external_ids:
+  spotify: spotify:track:62M9yafZsSRzlsphzeJPGo
 features:
 - Gavin DeGraw
-genres: []
+first_released_as_single: true
 key: brother-needtobreathe-gavin-degraw
 lyrics_url: https://genius.com/Needtobreathe-brother-lyrics
 name: Brother
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
+release_year: 2015
+runtime: 208205
 ---
 Ramblers in the wilderness we can't find what we need
 We get a little restless from the searching

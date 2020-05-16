@@ -1,8 +1,11 @@
 ---
+album: Death Magnetic
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:2LfonCFEOzFedikP12rTeo
 features: []
-genres: []
+first_released_as_single: false
 key: cyanide-metallica
 lyrics_url: https://genius.com/Metallica-cyanide-lyrics
 name: Cyanide
@@ -11,6 +14,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2008
+runtime: 399546
 ---
 Sleep, and dream of this
 Death angel's kiss

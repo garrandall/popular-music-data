@@ -1,8 +1,11 @@
 ---
+album: City In The Sky
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:0CqQnocOXNGk2cKSEE0vJf
 features: []
-genres: []
+first_released_as_single: false
 key: city-in-the-sky-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/cityinthesky.html
 name: City In The Sky
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 234226
 ---
-
 There's too many people
 Tellin' too many lies
 I'm gonna have to build them
@@ -95,6 +99,3 @@ I can't stand it
 I wanna fly away
 I wanna fly away
 To the city in the sky
-
-
-

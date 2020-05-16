@@ -1,8 +1,11 @@
 ---
+album: Native
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:75hLNJfiXV5k2YGrbGEW51
 features: []
-genres: []
+first_released_as_single: false
 key: feel-again-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/feelagain.html
 name: Feel Again
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2013-01-26'
+release_year: 2012
+runtime: 185080
 ---
-
 It's been a long time coming since I've seen your face
 I've been everywhere and back trying to replace
 Everything that I had 'til my feet went numb
@@ -152,6 +156,3 @@ Yeah, I feel again
 Feel again...
 
 Woo-hoo
-
-
-

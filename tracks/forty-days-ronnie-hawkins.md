@@ -1,8 +1,11 @@
 ---
+album: Ronnie Hawkins
 artists:
 - Ronnie Hawkins
+external_ids:
+  spotify: spotify:track:4v3xzTvUxIKPUmh3g5sLg0
 features: []
-genres: []
+first_released_as_single: false
 key: forty-days-ronnie-hawkins
 lyrics_url: https://genius.com/Ronnie-hawkins-forty-days-lyrics
 name: Forty Days
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 136666
 ---
 I'm gonna give you 40 days to get back home
 I'm gonna call up a gypsy woman on the telephone

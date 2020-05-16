@@ -1,8 +1,11 @@
 ---
+album: He's So Fine
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0CAzT38ct3vgDW3p6yIzUe
 features: []
-genres: []
+first_released_as_single: false
 key: to-be-loved-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-to-be-loved-lyrics
 name: To Be Loved
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 154173
 ---
 Someone to care
 Someone to share

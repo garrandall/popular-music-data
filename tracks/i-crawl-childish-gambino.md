@@ -1,8 +1,11 @@
 ---
+album: Because the Internet
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:2avNkU03zrPbVC8hlUkSbB
 features: []
-genres: []
+first_released_as_single: false
 key: i-crawl-childish-gambino
 lyrics_url: https://genius.com/Childish-gambino-i-crawl-lyrics
 name: I Crawl
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 209473
 ---
 Say it (hit 'em) goddamn!
 (Hit 'em) Goddamn! (hit 'em) goddamn!

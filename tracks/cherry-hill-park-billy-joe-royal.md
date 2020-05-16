@@ -1,8 +1,11 @@
 ---
+album: Cherry Hill Park
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:6i1vtbWLV9XEmWTIOYXZoR
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-hill-park-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-cherry-hill-park-lyrics
 name: Cherry Hill Park
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1962
+runtime: 180106
 ---
 Mary Hill used to hang out in Cherry Hill Park
 The game she played lasted all day to way after dark

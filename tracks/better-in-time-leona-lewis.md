@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Leona Lewis
+external_ids:
+  spotify: spotify:track:2iXBZ32Fz5VDCLeE0JIdX5
 features: []
-genres: []
+first_released_as_single: false
 key: better-in-time-leona-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/leonalewis/betterintime.html
 name: Better In Time
@@ -131,8 +134,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2007
+runtime: 234173
 ---
-
 It's been the longest winter without you
 I didn't know where to turn to
 See, somehow I can't forget you
@@ -199,6 +203,3 @@ It'll all get better in time
 Even though I really love you
 Gonna smile 'cause I deserve to
 It'll all get better in time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Are You Experienced
 artists:
 - Jimi Hendrix
+external_ids:
+  spotify: spotify:track:23MrkN7g6Q5U7GLIxNHN1B
 features: []
-genres: []
+first_released_as_single: false
 key: foxey-lady-jimi-hendrix
 lyrics_url: https://genius.com/Jimi-hendrix-foxey-lady-lyrics
 name: Foxey Lady
@@ -23,6 +26,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 198773
 ---
 Foxy, Foxy
 You know you're a cute little heart breaker (ha!)

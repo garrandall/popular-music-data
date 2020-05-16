@@ -1,8 +1,11 @@
 ---
+album: Cornerstone
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:1KcQw42aQY2rsN8CxrW86O
 features: []
-genres: []
+first_released_as_single: false
 key: borrowed-time-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/borrowedtime.html
 name: Borrowed Time
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1979
+runtime: 298426
 ---
-
 Yeah yeah!
 Don't look now, but here come the eightees!
 
@@ -85,6 +89,3 @@ Livin' high (We're livin', livin' high)
 On Prestwick Drive (Catch me on Prestwick Drive!...)
 Livin' high (...gettin' in and drivin' my Mercedes...)
 Livin' fine (...up and down and up and down -- sh*t! I don't...)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Californication
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:1G391cbiT3v3Cywg8T7DM1
 features: []
-genres: []
+first_released_as_single: false
 key: scar-tissue-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/scartissue.html
 name: Scar Tissue
@@ -123,8 +126,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1999
+runtime: 215906
 ---
-
 Scar tissue that I wish you saw
 Sarcastic mister know it all
 Close your eyes and I'll kiss you
@@ -167,6 +171,3 @@ Close your eyes and I'll kiss you
 With the birds I'll share this lonely view
 With the birds I'll share this lonely view
 With the birds I'll share this lonely view
-
-
-

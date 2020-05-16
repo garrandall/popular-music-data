@@ -1,8 +1,11 @@
 ---
+album: Snoopy Vs. The Red Baron
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:6qF3qHvzEmh7bkdBatxQuS
 features: []
-genres: []
+first_released_as_single: false
 key: snoopy-vs-the-red-baron-the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/snoopyvstheredbaron.html
 name: Snoopy Vs The Red Baron
@@ -55,8 +58,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 160680
 ---
-
 Achtung! Jetzt wir singen zusammen die Geschichte
 Uber dem schweinkomischen Hund und dem lieben Red Baron!
 
@@ -105,6 +109,3 @@ Well, ten, twenty, thirty, forty, fifty or more
 The bloody Red Baron was rollin' up the score
 Eighty men died tryin' to end that spree
 Of the bloody Red Baron of Germany
-
-
-

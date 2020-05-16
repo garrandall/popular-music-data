@@ -1,9 +1,12 @@
 ---
+album: The Makings Of Me
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:1ydffhoWtTxKDrc5zi7p0M
 features:
 - Dem Franchize Boyz
-genres: []
+first_released_as_single: false
 key: everytime-tha-beat-drop-monica-dem-franchize-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/monica/everytimethabeatdrop.html
 name: Everytime Tha Beat Drop
@@ -72,8 +75,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
+release_year: 2006
+runtime: 223293
 ---
-
 R-R-R-Rock then bend my knees, every time the beat drop
 
 
@@ -159,6 +163,3 @@ And you work it real slow you can do it
 Move it till you make him lose it
 (r-r-r-rock then bend your knees every time the beat drop)
 He gon' be a fan every time the beat drop
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lyrical Gangsta Mix
 artists:
 - Ini Kamoze
+external_ids:
+  spotify: spotify:track:6E9Il3ta6IIKoRn3gldhvd
 features: []
-genres: []
+first_released_as_single: false
 key: listen-me-tic--woyoi--ini-kamoze
 name: Listen Me Tic (Woyoi)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
+release_year: 1995
+runtime: 185826
 ---
 

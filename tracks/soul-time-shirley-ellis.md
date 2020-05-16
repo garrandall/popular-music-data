@@ -1,8 +1,11 @@
 ---
+album: Sugar, Let's Shing-A-Ling
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:43AxKhfph92zcKMRAiqwvS
 features: []
-genres: []
+first_released_as_single: false
 key: soul-time-shirley-ellis
 lyrics_url: https://genius.com/Shirley-ellis-soul-time-single-version-lyrics
 name: Soul Time
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 158026
 ---
 If you want a time to soul
 Baby, it's time to soul time

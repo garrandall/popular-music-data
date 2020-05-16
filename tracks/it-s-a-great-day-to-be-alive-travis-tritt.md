@@ -1,8 +1,11 @@
 ---
+album: Down The Road I Go
 artists:
 - Travis Tritt
+external_ids:
+  spotify: spotify:track:3oW6SWwGqiZSPTiAp7ZQoH
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-great-day-to-be-alive-travis-tritt
 lyrics_url: https://genius.com/Travis-tritt-its-a-great-day-to-be-alive-lyrics
 name: It's A Great Day To Be Alive
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 2000
+runtime: 241533
 ---
 I got rice cookin' in the microwave
 Got a three day beard I don't plan to shave

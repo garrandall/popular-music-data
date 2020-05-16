@@ -1,8 +1,11 @@
 ---
+album: Tracie Spencer
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:4dMqwWan9q0BLHkk7IEgk6
 features: []
-genres: []
+first_released_as_single: false
 key: symptoms-of-true-love-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-symptoms-of-true-love-lyrics
 name: Symptoms Of True Love
@@ -71,6 +74,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1988
+runtime: 304924
 ---
 Hey, how did you make it
 Make me go out of my mind?

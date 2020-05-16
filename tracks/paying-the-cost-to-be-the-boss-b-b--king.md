@@ -1,8 +1,11 @@
 ---
+album: 'His Best: The Electric B.B. King'
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:54QfJ57kmUN12PxNAfjnWO
 features: []
-genres: []
+first_released_as_single: false
 key: paying-the-cost-to-be-the-boss-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/payingthecosttobetheboss.html
 name: Paying The Cost To Be The Boss
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 152760
 ---
-
 You act like you don't want to listen
 When I'm talking to you
 You think you outta do baby
@@ -71,6 +75,3 @@ You gotta be crazy baby
 You must be outta your mind
 As long as I'm payin' the bills woman
 I'm payin' the cost to be the boss
-
-
-

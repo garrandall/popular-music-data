@@ -1,8 +1,11 @@
 ---
+album: Rumors
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:32ISCMMXXyiRNMyD4Aaufs
 features: []
-genres: []
+first_released_as_single: false
 key: rumors-johnny-crawford
 lyrics_url: https://genius.com/Johnny-crawford-rumors-lyrics
 name: Rumors
@@ -47,6 +50,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 136506
 ---
 Do, dooby, dooby
 Sha, la, la, la

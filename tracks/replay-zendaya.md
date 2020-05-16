@@ -1,8 +1,11 @@
 ---
+album: Zendaya
 artists:
 - Zendaya
+external_ids:
+  spotify: spotify:track:7d1CFwrBmH34gmS0Hkbfbt
 features: []
-genres: []
+first_released_as_single: false
 key: replay-zendaya
 lyrics_url: https://www.azlyrics.com/lyrics/zendaya/replay.html
 name: Replay
@@ -91,9 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 209186
 ---
-
-
 Make it stop
 Sound so good I just can't take no more
 Turn it down, turn it up
@@ -137,6 +140,3 @@ Lis-listen to you all day, to you all day!
 
 
 Yeah
-
-
-

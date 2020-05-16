@@ -1,8 +1,11 @@
 ---
+album: Edens Edge
 artists:
 - Edens Edge
+external_ids:
+  spotify: spotify:track:53xXZW8WANuGfZEFSlwe6J
 features: []
-genres: []
+first_released_as_single: true
 key: amen-edens-edge
 lyrics_url: https://www.azlyrics.com/lyrics/edensedge/amen.html
 name: Amen
@@ -31,8 +34,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2011
+runtime: 228320
 ---
-
 I heard from a friend of a friend of a friend that
 You finally got rid of that girlfriend
 You finally came out of that love coma boy
@@ -83,6 +87,3 @@ Someone give me an amen.
 Someone give me an amen.
 Na na na na na na na na na na na
 Na na na na na na na na na na na
-
-
-

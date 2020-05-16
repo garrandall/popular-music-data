@@ -1,9 +1,12 @@
 ---
+album: Deliver
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:2pfEVSZdq5McocgAYWhgLu
 features: []
-genres: []
+first_released_as_single: false
 key: creeque-alley-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/creequealley.html
 name: Creeque Alley
@@ -44,8 +47,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 228680
 ---
-
 John and Mitchie were gettin' kind of itchy
 Just to leave the folk music behind
 Zal and Denny workin' for a penny
@@ -94,6 +98,3 @@ Tents low rent, but keeping out the heat's hard
 Duffy's good vibrations and our imaginations
 Can't go on indefinitely
 And California dreamin' is becomin' a reality
-
-
-

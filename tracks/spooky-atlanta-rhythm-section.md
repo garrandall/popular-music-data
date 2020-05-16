@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:4pyqsLF1wSiV342niwwbEL
 features: []
-genres: []
+first_released_as_single: false
 key: spooky-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/spooky.html
 name: Spooky
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1972
+runtime: 293732
 ---
-
 In the cool of the evening
 When everything is gettin' kind of groovy
 I call you up and ask you if you
@@ -92,6 +96,3 @@ Love is kinda crazy with a spooky little girl like you
 Spooky, spooky, oh whoa, all right
 Spooky, oh yeah yeah
 I said Spooky, yeah yeah
-
-
-

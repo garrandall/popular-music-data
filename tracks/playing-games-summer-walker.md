@@ -1,8 +1,11 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:2xyx0o4xNOLLjBSbOOdcbA
 features: []
-genres: []
+first_released_as_single: false
 key: playing-games-summer-walker
 lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/playinggames.html
 name: Playing Games
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 143226
 ---
-
 Whip, bought it
 Crib, got it
 Job, on it
@@ -130,6 +134,3 @@ Games (games)
 Games (oh games)
 
 We got London on the track
-
-
-

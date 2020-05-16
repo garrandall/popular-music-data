@@ -1,8 +1,11 @@
 ---
+album: Come Swing With Me!
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:440T8Mimcjwh6Rf5Wa8cVA
 features: []
-genres: []
+first_released_as_single: false
 key: river-stay--way-from-my-door-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/riverstaywayfrommydoor.html
 name: River Stay 'Way From My Door
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 158506
 ---
-
 You keep goin' your way, I'll keep goin' my way
 River, stay 'way from the door
 I just got a cabin, you don't need my cabin
@@ -42,6 +46,3 @@ River, stay 'way from the door
 Stay 'way, get 'way, roll 'way, stay 'way
 You dirty, old, muddy river, you
 River, stay 'way from the door
-
-
-

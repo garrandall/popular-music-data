@@ -1,8 +1,11 @@
 ---
+album: I Ain't Got Time Anymore
 artists:
 - The Glass Bottle
+external_ids:
+  spotify: spotify:track:453GRO0bPdqtk8mvauvZuS
 features: []
-genres: []
+first_released_as_single: false
 key: i-ain-t-got-time-anymore-the-glass-bottle
 lyrics_url: https://genius.com/The-glass-bottle-i-aint-got-time-anymore-lyrics
 name: I Ain't Got Time Anymore
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 163937
 ---
 Got no time to stop and speak to friends passing by
 Got no strength to wipe away the tears from my eye

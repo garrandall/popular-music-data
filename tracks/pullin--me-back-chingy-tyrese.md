@@ -1,9 +1,12 @@
 ---
+album: Hoodstar
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:5hF2LnbkpnXCkksMSeWcxZ
 features:
 - Tyrese
-genres: []
+first_released_as_single: false
 key: pullin--me-back-chingy-tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/pullinmeback.html
 name: Pullin' Me Back
@@ -88,9 +91,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 234133
 ---
-
-
 Every time I try to leave
 Something keeps pulling me back, me back
 Telling me I need you in my life
@@ -168,4 +171,3 @@ As bad as it hurts I gotta move to the next route
 Guess she ain't understand
 N now she's sittin' hurr looking crazy like
 Damn!
-

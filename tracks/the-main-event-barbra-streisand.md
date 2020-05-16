@@ -1,8 +1,11 @@
 ---
+album: Timeless - Live In Concert
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1L1iabwA26QyVasn4liOgD
 features: []
-genres: []
+first_released_as_single: false
 key: the-main-event-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/themaineventfight.html
 name: The Main Event
@@ -75,8 +78,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1972
+runtime: 256093
 ---
-
 Oh...mmm...mmm
 Extra! Extra!
 I'm in love
@@ -223,6 +227,3 @@ When we make love
 When we make love
 (You're the one, you're the one)
 When we make love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 21 of the Best 1971-83
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:2rrgJF4GrGlm7bm9WVa01g
 features: []
-genres: []
+first_released_as_single: false
 key: hurts-so-good-millie-jackson
 lyrics_url: https://genius.com/Millie-jackson-it-hurts-so-good-lyrics
 name: Hurts So Good
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 206967
 ---
 First, you take my heart
 In the palm of your hands

@@ -1,8 +1,11 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:7bZsx7Zif6FIhrcZrh0LVm
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-waiting-for--gwen-stefani
 lyrics_url: https://genius.com/Gwen-stefani-what-you-waiting-for-lyrics
 name: What You Waiting For?
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-03-05'
+release_year: 2004
+runtime: 221226
 ---
 What an amazing time
 What a family

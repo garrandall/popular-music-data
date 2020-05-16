@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5FwMr2Grj9SjbUYp04dk5k
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-good-die-young-glee-cast
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast/Only-the-Good-Die-Young
 name: Only The Good Die Young
@@ -11,8 +14,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 225266
 ---
-
 Come out, Virginia, don't let me wait
 You Catholic girls start much too late
 Oh, but sooner or later, it comes down to fate

@@ -1,9 +1,12 @@
 ---
+album: Overexposed
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:1LmN9SSHISbtp9LoaR5ZVJ
 features:
 - Wiz Khalifa
-genres: []
+first_released_as_single: false
 key: payphone-maroon-5-wiz-khalifa
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/payphone.html
 name: Payphone
@@ -132,8 +135,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 231386
 ---
-
 I'm at a payphone trying to call home
 All of my change I spent on you
 Where have the times gone? Baby, it's all wrong
@@ -239,6 +243,3 @@ I would still be holding you like this
  One more fucking love song, I'll be sick.
  One more stupid love song, I'll be sick
 Now I'm at a payphone...
-
-
-

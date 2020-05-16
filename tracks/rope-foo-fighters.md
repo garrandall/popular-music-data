@@ -1,8 +1,11 @@
 ---
+album: Wasting Light
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:7v0mtl6oInUtHOmTk2b0gC
 features: []
-genres: []
+first_released_as_single: false
 key: rope-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/rope.html
 name: Rope
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 259026
 ---
-
 This indecision's got me climbing up the walls
 I've been cheating gravity and waiting on the falls
 How did this come over me, I thought I was above it all
@@ -89,6 +93,3 @@ Give me some hope I'm coming through, I'm counting on you
 Give me some rope I'm coming out of my head, into the clear 
 When you go I come... 
 Loose
-
-
-

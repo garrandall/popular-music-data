@@ -1,8 +1,11 @@
 ---
+album: Unguarded
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:0szU1fWxpXgr47uB6ezphl
 features: []
-genres: []
+first_released_as_single: false
 key: find-a-way-amy-grant
 lyrics_url: https://genius.com/Amy-grant-find-a-way-lyrics
 name: Find A Way
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 208400
 ---
 You tell me your friends are distant
 You tell me your man's untrue

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Stylistics and More 30th Anniversary Edition
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:5qSrq6NjCgsJOpuMCkg3Lq
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-put-it-all-together-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/letsputitalltogether.html
 name: Let's Put It All Together
@@ -55,8 +58,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 177226
 ---
-
 Your arms around me are tender and warm
 My arms are meant to hold you
 Your arms and my arms
@@ -86,6 +90,3 @@ Lets put it all together
 Lets put it all together
 Lets put it all together
 Girl
-
-
-

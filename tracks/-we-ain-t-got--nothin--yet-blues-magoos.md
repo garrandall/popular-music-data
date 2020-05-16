@@ -1,8 +1,11 @@
 ---
+album: Psychedelic Lollipop
 artists:
 - Blues Magoos
+external_ids:
+  spotify: spotify:track:6cQdZhnwKIeLud5qTD7BuQ
 features: []
-genres: []
+first_released_as_single: false
 key: -we-ain-t-got--nothin--yet-blues-magoos
 lyrics_url: https://genius.com/Blues-magoos-we-aint-got-nothin-yet-lyrics
 name: (We Ain't Got) Nothin' Yet
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1966
+runtime: 135746
 ---
 One day you're up and the next day you're down
 You can't face the world with your head to the ground

@@ -1,8 +1,11 @@
 ---
+album: Reading, Writing & Arithmetic
 artists:
 - Sunday
+external_ids:
+  spotify: spotify:track:6PmbpHTKSmKP3FuMIbjttI
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-sunday
 lyrics_url: https://genius.com/Sunday-i-know-lyrics
 name: I Know
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
+release_year: 1990
+runtime: 230173
 ---
 I know that you want my man
 I know you been making plans

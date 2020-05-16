@@ -1,9 +1,12 @@
 ---
+album: The Documentary
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:04GRz5WkRVmPSGuZFJnuma
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: hate-it-or-love-it-the-game-50-cent
 lyrics_url: https://genius.com/The-game-hate-it-or-love-it-lyrics
 name: Hate It Or Love It
@@ -100,6 +103,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
+release_year: 2004
+runtime: 206440
 ---
 Yeah, let's take 'em back
 Uh-huh

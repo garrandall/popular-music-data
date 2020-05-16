@@ -1,8 +1,11 @@
 ---
+album: Cookin' With The Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:32uBIZO3738DdTqAEWWOCh
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-baby-the-miracles
 lyrics_url: https://genius.com/The-miracles-aint-it-baby-lyrics
 name: Ain't It Baby
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 153266
 ---
 Now you tell me that you love me
 But I don't think it's true

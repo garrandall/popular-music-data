@@ -1,8 +1,11 @@
 ---
+album: Voodoo Lounge (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3mP4j0qZkutkxDN4zgbtnA
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-tears-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-out-of-tears-lyrics
 name: Out Of Tears
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
+release_year: 1994
+runtime: 327600
 ---
 I can't feel, feel a thing
 I can't shout, I can't scream

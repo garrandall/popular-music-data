@@ -1,8 +1,11 @@
 ---
+album: Cookin' In Mobile
 artists:
 - The Robert Cray Band
+external_ids:
+  spotify: spotify:track:5vOK3ksL1X3MNe2o48lWTU
 features: []
-genres: []
+first_released_as_single: false
 key: smoking-gun-the-robert-cray-band
 name: Smoking Gun
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
+release_year: 1987
+runtime: 435293
 ---
 

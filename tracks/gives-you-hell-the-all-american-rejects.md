@@ -1,8 +1,11 @@
 ---
+album: When The World Comes Down
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:6ihL9TjfRjadfEePzXXyVF
 features: []
-genres: []
+first_released_as_single: false
 key: gives-you-hell-the-all-american-rejects
 lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/givesyouhell.html
 name: Gives You Hell
@@ -151,8 +154,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2008
+runtime: 213106
 ---
-
 I wake up every evening
 With a big smile on my face
 And it never feels out of place
@@ -239,6 +243,3 @@ I hope that it will give you hell
 
 You can sing along
 I hope that it puts you through hell
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lethal Injection
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:2Ih217RCGAmyQR68Nn7Cqo
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-how-we-do-it-ice-cube
 lyrics_url: https://genius.com/Ice-cube-you-know-how-we-do-it-lyrics
 name: You Know How We Do It
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1993
+runtime: 232773
 ---
 Yeah, yeah
 Fool, you know how we do it

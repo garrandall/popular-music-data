@@ -1,8 +1,11 @@
 ---
+album: Ticket To L.A.
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:53cGGBxGPaRjP0HVUESyW5
 features: []
-genres: []
+first_released_as_single: false
 key: catch-brett-young
 lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/catch.html
 name: Catch
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2018
+runtime: 196440
 ---
-
 I wasn't trying to feel like this
 I wasn't trying to feel nothing at all
 I just came to meet my friends
@@ -91,6 +95,3 @@ Girl you got me trying to catch my breath
 You got me trying to catch my breath
 You got me trying to catch my breath
 You got me trying to catch my breath
-
-
-

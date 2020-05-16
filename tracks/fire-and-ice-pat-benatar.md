@@ -1,8 +1,11 @@
 ---
+album: Precious Time
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:6nZdPmZoeIDtqG8AwJlWNe
 features: []
-genres: []
+first_released_as_single: false
 key: fire-and-ice-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/fireandice.html
 name: Fire And Ice
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 201226
 ---
-
 You're givin' me the fever tonight
 I don't wanna give in, I'll be playin' with fire
 You forget, I've seen you work before
@@ -107,6 +111,3 @@ Then you turn cold shoulder
 Fire and ice, you come on like a flame
 And you turn cold shoulder
 Fire and ice
-
-
-

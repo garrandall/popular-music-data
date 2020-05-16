@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of The Rain
 artists:
 - The Cascades
+external_ids:
+  spotify: spotify:track:3VceYdktaYmVvy4U0r2QlU
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-leaf-the-cascades
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cascades/The-Last-Leaf
 name: The Last Leaf
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 141320
 ---
 The last leaf clings to the bough
 Just one leaf, that's all there is now

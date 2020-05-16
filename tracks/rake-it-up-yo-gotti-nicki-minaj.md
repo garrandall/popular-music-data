@@ -1,9 +1,12 @@
 ---
+album: I Still Am
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:3wAbP40X5P9EVWkwmszInb
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: rake-it-up-yo-gotti-nicki-minaj
 lyrics_url: https://www.musixmatch.com/lyrics/Yo-Gotti-feat-Nicki-Minaj/Rake-It-Up
 name: Rake It Up
@@ -96,6 +99,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 172987
 ---
 Ear Drummers
 Aw, this the strip club anthem, nigga, what's up?

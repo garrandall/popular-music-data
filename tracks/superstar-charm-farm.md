@@ -1,8 +1,11 @@
 ---
+album: Pervert
 artists:
 - Charm Farm
+external_ids:
+  spotify: spotify:track:6PqyhscBTXR7SIVmnofn5k
 features: []
-genres: []
+first_released_as_single: false
 key: superstar-charm-farm
 lyrics_url: https://genius.com/Charm-farm-superstar-lyrics
 name: Superstar
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1995
+runtime: 310573
 ---
 I'd like to turn the whole world on, just for a moment...
 

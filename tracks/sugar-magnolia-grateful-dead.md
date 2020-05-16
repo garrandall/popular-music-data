@@ -1,8 +1,11 @@
 ---
+album: American Beauty
 artists:
 - Grateful Dead
+external_ids:
+  spotify: spotify:track:2EB1aFLWC4uIfld5Z3Yj1z
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-magnolia-grateful-dead
 lyrics_url: https://genius.com/Grateful-dead-sugar-magnolia-lyrics
 name: Sugar Magnolia
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1970
+runtime: 199398
 ---
 Sugar magnolia, blossoms blooming, heads all empty, and I don't care.
 Saw my baby down by the river; knew she'd have to come up soon for air

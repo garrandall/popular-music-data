@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:3Ffekn1PvnwTgGu9Cwb6Bd
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-the-people-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-give-it-to-the-people-lyrics
 name: Give It To The People
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 205546
 ---
 Ever since the time that I was ten years old
 I dream about the way it would be

@@ -1,8 +1,11 @@
 ---
+album: 18 Greatest Hits
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:5jqMqaf71zAhxrl0D6ks3q
 features: []
-genres: []
+first_released_as_single: false
 key: look-who-s-blue-don-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/dongibson/lookwhosblue.html
 name: Look Who's Blue
@@ -47,8 +50,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 142440
 ---
-
 (Look, look, look-a, look who's blue)
 (Look, look, look-a, look who's blue)
 Please, please, have pity on me
@@ -75,6 +79,3 @@ Please, please, have pity on me
 Oh, can't you see that I'm in misery
 Please, please, I'm beggin' like a fool
 Woe is me, look who's blue woh-oh, blue
-
-
-

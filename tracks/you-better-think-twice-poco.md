@@ -1,8 +1,11 @@
 ---
+album: Poco
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:0MIaG71FhxBnneednPI8H4
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-think-twice-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/youbetterthinktwice.html
 name: You Better Think Twice
@@ -39,8 +42,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 200240
 ---
-
 You better think twice
 About leaving me behind
 Make up your mind
@@ -77,6 +81,3 @@ You take my advice
 Oh woman, you've got to choose
 Take a little time
 You got nothing more to lose
-
-
-

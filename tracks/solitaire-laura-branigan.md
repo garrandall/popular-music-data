@@ -1,8 +1,11 @@
 ---
+album: Branigan 2
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:17RxTPSIGg0WP92dAiZliC
 features: []
-genres: []
+first_released_as_single: false
 key: solitaire-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/solitaire.html
 name: Solitaire
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 245933
 ---
-
 I still remember how much I used to need you
 Tried so hard to please you, but you didn't need me
 You knew I loved you, knew I always would be there
@@ -117,6 +121,3 @@ Solitaire, it gets so lonely
 Solitaire, you wanna hold me
 Don't wait up, 'cos babe, I won't be there
 Solitaire (solitaire, solitaire)
-
-
-

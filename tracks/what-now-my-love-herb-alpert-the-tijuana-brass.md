@@ -1,9 +1,12 @@
 ---
+album: What Now My Love
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:5QlPl0Lak7dPF2PBpZcnyV
 features: []
-genres: []
+first_released_as_single: false
 key: what-now-my-love-herb-alpert-the-tijuana-brass
 lyrics_url: https://genius.com/Herb-alpert-and-the-tijuana-brass-what-now-my-love-lyrics
 name: What Now My Love
@@ -40,6 +43,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 136053
 ---
 What now my love
 Now that you left me

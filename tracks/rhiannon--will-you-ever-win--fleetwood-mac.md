@@ -1,8 +1,11 @@
 ---
+album: Fleetwood Mac
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:05oETzWbd4SI33qK2gbJfR
 features: []
-genres: []
+first_released_as_single: false
 key: rhiannon--will-you-ever-win--fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/rhiannon.html
 name: Rhiannon (will You Ever Win)
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
+release_year: 1975
+runtime: 252773
 ---
-
 Rhiannon rings like a bell through the night
 And wouldn't you love to love her?
 Takes to the sky like a bird in flight
@@ -128,6 +132,3 @@ Dreams unwind
 Love's a state of mind
 Dreams unwind
 Love's a state of mind
-
-
-

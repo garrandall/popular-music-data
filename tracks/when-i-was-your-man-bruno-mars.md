@@ -1,8 +1,11 @@
 ---
+album: Unorthodox Jukebox
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:0nJW01T7XtvILxQgC5J7Wh
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-was-your-man-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-when-i-was-your-man-lyrics
 name: When I Was Your Man
@@ -147,6 +150,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2012
+runtime: 213826
 ---
 Same bed but it feels just a little bit bigger now
 Our song on the radio but it don't sound the same

@@ -1,8 +1,11 @@
 ---
+album: Part II
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2yDqqN2tWaUDJSkW4Bi9sQ
 features: []
-genres: []
+first_released_as_single: false
 key: wrapped-around-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/wrappedaround.html
 name: Wrapped Around
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2002-03-30'
+release_year: 1999
+runtime: 202533
 ---
-
 Every day I clock out
 And head straight to her house
 We cuddle up on the couch
@@ -133,6 +137,3 @@ I'm wrapped around
 
 I think it's time to put a ring on the finger
 I'm wrapped around
-
-
-

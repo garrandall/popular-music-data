@@ -1,8 +1,11 @@
 ---
+album: Back To Basics
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:6gDXbcILAyBa2skSdbUYq7
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-hurt-lyrics
 name: Hurt
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2006
+runtime: 243373
 ---
 Seems like it was yesterday when I saw your face
 You told me how proud you were, but I walked away

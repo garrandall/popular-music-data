@@ -1,8 +1,11 @@
 ---
+album: Chicago VI
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:1Drnmvgn8sx3axUcl5Tpnp
 features: []
-genres: []
+first_released_as_single: false
 key: just-you--n--me-chicago
 lyrics_url: https://genius.com/Chicago-just-you-n-me-lyrics
 name: Just You 'n' Me
@@ -83,6 +86,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 222440
 ---
 You are my love in my life
 And you are my inspiration

@@ -1,8 +1,11 @@
 ---
+album: Tarkio Road
 artists:
 - Brewer And Shipley
+external_ids:
+  spotify: spotify:track:2QnTjOsDZmHVEsSfWdqXKS
 features: []
-genres: []
+first_released_as_single: false
 key: tarkio-road-brewer-and-shipley
 lyrics_url: https://genius.com/Brewer-and-shipley-tarkio-road-lyrics
 name: Tarkio Road
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1970
+runtime: 272680
 ---
 Moving on down the Tarkio Road
 Headed up to Crete, Nebraska

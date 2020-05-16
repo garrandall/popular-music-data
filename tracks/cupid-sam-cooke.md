@@ -1,8 +1,11 @@
 ---
+album: One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:6VqVieqjDEwS3mByMq4OzB
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/cupid.html
 name: Cupid
@@ -55,8 +58,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1960
+runtime: 158613
 ---
-
 Cupid, draw back your bow
 And let your arrow go
 Straight to my lover's heart for me, for me
@@ -98,6 +102,3 @@ Help me
 I need you
 Cupid
 Don't fail me
-
-
-

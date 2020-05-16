@@ -1,8 +1,11 @@
 ---
+album: Get Behind Me Satan
 artists:
 - The White Stripes
+external_ids:
+  spotify: spotify:track:2b0AarwIy6Dr0oJeAhc80s
 features: []
-genres: []
+first_released_as_single: false
 key: blue-orchid-the-white-stripes
 lyrics_url: https://www.azlyrics.com/lyrics/whitestripes/blueorchid.html
 name: Blue Orchid
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2005
+runtime: 157560
 ---
-
 You got a reaction
 You got a reaction, didn't you?
 You took a white orchid
@@ -71,6 +75,3 @@ You got a reaction
 You got a reaction, didn't you?
 You took a white orchid
 You took a white orchid turned it blue
-
-
-

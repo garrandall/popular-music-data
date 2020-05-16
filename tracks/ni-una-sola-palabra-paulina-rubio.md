@@ -1,8 +1,11 @@
 ---
+album: Ananda
 artists:
 - Paulina Rubio
+external_ids:
+  spotify: spotify:track:4oCqda0opcaXQPjoAhhcfg
 features: []
-genres: []
+first_released_as_single: false
 key: ni-una-sola-palabra-paulina-rubio
 lyrics_url: https://genius.com/Paulina-rubio-ni-una-sola-palabra-lyrics
 name: Ni Una Sola Palabra
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2006
+runtime: 224786
 ---
 Le está gritando y hace que no se entera
 "Ey, corazón, escucha tu cabeza"

@@ -1,8 +1,11 @@
 ---
+album: Greatest Songs
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:4po5U2ZdSQCoTPGpGudx71
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-time-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/twilighttime.html
 name: Twilight Time
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 157093
 ---
-
 Heavenly shades of night are falling, it's twilight time
 Out of the mist your voice is calling, it's twilight time
 When purple-colored curtains mark the end of day
@@ -47,6 +51,3 @@ Lighting the spark of love that fills me with dreams untold
 Each day I pray for evening just to be with you
 Together at last at twilight time
 Together at last at twilight time
-
-
-

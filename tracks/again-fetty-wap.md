@@ -1,8 +1,11 @@
 ---
+album: Fetty Wap
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:2C9kWce6qtMbnBflfeBHFx
 features: []
-genres: []
+first_released_as_single: true
 key: again-fetty-wap
 lyrics_url: https://genius.com/Fetty-wap-again-lyrics
 name: Again
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2015
+runtime: 312186
 ---
 Yeah, baby
 Ayy

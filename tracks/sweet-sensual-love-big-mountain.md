@@ -1,8 +1,11 @@
 ---
+album: Unity
 artists:
 - Big Mountain
+external_ids:
+  spotify: spotify:track:7xFGMLVioqfPYL3kuiZfAf
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sensual-love-big-mountain
 lyrics_url: https://www.azlyrics.com/lyrics/bigmountain/sweetsensuallove.html
 name: Sweet Sensual Love
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-09-10'
+release_year: 1994
+runtime: 226293
 ---
-
 Oh yeah, yeah
 Oh, oh, oh
 
@@ -122,6 +126,3 @@ I need a love
 This here special love)
 I need a sweet sensual love
 (Oh yeah, a supernatural love)
-
-
-

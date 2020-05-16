@@ -1,8 +1,11 @@
 ---
+album: Subway Serenade
 artists:
 - Looking Glass
+external_ids:
+  spotify: spotify:track:3WknsOoTmbQFbxqjn7uZo8
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-loves-mary-anne-looking-glass
 lyrics_url: https://www.azlyrics.com/lyrics/lookingglass/jimmylovesmaryanne.html
 name: Jimmy Loves Mary-Anne
@@ -67,8 +70,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 218026
 ---
-
 Just seventeen, everything that you've seen 
 It's all there in her eyes
 So many years of her poor mama's tears 
@@ -128,6 +132,3 @@ Jimmy loves Mary-Anne
 Jimmy wants to be her man
 Jimmy loves Mary-Anne
 She thinks it's all right
-
-
-

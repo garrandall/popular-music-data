@@ -1,8 +1,11 @@
 ---
+album: The Fightin' Side Of Me (Live)
 artists:
 - Merle Haggard And The Strangers
+external_ids:
+  spotify: spotify:track:13vzIXEYIO1Raij50BnExN
 features: []
-genres: []
+first_released_as_single: false
 key: okie-from-muskogee-merle-haggard-and-the-strangers
 lyrics_url: https://www.musixmatch.com/lyrics/Merle-Haggard-and-the-Strangers-2/Okie-from-Muskogee
 name: Okie From Muskogee
@@ -63,6 +66,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 209960
 ---
 We don't smoke marijuana in Muskogee;
 We don't take no trips on LSD

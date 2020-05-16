@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:42jUTlnF86c7I1rU64qCai
 features: []
-genres: []
+first_released_as_single: false
 key: red-red-wine-vic-dana
 lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/Red-Red-Wine
 name: Red Red Wine
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 191160
 ---
 Red, red wine goes to my head,
 Makes me forget that I still need her so

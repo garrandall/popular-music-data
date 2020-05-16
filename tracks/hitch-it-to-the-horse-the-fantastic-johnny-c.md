@@ -1,8 +1,11 @@
 ---
+album: Old 'N Golden
 artists:
 - The Fantastic Johnny C
+external_ids:
+  spotify: spotify:track:5LU3vHhlWMX3Pixk28VR4t
 features: []
-genres: []
+first_released_as_single: false
 key: hitch-it-to-the-horse-the-fantastic-johnny-c
 name: Hitch It To The Horse
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1967
+runtime: 165106
 ---
 

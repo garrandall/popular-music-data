@@ -1,8 +1,11 @@
 ---
+album: Funhouse
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:733ncRLzZQT5UtSPg1QmPc
 features: []
-genres: []
+first_released_as_single: false
 key: sober-p-nk
 lyrics_url: https://genius.com/P-nk-sober-lyrics
 name: Sober
@@ -107,6 +110,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2008
+runtime: 251533
 ---
 I don't wanna be the girl who laughs the loudest
 Or the girl who never wants to be alone

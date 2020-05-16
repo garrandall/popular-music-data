@@ -1,8 +1,11 @@
 ---
+album: Brave
 artists:
 - Jamie O'Neal
+external_ids:
+  spotify: spotify:track:2iVkOIwx8qzVGlju9Hy4yY
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-hero-jamie-o-neal
 lyrics_url: https://genius.com/Jamie-oneal-somebodys-hero-lyrics
 name: Somebody's Hero
@@ -75,6 +78,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
+release_year: 2005
+runtime: 221425
 ---
 She's never pulled anybody from a burning building
 She's never rocked Central Park

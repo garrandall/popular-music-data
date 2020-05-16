@@ -1,8 +1,11 @@
 ---
+album: The Best of Bobby Powell - There is Something in a Man
 artists:
 - Bobby Powell
+external_ids:
+  spotify: spotify:track:0WqRon9zzQYItBsk1PD66B
 features: []
-genres: []
+first_released_as_single: false
 key: cc-rider-bobby-powell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Powell/C-C-Rider
 name: CC Rider
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 164733
 ---
 (Do you love, can you love)
 (A girl like that)

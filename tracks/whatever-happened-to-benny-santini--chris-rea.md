@@ -1,8 +1,11 @@
 ---
+album: Whatever Happened to Benny Santini
 artists:
 - Chris Rea
+external_ids:
+  spotify: spotify:track:4wp9wsxVwiEDaKbhDKIZIK
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-happened-to-benny-santini--chris-rea
 lyrics_url: https://www.azlyrics.com/lyrics/chrisrea/whateverhappenedtobennysantini.html
 name: Whatever Happened To Benny Santini?
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 259226
 ---
-
 They say his chances could not have been better
 All the promise of a July sun in the morning sky
 Laughing at the peering faces
@@ -49,6 +53,3 @@ Whatever happened to the guy on the wall?
 Where did he go to if he could not fall of
 They tell you they don't know
 They don't know at all
-
-
-

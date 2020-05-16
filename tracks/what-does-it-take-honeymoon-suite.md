@@ -1,8 +1,11 @@
 ---
+album: Big Prize
 artists:
 - Honeymoon Suite
+external_ids:
+  spotify: spotify:track:64nufOFI9wEAWW5IQcKLat
 features: []
-genres: []
+first_released_as_single: false
 key: what-does-it-take-honeymoon-suite
 lyrics_url: https://www.azlyrics.com/lyrics/honeymoonsuite/whatdoesittake.html
 name: What Does It Take
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 255133
 ---
-
 The two of us are one of a kind
 This combination ain't easy to find
 But why do I get a feeling from you
@@ -132,6 +136,3 @@ What does it take?
 What does it take?
 What does it take?
 What does it take?
-
-
-

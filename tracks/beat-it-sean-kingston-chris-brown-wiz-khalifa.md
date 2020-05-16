@@ -1,10 +1,13 @@
 ---
+album: Back 2 Life
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:3bwCMbwDZVtvJDnUTQIdCX
 features:
 - Chris Brown
 - Wiz Khalifa
-genres: []
+first_released_as_single: false
 key: beat-it-sean-kingston-chris-brown-wiz-khalifa
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/beatit.html
 name: Beat It
@@ -81,9 +84,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
+release_year: 2013
+runtime: 253453
 ---
-
-
 He ain't fly, no, he don't even drive, no
 That's why you're calling my phone, and won't leave me alone
 He ain't even fly though ,you ain't gotta lie no
@@ -175,6 +178,3 @@ Beat, beat, beat it, beat, beat, beat it
 You wantin' me to beat, beat, beat (beat it up)
 Beat, beat, beat it, beat, beat, beat it
 Beat beat
-
-
-

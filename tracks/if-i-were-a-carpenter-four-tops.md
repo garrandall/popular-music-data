@@ -1,8 +1,11 @@
 ---
+album: Reach Out
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:3KGINqCffiOKwLUSVdpiRR
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-a-carpenter-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/ifiwereacarpenter.html
 name: If I Were A Carpenter
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 172400
 ---
-
 If I were a carpenter
 And you were a lady
 Now would you marry me anyway?
@@ -80,6 +84,3 @@ I want you have my baby
 If I were a carpenter & you were a lady 
 Now would you marry me anyway?
 Won't you have my baby?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Verities & Balderdash
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:0y7n3jUYAUgldH4GQwnArf
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-learn-a-love-song-harry-chapin
 lyrics_url: https://www.azlyrics.com/lyrics/harrychapin/iwannalearnalovesong.html
 name: I Wanna Learn A Love Song
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1974
+runtime: 262666
 ---
-
 I come fresh from the street
 Fast on my feet, kinda lean and lazy
 Not much meat on my bones
@@ -125,6 +129,3 @@ Wanna hear you play"
 She said, "I wanna learn a love song
 Before you go away"
 I guess you know, I stayed
-
-
-

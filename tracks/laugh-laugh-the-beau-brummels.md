@@ -1,8 +1,11 @@
 ---
+album: Introducing The Beau Brummels
 artists:
 - The Beau Brummels
+external_ids:
+  spotify: spotify:track:66V3speCvzVe6lUnIezZ0J
 features: []
-genres: []
+first_released_as_single: false
 key: laugh-laugh-the-beau-brummels
 lyrics_url: https://genius.com/The-beau-brummels-laugh-laugh-lyrics
 name: Laugh Laugh
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 176733
 ---
 I hate to say it but I told you so
 Don't mind my preaching to you

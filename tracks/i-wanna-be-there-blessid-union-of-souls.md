@@ -1,8 +1,11 @@
 ---
+album: Blessid Union Of Souls
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:2vhzLqIcXvjjBV2InAa3My
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-there-blessid-union-of-souls
 lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/iwannabethere.html
 name: I Wanna Be There
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1997-09-20'
+release_year: 1997
+runtime: 270026
 ---
-
 Won't you let me catch your fall
 Won't you let me lend a hand
 Those lonely eyes have seen it all
@@ -162,6 +166,3 @@ I wanna be there when you don't
 Gonna be your lover
 Gonna be your friend
 Gonna be there til the end
-
-
-

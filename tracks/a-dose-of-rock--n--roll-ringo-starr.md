@@ -1,8 +1,11 @@
 ---
+album: Ringo's Rotogravure
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:1g24LmZ5xzNyoh5vQkqGGU
 features: []
-genres: []
+first_released_as_single: false
 key: a-dose-of-rock--n--roll-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/adoseofrocknroll.html
 name: A Dose Of Rock 'N' Roll
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 203906
 ---
-
 All right!
 
 You're feelin' down,
@@ -97,6 +101,3 @@ Just take some rock'n'roll, (take some rock'n'roll)
 Oh, oh, take some! (take some rock'n'roll)
 Oh, I'm gonna take it! (take some rock'n'roll)
 Take some rock'n'roll! (take some rock'n'roll)
-
-
-

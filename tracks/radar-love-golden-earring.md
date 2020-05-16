@@ -1,8 +1,11 @@
 ---
+album: Moontan
 artists:
 - Golden Earring
+external_ids:
+  spotify: spotify:track:20aASiwfsbiLlaJxLiC0PQ
 features: []
-genres: []
+first_released_as_single: false
 key: radar-love-golden-earring
 lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/radarlove.html
 name: Radar Love
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1973
+runtime: 385893
 ---
-
 I've been drivin' all night
 My hand's wet on the wheel
 There's a voice in my head
@@ -142,6 +146,3 @@ We've got a line in the sky
 We've got a thing that's called Radar Love
 We've got a thing that's called
 Radar Love
-
-
-

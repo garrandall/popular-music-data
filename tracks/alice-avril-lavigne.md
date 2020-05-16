@@ -1,8 +1,11 @@
 ---
+album: Goodbye Lullaby
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:6sdkKvEQxrgRMqCkgZUbfx
 features: []
-genres: []
+first_released_as_single: false
 key: alice-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/alice.html
 name: Alice
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2010
+runtime: 214160
 ---
-
 Trippin' out
 Spinnin' around
 I'm underground, I fell down

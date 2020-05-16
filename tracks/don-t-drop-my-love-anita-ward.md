@@ -1,8 +1,11 @@
 ---
+album: Sweet Surrender
 artists:
 - Anita Ward
+external_ids:
+  spotify: spotify:track:7Lw90v72Tu3DcqUTLhADg9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-drop-my-love-anita-ward
 lyrics_url: https://genius.com/Anita-ward-dont-drop-my-love-lyrics
 name: Don't Drop My Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 242440
 ---
 Open your hand, I squeeze it tight
 I'm putting my trust in you

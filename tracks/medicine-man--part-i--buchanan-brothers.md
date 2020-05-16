@@ -1,8 +1,11 @@
 ---
+album: 'Groovy Love: The ''60s Hit List'
 artists:
 - Buchanan Brothers
+external_ids:
+  spotify: spotify:track:3viczOpmIQy8W78w5ejSQP
 features: []
-genres: []
+first_released_as_single: false
 key: medicine-man--part-i--buchanan-brothers
 lyrics_url: https://genius.com/Buchanan-brothers-medicine-man-pt-1-lyrics
 name: Medicine Man (Part I)
@@ -51,6 +54,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 200626
 ---
 Come close
 The changes are drastic

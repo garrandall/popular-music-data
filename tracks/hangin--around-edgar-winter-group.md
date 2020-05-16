@@ -1,8 +1,11 @@
 ---
+album: They Only Come Out At Night
 artists:
 - Edgar Winter Group
+external_ids:
+  spotify: spotify:track:6OgjxwgHIV3wkV5Ob1QnUN
 features: []
-genres: []
+first_released_as_single: false
 key: hangin--around-edgar-winter-group
 lyrics_url: https://genius.com/The-edgar-winter-group-hangin-around-lyrics
 name: Hangin' Around
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1972
+runtime: 182066
 ---
 Drivin' along with my radio on feelin' good
 Ain't got no lady but maybe I'm thinkin' I could

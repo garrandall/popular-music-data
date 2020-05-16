@@ -1,8 +1,11 @@
 ---
+album: Door To Door
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:4Dvfdhc0DnWUSKZgDe6opm
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-girl-the-cars
 lyrics_url: https://genius.com/The-cars-you-are-the-girl-lyrics
 name: You Are The Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
+release_year: 1987
+runtime: 233293
 ---
 Why don't you dream anymore?
 What's in the way?

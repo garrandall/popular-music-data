@@ -1,8 +1,11 @@
 ---
+album: Wild Cherry
 artists:
 - Wild Cherry
+external_ids:
+  spotify: spotify:track:7jTFRJYtqCURYZeq5HPthC
 features: []
-genres: []
+first_released_as_single: false
 key: play-that-funky-music-wild-cherry
 lyrics_url: https://genius.com/Wild-cherry-play-that-funky-music-lyrics
 name: Play That Funky Music
@@ -107,6 +110,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1968
+runtime: 190200
 ---
 Hey, do it now
 Yeah, hey

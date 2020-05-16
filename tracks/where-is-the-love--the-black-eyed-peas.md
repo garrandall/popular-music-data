@@ -1,8 +1,11 @@
 ---
+album: Elephunk
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:3CNqo3gYrfexdrtjFmC9he
 features: []
-genres: []
+first_released_as_single: false
 key: where-is-the-love--the-black-eyed-peas
 lyrics_url: https://genius.com/The-black-eyed-peas-where-is-the-love-lyrics
 name: Where Is The Love?
@@ -107,6 +110,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2003-11-29'
+release_year: 2003
+runtime: 272533
 ---
 What's wrong with the world, mama?
 People livin' like they ain't got no mamas

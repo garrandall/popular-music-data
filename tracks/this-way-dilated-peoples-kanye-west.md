@@ -1,9 +1,12 @@
 ---
+album: Neighborhood Watch
 artists:
 - Dilated Peoples
+external_ids:
+  spotify: spotify:track:6ENJiFz2P8cNu1yftOI5rI
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: this-way-dilated-peoples-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/dilatedpeoples/thisway.html
 name: This Way
@@ -28,11 +31,11 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2004
+runtime: 245109
 ---
-
-
 Now turn it up, (a little louder) turn it up (a little louder)
-Turn it uuuuup, (a little louder) turn it up (little louder)
+Turn it up, (a little louder) turn it up (little louder)
 Now turn it up (can't live my, I, I can't live my)
 (I can't live my, I, I can't live)
 Now turn it up, turn it up
@@ -100,4 +103,3 @@ To rest up for strenght to deal with this weight
 To deal with these deals to deal with this hate
 I dedicate this Jam Master Jay
 Run-DMC showed me how to walk, this way
-

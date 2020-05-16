@@ -1,8 +1,11 @@
 ---
+album: Feels Like Today
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:0NB8Y8TXV0UTUoq9XHuOIr
 features: []
-genres: []
+first_released_as_single: false
 key: skin--sarabeth--rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/skin.html
 name: Skin (Sarabeth)
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2004
+runtime: 261266
 ---
-
 Sarabeth is scared to death
 To hear what the doctor will say
 She hasn't been well
@@ -135,6 +139,3 @@ And they go dancing
 Around and around without any cares
 And her very first true love is holding her close
 And for a moment she isn't scared
-
-
-

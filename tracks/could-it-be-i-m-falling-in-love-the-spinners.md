@@ -1,8 +1,11 @@
 ---
+album: Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:5i0urffBRKl09GSX2Jhdeh
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-i-m-falling-in-love-the-spinners
 lyrics_url: https://genius.com/The-spinners-could-it-be-im-falling-in-love-lyrics
 name: Could It Be I'm Falling In Love
@@ -67,6 +70,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 249733
 ---
 Since I met you
 I've begun to feel so strange

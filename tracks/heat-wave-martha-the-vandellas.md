@@ -1,9 +1,12 @@
 ---
+album: Heat Wave
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3VgrSJEKBRT3xmwzpaxxEF
 features: []
-genres: []
+first_released_as_single: false
 key: heat-wave-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/loveislikeaheatwave.html
 name: Heat Wave
@@ -64,8 +67,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 163053
 ---
-
 Whenever I'm with him
 Something inside
 Starts to burning
@@ -116,6 +120,3 @@ Right here in my heart
 (It sounds like a true romance)
 Don't you know it's like a heat wave?
 ...
-
-
-

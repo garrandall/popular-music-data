@@ -1,8 +1,11 @@
 ---
+album: Shake off the Dust...Arise
 artists:
 - Matisyahu
+external_ids:
+  spotify: spotify:track:7Gr5IX3qVyWhgWjfBUS0Au
 features: []
-genres: []
+first_released_as_single: false
 key: king-without-a-crown-matisyahu
 lyrics_url: https://www.azlyrics.com/lyrics/matisyahu/kingwithoutacrown54153.html
 name: King Without A Crown
@@ -63,10 +66,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-05-06'
+release_year: 2004
+runtime: 318853
 ---
-
-
-
 Zee you're all that I have and you're all that I need
 Each and every day I pray to get to know you please
 I want to be close to you, yes I'm so hungry
@@ -161,6 +163,3 @@ Zee wah yo ho..
 Ho yo..
 Zyeh yo ho ho
 Yah!
-
-
-

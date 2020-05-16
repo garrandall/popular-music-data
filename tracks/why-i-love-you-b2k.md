@@ -1,8 +1,11 @@
 ---
+album: B2K
 artists:
 - B2K
+external_ids:
+  spotify: spotify:track:0fPBKo78nKsbIla2ExeefC
 features: []
-genres: []
+first_released_as_single: false
 key: why-i-love-you-b2k
 lyrics_url: https://genius.com/B2k-why-i-love-you-lyrics
 name: Why I Love You
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-11-23'
+release_year: 2002
+runtime: 240640
 ---
 Oh
 Yeah uh

@@ -1,8 +1,11 @@
 ---
+album: Joe Public
 artists:
 - Joe Public
+external_ids:
+  spotify: spotify:track:2xwLxMviHruLB4eMv6smua
 features: []
-genres: []
+first_released_as_single: true
 key: i-miss-you-joe-public
 lyrics_url: https://genius.com/Joe-public-i-miss-you-lyrics
 name: I Miss You
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1992
+runtime: 237466
 ---
 I miss you, it's been so long
 Since I had you wake up next to me

@@ -1,8 +1,11 @@
 ---
+album: Tough All Over
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:3unLUM6bJcy5beGawHpynM
 features: []
-genres: []
+first_released_as_single: false
 key: life-ain-t-always-beautiful-gary-allan
 lyrics_url: https://genius.com/Gary-allan-life-aint-always-beautiful-lyrics
 name: Life Ain't Always Beautiful
@@ -71,6 +74,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2005
+runtime: 224613
 ---
 Life ain't always beautiful
 Sometimes it's just plain hard

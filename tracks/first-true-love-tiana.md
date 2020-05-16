@@ -1,8 +1,11 @@
 ---
+album: Tiana
 artists:
 - Tiana
+external_ids:
+  spotify: spotify:track:1I9ociBFG83fHQEXM4IHur
 features: []
-genres: []
+first_released_as_single: false
 key: first-true-love-tiana
 lyrics_url: https://genius.com/Tiana-first-true-love-lyrics
 name: First True Love
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1990
+runtime: 241173
 ---
 You know, I've waiting so long
 So long to let you know how I really feel

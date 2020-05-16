@@ -1,8 +1,11 @@
 ---
+album: Nashville Strong
 artists:
 - Gabby Barrett
+external_ids:
+  spotify: spotify:track:2Hc4t9N2nt37oO4sF9BynI
 features: []
-genres: []
+first_released_as_single: true
 key: i-hope-gabby-barrett
 lyrics_url: https://www.azlyrics.com/lyrics/gabbybarrett/ihope.html
 name: I Hope
@@ -51,8 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 209228
 ---
-
 I, I hope she makes you smile
 The way you made me smile
 On the other end of a phone
@@ -123,6 +127,3 @@ And then I hope she cheats
 Like you did on me
 
 Like you did on me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Close To You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:3m167vBQI5YLK0a1m6L6Y1
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-only-just-begun-carpenters
 lyrics_url: https://genius.com/Carpenters-weve-only-just-begun-lyrics
 name: We've Only Just Begun
@@ -75,6 +78,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 185160
 ---
 We've only just begun to live
 White lace and promises

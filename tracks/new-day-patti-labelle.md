@@ -1,8 +1,11 @@
 ---
+album: Timeless Journey
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:3uxXquDyiqlkXNchJYQjge
 features: []
-genres: []
+first_released_as_single: false
 key: new-day-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/newday.html
 name: New Day
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2004
+runtime: 199840
 ---
-
 Seems my life is finally coming together
 Feels so good, Don't think I've ever been better
 It's clear to me
@@ -79,6 +83,3 @@ Gonna be allright yeah
 
 
 Gonna be allright yeah
-
-
-

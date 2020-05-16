@@ -1,8 +1,11 @@
 ---
+album: A Little Bit More
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:5lIuw1DQsPOp3zF4fGowVv
 features: []
-genres: []
+first_released_as_single: false
 key: if-not-you-dr--hook
 lyrics_url: https://genius.com/Dr-hook-if-not-you-lyrics
 name: If Not You
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 197666
 ---
 Who's gonna water my plants?
 Who's gonna patch my pants?

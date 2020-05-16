@@ -1,11 +1,14 @@
 ---
+album: Without Warning
 artists:
 - 21 Savage
 - Offset
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:5u6vkDnOyaf8LsteDAj2ub
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: ghostface-killers-21-savage-offset-metro-boomin-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/21savage/ghostfacekillers.html
 name: Ghostface Killers
@@ -38,9 +41,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 268933
 ---
-
-
 Metro Boomin want some more nigga
 
 
@@ -137,6 +140,3 @@ Ghostface killers (killers), Wu-Tang, 21 news gang (news)
 Drug dealers in the Mulsanne, at the top of the food chain (hey)
 Trappin' the cocaine (yeah), no gang, shooter with no name
 We can play toll games, the whole gang, kick in your door man
-
-
-

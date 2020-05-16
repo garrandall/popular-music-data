@@ -1,8 +1,11 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:4pVYvS4MmbKvSzcFoZOcgb
 features: []
-genres: []
+first_released_as_single: true
 key: testimony-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/testimony.html
 name: Testimony
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 2018
+runtime: 240000
 ---
-
 I'm God-sent, I know I'm God-sent
 I swear 'fore God
 You know what I'm talkin' 'bout?
@@ -71,6 +75,3 @@ Blood in my eyes, I'm goin' blind, oh
 I'm stuck in these streets, feel like my life froze
 I've been runnin' these streets, got me dehydrated
 I've been livin' so crazy, feel like I'm dyin', baby
-
-
-

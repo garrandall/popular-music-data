@@ -1,8 +1,11 @@
 ---
+album: Birthday
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:7g0WpDuOX4hxBKCsoitOXn
 features: []
-genres: []
+first_released_as_single: false
 key: everything-that-touches-you-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/everythingthattouchesyou.html
 name: Everything That Touches You
@@ -43,8 +46,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 198986
 ---
-
 In my most secure moments I still can't believe
 I'm spending those moments with you
 And the ground I am walking, the air that I breathe
@@ -86,6 +90,3 @@ Everything is love
 Love, love, love, love, love, love, love, love, love, love, love, love
 Everything is love
 Love, love, love, love, love, love, love, love, love, love, love, love
-
-
-

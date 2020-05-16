@@ -1,8 +1,11 @@
 ---
+album: Golden
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:2ubncjpv82GY5uES29L5ik
 features: []
-genres: []
+first_released_as_single: false
 key: compass-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/compass.html
 name: Compass
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2013
+runtime: 183066
 ---
-
 Alright
 
 Yeah it's been a bumpy road
@@ -144,6 +148,3 @@ Never be alone
 When it's all said and done
 You can walk instead of run
 'Cause no matter what you'll never be alone
-
-
-

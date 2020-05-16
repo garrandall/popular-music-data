@@ -1,8 +1,11 @@
 ---
+album: The Fame Monster
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:0kv8hQMkkfBlJxHTBIUvhP
 features: []
-genres: []
+first_released_as_single: true
 key: bad-romance-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-bad-romance-lyrics
 name: Bad Romance
@@ -147,6 +150,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2009
+runtime: 294640
 ---
 Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 Caught in a bad romance

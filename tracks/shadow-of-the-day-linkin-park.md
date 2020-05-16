@@ -1,8 +1,11 @@
 ---
+album: Minutes to Midnight
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:0OYcEfskah1egYHjYRvbg1
 features: []
-genres: []
+first_released_as_single: false
 key: shadow-of-the-day-linkin-park
 lyrics_url: https://genius.com/Linkin-park-shadow-of-the-day-lyrics
 name: Shadow Of The Day
@@ -95,6 +98,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 290360
 ---
 I close both locks below the window
 I close both blinds and turn away

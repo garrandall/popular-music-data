@@ -1,8 +1,11 @@
 ---
+album: Whenever We Wanted
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:68cNgDnLSjxWeXtXo5QdvL
 features: []
-genres: []
+first_released_as_single: false
 key: get-a-leg-up-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/getalegup.html
 name: Get A Leg Up
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 227200
 ---
-
 Don't look at me, don't touch me
 Keep your mind straight ahead
 Don't get no funny ideas about me
@@ -117,6 +121,3 @@ Get a leg up
 Get a leg over boy
 Get a leg up
 Now don't you be shy, shy, shy
-
-
-

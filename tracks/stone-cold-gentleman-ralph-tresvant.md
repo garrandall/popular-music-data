@@ -1,8 +1,11 @@
 ---
+album: Ralph Tresvant
 artists:
 - Ralph Tresvant
+external_ids:
+  spotify: spotify:track:2lZtKMrV9IVZL5pbItZzlM
 features: []
-genres: []
+first_released_as_single: false
 key: stone-cold-gentleman-ralph-tresvant
 lyrics_url: https://www.azlyrics.com/lyrics/ralphtresvant/stonecoldgentleman.html
 name: Stone Cold Gentleman
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1990
+runtime: 369429
 ---
-
 Stone to the bone, baby
 Yeah
 Who's the mack?
@@ -193,6 +197,3 @@ I'm a stone cold gentleman
 
 Ill treat your right
 All day and night
-
-
-

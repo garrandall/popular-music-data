@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Terry McDermott
+external_ids:
+  spotify: spotify:track:1mnUouhbCs1F8HeH0OG8S2
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-know-what-love-is-terry-mcdermott
 lyrics_url: https://genius.com/Terry-mcdermott-i-want-to-know-what-love-is-lyrics
 name: I Want To Know What Love Is
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 222133
 ---
 I gotta take a little time
 A little time to think things over

@@ -1,11 +1,14 @@
 ---
+album: Major Key
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:3Moq7S2if93449p283IPgR
 features:
 - Big Sean
 - Kendrick Lamar
 - Betty Wright
-genres: []
+first_released_as_single: false
 key: holy-key-dj-khaled-big-sean-kendrick-lamar-betty-wright
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/holykey.html
 name: Holy Key
@@ -14,9 +17,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2016
+runtime: 281979
 ---
-
-
 This is, this is...
 Doing what I gotta do
 What up though?
@@ -115,6 +118,3 @@ Holy, holy, holy, holy key
 
 
 Holy, Holy key, holy
-
-
-

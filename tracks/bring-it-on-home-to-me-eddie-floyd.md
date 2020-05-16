@@ -1,8 +1,11 @@
 ---
+album: Rare Stamps
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:12uE7LWCMcozV4hAKDGDwq
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-home-to-me-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-bring-it-on-home-to-me-lyrics
 name: Bring It On Home To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 153723
 ---
 If you ever change your mind
 About leaving, leaving me behind

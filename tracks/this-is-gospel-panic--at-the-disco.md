@@ -1,8 +1,11 @@
 ---
+album: Too Weird To Live, Too Rare To Die!
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:3yZQk5PC52CCmT4ZaTIKvv
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-gospel-panic--at-the-disco
 lyrics_url: https://genius.com/Panic-at-the-disco-this-is-gospel-lyrics
 name: This Is Gospel
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2013
+runtime: 187186
 ---
 This is gospel, for the fallen ones
 Locked away in permanent slumber

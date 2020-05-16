@@ -1,8 +1,11 @@
 ---
+album: Electric Warrior
 artists:
 - T. Rex
+external_ids:
+  spotify: spotify:track:7EZw2AXVKWSNq5n7cw94RF
 features: []
-genres: []
+first_released_as_single: false
 key: hot-love-t--rex
 lyrics_url: https://genius.com/T-rex-hot-love-lyrics
 name: Hot Love
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 298093
 ---
 Well she's my woman of gold
 And she's not very old, a ha ha

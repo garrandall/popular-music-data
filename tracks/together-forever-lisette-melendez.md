@@ -1,8 +1,11 @@
 ---
+album: Together Forever
 artists:
 - Lisette Melendez
+external_ids:
+  spotify: spotify:track:3uQ66wzJlRPBvy883oYCa8
 features: []
-genres: []
+first_released_as_single: false
 key: together-forever-lisette-melendez
 lyrics_url: https://genius.com/Lisette-melendez-together-forever-lyrics
 name: Together Forever
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1991
+runtime: 358600
 ---
 It's been so long since
 We've been friends in need

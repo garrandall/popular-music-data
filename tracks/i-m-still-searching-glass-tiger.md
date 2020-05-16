@@ -1,8 +1,11 @@
 ---
+album: '31'
 artists:
 - Glass Tiger
+external_ids:
+  spotify: spotify:track:4W3uRC5mQDQ9ASGmNrOEVl
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-searching-glass-tiger
 lyrics_url: https://genius.com/Glass-tiger-im-still-searching-lyrics
 name: I'm Still Searching
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 238333
 ---
 Oh, the rumours are vicious, my ears are burning
 It's been a long hard day

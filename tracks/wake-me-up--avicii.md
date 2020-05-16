@@ -1,8 +1,11 @@
 ---
+album: 'True'
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:6vQ0VbsRRFOYVmjAMM8c2a
 features: []
-genres: []
+first_released_as_single: true
 key: wake-me-up--avicii
 lyrics_url: https://www.azlyrics.com/lyrics/avicii/wakemeup.html
 name: Wake Me Up!
@@ -223,8 +226,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2013
+runtime: 392812
 ---
-
 Feeling my way through the darkness
 Guided by a beating heart
 I can't tell where the journey will end
@@ -261,6 +265,3 @@ Didn't know I was lost
 I didn't know I was lost
 I didn't know I was lost
 I didn't know (didn't know, didn't know)
-
-
-

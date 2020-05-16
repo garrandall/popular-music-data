@@ -1,8 +1,11 @@
 ---
+album: "The Sonny Side Of Ch\xE9r"
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:5ElFQhsIMNNfCL24SXU53S
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-you-go-cher
 lyrics_url: https://genius.com/Cher-where-do-you-go-lyrics
 name: Where Do You Go
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 195866
 ---
 Where do you go when you're too young?
 You found worlds that's just begun

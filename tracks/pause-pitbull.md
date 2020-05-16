@@ -1,8 +1,11 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:4fs0IGj6VbSmGVDsNE9EFQ
 features: []
-genres: []
+first_released_as_single: true
 key: pause-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/pause.html
 name: Pause
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 180973
 ---
-
 Mr. Worldwide
 Mami no you can't come back
 Mami no you can't come back
@@ -84,6 +88,3 @@ Look at that girl, she's like ah
 Look at that girl, she's like
 Pause
 Pause
-
-
-

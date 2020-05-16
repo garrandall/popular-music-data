@@ -1,8 +1,11 @@
 ---
+album: Villains
 artists:
 - The Verve Pipe
+external_ids:
+  spotify: spotify:track:21jEuMn2lf37715rwjow2M
 features: []
-genres: []
+first_released_as_single: false
 key: the-freshmen-the-verve-pipe
 lyrics_url: https://www.azlyrics.com/lyrics/vervepipe/thefreshmen.html
 name: The Freshmen
@@ -175,8 +178,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1996
+runtime: 269466
 ---
-
 When I was young I knew everything
 And she, a punk who rarely ever took advice
 Now I'm guilt-stricken, sobbin' with my head on the floor
@@ -241,6 +245,3 @@ For these sins
 We were merely freshmen
 We were merely freshmen
 We were only freshmen
-
-
-

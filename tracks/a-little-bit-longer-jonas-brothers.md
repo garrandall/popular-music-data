@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Longer
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:1C9CSFviMwp3kyZHmV09ed
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-longer-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/alittlebitlongeryoudontevenknow.html
 name: A Little Bit Longer
@@ -11,8 +14,9 @@ rankings:
   rank: 11
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 205013
 ---
-
 Got the news today
 Doctors said I had to stay
 A little bit longer and I'll be fine
@@ -47,6 +51,3 @@ So I'll wait 'til kingdom come.
 All the highs and lows are gone.
 A little bit longer and I'll be fine.
 I'll be...fine
-
-
-

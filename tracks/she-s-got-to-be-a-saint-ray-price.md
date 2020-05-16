@@ -1,8 +1,11 @@
 ---
+album: She's Got To Be A Saint
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:3QpxaRImJGcInTf8VFnWMu
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-got-to-be-a-saint-ray-price
 lyrics_url: https://genius.com/Ray-price-shes-got-to-be-a-saint-lyrics
 name: She's Got To Be A Saint
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1954
+runtime: 228920
 ---
 I'm out late every night
 Doing things that ain't right

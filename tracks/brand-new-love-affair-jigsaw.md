@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Jigsaw
+external_ids:
+  spotify: spotify:track:4uIyb1ZY2UUYe0mlXoE5IB
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-love-affair-jigsaw
 lyrics_url: https://www.musixmatch.com/lyrics/Jigsaw/Brand-New-Love-Affair
 name: Brand New Love Affair
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1975
+runtime: 212720
 ---
 Yes, it's like a brand new love affair
 It's still like a brand new love affair

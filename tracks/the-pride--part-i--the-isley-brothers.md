@@ -1,8 +1,11 @@
 ---
+album: Go for Your Guns
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:21DHCHPXiXY53NHCtO9UXs
 features: []
-genres: []
+first_released_as_single: false
 key: the-pride--part-i--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-the-pride-lyrics
 name: The Pride (Part I)
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 333093
 ---
 Politician come to power take it slow
 People need what you know

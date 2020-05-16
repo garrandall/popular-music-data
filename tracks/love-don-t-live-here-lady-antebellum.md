@@ -1,8 +1,11 @@
 ---
+album: Lady Antebellum
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:16vNQhg2y5RDkkNaQExLTL
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-live-here-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-love-dont-live-here-lyrics
 name: Love Don't Live Here
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2008
+runtime: 230400
 ---
 Well, this heart of mine has been hardened like a stone
 It might take some time to get back what is gone

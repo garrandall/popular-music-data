@@ -1,8 +1,11 @@
 ---
+album: By the Way
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:1ndGB6rvxKYN9seCYO1dTF
 features: []
-genres: []
+first_released_as_single: false
 key: the-zephyr-song-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-the-zephyr-song-lyrics
 name: The Zephyr Song
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2002
+runtime: 231933
 ---
 Can I get your hand to write on?
 Just a piece of leg to bite on

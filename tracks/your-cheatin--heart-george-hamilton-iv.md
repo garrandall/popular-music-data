@@ -1,8 +1,11 @@
 ---
+album: Collection 1956-62
 artists:
 - George Hamilton IV
+external_ids:
+  spotify: spotify:track:1XQBUFUSCycU2QLayJU97u
 features: []
-genres: []
+first_released_as_single: false
 key: your-cheatin--heart-george-hamilton-iv
 lyrics_url: https://genius.com/George-hamilton-iv-your-cheatin-heart-lyrics
 name: Your Cheatin' Heart
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 135760
 ---
 Your cheatin' heart
 Will make you weep

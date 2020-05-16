@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Clovers (Love Potion No. 9)
 artists:
 - The Clovers
+external_ids:
+  spotify: spotify:track:5ytPMYb6dkoli8sNSEsdmZ
 features: []
-genres: []
+first_released_as_single: false
 key: love-potion-no-9-the-clovers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Clovers/Love-Potion-No-9-1
 name: Love Potion No 9
@@ -75,6 +78,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
+release_year: 1959
+runtime: 113200
 ---
 I took my troubles down to Madame Ruth
 You know that gypsy with the gold-capped tooth

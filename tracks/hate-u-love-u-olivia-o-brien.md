@@ -1,8 +1,11 @@
 ---
+album: hate u love u
 artists:
 - Olivia O'Brien
+external_ids:
+  spotify: spotify:track:6ATgDc6e4sPn84hvJsAmPt
 features: []
-genres: []
+first_released_as_single: true
 key: hate-u-love-u-olivia-o-brien
 lyrics_url: https://genius.com/Olivia-obrien-hate-u-love-u-lyrics
 name: Hate U Love U
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-01-14'
+release_year: 2016
+runtime: 175466
 ---
 Feeling used, but I'm still missing you
 And I can't see the end of this

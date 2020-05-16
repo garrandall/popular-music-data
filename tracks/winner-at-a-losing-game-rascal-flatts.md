@@ -1,8 +1,11 @@
 ---
+album: Still Feels Good
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:3f9X0GdtSSq06xZVJZ5S5T
 features: []
-genres: []
+first_released_as_single: false
 key: winner-at-a-losing-game-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/winneratalosinggame.html
 name: Winner At A Losing Game
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
+release_year: 2007
+runtime: 286613
 ---
-
 Baby, look here at me
 Have you ever seen me this way
 I've been fumblin' for words
@@ -129,6 +133,3 @@ Oh, oh, if love is really forever
 I'm a winner at a losin' game
 Oh, I'm tired of losing
 Oh, oh, oh-
-
-
-

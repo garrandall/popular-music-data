@@ -1,8 +1,11 @@
 ---
+album: In London For Tea (2011 Remastered Version)
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:1bOyh3hrYncnNNg298H6au
 features: []
-genres: []
+first_released_as_single: false
 key: the-jokers-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-the-jokers-lyrics
 name: The Jokers
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 131693
 ---
 Baby, we're the jokers
 Livin' for fun in the glare of the sun

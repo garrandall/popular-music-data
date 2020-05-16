@@ -1,8 +1,11 @@
 ---
+album: Tracie
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:6zAmV2YJovLGTBO2bk5HGG
 features: []
-genres: []
+first_released_as_single: false
 key: still-in-my-heart-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-still-in-my-heart-lyrics
 name: Still In My Heart
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 257240
 ---
 Oh, I just want you to know
 No matter where you go

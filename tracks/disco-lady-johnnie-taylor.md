@@ -1,8 +1,11 @@
 ---
+album: Eargasm
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:7aS2UfWX6qqh7jl5fUpVB6
 features: []
-genres: []
+first_released_as_single: false
 key: disco-lady-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-disco-lady-lyrics
 name: Disco Lady
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1968
+runtime: 262800
 ---
 Shake it up, shake it down
 Move it in, move it round, disco lady

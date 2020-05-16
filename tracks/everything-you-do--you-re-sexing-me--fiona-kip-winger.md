@@ -1,9 +1,12 @@
 ---
+album: Heart Like A Gun
 artists:
 - Fiona
 - Kip Winger
+external_ids:
+  spotify: spotify:track:2LBu8ppBl3aenuqUnBxysH
 features: []
-genres: []
+first_released_as_single: false
 key: everything-you-do--you-re-sexing-me--fiona-kip-winger
 lyrics_url: https://genius.com/Fiona-everything-you-do-youre-sexing-me-lyrics
 name: Everything You Do (You're Sexing Me)
@@ -56,6 +59,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1988
+runtime: 254173
 ---
 Oh you're sexing me
 Oh you're sexing me

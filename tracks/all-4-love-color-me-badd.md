@@ -1,8 +1,11 @@
 ---
+album: C.M.B.
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:4XmsMIMjvDIFEjeY3ycMzW
 features: []
-genres: []
+first_released_as_single: false
 key: all-4-love-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/all4love.html
 name: All 4 Love
@@ -119,8 +122,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
+release_year: 1991
+runtime: 211493
 ---
-
 I'm so glad you're my girl
 I'll do anything 4 U
 Call U every night
@@ -176,4 +180,3 @@ Are 4 love dig it
 All 4 lovin' (all for love)
 All 4 U (U)
 All 4 lovin' U... U... U... (U)
-

@@ -1,8 +1,11 @@
 ---
+album: Hack
 artists:
 - Information Society
+external_ids:
+  spotify: spotify:track:0Ya6ulvW3TgDf4jmDVXlik
 features: []
-genres: []
+first_released_as_single: false
 key: think-information-society
 lyrics_url: https://genius.com/Information-society-think-lyrics
 name: Think
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-01-19'
+release_year: 1990
+runtime: 305000
 ---
 Imagine if I said I sometimes need you
 I need you to this day

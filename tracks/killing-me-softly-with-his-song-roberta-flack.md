@@ -1,8 +1,11 @@
 ---
+album: Killing Me Softly
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:3gsCAGsWr6pUm1Vy7CPPob
 features: []
-genres: []
+first_released_as_single: false
 key: killing-me-softly-with-his-song-roberta-flack
 lyrics_url: https://genius.com/Roberta-flack-killing-me-softly-with-his-song-lyrics
 name: Killing Me Softly With His Song
@@ -71,6 +74,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1973
+runtime: 286920
 ---
 Strumming my pain with his fingers
 Singing my life with his words

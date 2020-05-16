@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Barnet Mimms: Cry Baby'
 artists:
 - Garnet Mimms
+external_ids:
+  spotify: spotify:track:4U3NxdMXeHIGph2gjDyQqK
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-baby-garnet-mimms
 lyrics_url: https://genius.com/Garnet-mimms-tell-me-baby-lyrics
 name: Tell Me Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 164040
 ---
 Tell me, tell me, baby
 (Can't you see I'm crying)

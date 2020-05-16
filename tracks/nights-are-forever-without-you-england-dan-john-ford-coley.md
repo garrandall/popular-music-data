@@ -1,9 +1,12 @@
 ---
+album: Nights Are Forever
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:4XJhR31yvvrJl99caa0Xpj
 features: []
-genres: []
+first_released_as_single: false
 key: nights-are-forever-without-you-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-nights-are-forever-without-you-lyrics
 name: Nights Are Forever Without You
@@ -72,6 +75,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1976
+runtime: 170920
 ---
 Lying in bed with the radio on
 Moonlight falls like rain

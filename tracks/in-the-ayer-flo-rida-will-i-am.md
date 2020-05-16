@@ -1,9 +1,12 @@
 ---
+album: Mail on Sunday
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:6RpiAj9Ofv0Uqp6n2OuRoh
 features:
 - will.i.am
-genres: []
+first_released_as_single: false
 key: in-the-ayer-flo-rida-will-i-am
 lyrics_url: https://www.azlyrics.com/lyrics/florida/intheayer.html
 name: In The Ayer
@@ -92,9 +95,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2008
+runtime: 220506
 ---
-
-
 Oh hot damn, this is my jam
 Keep me partyin to the A.M.
 You all don't understand
@@ -148,6 +151,3 @@ Alright now stop
 oh, put your hands in the ayer
 it's a stick (a stick up, stick up)
 it's a stick up, just to the ceiling, man
-
-
-

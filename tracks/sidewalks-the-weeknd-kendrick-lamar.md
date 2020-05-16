@@ -1,9 +1,12 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2Eomvb6YHo8lhfleLufuca
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: sidewalks-the-weeknd-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/sidewalks.html
 name: Sidewalks
@@ -24,9 +27,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 231360
 ---
-
-
 I ran out of tears when I was 18
 So nobody made me but the main streets
 'Cause too many people think they made me
@@ -104,6 +107,3 @@ But they lead me on
 And they don't let me down
 But they lead me on
 And they lead me on
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Lifestyle
 artists:
 - Rich Gang
+external_ids:
+  spotify: spotify:track:7DTlsMOQjGysXHpwwpHuPl
 features:
 - Young Thug
 - Rich Homie Quan
-genres: []
+first_released_as_single: true
 key: lifestyle-rich-gang-young-thug-rich-homie-quan
 lyrics_url: https://genius.com/Rich-gang-lifestyle-lyrics
 name: Lifestyle
@@ -109,6 +112,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 269693
 ---
 I done, uh, ha, huh (Ayy)
 London On Da Track, bitch

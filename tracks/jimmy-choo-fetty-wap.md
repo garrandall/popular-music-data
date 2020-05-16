@@ -1,8 +1,11 @@
 ---
+album: Jimmy Choo
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:7s49Um7G06hq2rulrHPsIy
 features: []
-genres: []
+first_released_as_single: true
 key: jimmy-choo-fetty-wap
 lyrics_url: https://www.azlyrics.com/lyrics/fettywap/jimmychoo.html
 name: Jimmy Choo
@@ -51,9 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2016
+runtime: 176855
 ---
-
-
 My Beamer sit on Jimmy Choos, damn
 My bitch, I buy her Jimmy Choos, damn
 My neck a buncha frozen jewels, damn
@@ -100,6 +103,3 @@ I swear that she works it, I swear she so perfect
 She makes me so nervous, the way that she works it
 Jimmy Choos on her feet when she be walkin', ayy
 Jimmy Choos on her feet when she be walkin', yeah babe
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Both Sides
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4cf7GM8kOiqc0KwDn3GxRa
 features: []
-genres: []
+first_released_as_single: false
 key: both-sides-of-the-story-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/bothsidesofthestory.html
 name: Both Sides Of The Story
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1993
+runtime: 403920
 ---
-
 'Though we might hate to admit it, there are always two sides to every story...' 
 
 Find yourself in the gutter in a lonely part of town
@@ -118,6 +122,3 @@ he says "would you respect me if I didn't have this gun
 'cos without it, I don't get it, and that's why I carry one"
 
 We always need to hear both sides of the story
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Run for the Border
 artists:
 - Johnny Rodriguez
+external_ids:
+  spotify: spotify:track:2RkiqtytzMBFpoWconow55
 features: []
-genres: []
+first_released_as_single: false
 key: you-always-come-back--to-hurting-me--johnny-rodriguez
 lyrics_url: https://genius.com/Johnny-rodriguez-you-always-come-back-to-hurting-me-lyrics
 name: You Always Come Back (To Hurting Me)
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1973
+runtime: 149066
 ---
 I'm beginning to believe I get my kicks from being hurt
 Instead of making love feel better, you just make it worse

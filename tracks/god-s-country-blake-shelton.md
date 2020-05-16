@@ -1,8 +1,11 @@
 ---
+album: 'Fully Loaded: God''s Country'
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1dyxS3YzBbL0t8rEVwVQ1K
 features: []
-genres: []
+first_released_as_single: true
 key: god-s-country-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/godscountry.html
 name: God's Country
@@ -99,8 +102,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 205106
 ---
-
 Right outside of this one church town
 There's a gold dirt road to a whole lot of nothing
 Got a deed to the land but it ain't my ground
@@ -155,6 +159,3 @@ Saved by the sound of the been found
 Dixie whistle in the wind, that'll get you Heaven bound
 The devil went down to Georgia but he didn't stick around
 This is God's country
-
-
-

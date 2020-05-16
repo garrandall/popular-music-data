@@ -1,8 +1,11 @@
 ---
+album: Speed
 artists:
 - Alpha Team
+external_ids:
+  spotify: spotify:track:4RknwcXE2mMJTx3KkBriTO
 features: []
-genres: []
+first_released_as_single: true
 key: speed-alpha-team
 lyrics_url: https://www.musixmatch.com/lyrics/Alpha-Team/Speed
 name: Speed
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 378186
 ---
 Here he comes
 Here comes Speed Racer

@@ -1,8 +1,11 @@
 ---
+album: Oak Ridge Boys Collection
 artists:
 - The Oak Ridge Boys
+external_ids:
+  spotify: spotify:track:1wtcyTExLF8nZu9ZphHIl1
 features: []
-genres: []
+first_released_as_single: false
 key: american-made-the-oak-ridge-boys
 lyrics_url: https://www.azlyrics.com/lyrics/oakridgeboys/americanmade.html
 name: American Made
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1983
+runtime: 159866
 ---
-
 Seems everything I buy these days
 Has got a foreign name.
 From the kind of car I drive
@@ -71,6 +75,3 @@ My baby is American Made, ah hum.
 Born and bred in the U.S.A.
 From her silky long hair to her sexy long legs
 My baby is American Made.
-
-
-

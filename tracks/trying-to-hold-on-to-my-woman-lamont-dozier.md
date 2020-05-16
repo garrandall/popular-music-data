@@ -1,8 +1,11 @@
 ---
+album: Out Here On My Own
 artists:
 - Lamont Dozier
+external_ids:
+  spotify: spotify:track:1p6fvUjZpBIR0LLYc90ez1
 features: []
-genres: []
+first_released_as_single: false
 key: trying-to-hold-on-to-my-woman-lamont-dozier
 lyrics_url: https://genius.com/Lamont-dozier-trying-to-hold-on-to-my-woman-lyrics
 name: Trying To Hold On To My Woman
@@ -79,6 +82,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1973
+runtime: 358214
 ---
 I'm just tryin' to hold on to my woman
 To my life

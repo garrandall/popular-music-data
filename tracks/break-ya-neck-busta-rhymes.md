@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:7gKgd0P3dAAePiSQQBqrlf
 features: []
-genres: []
+first_released_as_single: false
 key: break-ya-neck-busta-rhymes
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/breakyaneck.html
 name: Break Ya Neck
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2002-03-23'
+release_year: 2001
+runtime: 231240
 ---
-
 Yeah. Check it out, see
 The only thing you need to do right here is, is nod your fuckin' head
 Yeah, yeah
@@ -220,6 +224,3 @@ Bang your head until you start to break your neck nigga!
 Break your neck nigga!
 Break your neck nigga!
 Break your neck!
-
-
-

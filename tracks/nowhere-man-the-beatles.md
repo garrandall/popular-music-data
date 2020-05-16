@@ -1,8 +1,11 @@
 ---
+album: Rubber Soul
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5SUlhldQJtOhUr2GzH5RI7
 features: []
-genres: []
+first_released_as_single: false
 key: nowhere-man-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/nowhereman.html
 name: Nowhere Man
@@ -43,8 +46,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1965
+runtime: 163693
 ---
-
 He's a real nowhere man
 Sitting in his nowhere land
 Making all his nowhere plans for nobody
@@ -78,6 +82,3 @@ Sitting in his nowhere land
 Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
-
-
-

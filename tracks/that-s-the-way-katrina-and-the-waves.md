@@ -1,8 +1,11 @@
 ---
+album: The Best of Katrina and the Waves
 artists:
 - Katrina And The Waves
+external_ids:
+  spotify: spotify:track:7pmPfARzqbkLn1LBT0TZdG
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-katrina-and-the-waves
 lyrics_url: https://genius.com/Katrina-and-the-waves-thats-the-way-lyrics
 name: That's The Way
@@ -55,6 +58,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
+release_year: 1989
+runtime: 200888
 ---
 Slow your lovin' up
 Slow your lovin' down

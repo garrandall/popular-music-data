@@ -1,8 +1,11 @@
 ---
+album: Spitfire
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:21Yd6ElpEgeRFzRKJ6yB41
 features: []
-genres: []
+first_released_as_single: false
 key: st-charles-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/stcharles.html
 name: St Charles
@@ -27,8 +30,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 401040
 ---
-
 Let me tell you 'bout a dream,
 Dream.
 You know I saw her in a dream.
@@ -97,6 +101,3 @@ stormin'
 stormin'
 stormin'
 stormin'
-
-
-

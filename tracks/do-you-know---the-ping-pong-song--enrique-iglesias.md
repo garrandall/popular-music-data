@@ -1,8 +1,11 @@
 ---
+album: Insomniac
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:0JfAMd3xTqm7ZYhBmQjYzt
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-know---the-ping-pong-song--enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/doyouknowthepingpongsong.html
 name: Do You Know? (The Ping Pong Song)
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
+release_year: 2007
+runtime: 218053
 ---
-
 Do you know 
 
 Do you know what it feels like
@@ -174,6 +178,3 @@ Do ya
 
 Do you know 
 Do ya
-
-
-

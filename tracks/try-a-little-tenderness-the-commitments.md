@@ -1,8 +1,11 @@
 ---
+album: The Commitments
 artists:
 - The Commitments
+external_ids:
+  spotify: spotify:track:1gyrCSC99VmnLkkZ08zXMR
 features: []
-genres: []
+first_released_as_single: false
 key: try-a-little-tenderness-the-commitments
 lyrics_url: https://genius.com/The-commitments-try-a-little-tenderness-lyrics
 name: Try A Little Tenderness
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1991
+runtime: 272666
 ---
 Oh she may be weary
 And young girls they do get wearied

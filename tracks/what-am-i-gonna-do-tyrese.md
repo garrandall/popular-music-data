@@ -1,8 +1,11 @@
 ---
+album: 2000 Watts
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:2xmaKeSaaWinToTUxoyCf5
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-gonna-do-tyrese
 lyrics_url: https://genius.com/Tyrese-what-am-i-gonna-do-lyrics
 name: What Am I Gonna Do
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
+release_year: 1998
+runtime: 280080
 ---
 All these years I been wanting you in my life
 And now I finally I have you

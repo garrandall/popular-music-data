@@ -1,8 +1,11 @@
 ---
+album: Sports
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2pAdtQuiEVGr7nOXGiv7t4
 features: []
-genres: []
+first_released_as_single: false
 key: if-this-is-it-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/ifthisisit.html
 name: If This Is It
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1983
+runtime: 233160
 ---
-
 I've been phoning
 Night and morning
 I heard you say
@@ -159,6 +163,3 @@ Please let me know
 (Just say so)
 If this is it
 Please let me know
-
-
-

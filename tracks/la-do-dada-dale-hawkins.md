@@ -1,8 +1,11 @@
 ---
+album: Unforgettable
 artists:
 - Dale Hawkins
+external_ids:
+  spotify: spotify:track:6ZCgzOKV6qo4pqQR8cuuOU
 features: []
-genres: []
+first_released_as_single: false
 key: la-do-dada-dale-hawkins
 lyrics_url: https://www.musixmatch.com/lyrics/Dale-Hawkins/La-Do-Dada
 name: La-Do-Dada
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 152006
 ---
 La-do-da-do-dada
 La-da-do-dada

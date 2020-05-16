@@ -1,8 +1,11 @@
 ---
+album: Halcyon Days
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:0xMd5bcWTbyXS7wPrBtZA6
 features: []
-genres: []
+first_released_as_single: false
 key: burn-ellie-goulding
 lyrics_url: https://genius.com/Ellie-goulding-burn-lyrics
 name: Burn
@@ -151,6 +154,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2013
+runtime: 231211
 ---
 We, we don't have to worry 'bout nothing
 'Cause we got the fire

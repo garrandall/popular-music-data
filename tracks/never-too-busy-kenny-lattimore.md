@@ -1,8 +1,11 @@
 ---
+album: Kenny Lattimore
 artists:
 - Kenny Lattimore
+external_ids:
+  spotify: spotify:track:0usjZV6Bed30idVp5a1Ju1
 features: []
-genres: []
+first_released_as_single: false
 key: never-too-busy-kenny-lattimore
 lyrics_url: https://www.azlyrics.com/lyrics/kennylattimore/nevertoobusy.html
 name: Never Too Busy
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 332826
 ---
-
 Never too busy, I'm never too busy for you babe, never too busy
 I've got things on my mind
 I'm not too busy for you, I'm not too busy
@@ -59,4 +63,3 @@ If you're feeling alone, pick up the phone and call me, 'cause I
 I'm not too busy for you, I'm not too busy
 
 Whenever you need me
-

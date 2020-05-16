@@ -1,8 +1,11 @@
 ---
+album: My Foolish Heart - The Best Of
 artists:
 - The Demensions
+external_ids:
+  spotify: spotify:track:4uOiETgQvxwCjxTXfU9q1H
 features: []
-genres: []
+first_released_as_single: false
 key: over-the-rainbow-the-demensions
 name: Over The Rainbow
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 194773
 ---
 

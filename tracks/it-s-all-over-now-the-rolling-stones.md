@@ -1,8 +1,11 @@
 ---
+album: 12 X 5
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6fLTxkL2wgC40fBM6IIe7r
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-over-now-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-its-all-over-now-lyrics
 name: It's All Over Now
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 206440
 ---
 Well, baby used to stay out all night long
 She made me cry, she done me wrong

@@ -1,8 +1,11 @@
 ---
+album: Chicago XIV
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:6zfcaFzMwFnXmg4CuUlKTw
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-and-lightning-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/thunderandlightning.html
 name: Thunder And Lightning
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
+release_year: 1980
+runtime: 212200
 ---
-
 I thought that you thought that we thought we were bound to each other,
 But it's not that way, we don't care about one another.
 Thunder and lightning showed me all the threats you weren't saying.
@@ -61,6 +65,3 @@ It hurt to see you play games that were so one-sided.
 I dealt the cards but the aces were in your back pocket.
 Thunder and lightning won't let you alone 'til I'm paying.
 Thunder and lightning; didn't know our love could end this way.
-
-
-

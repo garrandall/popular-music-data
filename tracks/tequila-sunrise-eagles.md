@@ -1,8 +1,11 @@
 ---
+album: Desperado
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:1WYokrkFOb9TFVuTrmxTTt
 features: []
-genres: []
+first_released_as_single: false
 key: tequila-sunrise-eagles
 lyrics_url: https://genius.com/Eagles-tequila-sunrise-lyrics
 name: Tequila Sunrise
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1973
+runtime: 173056
 ---
 {​Instrumental lead}​
 

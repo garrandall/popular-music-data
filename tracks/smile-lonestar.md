@@ -1,8 +1,11 @@
 ---
+album: Lonely Grill
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:5pQgtblU1iZdRt651MFI2f
 features: []
-genres: []
+first_released_as_single: false
 key: smile-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/smile.html
 name: Smile
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-04-29'
+release_year: 1995
+runtime: 213133
 ---
-
 I still remember the night we met
 You said you loved my smile
 But your love for me was like a summer breeze
@@ -123,6 +127,3 @@ Laugh, so you won't see me hurtin'
 I'm gonna let you go in style
 And even if it kills me
 I'm gonna smile
-
-
-

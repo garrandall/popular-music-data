@@ -1,8 +1,11 @@
 ---
+album: SAVE ME
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:2QEnZJ8FwpBoyLKcFcgceT
 features: []
-genres: []
+first_released_as_single: false
 key: government-official-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/governmentofficial.html
 name: Government Official
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 150760
 ---
-
 I just went out to Morocco to do some recruiting
 Fuck the government official, we're plugged with Putin
 Got two twin sisters, yeah they squirt, they be shootin'
@@ -55,6 +59,3 @@ It made me get emotional with the bitches
 
 I feed them racks to you like a monster, that's food
 Told her when she get back to the city, she comin' to spend it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: St. Louis To Liverpool
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:3qt3ybU6MScMxMKL2TYBvt
 features: []
-genres: []
+first_released_as_single: false
 key: no-particular-place-to-go-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-no-particular-place-to-go-lyrics
 name: No Particular Place To Go
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 163000
 ---
 Ridin' along in my automobile
 My baby beside me at the wheel

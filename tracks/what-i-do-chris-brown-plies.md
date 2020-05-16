@@ -1,9 +1,12 @@
 ---
+album: Graffiti
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:6KoSUkhZqUfTlIQE3Tbg5y
 features:
 - Plies
-genres: []
+first_released_as_single: false
 key: what-i-do-chris-brown-plies
 lyrics_url: https://genius.com/Chris-brown-what-i-do-lyrics
 name: What I Do
@@ -12,6 +15,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 240240
 ---
 Just in case you forgot (Uh-huh, uh-huh)
 We go by The Runners

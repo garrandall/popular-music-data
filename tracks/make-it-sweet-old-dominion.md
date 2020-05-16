@@ -1,8 +1,11 @@
 ---
+album: Old Dominion
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:2PPPVRu9qbwiR0gaFLxjGX
 features: []
-genres: []
+first_released_as_single: true
 key: make-it-sweet-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/makeitsweet.html
 name: Make It Sweet
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 186133
 ---
-
 I know it's a drag, I know it's a grind
 I know that a dollar ain't worth a dime
 Just trying to keep up with the Joneses at the end of the block
@@ -135,6 +139,3 @@ Don't waste another mile or a minute not kissin' me
 Life is short, make it sweet
 Life is short, make it sweet
 Oh, yeah, yeah, yeah, yeah
-
-
-

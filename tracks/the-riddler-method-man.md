@@ -1,8 +1,11 @@
 ---
+album: The Riddler
 artists:
 - Method Man
+external_ids:
+  spotify: spotify:track:0GzXo2jahyCJbyTEo5fqCB
 features: []
-genres: []
+first_released_as_single: true
 key: the-riddler-method-man
 lyrics_url: https://genius.com/Method-man-the-riddler-lyrics
 name: The Riddler
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
+release_year: 1995
+runtime: 213733
 ---
 Intro:
 

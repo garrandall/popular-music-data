@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:3xiJqZ1Ql27vcRhcCin1o1
 features: []
-genres: []
+first_released_as_single: false
 key: havana-kenny-g
 lyrics_url: https://genius.com/Kenny-g-havana-lyrics
 name: Havana
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1986
+runtime: 440946
 ---
 Thinkin' back in time when love was only in my mind
 I realize ain't no second chance

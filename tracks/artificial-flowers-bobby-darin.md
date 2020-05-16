@@ -1,8 +1,11 @@
 ---
+album: The Legendary Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:18YeORbWY1XaIAzHsRy1LD
 features: []
-genres: []
+first_released_as_single: false
 key: artificial-flowers-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-artificial-flowers-lyrics
 name: Artificial Flowers
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 193546
 ---
 Alone in the world
 Was poor little Anne

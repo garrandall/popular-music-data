@@ -1,8 +1,11 @@
 ---
+album: Open Our Eyes
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2RH61BqMEeRjfND7MQBWHU
 features: []
-genres: []
+first_released_as_single: false
 key: devotion-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/devotion.html
 name: Devotion
@@ -35,8 +38,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 290186
 ---
-
 Thru devotion, blessed are the children
 Praise the teacher, that brings true love to many
 your devotion, opens all life's treasures
@@ -58,6 +62,3 @@ Maybe this song, will help uplift your day.
 
 Make a better way
 You need devotion
-
-
-

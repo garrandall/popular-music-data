@@ -1,8 +1,11 @@
 ---
+album: '"Awaken, My Love!"'
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:0wXuerDYiBnERgIpbb3JBR
 features: []
-genres: []
+first_released_as_single: false
 key: redbone-childish-gambino
 lyrics_url: https://genius.com/Childish-gambino-redbone-lyrics
 name: Redbone
@@ -183,6 +186,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2016
+runtime: 326933
 ---
 Daylight
 I wake up feeling like you won't play right

@@ -1,8 +1,11 @@
 ---
+album: 'The Show Must Go On: The Leo Sayer Anthology'
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:49srZv0zadnv7fC3oxft8D
 features: []
-genres: []
+first_released_as_single: false
 key: easy-to-love-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/easytolove.html
 name: Easy To Love
@@ -47,8 +50,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 221933
 ---
-
 It's easy to love when I love someone like you
 It's easy to feel when you feel the way I do
 You know love don't come easy and love don't come fast
@@ -77,6 +81,3 @@ It's easy to love
 So easy to love
 Easy to love
 You're so easy to love
-
-
-

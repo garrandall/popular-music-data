@@ -1,8 +1,11 @@
 ---
+album: Happy Hour
 artists:
 - Deodato
+external_ids:
+  spotify: spotify:track:4gWUyoVMKDISZ9NZUFtnk4
 features: []
-genres: []
+first_released_as_single: false
 key: happy-hour-deodato
 lyrics_url: https://www.musixmatch.com/lyrics/Deodato/Happy-Hour
 name: Happy Hour
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1982
+runtime: 299160
 ---
 Happy, happy hour
 Now's the time

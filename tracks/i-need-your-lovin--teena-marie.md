@@ -1,8 +1,11 @@
 ---
+album: Irons In The Fire (Expanded 15 Track Version)
 artists:
 - Teena Marie
+external_ids:
+  spotify: spotify:track:0HYCfsLMVE61LZIVI3d1UA
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-your-lovin--teena-marie
 lyrics_url: https://www.azlyrics.com/lyrics/teenamarie/ineedyourlovin.html
 name: I Need Your Lovin'
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1980
+runtime: 452186
 ---
-
 Ohhhh!
 
 Love's fever
@@ -153,6 +157,3 @@ I just need your lovin'
 
 (Just a little lovin' this will do)
 (Just a little lovin me and you)
-
-
-

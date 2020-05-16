@@ -1,8 +1,11 @@
 ---
+album: Aladdin Sane (2013 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:6uZtMNTfU5u8w6fsnXeOdb
 features: []
-genres: []
+first_released_as_single: false
 key: the-jean-genie-david-bowie
 lyrics_url: https://genius.com/David-bowie-the-jean-genie-lyrics
 name: The Jean Genie
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 248013
 ---
 A small Jean Genie snuck off to the city
 Strung out on lasers and slash back blazers

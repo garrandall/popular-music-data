@@ -1,8 +1,11 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Phil McLean
+external_ids:
+  spotify: spotify:track:4HT3clnfZI9RgY1Bmvu1Oa
 features: []
-genres: []
+first_released_as_single: false
 key: small-sad-sam-phil-mclean
 lyrics_url: https://genius.com/Phil-mclean-small-sad-sam-lyrics
 name: Small Sad Sam
@@ -47,6 +50,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 144160
 ---
 Small Sad Sam
 Phil McLean Versatile VER 107

@@ -1,8 +1,11 @@
 ---
+album: Nightmare
 artists:
 - Avenged Sevenfold
+external_ids:
+  spotify: spotify:track:4UEo1b0wWrtHMC8bVqPiH8
 features: []
-genres: []
+first_released_as_single: false
 key: nightmare-avenged-sevenfold
 lyrics_url: https://www.azlyrics.com/lyrics/avengedsevenfold/nightmare.html
 name: Nightmare
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2010
+runtime: 374453
 ---
-
 Nightmare!
 (Now your nightmare comes to life)
 
@@ -121,6 +125,3 @@ No one to call
 Everybody to fear
 Your tragic fate is looking so clear, yeah
 Oh, it's your fuckin' nightmare
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Life Is Good
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: life-is-good-future-drake
 lyrics_url: https://genius.com/Future-life-is-good-lyrics
 name: Life Is Good
@@ -44,6 +47,8 @@ rankings:
   rank: 3
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 237735
 ---
 Workin' on a weekend like usual
 Way off in the deep end like usual

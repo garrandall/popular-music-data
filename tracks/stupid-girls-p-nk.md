@@ -1,8 +1,11 @@
 ---
+album: I'm Not Dead
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:7tu0xe19l5CvE4vdyd9giM
 features: []
-genres: []
+first_released_as_single: true
 key: stupid-girls-p-nk
 lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/Stupid-Girls
 name: Stupid Girls
@@ -71,6 +74,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2006
+runtime: 195920
 ---
 Stupid girl
 Stupid girls

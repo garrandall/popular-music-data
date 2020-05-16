@@ -1,8 +1,11 @@
 ---
+album: Oops!... I Did It Again
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2TTYIwTM2iLC1YOyHuhRMt
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-britney-spears
 lyrics_url: https://genius.com/Britney-spears-lucky-lyrics
 name: Lucky
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
+release_year: 2000
+runtime: 206226
 ---
 This is a story about a girl named Lucky
 

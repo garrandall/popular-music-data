@@ -1,8 +1,11 @@
 ---
+album: A Taste Of Honey
 artists:
 - A Taste Of Honey
+external_ids:
+  spotify: spotify:track:07NrCEN3egNvw8td2LxqJO
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-oogie-oogie-a-taste-of-honey
 lyrics_url: https://genius.com/A-taste-of-honey-boogie-oogie-oogie-lyrics
 name: Boogie Oogie Oogie
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 338320
 ---
 If you're thinkin' you're too cool to boogie
 Boy oh boy, have I got news for you

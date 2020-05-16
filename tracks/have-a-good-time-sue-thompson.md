@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:6ZskEEQi9uYxLnSwOxgB4G
 features: []
-genres: []
+first_released_as_single: false
 key: have-a-good-time-sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-have-a-good-time-lyrics
 name: Have A Good Time
@@ -51,6 +54,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-08-25'
+release_year: 1961
+runtime: 193426
 ---
 (doo-wah, doo-wah, have a good time)
 (doo-wah, doo-wah, have a good time)

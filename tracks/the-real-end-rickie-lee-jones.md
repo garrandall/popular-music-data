@@ -1,8 +1,11 @@
 ---
+album: The Magazine
 artists:
 - Rickie Lee Jones
+external_ids:
+  spotify: spotify:track:0Pl0bLQPBEwW4cZcemIcNk
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-end-rickie-lee-jones
 lyrics_url: https://genius.com/Rickie-lee-jones-the-real-end-lyrics
 name: The Real End
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 304106
 ---
 Once I had a sweet love
 Always followed me around

@@ -1,9 +1,12 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6J7PIkhtHwmFjPLq0SyuPj
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: dark-times-the-weeknd-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/darktimes.html
 name: Dark Times
@@ -20,9 +23,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 260640
 ---
-
-
 Waking up, half past five
 Blood on pillow, one bruised eye
 Drunk too much, you know what I'm like
@@ -77,6 +80,3 @@ In my dark time, this is all I could be
 Only my mother could love me for me
 In my dark times, in my dark time
 In my dark times
-
-
-

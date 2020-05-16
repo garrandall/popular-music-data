@@ -1,8 +1,11 @@
 ---
+album: 2014 Forest Hills Drive
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:1HNs07uZxZniPNmniw2GTa
 features: []
-genres: []
+first_released_as_single: false
 key: apparently-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/apparently.html
 name: Apparently
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 293040
 ---
-
 Oh right, oh
 Oh why na-da-da-da
 I keep my head high
@@ -161,6 +165,3 @@ I don't know why You call on me
 
 Apparently, You believe in me, You believe in me
 Apparently, You believe in me and I thank you for it
-
-
-

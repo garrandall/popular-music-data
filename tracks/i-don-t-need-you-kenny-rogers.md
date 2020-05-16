@@ -1,8 +1,11 @@
 ---
+album: Share Your Love
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:2FOIK633FgeVKWGl4bjSZU
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-need-you-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-i-dont-need-you-lyrics
 name: I Don't Need You
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1981
+runtime: 208866
 ---
 I don't need you
 I don't need friendship

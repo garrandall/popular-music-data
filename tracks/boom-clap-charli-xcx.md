@@ -1,8 +1,11 @@
 ---
+album: SUCKER
 artists:
 - Charli XCX
+external_ids:
+  spotify: spotify:track:63bniwRWWFGoasyhX2eQHJ
 features: []
-genres: []
+first_released_as_single: true
 key: boom-clap-charli-xcx
 lyrics_url: https://genius.com/Charli-xcx-boom-clap-lyrics
 name: Boom Clap
@@ -107,6 +110,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 169293
 ---
 You're picture-perfect blue
 Sunbathing under the moon

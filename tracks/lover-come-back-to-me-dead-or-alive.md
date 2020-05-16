@@ -1,8 +1,11 @@
 ---
+album: Fragile
 artists:
 - Dead Or Alive
+external_ids:
+  spotify: spotify:track:5yJW5O8iqK8XUWEWvFDArl
 features: []
-genres: []
+first_released_as_single: false
 key: lover-come-back-to-me-dead-or-alive
 lyrics_url: https://www.azlyrics.com/lyrics/deadoralive/lovercomebacktome.html
 name: Lover Come Back To Me
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1985
+runtime: 337134
 ---
-
 I've been lying here so lonely
 I've been wishing you would telephone me.
 Oh
@@ -94,6 +98,3 @@ I hear you knocking
 Come back where you've been.
 Lover come back to me
 Lover come back to me
-
-
-

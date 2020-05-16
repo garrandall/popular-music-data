@@ -1,8 +1,11 @@
 ---
+album: Live at the Bass Performance Hall
 artists:
 - Lindsey Buckingham
+external_ids:
+  spotify: spotify:track:38i0QcGQ9hu8PMk4QObUTj
 features: []
-genres: []
+first_released_as_single: true
 key: holiday-road-lindsey-buckingham
 lyrics_url: https://www.azlyrics.com/lyrics/lindseybuckingham/holidayroad.html
 name: Holiday Road
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 131520
 ---
-
 I found out long ago 
 It's a long way down the holiday road 
 Holiday road 
@@ -47,6 +51,3 @@ Holiday road
 Holiday road 
 Holiday road
 Holiday road
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Camila
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:7sTtHHrD0zDpmzQzH3zegz
 features: []
-genres: []
+first_released_as_single: false
 key: consequences-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/consequences.html
 name: Consequences
@@ -55,8 +58,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2018
+runtime: 178466
 ---
-
 Dirty tissues, trust issues
 Glasses on the sink, they didn't fix you
 Lonely pillows in a stranger's bed
@@ -93,6 +97,3 @@ And I lost so much more than my senses
 'Cause loving you had consequences
 
 Yeah, loving you
-
-
-

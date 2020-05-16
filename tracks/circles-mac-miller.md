@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:4jXl6VtkFFKIt3ycUQc5LT
 features: []
-genres: []
+first_released_as_single: false
 key: circles-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/circles.html
 name: Circles
@@ -11,8 +14,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 170360
 ---
-
 Well, this is what it look like
 Right before you fall
 Stumbling around, you been guessing your direction
@@ -34,6 +38,3 @@ Don't you put any more stress on yourself, it's one day at a time
 It's getting pretty late, getting pretty late
 Yeah, and I find it goes around like the hands that keep counting the time
 Drawing circles
-
-
-

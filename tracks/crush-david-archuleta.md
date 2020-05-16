@@ -1,8 +1,11 @@
 ---
+album: David Archuleta
 artists:
 - David Archuleta
+external_ids:
+  spotify: spotify:track:0M6ceBATSgswJqB3M8JywI
 features: []
-genres: []
+first_released_as_single: true
 key: crush-david-archuleta
 lyrics_url: https://www.azlyrics.com/lyrics/davidarchuleta/crush.html
 name: Crush
@@ -99,8 +102,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 212013
 ---
-
 I hung up the phone tonight
 Something happened for the first time
 Deep inside it was a rush
@@ -179,6 +183,3 @@ But I know this crush ain't going away
 All that we could be
 Where this thing could go)
 Going away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mad Mad World
 artists:
 - Tom Cochrane
+external_ids:
+  spotify: spotify:track:7jIFGkTBIK1UwWaEXMW2Nh
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-a-highway-tom-cochrane
 lyrics_url: https://www.azlyrics.com/lyrics/tomcochrane/lifeisahighway.html
 name: Life Is A Highway
@@ -111,8 +114,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1991
+runtime: 266080
 ---
-
 Love's like a road that you travel on
 When there's one day here and the next day gone
 Sometimes you bend, sometimes you stand
@@ -173,6 +177,3 @@ Life is a highway
 I wanna ride it all night long
 If you're going my way
 I wanna drive it all night long (gimme, gimme, gimme, gimme, yeah!)
-
-
-

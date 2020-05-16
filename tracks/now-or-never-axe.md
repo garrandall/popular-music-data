@@ -1,8 +1,11 @@
 ---
+album: Axeology 1979-2001
 artists:
 - Axe
+external_ids:
+  spotify: spotify:track:4EwSK2byeZjVrI62MtB1Na
 features: []
-genres: []
+first_released_as_single: false
 key: now-or-never-axe
 lyrics_url: https://genius.com/Axe-now-or-never-lyrics
 name: Now Or Never
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1982
+runtime: 261480
 ---
 Terri said she
 Didn't wanna go back

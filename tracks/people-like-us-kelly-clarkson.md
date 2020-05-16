@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits - Chapter One
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:6tFeZgmfkspHPH33MWe3m0
 features: []
-genres: []
+first_released_as_single: false
 key: people-like-us-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-people-like-us-lyrics
 name: People Like Us
@@ -47,6 +50,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
+release_year: 2012
+runtime: 258906
 ---
 We come into this world unknown
 But know that we are not alone

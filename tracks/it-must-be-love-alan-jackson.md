@@ -1,8 +1,11 @@
 ---
+album: Under The Influence
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:4zglcMAGIqPBOPlrMrEdQ3
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-be-love-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/itmustbelove.html
 name: It Must Be Love
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
+release_year: 1989
+runtime: 172386
 ---
-
 First I get cold and hot
 think I'm on fire, but I'm not.
 Oh, what a pain I've got,
@@ -117,4 +121,3 @@ It must be love, it must be love.
 I fall like a sparrow and fly like a dove.
 You must be the dream I been dreaming of
 Oh what a feeling, it must be love.
-

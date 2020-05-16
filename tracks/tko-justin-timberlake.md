@@ -1,8 +1,11 @@
 ---
+album: The 20/20 Experience - 2 of 2
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:4HI18tq5IScHJDkP3dG8Pq
 features: []
-genres: []
+first_released_as_single: true
 key: tko-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/tko.html
 name: TKO
@@ -75,9 +78,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 288626
 ---
-
-
 In all, enthrilling new, living sound
 Kill me with the coo, coochie-coochie-coo
 Ah, she kill me with the coo, coochie-coochie-coo
@@ -211,6 +214,3 @@ With a TKO
 With a TKO
 With a TKO
 With a TKO
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'So Fine: One Hit Wonders of AM Radio'
 artists:
 - The Pastel Six
+external_ids:
+  spotify: spotify:track:6ysbtKkQYIEILhDi4cj9Su
 features: []
-genres: []
+first_released_as_single: false
 key: the-cinnamon-cinder--it-s-a-very-nice-dance--the-pastel-six
 name: The Cinnamon Cinder (It's A Very Nice Dance)
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 119440
 ---
 

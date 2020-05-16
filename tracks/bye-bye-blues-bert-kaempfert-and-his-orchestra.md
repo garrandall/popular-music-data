@@ -1,8 +1,11 @@
 ---
+album: Bye Bye Blues
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:6FYiWqMY9ugFhC2FXD6B1C
 features: []
-genres: []
+first_released_as_single: false
 key: bye-bye-blues-bert-kaempfert-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Bert-Kaempfert/Bye-Bye-Blues
 name: Bye Bye Blues
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1966
+runtime: 175826
 ---
 I got a big surprise when I saw you smile
 I never dreamed that it could be

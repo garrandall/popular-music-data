@@ -1,9 +1,12 @@
 ---
+album: Beg For Mercy
 artists:
 - G-Unit
+external_ids:
+  spotify: spotify:track:1dHJETCn2X1R1YwVlMvSza
 features:
 - Joe
-genres: []
+first_released_as_single: false
 key: wanna-get-to-know-you-g-unit-joe
 lyrics_url: https://genius.com/G-unit-wanna-get-to-know-you-lyrics
 name: Wanna Get To Know You
@@ -80,6 +83,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
+release_year: 2003
+runtime: 265026
 ---
 I wanna get to know ya
 I really wanna fuck you, baby

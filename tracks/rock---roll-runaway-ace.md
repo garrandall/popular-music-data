@@ -1,8 +1,11 @@
 ---
+album: Five-A-Side
 artists:
 - Ace
+external_ids:
+  spotify: spotify:track:2WB9JEZNgw2K9t1RECfpqq
 features: []
-genres: []
+first_released_as_single: false
 key: rock---roll-runaway-ace
 lyrics_url: https://www.azlyrics.com/lyrics/ace/rockrollrunaway.html
 name: Rock & Roll Runaway
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1974
+runtime: 188386
 ---
-
 Rock and roll runaway
 Rock and roll runaway
 
@@ -67,6 +71,3 @@ She's a rock and roll runaway
 
 She don't wanna go to school no more
 Don't wanna work on a factory floor
-
-
-

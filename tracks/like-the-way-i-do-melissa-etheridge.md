@@ -1,8 +1,11 @@
 ---
+album: Melissa Etheridge
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:3Fe3L3N5pGaa0BBT4eVypZ
 features: []
-genres: []
+first_released_as_single: false
 key: like-the-way-i-do-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/likethewayido.html
 name: Like The Way I Do
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
+release_year: 1988
+runtime: 324333
 ---
-
 Is it so hard to satisfy your senses
 You found out to love me you have to climb some fences
 Scratching and crawling along the floor to touch you
@@ -133,6 +137,3 @@ Tell me does she want you infatuate and haunt you
 Does she know just how to shock and electrify and rock you
 Does she inject you seduce you and affect you
 Like the way I do
-
-
-

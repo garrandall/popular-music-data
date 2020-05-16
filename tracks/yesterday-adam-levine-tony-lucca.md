@@ -1,9 +1,12 @@
 ---
+album: Yesterday (The Voice Performance)
 artists:
 - Adam Levine
 - Tony Lucca
+external_ids:
+  spotify: spotify:track:5fvETjmhp6xoCQKVAjklVE
 features: []
-genres: []
+first_released_as_single: true
 key: yesterday-adam-levine-tony-lucca
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Levine-Tony-Lucca/Yesterday-The-Voice-Performance
 name: Yesterday
@@ -12,6 +15,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2012
+runtime: 131186
 ---
 Yesterday, all my troubles seemed so far away
 Now it looks as though they're here to stay

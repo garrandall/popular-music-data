@@ -1,8 +1,11 @@
 ---
+album: Moving Pictures
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:0K6yUnIKNsFtfIpTgGtcHm
 features: []
-genres: []
+first_released_as_single: false
 key: limelight-rush
 lyrics_url: https://www.azlyrics.com/lyrics/rush/limelight.html
 name: Limelight
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1981
+runtime: 259839
 ---
-
 Living on a lighted stage
 Approaches the unreal
 For those who think and feel
@@ -78,4 +82,3 @@ And we are merely players
 Performers and portrayers
 Each another's audience
 Outside the gilded cage
-

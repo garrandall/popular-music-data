@@ -1,9 +1,12 @@
 ---
+album: Burn The Ships
 artists:
 - for KING
 - COUNTRY
+external_ids:
+  spotify: spotify:track:4ElNxglBjcrASiGn58t9Jm
 features: []
-genres: []
+first_released_as_single: false
 key: god-only-knows-for-king-country
 lyrics_url: https://genius.com/For-king-and-country-god-only-knows-lyrics
 name: God Only Knows
@@ -12,6 +15,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2018
+runtime: 229760
 ---
 Wide awake while the world is sound asleepin'
 Too afraid of what might show up while you're dreamin'

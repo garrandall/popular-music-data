@@ -1,8 +1,11 @@
 ---
+album: The Heat
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:6kD36kVRn5leDDbjXpHQY0
 features: []
-genres: []
+first_released_as_single: false
 key: just-be-a-man-about-it-toni-braxton
 lyrics_url: https://genius.com/Toni-braxton-just-be-a-man-about-it-lyrics
 name: Just Be A Man About It
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2000-12-09'
+release_year: 2000
+runtime: 288933
 ---
 Hey, hey hold up a minute
 Let me stop up here and use this payphone real quick

@@ -1,8 +1,11 @@
 ---
+album: Three Cheers for Sweet Revenge
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:7lRlq939cDG4SzWOF4VAnd
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-okay--i-promise--my-chemical-romance
 lyrics_url: https://genius.com/My-chemical-romance-im-not-okay-i-promise-lyrics
 name: I'm Not Okay (I Promise)
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2004
+runtime: 186480
 ---
 Well, if you wanted honesty
 That's all you had to say

@@ -1,9 +1,12 @@
 ---
+album: Pleasure & Pain
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:0fp0ecsIH2NxR9gt9haeNs
 features:
 - Foxy Brown
-genres: []
+first_released_as_single: false
 key: u-already-know-112-foxy-brown
 lyrics_url: https://genius.com/112-u-already-know-roc-a-fella-remix-lyrics
 name: U Already Know
@@ -88,6 +91,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
+release_year: 2005
+runtime: 253946
 ---
 Uh, 112 (Foxy)
 Uh, (112 baby)

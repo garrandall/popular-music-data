@@ -1,9 +1,12 @@
 ---
+album: 'Rescued: The Best Of Fontella Bass'
 artists:
 - Fontella Bass
 - Bobby McClure
+external_ids:
+  spotify: spotify:track:560ROSxJmpRIIp89O1AVLB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-mess-up-a-good-thing-fontella-bass-bobby-mcclure
 lyrics_url: https://genius.com/Fontella-bass-and-bobby-mcclure-dont-mess-up-a-good-thing-lyrics
 name: Don't Mess Up A Good Thing
@@ -52,6 +55,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 173826
 ---
 Good thing
 Good thing

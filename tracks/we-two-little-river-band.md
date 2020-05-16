@@ -1,8 +1,11 @@
 ---
+album: The Net
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:7v6lEW3pnGAC7Ysgzdbyrq
 features: []
-genres: []
+first_released_as_single: false
 key: we-two-little-river-band
 lyrics_url: https://genius.com/Little-river-band-we-two-lyrics
 name: We Two
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1983
+runtime: 274080
 ---
 All alone, on my own
 Since I walked out on you, I walked out on me, now it's gone

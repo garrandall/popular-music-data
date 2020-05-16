@@ -1,9 +1,12 @@
 ---
+album: XSCAPE
 artists:
 - Michael Jackson
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:48td6xvpokdYwvbl3JIiXP
 features: []
-genres: []
+first_released_as_single: false
 key: love-never-felt-so-good-michael-jackson-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/loveneverfeltsogood364755.html
 name: Love Never Felt So Good
@@ -88,9 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 246026
 ---
-
-
 Dance!
 Let me see you move...
 C'mon!
@@ -188,6 +191,3 @@ Oh, oh!
 It never felt so good
 
 Alright, it's fine.
-
-
-

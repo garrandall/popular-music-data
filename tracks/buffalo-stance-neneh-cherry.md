@@ -1,8 +1,11 @@
 ---
+album: Raw Like Sushi
 artists:
 - Neneh Cherry
+external_ids:
+  spotify: spotify:track:3XWgwgbWDI56mf1Wl3cLzb
 features: []
-genres: []
+first_released_as_single: false
 key: buffalo-stance-neneh-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/buffalostance.html
 name: Buffalo Stance
@@ -103,8 +106,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
+release_year: 1989
+runtime: 342360
 ---
-
 Who's that gigolo on the street
 With his hands in his pockets and his crocodile feet?
 Hanging off the curb, looking all disturbed
@@ -190,6 +194,3 @@ We do the dive every time we dance
 I'll give you love baby not romance
 I'll make a move nothing left to chance
 So don't you get fresh with me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Angel Clare
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:0iJvB78Y4pVaR5uXWaMWA2
 features: []
-genres: []
+first_released_as_single: false
 key: i-shall-sing-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/ishallsing.html
 name: I Shall Sing
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1973
+runtime: 218133
 ---
-
 La-La-La-La-La-La-La-La-La
 La-La-La-La-La-La-La-La-La
 La-La-La-La-La-La-La-La-La
@@ -80,6 +84,3 @@ I shall sing
 La-La-La-
 
 La-La-La-
-
-
-

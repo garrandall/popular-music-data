@@ -1,8 +1,11 @@
 ---
+album: Tracks
 artists:
 - Collin Raye
+external_ids:
+  spotify: spotify:track:0MHcnOCESW88ThXoMBVkVN
 features: []
-genres: []
+first_released_as_single: false
 key: couldn-t-last-a-moment-collin-raye
 lyrics_url: https://genius.com/Collin-raye-couldnt-last-a-moment-lyrics
 name: Couldn't Last A Moment
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 1991
+runtime: 219853
 ---
 I thought it was over
 I thought I could move on

@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4AMnUGvZUVJgDuY7rOPzUZ
 features: []
-genres: []
+first_released_as_single: false
 key: get-used-to-it-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-get-used-to-it-lyrics
 name: Get Used To It
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 238133
 ---
 Subjected to my system
 Reflecting on the days

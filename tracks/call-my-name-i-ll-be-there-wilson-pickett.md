@@ -1,8 +1,11 @@
 ---
+album: Don't Knock My Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:0UWb4uDWrU1BafWqBMalrL
 features: []
-genres: []
+first_released_as_single: false
 key: call-my-name-i-ll-be-there-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-call-my-name-ill-be-there-lyrics
 name: Call My Name I'll Be There
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 145480
 ---
 See, the sun is shinin' hot up above
 Rain will follow you when you're in love

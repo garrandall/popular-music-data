@@ -1,8 +1,11 @@
 ---
+album: Let Me In Your Life
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2c3HrTyXKraoTdTlDBXpar
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-love-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-im-in-love-lyrics
 name: I'm In Love
@@ -59,6 +62,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1972
+runtime: 170160
 ---
 I’m in love, yes I am
 I’m in love, yes I am, uh

@@ -1,8 +1,11 @@
 ---
+album: The Best Damn Thing
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:6z7fZRrQfOH3ZjWEkC4QhC
 features: []
-genres: []
+first_released_as_single: false
 key: hot-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/hot.html
 name: Hot
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 202478
 ---
-
 Ah, ah ah
 You're so good to me baby, baby
 
@@ -52,6 +56,3 @@ Oh yeah yeah
 
 
 You're so good
-
-
-

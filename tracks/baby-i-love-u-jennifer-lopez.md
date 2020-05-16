@@ -1,8 +1,11 @@
 ---
+album: This Is Me...Then
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:3adU6Jes8lnvOLnmYYVJgr
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-u-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-baby-i-love-u-lyrics
 name: Baby I Love U
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2002
+runtime: 268733
 ---
 Boy, I never knew I could feel
 The way I felt, when I felt

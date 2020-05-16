@@ -1,8 +1,11 @@
 ---
+album: Classics And Collectables
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:5sgqauYiH6e7qjPSfQoQJO
 features: []
-genres: []
+first_released_as_single: false
 key: my-marie-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/mymarie.html
 name: My Marie
@@ -39,8 +42,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 185986
 ---
-
 Marie
 I can't bear to see the children without bread
 Oh Marie
@@ -82,6 +86,3 @@ Forget me, my Marie
 And move on
 Forget me, my Marie
 And move on
-
-
-

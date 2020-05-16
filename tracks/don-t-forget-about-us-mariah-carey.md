@@ -1,8 +1,11 @@
 ---
+album: The Emancipation of Mimi
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2hQU8LNZFUcXLUwqeABX3K
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-about-us-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-dont-forget-about-us-lyrics
 name: Don't Forget About Us
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
+release_year: 2005
+runtime: 233866
 ---
 (Don't forget about us)
 Don't baby, don't baby, don't let it go

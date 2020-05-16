@@ -1,8 +1,11 @@
 ---
+album: 'Forever Young, Gifted And Black: Songs Of Freedom And Spirit'
 artists:
 - Nina Simone
+external_ids:
+  spotify: spotify:track:67RKpDruBXMJgAmhJAivXr
 features: []
-genres: []
+first_released_as_single: false
 key: to-be-young-gifted-and-black-nina-simone
 lyrics_url: https://genius.com/Nina-simone-to-be-young-gifted-and-black-lyrics
 name: To Be Young Gifted And Black
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1967
+runtime: 169840
 ---
 Young, gifted and black
 Oh what a lovely precious dream

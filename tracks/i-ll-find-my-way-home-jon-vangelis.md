@@ -1,9 +1,12 @@
 ---
+album: The Friends Of Mister Cairo
 artists:
 - Jon
 - Vangelis
+external_ids:
+  spotify: spotify:track:2UUPd83rV19BPDbjlp0RU6
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-find-my-way-home-jon-vangelis
 lyrics_url: https://genius.com/Jon-and-vangelis-ill-find-my-way-home-lyrics
 name: I'll Find My Way Home
@@ -44,6 +47,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1981
+runtime: 270666
 ---
 You ask me where to begin
 Am I so lost in my sin

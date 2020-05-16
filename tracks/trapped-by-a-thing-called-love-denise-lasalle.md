@@ -1,8 +1,11 @@
 ---
+album: This Real Woman
 artists:
 - Denise LaSalle
+external_ids:
+  spotify: spotify:track:6T3TfV8M5drXuQ35TgdGVL
 features: []
-genres: []
+first_released_as_single: false
 key: trapped-by-a-thing-called-love-denise-lasalle
 lyrics_url: https://genius.com/Denise-lasalle-trapped-by-a-thing-called-love-lyrics
 name: Trapped By A Thing Called Love
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 158733
 ---
 Somebody tell me, what has this man got
 He makes me feel what I don't want to feel

@@ -1,8 +1,11 @@
 ---
+album: Elvis' Gold Records, Vol. 4
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5Q7ayTarb9Tpmkik5cVMug
 features: []
-genres: []
+first_released_as_single: false
 key: viva-las-vegas-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-viva-las-vegas-lyrics
 name: Viva Las Vegas
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 144840
 ---
 Bright light city going to set my soul
 Going to set my soul on fire

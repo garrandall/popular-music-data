@@ -1,8 +1,11 @@
 ---
+album: Nipper's Greatest Hits 60's Vol. 2
 artists:
 - Jimmy Elledge
+external_ids:
+  spotify: spotify:track:18yKdEbVy2LoIlvSbgqZ2m
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-time-slips-away-jimmy-elledge
 lyrics_url: https://genius.com/Jimmy-elledge-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
@@ -63,6 +66,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 168906
 ---
 Well, hello there
 My, it's been a long, long time

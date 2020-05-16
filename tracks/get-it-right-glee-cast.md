@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2IIdrejPZuHHFpc3LbTtEK
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-right-glee-cast
 lyrics_url: https://genius.com/Glee-cast-get-it-right-lyrics
 name: Get It Right
@@ -15,6 +18,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2011
+runtime: 227853
 ---
 What have I done? I wish I could run
 Away from this ship goin' under

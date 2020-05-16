@@ -1,8 +1,11 @@
 ---
+album: Catchin Up
 artists:
 - Latimore
+external_ids:
+  spotify: spotify:track:0Qylz4a72yx0iMMbtlH0Aa
 features: []
-genres: []
+first_released_as_single: false
 key: somethin---bout--cha-latimore
 lyrics_url: https://genius.com/Latimore-somethin-bout-cha-lyrics
 name: Somethin' 'bout 'cha
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1977
+runtime: 292693
 ---
 Baby, there ain't no other place
 In the world that I'd rather be

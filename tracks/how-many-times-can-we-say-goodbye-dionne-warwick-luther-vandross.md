@@ -1,9 +1,12 @@
 ---
+album: Busy Body
 artists:
 - Dionne Warwick
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:6Xi4SYy31Ho03034WqWOWg
 features: []
-genres: []
+first_released_as_single: false
 key: how-many-times-can-we-say-goodbye-dionne-warwick-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/howmanytimescanwesaygoodbye.html
 name: How Many Times Can We Say Goodbye
@@ -60,8 +63,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1983
+runtime: 207853
 ---
-
 Here we are so close to the end now
 Still holdin' on, we try and pretend now
 Clinging to love we both know is dying (It's dying)
@@ -100,6 +104,3 @@ How any times before we really (Really, really) say goodbye
 Bye-bye (Goodbye) Bye-bye
 (Goodbye) Bye-b-b-bye-bye-bye
 (Goodbye) Ey, hey, goodbye
-
-
-

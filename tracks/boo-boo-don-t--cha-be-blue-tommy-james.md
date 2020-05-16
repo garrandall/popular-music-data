@@ -1,8 +1,11 @@
 ---
+album: The Solo Years
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:0NGckRnfdik4jj9wSaIxde
 features: []
-genres: []
+first_released_as_single: false
 key: boo-boo-don-t--cha-be-blue-tommy-james
 name: Boo Boo Don't 'Cha Be Blue
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1973
+runtime: 212333
 ---
 

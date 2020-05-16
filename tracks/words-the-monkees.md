@@ -1,8 +1,11 @@
 ---
+album: More of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:771DgcC0GMKXpN2nC22xEa
 features: []
-genres: []
+first_released_as_single: false
 key: words-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/words.html
 name: Words
@@ -43,8 +46,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 171426
 ---
-
 Girl, don't you know everytime I see you smilin'?
 Hurts so bad cause when I see you, I start tryin'.
 Try everything to stop but there's no denying.
@@ -75,4 +79,3 @@ But all I can hear are those
 Now, I'm standing here.
 Strange, strange voices in my ears, I feel the tears
 But all I can hear are those-
-

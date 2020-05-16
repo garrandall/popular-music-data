@@ -1,8 +1,11 @@
 ---
+album: 'Bootleg Vol. III: Live Around The World'
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:0snyjt8NMg7Dc7E3xnDH9b
 features: []
-genres: []
+first_released_as_single: false
 key: what-is-truth-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-what-is-truth-lyrics
 name: What Is Truth
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 157666
 ---
 The old man turned off the radio
 Said, "Where did all of the old songs go?"

@@ -1,8 +1,11 @@
 ---
+album: Unbreakable Smile
 artists:
 - Tori Kelly
+external_ids:
+  spotify: spotify:track:7fpU0bRJt0SDC8jIgVpbT6
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-love-tori-kelly
 lyrics_url: https://genius.com/Tori-kelly-nobody-love-lyrics
 name: Nobody Love
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2015
+runtime: 203453
 ---
 (Okay, okay)
 (Why, why)

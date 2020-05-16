@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of The Contours'
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:3Lo39qbFAMXmPJ1u5DStjG
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-her-be-your-baby-the-contours
 lyrics_url: https://genius.com/The-contours-dont-let-her-be-your-baby-lyrics
 name: Don't Let Her Be Your Baby
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1963
+runtime: 173000
 ---
 Look, I'm telling you as a friend
 Because I think you're so nice

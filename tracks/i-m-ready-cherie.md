@@ -1,8 +1,11 @@
 ---
+album: Cherie (U.S. Version)
 artists:
 - Cherie
+external_ids:
+  spotify: spotify:track:6TcvFJlRffdIGcp1YqtezT
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-ready-cherie
 lyrics_url: https://genius.com/Cherie-im-ready-lyrics
 name: I'm Ready
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-06-05'
+release_year: 2004
+runtime: 202133
 ---
 I'm in a new place, with the same face
 And nothing is familiar to me

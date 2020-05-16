@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5f5r2N4Lp9WoULWPH9zp2W
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-have-everything-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Drake/Can-t-Have-Everything
 name: Can't Have Everything
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 228437
 ---
 Yeah, uh, man, fresh up out the sand
 February 10, it's the boy, but I'm still the man

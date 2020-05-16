@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:6q5nAr2JniAHj1gKheejE0
 features: []
-genres: []
+first_released_as_single: false
 key: home-dierks-bentley
 lyrics_url: https://genius.com/Dierks-bentley-home-lyrics
 name: Home
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2011
+runtime: 238413
 ---
 West, on a plane bound west
 I see her stretching out below

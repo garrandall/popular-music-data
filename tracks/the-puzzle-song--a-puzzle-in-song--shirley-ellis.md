@@ -1,8 +1,11 @@
 ---
+album: The Clapping Song... And More
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:1Ug9kQitfdcgyrWDjvXV6z
 features: []
-genres: []
+first_released_as_single: false
 key: the-puzzle-song--a-puzzle-in-song--shirley-ellis
 lyrics_url: https://www.musixmatch.com/lyrics/Shirley-Ellis/The-Puzzle-Song
 name: The Puzzle Song (A Puzzle In Song)
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 136106
 ---
 To who do you do the thing to do
 When it's time to do it

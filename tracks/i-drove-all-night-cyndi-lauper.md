@@ -1,8 +1,11 @@
 ---
+album: A Night To Remember
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:1JO2ln0ydDlYsLT7f1xzBO
 features: []
-genres: []
+first_released_as_single: false
 key: i-drove-all-night-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/idroveallnight.html
 name: I Drove All Night
@@ -67,8 +70,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
+release_year: 1983
+runtime: 250933
 ---
-
 I had to escape
 The city was sticky and cruel
 Maybe I should have called you first
@@ -119,6 +123,3 @@ Crept in your room
 Woke you from your sleep
 To make love to you
 I drove all night... to hold you tight
-
-
-

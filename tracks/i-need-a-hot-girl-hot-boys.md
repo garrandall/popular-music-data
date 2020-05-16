@@ -1,8 +1,11 @@
 ---
+album: Guerrilla Warfare
 artists:
 - Hot Boys
+external_ids:
+  spotify: spotify:track:25CnqAR7fzAQbb2SVoSa0b
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-a-hot-girl-hot-boys
 lyrics_url: https://genius.com/Hot-boys-i-need-a-hot-girl-lyrics
 name: I Need A Hot Girl
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-05-13'
+release_year: 1999
+runtime: 292840
 ---
 You need a hot one I got one, I take and bend
 Shake it down, break it down, with me and a friend

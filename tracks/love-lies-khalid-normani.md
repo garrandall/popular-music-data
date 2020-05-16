@@ -1,9 +1,12 @@
 ---
+album: Love Lies (Snakehips Remix)
 artists:
 - Khalid
 - Normani
+external_ids:
+  spotify: spotify:track:5K7fJJAj8JDm2JfAYyQk9F
 features: []
-genres: []
+first_released_as_single: true
 key: love-lies-khalid-normani
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/lovelies.html
 name: Love Lies
@@ -212,9 +215,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 202934
 ---
-
-
 Sorry if it's hard to catch my vibe, mmm
 I need a lover to trust, tell me you're on my side
 Are you down for the ride?
@@ -274,6 +277,3 @@ Tell me where your love lies (show me where your love lies)
 Waste the day and spend the night (yeah, yeah)
 Underneath the sunrise (oh)
 Show me where your love lies
-
-
-

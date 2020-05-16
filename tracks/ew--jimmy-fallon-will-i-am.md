@@ -1,9 +1,12 @@
 ---
+album: EW!
 artists:
 - Jimmy Fallon
+external_ids:
+  spotify: spotify:track:0PcLrZITBBSQKKrufVKFJI
 features:
 - will.i.am
-genres: []
+first_released_as_single: true
 key: ew--jimmy-fallon-will-i-am
 lyrics_url: https://genius.com/Jimmy-fallon-ew-lyrics
 name: EW!
@@ -16,6 +19,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 134666
 ---
 Seriously? Look at her butt. Ew!
 Oh, she looks like a slut. Ew!

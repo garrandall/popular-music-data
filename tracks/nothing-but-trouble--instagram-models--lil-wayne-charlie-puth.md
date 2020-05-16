@@ -1,9 +1,12 @@
 ---
+album: Nothing But Trouble (Instagram Models)
 artists:
 - Lil Wayne
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:7rdjfrTBMNt3KaaGvSv3YG
 features: []
-genres: []
+first_released_as_single: true
 key: nothing-but-trouble--instagram-models--lil-wayne-charlie-puth
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/nothingbuttrouble.html
 name: Nothing But Trouble (Instagram Models)
@@ -36,9 +39,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 217984
 ---
-
-
 (Oh) I'm facing the bottle (Oh) for all of my problems
 (Oh) These Instagram models (Oh) are nothing but trouble
 (Oh) She's going away now, (Oh) I'm going full throttle
@@ -101,6 +104,3 @@ She's going away now (Oh) (Now it's over)
 I'm going full throttle (Oh) (You drive me crazy)
 All these Instagram models (Oh)
 I said they're nothing but trouble
-
-
-

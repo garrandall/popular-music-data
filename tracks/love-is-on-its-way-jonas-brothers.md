@@ -1,8 +1,11 @@
 ---
+album: Music from the 3D Concert Experience
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:20ILnt1ckabPVF562uXgpF
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-on-its-way-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/loveisonitsway.html
 name: Love Is On Its Way
@@ -11,9 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2009
+runtime: 223586
 ---
-
-
 Young hearts,
 I believe if we are not far
 from becoming who we truly are
@@ -65,6 +68,3 @@ a brighter day
 cause love is on it's way
 Cause love is on it's way
 cause love is on it's... way
-
-
-

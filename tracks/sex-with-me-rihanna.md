@@ -1,8 +1,11 @@
 ---
+album: ANTI
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:7BiELrM90hRxpozaIXbsLw
 features: []
-genres: []
+first_released_as_single: false
 key: sex-with-me-rihanna
 lyrics_url: https://genius.com/Rihanna-sex-with-me-lyrics
 name: Sex With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2016
+runtime: 206400
 ---
 Sex with me, so amazing
 All this all hard work, no vacation

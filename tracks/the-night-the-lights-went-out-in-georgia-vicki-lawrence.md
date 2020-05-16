@@ -1,8 +1,11 @@
 ---
+album: The Night the Lights Went out in Georgia
 artists:
 - Vicki Lawrence
+external_ids:
+  spotify: spotify:track:4ZObql2ASJn1bvasBzjlyI
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-the-lights-went-out-in-georgia-vicki-lawrence
 lyrics_url: https://genius.com/Vicki-lawrence-the-night-the-lights-went-out-in-georgia-lyrics
 name: The Night The Lights Went Out In Georgia
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1973
+runtime: 220520
 ---
 He was on his way home from Candletop
 Been two weeks gone and he'd thought he'd stop at Webb's

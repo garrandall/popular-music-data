@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:09IOPhEh1OMe0HD9b36FJk
 features: []
-genres: []
+first_released_as_single: false
 key: over-now-post-malone
 lyrics_url: https://genius.com/Post-malone-over-now-lyrics
 name: Over Now
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 246986
 ---
 Ahahah, yeah
 (Yeah, yeah, yeah)

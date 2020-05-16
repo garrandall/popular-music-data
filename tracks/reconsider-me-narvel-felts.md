@@ -1,8 +1,11 @@
 ---
+album: Narvel Felts
 artists:
 - Narvel Felts
+external_ids:
+  spotify: spotify:track:3V4vx63fzmlMvGPpTMLzY9
 features: []
-genres: []
+first_released_as_single: false
 key: reconsider-me-narvel-felts
 lyrics_url: https://genius.com/Narvel-felts-reconsider-me-lyrics
 name: Reconsider Me
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 209786
 ---
 Hello, baby
 Yes, it's really me

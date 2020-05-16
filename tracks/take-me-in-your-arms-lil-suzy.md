@@ -1,8 +1,11 @@
 ---
+album: Love Can't Wait
 artists:
 - Lil Suzy
+external_ids:
+  spotify: spotify:track:3EKiXW0H5BaJJFSSo73q3t
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-in-your-arms-lil-suzy
 lyrics_url: https://genius.com/Lil-suzy-take-me-in-your-arms-lyrics
 name: Take Me In Your Arms
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1991
+runtime: 247126
 ---
 You came and turned and looked my way
 What else can I say

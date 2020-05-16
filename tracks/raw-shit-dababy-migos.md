@@ -1,9 +1,12 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:1CCDIow4pPYyJYzhtTUYz2
 features:
 - Migos
-genres: []
+first_released_as_single: false
 key: raw-shit-dababy-migos
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/rawshit.html
 name: RAW SHIT
@@ -16,8 +19,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 216677
 ---
-
 They said they want some of that raw shit
 Turn it up, I'm a sit in the car, bitch
 If you turn off yo lights, you gone see me at night
@@ -130,6 +134,3 @@ How I know you ain't from where I'm from?
 'Cause you know you can't go leave your gun in the car, dick
 Nigga like me walk down on yo ass
 Leave you stuck in the sand like a muhfuckin' starfish
-
-
-

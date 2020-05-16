@@ -1,8 +1,11 @@
 ---
+album: Hotel Paper (U.S. Version-Enh'd)
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:5B7XIcS5T76NJZFOHX30Io
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-happy-now--michelle-branch
 lyrics_url: https://genius.com/Michelle-branch-are-you-happy-now-lyrics
 name: Are You Happy Now?
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 230760
 ---
 No, don't just walk away
 Pretending everything's okay

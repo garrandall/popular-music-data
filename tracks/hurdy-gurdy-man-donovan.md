@@ -1,8 +1,11 @@
 ---
+album: The Hurdy Gurdy Man
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:1VgPjz1kxJefF00tEkLbBZ
 features: []
-genres: []
+first_released_as_single: false
 key: hurdy-gurdy-man-donovan
 lyrics_url: https://www.musixmatch.com/lyrics/Donovan/Hurdy-Gurdy-Man
 name: Hurdy Gurdy Man
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1964
+runtime: 199933
 ---
 Thrown like a star in my vast sleep
 I opened my eyes to take a peek

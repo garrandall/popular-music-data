@@ -1,8 +1,11 @@
 ---
+album: Jonathan Livingston Seagull
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:3zbnjfU5pMCl9t1kEC9Ted
 features: []
-genres: []
+first_released_as_single: false
 key: skybird-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/skybird.html
 name: Skybird
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1973
+runtime: 141093
 ---
-
 Skybird
 Make your sail
 And every heart
@@ -58,6 +62,3 @@ Let your song be heard
 Rally each heart
 To the sight of your silver wings
 Skybird
-
-
-

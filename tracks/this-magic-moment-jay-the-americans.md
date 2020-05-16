@@ -1,9 +1,12 @@
 ---
+album: Sands Of Time
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:3MVr7KeWF6kf4znJMwiEnx
 features: []
-genres: []
+first_released_as_single: false
 key: this-magic-moment-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/thismagicmoment.html
 name: This Magic Moment
@@ -64,8 +67,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1964
+runtime: 182800
 ---
-
 This magic moment
 So different and so new
 Was like any other
@@ -99,6 +103,3 @@ While your lips are close to mine
 Will last forever (this magic moment)
 Forever till the end of time (magic)
 ...
-
-
-

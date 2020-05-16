@@ -1,8 +1,11 @@
 ---
+album: Back Stabbers
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:2mhVy5a8BmJ1t3YFk9DlWi
 features: []
-genres: []
+first_released_as_single: false
 key: time-to-get-down-the-o-jays
 lyrics_url: https://genius.com/The-ojays-time-to-get-down-lyrics
 name: Time To Get Down
@@ -55,6 +58,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1972
+runtime: 172240
 ---
 Yeah, yeah yeah
 Mmm

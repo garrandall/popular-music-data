@@ -1,8 +1,11 @@
 ---
+album: Icky Thump
 artists:
 - The White Stripes
+external_ids:
+  spotify: spotify:track:09QZAEmdbq28OaNyqTOEvY
 features: []
-genres: []
+first_released_as_single: false
 key: icky-thump-the-white-stripes
 lyrics_url: https://www.azlyrics.com/lyrics/whitestripes/ickythump.html
 name: Icky Thump
@@ -75,9 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-09-01'
+release_year: 2007
+runtime: 254533
 ---
-
-Iiiiiiiieeeeeee
 Icky thump
 Who'da thunk?
 Sittin' drunk on a wagon to Mexico
@@ -140,6 +143,3 @@ Left alone
 I hit myself with a stone
 Went home
 And learned how to clean up after myself
-
-
-

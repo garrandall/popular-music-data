@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:6b2mfHMqWCA74XmUuVJm8r
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-post-malone
 lyrics_url: https://genius.com/Post-malone-i-know-lyrics
 name: I Know
@@ -11,6 +14,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 141413
 ---
 Our love will never be another
 You're just a devil undercover (Undercover)

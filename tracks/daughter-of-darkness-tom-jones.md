@@ -1,8 +1,11 @@
 ---
+album: I Who Have Nothing
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:1FK3v638FHQcDJydhZdmtW
 features: []
-genres: []
+first_released_as_single: false
 key: daughter-of-darkness-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/daughterofdarkness.html
 name: Daughter Of Darkness
@@ -43,8 +46,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 197819
 ---
-
 Woman, I can remember a woman
 Warm were her kisses and tender was she lying there in my arms
 Why
@@ -77,4 +81,3 @@ You took my heart and broke it apart, you daughter of darkness
 Daughter of darkness
 Please, leave me alone forever
 Oh devil daughter of darkness, gone is the love that we shared together
-

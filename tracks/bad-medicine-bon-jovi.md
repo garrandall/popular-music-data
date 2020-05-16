@@ -1,8 +1,11 @@
 ---
+album: New Jersey
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:72hcFp4tYkd3dbNA9dZ3Pv
 features: []
-genres: []
+first_released_as_single: false
 key: bad-medicine-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-bad-medicine-lyrics
 name: Bad Medicine
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
+release_year: 1988
+runtime: 316706
 ---
 Your love is like bad medicine
 Bad medicine is what I need

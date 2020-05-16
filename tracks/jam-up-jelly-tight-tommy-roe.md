@@ -1,8 +1,11 @@
 ---
+album: The Essential Tommy Roe
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:3End7C8ao7Q60YSyyy2otO
 features: []
-genres: []
+first_released_as_single: true
 key: jam-up-jelly-tight-tommy-roe
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Roe/Jam-Up-Jelly-Tight
 name: Jam Up Jelly Tight
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 139226
 ---
 Jam Up and Jelly Tight
 My, my, my, my, baby, now you're outta sight
@@ -90,5 +95,3 @@ Jam Up and Jelly Tight
 You look a little naughty but you're so polite
 Jam Up and Jelly Tight, yeah
 Jam Up and Jelly Tight
-(Written by Tommy Roe & Freddy Weller)
-(Reached #8 in the USA in late 1969 & early 1970

@@ -1,8 +1,11 @@
 ---
+album: Candlebox
 artists:
 - Candlebox
+external_ids:
+  spotify: spotify:track:5J19HPdmJHOEu32iyZEt5k
 features: []
-genres: []
+first_released_as_single: false
 key: you-candlebox
 lyrics_url: https://genius.com/Candlebox-you-lyrics
 name: You
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-07-16'
+release_year: 1993
+runtime: 297173
 ---
 You
 It's for you

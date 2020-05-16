@@ -1,8 +1,11 @@
 ---
+album: Hits & Rarities
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:7kWuKS8h5RyoQs6TfRtEPm
 features: []
-genres: []
+first_released_as_single: true
 key: only-love--can-save-me-now--solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/onlylovecansavemenow.html
 name: Only Love (Can Save Me Now)
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 136960
 ---
-
 I'm only loaning out my lips
 Loaning out my arms
 Giving it all I've got
@@ -60,6 +64,3 @@ I need, need somebody
 (Only love, only love
 Only love, only love)
 To save me now, yes, sir
-
-
-

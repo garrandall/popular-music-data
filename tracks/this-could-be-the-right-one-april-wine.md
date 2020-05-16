@@ -1,8 +1,11 @@
 ---
+album: 'One for the Road: Canadian Tour 1984'
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:0nhdWg5K2cuBzQvIQcrPMh
 features: []
-genres: []
+first_released_as_single: false
 key: this-could-be-the-right-one-april-wine
 lyrics_url: https://www.azlyrics.com/lyrics/aprilwine/thiscouldbetherightone.html
 name: This Could Be The Right One
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1984
+runtime: 243533
 ---
-
 This could be the right one, I'm not really sure 
 This could be the right one, I've never felt love like this before 
 I'm actin' like a lover that's out of control 
@@ -88,6 +92,3 @@ This could be the only one (this could be the only one)
 This could be the right one, this could be the one we're waiting for 
 This could be the right one (this could be the right one) 
 You could be the only one (you could be the only one)
-
-
-

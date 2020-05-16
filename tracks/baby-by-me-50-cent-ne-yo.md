@@ -1,9 +1,12 @@
 ---
+album: Before I Self-Destruct
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:1s0Qy8SEPTR1hUAA0ikC7A
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: baby-by-me-50-cent-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/babybyme85808.html
 name: Baby By Me
@@ -60,9 +63,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 213360
 ---
-
-
 Have a baby 
 Have a baby by me, baby! Be a millionaire 
 Have a baby by me, baby! Be a millionaire 
@@ -167,6 +170,3 @@ Have a baby by me, baby! Be a millionaire
 Have a baby by me, baby! Be a millionaire 
 Have a baby by me, baby! Be a millionaire 
 Be a millionaire, be a, be a millionaire
-
-
-

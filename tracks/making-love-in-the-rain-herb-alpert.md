@@ -1,8 +1,11 @@
 ---
+album: Keep Your Eye On Me
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:3AIB7kIwgm8KdyO1UHepzB
 features: []
-genres: []
+first_released_as_single: false
 key: making-love-in-the-rain-herb-alpert
 lyrics_url: https://www.azlyrics.com/lyrics/herbalpert/makingloveintherain.html
 name: Making Love In The Rain
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 354973
 ---
-
 Making love in the rain
 I can't believe the
 Joy it brings me
@@ -147,6 +151,3 @@ My love, here comes the rain
 My love, here comes the rain
 My love, here comes the rain
 My love, here comes the rain
-
-
-

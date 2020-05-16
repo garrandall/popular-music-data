@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:7tS5C6CQhNxAiwH3vf9Y0V
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-ever-leave-me-the-cyrkle
 lyrics_url: https://genius.com/The-cyrkle-please-dont-ever-leave-me-lyrics
 name: Please Don't Ever Leave Me
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 117066
 ---
 Please don't ever leave me
 Please don't ever go

@@ -1,8 +1,11 @@
 ---
+album: Claudine (Original Soundtrack)
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0uIMx0KeoqyBYKHMkwyAFq
 features: []
-genres: []
+first_released_as_single: false
 key: on-and-on-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-on-and-on-lyrics
 name: On And On
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 256333
 ---
 Bet your life I'll be, yeah
 A better woman, you see

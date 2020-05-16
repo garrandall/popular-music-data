@@ -1,8 +1,11 @@
 ---
+album: No Parking on the Dance Floor
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:0R7pPCjKgC8ZOEUr2E8D9B
 features: []
-genres: []
+first_released_as_single: false
 key: wet-my-whistle-midnight-star
 lyrics_url: https://genius.com/Midnight-star-wet-my-whistle-lyrics
 name: Wet My Whistle
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 307816
 ---
 Wet my whistle
 Wet my whistle

@@ -1,8 +1,11 @@
 ---
+album: Freedom
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:1ARJhjuI6TNYZCxYygFQ4F
 features: []
-genres: []
+first_released_as_single: false
 key: right-now--na-na-na--akon
 lyrics_url: https://www.azlyrics.com/lyrics/akon/rightnownanana.html
 name: Right Now (Na Na Na)
@@ -95,8 +98,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 240746
 ---
-
 It's been so long (long, long)
 That I haven't seen your face
 I'm tryna be strong (strong)
@@ -169,6 +173,3 @@ I wanna make love right now (na na)
 I wanna make love right now (na na)
 Wish we never broke up right now (na na)
 We need to link up right now (na na) (make up)
-
-
-

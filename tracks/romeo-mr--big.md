@@ -1,8 +1,11 @@
 ---
+album: From Mr Big To Broken Home And Back Again 1977-2007
 artists:
 - Mr. Big
+external_ids:
+  spotify: spotify:track:5ZvPoGcm1NMVk587jgzjl4
 features: []
-genres: []
+first_released_as_single: false
 key: romeo-mr--big
 lyrics_url: https://genius.com/Mr-big-romeo-lyrics
 name: Romeo
@@ -35,6 +38,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1977
+runtime: 205040
 ---
 I am the morning, you are the light
 You make the morning such a beautiful thing

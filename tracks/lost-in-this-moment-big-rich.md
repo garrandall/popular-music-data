@@ -1,9 +1,12 @@
 ---
+album: Between Raising Hell and Amazing Grace
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:6WacAQkSA7QkEPnxse7WWw
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-this-moment-big-rich
 lyrics_url: https://genius.com/Big-and-rich-lost-in-this-moment-lyrics
 name: Lost In This Moment
@@ -88,6 +91,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
+release_year: 2007
+runtime: 210842
 ---
 I see your momma and the candles
 And the tears and roses

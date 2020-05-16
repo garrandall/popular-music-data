@@ -1,8 +1,11 @@
 ---
+album: Carla
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:35w6fQ0Wnuv7aIryRx7gTq
 features: []
-genres: []
+first_released_as_single: false
 key: b-a-b-y-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-b-a-b-y-lyrics
 name: B-A-B-Y
@@ -71,6 +74,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 177000
 ---
 Baby, oh baby
 I love to call you baby

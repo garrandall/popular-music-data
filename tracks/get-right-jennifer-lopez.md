@@ -1,8 +1,11 @@
 ---
+album: Rebirth
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:4un8Qko8SDQOUuDBj8UJnm
 features: []
-genres: []
+first_released_as_single: true
 key: get-right-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-get-right-lyrics
 name: Get Right
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2005
+runtime: 208373
 ---
 Yeah, woo, yeah
 Oh, oh, oh, oh

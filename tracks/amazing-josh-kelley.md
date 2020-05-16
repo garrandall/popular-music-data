@@ -1,8 +1,11 @@
 ---
+album: For The Ride Home
 artists:
 - Josh Kelley
+external_ids:
+  spotify: spotify:track:3fbKJNrsPJwye98LTGm4Ok
 features: []
-genres: []
+first_released_as_single: false
 key: amazing-josh-kelley
 lyrics_url: https://www.azlyrics.com/lyrics/joshkelley/amazing.html
 name: Amazing
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
+release_year: 2003
+runtime: 225600
 ---
-
 You paint a picture on the wall
 Cause you've got a lot to tell me
 But you don't think you could say it better oh baby
@@ -133,4 +137,3 @@ I'm takin my time to make sure you stay
 I would give my life to make it okay yeah
 
 So come on let me see...
-

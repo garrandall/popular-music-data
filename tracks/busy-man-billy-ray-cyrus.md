@@ -1,8 +1,11 @@
 ---
+album: Shot Full Of Love
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:55bwRyNowFFB5Kp0Ojkvhx
 features: []
-genres: []
+first_released_as_single: false
 key: busy-man-billy-ray-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/billyraycyrus/busyman.html
 name: Busy Man
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1998
+runtime: 197266
 ---
-
 There's a little boy out in the driveway his basketball in hand
 Saying Daddy could we play a little one on one
 You pat him on the back and say not now son I'm a busy man
@@ -109,6 +113,3 @@ Those that love you most say you've come far
 Got some new priorities in that schedule that you keep
 And when you say that time's a wastin'
 Now you know how right you are busy man busy man
-
-
-

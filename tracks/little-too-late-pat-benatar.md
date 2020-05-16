@@ -1,8 +1,11 @@
 ---
+album: Get Nervous
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:14NYH025wbbcxUUMQzg7DH
 features: []
-genres: []
+first_released_as_single: false
 key: little-too-late-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/littletoolate.html
 name: Little Too Late
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 248333
 ---
-
 I hear you had a good offer down on third avenue
 You tell me that was the reason for whatcha', you put me through, yeah
 And now you come collapsin' back I feel the heat of your attack
@@ -103,6 +107,3 @@ Well you can cry to me baby but there's only so much
 Only so much I can take
 Oh, it's a little too little, it's a little too little
 It's a little too little it's a little too late
-
-
-

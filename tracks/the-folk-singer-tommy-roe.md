@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:3Ir612tv8bu92PVeiEqNF6
 features: []
-genres: []
+first_released_as_single: false
 key: the-folk-singer-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/thefolksinger.html
 name: The Folk Singer
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 176440
 ---
-
 He use to sing his songs to his Sara Jane,
 The folk singer,
 His songs filled with love made the mountains ring,
@@ -57,6 +61,3 @@ And once again the mountains ring,
 To the folk singer,
 The folk singer,
 The folk singer.
-
-
-

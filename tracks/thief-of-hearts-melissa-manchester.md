@@ -1,8 +1,11 @@
 ---
+album: Thief Of Hearts (Original Motion Picture Soundtrack)
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:6l0afH4GG624RDhboISjwL
 features: []
-genres: []
+first_released_as_single: false
 key: thief-of-hearts-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/thiefofhearts.html
 name: Thief Of Hearts
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
+release_year: 1984
+runtime: 221160
 ---
-
 Somewhere deep inside of a stranger's eyes
 There are stranger things I see
 Shades of light on a secret part of me
@@ -75,6 +79,3 @@ Stole my heart from me
 Thief of hearts
 Better than a dream
 ...
-
-
-

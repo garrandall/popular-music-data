@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Jazmine Sullivan
+external_ids:
+  spotify: spotify:track:4oOmv5Wnj3Tis7WHTpi0NO
 features: []
-genres: []
+first_released_as_single: true
 key: need-u-bad-jazmine-sullivan
 lyrics_url: https://www.azlyrics.com/lyrics/jazminesullivan/needubad.html
 name: Need U Bad
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2008
+runtime: 252560
 ---
-
 Oh!
 
 Ay baby weh you ah deal with?
@@ -135,4 +139,3 @@ If you believe in love and
 You can't give him up say, oh oh oh oh (oh oh oh oh)
 If there's nothing you won't do to get
 Back with your boo say Oh
-

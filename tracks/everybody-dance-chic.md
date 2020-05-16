@@ -1,8 +1,11 @@
 ---
+album: Chic
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:15ifyO8wYntwyXAptfxhKr
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-dance-chic
 lyrics_url: https://genius.com/Chic-everybody-dance-lyrics
 name: Everybody Dance
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1977
+runtime: 402693
 ---
 Everybody dance, do-do-do
 Clap your hands, clap your hands

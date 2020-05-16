@@ -1,8 +1,11 @@
 ---
+album: Just Feels Good
 artists:
 - Thompson Square
+external_ids:
+  spotify: spotify:track:3vYQTgxQWWM4VIDHi7qhQ5
 features: []
-genres: []
+first_released_as_single: false
 key: everything-i-shouldn-t-be-thinking-about-thompson-square
 lyrics_url: https://genius.com/Thompson-square-everything-i-shouldnt-be-thinking-about-lyrics
 name: Everything I Shouldn't Be Thinking About
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2013
+runtime: 178466
 ---
 _Verse 1:_
 My motorcycle needs an oil change

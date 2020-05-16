@@ -1,9 +1,12 @@
 ---
+album: hopeless fountain kingdom
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:11EDhDAVDtGPoSar6ootYA
 features:
 - Lauren Jauregui
-genres: []
+first_released_as_single: false
 key: strangers-halsey-lauren-jauregui
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/strangers.html
 name: Strangers
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 221205
 ---
-
-
 She doesn't kiss me on the mouth anymore
 'Cause it's more intimate, than she thinks we should get
 She doesn't look me in the eyes anymore
@@ -68,6 +71,3 @@ To feel anything at all
 (You lost it)
 (You lost it)
 (You lost it)
-
-
-

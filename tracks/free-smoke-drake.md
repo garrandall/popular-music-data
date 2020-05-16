@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:05KOgYg8PGeJyyWBPi5ja8
 features: []
-genres: []
+first_released_as_single: false
 key: free-smoke-drake
 lyrics_url: https://genius.com/Drake-free-smoke-lyrics
 name: Free Smoke
@@ -23,6 +26,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 218673
 ---
 Is it the strength of your feelings
 Overthrowing your pain?

@@ -1,8 +1,11 @@
 ---
+album: Corina
 artists:
 - Corina
+external_ids:
+  spotify: spotify:track:6WCJyL4KetAqEZYhRq5S3f
 features: []
-genres: []
+first_released_as_single: false
 key: temptation-corina
 lyrics_url: https://genius.com/Corina-temptation-lyrics
 name: Temptation
@@ -91,6 +94,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
+release_year: 1991
+runtime: 241533
 ---
 Baby, there's something I think you should know
 (Baby)

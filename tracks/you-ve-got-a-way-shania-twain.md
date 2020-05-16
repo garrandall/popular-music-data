@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:4FpYzosLDCvIuX7mS6qX3q
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-a-way-shania-twain
 lyrics_url: https://genius.com/Shania-twain-youve-got-a-way-lyrics
 name: You've Got A Way
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1997
+runtime: 209760
 ---
 You've got a way with me
 Somehow you got me to believe

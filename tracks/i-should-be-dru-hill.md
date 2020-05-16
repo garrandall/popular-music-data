@@ -1,8 +1,11 @@
 ---
+album: Dru World Order
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:7qZWCIgHBgjyuUBOnGnD9k
 features: []
-genres: []
+first_released_as_single: false
 key: i-should-be-dru-hill
 lyrics_url: https://genius.com/Dru-hill-i-should-be-lyrics
 name: I Should Be
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2002
+runtime: 297626
 ---
 Girl, I know he ain't takin' care of you
 I see it in your face

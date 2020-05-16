@@ -1,8 +1,11 @@
 ---
+album: Abbey Road
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:2EqlS6tkEnglzr7tkKAAYD
 features: []
-genres: []
+first_released_as_single: false
 key: come-together-the-beatles
 lyrics_url: https://genius.com/The-beatles-come-together-lyrics
 name: Come Together
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 259946
 ---
 Shoot me
 Shoot me

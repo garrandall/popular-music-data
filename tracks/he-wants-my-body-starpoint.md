@@ -1,8 +1,11 @@
 ---
+album: Sensational
 artists:
 - Starpoint
+external_ids:
+  spotify: spotify:track:5zTSpy8JYqYUUQ65cbnqmd
 features: []
-genres: []
+first_released_as_single: false
 key: he-wants-my-body-starpoint
 lyrics_url: https://genius.com/Starpoint-he-wants-my-body-lyrics
 name: He Wants My Body
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
+release_year: 1987
+runtime: 282026
 ---
 Hey, there’s more to me than meets the eye
 

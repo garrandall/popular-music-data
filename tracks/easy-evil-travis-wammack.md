@@ -1,8 +1,11 @@
 ---
+album: Shotgun Woman
 artists:
 - Travis Wammack
+external_ids:
+  spotify: spotify:track:7ssB38goD91EIZcWcliFPD
 features: []
-genres: []
+first_released_as_single: false
 key: easy-evil-travis-wammack
 lyrics_url: https://www.musixmatch.com/lyrics/Travis-Wammack/Easy-Evil
 name: Easy Evil
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 190520
 ---
 Well you are such an easy evil
 Such a senuous sin

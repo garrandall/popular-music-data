@@ -1,8 +1,11 @@
 ---
+album: Overexposed
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6TwfdLbaxTKzQi3AgsZNzx
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/daylight.html
 name: Daylight
@@ -107,8 +110,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2012
+runtime: 225306
 ---
-
 Here I am waiting
 I'll have to leave soon
 Why am I holding on?
@@ -157,6 +161,3 @@ And when the daylight comes I'll have to go
 But tonight I'm gonna hold you so close
 'Cause in the daylight we'll be on our own
 But tonight I need to hold you so close
-
-
-

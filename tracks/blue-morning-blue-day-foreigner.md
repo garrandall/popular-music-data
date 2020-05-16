@@ -1,8 +1,11 @@
 ---
+album: Double Vision (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:4qVhRdxvVdlPn3D0i0UFt2
 features: []
-genres: []
+first_released_as_single: false
 key: blue-morning-blue-day-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/bluemorningblueday.html
 name: Blue Morning Blue Day
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1978
+runtime: 192973
 ---
-
 Out in the street it's 6 am, another sleepless night
 Three cups of coffee, but I can't clear my head from what went down last night
 I know we both have our own little ways, but somehow we keep it together
@@ -90,6 +94,3 @@ Blue morning, blue morning
 Blue morning, blue morning
 Blue morning, blue morning
 Blue, blue, blue day, yeah
-
-
-

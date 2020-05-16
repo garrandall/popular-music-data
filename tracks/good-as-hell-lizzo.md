@@ -1,8 +1,11 @@
 ---
+album: Cuz I Love You (Super Deluxe)
 artists:
 - Lizzo
+external_ids:
+  spotify: spotify:track:3Yh9lZcWyKrK9GjbhuS0hR
 features: []
-genres: []
+first_released_as_single: true
 key: good-as-hell-lizzo
 lyrics_url: https://www.azlyrics.com/lyrics/lizzo/goodashell.html
 name: Good As Hell
@@ -123,8 +126,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2016
+runtime: 159735
 ---
-
 I do my hair toss
 Check my nails
 Baby how you feelin'?
@@ -217,6 +221,3 @@ Baby, how you feeling?
 Feeling good as hell
 Baby how you feelin'?
 Feeling good as hell
-
-
-

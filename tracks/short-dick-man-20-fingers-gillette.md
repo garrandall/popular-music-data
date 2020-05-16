@@ -1,9 +1,12 @@
 ---
+album: Short Dick Man
 artists:
 - 20 Fingers
+external_ids:
+  spotify: spotify:track:6ZZr5ew0DvA6xda9T5owOU
 features:
 - Gillette
-genres: []
+first_released_as_single: false
 key: short-dick-man-20-fingers-gillette
 lyrics_url: https://genius.com/20-fingers-short-dick-man-lyrics
 name: Short Dick Man
@@ -128,6 +131,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
+release_year: 1994
+runtime: 290933
 ---
 Ah, ah
 Ah, ah

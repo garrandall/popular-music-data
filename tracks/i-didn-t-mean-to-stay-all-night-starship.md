@@ -1,8 +1,11 @@
 ---
+album: Love Among The Cannibals
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:0r3vcHAYvgyK0Yttwz5wOd
 features: []
-genres: []
+first_released_as_single: false
 key: i-didn-t-mean-to-stay-all-night-starship
 lyrics_url: https://genius.com/Starship-i-didnt-mean-to-stay-all-night-lyrics
 name: I Didn't Mean To Stay All Night
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 290426
 ---
 My love is drifting in a sweet dream
 And my heart is beatin' like a drum

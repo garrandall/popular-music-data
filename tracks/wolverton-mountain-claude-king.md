@@ -1,8 +1,11 @@
 ---
+album: Meet Claude King
 artists:
 - Claude King
+external_ids:
+  spotify: spotify:track:7GjmzKbriJewFNDPJtVjey
 features: []
-genres: []
+first_released_as_single: false
 key: wolverton-mountain-claude-king
 lyrics_url: https://genius.com/Claude-king-wolverton-mountain-lyrics
 name: Wolverton Mountain
@@ -71,6 +74,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1954
+runtime: 177573
 ---
 They say don't go on Wolverton Mountain
 If you're looking for a wife

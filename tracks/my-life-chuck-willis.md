@@ -1,8 +1,11 @@
 ---
+album: The King Of The Stroll
 artists:
 - Chuck Willis
+external_ids:
+  spotify: spotify:track:12qI44KzCUYMPE9RoDS7GI
 features: []
-genres: []
+first_released_as_single: false
 key: my-life-chuck-willis
 lyrics_url: https://genius.com/Chuck-willis-my-life-lyrics
 name: My Life
@@ -27,6 +30,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 165706
 ---
 You make my life worth living
 I love the love you been giving

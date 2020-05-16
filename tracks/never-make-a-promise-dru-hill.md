@@ -1,8 +1,11 @@
 ---
+album: Dru Hill
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:0YPUjnI3WAkJPAsPkantHe
 features: []
-genres: []
+first_released_as_single: false
 key: never-make-a-promise-dru-hill
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/nevermakeapromise.html
 name: Never Make A Promise
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
+release_year: 1996
+runtime: 328400
 ---
-
 I don't have to think about it
 I've never been in love
 I've only dreamed about it
@@ -149,4 +153,3 @@ Thay you'll never be hurt
 It's for better or worst
 
 I never make a promise that I can't keep
-

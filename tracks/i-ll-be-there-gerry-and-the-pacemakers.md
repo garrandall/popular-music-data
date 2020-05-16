@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:38VQLw0FuMQQSVgeRj2u2B
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-ill-be-there-lyrics
 name: I'll Be There
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1964
+runtime: 193960
 ---
 (Words & music by Bobby Darin)
 I'll be there when all your dreams are broken

@@ -1,8 +1,11 @@
 ---
+album: Girl Problems
 artists:
 - Chris Lane
+external_ids:
+  spotify: spotify:track:6gXuwld0PRtinePSXV2Vn1
 features: []
-genres: []
+first_released_as_single: false
 key: fix-chris-lane
 lyrics_url: https://www.azlyrics.com/lyrics/chrislane/fix.html
 name: Fix
@@ -55,8 +58,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 190240
 ---
-
 Hey girl, you know what you've been missing?
 Me, me, yeah
 Hey girl, whoever you've been kissing
@@ -112,6 +116,3 @@ I'll be the high that never lets you down (that never lets you down)
 The one you crave when no one is around (when no one is around)
 I'll pick you up and never let you go (I got your fix)
 Never let you go
-
-
-

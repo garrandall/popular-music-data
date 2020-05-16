@@ -1,8 +1,11 @@
 ---
+album: Third Eye Blind
 artists:
 - Third Eye Blind
+external_ids:
+  spotify: spotify:track:42et6fnHCw1HIPSrdPprMl
 features: []
-genres: []
+first_released_as_single: false
 key: semi-charmed-life-third-eye-blind
 lyrics_url: http://www.songlyrics.com/third-eye-blind/semi-charmed-life-lyrics/
 name: Semi-Charmed Life
@@ -179,6 +182,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
+release_year: 1997
+runtime: 268360
 ---
 I'm packed and I'm holding I'm smiling
 She's living, she's golden

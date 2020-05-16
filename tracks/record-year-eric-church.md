@@ -1,8 +1,11 @@
 ---
+album: Mr. Misunderstood
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:5fSPbm5lcwtqwXkeQQswW8
 features: []
-genres: []
+first_released_as_single: false
 key: record-year-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/recordyear.html
 name: Record Year
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2015
+runtime: 179346
 ---
-
 Since you turned the tables on me
 I've been steady and learnin' lonely
 Keepin' this turntable spinnin'
@@ -145,6 +149,3 @@ Yeah, you're out there now
 Doin' God knows how, but I'm stuck here
 Havin' a record year
 Yeah, I'm havin' a record year
-
-
-

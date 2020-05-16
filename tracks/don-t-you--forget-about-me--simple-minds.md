@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time (Super Deluxe)
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:3fH4KjXFYMmljxrcGrbPj9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you--forget-about-me--simple-minds
 lyrics_url: https://genius.com/Simple-minds-dont-you-forget-about-me-lyrics
 name: Don't You (Forget About Me)
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 263040
 ---
 Hey, hey, hey, hey
 Oh...

@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:0NNpyBTU0Ks2eHanv6xKDb
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-ape-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/igoape.html
 name: I Go Ape
@@ -39,8 +42,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1959
+runtime: 154040
 ---
-
 The moon is bright above
 Oh, what a night for love
 And as I hold you near
@@ -82,6 +86,3 @@ Honey, won't you say you're mine?
 With a honky tonky monkey shine
 When you hold my hand I'm a pre-historic man
 I go ape
-
-
-

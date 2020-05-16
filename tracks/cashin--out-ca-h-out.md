@@ -1,8 +1,11 @@
 ---
+album: It's My Time
 artists:
 - Ca$h Out
+external_ids:
+  spotify: spotify:track:1POAx4NMLOBPVKZUSsBh92
 features: []
-genres: []
+first_released_as_single: true
 key: cashin--out-ca-h-out
 lyrics_url: https://genius.com/Ca-h-out-cashin-out-lyrics
 name: Cashin' Out
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
+release_year: 2012
+runtime: 238760
 ---
 I'm ridin' round wit that Nina
 You know we smokin' on Keisha

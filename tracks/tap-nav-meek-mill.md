@@ -1,9 +1,12 @@
 ---
+album: Bad Habits
 artists:
 - NAV
+external_ids:
+  spotify: spotify:track:5rU6kDNXZLXIinFezpbWbO
 features:
 - Meek Mill
-genres: []
+first_released_as_single: false
 key: tap-nav-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/nav/tap.html
 name: Tap
@@ -48,8 +51,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 148278
 ---
-
 (I'm in London, got my beat from London!)
 
 Yeah, yeah
@@ -141,6 +145,3 @@ Try to sleight me, we gon' let it
 Slap, slap, slap (Slap, slap)
 Cross the line, it's too late you can't take it
 Back, back, back (Yeah)
-
-
-

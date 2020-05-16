@@ -1,8 +1,11 @@
 ---
+album: Brett Young
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:10M2Ex445zw585Ducldzkw
 features: []
-genres: []
+first_released_as_single: false
 key: in-case-you-didn-t-know-brett-young
 lyrics_url: https://genius.com/Brett-young-in-case-you-didnt-know-lyrics
 name: In Case You Didn't Know
@@ -119,6 +122,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 224853
 ---
 I can't count the times
 I almost said what's on my mind

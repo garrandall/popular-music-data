@@ -1,8 +1,11 @@
 ---
+album: The Many Moods Of Tony
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:4cYxtbTPSjdzjGmCZIostu
 features: []
-genres: []
+first_released_as_single: false
 key: spring-in-manhattan-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-spring-in-manhattan-lyrics
 name: Spring In Manhattan
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 152706
 ---
 Spring in Manhattan
 Starts after dark

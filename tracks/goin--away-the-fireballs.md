@@ -1,8 +1,11 @@
 ---
+album: Bottle Of Wine
 artists:
 - The Fireballs
+external_ids:
+  spotify: spotify:track:2rg6y8TaFlvNYvZc1wzPF7
 features: []
-genres: []
+first_released_as_single: false
 key: goin--away-the-fireballs
 name: Goin' Away
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 152440
 ---
 

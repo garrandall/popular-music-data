@@ -1,8 +1,11 @@
 ---
+album: Let Go
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:5xEM5hIgJ1jjgcEBfpkt2F
 features: []
-genres: []
+first_released_as_single: false
 key: complicated-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/complicated.html
 name: Complicated
@@ -131,8 +134,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
+release_year: 2002
+runtime: 244506
 ---
-
 Uh huh, life's like this
 Uh huh, uh huh, that's the way it is
 'Cause life's like this
@@ -218,6 +222,3 @@ You, you fall and you crawl and you break
 And you take what you get and you turn it into honesty
 You promised me I'm never gonna find you fake it
 No no no
-
-
-

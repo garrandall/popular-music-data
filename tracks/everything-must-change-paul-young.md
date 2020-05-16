@@ -1,8 +1,11 @@
 ---
+album: 'Paul Young & The Royal Family: Live at Rockpalast (Live, Essen, 1985)'
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:7hNlGsFbZ50hxQUVJAcYxX
 features: []
-genres: []
+first_released_as_single: false
 key: everything-must-change-paul-young
 lyrics_url: https://www.azlyrics.com/lyrics/paulyoung/everythingmustchange.html
 name: Everything Must Change
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 409400
 ---
-
 I was never one to back out of an argument
 And say I was wrong.
 Even when I'd seen the other side
@@ -127,6 +131,3 @@ Everything must change.
 (Oh, yeah)
 (Like a dream, a life, a reason
 Everything must change.)
-
-
-

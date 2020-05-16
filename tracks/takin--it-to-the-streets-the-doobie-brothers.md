@@ -1,8 +1,11 @@
 ---
+album: Takin' It to the Streets
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:0HlqT0LEuvfAGZF2owFGmw
 features: []
-genres: []
+first_released_as_single: true
 key: takin--it-to-the-streets-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/takinittothestreets.html
 name: Takin' It To The Streets
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1976
+runtime: 200893
 ---
-
 You don't know me but I'm your brother
 I was raised here in this living hell
 You don't know my kind in your world
@@ -87,6 +91,3 @@ Takin' it to the streets
 Takin' it to the streets
 Takin' it to the streets
 Takin' it to the streets
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: They Don't Know
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:4T5Z4mbTe7kuGqgLpaRtTh
 features: []
-genres: []
+first_released_as_single: false
 key: any-ol--barstool-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/anyolbarstool.html
 name: Any Ol' Barstool
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2016
+runtime: 203293
 ---
-
 I guess you heard I was pedal to the metal on a downhill slide
 Girl, you know those rumors get to flyin' in a town this size
 No, I didn't feel a thing when you threw that ring and slammed the door
@@ -126,6 +130,3 @@ Ask any ol' barstool
 Ask any ol' barstool
 
 I guess you heard I was pedal to the metal on a downhill slide
-
-
-

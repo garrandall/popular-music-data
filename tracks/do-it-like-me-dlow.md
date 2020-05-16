@@ -1,8 +1,11 @@
 ---
+album: I Am DLOW
 artists:
 - DLOW
+external_ids:
+  spotify: spotify:track:0z9hbAY5d0RhmvZr3DWMPK
 features: []
-genres: []
+first_released_as_single: true
 key: do-it-like-me-dlow
 lyrics_url: https://genius.com/Dlow-do-it-like-me-lyrics
 name: Do It Like Me
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 146000
 ---
 This ya boy, Dlow (turn up)
 Bop King (turn up)

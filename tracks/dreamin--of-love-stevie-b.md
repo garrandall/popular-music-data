@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:40bUx81llF44hfd73XuXe8
 features: []
-genres: []
+first_released_as_single: false
 key: dreamin--of-love-stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/dreaminoflove.html
 name: Dreamin' Of Love
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1988
+runtime: 246933
 ---
-
 I don't know, what happened to the love we shared
 Don't go, sometimes I think it's just not fair
 I know, the pain I feel inside my heart
@@ -84,4 +88,3 @@ I wish I'd known it from the start
 That you would come and break my heart
 I can't hold back these tears in my eyes
 The feeling of pain inside because...
-

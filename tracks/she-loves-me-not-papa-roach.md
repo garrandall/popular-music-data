@@ -1,8 +1,11 @@
 ---
+album: lovehatetragedy
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:1eRgyfyizDWISeS99kwLNC
 features: []
-genres: []
+first_released_as_single: false
 key: she-loves-me-not-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/shelovesmenot.html
 name: She Loves Me Not
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2002
+runtime: 209572
 ---
-
 When I see her eyes
 Look into my eyes
 Then I realize
@@ -162,6 +166,3 @@ Life's not fair
 
 She loves me not
 Loves me not
-
-
-

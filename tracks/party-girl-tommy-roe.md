@@ -1,8 +1,11 @@
 ---
+album: Tommy's 22 Big Ones
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:7g0hLGRj8olNY7BbRoNRpC
 features: []
-genres: []
+first_released_as_single: false
 key: party-girl-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/partygirl.html
 name: Party Girl
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 163133
 ---
-
 Dance your last dance
 Party girl, party girl
 Have yourself a time, party girl
@@ -64,6 +68,3 @@ Have yourself a time, party girl
 I've got plans for you
 So just dance your last dance
 Party girl
-
-
-

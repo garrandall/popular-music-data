@@ -1,8 +1,11 @@
 ---
+album: Orange Blossom Special And Wheels
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:723z0QhsJCwCVgo4GX5flI
 features: []
-genres: []
+first_released_as_single: false
 key: orange-blossom-special-billy-vaughn-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vaughn/Orange-Blossom-Special
 name: Orange Blossom Special
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 169258
 ---
 Look a-yonder comin'
 Comin' down that railroad track

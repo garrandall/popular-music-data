@@ -1,8 +1,11 @@
 ---
+album: Heavy Metal Soundtrack
 artists:
 - Don Felder
+external_ids:
+  spotify: spotify:track:6jRuCSKtxTNUzkFldlR1Az
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-metal--takin--a-ride--don-felder
 lyrics_url: https://genius.com/Don-felder-heavy-metal-takin-a-ride-lyrics
 name: Heavy Metal (Takin' A Ride)
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1981
+runtime: 299333
 ---
 Drive it on up and let's cruise a while
 Leave your troubles far behind

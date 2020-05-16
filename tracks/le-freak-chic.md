@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:3ClOMebBxeNTYCOfTH24YJ
 features: []
-genres: []
+first_released_as_single: false
 key: le-freak-chic
 lyrics_url: https://www.azlyrics.com/lyrics/chic/lefreak.html
 name: Le Freak
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1977
+runtime: 331360
 ---
-
 (One, two)
 
 Ah, freak out!
@@ -170,6 +174,3 @@ Freak out!
 Ah, freak out!
 Le freak, c'est Chic
 Freak out!
-
-
-

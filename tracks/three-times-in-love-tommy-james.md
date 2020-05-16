@@ -1,8 +1,11 @@
 ---
+album: Deals & Demos
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:4eYsoBPwiGYQULA1LRKKJN
 features: []
-genres: []
+first_released_as_single: false
 key: three-times-in-love-tommy-james
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/threetimesinlove.html
 name: Three Times In Love
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1980
+runtime: 261106
 ---
-
 She was all of a lady, you were all of sixteen,
 You were king of the mountain, she was your queen.
 You played in the sunshine, you danced in the rain,
@@ -105,6 +109,3 @@ Why everybody's
 Three times in love.
 Two times ain't enough, only one shines above,
 Everybody's three times in love.
-
-
-

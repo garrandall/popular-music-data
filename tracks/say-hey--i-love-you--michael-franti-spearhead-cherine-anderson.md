@@ -1,10 +1,13 @@
 ---
+album: All Rebel Rockers
 artists:
 - Michael Franti
 - Spearhead
+external_ids:
+  spotify: spotify:track:0nnxf8p851ZR49KFnGWVsB
 features:
 - Cherine Anderson
-genres: []
+first_released_as_single: false
 key: say-hey--i-love-you--michael-franti-spearhead-cherine-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/michaelfrantispearhead/sayheyiloveyou.html
 name: Say Hey (I Love You)
@@ -89,8 +92,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2008
+runtime: 235760
 ---
-
 Come down selector
 
 This one goes out to you and yours, worldwide
@@ -187,6 +191,3 @@ I say, hey poppa, hey poppa
 Hey momma, hey momma
 Rocking in the dance hall moving with you
 Come on, hey poppa, hey poppa
-
-
-

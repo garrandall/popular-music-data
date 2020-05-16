@@ -1,8 +1,11 @@
 ---
+album: Living Eyes
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:7zFqqq4T32SRxl4nHEZUfq
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-a-liar-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/hesaliar.html
 name: He's A Liar
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1981
+runtime: 245440
 ---
-
 I was stood by the light as I looked through the window
 With the greatest intention not meaning to see
 I was there in the dark and I saw you together
@@ -82,6 +86,3 @@ And I should know liar
 He's a liar
 And I should know-ah
 He's a
-
-
-

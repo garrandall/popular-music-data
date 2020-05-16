@@ -1,8 +1,11 @@
 ---
+album: Bella Donna
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:0JHm1MZjQ1smYmD8XCGx11
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-glitter-fades-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/aftertheglitterfades.html
 name: After The Glitter Fades
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1981
+runtime: 210466
 ---
-
 Well I never thought I'd make it
 Here in Hollywood...
 I never thought I'd ever
@@ -102,6 +106,3 @@ Oh you know... the feeling remains
 Even after the glitter fades
 Oh the feeling remains...
 Even after the glitter... fades
-
-
-

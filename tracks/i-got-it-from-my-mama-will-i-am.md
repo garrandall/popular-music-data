@@ -1,8 +1,11 @@
 ---
+album: Songs About Girls
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:2q2pZHWEQe6w9PgACCzMtC
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-it-from-my-mama-will-i-am
 lyrics_url: https://genius.com/William-i-got-it-from-my-mama-lyrics
 name: I Got It From My Mama
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
+release_year: 2007
+runtime: 241520
 ---
 Ladies, la-la-ladies, la-la-ladies, here we go
 

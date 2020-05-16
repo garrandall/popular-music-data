@@ -1,8 +1,12 @@
 ---
+album: Sundown Heaven Town
 artists:
-- Tim McGraw With Catherine Dunn
-features: []
-genres: []
+- Tim McGraw
+external_ids:
+  spotify: spotify:track:5FIb3CWPjub8C5Yu2IxzTj
+features:
+- Catherine Dunn
+first_released_as_single: false
 key: diamond-rings-and-old-barstools-tim-mcgraw-with-catherine-dunn
 lyrics_url: https://www.musixmatch.com/lyrics/Tim-McGraw-with-Catherine-Dunn/Diamond-Rings-and-Old-Barstools
 name: Diamond Rings And Old Barstools
@@ -75,6 +79,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
+release_year: 2014
+runtime: 197226
 ---
 Diamond rings and old barstools
 One's for queens and one's for fools

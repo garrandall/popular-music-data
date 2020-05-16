@@ -1,8 +1,11 @@
 ---
+album: Under the Pink
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:1ogJw5GkGgLaDdAmQOeOGh
 features: []
-genres: []
+first_released_as_single: false
 key: god-tori-amos
 lyrics_url: https://genius.com/Tori-amos-god-lyrics
 name: God
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1994
+runtime: 234293
 ---
 God sometimes you just don’t come through
 God sometimes you just don’t come through

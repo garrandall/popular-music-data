@@ -1,8 +1,11 @@
 ---
+album: CSN
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:4dAN7KcWCWx5jV6dpwtfvN
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-song-before-i-go-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/justasongbeforeigo.html
 name: Just A Song Before I Go
@@ -91,10 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1977
+runtime: 133960
 ---
-
-
-
 Just a song before I go
 To whom it may concern
 Travelling twice the speed of sound
@@ -121,4 +123,3 @@ Just a song before I go
 A lesson to be learned
 Travelling twice the speed of sound
 It's easy to get burned
-

@@ -1,8 +1,11 @@
 ---
+album: If You're Going Through Hell
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:5OusUgzHz6Ulb3GZT7WUo5
 features: []
-genres: []
+first_released_as_single: false
 key: watching-you-rodney-atkins
 lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/watchingyou.html
 name: Watching You
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2007-03-31'
+release_year: 2006
+runtime: 235426
 ---
-
 Driving through town, just my boy and me
 With a Happy Meal in his booster seat
 Knowing that he couldn't have the toy 'til his nuggets were gone
@@ -140,6 +144,3 @@ By then I'll be as strong as Superman
 We'll be just alike. Hey, won't we, dad?
 When I can do everything you do
 'Cause I've been watching you"
-
-
-

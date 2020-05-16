@@ -1,8 +1,11 @@
 ---
+album: Rockbird
 artists:
 - Debbie Harry
+external_ids:
+  spotify: spotify:track:5yVoQHZJqvVHoRqmYzR1Q6
 features: []
-genres: []
+first_released_as_single: false
 key: french-kissin-debbie-harry
 lyrics_url: https://genius.com/Debbie-harry-french-kissin-lyrics
 name: French Kissin
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 314360
 ---
 Love's touch comes to mean so much
 (Embrasser c'est Francais, Embrasser c'est Francais)

@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Dobie Gray'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:2bqkBfOfR68TVsjHy31mnz
 features: []
-genres: []
+first_released_as_single: false
 key: loving-arms-dobie-gray
 lyrics_url: https://www.azlyrics.com/lyrics/dobiegray/lovingarms.html
 name: Loving Arms
@@ -51,8 +54,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 177293
 ---
-
 If you could see me now
 The one who said he rather roll away
 The one who said he rather be alone
@@ -78,6 +82,3 @@ Taking any comfort that I can
 Yes I'm Looking back and longing for the freedom from of chains
 And lying in your loving arms again
 I can almost feel your loving arms again
-
-
-

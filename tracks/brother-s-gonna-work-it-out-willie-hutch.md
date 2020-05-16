@@ -1,8 +1,11 @@
 ---
+album: The Mack - Original Motion Picture Soundtrack
 artists:
 - Willie Hutch
+external_ids:
+  spotify: spotify:track:1haurWCw5Yb1oP8xNQTfCV
 features: []
-genres: []
+first_released_as_single: false
 key: brother-s-gonna-work-it-out-willie-hutch
 lyrics_url: https://genius.com/Willie-hutch-brothers-gonna-work-it-out-lyrics
 name: Brother's Gonna Work It Out
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1973
+runtime: 287666
 ---
 "You really don’t understand, do you? Hey, man, don’t you realize that in order for us to make this thing work, man, we’ve got to get rid of the pimps and the pushers and the prostitutes and then start all over again clean."
 

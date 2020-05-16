@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:6HROMYV69bB8qzrAdQoKaM
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-monkey-freddy-cannon
 lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/Everybody-Monkey
 name: Everybody Monkey
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 169320
 ---
 Monkey, monkey, monkey
 Monkey, monkey, monkey

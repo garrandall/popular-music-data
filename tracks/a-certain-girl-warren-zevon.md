@@ -1,8 +1,11 @@
 ---
+album: Bad Luck Streak In Dancing School
 artists:
 - Warren Zevon
+external_ids:
+  spotify: spotify:track:24tc3OZ7YRdtQofd23niCE
 features: []
-genres: []
+first_released_as_single: false
 key: a-certain-girl-warren-zevon
 lyrics_url: https://www.azlyrics.com/lyrics/warrenzevon/acertaingirl.html
 name: A Certain Girl
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1980
+runtime: 188200
 ---
-
 Well, there's a certain girl I've been in love with a long, long time
 What's her name? I can't tell you (Ah...)
 I can't reveal her name until she's mine
@@ -63,6 +67,3 @@ I've tried to make her time and time again
 Still we're introduced as nothing but friends
 And there's a certain girl I've been in love with a long, long time
 What's her name? I can't tell you (Ah...)
-
-
-

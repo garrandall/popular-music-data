@@ -1,8 +1,11 @@
 ---
+album: 2nd Wave
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:5EQOCZjvKcgNjNCfAVB7NR
 features: []
-genres: []
+first_released_as_single: false
 key: shower-me-with-your-love-surface
 lyrics_url: https://genius.com/Surface-shower-me-with-your-love-lyrics
 name: Shower Me With Your Love
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1986
+runtime: 293573
 ---
 My heart is filled with so much love
 And I need someone I can call my own

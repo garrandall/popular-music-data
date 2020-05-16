@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Male Oldies - Vol.8
 artists:
 - Dickey Lee
+external_ids:
+  spotify: spotify:track:0YsDbBlsMiKCUrRlHDu0QI
 features: []
-genres: []
+first_released_as_single: false
 key: patches-dickey-lee
 lyrics_url: https://genius.com/Dickey-lee-patches-lyrics
 name: Patches
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 179226
 ---
 Down by the river that flows by the coal yards
 Stand wooden houses with shutters torn down

@@ -1,8 +1,11 @@
 ---
+album: Everywhere
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0nDjzA4kns1QOWPXuOn6Xw
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-green-grass-grows-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/wherethegreengrassgrows.html
 name: Where The Green Grass Grows
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1998-12-26'
+release_year: 1997
+runtime: 201600
 ---
-
 Six lanes
 Taillights
 Red ants marchin' into the night
@@ -65,6 +69,3 @@ Raise our kids where the good Lord's blessed
 Point our rocking chairs towards the west
 Plant our dreams where the peaceful river flows
 Where the green grass grows
-
-
-

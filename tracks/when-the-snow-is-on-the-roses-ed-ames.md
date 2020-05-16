@@ -1,8 +1,11 @@
 ---
+album: When The Snow Is On The Roses
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:702a8UvPi4gyaVYYKdK9Vi
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-snow-is-on-the-roses-ed-ames
 lyrics_url: https://www.musixmatch.com/lyrics/Ed-Ames/When-the-Snow-Is-on-the-Roses
 name: When The Snow Is On The Roses
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 157133
 ---
 Now the golden sun can see us kiss
 Every summer day, we'll love like this

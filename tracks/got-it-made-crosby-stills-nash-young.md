@@ -1,8 +1,11 @@
 ---
+album: American Dream
 artists:
 - Crosby, Stills, Nash & Young
+external_ids:
+  spotify: spotify:track:7pax4grXoXIF5F2XbO7Y1E
 features: []
-genres: []
+first_released_as_single: false
 key: got-it-made-crosby-stills-nash-young
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnashyoung/gotitmade.html
 name: Got It Made
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 296466
 ---
 Know you are a friend of mine, babe you been gone
 An awful long time. You might remember me, I tried

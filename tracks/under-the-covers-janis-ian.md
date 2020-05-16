@@ -1,8 +1,11 @@
 ---
+album: Restless Eyes
 artists:
 - Janis Ian
+external_ids:
+  spotify: spotify:track:3v3BXeUDxOEjN3WipzeyAE
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-covers-janis-ian
 lyrics_url: https://www.azlyrics.com/lyrics/janisian/underthecovers.html
 name: Under The Covers
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 263773
 ---
-
 Spanish boys'll greet you
 With that old obscene refrain
 The sadness of a thousand
@@ -72,6 +76,3 @@ Under the covers
 That's where you discover if your man is whole
 They don't come easy, but they're worth the time
 And if you please me, maybe I'll let you be mine
-
-
-

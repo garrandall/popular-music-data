@@ -1,8 +1,11 @@
 ---
+album: The Wonderous World Of Sonny & Cher
 artists:
 - Sonny
+external_ids:
+  spotify: spotify:track:06uNIJMlgHMNNid6PL0tzb
 features: []
-genres: []
+first_released_as_single: false
 key: laugh-at-me-sonny
 lyrics_url: https://genius.com/Sonny-and-cher-laugh-at-me-lyrics
 name: Laugh At Me
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 175400
 ---
 Why can I be like any guy?
 Why do they try and make me run? Son of a gun

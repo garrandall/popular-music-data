@@ -1,8 +1,11 @@
 ---
+album: R&B '63
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:0wMFU8tYLsTDiQ7HCXyRcC
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-living-for-conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/whatamilivingfor.html
 name: What Am I Living For
@@ -51,8 +54,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 158426
 ---
-
 Well, What am I living for, if not for you,
 What am I living for, if not for you,
 What am I living for, if not for you,
@@ -82,6 +86,3 @@ Yes, What am I living fo,r if not for you,
 Baby nobody else, nobody else will do.
 
 Baby, nobody else, nobody else will do...
-
-
-

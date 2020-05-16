@@ -1,8 +1,11 @@
 ---
+album: '"Weird Al" Yankovic'
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:76QlOaKjVbxqduVcwcQZWx
 features: []
-genres: []
+first_released_as_single: false
 key: ricky--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/ricky.html
 name: Ricky
@@ -39,9 +42,10 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1983
+runtime: 157066
 ---
-
- Hey Lucy, I'm home
+Hey Lucy, I'm home
 
  Oh Ricky, you're so fine
  You're so fine you blow my mind
@@ -93,6 +97,3 @@ rankings:
  Everybody rumba!
 
  Ha ha ha ha ha ha ha ha
-
-
-

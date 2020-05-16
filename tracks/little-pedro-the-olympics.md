@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:6KUvIEKf0hDsbBC7rmWbvB
 features: []
-genres: []
+first_released_as_single: false
 key: little-pedro-the-olympics
 lyrics_url: https://genius.com/The-olympics-little-pedro-lyrics
 name: Little Pedro
@@ -23,16 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1960
+runtime: 144363
 ---
-Little Pedro 2:21 Trk 5
-The Olympics
-Eddie Lewis, Charles Fizer
-Poss. Melvin King or Walter Hammond
-Insert album notes incomplete, no band list
-Pop Chart #76 March 27, 1961
-Arvee single #5023
-
-(intro mandolin style fast Latin beat)
 
 A-little Pedro
 (He's got to fight the bull)
@@ -91,5 +87,3 @@ He win the governor's daughter
 Win the governor's daughter
 
 Win the governor's daughter
-
-~

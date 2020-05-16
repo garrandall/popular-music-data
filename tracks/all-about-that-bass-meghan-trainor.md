@@ -1,8 +1,11 @@
 ---
+album: Title
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:0ifSeVGUr7py5GggttDhXw
 features: []
-genres: []
+first_released_as_single: true
 key: all-about-that-bass-meghan-trainor
 lyrics_url: https://www.azlyrics.com/lyrics/meghantrainor/allaboutthatbass.html
 name: All About That Bass
@@ -195,6 +198,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2014
+runtime: 188754
 ---
 Because you know I'm all about that bass
 'Bout that bass, no treble

@@ -1,8 +1,11 @@
 ---
+album: Jon Secada
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:3u5e3ovyvQLoauwUzWezvX
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-in-us-jon-secada
 lyrics_url: https://genius.com/Jon-secada-do-you-believe-in-us-lyrics
 name: Do You Believe In Us
@@ -127,6 +130,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 239266
 ---
 I tremble inside
 Just thinking

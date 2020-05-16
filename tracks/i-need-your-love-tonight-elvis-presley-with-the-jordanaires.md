@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:6GRK4qwSNzIsLpG1TA9VNW
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-your-love-tonight-elvis-presley-with-the-jordanaires
 name: I Need Your Love Tonight
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 120613
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Rokstarr
 artists:
 - Taio Cruz
+external_ids:
+  spotify: spotify:track:1gNAEzINjeXnQ6Yy2kADe1
 features:
 - Travie McCoy
-genres: []
+first_released_as_single: false
 key: higher-taio-cruz-travie-mccoy
 lyrics_url: https://genius.com/Taio-cruz-higher-travie-mccoy-remix-lyrics
 name: Higher
@@ -68,6 +71,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2011
+runtime: 218160
 ---
 Yeah, it's Travie, heh
 Taio

@@ -1,8 +1,11 @@
 ---
+album: Gypsy Honeymoon
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:4SRAf6doXKEuMJxrHB8ILC
 features: []
-genres: []
+first_released_as_single: false
 key: more-love-kim-carnes
 lyrics_url: https://genius.com/Kim-carnes-more-love-lyrics
 name: More Love
@@ -83,6 +86,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 218160
 ---
 Let it be soon don't hesitate
 Make it now don't wait

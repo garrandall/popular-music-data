@@ -1,8 +1,11 @@
 ---
+album: Get Nervous
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:6pwQEpLOlwclrsjgEOHEp0
 features: []
-genres: []
+first_released_as_single: false
 key: shadows-of-the-night-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/shadowsofthenight.html
 name: Shadows Of The Night
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 261560
 ---
-
 We're running with the shadows of the night
 So baby take my hand, it'll be all right
 Surrender all your dreams to me tonight
@@ -126,6 +130,3 @@ We're running with the shadows of the night
 So baby take my hand, it'll be all right
 Surrender all your dreams to me tonight
 They'll come true in the end
-
-
-

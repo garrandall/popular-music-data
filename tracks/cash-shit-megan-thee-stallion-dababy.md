@@ -1,9 +1,12 @@
 ---
+album: Fever
 artists:
 - Megan Thee Stallion
+external_ids:
+  spotify: spotify:track:36vk3jMM89g1nobJbSuD6f
 features:
 - DaBaby
-genres: []
+first_released_as_single: false
 key: cash-shit-megan-thee-stallion-dababy
 lyrics_url: https://genius.com/Megan-thee-stallion-cash-shit-lyrics
 name: Cash Shit
@@ -88,6 +91,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 196905
 ---
 Real hot girl shit
 Yeah, I'm in my bag, but I'm in his too

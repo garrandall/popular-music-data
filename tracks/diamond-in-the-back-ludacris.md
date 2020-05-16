@@ -1,8 +1,11 @@
 ---
+album: Chicken - N - Beer
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:1AcKboMkn1HekyJSlKKEc3
 features: []
-genres: []
+first_released_as_single: false
 key: diamond-in-the-back-ludacris
 lyrics_url: https://genius.com/Ludacris-diamond-in-the-back-lyrics
 name: Diamond In The Back
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2003
+runtime: 252840
 ---
 Gangsta whitewalls, TV antennas in the back (the back, the back...)
 

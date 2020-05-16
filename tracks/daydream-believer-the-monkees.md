@@ -1,8 +1,11 @@
 ---
+album: The Birds, The Bees, & The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:7uEcCGtM1FBBGIhPozhJjv
 features: []
-genres: []
+first_released_as_single: false
 key: daydream-believer-the-monkees
 lyrics_url: https://genius.com/The-monkees-daydream-believer-lyrics
 name: Daydream Believer
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1967
+runtime: 179613
 ---
 Chip: 7A
 Davy: What number is this, Chip?

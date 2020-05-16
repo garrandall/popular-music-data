@@ -1,9 +1,12 @@
 ---
+album: Workin' Together
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4ppxp8rJB8eOhM9TFm6dK2
 features: []
-genres: []
+first_released_as_single: false
 key: proud-mary-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/proudmary.html
 name: Proud Mary
@@ -60,8 +63,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1970
+runtime: 297613
 ---
-
 Left a good job in the city
 Working for the man every night and day
 Then I never lost a minute of sleep
@@ -103,6 +107,3 @@ Rolling on the river
 Rolling
 Rolling
 Rolling on the river...
-
-
-

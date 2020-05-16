@@ -1,8 +1,11 @@
 ---
+album: Testifyin'
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:6xc5AUVg180zZrbk6WfVQ1
 features: []
-genres: []
+first_released_as_single: false
 key: snatching-it-back-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-snatching-it-back-lyrics
 name: Snatching It Back
@@ -47,6 +50,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 172093
 ---
 How can I get your love
 When you keep on snatching it back

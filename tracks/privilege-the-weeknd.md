@@ -1,8 +1,11 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:0Nwar8rweBUyfyuoyjjUvk
 features: []
-genres: []
+first_released_as_single: false
 key: privilege-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/privilege.html
 name: Privilege
@@ -11,8 +14,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2018
+runtime: 170573
 ---
-
 Enjoy your privileged life
 'Cause I'm not gonna hold you through the night
 We said our last goodbyes
@@ -36,6 +40,3 @@ And I got two red pills to take the blues away, oh
 I don't wanna hear that no more, no more
 No more, no more
 I don't wanna hear that no more
-
-
-

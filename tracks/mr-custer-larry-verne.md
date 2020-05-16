@@ -1,8 +1,11 @@
 ---
+album: Larry Verne's Greatest Hits
 artists:
 - Larry Verne
+external_ids:
+  spotify: spotify:track:2myXyPga9i6nuHSNOkWbVv
 features: []
-genres: []
+first_released_as_single: false
 key: mr-custer-larry-verne
 lyrics_url: https://www.musixmatch.com/lyrics/Larry-Verne/Mr-Custer
 name: Mr Custer
@@ -59,6 +62,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 185213
 ---
 (That famous day in history the men of the 7th Cavalry went riding on)
 (And from the rear a voice was heard)

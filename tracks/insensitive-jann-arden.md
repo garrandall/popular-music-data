@@ -1,8 +1,11 @@
 ---
+album: Greatest Hurts - The Best Of Jann Arden (International Version)
 artists:
 - Jann Arden
+external_ids:
+  spotify: spotify:track:64DuEe9L3JCESWDsxSKqsx
 features: []
-genres: []
+first_released_as_single: false
 key: insensitive-jann-arden
 lyrics_url: https://www.azlyrics.com/lyrics/jannarden/insensitive.html
 name: Insensitive
@@ -167,8 +170,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1996
+runtime: 256666
 ---
-
 How do you cool your lips, after a summer's kiss?
 How do you rid the sweat, after the body bliss?
 How do you turn your eyes, from the romantic glare?
@@ -206,6 +210,3 @@ By the chill in your embrace
 The expression on your face that told me
 Maybe you might have some advice to give
 On how to be insensitive
-
-
-

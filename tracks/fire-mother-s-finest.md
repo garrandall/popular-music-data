@@ -1,8 +1,11 @@
 ---
+album: Mother's Finest
 artists:
 - Mother's Finest
+external_ids:
+  spotify: spotify:track:19pM2X8hdrLb8YW0WegADR
 features: []
-genres: []
+first_released_as_single: false
 key: fire-mother-s-finest
 lyrics_url: https://genius.com/Mothers-finest-fire-lyrics
 name: Fire
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 247693
 ---
 You can run to the jungle (You can't hide)
 Run to the mountain (Oh you can't hide)

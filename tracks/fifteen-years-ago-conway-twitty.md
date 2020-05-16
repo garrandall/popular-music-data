@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:3uwDSQV9wRN9VnkrQBQwHj
 features: []
-genres: []
+first_released_as_single: false
 key: fifteen-years-ago-conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-fifteen-years-ago-lyrics
 name: Fifteen Years Ago
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 186600
 ---
 I saw a man today who said he'd talked to you
 Not so long ago I think a month or two

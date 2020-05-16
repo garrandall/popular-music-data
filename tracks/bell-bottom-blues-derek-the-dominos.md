@@ -1,9 +1,12 @@
 ---
+album: Layla And Other Assorted Love Songs
 artists:
 - Derek
 - The Dominos
+external_ids:
+  spotify: spotify:track:2YJgM8lj4u5YEZRSHSfL60
 features: []
-genres: []
+first_released_as_single: false
 key: bell-bottom-blues-derek-the-dominos
 lyrics_url: https://genius.com/Derek-and-the-dominos-bell-bottom-blues-lyrics
 name: Bell Bottom Blues
@@ -16,6 +19,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 301720
 ---
 Bell bottom blues, you made me cry
 I don't want to lose this feeling
@@ -42,8 +47,6 @@ I don't want to fade away
 Give me one more day, please
 I don't want to fade away
 In your heart I want to stay
-
-{Instrumental}
 
 Do you want to see me crawl across the floor to you?
 Do you want to hear me beg you to take me back?

@@ -1,8 +1,11 @@
 ---
+album: Saints & Sinners
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:29pzjF6ZkzcW3ofgOVbF0t
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-go-again-whitesnake
 lyrics_url: https://www.azlyrics.com/lyrics/whitesnake/hereigoagain.html
 name: Here I Go Again
@@ -119,8 +122,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
+release_year: 1982
+runtime: 308800
 ---
-
 I don't know where I'm going
 But I sure know where I've been
 Hanging on the promises
@@ -186,6 +190,3 @@ Here I go again
 Here I go again
 Here I go
 Here I go again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:5h8wkSF9tS0Vvv4lbf90sq
 features: []
-genres: []
+first_released_as_single: false
 key: still-waters-run-deep-brook-benton
 lyrics_url: https://genius.com/Brook-benton-still-waters-run-deep-lyrics
 name: Still Waters Run Deep
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 160666
 ---
 As we walk along and I hold her hand
 I may never even speak

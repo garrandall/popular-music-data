@@ -1,8 +1,11 @@
 ---
+album: Heartache Medication
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:6ZvAXIWw3rw8WR0Xlmifri
 features: []
-genres: []
+first_released_as_single: true
 key: heartache-medication-jon-pardi
 lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/heartachemedication.html
 name: Heartache Medication
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 209109
 ---
-
 Same old dive, same old end of the work week drink
 Bartender knows my name, but I don't mind
 She kicks 'em up strong, serves me up right
@@ -131,6 +135,3 @@ I got my heartache medication
 
 Heartache medication
 Takin' me away, oh whoa
-
-
-

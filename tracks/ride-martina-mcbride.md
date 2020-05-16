@@ -1,8 +1,11 @@
 ---
+album: Shine
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:7MvLFMYRobirhlRMJZrSP1
 features: []
-genres: []
+first_released_as_single: true
 key: ride-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/ride.html
 name: Ride
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2008
+runtime: 236880
 ---
-
 Yeah
 
 You wake up from your dreamin' and you don't want to face the day
@@ -74,6 +78,3 @@ Laugh even when you want to cry
 Hold on tight to what you feel inside and ride
 
 Ride, ride, yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Abba
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:6T5UMetPqrN3YKK2oNZnr3
 features: []
-genres: []
+first_released_as_single: false
 key: sos-abba
 lyrics_url: https://genius.com/Abba-sos-lyrics
 name: SOS
@@ -75,6 +78,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 203640
 ---
 Where are those happy days? They seem so hard to find
 I tried to reach for you, but you have closed your mind

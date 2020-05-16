@@ -1,10 +1,13 @@
 ---
+album: My Krazy Life
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:5G47DlluL671zo0k3OhoSm
 features:
 - Jeezy
 - Rich Homie Quan
-genres: []
+first_released_as_single: true
 key: my-hitta-yg-jeezy-rich-homie-quan
 lyrics_url: https://genius.com/Yg-my-hitta-lyrics
 name: My Hitta
@@ -121,6 +124,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2013
+runtime: 236093
 ---
 Mustard on the beat
 

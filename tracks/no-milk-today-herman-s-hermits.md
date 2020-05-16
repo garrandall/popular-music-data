@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:1bas9EMFNPwEolxIMMRWWH
 features: []
-genres: []
+first_released_as_single: false
 key: no-milk-today-herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-no-milk-today-lyrics
 name: No Milk Today
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1966
+runtime: 176440
 ---
 No milk today, my love has gone away
 The bottle stands forlorn, a symbol of the dawn

@@ -1,10 +1,13 @@
 ---
+album: Starving
 artists:
 - Hailee Steinfeld
 - Grey
+external_ids:
+  spotify: spotify:track:4Ce37cRWvM1vIGGynKcs22
 features:
 - Zedd
-genres: []
+first_released_as_single: true
 key: starving-hailee-steinfeld-grey-zedd
 lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/starving.html
 name: Starving
@@ -125,8 +128,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2016
+runtime: 181880
 ---
-
 You know just what to say
 Things that scare me
 I should just walk away
@@ -177,6 +181,3 @@ I didn't know that I was starving 'til I tasted you
 The more that I know you, the more I want to
 Something inside me's changed
 I was so much younger yesterday
-
-
-

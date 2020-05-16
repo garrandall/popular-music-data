@@ -1,9 +1,12 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:4bl1HBZliBuYpFZjWgefE4
 features:
 - Meek Mill
-genres: []
+first_released_as_single: false
 key: peta-roddy-ricch-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/peta.html
 name: Peta
@@ -24,9 +27,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 198848
 ---
-
-
 Yeah, yeah
 
 I used to fuck up my re-up
@@ -130,6 +133,3 @@ I get a bag, then double it (Double it)
 All of that talk, it ain't adding up (Adding up)
 These niggas calling a peace treaty
 Bitch, I've been turning the static up
-
-
-

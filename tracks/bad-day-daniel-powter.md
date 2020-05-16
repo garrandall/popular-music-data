@@ -1,8 +1,11 @@
 ---
+album: Daniel Powter (U.S. Release)
 artists:
 - Daniel Powter
+external_ids:
+  spotify: spotify:track:0mUyMawtxj1CJ76kn9gIZK
 features: []
-genres: []
+first_released_as_single: false
 key: bad-day-daniel-powter
 lyrics_url: https://www.azlyrics.com/lyrics/danielpowter/badday.html
 name: Bad Day
@@ -135,8 +138,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2005
+runtime: 233640
 ---
-
 Where is the moment we needed the most
 You kick up the leaves and the magic is lost
 They tell me your blue skies fade to grey
@@ -205,6 +209,3 @@ You had a bad day
 Had a bad day
 Had a bad day
 Had a bad day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: If My Friends Could See Me Now
 artists:
 - Linda Clifford
+external_ids:
+  spotify: spotify:track:2V26zsKzlM3i9YWhmJq1TX
 features: []
-genres: []
+first_released_as_single: false
 key: if-my-friends-could-see-me-now-linda-clifford
 lyrics_url: https://www.musixmatch.com/lyrics/Linda-Clifford/If-My-Friends-Could-See-Me-Now
 name: If My Friends Could See Me Now
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1978
+runtime: 474946
 ---
 F they could see me now
 That old gang of mine

@@ -1,9 +1,12 @@
 ---
+album: Memories...Do Not Open
 artists:
 - The Chainsmokers
 - Coldplay
+external_ids:
+  spotify: spotify:track:1dNIEtp7AY3oDAKCGg2XkH
 features: []
-genres: []
+first_released_as_single: true
 key: something-just-like-this-the-chainsmokers-coldplay
 lyrics_url: https://genius.com/The-chainsmokers-and-coldplay-something-just-like-this-lyrics
 name: Something Just Like This
@@ -164,6 +167,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 247626
 ---
 I've been reading books of old
 The legends and the myths

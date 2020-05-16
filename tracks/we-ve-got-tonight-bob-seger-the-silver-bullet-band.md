@@ -1,9 +1,12 @@
 ---
+album: Stranger In Town
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:3mj46XKJ2aEm1z7ZvbwyLi
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-got-tonight-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/We-ve-Got-Tonight
 name: We've Got Tonight
@@ -76,6 +79,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 281213
 ---
 I know it's late
 I know you're weary

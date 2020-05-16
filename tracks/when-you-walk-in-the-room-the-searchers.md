@@ -1,8 +1,11 @@
 ---
+album: Needles & Pins
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:69W8SeNtFmZCU36BKcz538
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-walk-in-the-room-the-searchers
 lyrics_url: https://genius.com/The-searchers-when-you-walk-in-the-room-lyrics
 name: When You Walk In The Room
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 140480
 ---
 I can feel a new expression on my face
 I can feel a glowing sensation taking place

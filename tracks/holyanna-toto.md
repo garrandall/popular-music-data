@@ -1,8 +1,11 @@
 ---
+album: Isolation
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:33GgRQ2PCzLGotP6KWwj1T
 features: []
-genres: []
+first_released_as_single: false
 key: holyanna-toto
 lyrics_url: https://www.musixmatch.com/lyrics/To-To/Holyanna
 name: Holyanna
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 257773
 ---
 Your hair's a mess
 You better put on a dress

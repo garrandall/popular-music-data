@@ -1,8 +1,11 @@
 ---
+album: I Wrote A Simple Song
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:6YMZ5TzoHef74i0q2H3rFZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-wrote-a-simple-song-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/iwroteasimplesong.html
 name: I Wrote A Simple Song
@@ -27,8 +30,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 205826
 ---
-
 I wrote a simple song
 With simple words and harmony
 Wasn't very long
@@ -65,6 +69,3 @@ I wrote it for you
 It's yours and mine
 
 Yeah, yeah...
-
-
-

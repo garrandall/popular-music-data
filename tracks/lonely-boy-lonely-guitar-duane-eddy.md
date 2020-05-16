@@ -1,8 +1,11 @@
 ---
+album: The Best Of Duane Eddy
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:1TUgwU1KIVdyCt6V75Rjc8
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-boy-lonely-guitar-duane-eddy
 lyrics_url: https://www.musixmatch.com/lyrics/Duane-Eddy/Lonely-Boy-Lonely-Guitar
 name: Lonely Boy Lonely Guitar
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 138706
 ---
 Lonely boy
 Keep playing on

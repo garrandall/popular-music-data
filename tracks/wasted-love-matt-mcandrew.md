@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Matt McAndrew
+external_ids:
+  spotify: spotify:track:0VUcwoRvX8qWyVULi6t0aV
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-love-matt-mcandrew
 lyrics_url: https://www.azlyrics.com/lyrics/mattmcandrew/wastedlove.html
 name: Wasted Love
@@ -11,8 +14,9 @@ rankings:
   rank: 14
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2015
+runtime: 209330
 ---
-
 Oh wasted love
 
 So I'm not supposed to love you no more
@@ -51,6 +55,3 @@ If I have to die let me testify, that's how it's gonna be
 Has anybody seen all my wasted love?
 
 Bring it back to me, all my wasted love
-
-
-

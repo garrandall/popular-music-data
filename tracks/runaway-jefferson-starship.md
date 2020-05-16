@@ -1,8 +1,11 @@
 ---
+album: Earth
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:3QNalg8Q83fCmaz5efca2t
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/runaway.html
 name: Runaway
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 321906
 ---
-
 You don't know how much I love you 
 but I love you like the sun 
 I'd like to put my arms around you 
@@ -94,6 +98,3 @@ if you knew how much I need you
 oh and I need you like the air 
 and if someone should take you from me 
 well then I'd runaway...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Variations
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:12XytaJ9BtHlqCPRSnIdFE
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-love-me-anymore-eddie-rabbitt
 lyrics_url: https://genius.com/Eddie-rabbitt-you-dont-love-me-anymore-lyrics
 name: You Don't Love Me Anymore
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 202226
 ---
 It'd be a lie to say that
 I'm not gonna miss you

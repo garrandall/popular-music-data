@@ -1,8 +1,11 @@
 ---
+album: Penetration! The Best of the Pyramids
 artists:
 - The Pyramids
+external_ids:
+  spotify: spotify:track:2ORXFszhtyXn5MwVJcmiK6
 features: []
-genres: []
+first_released_as_single: true
 key: penetration-the-pyramids
 lyrics_url: https://genius.com/The-pyramids-penetration-lyrics
 name: Penetration
@@ -47,5 +50,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 123167
 ---
 Instrumental

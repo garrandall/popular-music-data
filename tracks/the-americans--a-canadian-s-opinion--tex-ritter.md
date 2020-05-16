@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Tex Ritter
+external_ids:
+  spotify: spotify:track:76RAOpEGQesIFuT7acGH3r
 features: []
-genres: []
+first_released_as_single: false
 key: the-americans--a-canadian-s-opinion--tex-ritter
 name: The Americans (A Canadian's Opinion)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1974
+runtime: 287826
 ---
 

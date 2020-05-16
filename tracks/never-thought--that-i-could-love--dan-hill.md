@@ -1,8 +1,11 @@
 ---
+album: Never Thought
 artists:
 - Dan Hill
+external_ids:
+  spotify: spotify:track:5FXFVcSFuGLOLdYqWTbXGK
 features: []
-genres: []
+first_released_as_single: true
 key: never-thought--that-i-could-love--dan-hill
 lyrics_url: https://www.azlyrics.com/lyrics/danhill/neverthoughtthaticouldlove.html
 name: Never Thought (That I Could Love)
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1987
+runtime: 212028
 ---
-
 Can I touch you?
 I can't believe that you are real
 How did I ever find you?
@@ -127,6 +131,3 @@ I know it's true
 I never thought that I could need
 Someone as much as I need you
 I LOVE YOU
-
-
-

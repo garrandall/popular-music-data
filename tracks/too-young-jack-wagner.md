@@ -1,8 +1,11 @@
 ---
+album: Lighting Up The Night
 artists:
 - Jack Wagner
+external_ids:
+  spotify: spotify:track:42W8NXxt46ZWahftrm4mYX
 features: []
-genres: []
+first_released_as_single: false
 key: too-young-jack-wagner
 lyrics_url: https://www.azlyrics.com/lyrics/jackwagner/tooyoung.html
 name: Too Young
@@ -63,8 +66,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 251133
 ---
-
 Hello love it's been way too long
 Since I realized that you're the
 Most important thing in my life
@@ -111,6 +115,3 @@ And I just walk away
 
 True love comes once in a lifetime
 And if it's true then you'll be back in mine
-
-
-

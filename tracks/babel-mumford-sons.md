@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:7nhItJUpHMXJURhZNyXHJs
 features: []
-genres: []
+first_released_as_single: false
 key: babel-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/babel.html
 name: Babel
@@ -28,8 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-11-10'
+release_year: 2012
+runtime: 208933
 ---
-
 'Cause I know that time has numbered my days
 And I'll go along with everything you say
 But I'll ride home laughing, look at me now
@@ -65,6 +69,3 @@ Well I'm gonna tear, tear them down
 And I'll believe in grace and choice
 And I know perhaps my heart is farce,
 But I'll be born without a mask
-
-
-

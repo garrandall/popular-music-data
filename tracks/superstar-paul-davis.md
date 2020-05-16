@@ -1,8 +1,11 @@
 ---
+album: Southern Tracks & Fantasies
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:4cKjhGj5C7X4rzbNNc4Ai0
 features: []
-genres: []
+first_released_as_single: false
 key: superstar-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/superstar.html
 name: Superstar
@@ -43,8 +46,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
+release_year: 1976
+runtime: 190333
 ---
-
 Bernie writes the words
 While Elton makes the music and the melody
 Philadelphia Freedom
@@ -98,6 +102,3 @@ Whoa
 Sing another song and make me happy
 Come on and sing it (happy)
 Whoa
-
-
-

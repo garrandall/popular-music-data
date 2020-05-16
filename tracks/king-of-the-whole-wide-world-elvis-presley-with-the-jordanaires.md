@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:7MlLniISZNUzEQx23jcobU
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-the-whole-wide-world-elvis-presley-with-the-jordanaires
 name: King Of The Whole Wide World
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
+release_year: 1962
+runtime: 221786
 ---
 

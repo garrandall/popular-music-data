@@ -1,8 +1,11 @@
 ---
+album: Jade To The Max
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:6yosQszs2pOEkmGKOqagmN
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-mr-do-right-jade
 lyrics_url: https://www.azlyrics.com/lyrics/jade/lookingformrdoright.html
 name: Looking For Mr Do Right
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1992
+runtime: 377373
 ---
-
 It's rainin' again, what time is it?
 Man, I can't believe he done stood me up again
 I don't deserve this, what kind of fool does he think I am?
@@ -115,6 +119,3 @@ Don't keep me waiting, anticipating, oh
 I worked all week long, I need a Mr.
 I need a man who's back is real strong
 Fulfill me, take care of my sexual desires, baby
-
-
-

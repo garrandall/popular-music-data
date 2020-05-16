@@ -1,9 +1,12 @@
 ---
+album: Fifth Harmony
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:2VC3ChEWNVjbLNHv2kk2rk
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: down-fifth-harmony-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/down.html
 name: Down
@@ -48,9 +51,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 164985
 ---
-
-
 It's Gucci
 Fifth Harmony
 
@@ -118,6 +121,3 @@ I'm gon' keep lovin' you down, down, down (down down down)
 Long as you're holding me down, down, down (I'm gon' love you down)
 I'm gon' keep lovin' you down, down, down (long as you're lovin' me, boy)
 I'm gon' keep lovin' you
-
-
-

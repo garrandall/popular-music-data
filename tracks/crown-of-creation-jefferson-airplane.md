@@ -1,8 +1,11 @@
 ---
+album: Crown Of Creation
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:1JSkbxhF7tLSC7br7ZSlnX
 features: []
-genres: []
+first_released_as_single: false
 key: crown-of-creation-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/crownofcreation.html
 name: Crown Of Creation
@@ -31,8 +34,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 174333
 ---
-
 You are the crown of creation.
 You are the crown of creation,
 And you've got no place to go.
@@ -52,6 +56,3 @@ I've seen their ways too often for my liking.
 New worlds to gain.
 My life is to survive and be alive
 for you.
-
-
-

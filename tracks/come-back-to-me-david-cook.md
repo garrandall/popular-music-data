@@ -1,8 +1,11 @@
 ---
+album: David Cook
 artists:
 - David Cook
+external_ids:
+  spotify: spotify:track:55r33uTqnLglVMHb1qeWOd
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-to-me-david-cook
 lyrics_url: https://genius.com/David-cook-come-back-to-me-lyrics
 name: Come Back To Me
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2008
+runtime: 248000
 ---
 You say you gotta go and find yourself
 You say that you're becoming someone else

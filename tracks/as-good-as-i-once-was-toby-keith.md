@@ -1,8 +1,11 @@
 ---
+album: Honkytonk University
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:7G6l2FtQyRhQgYgut2I6i8
 features: []
-genres: []
+first_released_as_single: false
 key: as-good-as-i-once-was-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/asgoodasioncewas.html
 name: As Good As I Once Was
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2005-10-15'
+release_year: 2005
+runtime: 227840
 ---
-
 She said, "I've seen you in here before."
 I said, "I've been here a time or two."
 She said, "Hello, my name is Bobby Jo.
@@ -150,6 +154,3 @@ I ain't as good as I once was,
 But I'm as good once as I ever was.
 May not be good as I once was,
 But I'm as good once as I ever was.
-
-
-

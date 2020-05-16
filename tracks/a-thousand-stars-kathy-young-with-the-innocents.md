@@ -1,9 +1,12 @@
 ---
+album: Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s
 artists:
 - Kathy Young
+external_ids:
+  spotify: spotify:track:7Dy27tUFbWYz0LvjwLZNOm
+features:
 - The Innocents
-features: []
-genres: []
+first_released_as_single: false
 key: a-thousand-stars-kathy-young-with-the-innocents
 lyrics_url: https://genius.com/Kathy-young-and-the-innocents-a-thousand-stars-lyrics
 name: A Thousand Stars
@@ -76,6 +79,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1960
+runtime: 196173
 ---
 A thousand stars in the sky like the stars in your eyes
 

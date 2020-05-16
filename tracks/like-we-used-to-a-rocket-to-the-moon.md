@@ -1,8 +1,11 @@
 ---
+album: On Your Side
 artists:
 - A Rocket To The Moon
+external_ids:
+  spotify: spotify:track:1fkYmLPG2Oi2AkUmcspWKl
 features: []
-genres: []
+first_released_as_single: false
 key: like-we-used-to-a-rocket-to-the-moon
 lyrics_url: https://genius.com/A-rocket-to-the-moon-like-we-used-to-lyrics
 name: Like We Used To
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2009
+runtime: 203733
 ---
 I can feel her breath as she's sleepin' next to me
 Sharing pillows and cold feet

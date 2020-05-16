@@ -1,8 +1,11 @@
 ---
+album: Freestyle's Best Extended Versions Volumes 3 & 4
 artists:
 - Coro
+external_ids:
+  spotify: spotify:track:4Giio956wWyTnnCy1rn7ti
 features: []
-genres: []
+first_released_as_single: false
 key: my-fallen-angel-coro
 lyrics_url: https://genius.com/Coro-my-fallen-angel-lyrics
 name: My Fallen Angel
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1991
+runtime: 340773
 ---
 Rising high
 In the morning and the night

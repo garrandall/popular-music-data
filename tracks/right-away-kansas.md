@@ -1,8 +1,11 @@
 ---
+album: Vinyl Confessions
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:6k6yVo0nobVomoqbD1yMvc
 features: []
-genres: []
+first_released_as_single: false
 key: right-away-kansas
 lyrics_url: https://genius.com/Kansas-right-away-lyrics
 name: Right Away
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 247280
 ---
 Right away, love me right away
 Won't you come on girl, there's no other way

@@ -1,8 +1,11 @@
 ---
+album: To Love Again
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:0ADGuGGvnMARcVEukq2II9
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-chance-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/onemorechance.html
 name: One More Chance
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1981
+runtime: 262426
 ---
-
 Feel like a fool
 Not realizing all the value you had
 I took a happy ending and made it sad
@@ -89,6 +93,3 @@ One more chance
 One more
 One more chance
 One more chance
-
-
-

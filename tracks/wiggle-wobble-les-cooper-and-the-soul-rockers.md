@@ -1,8 +1,11 @@
 ---
+album: Everlast Records Complete
 artists:
 - Les Cooper and the Soul Rockers
+external_ids:
+  spotify: spotify:track:23mgC51wSWICSQq21Cq8l7
 features: []
-genres: []
+first_released_as_single: false
 key: wiggle-wobble-les-cooper-and-the-soul-rockers
 name: Wiggle Wobble
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1958
+runtime: 125373
 ---
 

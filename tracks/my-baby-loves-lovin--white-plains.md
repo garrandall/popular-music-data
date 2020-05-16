@@ -1,8 +1,11 @@
 ---
+album: My Baby Loves Lovin'
 artists:
 - White Plains
+external_ids:
+  spotify: spotify:track:60uo2N8udBgkYt2dHGB0qp
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-loves-lovin--white-plains
 lyrics_url: https://genius.com/White-plains-my-baby-loves-lovin-lyrics
 name: My Baby Loves Lovin'
@@ -67,6 +70,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 167306
 ---
 My baby love (loves)
 My baby loves lovin'

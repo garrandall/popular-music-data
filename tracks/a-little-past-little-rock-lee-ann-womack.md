@@ -1,8 +1,11 @@
 ---
+album: Some Things I Know
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:0ieL9hQJOHdlnyeOoBv768
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-past-little-rock-lee-ann-womack
 lyrics_url: https://www.musixmatch.com/lyrics/Lee-Ann-Womack-Jason-Sellers/A-Little-Past-Little-Rock
 name: A Little Past Little Rock
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-01-02'
+release_year: 1998
+runtime: 256399
 ---
 I had to leave my life in Dallas
 That town will always be you

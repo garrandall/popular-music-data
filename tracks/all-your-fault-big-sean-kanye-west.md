@@ -1,9 +1,12 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:30CZcZ0NpTXjVJJa5X5nwf
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: all-your-fault-big-sean-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/allyourfault.html
 name: All Your Fault
@@ -12,9 +15,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2015
+runtime: 224386
 ---
-
-
 Yeah, you know we good
 You talkin' about this shit but whatever
 We can go back and forth all day
@@ -103,6 +106,3 @@ Got my pinky on her brain while I'm gettin' brain plottin' world domination
 (People ask me how I done make it)
 I'm just like "man if you want the crown, bitch you gotta take it"
 Straight up
-
-
-

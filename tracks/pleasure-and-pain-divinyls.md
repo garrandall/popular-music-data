@@ -1,8 +1,11 @@
 ---
+album: What A Life!
 artists:
 - Divinyls
+external_ids:
+  spotify: spotify:track:5n4sNcxXDElyEZakYyqXNv
 features: []
-genres: []
+first_released_as_single: false
 key: pleasure-and-pain-divinyls
 lyrics_url: https://www.azlyrics.com/lyrics/divinyls/pleasureandpain.html
 name: Pleasure And Pain
@@ -35,8 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1985
+runtime: 234093
 ---
-
 Lover lover why do you push
 Why do you push, why do you push
 Baby baby, did you forget about me
@@ -64,6 +68,3 @@ It's a fine, fine line between pleasure and pain
 It's all the same
 It's all the same
 It's all the same
-
-
-

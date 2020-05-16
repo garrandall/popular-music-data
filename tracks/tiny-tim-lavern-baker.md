@@ -1,8 +1,11 @@
 ---
+album: The Complete Singles As & BS 1949-62, Vol. 2
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:2jX3sfpXRqdFsCfvUWWvYx
 features: []
-genres: []
+first_released_as_single: false
 key: tiny-tim-lavern-baker
 lyrics_url: https://www.musixmatch.com/lyrics/Lavern-Baker/Tiny-Tim
 name: Tiny Tim
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1959
+runtime: 140906
 ---
 Girls, his name is Tiny Tim
 And if go out with him

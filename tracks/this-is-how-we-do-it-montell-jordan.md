@@ -1,8 +1,11 @@
 ---
+album: This Is How We Do It
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:6uQKuonTU8VKBz5SHZuQXD
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-how-we-do-it-montell-jordan
 lyrics_url: https://genius.com/Montell-jordan-this-is-how-we-do-it-lyrics
 name: This Is How We Do It
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1995-09-09'
+release_year: 1995
+runtime: 238800
 ---
 (Background chatter)
 This is how we do it!

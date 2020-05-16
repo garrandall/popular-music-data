@@ -1,8 +1,11 @@
 ---
+album: Total
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:1S8nL8nzUNmLz9SbqdXLxE
 features: []
-genres: []
+first_released_as_single: false
 key: when-boy-meets-girl-total
 lyrics_url: https://genius.com/Total-when-boy-meets-girl-lyrics
 name: When Boy Meets Girl
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1996
+runtime: 258573
 ---
 You can't deny what you feel for me
 Baby, baby, baby, baby

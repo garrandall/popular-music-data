@@ -1,8 +1,11 @@
 ---
+album: 'King Of The Road: The Genius Of Roger Miller'
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:1HjGctfkZjMHOEMJe9I755
 features: []
-genres: []
+first_released_as_single: false
 key: little-green-apples-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/littlegreenapples.html
 name: Little Green Apples
@@ -43,8 +46,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1968
+runtime: 157760
 ---
-
 Well I wake up in the morning 
 With my hair down in my eyes and she says 'hi'
 Then I stumble to the breakfast table
@@ -78,6 +82,3 @@ And if that's not loving me all then all I've got to say
 It don't snow in Indianapolis when the winter comes
 And there's no such thing as make believe no puppy dogs
 No autumn leaves no
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: More Monty
 artists:
 - Andrea True Connection
+external_ids:
+  spotify: spotify:track:1EtDI7CDVN8qkVaXfkmCdC
 features: []
-genres: []
+first_released_as_single: false
 key: more-more-more-pt-1-andrea-true-connection
 lyrics_url: https://www.musixmatch.com/lyrics/Andrea-True-Connection/More-More-More-Pt-1
 name: More More More Pt 1
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 179133
 ---
 Oh, how do you like your love?
 Oh, how do you like your love?

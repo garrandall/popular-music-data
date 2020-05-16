@@ -1,8 +1,11 @@
 ---
+album: Taylored In Silk
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:5ol5vmBHvjrdEXfky3gsQk
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-you--you-believe-in-me--johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-i-believe-in-you-lyrics
 name: I Believe In You (You Believe In Me)
@@ -71,6 +74,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1973
+runtime: 306933
 ---
 I feel sorry, yeah, I feel sorry
 I feel sorry, yeah, oh, I feel sorry

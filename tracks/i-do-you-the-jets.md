@@ -1,8 +1,11 @@
 ---
+album: The Jets Greatest Hits
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:1x3Cgm0OyeembVTCjEEBbC
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-you-the-jets
 lyrics_url: https://genius.com/The-jets-group-i-do-you-lyrics
 name: I Do You
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 218200
 ---
 No one ever told me
 A heart could ache as bad as mine

@@ -1,8 +1,11 @@
 ---
+album: No Jacket Required
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:2ZIzyHDYsXIHUojfr6bAbO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-lose-my-number-phil-collins
 lyrics_url: https://genius.com/Phil-collins-dont-lose-my-number-lyrics
 name: Don't Lose My Number
@@ -79,6 +82,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 288546
 ---
 They came at night leaving fear behind
 Shadows were on the ground

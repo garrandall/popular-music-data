@@ -1,8 +1,11 @@
 ---
+album: Animalisms
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:3AbkoN2ULACg0J0qu9lO4B
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-bring-me-down-the-animals
 lyrics_url: https://genius.com/The-animals-dont-bring-me-down-lyrics
 name: Don't Bring Me Down
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1965
+runtime: 195053
 ---
 When you complain and criticize
 I feel I'm nothing in your eyes

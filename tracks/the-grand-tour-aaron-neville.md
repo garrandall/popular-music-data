@@ -1,8 +1,11 @@
 ---
+album: The Grand Tour
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:2Gq4nzbV9bDcwfqChVJSnA
 features: []
-genres: []
+first_released_as_single: false
 key: the-grand-tour-aaron-neville
 lyrics_url: https://www.azlyrics.com/lyrics/aaronneville/thegrandtour.html
 name: The Grand Tour
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1993
+runtime: 202400
 ---
-
 Step right up come on in
 If you'd like to take the grand tour
 Of the lonely house that once was
@@ -71,6 +75,3 @@ And my heart
 
 Step right up come on in
 Come on in
-
-
-

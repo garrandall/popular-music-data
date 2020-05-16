@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2018
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:0AtqvjKdpvW2f5d9TbBObz
 features: []
-genres: []
+first_released_as_single: false
 key: talk-you-out-of-it-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/talkyououtofit.html
 name: Talk You Out Of It
@@ -111,8 +114,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 202920
 ---
-
 Girl I know you had a long day
 You ain't feelin' them downtown lights
 But I got a bottle at your favorite place
@@ -162,6 +166,3 @@ And now you're lookin' like a line from a Vandross song
 I'm looking at the fine little dress you got on
 Don't get me wrong, girl, I love it
 Now I just wanna talk you out of it
-
-
-

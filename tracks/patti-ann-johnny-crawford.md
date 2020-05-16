@@ -1,8 +1,11 @@
 ---
+album: The Captivatin Johnny Crawford
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:543Qtjzov7A5acT4He5yUt
 features: []
-genres: []
+first_released_as_single: false
 key: patti-ann-johnny-crawford
 name: Patti Ann
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 132133
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Troubadour
 artists:
 - J.J. Cale
+external_ids:
+  spotify: spotify:track:4WAAWYNAA4RIgzKMjG3uGI
 features: []
-genres: []
+first_released_as_single: false
 key: hey-baby-j-j--cale
 lyrics_url: https://www.azlyrics.com/lyrics/jjcale/heybaby.html
 name: Hey Baby
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-01-08'
+release_year: 1976
+runtime: 191973
 ---
-
 Hey baby, it's your time now
 Hey baby, you made it somehow
 Don't let nobody come and bring you down
@@ -41,6 +45,3 @@ You make the day a song like I knew you would
 When you came into my life Lord, I thought I would die
 I never met nobody like you
 For telling my troubles to
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Living Together, Growing Together
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:6NA7N50J77v5HYhLhcsFa4
 features: []
-genres: []
+first_released_as_single: false
 key: living-together-growing-together-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/livingtogethergrowingtogether.html
 name: Living Together Growing Together
@@ -43,8 +46,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 230826
 ---
-
 Start with a man and you have one
 Add on a woman and then you have two
 Add on a child and what have you got?
@@ -101,6 +105,3 @@ If things go wrong
 We'll still get along somehow
 Living and growing
 Just like we're doing now, together
-
-
-

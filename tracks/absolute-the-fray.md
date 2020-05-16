@@ -1,8 +1,11 @@
 ---
+album: The Fray
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:6sSDEFMeyf16WRDLRCXwTc
 features: []
-genres: []
+first_released_as_single: false
 key: absolute-the-fray
 lyrics_url: https://www.azlyrics.com/lyrics/fray/absolute.html
 name: Absolute
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2009
+runtime: 227080
 ---
-
 I've seen this one before, the girl she gets away
 Everybody knows it but no one tries to stop it
 'Cause she barely even knows him but if she could see inside
@@ -52,6 +56,3 @@ Tell me everything 'cause I want to hear
 
 There is something here
 There is something here
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Room With A View
 artists:
 - Carolyn Dawn Johnson
+external_ids:
+  spotify: spotify:track:36tF6W2QhApwWMyp18WNqo
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-you-to-go-carolyn-dawn-johnson
 lyrics_url: https://genius.com/Carolyn-dawn-johnson-i-dont-want-you-to-go-lyrics
 name: I Don't Want You To Go
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 1999
+runtime: 272600
 ---
 Monday morning is such a rush uh-uh uh yeah
 Here it is again sneaking up on us uh-uh uh yeah
@@ -76,4 +81,3 @@ Cause here we go again watching the sun come up
 I know tomorrow my best friend will be my coffee cup
 Because here we go again
 Watching the sun come up oh yeah
-

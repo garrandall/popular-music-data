@@ -1,8 +1,11 @@
 ---
+album: Bette Midler
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:0qjkcEPLEGzzp8TwaT28yA
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-mood-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/inthemood.html
 name: In The Mood
@@ -35,8 +38,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1973
+runtime: 159466
 ---
-
 Jumping with my boy, Sid
 right here in the city.
 Don't you know that is was grand?
@@ -119,6 +123,3 @@ I'm only saying that it didn't take me long,
 didn't take me long, didn't take me long
 to say I'm in the mood.
 Your flat foot floozy wants a good boy!
-
-
-

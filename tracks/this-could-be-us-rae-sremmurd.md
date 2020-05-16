@@ -1,8 +1,11 @@
 ---
+album: SremmLife
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:4jTiyLlOJVJj3mCr7yfPQD
 features: []
-genres: []
+first_released_as_single: false
 key: this-could-be-us-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-this-could-be-us-lyrics
 name: This Could Be Us
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 206306
 ---
 (Hey)
 I heard it before

@@ -1,8 +1,11 @@
 ---
+album: Country Party, Vol. 2
 artists:
 - Canyon
+external_ids:
+  spotify: spotify:track:6Lp977PtQgJRdSIDryNcgb
 features: []
-genres: []
+first_released_as_single: false
 key: top-of-the-world--make-my-reservation--canyon
 lyrics_url: https://genius.com/Canyon-top-of-the-world-lyrics
 name: Top Of The World (Make My Reservation)
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1975
+runtime: 150000
 ---
 People rushing pushing shoving trying to get by
 Everybody's got a place to go or something to try

@@ -1,8 +1,11 @@
 ---
+album: Mercy
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:3ErPBLF9S8GFeYkp8tOuJs
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-ohio-express
 lyrics_url: https://genius.com/Ohio-express-mercy-lyrics
 name: Mercy
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 144466
 ---
 I love you mercy, mercy
 Oh, you know, you're such a beautiful thing

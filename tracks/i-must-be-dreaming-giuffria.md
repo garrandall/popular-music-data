@@ -1,8 +1,11 @@
 ---
+album: Silk + Steel
 artists:
 - Giuffria
+external_ids:
+  spotify: spotify:track:1gsxcnM0yQfuJFAbapYwbM
 features: []
-genres: []
+first_released_as_single: false
 key: i-must-be-dreaming-giuffria
 lyrics_url: https://genius.com/Giuffria-i-must-be-dreaming-lyrics
 name: I Must Be Dreaming
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1986
+runtime: 263840
 ---
 You're in my blood, and I can't help but love you
 Don't pull away, I tell you that I love you

@@ -1,8 +1,11 @@
 ---
+album: The Essential Collection
 artists:
 - Rod Bernard
+external_ids:
+  spotify: spotify:track:6voBht3aVPwQWiwSP2fEAe
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-chance-rod-bernard
 lyrics_url: https://genius.com/Rod-bernard-one-more-chance-lyrics
 name: One More Chance
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
+release_year: 1959
+runtime: 167826
 ---
 If I could change a wrong to right
 That's just what I’d do tonight

@@ -1,8 +1,11 @@
 ---
+album: Under Rug Swept
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:2LVxvGhl2U5p2ql2ujc6vZ
 features: []
-genres: []
+first_released_as_single: false
 key: hands-clean-alanis-morissette
 lyrics_url: https://www.azlyrics.com/lyrics/alanismorissette/handsclean.html
 name: Hands Clean
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-06-15'
+release_year: 2002
+runtime: 269400
 ---
-
 If it weren't for your maturity none of this would have happened
 If you weren't so wise beyond your years I would've been able to control myself
 If it weren't for my attention you wouldn't have been successful and
@@ -105,7 +109,7 @@ And I have honored your request for silence
 And you've washed your hands clean of this
 
 You're essentially an employee and I like you having to depend on me
-You're a kind of my protÃ©gÃ© and one day you'll say you learned all you know from me
+You're a kind of my protégé and one day you'll say you learned all you know from me
 I know you depend on me like a young thing would to a guardian
 I know you sexualize me like a young thing would and I think I like it
 
@@ -132,6 +136,3 @@ Oh this could be messy and
 Oh I don't seem to mind
 Oh don't go telling everybody
 And overlook this supposed crime
-
-
-

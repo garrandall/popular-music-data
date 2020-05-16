@@ -1,8 +1,11 @@
 ---
+album: Chapter II
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:1YZBMqN8kHaaRPXpQTC3kb
 features: []
-genres: []
+first_released_as_single: false
 key: rain-on-me-ashanti
 lyrics_url: https://genius.com/Ashanti-rain-on-me-lyrics
 name: Rain On Me
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
+release_year: 2003
+runtime: 297960
 ---
 I'm looking in the mirror at this woman, down and out
 She's internally dying and knew this was not what love's about

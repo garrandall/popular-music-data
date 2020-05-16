@@ -1,8 +1,11 @@
 ---
+album: The Whispers' Love Story
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:3nkK1yydmu6hhJ9o2fmFeF
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-is-so-doggone-good-the-whispers
 lyrics_url: https://genius.com/The-whispers-your-love-is-so-doggone-good-lyrics
 name: Your Love Is So Doggone Good
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 159066
 ---
 Hm, mmm, mmm, mmm
 

@@ -1,8 +1,11 @@
 ---
+album: Smooth
 artists:
 - Smooth
+external_ids:
+  spotify: spotify:track:4kYBrdNJUdoB7iJs9WJMvu
 features: []
-genres: []
+first_released_as_single: false
 key: mind-blowin--smooth
 lyrics_url: https://genius.com/Smooth-mind-blowin-lyrics
 name: Mind Blowin'
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1995
+runtime: 255960
 ---
 (It's just a ghetto thing)
 Mind blowin', mind blowin'

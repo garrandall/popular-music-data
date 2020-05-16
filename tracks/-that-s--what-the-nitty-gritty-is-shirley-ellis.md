@@ -1,8 +1,11 @@
 ---
+album: The Clapping Song... And More
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:0YgdjmDh0OEGyFsMBHjEoH
 features: []
-genres: []
+first_released_as_single: false
 key: -that-s--what-the-nitty-gritty-is-shirley-ellis
 lyrics_url: https://genius.com/Shirley-ellis-thats-what-the-nitty-gritty-is-lyrics
 name: (That's) What The Nitty Gritty Is
@@ -31,6 +34,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 154760
 ---
 Everybody's asking what the nitty gritty
 The nitty gritty's anything you want it to be

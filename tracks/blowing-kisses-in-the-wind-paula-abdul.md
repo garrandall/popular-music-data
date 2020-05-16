@@ -1,8 +1,11 @@
 ---
+album: Spellbound
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:1uhsVQi7IADIxZXN1xJnk5
 features: []
-genres: []
+first_released_as_single: false
 key: blowing-kisses-in-the-wind-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/blowingkissesinthewind.html
 name: Blowing Kisses In The Wind
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1991
+runtime: 281797
 ---
-
 SO TELL BABY TELL YOUR TRUE HEART 
 SAY WHAT YOU SAY WHEN YOU'RE ALL ALONE 
 I'M TRYING 
@@ -150,6 +154,3 @@ LIKE I'M BLOWING KISSES IN THE WIND
 WAITING FOR YOU IS 
 
 IS LIKE BLOWING, BLOWING KISSES
-
-
-

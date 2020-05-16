@@ -1,8 +1,11 @@
 ---
+album: The Beatles
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:64P3zpRsDHIk7YTpRtaKYL
 features: []
-genres: []
+first_released_as_single: false
 key: something-the-beatles
 lyrics_url: https://genius.com/The-beatles-something-lyrics
 name: Something
@@ -31,6 +34,8 @@ rankings:
   rank: 3
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1968
+runtime: 144773
 ---
 Something in the way she moves
 Attracts me like no other lover

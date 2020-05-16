@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Barbara Acklin
+external_ids:
+  spotify: spotify:track:6NVzt2cA5Mgjd3pQjU1xwD
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-the-same-girl-barbara-acklin
 lyrics_url: https://genius.com/Barbara-acklin-am-i-the-same-girl-lyrics
 name: Am I The Same Girl
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 178840
 ---
 Why don't you stop (stop)
 And look me over

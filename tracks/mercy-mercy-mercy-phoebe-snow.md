@@ -1,8 +1,11 @@
 ---
+album: Rock Away
 artists:
 - Phoebe Snow
+external_ids:
+  spotify: spotify:track:3MyO0d0Pc1fDS9HMipDWaC
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-mercy-phoebe-snow
 name: Mercy Mercy Mercy
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 150173
 ---
 

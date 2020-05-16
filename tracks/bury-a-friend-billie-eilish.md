@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:4SSnFejRGlZikf02HLewEF
 features: []
-genres: []
+first_released_as_single: false
 key: bury-a-friend-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-bury-a-friend-lyrics
 name: Bury A Friend
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 193143
 ---
 Billie
 

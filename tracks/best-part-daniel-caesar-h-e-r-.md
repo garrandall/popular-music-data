@@ -1,9 +1,12 @@
 ---
+album: Freudian
 artists:
 - Daniel Caesar
+external_ids:
+  spotify: spotify:track:1RMJOxR6GRPsBHL8qeC2ux
 features:
 - H.E.R.
-genres: []
+first_released_as_single: false
 key: best-part-daniel-caesar-h-e-r-
 lyrics_url: https://www.azlyrics.com/lyrics/danielcaesar/bestpart.html
 name: Best Part
@@ -84,9 +87,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2017
+runtime: 209831
 ---
-
-
 Oh, ey
 
 You don't know babe
@@ -153,6 +156,3 @@ If you love me won't you
 If you love me won't you say something
 If you love me won't you
 Love me, won't you
-
-
-

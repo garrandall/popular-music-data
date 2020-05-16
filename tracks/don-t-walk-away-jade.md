@@ -1,8 +1,11 @@
 ---
+album: Jade To The Max
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:7tsRp7QKUBp6hc9bth0h7x
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-walk-away-jade
 lyrics_url: https://genius.com/Jade-dont-walk-away-lyrics
 name: Don't Walk Away
@@ -147,6 +150,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
+release_year: 1992
+runtime: 216373
 ---
 "Hi! We're not in right now
 But if you leave your name and number

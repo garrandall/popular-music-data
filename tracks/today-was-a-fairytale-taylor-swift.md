@@ -1,8 +1,11 @@
 ---
+album: Today Was A Fairytale
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1P5QpwOgXJuoVTm3CWbnLY
 features: []
-genres: []
+first_released_as_single: true
 key: today-was-a-fairytale-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/todaywasafairytale.html
 name: Today Was A Fairytale
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2010
+runtime: 241813
 ---
-
 Today was a fairytale
 You were the prince
 I used to be a damsel in distress
@@ -151,6 +155,3 @@ It must have been the way
 Today was a fairytale
 
 Today was a fairytale
-
-
-

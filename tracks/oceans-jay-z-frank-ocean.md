@@ -1,9 +1,12 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - Jay Z
+external_ids:
+  spotify: spotify:track:3VeW0pO2pae144rAX2oXPP
 features:
 - Frank Ocean
-genres: []
+first_released_as_single: false
 key: oceans-jay-z-frank-ocean
 lyrics_url: https://genius.com/Genius-traductions-francaises-jay-z-oceans-ft-frank-ocean-traduction-francaise-lyrics
 name: Oceans
@@ -12,6 +15,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 237920
 ---
 (Tu vois ce putain de visage)
 Salutations, salutations, ouais, je vois...

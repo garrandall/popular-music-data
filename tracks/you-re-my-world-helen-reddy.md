@@ -1,8 +1,11 @@
 ---
+album: Ear Candy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:7Iy9xMcBIzHvuQtYrU0MZn
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-world-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-youre-my-world-lyrics
 name: You're My World
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 163800
 ---
 You're my world, you're every breath I take
 You're my world, you're every move I make

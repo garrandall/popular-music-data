@@ -1,8 +1,11 @@
 ---
+album: Summer Sounds
 artists:
 - Robert Goulet
+external_ids:
+  spotify: spotify:track:4LJl1hM6FrRGqSrhWHoJUK
 features: []
-genres: []
+first_released_as_single: false
 key: summer-sounds-robert-goulet
 lyrics_url: https://genius.com/Robert-goulet-summer-sounds-lyrics
 name: Summer Sounds
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 129680
 ---
 Happy summer sounds
 The summer sounds I love

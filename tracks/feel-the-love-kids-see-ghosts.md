@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:3aUFrxO1B8EW63QchEl3wX
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-love-kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-feel-the-love-lyrics
 name: Feel The Love
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 165053
 ---
 I can still feel the love
 I can still feel the love

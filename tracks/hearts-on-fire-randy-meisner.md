@@ -1,8 +1,11 @@
 ---
+album: One More Song
 artists:
 - Randy Meisner
+external_ids:
+  spotify: spotify:track:1NWART8FuUdzfE8d8ueETL
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-on-fire-randy-meisner
 lyrics_url: https://genius.com/Randy-meisner-hearts-on-fire-lyrics
 name: Hearts On Fire
@@ -67,6 +70,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1980
+runtime: 168733
 ---
 Had myself a tall one
 Waitin' at the bar

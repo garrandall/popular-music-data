@@ -1,8 +1,11 @@
 ---
+album: The Raw & The Cooked
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:1Iz4JdDxglpnjXzMHlpnOp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-look-back-fine-young-cannibals
 lyrics_url: https://genius.com/Fine-young-cannibals-dont-look-back-lyrics
 name: Don't Look Back
@@ -55,6 +58,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1988
+runtime: 217226
 ---
 Never had the good things only money could buy
 I'd drive my car but I haven't got a car to drive

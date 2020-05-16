@@ -1,8 +1,11 @@
 ---
+album: That's The Way Love Is
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:3RMY4zmjyswFiFUq8CfaqQ
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-forget-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-how-can-i-forget-lyrics
 name: How Can I Forget
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1970
+runtime: 124226
 ---
 They ask me to forget about you
 Go out and find someone new

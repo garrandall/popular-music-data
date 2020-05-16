@@ -1,8 +1,11 @@
 ---
+album: Richard Chamberlain Sings (TV's Dr. Kildare)
 artists:
 - Richard Chamberlain
+external_ids:
+  spotify: spotify:track:0PfEuXdMQIMgUpbWZcMWd0
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-dr-kildare--three-stars-will-shine-tonight--richard-chamberlain
 lyrics_url: https://genius.com/Richard-chamberlain-theme-from-dr-kildare-lyrics
 name: Theme From Dr Kildare (Three Stars Will Shine Tonight)
@@ -63,6 +66,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 162960
 ---
 Three stars will shine tonight, one for the lonely
 That star will shine its light each time that someone sighs

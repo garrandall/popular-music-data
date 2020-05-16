@@ -1,8 +1,11 @@
 ---
+album: The Two Of Us
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:70YloubK86R8XZ7XVQOuXF
 features: []
-genres: []
+first_released_as_single: false
 key: we-have-love-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-we-have-love-lyrics
 name: We Have Love
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1960
+runtime: 148840
 ---
 I'll take the "L" from a lemon
 Then I'll squeeze it till it's sweet

@@ -1,8 +1,11 @@
 ---
+album: Seven and the Ragged Tiger
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:3JpaL6FMH9kjVWMA1mTmRl
 features: []
-genres: []
+first_released_as_single: false
 key: union-of-the-snake-duran-duran
 lyrics_url: https://genius.com/Duran-duran-union-of-the-snake-lyrics
 name: Union Of The Snake
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
+release_year: 1983
+runtime: 259933
 ---
 Telegram force and ready
 I knew this was a big mistake

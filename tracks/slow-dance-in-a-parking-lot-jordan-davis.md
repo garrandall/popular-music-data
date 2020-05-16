@@ -1,8 +1,11 @@
 ---
+album: Home State
 artists:
 - Jordan Davis
+external_ids:
+  spotify: spotify:track:5kp3JbZL1ROMxc32pcpn29
 features: []
-genres: []
+first_released_as_single: true
 key: slow-dance-in-a-parking-lot-jordan-davis
 lyrics_url: https://www.azlyrics.com/lyrics/jordandavis/slowdanceinaparkinglot.html
 name: Slow Dance In A Parking Lot
@@ -47,8 +50,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2017
+runtime: 193929
 ---
-
 Lights go down, wheels go around
 I'm taking you home
 Hoping for a slow song to come on the radio now
@@ -91,6 +95,3 @@ And moving our feet over the painted white lines
 Getting close to you
 Making the most of whatever we got
 Even if it's just a slow dance in a parking lot
-
-
-

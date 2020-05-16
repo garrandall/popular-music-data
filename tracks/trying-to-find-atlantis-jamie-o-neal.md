@@ -1,8 +1,11 @@
 ---
+album: Brave
 artists:
 - Jamie O'Neal
+external_ids:
+  spotify: spotify:track:1sC3kJPO47Y6xJC2o1BY7u
 features: []
-genres: []
+first_released_as_single: false
 key: trying-to-find-atlantis-jamie-o-neal
 lyrics_url: https://genius.com/Jamie-oneal-trying-to-find-atlantis-lyrics
 name: Trying To Find Atlantis
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2005
+runtime: 208826
 ---
 I hear he's out there
 Somewhere

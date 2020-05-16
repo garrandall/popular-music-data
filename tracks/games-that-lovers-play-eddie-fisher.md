@@ -1,8 +1,11 @@
 ---
+album: Games That Lovers Play
 artists:
 - Eddie Fisher
+external_ids:
+  spotify: spotify:track:4t3lklr6YGeCK4MXfGkKBl
 features: []
-genres: []
+first_released_as_single: false
 key: games-that-lovers-play-eddie-fisher
 lyrics_url: https://www.musixmatch.com/lyrics/Eddie-Fisher/Games-That-Lovers-Play
 name: Games That Lovers Play
@@ -43,6 +46,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 153026
 ---
 There are games that many,
 Foolish lovers play.

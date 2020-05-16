@@ -1,8 +1,11 @@
 ---
+album: Martika
 artists:
 - Martika
+external_ids:
+  spotify: spotify:track:4jh9olf0OKCokpzxSyLeJx
 features: []
-genres: []
+first_released_as_single: false
 key: toy-soldiers-martika
 lyrics_url: https://www.azlyrics.com/lyrics/martika/toysoldiers.html
 name: Toy Soldiers
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1988
+runtime: 287600
 ---
-
 Step by step
 Heart to heart
 Left, right, left
@@ -168,6 +172,3 @@ Torn apart
 We never win
 But the battle wages on
 For toy soldiers
-
-
-

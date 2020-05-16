@@ -1,8 +1,11 @@
 ---
+album: '...And I Know You Wanna Dance (Live)'
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:5RNeOg5D1AwMvEILRxPZbG
 features: []
-genres: []
+first_released_as_single: false
 key: secret-agent-man-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/secretagentman.html
 name: Secret Agent Man
@@ -51,8 +54,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 185360
 ---
-
 There's a man who leads a life of danger
 To everyone he meets he stays a stranger
 With every move he makes
@@ -82,6 +86,3 @@ Odds are you won't live to see tomorrow
 Secret Agent Man
 Secret Agent Man
 They've given you a number and taken away your name
-
-
-

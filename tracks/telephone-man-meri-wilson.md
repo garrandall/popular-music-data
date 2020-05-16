@@ -1,8 +1,11 @@
 ---
+album: First Take
 artists:
 - Meri Wilson
+external_ids:
+  spotify: spotify:track:5yA6I6TU0K03JAi0e0JWbv
 features: []
-genres: []
+first_released_as_single: false
 key: telephone-man-meri-wilson
 lyrics_url: https://genius.com/Meri-wilson-telephone-man-lyrics
 name: Telephone Man
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1977
+runtime: 117818
 ---
 I rented my apartment
 On a Monday at one

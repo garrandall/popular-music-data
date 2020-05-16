@@ -1,8 +1,11 @@
 ---
+album: Nothing Matters Without Love
 artists:
 - Seduction
+external_ids:
+  spotify: spotify:track:3vlhjgeKW3u1Fjzf6JiJvo
 features: []
-genres: []
+first_released_as_single: false
 key: could-this-be-love-seduction
 lyrics_url: https://genius.com/Seduction-could-this-be-love-lyrics
 name: Could This Be Love
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
+release_year: 1989
+runtime: 380400
 ---
 Staring through the windows of time
 Drying off the last year of our bind

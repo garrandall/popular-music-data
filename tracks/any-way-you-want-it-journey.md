@@ -1,8 +1,11 @@
 ---
+album: Departure
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:477BvqvfDUN9jcC9GojGME
 features: []
-genres: []
+first_released_as_single: false
 key: any-way-you-want-it-journey
 lyrics_url: https://genius.com/Journey-any-way-you-want-it-lyrics
 name: Any Way You Want It
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1975
+runtime: 202333
 ---
 Any way you want it
 That's the way you need it

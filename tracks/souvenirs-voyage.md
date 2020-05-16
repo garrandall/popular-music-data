@@ -1,8 +1,11 @@
 ---
+album: Twelve Inch Classics from the 70s, Vol. 1
 artists:
 - Voyage
+external_ids:
+  spotify: spotify:track:5DdRQzzpJOLd6jAdrgOhAG
 features: []
-genres: []
+first_released_as_single: false
 key: souvenirs-voyage
 lyrics_url: https://genius.com/Voyage-band-souvenirs-lyrics
 name: Souvenirs
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1979
+runtime: 306960
 ---
 Souvenirs are signs that take you away
 Souvenirs will make you leave here today

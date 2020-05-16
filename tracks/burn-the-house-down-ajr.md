@@ -1,8 +1,11 @@
 ---
+album: The Click
 artists:
 - AJR
+external_ids:
+  spotify: spotify:track:0TkJIyL69RAUIbNwGub6uR
 features: []
-genres: []
+first_released_as_single: false
 key: burn-the-house-down-ajr
 lyrics_url: https://www.azlyrics.com/lyrics/ajr/burnthehousedown.html
 name: Burn The House Down
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 212373
 ---
-
 Used to keep it cool
 Used to be a fool
 All about the bounce in my step
@@ -82,6 +86,3 @@ Whoa oh, yeah
 We gon' burn the whole house down
 We burn it down, we burn it down
 We gon' burn the whole house down
-
-
-

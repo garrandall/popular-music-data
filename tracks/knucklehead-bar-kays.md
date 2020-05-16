@@ -1,8 +1,11 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Bar-Kays
+external_ids:
+  spotify: spotify:track:5kygjg2AQwPZ5t0qlaxxNu
 features: []
-genres: []
+first_released_as_single: false
 key: knucklehead-bar-kays
 name: Knucklehead
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 139573
 ---
 

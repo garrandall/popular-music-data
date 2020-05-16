@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4xwqKpCkR8ZhCvexcyfUs5
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-bow-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/takeabow.html
 name: Take A Bow
@@ -11,8 +14,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 216666
 ---
-
 Ohh, how about a round of applause,
 Hey, standin' ovation,
 Oh oh yeah, yeah yeah yeah.
@@ -65,6 +69,3 @@ But it's over now (but it's over now),
 Go on and take a bow.
 
 But it's over now
-
-
-

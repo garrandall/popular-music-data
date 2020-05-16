@@ -1,8 +1,11 @@
 ---
+album: Wintersong
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:3yLCQ4GRSFlg3GmwlYQlzX
 features: []
-genres: []
+first_released_as_single: false
 key: river-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/river.html
 name: River
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2007-01-06'
+release_year: 2006
+runtime: 242013
 ---
-
 It's coming on Christmas
 They're cutting down trees
 They're putting up reindeer
@@ -63,6 +67,3 @@ They're putting up reindeer
 And singing songs of joy and peace
 I wish I had a river
 I could skate away on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Whatever Lola Wants
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:1iu7A7vOv1andAcWxcIPPF
 features: []
-genres: []
+first_released_as_single: false
 key: not-one-minute-more-della-reese
 lyrics_url: https://genius.com/Della-reese-not-one-minute-more-lyrics
 name: Not One Minute More
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 158360
 ---
 Not One Minute More
 Della Reese

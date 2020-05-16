@@ -1,8 +1,11 @@
 ---
+album: Buddy's Song
 artists:
 - Chesney Hawkes
+external_ids:
+  spotify: spotify:track:69Tyiih00ZZKboHFnXp0VF
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-and-only-chesney-hawkes
 lyrics_url: https://www.musixmatch.com/lyrics/Chesney-Hawkes/The-One-and-Only
 name: The One And Only
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1991
+runtime: 223666
 ---
 I am the one and only oh yeah
 Call me, call me by my name or call me by my number

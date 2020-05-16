@@ -1,8 +1,11 @@
 ---
+album: Love On The Inside
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:1mJ05BN0So26a14iib85aI
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-to-do-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/alliwanttodo.html
 name: All I Want To Do
@@ -71,8 +74,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 213360
 ---
-
 I don't want to get up, baby lets turn off the phone
 I don't want to go to work today or even put my make-up on
 I got better things to do on my to-do list anyway
@@ -111,6 +115,3 @@ All I really want to do is
 
 Ooo...
 Ooo...
-
-
-

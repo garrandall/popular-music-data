@@ -1,9 +1,12 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:78QR3Wp35dqAhFEc2qAGjE
 features: []
-genres: []
+first_released_as_single: false
 key: drip-too-hard-lil-baby-gunna
 lyrics_url: https://genius.com/Lil-baby-and-gunna-drip-too-hard-lyrics
 name: Drip Too Hard
@@ -148,6 +151,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 145542
 ---
 Run that back, Turbo
 

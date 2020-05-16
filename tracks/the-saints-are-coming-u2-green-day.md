@@ -1,9 +1,12 @@
 ---
+album: U218 Singles
 artists:
 - U2
 - Green Day
+external_ids:
+  spotify: spotify:track:6uQL0epVs9N9Bergafaf6x
 features: []
-genres: []
+first_released_as_single: false
 key: the-saints-are-coming-u2-green-day
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/thesaintsarecoming.html
 name: The Saints Are Coming
@@ -44,8 +47,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 201906
 ---
-
 There is a house in New Orleans, they call the Rising Sun
 It's been the ruin of many a poor boy, and God, I know I'm one.
 
@@ -81,6 +85,3 @@ The saints are coming, the saints are coming
 I say no matter how I try, I realise there's no reply.
 I say no matter how I try, I realise there's no reply.
 I say no matter how I try, I realise there's no reply.
-
-
-

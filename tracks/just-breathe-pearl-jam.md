@@ -1,8 +1,11 @@
 ---
+album: Backspacer
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:6i81qFkru6Kj1IEsB7KNp2
 features: []
-genres: []
+first_released_as_single: false
 key: just-breathe-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/justbreathe.html
 name: Just Breathe
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2009
+runtime: 215853
 ---
-
 Yes, I understand that every life must end, uh-huh
 As we sit alone, I know someday we must go, uh-huh
 Oh I'm a lucky man, to count on both hands the ones I love
@@ -103,6 +107,3 @@ Nothing you would take
 Everything you gave
 Hold me 'til I die
 Meet you on the other side...
-
-
-

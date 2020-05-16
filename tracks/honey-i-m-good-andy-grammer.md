@@ -1,8 +1,11 @@
 ---
+album: Magazines Or Novels
 artists:
 - Andy Grammer
+external_ids:
+  spotify: spotify:track:4MflGTO2ZTcSQ12bWcyRgI
 features: []
-genres: []
+first_released_as_single: false
 key: honey-i-m-good-andy-grammer
 lyrics_url: https://genius.com/Andy-grammer-honey-im-good-lyrics
 name: Honey I'm Good
@@ -131,6 +134,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
+release_year: 2014
+runtime: 199263
 ---
 Nah, nah, honey, I'm good
 I could have another but I probably should not

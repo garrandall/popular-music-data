@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:3BP9LwsMxJ6Bnp37E9M7Qb
 features: []
-genres: []
+first_released_as_single: false
 key: see-you-when-i-git-there-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/seeyouwhenigitthere.html
 name: See You When I Git There
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 264146
 ---
-
 Pardon me, do you have change for a quarter?
 I gotta make a phone call, thank you
 Oh, I hope this woman don't take me through no changes today
@@ -93,6 +97,3 @@ I'll see you when I git there, baby
 I've been workin' hard all day, you've been on my mind
 I can't go on without you, darling, by my side
 I'll see you when I git there...
-
-
-

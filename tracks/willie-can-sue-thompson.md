@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:4XN2a0KO8XrOFf2FO0qWuF
 features: []
-genres: []
+first_released_as_single: false
 key: willie-can-sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-willie-can-lyrics
 name: Willie Can
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1961
+runtime: 139040
 ---
 Hey Willie
 Willie can you cook? Can you cook? Hey Willie

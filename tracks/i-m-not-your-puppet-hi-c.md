@@ -1,8 +1,11 @@
 ---
+album: Skanless
 artists:
 - Hi-C
+external_ids:
+  spotify: spotify:track:51HnXIFI3P3t9xpW1UjD8h
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-your-puppet-hi-c
 lyrics_url: https://genius.com/Hi-c-im-not-your-puppet-lyrics
 name: I'm Not Your Puppet
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 360480
 ---
 Here's a little story I'd like ta tell
 About a situation guys and girls know very well

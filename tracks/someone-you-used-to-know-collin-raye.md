@@ -1,8 +1,11 @@
 ---
+album: The Walls Came Down
 artists:
 - Collin Raye
+external_ids:
+  spotify: spotify:track:6vZ8kzCLanIYZzRe9hEzpV
 features: []
-genres: []
+first_released_as_single: false
 key: someone-you-used-to-know-collin-raye
 lyrics_url: https://www.azlyrics.com/lyrics/collinraye/someoneyouusedtoknow.html
 name: Someone You Used To Know
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1991
+runtime: 225413
 ---
-
 I ain't gonna lie to you
 And say it didn't hurt
 To see you with someone new
@@ -107,6 +111,3 @@ From someone you loved
 To someone you used to know
 I'm not someone you love
 I'm someone you used to know
-
-
-

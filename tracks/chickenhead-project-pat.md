@@ -1,8 +1,11 @@
 ---
+album: 'Mista Don''t Play: Everythangs Workin'''
 artists:
 - Project Pat
+external_ids:
+  spotify: spotify:track:4k5xJOxoJbMW5sdkZGOezj
 features: []
-genres: []
+first_released_as_single: false
 key: chickenhead-project-pat
 lyrics_url: https://www.azlyrics.com/lyrics/projectpat/chickenheads.html
 name: Chickenhead
@@ -55,9 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-05-19'
+release_year: 2001
+runtime: 255360
 ---
-
-
 bwok bwok, chicken chicken
 bwok bwok, chicken heads (boy please whateva)
 bwok bwok, chicken chicken
@@ -165,4 +168,3 @@ pay ya boy and make me rich
 so we keep them swisher's lit
 pay yo fees we count them g's
 cashin it from all you chicks
-

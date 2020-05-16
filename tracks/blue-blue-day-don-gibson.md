@@ -1,8 +1,11 @@
 ---
+album: Oh Lonesome Me
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:4xWohADqZ5oFXcFOiC10l4
 features: []
-genres: []
+first_released_as_single: false
 key: blue-blue-day-don-gibson
 lyrics_url: https://genius.com/Don-gibson-blue-blue-day-lyrics
 name: Blue Blue Day
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 113880
 ---
 It's been a blue blue day I feel like runnin' away I feel like runnin' away from it all
 My love has been untrue she's found somebody new it's been a blue blue day for me

@@ -1,8 +1,11 @@
 ---
+album: Maybe You've Been Brainwashed Too
 artists:
 - New Radicals
+external_ids:
+  spotify: spotify:track:1Cwsd5xI8CajJz795oy4XF
 features: []
-genres: []
+first_released_as_single: false
 key: you-get-what-you-give-new-radicals
 lyrics_url: https://www.azlyrics.com/lyrics/newradicals/yougetwhatyougive.html
 name: You Get What You Give
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-05-01'
+release_year: 1998
+runtime: 300773
 ---
-
 Wake up kids
 We've got the dreamer's disease
 Age 14
@@ -172,6 +176,3 @@ It's so sad you lost the meaning
 Never knew it anyway
 Human natures so predictable
 I'm a fool to do your dirty work whoa, whoa
-
-
-

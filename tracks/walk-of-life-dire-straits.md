@@ -1,8 +1,11 @@
 ---
+album: Brothers in Arms
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:423o3ZHIaBtGXyhF1uH41a
 features: []
-genres: []
+first_released_as_single: false
 key: walk-of-life-dire-straits
 lyrics_url: https://www.azlyrics.com/lyrics/direstraits/walkoflife.html
 name: Walk Of Life
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
+release_year: 1985
+runtime: 252466
 ---
-
 Here comes Johnny singing oldies, goldies
 Be-Bop-A-Lula, Baby What I Say
 Here comes Johnny singing I Gotta Woman
@@ -137,6 +141,3 @@ And after all the violence and double talk
 There's just a song in all the trouble and the strife
 You do the walk, yeah, you do the walk of life
 Mmm, you do the walk of life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Personal
 artists:
 - Men Of Vizion
+external_ids:
+  spotify: spotify:track:4saig3o5GHgMtfrdJa28tx
 features: []
-genres: []
+first_released_as_single: false
 key: house-keeper-men-of-vizion
 lyrics_url: https://genius.com/Men-of-vizion-house-keeper-lyrics
 name: House Keeper
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 273186
 ---
 In the mornin? I can fix breakfast, baby
 Get you ready for work
@@ -181,5 +186,3 @@ Let me be your house keeper, girl
 
 
 Let me be your house keeper, girl
-
-

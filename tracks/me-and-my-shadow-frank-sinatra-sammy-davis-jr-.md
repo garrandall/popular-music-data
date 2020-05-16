@@ -1,9 +1,12 @@
 ---
+album: 'The Essentials: Sammy Davis Jr.'
 artists:
 - Frank Sinatra
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:3fDsObAq6nHvxPWJOWj2vJ
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-shadow-frank-sinatra-sammy-davis-jr-
 lyrics_url: https://www.musixmatch.com/lyrics/Robbie-Williams-feat-Jonathan-Wilkes/Me-and-My-Shadow-As-Performed-By-Sammy-Davis-Jr-and-Frank-Sinatra-2
 name: Me And My Shadow
@@ -32,6 +35,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 147028
 ---
 Johnny and Robbie
 Youth, why you talking like that? We're from Stoke!

@@ -1,8 +1,11 @@
 ---
+album: Live, Laugh, Love
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:6TZIPLYJLGXKw7Q4JJ3ujF
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-always-right-clay-walker
 lyrics_url: https://genius.com/Clay-walker-shes-always-right-lyrics
 name: She's Always Right
@@ -31,6 +34,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
+release_year: 1999
+runtime: 201866
 ---
 She's Perfect for a cotton dress
 Pretty when her hair's a mess

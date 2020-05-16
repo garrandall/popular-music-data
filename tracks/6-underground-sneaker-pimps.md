@@ -1,8 +1,11 @@
 ---
+album: Becoming Remixed
 artists:
 - Sneaker Pimps
+external_ids:
+  spotify: spotify:track:3ed8hJLpFyctAhLJ2QLiCm
 features: []
-genres: []
+first_released_as_single: true
 key: 6-underground-sneaker-pimps
 lyrics_url: https://www.azlyrics.com/lyrics/sneakerpimps/6underground.html
 name: 6 Underground
@@ -95,8 +98,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
+release_year: 1996
+runtime: 270226
 ---
-
 (A one, two)
 
 Take me down, 
@@ -151,6 +155,3 @@ I'm open...to falling from grace
 (A one, two)
 (A one, two)
 (A one, two)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Check Out Your Mind!
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:0pnWjLrf784CX0CHKYoUVj
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-love-me-the-impressions
 lyrics_url: https://genius.com/The-impressions-say-you-love-me-lyrics
 name: Say You Love Me
@@ -43,6 +46,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 185666
 ---
 Just one moment, I like to be
 Is for you to say to me

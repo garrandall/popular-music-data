@@ -1,8 +1,11 @@
 ---
+album: 20 Golden Greats
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:5mLqHfJcDSfJo31eWVFyjF
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-suzanne-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/sorrysuzanne.html
 name: Sorry Suzanne
@@ -39,8 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 180306
 ---
-
 I can't make it if you leave me
 I'm sorry Suzanne believe me I was wrong
 And I knew I was all along
@@ -82,6 +86,3 @@ I still love you more than ever
 I'm sorry Suzanne for ever hurting you
 You know I never wanted to
 I'm truly sorry Suzanne
-
-
-

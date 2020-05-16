@@ -1,8 +1,11 @@
 ---
+album: Blind Baby
 artists:
 - New Birth
+external_ids:
+  spotify: spotify:track:2KMDa5wo0o38iJNw7QAQ6A
 features: []
-genres: []
+first_released_as_single: false
 key: dream-merchant-new-birth
 lyrics_url: https://genius.com/New-birth-dream-merchant-lyrics
 name: Dream Merchant
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 278040
 ---
 Hey, hey, Mr. Dream Merchant
 Everything depends on you, oh yeah

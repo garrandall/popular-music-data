@@ -1,8 +1,11 @@
 ---
+album: Whip-Smart
 artists:
 - Liz Phair
+external_ids:
+  spotify: spotify:track:0xQ8FPMnv2mG9VhTgpxn2R
 features: []
-genres: []
+first_released_as_single: false
 key: supernova-liz-phair
 lyrics_url: https://www.azlyrics.com/lyrics/lizphair/supernova.html
 name: Supernova
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
+release_year: 1994
+runtime: 168840
 ---
-
 I have looked all over the place
 But you have got my favorite face
 Your eyelashes sparkle like gilded grass
@@ -94,6 +98,3 @@ You're a giant, flying friction blast
 A solar superman
 You're an angel with wings of fire
 A flying, giant friction blast...
-
-
-

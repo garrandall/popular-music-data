@@ -1,8 +1,11 @@
 ---
+album: One Way or Another (Teenage Kicks)
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:48vlTTvosBO3rErgxYKxxR
 features: []
-genres: []
+first_released_as_single: true
 key: one-way-or-another--teenage-kicks--one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/onewayoranotherteenagekicks.html
 name: One Way Or Another (Teenage Kicks)
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2013
+runtime: 157293
 ---
-
 One way or another I'm gonna find you
 I'm gonna get you, get you, get you, get you
 One way or another I'm gonna win you
@@ -109,6 +113,3 @@ One way or another I'm gonna win you
 (I wanna hold you, wanna hold you tight)
 I wanna get you, get you, get you, get you
 One way or another
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Some Things I Know
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:3vajUlUrqX8CjvSAoDYrKI
 features: []
-genres: []
+first_released_as_single: false
 key: -now-you-see-me--now-you-don-t-lee-ann-womack
 lyrics_url: https://genius.com/Lee-ann-womack-now-you-see-me-now-you-dont-lyrics
 name: (Now You See Me) Now You Don't
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1998
+runtime: 158824
 ---
 Better take a good look before I disappear
 Because I'm just about to be your used-to-be

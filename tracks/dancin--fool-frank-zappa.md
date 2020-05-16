@@ -1,8 +1,11 @@
 ---
+album: Sheik Yerbouti
 artists:
 - Frank Zappa
+external_ids:
+  spotify: spotify:track:6tCk1N85t6h4v1xXI6o0Ad
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--fool-frank-zappa
 lyrics_url: https://www.azlyrics.com/lyrics/frankzappa/dancinfool.html
 name: Dancin' Fool
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
+release_year: 1979
+runtime: 222800
 ---
-
 I don't know much about dancin'
 That's why I got this song
 One of my legs is shorter than the other
@@ -131,6 +135,3 @@ Yer Jewish?
 Love your nails
 You must be a Libra... Your place or mine?
 Heh heh heh yeah...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Save Me, San Francisco
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:3g4GTF5OZrLrmk7hGZFkH8
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-s-love-train
 lyrics_url: https://genius.com/Train-if-its-love-lyrics
 name: If It's Love
@@ -87,6 +90,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 239040
 ---
 While everybody else is getting out of bed
 I'm usually getting in it

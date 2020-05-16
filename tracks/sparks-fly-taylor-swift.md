@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1q8E1FfFuhd12c5JcJwPxQ
 features: []
-genres: []
+first_released_as_single: false
 key: sparks-fly-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/sparksfly.html
 name: Sparks Fly
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2010
+runtime: 260933
 ---
-
 The way you move is like a full-on rainstorm
 And I'm a house of cards
 You're the kind of reckless
@@ -143,6 +147,3 @@ Give me something that'll haunt me when you're not around
 And the sparks fly...
 Oh, baby, smile...
 And the sparks fly...
-
-
-

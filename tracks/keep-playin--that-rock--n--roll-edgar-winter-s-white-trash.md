@@ -1,8 +1,11 @@
 ---
+album: White Trash
 artists:
 - Edgar Winter's White Trash
+external_ids:
+  spotify: spotify:track:6xyA3dyXzbyme6pDyuG8zG
 features: []
-genres: []
+first_released_as_single: false
 key: keep-playin--that-rock--n--roll-edgar-winter-s-white-trash
 lyrics_url: https://www.musixmatch.com/lyrics/Edgar-Winter-s-White-Trash/Keep-Playin-That-Rock-n-Roll
 name: Keep Playin' That Rock 'N' Roll
@@ -51,6 +54,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 223800
 ---
 Don't you know that I was sittin back in Texas
 I was playing those rhythm and blues

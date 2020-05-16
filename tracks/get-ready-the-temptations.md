@@ -1,8 +1,11 @@
 ---
+album: Gettin' Ready
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:676Rf0qIOh2gKNEl9TnCOx
 features: []
-genres: []
+first_released_as_single: false
 key: get-ready-the-temptations
 lyrics_url: https://genius.com/The-temptations-get-ready-lyrics
 name: Get Ready
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 164160
 ---
 I never met a girl who makes me feel the way that you do
 (You're alright)

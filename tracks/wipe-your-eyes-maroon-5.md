@@ -1,8 +1,11 @@
 ---
+album: Overexposed
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:1c2MXiju7DNPSfsKoVbHlg
 features: []
-genres: []
+first_released_as_single: false
 key: wipe-your-eyes-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/wipeyoureyes.html
 name: Wipe Your Eyes
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
+release_year: 2012
+runtime: 214853
 ---
-
 I'm afraid that I gotta do what I gotta do
 But if I let you go, where you gonna go?
 We gotta make a change, time to turn the page
@@ -67,6 +71,3 @@ Cry 'cause I'm here to wipe your eyes
 I know I made you feel this way
 You gotta breathe, we'll be okay (be okay)
 Cry 'cause I'm here to wipe your eyes
-
-
-

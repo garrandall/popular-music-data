@@ -1,8 +1,11 @@
 ---
+album: Live, Laugh, Love
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:68AhslXGVDKUUyHnDkORGF
 features: []
-genres: []
+first_released_as_single: false
 key: the-chain-of-love-clay-walker
 lyrics_url: https://www.azlyrics.com/lyrics/claywalker/thechainoflove.html
 name: The Chain Of Love
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-08-26'
+release_year: 1999
+runtime: 304506
 ---
-
 He was driving home one evening,
 In his beat up Pontiac
 When an old lady flagged him down,
@@ -148,6 +152,3 @@ And what the lady's note had said
 As her husband lay there sleeping,
 She whispered soft and low
 Everything's gonna be alright, I love you, Joe
-
-
-

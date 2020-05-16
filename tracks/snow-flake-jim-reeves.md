@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:0DLK58LYnZzbbanpuqhY3O
 features: []
-genres: []
+first_released_as_single: false
 key: snow-flake-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/snowflake.html
 name: Snow Flake
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1966
+runtime: 129560
 ---
-
 Hey-ey-ey snowflake
 My pretty little snowflake
 Oh, oh, the change in the weather
@@ -70,6 +74,3 @@ has made it better for me.
 Hey-ey-ey snowflake, my pretty little snowflake
 You've got me warm as a fire
 With the burning desire for you...
-
-
-

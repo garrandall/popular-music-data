@@ -1,8 +1,11 @@
 ---
+album: Laid Back
 artists:
 - Gregg Allman
+external_ids:
+  spotify: spotify:track:23ZOiEUix1FsthnLfpWXqj
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-rider-gregg-allman
 lyrics_url: https://www.azlyrics.com/lyrics/greggallman/midnightrider.html
 name: Midnight Rider
@@ -55,8 +58,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1973
+runtime: 267363
 ---
-
 Well, I've got to run to keep from hiding
 And I'm bound to keep on riding
 And I've got one more silver dollar
@@ -79,6 +83,3 @@ No, I'm not gonna let 'em catch me, no
 Not gonna let them catch the midnight rider
 No, I'm not gonna let 'em catch me, no
 Not gonna let them catch the midnight rider
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:37ycGnhGIt9nxYntGDXfg6
 features: []
-genres: []
+first_released_as_single: false
 key: chains-of-love-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/chainsoflove.html
 name: Chains Of Love
@@ -15,8 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 165840
 ---
-
 The chains of love are the kind
 That bind me to you and you to me
 The chains of love are not made of steel
@@ -72,6 +76,3 @@ Now, that's life, baby
 Just a little bit tighter
 Tighter, baby
 And I like it, oh, just a wee bit tighter
-
-
-

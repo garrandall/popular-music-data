@@ -1,8 +1,11 @@
 ---
+album: Greatest Polka Hits Of All Time
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:0rNLh8gopv7GsptR9SoRxw
 features: []
-genres: []
+first_released_as_single: false
 key: beer-barrel-polka-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/beerbarrelpolka.html
 name: Beer Barrel Polka
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 166466
 ---
-
 There's a garden, what a garden
 Only happy faces bloom there
 And there's never any room there
@@ -83,6 +87,3 @@ Hey, hey, SHAKE!
 La-la-la-la-la, la-la-la-la-la-la-la
 Hey, hey, hey
 La-la
-
-
-

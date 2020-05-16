@@ -1,8 +1,11 @@
 ---
+album: No Parlez
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:1r3YUTAwY0Y7tyV9Xcgps8
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-and-stay-paul-young
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Young/Come-Back-and-Stay
 name: Come Back And Stay
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 264853
 ---
 Since you've been gone
 I shut my eyes and I fantasize

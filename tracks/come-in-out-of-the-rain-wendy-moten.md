@@ -1,8 +1,11 @@
 ---
+album: Wendy Moten
 artists:
 - Wendy Moten
+external_ids:
+  spotify: spotify:track:0KMZsxJalrqyJSWghlpPmb
 features: []
-genres: []
+first_released_as_single: false
 key: come-in-out-of-the-rain-wendy-moten
 lyrics_url: https://www.musixmatch.com/lyrics/Wendy-Moten/Come-in-Out-of-the-Rain
 name: Come In Out Of The Rain
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1992
+runtime: 257800
 ---
 Ohohooh
 

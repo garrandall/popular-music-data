@@ -1,9 +1,12 @@
 ---
+album: 'Rubber Biscuit: Essential ''50s Hits'
 artists:
 - Billy
 - Lillie
+external_ids:
+  spotify: spotify:track:1ZgWdIkW5lQU9t2vS5i9EM
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-ladybug-billy-lillie
 lyrics_url: https://genius.com/Billy-and-lillie-lucky-ladybug-lyrics
 name: Lucky Ladybug
@@ -60,6 +63,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1958
+runtime: 156040
 ---
 Lucky Ladybug, lucky ladybug!
 A lucky ladybug!
@@ -83,7 +88,7 @@ Ladybug, silver dollar, rabbit's foot
 With a four leaf clover and a horseshoe
 Wishbone, shamrocks got me shook
 Singin' Abracadabra in a cat's eye
-(4 lines instrumental)
+
 Stupid Cupid gave us fever and an itchy-twitchy feelin'
 And a green mosquito must have bit us
 Got us walking like two robbers makin' moon talking, bobbin'

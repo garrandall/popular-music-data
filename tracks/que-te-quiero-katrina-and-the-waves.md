@@ -1,8 +1,11 @@
 ---
+album: Katrina & The Waves
 artists:
 - Katrina And The Waves
+external_ids:
+  spotify: spotify:track:10sZornAXa1nkS2uWGrIDb
 features: []
-genres: []
+first_released_as_single: false
 key: que-te-quiero-katrina-and-the-waves
 lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/quetequiero.html
 name: Que Te Quiero
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 202360
 ---
-
 People keep telling me
 Don't go South of the border
 People keep telling me
@@ -81,6 +85,3 @@ Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero, quiero
 Que te quiero, quiero, oh
-
-
-

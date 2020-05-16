@@ -1,8 +1,11 @@
 ---
+album: Wildfire
 artists:
 - Rachel Platten
+external_ids:
+  spotify: spotify:track:3kSXn1osC89W8JcPLozTzs
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-you-rachel-platten
 lyrics_url: https://genius.com/Rachel-platten-stand-by-you-lyrics
 name: Stand By You
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 219000
 ---
 (Even if we can't find Heaven, Heaven, Heaven, Heaven, Heaven, Heaven...)
 

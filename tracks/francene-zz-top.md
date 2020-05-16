@@ -1,8 +1,11 @@
 ---
+album: 70's Rock Originals
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:7moxuFnSVyWjSfpNyOJjRO
 features: []
-genres: []
+first_released_as_single: false
 key: francene-zz-top
 lyrics_url: https://genius.com/Zz-top-francene-lyrics
 name: Francene
@@ -43,6 +46,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 212533
 ---
 Got a girl, her name's Francine
 Finest thing you ever seen

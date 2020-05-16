@@ -1,8 +1,11 @@
 ---
+album: Early British Hitmakers, Vol. 2
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:0LwsGW8kZ2xQkhbYiCAYKG
 features: []
-genres: []
+first_released_as_single: false
 key: shake-sherry-the-contours
 lyrics_url: https://www.azlyrics.com/lyrics/contours/shakesherry.html
 name: Shake Sherry
@@ -43,8 +46,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 162946
 ---
-
 Shake, Sherry, shake
 (Shake, Sherry, woo)
 Shake, Sherry, shake
@@ -148,6 +152,3 @@ Shake, Sherry
 (Shake, Sherry, shake)
 Shake, Sherry
 ...
-
-
-

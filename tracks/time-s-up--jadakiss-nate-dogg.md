@@ -1,9 +1,12 @@
 ---
+album: Kiss Of Death
 artists:
 - Jadakiss
+external_ids:
+  spotify: spotify:track:3iQHtjDo1jgcbjUPsh3Dkb
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: time-s-up--jadakiss-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/jadakiss/timesup.html
 name: Time's Up!
@@ -40,9 +43,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2004
+runtime: 216133
 ---
-
-
 Yeah, yo, I'm the nigga with the perpetual oyster bars
 Mother of pearl delivery, voice of God
 And...it's hard just being the boss
@@ -104,4 +107,3 @@ Ya'll ain't fuckin with Jason
 After I cash in, there's really no justification
 Of how I'm gonna change the game, so don't get outta line
 Cause this little nine will change your frame, what up
-

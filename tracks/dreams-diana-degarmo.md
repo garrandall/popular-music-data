@@ -1,8 +1,11 @@
 ---
+album: Blue Skies
 artists:
 - Diana DeGarmo
+external_ids:
+  spotify: spotify:track:4NZtvEKSZQLVZANby7VJZe
 features: []
-genres: []
+first_released_as_single: true
 key: dreams-diana-degarmo
 lyrics_url: https://www.azlyrics.com/lyrics/dianadegarmo/dreams.html
 name: Dreams
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2004
+runtime: 228693
 ---
-
 Dreams are just dreams
 When they're stuck inside your head
 And all it takes is a little help from you
@@ -84,6 +88,3 @@ And all my dreams come true
 I'll dream of you
 I'll dream of you
 I'll dream of you
-
-
-

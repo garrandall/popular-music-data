@@ -1,8 +1,11 @@
 ---
+album: Bad Company
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:2xmQ5QZ7hYl1QqJlqNLFdA
 features: []
-genres: []
+first_released_as_single: false
 key: movin--on-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/movinon.html
 name: Movin' On
@@ -47,8 +50,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1974
+runtime: 201546
 ---
-
 I get up in the morning and it's just another day
 Pack up my belongings, I've got to get away
 Jump into a taxi and the time is gettin' tight
@@ -80,6 +84,3 @@ I'm movin' on, movin' on from town to town
 I never seem to slow down
 
 Everyday of my life I'm moving on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:7HCBeHI8dWY9I2q1kLnP2l
 features: []
-genres: []
+first_released_as_single: false
 key: the-tear-of-the-year-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-the-tear-of-the-year-lyrics
 name: The Tear Of The Year
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 161346
 ---
 I never thought I'd see
 You turn your back on me

@@ -1,8 +1,11 @@
 ---
+album: True Blue (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6r8k1vznHrzlEKYxL4dZEe
 features: []
-genres: []
+first_released_as_single: false
 key: la-isla-bonita-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/laislabonita.html
 name: La Isla Bonita
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1986
+runtime: 242320
 ---
-
 Â¿CÃ³mo puede ser verdad?
 
 
@@ -143,4 +147,3 @@ Your Spanish lullaby
 
 Te dijo te amo
 El dijo que te ama
-

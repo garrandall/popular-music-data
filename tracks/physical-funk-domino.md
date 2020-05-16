@@ -1,8 +1,11 @@
 ---
+album: Physical Funk
 artists:
 - Domino
+external_ids:
+  spotify: spotify:track:6nucK6yzNsXRgIa9hKKbFT
 features: []
-genres: []
+first_released_as_single: true
 key: physical-funk-domino
 lyrics_url: https://genius.com/Domino-physical-funk-lyrics
 name: Physical Funk
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-04-13'
+release_year: 1996
+runtime: 213034
 ---
 Physical Funk
 Physical Funk

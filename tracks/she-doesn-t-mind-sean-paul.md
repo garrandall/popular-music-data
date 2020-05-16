@@ -1,8 +1,11 @@
 ---
+album: Tomahawk Technique
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:1CmmRxVeqXDdqbSoPy1XgV
 features: []
-genres: []
+first_released_as_single: true
 key: she-doesn-t-mind-sean-paul
 lyrics_url: https://genius.com/Sean-paul-she-doesnt-mind-lyrics
 name: She Doesn't Mind
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 227786
 ---
 Oh Oh Oh
 Oh Oh Oh Oh

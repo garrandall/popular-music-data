@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:2oPz7fWUmfeNG00NVf5uNa
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-really-mine-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Are-You-Really-Mine
 name: Are You Really Mine
@@ -59,6 +62,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 148533
 ---
 Jimmie Rodgers
 Miscellaneous

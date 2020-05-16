@@ -1,8 +1,11 @@
 ---
+album: The Meters
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:0WSlOSMLJWoWUpWci9nnRb
 features: []
-genres: []
+first_released_as_single: false
 key: cissy-strut-the-meters
 name: Cissy Strut
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 186853
 ---
 

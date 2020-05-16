@@ -1,8 +1,11 @@
 ---
+album: They Don't Know
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:4llYMkhHa1w7UAdDFRQcEZ
 features: []
-genres: []
+first_released_as_single: false
 key: lights-come-on-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/lightscomeon.html
 name: Lights Come On
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 194506
 ---
-
 You're a crack of dawn Monday morning
 Coffee strong pouring everything you got
 Into a paycheck Friday night
@@ -139,6 +143,3 @@ When the lights come on
 Boy's blowin' it up
 It's goin all night long
 When the lights come on
-
-
-

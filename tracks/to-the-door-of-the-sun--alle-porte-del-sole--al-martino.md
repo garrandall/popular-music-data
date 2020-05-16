@@ -1,8 +1,11 @@
 ---
+album: Music Inspired by The Godfather
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:6hbYORQVJjcV3iG43tKiSj
 features: []
-genres: []
+first_released_as_single: false
 key: to-the-door-of-the-sun--alle-porte-del-sole--al-martino
 lyrics_url: https://genius.com/Al-martino-to-the-door-of-the-sun-lyrics
 name: To The Door Of The Sun (Alle Porte Del Sole)
@@ -71,6 +74,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 204600
 ---
 I look in the mirror, but I look at a stranger
 Can this be the sensible me who said he wouldn't fall in love

@@ -1,8 +1,11 @@
 ---
+album: The Abba Generation
 artists:
 - A*Teens
+external_ids:
+  spotify: spotify:track:5uLY1JrkRN5U4SmzRIP3vT
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-queen-a-teens
 lyrics_url: https://www.azlyrics.com/lyrics/ateens/dancingqueen.html
 name: Dancing Queen
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 1999
+runtime: 228573
 ---
-
 You can dance, you can jive, having the time of your life
 See that girl, watch that scene, dig in the Dancing Queen
 
@@ -61,6 +65,3 @@ See that girl, watch that scene, dig in the Dancing Queen
 Dig in the Dancing Queen 
 Dig in the Dancing Queen 
 Dig in the Dancing Queen
-
-
-

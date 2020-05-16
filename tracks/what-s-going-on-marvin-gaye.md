@@ -1,8 +1,11 @@
 ---
+album: What's Going On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4RNHbYuRaZesMODlihhsUG
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-going-on-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-whats-going-on-lyrics
 name: What's Going On
@@ -67,6 +70,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 236466
 ---
 Mother, mother
 There's too many of you crying

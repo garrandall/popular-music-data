@@ -1,8 +1,11 @@
 ---
+album: The Sound Of Sexy Soul
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:7LQlozny7nxRh3ZbtyCKlU
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-loves-you-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-somebody-loves-you-lyrics
 name: Somebody Loves You
@@ -19,6 +22,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 198573
 ---
 Somebody loves you, girl
 This I swear is true, girl

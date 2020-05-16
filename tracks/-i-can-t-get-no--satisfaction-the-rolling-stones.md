@@ -1,8 +1,11 @@
 ---
+album: Out Of Our Heads
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:2PzU4IB8Dr6mxV3lHuaG34
 features: []
-genres: []
+first_released_as_single: false
 key: -i-can-t-get-no--satisfaction-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-i-cant-get-no-satisfaction-lyrics
 name: (I Can't Get No) Satisfaction
@@ -63,6 +66,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 222813
 ---
 I can't get no satisfaction
 I can't get no satisfaction

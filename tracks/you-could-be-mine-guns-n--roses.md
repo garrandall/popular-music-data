@@ -1,8 +1,11 @@
 ---
+album: Use Your Illusion II
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:0dlTGl67UFWcKupzkxZYOn
 features: []
-genres: []
+first_released_as_single: false
 key: you-could-be-mine-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-you-could-be-mine-lyrics
 name: You Could Be Mine
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 343640
 ---
 I'm a cold heartbreaker, fit to burn and I'll rip your heart in two
 And I'll leave you lyin' on the bed

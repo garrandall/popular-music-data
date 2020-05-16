@@ -1,8 +1,11 @@
 ---
+album: Malo
 artists:
 - Malo
+external_ids:
+  spotify: spotify:track:5QoFWpXoaUyT44VmR98wLl
 features: []
-genres: []
+first_released_as_single: false
 key: suavecito-malo
 lyrics_url: https://genius.com/Malo-suavecito-lyrics
 name: Suavecito
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 395200
 ---
 La, ah, ah, ah
 La, la, la, ah, ah, ah

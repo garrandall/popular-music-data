@@ -1,8 +1,11 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:628Ueb4sRiXApObhcU9iPU
 features: []
-genres: []
+first_released_as_single: false
 key: black---chinese-huncho-jack
 lyrics_url: https://genius.com/Huncho-jack-black-and-chinese-lyrics
 name: Black & Chinese
@@ -11,6 +14,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 172016
 ---
 What's the problem? What's the problem?
 In New Orleans with the blessin'

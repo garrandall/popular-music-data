@@ -1,8 +1,11 @@
 ---
+album: Another Ticket
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:4elkVOe4mv5VtjElFPBIh0
 features: []
-genres: []
+first_released_as_single: false
 key: another-ticket-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/anotherticket.html
 name: Another Ticket
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
+release_year: 1981
+runtime: 343173
 ---
-
 Why can't it stay like this forever?
 Why does it always have to change?
 
@@ -52,4 +56,3 @@ Everytime you think you've run the course,
 Seems you've got to ride another horse.
 Everytime you think you're near the end,
 You turn around and find another ticket.
-

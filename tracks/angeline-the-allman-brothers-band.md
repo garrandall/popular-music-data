@@ -1,8 +1,11 @@
 ---
+album: Reach For The Sky
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:55NTUQHuMdwrceIeF9iKax
 features: []
-genres: []
+first_released_as_single: false
 key: angeline-the-allman-brothers-band
 lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/angeline.html
 name: Angeline
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 223826
 ---
-
 Ridin' in a long gray limousine.
 Sittin' in a pair of hundred dollar jeans.
 Tryin' to talk sense to a rock'n'roll queen.
@@ -65,4 +69,3 @@ leavin' broken hearts all along the way.
 She's got friends that she ain't never used.
 She's winnin' now but she's bound to lose.
 Oh, Angeline.
-

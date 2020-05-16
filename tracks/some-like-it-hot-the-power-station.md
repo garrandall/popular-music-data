@@ -1,8 +1,11 @@
 ---
+album: The Power Station
 artists:
 - The Power Station
+external_ids:
+  spotify: spotify:track:5fSVerSB7TpXkUF9BxTUcP
 features: []
-genres: []
+first_released_as_single: false
 key: some-like-it-hot-the-power-station
 lyrics_url: https://genius.com/The-power-station-some-like-it-hot-lyrics
 name: Some Like It Hot
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1985
+runtime: 305466
 ---
 We want to multiply, are you gonna do it?
 I know you qualify, are you gonna do it?

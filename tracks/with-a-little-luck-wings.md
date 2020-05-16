@@ -1,8 +1,11 @@
 ---
+album: London Town
 artists:
-- Wings
+- Paul McCartney & Wings
+external_ids:
+  spotify: spotify:track:73JqQIGZUZxCVfY54RSpCH
 features: []
-genres: []
+first_released_as_single: false
 key: with-a-little-luck-wings
 lyrics_url: https://genius.com/Paul-mccartney-and-wings-with-a-little-luck-lyrics
 name: With A Little Luck
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 344773
 ---
 With a little luck we can help it out
 We can make this whole damn thing work out

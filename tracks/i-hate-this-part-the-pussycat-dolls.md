@@ -1,8 +1,11 @@
 ---
+album: Doll Domination
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:27HViIHXNdgsxxPVRoeEgM
 features: []
-genres: []
+first_released_as_single: true
 key: i-hate-this-part-the-pussycat-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/pussycatdolls/ihatethispart.html
 name: I Hate This Part
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2008
+runtime: 213266
 ---
-
 We're driving slow through the snow
 On fifth avenue
 And right now radio is
@@ -160,6 +164,3 @@ I hate this part right here
 I hate this part right here
 I just can't take these tears
 I hate this part right here
-
-
-

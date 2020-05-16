@@ -1,8 +1,11 @@
 ---
+album: Turn the World Around
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:2NnUgMLbHwecImJTTLNzrn
 features: []
-genres: []
+first_released_as_single: false
 key: turn-the-world-around-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/turntheworldaround.html
 name: Turn The World Around
@@ -39,8 +42,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 148573
 ---
-
 Turn the world around the other way
 Back it up and stop on yesterday
 Back to before that silly fight
@@ -65,6 +69,3 @@ Yes, we'll turn the world around the other way
 Back to where it started yesterday
 Just take my hand together we can turn
 The world around the other way...
-
-
-

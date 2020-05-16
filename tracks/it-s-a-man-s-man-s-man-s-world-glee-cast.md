@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:79MUzUStA60r6XweR9T4iP
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-man-s-man-s-man-s-world-glee-cast
 lyrics_url: https://genius.com/Glee-cast-its-a-mans-mans-mans-world-lyrics
 name: It's A Man's Man's Man's World
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 176413
 ---
 This is a man's world, this is a man's world
 But it wouldn't be nothing, nothing without a woman or a girl

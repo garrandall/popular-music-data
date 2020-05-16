@@ -1,8 +1,11 @@
 ---
+album: I Wish I Knew
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:0N8gd6IPgAt02wSd5cjkTQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-i-knew--how-it-would-feel-to-be-free--solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-i-wish-i-knew-how-it-would-feel-to-be-free-lyrics
 name: I Wish I Knew (How It Would Feel To Be Free)
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 179280
 ---
 Have you ever wished upon a star
 And all your hopes seemed so far

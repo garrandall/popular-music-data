@@ -1,9 +1,12 @@
 ---
+album: Roberta Flack & Donny Hathaway
 artists:
 - Roberta Flack
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:65ADTP6Q8mratfOIeKHp7e
 features: []
-genres: []
+first_released_as_single: false
 key: where-is-the-love-roberta-flack-donny-hathaway
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/whereisthelove.html
 name: Where Is The Love
@@ -60,8 +63,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 163453
 ---
-
 Where is the love
 (Where is the love)
 Where is the love
@@ -102,6 +106,3 @@ All I can do is wait
 Yeah, hey, yeah
 
 Where is the love
-
-
-

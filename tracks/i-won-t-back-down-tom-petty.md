@@ -1,8 +1,11 @@
 ---
+album: Full Moon Fever
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:7gSQv1OHpkIoAdUiRLdmI6
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-back-down-tom-petty
 lyrics_url: https://genius.com/Tom-petty-i-wont-back-down-lyrics
 name: I Won't Back Down
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1989
+runtime: 178360
 ---
 Well, I won't back down
 No, I won't back down

@@ -1,8 +1,11 @@
 ---
+album: Homecoming
 artists:
 - America
+external_ids:
+  spotify: spotify:track:4IU1RL4BKvFyXtbTwaHAvW
 features: []
-genres: []
+first_released_as_single: false
 key: ventura-highway-america
 lyrics_url: https://www.azlyrics.com/lyrics/america/venturahighway.html
 name: Ventura Highway
@@ -55,8 +58,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 211386
 ---
-
 Chewing on a piece of grass
 Walking down the road
 Tell me, how long you gonna stay here, Joe?
@@ -93,6 +97,3 @@ Seasons crying no despair
 Alligator lizards in the air, in the air
 
 Did di di di dit
-
-
-

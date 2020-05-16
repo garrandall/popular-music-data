@@ -1,10 +1,13 @@
 ---
+album: '1942'
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:794QVQtFNy7hvtjQP1keQd
 features:
 - Yo Gotti
 - YBN Nahmir
-genres: []
+first_released_as_single: true
 key: 1942-g-eazy-yo-gotti-ybn-nahmir
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/1942.html
 name: '1942'
@@ -41,9 +44,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 213080
 ---
-
-
 I don't follow rules and they don't like that
 I was skippin' school to get my sack right
 My bitch text me and ask why I don't text back
@@ -142,6 +145,3 @@ They don't like how I talk that
 Flooded out my wrist, a puddle drippin'
 '42, I'm steady sippin'
 Yeah, I'm on and I'm off that
-
-
-

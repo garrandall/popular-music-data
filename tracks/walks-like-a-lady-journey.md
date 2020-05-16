@@ -1,8 +1,11 @@
 ---
+album: Departure
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:2TSxKl6bgNTSsDpN5VQvgy
 features: []
-genres: []
+first_released_as_single: false
 key: walks-like-a-lady-journey
 lyrics_url: https://www.azlyrics.com/lyrics/journey/walkslikealady.html
 name: Walks Like A Lady
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1975
+runtime: 432493
 ---
-
 Walks like a lady,
 With her tender charms.
 She moves like a lady
@@ -95,6 +99,3 @@ Yes, but she cries like a little girl
 Walks like a lady,
 Walks like a lady
 Cries like a little girl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rainbow Bridge
 artists:
 - Jimi Hendrix
+external_ids:
+  spotify: spotify:track:2AKcU2vk8MJrmXdRM9jwBU
 features: []
-genres: []
+first_released_as_single: false
 key: dolly-dagger-jimi-hendrix
 lyrics_url: https://www.azlyrics.com/lyrics/jimihendrix/dollydagger.html
 name: Dolly Dagger
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 284333
 ---
-
 Here comes dolly dagger
 Her love's so heavy, gonna make you stagger.
 Dolly dagger, she drinks her blood from a jagged edge...
@@ -45,6 +49,3 @@ Blow out all the other witches on the scene.
 She got a bull whip, just as long as your life.
 Her tongue can even scratch
 The soul out of the devil's wife.
-
-
-

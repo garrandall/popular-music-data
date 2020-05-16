@@ -1,8 +1,11 @@
 ---
+album: The Allnighter
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:5IKJmKoBPk4z7HoQSIxKtk
 features: []
-genres: []
+first_released_as_single: false
 key: the-allnighter-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/theallnighter.html
 name: The Allnighter
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 262626
 ---
-
 Lonely girl, rainy night
 Lookin' for that number
 She needs someone to treat her right
@@ -66,6 +70,3 @@ Nobody else can take her there
 He's the real thing, the pure delighter
 He's the allnighter
 The allnighter
-
-
-

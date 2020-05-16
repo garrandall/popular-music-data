@@ -1,8 +1,11 @@
 ---
+album: Breakout
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:7h1UdWf4vB3q1lRMQFky9O
 features: []
-genres: []
+first_released_as_single: false
 key: drive-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-drive-lyrics
 name: Drive
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2008
+runtime: 223080
 ---
 Mike WiLL Made
 

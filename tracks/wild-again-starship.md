@@ -1,8 +1,11 @@
 ---
+album: Starship
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:6OqW8eWXFA7fDwE6DG1751
 features: []
-genres: []
+first_released_as_single: false
 key: wild-again-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/wildagain.html
 name: Wild Again
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
+release_year: 1988
+runtime: 302720
 ---
-
 A diamond sun cuts down a frozen winter sky 
 As the world and I go screaming into the phantom night 
 It doesn't matter where it leads, I got nowhere left to go 
@@ -73,6 +77,3 @@ I want to be wild (Wild again), let the change begin
 I want to find the edge, risk it all, want to burn with life again 
 want to be wild again, yeah, I want to be wild again 
 Wild again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:4tLNKzcRv95bWCtwNpH4w6
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-who-was-gonna-die-young-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/amanwhowasgonnadieyoung.html
 name: A Man Who Was Gonna Die Young
@@ -11,9 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2014-02-15'
+release_year: 2014
+runtime: 193786
 ---
-
-
 I like fast cars and sharp dreams
 Chased a lot of crazy things
 Left behind my share of broken pieces
@@ -57,6 +60,3 @@ But I'll gladly stick around if we're together
 So baby, when you bow your head tonight
 Could you tell the Lord I've changed my mind?
 And with you I'd like to live forever
-
-
-

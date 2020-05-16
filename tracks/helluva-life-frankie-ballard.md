@@ -1,8 +1,11 @@
 ---
+album: Sunshine & Whiskey - Commentary
 artists:
 - Frankie Ballard
+external_ids:
+  spotify: spotify:track:4Rhl0Xyv0OmU1aORfCL0cc
 features: []
-genres: []
+first_released_as_single: false
 key: helluva-life-frankie-ballard
 lyrics_url: https://www.azlyrics.com/lyrics/frankieballard/helluvalife.html
 name: Helluva Life
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
+release_year: 2013
+runtime: 28440
 ---
-
 Saturday night and a six pack, girl,
 A big star shining on a small town world,
 It's a helluva life, it's a helluva life.
@@ -157,6 +161,3 @@ It's a helluva life.
 Yeah, it's a helluva life.
 
 It's a helluva life.
-
-
-

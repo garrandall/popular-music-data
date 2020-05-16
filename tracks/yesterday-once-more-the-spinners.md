@@ -1,8 +1,11 @@
 ---
+album: The Complete Albums 1973-1984
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:35LTrqOV18TNcjkqzIZcvm
 features: []
-genres: []
+first_released_as_single: true
 key: yesterday-once-more-the-spinners
 lyrics_url: https://genius.com/The-spinners-yesterday-once-more-nothing-remains-the-same-lyrics
 name: Yesterday Once More
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1981
+runtime: 452253
 ---
 Hey
 Yeah

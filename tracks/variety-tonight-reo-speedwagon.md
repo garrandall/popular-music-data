@@ -1,8 +1,11 @@
 ---
+album: Life As We Know It
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:1NojchI3zrnQkJhO8blr5U
 features: []
-genres: []
+first_released_as_single: false
 key: variety-tonight-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/varietytonight.html
 name: Variety Tonight
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1987
+runtime: 265200
 ---
-
 If ever you think you miss the thrill of the chase
 Or just get tired of the same old face
 I can be different honey, I can be new
@@ -69,6 +73,3 @@ You got to find some new ways, ow!
 
 
  repeats out...
-
-
-

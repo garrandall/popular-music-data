@@ -1,8 +1,11 @@
 ---
+album: Hold on, It's Dee Clark
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:0DuF6mvIXvWbqePp4XK48g
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-but-you-dee-clark
 lyrics_url: https://genius.com/Dee-clark-nobody-but-you-lyrics
 name: Nobody But You
@@ -75,15 +78,15 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1958
+runtime: 143160
 ---
 I don't want nobody else but you
 No one treats me
-The way you do-oo
+The way you do
 I just want ya to hold my hand
 And tell me I'm your lovin' man
 An I don't want nobody else but you
-
-(Oh-ohoohhohh-ohoh
 
 Wherever you are
 That's where I long to be
@@ -92,8 +95,6 @@ And I love it can't you see?
 I don't want nobody else
 I just a-want ya to myself
 An don't want nobody else but you
-
-(Oh-ohoohhohh-ohoh
 
 Come and take me
 Take me in your arms
@@ -107,9 +108,5 @@ Nobody else but you
 Hoo-oo-hoo
 Hoo-hoo-hoo, hoo
 
-FADE (falsetto by Dee)
-
 Oh, girl
-I lo-o-o-o-ove you-oo, wee-oo
-
-~
+I love you, wee-oo

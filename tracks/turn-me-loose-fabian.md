@@ -1,8 +1,11 @@
 ---
+album: Fabian Avalon
 artists:
 - Fabian
+external_ids:
+  spotify: spotify:track:1iXc0JgobSzRt5ZtccFWJd
 features: []
-genres: []
+first_released_as_single: false
 key: turn-me-loose-fabian
 lyrics_url: https://genius.com/Fabian-turn-me-loose-lyrics
 name: Turn Me Loose
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 156693
 ---
 Turn me loose, turn me loose I say
 This is the first time I have felt this way

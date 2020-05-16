@@ -1,9 +1,12 @@
 ---
+album: My Own Lane
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:2asIUjALYhUbH8hvLUhDWo
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: main-chick-kid-ink-chris-brown
 lyrics_url: https://genius.com/Kid-ink-main-chick-lyrics
 name: Main Chick
@@ -88,6 +91,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-10-11'
+release_year: 2014
+runtime: 197813
 ---
 I told her, "Fuck that nigga"
 Woop-woop, uh

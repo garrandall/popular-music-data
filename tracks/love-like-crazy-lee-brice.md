@@ -1,8 +1,11 @@
 ---
+album: Love Like Crazy
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:6Ozp6ac86CSHMik8lbvJuM
 features: []
-genres: []
+first_released_as_single: false
 key: love-like-crazy-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/lovelikecrazy.html
 name: Love Like Crazy
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2010
+runtime: 217386
 ---
-
 They called him crazy when they started out
 Said, "Seventeen's too young to know what loves about"
 They've been together fifty-eight years now
@@ -136,6 +140,3 @@ And love like crazy
 They called him crazy when they started out
 They've been together fifty-eight years now
 Ain't that crazy?
-
-
-

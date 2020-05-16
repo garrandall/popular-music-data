@@ -1,8 +1,11 @@
 ---
+album: 'Revelation: Revolution ''69'
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:0SWDyeULu38YyMnyf6DZw6
 features: []
-genres: []
+first_released_as_single: false
 key: me-about-you-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-me-about-you-lyrics
 name: Me About You
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1969
+runtime: 227893
 ---
 Perhaps another time or maybe 'nother place
 Could've eased my mind, would've never seen your face

@@ -1,8 +1,11 @@
 ---
+album: Louder Than Love
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:0N0W0KZXfShW4iYvB0ZQIu
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-give-up-on-you-tka
 lyrics_url: https://genius.com/Tka-i-wont-give-up-on-you-lyrics
 name: I Won't Give Up On You
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1990
+runtime: 287800
 ---
 There you go again
 Hiding out on me

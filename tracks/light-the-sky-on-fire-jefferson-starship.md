@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:120lRF2n0FsXZqCdSf6RG6
 features: []
-genres: []
+first_released_as_single: false
 key: light-the-sky-on-fire-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/lighttheskyonfire.html
 name: Light The Sky On Fire
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
+release_year: 1978
+runtime: 307666
 ---
-
 Fly unidentified if you want to
 But I would really like to know
 
@@ -93,6 +97,3 @@ Let's vanish without a trace
 Come on, come on, come on
 Come on, come on
 We'll vanish without a trace
-
-
-

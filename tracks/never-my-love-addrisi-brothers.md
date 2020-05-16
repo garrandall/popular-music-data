@@ -1,8 +1,11 @@
 ---
+album: We've Got to Get It On Again
 artists:
 - Addrisi Brothers
+external_ids:
+  spotify: spotify:track:2A04Nqb3UaBnSzZOxWnKz1
 features: []
-genres: []
+first_released_as_single: false
 key: never-my-love-addrisi-brothers
 lyrics_url: https://genius.com/Addrisi-brothers-never-my-love-lyrics
 name: Never My Love
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1972
+runtime: 204693
 ---
 You ask me if there'll come a time
 When I grow tired of you

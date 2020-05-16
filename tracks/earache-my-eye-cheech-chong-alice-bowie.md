@@ -1,10 +1,12 @@
 ---
+album: Wedding Album
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
+external_ids:
+  spotify: spotify:track:4iMF7Rq7hqsw4zyhwwezPr
 features:
 - Alice Bowie
-genres: []
+first_released_as_single: false
 key: earache-my-eye-cheech-chong-alice-bowie
 lyrics_url: https://genius.com/Cheech-and-chong-earache-my-eye-feat-alice-bowie-lyrics
 name: Earache My Eye
@@ -61,6 +63,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 320866
 ---
 My mamma talk'in to me, try'in to tell me how to live
 But I don't listen to her cause my head is like a sieve

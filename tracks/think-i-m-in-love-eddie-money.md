@@ -1,8 +1,11 @@
 ---
+album: Arnold Schwarzenegger's Total Body Workout
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2RvkPf7MIzhdh347w5sjTJ
 features: []
-genres: []
+first_released_as_single: false
 key: think-i-m-in-love-eddie-money
 lyrics_url: https://genius.com/Eddie-money-think-im-in-love-lyrics
 name: Think I'm In Love
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1977
+runtime: 189733
 ---
 Oh
 Something's got a hold on me now

@@ -1,8 +1,11 @@
 ---
+album: Gunfighter Ballads And Trail Songs
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:7Dc8oL7FkX1VPPrfl4NbBf
 features: []
-genres: []
+first_released_as_single: false
 key: big-iron-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/bigiron.html
 name: Big Iron
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1954
+runtime: 237306
 ---
-
 To the town of Agua Fria rode a stranger one fine day
 Hardly spoke to folks around him didn't have too much to say
 No one dared to ask his business no one dared to make a slip
@@ -102,6 +106,3 @@ Big iron Big iron
 When he tried to match the ranger with the big iron on his hip
 
 Big iron on his hip
-
-
-

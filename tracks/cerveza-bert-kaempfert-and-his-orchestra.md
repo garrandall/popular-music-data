@@ -1,8 +1,11 @@
 ---
+album: Take Me
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:1XMvgelASAeLCkBkUnBTm3
 features: []
-genres: []
+first_released_as_single: false
 key: cerveza-bert-kaempfert-and-his-orchestra
 name: Cerveza
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1961
+runtime: 152800
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Heat Is On
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:6unTJjV8cPR1UhWH6XbaMK
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-you--part-1-2--the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/fortheloveofyoupart12.html
 name: For The Love Of You (Part 1&2)
@@ -55,8 +58,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1972
+runtime: 338293
 ---
-
 Yeah
 Well, well, well
 Yeah...hey...
@@ -145,6 +149,3 @@ Write that down
 Said that I'm livin'
 For the love, love of you
 Oh oh
-
-
-

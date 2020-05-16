@@ -1,8 +1,11 @@
 ---
+album: Let's Work Together
 artists:
 - Wilbert Harrison
+external_ids:
+  spotify: spotify:track:59XNlPnp7mkbCTupmPocbJ
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-work-together--part-1--wilbert-harrison
 lyrics_url: https://genius.com/Wilbert-harrison-lets-work-together-lyrics
 name: Let's Work Together (Part 1)
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1969
+runtime: 335533
 ---
 Together we will stand
 Divided we'll fall

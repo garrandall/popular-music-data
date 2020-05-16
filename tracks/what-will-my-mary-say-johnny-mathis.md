@@ -1,8 +1,11 @@
 ---
+album: The Essential Johnny Mathis
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:6zYmF5WIfsj6wU8l1cOFYH
 features: []
-genres: []
+first_released_as_single: false
 key: what-will-my-mary-say-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/whatwillmymarysay.html
 name: What Will My Mary Say
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
+release_year: 1963
+runtime: 189053
 ---
-
 I must be going (Don't go)
 My heart is showing (Don't go)
 I better hurry away
@@ -85,6 +89,3 @@ What will my Mary say?
 
 (Don't go)
 (Don't go)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: For the Generation
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:4a0xrCtfGQtEjP2icvNnit
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-back-t-i-
 lyrics_url: https://genius.com/Ti-im-back-lyrics
 name: I'm Back
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-07-10'
+release_year: 2010
+runtime: 157309
 ---
 I never let you down, I’ma shine on sight
 Keep your mind on your grind and off of mines, alright?

@@ -1,8 +1,11 @@
 ---
+album: Mista
 artists:
 - Mista
+external_ids:
+  spotify: spotify:track:0a25e134ccYhXxC2ajoyQr
 features: []
-genres: []
+first_released_as_single: false
 key: blackberry-molasses-mista
 lyrics_url: https://genius.com/Mista-blackberry-molasses-lyrics
 name: Blackberry Molasses
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-10-26'
+release_year: 1996
+runtime: 246453
 ---
 Blackberry Molasses
 One of the things that never change

@@ -1,8 +1,11 @@
 ---
+album: Nevermind
 artists:
 - Nirvana
+external_ids:
+  spotify: spotify:track:4P5KoWXOxwuobLmHXLMobV
 features: []
-genres: []
+first_released_as_single: false
 key: come-as-you-are-nirvana
 lyrics_url: https://genius.com/Nirvana-come-as-you-are-lyrics
 name: Come As You Are
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
+release_year: 1991
+runtime: 218920
 ---
 Come as you are, as you were
 As I want you to be

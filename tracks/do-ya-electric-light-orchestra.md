@@ -1,8 +1,11 @@
 ---
+album: A New World Record
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:0AGd7gtJRYtzsMJCpnvNHX
 features: []
-genres: []
+first_released_as_single: false
 key: do-ya-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/doya.html
 name: Do Ya
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1972
+runtime: 249733
 ---
-
 In this life I've seen everything I can see woman,
 I've seen lovers flying through the air hand in hand
 I've seen babies dancing in the midnight sun,
@@ -89,4 +93,3 @@ Well I think you know what I'm trying to say woman,
 That is I'd like to save you for a rainy day,
 I've seen enough of the world to know,
 That I've got to get it all to get it all to grow.
-

@@ -1,8 +1,11 @@
 ---
+album: Frampton
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:2GLqM8YTSdpaQ58NrMe274
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-your-way-peter-frampton
 lyrics_url: https://genius.com/Peter-frampton-baby-i-love-your-way-lyrics
 name: Baby I Love Your Way
@@ -71,6 +74,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
+release_year: 1975
+runtime: 350840
 ---
 Shadows grow so long before my eyes
 And they're moving across the page

@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:40ZKynTJvdnzgzXhyeuAT4
 features: []
-genres: []
+first_released_as_single: false
 key: 1985--intro-to-the-fall-off--j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/1985introtothefalloff.html
 name: 1985 (Intro To The Fall Off)
@@ -15,8 +18,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2018
+runtime: 190359
 ---
-
 1985, I arrived
 33 years, damn, I'm grateful I survived
 We wasn't s'posed to get past 25
@@ -87,6 +91,3 @@ I'll be around forever 'cause my skills is tip-top
 To any amateur niggas that wanna get rocked
 Just remember what I told you when your shit flop
 In five years you gon' be on Love & Hip-Hop, nigga
-
-
-

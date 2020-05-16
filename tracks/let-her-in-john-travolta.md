@@ -1,8 +1,11 @@
 ---
+album: John Travolta Sings
 artists:
 - John Travolta
+external_ids:
+  spotify: spotify:track:24EwxGKXNuw49xDIkYFY82
 features: []
-genres: []
+first_released_as_single: false
 key: let-her-in-john-travolta
 lyrics_url: https://genius.com/John-travolta-let-her-in-lyrics
 name: Let Her In
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 184626
 ---
 I'm different today, hey-hey
 Somethin' she said has stuck in my head

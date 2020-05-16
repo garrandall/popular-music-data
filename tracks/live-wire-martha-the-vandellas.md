@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Martha Reeves & The Vandellas'
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:0OovrROpw3cV2HaKkz18tt
 features: []
-genres: []
+first_released_as_single: false
 key: live-wire-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/livewire.html
 name: Live Wire
@@ -36,8 +39,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 157573
 ---
-
 It's my birthday, and he forgot again
 Every time we date, he's always late
 All the abuses and excuses, I've made up my mind
@@ -63,6 +67,3 @@ Like a bolt of lightnin', it sets my soul on fire
 Just like a live wire, real live wire
 A bolt of lightnin', oh yeah, sets my soul on fire
 Like a live wire, real live wire
-
-
-

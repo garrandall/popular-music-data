@@ -1,8 +1,11 @@
 ---
+album: Rockin' Roll Baby
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:0ulsSTSEG65LIPfcFtuxh7
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--roll-baby-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/rockinrollbaby.html
 name: Rockin' Roll Baby
@@ -79,8 +82,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 196120
 ---
-
 Tootsie roll soul and doodle-white shoes
 Papa's sure proud of his little bitty rockin' roll baby
 Singin' at the age of two
@@ -105,6 +109,3 @@ He was born in a theater in Bluefield, West Virginia
 His ma and I were travelin' on the road
 I worked hard all that summer as a fill-in for the drummer
 One-night stands weren't easy for little Joe
-
-
-

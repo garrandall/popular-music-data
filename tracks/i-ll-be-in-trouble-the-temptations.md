@@ -1,8 +1,11 @@
 ---
+album: Temptin' Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:14IJuqI2uoee77JuS7Rg75
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-in-trouble-the-temptations
 lyrics_url: https://genius.com/The-temptations-ill-be-in-trouble-lyrics
 name: I'll Be In Trouble
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 179840
 ---
 If you decide to make me blue, I'll be in trouble
 If you decide to be untrue, I'll be in trouble

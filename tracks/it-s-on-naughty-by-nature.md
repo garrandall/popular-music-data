@@ -1,8 +1,11 @@
 ---
+album: 19 Naughty III
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:3Dd1z4FMULDQmxbDBJXQ3k
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-on-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-its-on-lyrics
 name: It's On
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 187710
 ---
 Once again it's on...
 

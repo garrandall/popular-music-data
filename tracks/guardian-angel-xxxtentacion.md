@@ -1,8 +1,11 @@
 ---
+album: SKINS
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7uqcLJFlSYjVPLUz1vPxkY
 features: []
-genres: []
+first_released_as_single: false
 key: guardian-angel-xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-guardian-angel-lyrics
 name: Guardian Angel
@@ -11,6 +14,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 108034
 ---
 Llew os uoy wonk I
 —ytterp neeb ev'I

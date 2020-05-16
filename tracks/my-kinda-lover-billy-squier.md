@@ -1,8 +1,11 @@
 ---
+album: Don't Say No
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:6g14FUj5zU9FDRwBi963vS
 features: []
-genres: []
+first_released_as_single: false
 key: my-kinda-lover-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/mykindalover.html
 name: My Kinda Lover
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 213533
 ---
-
 You got me runnin' baby
 You give me somethin' way beyond revenue
 You put the magic in me
@@ -84,6 +88,3 @@ And oh
 I been thinkin' 'bout you for so long
 I don't wanna lose ya
 You're my kinda lover
-
-
-

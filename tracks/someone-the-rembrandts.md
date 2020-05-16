@@ -1,8 +1,11 @@
 ---
+album: The Rembrandts
 artists:
 - The Rembrandts
+external_ids:
+  spotify: spotify:track:2SEx5I4i16LVoyIYFgjjw8
 features: []
-genres: []
+first_released_as_single: false
 key: someone-the-rembrandts
 lyrics_url: https://www.azlyrics.com/lyrics/rembrandts/someone.html
 name: Someone
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1990
+runtime: 229706
 ---
-
 We've been together now for such a long time
 Through every trial we'd ever care to go
 When I look back I almost can't believe it
@@ -67,4 +71,3 @@ Oh there were times I could not face the mornin'
 But everything's changed since the day that I found
 
 Come on-Come on-Come on-Come on now!
-

@@ -1,9 +1,12 @@
 ---
+album: 'Playlist: The Very Best Of Alan Jackson'
 artists:
 - Alan Jackson
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:07KYRDFf8Q6sqj4PWCP9vh
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-five-o-clock-somewhere-alan-jackson-jimmy-buffett
 lyrics_url: https://genius.com/Alan-jackson-its-five-oclock-somewhere-lyrics
 name: It's Five O'Clock Somewhere
@@ -88,6 +91,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 1991
+runtime: 230266
 ---
 The sun is hot and that old clock is movin' slow
 An' so am I

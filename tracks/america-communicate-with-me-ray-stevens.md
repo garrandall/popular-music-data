@@ -1,8 +1,11 @@
 ---
+album: Unreal!!!
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:0UPV0cjbqWNy9c22HSZVeI
 features: []
-genres: []
+first_released_as_single: false
 key: america-communicate-with-me-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-america-communicate-with-me-lyrics
 name: America Communicate With Me
@@ -31,6 +34,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1970
+runtime: 194986
 ---
 Reporter: 'Excuse me mam, what do you think about all the
 Protests in America today? '

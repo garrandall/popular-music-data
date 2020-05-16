@@ -1,8 +1,11 @@
 ---
+album: Pretty Blue World
 artists:
 - Billy Falcon
+external_ids:
+  spotify: spotify:track:4GaKQUKjP0CHdpxd5cQ8AC
 features: []
-genres: []
+first_released_as_single: false
 key: power-windows-billy-falcon
 lyrics_url: https://genius.com/Billy-falcon-power-windows-lyrics
 name: Power Windows
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1991
+runtime: 244373
 ---
 Charlie drives a brand new Mercedes Benz
 He's got another one just like it, just like all his friends

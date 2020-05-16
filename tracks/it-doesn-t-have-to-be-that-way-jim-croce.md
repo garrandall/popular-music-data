@@ -1,8 +1,11 @@
 ---
+album: Life & Times
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:5DqSOPvzr2LPxM0yKeR0qZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-doesn-t-have-to-be-that-way-jim-croce
 lyrics_url: https://genius.com/Jim-croce-it-doesnt-have-to-be-that-way-lyrics
 name: It Doesn't Have To Be That Way
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 154466
 ---
 Snowy nights and Christmas lights
 Icy windowpanes

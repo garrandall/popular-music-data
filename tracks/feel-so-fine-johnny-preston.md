@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds
 artists:
 - Johnny Preston
+external_ids:
+  spotify: spotify:track:05Fyn2BO89xcfgmvhZ7vse
 features: []
-genres: []
+first_released_as_single: false
 key: feel-so-fine-johnny-preston
 lyrics_url: https://www.azlyrics.com/lyrics/johnnypreston/feelsofine.html
 name: Feel So Fine
@@ -63,8 +66,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 126960
 ---
-
 Feel so fine, a little girl now you're mine
 Come a let me hug ya, come a let me kiss ya
 Come a let me see what I been missin'
@@ -107,6 +111,3 @@ Now that you've come back home (yep-yep)
 Now that you've (hep) come back home (so fine)
 Now that you've (hep) come back home (so fine)
 Now that you've (hep) come back home (so fine)
-
-
-

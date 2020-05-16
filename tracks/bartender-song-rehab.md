@@ -1,8 +1,11 @@
 ---
+album: Graffiti The World
 artists:
 - Rehab
+external_ids:
+  spotify: spotify:track:1gewemPOUilb21s7CfMS55
 features: []
-genres: []
+first_released_as_single: false
 key: bartender-song-rehab
 lyrics_url: https://www.azlyrics.com/lyrics/rehab/bartendersongsittinatabar.html
 name: Bartender Song
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2005
+runtime: 229040
 ---
-
 Bartender I really did it this time
 Broke my parole to have a good time
 When I got home it was 6 A.M.
@@ -156,6 +160,3 @@ Nah na na na na na na na na na na na na na
 Na na na na na na na na na na na na na na
 
 ...
-
-
-

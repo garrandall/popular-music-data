@@ -1,7 +1,8 @@
 ---
 artists:
-- D-Mob With Cathy Dennis
-features: []
+- D-Mob
+features:
+- Cathy Dennis
 genres: []
 key: that-s-the-way-of-the-world-d-mob-with-cathy-dennis
 name: That's The Way Of The World

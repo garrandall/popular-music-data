@@ -1,9 +1,12 @@
 ---
+album: Blurred Lines
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:5zDQlhcJ5KOoXeSMGwiuJY
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: give-it-2-u-robin-thicke-kendrick-lamar
 lyrics_url: https://genius.com/Robin-thicke-give-it-2-u-lyrics
 name: Give It 2 U
@@ -56,6 +59,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 229666
 ---
 Girl, give it to me
 Girl you know what it do

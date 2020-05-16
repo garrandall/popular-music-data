@@ -1,10 +1,13 @@
 ---
+album: Forever Country
 artists:
 - Artists Of Then
 - Now
 - Forever
+external_ids:
+  spotify: spotify:track:3WWVDPjihd1VITBLF10nha
 features: []
-genres: []
+first_released_as_single: true
 key: forever-country-artists-of-then-now-forever
 lyrics_url: https://www.azlyrics.com/lyrics/artistsofthennowforever/forevercountry.html
 name: Forever Country
@@ -25,8 +28,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2016
+runtime: 242480
 ---
-
 Almost heaven, West Virginia
 Blue ridge mountain, Shenandoah river
 Life is old there, older than the trees
@@ -85,6 +89,3 @@ I can't wait to get on the road again
 Take me home, country roads
 I will always love you
 I'll always love you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rockin'
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:08Pzndwu6eqyKeQsEnC4nh
 features: []
-genres: []
+first_released_as_single: false
 key: guns-guns-guns-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-guns-guns-guns-lyrics
 name: Guns Guns Guns
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 300440
 ---
 American hunter, bring them up the north side
 (Guns, guns, guns)

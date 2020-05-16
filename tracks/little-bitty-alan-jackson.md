@@ -1,8 +1,11 @@
 ---
+album: Everything I Love
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:2IY559smG7SXYk229NA2Vl
 features: []
-genres: []
+first_released_as_single: false
 key: little-bitty-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/littlebitty.html
 name: Little Bitty
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 158626
 ---
-
 Have a little love on a little honeymoon
 You got a little dish and you got a little spoon
 A little bitty house and a little bitty yard
@@ -92,6 +96,3 @@ Might as well share, might as well smile
 Life goes on for a little bitty while.
 
 (Whoooo)...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:4esJRAEHmiwOlvnXAOg5iE
 features: []
-genres: []
+first_released_as_single: false
 key: burnin--thing-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/burninthing.html
 name: Burnin' Thing
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1972
+runtime: 179861
 ---
-
 When I'm thinking 'bout you, baby
 There's a bittersweet pain
 Way down deep in the secret part of me
@@ -89,6 +93,3 @@ It's a burning thing
 Way down deep in the soul of me
 It's a burning thing
 Baby, my love for you is a burning thing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Futures
 artists:
 - Jimmy Eat World
+external_ids:
+  spotify: spotify:track:26u0mqjBoUsdljObQDnYFl
 features: []
-genres: []
+first_released_as_single: true
 key: pain-jimmy-eat-world
 lyrics_url: https://genius.com/Jimmy-eat-world-pain-lyrics
 name: Pain
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2004
+runtime: 171720
 ---
 I don't feel the way I've ever felt
 I know

@@ -1,8 +1,11 @@
 ---
+album: The Dock of the Bay (Mono)
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:6TXmmIoF02if9dz8yktZVS
 features: []
-genres: []
+first_released_as_single: false
 key: glory-of-love-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/thegloryoflove.html
 name: Glory Of Love
@@ -23,8 +26,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 158449
 ---
-
 Give a little, take a little 
 And let your little heart just cry a little 
 That's the story of
@@ -56,6 +60,3 @@ I got to tell you bout the glory of, the glory of, the glory of love
 You got to know what the glory is, the glory is, 
 everybody ought to know what the glory of love is, 
 the glory of, it's the glory of, the glory of love?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Portrait
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:5uDtfpDYQfzwhyTX4Q5pow
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-country-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/savethecountry.html
 name: Save The Country
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 159973
 ---
-
 Come on, people, come on, children
 Come on down to the glory river
 Gonna wash you up and wash you down
@@ -77,6 +81,3 @@ In my mind I can't study war no more
 Save the people
 Save the children
 Save the country, save the country, save the country now
-
-
-

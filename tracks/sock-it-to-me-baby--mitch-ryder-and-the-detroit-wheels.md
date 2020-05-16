@@ -1,8 +1,11 @@
 ---
+album: Sock It To Me!
 artists:
 - Mitch Ryder And The Detroit Wheels
+external_ids:
+  spotify: spotify:track:4xbEZAkHlMF66O11IRHTzB
 features: []
-genres: []
+first_released_as_single: false
 key: sock-it-to-me-baby--mitch-ryder-and-the-detroit-wheels
 lyrics_url: https://genius.com/Mitch-ryder-and-the-detroit-wheels-sock-it-to-me-baby-lyrics
 name: Sock It To Me-Baby!
@@ -51,6 +54,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 186000
 ---
 Sock
 Oh, I'm so ready

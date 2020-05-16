@@ -1,8 +1,11 @@
 ---
+album: Christopher Cross
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:7gUMShP1l20tC0xf17Zplk
 features: []
-genres: []
+first_released_as_single: false
 key: ride-like-the-wind-christopher-cross
 lyrics_url: https://genius.com/Christopher-cross-ride-like-the-wind-lyrics
 name: Ride Like The Wind
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1979
+runtime: 275506
 ---
 It is the night
 My body's weak

@@ -1,8 +1,11 @@
 ---
+album: Everybody Loves A Nut
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:46m6YFeBfrs4MMAclgziCZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-on-the-right-is-on-the-left-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-the-one-on-the-right-is-on-the-left-lyrics
 name: The One On The Right Is On The Left
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 165706
 ---
 There once was a musical troupe
 A picking, singing folk group

@@ -1,8 +1,11 @@
 ---
+album: Losing My Religion (The Voice Performance)
 artists:
 - Dia Frampton
+external_ids:
+  spotify: spotify:track:0Q5U5alAt2pjop9331E5cQ
 features: []
-genres: []
+first_released_as_single: true
 key: losing-my-religion-dia-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/diaframpton/losingmyreligion.html
 name: Losing My Religion
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 212240
 ---
-
 Oh, life is bigger
 It's bigger than you
 And you are not me
@@ -74,6 +78,3 @@ Try, cry, why, try
 That was just a dream
 Just a dream, just a dream
 Just a dream
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Jealous Ones Still Envy (J.O.S.E)
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:3o0azv3eDfqyV2gwKTJ2nC
 features:
 - R. Kelly
-genres: []
+first_released_as_single: true
 key: we-thuggin--fat-joe-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/wethuggin.html
 name: We Thuggin'
@@ -88,9 +91,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 207066
 ---
-
-
 (Oh, mmm)
 Yea, uh, uh (Fat Joe and the R)
 That shit y'all (Breakin shit down)
@@ -162,6 +165,3 @@ You know what this is
 Chi-town - BX
 What the fuck what?
 Out...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Synchronicity (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:1V15l05snHYHYVxerjMFGo
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-pain-the-police
 lyrics_url: https://genius.com/The-police-king-of-pain-lyrics
 name: King Of Pain
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 299040
 ---
 There's a little black spot on the sun today
 It's the same old thing as yesterday

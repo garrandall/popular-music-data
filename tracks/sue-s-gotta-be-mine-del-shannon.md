@@ -1,8 +1,11 @@
 ---
+album: Lost Sides
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:4Y58VuD8vlQQrD6dap0wO4
 features: []
-genres: []
+first_released_as_single: false
 key: sue-s-gotta-be-mine-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/suesgottabemine.html
 name: Sue's Gotta Be Mine
@@ -35,8 +38,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1963-12-14'
+release_year: 1963
+runtime: 121666
 ---
-
 Sue, why don't we go away 
 (go away) 
 Sue, we could leave today 
@@ -60,6 +64,3 @@ Sue, you gotta be mine
 (all the time) 
 Sue, you gotta be my baby 
 (be my baby)
-
-
-

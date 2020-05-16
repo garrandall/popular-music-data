@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:214nt20w5wOxJnY462klLw
 features: []
-genres: []
+first_released_as_single: false
 key: miss-americana---the-heartbreak-prince-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/missamericanatheheartbreakprince.html
 name: Miss Americana & The Heartbreak Prince
@@ -11,8 +14,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 234146
 ---
-
 You know I adore you, I'm crazier for you
 Than I was at sixteen, lost in a film scene
 Waving homecoming queens, marching band playing
@@ -84,6 +88,3 @@ That someday we're gonna (Win), I just thought you should know
 It's you and me, that's my whole world
 They whisper in the hallway, "She's a bad, bad girl"
 "She's a bad, bad girl"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:5X4pFWI17shZv5hXHHtkxx
 features: []
-genres: []
+first_released_as_single: false
 key: run-samson-run-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/runsamsonrun.html
 name: Run Samson Run
@@ -51,8 +54,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1959
+runtime: 172866
 ---
-
 In the bible
 One thousand years B.C.
 There's a story
@@ -102,6 +106,3 @@ On your mark you better start
 I'd sooner trust a hungry lion than a gal with a cheating heart
 
 I'd sooner trust a hungry lion than a gal with a cheating heart
-
-
-

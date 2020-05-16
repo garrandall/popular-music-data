@@ -1,8 +1,11 @@
 ---
+album: Derringer (Bonus Track)
 artists:
 - Derringer
+external_ids:
+  spotify: spotify:track:4YPlR0R5VmhZ0Dtnf6Yh6m
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-in-derringer
 lyrics_url: https://www.musixmatch.com/lyrics/Rick-Derringer/Let-Me-In
 name: Let Me In
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 210293
 ---
 One, two, three, four
 

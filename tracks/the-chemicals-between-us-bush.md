@@ -1,8 +1,11 @@
 ---
+album: The Science of Things
 artists:
 - Bush
+external_ids:
+  spotify: spotify:track:2jOdqw7a9uV1s256FXXR4W
 features: []
-genres: []
+first_released_as_single: false
 key: the-chemicals-between-us-bush
 lyrics_url: https://www.azlyrics.com/lyrics/bush/thechemicalsbetweenus.html
 name: The Chemicals Between Us
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 217493
 ---
-
 I want you to remember
 A love so full it could send us all ways
 And I want you to surrender 
@@ -142,6 +146,3 @@ The chemicals between us
 Chemicals 
 
 The chemicals between us
-
-
-

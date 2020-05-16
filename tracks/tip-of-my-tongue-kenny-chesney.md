@@ -1,8 +1,11 @@
 ---
+album: Here And Now
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:40ufL61vEaDaaOitYhnlQ7
 features: []
-genres: []
+first_released_as_single: true
 key: tip-of-my-tongue-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/tipofmytongue.html
 name: Tip Of My Tongue
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 199413
 ---
-
 I love the dimples in the small of your back
 The way they're speaking to me just like that
 Red wine made my imagination run
@@ -143,6 +147,3 @@ I wanna love you till my days are done
 I wanna tell you that I think that you're the one
 Oh, girl, you know when it's all said and done
 Everything about you's on the tip of my tongue
-
-
-

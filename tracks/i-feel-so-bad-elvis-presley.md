@@ -1,8 +1,11 @@
 ---
+album: Elvis' Golden Records, Vol. 3
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:42X4AMue61nbWRF7VGIbSz
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-so-bad-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-i-feel-so-bad-lyrics
 name: I Feel So Bad
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1961
+runtime: 174160
 ---
 Feel so bad
 Like a ball game on a rainy day

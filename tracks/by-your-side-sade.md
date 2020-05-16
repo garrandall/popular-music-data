@@ -1,8 +1,11 @@
 ---
+album: Lovers Rock
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:3VcmjpCGGY4ReELVr4R7aa
 features: []
-genres: []
+first_released_as_single: false
 key: by-your-side-sade
 lyrics_url: https://genius.com/Sade-by-your-side-lyrics
 name: By Your Side
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 2000
+runtime: 274600
 ---
 You think I'd leave your side baby
 You know me better than that

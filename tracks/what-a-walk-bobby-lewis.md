@@ -1,8 +1,11 @@
 ---
+album: Tossin' and Turnin'
 artists:
 - Bobby Lewis
+external_ids:
+  spotify: spotify:track:2Wqg9kD4PFvwsS6DBuHXKZ
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-walk-bobby-lewis
 lyrics_url: https://genius.com/Bobby-lewis-what-a-walk-lyrics
 name: What A Walk
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 124843
 ---
 It looked like a twist
 It moved like a slop

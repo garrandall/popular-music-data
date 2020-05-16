@@ -1,8 +1,11 @@
 ---
+album: Nothing Like This
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:3uSeT5T2pOEx5fTdYFJasm
 features: []
-genres: []
+first_released_as_single: false
 key: why-wait-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/whywait.html
 name: Why Wait
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 224840
 ---
-
 What'aya say girl, we do somethin' crazy
 Quit puttin' it off, you know what I'm sayin'
 Ain't like it ain't gunna happen, forever's a given
@@ -136,6 +140,3 @@ So why wait
 Why wait
 
 What'aya say girl we do somethin' crazy
-
-
-

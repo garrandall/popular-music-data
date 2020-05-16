@@ -1,8 +1,11 @@
 ---
+album: Out of Exile
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:3zwmW1gM4E8FlHXV5nE16u
 features: []
-genres: []
+first_released_as_single: false
 key: be-yourself-audioslave
 lyrics_url: https://www.azlyrics.com/lyrics/audioslave/beyourself.html
 name: Be Yourself
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2005
+runtime: 278973
 ---
-
 Someone falls to pieces
 Sleeping all alone
 Someone kills the pain
@@ -129,6 +133,3 @@ To be yourself is all that you can do
 To be yourself is all that you can
 Be yourself is all that you can
 Be yourself is all that you can do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Destiny / Kisses In The Night
 artists:
 - Brandon
+external_ids:
+  spotify: spotify:track:0wGSi3ATuhhyIk6DiY5A37
 features: []
-genres: []
+first_released_as_single: true
 key: kisses-in-the-night-brandon
 name: Kisses In The Night
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1991
+runtime: 271813
 ---
 

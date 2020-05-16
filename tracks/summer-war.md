@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - War
+external_ids:
+  spotify: spotify:track:3Wn3X4y2PWEukElzdUjzw1
 features: []
-genres: []
+first_released_as_single: false
 key: summer-war
 lyrics_url: https://www.musixmatch.com/lyrics/War/Summer
 name: Summer
@@ -71,6 +74,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 399040
 ---
 Ridin round town with all the windows down
 Eight track playin all your favorite sounds

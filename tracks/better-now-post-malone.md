@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:7dt6x5M1jzdTEt8oCbisTK
 features: []
-genres: []
+first_released_as_single: false
 key: better-now-post-malone
 lyrics_url: https://genius.com/Post-malone-better-now-lyrics
 name: Better Now
@@ -215,6 +218,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 231266
 ---
 You prolly think that you are better now, better now
 You only say that 'cause I'm not around, not around

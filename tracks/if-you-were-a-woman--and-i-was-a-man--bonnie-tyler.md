@@ -1,8 +1,11 @@
 ---
+album: Secret Dreams And Forbidden Fire
 artists:
 - Bonnie Tyler
+external_ids:
+  spotify: spotify:track:6ZyUfQLQdcrKHlbGDVcG5t
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-were-a-woman--and-i-was-a-man--bonnie-tyler
 lyrics_url: https://genius.com/Bonnie-tyler-if-you-were-a-woman-and-i-was-a-man-lyrics
 name: If You Were A Woman (And I Was A Man)
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1983
+runtime: 316000
 ---
 If you were a woman and I was a man
 Would it be so hard to understand?

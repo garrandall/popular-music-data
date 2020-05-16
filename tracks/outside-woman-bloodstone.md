@@ -1,8 +1,11 @@
 ---
+album: Unreal
 artists:
 - Bloodstone
+external_ids:
+  spotify: spotify:track:4gdct6wig5wh38jALCUNzy
 features: []
-genres: []
+first_released_as_single: false
 key: outside-woman-bloodstone
 lyrics_url: https://genius.com/Bloodstone-outside-woman-lyrics
 name: Outside Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1974
+runtime: 292933
 ---
 'Cause you're the outside woman
 Don't feel bad, don't cry

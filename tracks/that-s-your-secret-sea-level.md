@@ -1,8 +1,11 @@
 ---
+album: Cats On The Coast
 artists:
 - Sea Level
+external_ids:
+  spotify: spotify:track:4cPgzpdeKtOkgBYqHNLe9P
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-your-secret-sea-level
 lyrics_url: https://genius.com/Sea-level-thats-your-secret-lyrics
 name: That's Your Secret
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1977
+runtime: 316600
 ---
 In spurts we live
 Still soft from birth

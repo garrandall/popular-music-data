@@ -1,8 +1,11 @@
 ---
+album: Who Needs Pictures
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2VseRo2PPYyf1DQBT6y7nE
 features: []
-genres: []
+first_released_as_single: false
 key: who-needs-pictures-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/whoneedspictures.html
 name: Who Needs Pictures
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1999
+runtime: 224266
 ---
-
 There's an old Kodak camera in my dresser drawer
 I ran across it just this afternoon
 And I realized that I don't ever use it anymore
@@ -98,6 +102,3 @@ To remind me of the past
 Oh, but I can still see everything just fine
 Who needs pictures with a memory like mine
 Yeah, who needs pictures with a memory like mine
-
-
-

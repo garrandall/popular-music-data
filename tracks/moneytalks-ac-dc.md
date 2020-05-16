@@ -1,8 +1,11 @@
 ---
+album: The Razors Edge
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:5u5F7qLDvZjBSktaDp4HxB
 features: []
-genres: []
+first_released_as_single: false
 key: moneytalks-ac-dc
 lyrics_url: https://www.azlyrics.com/lyrics/acdc/moneytalks.html
 name: Moneytalks
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
+release_year: 1990
+runtime: 225946
 ---
-
 Tailored suits, chauffeured cars
 Fine hotels and big cigars
 Up for grabs, all for a price
@@ -113,6 +117,3 @@ Come on come on, love me for the money
 Come on come on, listen to the Moneytalk
 Come on come on, love me for the money
 Come on come on, listen to the Moneytalk
-
-
-

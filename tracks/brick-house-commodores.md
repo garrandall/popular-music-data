@@ -1,8 +1,11 @@
 ---
+album: Commodores
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:5VJjhHyG8NZ5xdgG6uTb3P
 features: []
-genres: []
+first_released_as_single: false
 key: brick-house-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/brickhouse.html
 name: Brick House
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 208893
 ---
-
 She's a brick house
 She's mighty, mighty
 Just lettin' it all hang out
@@ -141,6 +145,3 @@ Shake it down, shake it down, shake it down now!
 Shake it down, shake it down, shake it!
 
 A brick house
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bill Medley
 artists:
 - Bill Medley
+external_ids:
+  spotify: spotify:track:5GZbXF48yF6lgajfyI9w4L
 features: []
-genres: []
+first_released_as_single: false
 key: brown-eyed-woman-bill-medley
 lyrics_url: https://genius.com/Bill-medley-brown-eyed-woman-lyrics
 name: Brown Eyed Woman
@@ -51,6 +54,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 260306
 ---
 You look at me
 And baby all you see

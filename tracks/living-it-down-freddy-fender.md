@@ -1,8 +1,11 @@
 ---
+album: Before The Next Teardrop Falls
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:38sXuGEGUEWOZcDNiTRmQu
 features: []
-genres: []
+first_released_as_single: false
 key: living-it-down-freddy-fender
 lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/livingitdown.html
 name: Living It Down
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 155973
 ---
-
 She's taking it easy
 I'm taking it hard
 She's got it together
@@ -53,6 +57,3 @@ She's having a time now
 Out painting the town
 She's living it up now
 I'm living it down
-
-
-

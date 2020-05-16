@@ -1,8 +1,11 @@
 ---
+album: 'Edits By Mr K. - Sampler #3'
 artists:
 - Philadelphia International All Stars
+external_ids:
+  spotify: spotify:track:44AVHyLDtFQweGtat4ayG0
 features: []
-genres: []
+first_released_as_single: true
 key: let-s-clean-up-the-ghetto-philadelphia-international-all-stars
 lyrics_url: https://genius.com/Philadelphia-international-all-stars-lets-clean-up-the-ghetto-lyrics
 name: Let's Clean Up The Ghetto
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1976
+runtime: 588160
 ---
 You know
 I was in New York City a few months ago

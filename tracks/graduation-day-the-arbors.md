@@ -1,8 +1,11 @@
 ---
+album: The Arbors Sing Valley of the Dolls
 artists:
 - The Arbors
+external_ids:
+  spotify: spotify:track:7bzliWon3VpMR1guX1HlOf
 features: []
-genres: []
+first_released_as_single: false
 key: graduation-day-the-arbors
 lyrics_url: https://genius.com/The-arbors-graduation-day-lyrics
 name: Graduation Day
@@ -23,6 +26,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 149586
 ---
 Graduation Day
 Graduation Day

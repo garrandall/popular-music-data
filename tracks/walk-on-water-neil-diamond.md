@@ -1,8 +1,11 @@
 ---
+album: Moods
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1XbhsPAvC8sUMaGZxaKznK
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-water-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/walkonwater.html
 name: Walk On Water
@@ -55,8 +58,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 184960
 ---
-
 Walk on water, ain't it like her
 She leads the children
 Ain't it right, ain't it right, ain't it right
@@ -85,6 +89,3 @@ She walks on water,
 Ah, ain't it like her
 She leads the children
 Ain't it right, ain't it right, ain't it right
-
-
-

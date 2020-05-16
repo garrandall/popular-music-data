@@ -1,8 +1,11 @@
 ---
+album: Love Gun
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:0SPBrxOUEMIKugXR4bFhxs
 features: []
-genres: []
+first_released_as_single: false
 key: love-gun-kiss
 lyrics_url: https://genius.com/Kiss-love-gun-lyrics
 name: Love Gun
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1977
+runtime: 198706
 ---
 I really love you, baby
 I love what you've got

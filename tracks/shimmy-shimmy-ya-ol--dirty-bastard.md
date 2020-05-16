@@ -1,8 +1,11 @@
 ---
+album: 'Return To The 36 Chambers: The Dirty Version'
 artists:
 - Ol' Dirty Bastard
+external_ids:
+  spotify: spotify:track:3ABG1UQTk0eLYUAeWkmfMi
 features: []
-genres: []
+first_released_as_single: false
 key: shimmy-shimmy-ya-ol--dirty-bastard
 lyrics_url: https://genius.com/Ol-dirty-bastard-shimmy-shimmy-ya-lyrics
 name: Shimmy Shimmy Ya
@@ -67,15 +70,13 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
+release_year: 1995
+runtime: 161400
 ---
-"Aw, I don't want to fuck you. You can't even sing!" You had to sing, or something, to get some pussy
-
-
 Oh, baby, I like it raw
 Yeah, baby, I like it raw
 Oh, baby, I like it raw
 Yeah, baby, I like it raw
-
 
 Shimmy, shimmy, ya, shimmy, yam, shimmy, yay
 Gimme the mic so I can take it away
@@ -90,11 +91,10 @@ Lyrics get hard quick cement to the ground
 For any emcee in any fifty-two states
 I get psycho killer, Norman Bates
 My producer slam my flow is like bam
-Jump on stage dunduhduhDUNduuuuuh
+Jump on stage
 
 (I like the way you talk)
 
-
 Oh, baby, I like it raw
 Yeah, baby, I like it raw
 Oh, baby, I like it raw
@@ -103,9 +103,6 @@ Oh, baby, I like it raw
 Yeah, baby, I like it raw
 Oh, baby, I like it raw
 Yeah, baby, I like it raw
-
-
-
 
 Shimmy, shimmy, ya, shimmy, yam, shimmy, yay
 Gimme the mic so I can take it away
@@ -120,8 +117,7 @@ Lyrics get hard quick cement to the ground
 For any emcee in any fifty-two states
 I get psycho killer, Norman Bates
 My producer slam my flow is like bam
-Jump on stage dunduhduhDUNduuuuuh
-
+Jump on stage
 
 Shi-shimmy shimmy ya, yeah
 Shi-shimmy shimmy ya, shimmy yam
@@ -131,10 +127,7 @@ Shi-shimmy shi-shimmy ya shimmy yam, shimmy yay
 
 Give me the mic so I can take it away, shimmy shimmy ya
 
-
 You can't even sing. You have to sing or something to get some pussy
-
-ADDITIONAL EXTENDED VERSE
 
 
 See, when a nigga say he likes it raw
@@ -144,8 +137,8 @@ For the ladies who know me tell them who the fuck I be
 For the niggas who know me tell them who the fuck I be
 My style comes down on y'all like rocks
 (Sitin' on the dock of the bay) By the dock!
-(Aiyaiyaiyaiyaiyaiyaiy...) Umm by the flock
-(Don't goooooo) By the creak by the flock
+(Aiyaiyaiyaiyaiyaiyaiy Umm by the flock
+(Don't go) By the creak by the flock
 Got east coast locked down padlocked
 My Zoo be all all down by the flock
 
@@ -154,7 +147,6 @@ Oh, baby, I like it raw
 Yeah, baby, I like it raw
 Oh, baby, I like it raw
 Yeah, baby, I like it raw
-
 
 Shimmy shimmy ya, shimmy yam, shimmy yay
 Gimme the mic so I can take it away
@@ -169,11 +161,10 @@ Lyrics get hard quick cement to the ground
 For any emcee in any fifty-two states
 I get psycho killer, Norman Bates
 My producer slam my flow is like bam
-Jump on stage dunduhduhDUNduuuuuh
+Jump on stage
 (I like the way you talk)
 
 Yo, y'all know the lyrics, come on, sing with me
-
 
 Oh, baby, I like it raw
 Yeah, baby, I like it raw

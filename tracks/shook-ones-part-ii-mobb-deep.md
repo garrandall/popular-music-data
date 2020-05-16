@@ -1,8 +1,11 @@
 ---
+album: 'Life Of The Infamous: The Best Of Mobb Deep'
 artists:
 - Mobb Deep
+external_ids:
+  spotify: spotify:track:4NpZRqlxbbUG0aeskdthBj
 features: []
-genres: []
+first_released_as_single: false
 key: shook-ones-part-ii-mobb-deep
 lyrics_url: https://www.azlyrics.com/lyrics/mobbdeep/shookonespartii.html
 name: Shook Ones Part II
@@ -47,9 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
+release_year: 1993
+runtime: 263013
 ---
-
-
 (Word up son! Word!)
 Yeah! To all the killers and a hundred dollar billas, billas...
 (Yo I got the phone thing, youkno'msayin'?) (Keep your eyes open.)
@@ -165,6 +168,3 @@ Big Prodigy! The whole Bridge! Queens get the money
 41st Side! (He's just a shook one.)
 Keepin' it real! (You know...)
 Queens get the money...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bobby Rydell Salutes The Great Ones/Rydell At The Copa
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:5JcBnLSVjsXKUdlK00tjWe
 features: []
-genres: []
+first_released_as_single: false
 key: sway-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-sway-lyrics
 name: Sway
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 69480
 ---
 When marimba rhythms start to play
 Dance with me, make me sway

@@ -1,8 +1,11 @@
 ---
+album: Lovers Who Wander
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:7tq7Lj4YSFE1QZdUHvTJtB
 features: []
-genres: []
+first_released_as_single: false
 key: sandy-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/sandy.html
 name: Sandy
@@ -51,8 +54,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1962
+runtime: 140946
 ---
-
 Why must I love you so much?
 Sandy, I long for your touch
 
@@ -87,6 +91,3 @@ I never thought you would put me down
 Can't believe that you're untrue
 And now the news is out around town
 Sandy babe what can I do?
-
-
-

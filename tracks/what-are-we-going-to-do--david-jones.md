@@ -1,8 +1,11 @@
 ---
+album: David Jones
 artists:
 - David Jones
+external_ids:
+  spotify: spotify:track:71XEFgsJJFGn1MUyG4l39N
 features: []
-genres: []
+first_released_as_single: false
 key: what-are-we-going-to-do--david-jones
 name: What Are We Going To Do?
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 143560
 ---
 

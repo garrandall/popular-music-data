@@ -1,8 +1,11 @@
 ---
+album: Feed Tha Streets II
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:1lWK70HfYRFZtWJUwUrY48
 features: []
-genres: []
+first_released_as_single: true
 key: die-young-roddy-ricch
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/dieyoung.html
 name: Die Young
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 161128
 ---
-
 I ain't tryna die young, so I gotta ride with one
 Stood ten toes down in my Balenciagas
 He ran down on a nigga, that's a shotta, shotta
@@ -70,6 +74,3 @@ Gotta keep it on me, I don't wanna die young
 I rather be judged by twelve, than carried by six
 How I'm gon' post bail? Just look at my wrist
 Tell me, why the legends always gotta die quick?
-
-
-

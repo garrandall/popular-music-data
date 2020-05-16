@@ -1,8 +1,11 @@
 ---
+album: Roxanne
 artists:
 - Roxanne
+external_ids:
+  spotify: spotify:track:0t1XisESZqQXBaO1yNbRbU
 features: []
-genres: []
+first_released_as_single: false
 key: play-that-funky-music-roxanne
 lyrics_url: https://www.musixmatch.com/lyrics/Roxanne/Play-That-Funky-Music
 name: Play That Funky Music
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1988
+runtime: 205346
 ---
 Hey do it now
 Yeah hey

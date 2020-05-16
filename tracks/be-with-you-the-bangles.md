@@ -1,8 +1,11 @@
 ---
+album: Everything
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:52r0ElqYeRTif3OUdz9puM
 features: []
-genres: []
+first_released_as_single: false
 key: be-with-you-the-bangles
 lyrics_url: https://genius.com/The-bangles-be-with-you-lyrics
 name: Be With You
@@ -55,6 +58,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1988
+runtime: 181600
 ---
 Out my window
 The rain starts to fall

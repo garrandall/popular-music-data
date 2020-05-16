@@ -1,8 +1,11 @@
 ---
+album: Square Rooms
 artists:
 - Al Corley
+external_ids:
+  spotify: spotify:track:61HGj25ENxWMuSYibZfqyM
 features: []
-genres: []
+first_released_as_single: false
 key: square-rooms-al-corley
 lyrics_url: https://genius.com/Al-corley-square-rooms-lyrics
 name: Square Rooms
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-06-08'
+release_year: 1984
+runtime: 221506
 ---
 Thinking in square rooms, a human without illusions
 Sad strains on a sad face, is that what we've come to?

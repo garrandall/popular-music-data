@@ -1,8 +1,11 @@
 ---
+album: 'His Best: The Electric B.B. King'
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:6xUFBHDsCLcHoARWsKGJUo
 features: []
-genres: []
+first_released_as_single: false
 key: you-put-it-on-me-b-b--king
 lyrics_url: https://genius.com/Bb-king-you-put-it-on-me-lyrics
 name: You Put It On Me
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
+release_year: 1968
+runtime: 166266
 ---
 They say there ain't no woman that a man can trust
 That they all use joo-joo, and goofy dust

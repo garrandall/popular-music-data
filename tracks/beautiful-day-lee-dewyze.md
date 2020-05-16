@@ -1,8 +1,11 @@
 ---
+album: Beautiful Day
 artists:
 - Lee DeWyze
+external_ids:
+  spotify: spotify:track:2uLNwZvdN7lOvlqT9ebjkB
 features: []
-genres: []
+first_released_as_single: true
 key: beautiful-day-lee-dewyze
 lyrics_url: https://www.azlyrics.com/lyrics/leedewyze/beautifulday.html
 name: Beautiful Day
@@ -15,8 +18,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 237520
 ---
-
 The heart is a bloom 
 Shoots up through the stony ground 
 There is no room 
@@ -82,6 +86,3 @@ What you don't have you don't need it now
 Don't need it now 
 Was a beautiful day 
 Was a beautiful day
-
-
-

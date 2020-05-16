@@ -1,8 +1,11 @@
 ---
+album: This Is My Beat
 artists:
 - Jim Ed Brown
+external_ids:
+  spotify: spotify:track:7x5fQzXCv7Qna01FXGs6Vk
 features: []
-genres: []
+first_released_as_single: false
 key: morning-jim-ed-brown
 lyrics_url: https://genius.com/Jim-ed-brown-morning-lyrics
 name: Morning
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1968
+runtime: 149666
 ---
 Here in this room this narrow room
 Where life began when we were young last night

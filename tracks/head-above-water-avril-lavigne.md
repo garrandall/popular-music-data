@@ -1,8 +1,11 @@
 ---
+album: Head Above Water
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:7gY3cyGcB2wnk2xDXiA0pe
 features: []
-genres: []
+first_released_as_single: false
 key: head-above-water-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/headabovewater.html
 name: Head Above Water
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 220850
 ---
-
 I've gotta keep the calm before the storm
 I don't want less, I don't want more
 Must bar the windows and the doors
@@ -72,6 +76,3 @@ Don't let me drown
 And keep my head above water
 (Don't let me, don't let me, don't let me drown)
 Above water
-
-
-

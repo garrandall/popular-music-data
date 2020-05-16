@@ -1,8 +1,11 @@
 ---
+album: 'Reba #1''s'
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:4mhQ9L3P6DfOwyEGGNlzBw
 features: []
-genres: []
+first_released_as_single: false
 key: till-you-love-me-reba-mcentire
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/tillyouloveme.html
 name: Till You Love Me
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1994
+runtime: 230866
 ---
-
 I sent you roses, I warned you I would
 Do all that I could to show you the way that I feel
 Please, don't say I'm wasting my time
@@ -78,6 +82,3 @@ But if dreams give you power
 Then I'm strong enough to offer my heart
 And never give up till you love me
 Till you love me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Enta Da Stage
 artists:
 - Black Moon
+external_ids:
+  spotify: spotify:track:5ViJ5BkM8rk6lxDWH4fcqp
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-cha-opin-black-moon
 lyrics_url: https://genius.com/Black-moon-i-got-cha-opin-lyrics
 name: I Got Cha Opin
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1993
+runtime: 255200
 ---
 When I get bent I must represent, no question
 Get up a dime spot and then I'm off to the dread section

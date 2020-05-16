@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams
 artists:
 - La Bouche
+external_ids:
+  spotify: spotify:track:7FoUzKTSQp25oe32pY9z5p
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-lover-la-bouche
 lyrics_url: https://genius.com/La-bouche-be-my-lover-lyrics
 name: Be My Lover
@@ -159,6 +162,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1995
+runtime: 240266
 ---
 La da da dee da da, da da
 La da da dee da da, da da

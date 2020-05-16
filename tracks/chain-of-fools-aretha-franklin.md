@@ -1,8 +1,11 @@
 ---
+album: Lady Soul (With Bonus Selections)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2ZEF3IgHptUpsfllXcq14U
 features: []
-genres: []
+first_released_as_single: true
 key: chain-of-fools-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-chain-of-fools-lyrics
 name: Chain Of Fools
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1967
+runtime: 164773
 ---
 Chain, chain, chain
 (Chain, chain, chain)

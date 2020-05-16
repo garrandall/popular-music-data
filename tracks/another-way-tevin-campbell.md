@@ -1,8 +1,11 @@
 ---
+album: Tevin Campbell
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:377JtZ1rBNpz6bUd8idj8q
 features: []
-genres: []
+first_released_as_single: false
 key: another-way-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/anotherway.html
 name: Another Way
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-02-06'
+release_year: 1999
+runtime: 295357
 ---
-
 Early in the mornin' round 3 A.M.
 Lying with a girl named Kim
 With a glass of gin, sippin' on it
@@ -59,4 +63,3 @@ I feel it's time I made a change
 I believe I can be a better man and I don't need
 Every woman in the world
 I gotta find myself a girl
-

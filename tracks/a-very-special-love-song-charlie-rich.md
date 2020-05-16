@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:6AUQVVamUbyLZ5neJNiq5n
 features: []
-genres: []
+first_released_as_single: false
 key: a-very-special-love-song-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/averyspeciallovesong.html
 name: A Very Special Love Song
@@ -63,8 +66,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1970
+runtime: 164733
 ---
-
 Babe, somewhere I know I'm gonna find it, babe
 It'll have my love behind it
 And it will be a symphony of all you mean to me
@@ -86,6 +90,3 @@ If there's a breath of life, I'm gonna live it
 Every day for you and all the whole night through
 Singing just for you a very special love song
 For you
-
-
-

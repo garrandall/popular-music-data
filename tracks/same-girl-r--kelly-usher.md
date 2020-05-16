@@ -1,9 +1,12 @@
 ---
+album: Double Up
 artists:
 - R. Kelly
 - Usher
+external_ids:
+  spotify: spotify:track:6OSmeoh8kXhCfz9WqvzDoJ
 features: []
-genres: []
+first_released_as_single: false
 key: same-girl-r--kelly-usher
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/samegirl.html
 name: Same Girl
@@ -88,8 +91,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-10-06'
+release_year: 2007
+runtime: 252933
 ---
-
 Usher
 Kelly
 
@@ -237,6 +241,3 @@ I would pick her up, ay, at the airport
 Man, I really can't believe
 I can't believe it no
 The same girl, same girl
-
-
-

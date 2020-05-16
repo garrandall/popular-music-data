@@ -1,8 +1,11 @@
 ---
+album: It's Up To You
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:2UdOyotmZbAILykyQdy8R9
 features: []
-genres: []
+first_released_as_single: false
 key: yes-sir-that-s-my-baby-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/yessirthatsmybaby.html
 name: Yes Sir That's My Baby
@@ -31,8 +34,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 116866
 ---
-
 ...that's my baby
 No sir, I don't mean maybe
 Yes sir, that's my baby now
@@ -55,6 +59,3 @@ I'll say yes sir, that's my baby
 No sir, I don't mean maybe
 Yes sir, that's my baby now
 Mmm
-
-
-

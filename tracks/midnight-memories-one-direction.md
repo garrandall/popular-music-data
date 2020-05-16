@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:5wjmqUGN7vrAqFqDWrywlZ
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-memories-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/midnightmemories.html
 name: Midnight Memories
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
+release_year: 2013
+runtime: 176320
 ---
-
 1, 2, 3
 
 
@@ -82,6 +86,3 @@ Singing, singing, singing, singing
 Midnight memories, oh, oh, oh, oh.
 Anywhere we go never say no
 Just do it, do it, do it, do it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: If I Never Stop Loving You
 artists:
 - David Kersh
+external_ids:
+  spotify: spotify:track:6pkAiSA8iA8JkUhVMPpiw6
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-never-stop-loving-you-david-kersh
 lyrics_url: https://genius.com/David-kersh-if-i-never-stop-loving-you-lyrics
 name: If I Never Stop Loving You
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-05-30'
+release_year: 1998
+runtime: 215613
 ---
 If there ever was a perfect night
 This just might be the one

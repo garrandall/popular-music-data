@@ -1,8 +1,11 @@
 ---
+album: Bustin' Out of L Seven
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:5tRqrdV57QN2jZBt9FQTV8
 features: []
-genres: []
+first_released_as_single: false
 key: high-on-your-love-suite-rick-james
 lyrics_url: https://www.azlyrics.com/lyrics/rickjames/highonyourlovesuiteonemohitofyourlove.html
 name: High On Your Love Suite
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1979
+runtime: 448186
 ---
-
 Baby baby baby!
 
 I'm high
@@ -86,6 +90,3 @@ High, love down baby
 Play on it
 
 I am high, high on your love
-
-
-

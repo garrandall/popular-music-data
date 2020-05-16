@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Longer
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:3F8xLc6T4VvKH7I6wqVAN2
 features: []
-genres: []
+first_released_as_single: false
 key: lovebug-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/lovebug.html
 name: Lovebug
@@ -63,8 +66,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 220693
 ---
-
 Called you for the first time yesterday
 Finally found the missing part of me
 Felt so close but you were far away
@@ -104,6 +108,3 @@ Now I'm hopeless, head over heels in the moment
 I never thought that I'd get hit by this love bug again
 Ohhh
 Love Bug again
-
-
-

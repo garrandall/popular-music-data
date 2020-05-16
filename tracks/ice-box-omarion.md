@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:1ElXBG9yJcgSFUJr19sotM
 features: []
-genres: []
+first_released_as_single: false
 key: ice-box-omarion
 lyrics_url: https://genius.com/Omarion-ice-box-lyrics
 name: Ice Box
@@ -91,6 +94,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2002
+runtime: 257000
 ---
 Fussin' and fightin', we back at it again (Again)
 I know that it's my fault you don't understand (No)

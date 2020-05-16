@@ -1,8 +1,11 @@
 ---
+album: The Best R&B Of 2000 Soulfood The Series
 artists:
 - Carl Thomas
+external_ids:
+  spotify: spotify:track:0D7kB1W6H3swIdiEaFbJJb
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-carl-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/carlthomas/iwish.html
 name: I Wish
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 2000
+runtime: 292933
 ---
-
 It was love at first sight
 I know from the way she looked at me
 Her eyes said it all
@@ -126,6 +130,3 @@ I wouldn't hurt so much inside
 Oh I wouldn't feel this pain
 If I never met her at all, at all, at all
 Wish I never, wish I never
-
-
-

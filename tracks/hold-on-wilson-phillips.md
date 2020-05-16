@@ -1,8 +1,11 @@
 ---
+album: Wilson Phillips
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:4VZDv8sASBS8UruUBGTFdk
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-wilson-phillips
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/holdon.html
 name: Hold On
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1990
+runtime: 266866
 ---
-
 I know this pain
 Why do you lock yourself up in these chains?
 No one can change your life except for you
@@ -184,6 +188,3 @@ Make up your mind
 Hold on
 Hold on
 Baby hold on
-
-
-

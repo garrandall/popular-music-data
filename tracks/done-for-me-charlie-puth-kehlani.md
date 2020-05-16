@@ -1,9 +1,12 @@
 ---
+album: Voicenotes
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:1eo1U8FJ9nZsEoHKetSHOG
 features:
 - Kehlani
-genres: []
+first_released_as_single: true
 key: done-for-me-charlie-puth-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/charlieputh/doneforme.html
 name: Done For Me
@@ -44,9 +47,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 176585
 ---
-
-
 What you thinking?
 You think that you could be better off with somebody new
 (No oh oh baby, no)
@@ -120,6 +123,3 @@ The things I do, baby
 Oh tell me what you've done for me
 (Oh tell me what you've done for me)
 Oh tell me what you've done for me
-
-
-

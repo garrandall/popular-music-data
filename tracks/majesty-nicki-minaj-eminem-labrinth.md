@@ -1,10 +1,13 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:1H5jNm8hxMcoINWVstrmcY
 features:
 - Eminem
 - Labrinth
-genres: []
+first_released_as_single: false
 key: majesty-nicki-minaj-eminem-labrinth
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/majesty.html
 name: Majesty
@@ -13,9 +16,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 295653
 ---
-
-
 Whatever you say, Mrs. Majesty (oh, oh)
 Whatever you want, you can have from me (oh, oh)
 I want your love, just lead me on
@@ -150,6 +153,3 @@ Die slow, die slow
 Jealousy is a disease, die slow
 Die slow, die slow
 Tell her that jealousy is a disease, die slow
-
-
-

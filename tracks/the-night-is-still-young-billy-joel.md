@@ -1,8 +1,11 @@
 ---
+album: 12 Gardens Live
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:0G1UfvnMvLyypameCwVWYi
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-is-still-young-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/thenightisstillyoung.html
 name: The Night Is Still Young
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
+release_year: 1985
+runtime: 326306
 ---
-
 I'm young enough to still see the passionate boy I used to be
 But I'm old enough to say I got a good look at the other side
 I know we got to work real hard, maybe even for the rest of our lives
@@ -91,6 +95,3 @@ While the night is still young
 While the night is still young
 I want to try to make the world brand new
 While the night is still young
-
-
-

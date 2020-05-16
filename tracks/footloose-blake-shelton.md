@@ -1,8 +1,11 @@
 ---
+album: Footloose
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:4shPfi6RsJiwQtso2XFGiL
 features: []
-genres: []
+first_released_as_single: true
 key: footloose-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/footloose.html
 name: Footloose
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 218493
 ---
-
 Oh-oh-oh
 Oh-oh-oh
 Yeah
@@ -83,6 +87,3 @@ Everybody cut, everybody cut
 Everybody cut, everybody cut
 
 (Everybody) everybody cut footloose
-
-
-

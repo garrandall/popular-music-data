@@ -1,8 +1,11 @@
 ---
+album: The Best Of Johnny Rivers
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:0T54e5hevBelKdm79XqVuJ
 features: []
-genres: []
+first_released_as_single: false
 key: these-are-not-my-people-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-these-are-not-my-people-lyrics
 name: These Are Not My People
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 200026
 ---
 First your mama and your papa sent you to the finest schools
 Never let it be said that their little darling was a fool, so with a credit card

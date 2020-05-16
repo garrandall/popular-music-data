@@ -1,9 +1,12 @@
 ---
+album: Sunday And Me
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:2InR8wwGrb3AVMmg4luLRy
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-and-me-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/sundayandme.html
 name: Sunday And Me
@@ -40,8 +43,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1964
+runtime: 175800
 ---
-
 Her eyes would make an angel smile
 They'd call her Sunday
 She'll take a man and drive him wild
@@ -74,6 +78,3 @@ It's gonna be just Sunday and me
 
 Sunday
 Sunday
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dancing In The Street (Live At Basin Street West / 1967)
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:12mFujIKn6sfIzkTTzOhCZ
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-street-ramsey-lewis
 name: Dancing In The Street
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 301120
 ---
 

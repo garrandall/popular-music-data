@@ -1,8 +1,11 @@
 ---
+album: Misguided Roses
 artists:
 - Edwin McCain
+external_ids:
+  spotify: spotify:track:5K7AMlpc4796JRWXb26nCV
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-edwin-mccain
 lyrics_url: https://genius.com/Edwin-mccain-ill-be-lyrics
 name: I'll Be
@@ -103,6 +106,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1997
+runtime: 266533
 ---
 The strands in your eyes that color them wonderful
 Stop me and steal my breath

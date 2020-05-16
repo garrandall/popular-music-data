@@ -1,8 +1,11 @@
 ---
+album: Sparkle
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:43pQdSgEwhhT3Bde1ycXYl
 features: []
-genres: []
+first_released_as_single: false
 key: jump-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/jumptoit.html
 name: Jump
@@ -27,8 +30,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 139640
 ---
-
 Jump, jump, jump to it
 Jump, jump, jump to it
 Jump, jump, jump to it
@@ -151,6 +155,3 @@ Jump, jump, jump to it
 (Oh...yeah...) Jump, jump, jump to it (Hey...)
 
 Jump, jump, jump to it
-
-
-

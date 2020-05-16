@@ -1,8 +1,11 @@
 ---
+album: Yours Sincerely
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:18s2YZIA3fcTr314sNmdVc
 features: []
-genres: []
+first_released_as_single: false
 key: he-ll-have-to-go-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-hell-have-to-go-lyrics
 name: He'll Have To Go
@@ -99,6 +102,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1959
+runtime: 35760
 ---
 Put your sweet lips a little closer to the phone
 Let's pretend that we're together, all alone

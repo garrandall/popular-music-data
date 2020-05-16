@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More
 artists:
 - Chris Andrews
+external_ids:
+  spotify: spotify:track:5CIczO0gohQyGOWwEYVsb3
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-man-chris-andrews
 lyrics_url: https://genius.com/Chris-andrews-yesterday-man-lyrics
 name: Yesterday Man
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1966
+runtime: 156466
 ---
 I'm her yesterday man
 Well, my friends that's what I am

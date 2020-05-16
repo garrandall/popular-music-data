@@ -1,8 +1,11 @@
 ---
+album: All Over The Road
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:6XD3HMATLswheYevIfKkSi
 features: []
-genres: []
+first_released_as_single: false
 key: all-over-the-road-easton-corbin
 lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/allovertheroad.html
 name: All Over The Road
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2012
+runtime: 163066
 ---
-
 No sir I ain't been drinking
 I ain't even had one beer
 This sweet thing's got me buzzing
@@ -133,6 +137,3 @@ Sir I'm sorry I know
 I'm all over the road
 All over the road
 All over the road
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ray Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:11zT5aL2p0v0CoDf62dTtz
 features: []
-genres: []
+first_released_as_single: false
 key: speed-ball-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-speed-ball-lyrics
 name: Speed Ball
@@ -19,6 +22,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1899
+runtime: 179591
 ---
 Here he comes - There he go
 

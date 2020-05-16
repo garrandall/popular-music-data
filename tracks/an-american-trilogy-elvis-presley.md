@@ -1,8 +1,11 @@
 ---
+album: Aloha from Hawaii Via Satellite (Live)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3bUGXfwrc9jj6XrBGxL8ga
 features: []
-genres: []
+first_released_as_single: false
 key: an-american-trilogy-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/anamericantrilogy110956.html
 name: An American Trilogy
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1972
+runtime: 273751
 ---
-
 Oh I wish I was in the land of cotton
 Old times they are not forgotten
 Look away, look away, look away, Dixieland
@@ -60,6 +64,3 @@ But all my trials, Lord, soon be over
 Glory, glory, hallelujah
 His truth is marching on
 His truth is marching on
-
-
-

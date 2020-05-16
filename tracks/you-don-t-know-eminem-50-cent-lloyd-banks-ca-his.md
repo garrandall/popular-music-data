@@ -1,11 +1,14 @@
 ---
+album: Eminem Presents The Re-Up
 artists:
 - Eminem
 - 50 Cent
 - Lloyd Banks
 - Ca$his
+external_ids:
+  spotify: spotify:track:4UhUXGXEeq3mPJyzZkx9fY
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-eminem-50-cent-lloyd-banks-ca-his
 lyrics_url: https://genius.com/Eminem-you-dont-know-lyrics
 name: You Don't Know
@@ -34,6 +37,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 257906
 ---
 Shady!
 Yeah

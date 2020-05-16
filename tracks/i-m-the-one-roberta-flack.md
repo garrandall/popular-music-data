@@ -1,8 +1,11 @@
 ---
+album: I'm The One
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:7pYNO8ICFBgPwqRQ7hSo2Q
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-one-roberta-flack
 lyrics_url: https://genius.com/Roberta-flack-im-the-one-lyrics
 name: I'm The One
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 245706
 ---
 If you're looking for a lover
 You don't have to look no further

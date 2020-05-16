@@ -1,8 +1,11 @@
 ---
+album: Their Greatest Hits
 artists:
 - The Jive Five
+external_ids:
+  spotify: spotify:track:6rHYGHf6QXrsnErxkJqP8b
 features: []
-genres: []
+first_released_as_single: false
 key: my-true-story-the-jive-five-with-joe-rene-and-orchestra
 lyrics_url: https://genius.com/The-jive-five-my-true-story-lyrics
 name: My True Story
@@ -83,6 +86,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 153493
 ---
 Cry, cry, cry whoa, uh, oh, oh, oh, oh
 Cry, cry, cry whoa, uh, oh, oh, oh, oh

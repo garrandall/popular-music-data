@@ -1,8 +1,11 @@
 ---
+album: What If It All Goes Right
 artists:
 - Melissa Lawson
+external_ids:
+  spotify: spotify:track:5lFRQzNq8ew9QVvuEBTZIb
 features: []
-genres: []
+first_released_as_single: true
 key: what-if-it-all-goes-right-melissa-lawson
 lyrics_url: https://genius.com/Melissa-lawson-what-if-it-all-goes-right-lyrics
 name: What If It All Goes Right
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 194106
 ---
 What if that road that you're taking's a dead end?
 What if love leaves you all jaded and broken?

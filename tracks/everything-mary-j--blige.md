@@ -1,8 +1,11 @@
 ---
+album: Share My World
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3CbnA6S33amyRNmgmfi33H
 features: []
-genres: []
+first_released_as_single: false
 key: everything-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-everything-lyrics
 name: Everything
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 299026
 ---
 You are my everything
 You are my everything

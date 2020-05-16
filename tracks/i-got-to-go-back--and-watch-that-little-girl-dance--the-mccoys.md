@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:6E8XOuqYdDNtxIlxowWeg6
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-to-go-back--and-watch-that-little-girl-dance--the-mccoys
 lyrics_url: https://genius.com/The-mccoys-i-got-to-go-back-and-watch-that-little-girl-dance-lyrics
 name: I Got To Go Back (And Watch That Little Girl Dance)
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1967
+runtime: 181906
 ---
 I saw her dancin', dancin' in some smoke filled place, yeah;
 I'll bet that I was the only one who watched her face

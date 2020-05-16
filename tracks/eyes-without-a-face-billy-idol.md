@@ -1,8 +1,11 @@
 ---
+album: Rebel Yell
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:0pUVeEgZuNyFzIMKp67RbS
 features: []
-genres: []
+first_released_as_single: false
 key: eyes-without-a-face-billy-idol
 lyrics_url: https://genius.com/Billy-idol-eyes-without-a-face-lyrics
 name: Eyes Without A Face
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1983
+runtime: 299240
 ---
 I'm all out of hope
 One more bad dream

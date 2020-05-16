@@ -1,9 +1,12 @@
 ---
+album: We Are Young Money
 artists:
 - Young Money
+external_ids:
+  spotify: spotify:track:3cSuhzV7wKX5diQ8hos78P
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: steady-mobbin--young-money-gucci-mane
 lyrics_url: https://genius.com/Young-money-steady-mobbin-lyrics
 name: Steady Mobbin'
@@ -88,6 +91,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2009
+runtime: 310733
 ---
 Man, fuck these niggas!
 I'ma spare everything but these niggas

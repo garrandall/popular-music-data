@@ -1,8 +1,11 @@
 ---
+album: S&M
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:0n4AllHzf3ma4ki20Y9h00
 features: []
-genres: []
+first_released_as_single: false
 key: no-leaf-clover-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/noleafclover.html
 name: No Leaf Clover
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 343200
 ---
-
 And it feels right this time
 On this crash course with the big time
 Pay no mind to the distant thunder
@@ -87,6 +91,3 @@ Then it comes to be, Yeah...
 Then it comes to be, Yeah...
 Then it comes to be, Yeah...
 Then it comes to be, Yeah
-
-
-

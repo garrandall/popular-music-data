@@ -1,8 +1,11 @@
 ---
+album: Seventeen Days
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:2ZarMPkdQSrDFi7eFMruq7
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-3-doors-down
 lyrics_url: https://genius.com/3-doors-down-let-me-go-lyrics
 name: Let Me Go
@@ -131,6 +134,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
+release_year: 2005
+runtime: 232360
 ---
 One more kiss could be the best thing
 But one more lie could be the worst

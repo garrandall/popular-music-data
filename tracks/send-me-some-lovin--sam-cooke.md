@@ -1,8 +1,11 @@
 ---
+album: Mr. Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:41WtJR2e4HUFOsrzcq73kg
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-some-lovin--sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/sendmesomelovin.html
 name: Send Me Some Lovin'
@@ -43,8 +46,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1963
+runtime: 158880
 ---
-
 Send me some lovin'
 Oh send it I pray
 How can I love you
@@ -64,6 +68,3 @@ My days are so lonely
 My nights are so blue
 I'm here and I'm lonely
 I'm waitin' for you
-
-
-

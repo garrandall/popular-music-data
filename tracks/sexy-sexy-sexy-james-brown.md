@@ -1,8 +1,11 @@
 ---
+album: Slaughter's Big Rip-Off
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0AVnCf74Y84emd0IDpjtc2
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-sexy-sexy-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/sexysexysexy.html
 name: Sexy Sexy Sexy
@@ -39,8 +42,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1973
+runtime: 187373
 ---
-
 Hey, yeah
 She's sexy sexy sexy
 She's sexy sexy sexy
@@ -90,6 +94,3 @@ Because she's, sexy, sexy sexy
 Sexy, sexy sexy
 Listen sister, if you got something to show let it show
 If you got something to move, let it move
-
-
-

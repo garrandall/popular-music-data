@@ -1,8 +1,11 @@
 ---
+album: Physical
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:5uuHIL4VUzftdHO9UPV39Z
 features: []
-genres: []
+first_released_as_single: false
 key: landslide-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/landslide.html
 name: Landslide
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1981
+runtime: 267093
 ---
-
 Cold winds rarely blow
 Here at the end of the rainbow
 Guess it's hard to believe
@@ -107,6 +111,3 @@ He took my heart, it was a landslide
 Oh it was a landslide
 He took my heart, it was a landslide
 Oh it was a landslide
-
-
-

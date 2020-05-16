@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:7iFteeFOnUMJ3vL46CbehE
 features: []
-genres: []
+first_released_as_single: false
 key: jump-over-freddy-cannon
 lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/Jump-Over
 name: Jump Over
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 166146
 ---
 We wanted to know if we were in love
 So we asked the wisest man in town

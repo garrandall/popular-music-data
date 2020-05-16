@@ -1,8 +1,11 @@
 ---
+album: Insight Out
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:32ssNweOtmacNBEC2kHzA8
 features: []
-genres: []
+first_released_as_single: false
 key: never-my-love-the-association
 lyrics_url: https://genius.com/The-association-never-my-love-lyrics
 name: Never My Love
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 187693
 ---
 You ask me if there'll come a time
 When I grow tired of you

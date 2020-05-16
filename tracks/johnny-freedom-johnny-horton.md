@@ -1,8 +1,11 @@
 ---
+album: Johnny Horton'S Greatest Hits
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:13qzozM7sNyIZj4s3nGgll
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-freedom-johnny-horton
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/johnnyfreedomfreedomland.html
 name: Johnny Freedom
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 167706
 ---
-
 When our country was a baby and the Redcoats had their way
 It was he who had a party tossin' tea in Boston Bay
 It was he who braved the winter in the days of Valley Forge
@@ -60,6 +64,3 @@ He's the spirit of America
 Our country's pride and joy
 Hats off to Johnny Freedom, Johnny Freedom
 That's our, that's our, that's our boy
-
-
-

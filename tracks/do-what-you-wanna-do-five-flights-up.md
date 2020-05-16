@@ -1,8 +1,11 @@
 ---
+album: Do What You Wanna Do
 artists:
 - Five Flights Up
+external_ids:
+  spotify: spotify:track:23jlbDsVtErIax2XSaZDHW
 features: []
-genres: []
+first_released_as_single: true
 key: do-what-you-wanna-do-five-flights-up
 name: Do What You Wanna Do
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 153160
 ---
 

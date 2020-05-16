@@ -1,8 +1,11 @@
 ---
+album: So Far Gone
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3QLjDkgLh9AOEHlhQtDuhs
 features: []
-genres: []
+first_released_as_single: false
 key: best-i-ever-had-drake
 lyrics_url: https://genius.com/Drake-best-i-ever-had-lyrics
 name: Best I Ever Had
@@ -103,6 +106,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 257690
 ---
 You know, a lot of girls be
 Thinkin' my songs are about them

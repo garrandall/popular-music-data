@@ -1,8 +1,11 @@
 ---
+album: The Definitive Young-Holt Unlimited
 artists:
 - Young-Holt Unlimited
+external_ids:
+  spotify: spotify:track:6v8mOtpRlXbG3BOauqPRHC
 features: []
-genres: []
+first_released_as_single: false
 key: soulful-strut-young-holt-unlimited
 lyrics_url: https://www.musixmatch.com/lyrics/Young-Holt-Unlimited/Soulful-Strut
 name: Soulful Strut
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1968
+runtime: 181066
 ---
 Why Don't You Stop
 And Look Me Over

@@ -1,8 +1,11 @@
 ---
+album: Eye To The Telescope
 artists:
 - KT Tunstall
+external_ids:
+  spotify: spotify:track:0qAMjeQFyd1qD0LDiV8gWp
 features: []
-genres: []
+first_released_as_single: false
 key: black-horse---the-cherry-tree-kt-tunstall
 lyrics_url: https://genius.com/Kt-tunstall-black-horse-and-the-cherry-tree-lyrics
 name: Black Horse & The Cherry Tree
@@ -127,6 +130,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
+release_year: 2005
+runtime: 172373
 ---
 Two, three, four
 (Woohoo, woohoo)

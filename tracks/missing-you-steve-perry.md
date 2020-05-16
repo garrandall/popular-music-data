@@ -1,8 +1,11 @@
 ---
+album: For the Love of Strange Medicine
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:1iwFYbXq7q0cOOet8uyfb8
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/steveperry/missingyou.html
 name: Missing You
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
+release_year: 1994
+runtime: 227826
 ---
-
 Whoa, I'm missing you
 The hurt on your heart
 Through your eyes it shows
@@ -89,6 +93,3 @@ In the place you used to be
 You were lying next to me
 Oh, I'm missing you
 Whoa, I'm missing you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mendocino (Re-Recordings)
 artists:
 - Sir Douglas Quintet
+external_ids:
+  spotify: spotify:track:1gPZsYflLQSUNSqJzhpbA2
 features: []
-genres: []
+first_released_as_single: false
 key: mendocino-sir-douglas-quintet
 lyrics_url: https://genius.com/The-sir-douglas-quintet-mendocino-lyrics
 name: Mendocino
@@ -67,6 +70,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 158266
 ---
 Teeny Bopper, my teenage lover
 I caught your waves last night

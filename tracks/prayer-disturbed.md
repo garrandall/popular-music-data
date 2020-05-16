@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:3HGctlDltHdllOSTogGKhJ
 features: []
-genres: []
+first_released_as_single: false
 key: prayer-disturbed
 lyrics_url: https://genius.com/Disturbed-prayer-lyrics
 name: Prayer
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2002
+runtime: 218973
 ---
 Another dream that will never come true
 Just to compliment your sorrow

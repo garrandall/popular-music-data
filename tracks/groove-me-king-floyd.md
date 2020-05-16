@@ -1,8 +1,11 @@
 ---
+album: Choice Cuts
 artists:
 - King Floyd
+external_ids:
+  spotify: spotify:track:0gtTfaz5zzbJA28Ypu7k0W
 features: []
-genres: []
+first_released_as_single: false
 key: groove-me-king-floyd
 lyrics_url: https://genius.com/King-floyd-groove-me-lyrics
 name: Groove Me
@@ -87,6 +90,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 184466
 ---
 Hey there sugar darlin'
 Let me tell you something

@@ -1,8 +1,11 @@
 ---
+album: You Got Me Walking
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0OGnWfIPyT8YI8bvBsTuZy
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-me-walking-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-you-got-me-walking-lyrics
 name: You Got Me Walking
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 163680
 ---
 Yeah, yeah, yeah
 Yeah, baby

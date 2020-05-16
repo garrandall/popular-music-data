@@ -1,8 +1,11 @@
 ---
+album: 'The First Family of Soul: The Best of The Five Stairsteps'
 artists:
 - The Five Stairsteps
+external_ids:
+  spotify: spotify:track:1oMs2rmpTZW8p9f9zL2clh
 features: []
-genres: []
+first_released_as_single: false
 key: danger--she-s-a-stranger-the-five-stairsteps
 lyrics_url: https://genius.com/Five-stairsteps-danger-shes-a-stranger-lyrics
 name: Danger! She's A Stranger
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1967
+runtime: 168426
 ---
 Hey, baby
 Could you maybe have some love for me?

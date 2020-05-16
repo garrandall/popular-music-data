@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:06Jt8ia9SmU8PlXm2Wf9yk
 features: []
-genres: []
+first_released_as_single: false
 key: kansas-city-star-roger-miller
 lyrics_url: https://genius.com/Roger-miller-kansas-city-star-lyrics
 name: Kansas City Star
@@ -35,6 +38,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 136493
 ---
 Got a letter just this morning
 It was postmarked Omaha

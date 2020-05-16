@@ -1,8 +1,11 @@
 ---
+album: All That Jazz
 artists:
 - Breathe
+external_ids:
+  spotify: spotify:track:3BBCg3SEvTXZJ5gErXosuw
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-lies-breathe
 lyrics_url: https://genius.com/Breathe-uk-dont-tell-me-lies-lyrics
 name: Don't Tell Me Lies
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 222440
 ---
 Every move you made before was never meant for real
 Over my naivety is this how I should feel?

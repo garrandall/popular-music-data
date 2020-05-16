@@ -1,8 +1,11 @@
 ---
+album: Light Grenades
 artists:
 - Incubus
+external_ids:
+  spotify: spotify:track:5wvYib82q05wiNjLElD8GJ
 features: []
-genres: []
+first_released_as_single: false
 key: dig-incubus
 lyrics_url: https://www.azlyrics.com/lyrics/incubus/dig.html
 name: Dig
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2006
+runtime: 257253
 ---
-
 We all have a weakness
 But some of ours are easy to identify.
 Look me in the eye
@@ -53,6 +57,3 @@ When everything else is gone.
 Oh each other...
 When everything
 Else is gone.
-
-
-

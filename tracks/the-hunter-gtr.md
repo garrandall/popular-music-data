@@ -1,8 +1,11 @@
 ---
+album: G.T.R
 artists:
 - GTR
+external_ids:
+  spotify: spotify:track:0q5uI8ndsrS3NUDU5x8STp
 features: []
-genres: []
+first_released_as_single: false
 key: the-hunter-gtr
 lyrics_url: https://genius.com/Gtr-the-hunter-lyrics
 name: The Hunter
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 298769
 ---
 It don't come easy, that's understood
 Faint hearted loser, that's no good

@@ -1,8 +1,11 @@
 ---
+album: True Believers
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:0uMur9BAwuzsShojxBi6ag
 features: []
-genres: []
+first_released_as_single: false
 key: radio-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/radio.html
 name: Radio
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-02-08'
+release_year: 2013
+runtime: 189053
 ---
-
 Seventeen, the only way I had a car
 Is after I dropped my mama off where she needed to go
 Four bald tires, with the ceiling falling and the window stuck
@@ -102,6 +106,3 @@ Come on, come on, come on
 
 All we needed, all we needed now
 Was a, was a, was a radio
-
-
-

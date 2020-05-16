@@ -1,8 +1,12 @@
 ---
+album: Road Tested
 artists:
-- Bonnie Raitt With Bryan Adams
-features: []
-genres: []
+- Bonnie Raitt
+external_ids:
+  spotify: spotify:track:6QTzhcDkKupkvztUgGZooF
+features:
+- Bryan Adams
+first_released_as_single: false
 key: rock-steady-bonnie-raitt-with-bryan-adams
 name: Rock Steady
 rankings:
@@ -22,5 +26,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1995-12-16'
+release_year: 1995
+runtime: 252666
 ---
 

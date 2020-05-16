@@ -1,8 +1,11 @@
 ---
+album: Where It All Began (Commentary)
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:0uZhRTUTRk3iaAlJPLswm1
 features: []
-genres: []
+first_released_as_single: true
 key: 19-you---me-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/19youme.html
 name: 19 You + Me
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2013
+runtime: 217406
 ---
-
 It was our first week
 At Myrtle Beach
 Where it all began
@@ -150,6 +154,3 @@ The summer of
 First week
 Myrtle Beach
 Where it all began..
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Diana Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:1jzXG5nrBByopUda5aLIXX
 features: []
-genres: []
+first_released_as_single: false
 key: i-thought-it-took-a-little-time--but-today-i-fell-in-love--diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/ithoughtittookalittletimebuttodayifellinlove.html
 name: I Thought It Took A Little Time (But Today I Fell In Love)
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1976
+runtime: 205333
 ---
-
 Am I really hard to please ?
 Perhaps I have such special needs
 I wondered what was wrong with me
@@ -76,6 +80,3 @@ I thought it took a little time to learn about lovin'
 Never did believe in lovin' on sight
 I thought it took a little time to learn about lovin'
 All I know is now it's gotta be right
-
-
-

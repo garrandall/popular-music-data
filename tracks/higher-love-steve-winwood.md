@@ -1,8 +1,11 @@
 ---
+album: Back In The High Life
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:4ZExvJvQXPEeYzGU0N3THi
 features: []
-genres: []
+first_released_as_single: false
 key: higher-love-steve-winwood
 lyrics_url: https://genius.com/Steve-winwood-higher-love-lyrics
 name: Higher Love
@@ -95,10 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 351506
 ---
-
-
-
 Think about it, there must be higher love
 Down in the heart or hidden in the stars above
 Without it, life is wasted time

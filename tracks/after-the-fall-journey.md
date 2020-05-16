@@ -1,8 +1,11 @@
 ---
+album: Frontiers
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:1CtlOgt4ZOBFZiWdyNRoZD
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-fall-journey
 lyrics_url: https://genius.com/Journey-after-the-fall-lyrics
 name: After The Fall
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1975
+runtime: 300266
 ---
 So now love is gone
 I can't t go on, love is gone

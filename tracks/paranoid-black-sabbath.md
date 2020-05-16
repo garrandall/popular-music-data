@@ -1,8 +1,11 @@
 ---
+album: Paranoid
 artists:
 - Black Sabbath
+external_ids:
+  spotify: spotify:track:1Y373MqadDRtclJNdnUXVc
 features: []
-genres: []
+first_released_as_single: false
 key: paranoid-black-sabbath
 lyrics_url: https://www.azlyrics.com/lyrics/blacksabbath/paranoid.html
 name: Paranoid
@@ -39,8 +42,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 168405
 ---
-
 Finished with my woman 'cause she couldn't help me with my mind
 people think I'm insane because I am frowning all the time
 All day long I think of things but nothing seems to satisfy
@@ -57,6 +61,3 @@ Happiness I cannot feel and love to me is so unreal
 
 And so as you hear these words telling you now of my state
 I tell you to enjoy life I wish I could but it's too late
-
-
-

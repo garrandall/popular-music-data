@@ -1,9 +1,12 @@
 ---
+album: '#willpower'
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:4mWJSCa5i4HKPP71NbEqhF
 features:
 - Miley Cyrus
-genres: []
+first_released_as_single: false
 key: fall-down-will-i-am-miley-cyrus
 lyrics_url: https://genius.com/William-fall-down-lyrics
 name: Fall Down
@@ -12,6 +15,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2013-05-04'
+release_year: 2013
+runtime: 307493
 ---
 You make my world, you make my world go 'round
 You turn me up, you turn me upside down

@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:5dlkxc2osa9SHiGEgTwGgW
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-we-need-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-love-is-all-we-need-lyrics
 name: Love Is All We Need
@@ -71,6 +74,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 161186
 ---
 Love me love me love me love me
 Love is all we need

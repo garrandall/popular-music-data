@@ -1,8 +1,11 @@
 ---
+album: Bad As I Wanna B
 artists:
 - MC Lyte
+external_ids:
+  spotify: spotify:track:1iVdwLsbPsKnqUoZOWlEqv
 features: []
-genres: []
+first_released_as_single: false
 key: cold-rock-a-party-mc-lyte
 lyrics_url: https://www.azlyrics.com/lyrics/mclyte/coldrockaparty.html
 name: Cold Rock A Party
@@ -87,9 +90,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-04-12'
+release_year: 1996
+runtime: 247306
 ---
-
-
 To the L, to the Y and the T to the E
 So get ready cause I want everybody to say this with me
 Rock the house, rock the house, rock the house
@@ -149,6 +152,3 @@ and I ride it well and if you take a look it ain't hard to tell that I
 
 To the L, to the Y, and the T, to the E
 Rock the house and rock the house
-
-
-

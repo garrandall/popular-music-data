@@ -1,8 +1,11 @@
 ---
+album: Pinkfong Animal Songs
 artists:
 - Pinkfong
+external_ids:
+  spotify: spotify:track:5ygDXis42ncn6kYG14lEVG
 features: []
-genres: []
+first_released_as_single: false
 key: baby-shark-pinkfong
 lyrics_url: https://genius.com/Pinkfong-baby-shark-lyrics
 name: Baby Shark
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2017
+runtime: 80927
 ---
 Baby shark, doo doo doo doo doo doo
 Baby shark, doo doo doo doo doo doo

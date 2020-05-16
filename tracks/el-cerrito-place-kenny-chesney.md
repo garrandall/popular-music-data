@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Fishbowl
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:13JngJc6J0ykO7Pq0gin35
 features: []
-genres: []
+first_released_as_single: false
 key: el-cerrito-place-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/elcerritoplace.html
 name: El Cerrito Place
@@ -59,8 +62,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 351613
 ---
-
 I been hangin' round this place, I been lookin' through your space
 I been waitin' for you, I've been waitin' for you
 All the places that you go, all the people that you know
@@ -105,6 +109,3 @@ So I've been out here all night lookin' for your footprints in the sand
 Think I'll go back to the city, back to El Cerrito Place
 That's the last time that I saw that pretty smile upon your face
 I've been lookin' for you baby
-
-
-

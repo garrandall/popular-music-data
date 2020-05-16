@@ -1,8 +1,11 @@
 ---
+album: Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:19wadMw1A8XejDV4p5wMt1
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-we-almost-have-it-all-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-didnt-we-almost-have-it-all-lyrics
 name: Didn't We Almost Have It All
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 305066
 ---
 Remember when we held on in the rain
 The night we almost lost it

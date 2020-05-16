@@ -1,9 +1,12 @@
 ---
+album: Shabba Ranks and Friends
 artists:
 - Shabba Ranks
+external_ids:
+  spotify: spotify:track:2LbrvMCAArUhFERcwqgv18
 features:
 - Johnny Gill
-genres: []
+first_released_as_single: false
 key: slow-and-sexy-shabba-ranks-johnny-gill
 lyrics_url: https://www.musixmatch.com/lyrics/Shabba-Ranks-feat-Johnny-Gill/Slow-and-Sexy
 name: Slow And Sexy
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
+release_year: 1991
+runtime: 318560
 ---
 Sensuous emotion
 They're gettin' my attention

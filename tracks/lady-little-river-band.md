@@ -1,8 +1,11 @@
 ---
+album: Little River Band
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:3jejdhpsLYWuRB7OWqD26U
 features: []
-genres: []
+first_released_as_single: false
 key: lady-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/lady.html
 name: Lady
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1975
+runtime: 320133
 ---
-
 Look around you, look up here
 Take time to make time, make time to be there
 Look around, be a part
@@ -127,6 +131,3 @@ You're there on the dance floor making me want you somehow
 Oh, lady, I think it's only fair I should say to you
 Don't be thinking that I don't want you, 'cause maybe I do
 Don't be thinking that I don't want you, lady, I do
-
-
-

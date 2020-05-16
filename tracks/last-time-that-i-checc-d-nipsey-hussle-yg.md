@@ -1,9 +1,12 @@
 ---
+album: Victory Lap
 artists:
 - Nipsey Hussle
+external_ids:
+  spotify: spotify:track:39xWBHPM4E9MwzEy5gbM7p
 features:
 - YG
-genres: []
+first_released_as_single: false
 key: last-time-that-i-checc-d-nipsey-hussle-yg
 lyrics_url: https://genius.com/Nipsey-hussle-last-time-that-i-checcd-lyrics
 name: Last Time That I Checc'd
@@ -20,6 +23,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 225573
 ---
 Last time that I checked, it was five chains on my neck
 It was no smut on my rep

@@ -1,8 +1,11 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:1I3ZAmPmbFV78oNKnibOiW
 features: []
-genres: []
+first_released_as_single: false
 key: jumpin-on-a-jet-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/jumpinonajet.html
 name: Jumpin On A Jet
@@ -15,8 +18,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2019
+runtime: 137133
 ---
-
 Yeah hoe (Jumping on and off the jet)
 Yeah hoe (Jumping on and off the jet)
 Yeah hoe (Jumping on and off the jet)
@@ -81,6 +85,3 @@ Jumping on and off the jet
 Jumping on and off the jet
 Jumping on and off the jet
 Jumping on and off
-
-
-

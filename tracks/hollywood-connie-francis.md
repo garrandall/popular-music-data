@@ -1,8 +1,11 @@
 ---
+album: Rocksides (1957-64)
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2ZSa3Gyf43uyH1blAY1Gu3
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-connie-francis
 lyrics_url: https://genius.com/Connie-francis-hollywood-lyrics
 name: Hollywood
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 134640
 ---
 Whose jalopy is covered with junk
 But don't have any money for lunch?

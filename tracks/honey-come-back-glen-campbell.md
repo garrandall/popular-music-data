@@ -1,8 +1,11 @@
 ---
+album: Try A Little Kindness
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:4HI5Oj2PgGwxtJJ0GjuLye
 features: []
-genres: []
+first_released_as_single: false
 key: honey-come-back-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/honeycomeback.html
 name: Honey Come Back
@@ -43,8 +46,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 179160
 ---
-
 Well honey I know I've said it many times before I said I'd never say it again
 I guess I shouldn't say anything at all since you're supposed to belong to him
 But I just can't let you go but I'm tellin' you just how much I love you
@@ -62,6 +66,3 @@ Just give me a call you know where I am and here's what I'll say
 Honey come back...
 Honey come back where you belong to only me
 Honey come back where you belong to only me
-
-
-

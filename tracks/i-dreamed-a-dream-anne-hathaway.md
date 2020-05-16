@@ -1,8 +1,11 @@
 ---
+album: "Les Mis\xE9rables: The Motion Picture Soundtrack Deluxe"
 artists:
 - Anne Hathaway
+external_ids:
+  spotify: spotify:track:2JCeco3IudmCAw0MyQY2QD
 features: []
-genres: []
+first_released_as_single: false
 key: i-dreamed-a-dream-anne-hathaway
 lyrics_url: https://www.azlyrics.com/lyrics/annehathaway/idreamedadream.html
 name: I Dreamed A Dream
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-01-26'
+release_year: 2012
+runtime: 278413
 ---
-
 There was a time when men were kind
 When their voices were soft
 And their words inviting
@@ -61,6 +65,3 @@ So different from this hell I'm living
 So different now from what it seemed
 Now life has killed
 The dream I dreamed
-
-
-

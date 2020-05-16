@@ -1,8 +1,11 @@
 ---
+album: Chocolate Chip
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:7r7JuesiDBreU6bw8VwsBY
 features: []
-genres: []
+first_released_as_single: false
 key: chocolate-chip-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/chocolatechip.html
 name: Chocolate Chip
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 330797
 ---
-
 (Chocolate chip, chocolate chip)
 (Master grip, master grip)
 I'm mean, I'm green
@@ -90,6 +94,3 @@ What's the game, y'all?
 (Chocolate chip, chocolate chip)
 Ah...
 Yeah yeah yeah yeah...
-
-
-

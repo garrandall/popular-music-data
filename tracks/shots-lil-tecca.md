@@ -1,8 +1,11 @@
 ---
+album: We Love You Tecca
 artists:
 - Lil Tecca
+external_ids:
+  spotify: spotify:track:6eSU1exzDvBEXmBRxspeh5
 features: []
-genres: []
+first_released_as_single: false
 key: shots-lil-tecca
 lyrics_url: https://www.azlyrics.com/lyrics/liltecca/shots.html
 name: Shots
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 109373
 ---
-
 (Internet money, bitch)
 (We love you, Tecca)
 
@@ -61,6 +65,3 @@ Nigga, you ain't even have a clue
 'Cause I got shottas on me
 Sendin' shots, sendin' shots like doctor, homie
 Better run, better run, the coppers on me, yeah
-
-
-

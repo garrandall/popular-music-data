@@ -1,8 +1,11 @@
 ---
+album: I Love How You Love Me
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:4vX60kQn4cOF0HgLQRS5Rm
 features: []
-genres: []
+first_released_as_single: false
 key: halfway-to-paradise-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/halfwaytoparadise.html
 name: Halfway To Paradise
@@ -35,8 +38,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1962
+runtime: 160440
 ---
-
 I want to be your lover 
 But your friend is all I've stayed 
 I'm only halfway to paradise 
@@ -59,6 +63,3 @@ Mmm, so near, yet so far away
 
 Oh, uh, oh so near, yet so far away 
 Yeah, yeah so near, yet so far away
-
-
-

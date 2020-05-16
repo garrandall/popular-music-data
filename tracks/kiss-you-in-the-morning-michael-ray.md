@@ -1,8 +1,11 @@
 ---
+album: Michael Ray
 artists:
 - Michael Ray
+external_ids:
+  spotify: spotify:track:0gmwfx2AsbOje3fVlTVKDX
 features: []
-genres: []
+first_released_as_single: true
 key: kiss-you-in-the-morning-michael-ray
 lyrics_url: https://www.azlyrics.com/lyrics/michaelray/kissyouinthemorning.html
 name: Kiss You In The Morning
@@ -63,8 +66,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2014
+runtime: 181400
 ---
-
 Them jeans are faded
 In all the right places
 You got me hanging on tight to your curves like little E races
@@ -120,6 +124,3 @@ I wanna kiss you with the neon lights in your eyes glowing
 Then I wanna kiss you in the morning
 Yeah I wanna kiss you in the morning, morning
 Yeah I wanna kiss you in the morning
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Real Love
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:4ySKy336eck2JSTo52ssnj
 features: []
-genres: []
+first_released_as_single: false
 key: all-woman-lisa-stansfield
 lyrics_url: https://www.azlyrics.com/lyrics/lisastansfield/allwoman.html
 name: All Woman
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 317373
 ---
-
 He's home again from another day
 She smiles at him as he walks through the door
 She wonders if it will be okay
@@ -137,6 +141,3 @@ So sweet the love that used to be
 So sweet the love that used to be
 
 We can be sweet again...
-
-
-

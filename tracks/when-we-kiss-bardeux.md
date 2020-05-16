@@ -1,8 +1,11 @@
 ---
+album: Bold As Love
 artists:
 - Bardeux
+external_ids:
+  spotify: spotify:track:3bha0QWUY1V3nXG5mzcnI3
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-kiss-bardeux
 lyrics_url: https://genius.com/Bardeux-when-we-kiss-lyrics
 name: When We Kiss
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1988
+runtime: 292840
 ---
 It was late one night
 And we had a fight
@@ -67,8 +72,8 @@ Was going right
 Then you turned around
 And you walked
 Right out the door
-Now it`s not the first time
-It`s not the last
+Now it's not the first time
+It's not the last
 I know all about
 Your checkered past
 And we played this game
@@ -80,12 +85,12 @@ That you sang in my ear
 There were promises made
 But I think you forgot
 What you said
-There`s a real fine line
+There's a real fine line
 Between love and hate
-And I`m not the type
+And I'm not the type
 To just sit and wait
-I`ve made up my mind
-I can`t wait for you anymore
+I've made up my mind
+I can't wait for you anymore
 But when we kiss
 It feels like this
 And when we touch
@@ -93,15 +98,15 @@ It means so much
 So many days go by
 And I still want you so
 If it was up to me
-I`d never let you go
-You`re the only true love in my life
+I'd never let you go
+You're the only true love in my life
 And I want you to know
 All this passion and pain
-I think I`m going insane
-We`ve got nothing to lose
+I think I'm going insane
+We've got nothing to lose
 And so much to gain
 If you love me today
-Who`s to say you`d not leave me again
+Whos to say you'd not leave me again
 Do you remember the night
 I can see it so clear
 All the sweet little things
@@ -109,25 +114,25 @@ That you sang in my ear
 There were promises made
 But I think you forgot
 What you said
-There`s a real fine line
+There's a real fine line
 Between love and hate
-And I`m not the type
+And I'm not the type
 To just sit and wait
-I`ve made up my mind
-I can`t wait for you anymore
+I've made up my mind
+I can't wait for you anymore
 But when we kiss
 It feels like this
 And when we touch
 It means so much
----- Instrumental Interlude ----
+
 It was late one night
 And we had a fight
 And it seemed like nothing
 Was going right
 Then you turned around
 And you walked right out the door
-Now it`s not the first time
-It`s not the last
+Now it's not the first time
+It's not the last
 I know all about
 Your checkered past
 And we played this game

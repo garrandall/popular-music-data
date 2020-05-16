@@ -1,8 +1,11 @@
 ---
+album: Melt
 artists:
 - SHAED
+external_ids:
+  spotify: spotify:track:7HHSCN8qAcPBKqNolT5qBg
 features: []
-genres: []
+first_released_as_single: true
 key: trampoline-shaed
 lyrics_url: https://www.azlyrics.com/lyrics/shaed/trampoline.html
 name: Trampoline
@@ -163,8 +166,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2018
+runtime: 218915
 ---
-
 I've been having dreams
 Jumping on a trampoline
 Flipping in the air
@@ -216,6 +220,3 @@ Wait if I'm on fire
 How am I so deep in love?
 When I dream of dying
 I never feel so loved
-
-
-

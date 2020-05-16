@@ -1,8 +1,11 @@
 ---
+album: Individually & Collectively
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:2gYg7b6R0I9jHZzLtjh5b1
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-reach-you-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/ificouldreachyou.html
 name: If I Could Reach You
@@ -67,8 +70,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 188373
 ---
-
 Oh no, don't go
 It's hours 'til dawn
 And there's no one
@@ -99,6 +103,3 @@ Maybe I could make you stay
 
 See you next time
 I'll see you next time
-
-
-

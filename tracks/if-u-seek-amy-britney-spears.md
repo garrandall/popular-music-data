@@ -1,8 +1,11 @@
 ---
+album: Circus (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2hdy9Wt9qp7M7d0U3ossu2
 features: []
-genres: []
+first_released_as_single: false
 key: if-u-seek-amy-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/ifuseekamy.html
 name: If U Seek Amy
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2008
+runtime: 216520
 ---
-
 Oh baby baby
 Have you seen Amy tonight?
 Is she in the bathroom
@@ -169,6 +173,3 @@ But can't you see what I see
 Say what you want about me
 
 All of the boys and all of the girls are begging to if you seek Amy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Barry McGuire
 artists:
 - Barry McGuire
+external_ids:
+  spotify: spotify:track:2xUPazvz0vm9MwHArnzFea
 features: []
-genres: []
+first_released_as_single: false
 key: cloudy-summer-afternoon--raindrops--barry-mcguire
 lyrics_url: https://www.azlyrics.com/lyrics/barrymcguire/cloudysummerafternoon.html
 name: Cloudy Summer Afternoon (Raindrops)
@@ -35,8 +38,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 174733
 ---
-
 On a cloudy summer afternoon
 We sat and waited for the raindrops
 Pitter patter of the raindrops
@@ -76,6 +80,3 @@ I fell in love
 
 Oh, we fell in love (raindrops)
 Me and my girl fell in love (raindrops)
-
-
-

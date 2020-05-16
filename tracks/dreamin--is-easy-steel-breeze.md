@@ -1,8 +1,11 @@
 ---
+album: Steel Breeze
 artists:
 - Steel Breeze
+external_ids:
+  spotify: spotify:track:4g7dDwvfmlJofDamYgaNwK
 features: []
-genres: []
+first_released_as_single: false
 key: dreamin--is-easy-steel-breeze
 lyrics_url: https://genius.com/Steel-breeze-dreamin-is-easy-lyrics
 name: Dreamin' Is Easy
@@ -59,6 +62,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 219173
 ---
 You can call me at midnight
 Cause I'll be waiting at home

@@ -1,8 +1,11 @@
 ---
+album: Dionne
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4V3AGIIQeJoBUPaTCLiscB
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-love-this-way-again-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-ill-never-love-this-way-again-lyrics
 name: I'll Never Love This Way Again
@@ -103,6 +106,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 211920
 ---
 You looked inside my fantasies
 And made each one come true

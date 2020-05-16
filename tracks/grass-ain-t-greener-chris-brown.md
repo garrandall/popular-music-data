@@ -1,8 +1,11 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:6DaE3A1uIvDqVrVSNvUy6B
 features: []
-genres: []
+first_released_as_single: true
 key: grass-ain-t-greener-chris-brown
 lyrics_url: https://genius.com/Chris-brown-grass-aint-greener-lyrics
 name: Grass Ain't Greener
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-10-08'
+release_year: 2016
+runtime: 201421
 ---
 You ain't the girl that you used to be
 You say you're done, you're moving on

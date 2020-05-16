@@ -1,8 +1,11 @@
 ---
+album: Success Hasn't Spoiled Me
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:0454gHUKap3bwzBQxsEgmz
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-excited-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/igetexcited.html
 name: I Get Excited
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1981
+runtime: 152973
 ---
-
 Well, you admit you like the game but you're not gonna play
 You're just ignorin' what you're body's tryin' to say
 I get the feelin' that you're playin' and we're both gonna win
@@ -91,6 +95,3 @@ All night, all night
 We got all night, all night
 Baby please, I can't please if I'm on my knees tonight
 Tonight!
-
-
-

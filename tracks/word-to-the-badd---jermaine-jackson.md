@@ -1,8 +1,11 @@
 ---
+album: You Said
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3xYVVQ0to8V6mJSvX1pkgg
 features: []
-genres: []
+first_released_as_single: false
 key: word-to-the-badd---jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/wordtothebadd.html
 name: Word To The Badd!
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
+release_year: 1991
+runtime: 317600
 ---
-
 What up yo, word to the badd
 
 I gave my love
@@ -89,6 +93,3 @@ And funny it seem show it used to be
 Times when you needed to lean on me
 Now you're standin' on two and you wanna act now
 Girl I ain't thinkin' about you
-
-
-

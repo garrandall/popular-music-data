@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:09cJcfLgfFPW7YeBggweW6
 features: []
-genres: []
+first_released_as_single: false
 key: where-would-you-be-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/wherewouldyoube.html
 name: Where Would You Be
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
+release_year: 2001
+runtime: 274173
 ---
-
 I wonder where your heart is
 Cause it sure don't feel like it's here
 Sometimes I think you wish
@@ -120,6 +124,3 @@ Where would you be
 Where would you go
 Who would you love
 Would it be me?
-
-
-

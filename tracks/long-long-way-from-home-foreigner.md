@@ -1,8 +1,11 @@
 ---
+album: Foreigner (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:21D0muOMLK4P0jrsAYKLij
 features: []
-genres: []
+first_released_as_single: false
 key: long-long-way-from-home-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/longlongwayfromhome.html
 name: Long Long Way From Home
@@ -63,8 +66,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
+release_year: 1977
+runtime: 172573
 ---
-
 It was a Monday
 A day like any other day
 I left a small town
@@ -107,6 +111,3 @@ But I'm a long, long way from home
 Sad, sad Monday
 Oh she's waiting for me
 But I'm a long, long way from home
-
-
-

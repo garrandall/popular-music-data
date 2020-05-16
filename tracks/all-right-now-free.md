@@ -1,8 +1,11 @@
 ---
+album: Fire And Water
 artists:
 - Free
+external_ids:
+  spotify: spotify:track:1gcESexgftSuLuML57Y69q
 features: []
-genres: []
+first_released_as_single: false
 key: all-right-now-free
 lyrics_url: https://genius.com/Free-all-right-now-lyrics
 name: All Right Now
@@ -71,6 +74,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 330643
 ---
 Oh, whoa, whoa
 Ow

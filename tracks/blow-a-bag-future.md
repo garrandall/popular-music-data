@@ -1,8 +1,11 @@
 ---
+album: DS2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:4oHhHSJfqanuh8AdBwZqu7
 features: []
-genres: []
+first_released_as_single: false
 key: blow-a-bag-future
 lyrics_url: https://genius.com/Future-blow-a-bag-lyrics
 name: Blow A Bag
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-08-08'
+release_year: 2015
+runtime: 193900
 ---
 Yeah
 I woke up feeling like fucking up some paper

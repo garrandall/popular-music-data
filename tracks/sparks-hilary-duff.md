@@ -1,8 +1,11 @@
 ---
+album: Breathe In. Breathe Out.
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:33okDqzPPYo8vwC3Mc1pOr
 features: []
-genres: []
+first_released_as_single: true
 key: sparks-hilary-duff
 lyrics_url: https://genius.com/Hilary-duff-sparks-lyrics
 name: Sparks
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2015
+runtime: 185946
 ---
 I can't hear a single word
 Just know you're talking, 'cause your lips keep moving

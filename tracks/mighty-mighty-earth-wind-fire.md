@@ -1,8 +1,11 @@
 ---
+album: Open Our Eyes
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:3HFGDi2zGIgdXTocV5k2cs
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-mighty-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-mighty-mighty-lyrics
 name: Mighty Mighty
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1974
+runtime: 183200
 ---
 Walk around, why wear a frown?
 Say little people, try to put you down

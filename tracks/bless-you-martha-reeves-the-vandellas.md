@@ -1,9 +1,12 @@
 ---
+album: Black Magic
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:781plUYinAku1wVS2TCxgn
 features: []
-genres: []
+first_released_as_single: false
 key: bless-you-martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-bless-you-lyrics
 name: Bless You
@@ -32,6 +35,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 184506
 ---
 Oh this morning when I woke up
 Sunshine touched my heart

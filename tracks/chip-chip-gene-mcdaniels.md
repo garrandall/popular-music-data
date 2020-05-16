@@ -1,8 +1,11 @@
 ---
+album: Hit After Hit
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:1OpLpcfXXLkd5mKdKd08Nt
 features: []
-genres: []
+first_released_as_single: false
 key: chip-chip-gene-mcdaniels
 lyrics_url: https://genius.com/Gene-mcdaniels-chip-chip-lyrics
 name: Chip Chip
@@ -51,6 +54,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 141386
 ---
 From a one little kiss and a lotta lovin' you build a big mansion of love
 High on a hill of happiness with some-a-one that you've been dreamin' of

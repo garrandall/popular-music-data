@@ -1,8 +1,11 @@
 ---
+album: Dirty Work (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:32wMZselVhTIaaE3F9txyJ
 features: []
-genres: []
+first_released_as_single: false
 key: one-hit--to-the-body--the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-one-hit-to-the-body-lyrics
 name: One Hit (To The Body)
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1986
+runtime: 283893
 ---
 You fell out of the clear blue sky
 To the darkness below

@@ -1,8 +1,11 @@
 ---
+album: You Won' t Ever Be Lonely
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:0bF8vEqQyvTfAMWkbP7MnY
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-more-andy-griggs
 lyrics_url: https://genius.com/Andy-griggs-shes-more-lyrics
 name: She's More
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2000-07-22'
+release_year: 1999
+runtime: 199733
 ---
 I like blue eyes, hers are green
 Not like the woman of my dreams

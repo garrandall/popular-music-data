@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:3J0tOqhh6tQJJty0diKeW2
 features: []
-genres: []
+first_released_as_single: false
 key: shilo-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/shiloinmylifetime.html
 name: Shilo
@@ -63,8 +66,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1968
+runtime: 207333
 ---
-
 Young child with dreams
 Dreaming each dream on your own
 When children play
@@ -108,6 +112,3 @@ Shilo, you always came
 Come today
 Shilo
 Shilo
-
-
-

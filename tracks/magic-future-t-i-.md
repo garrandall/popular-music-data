@@ -1,9 +1,12 @@
 ---
+album: Pluto
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:2oGEORMSFZR8kVoIBGJyEe
 features:
 - T.I.
-genres: []
+first_released_as_single: false
 key: magic-future-t-i-
 lyrics_url: https://genius.com/Heartsrevolution-white-magic-future-of-oddities-lyrics
 name: Magic
@@ -44,6 +47,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2012
+runtime: 211613
 ---
 The call it odd future, I say the future's odd
 The latest band to rise to fame's talking 'bout raping broads

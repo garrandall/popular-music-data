@@ -1,8 +1,11 @@
 ---
+album: 25 All-Time Greatest Recordings
 artists:
 - The Chordettes
+external_ids:
+  spotify: spotify:track:0u4FkZ6E0LcG3h8tMXv1Hs
 features: []
-genres: []
+first_released_as_single: false
 key: no-other-arms-no-other-lips-the-chordettes
 lyrics_url: https://www.azlyrics.com/lyrics/chordettes/nootherarmsnootherlips.html
 name: No Other Arms No Other Lips
@@ -51,8 +54,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 153617
 ---
-
 No other arms, no other lips
 No other love but you
 
@@ -78,6 +82,3 @@ So I'll be there with you
 
 No other arms, no other lips
 No other love but you
-
-
-

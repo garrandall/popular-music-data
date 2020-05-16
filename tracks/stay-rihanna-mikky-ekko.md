@@ -1,9 +1,12 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:789CxjEOtO76BVD1A9yJQH
 features:
 - Mikky Ekko
-genres: []
+first_released_as_single: false
 key: stay-rihanna-mikky-ekko
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/stay.html
 name: Stay
@@ -136,9 +139,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2012
+runtime: 240706
 ---
-
-
 All along it was a fever
 A cold-sweat hot-headed believer
 I threw my hands in the air, said, "Show me something"
@@ -183,6 +186,3 @@ Yeah, it takes me all the way
 
 I want you to stay, stay
 I want you to stay, oh
-
-
-

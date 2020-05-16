@@ -1,9 +1,12 @@
 ---
+album: Sick Boy
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:1zZ8DfrLf4fQgARxIKOs20
 features:
 - Kelsea Ballerini
-genres: []
+first_released_as_single: true
 key: this-feeling-the-chainsmokers-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/thisfeeling.html
 name: This Feeling
@@ -88,8 +91,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 207693
 ---
-
 I'll tell you a story before it tells itself
 I lay out all my reasons, you say that I need help
 We all got expectations, and sometimes they go wrong
@@ -149,6 +153,3 @@ No, no
 And I say no, oh, oh
 And I say no, yeah, yeah, yeah, yeah
 They don't know, oh
-
-
-

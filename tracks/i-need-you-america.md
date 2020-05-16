@@ -1,8 +1,11 @@
 ---
+album: America
 artists:
 - America
+external_ids:
+  spotify: spotify:track:4Anh5Ti55P6SXG3H94QLqV
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-america
 lyrics_url: https://www.musixmatch.com/lyrics/America/I-Need-You
 name: I Need You
@@ -47,6 +50,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 183186
 ---
 We used to laugh
 We used to cry

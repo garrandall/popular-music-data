@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:6PLcUDbZuChAShg2crtHgk
 features: []
-genres: []
+first_released_as_single: false
 key: you-d-better-come-home-petula-clark
 lyrics_url: https://genius.com/Petula-clark-youd-better-come-home-lyrics
 name: You'd Better Come Home
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 171760
 ---
 You'd better come home and stop your running around
 You'd better come home and get your feet on the ground

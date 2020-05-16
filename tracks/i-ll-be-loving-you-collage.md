@@ -1,8 +1,11 @@
 ---
+album: Chapter One
 artists:
 - Collage
+external_ids:
+  spotify: spotify:track:5lLnPWZNUttIqzwcnWtYDb
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-loving-you-collage
 lyrics_url: https://genius.com/Collage-ill-be-loving-you-lyrics
 name: I'll Be Loving You
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 181293
 ---
 I always thought I was doing fine
 Spreading myself around another good time

@@ -1,8 +1,11 @@
 ---
+album: Toya
 artists:
 - Toya
+external_ids:
+  spotify: spotify:track:6jCLSGa6VpnHu5kc3d3j9E
 features: []
-genres: []
+first_released_as_single: false
 key: no-matta-what--party-all-night--toya
 lyrics_url: https://www.azlyrics.com/lyrics/toya/nomattawhatpartyallnight.html
 name: No Matta What (Party All Night)
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 2001
+runtime: 208733
 ---
-
 Tonight we're gonna hang out
 Me and my girls gonna hit a party
 Gonna wile out
@@ -122,6 +126,3 @@ AO AO
 No matta what's going down
 AO AO
 We gonna do this anyhow
-
-
-

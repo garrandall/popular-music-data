@@ -1,8 +1,11 @@
 ---
+album: 3LW
 artists:
 - 3LW
+external_ids:
+  spotify: spotify:track:5zn1hpm9N0ylKB7kOtpCw2
 features: []
-genres: []
+first_released_as_single: false
 key: no-more--baby-i-ma-do-right--3lw
 lyrics_url: https://genius.com/3lw-no-more-remix-lyrics
 name: No More (Baby I'ma Do Right)
@@ -107,6 +110,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
+release_year: 2000
+runtime: 263440
 ---
 Everyday she walk by
 See me on the same block

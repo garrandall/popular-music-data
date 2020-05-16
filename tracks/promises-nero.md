@@ -1,8 +1,11 @@
 ---
+album: Welcome Reality +
 artists:
 - NERO
+external_ids:
+  spotify: spotify:track:7569Hbv0FUS7vjkdGvdgeZ
 features: []
-genres: []
+first_released_as_single: false
 key: promises-nero
 lyrics_url: https://genius.com/Nero-promises-lyrics
 name: Promises
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2011
+runtime: 268706
 ---
 You got me so wild
 How can I ever deny

@@ -1,8 +1,11 @@
 ---
+album: Shut Down
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1GLmaPfulP0BrfijohQpN5
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-baby-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-dont-worry-baby-lyrics
 name: Don't Worry Baby
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 169933
 ---
 Well, it's been building up inside of me for
 Oh, I don't know how long

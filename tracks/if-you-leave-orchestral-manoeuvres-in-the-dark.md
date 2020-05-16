@@ -1,8 +1,11 @@
 ---
+album: Souvenir
 artists:
 - Orchestral Manoeuvres In The Dark
+external_ids:
+  spotify: spotify:track:0Des4gyZ2Z9jq6VA8VPwGE
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-leave-orchestral-manoeuvres-in-the-dark
 lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-if-you-leave-lyrics
 name: If You Leave
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1986
+runtime: 265360
 ---
 If you leave, don't leave now
 Please don't take my heart away

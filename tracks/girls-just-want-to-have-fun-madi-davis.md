@@ -1,8 +1,11 @@
 ---
+album: Madi Anne Davis
 artists:
 - Madi Davis
+external_ids:
+  spotify: spotify:track:62gFelpaDV9TPR4AybUfjK
 features: []
-genres: []
+first_released_as_single: true
 key: girls-just-want-to-have-fun-madi-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Madi-Davis/Girls-Just-Want-to-Have-Fun
 name: Girls Just Want To Have Fun
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2014
+runtime: 170573
 ---
 I come home, in the mornin' light
 My mother says "When you gonna live your life right?"

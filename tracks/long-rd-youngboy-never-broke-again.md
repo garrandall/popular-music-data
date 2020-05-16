@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4RhRDVXc3xFojyyjyh1jmN
 features: []
-genres: []
+first_released_as_single: false
 key: long-rd-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-long-rd-lyrics
 name: Long RD
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 175527
 ---
 (Yung Lan on the track)
 (Felipe S)

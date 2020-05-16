@@ -1,8 +1,11 @@
 ---
+album: Free Yourself
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:3QfsB9tPwAjMb5b9P7r3Z5
 features: []
-genres: []
+first_released_as_single: false
 key: truth-is-fantasia
 lyrics_url: https://genius.com/Fantasia-truth-is-lyrics
 name: Truth Is
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2004
+runtime: 236746
 ---
 Ran into an old friend yesterday
 Caught me by surprise when he called my name

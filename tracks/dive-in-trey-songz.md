@@ -1,8 +1,11 @@
 ---
+album: Chapter V
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:43hHjvaO9brl5t7ywedeyx
 features: []
-genres: []
+first_released_as_single: false
 key: dive-in-trey-songz
 lyrics_url: https://genius.com/Trey-songz-dive-in-lyrics
 name: Dive In
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 252453
 ---
 Oh, I'm about to dive in, woah
 I was thinking about taking a couple laps, I just wanna dive in

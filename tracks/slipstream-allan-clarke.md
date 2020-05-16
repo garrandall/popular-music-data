@@ -1,8 +1,11 @@
 ---
+album: Legendary Heroes
 artists:
 - Allan Clarke
+external_ids:
+  spotify: spotify:track:5KNZrSrNySJBWtdBMSCCpc
 features: []
-genres: []
+first_released_as_single: false
 key: slipstream-allan-clarke
 name: Slipstream
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 274546
 ---
 

@@ -1,10 +1,13 @@
 ---
+album: Heart Of Soul Classics
 artists:
 - Ray
 - Goodman
 - Brown
+external_ids:
+  spotify: spotify:track:570KJytRkVHTIocq1qomWF
 features: []
-genres: []
+first_released_as_single: false
 key: special-lady-ray-goodman-brown
 lyrics_url: https://genius.com/Ray-goodman-and-brown-special-lady-lyrics
 name: Special Lady
@@ -81,6 +84,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1980
+runtime: 252800
 ---
 You must be a special lady
 (Billy, you singin' first tenor or second?

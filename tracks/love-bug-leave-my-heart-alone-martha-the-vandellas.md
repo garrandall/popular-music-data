@@ -1,9 +1,12 @@
 ---
+album: Ridin' High
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:6bGpztCCWPPk1Xck6ibpZb
 features: []
-genres: []
+first_released_as_single: false
 key: love-bug-leave-my-heart-alone-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/lovebugleavemyheartalone.html
 name: Love Bug Leave My Heart Alone
@@ -44,8 +47,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 129106
 ---
-
 Oh yeah
 (Get out of here love bug, leave my heart alone)
 Leave my heart alone
@@ -90,6 +94,3 @@ You know, you know that he don't love me
 (Get out of here love bug, leave my heart alone)
 Oh, don't give me the fever, I
 (Get out of here love bug, leave my heart alone)
-
-
-

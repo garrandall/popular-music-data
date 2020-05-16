@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:6BEeFBXWMa6bgLjOE3XuSH
 features: []
-genres: []
+first_released_as_single: false
 key: stagger-lee-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/staggerlee.html
 name: Stagger Lee
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 202226
 ---
-
 The night was clear and the moon was yellow
 And the leaves came tumbling down
 
@@ -77,6 +81,3 @@ He said "Nobody move" and he pulled his forty-four
 
 Stagger Lee shot Billy, oh he shot that poor boy so bad
 Till the bullet came through Billy and it broke the bartender's glass
-
-
-

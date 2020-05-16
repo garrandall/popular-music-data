@@ -1,8 +1,11 @@
 ---
+album: River Of Dreams
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:4cURHmiuYii52BVbhrGbv0
 features: []
-genres: []
+first_released_as_single: false
 key: lullabye--goodnight-my-angel--billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/lullabyegoodnightmyangel.html
 name: Lullabye (Goodnight My Angel)
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1993
+runtime: 214400
 ---
-
 Goodnight, my angel
 Time to close your eyes
 And save these questions for another day
@@ -77,6 +81,3 @@ They never die
 That's how you
 And I
 Will be
-
-
-

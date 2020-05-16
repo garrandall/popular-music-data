@@ -1,8 +1,11 @@
 ---
+album: Dream Street
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:6q1i3J6KowRU3UvjPK8eYx
 features: []
-genres: []
+first_released_as_single: false
 key: if-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-if-lyrics
 name: If
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1984
+runtime: 248040
 ---
 Sittin' over here, starin' in your face
 With lust in my eyes, sure don't give a damn

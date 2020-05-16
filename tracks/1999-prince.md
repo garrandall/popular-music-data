@@ -1,8 +1,11 @@
 ---
+album: '1999'
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:2H7PHVdQ3mXqEHXcvclTB0
 features: []
-genres: []
+first_released_as_single: false
 key: 1999-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/1999.html
 name: '1999'
@@ -127,8 +130,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 1982
+runtime: 379266
 ---
-
 Don't worry, I won't hurt U
 I only want U 2 have some fun
 I was dreamin' when I wrote this
@@ -215,6 +219,3 @@ Oh, and he's ready 2 roar (Party)
 
 Mommy, why does everybody have a bomb?
 Mommy, why does everybody have a bomb?
-
-
-

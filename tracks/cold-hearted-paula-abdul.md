@@ -1,8 +1,11 @@
 ---
+album: Forever Your Girl
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:6jrp8qBMJO6vhAeYVAsdk9
 features: []
-genres: []
+first_released_as_single: false
 key: cold-hearted-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/coldhearted.html
 name: Cold Hearted
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
+release_year: 1988
+runtime: 231400
 ---
-
 He's a cold-hearted snake (girl)
 Look into his eyes
 He's been tellin' lies
@@ -168,6 +172,3 @@ He's a cold-hearted snake
 Look into his eyes
 He's been tellin' lies
 He's a lover boy at play
-
-
-

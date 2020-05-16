@@ -1,9 +1,12 @@
 ---
+album: Into The Rush
 artists:
 - Aly
 - AJ
+external_ids:
+  spotify: spotify:track:1dpXikU9kSyxm1mKulwHws
 features: []
-genres: []
+first_released_as_single: false
 key: rush-aly-aj
 lyrics_url: https://www.azlyrics.com/lyrics/alyaj/rush.html
 name: Rush
@@ -52,8 +55,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2005
+runtime: 191733
 ---
-
 Into your head, into your mind
 out of your soul, race through your veins
 You can't escape, you can't escape.
@@ -114,6 +118,3 @@ Know it all before you try
 
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
-
-
-

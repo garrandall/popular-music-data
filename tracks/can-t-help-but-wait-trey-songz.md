@@ -1,8 +1,11 @@
 ---
+album: Trey Day
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5k3VjTwIsOjQ2woGz3Yx71
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-but-wait-trey-songz
 lyrics_url: https://genius.com/Trey-songz-cant-help-but-wait-lyrics
 name: Can't Help But Wait
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2008-03-15'
+release_year: 2007
+runtime: 206413
 ---
 I can’t help but wait
 Oh, I can’t help but wait

@@ -1,8 +1,11 @@
 ---
+album: The Best Is Yet To Come
 artists:
 - Shannon
+external_ids:
+  spotify: spotify:track:4d8Bqtm7ODdQLFXxPSuK64
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-music-play-shannon
 lyrics_url: https://genius.com/Shannon-let-the-music-play-lyrics
 name: Let The Music Play
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1983
+runtime: 216000
 ---
 We started dancing
 And love put us into a groove

@@ -1,8 +1,11 @@
 ---
+album: Days Gone By
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:7GxWmocSGufDOonUstGA31
 features: []
-genres: []
+first_released_as_single: false
 key: unchained-melody-heart
 lyrics_url: https://genius.com/Heart-unchained-melody-lyrics
 name: Unchained Melody
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
+release_year: 1981
+runtime: 223560
 ---
 Oh, my love, my darling
 I've hungered for your touch

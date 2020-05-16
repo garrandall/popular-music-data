@@ -1,8 +1,11 @@
 ---
+album: The Best Of Me
 artists:
 - Maxi Priest
+external_ids:
+  spotify: spotify:track:7vfNILkbsA7t4hSlyLlfbQ
 features: []
-genres: []
+first_released_as_single: false
 key: wild-world-maxi-priest
 lyrics_url: https://www.azlyrics.com/lyrics/maxipriest/wildworld.html
 name: Wild World
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 215666
 ---
-
 Don't go, don't go
 Please stay
 Now that I've lost everything to you
@@ -121,6 +125,3 @@ Oh, baby, baby, it's a wild world
 It's hard to get by just upon a smile,girl
 Oh, baby, baby, it's a wild world
 I'll always remember you like a child, girl
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: My Name Is Joe
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:7FWuzwapuKHTEyDJIcQOw3
 features:
 - Mystikal
-genres: []
+first_released_as_single: false
 key: stutter-joe-mystikal
 lyrics_url: https://genius.com/Joe-stutter-double-take-remix-lyrics
 name: Stutter
@@ -112,6 +115,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-06-30'
+release_year: 2000
+runtime: 213026
 ---
 My dear-my dear-my dear you do not know me
 But I know you very well

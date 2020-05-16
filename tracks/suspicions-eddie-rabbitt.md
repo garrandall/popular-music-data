@@ -1,8 +1,11 @@
 ---
+album: Loveline
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:2t3qeL7qBKgN0SC76FF9y5
 features: []
-genres: []
+first_released_as_single: false
 key: suspicions-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/suspicions.html
 name: Suspicions
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 261560
 ---
-
 I'm so glad that I met you, baby
 And I'm so proud when we walk down the street
 And I know it's crazy to worry like I do
@@ -118,6 +122,3 @@ Oh suspicions, I can't help it you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
 Oh suspicions, even though I know that you love me, baby
 And I really shouldn't feel this way
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Kostelanetz Sound of Today
 artists:
 - Paul Vance
+external_ids:
+  spotify: spotify:track:1OPINklujDatP2f2s25Pyh
 features: []
-genres: []
+first_released_as_single: false
 key: dommage-dommage--too-bad-too-bad--paul-vance
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Vance/Dommage-Dommage-Too-Bad-Too-Bad
 name: Dommage Dommage (Too Bad Too Bad)
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 180053
 ---
 Dommage, Dommage
 Our love was once exciting

@@ -1,8 +1,11 @@
 ---
+album: Bring You Back
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:5FVuERsYqtKKAaWe62NBnv
 features: []
-genres: []
+first_released_as_single: false
 key: mean-to-me-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/meantome.html
 name: Mean To Me
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2013
+runtime: 228906
 ---
-
 If I could be the reason your hair's a mess
 The bass drum beatin way down deep in your chest
 If I could be the voice on your radio
@@ -145,6 +149,3 @@ And perfect's what you see
 Then I'd be what you mean to me
 Be what you mean to me
 Ohhhhh, be what you mean, what you mean, what you mean, what you mean to me
-
-
-

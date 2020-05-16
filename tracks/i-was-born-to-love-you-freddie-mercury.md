@@ -1,8 +1,11 @@
 ---
+album: Mr. Bad Guy
 artists:
 - Freddie Mercury
+external_ids:
+  spotify: spotify:track:6EF9h8oMckapErRYmLmmDT
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-born-to-love-you-freddie-mercury
 lyrics_url: https://www.azlyrics.com/lyrics/freddiemercury/iwasborntoloveyou.html
 name: I Was Born To Love You
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 219093
 ---
-
 An amazing feeling coming through...
 
 I was born to love you with every single beat of my heart
@@ -54,6 +58,3 @@ Every single day of my life
 
 I was born to love you with every single beat of my heart
 Yeah I was born to take care of you honey, every single day of my life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ear To The Street
 artists:
 - The Conscious Daughters
+external_ids:
+  spotify: spotify:track:2amTrpEAfs0ZeI5JjrpkWO
 features: []
-genres: []
+first_released_as_single: false
 key: somethin--to-ride-to--fonky-expedition--the-conscious-daughters
 lyrics_url: https://genius.com/The-conscious-daughters-somethin-to-ride-to-fonky-expedition-lyrics
 name: Somethin' To Ride To (Fonky Expedition)
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1993
+runtime: 300506
 ---
 I'm just riding, sliding, let's take a little trip
 CMG and K and we finsta make a grip

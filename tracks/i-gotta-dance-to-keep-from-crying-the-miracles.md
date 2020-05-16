@@ -1,8 +1,11 @@
 ---
+album: Doin' Mickey's Monkey
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:19Pj53IPq820yWmc3HTRqF
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotta-dance-to-keep-from-crying-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/igottadancetokeepfromcrying.html
 name: I Gotta Dance To Keep From Crying
@@ -47,8 +50,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 158840
 ---
-
 Come on everybody we're gonna have a party right now!
 I'm tired of sitting around here feeling blue
 
@@ -98,6 +102,3 @@ Do the bird, do the fly
 Come on you can do it if you try
 Dance for me swingers
 Dance for me swingers
-
-
-

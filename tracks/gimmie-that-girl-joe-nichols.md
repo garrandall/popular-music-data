@@ -1,8 +1,11 @@
 ---
+album: Old Things New
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:7xoBJ4hih949Jeu5ZfzBai
 features: []
-genres: []
+first_released_as_single: false
 key: gimmie-that-girl-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/gimmiethatgirl.html
 name: Gimmie That Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2009
+runtime: 185453
 ---
-
 Hang up that red dress,
 Let down your hair,
 Cancel those reservations
@@ -124,4 +128,3 @@ Gimme that girl lovin up on me,
 Old t-shirt and a pair of jeans,
 Thats the you I wanna see,
 Gimme that girl, gimme that girl.
-

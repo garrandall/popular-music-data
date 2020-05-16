@@ -1,8 +1,11 @@
 ---
+album: Fresh
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:0AoHJoQJRDYWFasjoy1x26
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-raspberries
 lyrics_url: https://www.azlyrics.com/lyrics/raspberries/tonight.html
 name: Tonight
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1972
+runtime: 126440
 ---
-
 One, two, three, four
 When you smiled at me
 And I saw your eyes
@@ -81,6 +85,3 @@ Come on, come on, come on, come on
 And let me
 Come on, baby
 Woh, tonight
-
-
-

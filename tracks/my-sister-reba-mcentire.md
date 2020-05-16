@@ -1,8 +1,11 @@
 ---
+album: Room To Breathe
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:21gIIm2pGR0VK36gLVvY26
 features: []
-genres: []
+first_released_as_single: false
 key: my-sister-reba-mcentire
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/mysister.html
 name: My Sister
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2003
+runtime: 239640
 ---
-
 Hey girl it's me I just called to tell you hi
 Call me when you get this
 Haven't talked lately so hard to find the time
@@ -67,6 +71,3 @@ Even though at times it seemed
 We were more like enemies
 I'd do it all again
 My sister my friend
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Green
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:0f7lwf8ahLohUsaMW8GZIO
 features: []
-genres: []
+first_released_as_single: false
 key: pop-song-89-r-e-m-
 lyrics_url: https://genius.com/Rem-pop-song-89-lyrics
 name: Pop Song 89
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1988
+runtime: 184933
 ---
 Hello, I saw you, I know you, I knew you
 I think I can remember your name (name)

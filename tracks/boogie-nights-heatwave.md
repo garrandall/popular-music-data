@@ -1,8 +1,11 @@
 ---
+album: Too Hot To Handle
 artists:
 - Heatwave
+external_ids:
+  spotify: spotify:track:20zOIoex7YchUh87d8tlvg
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-nights-heatwave
 lyrics_url: https://www.azlyrics.com/lyrics/heatwave/boogienights.html
 name: Boogie Nights
@@ -115,8 +118,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1976
+runtime: 303533
 ---
-
 Boogie nights, whoa
 Boogie nights, whoa
 
@@ -194,4 +198,3 @@ If you wanna boogie, boogie, boogie, boggie nights
 
 Boogie nights, whoa
 Boogie nights, whoa
-

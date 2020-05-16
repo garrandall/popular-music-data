@@ -1,8 +1,11 @@
 ---
+album: Under My Hat
 artists:
 - Rusty Wier
+external_ids:
+  spotify: spotify:track:2Si1AlKrg7SDYanGQuU67s
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-it-make-you-wanna-dance--rusty-wier
 lyrics_url: https://genius.com/Rusty-wier-dont-it-make-you-wanna-dance-lyrics
 name: Don't It Make You Wanna Dance?
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
+release_year: 1975
+runtime: 225479
 ---
 I've been gone for so long
 It's sure good to get back home

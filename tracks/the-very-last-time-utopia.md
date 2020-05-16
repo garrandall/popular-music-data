@@ -1,8 +1,11 @@
 ---
+album: Adventures In Utopia
 artists:
 - Utopia
+external_ids:
+  spotify: spotify:track:0BAAY4z6SYjS2R1ivjxzZa
 features: []
-genres: []
+first_released_as_single: false
 key: the-very-last-time-utopia
 lyrics_url: https://genius.com/Utopia-the-very-last-time-lyrics
 name: The Very Last Time
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1980
+runtime: 232266
 ---
 Sometimes I wonder if I'm still alive
 How much abuse can someone stand and survive

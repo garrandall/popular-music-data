@@ -1,8 +1,11 @@
 ---
+album: Crate Dig Funk
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:3hwIo04AK1DFAC1NXxNWlE
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-rock-the-boat-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-dont-rock-the-boat-lyrics
 name: Don't Rock The Boat
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 123759
 ---
 You know that you're riding
 In a canoe that's only made for two

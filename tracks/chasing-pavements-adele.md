@@ -1,8 +1,11 @@
 ---
+album: '19'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:0v3PN5BVagFIE9nFUTcuiX
 features: []
-genres: []
+first_released_as_single: true
 key: chasing-pavements-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/chasingpavements.html
 name: Chasing Pavements
@@ -35,8 +38,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 210506
 ---
-
 I've made up my mind
 Don't need to think it over
 If I'm wrong, I am right
@@ -99,6 +103,3 @@ Should I leave it there?
 Should I give up?
 Or should I just keep chasin' pavements
 Even if it leads nowhere?
-
-
-

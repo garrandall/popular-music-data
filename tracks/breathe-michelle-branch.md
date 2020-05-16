@@ -1,8 +1,11 @@
 ---
+album: Hotel Paper (U.S. Version-Enh'd)
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:635mzxhITS1xY3AVSLKgyD
 features: []
-genres: []
+first_released_as_single: false
 key: breathe-michelle-branch
 lyrics_url: https://www.azlyrics.com/lyrics/michellebranch/breathe.html
 name: Breathe
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2003
+runtime: 211773
 ---
-
 I've been driving for an hour
 Just talking to the rain
 You say I've been driving you crazy
@@ -137,6 +141,3 @@ Everything is alright if I just breathe... breathe
 
 I've been driving for an hour
 Just talking to the rain
-
-
-

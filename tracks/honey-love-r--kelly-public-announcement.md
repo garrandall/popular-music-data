@@ -1,9 +1,12 @@
 ---
+album: Born Into The 90's
 artists:
 - R. Kelly
 - Public Announcement
+external_ids:
+  spotify: spotify:track:1ZP0yvaWPl8vQV9ZH9jvT7
 features: []
-genres: []
+first_released_as_single: false
 key: honey-love-r--kelly-public-announcement
 lyrics_url: https://genius.com/R-kelly-and-public-announcement-honey-love-lyrics
 name: Honey Love
@@ -84,6 +87,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1992
+runtime: 304733
 ---
 Uh, yeah, come inside
 Now turn the lights down

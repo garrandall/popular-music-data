@@ -1,8 +1,11 @@
 ---
+album: TP-2.com
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:7cFQFr1VpkSp3BTIn7X719
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--on-yo-booty-r--kelly
 lyrics_url: https://genius.com/R-kelly-feelin-on-yo-booty-lyrics
 name: Feelin' On Yo Booty
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-12-29'
+release_year: 2000
+runtime: 245866
 ---
 This is my song for real, no doubt (oh)
 Said the DJ's making me feel thugged out

@@ -1,8 +1,11 @@
 ---
+album: Wildboy
 artists:
 - Calboy
+external_ids:
+  spotify: spotify:track:4qfE4E9jSbq8uYBMCvocES
 features: []
-genres: []
+first_released_as_single: true
 key: envy-me-calboy
 lyrics_url: https://www.azlyrics.com/lyrics/147calboy/envyme.html
 name: Envy Me
@@ -115,8 +118,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2018
+runtime: 120136
 ---
-
 Now I lay me down to sleep, ayy
 I pray the Lord my soul to keep, yeah, ayy
 Like a locksmith, I got the keys, yeah, ayy
@@ -158,6 +162,3 @@ I got water like overseas, yeah, ayy
 Bitch, I ball like NBA, yeah, ayy
 Bitch, I ball like MVP's, yeah, ayy
 I got money, they envy me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Night
 artists:
 - Night
+external_ids:
+  spotify: spotify:track:10zwzFASrOtQMLEdXsGTbP
 features: []
-genres: []
+first_released_as_single: false
 key: hot-summer-nights-night
 lyrics_url: https://genius.com/Night-hot-summer-nights-lyrics
 name: Hot Summer Nights
@@ -67,6 +70,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 209600
 ---
 There was a time not too far gone
 When I was changed by just a song

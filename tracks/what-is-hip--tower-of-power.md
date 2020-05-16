@@ -1,8 +1,11 @@
 ---
+album: Tower Of Power
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:66TSoVnJ1P9Tyok03zUlTr
 features: []
-genres: []
+first_released_as_single: false
 key: what-is-hip--tower-of-power
 lyrics_url: https://genius.com/Tower-of-power-what-is-hip-lyrics
 name: What Is Hip?
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 304733
 ---
 So ya wanna dump out yo' trick bag
 Ease on in a hip thang

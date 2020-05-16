@@ -1,8 +1,11 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:39RWYLt6hgk9BbhkDgaHW9
 features: []
-genres: []
+first_released_as_single: false
 key: crush-a-lot-lil-baby
 lyrics_url: https://genius.com/Lil-baby-crush-a-lot-lyrics
 name: Crush A Lot
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 159754
 ---
 Cook that shit up, Quay
 

@@ -1,8 +1,11 @@
 ---
+album: Down The Road I Go
 artists:
 - Travis Tritt
+external_ids:
+  spotify: spotify:track:6TKa9EOrOJbEDMuiOKbt5X
 features: []
-genres: []
+first_released_as_single: false
 key: modern-day-bonnie-and-clyde-travis-tritt
 lyrics_url: https://www.azlyrics.com/lyrics/travistritt/moderndaybonnieandclyde.html
 name: Modern Day Bonnie And Clyde
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-06-08'
+release_year: 1999
+runtime: 284560
 ---
-
 Well it's a long way to Richmond
 Rollin' north on 95
 With a redhead ridin' shotgun
@@ -102,6 +106,3 @@ Yeah...
 Whoa
 Well...
 Woo...hoo
-
-
-

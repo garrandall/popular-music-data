@@ -1,8 +1,11 @@
 ---
+album: Manfred Mann's Earth Band
 artists:
 - Manfred Mann's Earth Band
+external_ids:
+  spotify: spotify:track:4CkMYiPTlkSxjLDQ8dpajO
 features: []
-genres: []
+first_released_as_single: false
 key: living-without-you-manfred-mann-s-earth-band
 lyrics_url: https://genius.com/Manfred-manns-earth-band-living-without-you-lyrics
 name: Living Without You
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1972
+runtime: 216120
 ---
 The milk truck hauls the sun up
 The paper hits the door

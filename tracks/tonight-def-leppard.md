@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:5Q4M16AsBdGZc31KDm0kU8
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/tonight.html
 name: Tonight
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1992
+runtime: 243321
 ---
-
 Ohhhh...Oh...
 I don't wanna play
 The waiting game
@@ -96,6 +100,3 @@ Tonight - I wanna win the greatest prize
 Tonight - So right, this night could be dynamite
 Wait'n'see
 If it pleases you it pleases me
-
-
-

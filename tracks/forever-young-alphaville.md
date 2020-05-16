@@ -1,8 +1,11 @@
 ---
+album: Forever Young
 artists:
 - Alphaville
+external_ids:
+  spotify: spotify:track:6XHNIbru8xGohLzHNgxQvF
 features: []
-genres: []
+first_released_as_single: false
 key: forever-young-alphaville
 lyrics_url: https://www.azlyrics.com/lyrics/alphaville/foreveryoung.html
 name: Forever Young
@@ -79,8 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1984
+runtime: 226000
 ---
-
 Let's dance in style, let's dance for a while
 Heaven can wait, we're only watching the skies
 Hoping for the best but expecting the worst
@@ -123,6 +127,3 @@ Do you really want to live forever, forever and ever?
 
 Forever young, I want to be forever young
 Do you really want to live forever?
-
-
-

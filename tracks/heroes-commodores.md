@@ -1,8 +1,11 @@
 ---
+album: Heroes
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:5cJuM3Aj51vEmRfqwrpcWI
 features: []
-genres: []
+first_released_as_single: false
 key: heroes-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/heroes.html
 name: Heroes
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 325306
 ---
-
 Lookin' back through time we are in debt to the leaders
 Angels of mercy everyone
 Good folks who believe there is no good and evil
@@ -80,6 +84,3 @@ If you look you'll surely see there's you and me
 
 Oh, heroes
 I played on people
-
-
-

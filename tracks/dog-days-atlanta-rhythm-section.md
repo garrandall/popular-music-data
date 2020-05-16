@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:4jzPNOpJuG4p59roOKcMrj
 features: []
-genres: []
+first_released_as_single: false
 key: dog-days-atlanta-rhythm-section
 lyrics_url: https://genius.com/Atlanta-rhythm-section-dog-days-lyrics
 name: Dog Days
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1972
+runtime: 224666
 ---
 Paper fans in sweaty hands
 Shooing flies away

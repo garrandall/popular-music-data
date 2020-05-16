@@ -1,8 +1,11 @@
 ---
+album: One By One
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:6tsojOQ5wHaIjKqIryLZK6
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-life-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/allmylife.html
 name: All My Life
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 263440
 ---
-
 All my life I've been searching for something
 Something never comes never leads to nothing
 Nothing satisfies but I'm getting close
@@ -150,6 +154,3 @@ Weight keeping me down
 
 Done, done and on to the next one
 Done, I'm done, and I'm on to the next.
-
-
-

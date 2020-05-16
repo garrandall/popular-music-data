@@ -1,9 +1,12 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:3FGojuR4O99qsMPCmgNxpC
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: rich-sex-nicki-minaj-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/richsex.html
 name: Rich Sex
@@ -16,9 +19,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 192600
 ---
-
-
 Full blown, run rich, Brinx
 
 Yo
@@ -120,6 +123,3 @@ Woo! Haha, ah-haha, ah!
 You mad, doggie? You mad, doggie?
 (Next stop: New York)
 Hahaha, lrrr!
-
-
-

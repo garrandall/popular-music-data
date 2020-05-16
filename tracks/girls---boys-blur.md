@@ -1,8 +1,11 @@
 ---
+album: Parklife
 artists:
 - Blur
+external_ids:
+  spotify: spotify:track:2qrL1YF9aA865b6SKhLZ78
 features: []
-genres: []
+first_released_as_single: false
 key: girls---boys-blur
 lyrics_url: https://genius.com/Blur-girls-and-boys-lyrics
 name: Girls & Boys
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1994
+runtime: 291200
 ---
 Streets like a jungle, so call the police
 Following the herd down to Greece on holiday

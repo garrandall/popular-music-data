@@ -1,8 +1,11 @@
 ---
+album: Collection 1954-62
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0wyxCvfSYetkMHOVqjpnC1
 features: []
-genres: []
+first_released_as_single: false
 key: all-of-everything-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-all-of-everything-lyrics
 name: All Of Everything
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 151293
 ---
 I need your arms
 Both of your arms

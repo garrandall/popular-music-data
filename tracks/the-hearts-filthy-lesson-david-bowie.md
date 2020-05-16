@@ -1,8 +1,11 @@
 ---
+album: '1. Outside (The Nathan Adler Diaries: A Hyper Cycle)'
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:3cEhKEi1L86vFObrip0KDX
 features: []
-genres: []
+first_released_as_single: false
 key: the-hearts-filthy-lesson-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/theheartsfilthylesson.html
 name: The Hearts Filthy Lesson
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 297560
 ---
-
 (Heart's filthy lesson)
 There's always the Diamond friendly
 Sitting in the Laugh Motel
@@ -78,6 +82,3 @@ what a fantasic death abyss
 (Heart's filthy lesson)
 It's the Heart's filthy lesson
 Tell the others
-
-
-

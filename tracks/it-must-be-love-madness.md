@@ -1,8 +1,11 @@
 ---
+album: '7'
 artists:
 - Madness
+external_ids:
+  spotify: spotify:track:3q2gRjU2UdOYRDY1p4cNHr
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-be-love-madness
 lyrics_url: https://genius.com/Madness-it-must-be-love-lyrics
 name: It Must Be Love
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1981
+runtime: 206266
 ---
 I never thought I'd miss you
 Half as much as I do

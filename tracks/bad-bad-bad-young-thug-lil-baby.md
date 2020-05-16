@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:1vluh94VKBuOeGyXjeXHp1
 features:
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: bad-bad-bad-young-thug-lil-baby
 lyrics_url: https://genius.com/Young-thug-bad-bad-bad-lyrics
 name: Bad Bad Bad
@@ -44,6 +47,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
+release_year: 2019
+runtime: 148200
 ---
 Wheezy outta here
 

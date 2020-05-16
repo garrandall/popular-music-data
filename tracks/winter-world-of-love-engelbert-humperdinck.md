@@ -1,8 +1,11 @@
 ---
+album: Live In Concert / All of Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:43bGwVwcsIikAz0PcBi8o8
 features: []
-genres: []
+first_released_as_single: false
 key: winter-world-of-love-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/winterworldoflove.html
 name: Winter World Of Love
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1968
+runtime: 197733
 ---
-
 My love, the days are colder.
 So, let me take your hand 
 And lead you through a snow white land.
@@ -99,6 +103,3 @@ And in our winter world of love,
 You'll see, we always will remember
 That as the snow lay on the ground,
 We found our winter world of love.
-
-
-

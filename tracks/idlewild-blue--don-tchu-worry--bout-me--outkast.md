@@ -1,8 +1,11 @@
 ---
+album: Idlewild
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:3tkbjyAmQnGsD52Rn8TCX8
 features: []
-genres: []
+first_released_as_single: false
 key: idlewild-blue--don-tchu-worry--bout-me--outkast
 lyrics_url: https://genius.com/Outkast-idlewild-blue-dontchu-worry-bout-me-lyrics
 name: Idlewild Blue (Don'tchu Worry 'Bout Me)
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2006
+runtime: 204160
 ---
 Do-doo-do-do Do-doo-do-do
 Do-doo-do-do Do-doo-do-do

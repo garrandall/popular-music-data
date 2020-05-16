@@ -1,9 +1,12 @@
 ---
+album: Hillbilly Deluxe
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:1BMhbPsW66IXqksKC8jrCf
 features: []
-genres: []
+first_released_as_single: false
 key: hillbilly-deluxe-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/hillbillydeluxe.html
 name: Hillbilly Deluxe
@@ -44,8 +47,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2005
+runtime: 258693
 ---
-
 Hey, up in the backwoods, down in the holler,
 Old boys feelin' like a dog on a collar,
 Keepin' that chain pulled tight,
@@ -90,4 +94,3 @@ Country girl cuddled up...
 Hillbilly deluxe.
 Hillbilly deluxe.
 Hillbilly deluxe.
-

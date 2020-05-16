@@ -1,8 +1,11 @@
 ---
+album: 'I Want Candy: The Best Of The Strangeloves'
 artists:
 - The Strangeloves
+external_ids:
+  spotify: spotify:track:7JoPxqrnT3eq02AnflBSiN
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-candy-the-strangeloves
 lyrics_url: https://genius.com/The-strangeloves-i-want-candy-lyrics
 name: I Want Candy
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 177506
 ---
 I know a girl who's soft and sweet
 She's so fine, she can't be beat

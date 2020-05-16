@@ -1,8 +1,11 @@
 ---
+album: Ben E. King & The Drifters
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:5GMHlJfNB9pZ3WQHa91wfK
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-forget-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/howcaniforget.html
 name: How Can I Forget
@@ -23,8 +26,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 141013
 ---
-
 I want to know, know, know, know, know
 (How can I forget)
 I've got to know, know, know, know, know
@@ -72,6 +76,3 @@ I've got to know somebody help me forget my baby, baby, baby
 
 How can I forget, forget, forget
 (How can I forget)
-
-
-

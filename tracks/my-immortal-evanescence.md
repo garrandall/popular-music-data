@@ -1,8 +1,11 @@
 ---
+album: Fallen
 artists:
 - Evanescence
+external_ids:
+  spotify: spotify:track:4UzVcXufOhGUwF56HT7b8M
 features: []
-genres: []
+first_released_as_single: false
 key: my-immortal-evanescence
 lyrics_url: https://www.azlyrics.com/lyrics/evanescence/myimmortal.html
 name: My Immortal
@@ -135,8 +138,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2003
+runtime: 262533
 ---
-
 I'm so tired of being here
 Suppressed by all my childish fears
 And if you have to leave
@@ -176,6 +180,3 @@ When you'd scream I'd fight away all of your fears
 And I held your hand through all of these years
 But you still have all of me
 All of me... me... me...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Long Trip Alone
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:1CSMeA4Hx1BYNYdeIsK8GL
 features: []
-genres: []
+first_released_as_single: false
 key: long-trip-alone-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/longtripalone.html
 name: Long Trip Alone
@@ -55,8 +58,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2006
+runtime: 223200
 ---
-
 It's a long trip alone over sand and stone
 That lie along the road that we all must travel down
 
@@ -87,6 +91,3 @@ So maybe you could walk with me a while
 Maybe I could rest beneath your smile
 Maybe I could feel you right beside me 'til I'm home
 'Cause it's a long trip alone
-
-
-

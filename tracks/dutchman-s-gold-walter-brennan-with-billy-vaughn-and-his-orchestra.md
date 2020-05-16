@@ -1,7 +1,8 @@
 ---
 artists:
-- Walter Brennan With Billy Vaughn
-features: []
+- Walter Brennan
+features:
+- Billy Vaughn
 genres: []
 key: dutchman-s-gold-walter-brennan-with-billy-vaughn-and-his-orchestra
 name: Dutchman's Gold

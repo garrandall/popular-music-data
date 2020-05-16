@@ -1,8 +1,11 @@
 ---
+album: Born On A Pirate Ship (Enhanced)
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:5HjviQMuDBIvcyNXJtka23
 features: []
-genres: []
+first_released_as_single: false
 key: the-old-apartment-barenaked-ladies
 lyrics_url: https://genius.com/Barenaked-ladies-the-old-apartment-lyrics
 name: The Old Apartment
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1996
+runtime: 209960
 ---
 Broke into the old apartment
 This is where we used to live

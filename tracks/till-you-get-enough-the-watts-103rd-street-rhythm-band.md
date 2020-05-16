@@ -1,8 +1,11 @@
 ---
+album: In The Jungle, Babe/Express Yourself
 artists:
 - The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:6LsQBpsEDQAlfPIOadu3uY
 features: []
-genres: []
+first_released_as_single: false
 key: till-you-get-enough-the-watts-103rd-street-rhythm-band
 name: Till You Get Enough
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 308626
 ---
 

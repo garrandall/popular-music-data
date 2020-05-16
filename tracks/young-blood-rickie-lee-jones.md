@@ -1,8 +1,11 @@
 ---
+album: Rickie Lee Jones
 artists:
 - Rickie Lee Jones
+external_ids:
+  spotify: spotify:track:3synxNtmQmHKaFL8UXmLcA
 features: []
-genres: []
+first_released_as_single: false
 key: young-blood-rickie-lee-jones
 lyrics_url: https://genius.com/Rickie-lee-jones-young-blood-lyrics
 name: Young Blood
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 247840
 ---
 Take a walk around midnight in the city
 Young Blood is hiding there somewhere

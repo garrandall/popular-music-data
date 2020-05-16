@@ -1,8 +1,11 @@
 ---
+album: Wat U Mean (Aye, Aye, Aye)
 artists:
 - Dae Dae
+external_ids:
+  spotify: spotify:track:2giA8SJqnNtus31Q4YOzl7
 features: []
-genres: []
+first_released_as_single: true
 key: wat-u-mean--aye-aye-aye--dae-dae
 lyrics_url: https://www.azlyrics.com/lyrics/daedae/watumeanayeayeaye.html
 name: Wat U Mean (Aye Aye Aye)
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 181995
 ---
-
 Racks in me like a piÃ±ata
 Fuck you, blue Balenciagas
 Robin Jeans with the Foamposites
@@ -139,6 +143,3 @@ They dependin' on me, they dependin' on me
 If you don't believe in me
 I'm like fuck ya, I'm like fuck ya
 Fuck ya
-
-
-

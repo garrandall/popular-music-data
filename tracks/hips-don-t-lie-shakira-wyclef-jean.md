@@ -1,9 +1,12 @@
 ---
+album: Oral Fixation, Vol. 2
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V
 features:
 - Wyclef Jean
-genres: []
+first_released_as_single: false
 key: hips-don-t-lie-shakira-wyclef-jean
 lyrics_url: https://genius.com/Shakira-hips-dont-lie-lyrics
 name: Hips Don't Lie
@@ -132,6 +135,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
+release_year: 2005
+runtime: 218093
 ---
 Ladies up in here tonight
 No fighting (We got the refugees up in here)

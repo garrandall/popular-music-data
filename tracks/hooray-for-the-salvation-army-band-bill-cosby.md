@@ -1,8 +1,11 @@
 ---
+album: Bill Cosby Sings Hooray For The Salvation Army Band!
 artists:
 - Bill Cosby
+external_ids:
+  spotify: spotify:track:40pyP2adDdcFnOO74zo4XG
 features: []
-genres: []
+first_released_as_single: false
 key: hooray-for-the-salvation-army-band-bill-cosby
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Cosby/Hooray-for-the-Salvation-Army-Band
 name: Hooray For The Salvation Army Band
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 186973
 ---
 Here I am
 I'm having quite the fun

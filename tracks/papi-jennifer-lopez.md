@@ -1,8 +1,11 @@
 ---
+album: LOVE?
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:5yHk0TCVFH65aIY5stUUb3
 features: []
-genres: []
+first_released_as_single: false
 key: papi-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-i-luh-ya-papi-lyrics
 name: Papi
@@ -19,10 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 223493
 ---
-© Sony/ATV Music Publishing LLC, Warner/Chappell Music, Inc, BMG Rights Management / Noel Fisher / Brian Soko / Rasool Diaz / Andre Proctor
-
-
 I put it down for a brother like you
 Give it to you right in the car, that's you
 We can first give you some of this, that's you

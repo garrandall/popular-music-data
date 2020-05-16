@@ -1,9 +1,12 @@
 ---
+album: Avril Lavigne
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:2o0V0AATmWmCmMOAFWDuEV
 features:
 - Chad Kroeger
-genres: []
+first_released_as_single: false
 key: let-me-go-avril-lavigne-chad-kroeger
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/letmego.html
 name: Let Me Go
@@ -16,9 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 267973
 ---
-
-
 Love that once hung on the wall
 Used to mean something, but now it means nothing
 The echoes are gone in the hall
@@ -70,6 +73,3 @@ Don't let me go, don't let me go, don't let me go, don't let me go
 
 
 Won't let you go, don't let me go
-
-
-

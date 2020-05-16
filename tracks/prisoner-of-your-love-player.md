@@ -1,8 +1,11 @@
 ---
+album: Danger Zone
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:5SWCtbyzHsp4inwainuEen
 features: []
-genres: []
+first_released_as_single: false
 key: prisoner-of-your-love-player
 lyrics_url: https://www.azlyrics.com/lyrics/player/prisonerofyourlove.html
 name: Prisoner Of Your Love
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1978
+runtime: 385843
 ---
-
 Something's got a hold on me
 Something deep inside
 I know that I should try to run
@@ -86,6 +90,3 @@ Oh, let me be the only star of your fantasy
 It took me time to realize I'm where I wanna be
 Safe inside your paradise, leave the world behind
 I'm just a prisoner of your love
-
-
-

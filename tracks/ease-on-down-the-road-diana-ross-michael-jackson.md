@@ -1,9 +1,12 @@
 ---
+album: The Wiz
 artists:
 - Diana Ross
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0OIQxUqmzExTkME0S5dX0c
 features: []
-genres: []
+first_released_as_single: false
 key: ease-on-down-the-road-diana-ross-michael-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Jackson-feat-Diana-Ross/Ease-on-Down-the-Road
 name: Ease On Down The Road
@@ -44,6 +47,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
+release_year: 1978
+runtime: 234773
 ---
 Michael Jackson
 Miscellaneous

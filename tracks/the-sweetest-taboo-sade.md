@@ -1,8 +1,11 @@
 ---
+album: Promise
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:4KJzJxpqE5aR4zj8LiH652
 features: []
-genres: []
+first_released_as_single: false
 key: the-sweetest-taboo-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/thesweetesttaboo.html
 name: The Sweetest Taboo
@@ -95,8 +98,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 277373
 ---
-
 If I tell you
 If I tell you now
 Will you keep on
@@ -145,6 +149,3 @@ Every day is Christmas, and every night is new years eve
 Will you keep on loving me
 Will you keep on, will you keep on
 Bringing out the best in me
-
-
-

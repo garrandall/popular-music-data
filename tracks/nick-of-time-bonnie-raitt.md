@@ -1,8 +1,11 @@
 ---
+album: Nick Of Time
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:1gqk2dawfdLdn4XamF27cx
 features: []
-genres: []
+first_released_as_single: false
 key: nick-of-time-bonnie-raitt
 lyrics_url: https://genius.com/Bonnie-raitt-nick-of-time-lyrics
 name: Nick Of Time
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
+release_year: 1989
+runtime: 232866
 ---
 A friend of mine, she cries at night
 And she calls me on the phone

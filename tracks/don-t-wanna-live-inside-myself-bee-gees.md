@@ -1,8 +1,11 @@
 ---
+album: Trafalgar
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2EoSscEbxHXdroYeRCNSHW
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-live-inside-myself-bee-gees
 lyrics_url: https://genius.com/Bee-gees-dont-wanna-live-inside-myself-lyrics
 name: Don't Wanna Live Inside Myself
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 325173
 ---
 I am the searcher of my fortunes
 I've got my right hand on the wheel

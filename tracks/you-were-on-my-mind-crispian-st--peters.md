@@ -1,8 +1,11 @@
 ---
+album: Follow Me...
 artists:
 - Crispian St. Peters
+external_ids:
+  spotify: spotify:track:6jbpEvKfdY78BDPAr8vQ1i
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-on-my-mind-crispian-st--peters
 lyrics_url: https://genius.com/Crispian-st-peters-you-were-on-my-mind-lyrics
 name: You Were On My Mind
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1966
+runtime: 161352
 ---
 Well I woke up this morning
 You were on my mind

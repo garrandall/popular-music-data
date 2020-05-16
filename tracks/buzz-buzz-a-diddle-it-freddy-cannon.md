@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:046Ob1UgXlcBBlJLmhfIpw
 features: []
-genres: []
+first_released_as_single: false
 key: buzz-buzz-a-diddle-it-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-buzz-buzz-a-diddle-it-lyrics
 name: Buzz Buzz A-Diddle-It
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 147880
 ---
 Well, I was rollin' down the highway
 See my baby, Ruth

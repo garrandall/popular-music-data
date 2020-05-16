@@ -1,9 +1,12 @@
 ---
+album: Vive Le R&B!
 artists:
 - Zapp
 - Roger
+external_ids:
+  spotify: spotify:track:1gx8WJB0qTpA1nxKloIaQ6
 features: []
-genres: []
+first_released_as_single: false
 key: slow-and-easy-zapp-roger
 lyrics_url: https://genius.com/Zapp-slow-and-easy-lyrics
 name: Slow And Easy
@@ -88,6 +91,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
+release_year: 1993
+runtime: 311333
 ---
 Tonight I came home early
 'Cause I just couldn't wait to see you

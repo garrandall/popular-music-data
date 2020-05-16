@@ -1,8 +1,11 @@
 ---
+album: 13 Smash Hits
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:70wRitifPn1bC1FGjOrFwN
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-fall-in-love-again-tom-jones
 lyrics_url: https://genius.com/Tom-jones-ill-never-fall-in-love-again-annotated
 name: I'll Never Fall In Love Again
@@ -99,6 +102,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1967
+runtime: 257440
 ---
 I've been in love so many times
 Thought I knew the score

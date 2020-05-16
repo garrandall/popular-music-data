@@ -1,8 +1,11 @@
 ---
+album: Results May Vary
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:1MTQHCpraD4S8g5PAFKzoj
 features: []
-genres: []
+first_released_as_single: false
 key: behind-blue-eyes-limp-bizkit
 lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/behindblueeyes.html
 name: Behind Blue Eyes
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2003
+runtime: 269973
 ---
-
 No one knows what it's like
 To be the bad man
 To be the sad man
@@ -109,6 +113,3 @@ No one knows what it's like
 To be the bad man,
 To be the sad man
 Behind blue eyes.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tusk
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:6Uvp5PZYKjfMsVCWwrYKnI
 features: []
-genres: []
+first_released_as_single: false
 key: save-me-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/saveme.html
 name: Save Me
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1979
+runtime: 162293
 ---
-
 Hey you
 The one with the laughing eyes
 You, the one with the haunting stare
@@ -114,6 +118,3 @@ Save me
 Save me
 Save me
 Save me
-
-
-

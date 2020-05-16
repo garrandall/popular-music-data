@@ -1,8 +1,11 @@
 ---
+album: Seal
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:7pzWp50ZQXM44dfDbyMY9l
 features: []
-genres: []
+first_released_as_single: false
 key: prayer-for-the-dying-seal
 lyrics_url: https://genius.com/Seal-prayer-for-the-dying-lyrics
 name: Prayer For The Dying
@@ -87,6 +90,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
+release_year: 1994
+runtime: 330266
 ---
 Fearless people
 Careless needle

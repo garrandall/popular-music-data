@@ -1,8 +1,11 @@
 ---
+album: Superbs - Anthology
 artists:
 - The Superbs
+external_ids:
+  spotify: spotify:track:4WbDOELVQqZ6I65U4HaZnE
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-all-the-time-the-superbs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Superbs/Baby-Baby-All-the-Time
 name: Baby Baby All The Time
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 158586
 ---
 There are 8 million stories in the big city this is mine
 Baby oh baby

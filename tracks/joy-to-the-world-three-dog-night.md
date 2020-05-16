@@ -1,8 +1,11 @@
 ---
+album: Naturally
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:2ymeOsYijJz09LfKw3yM2x
 features: []
-genres: []
+first_released_as_single: false
 key: joy-to-the-world-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-joy-to-the-world-lyrics
 name: Joy To The World
@@ -75,6 +78,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1970
+runtime: 220573
 ---
 Jeremiah was a bullfrog
 Was a good friend of mine

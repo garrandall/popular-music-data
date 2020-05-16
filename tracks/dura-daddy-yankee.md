@@ -1,8 +1,11 @@
 ---
+album: Dura
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:6KuqAtoeVzxAYOaMveLNpH
 features: []
-genres: []
+first_released_as_single: true
 key: dura-daddy-yankee
 lyrics_url: https://www.musixmatch.com/lyrics/Daddy-Yankee/Dura
 name: Dura
@@ -91,6 +94,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 200480
 ---
 Me gusta mi reggae
 Tiritiritiririti-Daddy

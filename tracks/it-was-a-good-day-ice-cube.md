@@ -1,8 +1,11 @@
 ---
+album: The Predator
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:2qOm7ukLyHUXWyR4ZWLwxA
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-a-good-day-ice-cube
 lyrics_url: https://genius.com/Ice-cube-it-was-a-good-day-lyrics
 name: It Was A Good Day
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
+release_year: 1992
+runtime: 260000
 ---
 Break 'em
 Yeah

@@ -1,8 +1,11 @@
 ---
+album: Top Hits
 artists:
 - The Chantels
+external_ids:
+  spotify: spotify:track:2y5OtQnC1UREBEiVfGxbNp
 features: []
-genres: []
+first_released_as_single: false
 key: eternally-the-chantels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chantels/Eternally
 name: Eternally
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 165626
 ---
 You said you'd leave me never
 Never, ever, ever

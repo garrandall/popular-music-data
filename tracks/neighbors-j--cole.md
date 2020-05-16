@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:4eSn3WcTUYdM5dYnSf7v8K
 features: []
-genres: []
+first_released_as_single: false
 key: neighbors-j--cole
 lyrics_url: https://www.musixmatch.com/lyrics/J-Cole/Neighbors
 name: Neighbors
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 216520
 ---
 I guess the neighbors think I'm sellin' dope, sellin' dope
 Yeah the neighbors think I'm sellin' dope, sellin' dope

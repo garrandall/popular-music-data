@@ -1,8 +1,11 @@
 ---
+album: Modern Day Drifter
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:23wZ7ClwPgwBNkFvnTlMwk
 features: []
-genres: []
+first_released_as_single: false
 key: settle-for-a-slowdown-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/settleforaslowdown.html
 name: Settle For A Slowdown
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2005
+runtime: 223200
 ---
-
 I must look just like a fool here
 in the middle of the road
 standing there in your rearview
@@ -128,6 +132,3 @@ Im not asking you to turn back around
 I'd settle for a slowdown
 come on just slow down
 I'd settle for a slow down.
-
-
-

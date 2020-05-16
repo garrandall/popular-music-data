@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:7lAK3oHbfEnvUQWosrMMpR
 features: []
-genres: []
+first_released_as_single: false
 key: yosemite-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/yosemite.html
 name: Yosemite
@@ -79,9 +82,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 150043
 ---
-
-
 Ice on my neck, flawless baguettes
 Hop off a jet, barely get rest
 Cash through the month, I get a check
@@ -142,6 +145,3 @@ La Flame on a island, me and Cash, Gunna hopped on a Learjet
 Got Prada's, every color and I got CC's you ain't seen yet
 Said I'd kick the cup and now I'm asking, "where the codeine at"?
 30 pointers and up, Eliantte drippin', my whole team wet
-
-
-

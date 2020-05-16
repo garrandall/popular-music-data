@@ -1,9 +1,12 @@
 ---
+album: One On One
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:3UyeiyfRdZEGq0yLq1bhSr
 features: []
-genres: []
+first_released_as_single: false
 key: my-fair-share-seals-crofts
 lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/myfairshare.html
 name: My Fair Share
@@ -68,8 +71,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 164133
 ---
-
 Lost, lost as a child's first thought. I must have arms to hold me.
 Lost without lovin' care. I must have my fair share.
 Fair, fair is a changing word. Fair is an honored promise.
@@ -83,6 +87,3 @@ Justice if you're still there. I will have my fair share.
 Justice is a lady. Lay me down with justice in a long white gown.
 With a breath of love, we can share.
 Share, sleep with me if you dare. Celebrate my fair share.
-
-
-

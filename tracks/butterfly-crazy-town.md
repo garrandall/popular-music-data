@@ -1,8 +1,11 @@
 ---
+album: The Gift Of Game
 artists:
 - Crazy Town
+external_ids:
+  spotify: spotify:track:4BggEwLhGfrbrl7JBhC8EC
 features: []
-genres: []
+first_released_as_single: false
 key: butterfly-crazy-town
 lyrics_url: https://www.azlyrics.com/lyrics/crazytown/butterfly.html
 name: Butterfly
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 1999
+runtime: 216733
 ---
-
 Come my lady
 Come come my lady
 you're my butterfly
@@ -236,6 +240,3 @@ come and dance with me
 come and dance with me
 come and dance with me
 come and dance with me
-
-
-

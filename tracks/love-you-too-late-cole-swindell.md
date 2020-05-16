@@ -1,8 +1,11 @@
 ---
+album: All of It
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:52MNypbTWiwybwzhXvsPk5
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-too-late-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/loveyoutoolate.html
 name: Love You Too Late
@@ -63,8 +66,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2018
+runtime: 204720
 ---
-
 I wish this whisky
 Would make her miss me
 Like I wish she did, I wish she did
@@ -121,6 +125,3 @@ I love you too late
 I can't take back what
 I never said but
 If I could, damn I would
-
-
-

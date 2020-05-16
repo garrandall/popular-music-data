@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:4ZzXPeOfMXk0iKNQGdlzDq
 features: []
-genres: []
+first_released_as_single: false
 key: surf-city-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/surfcity.html
 name: Surf City
@@ -60,8 +63,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 163026
 ---
-
 Two girls for every boy
 
 I bought a '34 wagon and we call it a woodie
@@ -106,6 +110,3 @@ You know, we're going to Surf City, gonna have some fun, now
 
 Two girls for every
 Two girls for every boy
-
-
-

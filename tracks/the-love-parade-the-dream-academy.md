@@ -1,8 +1,11 @@
 ---
+album: The Dream Academy
 artists:
 - The Dream Academy
+external_ids:
+  spotify: spotify:track:4H7h0cOFdejWUfVXCQOPtJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-parade-the-dream-academy
 lyrics_url: https://www.azlyrics.com/lyrics/dreamacademy/theloveparade.html
 name: The Love Parade
@@ -51,8 +54,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 227333
 ---
-
 Look out of your window on any day
 From June to September the love parade's
 Out on the street where you live and you know
@@ -97,4 +101,3 @@ Body everybody everybody every when
 This is dedicated to the one I love
 This is dedicated to the one I love
 This is dedicated to the one I love
-

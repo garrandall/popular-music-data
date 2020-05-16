@@ -1,8 +1,11 @@
 ---
+album: Long Cold Winter
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:5QRs63VVKNaqUjg6XSSckM
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-know-what-you-got--till-it-s-gone--cinderella
 lyrics_url: https://genius.com/Cinderella-dont-know-what-you-got-lyrics
 name: Don't Know What You Got (Till It's Gone)
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1988
+runtime: 354640
 ---
 I canâ??t tell ya baby what went wrong
 I canâ??t make you feel what you felt so long ago

@@ -1,8 +1,11 @@
 ---
+album: Edwin Starr Hero Of Soul
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:1KrcU1Sy0PwIbU40txk5Zb
 features: []
-genres: []
+first_released_as_single: false
 key: stop-her-on-sight--sos--edwin-starr
 lyrics_url: https://genius.com/Edwin-starr-sos-stop-her-on-sight-lyrics
 name: Stop Her On Sight (SOS)
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 138866
 ---
 Hey, hey, hey
 I'm sending out an S.O.S

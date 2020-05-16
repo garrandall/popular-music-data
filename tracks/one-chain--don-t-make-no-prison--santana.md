@@ -1,8 +1,11 @@
 ---
+album: Inner Secrets
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:6D9ge4vvit6Z2EGV3l85Dm
 features: []
-genres: []
+first_released_as_single: false
 key: one-chain--don-t-make-no-prison--santana
 lyrics_url: https://www.musixmatch.com/lyrics/Santana/One-Chain-Don-t-Make-No-Prison
 name: One Chain (Don't Make No Prison)
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
+release_year: 1978
+runtime: 433373
 ---
 (D. Lambert/B. Potter)
 Just because in a moment of madness

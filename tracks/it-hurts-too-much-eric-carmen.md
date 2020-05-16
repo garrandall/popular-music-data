@@ -1,8 +1,11 @@
 ---
+album: Tonight You're Mine
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:5RMl3gsX792G1bRL7LSnio
 features: []
-genres: []
+first_released_as_single: false
 key: it-hurts-too-much-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/ithurtstoomuch.html
 name: It Hurts Too Much
@@ -15,8 +18,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 257720
 ---
-
 A lot of empty words that I've already heard
 Ain't gonna work tonight
 Don't wanna talk about it anymore
@@ -85,6 +89,3 @@ Listen when I tell you it hurts
 Oh, it hurts too much
 Oh mama it hurts
 Oh, you hurt me so much
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
 - Moneybagg Yo
+external_ids:
+  spotify: spotify:track:6A9wHAasMxed0firnDao1K
 features: []
-genres: []
+first_released_as_single: false
 key: no-sucker-lil-baby-moneybagg-yo
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/nosucker.html
 name: No Sucker
@@ -12,8 +15,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 188606
 ---
-
 (Tay Keith, fuck these niggas up)
 
 Uh-oh, the game in trouble
@@ -87,7 +91,7 @@ Did they just really give me 80K for thirty minutes? Yup
 And can't nobody tell me how to spend it, bitch
 Send it to the hood, let 'em flip it (In the trenches)
 She want me to love on her, no way
-Ain't JosÃ©, I don't do what the hoes say (Nope)
+Ain't José, I don't do what the hoes say (Nope)
 HD, Blu-Ray, clear shit (What that mean?)
 Diamonds on me look 4K (Ugh)
 Married to the money for better or worse
@@ -115,6 +119,3 @@ I done ran up a whole lot, yeah
 I don't want the twat, just top, yeah
 Goin' up a whole 'nother notch, yeah
 Can't be stuck in one slot, yeah
-
-
-

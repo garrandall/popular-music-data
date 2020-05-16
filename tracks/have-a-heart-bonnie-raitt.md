@@ -1,8 +1,11 @@
 ---
+album: Nick Of Time
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:5DXvq6kWCNefq4qTSVGGGC
 features: []
-genres: []
+first_released_as_single: false
 key: have-a-heart-bonnie-raitt
 lyrics_url: https://genius.com/Bonnie-raitt-have-a-heart-lyrics
 name: Have A Heart
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1989
+runtime: 289970
 ---
 Hey!
 Shut up

@@ -1,8 +1,11 @@
 ---
+album: Feel Like Makin' Love
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:7pxAXM0JdrkcOVfjicvUzU
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--that-glow-roberta-flack
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/feelinthatglow.html
 name: Feelin' That Glow
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 347306
 ---
-
 Somewhere deep in my body
 I feel the magical blow
 I'm in need of somebody
@@ -46,6 +50,3 @@ Feed your magical soul
 (She's starts to feel the glow)
 In a field with a shade yeah
 You can let your magic unfold
-
-
-

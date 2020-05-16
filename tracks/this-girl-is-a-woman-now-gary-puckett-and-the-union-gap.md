@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gary Puckett And The Union Gap
+external_ids:
+  spotify: spotify:track:2tr5FpklBfRPajrgS8rmHY
 features: []
-genres: []
+first_released_as_single: false
 key: this-girl-is-a-woman-now-gary-puckett-and-the-union-gap
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-this-girl-is-a-woman-now-lyrics
 name: This Girl Is A Woman Now
@@ -51,6 +54,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1968
+runtime: 189160
 ---
 This girl walked in dreams
 Playing in a world of her own

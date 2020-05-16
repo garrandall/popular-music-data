@@ -1,8 +1,11 @@
 ---
+album: Country Wine
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:3l9cvJuH8kNvAcreWGyJIG
 features: []
-genres: []
+first_released_as_single: false
 key: country-wine-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/countrywine.html
 name: Country Wine
@@ -31,8 +34,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1972
+runtime: 150466
 ---
-
 Once there was time
 Just drinking country wine
 We'd all sit up on the back porch
@@ -82,6 +86,3 @@ Bring it on back
 Won't you bring me some bring me some
 Bring me some
 Bring me some country wine
-
-
-

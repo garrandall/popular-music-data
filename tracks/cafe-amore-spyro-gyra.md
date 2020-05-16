@@ -1,8 +1,11 @@
 ---
+album: Carnaval
 artists:
 - Spyro Gyra
+external_ids:
+  spotify: spotify:track:4Xw0Pa2RVsc6NjOg4rgOw7
 features: []
-genres: []
+first_released_as_single: false
 key: cafe-amore-spyro-gyra
 name: Cafe Amore
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1980
+runtime: 305440
 ---
 

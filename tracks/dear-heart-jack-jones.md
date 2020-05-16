@@ -1,8 +1,11 @@
 ---
+album: Dear Heart
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:39QRqWAAcHZd12o3PBx8mY
 features: []
-genres: []
+first_released_as_single: false
 key: dear-heart-jack-jones
 lyrics_url: https://genius.com/Jack-jones-dear-heart-lyrics
 name: Dear Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 156480
 ---
 Dear heart wish you were here to warm this night
 My dear heart, seems like a year since you've been out of my sight

@@ -1,9 +1,12 @@
 ---
+album: STOKELEY
 artists:
 - Ski Mask The Slump God
+external_ids:
+  spotify: spotify:track:74lnM5V6ecvoTPV0fvptx9
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: false
 key: nuketown-ski-mask-the-slump-god-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/skimasktheslumpgod/nuketown.html
 name: Nuketown
@@ -32,9 +35,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 166400
 ---
-
-
 Round one, fight
 Yeah, yeah
 The Pharmacy
@@ -119,6 +122,3 @@ Yeah, water
 Uh, pipe me up, voot me up, fuck nigga
 Uh, uh, evil twin, ayy ayy, uh
 Ayy ayy, cutthroat
-
-
-

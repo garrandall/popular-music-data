@@ -1,8 +1,11 @@
 ---
+album: Nellyville
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:0q7z99dIbw37rabJtGBZt5
 features: []
-genres: []
+first_released_as_single: false
 key: work-it--reinvention--nelly
 lyrics_url: https://genius.com/Nelly-work-it-lyrics
 name: Work It (Reinvention)
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2002
+runtime: 262560
 ---
 Let's go oh
 

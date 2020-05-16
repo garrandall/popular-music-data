@@ -1,8 +1,11 @@
 ---
+album: High Mileage
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:5vxd49MupkHObFEhcpT1ii
 features: []
-genres: []
+first_released_as_single: false
 key: little-man-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/littleman.html
 name: Little Man
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-10-30'
+release_year: 1989
+runtime: 268333
 ---
-
 I remember walk'in round the court square sidewalk
 Lookin' in windows at things I couldn't want
 There's johnson's hardware and morgans jewelry
@@ -144,6 +148,3 @@ about the little man
 The little man
 Long live the little man
 God bless the little man
-
-
-

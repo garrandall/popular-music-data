@@ -1,8 +1,11 @@
 ---
+album: New Jersey
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:4urd42euwvihhC3j1G8Jt2
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-sin-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/livinginsin.html
 name: Living In Sin
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1988
+runtime: 279053
 ---
-
 I don't need no license
 To sign on no line
 And I don't need no preacher
@@ -145,6 +149,3 @@ I don't know where to begin
 I don't know where we fit in
 
 Living in sin
-
-
-

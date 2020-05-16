@@ -1,8 +1,11 @@
 ---
+album: Wolfgang Amadeus Phoenix
 artists:
 - Phoenix
+external_ids:
+  spotify: spotify:track:63YtoNh3MKcwnBvSIOwUGq
 features: []
-genres: []
+first_released_as_single: true
 key: 1901-phoenix
 lyrics_url: https://genius.com/Phoenix-1901-lyrics
 name: '1901'
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2009
+runtime: 193106
 ---
 Counting all different ideas drifting away
 Past and present, they don't matter, now the future's sorted out

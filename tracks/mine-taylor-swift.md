@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1g09DZjQ7yBommCT6POY2n
 features: []
-genres: []
+first_released_as_single: true
 key: mine-taylor-swift
 lyrics_url: https://www.musixmatch.com/lyrics/Taylor-Swift/Christmases-When-You-Were-Mine
 name: Mine
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2008
+runtime: 184253
 ---
 Please take down the mistletoe
 'Cause I don't wanna think about that right now

@@ -1,8 +1,11 @@
 ---
+album: '"Today"'
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:7vJtTE1k2wPaqRmzEJ84OK
 features: []
-genres: []
+first_released_as_single: false
 key: glad-she-s-a-woman-bobby-goldsboro
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Goldsboro/Glad-She-s-a-Woman
 name: Glad She's A Woman
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1969
+runtime: 171933
 ---
 As she sit by the window
 She's busy with work

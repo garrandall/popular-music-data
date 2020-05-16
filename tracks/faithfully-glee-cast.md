@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Journey To Regionals'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7Fn84f1WeWabP3aFXW5TA8
 features: []
-genres: []
+first_released_as_single: true
 key: faithfully-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/faithfully.html
 name: Faithfully
@@ -11,8 +14,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 273866
 ---
-
 Highway run
 into the midnight sun
 Wheels go round and round
@@ -51,6 +55,3 @@ I'm still yours
 I'm still yours
 I'm still yours
 Faithfully
-
-
-

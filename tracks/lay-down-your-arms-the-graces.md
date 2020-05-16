@@ -1,8 +1,11 @@
 ---
+album: Perfect View
 artists:
 - The Graces
+external_ids:
+  spotify: spotify:track:6AHvm8J1gpZlY3IkyreaFB
 features: []
-genres: []
+first_released_as_single: false
 key: lay-down-your-arms-the-graces
 lyrics_url: https://genius.com/The-graces-lay-down-your-arms-lyrics
 name: Lay Down Your Arms
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
+release_year: 1989
+runtime: 254733
 ---
 Your words are quick
 And they cut so deep

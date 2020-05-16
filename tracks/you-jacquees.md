@@ -1,8 +1,11 @@
 ---
+album: 4275 (Bonus Version)
 artists:
 - Jacquees
+external_ids:
+  spotify: spotify:track:1miMRdJlHykaX2gR5EPE0A
 features: []
-genres: []
+first_released_as_single: true
 key: you-jacquees
 lyrics_url: https://genius.com/Jacquees-you-lyrics
 name: You
@@ -55,6 +58,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2014
+runtime: 268852
 ---
 Stunna Music
 High life

@@ -1,8 +1,11 @@
 ---
+album: LONG.LIVE.A$AP (Deluxe Version)
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:60Mq4EumvcSXznNugo9Op3
 features: []
-genres: []
+first_released_as_single: false
 key: long-live-a-ap-a-ap-rocky
 lyrics_url: https://genius.com/A-ap-rocky-long-live-a-ap-lyrics
 name: Long Live A$AP
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2013
+runtime: 289586
 ---
 I thought I'd probably die in prison, expensive taste in women
 Ain't had no pot to piss in, now my kitchen full of dishes

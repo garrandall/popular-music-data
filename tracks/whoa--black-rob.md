@@ -1,8 +1,11 @@
 ---
+album: Life Story
 artists:
 - Black Rob
+external_ids:
+  spotify: spotify:track:71u5SjnkSQgzIt1UzHchbi
 features: []
-genres: []
+first_released_as_single: false
 key: whoa--black-rob
 lyrics_url: https://genius.com/Black-rob-whoa-lyrics
 name: Whoa!
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
+release_year: 2000
+runtime: 238840
 ---
 I'm getting ready to put y'all up on something, man
 Yo, when you see something ill, know what I mean?

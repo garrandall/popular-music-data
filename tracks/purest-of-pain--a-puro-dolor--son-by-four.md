@@ -1,8 +1,11 @@
 ---
+album: Son By 4
 artists:
 - Son By Four
+external_ids:
+  spotify: spotify:track:6RUa3ZwZYnJnNgZxtIYJR9
 features: []
-genres: []
+first_released_as_single: true
 key: purest-of-pain--a-puro-dolor--son-by-four
 lyrics_url: https://www.azlyrics.com/lyrics/sonbyfour/purestofpainapurodolorspanglish.html
 name: Purest Of Pain (A Puro Dolor)
@@ -111,8 +114,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
+release_year: 1999
+runtime: 247480
 ---
-
 I'm sorry I didn't mean to call you
 But I coudn't fight it
 I guess I was weak and couldn't even hide it
@@ -136,6 +140,3 @@ That it din't hurt me when you walked away
 But to tell you the truth I can't find my way
 And deep inside me I feel like I'm dying
 I have to see you it's all that I'm asking
-
-
-

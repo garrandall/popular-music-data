@@ -1,8 +1,11 @@
 ---
+album: Pieces Of Eight
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:2tRdlnrEb9OwGDUuRDJiXB
 features: []
-genres: []
+first_released_as_single: false
 key: sing-for-the-day-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/singfortheday.html
 name: Sing For The Day
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 301200
 ---
-
 Hannah you're with me in spirit wherever I go
 To the ends of the earth and all points between high and low
 Each night by the stage you appear as you are
@@ -75,6 +79,3 @@ Sing for the day sing for the moment
 Sing for the time of your life
 Come for an hour stay for a moment
 Stay for the rest of your life
-
-
-

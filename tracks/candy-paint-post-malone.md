@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:4wdZdkEugVVorAfzqRqC6N
 features: []
-genres: []
+first_released_as_single: false
 key: candy-paint-post-malone
 lyrics_url: https://genius.com/Post-malone-candy-paint-lyrics
 name: Candy Paint
@@ -91,6 +94,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2017
+runtime: 229053
 ---
 Yeah, yeah
 Mmm, ayy

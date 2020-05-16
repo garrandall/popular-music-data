@@ -1,8 +1,11 @@
 ---
+album: Soluna
 artists:
 - Soluna
+external_ids:
+  spotify: spotify:track:74FoFQHkUuGyjbmyLJ35fz
 features: []
-genres: []
+first_released_as_single: false
 key: for-all-time-soluna
 lyrics_url: https://www.azlyrics.com/lyrics/soluna/foralltime.html
 name: For All Time
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
+release_year: 2002
+runtime: 242973
 ---
-
 You've been the first in my life
 Who has ever made me feel this way
 And I will not deny
@@ -115,6 +119,3 @@ I hear you say
 You're the one that I need
 You're the one that I'll keep
 For all time
-
-
-

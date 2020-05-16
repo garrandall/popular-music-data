@@ -1,8 +1,11 @@
 ---
+album: Get Wet
 artists:
 - Krewella
+external_ids:
+  spotify: spotify:track:2SHnUyZq0zwmvRIl4WY77G
 features: []
-genres: []
+first_released_as_single: true
 key: alive-krewella
 lyrics_url: https://www.azlyrics.com/lyrics/krewella/alive.html
 name: Alive
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
+release_year: 2012
+runtime: 290760
 ---
-
 Let's make this fleeting moment last forever
 So, tell me what you're waiting for?
 I'm gonna keep it frozen here forever,
@@ -139,6 +143,3 @@ Feel alive, feel alive
 Feel alive, feel alive
 Feel alive, feel alive alive alive alive
 Alive! Feel alive!
-
-
-

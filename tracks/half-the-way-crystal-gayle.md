@@ -1,8 +1,11 @@
 ---
+album: 'Crystal Gayle: The Hits'
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:5e0Gw6wmo1MUDRNoQaIxdH
 features: []
-genres: []
+first_released_as_single: false
 key: half-the-way-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/halftheway.html
 name: Half The Way
@@ -71,8 +74,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 243826
 ---
-
 Half of your love
 Is just'not what I'm after.
 Part of your world is just'
@@ -143,6 +147,3 @@ Don't take me half the way!
 (Don't take me half the way!)
 Give me all your love!
 (Don't take me half the way!)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Victory Lap
 artists:
 - Nipsey Hussle
+external_ids:
+  spotify: spotify:track:6hkQ6OQ6nhe7QCckH91aGa
 features:
 - Stacy Barthe
-genres: []
+first_released_as_single: false
 key: victory-lap-nipsey-hussle-stacy-barthe
 lyrics_url: https://www.azlyrics.com/lyrics/nipseyhussle/victorylap.html
 name: Victory Lap
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2018
+runtime: 238333
 ---
-
-
 Whoa, oh-whoa, whoa, oh
 Like the beginning of "Mean Streets" (oh)
 Like the beginning of "Mean Streets"
@@ -113,6 +116,3 @@ Oh, we gotta make it
 Oh, oh
 We gotta make it, oh
 Victory lap
-
-
-

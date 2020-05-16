@@ -1,8 +1,11 @@
 ---
+album: Bells Of Love
 artists:
 - Ral Donner
+external_ids:
+  spotify: spotify:track:7f1PoYVRKM9beqmXkOZEtC
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-what-you-ve-got--until-you-lose-it--ral-donner
 lyrics_url: https://genius.com/Ral-donner-you-dont-know-what-youve-got-lyrics
 name: You Don't Know What You've Got (Until You Lose It)
@@ -55,6 +58,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 135693
 ---
 You Don't Know What You've Got (Until You Lose It)
 Ral Donner

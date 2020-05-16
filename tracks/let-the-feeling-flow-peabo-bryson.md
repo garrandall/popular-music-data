@@ -1,8 +1,11 @@
 ---
+album: I Am Love
 artists:
 - Peabo Bryson
+external_ids:
+  spotify: spotify:track:1SbxvdpRVxvDHrve9ddk12
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-feeling-flow-peabo-bryson
 lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/letthefeelingflow.html
 name: Let The Feeling Flow
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 280266
 ---
-
 Falling in love, it was easy at the start
 I thought I had it in my hands
 Something went wrong, somewhere we lost a part
@@ -104,6 +108,3 @@ Let the feeling flow
 It's a shining star that's here to guide you
 Every lover knows
 You've got to hold on to the feeling inside you
-
-
-

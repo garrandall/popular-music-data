@@ -1,8 +1,11 @@
 ---
+album: Them Changes
 artists:
 - Buddy Miles
+external_ids:
+  spotify: spotify:track:6zYQOQjcQlv5zIJ17q65LG
 features: []
-genres: []
+first_released_as_single: false
 key: down-by-the-river-buddy-miles
 lyrics_url: https://genius.com/Buddy-miles-down-by-the-river-lyrics
 name: Down By The River
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1970
+runtime: 380453
 ---
 Oh, oh...
 

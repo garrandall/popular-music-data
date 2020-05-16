@@ -1,8 +1,11 @@
 ---
+album: A Twist In My Story
 artists:
 - Secondhand Serenade
+external_ids:
+  spotify: spotify:track:7lWF2mVr1KKbVnaT2nSlPo
 features: []
-genres: []
+first_released_as_single: false
 key: fall-for-you-secondhand-serenade
 lyrics_url: https://www.azlyrics.com/lyrics/secondhandserenade/fallforyou.html
 name: Fall For You
@@ -127,8 +130,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 185600
 ---
-
 The best thing about tonight's that we're not fighting
 Could it be that we have been this way before
 I know you don't think that I am trying
@@ -180,6 +184,3 @@ I won't live to see another day
 I swear it's true
 Because a girl like you is impossible to find
 You're impossible to find
-
-
-

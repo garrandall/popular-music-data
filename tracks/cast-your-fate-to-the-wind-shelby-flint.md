@@ -1,8 +1,11 @@
 ---
+album: Cast Your Fate To The Wind
 artists:
 - Shelby Flint
+external_ids:
+  spotify: spotify:track:2b9e6tO9HYGTg0WaHw3X3p
 features: []
-genres: []
+first_released_as_single: false
 key: cast-your-fate-to-the-wind-shelby-flint
 name: Cast Your Fate To The Wind
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 125200
 ---
 

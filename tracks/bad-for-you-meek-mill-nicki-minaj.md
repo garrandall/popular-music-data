@@ -1,9 +1,12 @@
 ---
+album: Dreams Worth More Than Money
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0HVba4HUwHnGlkHNitXMEL
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: bad-for-you-meek-mill-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/badforyou.html
 name: Bad For You
@@ -16,9 +19,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
+release_year: 2015
+runtime: 203573
 ---
-
-
 You bring out feelings in me I never show
 Nobody has made me feel this way before
 I'm a good girl, but I wanna be bad for you
@@ -91,6 +94,3 @@ I wanna be bad for you
 I wanna be bad-ad-ad
 I wanna be bad for you
 I wanna be bad
-
-
-

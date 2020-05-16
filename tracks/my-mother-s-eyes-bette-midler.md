@@ -1,8 +1,11 @@
 ---
+album: Divine Madness
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:3E5eqXNJep3Oi3hsFluIZn
 features: []
-genres: []
+first_released_as_single: false
 key: my-mother-s-eyes-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/mymotherseyes.html
 name: My Mother's Eyes
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1980
+runtime: 147680
 ---
-
 "I think I'll sing you a little ballad. 
 It's a new one. I just learnt it. 
 Oh, I hope you like it."
@@ -92,6 +96,3 @@ If I ain't here by winter, she'll know why.
 I've seen all that I dare.
 I've seen more than my share.
 Forgive me if I stare with my mother's eyes.
-
-
-

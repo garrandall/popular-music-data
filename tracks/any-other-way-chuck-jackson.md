@@ -1,8 +1,11 @@
 ---
+album: Dedicated to the King
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:4mo62uR6qj3LBIvJ2liE4g
 features: []
-genres: []
+first_released_as_single: false
 key: any-other-way-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-any-other-way-lyrics
 name: Any Other Way
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
+release_year: 1963
+runtime: 146266
 ---
 I'm free
 

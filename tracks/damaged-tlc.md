@@ -1,8 +1,11 @@
 ---
+album: 3D
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:4pKIh0OVXamva9kZA3feF1
 features: []
-genres: []
+first_released_as_single: false
 key: damaged-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/damaged.html
 name: Damaged
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 231373
 ---
-
 I know I'm kinda strange, to you sometimes
 Don't always say, what's on my mind
 You know that I've been hurt, by some guy
@@ -103,6 +107,3 @@ I've been damaged
 I'm falling in love
 There's one disadvantage
 I think you should know that I've been damaged
-
-
-

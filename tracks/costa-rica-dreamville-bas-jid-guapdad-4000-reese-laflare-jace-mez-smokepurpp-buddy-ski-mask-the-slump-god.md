@@ -1,6 +1,9 @@
 ---
+album: Revenge Of The Dreamers III
 artists:
 - Dreamville
+external_ids:
+  spotify: spotify:track:5CTjX55yZHnoKAAKPsaKTG
 features:
 - Bas
 - JID
@@ -11,7 +14,7 @@ features:
 - Smokepurpp
 - Buddy
 - Ski Mask The Slump God
-genres: []
+first_released_as_single: true
 key: costa-rica-dreamville-bas-jid-guapdad-4000-reese-laflare-jace-mez-smokepurpp-buddy-ski-mask-the-slump-god
 lyrics_url: https://genius.com/Dreamville-bas-and-jid-costa-rica-lyrics
 name: Costa Rica
@@ -20,6 +23,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2019
+runtime: 217866
 ---
 (Pyrex Whippa)
 (Pyrex)

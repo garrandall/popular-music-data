@@ -1,8 +1,11 @@
 ---
+album: TROLLS (Original Motion Picture Soundtrack)
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:0j12Gr44QXICpHG970RbR7
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-the-feeling--justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-cant-stop-the-feeling-lyrics
 name: Can't Stop The Feeling!
@@ -215,6 +218,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2016
+runtime: 233946
 ---
 I got this feeling inside my bones
 It goes electric, wavey when I turn it on

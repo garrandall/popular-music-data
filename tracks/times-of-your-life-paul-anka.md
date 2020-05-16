@@ -1,8 +1,11 @@
 ---
+album: Feelings
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:3AdX0KdVoMBqe82b19rWAU
 features: []
-genres: []
+first_released_as_single: false
 key: times-of-your-life-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/timesofyourlife.html
 name: Times Of Your Life
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1975
+runtime: 195760
 ---
-
 Good morning, yesterday
 You wake up and time has slipped away
 And suddenly it's hard to find
@@ -125,6 +129,3 @@ Do you remember, baby
 Do you remember the times of your life
 Do you remember, baby
 Do you remember the times of your life
-
-
-

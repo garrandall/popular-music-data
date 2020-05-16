@@ -1,8 +1,11 @@
 ---
+album: An Introduction to the Moody Blues
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:5dNPzodZHB1QyXOHIBLUYt
 features: []
-genres: []
+first_released_as_single: false
 key: stop--the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-stop-lyrics
 name: Stop!
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1960
+runtime: 124960
 ---
 So you talked to my girl
 When I don't want you to

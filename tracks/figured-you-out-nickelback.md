@@ -1,8 +1,11 @@
 ---
+album: The Long Road
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:1Yuim9eHBfG8YUJII28XDF
 features: []
-genres: []
+first_released_as_single: false
 key: figured-you-out-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/figuredyouout.html
 name: Figured You Out
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
+release_year: 2003
+runtime: 228480
 ---
-
 I like your pants around your feet
 And I like the dirt that's on your knees
 And I like the way you still say please
@@ -145,6 +149,3 @@ It wasn't that hard, just to figure you out
 (Now I did, you wonder why)
 (Why not before, you never tried)
 (Gone for good, and this is it)
-
-
-

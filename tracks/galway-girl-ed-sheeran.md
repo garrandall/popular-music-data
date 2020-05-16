@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:0afhq8XCExXpqazXczTSve
 features: []
-genres: []
+first_released_as_single: false
 key: galway-girl-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/galwaygirl.html
 name: Galway Girl
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
+release_year: 2017
+runtime: 170826
 ---
-
 She played the fiddle in an Irish band
 But she fell in love with an English man
 Kissed her on the neck and then I took her by the hand
@@ -90,6 +94,3 @@ My pretty little Galway girl
 My my my my my my my Galway girl
 My my my my my my my Galway girl
 My my my my my my my Galway girl
-
-
-

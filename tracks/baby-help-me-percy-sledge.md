@@ -1,8 +1,11 @@
 ---
+album: Take Time To Know Her
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:0YIWA6pPNJogsLBbTEAfKh
 features: []
-genres: []
+first_released_as_single: false
 key: baby-help-me-percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/babyhelpme.html
 name: Baby Help Me
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 153000
 ---
-
 Now that you're here
 But you can't find another love
 That's true and fine, oh yeah
@@ -66,6 +70,3 @@ Alright, alright
 
 Baby, help me baby, alright
 Baby, help me baby, alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Terry McDermott
+external_ids:
+  spotify: spotify:track:2fWICX9qjREvP8caDxrJMz
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-terry-mcdermott
 lyrics_url: https://www.musixmatch.com/lyrics/Terry-McDermott/Let-It-Be-The-Voice-Performance
 name: Let It Be
@@ -11,6 +14,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-12-29'
+release_year: 2012
+runtime: 234520
 ---
 When I find myself in times of trouble, Mother Mary comes to me
 Speaking words of wisdom, let it be

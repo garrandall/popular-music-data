@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6ftsePDlSW8SYzjxAGM1ob
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-the-beat-glee-cast
 lyrics_url: https://genius.com/Glee-cast-we-got-the-beat-lyrics
 name: We Got The Beat
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 152186
 ---
 Rachel
 See the people walkin' down the street

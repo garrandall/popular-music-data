@@ -1,9 +1,12 @@
 ---
+album: Baptism
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:6NMPiYoUmWBfcHY06CvNqB
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: storm-lenny-kravitz-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/storm.html
 name: Storm
@@ -12,9 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2004
+runtime: 238013
 ---
-
-
 My life has taken me beyond the planets and the stars
 And you're the only one that could take me this far
 I'll be forever searching for your love
@@ -77,6 +80,3 @@ I walked away but I was wrong (I walked away but I was wrong)
 You're the one that keeps me strong (You're the one that keeps me strong)
 You're the fire that keeps me warm (Keeps me warm)
 How will I get through this storm? (Oh yeah yeah yeah)
-
-
-

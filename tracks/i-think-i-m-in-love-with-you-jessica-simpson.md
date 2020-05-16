@@ -1,8 +1,11 @@
 ---
+album: Sweet Kisses
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:0rlMgWZOJaCjMjWCz7rCfE
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-i-m-in-love-with-you-jessica-simpson
 lyrics_url: https://genius.com/Jessica-simpson-i-think-im-in-love-with-you-lyrics
 name: I Think I'm In Love With You
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 1999
+runtime: 197986
 ---
 Yeah, yeah, yeah
 Oh-oh

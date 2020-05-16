@@ -1,8 +1,11 @@
 ---
+album: Keep It Comin'
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:5DcIkTnThkzh1fTnF6juFx
 features: []
-genres: []
+first_released_as_single: false
 key: keep-it-comin--keith-sweat
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/keepitcomin.html
 name: Keep It Comin'
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
+release_year: 1991
+runtime: 246373
 ---
-
 Kick it one time!
 
 
@@ -129,4 +133,3 @@ Feel my body, give me the love that I need
 
 All you do is let your pretty hair down girl
 Baby, you're right next to me
-

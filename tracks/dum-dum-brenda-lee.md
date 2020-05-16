@@ -1,8 +1,11 @@
 ---
+album: All The Way
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:2amlWbDFBNfQyoHy7mIMnZ
 features: []
-genres: []
+first_released_as_single: false
 key: dum-dum-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/dumdum.html
 name: Dum Dum
@@ -55,8 +58,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 146173
 ---
-
 A dum dum a deedely dum uh huh huh a dum dum a deedely dum oh yeah
 A dum dum a deedely dum
 A music's sweet the lights are low playin' a song on the radio
@@ -72,6 +76,3 @@ Ah I want you with me all of the time tell me you love me and you'll be mine
 There's so many things that we could do
 So say the words and make my dreams come true
 A singing dum dum
-
-
-

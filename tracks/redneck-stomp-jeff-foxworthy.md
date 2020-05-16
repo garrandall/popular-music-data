@@ -1,8 +1,11 @@
 ---
+album: Greatest Bits
 artists:
 - Jeff Foxworthy
+external_ids:
+  spotify: spotify:track:5IoT4k9euck5Odi3QJdvak
 features: []
-genres: []
+first_released_as_single: false
 key: redneck-stomp-jeff-foxworthy
 lyrics_url: https://genius.com/Jeff-foxworthy-redneck-stomp-lyrics
 name: Redneck Stomp
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1993
+runtime: 177933
 ---
 If you've ever been on television more than 5 times
 Describing what the tornadoes sounded like...

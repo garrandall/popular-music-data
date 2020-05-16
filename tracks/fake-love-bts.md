@@ -1,8 +1,11 @@
 ---
+album: "Love Yourself \u8F49 'Tear'"
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:3aW0ds4A4tSQDIp75FqWTo
 features: []
-genres: []
+first_released_as_single: false
 key: fake-love-bts
 lyrics_url: https://genius.com/Bts-fake-love-lyrics
 name: Fake Love
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 242333
 ---
 널 위해서라면 난
 슬퍼도 기쁜 척 할 수가 있었어

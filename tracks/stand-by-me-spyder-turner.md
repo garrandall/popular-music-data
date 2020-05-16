@@ -1,8 +1,11 @@
 ---
+album: SPYDER TURNER
 artists:
 - Spyder Turner
+external_ids:
+  spotify: spotify:track:6QeBPf8oEpIU55p1LqiUJv
 features: []
-genres: []
+first_released_as_single: true
 key: stand-by-me-spyder-turner
 lyrics_url: https://genius.com/Spyder-turner-stand-by-me-lyrics
 name: Stand By Me
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 284893
 ---
 When the night has come, oh yeah
 And the land is dark

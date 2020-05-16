@@ -1,8 +1,11 @@
 ---
+album: Living Out Loud
 artists:
 - Aaron Lines
+external_ids:
+  spotify: spotify:track:0RZcHTeLsymGyBd3hDarCm
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-hide-beautiful-aaron-lines
 lyrics_url: https://genius.com/Aaron-lines-you-cant-hide-beautiful-lyrics
 name: You Can't Hide Beautiful
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 230800
 ---
 She says don't stare at me
 She's afraid that I might see

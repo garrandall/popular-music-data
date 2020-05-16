@@ -1,8 +1,11 @@
 ---
+album: The Black Album
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:1xE7osYAtzz1PvLoVdOp5E
 features: []
-genres: []
+first_released_as_single: false
 key: change-clothes-jay-z
 lyrics_url: https://genius.com/Jay-z-change-clothes-lyrics
 name: Change Clothes
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2003
+runtime: 258426
 ---
 Wooo! Uh, uh, bounce is back
 Uhh, uh-uh uh uh, geyeah, uh, your boy is back

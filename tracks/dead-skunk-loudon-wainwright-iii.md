@@ -1,8 +1,11 @@
 ---
+album: Album III
 artists:
 - Loudon Wainwright III
+external_ids:
+  spotify: spotify:track:3NWpG50DNlO8IiVdx6Ig3w
 features: []
-genres: []
+first_released_as_single: false
 key: dead-skunk-loudon-wainwright-iii
 lyrics_url: https://genius.com/Loudon-wainwright-iii-dead-skunk-lyrics
 name: Dead Skunk
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1972
+runtime: 185733
 ---
 Crossing the highway late last night
 He shoulda looked left and he shoulda looked right

@@ -1,8 +1,11 @@
 ---
+album: Brothers
 artists:
 - The Black Keys
+external_ids:
+  spotify: spotify:track:2MVwrvjmcdt4MsYYLCYMt8
 features: []
-genres: []
+first_released_as_single: false
 key: tighten-up-the-black-keys
 lyrics_url: https://genius.com/The-black-keys-tighten-up-lyrics
 name: Tighten Up
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-02-05'
+release_year: 2010
+runtime: 211080
 ---
 I wanted love, I needed love
 Most of all, most of all

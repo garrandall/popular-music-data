@@ -1,8 +1,11 @@
 ---
+album: 12 Play
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:0DBIL8arX0Zo6eAuxNIpik
 features: []
-genres: []
+first_released_as_single: false
 key: bump-n--grind-r--kelly
 lyrics_url: https://www.musixmatch.com/lyrics/R-Kelly/Bump-n-grind
 name: Bump N' Grind
@@ -107,6 +110,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1993
+runtime: 256133
 ---
 My mind's telling me no
 But my body, my body's telling me yes

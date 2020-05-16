@@ -1,9 +1,12 @@
 ---
+album: Goodbye To You! Best Of The '80s Live
 artists:
 - Scandal
+external_ids:
+  spotify: spotify:track:1X8reSTwcDVo2ApjwK1INo
 features:
 - Patty Smyth
-genres: []
+first_released_as_single: false
 key: love-s-got-a-line-on-you-scandal-patty-smyth
 lyrics_url: https://www.musixmatch.com/lyrics/Patty-Smyth-feat-Scandal/Love-s-Got-a-Line-On-You
 name: Love's Got A Line On You
@@ -60,6 +63,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1983
+runtime: 210720
 ---
 Now there's a place I go with a boy I know
 We're together, gettin' better all the time

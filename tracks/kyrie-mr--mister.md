@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Real World
 artists:
 - Mr. Mister
+external_ids:
+  spotify: spotify:track:5K3Q1gue9nWLLwh6bYQFoB
 features: []
-genres: []
+first_released_as_single: false
 key: kyrie-mr--mister
 lyrics_url: https://www.azlyrics.com/lyrics/mrmister/kyrie.html
 name: Kyrie
@@ -87,10 +90,11 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 265840
 ---
-
-KÃ½rie, elÃ©ison
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
+KÃ½rie, eléison
 KÃ½rie
 
 The wind blows hard against this mountainside
@@ -103,14 +107,14 @@ My body burns a gem-like flame
 Somewhere between the soul and soft machine
 Is where I find myself again
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow?
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 On a highway in the light
 
 When I was young, I thought of growing old
@@ -118,14 +122,14 @@ Of what my life would mean to me
 Would I have followed down my chosen road
 Or only wished what I could be
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow?
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 On a highway in the light
 
 Whoa, oh, oh
@@ -133,43 +137,40 @@ Whoa, oh, oh
 Whoa, oh, oh
 Whoa, oh, oh
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow?
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 On a highway in the light
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel (will you follow?)
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow? (will you follow)
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 On a highway in the light
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel (yeah)
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow? (will you follow?)
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 On a highway in the light
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Down the road that I must travel (will you follow?)
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Through the darkness of the night
 
-KÃ½rie, elÃ©ison
+KÃ½rie, eléison
 Where I'm going, will you follow? (will you follow)
-
-
-

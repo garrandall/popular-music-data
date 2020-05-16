@@ -1,8 +1,11 @@
 ---
+album: FOUR
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:3QEdkjBmbgwTnfvuZL9U97
 features: []
-genres: []
+first_released_as_single: true
 key: steal-my-girl-one-direction
 lyrics_url: https://genius.com/One-direction-steal-my-girl-lyrics
 name: Steal My Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 227120
 ---
 She's been my queen since we were sixteen
 We want the same things, we dream the same dreams, alright, alright

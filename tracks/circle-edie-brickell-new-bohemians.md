@@ -1,9 +1,12 @@
 ---
+album: Shooting Rubberbands At The Stars
 artists:
 - Edie Brickell
 - New Bohemians
+external_ids:
+  spotify: spotify:track:3ykCBUy37D9J4jHhQid7l1
 features: []
-genres: []
+first_released_as_single: false
 key: circle-edie-brickell-new-bohemians
 lyrics_url: https://www.azlyrics.com/lyrics/ediebrickellnewbohemians/circle.html
 name: Circle
@@ -48,8 +51,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1988
+runtime: 190906
 ---
-
 Me
 I'm a part of your circle of friends
 And we
@@ -108,6 +112,3 @@ And we
 Notice you don't come around
 
 La la la la, la la la la la
-
-
-

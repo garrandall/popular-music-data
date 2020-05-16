@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:5YEAvnL3klXUE7etBXvMlp
 features: []
-genres: []
+first_released_as_single: false
 key: rip-lil-phat-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-rip-lil-phat-lyrics
 name: RIP Lil Phat
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 146802
 ---
 RIP Lil Phat (Lil Treble made the beat, he only had to play it once)
 Oh that bitch turnt up, what you on? What you on?

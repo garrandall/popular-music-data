@@ -1,8 +1,11 @@
 ---
+album: The Complete Columbia Singles
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:5o9bBZNABkVHFUu9xDIDJm
 features: []
-genres: []
+first_released_as_single: false
 key: problem-child-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-problem-child-lyrics
 name: Problem Child
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1971
+runtime: 155226
 ---
 You know you're acting like a fool girl
 Those city boys are gonna send you to school girl

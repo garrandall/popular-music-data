@@ -1,8 +1,11 @@
 ---
+album: Never To Be Forgotten - The Mustang Years
 artists:
 - Bobby Fuller Four
+external_ids:
+  spotify: spotify:track:6Um3XCAxl9YfFmAnGl93xc
 features: []
-genres: []
+first_released_as_single: false
 key: i-fought-the-law-bobby-fuller-four
 lyrics_url: https://genius.com/Bobby-fuller-four-i-fought-the-law-lyrics
 name: I Fought The Law
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 138360
 ---
 I'm breakin' rocks in the hot sun
 I fought the law and the law won

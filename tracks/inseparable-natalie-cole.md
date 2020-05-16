@@ -1,8 +1,11 @@
 ---
+album: Inseparable
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:0lN3CCQxTSg8hxFHKhuL0B
 features: []
-genres: []
+first_released_as_single: false
 key: inseparable-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/inseparable.html
 name: Inseparable
@@ -75,8 +78,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 146466
 ---
-
 Inseparable
 That's how we'll always be
 Inseparable
@@ -104,6 +108,3 @@ Inseparable
 For the rest of our years
 It's so wonderful
 To know you'll always be around
-
-
-

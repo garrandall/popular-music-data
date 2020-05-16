@@ -1,8 +1,11 @@
 ---
+album: Goodbye Baby
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:1wVIsX3C7IwVvsJGKuDEly
 features: []
-genres: []
+first_released_as_single: false
 key: what-in-the-world-s-come-over-you-jack-scott
 lyrics_url: https://genius.com/Jack-scott-what-in-the-worlds-come-over-you-lyrics
 name: What In The World's Come Over You
@@ -71,6 +74,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 165333
 ---
 What in the world's come over you?
 Seems we never get along

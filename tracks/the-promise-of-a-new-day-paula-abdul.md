@@ -1,8 +1,11 @@
 ---
+album: Spellbound
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:5m8xVZhlM7E2mL9uuxZpF6
 features: []
-genres: []
+first_released_as_single: false
 key: the-promise-of-a-new-day-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/thepromiseofanewday.html
 name: The Promise Of A New Day
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 272893
 ---
-
 EAGLE'S CALLING AND HE'S CALLING YOUR NAME
 TIDES ARE TURNING BRINGING WINDS OF CHANGE
 WHY DO I FEEL THIS WAY
@@ -109,4 +113,3 @@ WHAT WILL CHANGE THE WORLD
 NO ONE KNOWS
 SO THE ONLY PROMISE IS A DAY TO LIVE, TO GIVE
 AND TO SHARE WITH ONE ANOTHER
-

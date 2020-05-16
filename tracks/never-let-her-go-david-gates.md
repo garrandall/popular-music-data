@@ -1,8 +1,11 @@
 ---
+album: Never Let Her Go
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:2jHa1UWWuouaoFqE8I7W77
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-her-go-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/neverlethergo.html
 name: Never Let Her Go
@@ -47,8 +50,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1975
+runtime: 188813
 ---
-
 Everybody needs a someone
 waitin' to be there when things are a-lookin' down
 So if you feel a little lonely
@@ -75,6 +79,3 @@ And never let her go
 Never let her go
 Never let her go
 Never let her go
-
-
-

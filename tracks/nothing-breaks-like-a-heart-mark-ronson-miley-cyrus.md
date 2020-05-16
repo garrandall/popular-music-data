@@ -1,9 +1,12 @@
 ---
+album: Late Night Feelings
 artists:
 - Mark Ronson
+external_ids:
+  spotify: spotify:track:27rdGxbavYJeBphck5MZAF
 features:
 - Miley Cyrus
-genres: []
+first_released_as_single: true
 key: nothing-breaks-like-a-heart-mark-ronson-miley-cyrus
 lyrics_url: https://genius.com/Mark-ronson-nothing-breaks-like-a-heart-lyrics
 name: Nothing Breaks Like A Heart
@@ -60,6 +63,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 217466
 ---
 This world can hurt you
 It cuts you deep and leaves a scar

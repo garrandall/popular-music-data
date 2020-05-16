@@ -1,8 +1,11 @@
 ---
+album: Tammy's Touch
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:69grdm8lNlTx6u2ZlAV1Av
 features: []
-genres: []
+first_released_as_single: false
 key: run-woman-run-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/runwomanrun.html
 name: Run Woman Run
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1967
+runtime: 145866
 ---
-
 Today's the day you're tellin' him that he's got to set you free
 And that bein' one man's woman brings you down
 But before you throw away what you think you don't want today
@@ -37,6 +41,3 @@ Go back to him and fix things up the very best you can
 Tell him you missed him while you were gone
 Run woman, run back to your man
 Run woman, run back to your man
-
-
-

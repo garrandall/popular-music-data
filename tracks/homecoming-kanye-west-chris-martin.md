@@ -1,9 +1,12 @@
 ---
+album: Graduation
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2ovQ5MCx91XVjgVWEPfvks
 features:
 - Chris Martin
-genres: []
+first_released_as_single: false
 key: homecoming-kanye-west-chris-martin
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/homecoming.html
 name: Homecoming
@@ -36,9 +39,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2007
+runtime: 203493
 ---
-
-
 And you say Chi city, Chi city, Chi city
 
 
@@ -114,6 +117,3 @@ Maybe we can start again
 Coming home again
 Coming home again
 Maybe we can start again
-
-
-

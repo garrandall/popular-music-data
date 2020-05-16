@@ -1,8 +1,11 @@
 ---
+album: Eliminator
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:0OBwxFLu6Yj61s2OagYbgY
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-all-your-lovin-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/gimmeallyourlovin.html
 name: Gimme All Your Lovin
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1983
+runtime: 241080
 ---
-
 I got to have a shot of what you got is oh so sweet.
 You got to make it hot, like a boomerang I need a repeat,
 
@@ -74,6 +78,3 @@ You got to pack it up, work it like a new boy should.
 
 Gimme all your lovin', all your hugs and kisses too.
 Gimme all your lovin', don't let up until we're through.
-
-
-

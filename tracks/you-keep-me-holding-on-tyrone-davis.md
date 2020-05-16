@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:0iry1F1h0bSoApoww5pjce
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-holding-on-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-you-keep-me-holding-on-lyrics
 name: You Keep Me Holding On
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 205373
 ---
 Mmm baby, when my way was dark and weary
 Into my life you came

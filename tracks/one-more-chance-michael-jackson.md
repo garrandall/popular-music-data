@@ -1,8 +1,11 @@
 ---
+album: Number Ones
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:7uyivkbdc8iH8wyBGBhlXV
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-chance-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-one-more-chance-lyrics
 name: One More Chance
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-01-03'
+release_year: 2003
+runtime: 229000
 ---
 Uh huh, alright...
 This time going to do my best to make it right

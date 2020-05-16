@@ -1,8 +1,11 @@
 ---
+album: Love Soul, Vol. 2
 artists:
 - Tony Terry
+external_ids:
+  spotify: spotify:track:6Fp16DPgj9bM3EGJpVQF9O
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-fly-tony-terry
 lyrics_url: https://genius.com/Tony-terry-shes-fly-lyrics
 name: She's Fly
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 362293
 ---
 She's fly and fresh
 She's fly and fresh

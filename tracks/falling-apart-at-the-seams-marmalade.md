@@ -1,8 +1,11 @@
 ---
+album: Reflections of My Life
 artists:
 - Marmalade
+external_ids:
+  spotify: spotify:track:1e6jpn0NUUc8BY2oPldtAe
 features: []
-genres: []
+first_released_as_single: false
 key: falling-apart-at-the-seams-marmalade
 lyrics_url: https://www.azlyrics.com/lyrics/marmalade/fallingapartattheseams.html
 name: Falling Apart At The Seams
@@ -43,8 +46,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 187226
 ---
-
 Until you came, it felt like my world
 Was fallin' apart at the seams
 All of my childhood dreams were empty and meaningless
@@ -84,6 +88,3 @@ All of my childhood dreams were empty and meaningless
 Until we kissed it seemed like the rain
 Was turnin' my hopes into sand
 Ah, I was a yesterday man until I found you
-
-
-

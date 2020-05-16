@@ -1,8 +1,11 @@
 ---
+album: The Voice
 artists:
 - Mike Jones
+external_ids:
+  spotify: spotify:track:7xVwhsuZTUWhIyFeDH6rYr
 features: []
-genres: []
+first_released_as_single: false
 key: next-to-you-mike-jones
 lyrics_url: https://genius.com/Mike-jones-next-to-you-lyrics
 name: Next To You
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2009
+runtime: 221933
 ---
 (J-J-J-J-J.R.)
 Girl I gotta be next to you

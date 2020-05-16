@@ -1,8 +1,11 @@
 ---
+album: All The Good Times
 artists:
 - Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:14zVtZkZKHh5bDxUlivVRr
 features: []
-genres: []
+first_released_as_single: false
 key: jambalaya--on-the-bayou--nitty-gritty-dirt-band
 lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-jambalaya-on-the-bayou-lyrics
 name: Jambalaya (On The Bayou)
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1971
+runtime: 206706
 ---
 Goodbye Joe, me gotta go down the Bayou
 Me gotta go, pool the pirogue down the Bayou

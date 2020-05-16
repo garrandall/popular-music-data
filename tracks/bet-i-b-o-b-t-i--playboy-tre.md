@@ -1,10 +1,13 @@
 ---
+album: 'B.o.B Presents: The Adventures of Bobby Ray'
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:2ZMDfZ2VB5J1SVKEBP9ryH
 features:
 - T.I.
 - Playboy Tre
-genres: []
+first_released_as_single: false
 key: bet-i-b-o-b-t-i--playboy-tre
 lyrics_url: https://www.azlyrics.com/lyrics/bob/beti.html
 name: Bet I
@@ -13,9 +16,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2010
+runtime: 257920
 ---
-
-
 Put me on anything still I bet I bust
 Put me anywhere on the map I bet I bust
 This is what I does, so please don't gas me up
@@ -154,6 +157,3 @@ I bet I, I bet I (bust)
 I bet I bust
 I bet I bust (I, I)
 Matter of fact, gimme 15 minutes and a bag of bud I bet I bust
-
-
-

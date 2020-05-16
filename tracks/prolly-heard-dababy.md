@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:0O7mJ0noFBLn8MMUJrFaF1
 features: []
-genres: []
+first_released_as_single: false
 key: prolly-heard-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/prollyheard.html
 name: PROLLY HEARD
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 143225
 ---
-
 Prolly heard I was broke from a broke nigga
 Prolly heard I'm a hoe from a hoe
 I don't know what you know
@@ -92,6 +96,3 @@ These bitches be waiting in line after shows
 I don't want fuck with her, let my bro hit her
 I'm the first one to come out of Charlotte
 Niggas know I put on for that fo' nigga
-
-
-

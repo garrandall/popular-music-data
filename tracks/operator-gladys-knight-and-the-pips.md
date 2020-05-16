@@ -1,8 +1,11 @@
 ---
+album: 'Gladys Knight & The Pips: Legends'
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0DpFvocbEQq287KGfm7yCX
 features: []
-genres: []
+first_released_as_single: false
 key: operator-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-operator-lyrics
 name: Operator
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1962
+runtime: 131471
 ---
 Ohhhh, Ohhhh
 Operator, are you sure

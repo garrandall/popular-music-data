@@ -1,8 +1,11 @@
 ---
+album: She's So Unusual
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:6G41H0Zd0kQ1WXWDoEotoJ
 features: []
-genres: []
+first_released_as_single: false
 key: time-after-time-cyndi-lauper
 lyrics_url: https://genius.com/Cyndi-lauper-time-after-time-lyrics
 name: Time After Time
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
+release_year: 1983
+runtime: 241160
 ---
 Lying in my bed, I hear the clock tick and think of you
 Caught up in circles

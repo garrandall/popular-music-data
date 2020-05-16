@@ -1,8 +1,11 @@
 ---
+album: The Jerk
 artists:
 - The Larks
+external_ids:
+  spotify: spotify:track:0SBreJhs1hYL7qwXktzWSJ
 features: []
-genres: []
+first_released_as_single: true
 key: the-jerk-the-larks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Larks/The-Jerk
 name: The Jerk
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 153686
 ---
 Girl, hey what's that you're doin'?
 Girl, girl, what's that you're doin'?

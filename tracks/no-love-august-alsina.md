@@ -1,8 +1,11 @@
 ---
+album: Testimony
 artists:
 - August Alsina
+external_ids:
+  spotify: spotify:track:5i5dWj63PAL3Z7DmDKvrH3
 features: []
-genres: []
+first_released_as_single: false
 key: no-love-august-alsina
 lyrics_url: https://genius.com/August-alsina-no-love-lyrics
 name: No Love
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-01-31'
+release_year: 2014
+runtime: 243933
 ---
 She said she wanna stay together
 I don't think I can, oh

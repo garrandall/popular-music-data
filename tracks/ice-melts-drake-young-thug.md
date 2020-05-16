@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7bJ4mu7MHa3rHiNyKjOoSl
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: ice-melts-drake-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/drake/icemelts.html
 name: Ice Melts
@@ -16,9 +19,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 250770
 ---
-
-
 Yeah
 Nigga, what you thought?
 Slatt, slatt, slatt (yeah, yeah)
@@ -108,6 +111,3 @@ Jeffery
 Woah, woah, woah, woah
 Woah, woah, woah, woah (yeah, yeah)
 Woah, woah, woah, woah
-
-
-

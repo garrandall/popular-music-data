@@ -1,8 +1,11 @@
 ---
+album: Extreme Behavior
 artists:
 - Hinder
+external_ids:
+  spotify: spotify:track:40LQiUUUKXVGyNs09lHVjW
 features: []
-genres: []
+first_released_as_single: false
 key: lips-of-an-angel-hinder
 lyrics_url: https://www.azlyrics.com/lyrics/hinder/lipsofanangel.html
 name: Lips Of An Angel
@@ -139,8 +142,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2005
+runtime: 261853
 ---
-
 Honey why you calling me so late?
 It's kinda hard to talk right now.
 Honey why are you crying? Is everything okay?
@@ -190,6 +194,3 @@ But girl you make it hard to be faithful
 With the lips of an angel
 
 Honey why you calling me so late?
-
-
-

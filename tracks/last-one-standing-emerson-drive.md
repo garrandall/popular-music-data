@@ -1,8 +1,11 @@
 ---
+album: What If?
 artists:
 - Emerson Drive
+external_ids:
+  spotify: spotify:track:7A5ekSw7f7H51ew8xg9U1r
 features: []
-genres: []
+first_released_as_single: true
 key: last-one-standing-emerson-drive
 lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/lastonestanding.html
 name: Last One Standing
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2003
+runtime: 219026
 ---
-
 Queen of the night
 Life of the party 
 It's all an illusion
@@ -79,6 +83,3 @@ I'll be the last one standing
 Through the wind and the rain 
 Through the laughter and pain
 I'll be the last one standing
-
-
-

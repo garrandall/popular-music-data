@@ -1,8 +1,11 @@
 ---
+album: Cooleyhighharmony (Bonus Tracks Version)
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:3l3xTXsUXeWlkPqzMs7mPD
 features: []
-genres: []
+first_released_as_single: false
 key: end-of-the-road-boyz-ii-men
 lyrics_url: https://www.musixmatch.com/lyrics/Boyz-II-Men/End-of-the-Road
 name: End Of The Road
@@ -135,6 +138,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
+release_year: 1991
+runtime: 351466
 ---
 Girl, you know we belong together
 I don't have no time for you to be playing

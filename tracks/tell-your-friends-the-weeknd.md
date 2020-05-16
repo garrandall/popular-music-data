@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:1mhVXWduD8ReDwusfaHNwU
 features: []
-genres: []
+first_released_as_single: false
 key: tell-your-friends-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-tell-your-friends-lyrics
 name: Tell Your Friends
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 334333
 ---
 We are not the same, I am too reckless
 I'm not tryna go in that direction

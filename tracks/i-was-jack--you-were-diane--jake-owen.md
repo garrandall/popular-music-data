@@ -1,8 +1,11 @@
 ---
+album: Greetings From...Jake
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:73JliUle2q8xwGxWjOquMj
 features: []
-genres: []
+first_released_as_single: true
 key: i-was-jack--you-were-diane--jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/iwasjackyouwerediane.html
 name: I Was Jack (You Were Diane)
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 188013
 ---
-
 It was yesterday, it was years ago
 We were singing every word on the radio
 Kinda like them songs could save our souls
@@ -108,6 +112,3 @@ Does it make you laugh
 When I was Jack and you were Diane
 Yeah do the memories take you back
 Take you back, take you back
-
-
-

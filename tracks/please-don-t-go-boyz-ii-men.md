@@ -1,8 +1,11 @@
 ---
+album: Cooleyhighharmony (Bonus Tracks Version)
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:6wpz7aQOAk2plmGYrSr61H
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-please-dont-go-lyrics
 name: Please Don't Go
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1991
+runtime: 263960
 ---
 Hey, baby
 I'm sorry

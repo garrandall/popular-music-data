@@ -1,9 +1,12 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:1fewSx2d5KIZ04wsooEBOz
 features:
 - Gunna
-genres: []
+first_released_as_single: false
 key: space-cadet-metro-boomin-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/spacecadet.html
 name: Space Cadet
@@ -32,9 +35,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 203266
 ---
-
-
 Yeah, oh
 Metro on these
 Boominati wave, uh
@@ -122,6 +125,3 @@ No, no
 (Is it drippin'? Got a nigga wet, hm)
 No, no
 (You on the Boominati wave)
-
-
-

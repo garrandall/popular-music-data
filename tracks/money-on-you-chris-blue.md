@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 12 Collection (The Voice Performance)
 artists:
 - Chris Blue
+external_ids:
+  spotify: spotify:track:35ap6ekPdkGkiUkWfWhZB4
 features: []
-genres: []
+first_released_as_single: false
 key: money-on-you-chris-blue
 lyrics_url: https://genius.com/Chris-blue-money-on-you-lyrics
 name: Money On You
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2017
+runtime: 194663
 ---
 Can we get a little up close and personal?
 Somewhere alone, somewhere alone

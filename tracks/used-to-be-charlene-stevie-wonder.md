@@ -1,9 +1,12 @@
 ---
+album: Additional Singles & Rarities
 artists:
 - Charlene
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5CdSX55u4Dbkavl0amqeq0
 features: []
-genres: []
+first_released_as_single: false
 key: used-to-be-charlene-stevie-wonder
 lyrics_url: https://genius.com/Charlene-used-to-be-lyrics
 name: Used To Be
@@ -52,6 +55,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 240840
 ---
 Superman was killed in Dallas
 There's no love left in the palace

@@ -1,8 +1,11 @@
 ---
+album: Hatari!
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:5WoxAphJ2iwm7wxre7axZl
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from--hatari---henry-mancini-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Henry-Mancini/Theme-from-Hatari
 name: Theme From "Hatari!"
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 174506
 ---
 I saw her from a distance
 Out in the corner of my eye

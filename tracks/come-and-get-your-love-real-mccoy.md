@@ -1,8 +1,11 @@
 ---
+album: Another Night
 artists:
 - Real McCoy
+external_ids:
+  spotify: spotify:track:0XVikcHfkoBvJ5ZU8xQBWn
 features: []
-genres: []
+first_released_as_single: false
 key: come-and-get-your-love-real-mccoy
 lyrics_url: https://genius.com/Real-mccoy-come-and-get-your-love-lyrics
 name: Come And Get Your Love
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 194560
 ---
 Come and get your love
 Come and get your love

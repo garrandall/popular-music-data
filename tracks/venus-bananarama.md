@@ -1,8 +1,11 @@
 ---
+album: True Confessions
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:4XX1pFUkQOZTYp6Hb6a6Ae
 features: []
-genres: []
+first_released_as_single: false
 key: venus-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/venus.html
 name: Venus
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 229164
 ---
-
 Goddess on the mountain top
 Burning like a silver flame
 The summit of beauty and love
@@ -138,6 +142,3 @@ Yeah baby she's got it
 Yeah baby she's got it
 Yeah baby she's got it
 Yeah baby she's got it
-
-
-

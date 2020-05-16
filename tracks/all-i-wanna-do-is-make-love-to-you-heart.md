@@ -1,8 +1,11 @@
 ---
+album: Brigade
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:5YjKdeES9QRJ8NmF4Xc8pV
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-wanna-do-is-make-love-to-you-heart
 lyrics_url: https://genius.com/Heart-all-i-wanna-do-is-make-love-to-you-lyrics
 name: All I Wanna Do Is Make Love To You
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
+release_year: 1990
+runtime: 310893
 ---
 It was a rainy night
 When he came into sight

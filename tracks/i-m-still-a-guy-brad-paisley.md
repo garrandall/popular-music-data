@@ -1,8 +1,11 @@
 ---
+album: 5th Gear
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:7qW9TkSOoSWI63EqzMzksJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-a-guy-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-im-still-a-guy-lyrics
 name: I'm Still A Guy
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2007
+runtime: 248560
 ---
 When you see a deer you see Bambi
 And I see antlers up on the wall

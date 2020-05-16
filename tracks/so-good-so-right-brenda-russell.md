@@ -1,8 +1,11 @@
 ---
+album: Brenda Russell
 artists:
 - Brenda Russell
+external_ids:
+  spotify: spotify:track:1aHU42Qyd3inaHRpQkERjk
 features: []
-genres: []
+first_released_as_single: false
 key: so-good-so-right-brenda-russell
 lyrics_url: https://genius.com/Brenda-russell-so-good-so-right-lyrics
 name: So Good So Right
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 201093
 ---
 We're on the shores of nowhere, looking out to sea
 I turn and kiss your face and you laugh at me

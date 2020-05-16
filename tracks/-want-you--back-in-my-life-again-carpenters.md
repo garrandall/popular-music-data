@@ -1,8 +1,11 @@
 ---
+album: Made In America
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:3dIBiWACV8dHz7HYn3fi7V
 features: []
-genres: []
+first_released_as_single: false
 key: -want-you--back-in-my-life-again-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/wantyoubackinmylifeagain.html
 name: (Want You) Back In My Life Again
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1981
+runtime: 220506
 ---
-
 You know it doesn't seem that long ago
 That I had your love and let it go
 And I really let you down I know
@@ -83,6 +87,3 @@ Let's go back to the place where it all began
 I've lived long enough with your memory
 Now I know that I want you, know that I need you
 Back in my life
-
-
-

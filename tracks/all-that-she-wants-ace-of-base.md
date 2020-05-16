@@ -1,8 +1,11 @@
 ---
+album: Happy Nation
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:2pMrptw5lkxCWKAIuUgGZt
 features: []
-genres: []
+first_released_as_single: true
 key: all-that-she-wants-ace-of-base
 lyrics_url: https://genius.com/Ace-of-base-all-that-she-wants-lyrics
 name: All That She Wants
@@ -151,6 +154,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
+release_year: 1992
+runtime: 211213
 ---
 She leads a lonely life
 She leads a lonely life

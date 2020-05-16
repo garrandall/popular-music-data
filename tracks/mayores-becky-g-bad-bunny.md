@@ -1,9 +1,12 @@
 ---
+album: MALA SANTA
 artists:
 - Becky G
+external_ids:
+  spotify: spotify:track:4MtnnyXkgtagfUcUT663QT
 features:
 - Bad Bunny
-genres: []
+first_released_as_single: true
 key: mayores-becky-g-bad-bunny
 lyrics_url: https://genius.com/Becky-g-and-bad-bunny-mayores-lyrics
 name: Mayores
@@ -80,6 +83,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2017
+runtime: 210840
 ---
 Whoah oh, oh, oh
 Oh, oh, oh, whoah

@@ -1,8 +1,11 @@
 ---
+album: Exciter
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:0qHMrKYpkVHdLzrXPMEYMx
 features: []
-genres: []
+first_released_as_single: true
 key: dream-on-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/dreamon.html
 name: Dream On
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 2001
+runtime: 219613
 ---
-
 As your bony fingers close around me
 Long and spindly
 Death becomes me
@@ -99,6 +103,3 @@ Can you feel a little love
 Can you feel a little love
 
 Dream on dream on
-
-
-

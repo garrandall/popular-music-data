@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Crests
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:2OvRW52VT7djKPeXdVEtHr
 features: []
-genres: []
+first_released_as_single: false
 key: the-angels-listened-in-the-crests
 lyrics_url: https://www.musixmatch.com/lyrics/The-Crests/The-Angels-Listened-In
 name: The Angels Listened In
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 118200
 ---
 The angels listened in, when they heard me praying
 The angels listened in, when they heard me saying

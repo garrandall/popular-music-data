@@ -1,8 +1,11 @@
 ---
+album: Battle Studies
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:0HLWvLKQWpFdPhgk6ym58n
 features: []
-genres: []
+first_released_as_single: false
 key: who-says-john-mayer
 lyrics_url: https://genius.com/John-mayer-who-says-lyrics
 name: Who Says
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 175480
 ---
 Who says I can’t get stoned?
 Turn off the lights and the telephone

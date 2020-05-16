@@ -1,9 +1,12 @@
 ---
+album: Only One Flo (Part 1)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:7z73ehYAn9O1XP9XlCqVtd
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: who-dat-girl-flo-rida-akon
 lyrics_url: https://www.azlyrics.com/lyrics/florida/whodatgirl.html
 name: Who Dat Girl
@@ -68,8 +71,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2010
+runtime: 200880
 ---
-
 Hey, Ms Red Carpet
 She can autograph my pockets,
 Anytime, anyplace, anyway,
@@ -175,6 +179,3 @@ Everybody be breaking their neck like
 Who dat girl
 Who dat girl
 Who dat girl
-
-
-

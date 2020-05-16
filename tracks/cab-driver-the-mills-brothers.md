@@ -1,8 +1,11 @@
 ---
+album: 'The Anthology: 1931 - 1968'
 artists:
 - The Mills Brothers
+external_ids:
+  spotify: spotify:track:2ItFgr7TEyipBFkiF2Mr3l
 features: []
-genres: []
+first_released_as_single: false
 key: cab-driver-the-mills-brothers
 lyrics_url: https://genius.com/The-mills-brothers-cab-driver-lyrics
 name: Cab Driver
@@ -67,6 +70,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 176266
 ---
 Cab Driver, drive by Mary's place
 I just wanna chance to see her face

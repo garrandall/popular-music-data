@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Baby
 artists:
 - Crash Craddock
+external_ids:
+  spotify: spotify:track:25HzmNxpTK2CXBZPvRImEU
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-destroy-me-crash-craddock
 lyrics_url: https://genius.com/Billy-crash-craddock-dont-destroy-me-lyrics
 name: Don't Destroy Me
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 167426
 ---
 You mean so much to me
 I love you can't you see

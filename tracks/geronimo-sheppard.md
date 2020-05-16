@@ -1,8 +1,11 @@
 ---
+album: Bombs Away
 artists:
 - Sheppard
+external_ids:
+  spotify: spotify:track:6UzRLAMyYXtLIcl5xC21B0
 features: []
-genres: []
+first_released_as_single: true
 key: geronimo-sheppard
 lyrics_url: https://www.azlyrics.com/lyrics/sheppard/geronimo.html
 name: Geronimo
@@ -91,8 +94,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2014
+runtime: 270435
 ---
-
 Can you feel it?
 Now it's coming back
 We can steal it.
@@ -180,6 +184,3 @@ Can you feel (Say Geronimo! ) my love?
 Bombs away! )
 Can you feel (make this leap ) my love? Make this leap.
 Can you feel my love?
-
-
-

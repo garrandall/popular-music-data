@@ -1,8 +1,11 @@
 ---
+album: Naughty Bits
 artists:
 - G-Wiz
+external_ids:
+  spotify: spotify:track:56FniIennySKdCMQarPAIU
 features: []
-genres: []
+first_released_as_single: true
 key: teddy-bear-g-wiz
 name: Teddy Bear
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 258360
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Steam
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:3ZzmuoHXbV5Lu0O1BZm2Bd
 features: []
-genres: []
+first_released_as_single: false
 key: no-mercy-ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/nomercy.html
 name: No Mercy
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-05-20'
+release_year: 1999
+runtime: 285960
 ---
-
 Don't think 'I'm sorrys what we need to say
 Don't think forgiveness is why we're here today
 Guilty...we're both guilty
@@ -82,6 +86,3 @@ Love me strong baby show me no mercy tonight
 
 No mercy, show me no mercy tonight
 Love me strong and show me no mercy tonight
-
-
-

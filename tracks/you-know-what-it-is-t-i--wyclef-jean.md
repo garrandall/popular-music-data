@@ -1,9 +1,12 @@
 ---
+album: T.I. VS T.I.P.
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:5Tc1KlDWyRnLLXL1y6ufsM
 features:
 - Wyclef Jean
-genres: []
+first_released_as_single: false
 key: you-know-what-it-is-t-i--wyclef-jean
 lyrics_url: https://genius.com/Ti-you-know-what-it-is-lyrics
 name: You Know What It Is
@@ -80,6 +83,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 287133
 ---
 Ay boy, don't spill my drink boy, ba-lip!
 Now listen (Grand Hustle homie)

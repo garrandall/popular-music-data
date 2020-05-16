@@ -1,8 +1,11 @@
 ---
+album: JACKBOYS
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:3eekarcy7kvN4yt5ZFzltW
 features: []
-genres: []
+first_released_as_single: true
 key: highest-in-the-room-travis-scott
 lyrics_url: https://genius.com/Travis-scott-highest-in-the-room-lyrics
 name: HIGHEST IN THE ROOM
@@ -91,6 +94,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 175720
 ---
 I got room in my fumes (Yeah)
 She fill my mind up with ideas

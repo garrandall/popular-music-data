@@ -1,8 +1,11 @@
 ---
+album: 'Happy Days: A Retrospective'
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:767ORBzZ0E0NbCxDpP0ELn
 features: []
-genres: []
+first_released_as_single: false
 key: yakety-yak-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/yaketyyak.html
 name: Yakety Yak
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 108720
 ---
-
 Take out the papers and the trash
 Or you don't get no spendin' cash
 If you don't scrub that kitchen floor
@@ -64,6 +68,3 @@ Yakety yak (don't talk back)
 Yakety yak, yakety yak
 Yakety yak, yakety yak
 Yakety yak, yakety yak
-
-
-

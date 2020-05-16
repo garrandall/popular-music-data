@@ -1,9 +1,12 @@
 ---
+album: Lost In The 90s Pt 3
 artists:
 - Das EFX
+external_ids:
+  spotify: spotify:track:7wL5vqTQUdzgLSpmMKRKAZ
 features:
 - Mobb Deep
-genres: []
+first_released_as_single: false
 key: microphone-master-das-efx-mobb-deep
 lyrics_url: https://www.azlyrics.com/lyrics/dasefx/microphonemastersewa41stsideremix.html
 name: Microphone Master
@@ -20,6 +23,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1996
+runtime: 312613
 ---
 Miggity microphone master, funky rhyme maker
 Miggity microphone master, and we the niggas making paper

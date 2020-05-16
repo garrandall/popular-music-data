@@ -1,8 +1,11 @@
 ---
+album: Love King
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:2AGgputZd6NC15fPhZdhcN
 features: []
-genres: []
+first_released_as_single: false
 key: love-king-the-dream
 lyrics_url: https://genius.com/The-dream-love-king-lyrics
 name: Love King
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 251826
 ---
 L to the O, V to the E
 K to the I, N to the G

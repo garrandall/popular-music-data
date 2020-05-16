@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:1ndA3dwJNzbcES3fpyelmz
 features: []
-genres: []
+first_released_as_single: false
 key: jukin-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/jukinsanantoniorose.html
 name: Jukin
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1972
+runtime: 223320
 ---
-
 If you like to go jukin'
 If you like the western swing
 Outside of Austin, Texas
@@ -80,6 +84,3 @@ Let's go jukin'
 Don't you wanna go jukin'
 I got jukin' in my blood
 Yes, I do
-
-
-

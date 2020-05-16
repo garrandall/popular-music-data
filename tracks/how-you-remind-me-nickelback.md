@@ -1,8 +1,11 @@
 ---
+album: Silver Side Up
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:0gmbgwZ8iqyMPmXefof8Yf
 features: []
-genres: []
+first_released_as_single: false
 key: how-you-remind-me-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/howyouremindme.html
 name: How You Remind Me
@@ -203,8 +206,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2001
+runtime: 223840
 ---
-
 Never made it as a wise man
 I couldn't cut it as a poor man stealing
 Tired of living like a blind man
@@ -276,6 +280,3 @@ Scream "are we having fun yet?"
 Yeah, yeah, are we having fun yet?
 
 Yeah, yeah, no, no.
-
-
-

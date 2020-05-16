@@ -1,8 +1,11 @@
 ---
+album: Fortune
 artists:
 - Fortune
+external_ids:
+  spotify: spotify:track:6zjZjjgj8pvvRvZhl9AFOI
 features: []
-genres: []
+first_released_as_single: false
 key: stacy-fortune
 lyrics_url: https://genius.com/Fortune-usa-stacy-lyrics
 name: Stacy
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 244586
 ---
 Stacy, my eyes have seen
 The child before

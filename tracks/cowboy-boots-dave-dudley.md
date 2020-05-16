@@ -1,8 +1,11 @@
 ---
+album: King of Country
 artists:
 - Dave Dudley
+external_ids:
+  spotify: spotify:track:3oxkAvFnsPBxBZLTNbJonV
 features: []
-genres: []
+first_released_as_single: false
 key: cowboy-boots-dave-dudley
 lyrics_url: https://genius.com/Dave-dudley-cowboy-boots-lyrics
 name: Cowboy Boots
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 134586
 ---
 Well all of my life I been a tryin' to save to get a pair of cowboy boots
 Sixteen years of my life I gave to get a pair of cowboy boots

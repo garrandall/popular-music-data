@@ -1,9 +1,12 @@
 ---
+album: MONOPOLY
 artists:
 - Ariana Grande
 - Victoria Monet
+external_ids:
+  spotify: spotify:track:6tsOcBnaKgzK22yEiqRh8P
 features: []
-genres: []
+first_released_as_single: true
 key: monopoly-ariana-grande-victoria-monet
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/monopoly.html
 name: Monopoly
@@ -16,9 +19,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2019
+runtime: 158586
 ---
-
-
 Yeah
 
 
@@ -91,6 +94,3 @@ Cletus? Girl
 Nutty Fropessor
 We have to wrap, five, six, seven, eight
 Yeah
-
-
-

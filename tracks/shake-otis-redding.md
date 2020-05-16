@@ -1,8 +1,11 @@
 ---
+album: 'Otis Blue: Otis Redding Sings Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:6RkyopJ2y0DnoIrq57zrap
 features: []
-genres: []
+first_released_as_single: false
 key: shake-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/shake.html
 name: Shake
@@ -31,8 +34,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1965
+runtime: 161480
 ---
-
 Shake!
 (Everybody say it!) Shake!
 (Early in the morning) Shake!
@@ -85,6 +89,3 @@ One more time, Shake!
 Everybody louder, Shake!
 One more time, now, say Shake!
 Everybody a bit louder, Shake!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Portfolio
 artists:
 - Grace Jones
+external_ids:
+  spotify: spotify:track:4goi88dNEJtUrwsOm7oAZj
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-grace-jones
 lyrics_url: https://www.azlyrics.com/lyrics/gracejones/sorry.html
 name: Sorry
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1977
+runtime: 240840
 ---
-
 Sorry, jealousy, sorry, baby so sorry,
 I was so full of jealousy, so full of jealousy,
 
@@ -76,6 +80,3 @@ I was so full of jealousy, so full of jealousy.
 
 Baby, sorry, jealousy, sorry, jealousy, 
 So full of jealousy...
-
-
-

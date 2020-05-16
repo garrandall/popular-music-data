@@ -1,8 +1,11 @@
 ---
+album: Back on the Bayou
 artists:
 - Q
+external_ids:
+  spotify: spotify:track:6RBK4wOuI4nw3pYT3MSTjm
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--man-q
 lyrics_url: https://genius.com/Q-dancin-man-lyrics
 name: Dancin' Man
@@ -59,6 +62,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 156133
 ---
 Hey buddy, you ain't gonna make that chic
 Just sitting and running your mouth

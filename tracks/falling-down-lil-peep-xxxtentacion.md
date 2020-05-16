@@ -1,9 +1,12 @@
 ---
+album: Come Over When You're Sober, Pt. 2
 artists:
 - Lil Peep
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:4jvjzW7Hm0yK4LvvE0Paz9
 features: []
-genres: []
+first_released_as_single: false
 key: falling-down-lil-peep-xxxtentacion
 lyrics_url: https://genius.com/Lil-peep-and-xxxtentacion-falling-down-lyrics
 name: Falling Down
@@ -52,6 +55,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 196400
 ---
 Come, let's watch the rain as it's falling down
 Now let's do that song for Peep

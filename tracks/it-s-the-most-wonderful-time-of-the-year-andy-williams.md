@@ -1,8 +1,11 @@
 ---
+album: The Andy Williams Christmas Album
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:0iHPBOIBmDXSdtxbVub9oh
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-the-most-wonderful-time-of-the-year-andy-williams
 lyrics_url: https://genius.com/Andy-williams-its-the-most-wonderful-time-of-the-year-lyrics
 name: It's The Most Wonderful Time Of The Year
@@ -67,6 +70,8 @@ rankings:
   rank: 7
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1953
+runtime: 151826
 ---
 It's the most wonderful time of the year
 With the kids jingle belling

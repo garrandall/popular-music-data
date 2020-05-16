@@ -1,8 +1,11 @@
 ---
+album: First Impressions Of Earth
 artists:
 - The Strokes
+external_ids:
+  spotify: spotify:track:7EEN3z8uwH1XA4TKAnVUyH
 features: []
-genres: []
+first_released_as_single: true
 key: juicebox-the-strokes
 lyrics_url: https://genius.com/The-strokes-juicebox-lyrics
 name: Juicebox
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2005
+runtime: 196293
 ---
 Everybody sees me, but it's not that easy
 Standing in the light field, standing in the light field

@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Classics Vol. 2
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:2bW2ddWrNR7sHh6Vtqq3Fb
 features: []
-genres: []
+first_released_as_single: false
 key: shimmy-shimmy-ko-ko-bop-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-shimmy-shimmy-ko-ko-bop-lyrics
 name: Shimmy Shimmy Ko-Ko-Bop
@@ -71,6 +74,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1959
+runtime: 130360
 ---
 Oh! Oh oh oh oh oh oh oh - ah!
 Oh! Oh oh oh oh oh oh oh - ah!

@@ -1,9 +1,12 @@
 ---
+album: The Wonderous World Of Sonny & Cher
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:3DjERrrfsWxT9g6cn4wmrQ
 features: []
-genres: []
+first_released_as_single: false
 key: what-now-my-love-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/whatnowmylove.html
 name: What Now My Love
@@ -40,8 +43,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 222306
 ---
-
 What now my love now that you've left me
 How can I live through another day
 Watching my dreams turning to ashes
@@ -69,6 +73,3 @@ Only my last goodbye
 Only my last goodbye
 Only my last goodbye
 Only my last goodbye
-
-
-

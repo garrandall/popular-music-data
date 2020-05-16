@@ -1,9 +1,12 @@
 ---
+album: TrapStar Turnt PopStar
 artists:
 - PnB Rock
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:1VPIpACOwB5UiXwN0C5XzO
 features: []
-genres: []
+first_released_as_single: false
 key: middle-child-pnb-rock-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/pnbrock/middlechild.html
 name: Middle Child
@@ -12,8 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2019
+runtime: 151574
 ---
-
 Ohoh-oh
 Yeah yeah yeah
 
@@ -64,6 +68,3 @@ So much cash, in my jeans, Louis V, pocket wallet
 Niggas hate, niggas bitches, niggas bitches pocket watchin'
 Uh, now I'm talkin' 'bout no pistol, I'm talkin' 30s now (30s now)
 Hey 30s now, 30 bands, 30 now
-
-
-

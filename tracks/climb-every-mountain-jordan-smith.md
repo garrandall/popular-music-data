@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:6GtMaEfcLyzwfglzSlqzyX
 features: []
-genres: []
+first_released_as_single: false
 key: climb-every-mountain-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/climbeverymountain.html
 name: Climb Every Mountain
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 190440
 ---
-
 Climb every mountain
 Search high and low
 Follow every by-way
@@ -47,6 +51,3 @@ Oh
 Whoa
 Never give up
 'Til you find your dream
-
-
-

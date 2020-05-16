@@ -1,8 +1,11 @@
 ---
+album: Heat Treatment
 artists:
 - Graham Parker And The Rumour
+external_ids:
+  spotify: spotify:track:5WVnp04IJr4eM0OmnM71tv
 features: []
-genres: []
+first_released_as_single: false
 key: hold-back-the-night-graham-parker-and-the-rumour
 lyrics_url: https://genius.com/Graham-parker-and-the-rumour-hold-back-the-night-lyrics
 name: Hold Back The Night
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 180693
 ---
 Hold back the night, turn on the light
 Don't wanna dream about you baby (dream about you baby)

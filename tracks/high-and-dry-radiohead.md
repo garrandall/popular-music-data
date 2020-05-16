@@ -1,8 +1,11 @@
 ---
+album: The Bends
 artists:
 - Radiohead
+external_ids:
+  spotify: spotify:track:2dh8dLyxdjmStWOoTkZZ3T
 features: []
-genres: []
+first_released_as_single: true
 key: high-and-dry-radiohead
 lyrics_url: https://genius.com/Radiohead-high-and-dry-lyrics
 name: High And Dry
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1995
+runtime: 257480
 ---
 Two jumps in a week, I bet you
 Think that's pretty clever, don't you, boy

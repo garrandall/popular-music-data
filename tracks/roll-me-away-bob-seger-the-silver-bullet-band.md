@@ -1,9 +1,12 @@
 ---
+album: The Distance
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:3MqgFVRerrpqWHdRopk247
 features: []
-genres: []
+first_released_as_single: false
 key: roll-me-away-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Roll-Me-Away
 name: Roll Me Away
@@ -48,6 +51,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1982
+runtime: 279573
 ---
 Took a look down a westbound road
 Right away I made my choice

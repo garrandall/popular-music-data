@@ -1,8 +1,11 @@
 ---
+album: Shaq Diesel
 artists:
 - Shaquille O'Neal
+external_ids:
+  spotify: spotify:track:3wfKQtSYYOYlwAGOMLpBhc
 features: []
-genres: []
+first_released_as_single: true
 key: -i-know-i-got--skillz-shaquille-o-neal
 lyrics_url: https://genius.com/Shaquille-oneal-i-know-i-got-skillz-lyrics
 name: (I Know I Got) Skillz
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 263066
 ---
 Yo Jef, why don't you give me a hoopa beat or something
 Something I can go to the park to

@@ -1,8 +1,11 @@
 ---
+album: Dial A Hit
 artists:
 - The Masqueraders
+external_ids:
+  spotify: spotify:track:1DubKw67kktIJ7r17nSp6K
 features: []
-genres: []
+first_released_as_single: false
 key: i-ain-t-got-to-love-nobody-else-the-masqueraders
 lyrics_url: https://genius.com/The-masqueraders-i-aint-got-to-love-nobody-else-lyrics
 name: I Ain't Got To Love Nobody Else
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 173360
 ---
 I Ain't Got To Love Nobody Else
 I Ain't Got To Love Nobody Else

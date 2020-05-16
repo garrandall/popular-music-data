@@ -1,8 +1,11 @@
 ---
+album: Foot Loose & Fancy Free
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:2pkPeaj86ZEVHhgAEncfp0
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-in-my-heart--the-final-acclaim--rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-youre-in-my-heart-the-final-acclaim-lyrics
 name: You're In My Heart (The Final Acclaim)
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 270960
 ---
 I didn't know what day it was
 When you walked into the room

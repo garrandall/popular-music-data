@@ -1,8 +1,11 @@
 ---
+album: The Rhythm Of The Night
 artists:
 - Corona
+external_ids:
+  spotify: spotify:track:5IPJsGFKtxKDPCkT8lhEjN
 features: []
-genres: []
+first_released_as_single: true
 key: the-rhythm-of-the-night-corona
 lyrics_url: https://genius.com/Corona-band-the-rhythm-of-the-night-lyrics
 name: The Rhythm Of The Night
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
+release_year: 1994
+runtime: 264306
 ---
 This is the rhythm of the night
 The night, oh yeah

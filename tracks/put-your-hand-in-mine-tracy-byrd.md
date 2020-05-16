@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:4WMQQm6fiuF9MjCegwDDmf
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-hand-in-mine-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/putyourhandinmine.html
 name: Put Your Hand In Mine
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 271773
 ---
-
 He sat up on the bed and he watched me packing
 He already knew why I was leavin'
 I took what I needed but I sure left a lot still hanging
@@ -89,6 +93,3 @@ And put your hand in mine
 
 Would you reach out to me just one more time
 And put your hand in mine
-
-
-

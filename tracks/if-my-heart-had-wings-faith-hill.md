@@ -1,8 +1,11 @@
 ---
+album: Breathe
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:7CWUSZqFXxoWrOCP5I3tpd
 features: []
-genres: []
+first_released_as_single: false
 key: if-my-heart-had-wings-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/ifmyhearthadwings.html
 name: If My Heart Had Wings
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 1999
+runtime: 215733
 ---
-
 Damn these old wheels
 Rolling too slow
 I stare down this white line
@@ -126,6 +130,3 @@ If my heart had wings
 I would fly to you and lie
 Beside you as you dream
 If my heart had wings
-
-
-

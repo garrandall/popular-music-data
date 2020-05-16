@@ -1,8 +1,11 @@
 ---
+album: Queen Of The Night
 artists:
 - Maggie Bell
+external_ids:
+  spotify: spotify:track:1pMrYHgGrE9BjBWKpKKeQq
 features: []
-genres: []
+first_released_as_single: false
 key: after-midnight-maggie-bell
 lyrics_url: https://genius.com/Maggie-bell-after-midnight-lyrics
 name: After Midnight
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1974
+runtime: 158160
 ---
 After midnight we're gonna let it all hang out
 After midnight we're gonna chug-a-lug and shout

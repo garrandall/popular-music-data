@@ -1,8 +1,11 @@
 ---
+album: Blues On Top Of Blues
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:0CCUVuXep0eemhT4jcm4mK
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-do-what-they-do-to-me-b-b--king
 lyrics_url: https://genius.com/Bb-king-im-gonna-do-what-they-do-to-me-lyrics
 name: I'm Gonna Do What They Do To Me
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 169103
 ---
 The next woman I get
 She gotta have job

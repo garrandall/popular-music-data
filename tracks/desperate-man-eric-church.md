@@ -1,8 +1,11 @@
 ---
+album: Desperate Man
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:2VX37A1p7tkvrH2UJwAU0T
 features: []
-genres: []
+first_released_as_single: true
 key: desperate-man-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/desperateman.html
 name: Desperate Man
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 208733
 ---
-
 Boo boo
 Boo boo boo boo, boo boo boo
 Boo boo boo boo, boo boo boo
@@ -142,6 +146,3 @@ Boo boo
 Boo boo boo boo, boo boo boo
 Boo boo boo boo, boo boo boo
 Boo boo boo boo boo
-
-
-

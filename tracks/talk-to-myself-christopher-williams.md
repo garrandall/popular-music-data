@@ -1,8 +1,11 @@
 ---
+album: Adventures In Paradise
 artists:
 - Christopher Williams
+external_ids:
+  spotify: spotify:track:4ywZNNUKItstMw7akcYdKj
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-myself-christopher-williams
 lyrics_url: https://genius.com/Christopher-williams-talk-to-myself-lyrics
 name: Talk To Myself
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-01-06'
+release_year: 1989
+runtime: 260093
 ---
 No, come on, I said no
 No means no now

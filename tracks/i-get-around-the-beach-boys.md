@@ -1,8 +1,11 @@
 ---
+album: All Summer Long
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:3v9xlH6BpmRbqL7hgNJhfT
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-around-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-i-get-around-lyrics
 name: I Get Around
@@ -67,6 +70,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 134386
 ---
 Round, round, get around
 I get around, yeah

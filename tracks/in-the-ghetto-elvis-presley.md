@@ -1,8 +1,11 @@
 ---
+album: From Elvis in Memphis
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:7KWoeBqSdZHEloYKVxssfG
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-ghetto-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-in-the-ghetto-lyrics
 name: In The Ghetto
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 167413
 ---
 As the snow flies
 On a cold and gray Chicago morning

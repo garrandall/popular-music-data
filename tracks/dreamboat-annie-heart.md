@@ -1,8 +1,11 @@
 ---
+album: Dreamboat Annie
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:7IyuwRPPNq6gYI1vzqKsrU
 features: []
-genres: []
+first_released_as_single: false
 key: dreamboat-annie-heart
 lyrics_url: https://www.azlyrics.com/lyrics/heart/dreamboatannie.html
 name: Dreamboat Annie
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1975
+runtime: 121706
 ---
-
 Heading out this morning into the sun
 Riding on the diamond waves, little darlin' one
 
@@ -62,6 +66,3 @@ No one knows the lonely one whose head's in the clouds
 
 Sad faces painted over with those magazine smiles
 Heading out to somewhere won't be back for a while
-
-
-

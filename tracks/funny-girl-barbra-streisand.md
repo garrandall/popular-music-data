@@ -1,8 +1,11 @@
 ---
+album: Funny Girl - Original Soundtrack Recording
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1BbPWTfKPovXvYqlPPtcD7
 features: []
-genres: []
+first_released_as_single: false
 key: funny-girl-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-funny-girl-lyrics
 name: Funny Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 163400
 ---
 Funny
 Did you hear that?

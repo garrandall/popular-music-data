@@ -1,9 +1,12 @@
 ---
+album: 'B.o.B Presents: The Adventures of Bobby Ray'
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:59dLtGBS26x7kc0rHbaPrq
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: false
 key: nothin--on-you-b-o-b-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/bob/nothinonyou.html
 name: Nothin' On You
@@ -120,9 +123,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2010
+runtime: 268320
 ---
-
-
 Beautiful girls, all over the world
 I could be chasing but my time would be wasted
 They got nothing on you, baby
@@ -231,6 +234,3 @@ Nothing on you, baby
 Yeah, and that's just how we do it
 Heheheh, and I'm a let this ride
 B.o.B and Bruno Mars
-
-
-

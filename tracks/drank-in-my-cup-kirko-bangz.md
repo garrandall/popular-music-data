@@ -1,8 +1,11 @@
 ---
+album: 'Progression 2: A Young Texas Playa'
 artists:
 - Kirko Bangz
+external_ids:
+  spotify: spotify:track:3m8CQnnfJJp4eQMWWl3zay
 features: []
-genres: []
+first_released_as_single: true
 key: drank-in-my-cup-kirko-bangz
 lyrics_url: https://genius.com/Kirko-bangz-drank-in-my-cup-lyrics
 name: Drank In My Cup
@@ -95,6 +98,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2011
+runtime: 232160
 ---
 I done came down, hold up
 Grip the grain, roll up

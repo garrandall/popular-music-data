@@ -1,8 +1,11 @@
 ---
+album: Flying the Flag
 artists:
 - Climax Blues Band
+external_ids:
+  spotify: spotify:track:3VyJPsb2ucaaVptLSDpJNH
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-climax-blues-band
 lyrics_url: https://genius.com/Climax-blues-band-i-love-you-lyrics
 name: I Love You
@@ -115,6 +118,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-08-22'
+release_year: 1980
+runtime: 245452
 ---
 When I was younger, man
 I hadn't a care

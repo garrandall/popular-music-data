@@ -1,8 +1,11 @@
 ---
+album: You Don't Have To Say You Love Me
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:0q8nQ0H4ad4KYcZdrTZPux
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-say-you-love-me-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-you-dont-have-to-say-you-love-me-lyrics
 name: You Don't Have To Say You Love Me
@@ -59,6 +62,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 170440
 ---
 When I said I needed you
 You said you would always stay

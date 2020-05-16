@@ -1,8 +1,11 @@
 ---
+album: Just Like You
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:1dObJGQUgJ7tWxJ0byON6W
 features: []
-genres: []
+first_released_as_single: false
 key: i-remember-keyshia-cole
 lyrics_url: https://www.musixmatch.com/lyrics/Keyshia-Cole/I-Remember
 name: I Remember
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2007
+runtime: 260093
 ---
 Oh yeah, yeah
 Oh

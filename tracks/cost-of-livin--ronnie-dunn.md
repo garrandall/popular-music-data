@@ -1,8 +1,11 @@
 ---
+album: Ronnie Dunn
 artists:
 - Ronnie Dunn
+external_ids:
+  spotify: spotify:track:41TDpmZqjVfCEFE8yMNhGc
 features: []
-genres: []
+first_released_as_single: false
 key: cost-of-livin--ronnie-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/ronniedunn/costoflivin.html
 name: Cost Of Livin'
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 250480
 ---
-
 Everythin' to know about me
 Is written on this page
 A number you can reach me
@@ -102,6 +106,3 @@ And the wolves are at my door
 
 Three dollars and change at the pump
 Cost of livin's high and goin' up
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Release Therapy
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:3QnEp4rluCxUwgpXT43jmC
 features:
 - Mary J. Blige
-genres: []
+first_released_as_single: false
 key: runaway-love-ludacris-mary-j--blige
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/runawaylove.html
 name: Runaway Love
@@ -88,9 +91,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2007-04-14'
+release_year: 2006
+runtime: 280680
 ---
-
-
 Runaway love
 Runaway love
 Runaway love
@@ -181,6 +184,3 @@ So do me a favor right now and close your eyes,
 And picture us running away together,
 When we come back everything is gonna be okay,
 Open your eyes...
-
-
-

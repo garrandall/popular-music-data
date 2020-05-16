@@ -1,8 +1,11 @@
 ---
+album: The Divine Miss M
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:7MuMALGZV3KhVA9AS9TFup
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-woogie-bugle-boy-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/boogiewoogiebugleboy.html
 name: Boogie Woogie Bugle Boy
@@ -71,8 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1972
+runtime: 137173
 ---
-
 He was a famous trumpet man from out Chicago way.
 He had a boogie style that no one else could play.
 He was the top man at his craft,
@@ -123,6 +127,3 @@ He can't blow a note if a bass and guitar isn't, whoa, with him.
 
 And the Company jumps when he plays reveille.
 He's the boogie-woogie bugle boy of Company B.
-
-
-

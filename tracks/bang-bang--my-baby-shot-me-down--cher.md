@@ -1,8 +1,11 @@
 ---
+album: "The Sonny Side Of Ch\xE9r"
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:75miYzXfHBB7Bb8zbLMzFZ
 features: []
-genres: []
+first_released_as_single: false
 key: bang-bang--my-baby-shot-me-down--cher
 lyrics_url: https://genius.com/Cherry-2-bang-bang-lyrics
 name: Bang Bang (My Baby Shot Me Down)
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 165293
 ---
 I was five and he was six
 We rode on horses made of sticks

@@ -1,8 +1,11 @@
 ---
+album: All My Life
 artists:
 - Arthur Prysock
+external_ids:
+  spotify: spotify:track:50ldhKmEBaBROmIIUSDeZr
 features: []
-genres: []
+first_released_as_single: false
 key: when-love-is-new-arthur-prysock
 lyrics_url: https://www.musixmatch.com/lyrics/Arthur-Prysock/When-Love-Is-New
 name: When Love Is New
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 434333
 ---
 When love is new, love is new
 (When love is new, love is new)

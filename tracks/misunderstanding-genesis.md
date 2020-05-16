@@ -1,8 +1,11 @@
 ---
+album: Duke
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:7zjSZQkMoGKylSq6s1rK9Y
 features: []
-genres: []
+first_released_as_single: false
 key: misunderstanding-genesis
 lyrics_url: https://genius.com/Genesis-misunderstanding-lyrics
 name: Misunderstanding
@@ -79,6 +82,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 191666
 ---
 There must be some misunderstanding
 There must be some kind of mistake

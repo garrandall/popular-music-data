@@ -1,8 +1,11 @@
 ---
+album: Sings
 artists:
 - Johnny Burnette
+external_ids:
+  spotify: spotify:track:3t8I5LfRhVdqdxdGeKFnUv
 features: []
-genres: []
+first_released_as_single: false
 key: little-boy-sad-johnny-burnette
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/Little-Boy-Sad
 name: Little Boy Sad
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 125693
 ---
 You been lying
 Being untrue

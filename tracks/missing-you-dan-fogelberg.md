@@ -1,8 +1,11 @@
 ---
+album: 'Dan Fogelberg Live: Greetings From The West'
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:3mxx6Na2gBPO41o44AQxEd
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/missingyou.html
 name: Missing You
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 321026
 ---
-
 Hard days I'm travelling
 Alone for too long
 Oh, I'm missing you
@@ -117,6 +121,3 @@ Your love is the promise that guides me
 All of the days of my life
 All of the days of my life.
 All of the days of my life.
-
-
-

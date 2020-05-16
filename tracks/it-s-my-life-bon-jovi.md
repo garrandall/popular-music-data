@@ -1,8 +1,11 @@
 ---
+album: Crush
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-life-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-its-my-life-lyrics
 name: It's My Life
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-12-23'
+release_year: 2000
+runtime: 224493
 ---
 This ain't a song for the broken-hearted (woah oh, woah oh, oh)
 No silent prayer for the faith-departed

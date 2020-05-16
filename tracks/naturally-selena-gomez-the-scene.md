@@ -1,9 +1,12 @@
 ---
+album: Kiss & Tell
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:1YaVmBh7EAeR54FIjuFcb5
 features: []
-genres: []
+first_released_as_single: false
 key: naturally-selena-gomez-the-scene
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomezthescene/naturally.html
 name: Naturally
@@ -92,8 +95,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 202586
 ---
-
 How you choose to express yourself
 It's all your own and I can tell
 It comes naturally, it comes naturally
@@ -144,6 +148,3 @@ Everything comes naturally, it comes naturally
 Ba-ba-baby
 
 Everything, baby, comes naturally
-
-
-

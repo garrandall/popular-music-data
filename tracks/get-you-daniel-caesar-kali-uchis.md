@@ -1,9 +1,12 @@
 ---
+album: Freudian
 artists:
 - Daniel Caesar
+external_ids:
+  spotify: spotify:track:6N3qHjcwly8ZuhE4bPYJAX
 features:
 - Kali Uchis
-genres: []
+first_released_as_single: true
 key: get-you-daniel-caesar-kali-uchis
 lyrics_url: https://www.azlyrics.com/lyrics/danielcaesar/getyou.html
 name: Get You
@@ -32,9 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2016
+runtime: 277297
 ---
-
-
 Through drought and famine, natural disasters
 My baby has been around for me
 Kingdoms have fallen, angels be calling
@@ -85,6 +88,3 @@ This feels like summer
 Boy you make me feel so alive
 Just be my lover
 Boy you'll lead me to paradise
-
-
-

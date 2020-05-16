@@ -1,8 +1,11 @@
 ---
+album: You Got What It Takes
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:0iDVwhenUOD6RLWxadsPWk
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-what-it-takes-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/yougotwhatittakes.html
 name: You Got What It Takes
@@ -47,8 +50,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 179687
 ---
-
 Ow! You don't drive a big fast car, no
 You don't look a-like a movie star
 And on your money we won't get far
@@ -93,6 +97,3 @@ Baby, I'm tellin' you
 You got what it takes
 
 Hey! hey! hey!
-
-
-

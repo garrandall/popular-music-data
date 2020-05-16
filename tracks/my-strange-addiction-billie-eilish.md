@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:3Tc57t9l2O8FwQZtQOvPXK
 features: []
-genres: []
+first_released_as_single: false
 key: my-strange-addiction-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/mystrangeaddiction.html
 name: My Strange Addiction
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2019
+runtime: 179889
 ---
-
 "No, Billy, I haven't done that dance since my wife died."
 "There's a whole crowd of people out there who need to learn how to do The Scarn."
 
@@ -84,6 +88,3 @@ But you are my strange addiction
 
 "Did you like it? Did you like that?"
 "Um, which part?"
-
-
-

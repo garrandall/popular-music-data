@@ -1,8 +1,11 @@
 ---
+album: "Don\u2019t Stop Movin\u2019"
 artists:
 - Livin' Joy
+external_ids:
+  spotify: spotify:track:6wetvpPWooBdmAEOKnDhpo
 features: []
-genres: []
+first_released_as_single: false
 key: dreamer-livin--joy
 lyrics_url: https://genius.com/Livin-joy-dreamer-lyrics
 name: Dreamer
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
+release_year: 1995
+runtime: 223535
 ---
 I'm a, I'm a
 I'm a dreamer

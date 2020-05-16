@@ -1,8 +1,11 @@
 ---
+album: Bionic (Deluxe Version)
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:45ahvujEO1bYK3zhw0xEqT
 features: []
-genres: []
+first_released_as_single: false
 key: bionic-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/bionic.html
 name: Bionic
@@ -11,8 +14,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 201266
 ---
-
 This is the moment that I take over your mind frame
 Step into the picture that I paint using my brain game
 I'll elevate you so high I'll give you a migraine
@@ -48,7 +52,4 @@ Are you ready, ready, ready to go-g-g-go?
 
 
 
-Eh-ay-yeh, oh oh oh, eh-ay-yeh 
-
-
-
+Eh-ay-yeh, oh oh oh, eh-ay-yeh

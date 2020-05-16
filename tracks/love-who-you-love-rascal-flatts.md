@@ -1,8 +1,11 @@
 ---
+album: Unstoppable
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:5RT2SHwVcy80FhUrUryR0u
 features: []
-genres: []
+first_released_as_single: false
 key: love-who-you-love-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/lovewhoyoulove.html
 name: Love Who You Love
@@ -11,8 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2009-04-11'
+release_year: 2009
+runtime: 216280
 ---
-
 I should have stolen every moment
 Now there's a page
 With not enough on it
@@ -73,6 +77,3 @@ Say that you do
 Hold on, keep on holdin' on -- yeah
 Yeah, with every single breath
 You're breathing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1HR2CTi0ytRJIcik1QKdOa
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-eminem
 lyrics_url: https://genius.com/Eminem-beautiful-lyrics
 name: Beautiful
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 392826
 ---
 Lately I've been hard to reach
 I've been too long on my own

@@ -1,8 +1,11 @@
 ---
+album: Some People Change
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:6TFidkPUbNzo3MNFS3FUFv
 features: []
-genres: []
+first_released_as_single: false
 key: some-people-change-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/somepeoplechange.html
 name: Some People Change
@@ -59,8 +62,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
+release_year: 1999
+runtime: 202440
 ---
-
 His old man was a rebel yeller...
 Bad boy to the bone.
 He'd say: "Can't trust that other fella,"
@@ -104,6 +108,3 @@ Love finds a way... some people change.
 Some people change.
 
 (Some people change)
-
-
-

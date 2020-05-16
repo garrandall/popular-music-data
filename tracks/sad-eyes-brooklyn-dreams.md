@@ -1,8 +1,11 @@
 ---
+album: 'Music, Harmony And Rhythm: The Casablanca Years'
 artists:
 - Brooklyn Dreams
+external_ids:
+  spotify: spotify:track:1cunQR9Z1x8usNAULrA4I2
 features: []
-genres: []
+first_released_as_single: false
 key: sad-eyes-brooklyn-dreams
 lyrics_url: https://genius.com/Brooklyn-dreams-sad-eyes-lyrics
 name: Sad Eyes
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 320493
 ---
 When I first saw you
 You were sunshine

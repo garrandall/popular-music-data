@@ -1,8 +1,11 @@
 ---
+album: Doraville
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:76mEjlwwuOmiryQ8scQQ0G
 features: []
-genres: []
+first_released_as_single: false
 key: so-in-to-you-atlanta-rhythm-section
 lyrics_url: https://genius.com/Atlanta-rhythm-section-so-into-you-lyrics
 name: So In To You
@@ -83,6 +86,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 404266
 ---
 When you walked into the room
 There was voodoo in the vibes

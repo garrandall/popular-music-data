@@ -1,8 +1,11 @@
 ---
+album: The Other Side
 artists:
 - Wynonna
+external_ids:
+  spotify: spotify:track:42lldCMWYw2pcFbfJbBGYi
 features: []
-genres: []
+first_released_as_single: false
 key: when-love-starts-talkin--wynonna
 lyrics_url: https://www.azlyrics.com/lyrics/wynonnajudd/whenlovestartstalkin.html
 name: When Love Starts Talkin'
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 188760
 ---
-
 I thought I had my life worked out
 I thought I knew what it was all about
 Then love started talkin'
@@ -53,6 +57,3 @@ Your love started talkin'
 Your love started talkin'
 Your love started talkin'
 Love started talkin'
-
-
-

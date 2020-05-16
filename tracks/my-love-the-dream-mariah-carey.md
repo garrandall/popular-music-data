@@ -1,9 +1,12 @@
 ---
+album: Love Vs Money
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:07o5JbRuDi5ir7rhsOi0ap
 features:
 - Mariah Carey
-genres: []
+first_released_as_single: false
 key: my-love-the-dream-mariah-carey
 lyrics_url: https://genius.com/The-dream-my-love-lyrics
 name: My Love
@@ -24,6 +27,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2009
+runtime: 204613
 ---
 The Dream]
 Radio Killa

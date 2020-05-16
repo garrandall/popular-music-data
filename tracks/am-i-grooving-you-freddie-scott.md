@@ -1,8 +1,11 @@
 ---
+album: Cry To Me-The Best Of Freddie Scott
 artists:
 - Freddie Scott
+external_ids:
+  spotify: spotify:track:299l2wkME9A3Ofbu3BW9xY
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-grooving-you-freddie-scott
 name: Am I Grooving You
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 191493
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Cyan
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:0ml8gDaBVcyiNksoVUDQZZ
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-serenade-you-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/letmeserenadeyou.html
 name: Let Me Serenade You
@@ -55,8 +58,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
+release_year: 1973
+runtime: 196080
 ---
-
 I will serenade you, all along the way
 I will serenade you, anyway you say
 Take you to the country, I'll take you to the shore
@@ -74,6 +78,3 @@ Every moment, every day,
 If you want to hold me, I will stay
 Let me serenade you, I will serenade you
 If you want to hold me, I will stay
-
-
-

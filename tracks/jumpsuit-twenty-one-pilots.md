@@ -1,8 +1,11 @@
 ---
+album: Trench
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:1E1uGhNdBe6Dddbgs2KqtZ
 features: []
-genres: []
+first_released_as_single: false
 key: jumpsuit-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/jumpsuit.html
 name: Jumpsuit
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 238560
 ---
-
 Cover me, oh!
 
 I can't believe how much I hate
@@ -67,6 +71,3 @@ Oh, jumpsuit, jumpsuit, cover me, oh!
 
 Jumpsuit, jumpsuit, cover me!
 Jumpsuit, jumpsuit, cover me!
-
-
-

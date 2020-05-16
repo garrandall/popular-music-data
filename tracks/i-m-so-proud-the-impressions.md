@@ -1,8 +1,11 @@
 ---
+album: The Never Ending Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:3bq9YHKExHdNzMCublodNs
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-proud-the-impressions
 lyrics_url: https://genius.com/The-impressions-im-so-proud-lyrics
 name: I'm So Proud
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 171506
 ---
 Prettier than all the world
 And I'm so proud (I'm so proud) I'm so proud of you

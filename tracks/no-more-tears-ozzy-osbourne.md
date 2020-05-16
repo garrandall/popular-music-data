@@ -1,8 +1,11 @@
 ---
+album: No More Tears
 artists:
 - Ozzy Osbourne
+external_ids:
+  spotify: spotify:track:7w6PJe5KBPyvuRYxFkPssC
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-tears-ozzy-osbourne
 lyrics_url: https://genius.com/Ozzy-osbourne-no-more-tears-lyrics
 name: No More Tears
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 443240
 ---
 The light in the window is a crack in the sky
 A stairway to darkness in the blink of an eye

@@ -1,8 +1,11 @@
 ---
+album: God Shuffled His Feet
 artists:
 - Crash Test Dummies
+external_ids:
+  spotify: spotify:track:3NDTh0ZPIG2zY2VUJ8jG3L
 features: []
-genres: []
+first_released_as_single: false
 key: mmm-mmm-mmm-mmm-crash-test-dummies
 lyrics_url: https://www.musixmatch.com/lyrics/Crash-Test-Dummies/Mmm-Mmm-Mmm-Mmm-Part-2
 name: Mmm Mmm Mmm Mmm
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
+release_year: 1991
+runtime: 233280
 ---
 Once there was this kid who
 Got into an accident and couldn't come to school

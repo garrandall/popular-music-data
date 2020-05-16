@@ -1,8 +1,11 @@
 ---
+album: The Phil Spector Collection
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:0DsOl6T657cvh2G4hlJ9hT
 features: []
-genres: []
+first_released_as_single: false
 key: little-boy-the-crystals
 lyrics_url: https://genius.com/The-crystals-little-boy-lyrics
 name: Little Boy
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1964
+runtime: 179133
 ---
 Little boy, you probably don't know it
 But on the night we met you stole my heart away

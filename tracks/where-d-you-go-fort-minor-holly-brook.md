@@ -1,9 +1,12 @@
 ---
+album: The Rising Tied
 artists:
 - Fort Minor
+external_ids:
+  spotify: spotify:track:7pAT4dOUzjq8Ziap5ShIqC
 features:
 - Holly Brook
-genres: []
+first_released_as_single: false
 key: where-d-you-go-fort-minor-holly-brook
 lyrics_url: https://www.musixmatch.com/lyrics/Fort-Minor/Where-d-You-Go-feat-Holly-Brook-Jonah-Matranga-Non-PA
 name: Where'd You Go
@@ -88,6 +91,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2005
+runtime: 231866
 ---
 Where'd you go?
 I miss you so

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:54R5JFQoVYfXopXQwsf5vR
 features: []
-genres: []
+first_released_as_single: false
 key: grandpa--tell-me--bout-the-good-old-days--danielle-bradbery
 lyrics_url: https://genius.com/Danielle-bradbery-grandpa-tell-me-bout-the-good-old-days-lyrics
 name: Grandpa (Tell Me 'Bout The Good Old Days)
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2013
+runtime: 203400
 ---
 Grandpa, tell me 'bout the good old days
 Sometimes it feels like

@@ -1,9 +1,12 @@
 ---
+album: I Gotta Make It
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:4xONUhRpKk1UIBsCSdviQo
 features:
 - Twista
-genres: []
+first_released_as_single: false
 key: gotta-make-it-trey-songz-twista
 lyrics_url: https://www.azlyrics.com/lyrics/treysongz/gottamakeit.html
 name: Gotta Make It
@@ -36,8 +39,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 243279
 ---
-
 Just Gotta Make It (alright)
 Just Gotta Make It
 Just Gotta Make It (alright)
@@ -134,6 +138,3 @@ Just Gotta Make It (alright)
 Just Gotta Make It (that's right)
 To the top of the world me and my girl we
 Just Gotta Make It (alright) Just Gotta Make It
-
-
-

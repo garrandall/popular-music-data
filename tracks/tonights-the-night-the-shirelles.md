@@ -1,8 +1,11 @@
 ---
+album: Tonight's The Night
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:29LaaN4wmDoaUBtCQOoCed
 features: []
-genres: []
+first_released_as_single: false
 key: tonights-the-night-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/tonightsthenight.html
 name: Tonights The Night
@@ -55,8 +58,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
+release_year: 1960
+runtime: 117586
 ---
-
 You said you're gonna meet me (tonight's the night)
 Tonight's the night (tonight's the night)
 You said you're gonna kiss me (tonight's the night)
@@ -92,6 +96,3 @@ Feelin' good right now (tonight's the night)
 Gonna be a great romance (tonight's the night)
 Upsettin' my goals (tonight's the night)
 Gonna be a great romance (tonight's the night)
-
-
-

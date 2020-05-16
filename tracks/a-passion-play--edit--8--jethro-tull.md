@@ -1,8 +1,11 @@
 ---
+album: A Passion Play
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:7ep4d6uSpaIdOqiVNFdS44
 features: []
-genres: []
+first_released_as_single: false
 key: a-passion-play--edit--8--jethro-tull
 lyrics_url: https://genius.com/Jethro-tull-a-passion-play-lyrics
 name: 'A Passion Play (Edit #8)'
@@ -27,13 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1973
+runtime: 1296293
 ---
-Lifebeats
-Instrumental part
-
-Prelude
-Instrumental part
-
 The Silver Cord
 "Do you still see me even here?"
 (The silver cord lies on the ground.)
@@ -58,9 +57,6 @@ And bathed me with her ever-smile
 And with a howl across the sand
 I go escorted by a band of gentlemen in leather bound
 NO-ONE (but someone to be found)
-
-Re-Assuring Tune
-Instrumental part
 
 Memory Bank
 All along the icy wastes there are faces smiling in the gloom
@@ -115,6 +111,3 @@ Of telling you how absolutely awful you really are?
 
 There was a rush along the Fulham Road
 There was a hush in the Passion Play
-
-Forest Dance No.1
-Instrumental part

@@ -1,8 +1,11 @@
 ---
+album: I Might Need Security
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:3EApebexZ7YqDIqw2EMTDh
 features: []
-genres: []
+first_released_as_single: true
 key: i-might-need-security-chance-the-rapper
 lyrics_url: https://www.azlyrics.com/lyrics/chancetherapper/imightneedsecurity.html
 name: I Might Need Security
@@ -11,8 +14,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2018-08-04'
+release_year: 2018
+runtime: 240640
 ---
-
 Fuck you, fu-u-u-u-u-uck, fuck fuck you
 Fu-u-u-u-u-uck, fuck fuck you
 Fu-u-u-u-u-uck, fuck fuck you
@@ -85,6 +89,3 @@ Fuck you
 Fuck you, fu-u-u-u-u-uck, fuck fuck you
 Fu-u-u-u-u-uck, fuck fuck you
 Fu-u-u-u-u-uck, fuck fuck you
-
-
-

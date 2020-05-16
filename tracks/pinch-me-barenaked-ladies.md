@@ -1,8 +1,11 @@
 ---
+album: Maroon
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:2RQ3fWFZJJe4G5KkHEACww
 features: []
-genres: []
+first_released_as_single: false
 key: pinch-me-barenaked-ladies
 lyrics_url: https://www.azlyrics.com/lyrics/barenakedladies/pinchme.html
 name: Pinch Me
@@ -91,8 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 2000
+runtime: 285160
 ---
-
 It's the perfect time of year
 Somewhere far away from here
 I feel fine enough, I guess
@@ -175,6 +179,3 @@ Just to try to figure out what all this is for.
 Try to figure out what all this is for.
 Try to see the world beyond your front door.
 Try to figure out what all this is for.
-
-
-

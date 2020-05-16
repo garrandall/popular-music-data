@@ -1,8 +1,11 @@
 ---
+album: The Greatest Popular Pianist / The Artist's Choice
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:1zuqS73L64T2X6Ny3xHqmn
 features: []
-genres: []
+first_released_as_single: false
 key: the-impossible-dream-roger-williams
 lyrics_url: https://genius.com/Roger-williams-the-impossible-dream-lyrics
 name: The Impossible Dream
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 183026
 ---
 Born free, as free as the wind blows
 As free as the grass grows

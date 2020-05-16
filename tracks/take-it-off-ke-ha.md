@@ -1,8 +1,11 @@
 ---
+album: Animal
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:0WCiI0ddWiu5F2kSHgfw5S
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-off-ke-ha
 lyrics_url: https://www.azlyrics.com/lyrics/keha/takeitoff.html
 name: Take It Off
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 215200
 ---
 There's a place downtown,
 Where the freaks all come around.

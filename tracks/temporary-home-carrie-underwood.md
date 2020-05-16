@@ -1,8 +1,11 @@
 ---
+album: Play On
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:0d0tJF80562KcMndcBcSfM
 features: []
-genres: []
+first_released_as_single: false
 key: temporary-home-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/temporaryhome.html
 name: Temporary Home
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2009
+runtime: 268560
 ---
-
 Little boy, six years old
 A little too used to being alone
 Another new mom and dad
@@ -136,6 +140,3 @@ I'm not afraid because I know
 This was my temporary home
 
 This is our temporary home
-
-
-

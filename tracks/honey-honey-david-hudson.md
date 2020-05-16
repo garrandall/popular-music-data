@@ -1,8 +1,12 @@
 ---
+album: 'The Legendary Henry Stone Presents: David Hudson, featuring Honey Honey, I
+  Got What You Want'
 artists:
 - David Hudson
+external_ids:
+  spotify: spotify:track:5PuqZZAMljRB5v7acsw9k1
 features: []
-genres: []
+first_released_as_single: false
 key: honey-honey-david-hudson
 lyrics_url: https://www.musixmatch.com/lyrics/David-Hudson/Honey-Honey
 name: Honey Honey
@@ -51,6 +55,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 247213
 ---
 Hm
 Yeah

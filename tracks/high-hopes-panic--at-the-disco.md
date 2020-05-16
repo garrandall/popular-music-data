@@ -1,8 +1,11 @@
 ---
+album: Pray for the Wicked
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:1rqqCSm0Qe4I9rUvWncaom
 features: []
-genres: []
+first_released_as_single: false
 key: high-hopes-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/highhopes.html
 name: High Hopes
@@ -215,8 +218,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2018
+runtime: 190946
 ---
-
 (High, high hopes)
 
 Had to have high, high hopes for a living
@@ -302,6 +306,3 @@ Didn't know how but I always had a feeling
 I was gonna be that one in a million
 Always had high, high hopes
 (High, high hopes)
-
-
-

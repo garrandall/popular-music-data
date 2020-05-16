@@ -1,9 +1,12 @@
 ---
+album: Creep Wit' Me
 artists:
 - Ill Al Skratch
+external_ids:
+  spotify: spotify:track:6kHwbzrIm9fZUHQg0WsxOK
 features:
 - Brian McKnight
-genres: []
+first_released_as_single: false
 key: i-ll-take-her-ill-al-skratch-brian-mcknight
 lyrics_url: https://genius.com/Brian-mcknight-ill-take-her-feat-ill-al-skratch-lyrics
 name: I'll Take Her
@@ -64,6 +67,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
+release_year: 1994
+runtime: 293173
 ---
 Yeah, it's Al Skratch, that real smooth brother
 The undercover lover makin moves on your mother

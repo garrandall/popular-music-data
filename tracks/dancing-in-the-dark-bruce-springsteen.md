@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:7FwBtcecmlpc1sLySPXeGE
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-dark-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-dancing-in-the-dark-lyrics
 name: Dancing In The Dark
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 241306
 ---
 I get up in the evening
 And I ain't got nothing to say

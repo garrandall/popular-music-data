@@ -1,8 +1,11 @@
 ---
+album: Wild Orchid
 artists:
 - Wild Orchid
+external_ids:
+  spotify: spotify:track:7jEC8cMF6Ssu4AyneXPhUF
 features: []
-genres: []
+first_released_as_single: false
 key: at-night-i-pray-wild-orchid
 lyrics_url: https://www.azlyrics.com/lyrics/wildorchid/atnightipray.html
 name: At Night I Pray
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 256600
 ---
-
 So alone
 And this room feel so cold
 No one to care and no one to hold
@@ -146,6 +150,3 @@ You will be mine, all mine (and I'll be yours)
 And I'll be yours always, but until that day comes at night I pray
 Until that day comes at night I pray (Oh yeah)
 And until that day comes at night I pray
-
-
-

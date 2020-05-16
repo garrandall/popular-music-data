@@ -1,8 +1,11 @@
 ---
+album: Heart Of Soul 2
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:1zKmcJQ2yHxznxDPYjJAnf
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-do-that-montell-jordan
 lyrics_url: https://genius.com/Montell-jordan-i-can-do-that-lyrics
 name: I Can Do That
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 284933
 ---
 I'm still here
 You want me to buy you Victoria's Secrets?

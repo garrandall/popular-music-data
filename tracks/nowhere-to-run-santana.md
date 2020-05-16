@@ -1,8 +1,11 @@
 ---
+album: Shango
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:18hEUtGndAT0vzSTHCKFt4
 features: []
-genres: []
+first_released_as_single: false
 key: nowhere-to-run-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/nowheretorun.html
 name: Nowhere To Run
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 244226
 ---
-
 Night ain't a friend
 It's black and so still
 It waits like a cat
@@ -76,4 +80,3 @@ I can take the afternoon
 But then comes the night
 Instead I walk the floor
 Till the light
-

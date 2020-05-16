@@ -1,8 +1,11 @@
 ---
+album: All The Young Dudes
 artists:
 - Mott The Hoople
+external_ids:
+  spotify: spotify:track:3xyJQopi3TWy2ouP5A3EcS
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-the-boys-mott-the-hoople
 lyrics_url: https://www.azlyrics.com/lyrics/mottthehoople/oneoftheboys.html
 name: One Of The Boys
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 406133
 ---
-
 Know that I grow my hair just to scare the teacher
 My goodness gracious me, ain't little Johnny a creature
 And I lost count of the times when I never bathed
@@ -55,6 +59,3 @@ Just, just, just, just, just
 Just, just, just, just, just
 Just, just, just, just, just
 Just, just, just, just, just
-
-
-

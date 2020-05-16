@@ -1,8 +1,11 @@
 ---
+album: The Sweet Inspirations
 artists:
 - The Sweet Inspirations
+external_ids:
+  spotify: spotify:track:4V3KUwlCYLJXDhpWLIfYVp
 features: []
-genres: []
+first_released_as_single: false
 key: why--am-i-treated-so-bad--the-sweet-inspirations
 lyrics_url: https://genius.com/The-sweet-inspirations-why-marry-lyrics
 name: Why (Am I Treated So Bad)
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 169320
 ---
 Oh oh oh
 

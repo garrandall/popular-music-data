@@ -1,8 +1,11 @@
 ---
+album: Son Of A Son Of A Sailor
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:1u5207wtMT8mOq3A64nsEb
 features: []
-genres: []
+first_released_as_single: false
 key: "ma\xF1ana-jimmy-buffett"
 name: "Ma\xF1ana"
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
+release_year: 1978
+runtime: 256959
 ---
 

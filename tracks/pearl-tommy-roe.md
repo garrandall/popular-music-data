@@ -1,8 +1,11 @@
 ---
+album: Tommy's 22 Big Ones
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:0xNNY2vwkuWtyPT34WuG5B
 features: []
-genres: []
+first_released_as_single: false
 key: pearl-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/pearl.html
 name: Pearl
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 176000
 ---
-
 Pearl,
 One summer night with you,
 Will make up for the past,
@@ -100,6 +104,3 @@ With your fingertips,
 Kiss me with your pretty little lips,
 Oh Pearl,
 You're my girl.
-
-
-

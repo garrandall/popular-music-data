@@ -1,8 +1,11 @@
 ---
+album: Mercury Falling
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:6XGHeamuqVENDEVHi8R7So
 features: []
-genres: []
+first_released_as_single: true
 key: let-your-soul-be-your-pilot-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/letyoursoulbeyourpilot.html
 name: Let Your Soul Be Your Pilot
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1996
+runtime: 402906
 ---
-
 Let your soul be your pilot
 Let your soul guide you
 He'll guide you well
@@ -72,6 +76,3 @@ Let your soul be your pilot
 Let your soul guide you
 Let your soul guide you
 Let your soul guide you upon your way...
-
-
-

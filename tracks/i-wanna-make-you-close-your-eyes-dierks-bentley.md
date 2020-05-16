@@ -1,8 +1,11 @@
 ---
+album: Feel That Fire
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:0V6Na986SNXm1CpreVF56E
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-make-you-close-your-eyes-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/iwannamakeyoucloseyoureyes.html
 name: I Wanna Make You Close Your Eyes
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
+release_year: 2009
+runtime: 239119
 ---
-
 Girl I've been waiting on this long hard day to get over
 So I can rest my head right here on your shoulder
 I just wanna lay here and feel you breathe
@@ -121,6 +125,3 @@ Yeah... I wanna make you close your eyes... oh
 
 I wanna make you close your eyes... oh
 Girl... I wanna make you close your eyes
-
-
-

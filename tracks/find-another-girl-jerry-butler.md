@@ -1,8 +1,11 @@
 ---
+album: Aware Of Love
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6Amd6FpVPI5nJYop05KHq2
 features: []
-genres: []
+first_released_as_single: false
 key: find-another-girl-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-find-another-girl-lyrics
 name: Find Another Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 172640
 ---
 Find yourself another girl
 Who will love you

@@ -1,8 +1,11 @@
 ---
+album: Canadian Rock & Roll with Jack Scott
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:4OTvhmGXJNy9rz89j01m7X
 features: []
-genres: []
+first_released_as_single: false
 key: burning-bridges-jack-scott
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Scott/Burning-Bridges-Re-recorded
 name: Burning Bridges
@@ -75,6 +78,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 167613
 ---
 Found some letters you wrote me this morning
 They told of the love we once knew

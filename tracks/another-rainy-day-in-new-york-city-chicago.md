@@ -1,8 +1,11 @@
 ---
+album: Chicago X
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:19PKMOoh2Rra8T50wrkq1X
 features: []
-genres: []
+first_released_as_single: false
 key: another-rainy-day-in-new-york-city-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/anotherrainydayinnewyorkcity.html
 name: Another Rainy Day In New York City
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1976
+runtime: 181733
 ---
-
 Another rainy day in New York City
 Softly sweet, so silently it falls
 As cross town traffic crawls
@@ -63,6 +67,3 @@ Old friends and family
 So suddenly serene
 The air is fresh and clean
 Another rainy day in New York City
-
-
-

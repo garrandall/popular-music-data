@@ -1,8 +1,11 @@
 ---
+album: Fantasy
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:0v1qlRKi0ZwlQn4zK3kM4N
 features: []
-genres: []
+first_released_as_single: false
 key: "coraz\xF3n-carole-king"
 name: "Coraz\xF3n"
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 245666
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Kinda Kinks
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:6KeQfvgHCce8WzR7USII57
 features: []
-genres: []
+first_released_as_single: false
 key: set-me-free-the-kinks
 lyrics_url: https://genius.com/The-kinks-set-me-free-lyrics
 name: Set Me Free
@@ -39,6 +42,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 129779
 ---
 Set me free, little girl
 All you gotta do is set me free, little girl

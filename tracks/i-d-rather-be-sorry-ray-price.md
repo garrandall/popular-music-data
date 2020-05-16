@@ -1,8 +1,11 @@
 ---
+album: I Won't Mention It Again
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:1bajcmEXmF8GGhZhBBBsdk
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-be-sorry-ray-price
 lyrics_url: https://genius.com/Ray-price-id-rather-be-sorry-lyrics
 name: I'd Rather Be Sorry
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1956
+runtime: 166000
 ---
 If you hurt me you won't be the first or the last in the lifetime of many mistakes
 But I won't spend tomorrow regreting the past for the chances that I didn't take

@@ -1,8 +1,11 @@
 ---
+album: Fred Schneider & The Shake Society
 artists:
 - Fred Schneider
+external_ids:
+  spotify: spotify:track:4ckYtCucL8hyGBdEOcL2ns
 features: []
-genres: []
+first_released_as_single: false
 key: monster-fred-schneider
 lyrics_url: https://genius.com/Fred-schneider-monster-lyrics
 name: Monster
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1991
+runtime: 235733
 ---
 I saw it officer
 It looked prehistoric

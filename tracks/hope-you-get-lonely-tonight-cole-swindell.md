@@ -1,8 +1,11 @@
 ---
+album: Cole Swindell
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:5BtS8w1kkjLV1BbvB0t12u
 features: []
-genres: []
+first_released_as_single: false
 key: hope-you-get-lonely-tonight-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/hopeyougetlonelytonight.html
 name: Hope You Get Lonely Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
+release_year: 2014
+runtime: 227986
 ---
-
 I could go for a tipsy tailgate kiss, 
 baby taste the moonshinin' off of your lips, 
 I want to see that want ya smile, 
@@ -134,6 +138,3 @@ we ain't gotta make up just kiss me,
 we could straight up blame it on the whiskey, 
 you ain't gotta wake up and miss me, no, 
 I hope you get lonely tonight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Leona Lewis
+external_ids:
+  spotify: spotify:track:2rVnxIk0QkCpHNWXElXtVk
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-be-leona-lewis
 lyrics_url: https://genius.com/Leona-lewis-i-will-be-lyrics
 name: I Will Be
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2007
+runtime: 238654
 ---
 There’s nothing I could say to you
 Nothing I could ever do to make you see

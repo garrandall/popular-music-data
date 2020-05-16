@@ -1,8 +1,11 @@
 ---
+album: Rainbow
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:1g1TeDflB6atAy7HKwrzXu
 features: []
-genres: []
+first_released_as_single: false
 key: learn-to-let-go-kesha
 lyrics_url: https://genius.com/Kesha-learn-to-let-go-lyrics
 name: Learn To Let Go
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 217546
 ---
 Been a prisoner of the past
 Had a bitterness when I looked back

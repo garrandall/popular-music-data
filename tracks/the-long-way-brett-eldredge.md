@@ -1,8 +1,11 @@
 ---
+album: Brett Eldredge
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:5vuMtXS5kQ7F0o9V9rG1dG
 features: []
-genres: []
+first_released_as_single: false
 key: the-long-way-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/thelongway.html
 name: The Long Way
@@ -55,8 +58,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2017
+runtime: 208720
 ---
-
 Don't think I've ever seen your kind of pretty
 Wandering around this midnight mad house city
 You got a look that says you got it all together
@@ -90,6 +94,3 @@ Your faults and your glories
 That made you who you are right now
 Take me the long way around
 Take me the long way around
-
-
-

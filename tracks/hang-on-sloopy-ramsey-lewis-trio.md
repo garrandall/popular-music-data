@@ -1,8 +1,11 @@
 ---
+album: Hang On Ramsey!
 artists:
 - Ramsey Lewis Trio
+external_ids:
+  spotify: spotify:track:2p2fZgKO3iaabRSj3FJ2Gj
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-sloopy-ramsey-lewis-trio
 lyrics_url: https://genius.com/The-ramsey-lewis-trio-hang-on-sloopy-live-lyrics
 name: Hang On Sloopy
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1965
+runtime: 189160
 ---
 Hang on sloopy, sloopy hang on
 Hang on sloopy, sloopy hang on
@@ -66,4 +71,3 @@ You know it feels so good come on, come on
 Well shake it, shake it, shake it sloopy come on, come on
 Well shake it, shake it, shake it yeah
 Yeah...
-

@@ -1,10 +1,13 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3fpTMuD1u3gJlVI4FadVHs
 features:
 - T.I.
 - Swizz Beatz
-genres: []
+first_released_as_single: false
 key: fancy-drake-t-i--swizz-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/drake/fancy.html
 name: Fancy
@@ -89,9 +92,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-12-25'
+release_year: 2010
+runtime: 319386
 ---
-
-
 Go
 Go 'head
 Go go go 'head
@@ -253,6 +256,3 @@ Oh you fancy huh
 Nails done, hair done, everything big
 Nails done, hair done, everything big
 Oh you fancy huh
-
-
-

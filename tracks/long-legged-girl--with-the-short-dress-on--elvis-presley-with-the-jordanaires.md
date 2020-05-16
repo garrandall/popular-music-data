@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:17PQz1AnghW1KrVNKquNvt
 features: []
-genres: []
+first_released_as_single: false
 key: long-legged-girl--with-the-short-dress-on--elvis-presley-with-the-jordanaires
 name: Long Legged Girl (With The Short Dress On)
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 97053
 ---
 

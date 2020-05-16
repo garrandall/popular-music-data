@@ -1,8 +1,11 @@
 ---
+album: Best Of Bee Gees (Vol. 2)
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:1ke2Df0auUWdrP86EvCZul
 features: []
-genres: []
+first_released_as_single: false
 key: my-world-bee-gees
 lyrics_url: https://genius.com/Bee-gees-my-world-lyrics
 name: My World
@@ -39,6 +42,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 263173
 ---
 Don't shed a tear for me
 No, it's not your style

@@ -1,8 +1,11 @@
 ---
+album: "Radio Nord & Radio Syd Toppl\xE5tarna fr\xE5n 1961-1962"
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:5wTPFI9gsJWnHMDl9fwbIh
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-will-pat-boone
 lyrics_url: https://genius.com/Pat-boone-johnny-will-lyrics
 name: Johnny Will
@@ -47,6 +50,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 145946
 ---
 I gotta get some money and get it right away
 Because my baby she gave me the word today

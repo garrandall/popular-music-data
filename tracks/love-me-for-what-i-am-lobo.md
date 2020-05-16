@@ -1,8 +1,11 @@
 ---
+album: Calumet
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:2QeYIWk6icCkaAjuSAqeRm
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-for-what-i-am-lobo
 lyrics_url: https://genius.com/Lobo-singer-love-me-for-what-i-am-lyrics
 name: Love Me For What I Am
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1973
+runtime: 250133
 ---
 I wore the clothes you like
 You said they gave me that look

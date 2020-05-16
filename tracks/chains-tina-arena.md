@@ -1,8 +1,11 @@
 ---
+album: Don't Ask
 artists:
 - Tina Arena
+external_ids:
+  spotify: spotify:track:6up14qZNmMgJkeRGERq1a8
 features: []
-genres: []
+first_released_as_single: false
 key: chains-tina-arena
 lyrics_url: https://www.azlyrics.com/lyrics/tinaarena/chains.html
 name: Chains
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
+release_year: 1993
+runtime: 316600
 ---
-
 Your arms are warm but they make me feel
 As if they're made of cold, cold steel
 A simple kiss like a turnin' key
@@ -117,6 +121,3 @@ Baby, baby, I'm in chains
 Chains
 Baby, baby, I'm in chains
 Hey, hey
-
-
-

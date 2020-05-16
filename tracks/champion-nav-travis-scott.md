@@ -1,9 +1,12 @@
 ---
+album: RECKLESS
 artists:
 - NAV
+external_ids:
+  spotify: spotify:track:6nO3tr47nr2P7f3hXb8JIo
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: champion-nav-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/nav/champion.html
 name: Champion
@@ -12,9 +15,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 195053
 ---
-
-
 Ballin' like I'm in the NBA
 No, these racks cannot see TSA
 They found me, now I have to relocate
@@ -84,6 +87,3 @@ No TSA, hop on a jet, we gone
 Ballin' like I'm in the NBA
 No, these racks cannot see TSA
 They found me, now I have to relocate
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Icehouse In Concert (Live)
 artists:
 - Icehouse
+external_ids:
+  spotify: spotify:track:3ZPIpP53m6hh5fMy29fCXj
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-get-together-icehouse
 lyrics_url: https://www.azlyrics.com/lyrics/icehouse/wecangettogether.html
 name: We Can Get Together
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
+release_year: 1981
+runtime: 258514
 ---
-
 There must be something we can talk about
 And maybe there's something here that we can do
 No matter what your friends say, don't go too far
@@ -94,6 +98,3 @@ Later sometime
 You can buckle my shoes
 You can pick up my sticks
 Why don't you open that door
-
-
-

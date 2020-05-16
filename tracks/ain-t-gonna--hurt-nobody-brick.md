@@ -1,8 +1,11 @@
 ---
+album: Brick
 artists:
 - Brick
+external_ids:
+  spotify: spotify:track:2gdmo3ULjoHN3iDsufbvPG
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-gonna--hurt-nobody-brick
 lyrics_url: https://genius.com/Brick-aint-gonna-hurt-nobody-lyrics
 name: Ain't Gonna' Hurt Nobody
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1976
+runtime: 235333
 ---
 Move a groove, nice and easy
 Feels so good

@@ -1,8 +1,11 @@
 ---
+album: The Jamie Singles Collection 1962-1965
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:4rqZUbzWuy93LEr5h8Wj2c
 features: []
-genres: []
+first_released_as_single: false
 key: oh--baby--we-got-a-good-thing-goin---barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-oh-baby-we-got-a-good-thing-going-lyrics
 name: Oh! Baby (We Got A Good Thing Goin')
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 125160
 ---
 (ozen)
 

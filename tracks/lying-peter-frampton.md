@@ -1,8 +1,11 @@
 ---
+album: Live In Detroit
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:4K2FHrkTVq8e63ZGxzNiqL
 features: []
-genres: []
+first_released_as_single: false
 key: lying-peter-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/peterframpton/lying.html
 name: Lying
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
+release_year: 1986
+runtime: 370466
 ---
-
 I'll tell you something about an hour ago
 I see you with someone I don't even know
 I caught you lying -- Yeah, you were lying
@@ -82,6 +86,3 @@ Take your reasons through that door
 Don't come calling anymore
 I can't fight you I can't win
 I don't know what game you're playin'
-
-
-

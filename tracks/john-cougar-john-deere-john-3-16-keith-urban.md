@@ -1,8 +1,11 @@
 ---
+album: Ripcord
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:72f7jNxopSGvbx3M35i3Zl
 features: []
-genres: []
+first_released_as_single: false
 key: john-cougar-john-deere-john-3-16-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/johncougarjohndeerejohn316.html
 name: John Cougar John Deere John 3:16
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 221600
 ---
-
 I'm a 45 spinning on an old Victrola
 I'm a two strike swinger, I'm a Pepsi Cola
 I'm a blue jean quarterback saying "I love you" to the prom queen
@@ -137,6 +141,3 @@ Everything I needed
 Everything I needed
 (John Cougar, John Deere, John 3: 16)
 That's right
-
-
-

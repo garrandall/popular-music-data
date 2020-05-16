@@ -1,9 +1,12 @@
 ---
+album: Deliver
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:1mFrjW8e8fuAOowlU3Q3Dr
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-to-the-one-i-love-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/dedicatedtotheoneilove.html
 name: Dedicated To The One I Love
@@ -48,8 +51,9 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 178733
 ---
-
 While I'm far away from you, my baby,
 I know it's hard for you, my baby,
 Because it's hard for me, my baby,
@@ -81,6 +85,3 @@ This is dedicated (to the one I love)
 This is dedicated to the one I love
 This is dedicated (to the one I love)
 This is dedicated...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Garbage
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:1IsGA5ceSC4a5nxgAEYnQd
 features: []
-genres: []
+first_released_as_single: false
 key: only-happy-when-it-rains-garbage
 lyrics_url: https://www.musixmatch.com/lyrics/Garbage/Only-Happy-When-It-Rains
 name: Only Happy When It Rains
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1995
+runtime: 236533
 ---
 I'm only happy when it rains
 I'm only happy when it's complicated

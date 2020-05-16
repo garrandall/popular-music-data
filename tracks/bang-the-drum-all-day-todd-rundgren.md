@@ -1,8 +1,11 @@
 ---
+album: The Ever Popular Tortured Artist Effect
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:54EvqHberbpzMu7nu8hs9S
 features: []
-genres: []
+first_released_as_single: false
 key: bang-the-drum-all-day-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/bangthedrumallday.html
 name: Bang The Drum All Day
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
+release_year: 1982
+runtime: 215400
 ---
-
 I don't want to work
 I want to bang on the drum all day
 I don't want to play
@@ -96,6 +100,3 @@ I want to bang on the drum all day
 I don't want to play
 I just want to bang on the drum all day
 I can do this all day
-
-
-

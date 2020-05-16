@@ -1,8 +1,11 @@
 ---
+album: 7 Wishes
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:5pSMOv1TyJhHKPCEh6ulTG
 features: []
-genres: []
+first_released_as_single: false
 key: sentimental-street-night-ranger
 lyrics_url: https://www.azlyrics.com/lyrics/nightranger/sentimentalstreet.html
 name: Sentimental Street
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1985
+runtime: 253733
 ---
-
 Saw you walkin' out on Sentimental Street
 What'cha doin' out there
 Who you tryin' to be
@@ -105,7 +109,7 @@ Saw you dancin' out at Madame Wong Two's
 You did the same two steps
 That I taught you back in June
 Heard you dined last night
-At Conte Razor's CafÃ©
+At Conte Razor's Café
 Did you get your fill
 Did you think you had to pay
 
@@ -144,6 +148,3 @@ Who you tryin' to be
 Out on Sentimental Street in the Avenues
 Will you ever find us
 Guess I'll leave it up to you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Crimes Of Passion
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:5qwdIO55XtliaaSs9ccptC
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-run-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/youbetterrun.html
 name: You Better Run
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 185026
 ---
-
 Whatcha tryin' a do to my heart?
 Whatcha tryin' a do to my heart?
 You go around tellin' lies
@@ -91,6 +95,3 @@ Let me go, yeah
 
 I said go away, and leave me alone
 I can't stand you no more
-
-
-

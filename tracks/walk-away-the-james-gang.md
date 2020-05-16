@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of Joe Walsh'
 artists:
 - The James Gang
+external_ids:
+  spotify: spotify:track:6BfTQqWp1dcmIuENV5iDev
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-the-james-gang
 lyrics_url: https://www.azlyrics.com/lyrics/jamesgang/walkaway.html
 name: Walk Away
@@ -47,8 +50,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 214960
 ---
-
 Taking my time
 Choosin' my line
 Tryin' to decide what to do
@@ -92,6 +96,3 @@ Seems to me
 You just turn your pretty head and walk away
 
 Walk away
-
-
-

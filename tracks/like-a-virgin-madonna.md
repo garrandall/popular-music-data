@@ -1,8 +1,11 @@
 ---
+album: Like a Virgin (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1ZPlNanZsJSPK5h9YZZFbZ
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-virgin-madonna
 lyrics_url: https://genius.com/Madonna-like-a-virgin-lyrics
 name: Like A Virgin
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-03-23'
+release_year: 1984
+runtime: 218626
 ---
 I made it through the wilderness
 Somehow I made it through

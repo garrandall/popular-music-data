@@ -1,8 +1,11 @@
 ---
+album: We Got It
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:2FJiNQbxS33DkE0w5IXoxc
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-immature
 lyrics_url: https://genius.com/Immature-please-dont-go-lyrics
 name: Please Don't Go
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1995
+runtime: 271933
 ---
 Baby, please don't go (please don't go)
 Stay right by my side (by my side)

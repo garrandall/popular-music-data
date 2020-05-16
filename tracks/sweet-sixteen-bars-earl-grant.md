@@ -1,8 +1,11 @@
 ---
+album: 'Singin'' & Swingin'': The Best Of Earl Grant'
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:4epoSl8BTGb5yfvkqdhyhv
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sixteen-bars-earl-grant
 name: Sweet Sixteen Bars
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 292533
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'Plays Worried Mind: The Soul Of Country Western Blues'
 artists:
 - Ray Anthony
+external_ids:
+  spotify: spotify:track:4MDhyrcITLRMYPdwdZ3HbI
 features: []
-genres: []
+first_released_as_single: false
 key: worried-mind-ray-anthony
 name: Worried Mind
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 160266
 ---
 

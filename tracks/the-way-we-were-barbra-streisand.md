@@ -1,8 +1,11 @@
 ---
+album: The Way We Were
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:5vuhClIyhrZhOMGa21fkzW
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-we-were-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-the-way-we-were-lyrics
 name: The Way We Were
@@ -99,6 +102,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1972
+runtime: 209506
 ---
 Hm hm
 Hm hm hm hm hm hm hm

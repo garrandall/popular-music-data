@@ -1,8 +1,11 @@
 ---
+album: Live From Batley Variety Club
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:1yeGdzrzx8o10PVKqLYYsY
 features: []
-genres: []
+first_released_as_single: false
 key: dream-baby--how-long-must-i-dream--roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-dream-baby-how-long-must-i-dream-lyrics
 name: Dream Baby (How Long Must I Dream)
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 141626
 ---
 Sweet dream baby
 Sweet dream baby

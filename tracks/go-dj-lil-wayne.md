@@ -1,8 +1,11 @@
 ---
+album: Tha Carter
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4svCVV4VHEL3Z4efES868h
 features: []
-genres: []
+first_released_as_single: false
 key: go-dj-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-go-dj-lyrics
 name: Go DJ
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2004
+runtime: 281826
 ---
 Yeah, yeah, yeah, yeah, yeah
 Grown-ups, in between, children and babies

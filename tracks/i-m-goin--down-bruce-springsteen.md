@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:0VkDedVtP7TQDlaCMq9QVx
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-goin--down-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-im-goin-down-lyrics
 name: I'm Goin' Down
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1984
+runtime: 209040
 ---
 We sit in the car outside your house you're quiet
 I can feel the heat coming around

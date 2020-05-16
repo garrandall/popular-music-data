@@ -1,8 +1,11 @@
 ---
+album: Simple Dreams
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:6GXnW8Dd8zWsXoPrElcTGr
 features: []
-genres: []
+first_released_as_single: false
 key: poor-poor-pitiful-me-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/poorpoorpitifulme.html
 name: Poor Poor Pitiful Me
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 220800
 ---
-
 Well I lay my head on the railroad track
 Waiting on the Double E
 But the train don't run by here no more
@@ -88,6 +92,3 @@ Poor poor poor me
 Poor poor pitiful me
 Poor poor poor me
 Poor poor pitiful me
-
-
-

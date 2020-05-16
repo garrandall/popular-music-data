@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits (Re-Recorded Versions)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:7vLulg0d9DreZngW3SsPvz
 features: []
-genres: []
+first_released_as_single: false
 key: he-don-t-really-love-you-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-he-dont-really-love-you-lyrics
 name: He Don't Really Love You
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1968
+runtime: 144093
 ---
 He don't really love you, girl
 As much as I do, oh

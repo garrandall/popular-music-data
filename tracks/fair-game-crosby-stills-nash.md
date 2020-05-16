@@ -1,8 +1,11 @@
 ---
+album: CSN
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:3xYaDMMS4PnZRoi6JYll8w
 features: []
-genres: []
+first_released_as_single: false
 key: fair-game-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/fairgame.html
 name: Fair Game
@@ -43,10 +46,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1977
+runtime: 212026
 ---
-
-
-
 Take a look around you tell me if you see
 A girl who thinks she's ordinary lookin' she has got the key
 If you can get close enough to look into her eyes
@@ -80,4 +82,3 @@ And you're fair game
 You'll never know what she'll decide
 You're fair game
 Just relax enjoy the ride
-

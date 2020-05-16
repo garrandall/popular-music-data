@@ -1,8 +1,11 @@
 ---
+album: Defying Gravity
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:1ddEJFVOCOjNqh19FTQAsX
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-can-love-me-this-way-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/onlyyoucanlovemethisway.html
 name: Only You Can Love Me This Way
@@ -83,8 +86,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 247680
 ---
-
 Well I know there's a reason
 And I know there's a rhyme
 We were meant to be together
@@ -128,6 +132,3 @@ Cause only you can love me this way
 Oh...
 
 Only you can love me this way.
-
-
-

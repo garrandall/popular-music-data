@@ -1,9 +1,12 @@
 ---
+album: Look What You Made Me
 artists:
 - Yung Berg
+external_ids:
+  spotify: spotify:track:6wCuYAhqYPKUvZfcc5cn08
 features:
 - Junior
-genres: []
+first_released_as_single: true
 key: sexy-lady-yung-berg-junior
 lyrics_url: https://www.musixmatch.com/lyrics/Yung-Berg-featuring-Junior-featuring-Junior/Sexy-Lady
 name: Sexy Lady
@@ -88,6 +91,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2007
+runtime: 229226
 ---
 Uh, yeah, Y.B.'s.
 Yup, I swear this album is crazy.

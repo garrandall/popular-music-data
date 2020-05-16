@@ -1,8 +1,11 @@
 ---
+album: The Single Collection, Vol. 2
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:5TJRl3EuZJwDkUFULcW6Mk
 features: []
-genres: []
+first_released_as_single: false
 key: got-a-girl-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-got-a-girl-lyrics
 name: Got A Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 148746
 ---
 Well I got a girl, what a girl
 I don't know what to do

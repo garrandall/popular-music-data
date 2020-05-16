@@ -1,8 +1,11 @@
 ---
+album: When the Whistle Blows Anything Goes
 artists:
 - Soul Survivors
+external_ids:
+  spotify: spotify:track:5BklSzHGznyYMUN52AClsx
 features: []
-genres: []
+first_released_as_single: false
 key: expressway--to-your-heart--soul-survivors
 lyrics_url: https://genius.com/The-soul-survivors-expressway-to-your-heart-lyrics
 name: Expressway (To Your Heart)
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 138409
 ---
 I've been tryin' to get to you for a long time
 'Cause constantly you been on my mind

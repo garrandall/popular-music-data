@@ -1,8 +1,12 @@
 ---
+album: No Time To Kill
 artists:
-- Clint Black With Wynonna
-features: []
-genres: []
+- Clint Black
+external_ids:
+  spotify: spotify:track:1XTgqedadpTqNod7SvpiP1
+features:
+- Wynonna
+first_released_as_single: false
 key: a-bad-goodbye-clint-black-with-wynonna
 name: A Bad Goodbye
 rankings:
@@ -50,5 +54,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
+release_year: 1993
+runtime: 219293
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Inside Wants Out
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:2hv6VI0I0BZDY15qsPOrjW
 features: []
-genres: []
+first_released_as_single: false
 key: no-such-thing-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/nosuchthing.html
 name: No Such Thing
@@ -103,8 +106,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2002-11-09'
+release_year: 1999
+runtime: 229466
 ---
-
 "Welcome to the real world", she said to me
 Condescendingly
 Take a seat
@@ -164,6 +168,3 @@ I just can't wait til my ten year reunion
 I'm gonna bust down the double doors
 And when I stand on these tables before you
 You will know what all this time was for
-
-
-

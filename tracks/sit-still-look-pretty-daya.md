@@ -1,8 +1,11 @@
 ---
+album: Sit Still, Look Pretty
 artists:
 - Daya
+external_ids:
+  spotify: spotify:track:1OSCYbw1tRKxsHVMk2AZ1l
 features: []
-genres: []
+first_released_as_single: false
 key: sit-still-look-pretty-daya
 lyrics_url: https://www.azlyrics.com/lyrics/daya/sitstilllookpretty.html
 name: Sit Still Look Pretty
@@ -103,8 +106,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 208928
 ---
-
 Could dress up
 To get love
 But guess what?
@@ -191,6 +195,3 @@ Sit still, look pretty
 Sit still, look pretty
 Sit still, look pretty
 Sit still, look pretty
-
-
-

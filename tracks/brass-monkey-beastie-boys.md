@@ -1,8 +1,11 @@
 ---
+album: Licensed To Ill
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:2tY1gxCKslfXLFpFofYmJQ
 features: []
-genres: []
+first_released_as_single: false
 key: brass-monkey-beastie-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beastieboys/brassmonkey.html
 name: Brass Monkey
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1986
+runtime: 157440
 ---
-
 Brass Monkey - that funky Monkey
 Brass Monkey junkie
 That funky Monkey
@@ -99,4 +103,3 @@ I drink it - I think it - I see it - I be it
 I love Brass Monkey but I won't give D. it
 We got the bottle you got the cup
 Come on everybody let's get ffffff
-

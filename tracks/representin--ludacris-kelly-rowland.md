@@ -1,9 +1,12 @@
 ---
+album: Representin
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:6L5ViZKQnnhI11uc2opNPO
 features:
 - Kelly Rowland
-genres: []
+first_released_as_single: true
 key: representin--ludacris-kelly-rowland
 lyrics_url: https://genius.com/Ludacris-representin-lyrics
 name: Representin'
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
+release_year: 2012
+runtime: 245093
 ---
 I’ll be representing, representing
 I’ll be representing, representing

@@ -1,8 +1,11 @@
 ---
+album: I Never Said Goodbye
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:1bTn7ONbArYvBBVjJA0uar
 features: []
-genres: []
+first_released_as_single: false
 key: eagles-fly-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/eaglesfly.html
 name: Eagles Fly
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 300973
 ---
-
 Sunday morning, 9 a.m.
 I saw fire in the sky
 I felt my heart pound in my chest
@@ -106,6 +110,3 @@ Eagles fly, oh, take me away
 Eagles fly, oh, take me away
 Come on, let's fly away where eagles fly
 I wanna fly away, oh, where eagles fly, yeah
-
-
-

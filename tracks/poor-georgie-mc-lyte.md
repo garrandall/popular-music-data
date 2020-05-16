@@ -1,8 +1,11 @@
 ---
+album: Act Like You Know (Explicit Version)
 artists:
 - MC Lyte
+external_ids:
+  spotify: spotify:track:0wIEQYOLgV9TneTgM3aRVE
 features: []
-genres: []
+first_released_as_single: false
 key: poor-georgie-mc-lyte
 lyrics_url: https://www.azlyrics.com/lyrics/mclyte/poorgeorgie.html
 name: Poor Georgie
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 270093
 ---
-
 I met him in a club hangin out one night
 He said, "Hello I'm George.. hi Lyte!
 How's everything goin, huh, how ya doin?
@@ -124,6 +128,3 @@ Believe that! And don't think that it can't happen to you
 "Can it be I've stayed away too long"
 
 "Kissed the girls and made them cry"
-
-
-

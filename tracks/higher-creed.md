@@ -1,8 +1,11 @@
 ---
+album: Human Clay
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:1ZozJfi8u9cO2Ob8KwiwNT
 features: []
-genres: []
+first_released_as_single: false
 key: higher-creed
 lyrics_url: https://www.musixmatch.com/lyrics/Creed/Higher
 name: Higher
@@ -235,6 +238,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 1999
+runtime: 316733
 ---
 When dreaming
 I'm guided to another world

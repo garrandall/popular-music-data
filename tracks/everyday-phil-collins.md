@@ -1,8 +1,11 @@
 ---
+album: Both Sides
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:1TuC2upbvZ6Ae0VE4kj8dT
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/everyday.html
 name: Everyday
@@ -87,8 +90,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
+release_year: 1993
+runtime: 343893
 ---
-
 'Love can make you do things you never dreamed possible...' 
 
 I got lost, couldn't find my way
@@ -141,6 +145,3 @@ ourselves to sleep, we will
 
 Everyday, everyday you know I try so hard
 everyday, everyday it gets a little harder
-
-
-

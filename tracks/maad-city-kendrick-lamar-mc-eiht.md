@@ -1,9 +1,12 @@
 ---
+album: good kid, m.A.A.d city
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:2cDCojn6uIBM6A5xTAbl3H
 features:
 - MC Eiht
-genres: []
+first_released_as_single: false
 key: maad-city-kendrick-lamar-mc-eiht
 lyrics_url: https://genius.com/Genius-traductions-francaises-kendrick-lamar-maad-city-ft-mc-eiht-traduction-francaise-lyrics
 name: mAAd City
@@ -20,6 +23,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2014-02-15'
+release_year: 2012
+runtime: 350120
 ---
 If Pirus and Crips all got along
 They'd probably gun me down by the end of this song

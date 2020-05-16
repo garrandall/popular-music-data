@@ -1,8 +1,11 @@
 ---
+album: Michel'le
 artists:
 - Michel'le
+external_ids:
+  spotify: spotify:track:1Oz5bcZyzhiaEa3F06EiPY
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-lies-michel-le
 lyrics_url: https://genius.com/Michelle-no-more-lies-lyrics
 name: No More Lies
@@ -123,6 +126,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
+release_year: 1989
+runtime: 225840
 ---
 Hello?
 Hello? Hello?

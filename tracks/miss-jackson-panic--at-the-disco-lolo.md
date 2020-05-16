@@ -1,9 +1,12 @@
 ---
+album: Too Weird To Live, Too Rare To Die!
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:46Kcradxrva9Dny4lHU1b3
 features:
 - Lolo
-genres: []
+first_released_as_single: false
 key: miss-jackson-panic--at-the-disco-lolo
 lyrics_url: https://genius.com/Miss-jackson-miss-jackson-tribute-to-panic-at-the-disco-and-lolo-lyrics
 name: Miss Jackson
@@ -12,6 +15,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
+release_year: 2013
+runtime: 192053
 ---
 (Climbing out back the door, didn't leave a mark)
 (No one knows it's you Miss Jackson)

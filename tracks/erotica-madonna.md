@@ -1,8 +1,11 @@
 ---
+album: Erotica
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4eMLyB1mc7onYLdoG8YSXG
 features: []
-genres: []
+first_released_as_single: false
 key: erotica-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/erotica.html
 name: Erotica
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 318573
 ---
-
 Erotica, romance
 My name is Dita
 I'll be your mistress tonight
@@ -151,6 +155,3 @@ Only the one that hurts you can make you feel better
 Only the one that inflicts pain can take it away
 
 Eroti - ca
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chicago 19
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:1bQ6SZAR7xI0z6sIxK95KJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-live-without-your-love-chicago
 lyrics_url: https://genius.com/Chicago-i-dont-wanna-live-without-your-love-lyrics
 name: I Don't Wanna Live Without Your Love
@@ -91,6 +94,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 234466
 ---
 Thought it wouldn't matter
 If we didn't stay together

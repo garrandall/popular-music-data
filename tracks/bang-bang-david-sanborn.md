@@ -1,8 +1,11 @@
 ---
+album: Upfront
 artists:
 - David Sanborn
+external_ids:
+  spotify: spotify:track:1TUtUzVjXu1zA4U9nNv3Pw
 features: []
-genres: []
+first_released_as_single: false
 key: bang-bang-david-sanborn
 lyrics_url: https://genius.com/David-sanborn-bang-bang-lyrics
 name: Bang Bang
@@ -51,5 +54,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1992
+runtime: 277431
 ---
 Instrumental

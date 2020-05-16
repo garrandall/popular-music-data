@@ -1,8 +1,11 @@
 ---
+album: Still Crazy After All These Years
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:79VmQuOW9aVJgydOwSWEH8
 features: []
-genres: []
+first_released_as_single: false
 key: slip-slidin--away-paul-simon
 lyrics_url: https://genius.com/Paul-simon-slip-slidin-away-lyrics
 name: Slip Slidin' Away
@@ -87,9 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1975
+runtime: 329106
 ---
-
-
 Slip slidin’ away
 Slip slidin’ away
 You know the nearer your destination
@@ -148,5 +151,3 @@ Slip slidin’ away
 Slip slidin’ away
 You know the nearer your destination
 The more you’re slip slidin’ away
-
-

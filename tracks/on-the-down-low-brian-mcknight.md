@@ -1,8 +1,11 @@
 ---
+album: I Remember You
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:1FnRCmbcdYWTWcjswVXg2W
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-down-low-brian-mcknight
 lyrics_url: https://www.azlyrics.com/lyrics/brianmcknight/onthedownlow.html
 name: On The Down Low
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1995
+runtime: 298773
 ---
-
 Maxine was 5'9''
 Had a man, and she didn't mind
 Walked up to me nice and slow
@@ -98,4 +102,3 @@ Deprived of all the things
 She misses, wants, wishes, and needs
 Got hotter than a hundred and three
 She turned and said to me
-

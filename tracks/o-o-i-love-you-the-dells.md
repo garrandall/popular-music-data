@@ -1,8 +1,11 @@
 ---
+album: There Is
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:2Q2C7VUg0cfhkI78RKT9Ik
 features: []
-genres: []
+first_released_as_single: false
 key: o-o-i-love-you-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/O-O-I-Love-You
 name: O-O I Love You
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 199066
 ---
 In my mind, thoughts are formed
 The pen writes and words are born

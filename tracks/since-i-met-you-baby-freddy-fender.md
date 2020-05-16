@@ -1,8 +1,11 @@
 ---
+album: 'Golden Legends: Freddy Fender Live'
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:7dWpDKSrsC4KSMZuheBUac
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-met-you-baby-freddy-fender
 lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/sinceimetyoubaby.html
 name: Since I Met You Baby
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 192266
 ---
-
 Since I met you baby, my whole life has changed
 Since I met you baby, my whole life has changed
 And everybody tells me that I am not the same
@@ -52,6 +56,3 @@ I don't need nobody to tell my troubles to
 Since I met you baby, I'm a happy man
 Since I met you baby, I'm a happy man
 I'm gonna try to please you in every way I can
-
-
-

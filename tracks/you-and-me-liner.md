@@ -1,8 +1,11 @@
 ---
+album: Introduction
 artists:
 - Liner
+external_ids:
+  spotify: spotify:track:0yE1TKtTYDbThPoGoi2VM3
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-me-liner
 lyrics_url: https://www.musixmatch.com/lyrics/Liner/You-and-Me
 name: You And Me
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1979
+runtime: 141173
 ---
 You and me
 Could easily be mmm together endlessly

@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Guy Mitchell
+external_ids:
+  spotify: spotify:track:3aCA1iPTX4BMnGcLWGUoXE
 features: []
-genres: []
+first_released_as_single: false
 key: my-shoes-keep-walking-back-to-you-guy-mitchell
 lyrics_url: https://www.musixmatch.com/lyrics/Guy-Mitchell/My-Shoes-Keep-Walking-Back-to-You
 name: My Shoes Keep Walking Back To You
@@ -47,6 +50,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 173666
 ---
 Oh, my arms keep reachin' for you
 My eyes keep searchin' for you

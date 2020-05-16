@@ -1,8 +1,11 @@
 ---
+album: Animal Tracks
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:5CATKBmc0YtFlDR3wt6qN5
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-home-to-me-the-animals
 lyrics_url: https://genius.com/The-animals-bring-it-on-home-to-me-lyrics
 name: Bring It On Home To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 162133
 ---
 If you ever change your mind
 About leaving, leaving me behind

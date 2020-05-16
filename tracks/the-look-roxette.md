@@ -1,8 +1,11 @@
 ---
+album: Look Sharp!
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:79LdvxXi5JYUjhnO7v9Fi3
 features: []
-genres: []
+first_released_as_single: false
 key: the-look-roxette
 lyrics_url: https://genius.com/Roxette-the-look-lyrics
 name: The Look
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1988
+runtime: 237320
 ---
 One, two, three, four
 

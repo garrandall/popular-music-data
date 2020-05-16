@@ -1,8 +1,11 @@
 ---
+album: Disco Hits 70s & 80s
 artists:
 - Brenton Wood
+external_ids:
+  spotify: spotify:track:1tffppdVvHZzD0uRdYIxQ1
 features: []
-genres: []
+first_released_as_single: false
 key: the-oogum-boogum-song-brenton-wood
 lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/theoogumboogumsong.html
 name: The Oogum Boogum Song
@@ -55,8 +58,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 156960
 ---
-
 Oogum oogum boogum boogum
 boogum now baby you're castin' your spell on me
 A-I say, "Oogum oogum boogum boogum
@@ -99,6 +103,3 @@ you got soul, you got too much soul
 I just say who got the blues say who got the blues
 say who got the blues now castin' your spell on me
 Well I say, "Who got the blues say who got the blues..."
-
-
-

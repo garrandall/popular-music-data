@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4zLOwx1yRJXWkHKt1XzF1p
 features: []
-genres: []
+first_released_as_single: false
 key: now---forever-drake
 lyrics_url: https://genius.com/Drake-now-and-forever-lyrics
 name: Now & Forever
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 281320
 ---
 It's over, it's over, yeah, I'm leaving, I'm gone
 I can't stay here no more, and I can't sleep on the floor

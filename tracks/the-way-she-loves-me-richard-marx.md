@@ -1,8 +1,11 @@
 ---
+album: Paid Vacation
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:3bxKHPOZDRJHv0b5Ip5d0p
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-she-loves-me-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/thewayshelovesme.html
 name: The Way She Loves Me
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 256066
 ---
-
 I'll have this feeling
 Till the day that I die
 When I hear my baby calling
@@ -115,8 +119,3 @@ I have her promise that she's gonna stay
 Nobody else could do me so right
 A breath of Heaven in my darkest night
 I'm gonna hold on with all of my might
-
-
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dummy
 artists:
 - Portishead
+external_ids:
+  spotify: spotify:track:6vTtCOimcPs5H1Jr9d0Aep
 features: []
-genres: []
+first_released_as_single: false
 key: sour-times--nobody-loves-me--portishead
 lyrics_url: https://genius.com/Portishead-sour-times-lyrics
 name: Sour Times (Nobody Loves Me)
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
+release_year: 1994
+runtime: 252266
 ---
 To pretend no one can find
 The fallacies of morning rose

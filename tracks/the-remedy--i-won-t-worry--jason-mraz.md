@@ -1,8 +1,11 @@
 ---
+album: Waiting for My Rocket to Come
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:4tK4ARuilOrBzwVQK73E0Y
 features: []
-genres: []
+first_released_as_single: false
 key: the-remedy--i-won-t-worry--jason-mraz
 lyrics_url: https://www.musixmatch.com/lyrics/Jason-Mraz/The-Remedy-I-Won-t-Worry
 name: The Remedy (I Won't Worry)
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 2002
+runtime: 256440
 ---
 Well, I saw fireworks from the freeway
 And behind closed eyes, I cannot make them go away

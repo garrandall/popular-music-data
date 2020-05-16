@@ -1,9 +1,12 @@
 ---
+album: Whatever
 artists:
 - Hot Chelle Rae
+external_ids:
+  spotify: spotify:track:0SY8oIKugUoToaPujEfghp
 features:
 - New Boyz
-genres: []
+first_released_as_single: true
 key: i-like-it-like-that-hot-chelle-rae-new-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/hotchellerae/ilikeitlikethat.html
 name: I Like It Like That
@@ -88,8 +91,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2011
+runtime: 188320
 ---
-
 Let's get it on, yeah, y'all can come along
 Everybody drinks on me, bought out the bar
 Just to feel like I'm a star, now I'm thanking the academy
@@ -159,6 +163,3 @@ Oh oh oh oh like that
 Oh oh oh oh like that...
 Oh oh oh oh everybody, sing it right back, I like it like that
 I like it like that
-
-
-

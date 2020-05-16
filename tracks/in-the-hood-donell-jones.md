@@ -1,8 +1,11 @@
 ---
+album: My Heart
 artists:
 - Donell Jones
+external_ids:
+  spotify: spotify:track:2RXjRQ4RadpQTecRfRHa13
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-hood-donell-jones
 lyrics_url: https://www.azlyrics.com/lyrics/donelljones/inthehoodplayasversion.html
 name: In The Hood
@@ -39,9 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1996
+runtime: 301866
 ---
-
-
 This is for my playas in the hood
 Up to no good, let's kick it like we really should
 It's just an ordinary day
@@ -73,4 +76,3 @@ This is for the playas in the hood, up to no good
 As we're rolling around , and we're doing our thang
 This is for the playas in the hood, up to no good
 As we're rolling around, and we're doing our thang
-

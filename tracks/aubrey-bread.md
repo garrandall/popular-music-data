@@ -1,8 +1,11 @@
 ---
+album: Guitar Man
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:3his1UkcI0rwrniPDR9kTj
 features: []
-genres: []
+first_released_as_single: false
 key: aubrey-bread
 lyrics_url: https://www.azlyrics.com/lyrics/bread/aubrey.html
 name: Aubrey
@@ -51,8 +54,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1972
+runtime: 219493
 ---
-
 And Aubrey was her name
 A not so very ordinary girl or name
 But who's to blame?
@@ -84,6 +88,3 @@ If I can't have the one I want, I'll do without the best
 But how I miss the girl
 And I'd go a million times around the world just to say
 She had been mine for a day
-
-
-

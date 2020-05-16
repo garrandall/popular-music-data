@@ -1,8 +1,11 @@
 ---
+album: Once Upon a Time in the '60s
 artists:
 - The Outsiders
+external_ids:
+  spotify: spotify:track:4uSqea68X7d22VC8g74KoN
 features: []
-genres: []
+first_released_as_single: false
 key: time-won-t-let-me-the-outsiders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Outsiders-15/Time-Won-t-Let-Me
 name: Time Won't Let Me
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 185413
 ---
 I can't wait forever
 Even though you want me to

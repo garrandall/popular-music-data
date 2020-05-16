@@ -1,8 +1,11 @@
 ---
+album: Go to Heaven
 artists:
 - Grateful Dead
+external_ids:
+  spotify: spotify:track:5WVF1Ftv5oxspRac9km99R
 features: []
-genres: []
+first_released_as_single: false
 key: alabama-getaway-grateful-dead
 lyrics_url: https://www.azlyrics.com/lyrics/gratefuldead/alabamagetaway.html
 name: Alabama Getaway
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1980
+runtime: 216569
 ---
-
 Thirty two teeth in a jawbone
 Alabama cryin for none
 Before I have to hit him
@@ -80,6 +84,3 @@ Alabama getaway
 Only way to please me
 turn around and leave
 and walk away
-
-
-

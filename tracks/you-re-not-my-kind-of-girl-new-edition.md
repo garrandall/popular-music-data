@@ -1,8 +1,11 @@
 ---
+album: Heart Break
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:202QpSJo7inyEKWeARd5Ax
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-not-my-kind-of-girl-new-edition
 lyrics_url: https://genius.com/New-edition-youre-not-my-kind-of-girl-lyrics
 name: You're Not My Kind Of Girl
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1988
+runtime: 241693
 ---
 Sorry
 Oh, yeah (You’re very pretty)

@@ -1,8 +1,11 @@
 ---
+album: Emotions In Motion
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:39W3SQYsCXHzaA9U3UEMsq
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-runner-billy-squier
 lyrics_url: https://genius.com/Billy-squier-shes-a-runner-lyrics
 name: She's A Runner
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1982
+runtime: 243266
 ---
 Take my soul to the lost-and-found
 Girl she made me a hand-me-down

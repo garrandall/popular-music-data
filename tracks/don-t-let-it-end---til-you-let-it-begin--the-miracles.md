@@ -1,8 +1,11 @@
 ---
+album: Renaissance
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:1cfUBm1Pjo1HAPXwzdeURk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-it-end---til-you-let-it-begin--the-miracles
 lyrics_url: https://genius.com/The-miracles-dont-let-it-end-til-you-let-it-begin-lyrics
 name: Don't Let It End ('til You Let It Begin)
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 189360
 ---
 One cup of rain
 Won't come off again

@@ -1,8 +1,11 @@
 ---
+album: With Teeth
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:5ugzDiilhy6ILKmKfhEzd7
 features: []
-genres: []
+first_released_as_single: false
 key: the-hand-that-feeds-nine-inch-nails
 lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/thehandthatfeeds.html
 name: The Hand That Feeds
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2005
+runtime: 211680
 ---
-
 You're keeping in step 
 In the line 
 Got your chin held high and you feel just fine 
@@ -125,6 +129,3 @@ But I keep holding on and on and on and on
 
 Will you bite the hand that feeds you?
 Will you stay down on your knees?
-
-
-

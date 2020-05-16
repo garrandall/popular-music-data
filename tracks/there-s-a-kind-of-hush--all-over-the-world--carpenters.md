@@ -1,8 +1,11 @@
 ---
+album: A Kind Of Hush
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:23WcHb3tHuIfjQXqm19FLm
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-kind-of-hush--all-over-the-world--carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/theresakindofhush.html
 name: There's A Kind Of Hush (All Over The World)
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 177426
 ---
-
 There's a kind of hush
 All over the world tonight
 All over the world
@@ -97,6 +101,3 @@ There's a kind of hush
 All over the world tonight
 All over the world
 You can hear the sounds of lovers in love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rocky Mountain High
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:1ne9wOtDF2jM6Cm8WBkaER
 features: []
-genres: []
+first_released_as_single: false
 key: rocky-mountain-high-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/rockymountainhigh.html
 name: Rocky Mountain High
@@ -83,8 +86,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1972
+runtime: 283640
 ---
-
 He was born in the summer of his 27th year, coming home to a place he'd never been before
 He left yesterday behind him, you might say he was born again
 You might say he found a key for every door
@@ -119,6 +123,3 @@ Rocky Mountain high, the Colorado Rocky Mountain high, I've seen it raining fire
 Friends around the campfire and everybody's high
 Rocky Mountain high, Colorado. Rocky Mountain high
 Rocky Mountain high, Colorado. Rocky Mountain high
-
-
-

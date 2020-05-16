@@ -1,8 +1,11 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:5mnfHO65zbvt1mQr6voVAq
 features: []
-genres: []
+first_released_as_single: true
 key: take-one-kodak-black
 lyrics_url: https://genius.com/Kodak-black-take-one-lyrics
 name: Take One
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 165517
 ---
 You know, me, I ain't doing no Tweetin’ (Glee)
 I ain't doin' no Tweetin’

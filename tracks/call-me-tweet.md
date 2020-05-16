@@ -1,8 +1,11 @@
 ---
+album: Southern Hummingbird (U.S. Version)
 artists:
 - Tweet
+external_ids:
+  spotify: spotify:track:2aBEchhqPDgnvjPhCgzHSx
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-tweet
 lyrics_url: https://genius.com/Tweet-call-me-lyrics
 name: Call Me
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2002
+runtime: 177373
 ---
 Shake it, Shake it
 Shake it, Shake it

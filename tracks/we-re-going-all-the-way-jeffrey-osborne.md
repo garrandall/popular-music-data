@@ -1,8 +1,11 @@
 ---
+album: Stay With Me Tonight
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:3pQHFUuU8soLNDB2vtnoSR
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-going-all-the-way-jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/jeffreyosborne/weregoingalltheway.html
 name: We're Going All The Way
@@ -55,8 +58,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 257666
 ---
-
 We're just beginning
 And I know we've each been down this road a time or two
 And never could make it through
@@ -109,6 +113,3 @@ Oh... oh... baby, we're goin' all the way (All the way)
 If the two of us both want it I'd lay my money on it
 Startin' today (Starting today)
 We're goin' all the way, mmm... mmm... hm... hm... oh.. hoo...
-
-
-

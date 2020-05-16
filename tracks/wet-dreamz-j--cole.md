@@ -1,8 +1,11 @@
 ---
+album: 2014 Forest Hills Drive
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:6Ius4TC0L3cN74HT7ENE6e
 features: []
-genres: []
+first_released_as_single: false
 key: wet-dreamz-j--cole
 lyrics_url: https://genius.com/J-cole-wet-dreamz-lyrics
 name: Wet Dreamz
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2014
+runtime: 239320
 ---
 Cole, Cole world, yeah
 Let me take y'all back, man

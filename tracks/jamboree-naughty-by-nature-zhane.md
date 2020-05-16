@@ -1,9 +1,12 @@
 ---
+album: Nineteen Naughty Nine Nature's Fury
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:1yxUJNAHqrEjAIpeXbOo8R
 features:
 - Zhane
-genres: []
+first_released_as_single: true
 key: jamboree-naughty-by-nature-zhane
 lyrics_url: https://www.azlyrics.com/lyrics/naughtybynature/jamboree.html
 name: Jamboree
@@ -76,9 +79,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1999
+runtime: 212506
 ---
-
-
 I wanna see y'all who wanna plan with me
 Wave your hands across the land if we family
 Say hot-damn hot-damn we wanna jamboree
@@ -154,6 +157,3 @@ Wanna come and touch her the punani rusher like Usher
 
 
 (Jam On It) (Jam-Jam-Jam) (Jam-Jam-Jam) (Jam On It)
-
-
-

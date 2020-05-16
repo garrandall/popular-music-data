@@ -1,8 +1,11 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:1WlU4jsJ8AoTB96dgd8LJA
 features: []
-genres: []
+first_released_as_single: false
 key: call-the-coroner-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/callthecoroner.html
 name: Call The Coroner
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2019
+runtime: 131755
 ---
-
 He always has been the largest drug kingpin, you know, out there
 (Say fuck the drug test, gon' pass my gas mask)
 I think he's responsible for, for hundreds of quantities of drugs moving it into the United States
@@ -54,6 +58,3 @@ Flat screen, I back back, I see my racks stacked
 Say fuck the drug test, gon' pass my gas mask
 Flat screen, I back back, I see my racks stacked
 The WIZRD
-
-
-

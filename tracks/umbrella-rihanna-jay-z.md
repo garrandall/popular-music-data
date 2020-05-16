@@ -1,9 +1,12 @@
 ---
+album: Good Girl Gone Bad
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:2yPoXCs7BSIUrucMdK5PzV
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: umbrella-rihanna-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/umbrella.html
 name: Umbrella
@@ -140,9 +143,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 275986
 ---
-
-
 Uh huh, uh huh (Yea Rihanna)
 Uh huh, uh huh (Good girl gone bad)
 Uh huh, uh huh (Take three... Action)
@@ -247,6 +250,3 @@ Come here to me
 It's pouring rain, it's pouring rain
 Come here to me
 Come here to me
-
-
-

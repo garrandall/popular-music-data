@@ -1,8 +1,11 @@
 ---
+album: Strictly 4 My N.I.G.G.A.Z...
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:0XRbYXQUymj9SJkrr8YK5B
 features: []
-genres: []
+first_released_as_single: false
 key: keep-ya-head-up-2pac
 lyrics_url: https://www.musixmatch.com/lyrics/2Pac/Keep-Ya-Head-Up
 name: Keep Ya Head Up
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
+release_year: 1993
+runtime: 262506
 ---
 Little something for my godson Elijah
 And a little girl named Corin

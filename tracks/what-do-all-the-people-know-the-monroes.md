@@ -1,8 +1,11 @@
 ---
+album: What Do All the People Know?
 artists:
 - The Monroes
+external_ids:
+  spotify: spotify:track:44XOaCclKIIsC1hTjHA4lP
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-all-the-people-know-the-monroes
 lyrics_url: https://genius.com/The-monroes-what-do-all-the-people-know-lyrics
 name: What Do All The People Know
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1982
+runtime: 259919
 ---
 You know I told you once tonight
 That you could always speak your mind

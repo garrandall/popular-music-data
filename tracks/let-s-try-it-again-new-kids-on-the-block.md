@@ -1,8 +1,11 @@
 ---
+album: Step By Step
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:27EP6MYMINYtwhkTagoiQD
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-try-it-again-new-kids-on-the-block
 lyrics_url: https://www.musixmatch.com/lyrics/New-Kids-On-the-Block/Let-s-Try-It-Again
 name: Let's Try It Again
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 231320
 ---
 I've heard of true loves that lasted forever
 I guess there is a way

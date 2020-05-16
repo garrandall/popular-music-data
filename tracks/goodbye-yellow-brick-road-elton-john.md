@@ -1,8 +1,11 @@
 ---
+album: Goodbye Yellow Brick Road
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:4IRHwIZHzlHT1FQpRa5RdE
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-yellow-brick-road-elton-john
 lyrics_url: https://genius.com/Elton-john-goodbye-yellow-brick-road-lyrics
 name: Goodbye Yellow Brick Road
@@ -75,6 +78,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 192826
 ---
 When are you gonna come down?
 When are you going to land?

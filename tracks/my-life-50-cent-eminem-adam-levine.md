@@ -1,10 +1,13 @@
 ---
+album: My Life
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:2GoOioZVtOF1iMYfnzkreg
 features:
 - Eminem
 - Adam Levine
-genres: []
+first_released_as_single: true
 key: my-life-50-cent-eminem-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/mylife.html
 name: My Life
@@ -21,8 +24,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-12-29'
+release_year: 2012
+runtime: 239906
 ---
-
 (That's what I think he said...)
 My life, my life
 Makes me wanna run away
@@ -116,6 +120,3 @@ It's an illusion
 Like a movie, got nowhere to go
 Nowhere to run and hide,
 No matter how hard I try
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The First Lady
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:2xxx3hyrkpFgrGi6iCVx9y
 features:
 - Faith Evans
-genres: []
+first_released_as_single: false
 key: hope-twista-faith-evans
 lyrics_url: https://genius.com/Twista-hope-ft-faith-evans-lyrics
 name: Hope
@@ -36,6 +39,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2005
+runtime: 254960
 ---
 I wish the way I was living could stop, serving rocks
 Knowing the cops is hot when I'm on the block, And I

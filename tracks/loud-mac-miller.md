@@ -1,8 +1,11 @@
 ---
+album: Macadelic
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:4KRXcKUesQHKUkX6tHbF01
 features: []
-genres: []
+first_released_as_single: false
 key: loud-mac-miller
 lyrics_url: https://genius.com/Mac-miller-loud-lyrics
 name: Loud
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2012
+runtime: 170861
 ---
 Whoop
 Whoop

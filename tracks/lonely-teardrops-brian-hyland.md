@@ -1,8 +1,11 @@
 ---
+album: Brian Hyland
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:6jO2YmZgkLvGNfzvFWTL9N
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-teardrops-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-lonely-teardrops-lyrics
 name: Lonely Teardrops
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1970
+runtime: 192906
 ---
 Lonely Teardrops
 My pillows never dry off

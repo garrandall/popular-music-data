@@ -1,8 +1,11 @@
 ---
+album: Van Halen II
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:4RS9PmtHQe7I0o5fEeweOY
 features: []
-genres: []
+first_released_as_single: false
 key: dance-the-night-away-van-halen
 lyrics_url: https://genius.com/Van-halen-dance-the-night-away-lyrics
 name: Dance The Night Away
@@ -67,6 +70,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 188083
 ---
 Have you seen her?
 So fine and pretty

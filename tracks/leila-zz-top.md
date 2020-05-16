@@ -1,8 +1,11 @@
 ---
+album: El Loco
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:7tnAAu1R09JUyjor6gwBrG
 features: []
-genres: []
+first_released_as_single: false
 key: leila-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/leila.html
 name: Leila
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 195133
 ---
-
 She had a look in her eye that could make you melt,
 Made me feel better than I ever felt.
 But bless her heart, she couldn't stay,
@@ -45,6 +49,3 @@ And everything will be alright.
 
 Leila, Leila your mind will be flying high
 And everything will be alright.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chicago XI
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0Nbb3kkURF5Tu7ePLdS4fO
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-back-to-chicago-chicago
 lyrics_url: https://genius.com/Chicago-take-me-back-to-chicago-lyrics
 name: Take Me Back To Chicago
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1977
+runtime: 315200
 ---
 Take me back to Chicago
 Lay my soul to rest

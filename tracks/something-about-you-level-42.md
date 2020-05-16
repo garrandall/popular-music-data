@@ -1,8 +1,11 @@
 ---
+album: World Machine
 artists:
 - Level 42
+external_ids:
+  spotify: spotify:track:77NwdlKUIMS3gvvJeO5KK1
 features: []
-genres: []
+first_released_as_single: false
 key: something-about-you-level-42
 lyrics_url: https://genius.com/Level-42-something-about-you-lyrics
 name: Something About You
@@ -115,6 +118,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
+release_year: 1985
+runtime: 265000
 ---
 How, how can it be that a love
 Carved out of caring, fashioned by fate

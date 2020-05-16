@@ -1,11 +1,14 @@
 ---
+album: Lean Into It
 artists:
 - Mr. Big
+external_ids:
+  spotify: spotify:track:3Mmt6Xk0H6VR92PEp6x3hP
 features: []
-genres: []
+first_released_as_single: false
 key: to-be-with-you-mr--big
-name: To Be With You
 lyrics_url: https://www.azlyrics.com/lyrics/mrbig/tobewithyou.html
+name: To Be With You
 rankings:
 - end_date: '1991-12-27'
   rank: 82
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
+release_year: 1991
+runtime: 210480
 ---
 Hold on little girl
 Show me what he's done to you

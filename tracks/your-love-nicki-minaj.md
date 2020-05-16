@@ -1,8 +1,11 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:3bGxiCPouq52ZtI8ybMCX5
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-nicki-minaj
 lyrics_url: https://genius.com/Nicki-minaj-your-love-lyrics
 name: Your Love
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 245253
 ---
 Shawty, I'mma only tell you this once, you the illest
 (ba, ba-da, da, doh)

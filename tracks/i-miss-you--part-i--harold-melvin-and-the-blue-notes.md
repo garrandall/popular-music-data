@@ -1,8 +1,11 @@
 ---
+album: Harold Melvin & The Blue Notes
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:3gISovgZOIv7yeUm0iMkw3
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you--part-i--harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-i-miss-you-lyrics
 name: I Miss You (Part I)
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 518000
 ---
 Oh... oh...*
 (Oh, I)

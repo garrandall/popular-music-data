@@ -1,8 +1,11 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:6f5TuB9WtbA1g49A4DcMQ4
 features: []
-genres: []
+first_released_as_single: false
 key: be-alright-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-be-alright-lyrics
 name: Be Alright
@@ -11,6 +14,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2016
+runtime: 179293
 ---
 Midnight shadows
 When finding love is a battle

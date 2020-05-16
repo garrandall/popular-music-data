@@ -1,10 +1,13 @@
 ---
+album: King Of Hearts
 artists:
 - Lloyd
+external_ids:
+  spotify: spotify:track:0jmdMkRc7bmnmF9TNRfxF5
 features:
 - Andre 3000
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: dedication-to-my-ex--miss-that--lloyd-andre-3000-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lloyd/dedicationtomyexmissthat.html
 name: Dedication To My Ex (Miss That)
@@ -29,9 +32,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-11-12'
+release_year: 2011
+runtime: 236146
 ---
-
-
 Hey ya
 I came to talk about this girl that had my love it seems
 I went away for a while
@@ -127,6 +130,3 @@ Yeah, yeah, yeah
 I miss ya girl
 
 (Fuck that bitch!)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Deep Grooves
 artists:
 - MFSB
+external_ids:
+  spotify: spotify:track:0yh1G9YEZBlJtvXPSa8vZo
 features:
 - The Three Degrees
-genres: []
+first_released_as_single: false
 key: love-is-the-message-mfsb-the-three-degrees
 name: Love Is The Message
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1972
+runtime: 395600
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'Take Me Home: Yearbook Edition'
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:7MbII8jWqFiTFYU3MPYEfW
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-one-direction
 lyrics_url: https://genius.com/One-direction-rock-me-lyrics
 name: Rock Me
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-01-12'
+release_year: 2012
+runtime: 200040
 ---
 Do you remember summer '09?
 Wanna go back there every night

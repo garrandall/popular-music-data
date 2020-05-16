@@ -1,8 +1,11 @@
 ---
+album: Sweet Soul From Memphis
 artists:
 - The Astors
+external_ids:
+  spotify: spotify:track:2zCruKarW8FMGbK77z2yh6
 features: []
-genres: []
+first_released_as_single: false
 key: candy-the-astors
 lyrics_url: https://genius.com/The-astors-candy-lyrics
 name: Candy
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 182600
 ---
 Gee, whiz
 Oh, have you seen my girl

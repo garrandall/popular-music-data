@@ -1,8 +1,11 @@
 ---
+album: Chapter One
 artists:
 - Ella Henderson
+external_ids:
+  spotify: spotify:track:2FiceoWDJ67rrmb5tGBpgE
 features: []
-genres: []
+first_released_as_single: true
 key: ghost-ella-henderson
 lyrics_url: https://www.azlyrics.com/lyrics/ellahenderson/ghost.html
 name: Ghost
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2015-03-28'
+release_year: 2014
+runtime: 216106
 ---
-
 I keep going to the river to pray
 'Cause I need something that can wash out the pain
 And at most I'm sleeping all these demons away
@@ -153,6 +157,3 @@ I keep going to the river to pray
 And at most I'm sleeping all these demons away
 But your ghost, the ghost of you
 It keeps me awake
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Raised On Radio
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:4OIchU3QM8yEPvvLNgWqbS
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-alright-without-you-journey
 lyrics_url: https://genius.com/Journey-ill-be-alright-without-you-lyrics
 name: I'll Be Alright Without You
@@ -91,6 +94,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
+release_year: 1975
+runtime: 299400
 ---
 I've been thinking about the times
 You walked out on me

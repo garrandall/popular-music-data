@@ -1,8 +1,11 @@
 ---
+album: Open Up Your Love
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:6qg57tPK0DrfiiUnhsoCEu
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-with-you-the-whispers
 lyrics_url: https://genius.com/The-whispers-make-it-with-you-lyrics
 name: Make It With You
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 303000
 ---
 Hey, have you ever tried
 Really reaching out for the other side

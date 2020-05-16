@@ -1,8 +1,11 @@
 ---
+album: Changing Times
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:3ZeN7hd3AKHKm78MHsm8J0
 features: []
-genres: []
+first_released_as_single: false
 key: in-these-changing-times-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/inthesechangingtimes.html
 name: In These Changing Times
@@ -23,8 +26,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1970
+runtime: 328840
 ---
-
 (I'm never gonna stray away, baby)
 (Never gonna stray away)
 
@@ -93,6 +97,3 @@ Like a rock
 You're always by my side, girl
 
 In these changing times
-
-
-

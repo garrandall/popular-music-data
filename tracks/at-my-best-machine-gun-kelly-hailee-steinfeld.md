@@ -1,9 +1,12 @@
 ---
+album: bloom
 artists:
 - Machine Gun Kelly
+external_ids:
+  spotify: spotify:track:77lGafvlU68CeHgB2pkHC9
 features:
 - Hailee Steinfeld
-genres: []
+first_released_as_single: false
 key: at-my-best-machine-gun-kelly-hailee-steinfeld
 lyrics_url: https://genius.com/Machine-gun-kelly-at-my-best-lyrics
 name: At My Best
@@ -40,6 +43,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2017
+runtime: 199973
 ---
 Turn my vocals up, alright
 

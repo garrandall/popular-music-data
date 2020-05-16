@@ -1,8 +1,11 @@
 ---
+album: Welcome To My Nightmare
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:3kzmI3qZbtBKcVfiUyT2xI
 features: []
-genres: []
+first_released_as_single: false
 key: department-of-youth-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/departmentofyouth.html
 name: Department Of Youth
@@ -23,8 +26,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-09-06'
+release_year: 1975
+runtime: 196800
 ---
-
 We're in trouble all the time you read about us all in the papers
 We walk around and bump into walls a blind delegation yeah
 And we ain't afraid of high power we're bullet proof
@@ -45,6 +49,3 @@ We got department of youth ah ah we got the power who's got the power we
 We got department of youth ah ah we got the power we got the power yeah
 We got department of youth ah ah we got the power who gave it to you
 Donny Osmond what we got department of youth ah ah we got the power
-
-
-

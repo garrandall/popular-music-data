@@ -1,8 +1,11 @@
 ---
+album: Infinity On High
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:6FAUi2Xm6RCF0wpwG8oXGZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-carpal-tunnel-of-love-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/thecarpaltunneloflove.html
 name: The Carpal Tunnel Of Love
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2006-12-30'
+release_year: 2006
+runtime: 203840
 ---
-
 We take sour sips from life's lush lips
 And we shake, shake, shake the hips in relationships
 Stomp out this disaster town
@@ -53,6 +57,3 @@ Whoa oh, we're so miserable and stunning
 Whoa oh, love songs for the genuinely cunning
 Whoa oh, we're so miserable and stunning
 Whoa oh, love songs for the genuinely cunning
-
-
-

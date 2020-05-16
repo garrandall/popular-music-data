@@ -1,8 +1,11 @@
 ---
+album: I Love Rock 'N' Roll
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:2Cdvbe2G4hZsnhNMKyGrie
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-rock--n-roll-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/iloverocknroll.html
 name: I Love Rock 'N Roll
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-06-19'
+release_year: 1981
+runtime: 175173
 ---
-
 I saw him dancing there by the record machine
 I knew he must have been about seventeen
 The beat was going strong
@@ -144,6 +148,3 @@ I love rock and roll
 So put another dime in the jukebox, baby
 I love rock and roll
 So come and take your time and dance with me
-
-
-

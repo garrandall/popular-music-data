@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:3ARNUtmd0qaWCDgLHBLjom
 features: []
-genres: []
+first_released_as_single: false
 key: swayin--to-the-music--slow-dancin---johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/swayintothemusic.html
 name: Swayin' To The Music (slow Dancin')
@@ -103,8 +106,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
+release_year: 1977
+runtime: 243266
 ---
-
 It's late at night and we're all alone,
 just the music on the radio.
 No one's comin', no one's gonna telephone.
@@ -131,4 +135,3 @@ So much love in this heart of mine.
 Whisper to me, hold me tight.
 You're the one I thought I'd never find,
 And now
-

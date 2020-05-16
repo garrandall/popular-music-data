@@ -1,8 +1,11 @@
 ---
+album: Defying Gravity
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:21zOTXChnP7ghgn3fVKuSF
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-thing-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/sweetthing.html
 name: Sweet Thing
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2009-04-11'
+release_year: 2008
+runtime: 228186
 ---
-
 When I picked you up for our first date baby
 Well, your pretty blue eyes, they were drivin' me crazy
 And the tiny little thought that was so amazing
@@ -154,6 +158,3 @@ Yeah, cmon now a little now..
 Do do do do doo do do do do do do
 Oh my little sweet thing, yes you are
 Do do do do doo do do do do do do
-
-
-

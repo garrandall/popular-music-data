@@ -1,8 +1,11 @@
 ---
+album: 'Highway Music: Stuck In Traffic'
 artists:
 - DJ Luke Nasty
+external_ids:
+  spotify: spotify:track:5emSf1TuyrZurMqhdBMobW
 features: []
-genres: []
+first_released_as_single: true
 key: otw-dj-luke-nasty
 lyrics_url: https://www.azlyrics.com/lyrics/djlukenasty/otwremix516396.html
 name: OTW
@@ -39,9 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2016
+runtime: 219512
 ---
-
-
 (Oh yeah
 Thizzle)
 Wait (wait, wait)
@@ -234,6 +237,3 @@ I'm on the way (aye, aye, aye, aye)
 I'm on the way (aye, aye, aye, aye)
 I'm on the way (aye, aye, aye, aye)
 (Yeah, yeah)
-
-
-

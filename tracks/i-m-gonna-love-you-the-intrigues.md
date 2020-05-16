@@ -1,8 +1,11 @@
 ---
+album: The Best of Super Rare Soul
 artists:
 - The Intrigues
+external_ids:
+  spotify: spotify:track:5RlIBEQsCmqMPI9zbE4vwp
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-love-you-the-intrigues
 lyrics_url: https://genius.com/The-intrigues-im-gonna-love-you-lyrics
 name: I'm Gonna Love You
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 133486
 ---
 La-la-la-la, la-di-da, shi-bob
 La-la-la-la, la-di-da, shi-bob

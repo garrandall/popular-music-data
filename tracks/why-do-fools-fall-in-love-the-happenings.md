@@ -1,8 +1,11 @@
 ---
+album: Psycle
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:79qnb4XTD5WxJ7t5v7594W
 features: []
-genres: []
+first_released_as_single: false
 key: why-do-fools-fall-in-love-the-happenings
 lyrics_url: https://genius.com/The-happenings-why-do-fools-fall-in-love-lyrics
 name: Why Do Fools Fall In Love
@@ -31,6 +34,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1966
+runtime: 169133
 ---
 Ooooo wah, oo wah, oo wah, oo wah
 Ooooo wah, oo wah, Why do fools fall in love

@@ -1,11 +1,14 @@
 ---
+album: I Changed A Lot
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:3uqez7AQId9NZ15UF9QW9M
 features:
 - Chris Brown
 - Lil Wayne
 - Big Sean
-genres: []
+first_released_as_single: true
 key: how-many-times-dj-khaled-chris-brown-lil-wayne-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/howmanytimes.html
 name: How Many Times
@@ -70,9 +73,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2015
+runtime: 263980
 ---
-
-
 Pour a cup for the bitches that ain't scared to get down
 Get down, get down
 How many times I got 'em?
@@ -158,4 +161,3 @@ Them bitches lit, dropping that ass to a split
 Talking 'bout me, I'm the shit
 I just get down for the money, the bitches, and cars
 And my niggas, they whipping the bricks
-

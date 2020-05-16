@@ -1,8 +1,11 @@
 ---
+album: Surrealistic Pillow
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:4uGIJG1jYFonGc4LGp5uQL
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-jefferson-airplane
 lyrics_url: https://genius.com/Jefferson-airplane-somebody-to-love-lyrics
 name: Somebody To Love
@@ -67,6 +70,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 174840
 ---
 When the truth is found to be lies
 And all the joy within you dies

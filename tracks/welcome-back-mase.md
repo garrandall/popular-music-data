@@ -1,8 +1,11 @@
 ---
+album: Welcome Back
 artists:
 - Mase
+external_ids:
+  spotify: spotify:track:2XQY54Im8VrO4sd2tAmiv4
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-back-mase
 lyrics_url: https://www.musixmatch.com/lyrics/Mase/Welcome-Back
 name: Welcome Back
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 2004
+runtime: 262199
 ---
 Welcome back, welcome back
 Welcome back.

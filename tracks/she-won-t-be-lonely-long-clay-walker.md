@@ -1,8 +1,11 @@
 ---
+album: She Won't Be Lonely Long
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:0158TMiGmHyibaDeaUKayX
 features: []
-genres: []
+first_released_as_single: false
 key: she-won-t-be-lonely-long-clay-walker
 lyrics_url: https://genius.com/Clay-walker-she-wont-be-lonely-long-lyrics
 name: She Won't Be Lonely Long
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2010
+runtime: 209253
 ---
 Something 'bout the way she’s wearing her dress a little tighter
 Something 'bout the way she’s starin', she’s lookin' to start a fire

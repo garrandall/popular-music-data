@@ -1,8 +1,11 @@
 ---
+album: Soul Time
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:6Iju1VFr1qJy7WSao7T28I
 features: []
-genres: []
+first_released_as_single: false
 key: no-pity--in-the-naked-city--jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-no-pity-in-the-naked-city-lyrics
 name: No Pity (In The Naked City)
@@ -47,6 +50,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 212546
 ---
 Hm, hm, there's no pity in the naked city, yeah
 When you're all alone

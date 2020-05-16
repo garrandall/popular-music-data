@@ -1,8 +1,11 @@
 ---
+album: Gentle On My Mind
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:1fjlEIxkihQgloI3m8GwHw
 features: []
-genres: []
+first_released_as_single: false
 key: not-enough-indians-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/notenoughindians.html
 name: Not Enough Indians
@@ -43,8 +46,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 208040
 ---
-
 Wagon train of lovin' moving slow
 And I can see the peace pipe burning low
 You criticize each little thing I do
@@ -77,6 +81,3 @@ Baby I'm tired of playing this old game called cat and mouse
 If you don't give just a little bit more
 We're both gonna lose this race
 'Cause there's too many cheifs and not enough Indians around this place
-
-
-

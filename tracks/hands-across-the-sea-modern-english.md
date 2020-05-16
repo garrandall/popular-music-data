@@ -1,8 +1,11 @@
 ---
+album: Ricochet Days
 artists:
 - Modern English
+external_ids:
+  spotify: spotify:track:1l2sn5oMx7xMq5tQiDin7O
 features: []
-genres: []
+first_released_as_single: false
 key: hands-across-the-sea-modern-english
 lyrics_url: https://www.azlyrics.com/lyrics/modernenglish/handsacrossthesea.html
 name: Hands Across The Sea
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1984
+runtime: 293893
 ---
-
 Come with me
 Close your eyes and touch what greets you there
 Reaching out
@@ -49,6 +53,3 @@ Stretch your hands across the sea
 I can't explain this feeling
 I won't begin to try
 There is still a chance if we just close our eyes
-
-
-

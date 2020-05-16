@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:4hEXRXCAjcfT5fOUEY720O
 features: []
-genres: []
+first_released_as_single: false
 key: losing-your-love-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/losingyourlove.html
 name: Losing Your Love
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 135493
 ---
-
 I filled up my pockets with money
 Big trophies I've hung on my wall
 My mansion sits high on the hilltop
@@ -42,6 +46,3 @@ For while I was thrilling the whole wide world
 I was losing your love.
 
 Slowly losing your love...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Too Hot For T.V.
 artists:
 - Bad Boy's Da Band
+external_ids:
+  spotify: spotify:track:13QMUA813rB5QdsePrPRoo
 features: []
-genres: []
+first_released_as_single: false
 key: bad-boy-this-bad-boy-that-bad-boy-s-da-band
 lyrics_url: https://genius.com/Bad-boys-da-band-bad-boy-this-bad-boy-that-lyrics
 name: Bad Boy This Bad Boy That
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
+release_year: 2003
+runtime: 196693
 ---
 + (Fred)
 Bad Boy baby (Oh)

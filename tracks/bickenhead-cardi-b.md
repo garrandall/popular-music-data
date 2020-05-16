@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:6Im2JrfIUeLz1NjDPy3UYa
 features: []
-genres: []
+first_released_as_single: false
 key: bickenhead-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/bickenhead.html
 name: Bickenhead
@@ -15,8 +18,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 181623
 ---
-
 Goes for all my nasty hoes, yeah (alright-alright, alright, alright, alright, alright)
 From across the globe, woo (hol' up)
 This goes for all my nasty hoes, yeah (alright-alright, alright, alright, alright, alright)
@@ -85,6 +89,3 @@ Alright-alright, alright, alright, alright, alright
 Alright-alright, alright, alright, alright, alright
 Alright-alright, alright, alright, alright, alright
 Alright-alright, alright, alright, alright, alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Got To Be There
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3mnVgyzn5HC7Sqkn3B5zHs
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-where-you-are-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-i-wanna-be-where-you-are-lyrics
 name: I Wanna Be Where You Are
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 182786
 ---
 Can it be I stayed away too long
 Did I leave your mind when I was gone

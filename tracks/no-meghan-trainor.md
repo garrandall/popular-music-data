@@ -1,8 +1,11 @@
 ---
+album: Title - Track by Track Commentary
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:2N3PUd0D0Dd8XkJM4JBJui
 features: []
-genres: []
+first_released_as_single: false
 key: no-meghan-trainor
 lyrics_url: https://genius.com/Meghan-trainor-no-lyrics
 name: 'No'
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2015
+runtime: 35548
 ---
 I think it's so cute and I think it's so sweet
 How you let your friends encourage you to try and talk to me

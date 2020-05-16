@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2R7C9dDqv1UPycvepBFziA
 features: []
-genres: []
+first_released_as_single: false
 key: superman-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/superman.html
 name: Superman
@@ -11,8 +14,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2010
+runtime: 275960
 ---
-
 Tall, dark and superman
 He puts papers in his briefcase and drives away
 To save the world or go to work
@@ -74,6 +78,3 @@ I'll be right here on the ground
 When you come back down
 
 When you come back down
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Alias
 artists:
 - Alias
+external_ids:
+  spotify: spotify:track:5TS6P84uJYubgKr2QTU1fk
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-love-alias
 lyrics_url: https://www.azlyrics.com/lyrics/alias/waitingforlove.html
 name: Waiting For Love
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
+release_year: 1990
+runtime: 278173
 ---
-
 I look ok but I'm not myself, standing by the phone
 Darling I've been wondering how I'm gonna let you go
 
@@ -110,6 +114,3 @@ I lost my heart, I lost my mind
 But it really doesn't matter
 I'm gonna leave my tears behind
 And you'll still be waiting
-
-
-

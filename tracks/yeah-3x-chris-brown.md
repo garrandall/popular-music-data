@@ -1,8 +1,11 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:01niCDO41eCm9H3xfIAGCU
 features: []
-genres: []
+first_released_as_single: true
 key: yeah-3x-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/yeah3x.html
 name: Yeah 3X
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2010
+runtime: 245426
 ---
-
 Move your body out on the floor
 Put your troubles aside, start livin'
 Anybody can let go
@@ -179,6 +183,3 @@ Yeah, yeah, yeah, yeah, yeah, yeah
 I wanna see you tonight
 Yeah, yeah, yeah, yeah, yeah, yeah
 Tonight is the night
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:731Pa6Gt7GAdADATMSEL0N
 features:
 - Kanye West
 - John Legend
-genres: []
+first_released_as_single: false
 key: one-man-can-change-the-world-big-sean-kanye-west-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/onemancanchangetheworld.html
 name: One Man Can Change The World
@@ -49,9 +52,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 254626
 ---
-
-
 They used to tell me, used to tell me
 I hope you learn to make it on your own
 And if you love yourself just know you'll never be alone
@@ -128,6 +131,3 @@ That one man can change the world
  Thank you for callin' me, been thinkin' about me
  It's all good I love you grandma
  Bye
-
-
-

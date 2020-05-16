@@ -1,8 +1,11 @@
 ---
+album: "Suzi\u2026 and Other Four Letter Words"
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:69kXOuriG2GhaDrUv7PU1q
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-never-been-in-love-suzi-quatro
 lyrics_url: https://genius.com/Suzi-quatro-ive-never-been-in-love-lyrics
 name: I've Never Been In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 182680
 ---
 Oh no I can't write my name
 Oh - don't you know I'm so blasted

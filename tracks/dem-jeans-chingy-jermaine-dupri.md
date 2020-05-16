@@ -1,9 +1,12 @@
 ---
+album: Hoodstar
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:7nBnxipTxl27eJa9ltaikO
 features:
 - Jermaine Dupri
-genres: []
+first_released_as_single: false
 key: dem-jeans-chingy-jermaine-dupri
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/demjeans.html
 name: Dem Jeans
@@ -44,9 +47,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 229400
 ---
-
-
 How the hell did you get all of that in dem jeans?
 How the how the hell did you get all of that in dem jeans?
 Cause your waist so little and your ass it like wo
@@ -189,6 +192,3 @@ Just to zip 'em up
 Am I right?
 (You right)
 Baby that's what's up
-
-
-

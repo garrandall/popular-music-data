@@ -1,8 +1,11 @@
 ---
+album: 20 All Time Greatest Hits
 artists:
 - Red Sovine
+external_ids:
+  spotify: spotify:track:6fZUCxyaLxjO6B2QJyTHQA
 features: []
-genres: []
+first_released_as_single: false
 key: giddyup-go-red-sovine
 lyrics_url: https://genius.com/Red-sovine-giddy-up-go-lyrics
 name: Giddyup Go
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1966
+runtime: 237400
 ---
 The highways that wind and wander over mountain and valleys deserts and plains
 I guess I've drove about all of 'em

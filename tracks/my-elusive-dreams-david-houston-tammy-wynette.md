@@ -1,9 +1,12 @@
 ---
+album: The Essential Tammy Wynette
 artists:
 - David Houston
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:7w6KozKMCDloXYNtf0gjPM
 features: []
-genres: []
+first_released_as_single: false
 key: my-elusive-dreams-david-houston-tammy-wynette
 lyrics_url: https://genius.com/David-houston-and-tammy-wynette-my-elusive-dreams-lyrics
 name: My Elusive Dreams
@@ -28,6 +31,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1966
+runtime: 172440
 ---
 I followed you to Texas
 I followed you to Utah

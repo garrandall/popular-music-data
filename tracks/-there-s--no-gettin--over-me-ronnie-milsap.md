@@ -1,8 +1,11 @@
 ---
+album: There's No Gettin' Over Me
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:2bRnP6FjtlASGsDtcgRVuI
 features: []
-genres: []
+first_released_as_single: false
 key: -there-s--no-gettin--over-me-ronnie-milsap
 lyrics_url: https://genius.com/Ronnie-milsap-theres-no-gettin-over-me-lyrics
 name: (There's) No Gettin' Over Me
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-11-07'
+release_year: 1981
+runtime: 199680
 ---
 Well, you can walk out on me tonight
 If you think that it ain't feeling right

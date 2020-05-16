@@ -1,8 +1,11 @@
 ---
+album: He's on the Run Again
 artists:
 - Billie Jo Spears
+external_ids:
+  spotify: spotify:track:6HQnYLWgTBtHkc3Y6Xx09T
 features: []
-genres: []
+first_released_as_single: false
 key: mr-walker-it-s-all-over-billie-jo-spears
 lyrics_url: https://genius.com/Billie-jo-spears-mr-walker-its-all-over-lyrics
 name: Mr Walker It's All Over
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 184773
 ---
 I left Garden City Kansas with a ticket and a yen to see New York
 I typed eigty words a minute so your corporation let me go to work

@@ -1,9 +1,12 @@
 ---
+album: X
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2MDueMvPkUTpU6Xkmeinln
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: love-more-chris-brown-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/lovemore.html
 name: Love More
@@ -112,8 +115,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 189706
 ---
-
 'Til we get it
 I'm a get it
 'Til we get it
@@ -212,6 +216,3 @@ I'mma get it (I'mma get it) I'm a get it
 (I'mma get it)
 I'mma get it ('til we get it)
 'Til we get it (I'mma get it)
-
-
-

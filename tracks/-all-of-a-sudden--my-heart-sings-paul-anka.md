@@ -1,7 +1,11 @@
 ---
+album: Five Decades Of Greatest Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:3HMbx0GnaoYWjksUl2SD6a
 features: []
+first_released_as_single: false
 genres: []
 key: -all-of-a-sudden--my-heart-sings-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/allofasuddenmyheartsings.html
@@ -75,8 +79,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1958
+runtime: 184200
 ---
-
 The secret way you hold my hand
 to let me know you understand
 the wind and rain upon your face
@@ -103,6 +108,3 @@ your little laugh and handsome cries
 the star light gleaming in your eyes
 remembering all those things
 all of a sudden my heart sings
-
-
-

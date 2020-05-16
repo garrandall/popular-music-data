@@ -1,8 +1,11 @@
 ---
+album: BLACKsummers'night (2009)
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:3uMigZrW9l9De8roOy6CAn
 features: []
-genres: []
+first_released_as_single: false
 key: fistful-of-tears-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/fistfuloftears.html
 name: Fistful Of Tears
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 219266
 ---
-
 Feel just like a weight has lifted it 
 How can I repay you help me understand 
 Currency a fistful of tears I can afford 
@@ -75,6 +79,3 @@ Tryin you to keep you from losing your mind
 Open your eyes 
 See what's in front of your face 
 And save me my fistful of tears
-
-
-

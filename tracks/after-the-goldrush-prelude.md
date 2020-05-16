@@ -1,8 +1,11 @@
 ---
+album: 'After the Gold Rush: The Dawn/Pye Anthology 1973-77'
 artists:
 - Prelude
+external_ids:
+  spotify: spotify:track:2jmnP1OdxHC255vgIhLV3T
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-goldrush-prelude
 lyrics_url: https://genius.com/Prelude-after-the-goldrush-lyrics
 name: After The Goldrush
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 129933
 ---
 Well I dreamed I saw the knights in armour coming saying something about
 A queen

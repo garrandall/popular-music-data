@@ -1,8 +1,11 @@
 ---
+album: The Show Goes On (Live At The Royal Albert Hall, London/2006)
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:4bCAhwWnHymmv1PSrmYARH
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-when-the-music-takes-me-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/thatswhenthemusictakesme.html
 name: That's When The Music Takes Me
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 187466
 ---
-
 That's when the music takes me
 Takes to a brighter day
 That's when the music takes me
@@ -86,7 +90,7 @@ But when the music takes me
 Closer to a brighter day
 I can feel my soul explodin'
 There's a good feelin'
-Helpin' me to fiiiiiiind my waaay
+Helpin' me to find my waaay
 Yeah, yeah, yeah, yeah
 And then I'm sayin'
 That's when the music takes me
@@ -104,6 +108,3 @@ Happy, happy, happy day
 (And that's when the music takes me)
 Happy, happy when the music takes
 Whooooooo
-
-
-

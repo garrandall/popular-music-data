@@ -1,8 +1,11 @@
 ---
+album: Anything Is Possible
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:3HbxgJFuMjvC0HPLGwnRsy
 features: []
-genres: []
+first_released_as_single: false
 key: anything-is-possible-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/anythingispossible.html
 name: Anything Is Possible
@@ -55,8 +58,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
+release_year: 1990
+runtime: 223453
 ---
-
 Anything is possible
 If you put your mind to it
 Anything is possible
@@ -133,6 +137,3 @@ Anything is possible
 Just put your mind to it
 Anything is possible
 If you put your mind to it
-
-
-

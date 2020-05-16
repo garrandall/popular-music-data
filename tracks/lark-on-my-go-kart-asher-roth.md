@@ -1,8 +1,11 @@
 ---
+album: Asleep In The Bread Aisle
 artists:
 - Asher Roth
+external_ids:
+  spotify: spotify:track:7g1yl3UgC1m0E1qPqCDwwZ
 features: []
-genres: []
+first_released_as_single: false
 key: lark-on-my-go-kart-asher-roth
 lyrics_url: https://www.azlyrics.com/lyrics/asherroth/larkonmygokart.html
 name: Lark On My Go-Kart
@@ -11,9 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2009
+runtime: 174533
 ---
-
-
 Sitting on a truffet, puffing on the best cut buds
 Trying to get butt from Miss Muffet
 Me and Teddy Ruxpin sturring up a ruckus
@@ -67,6 +70,3 @@ Who am I trying to impress? Honey in the sun dress
 With the breasts luscious just sent me a text
 O-M-G, your the B-E-S
 If your trying to have sex, I'm the best at it
-
-
-

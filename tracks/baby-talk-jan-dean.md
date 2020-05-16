@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:2aBNUHJEIZhNePKpCEBAW0
 features: []
-genres: []
+first_released_as_single: false
 key: baby-talk-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/babytalk.html
 name: Baby Talk
@@ -56,8 +59,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 145800
 ---
-
 Bom ba ba bom bab um dab um dab um wah wah wah
 Bom ba ba bom bab um dad um dab um wah wah wah
 Bom ba ba bom um dab um dad um dab um dab
@@ -94,6 +98,3 @@ Love my baby (dip dih dup dih dup)
 Bom ba ba bom bab um dab um dab um wah wah wah
 Un dat un dat un dat dat, un dat un dat, dat dat
 Un dat un dat un dat dat, un dat un dat dat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ev'rybody Know Me
 artists:
 - YoungBloodZ
+external_ids:
+  spotify: spotify:track:281kNQmgirthnKNA5LHQSs
 features: []
-genres: []
+first_released_as_single: false
 key: presidential-youngbloodz
 lyrics_url: https://genius.com/Youngbloodz-hip-hop-presidential-lyrics
 name: Presidential
@@ -55,6 +58,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 241120
 ---
 Ya, yeah (Yeah!) A-town it's on again
 A-town, A-town(Yeah!) A-town, yeah

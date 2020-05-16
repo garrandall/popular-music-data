@@ -1,8 +1,12 @@
 ---
+album: 'Rodgers, R.: Garrick Gaieties / Torch, S.: On A Spring Note / Sullivan, A.:
+  the Lost Chord (The Pipes of the Mighty Wurlitzer)'
 artists:
 - David Rose
+external_ids:
+  spotify: spotify:track:2e7TCQy9niQF0KS3TficW2
 features: []
-genres: []
+first_released_as_single: false
 key: the-stripper-david-rose-and-his-orchestra
 lyrics_url: https://genius.com/David-rose-the-stripper-lyrics
 name: The Stripper
@@ -75,5 +79,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 193373
 ---
 Instrumental

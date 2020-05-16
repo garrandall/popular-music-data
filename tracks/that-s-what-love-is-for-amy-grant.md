@@ -1,8 +1,11 @@
 ---
+album: Heart In Motion
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:367dmPOxuMP8FsrZHenNnq
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-love-is-for-amy-grant
 lyrics_url: https://genius.com/Amy-grant-thats-what-love-is-for-lyrics
 name: That's What Love Is For
@@ -87,6 +90,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
+release_year: 1991
+runtime: 257293
 ---
 Sometimes we make it harder than it is
 We'll take a perfect night

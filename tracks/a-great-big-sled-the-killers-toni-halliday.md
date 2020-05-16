@@ -1,9 +1,12 @@
 ---
+album: Christmas Rock
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:06IAtZZ8S6oeshqZpIJ00M
 features:
 - Toni Halliday
-genres: []
+first_released_as_single: false
 key: a-great-big-sled-the-killers-toni-halliday
 lyrics_url: https://genius.com/The-killers-a-great-big-sled-lyrics
 name: A Great Big Sled
@@ -16,6 +19,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-01-06'
+release_year: 2006
+runtime: 258922
 ---
 This snowman is shaping up to be an 8
 But not out of 10

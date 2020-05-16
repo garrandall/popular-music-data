@@ -1,8 +1,11 @@
 ---
+album: Nirvana
 artists:
 - Nirvana
+external_ids:
+  spotify: spotify:track:5O8L4I2S4izFGDjvP7xAKv
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-you-re-right-nirvana
 lyrics_url: https://www.musixmatch.com/lyrics/Nirvana/You-Know-You-re-Right
 name: You Know You're Right
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
+release_year: 2002
+runtime: 217000
 ---
 I will never bother you
 I will never promise to

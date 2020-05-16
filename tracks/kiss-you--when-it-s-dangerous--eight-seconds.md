@@ -1,8 +1,11 @@
 ---
+album: Almacantar
 artists:
 - Eight Seconds
+external_ids:
+  spotify: spotify:track:7kr2ERTiInbHXCOHDhl2P9
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-you--when-it-s-dangerous--eight-seconds
 lyrics_url: https://genius.com/Eight-seconds-kiss-you-when-its-dangerous-lyrics
 name: Kiss You (When It's Dangerous)
@@ -39,6 +42,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 247693
 ---
 Lifeline, I wonder how you last so long
 You must be strong

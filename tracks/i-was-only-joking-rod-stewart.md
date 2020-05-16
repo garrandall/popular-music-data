@@ -1,8 +1,11 @@
 ---
+album: Foot Loose & Fancy Free
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6tUkfUpdIx14aSoKkTxrfa
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-only-joking-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/iwasonlyjoking.html
 name: I Was Only Joking
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1977
+runtime: 367400
 ---
-
 Ever since I was a kid at school
 I messed around with all the rules
 Apologised then realised
@@ -109,6 +113,3 @@ Quietly now while I turn a page
 Act one is over without costume change
 The principal would like to leave the stage
 The crowd don't understand
-
-
-

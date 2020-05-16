@@ -1,8 +1,11 @@
 ---
+album: Hands All Over
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:4ucLHLiSjvkCz5Lr5dlVUj
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-leave-this-bed-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/nevergonnaleavethisbed.html
 name: Never Gonna Leave This Bed
@@ -79,8 +82,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2010
+runtime: 196706
 ---
-
 You push me
 I don't have the strength to
 Resist or control you
@@ -152,6 +156,3 @@ Take it, take it all
 Take all that I have
 Take it, take it all
 Take all that I have
-
-
-

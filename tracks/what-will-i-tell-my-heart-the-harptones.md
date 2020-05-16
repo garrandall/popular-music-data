@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop Classics - Volume 1
 artists:
 - The Harptones
+external_ids:
+  spotify: spotify:track:4zlIDHZRhGoAmLiQ4kCSDU
 features: []
-genres: []
+first_released_as_single: false
 key: what-will-i-tell-my-heart-the-harptones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Harptones/What-Will-I-Tell-My-Heart
 name: What Will I Tell My Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 144733
 ---
 Ill try to explain to friends dear
 The reason we two are apart

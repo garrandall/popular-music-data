@@ -1,8 +1,11 @@
 ---
+album: Ice Cream Man
 artists:
 - Master P
+external_ids:
+  spotify: spotify:track:6utJPGnUAGkW7qRaYpoasi
 features: []
-genres: []
+first_released_as_single: false
 key: mr-ice-cream-man-master-p
 lyrics_url: https://www.azlyrics.com/lyrics/masterp/mricecreamman.html
 name: Mr Ice Cream Man
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
+release_year: 1996
+runtime: 307933
 ---
-
 Before jump in the game let's get one thing understood
 If you sellin that ice cream ya got to make sure it's good
 
@@ -118,6 +122,3 @@ Master P the Ice Cream Man
 Y'all fools betta recognize I'm the real Ice Cream Man
 Mr. Ice Cream Man
 Master P or call me the Ice Cream Man
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: KILL THIS LOVE
 artists:
 - BLACKPINK
+external_ids:
+  spotify: spotify:track:18PergoIrGmRyeYxnaXJN2
 features: []
-genres: []
+first_released_as_single: true
 key: kill-this-love-blackpink
 lyrics_url: https://www.azlyrics.com/lyrics/blackpink/killthislove.html
 name: Kill This Love
@@ -23,10 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-05-11'
+release_year: 2019
+runtime: 189052
 ---
-
-
-
 Yeah, yeah, yeah
 BLACKPINK IN YOUR AREA!
 Yeah, yeah, yeah
@@ -99,160 +101,3 @@ Kill this love
 Yeah, it's sad but true
 Gotta kill this love, gotta kill
 Let's kill this love!
-
-
-
-Yeah, yeah, yeah
-BLACKPINK IN YOUR AREA!
-Yeah, yeah, yeah
-
-ì²ì¬ ê°ì "hi" ëì ìë§ ê°ì "bye"
-ë§¤ë² ë¯¸ì¹ ë¯í high ë¤ì ë±ì´ì¼
-íë price
-ì´ê±´ ëµì´ ìë test
-ë§¤ë² ìëë¼ë yes
-ë±í ê°ì ì ë¸ì
-ì¼ì´ ì£½ì ì¬ëí´
-
-Here I come kick in the door
-ê°ì¥ ëí ê±¸ë¡ ì¤
-ë»íë ë»í ê·¸ love
-ë ë´ëë´ give me some more
-ììì ë§¤ë¬ë ¤ ë²¼ë ëì
-íë§ëë©´ ë like í¤ë²ë  í´
-ê·¸ ë°ë»í ë¨ë¦¼ì´ ìë¹¨ê° ì¤ë ì´
-ë§ì¹ heaven ê°ê² ì§ë§
-You might not get in it
-
-Look at me, look at you
-ëê° ë ìíê¹
-You smart ëê° you are
-ë ëì í¼ëë¬¼ íë¥´ê² ëë¤ë©´
-So sorry ëê° you are
-ë ì´ë¡í´ ëì½í ë  ê²¬ë ì ìì´
-ì ì¨ ë ëì ê°ë¦° ì±
-ì¬ëì ì¨íµì ëì´ì¼ê² ì´
-
-Let's kill this love!
-Yeah, yeah, yeah
-Rum, pum, pum, pum, pum, pum, pum
-Let's kill this love!
-Rum, pum, pum, pum, pum, pum, pum
-
-Feelin' like a sinner
-It's so fire with him I go boo hoo
-He said you look crazy
-Thank you baby
-I owe it all to you
-Got me all messed up
-This love is my favorite
-But you plus me
-Sadly can be dangerous
-
-Lucky me, lucky you
-ê²°êµ­ì ê±°ì§ë§ we lie
-So what? So what?
-ë§ì½ì ë´ê° ë ì§ì°ê²
-ëë¤ë©´ so sorry
-I'm not sorry
-ë ì´ë¡í´ ëì½í ë  ê²¬ë ì ìì´
-ì ì¨ ëë¬¼ì ê°ì¶ ì±, eh
-ì¬ëì ì¨íµì ëì´ì¼ê² ì´
-
-Let's kill this love!
-Yeah, yeah, yeah, yeah, yeah
-Rum, pum, pum, pum, pum, pum, pum
-Let's kill this love!
-Rum, pum, pum, pum, pum, pum, pum
-
-We all commit to love
-That makes you cry, oh oh
-We're all making love
-That kills you inside, yeah
-
-We must kill this love (Yeah, yeah)
-Yeah, it's sad but true
-Gotta kill this love (Yeah, yeah)
-Before it kills you too
-Kill this love (Yeah, yeah)
-Yeah, it's sad but true
-Gotta kill this love, gotta kill
-Let's kill this love!
-
-
-
-Yeah, yeah, yeah
-BLACKPINK IN YOUR AREA!
-Yeah, yeah, yeah
-
-After a sweet "hi", there's always a bitter "bye"
-After every crazy high, there's a price you have to pay
-There's no answer to this test I'll always fall for it yes
-I'm a slave to my emotions
-Screw this heartless love
-
-Here I come kick in the door
-Give me the strongest one
-So obvious, that love
-Give me more, give me some more
-Cling onto the edge of the cliff if you want
-With just one word you're like starstruck again
-That warm nervous feeling, extreme excitement
-Felt like heaven but you might not get in it
-
-Look at me, look at you, who will be in more pain?
-You smart like who? You are
-If you cry tears of blood from both eyes
-So sorry like who? You are
-What should I do, I can't stand myself being so weak
-While I force myself to cover my eyes
-I need to bring an end to this love
-
-Let's kill this love!
-Yeah, yeah, yeah, yeah, yeah
-Rum, pum, pum, pum, pum, pum, pum
-Let's kill this love!
-Rum, pum, pum, pum, pum, pum, pum
-
-Feelin' like a sinner
-It's so fire with him I go boo hoo
-He said you look crazy
-Thank you baby
-I owe it all to you
-Got me all messed up
-This love is my favorite
-But you plus me
-Sadly can be dangerous
-
-Lucky me, lucky you
-After all, in the end we lie
-So what? So what?
-If I end up forgetting you
-So sorry
-I'm not sorry
-What should I do? I can't stand myself being so weak
-While I force myself to hide my tears
-I need to bring an end to this love
-
-Let's kill this love!
-Yeah, yeah, yeah, yeah, yeah
-Rum, pum, pum, pum, pum, pum, pum
-Let's kill this love!
-Rum, pum, pum, pum, pum, pum, pum
-
-We all commit to love
-That makes you cry, oh, oh
-We're all making love
-That kills you inside, yeah
-
-We must kill this love (Yeah, yeah)
-Yeah, it's sad but true
-Gotta kill this love (Yeah, yeah)
-Before it kills you too
-Kill this love (Yeah, yeah)
-Yeah, it's sad but true
-Gotta kill this love, gotta kill
-Let's kill this love!
-
-
-

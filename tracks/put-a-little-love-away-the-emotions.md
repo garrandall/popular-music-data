@@ -1,8 +1,11 @@
 ---
+album: Sunshine!
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:0HGw5HSzCZGQg9POwyAMMi
 features: []
-genres: []
+first_released_as_single: false
 key: put-a-little-love-away-the-emotions
 lyrics_url: https://genius.com/The-emotions-put-a-little-love-away-lyrics
 name: Put A Little Love Away
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1974
+runtime: 316560
 ---
 We ask a question
 You have no answer
@@ -44,7 +49,6 @@ Tomorrow then you'll know
 
 Better
 
-(CHORUS)
 Put a little love away
 Everybody needs a
 Penny for a rainy day
@@ -58,8 +62,6 @@ Two people sharing
 One tear too many
 Look around for miracles
 
-Lyrics courtesy Top40db
-
 You know you don't find many
 
 I've seen it coming
@@ -68,7 +70,3 @@ Just take a closer look around
 Simply say to you
 
 Better
-
-(repeat CHORUS)
-
-(repeat CHORUS 2x)

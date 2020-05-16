@@ -1,8 +1,11 @@
 ---
+album: Take It All Away (U.S. Version)
 artists:
 - Ryan Cabrera
+external_ids:
+  spotify: spotify:track:0jdeV5dSB3kUBRqe1xQJbh
 features: []
-genres: []
+first_released_as_single: false
 key: true-ryan-cabrera
 lyrics_url: https://www.azlyrics.com/lyrics/ryancabrera/true.html
 name: 'True'
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2004
+runtime: 204173
 ---
-
 I won't talk
 I won't breathe
 I won't move till you finally see
@@ -140,6 +144,3 @@ It's time to try anything to be with you
 All my life I've waited
 
 This is true
-
-
-

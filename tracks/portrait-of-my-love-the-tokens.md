@@ -1,8 +1,11 @@
 ---
+album: It's A Happening World
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:1B89BZEG2YoS0aqe510yXM
 features: []
-genres: []
+first_released_as_single: false
 key: portrait-of-my-love-the-tokens
 lyrics_url: https://www.azlyrics.com/lyrics/tokens/portraitofmylove.html
 name: Portrait Of My Love
@@ -39,8 +42,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 146133
 ---
-
 There could never be
 A portrait of my love
 For nobody can paint a dream
@@ -65,6 +69,3 @@ To try and paint a portrait of my love
 To try and paint a portrait of my love
 Love
 Love...
-
-
-

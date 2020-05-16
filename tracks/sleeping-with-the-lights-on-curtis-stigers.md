@@ -1,8 +1,11 @@
 ---
+album: Curtis Stigers
 artists:
 - Curtis Stigers
+external_ids:
+  spotify: spotify:track:4FGlBXJbkqhLep9ZWUJfmc
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-with-the-lights-on-curtis-stigers
 lyrics_url: https://genius.com/Curtis-stigers-sleeping-with-the-lights-on-lyrics
 name: Sleeping With The Lights On
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
+release_year: 1991
+runtime: 241893
 ---
 My ghosts and monsters
 They wake me every night

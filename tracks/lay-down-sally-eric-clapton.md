@@ -1,8 +1,11 @@
 ---
+album: Slowhand 35th Anniversary (Super Deluxe)
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:6io0LJIP9ntX35hTfaxwQG
 features: []
-genres: []
+first_released_as_single: false
 key: lay-down-sally-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-lay-down-sally-lyrics
 name: Lay Down Sally
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1977
+runtime: 236093
 ---
 There is nothing that is wrong
 In wanting you to stay here with me

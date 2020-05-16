@@ -1,8 +1,11 @@
 ---
+album: Pitbull Starring In Rebelution
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:0OPyDgTRuIdCJ9B4bYSths
 features: []
-genres: []
+first_released_as_single: false
 key: hotel-room-service-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/hotelroomservice.html
 name: Hotel Room Service
@@ -99,8 +102,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 237600
 ---
-
 I want everybody to stop what they're doing.
 Now if you know you're with somebody you're gonna take the hotel room tonight, make some noise...
 
@@ -158,6 +162,3 @@ Forget about your boyfriend and meet me at the hotel room,
 You can bring your girlfriends and meet me at the hotel room
 
 We at the hotel, motel, Holiday Inn
-
-
-

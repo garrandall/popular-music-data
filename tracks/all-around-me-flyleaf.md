@@ -1,8 +1,11 @@
 ---
+album: Flyleaf
 artists:
 - Flyleaf
+external_ids:
+  spotify: spotify:track:1zN6ynJG4PdR61YWv4PQ3Y
 features: []
-genres: []
+first_released_as_single: false
 key: all-around-me-flyleaf
 lyrics_url: https://www.azlyrics.com/lyrics/flyleaf/allaroundme.html
 name: All Around Me
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2008-08-02'
+release_year: 2006
+runtime: 198506
 ---
-
 My hands are searching for you
 My arms are outstretched towards you
 I feel you on my fingertips
@@ -148,6 +152,3 @@ I can feel you all around me
 Thickening the air I'm breathing
 Holding on to what I'm feeling
 Savoring this heart that's healed
-
-
-

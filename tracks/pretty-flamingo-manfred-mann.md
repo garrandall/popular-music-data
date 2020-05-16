@@ -1,8 +1,11 @@
 ---
+album: Mann Made Hits
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:5rohzp7Q1O6H9mzcSJEQOi
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-flamingo-manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-pretty-flamingo-lyrics
 name: Pretty Flamingo
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1966
+runtime: 150106
 ---
 On our block all of the guys call her flamingo
 'Cause her hair glows like the sun

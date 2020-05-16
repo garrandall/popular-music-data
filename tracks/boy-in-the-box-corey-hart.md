@@ -1,8 +1,11 @@
 ---
+album: Boy In The Box
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:3XEu1FA3gPxdwRxbbHIqYW
 features: []
-genres: []
+first_released_as_single: false
 key: boy-in-the-box-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/boyinthebox.html
 name: Boy In The Box
@@ -55,8 +58,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1985
+runtime: 266493
 ---
-
 When I go out
 I can see the world from inside
 Without a doubt
@@ -110,6 +114,3 @@ Alive is the boy in the box
 Like a boy in the box
 The boy in the box
 Like a boy in the box
-
-
-

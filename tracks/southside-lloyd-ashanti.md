@@ -1,9 +1,12 @@
 ---
+album: Southside
 artists:
 - Lloyd
+external_ids:
+  spotify: spotify:track:7lurcq2Yw96B1K0KOJAHxg
 features:
 - Ashanti
-genres: []
+first_released_as_single: false
 key: southside-lloyd-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/lloyd/southside.html
 name: Southside
@@ -88,9 +91,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2004-10-02'
+release_year: 2004
+runtime: 277840
 ---
-
-
 Tell ya daddy stop his hating
 Cuz I be wearing braids and rockin jerseys daily
 But that don't mean I'm thuggin though
@@ -196,6 +199,3 @@ But I'll show ya (Show me)
 Ain't nuttin but a thing (yeah-yeah-yeah)
 Chicken wings on string (baby-baby-baby)
 That's how I hang (only at the southside, southside, southside)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Nuthin' 2 Prove
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:3m2aDCqn8eT5ElXDUiboGU
 features:
 - Playboi Carti
-genres: []
+first_released_as_single: false
 key: get-dripped-lil-yachty-playboi-carti
 lyrics_url: https://genius.com/Lil-yachty-get-dripped-lyrics
 name: Get Dripped
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 158769
 ---
 Earl on the beat
 Lousy

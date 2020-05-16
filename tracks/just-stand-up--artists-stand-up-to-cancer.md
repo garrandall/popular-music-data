@@ -1,8 +1,11 @@
 ---
+album: JUST STAND UP!
 artists:
 - Artists Stand Up To Cancer
+external_ids:
+  spotify: spotify:track:1EiwZsCTu8cGSRdog30oYY
 features: []
-genres: []
+first_released_as_single: true
 key: just-stand-up--artists-stand-up-to-cancer
 lyrics_url: https://www.azlyrics.com/lyrics/artistsstanduptocancer/juststandup.html
 name: Just Stand Up!
@@ -23,9 +26,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 217066
 ---
-
-
 Everything will be alright yeah
 Alright yeah, alright yeah
 
@@ -157,6 +160,3 @@ Find it within you, find it within
 
 
 Through it all, just stand up
-
-
-

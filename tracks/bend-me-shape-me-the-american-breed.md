@@ -1,8 +1,11 @@
 ---
+album: 60's Gold
 artists:
 - The American Breed
+external_ids:
+  spotify: spotify:track:4BZE0PNKwu5vF6fHNVTgjO
 features: []
-genres: []
+first_released_as_single: false
 key: bend-me-shape-me-the-american-breed
 lyrics_url: https://genius.com/The-american-breed-bend-me-shape-me-lyrics
 name: Bend Me Shape Me
@@ -63,6 +66,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1967
+runtime: 129759
 ---
 You are all the woman I need, and baby you know it
 You can make this beggar a king, a clown or a poet

@@ -1,8 +1,11 @@
 ---
+album: World Power
 artists:
 - Snap!
+external_ids:
+  spotify: spotify:track:6825upeGpYA3rrEosDKsGR
 features: []
-genres: []
+first_released_as_single: false
 key: ooops-up-snap-
 lyrics_url: https://genius.com/Snap-ooops-up-lyrics
 name: Ooops Up
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-11-17'
+release_year: 1990
+runtime: 402214
 ---
 This is a song about those bad days
 Start up happy and end up sad days

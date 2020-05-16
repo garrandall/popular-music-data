@@ -1,8 +1,11 @@
 ---
+album: The Pointer Sisters
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:0RreVXhAVGCTTjppxFMFvb
 features: []
-genres: []
+first_released_as_single: false
 key: wang-dang-doodle-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/wangdangdoodle.html
 name: Wang Dang Doodle
@@ -39,8 +42,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 447666
 ---
-
 Tell Automatic Slim, tell Razor Totin' Jim
 Tell Butcher Knife Totin' Annie, tell Fast Talking Fanny
 A we gonna pitch a ball, a down to that union hall
@@ -63,6 +67,3 @@ Tell Peg and Caroline Dye, we gonna have a time
 When the fish scent fill the air, there'll be snuff juice everywhere
 We gonna pitch a wang dang doodle all night long
 All night long, All night long
-
-
-

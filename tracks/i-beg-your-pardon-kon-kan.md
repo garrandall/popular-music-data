@@ -1,8 +1,11 @@
 ---
+album: Move To Move
 artists:
 - Kon Kan
+external_ids:
+  spotify: spotify:track:3QtMzmaXaQnHp70RsAZ8rL
 features: []
-genres: []
+first_released_as_single: false
 key: i-beg-your-pardon-kon-kan
 lyrics_url: https://www.musixmatch.com/lyrics/Kon-Kan/I-Beg-Your-Pardon-I-Never-Promised-You-a-Rose-Garden
 name: I Beg Your Pardon
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1988
+runtime: 241000
 ---
 There once was a time and there once was a way
 We had something going and to my dismay

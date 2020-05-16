@@ -1,8 +1,11 @@
 ---
+album: Elisa Fiorillo
 artists:
 - Elisa Fiorillo
+external_ids:
+  spotify: spotify:track:5d8byUVc57r4axH3JLbLAX
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-forget-you-elisa-fiorillo
 lyrics_url: https://genius.com/Elisa-fiorillo-how-can-i-forget-you-lyrics
 name: How Can I Forget You
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1987
+runtime: 238979
 ---
 My family's saying you're the kind I can do without
 They think I'm too young

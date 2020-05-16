@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:151w3SeAroHxzuDbukppiv
 features: []
-genres: []
+first_released_as_single: false
 key: till-there-was-you-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-till-there-was-you-lyrics
 name: Till There Was You
@@ -59,6 +62,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 129373
 ---
 Till There Was You
 Anita Bryant

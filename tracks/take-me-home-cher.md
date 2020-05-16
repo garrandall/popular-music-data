@@ -1,8 +1,11 @@
 ---
+album: Take Me Home
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:3YWTp4Ap4sZNIyFkP0a0rx
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-home-cher
 lyrics_url: https://www.musixmatch.com/lyrics/Cher/Take-Me-Home
 name: Take Me Home
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1979
+runtime: 403000
 ---
 Take me home, take me home
 Want to feel you close to me

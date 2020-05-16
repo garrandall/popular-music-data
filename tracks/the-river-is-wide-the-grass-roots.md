@@ -1,8 +1,11 @@
 ---
+album: Symphonic Hits
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:7BjK8kpag8H0qhIuCs3eb4
 features: []
-genres: []
+first_released_as_single: false
 key: the-river-is-wide-the-grass-roots
 lyrics_url: https://genius.com/The-grass-roots-the-river-is-wide-lyrics
 name: The River Is Wide
@@ -51,6 +54,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 160266
 ---
 The sky was clear on that windy day
 'Til the clear blue sky began to turn to grey

@@ -1,8 +1,11 @@
 ---
+album: At San Quentin
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:6YffUZJ2R06kyxyK6onezL
 features: []
-genres: []
+first_released_as_single: false
 key: ring-of-fire-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-ring-of-fire-lyrics
 name: Ring Of Fire
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-08-24'
+release_year: 1963
+runtime: 158426
 ---
 Love is a burning thing
 And it makes a fiery ring

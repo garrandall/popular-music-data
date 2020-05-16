@@ -1,8 +1,11 @@
 ---
+album: Chicago III
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:5h24XVIsohtANfjhkL8fKB
 features: []
-genres: []
+first_released_as_single: false
 key: lowdown-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/lowdown.html
 name: Lowdown
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1971
+runtime: 215093
 ---
-
 Oh my
 Life has passed me by
 The country I was brought up in
@@ -57,6 +61,3 @@ Lowdown
 Ooo! Got to find a way
 Got to make the people see
 The way I feel today
-
-
-

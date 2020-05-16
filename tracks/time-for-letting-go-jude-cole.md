@@ -1,8 +1,11 @@
 ---
+album: A View From 3rd Street
 artists:
 - Jude Cole
+external_ids:
+  spotify: spotify:track:6aArMs4YuTg3mzxrtZV4cc
 features: []
-genres: []
+first_released_as_single: false
 key: time-for-letting-go-jude-cole
 lyrics_url: https://genius.com/Jude-cole-time-for-letting-go-lyrics
 name: Time For Letting Go
@@ -67,6 +70,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1990
+runtime: 259693
 ---
 Ive been holding back words
 And waiting for time

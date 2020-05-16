@@ -1,8 +1,11 @@
 ---
+album: The Best Of Daniel Boone
 artists:
 - Daniel Boone
+external_ids:
+  spotify: spotify:track:6buytRJDEQBJcwwI4jTeSl
 features: []
-genres: []
+first_released_as_single: false
 key: annabelle-daniel-boone
 lyrics_url: https://www.musixmatch.com/lyrics/Daniel-Boone/Annabelle
 name: Annabelle
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
+release_year: 1972
+runtime: 177053
 ---
 There's a certain thing that
 Happens when you're near me

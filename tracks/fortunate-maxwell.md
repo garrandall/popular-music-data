@@ -1,8 +1,11 @@
 ---
+album: Life
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:0atAqF01mqwYOOfXVHu51F
 features: []
-genres: []
+first_released_as_single: false
 key: fortunate-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/fortunate.html
 name: Fortunate
@@ -107,10 +110,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1999-09-25'
+release_year: 1999
+runtime: 299200
 ---
-
-
-
 Never seen a sun shine like this
 Never seen the moon glow like this
 Never seen the waterfalls like this
@@ -144,4 +146,3 @@ Silence child hope you hear
 I'm callin out to your body
 Baby you know just what to do
 Close the door no interlude
-

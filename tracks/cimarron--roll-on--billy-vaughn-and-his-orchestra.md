@@ -1,8 +1,11 @@
 ---
+album: World Music Vol. 8
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:0xWJVGgzhA7b7r90wQpH6S
 features: []
-genres: []
+first_released_as_single: false
 key: cimarron--roll-on--billy-vaughn-and-his-orchestra
 name: Cimarron (Roll On)
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 161914
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Twice The Speed Of Life
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:6qQIH999KekS3qFWqR5qMO
 features: []
-genres: []
+first_released_as_single: true
 key: baby-girl-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/babygirl.html
 name: Baby Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2004
+runtime: 239693
 ---
-
 They say this town,
 The stars stay up all night,
 Don't know can't see'em,
@@ -146,6 +150,3 @@ Don't need much just enough to get me through,
 Please don't worry cause I'm alright,
 I'm playin here at the bar tonight..
 Dreams come true...)
-
-
-

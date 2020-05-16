@@ -1,8 +1,11 @@
 ---
+album: Little Town Flirt
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:5MaO1Lu6KH8iLAeLqoztyo
 features: []
-genres: []
+first_released_as_single: false
 key: from-me-to-you-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/frommetoyou.html
 name: From Me To You
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 117000
 ---
-
 If there's anything that you want,
 If there's anything I can do,
 Just call on me and I'll send it along
@@ -59,6 +63,3 @@ If there's anything that you want,
 If there's anything I can do,
 Just call on me and I'll send it along
 With love from me to you.
-
-
-

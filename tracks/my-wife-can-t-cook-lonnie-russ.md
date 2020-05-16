@@ -1,8 +1,11 @@
 ---
+album: 'Eccentric Soul: The 4-J Label'
 artists:
 - Lonnie Russ
+external_ids:
+  spotify: spotify:track:1dmTbwG3fwLD7IkRxhMWpf
 features: []
-genres: []
+first_released_as_single: false
 key: my-wife-can-t-cook-lonnie-russ
 lyrics_url: https://www.musixmatch.com/lyrics/Lonnie-Russ/My-Wife-Can-t-Cook
 name: My Wife Can't Cook
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 157786
 ---
 If it wasn't for the beans
 That come out the can

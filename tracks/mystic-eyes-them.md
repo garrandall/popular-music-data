@@ -1,8 +1,11 @@
 ---
+album: The "Angry" Young Them!
 artists:
 - Them
+external_ids:
+  spotify: spotify:track:4jyTPINPO1Zc6an1zPWJTy
 features: []
-genres: []
+first_released_as_single: false
 key: mystic-eyes-them
 lyrics_url: https://genius.com/Them-mystic-eyes-lyrics
 name: Mystic Eyes
@@ -39,6 +42,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 163453
 ---
 One Sunday mornin'
 A-we went walkin'

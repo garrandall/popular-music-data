@@ -1,8 +1,11 @@
 ---
+album: Dig Your Own Hole
 artists:
 - The Chemical Brothers
+external_ids:
+  spotify: spotify:track:0Pi9gXX8JPKGD6kbUPYEPw
 features: []
-genres: []
+first_released_as_single: true
 key: setting-sun-the-chemical-brothers
 lyrics_url: https://genius.com/The-chemical-brothers-setting-sun-lyrics
 name: Setting Sun
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-02-22'
+release_year: 1996
+runtime: 328733
 ---
 You're the devil in me
 I brought in from the cold

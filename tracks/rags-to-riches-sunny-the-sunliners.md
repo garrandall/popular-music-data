@@ -1,9 +1,12 @@
 ---
+album: Talk to Me
 artists:
 - Sunny
 - The Sunliners
+external_ids:
+  spotify: spotify:track:2VhF1XumHGHqQhaO7bZEx4
 features: []
-genres: []
+first_released_as_single: false
 key: rags-to-riches-sunny-the-sunliners
 lyrics_url: https://www.musixmatch.com/lyrics/Sunny-feat-The-Sunliners/Rags-to-Riches
 name: Rags To Riches
@@ -36,6 +39,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 142733
 ---
 I know I'd go from rags to riches,
 If you would only say you cared.

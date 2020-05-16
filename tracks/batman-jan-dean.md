@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:0GngL4xwwPNxNzAh7ibSDl
 features: []
-genres: []
+first_released_as_single: false
 key: batman-jan-dean
 lyrics_url: https://genius.com/Jan-and-dean-batman-lyrics
 name: Batman
@@ -28,6 +31,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 167133
 ---
 I don't know who he is behind that mask
 But we need him, & we need him now

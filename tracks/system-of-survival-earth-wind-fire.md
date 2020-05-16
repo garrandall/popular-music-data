@@ -1,8 +1,11 @@
 ---
+album: Touch The World
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0PWpenS4tZEHeOlS5Rt67L
 features: []
-genres: []
+first_released_as_single: false
 key: system-of-survival-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/systemofsurvival.html
 name: System Of Survival
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 300360
 ---
-
 The Human Race is runnin' over me
 I punch a clock at 9 and 5
 Just tryin' to make a livin'
@@ -108,6 +112,3 @@ It's my system of survival...
 
 (SOS) Send it out
 Send it out, send it out, send it out...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hidden Treasures From The West Coast
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:5SeRewBBf8Jf0DMaguG66I
 features: []
-genres: []
+first_released_as_single: false
 key: faded-love-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-faded-love-lyrics
 name: Faded Love
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1963
+runtime: 183066
 ---
 As I look at the letter
 You wrote to me

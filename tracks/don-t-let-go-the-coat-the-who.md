@@ -1,8 +1,11 @@
 ---
+album: Face Dances
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:2W0OIBbPwrCzKwDApKN8uk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-go-the-coat-the-who
 lyrics_url: https://genius.com/The-who-dont-let-go-the-coat-lyrics
 name: Don't Let Go The Coat
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 228893
 ---
 I cannot be held responsible for blown behavior
 I lost all contact with my only savior

@@ -1,8 +1,11 @@
 ---
+album: Az Yet
 artists:
 - Az Yet
+external_ids:
+  spotify: spotify:track:2mj1Z5bqu0UfW4o4a7UxpW
 features: []
-genres: []
+first_released_as_single: false
 key: last-night-az-yet
 lyrics_url: https://www.azlyrics.com/lyrics/azyet/lastnight.html
 name: Last Night
@@ -123,8 +126,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 269026
 ---
-
 Last night you were so into it
 You told me secrets that
 You've never told a soul
@@ -184,4 +188,3 @@ While making love to you
 I saw the sun, the moon
 The mountains and the rivers
 I saw heaven when I made sweet love to you
-

@@ -1,8 +1,11 @@
 ---
+album: Scatman's World
 artists:
 - Scatman John
+external_ids:
+  spotify: spotify:track:6ooMCJR3I2XhHCHIpgWPvp
 features: []
-genres: []
+first_released_as_single: true
 key: scatman--ski-ba-bop-ba-dop-bop--scatman-john
 lyrics_url: https://www.azlyrics.com/lyrics/scatmanjohn/scatmanskibabopbadopbop.html
 name: Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1994
+runtime: 213426
 ---
-
 Ska-badabadabadoo-belidabbelydabbladabbladabblabab-belibabbelibabbelibabbelabbelo-doobelidoo
 
 I'm the Scatman
@@ -177,6 +181,3 @@ Be bop ba bodda bope, bop ba bodda
 Ba-da-ba-da-ba-be bop ba bodda bope
 Yeah, I'm the Scatman, sing along with me
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2yLa0QULdQr0qAIvVwN6B5
 features: []
-genres: []
+first_released_as_single: false
 key: ready-for-it--taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-ready-for-it-lyrics
 name: Ready For It?
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-01-27'
+release_year: 2017
+runtime: 208186
 ---
 Knew he was a killer first time that I saw him
 Wondered how many girls he had loved and left haunted

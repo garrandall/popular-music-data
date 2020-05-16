@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:4CsGhF52AzvEefojFCQ5IW
 features: []
-genres: []
+first_released_as_single: false
 key: i-believed-it-all-pozo-seco-singers
 lyrics_url: https://www.musixmatch.com/lyrics/Pozo-Seco-Singers/I-Believed-It-All
 name: I Believed It All
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1965
+runtime: 161346
 ---
 Mary had a little lamb
 One and one make two

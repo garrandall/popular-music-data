@@ -1,8 +1,11 @@
 ---
+album: Diana Ross & The Supremes Join The Temptations
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4nop5UmWUqnlxkQ4kvG3Rp
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-mountain-high-enough-diana-ross
 lyrics_url: https://genius.com/Diana-ross-aint-no-mountain-high-enough-lyrics
 name: Ain't No Mountain High Enough
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1968
+runtime: 136466
 ---
 If you need me, call me
 No matter where you are

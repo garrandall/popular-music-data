@@ -1,8 +1,11 @@
 ---
+album: Janet
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:52kDYmU0aE3txkZBKjl0nP
 features: []
-genres: []
+first_released_as_single: false
 key: you-want-this-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-you-want-this-lyrics
 name: You Want This
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1993
+runtime: 305666
 ---
 You know you want me
 You want this

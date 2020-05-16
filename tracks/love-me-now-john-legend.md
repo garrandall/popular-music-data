@@ -1,8 +1,11 @@
 ---
+album: DARKNESS AND LIGHT
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:6hdkw1wzhIRYPlYDUtCY5m
 features: []
-genres: []
+first_released_as_single: true
 key: love-me-now-john-legend
 lyrics_url: https://genius.com/John-legend-love-me-now-lyrics
 name: Love Me Now
@@ -83,6 +86,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2016
+runtime: 210306
 ---
 Pulling me further, further than I've been before
 Making me stronger, shaking me right to the core

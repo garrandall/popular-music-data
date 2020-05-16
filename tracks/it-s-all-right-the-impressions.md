@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:1PkoLMoX7j5ZVC0bnKhUY8
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-right-the-impressions
 lyrics_url: https://genius.com/The-impressions-its-all-right-lyrics
 name: It's All Right
@@ -63,6 +66,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 173360
 ---
 Say it's all right (It's all right)
 Say it's all right (It's all right)

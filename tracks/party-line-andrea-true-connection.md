@@ -1,8 +1,11 @@
 ---
+album: More, More, More
 artists:
 - Andrea True Connection
+external_ids:
+  spotify: spotify:track:7ibmqk9QDdYeBKiDhgNtJh
 features: []
-genres: []
+first_released_as_single: false
 key: party-line-andrea-true-connection
 lyrics_url: https://genius.com/Andrea-true-connection-party-line-lyrics
 name: Party Line
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 406933
 ---
 Party, party, party time
 Every time you call

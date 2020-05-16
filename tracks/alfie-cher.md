@@ -1,8 +1,11 @@
 ---
+album: "Ch\xE9r"
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:3werll2Pv6d87UMscq9Xqk
 features: []
-genres: []
+first_released_as_single: false
 key: alfie-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/alfie.html
 name: Alfie
@@ -31,8 +34,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 171066
 ---
-
 What's it all about, Alfie?
 Is it just for the moment we live?
 What's it all about when you sort it out, Alfie?
@@ -52,6 +56,3 @@ You're nothing, Alfie.
 When you walk, let your heart lead the way.
 And you'll find love any day, Alfie.
 Alfie.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Moments (Expanded)
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:6SxswkKXO2yj9C4EiGrfTW
 features: []
-genres: []
+first_released_as_single: false
 key: near-you-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/nearyou.html
 name: Near You
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 294746
 ---
-
 (I want to be near you)
 I want to hear what you have to say
 (As long as I'm near you)
@@ -75,6 +79,3 @@ As long as I'm near you
 As long as I'm near
 Oh
 I want to believe you
-
-
-

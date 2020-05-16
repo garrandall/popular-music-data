@@ -1,8 +1,11 @@
 ---
+album: Play Me Out
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:0ELr9zHfJsONOvp6LgDLDg
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-say-goodbye-to-you-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-i-cant-say-goodbye-to-you-lyrics
 name: I Can't Say Goodbye To You
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1981
+runtime: 230320
 ---
 You say it would be better
 If we stopped seeing each other

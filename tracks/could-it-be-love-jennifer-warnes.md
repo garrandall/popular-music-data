@@ -1,8 +1,11 @@
 ---
+album: Best Of Jennifer Warnes
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:7oHeqO7wiWCg0e4df54ccw
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-love-jennifer-warnes
 lyrics_url: https://genius.com/Jennifer-warnes-could-it-be-love-lyrics
 name: Could It Be Love
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 212093
 ---
 Well, it seems right
 But I wonder and it feels right

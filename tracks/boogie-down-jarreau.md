@@ -1,8 +1,11 @@
 ---
+album: Jarreau
 artists:
 - Jarreau
+external_ids:
+  spotify: spotify:track:3s1BdA5PikyYgfAAiGEhMg
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-down-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/boogiedown.html
 name: Boogie Down
@@ -31,9 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1983
+runtime: 252933
 ---
-
-
 I can be what I want to
 And all I need is to
 Get my boogie down
@@ -74,4 +77,3 @@ Now you go one and two and three
 Here's a little step for you and me
 Come and strut your stuff but leave enough
 For the nearest boogie and truest boogie woogie
-

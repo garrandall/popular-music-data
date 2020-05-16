@@ -1,8 +1,11 @@
 ---
+album: Fate For Breakfast
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:3PHPlTmRwOtmJglZfWkqh5
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-don-t-have-you-art-garfunkel
 lyrics_url: https://genius.com/Art-garfunkel-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 218800
 ---
 I don't have plans and schemes
 And I don't have hopes and dreams

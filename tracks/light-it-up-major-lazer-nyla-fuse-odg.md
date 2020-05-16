@@ -1,10 +1,13 @@
 ---
+album: Peace Is The Mission (Extended)
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:500mvzh7TRZ0YdnVeHhj8b
 features:
 - Nyla
 - Fuse ODG
-genres: []
+first_released_as_single: false
 key: light-it-up-major-lazer-nyla-fuse-odg
 lyrics_url: https://genius.com/Major-lazer-light-it-up-remix-lyrics
 name: Light It Up
@@ -89,6 +92,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-08-13'
+release_year: 2015
+runtime: 166138
 ---
 Danger them is, while some call them "Major Lazer"
 

@@ -1,8 +1,11 @@
 ---
+album: I Get The Sweetest Feeling
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0510KmyFklBO25nk43PkEz
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-showed-me-how-to-be-happy-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-since-you-showed-me-how-to-be-happy-lyrics
 name: Since You Showed Me How To Be Happy
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 163760
 ---
 From my heart I give thanks to you
 For, stayin at my side was more than what I, sent you through

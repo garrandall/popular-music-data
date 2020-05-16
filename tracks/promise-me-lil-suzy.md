@@ -1,8 +1,11 @@
 ---
+album: Lil' Suzy - The Greatest Hits
 artists:
 - Lil Suzy
+external_ids:
+  spotify: spotify:track:3Wb2ag0YTCdNTAIOXICtRA
 features: []
-genres: []
+first_released_as_single: false
 key: promise-me-lil-suzy
 lyrics_url: https://genius.com/Lil-suzy-promise-me-lyrics
 name: Promise Me
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1994
+runtime: 235626
 ---
 All of my life, you see
 That I waited for this day

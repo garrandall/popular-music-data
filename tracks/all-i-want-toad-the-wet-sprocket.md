@@ -1,8 +1,11 @@
 ---
+album: fear
 artists:
 - Toad The Wet Sprocket
+external_ids:
+  spotify: spotify:track:6LlD5wT5aaVc87PzuuGRyq
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-toad-the-wet-sprocket
 lyrics_url: https://genius.com/Toad-the-wet-sprocket-all-i-want-lyrics
 name: All I Want
@@ -107,6 +110,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1991
+runtime: 196240
 ---
 Nothing so loud
 As hearing when we lie

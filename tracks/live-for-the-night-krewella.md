@@ -1,8 +1,11 @@
 ---
+album: Get Wet
 artists:
 - Krewella
+external_ids:
+  spotify: spotify:track:1YnvlSmMtCAezNoqR9Zf3k
 features: []
-genres: []
+first_released_as_single: true
 key: live-for-the-night-krewella
 lyrics_url: https://www.azlyrics.com/lyrics/krewella/liveforthenight.html
 name: Live For The Night
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 367626
 ---
-
 I live for the night
 I live for the lights 
 I live for the high til I'm free fallin' 
@@ -68,6 +72,3 @@ I live for the lights
 I live for the high til I'm free fallin'
 
 I live for the night
-
-
-

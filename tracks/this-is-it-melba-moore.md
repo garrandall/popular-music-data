@@ -1,8 +1,11 @@
 ---
+album: Live In NYC
 artists:
 - Melba Moore
+external_ids:
+  spotify: spotify:track:5Du2CaqfS6PVDbNMPj6bae
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-it-melba-moore
 lyrics_url: https://genius.com/Melba-moore-this-is-it-lyrics
 name: This Is It
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 209413
 ---
 This is it
 This time I know its for real

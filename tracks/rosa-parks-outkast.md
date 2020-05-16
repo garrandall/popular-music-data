@@ -1,8 +1,11 @@
 ---
+album: Aquemini
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:0shK5iZQppbHPQYiy60xs9
 features: []
-genres: []
+first_released_as_single: false
 key: rosa-parks-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/rosaparks.html
 name: Rosa Parks
@@ -75,9 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1998
+runtime: 324373
 ---
-
-
 Ah ha, hush that fuss
 Everybody move to the back of the bus
 Do you wanna bump and slump with us
@@ -118,4 +121,3 @@ That I want to hear when I'm goin down when all's said and done
 And we got a new joe in town
 When the record player get to skippin and slowin down
 All yawl can say is them niggas earned that crown but until then...
-

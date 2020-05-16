@@ -1,8 +1,11 @@
 ---
+album: Sugarloaf
 artists:
 - Sugarloaf
+external_ids:
+  spotify: spotify:track:7s2orxqJ8qE0aG3Ngvct3C
 features: []
-genres: []
+first_released_as_single: true
 key: green-eyed-lady-sugarloaf
 lyrics_url: https://www.azlyrics.com/lyrics/sugarloaf/greeneyedlady.html
 name: Green-Eyed Lady
@@ -75,8 +78,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 219760
 ---
-
 Green-eyed lady, lovely lady
 Strolling slowly towards the sun
 Green-eyed lady, ocean lady
@@ -96,6 +100,3 @@ Green-eyed lady, passion's lady
 Dressed in love, she lives for life to be
 Green-eyed lady feels life I never see
 Setting suns and lonely lovers free
-
-
-

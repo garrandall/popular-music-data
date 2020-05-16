@@ -1,8 +1,11 @@
 ---
+album: Don't Burn Me
 artists:
 - Paul Kelly
+external_ids:
+  spotify: spotify:track:49pZSe9wzmBUSZ4sySRyxj
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-burn-me-paul-kelly
 name: Don't Burn Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1973
+runtime: 174965
 ---
 

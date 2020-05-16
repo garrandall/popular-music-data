@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:4DCU0UIaweLUo15h1INvUz
 features: []
-genres: []
+first_released_as_single: false
 key: run-baby-run--back-into-my-arms--the-newbeats
 lyrics_url: https://genius.com/The-newbeats-run-baby-run-lyrics
 name: Run Baby Run (Back Into My Arms)
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 185693
 ---
 Run, run baby run
 Run baby run

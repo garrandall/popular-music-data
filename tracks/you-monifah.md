@@ -1,8 +1,11 @@
 ---
+album: Moods...Moments
 artists:
 - Monifah
+external_ids:
+  spotify: spotify:track:02vWCg2NNFgPb5VDkaA5g6
 features: []
-genres: []
+first_released_as_single: false
 key: you-monifah
 lyrics_url: https://genius.com/Monifah-i-still-love-you-lyrics
 name: You
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
+release_year: 1996
+runtime: 263400
 ---
 So you say that you can't go on
 Love left you cryin'

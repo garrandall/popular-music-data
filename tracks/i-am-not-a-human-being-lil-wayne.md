@@ -1,8 +1,11 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2QLWLAqMMJuiBRztcBFgvM
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-not-a-human-being-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-i-am-not-a-human-being-lyrics
 name: I Am Not A Human Being
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 244746
 ---
 I-I-I, am-am not a human being!
 

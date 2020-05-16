@@ -1,8 +1,11 @@
 ---
+album: Blonde
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:7eqoqGkKwgOaWNNHx90uEZ
 features: []
-genres: []
+first_released_as_single: false
 key: nights-frank-ocean
 lyrics_url: https://genius.com/Frank-ocean-nights-lyrics
 name: Nights
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2016
+runtime: 307151
 ---
 Round your city, round the clock
 Everybody needs you

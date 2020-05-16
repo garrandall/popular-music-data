@@ -1,8 +1,11 @@
 ---
+album: Never Regret
 artists:
 - Craig Campbell
+external_ids:
+  spotify: spotify:track:389JMtmedq5MLhikWghmzw
 features: []
-genres: []
+first_released_as_single: false
 key: outta-my-head-craig-campbell
 lyrics_url: https://genius.com/Craig-campbell-outta-my-head-lyrics
 name: Outta My Head
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 212960
 ---
 I rode around long enough
 With my windows down

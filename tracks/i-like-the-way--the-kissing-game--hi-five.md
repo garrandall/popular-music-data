@@ -1,8 +1,11 @@
 ---
+album: Love Soul, Vol. 2
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:0flZtKtmkZMNqFF7V7Yfmu
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-the-way--the-kissing-game--hi-five
 lyrics_url: https://genius.com/Hi-five-i-like-the-way-the-kissing-game-lyrics
 name: I Like The Way (The Kissing Game)
@@ -99,6 +102,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1990
+runtime: 350266
 ---
 All summer long
 We've been together

@@ -1,8 +1,11 @@
 ---
+album: Remember When
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:7qo6MI2VIafV9SFSgg4ZS9
 features: []
-genres: []
+first_released_as_single: false
 key: sha-la-la-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/shalala.html
 name: Sha-La-La
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 133729
 ---
-
 Sha la la la la la la sha la la la la la la la
 Sha la la la la la la la la la
 
@@ -51,6 +55,3 @@ We'll be happy forever
 
 Sha la la la la la la sha la la la la la la la
 Sha la la la la la la la la la
-
-
-

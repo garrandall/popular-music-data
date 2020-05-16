@@ -1,8 +1,11 @@
 ---
+album: We Are Tonight
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:4CcrLWFQY4dRGMbUR59cSp
 features: []
-genres: []
+first_released_as_single: false
 key: hey-girl-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/heygirl.html
 name: Hey Girl
@@ -91,8 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 200533
 ---
-
 Hey girl, what's your name girl
 I've been lookin' at you
 And every guy here's doin' the same girl
@@ -145,6 +149,3 @@ You're lookin' so fine, got me all tongue tied
 And the only line I can think to say is
 Hey girl
 Oh yeah
-
-
-

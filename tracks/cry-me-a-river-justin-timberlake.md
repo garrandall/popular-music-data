@@ -1,8 +1,11 @@
 ---
+album: Justified
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:7Lf7oSEVdzZqTA0kEDSlS5
 features: []
-genres: []
+first_released_as_single: false
 key: cry-me-a-river-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-cry-me-a-river-lyrics
 name: Cry Me A River
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2003-05-03'
+release_year: 2002
+runtime: 288333
 ---
 You were my sun
 You were my earth

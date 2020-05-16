@@ -1,8 +1,11 @@
 ---
+album: Straight Up
 artists:
 - Badfinger
+external_ids:
+  spotify: spotify:track:2XKW8CH8nRZH9cF2DNjBHN
 features: []
-genres: []
+first_released_as_single: false
 key: day-after-day-badfinger
 lyrics_url: https://genius.com/Badfinger-day-after-day-lyrics
 name: Day After Day
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1971
+runtime: 191053
 ---
 I remember findin' out about you
 Every day, my mind is all around you

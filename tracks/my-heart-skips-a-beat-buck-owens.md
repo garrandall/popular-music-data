@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits, Vol. 3
 artists:
 - Buck Owens
+external_ids:
+  spotify: spotify:track:2gh86ZgtMwrDQEESi2p2C3
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-skips-a-beat-buck-owens
 lyrics_url: https://genius.com/Buck-owens-my-heart-skips-a-beat-lyrics
 name: My Heart Skips A Beat
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 148200
 ---
 Oh, my heart skips a beat when we walk down the street
 I feel a trembling in my knees

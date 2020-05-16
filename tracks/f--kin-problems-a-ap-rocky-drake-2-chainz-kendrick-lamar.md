@@ -1,11 +1,14 @@
 ---
+album: LONG.LIVE.A$AP (Deluxe Version)
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:4X5f3vT8MRuXF68pfjNte5
 features:
 - Drake
 - 2 Chainz
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: f--kin-problems-a-ap-rocky-drake-2-chainz-kendrick-lamar
 lyrics_url: https://genius.com/A-ap-rocky-fkin-problems-clean-version-lyrics
 name: F**kin Problems
@@ -118,6 +121,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2012
+runtime: 233786
 ---
 I love bad bad, that's my that's my problem
 And yeah, I like to, I got a p-p-problem

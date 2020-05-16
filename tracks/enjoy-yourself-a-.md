@@ -1,8 +1,11 @@
 ---
+album: Hempstead High
 artists:
 - A+
+external_ids:
+  spotify: spotify:track:1fEUW2mfGlCaawNaNOXdjl
 features: []
-genres: []
+first_released_as_single: false
 key: enjoy-yourself-a-
 lyrics_url: https://genius.com/A-rap-enjoy-yourself-lyrics
 name: Enjoy Yourself
@@ -19,6 +22,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 218426
 ---
 Enjoy Yourself..
 9-8, get it straight
@@ -70,4 +75,3 @@ Take em back to the lab and touch three bases
 Take my time, don't wanna catch no rape cases
 Kiss her on the forehead and say goodnight
 A+ y'all, and I'm out like three strikes
-

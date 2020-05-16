@@ -1,10 +1,13 @@
 ---
+album: Volume. 3... Life and Times of S. Carter
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:4EIzsbsVOzfLwyIvfsRQ8H
 features:
 - Beanie Sigel
 - Amil
-genres: []
+first_released_as_single: false
 key: do-it-again--put-ya-hands-up--jay-z-beanie-sigel-amil
 lyrics_url: https://genius.com/Jay-z-do-it-again-put-ya-hands-up-lyrics
 name: Do It Again (Put Ya Hands Up)
@@ -45,6 +48,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1999
+runtime: 278533
 ---
 Roc-A-Fella.. y'all know what this is
 We givin' y'all five seconds to put your drink down

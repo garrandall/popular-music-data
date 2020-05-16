@@ -1,8 +1,11 @@
 ---
+album: Old Boots, New Dirt
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:1WtdhlaiUoDTrVNSwaya0L
 features: []
-genres: []
+first_released_as_single: false
 key: just-gettin--started-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/justgettinstarted.html
 name: Just Gettin' Started
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
+release_year: 2014
+runtime: 195480
 ---
-
 I knew the minute that I picked you up
 It was gonna be a wild ride
 You kissed me like you couldn't get enough
@@ -128,6 +132,3 @@ Yeah we got a whole lotta moonlight left
 Already havin' the time of our lives
 And we just gettin' started tonight
 And we just gettin' started tonight
-
-
-

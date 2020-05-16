@@ -1,9 +1,12 @@
 ---
+album: Stoney
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:0H8XeaJunhvpBdBFIYi6Sh
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: false
 key: deja-vu-post-malone-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/dejavu.html
 name: Deja Vu
@@ -16,9 +19,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 234213
 ---
-
-
 Cause I can't take it no more
 No you ain't like them bitches
 Tell them hoes adios
@@ -95,6 +98,3 @@ And you can drop your panties
 Leave them shits at the door
 Dior falls on the floor
 I swear we been here before
-
-
-

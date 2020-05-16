@@ -1,8 +1,11 @@
 ---
+album: Houston
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:27hZOgCqrouNlhFw3vxg6X
 features: []
-genres: []
+first_released_as_single: false
 key: houston-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/houston.html
 name: Houston
@@ -43,8 +46,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 161160
 ---
-
 Well it's lonesome in this old town
 Everybody puts me down
 I'm a face without a name
@@ -75,6 +79,3 @@ Everybody put me down
 I'm a face without a name
 Just walking in the rain
 Goin' back to Houston, Houston, Houston
-
-
-

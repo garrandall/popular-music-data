@@ -1,8 +1,11 @@
 ---
+album: Man Of Colours
 artists:
 - Icehouse
+external_ids:
+  spotify: spotify:track:4tmXsNoNOk37DPBhVk5wK1
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-icehouse
 lyrics_url: https://www.azlyrics.com/lyrics/icehouse/crazy.html
 name: Crazy
@@ -91,8 +94,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 203920
 ---
-
 I've got a pocket full of holes.
 Head in the clouds, the king of fools.
 You've got a ribbon of rainbows,
@@ -121,6 +125,3 @@ Well, there must be some kind of mistake to fall in love with me.
 Well, you've gotta be out of your mind - crazy crazy
 Well, you've gotta be crazy, baby to want a guy like me.
 Yeah, you've gotta be crazy, baby...
-
-
-

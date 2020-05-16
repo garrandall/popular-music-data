@@ -1,8 +1,11 @@
 ---
+album: Emerson Drive
 artists:
 - Emerson Drive
+external_ids:
+  spotify: spotify:track:2bVFvGBU2ihWJgMRPcav5r
 features: []
-genres: []
+first_released_as_single: false
 key: fall-into-me-emerson-drive
 lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/fallintome.html
 name: Fall Into Me
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2002
+runtime: 168866
 ---
-
 Right here waiting
 Staying strong
 Come and
@@ -153,6 +157,3 @@ Come and
 Fall into me
 Fall into me
 (Fall into me)
-
-
-

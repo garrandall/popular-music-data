@@ -1,8 +1,11 @@
 ---
+album: Be What You Are (Reissue)
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:5eX6j2j6gfaXEryl54oIKZ
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-ready--come-go-with-me--the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-if-youre-ready-lyrics
 name: If You're Ready (Come Go With Me)
@@ -71,6 +74,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 267173
 ---
 If you're ready come go with me
 No hatred

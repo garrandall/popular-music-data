@@ -1,8 +1,11 @@
 ---
+album: Baby It's Me
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:1KUck4lHzAqPbCNZ4rOt88
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-is-so-good-for-me-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/yourloveissogoodforme.html
 name: Your Love Is So Good For Me
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1977
+runtime: 253560
 ---
-
 Your love is so good for me
 Your love is so good for me
 
@@ -84,6 +88,3 @@ True love was meant to be
 
 Your love is so good for me
 Your love is so good for me
-
-
-

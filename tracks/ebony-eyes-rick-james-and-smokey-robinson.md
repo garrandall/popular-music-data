@@ -1,9 +1,12 @@
 ---
+album: Cold Blooded
 artists:
 - Rick James
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:71JkyCi11ETSz58jhgg2YE
 features: []
-genres: []
+first_released_as_single: false
 key: ebony-eyes-rick-james-and-smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-ebony-eyes-duet-with-rick-james-lyrics
 name: Ebony Eyes
@@ -52,6 +55,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 307640
 ---
 Wind in your hair, sun on your skin
 You're looking good, girl, all over again

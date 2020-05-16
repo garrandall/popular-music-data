@@ -1,8 +1,11 @@
 ---
+album: The Concert of Love
 artists:
 - Darlene Love
+external_ids:
+  spotify: spotify:track:11WNpuPvq0PQacFTAaLRQs
 features: []
-genres: []
+first_released_as_single: false
 key: all-alone-on-christmas-darlene-love
 lyrics_url: https://www.azlyrics.com/lyrics/darlenelove/allaloneonchristmas.html
 name: All Alone On Christmas
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1993
+runtime: 249266
 ---
-
 The cold wind is blowin' and the streets are getting dark
 I'm writing you a letter and I don't know where to start
 The bells will be ringing Saint John the Divine
@@ -76,6 +80,3 @@ Nobody ought to be all alone on Christmas
 Nobody ought to be all alone on Christmas
 Nobody ought to be all alone on Christmas
 Nobody ought to be all alone on Christmas
-
-
-

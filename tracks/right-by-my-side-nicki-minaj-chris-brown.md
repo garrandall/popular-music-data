@@ -1,9 +1,12 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:5uUiDFSt8DUDlTsb5bhT4v
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: right-by-my-side-nicki-minaj-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/rightbymyside.html
 name: Right By My Side
@@ -68,9 +71,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2012-07-28'
+release_year: 2011
+runtime: 265320
 ---
-
-
 It all comes down to this
 I miss your morning kiss
 I won't lie, I'm feeling it
@@ -158,6 +161,3 @@ I can't eat ah, ah, ah, ah
 I can't sleep ah, ah, ah
 What I need ah, ah, ah
 Is you right by my side
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Level Headed Tour Rehearsals 1977
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:6z0xZBpQaD15Ik6ZSdq2rE
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-like-oxygen-sweet
 lyrics_url: https://www.azlyrics.com/lyrics/sweet/loveislikeoxygen.html
 name: Love Is Like Oxygen
@@ -107,8 +110,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1977
+runtime: 382320
 ---
-
 Love is like oxygen
 You get too much, you get too high
 Not enough and you're gonna die
@@ -158,6 +162,3 @@ Not enough and you're gonna die
 Love gets you high
 
 Love is like oxygen...
-
-
-

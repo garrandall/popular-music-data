@@ -1,8 +1,11 @@
 ---
+album: Joe Budden
 artists:
 - Joe Budden
+external_ids:
+  spotify: spotify:track:6AOGwXnlNqotnXdza8Rb7m
 features: []
-genres: []
+first_released_as_single: false
 key: pump-it-up-joe-budden
 lyrics_url: https://genius.com/Joe-budden-pump-it-up-lyrics
 name: Pump It Up
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2003
+runtime: 251453
 ---
 Pump p-p pump pump p-p-p pump
 Pump p-p pump pump it up

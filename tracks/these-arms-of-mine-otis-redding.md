@@ -1,8 +1,11 @@
 ---
+album: Pain in My Heart
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:4skknrc3sJqaPTtUr2cwFq
 features: []
-genres: []
+first_released_as_single: false
 key: these-arms-of-mine-otis-redding
 lyrics_url: https://genius.com/Otis-redding-these-arms-of-mine-lyrics
 name: These Arms Of Mine
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 154533
 ---
 These arms of mine
 They are lonely

@@ -1,8 +1,11 @@
 ---
+album: Whispers
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5wNYmoojuAuIyCxP1zAQzY
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-lose-you-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-i-dont-want-to-lose-you-lyrics
 name: I Don't Want To Lose You
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 168120
 ---
 At last it finally happened
 You came into my world

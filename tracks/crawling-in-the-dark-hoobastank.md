@@ -1,8 +1,11 @@
 ---
+album: Hoobastank
 artists:
 - Hoobastank
+external_ids:
+  spotify: spotify:track:3wli6CFsUwYEuLZTIuCwt3
 features: []
-genres: []
+first_released_as_single: false
 key: crawling-in-the-dark-hoobastank
 lyrics_url: https://www.azlyrics.com/lyrics/hoobastank/crawlinginthedark.html
 name: Crawling In The Dark
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 2001
+runtime: 175226
 ---
-
 I will dedicate
 And sacrifice my everything for just a second's worth
 Of how my story's ending
@@ -115,6 +119,3 @@ Make me understand it
 I've been crawling in the dark looking for the answer
 Is there something more than what I've been handed?
 I've been crawling in the dark looking for the answer
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:0V2NUzpwvDtT1UZD84xBsk
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-rose--that-s-left-in-my-heart--teresa-brewer
 lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/The-One-Rose
 name: The One Rose (That's Left In My Heart)
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1959
+runtime: 146426
 ---
 So blue Lonesome too But still true
 

@@ -1,8 +1,11 @@
 ---
+album: Out Here On My Own
 artists:
 - Lamont Dozier
+external_ids:
+  spotify: spotify:track:0yk2EFU25dtsa4owrgdXFy
 features: []
-genres: []
+first_released_as_single: false
 key: fish-ain-t-bitin--lamont-dozier
 lyrics_url: https://genius.com/Lamont-dozier-fish-aint-bitin-lyrics
 name: Fish Ain't Bitin'
@@ -55,6 +58,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1973
+runtime: 261528
 ---
 I'm out here fighting, hungry
 The fish ain't biting

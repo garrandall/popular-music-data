@@ -1,8 +1,11 @@
 ---
+album: America Town
 artists:
 - Five For Fighting
+external_ids:
+  spotify: spotify:track:3FvCy00Wz75HmhlXPMmnOx
 features: []
-genres: []
+first_released_as_single: false
 key: superman--it-s-not-easy--five-for-fighting
 lyrics_url: https://genius.com/Five-for-fighting-superman-lyrics
 name: Superman (It's Not Easy)
@@ -147,6 +150,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 1997
+runtime: 222160
 ---
 I can't stand to fly
 I'm not that naïve

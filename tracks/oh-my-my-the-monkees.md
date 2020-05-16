@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:1U1Ds55WL3PBtzWWNKnF45
 features: []
-genres: []
+first_released_as_single: false
 key: oh-my-my-the-monkees
 lyrics_url: https://genius.com/The-monkees-oh-my-my-lyrics
 name: Oh My My
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
+release_year: 1970
+runtime: 181466
 ---
 By Jeff Barry and Andy Kim
 

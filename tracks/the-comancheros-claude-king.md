@@ -1,8 +1,11 @@
 ---
+album: Meet Claude King
 artists:
 - Claude King
+external_ids:
+  spotify: spotify:track:0XUeKkxjDREbEemxDpy602
 features: []
-genres: []
+first_released_as_single: false
 key: the-comancheros-claude-king
 lyrics_url: https://genius.com/Claude-king-the-comancheros-lyrics
 name: The Comancheros
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 133893
 ---
 The Comancheros are takin' this land
 The Comancheros are takin' this land

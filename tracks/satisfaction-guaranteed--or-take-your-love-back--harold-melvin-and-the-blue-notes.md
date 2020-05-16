@@ -1,8 +1,11 @@
 ---
+album: Black & Blue
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:0nkDrY8LOb4bo4K1AnCS5y
 features: []
-genres: []
+first_released_as_single: false
 key: satisfaction-guaranteed--or-take-your-love-back--harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-satisfaction-guaranteed-lyrics
 name: Satisfaction Guaranteed (Or Take Your Love Back)
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1972
+runtime: 207333
 ---
 (Satisfaction guaranteed or take your love back)
 (Satisfaction guaranteed or take your love back)

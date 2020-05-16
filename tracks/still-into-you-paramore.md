@@ -1,8 +1,11 @@
 ---
+album: Paramore
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:1yjY7rpaAQvKwpdUliHx0d
 features: []
-genres: []
+first_released_as_single: false
 key: still-into-you-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/stillintoyou.html
 name: Still Into You
@@ -87,8 +90,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 216013
 ---
-
 Can't count the years on one hand
 That we've been together
 I need the other one to hold you
@@ -147,6 +151,3 @@ Yeah, after all this time
 I'm still into you
 I'm still into you
 I'm still into you
-
-
-

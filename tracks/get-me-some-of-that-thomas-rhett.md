@@ -1,8 +1,11 @@
 ---
+album: It Goes Like This
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:4O1CExxinEpKZi3861NlTK
 features: []
-genres: []
+first_released_as_single: false
 key: get-me-some-of-that-thomas-rhett
 lyrics_url: https://genius.com/Thomas-rhett-get-me-some-of-that-lyrics
 name: Get Me Some Of That
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2013
+runtime: 187400
 ---
 Mmm, yeah
 

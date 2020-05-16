@@ -1,8 +1,11 @@
 ---
+album: Boy Krazy
 artists:
 - Boy Krazy
+external_ids:
+  spotify: spotify:track:5xJFlU6POW87nEqmGMrN1c
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-with-bad-boys-boy-krazy
 lyrics_url: https://genius.com/Boy-krazy-good-times-with-bad-boys-lyrics
 name: Good Times With Bad Boys
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1993
+runtime: 189000
 ---
 You're gonna see some changes in me
 From now on I have a heart of stone

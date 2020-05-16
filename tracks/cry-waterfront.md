@@ -1,8 +1,11 @@
 ---
+album: Waterfront
 artists:
 - Waterfront
+external_ids:
+  spotify: spotify:track:4NhezoOLxvH7msw5Fil01i
 features: []
-genres: []
+first_released_as_single: false
 key: cry-waterfront
 lyrics_url: https://genius.com/Waterfront-cry-lyrics
 name: Cry
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1989
+runtime: 234240
 ---
 Please don't apologize
 Just let me wipe the tears away

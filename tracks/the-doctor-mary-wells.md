@@ -1,8 +1,11 @@
 ---
+album: Servin' Up Some Soul
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:0oFvTAHSCi3uBgNRcFr53H
 features: []
-genres: []
+first_released_as_single: false
 key: the-doctor-mary-wells
 lyrics_url: https://genius.com/Mary-wells-the-doctor-lyrics
 name: The Doctor
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 140026
 ---
 (Verse 1)
 You're the cause of my condition baby

@@ -1,8 +1,11 @@
 ---
+album: The Best of the Ohio Express
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:39pr604E2XOwb0kSWqzEfG
 features: []
-genres: []
+first_released_as_single: false
 key: pinch-me--baby-convince-me--ohio-express
 lyrics_url: https://genius.com/Ohio-express-pinch-me-baby-convince-me-lyrics
 name: Pinch Me (Baby Convince Me)
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 155226
 ---
 If you are mine
 Come on, girl

@@ -1,8 +1,11 @@
 ---
+album: The Other Side Of Life
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:2mDgchJUTZVwkDEvFsmIso
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-of-life-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/theothersideoflife.html
 name: The Other Side Of Life
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 410333
 ---
-
 The atmosphere on the streets tonight
 Is the driving beat of the world
 The word down here on the streets tonight
@@ -89,6 +93,3 @@ Let's lose our way, go completely astray
 And find ourselves again
 You know the only way to get there is to take that step
 To the other side of life tonight
-
-
-

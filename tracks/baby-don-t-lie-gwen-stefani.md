@@ -1,8 +1,11 @@
 ---
+album: Baby Don't Lie
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:5t54WbqXtMwT5yF1nQSuKz
 features: []
-genres: []
+first_released_as_single: true
 key: baby-don-t-lie-gwen-stefani
 lyrics_url: https://genius.com/Gwen-stefani-baby-dont-lie-lyrics
 name: Baby Don't Lie
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2014
+runtime: 202533
 ---
 Uh-huh
 Here we go

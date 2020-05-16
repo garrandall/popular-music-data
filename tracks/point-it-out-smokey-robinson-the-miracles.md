@@ -1,9 +1,12 @@
 ---
+album: A Pocket Full Of Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:4gZAcHUmSixJCsLgh2N8Jf
 features: []
-genres: []
+first_released_as_single: false
 key: point-it-out-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/pointitout.html
 name: Point It Out
@@ -40,8 +43,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 155853
 ---
-
 Point it out, point it out to me
 Point it out, this I've got to see
 
@@ -73,6 +77,3 @@ Point it out oo yeah point it out to you-hoo
 Show your love yeah, girl like you never knew
 Point it out oh baby now point it out to me
 Gonna show your lovin
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '11:11'
 artists:
 - Maluma
+external_ids:
+  spotify: spotify:track:1LIqNVhaIgxXUt2eVoIQJ3
 features: []
-genres: []
+first_released_as_single: false
 key: hp-maluma
 lyrics_url: https://www.azlyrics.com/lyrics/maluma/hp.html
 name: HP
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 184435
 ---
-
 Maluma, baby
 
 Ella no estÃ¡ buscando novio
@@ -30,11 +34,11 @@ Las envidiosa' dicen que eso se lo hizo el cirujano
 Pero es ella misma queriendo salir del daÃ±o
 
 Quiere salir, fumar, beber
-Subir un video pa' que lo vea Ã©l
+Subir un video pa' que lo vea él
 Pa' que se de cuenta de lo que perdiÃ³
 Pa' que el hijueputa se sienta peor
 Quiere salir, fumar, beber
-Subir un video pa' que lo vea Ã©l
+Subir un video pa' que lo vea él
 Pa' que se de cuenta de lo que perdiÃ³
 Pa' que el hijueputa se sienta peor
 
@@ -53,11 +57,11 @@ No quiere un novio pa' rendirle cuentas
 No necesita ningÃºn HP en el party, que la pare
 
 Quiere salir, fumar, beber
-Subir un video pa' que lo vea Ã©l
+Subir un video pa' que lo vea él
 Pa' que se de cuenta de lo que perdiÃ³
 Pa' que el hijueputa se sienta peor
 Quiere salir, fumar, beber
-Subir un video pa' que lo vea Ã©l
+Subir un video pa' que lo vea él
 Pa' que se de cuenta de lo que perdiÃ³
 Pa' que el hijueputa se sienta peor (Peor)
 
@@ -70,6 +74,3 @@ Ella no estÃ¡ buscando novio (No busca novio, no)
 Quiere salir a joder, yeah-yeah, yeah-yeah
 Para olvidarte de ese bobo
 Cuenta conmigo, mujer, yeah-yeah, yeah-yeah
-
-
-

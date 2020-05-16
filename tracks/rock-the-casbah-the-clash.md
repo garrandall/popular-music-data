@@ -1,8 +1,11 @@
 ---
+album: Combat Rock
 artists:
 - The Clash
+external_ids:
+  spotify: spotify:track:56KqaFSGTb7ifpt16t5Y1N
 features: []
-genres: []
+first_released_as_single: false
 key: rock-the-casbah-the-clash
 lyrics_url: https://genius.com/The-clash-rock-the-casbah-lyrics
 name: Rock The Casbah
@@ -103,6 +106,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1982
+runtime: 222426
 ---
 Now the king told the boogie men
 You have to let that raga drop

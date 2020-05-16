@@ -1,8 +1,11 @@
 ---
+album: Sweet Soul
 artists:
 - King Curtis
+external_ids:
+  spotify: spotify:track:3St0rEAhTvoelVBjDhINd5
 features: []
-genres: []
+first_released_as_single: false
 key: soul-serenade-king-curtis
 lyrics_url: https://genius.com/King-curtis-soul-serenade-lyrics
 name: Soul Serenade
@@ -55,6 +58,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 177200
 ---
 Oh western union man
 Send a telegram to my baby

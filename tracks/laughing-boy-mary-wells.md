@@ -1,8 +1,11 @@
 ---
+album: Two Lovers
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:3jnxnBVwaRUMYuQQmts6YR
 features: []
-genres: []
+first_released_as_single: false
 key: laughing-boy-mary-wells
 lyrics_url: https://genius.com/Mary-wells-laughing-boy-lyrics
 name: Laughing Boy
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 170439
 ---
 Laughing boy
 (Ha ha ha ha ha)

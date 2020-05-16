@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:3VidpAXwGIlwOZjBSSfs31
 features: []
-genres: []
+first_released_as_single: false
 key: honestly-and-truly-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/Honestly-and-Truly
 name: Honestly And Truly
@@ -39,6 +42,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 173200
 ---
 Honestly and truly
 I am yours alone

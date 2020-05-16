@@ -1,8 +1,11 @@
 ---
+album: A Girl Like Me
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:30cSNer6TV8x2utjULVeQ5
 features: []
-genres: []
+first_released_as_single: false
 key: sos-rihanna
 lyrics_url: https://genius.com/Rihanna-sos-lyrics
 name: SOS
@@ -119,6 +122,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2006
+runtime: 238920
 ---
 La-la-la, la-la-la, la-la-la-la-la, oh
 (You know, I've never felt like this before) Oh, oh

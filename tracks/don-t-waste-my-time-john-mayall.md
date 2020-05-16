@@ -1,8 +1,11 @@
 ---
+album: The Turning Point
 artists:
 - John Mayall
+external_ids:
+  spotify: spotify:track:5kytQwmrbViv4f1twPs8BI
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-waste-my-time-john-mayall
 lyrics_url: https://genius.com/John-mayall-dont-waste-my-time-lyrics
 name: Don't Waste My Time
@@ -19,6 +22,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 294760
 ---
 Tell me woman
 Who you're with tonight

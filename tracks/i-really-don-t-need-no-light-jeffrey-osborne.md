@@ -1,8 +1,11 @@
 ---
+album: Jeffrey Osborne
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:1bn4xumYcQdSa4ZWPY1q3t
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-don-t-need-no-light-jeffrey-osborne
 lyrics_url: https://genius.com/Jeffrey-osborne-i-really-dont-need-no-light-lyrics
 name: I Really Don't Need No Light
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 223240
 ---
 There goes another night time
 There goes another dream

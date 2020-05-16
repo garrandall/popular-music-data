@@ -1,8 +1,11 @@
 ---
+album: Whatcha See Is Whatcha Get
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:4EolqhLWoVBXn0oEiXPqGe
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-rain-the-dramatics
 lyrics_url: https://genius.com/The-dramatics-in-the-rain-lyrics
 name: In The Rain
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1971
+runtime: 310973
 ---
 I wanna go outside in the rain
 It may sound crazy but I

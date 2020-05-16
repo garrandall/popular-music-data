@@ -1,8 +1,11 @@
 ---
+album: Yeezus
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:722tgOgdIbNe3BEyLnejw4
 features: []
-genres: []
+first_released_as_single: false
 key: black-skinhead-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West/Black-Skinhead
 name: Black Skinhead
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 188013
 ---
 For my theme song
 My leather black jeans on

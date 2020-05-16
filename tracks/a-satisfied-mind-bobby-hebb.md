@@ -1,8 +1,11 @@
 ---
+album: Sunny
 artists:
 - Bobby Hebb
+external_ids:
+  spotify: spotify:track:5trFoWc3DxknotgAxtYkFl
 features: []
-genres: []
+first_released_as_single: false
 key: a-satisfied-mind-bobby-hebb
 lyrics_url: https://genius.com/Bobby-hebb-a-satisfied-mind-lyrics
 name: A Satisfied Mind
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 163493
 ---
 How many times
 Have you heard someone say

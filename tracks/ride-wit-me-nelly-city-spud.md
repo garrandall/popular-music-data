@@ -1,9 +1,12 @@
 ---
+album: Country Grammar
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:3b7noo1c5H2iJnAX2wCgbV
 features:
 - City Spud
-genres: []
+first_released_as_single: true
 key: ride-wit-me-nelly-city-spud
 lyrics_url: https://genius.com/Nelly-ride-wit-me-remix-feat-city-spud-lyrics
 name: Ride Wit Me
@@ -124,6 +127,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2001-09-08'
+release_year: 2000
+runtime: 31293
 ---
 Mmm
 Where they at? Where they at?

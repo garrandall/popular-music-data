@@ -1,8 +1,11 @@
 ---
+album: Welcome to the Ponderosa
 artists:
 - Lorne Greene
+external_ids:
+  spotify: spotify:track:5GHbWzjRy1XfnTf5rkA8bf
 features: []
-genres: []
+first_released_as_single: false
 key: ringo-lorne-greene
 lyrics_url: https://genius.com/Lorne-greene-ringo-lyrics
 name: Ringo
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 214213
 ---
 He lay face down in the desert sand
 Clutching his six-gun in his hand

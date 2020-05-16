@@ -1,8 +1,11 @@
 ---
+album: Please
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:47700n8lblbe30NK4NHVb0
 features: []
-genres: []
+first_released_as_single: false
 key: opportunities--let-s-make-lots-of-money--pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/opportunitiesletsmakelotsofmoney.html
 name: Opportunities (Let's Make Lots Of Money)
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 224000
 ---
-
 I've got the brains, you've got the looks
 Let's make lots of money
 You've got the brawn, I've got the brains
@@ -122,6 +126,3 @@ I've got the brains (Got the brains)
 You've got the looks (Got the looks)
 Let's make lots of money (Oh money)
 Money
-
-
-

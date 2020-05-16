@@ -1,9 +1,12 @@
 ---
+album: Adore
 artists:
 - Cashmere Cat
+external_ids:
+  spotify: spotify:track:34HwOOG2tTiz6tAN9h83YT
 features:
 - Ariana Grande
-genres: []
+first_released_as_single: true
 key: adore-cashmere-cat-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/cashmerecat/adore.html
 name: Adore
@@ -12,8 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2015
+runtime: 216000
 ---
-
 Boy, so what's been on your mind?
 For me, it's just you all the time
 We don't need to go nowhere tonight
@@ -69,6 +73,3 @@ And then I'm like, oh, your love
 My my my my my
 And then I'm like, oh, yeah yeah
 'Cause you're what I adore, babe
-
-
-

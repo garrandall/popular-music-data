@@ -1,8 +1,11 @@
 ---
+album: Own The Night Spotify Interview
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:2Pi8oGxGJHufiLumghbBbB
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-you-more-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-wanted-you-more-lyrics
 name: Wanted You More
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
+release_year: 2011
+runtime: 61741
 ---
 I kept waiting on a reason
 And a call that never came

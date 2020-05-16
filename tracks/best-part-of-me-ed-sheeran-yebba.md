@@ -1,9 +1,12 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:5ug4vqGZ3eisGhY1IsziNX
 features:
 - YEBBA
-genres: []
+first_released_as_single: true
 key: best-part-of-me-ed-sheeran-yebba
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/bestpartofme.html
 name: Best Part Of Me
@@ -12,8 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 243266
 ---
-
 My lungs are black, my heart is pure
 My hands are scarred from nights before
 And my hair is thin and falling out
@@ -61,6 +65,3 @@ Oh baby, I'm so in love with you
 
 Baby, I'm so in love with you, yeah, yeah
 Oh baby, I'm so in love with you
-
-
-

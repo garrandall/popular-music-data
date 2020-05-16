@@ -1,9 +1,12 @@
 ---
+album: Love Me Right (Oh Shelia)
 artists:
 - Angel City
+external_ids:
+  spotify: spotify:track:0kQTioPt53cX2uUk3POlxe
 features:
 - Lara McAllen
-genres: []
+first_released_as_single: true
 key: love-me-right--oh-sheila--angel-city-lara-mcallen
 lyrics_url: https://genius.com/Angel-city-love-me-right-oh-sheila-lyrics
 name: Love Me Right (Oh Sheila)
@@ -24,6 +27,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-04-10'
+release_year: 2003
+runtime: 195226
 ---
 Oh baby love me right
 Let me love you till you get it right

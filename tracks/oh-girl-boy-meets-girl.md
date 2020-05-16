@@ -1,8 +1,11 @@
 ---
+album: Boy Meets Girl
 artists:
 - Boy Meets Girl
+external_ids:
+  spotify: spotify:track:6xDyuaXrJZRiS6P0kxON5e
 features: []
-genres: []
+first_released_as_single: false
 key: oh-girl-boy-meets-girl
 lyrics_url: https://genius.com/Boy-meets-girl-oh-girl-lyrics
 name: Oh Girl
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1985
+runtime: 257360
 ---
 Oh, you hold in your hand a diamond
 The left held it tight

@@ -1,8 +1,11 @@
 ---
+album: The Foundation
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:5moWmr7qWnYH7LIUrYMk32
 features: []
-genres: []
+first_released_as_single: false
 key: free-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/free.html
 name: Free
@@ -83,8 +86,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2008
+runtime: 228653
 ---
-
 So we live out in our old van
 Travel all across this land
 Me and you
@@ -128,6 +132,3 @@ Free as we'll ever be
 So we live out in our old van
 Travel all across this land
 Me and you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Every Good Boy Deserves Favour
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:3kcaix8VptngsWoYDTqEN2
 features: []
-genres: []
+first_released_as_single: false
 key: the-story-in-your-eyes-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/thestoryinyoureyes.html
 name: The Story In Your Eyes
@@ -51,8 +54,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 176573
 ---
-
 I've been thinking about our fortune
 And I've decided that we're really not to blame
 For the love that's deep inside us now
@@ -87,6 +91,3 @@ When the final line is over and
 It's certain that the curtain's gonna fall
 I can hide inside your sweet sweet love
 For ever more
-
-
-

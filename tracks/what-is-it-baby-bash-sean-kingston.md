@@ -1,9 +1,12 @@
 ---
+album: Cyclone
 artists:
 - Baby Bash
+external_ids:
+  spotify: spotify:track:371GoHoueVN53jY8MoWufq
 features:
 - Sean Kingston
-genres: []
+first_released_as_single: false
 key: what-is-it-baby-bash-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/babybash/whatisit.html
 name: What Is It
@@ -56,10 +59,10 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 201120
 ---
-
-
- Bash
+Bash
  Tell me, what it do
 Tell me, what it do
  Kingston (What is it)
@@ -125,4 +128,3 @@ What-da-da-da-dang, hey
 What-da-da-dang
 What-da-da-da-dang, hey
 Listen to the sound, everybody go (Go)
-

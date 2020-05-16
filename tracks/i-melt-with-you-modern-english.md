@@ -1,8 +1,11 @@
 ---
+album: After the Snow
 artists:
 - Modern English
+external_ids:
+  spotify: spotify:track:6J2rMSRhgb4HuX6dWgM3nJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-melt-with-you-modern-english
 lyrics_url: https://genius.com/Modern-english-i-melt-with-you-lyrics
 name: I Melt With You
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1982
+runtime: 251573
 ---
 Moving forward using all my breath
 Making love to you was never second best

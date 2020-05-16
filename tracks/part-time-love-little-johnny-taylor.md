@@ -1,8 +1,11 @@
 ---
+album: Part Time Love
 artists:
 - Little Johnny Taylor
+external_ids:
+  spotify: spotify:track:5LTV2GOglUg6XuylgDknrb
 features: []
-genres: []
+first_released_as_single: true
 key: part-time-love-little-johnny-taylor
 lyrics_url: https://genius.com/Little-johnny-taylor-part-time-love-lyrics
 name: Part Time Love
@@ -59,6 +62,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 218093
 ---
 I'm gonna find me, lord I've got to find me a part time love
 I've got to find me, I've got to find me a part time love

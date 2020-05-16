@@ -1,8 +1,11 @@
 ---
+album: Minute By Minute
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:2xkMKVlm0F8nIoMU8YWj6o
 features: []
-genres: []
+first_released_as_single: false
 key: dependin--on-you-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/dependinonyou.html
 name: Dependin' On You
@@ -55,8 +58,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1977
+runtime: 223466
 ---
-
 When I was so low
 You were there to lift me up
 Well, there's one thing that I know for sure
@@ -91,6 +95,3 @@ Darlin', you're always there at my rescue
 Dependin' on you
 Darlin', you're always there by my side
 You're always there by my side...
-
-
-

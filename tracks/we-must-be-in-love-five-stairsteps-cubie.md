@@ -1,9 +1,12 @@
 ---
+album: 'The First Family of Soul: The Best of The Five Stairsteps'
 artists:
 - Five Stairsteps
 - Cubie
+external_ids:
+  spotify: spotify:track:1mxE5cFNlYy42Xd3akQp7v
 features: []
-genres: []
+first_released_as_single: false
 key: we-must-be-in-love-five-stairsteps-cubie
 name: We Must Be In Love
 rankings:
@@ -19,5 +22,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 190600
 ---
 

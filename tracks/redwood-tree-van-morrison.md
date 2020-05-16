@@ -1,8 +1,11 @@
 ---
+album: Saint Dominic's Preview
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:1mII4seqf75hdRck1MzKwz
 features: []
-genres: []
+first_released_as_single: false
 key: redwood-tree-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/redwoodtree.html
 name: Redwood Tree
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 185200
 ---
-
 Boy and his dog
 Went out looking for the rainbow
 You know what did they learn
@@ -57,6 +61,3 @@ Won't you keep us from all harm
 Wonderful redwood tree
 
 Ta da da da
-
-
-

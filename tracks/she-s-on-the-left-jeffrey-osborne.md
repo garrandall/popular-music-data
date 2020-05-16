@@ -1,8 +1,11 @@
 ---
+album: One Love-One Dream
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:3tF43hFvmBujmCGZ61f55R
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-on-the-left-jeffrey-osborne
 lyrics_url: https://genius.com/Jeffrey-osborne-shes-on-the-left-lyrics
 name: She's On The Left
@@ -51,6 +54,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 300226
 ---
 Why
 She must come and poses me

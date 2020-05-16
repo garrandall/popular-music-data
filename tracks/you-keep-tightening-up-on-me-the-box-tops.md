@@ -1,8 +1,11 @@
 ---
+album: Cry Like A Baby
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:2heDy5AX5nqIrg6jO1mYDo
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-tightening-up-on-me-the-box-tops
 lyrics_url: https://www.azlyrics.com/lyrics/boxtops/youkeeptighteninguponme.html
 name: You Keep Tightening Up On Me
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1968
+runtime: 172733
 ---
-
 I keep waiting&#133; 
 For you to do something I don't like 
 I keep waiting&#133; 
@@ -57,6 +61,3 @@ Uh-uh-uh-huh&#133;o-o-o&#133;
 
 You keep tightening up on me, and I can't break away 
 You keep tightening up on me, with a sweeter love every day
-
-
-

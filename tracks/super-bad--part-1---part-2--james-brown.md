@@ -1,8 +1,11 @@
 ---
+album: Super Bad
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:5YP4k0fN6bgd6EoRafb1TY
 features: []
-genres: []
+first_released_as_single: false
 key: super-bad--part-1---part-2--james-brown
 lyrics_url: https://genius.com/James-brown-super-bad-lyrics
 name: Super Bad (Part 1 & Part 2)
@@ -47,6 +50,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 556453
 ---
 Watch me
 Watch me

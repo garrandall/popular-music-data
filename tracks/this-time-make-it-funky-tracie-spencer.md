@@ -1,8 +1,11 @@
 ---
+album: Make The Difference
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:29PVuKcHn9oSr9ziAbQmyY
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-make-it-funky-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-this-time-make-it-funky-lyrics
 name: This Time Make It Funky
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1990
+runtime: 326400
 ---
 Times are changing
 And I'm changing too

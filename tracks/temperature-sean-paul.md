@@ -1,8 +1,11 @@
 ---
+album: The Trinity
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:6zSThntwhPtWU3my2y9I1F
 features: []
-genres: []
+first_released_as_single: false
 key: temperature-sean-paul
 lyrics_url: https://www.azlyrics.com/lyrics/seanpaul/temperature.html
 name: Temperature
@@ -131,8 +134,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2006-08-19'
+release_year: 2005
+runtime: 219520
 ---
-
 The gal them Schillaci
 Sean da Paul
 So me give it to... so me give to... so me give it to to all girls
@@ -201,6 +205,3 @@ Well woman the way the time cold I wanna be keepin' you warm
 I got the right temperature for shelter you from the storm
 Oh lord, gal I got the right tactics to turn you on
 And girl I wanna be the papa, you can be the mom
-
-
-

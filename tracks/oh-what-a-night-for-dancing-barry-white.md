@@ -1,8 +1,11 @@
 ---
+album: Barry White Sings For Someone You Love
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:1CMgTRTMXSzIH4nYJX7fbh
 features: []
-genres: []
+first_released_as_single: false
 key: oh-what-a-night-for-dancing-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/ohwhatanightfordancing.html
 name: Oh What A Night For Dancing
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
+release_year: 1977
+runtime: 235293
 ---
-
 Oh we're going out tonight
 Finger popping you look out-a sight
 Won't be no stopping all the discotheques
@@ -76,6 +80,3 @@ You're my million dollar baby
 My pretty sexy lady oh
 Oh what a night for dancing
 Oh what a night for romancing
-
-
-

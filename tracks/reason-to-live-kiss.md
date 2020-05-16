@@ -1,8 +1,11 @@
 ---
+album: Crazy Nights
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3onHM3etsRdtbTS7cgwkNb
 features: []
-genres: []
+first_released_as_single: false
 key: reason-to-live-kiss
 lyrics_url: https://genius.com/Kiss-reason-to-live-lyrics
 name: Reason To Live
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 240266
 ---
 Out of love, there's nobody around
 All I hear is the sound of a broken heart

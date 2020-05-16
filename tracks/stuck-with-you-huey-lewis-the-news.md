@@ -1,8 +1,11 @@
 ---
+album: Fore!
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2cFl7utlqyZjCXN1G5nRvA
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-with-you-huey-lewis-the-news
 lyrics_url: https://genius.com/Huey-lewis-and-the-news-stuck-with-you-lyrics
 name: Stuck With You
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 269573
 ---
 We've had some fun
 Yes, we've had our ups and downs

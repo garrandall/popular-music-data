@@ -1,8 +1,11 @@
 ---
+album: Flicker
 artists:
 - Niall Horan
+external_ids:
+  spotify: spotify:track:27vTihlWXiz9f9lJM3XGVU
 features: []
-genres: []
+first_released_as_single: true
 key: slow-hands-niall-horan
 lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/slowhands.html
 name: Slow Hands
@@ -131,8 +134,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 188174
 ---
-
 We should take this back to my place
 That's what she said right to my face
 'Cause I want you bad, yeah, I want you, baby
@@ -182,6 +186,3 @@ Your plans and those slow hands
 
 Slow hands
 Slow hands
-
-
-

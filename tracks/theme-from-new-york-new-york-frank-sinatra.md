@@ -1,8 +1,11 @@
 ---
+album: 'Trilogy: Past, Present & Future'
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:3QksrtI9VFCBHWA4rgvcV8
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-new-york-new-york-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/themefromnewyorknewyork.html
 name: Theme From New York New York
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 206066
 ---
-
 Start spreading the news
 I'm leaving today
 I want to be a part of it
@@ -100,6 +104,3 @@ And if I can make it there
 I'm gonna make it anywhere
 It's up to you
 New York, New York, New York
-
-
-

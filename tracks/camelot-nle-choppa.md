@@ -1,8 +1,11 @@
 ---
+album: Camelot
 artists:
 - NLE Choppa
+external_ids:
+  spotify: spotify:track:4sWuPniHClkInYAnzXAYUF
 features: []
-genres: []
+first_released_as_single: true
 key: camelot-nle-choppa
 lyrics_url: https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot-1
 name: Camelot
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2019
+runtime: 148759
 ---
 Yeah
 FreshDuzit

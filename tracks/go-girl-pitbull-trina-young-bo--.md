@@ -1,10 +1,13 @@
 ---
+album: Original Hits
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:1MgM0WDaoQ2A3bnIQTR6ty
 features:
 - Trina
 - Young Bo$$
-genres: []
+first_released_as_single: false
 key: go-girl-pitbull-trina-young-bo--
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/gogirl.html
 name: Go Girl
@@ -45,8 +48,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-02-16'
+release_year: 2007
+runtime: 229668
 ---
-
 (What would the music be without sounds)
 
 
@@ -150,6 +154,3 @@ Go girl
 Shake them dice and roll them 
 When they ask u what's that dance
 You say that's the hustle man
-
-
-

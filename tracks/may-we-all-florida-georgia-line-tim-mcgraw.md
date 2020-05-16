@@ -1,9 +1,12 @@
 ---
+album: Dig Your Roots
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:498ZVInMGDkmmNVpSWqHiZ
 features:
 - Tim McGraw
-genres: []
+first_released_as_single: false
 key: may-we-all-florida-georgia-line-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/mayweall.html
 name: May We All
@@ -88,8 +91,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 226173
 ---
-
 May we all get to grow up in our red, white and blue little town
 Get a won't-start-hand-me-down Ford to try to fix up
 With some part time cash from driving a tractor
@@ -148,6 +152,3 @@ Yeah, the last one
 
 Yeah, you learn to fly and if you can't then you just free fall
 May we all
-
-
-

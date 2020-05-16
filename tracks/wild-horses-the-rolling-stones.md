@@ -1,8 +1,11 @@
 ---
+album: Sticky Fingers
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:52dm9op3rbfAkc1LGXgipW
 features: []
-genres: []
+first_released_as_single: false
 key: wild-horses-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/wildhorses.html
 name: Wild Horses
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 341773
 ---
-
 Childhood living is easy to do
 The things you wanted I bought them for you
 Graceless lady you know who I am
@@ -67,6 +71,3 @@ Wild, wild horses, we'll ride them some day
 
 Wild horses couldn't drag me away
 Wild, wild horses, we'll ride them some day
-
-
-

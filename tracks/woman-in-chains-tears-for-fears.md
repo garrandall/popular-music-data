@@ -1,8 +1,11 @@
 ---
+album: The Seeds Of Love
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:5jmwL2MniQj9ldptIm1h1B
 features: []
-genres: []
+first_released_as_single: false
 key: woman-in-chains-tears-for-fears
 lyrics_url: https://www.azlyrics.com/lyrics/tearsforfears/womaninchains.html
 name: Woman In Chains
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 391000
 ---
-
 You better love lovin' and you better behave
 You better love lovin' and you better behave
 Woman in Chains
@@ -129,6 +133,3 @@ So Free Her
 So Free Her
 (The wind and the rain)
 So Free Her...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jason Aldean
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:65Jn2gZWMren03Rz0fCMqs
 features: []
-genres: []
+first_released_as_single: false
 key: why-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-why-lyrics
 name: Why
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2005
+runtime: 213733
 ---
 It's 3 AM and I finally say
 I'm sorry for actin' that way

@@ -1,8 +1,11 @@
 ---
+album: My Cup Runneth Over
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:5prAkp4Oa1PDDAMqQabI3g
 features: []
-genres: []
+first_released_as_single: false
 key: my-cup-runneth-over-ed-ames
 lyrics_url: https://genius.com/Ed-ames-my-cup-runneth-over-lyrics
 name: My Cup Runneth Over
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 164466
 ---
 Sometimes in the morning
 When shadows are deep

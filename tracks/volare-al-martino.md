@@ -1,8 +1,11 @@
 ---
+album: Come Share the Wine
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:4M6JR2xz4PJggfI7HDPyd2
 features: []
-genres: []
+first_released_as_single: false
 key: volare-al-martino
 lyrics_url: https://genius.com/Al-martino-volare-lyrics
 name: Volare
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 321293
 ---
 Sometimes the world is a valley of heartaches and tears
 And in the hustle and bustle, no sunshine appears

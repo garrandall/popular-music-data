@@ -1,8 +1,11 @@
 ---
+album: Suffer in Peace
 artists:
 - Tyler Farr
+external_ids:
+  spotify: spotify:track:16PNN9wK1LbedzcTp7y8y0
 features: []
-genres: []
+first_released_as_single: false
 key: a-guy-walks-into-a-bar-tyler-farr
 lyrics_url: https://www.azlyrics.com/lyrics/tylerfarr/aguywalksintoabar.html
 name: A Guy Walks Into A Bar
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2015
+runtime: 196000
 ---
-
 The joke's on me and it ain't funny
 Everybody but me could see the punch line coming a mile away
 I've heard it so many times I can tell it to the T
@@ -106,7 +110,7 @@ And a guy walks into a bar
 I'd laugh too if my heart would let me
 Keeping it light will probably help to get me over you
 I'm walking, talking, drinking proof
-A clichÃ© in a corner booth
+A cliché in a corner booth
 Ain't nothing new
 
 A guy walks into a bar, orders a drink
@@ -127,6 +131,3 @@ And a guy walks into a bar
 
 A guy walks into a bar
 A guy walks into a bar
-
-
-

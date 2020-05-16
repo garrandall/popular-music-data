@@ -1,8 +1,11 @@
 ---
+album: Greatest Rock-N-Roll Songs
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:2TEdI0KNrYHo4UPhrt0ais
 features: []
-genres: []
+first_released_as_single: false
 key: moody-river-pat-boone
 lyrics_url: https://genius.com/Pat-boone-moody-river-lyrics
 name: Moody River
@@ -67,6 +70,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 157266
 ---
 (Moody river, wooh)
 (Moody river, wooh)

@@ -1,8 +1,11 @@
 ---
+album: DAY26
 artists:
 - DAY26
+external_ids:
+  spotify: spotify:track:6Qqp1NCiy8Ps6EtOL1yjeb
 features: []
-genres: []
+first_released_as_single: false
 key: got-me-going-day26
 lyrics_url: https://genius.com/Day26-got-me-going-lyrics
 name: Got Me Going
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-04-26'
+release_year: 2008
+runtime: 282373
 ---
 There's no other love
 There's nobody else I'm thinking of

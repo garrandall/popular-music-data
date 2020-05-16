@@ -1,8 +1,11 @@
 ---
+album: Long Trip Alone
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:3JrD5PQbOAgGTKhts9Te6d
 features: []
-genres: []
+first_released_as_single: false
 key: free-and-easy--down-the-road-i-go--dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/freeandeasydowntheroadigo.html
 name: Free And Easy (Down The Road I Go)
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2006
+runtime: 199560
 ---
-
 Pair of boots and a sack of clothes
 Free and easy down the road I go
 Hangin' memories on the high line poles
@@ -119,6 +123,3 @@ Free and easy down the road I go
 Someday I know it's gonna take me home so
 Free and easy down the road I go
 Free and easy down the road I go
-
-
-

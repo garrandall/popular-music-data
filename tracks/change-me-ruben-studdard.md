@@ -1,8 +1,11 @@
 ---
+album: The Return
 artists:
 - Ruben Studdard
+external_ids:
+  spotify: spotify:track:1KpWrkqjCj1PE1fktcT6Yb
 features: []
-genres: []
+first_released_as_single: false
 key: change-me-ruben-studdard
 lyrics_url: https://www.azlyrics.com/lyrics/rubenstuddard/changeme.html
 name: Change Me
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
+release_year: 2003
+runtime: 229853
 ---
-
 How would you like it if I talked about your skin
 The way you wear your hair (oh, girl)
 Would you like if I talked about your butt or once a month
@@ -78,6 +82,3 @@ Why you wanna change me
 Why, baby, tell me why
 Baby, tell me why
 Girl, why
-
-
-

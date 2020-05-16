@@ -1,8 +1,11 @@
 ---
+album: Pocahontas
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:7xG1fakElLbxwyr9eyGEK6
 features: []
-genres: []
+first_released_as_single: false
 key: colors-of-the-wind-vanessa-williams
 lyrics_url: https://genius.com/Vanessa-williams-colors-of-the-wind-lyrics
 name: Colors Of The Wind
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
+release_year: 1995
+runtime: 257866
 ---
 You think you own whatever land you land on
 The earth is just a dead thing you can claim

@@ -1,8 +1,11 @@
 ---
+album: The Spirit Room (U.S. Version)
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:1u0l8zWpQeMYStFkc2mLD7
 features: []
-genres: []
+first_released_as_single: false
 key: everywhere-michelle-branch
 lyrics_url: https://genius.com/Michelle-branch-everywhere-lyrics
 name: Everywhere
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2002-01-12'
+release_year: 2001
+runtime: 214826
 ---
 Turn it inside out so I can see
 The part of you that's driftin' over me

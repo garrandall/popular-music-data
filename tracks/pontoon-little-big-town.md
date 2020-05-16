@@ -1,8 +1,11 @@
 ---
+album: Tornado
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:2Gy3XMLbBxACZ4tXdFRGr7
 features: []
-genres: []
+first_released_as_single: false
 key: pontoon-little-big-town
 lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/pontoon.html
 name: Pontoon
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 212320
 ---
-
 Back this hitch up into the water
 Untie all the cables and rope
 Step onto the astro turf
@@ -152,6 +156,3 @@ On the pontoon
 (Hoo hoo hoo)
 
 (Hoo hoo hoo)
-
-
-

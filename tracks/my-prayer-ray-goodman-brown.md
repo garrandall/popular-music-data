@@ -1,10 +1,13 @@
 ---
+album: The Best Of Ray, Goodman & Brown
 artists:
 - Ray
 - Goodman
 - Brown
+external_ids:
+  spotify: spotify:track:7evgtzPEfIxtrlWaAig7rw
 features: []
-genres: []
+first_released_as_single: false
 key: my-prayer-ray-goodman-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-feat-Goodman-Brown/My-Prayer
 name: My Prayer
@@ -49,6 +52,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
+release_year: 1980
+runtime: 185226
 ---
 When the twilight is gone
 And no songbirds are singing

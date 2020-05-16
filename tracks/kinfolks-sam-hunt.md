@@ -1,8 +1,11 @@
 ---
+album: SOUTHSIDE
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:53F1MVa1BWUkTBbVqgVAfN
 features: []
-genres: []
+first_released_as_single: true
 key: kinfolks-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/kinfolks.html
 name: Kinfolks
@@ -91,8 +94,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 181933
 ---
-
 I saw you goin' by, I had to say, "Hello"
 And I don't mean to pry but
 Girl, I gotta know, what is your name?
@@ -151,6 +155,3 @@ But honey you got my hopes up
 And I'm thinkin' that I wanna introduce you to my kinfolks
 
 And I'm thinkin' that I wanna introduce you to my kinfolks
-
-
-

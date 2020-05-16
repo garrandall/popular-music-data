@@ -1,8 +1,11 @@
 ---
+album: Songs From The Big Chair
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:4RvWPyQ5RL0ao9LPZeSouE
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-wants-to-rule-the-world-tears-for-fears
 lyrics_url: https://genius.com/Tears-for-fears-everybody-wants-to-rule-the-world-lyrics
 name: Everybody Wants To Rule The World
@@ -103,6 +106,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 251488
 ---
 Welcome to your life
 There's no turning back

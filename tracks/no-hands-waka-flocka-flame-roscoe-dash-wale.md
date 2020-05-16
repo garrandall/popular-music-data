@@ -1,10 +1,13 @@
 ---
+album: Flockaveli
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:6GgPsuz0HEO0nrO2T0QhDv
 features:
 - Roscoe Dash
 - Wale
-genres: []
+first_released_as_single: true
 key: no-hands-waka-flocka-flame-roscoe-dash-wale
 lyrics_url: https://genius.com/Waka-flocka-flame-no-hands-feat-roscoe-dash-and-wale-amended-lyrics
 name: No Hands
@@ -137,6 +140,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
+release_year: 2010
+runtime: 263773
 ---
 Girl the way you're movin'
 Got me in a trance

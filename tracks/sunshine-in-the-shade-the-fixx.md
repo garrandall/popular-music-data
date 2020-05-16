@@ -1,8 +1,11 @@
 ---
+album: Phantoms
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:0EOX7OC7l6FkPqIHyCXEo2
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-in-the-shade-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/sunshineintheshade.html
 name: Sunshine In The Shade
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 146706
 ---
-
 Sunshine warming the small of my back
 Whatever virtues I lack
 You can't see until I move
@@ -63,6 +67,3 @@ Sunshine in the shade
 The shade of life
 Gives me hope of
 Some time and place
-
-
-

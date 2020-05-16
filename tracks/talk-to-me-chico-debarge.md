@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Collection
 artists:
 - Chico DeBarge
+external_ids:
+  spotify: spotify:track:2IyLXj3552N9aK2A0vfnYn
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-chico-debarge
 lyrics_url: https://genius.com/Chico-debarge-talk-to-me-lyrics
 name: Talk To Me
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 231800
 ---
 Talk to me
 Lately, you've been running away from me

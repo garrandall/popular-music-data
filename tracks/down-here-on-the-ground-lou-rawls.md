@@ -1,8 +1,11 @@
 ---
+album: Lou Rawls Live At The Century Plaza
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:7In94SWAoNHGA2sJ8H8aN5
 features: []
-genres: []
+first_released_as_single: false
 key: down-here-on-the-ground-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/downhereontheground.html
 name: Down Here On The Ground
@@ -27,8 +30,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 191466
 ---
-
 Down here on the ground
 It ain't no place for living
 No, no, no
@@ -79,6 +83,3 @@ Because I'm tired of being
 Down here on the ground
 Yes I'm tired of being
 Down here on the ground, yeah
-
-
-

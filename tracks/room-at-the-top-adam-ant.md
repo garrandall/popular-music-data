@@ -1,8 +1,11 @@
 ---
+album: Manners & Physique
 artists:
 - Adam Ant
+external_ids:
+  spotify: spotify:track:2mtJGXby8Pst0keW1FP0iI
 features: []
-genres: []
+first_released_as_single: false
 key: room-at-the-top-adam-ant
 lyrics_url: https://www.azlyrics.com/lyrics/adamant/roomatthetop.html
 name: Room At The Top
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1989
+runtime: 282026
 ---
-
 Once is never enough
 Never is never was
 Here and now is all that counts
@@ -105,6 +109,3 @@ That makes us do it all again
 They say
 Be beautiful and shut up
 The going can be real tough
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Look At Killer Joe Go!
 artists:
 - The Rocky Fellers
+external_ids:
+  spotify: spotify:track:3i7f7WQjzkzf944qQAPpmM
 features: []
-genres: []
+first_released_as_single: false
 key: killer-joe-the-rocky-fellers
 lyrics_url: https://genius.com/The-rocky-fellers-killer-joe-lyrics
 name: Killer Joe
@@ -59,6 +62,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 141986
 ---
 Oh, whoa, oh, no
 Oh, whoa, oh, yeah

@@ -1,8 +1,11 @@
 ---
+album: Movin' With Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:2NFiAytJxzRovskKxbDRbw
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-girl-nancy-sinatra
 lyrics_url: https://genius.com/Nancy-sinatra-good-time-girl-lyrics
 name: Good Time Girl
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 200240
 ---
 When you find out you don't love her
 When all the glitter rubs off of her

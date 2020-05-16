@@ -1,8 +1,11 @@
 ---
+album: Brandy
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:17aVK3oQdgwVG2l0HpP67W
 features: []
-genres: []
+first_released_as_single: false
 key: baby-brandy
 lyrics_url: https://www.musixmatch.com/lyrics/Brandy/Baby
 name: Baby
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1994
+runtime: 313293
 ---
 Baby baby baby baby
 Don't you know that you're so fine

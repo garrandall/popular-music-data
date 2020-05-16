@@ -1,9 +1,12 @@
 ---
+album: Home Cookin'
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:0cduoX64cRfzLvdapbCsBH
 features: []
-genres: []
+first_released_as_single: false
 key: hip-city---pt-2-jr--walker-the-all-stars
 name: Hip City - Pt 2
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 177973
 ---
 

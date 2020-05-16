@@ -1,8 +1,11 @@
 ---
+album: Stompilation!
 artists:
 - The Stompers
+external_ids:
+  spotify: spotify:track:1rvWxHC1z2scw6QywhMINs
 features: []
-genres: []
+first_released_as_single: false
 key: never-tell-an-angel--when-your-heart-s-on-fire--the-stompers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Stompers/Never-Tell-an-Angel
 name: Never Tell An Angel (When Your Heart's On Fire)
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 249760
 ---
 Woo! Let's go
 Yea yea yea

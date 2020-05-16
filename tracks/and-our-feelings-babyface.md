@@ -1,8 +1,11 @@
 ---
+album: For The Cool In You
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:27sYHmgfRvHFyQ5vrm5nQp
 features: []
-genres: []
+first_released_as_single: false
 key: and-our-feelings-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/andourfeelings.html
 name: And Our Feelings
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1994-07-16'
+release_year: 1993
+runtime: 342360
 ---
-
 We fell in love
 And who could blame us
 The word was we were just beside ourselves
@@ -136,4 +140,3 @@ We'd both be here still making love
 I wanna know that, that we can go back
 Back to the times when the lovin' was all that
 When no one could come between our love
-

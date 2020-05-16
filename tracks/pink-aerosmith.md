@@ -1,8 +1,11 @@
 ---
+album: Nine Lives
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:74uGhWp4BYpjFj1V2DzgoO
 features: []
-genres: []
+first_released_as_single: false
 key: pink-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/pink.html
 name: Pink
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
+release_year: 1997
+runtime: 235360
 ---
-
 Pink it's my new obsession 
 Pink it's not even a question, 
 Pink on the lips of your lover, 'cause 
@@ -98,6 +102,3 @@ Pink when I turn out the light
 Pink it's like red but not quite 
 And I think everything is going to be all right 
 No matter what we do tonight
-
-
-

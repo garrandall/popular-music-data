@@ -1,8 +1,11 @@
 ---
+album: Sounds Good Feels Good
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:6U0D8PIh75fnX6T6TWJLxl
 features: []
-genres: []
+first_released_as_single: false
 key: jet-black-heart-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-jet-black-heart-lyrics
 name: Jet Black Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-09-19'
+release_year: 2015
+runtime: 221715
 ---
 Everybody's got their demons
 Even wide awake or dreaming

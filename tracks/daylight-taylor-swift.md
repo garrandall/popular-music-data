@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1fzAuUVbzlhZ1lJAx9PtY6
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/daylight.html
 name: Daylight
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 293453
 ---
-
 My love was as cruel as the cities I lived in
 Everyone looked worse in the light
 There are so many lines that I've crossed unforgiven
@@ -78,6 +82,3 @@ Not the things that I'm afraid of, I'm afraid of
 Not the things that haunt me in the middle of the night
 I, I just think that
 You are what you love
-
-
-

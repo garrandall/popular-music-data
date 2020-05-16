@@ -1,8 +1,11 @@
 ---
+album: Silk Degrees
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:4WSbbEjRQ7uE3IT9crL10B
 features: []
-genres: []
+first_released_as_single: false
 key: what-can-i-say-boz-scaggs
 lyrics_url: https://genius.com/Boz-scaggs-what-can-i-say-lyrics
 name: What Can I Say
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 180693
 ---
 (What can I say?)
 (What can I do?)

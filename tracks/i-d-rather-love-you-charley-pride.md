@@ -1,8 +1,11 @@
 ---
+album: I'm Just Me
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:6Zo1yJyD4Fj3fgg2FHxfTw
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-love-you-charley-pride
 lyrics_url: https://genius.com/Charley-pride-id-rather-love-you-lyrics
 name: I'd Rather Love You
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1971
+runtime: 168400
 ---
 If tonight should be our last night together I'm not sorry that we fell in love at all
 If tomorrow sun should find me hurtin' for you I know

@@ -1,8 +1,11 @@
 ---
+album: 'Bobby Rydell: The Complete Capitol Recordings'
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:4xiXXumq1Hn3fHuYqTT6jl
 features: []
-genres: []
+first_released_as_single: false
 key: diana-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/Diana
 name: Diana
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 163226
 ---
 I'm so young and you're so old
 This, my darling, I've been told

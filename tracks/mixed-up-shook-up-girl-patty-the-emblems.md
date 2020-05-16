@@ -1,9 +1,12 @@
 ---
+album: Mixed-Up, Shook-Up Girl
 artists:
 - Patty
 - The Emblems
+external_ids:
+  spotify: spotify:track:1pVFchEqnrpIEtuGrB4srT
 features: []
-genres: []
+first_released_as_single: false
 key: mixed-up-shook-up-girl-patty-the-emblems
 lyrics_url: https://genius.com/Patty-and-the-emblems-mixed-up-shook-up-girl-lyrics
 name: Mixed-Up Shook-Up Girl
@@ -52,6 +55,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 126920
 ---
 She's a mixed-up, shook-up girl
 Yes, she is

@@ -1,8 +1,11 @@
 ---
+album: Louder Than Love
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:11lx42mUJFdlD6ZikTR4UJ
 features: []
-genres: []
+first_released_as_single: false
 key: louder-than-love-tka
 lyrics_url: https://genius.com/Tka-louder-than-love-lyrics
 name: Louder Than Love
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1990
+runtime: 273800
 ---
 Remember when we said goodbye
 I wiped my tears

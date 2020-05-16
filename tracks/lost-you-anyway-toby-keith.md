@@ -1,8 +1,11 @@
 ---
+album: That Don't Make Me a Bad Guy
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:25KX7nIM4INAkiGH7LY8xF
 features: []
-genres: []
+first_released_as_single: false
 key: lost-you-anyway-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/lostyouanyway.html
 name: Lost You Anyway
@@ -47,8 +50,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 2008
+runtime: 218266
 ---
-
 Maybe you were right, Maybe I could have changed 
 Sittin' here alone tonight thinkin' 'bout a lot of things 
 What's a man to say when all the questions start 
@@ -75,6 +79,3 @@ Let the world revolve around you
 And given you the stars above 
 Loved you just enough to make you stay 
 And I'd lost you anyway
-
-
-

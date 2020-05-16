@@ -1,9 +1,12 @@
 ---
+album: Pump Up The Jam
 artists:
 - Technotronic
+external_ids:
+  spotify: spotify:track:7yVtuQux71kxcRk99ILX5c
 features:
 - Ya Kid K
-genres: []
+first_released_as_single: false
 key: move-this-technotronic-ya-kid-k
 lyrics_url: https://genius.com/Technotronic-move-this-shake-that-body-lyrics
 name: Move This
@@ -100,6 +103,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
+release_year: 1989
+runtime: 319373
 ---
 Shake that body
 Shake that body

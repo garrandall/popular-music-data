@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Classic Love Songs, Vol. 2
 artists:
 - Ronnie and The Hi-Lites
+external_ids:
+  spotify: spotify:track:143OWnEqrL6DUkU7LfqKHj
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-that-we-were-married-ronnie-and-the-hi-lites
 name: I Wish That We Were Married
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 173664
 ---
 

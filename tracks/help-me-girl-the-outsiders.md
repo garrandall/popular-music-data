@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Outsiders
+external_ids:
+  spotify: spotify:track:213sXSifN2KluzqglSDQTm
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-girl-the-outsiders
 lyrics_url: https://genius.com/Outsiders-us-band-help-me-girl-lyrics
 name: Help Me Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 167040
 ---
 Girl have you ever been hungry
 So hungry that you had no pride?

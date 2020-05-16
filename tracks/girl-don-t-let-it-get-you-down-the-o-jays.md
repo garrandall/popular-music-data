@@ -1,8 +1,11 @@
 ---
+album: The Year 2000
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:0Jp09OKyRNJvhm3AcQ1G2G
 features: []
-genres: []
+first_released_as_single: false
 key: girl-don-t-let-it-get-you-down-the-o-jays
 lyrics_url: https://genius.com/The-ojays-girl-dont-let-it-get-you-down-lyrics
 name: Girl Don't Let It Get You Down
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 251546
 ---
 Don't let it get you down, girl
 Don't let it get you down

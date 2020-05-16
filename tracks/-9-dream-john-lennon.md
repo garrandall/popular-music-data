@@ -1,8 +1,11 @@
 ---
+album: Walls And Bridges
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:4ZVWvCUwsOnIGmJMj71RkG
 features: []
-genres: []
+first_released_as_single: false
 key: -9-dream-john-lennon
 lyrics_url: https://genius.com/John-lennon-9-dream-lyrics
 name: '#9 Dream'
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1974
+runtime: 286813
 ---
 So long ago
 Was it in a dream, was it just a dream?

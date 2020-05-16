@@ -1,9 +1,12 @@
 ---
+album: Faithfully
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:2423gyT9B3zNqC9ZD8QfSu
 features:
 - Carl Thomas
-genres: []
+first_released_as_single: false
 key: can-t-believe-faith-evans-carl-thomas
 lyrics_url: https://www.musixmatch.com/lyrics/Faith-Evans-feat-Carl-Thomas/Can-t-Believe
 name: Can't Believe
@@ -88,6 +91,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
+release_year: 2001
+runtime: 300160
 ---
 I always dreamed that everything would be okay
 With me and you, I was wrong

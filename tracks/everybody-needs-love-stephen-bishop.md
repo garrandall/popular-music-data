@@ -1,8 +1,11 @@
 ---
+album: Bish
 artists:
 - Stephen Bishop
+external_ids:
+  spotify: spotify:track:4z7xW0tQFF15mF9S3hRbDG
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-needs-love-stephen-bishop
 lyrics_url: https://www.azlyrics.com/lyrics/stephenbishop/everybodyneedslove.html
 name: Everybody Needs Love
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 222626
 ---
-
 Everybody needs love
 You're no exception to the rule
 And don't make me feel like a fool
@@ -92,6 +96,3 @@ You can't stop it once you start
 You need me
 You need me
 I need you
-
-
-

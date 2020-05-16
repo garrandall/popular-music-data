@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop - The Golden Age 1956-1963
 artists:
 - The Enchanters
+external_ids:
+  spotify: spotify:track:4TbMBJgbFWa0zAvrgLhUwy
 features: []
-genres: []
+first_released_as_single: false
 key: i-lied-to-my-heart-the-enchanters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Enchanters/I-Lied-to-My-Heart
 name: I Lied To My Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1961
+runtime: 157133
 ---
 Bom bom bom, ah...
 

@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:2qi7QEyfxL2Z2ez9Rd51e0
 features: []
-genres: []
+first_released_as_single: false
 key: palisades-park-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-palisades-park-lyrics
 name: Palisades Park
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 113213
 ---
 Last night I took a walk after dark
 A swingin' place called Palisades Park

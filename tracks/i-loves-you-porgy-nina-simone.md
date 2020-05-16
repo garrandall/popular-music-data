@@ -1,8 +1,11 @@
 ---
+album: Little Girl Blue (2013 Remastered Version)
 artists:
 - Nina Simone
+external_ids:
+  spotify: spotify:track:0kDpFPQgQYeZ7t04Quiwkn
 features: []
-genres: []
+first_released_as_single: false
 key: i-loves-you-porgy-nina-simone
 lyrics_url: https://www.azlyrics.com/lyrics/ninasimone/ilovesyouporgy.html
 name: I Loves You Porgy
@@ -67,8 +70,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1958
+runtime: 249781
 ---
-
 I loves you, Porgy,
 Don't let him take me
 Don't let him handle me
@@ -106,6 +110,3 @@ and drive me mad
 If you can keep me
 I wanna stay here with you forever
 I've got my man
-
-
-

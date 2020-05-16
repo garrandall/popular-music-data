@@ -153,7 +153,7 @@ All the girls are ready
 So we can all get to it,
 So we can party 'til the break of dawn
 
-Once again, it's on, yo ZhanÃ© blow the horn
+Once again, it's on, yo Zhané blow the horn
 Let the D.J. know to keep playing your song
 Maybe I'll browse, snatch up a blouse
 Rip the foul, ho

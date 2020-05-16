@@ -1,9 +1,12 @@
 ---
+album: '!!!Going Places!!!'
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:3WLEVNohakzZmMpN5W7mHK
 features: []
-genres: []
+first_released_as_single: false
 key: zorba-the-greek-herb-alpert-the-tijuana-brass
 name: Zorba The Greek
 rankings:
@@ -55,5 +58,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1965
+runtime: 264853
 ---
 

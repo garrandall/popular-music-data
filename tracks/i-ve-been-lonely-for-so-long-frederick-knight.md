@@ -1,8 +1,11 @@
 ---
+album: I've Been Lonely For So Long
 artists:
 - Frederick Knight
+external_ids:
+  spotify: spotify:track:4yEi93B8QZOqrZj894BgNX
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-lonely-for-so-long-frederick-knight
 lyrics_url: https://genius.com/Frederick-knight-ive-been-lonely-for-so-long-lyrics
 name: I've Been Lonely For So Long
@@ -63,6 +66,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 198693
 ---
 CHORUS
 I've been lonely for so long

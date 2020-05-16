@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA - The Motown Singles Collection 1959-1971
 artists:
 - The Velvelettes
+external_ids:
+  spotify: spotify:track:6UvsAb7VLOhTPIdg5ZMXsr
 features: []
-genres: []
+first_released_as_single: false
 key: needle-in-a-haystack-the-velvelettes
 lyrics_url: https://genius.com/The-velvelettes-needle-in-a-haystack-lyrics
 name: Needle In A Haystack
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 149973
 ---
 Well well, I once believed all fellas were nice
 But girls, listen to me, take my advice

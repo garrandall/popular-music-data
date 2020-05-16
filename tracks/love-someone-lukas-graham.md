@@ -1,8 +1,11 @@
 ---
+album: 3 (The Purple Album)
 artists:
 - Lukas Graham
+external_ids:
+  spotify: spotify:track:2JqnpexlO9dmvjUMCaLCLJ
 features: []
-genres: []
+first_released_as_single: true
 key: love-someone-lukas-graham
 lyrics_url: https://www.azlyrics.com/lyrics/lukasgraham/lovesomeone.html
 name: Love Someone
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2018
+runtime: 205463
 ---
-
 There are days
 I wake up and I pinch myself
 You're with me, not someone else
@@ -102,6 +106,3 @@ And you're not afraid to lose 'em
 You probably never loved someone like I do
 You probably never loved someone like I do
 You probably never loved someone like I do
-
-
-

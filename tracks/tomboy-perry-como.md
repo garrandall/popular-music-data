@@ -45,7 +45,7 @@ rankings:
   start_date: '1959-04-20'
 ---
 Tomboy, Tomboy, nuthin' but a Tomboy
-Tomboy, Tomboy, nuthin' but a Tomboy . .
+Tomboy, Tomboy, nuthin' but a Tomboy
 
 When we were small, I used to call you "Tomboy"
 The years have flown since you were known as "Tomboy"
@@ -53,28 +53,25 @@ No made-up face, no fancy lace, pigtails in your hair
 It seems like only yesterday
 You tagged behind me everywhere!
 
-I never thought that I'd get caught by "Tomboy" ( Tomboy! )
-The pink chiffon worked magic on my "Tomboy" ( Tomboy! )
+I never thought that I'd get caught by "Tomboy"
+The pink chiffon worked magic on my "Tomboy"
 An' now I find, I've been blind
 You were always on my mind
 Before I'm through, you'll say I do
 An' "Tomboy" will be mine!
 
 Tomboy, Tomboy, nuthin' but a Tomboy
-Tomboy, Tomboy, nuthin' but a Tomboy . .
-
-Instrumental bridge ( Tomboy! )
-Instrumental bridge ( Tomboy! )
+Tomboy, Tomboy, nuthin' but a Tomboy
 
 No made-up face, no fancy lace, pigtails in your hair
 It seems like only yesterday
 You tagged behind me everywhere!
 
-I never thought that I'd get caught by "Tomboy" ( Tomboy! )
-The pink chiffon worked magic on my "Tomboy" ( Tomboy! )
+I never thought that I'd get caught by "Tomboy"
+The pink chiffon worked magic on my "Tomboy"
 An' now I find, I've been blind
 You were always on my mind
-Before I'm through . .
-You'll say I do . .
+Before I'm through
+You'll say I do
 An' "Tomboy" will be mine!
 Tomboy!

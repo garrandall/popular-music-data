@@ -1,8 +1,11 @@
 ---
+album: I love Women
 artists:
 - Beyonce
+external_ids:
+  spotify: spotify:track:6CWYFZePeUTUZc5KeAzxc5
 features: []
-genres: []
+first_released_as_single: false
 key: ego-beyonce
 lyrics_url: https://genius.com/Beyonce-ego-lyrics
 name: Ego
@@ -75,6 +78,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2009
+runtime: 269216
 ---
 Aw baby, how you doin'?
 You know I'm gonna cut right to the chase, huh?

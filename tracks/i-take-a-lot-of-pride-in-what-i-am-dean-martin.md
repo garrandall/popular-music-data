@@ -1,8 +1,11 @@
 ---
+album: I Take a Lot of Pride in What I Am
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:63kOwdtlpaUzo2mkzzooHl
 features: []
-genres: []
+first_released_as_single: false
 key: i-take-a-lot-of-pride-in-what-i-am-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/itakealotofprideinwhatiam.html
 name: I Take A Lot Of Pride In What I Am
@@ -23,8 +26,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 195506
 ---
-
 Things I learned in a hobo jungle
 Were things they never taught me in a class room
 Like where to find a handout
@@ -59,6 +63,3 @@ And I take alot of pride in what I am
 This old lentil fat I'm chewing
 Didn't take alot of doing
 I take alot of pride in what I am
-
-
-

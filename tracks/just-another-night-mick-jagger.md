@@ -1,8 +1,11 @@
 ---
+album: She's The Boss
 artists:
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:4pVTneBibGa5HU7HzAOvY8
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-night-mick-jagger
 lyrics_url: https://genius.com/Mick-jagger-just-another-night-lyrics
 name: Just Another Night
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1985
+runtime: 315613
 ---
 Give me just another night, just another night with you
 Give me just another kiss, just before the dawn breaks through

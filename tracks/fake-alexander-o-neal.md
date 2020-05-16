@@ -1,8 +1,11 @@
 ---
+album: Hearsay
 artists:
 - Alexander O'Neal
+external_ids:
+  spotify: spotify:track:3wN45r0Lz73AQcuvY2pdVe
 features: []
-genres: []
+first_released_as_single: false
 key: fake-alexander-o-neal
 lyrics_url: https://genius.com/Alexander-oneal-fake-lyrics
 name: Fake
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1987
+runtime: 235493
 ---
 Can I get some nasty bass?
 It's gonna be kinda right tonight!

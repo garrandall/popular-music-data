@@ -1,8 +1,11 @@
 ---
+album: Into The Fire
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:73U7iE42GU9HCVtlbSQ2Fb
 features: []
-genres: []
+first_released_as_single: false
 key: victim-of-love-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-victim-of-love-lyrics
 name: Victim Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 247040
 ---
 Livin' on your own can be a lonely game
 A face in the crowd - no one knows your name

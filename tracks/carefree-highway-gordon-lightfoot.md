@@ -1,8 +1,11 @@
 ---
+album: Sundown
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:59EupkPF0AA5nu0qDo5FlK
 features: []
-genres: []
+first_released_as_single: false
 key: carefree-highway-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/carefreehighway.html
 name: Carefree Highway
@@ -63,8 +66,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1974
+runtime: 222133
 ---
-
 Picking up the pieces of my sweet shattered dream
 I wonder how the old folks are tonight
 Her name was Ann and I'll be damned if I recall her face
@@ -99,6 +103,3 @@ Carefree highway, got to see you my old flame
 Carefree highway, you seen better days
 The morning after blues from my head down to my shoes
 Carefree Highway, let me slip away, slip away on you
-
-
-

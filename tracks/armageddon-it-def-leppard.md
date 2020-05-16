@@ -1,8 +1,11 @@
 ---
+album: Hysteria (Super Deluxe)
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:16MQZkAIAAtI4X5NuiEwuq
 features: []
-genres: []
+first_released_as_single: false
 key: armageddon-it-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/armageddonit.html
 name: Armageddon It
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
+release_year: 1987
+runtime: 322866
 ---
-
 Ya better come inside when you're ready to
 But no chance if ya don't wanna dance
 You like four letter words when you're ready to
@@ -158,6 +162,3 @@ Oh are you gettin' it? - Gimme all of your lovin'
 Oh really gettin' it? - Gimme all that you got
 Oh are you gettin' it? - Every bit of your lovin'
 Oh live a bit - Never want it to stop
-
-
-

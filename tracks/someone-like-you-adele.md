@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:4kflIGfjdZJW4ot2ioixTB
 features: []
-genres: []
+first_released_as_single: false
 key: someone-like-you-adele
 lyrics_url: https://genius.com/Adele-someone-like-you-lyrics
 name: Someone Like You
@@ -163,6 +166,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 285040
 ---
 I heard that you're settled down
 That you found a girl and you're married now

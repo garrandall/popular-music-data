@@ -1,9 +1,12 @@
 ---
+album: Wild And Peaceful
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:2OzOvwRQghDtL2ytTMBOJt
 features: []
-genres: []
+first_released_as_single: false
 key: funky-stuff-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-funky-stuff-lyrics
 name: Funky Stuff
@@ -56,6 +59,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 183733
 ---
 Party!
 Party!

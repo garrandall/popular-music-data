@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:5uPKoULQx82sU3NZOO9mDa
 features: []
-genres: []
+first_released_as_single: false
 key: round-every-corner-petula-clark
 lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/roundeverycorner.html
 name: Round Every Corner
@@ -39,8 +42,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 156360
 ---
-
 Round every corner.
 Round every corner.
 Round every corner.
@@ -107,7 +111,4 @@ Round every corner!
 Round every corner!
 (Round every corner!)
 Round every corner!
-(Round every corner!) 
-
-
-
+(Round every corner!)

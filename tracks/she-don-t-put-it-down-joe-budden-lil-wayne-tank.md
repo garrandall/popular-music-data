@@ -1,10 +1,13 @@
 ---
+album: No Love Lost
 artists:
 - Joe Budden
+external_ids:
+  spotify: spotify:track:3cATuNiZVgOQ2u4QR6Ho1v
 features:
 - Lil Wayne
 - Tank
-genres: []
+first_released_as_single: true
 key: she-don-t-put-it-down-joe-budden-lil-wayne-tank
 lyrics_url: https://genius.com/Joe-budden-she-dont-put-it-down-lyrics
 name: She Don't Put It Down
@@ -13,6 +16,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 243186
 ---
 She ain’t got a leg to stand on
 Don’t even trip

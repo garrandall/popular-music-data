@@ -1,8 +1,11 @@
 ---
+album: HERO
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:4H0vNUFcHPz5lytcLjwqkr
 features: []
-genres: []
+first_released_as_single: false
 key: rich-maren-morris
 lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/rich.html
 name: Rich
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2017
+runtime: 208893
 ---
-
 La-a-a-a-a-di-da
 La-a-a-a-a-di-da
 If I had a dollar every time that I swore you off
@@ -98,6 +102,3 @@ I'd be rich
 La-a-a-a-a-di-da
 I'd be rich
 La-a-a-a-a-di-da
-
-
-

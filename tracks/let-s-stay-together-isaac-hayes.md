@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975'
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:3zcJPWS0xX678tCtbhupER
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-stay-together-isaac-hayes
 lyrics_url: https://genius.com/Isaac-hayes-lets-stay-together-lyrics
 name: Let's Stay Together
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 210666
 ---
 I, I'm so in love with you
 Whatever you want to do

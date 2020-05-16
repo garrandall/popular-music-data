@@ -1,8 +1,11 @@
 ---
+album: Looking Glass
 artists:
 - Looking Glass
+external_ids:
+  spotify: spotify:track:2BY7ALEWdloFHgQZG6VMLA
 features: []
-genres: []
+first_released_as_single: false
 key: brandy--you-re-a-fine-girl--looking-glass
 lyrics_url: https://genius.com/Looking-glass-brandy-youre-a-fine-girl-lyrics
 name: Brandy (You're A Fine Girl)
@@ -71,6 +74,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1972
+runtime: 186826
 ---
 There's a port on a western bay
 And it serves a hundred ships a day

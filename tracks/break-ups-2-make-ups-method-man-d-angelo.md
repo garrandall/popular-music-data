@@ -1,9 +1,12 @@
 ---
+album: 'Tical 2000: Judgement Day'
 artists:
 - Method Man
+external_ids:
+  spotify: spotify:track:5jlVndwOZVzbAfGVHtetDX
 features:
 - D'Angelo
-genres: []
+first_released_as_single: false
 key: break-ups-2-make-ups-method-man-d-angelo
 lyrics_url: https://genius.com/Method-man-break-ups-2-make-ups-lyrics
 name: Break Ups 2 Make Ups
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 233933
 ---
 You and I, 'til the day we die (Trackmasters)
 Yo, yo

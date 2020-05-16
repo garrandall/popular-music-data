@@ -1,8 +1,11 @@
 ---
+album: All For You
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:43zr9kKkeiQrshvYuvNtfM
 features: []
-genres: []
+first_released_as_single: false
 key: someone-to-call-my-lover-janet
 lyrics_url: https://genius.com/Janet-jackson-someone-to-call-my-lover-lyrics
 name: Someone To Call My Lover
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
+release_year: 2001
+runtime: 272360
 ---
 Back on the road again, feeling kinda lonely
 And looking for the right guy who'd be mine

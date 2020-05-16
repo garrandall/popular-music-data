@@ -1,8 +1,11 @@
 ---
+album: Because Of You
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:6CFPFnS9EcLs2I0nWqtWci
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-you-ne-yo
 lyrics_url: https://genius.com/Ne-yo-because-of-you-lyrics
 name: Because Of You
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2007
+runtime: 266840
 ---
 Oh-oh-oh, oh-oh, oh-oh
 Oh-oh-oh-oh-oh, oh-oh-oh-oh-oh

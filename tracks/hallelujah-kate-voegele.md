@@ -1,8 +1,11 @@
 ---
+album: Don't Look Away
 artists:
 - Kate Voegele
+external_ids:
+  spotify: spotify:track:5OqW09kxGmc6b5xGFmln1b
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-kate-voegele
 lyrics_url: https://www.azlyrics.com/lyrics/katevoegele/hallelujah.html
 name: Hallelujah
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2008
+runtime: 294200
 ---
-
 Well I've heard there was a sacred chord
 David played and pleased the Lord
 But you don't really care for music, do you?
@@ -58,6 +62,3 @@ It's a cold and it's a broken Hallelujah
 
 Hallelujah, Hallelujah, Hallelujah, Hallelujah
 Hallelujah, Hallelujah, Hallelujah, Hallelujah
-
-
-

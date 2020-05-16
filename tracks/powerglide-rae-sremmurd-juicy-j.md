@@ -1,9 +1,12 @@
 ---
+album: SR3MM
 artists:
 - Rae Sremmurd
 - Juicy J
+external_ids:
+  spotify: spotify:track:1BuZAIO8WZpavWVbbq3Lci
 features: []
-genres: []
+first_released_as_single: false
 key: powerglide-rae-sremmurd-juicy-j
 lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/powerglide.html
 name: Powerglide
@@ -76,9 +79,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 332300
 ---
-
-
 Yeah, Yeah, Yeah
 Mike WiLL Made-It
 Yeah, Yeah Yeah
@@ -167,7 +170,7 @@ Say her birthday late July, yeah, that means she a Leo?
 Might just leave with me tonight, but that don't mean she a freak hoe
 Fuck with dancers and models, shout out them girls who get dollars
 Shawty came from the bottom, yeah, shout out Keisha Bottoms
-Couple cases of RosÃ©, came out to me with the sparkles
+Couple cases of Rosé, came out to me with the sparkles
 I pour up for all the girls, but I'ma drink out the bottles
 
 
@@ -190,7 +193,7 @@ In the bed or the Lamb'
 Got your bitch suckin' dick on the 'Gram
 V12 helped me get up out the jam, trunk full of slam
 R.I.P. Lil Peep, I gotta slow down on them Xans (hey)
-Just had a mÃ©nage (hey), back seat of my Benz (hey)
+Just had a ménage (hey), back seat of my Benz (hey)
 Put that shit on camera (hey), she squirted on the lens (hey)
 Then she told me put it on her chinny chin-chin (hey)
 Pocket full of nothin' but them Benjy Franklins
@@ -209,6 +212,3 @@ Coming out her clothes (oh)
 I'm in wonderland when she comin' down the poll (whoa)
 And I don't care if she take all of mine (oh)
 Like it ain't shit but a dollar sign
-
-
-

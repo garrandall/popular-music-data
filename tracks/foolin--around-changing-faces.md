@@ -1,8 +1,11 @@
 ---
+album: Changing Faces
 artists:
 - Changing Faces
+external_ids:
+  spotify: spotify:track:1jkAxE1qKoy9BsrOlTpIke
 features: []
-genres: []
+first_released_as_single: false
 key: foolin--around-changing-faces
 lyrics_url: https://www.azlyrics.com/lyrics/changingfaces/foolinaround.html
 name: Foolin' Around
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
+release_year: 1994
+runtime: 268051
 ---
-
 We use to be so close,but now things have changed, it's not the same oh no since I heard you calling her name so quick to tell me that she was just a friend I don't want to hear the same ol' lies again (again)
 I got a hunch something ain't right oh no this is no illusion I've come to this conlusion that your
 
@@ -104,8 +108,3 @@ Fooling around fooling fooling around
 
 
 I gave you the chance to give me romance I was there for you boy and you know it's true see you ain't that strong you should've held on discharge of the boys oh
-
-
-
-
-

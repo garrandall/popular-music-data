@@ -1,8 +1,11 @@
 ---
+album: Halfway To Heaven
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:4WnY4W5KrqglCdIus8X9Bo
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-her-like-i-do-brantley-gilbert
 lyrics_url: https://genius.com/Brantley-gilbert-you-dont-know-her-like-i-do-lyrics
 name: You Don't Know Her Like I Do
@@ -103,6 +106,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2010
+runtime: 286520
 ---
 Hey old friend, thanks for callin'
 It's good to know somebody cares

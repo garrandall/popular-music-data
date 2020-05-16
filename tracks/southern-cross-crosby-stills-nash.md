@@ -1,8 +1,11 @@
 ---
+album: Daylight Again
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:5DxqhQFb6sn5h6E09jSYG7
 features: []
-genres: []
+first_released_as_single: true
 key: southern-cross-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/southerncross.html
 name: Southern Cross
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 233880
 ---
 Oh
 

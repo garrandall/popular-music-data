@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - Angelina
+external_ids:
+  spotify: spotify:track:6sh59otrw1iwZCT3xz6V0y
 features: []
-genres: []
+first_released_as_single: false
 key: without-your-love-angelina
 lyrics_url: https://genius.com/Angelina-without-your-love-lyrics
 name: Without Your Love
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-05-24'
+release_year: 1997
+runtime: 231760
 ---
 I don't want to be without your love
 'Cause you're the only one I'm thinking of baby

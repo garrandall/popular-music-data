@@ -1,8 +1,11 @@
 ---
+album: In The Lonely Hour
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:74sb4Gib0cL3TQeCjYF8vh
 features: []
-genres: []
+first_released_as_single: false
 key: lay-me-down-sam-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-Smith/Lay-Me-Down
 name: Lay Me Down
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2014
+runtime: 253208
 ---
 Yes, I do, I believe
 That one day I will be where I was

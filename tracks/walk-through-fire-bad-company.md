@@ -1,8 +1,11 @@
 ---
+album: Holy Water
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:1zaBFb0dqWbGbeDNCn4Czz
 features: []
-genres: []
+first_released_as_single: false
 key: walk-through-fire-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/walkthroughfire.html
 name: Walk Through Fire
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1990
+runtime: 288560
 ---
-
 I used to see those red tail lights, heading for another town
 And wish that I was on my way
 Looking back on these summer nights, wasting time, fooling 'round
@@ -111,6 +115,3 @@ Oh wherever you are, no matter how far, you know I'll be coming for you
 Baby I could walk through fire, right back to you
 And I could walk through fire, and I could walk through fire
 And I could walk through fire, right back to you, yeah
-
-
-

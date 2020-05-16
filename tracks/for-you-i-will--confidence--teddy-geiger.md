@@ -1,8 +1,11 @@
 ---
+album: Underage Thinking
 artists:
 - Teddy Geiger
+external_ids:
+  spotify: spotify:track:2ijMU9lYFCvGBzgwJ8Sd8q
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-i-will--confidence--teddy-geiger
 lyrics_url: https://www.azlyrics.com/lyrics/teddygeiger/foryouiwillconfidence.html
 name: For You I Will (Confidence)
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2006-07-01'
+release_year: 2006
+runtime: 228880
 ---
-
 Wandering the streets, in a world underneath it all
 Nothing seems to be, nothing tastes as sweet
 As what I can't have
@@ -143,6 +147,3 @@ For you I will
 For you I will
 For you I will
 For you I will
-
-
-

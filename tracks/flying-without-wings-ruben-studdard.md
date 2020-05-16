@@ -1,8 +1,11 @@
 ---
+album: Soulful
 artists:
 - Ruben Studdard
+external_ids:
+  spotify: spotify:track:1motrkghVTENfbQEXpg6QT
 features: []
-genres: []
+first_released_as_single: false
 key: flying-without-wings-ruben-studdard
 lyrics_url: https://www.azlyrics.com/lyrics/rubenstuddard/flyingwithoutwings.html
 name: Flying Without Wings
@@ -47,9 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
+release_year: 2003
+runtime: 223466
 ---
-
-
 Everybody's looking for that something
 One thing that makes it all complete
 You'll find it in the strangest places
@@ -92,6 +95,3 @@ And you'll be where it ends
 I'm flying without wings
 And that's the joy it brings 
 I'm flying without wings
-
-
-

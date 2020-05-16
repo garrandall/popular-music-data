@@ -1,8 +1,11 @@
 ---
+album: Long Cold Winter
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:4wKTPZe1AgKNPObJ357dZK
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-mile-cinderella
 lyrics_url: https://www.azlyrics.com/lyrics/cinderella/thelastmile.html
 name: The Last Mile
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 230066
 ---
-
 Me and Billy boy and old lady Jane
 We hitched a ride, took a fast movin' train
 Got to the top with our heads spinnin' round
@@ -115,6 +119,3 @@ With the same style
 I walked for years
 On the last mile
 I can rest my fears
-
-
-

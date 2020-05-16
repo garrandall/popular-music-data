@@ -1,8 +1,11 @@
 ---
+album: Sold Out
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:76W9mt6foYET1Ok0hYskIp
 features: []
-genres: []
+first_released_as_single: false
 key: raspberries-strawberries-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-raspberries-strawberries-1990-digital-remaster-lyrics
 name: Raspberries Strawberries
@@ -39,6 +42,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1959
+runtime: 133266
 ---
 A young man goes to Paris, as every young man should. There's something in the air of France that does a young man good
 

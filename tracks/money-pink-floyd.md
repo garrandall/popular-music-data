@@ -1,8 +1,11 @@
 ---
+album: The Dark Side of the Moon
 artists:
 - Pink Floyd
+external_ids:
+  spotify: spotify:track:0vFOzaXqZHahrZp6enQwQb
 features: []
-genres: []
+first_released_as_single: false
 key: money-pink-floyd
 lyrics_url: https://genius.com/Pink-floyd-money-lyrics
 name: Money
@@ -67,6 +70,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1973
+runtime: 382834
 ---
 Money, get away
 You get a good job with more pay and you're okay

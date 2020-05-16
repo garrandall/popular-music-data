@@ -1,10 +1,13 @@
 ---
+album: God Forgives, I Don't
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:27mF2eUbhExYWiOT0y9cuc
 features:
 - Wale
 - Drake
-genres: []
+first_released_as_single: false
 key: diced-pineapples-rick-ross-wale-drake
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/dicedpineapples.html
 name: Diced Pineapples
@@ -73,9 +76,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2012
+runtime: 276160
 ---
-
-
 Diced pineapple,
 Tonight you shall reach a height that the sky won't catch you
 The highest form of my admiration
@@ -191,6 +194,3 @@ Know it's easy to get caught up in the moment
 When you say it 'cause you mad then you take it all back
 Then we fuck all night 'til things get right
 Then we fuck all night 'til things get right
-
-
-

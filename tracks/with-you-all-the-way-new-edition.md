@@ -1,8 +1,11 @@
 ---
+album: All For Love
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:53tgVAmOSWPLlV6AEOi77d
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-all-the-way-new-edition
 lyrics_url: https://genius.com/New-edition-with-you-all-the-way-lyrics
 name: With You All The Way
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1985
+runtime: 217066
 ---
 Girl, if ever the going got rough
 You never

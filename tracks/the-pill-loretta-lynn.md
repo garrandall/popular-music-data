@@ -1,8 +1,11 @@
 ---
+album: Blue Kentucky Girl
 artists:
 - Loretta Lynn
+external_ids:
+  spotify: spotify:track:1qCzqDVVVlZCeR1d10aMZc
 features: []
-genres: []
+first_released_as_single: false
 key: the-pill-loretta-lynn
 lyrics_url: https://genius.com/Loretta-lynn-the-pill-lyrics
 name: The Pill
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1965
+runtime: 120973
 ---
 You wined me and dined me when I was your girl
 Promised if I'd be your wife

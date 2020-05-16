@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2u3EyuCqqV31woqGvO9LBz
 features: []
-genres: []
+first_released_as_single: true
 key: sum-2-prove-lil-baby
 lyrics_url: https://genius.com/Lil-baby-sum-2-prove-lyrics
 name: Sum 2 Prove
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 205760
 ---
 You know Lil Ced, that's my nigga, I made him a millionaire, fuck it, we all rich
 I ain't tryna have babies right now, so we fuck with the rubber, but I got a raw bitch

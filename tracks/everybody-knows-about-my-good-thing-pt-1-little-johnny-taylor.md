@@ -1,8 +1,11 @@
 ---
+album: Everybody Knows About My Good Thing and Open House At My House
 artists:
 - Little Johnny Taylor
+external_ids:
+  spotify: spotify:track:43dS3xyAqjok1A2mfb2FJ3
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-knows-about-my-good-thing-pt-1-little-johnny-taylor
 name: Everybody Knows About My Good Thing Pt 1
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 197532
 ---
 

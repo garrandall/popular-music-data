@@ -1,8 +1,11 @@
 ---
+album: Shadow Dancing
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:1RsxUuB1Q5OdseLpHMBkEN
 features: []
-genres: []
+first_released_as_single: false
 key: -our-love--don-t-throw-it-all-away-andy-gibb
 lyrics_url: https://genius.com/Andy-gibb-our-love-dont-throw-it-all-away-lyrics
 name: (Our Love) Don't Throw It All Away
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 250200
 ---
 Maybe I don't wanna know the reason why
 But lately you don't talk to me

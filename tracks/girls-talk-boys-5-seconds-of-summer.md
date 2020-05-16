@@ -1,8 +1,11 @@
 ---
+album: Ghostbusters (Original Motion Picture Soundtrack)
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:3AqhGYasXnen5PvLsHL1vc
 features: []
-genres: []
+first_released_as_single: false
 key: girls-talk-boys-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/girlstalkboys.html
 name: Girls Talk Boys
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 216093
 ---
-
 When the girls, when the girls talk
 When the girls talk boys
 Oh when the girls, when the girls talk
@@ -76,6 +80,3 @@ When the girls talk boys (when the girls)
 Talk talk talk talk talk talk talk talk
 
 Hey!
-
-
-

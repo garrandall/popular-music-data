@@ -1,8 +1,11 @@
 ---
+album: Music
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6rQcK4xOzePDdrTg7Yv6d6
 features: []
-genres: []
+first_released_as_single: false
 key: what-it-feels-like-for-a-girl-madonna
 lyrics_url: https://genius.com/Madonna-what-it-feels-like-for-a-girl-lyrics
 name: What It Feels Like For A Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2000
+runtime: 283893
 ---
 Girls can wear jeans
 And cut their hair short

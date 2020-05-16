@@ -1,9 +1,12 @@
 ---
+album: Demi
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:5vTPxzm4h2bY9rYyVrGEU5
 features:
 - Cher Lloyd
-genres: []
+first_released_as_single: false
 key: really-don-t-care-demi-lovato-cher-lloyd
 lyrics_url: https://genius.com/Demi-lovato-really-dont-care-lyrics
 name: Really Don't Care
@@ -80,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2013
+runtime: 201600
 ---
 You wanna play, you wanna stay, you wanna have it all
 You started messing with my head until I hit a wall

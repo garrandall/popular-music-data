@@ -1,8 +1,11 @@
 ---
+album: Paradise Valley
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:5FDh0G5oQ2UD9JxWiDCT1x
 features: []
-genres: []
+first_released_as_single: false
 key: paper-doll-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/paperdoll.html
 name: Paper Doll
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 257386
 ---
-
 Paper doll come try it on
 And step out of that black chiffon
 Here's a dress of gold and blue
@@ -47,6 +51,3 @@ Someone's gonna paint you another sky
 And none of them know what they're running from
 Was it just too far to fall
 Was it just too far to fall
-
-
-

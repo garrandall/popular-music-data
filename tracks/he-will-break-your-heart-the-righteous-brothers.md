@@ -1,8 +1,11 @@
 ---
+album: Soul and Inspiration
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:0qlmIziH262eMI6L43l5lX
 features: []
-genres: []
+first_released_as_single: false
 key: he-will-break-your-heart-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/hewillbreakyourheart.html
 name: He Will Break Your Heart
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 166293
 ---
-
 He don't love you like I love you
 If he did he wouldn't break your heart
 He don't love you like I love you
@@ -39,6 +43,3 @@ When he takes his bow and makes his exit
 I'll be there to take you home
 
 He don't love you
-
-
-

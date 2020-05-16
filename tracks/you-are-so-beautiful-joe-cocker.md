@@ -1,8 +1,11 @@
 ---
+album: I Can Stand A Little Rain
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:1gJOqXpRjz9GeEEwQpcujK
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-so-beautiful-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-you-are-so-beautiful-lyrics
 name: You Are So Beautiful
@@ -75,6 +78,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1974
+runtime: 159640
 ---
 You are so beautiful
 To me

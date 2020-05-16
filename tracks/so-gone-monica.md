@@ -1,8 +1,11 @@
 ---
+album: After The Storm
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:6BIcjFZIVDZxNAcofRFPx4
 features: []
-genres: []
+first_released_as_single: false
 key: so-gone-monica
 lyrics_url: https://genius.com/Monica-so-gone-lyrics
 name: So Gone
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
+release_year: 2003
+runtime: 242773
 ---
 So gone over you, you, you, you
 Yeah, new Monica

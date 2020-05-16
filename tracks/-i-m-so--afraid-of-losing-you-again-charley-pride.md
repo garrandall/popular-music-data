@@ -1,8 +1,11 @@
 ---
+album: Just Plain Charley
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:7l9bsFdeaNQb3mw4c8pNqE
 features: []
-genres: []
+first_released_as_single: false
 key: -i-m-so--afraid-of-losing-you-again-charley-pride
 lyrics_url: https://genius.com/Charley-pride-im-so-afraid-of-losing-you-again-lyrics
 name: (I'm So) Afraid Of Losing You Again
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 188600
 ---
 Sometimes I want to throw my arms around you
 Then I tremble at the thought of giving in

@@ -1,8 +1,11 @@
 ---
+album: I'll Give All My Love to You
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:6SdPDNYIs34H0MWBrrfH6T
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-give-all-my-love-to-you-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-ill-give-all-my-love-to-you-lyrics
 name: I'll Give All My Love To You
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
+release_year: 1990
+runtime: 392200
 ---
 Oh baby baby baby oh
 My, my, my baby yeah

@@ -1,8 +1,11 @@
 ---
+album: Revenge Of The Dreamers III
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:2JvzF1RMd7lE3KmFlsyZD8
 features: []
-genres: []
+first_released_as_single: true
 key: middle-child-j--cole
 lyrics_url: https://genius.com/J-cole-middle-child-lyrics
 name: Middle Child
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2019
+runtime: 213593
 ---
 You good, T-Minus?
 

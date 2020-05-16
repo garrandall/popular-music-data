@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Season 4 Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:68iMdxXn1timrxURm9dR8C
 features: []
-genres: []
+first_released_as_single: false
 key: the-scientist-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/thescientist.html
 name: The Scientist
@@ -11,9 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2012
+runtime: 254413
 ---
-
-
 Come up to meet you, tell you I'm sorry
 You don't know how lovely you are
 I had to find you, tell you I need you
@@ -60,7 +63,4 @@ Nobody said it was easy
 No one ever said it would be so hard
 I'm going back to the start
 
-Nobody said it was easy 
-
-
-
+Nobody said it was easy

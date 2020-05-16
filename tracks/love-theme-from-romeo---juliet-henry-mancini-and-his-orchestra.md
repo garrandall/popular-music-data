@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0oFkaYVT0tVb9v5sOaMvJv
 features: []
-genres: []
+first_released_as_single: false
 key: love-theme-from-romeo---juliet-henry-mancini-and-his-orchestra
 name: Love Theme From Romeo & Juliet
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1958
+runtime: 152320
 ---
 

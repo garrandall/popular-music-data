@@ -1,9 +1,12 @@
 ---
+album: Red Dirt Road
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:3EZzghqykkfOB0Z8d0kTSt
 features: []
-genres: []
+first_released_as_single: false
 key: red-dirt-road-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/reddirtroad.html
 name: Red Dirt Road
@@ -88,8 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 260360
 ---
-
 I was raised off of Rural Route 3
 Out past where the blacktop ends
 We'd walk to church on Sunday morning
@@ -153,6 +157,3 @@ Of that red dirt road
 Yes, I've learned, I've come to know
 There's life at both ends
 Of that red dirt road
-
-
-

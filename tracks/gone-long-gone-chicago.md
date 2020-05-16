@@ -1,8 +1,11 @@
 ---
+album: Hot Streets
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0h2HPjykz5ePBbWfLLt1vN
 features: []
-genres: []
+first_released_as_single: false
 key: gone-long-gone-chicago
 lyrics_url: https://genius.com/Chicago-gone-long-gone-lyrics
 name: Gone Long Gone
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-04-28'
+release_year: 1978
+runtime: 239676
 ---
 I thought for the rest of my life
 You'd see me through it

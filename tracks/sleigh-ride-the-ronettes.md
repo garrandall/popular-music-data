@@ -1,8 +1,11 @@
 ---
+album: Caroling at Christmas
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:5ASM6Qjiav2xPe7gRkQMsQ
 features: []
-genres: []
+first_released_as_single: false
 key: sleigh-ride-the-ronettes
 lyrics_url: https://www.azlyrics.com/lyrics/ronettes/sleighride.html
 name: Sleigh Ride
@@ -35,8 +38,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1963
+runtime: 181266
 ---
-
 Just hear those sleigh bells jingling, ring tingle tingling too 
 Come on, it's lovely weather for a sleigh ride together with you, 
 Outside the snow is falling and friends are calling yoo hoo, 
@@ -51,6 +55,3 @@ Our cheeks are nice and rosy and comfy and cozy are we
 We're snuggled up together like two birds of a feather would be
 Let's take the road before us and sing a chorus or two 
 Come on, it's lovely weather for a sleigh ride together with you.
-
-
-

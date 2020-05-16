@@ -1,8 +1,11 @@
 ---
+album: Tales From the Darkside
 artists:
 - PSY
+external_ids:
+  spotify: spotify:track:17JNlU4qkk32gAsW5BqkGF
 features: []
-genres: []
+first_released_as_single: false
 key: gentleman-psy
 lyrics_url: https://genius.com/Psy-gentleman-lyrics
 name: Gentleman
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
+release_year: 1990
+runtime: 208533
 ---
 Ah-llang-gah-mo-lla; weh hwakkun heya hanun gunji
 Ah-llang-gah-mo-lla; weh malkkum heya hanun gunji

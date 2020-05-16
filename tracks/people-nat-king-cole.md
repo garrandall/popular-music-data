@@ -1,8 +1,11 @@
 ---
+album: Thank You, Pretty Baby
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:5c3ve0JNd9Qa3EcSFol2pU
 features: []
-genres: []
+first_released_as_single: false
 key: people-nat-king-cole
 lyrics_url: https://www.musixmatch.com/lyrics/Nat-King-Cole/People
 name: People
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 161653
 ---
 People, people who need people
 Are the luckiest people

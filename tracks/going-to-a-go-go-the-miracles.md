@@ -1,8 +1,11 @@
 ---
+album: Going To A Go-Go
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:5s3zYvzEpBk0WbG6AgFUBK
 features: []
-genres: []
+first_released_as_single: false
 key: going-to-a-go-go-the-miracles
 lyrics_url: https://genius.com/The-miracles-going-to-a-go-go-lyrics
 name: Going To A Go-Go
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1965
+runtime: 165786
 ---
 Goin' to a go go
 Goin' to a go go

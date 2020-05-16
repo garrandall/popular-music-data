@@ -1,10 +1,13 @@
 ---
+album: My House
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:6N9ZOtguCnnrvwH7zD82WJ
 features:
 - Sage The Gemini
 - Lookas
-genres: []
+first_released_as_single: true
 key: gdfr-flo-rida-sage-the-gemini-lookas
 lyrics_url: https://genius.com/Flo-rida-gdfr-lyrics
 name: GDFR
@@ -149,6 +152,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
+release_year: 2014
+runtime: 190185
 ---
 I know what you came here to see
 If you're a freak, then you comin' home with me

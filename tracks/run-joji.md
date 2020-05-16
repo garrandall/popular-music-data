@@ -1,8 +1,11 @@
 ---
+album: Run
 artists:
 - Joji
+external_ids:
+  spotify: spotify:track:6p8eEdiZLKJH8tcjGZuNTK
 features: []
-genres: []
+first_released_as_single: true
 key: run-joji
 lyrics_url: https://genius.com/Joji-run-lyrics
 name: Run
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2020
+runtime: 195000
 ---
 I fell for your magic, I tasted your skin
 And though this is tragic, at least I found the end

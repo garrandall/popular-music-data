@@ -1,8 +1,11 @@
 ---
+album: Sings Who Will Answer? (And Other Songs Of Our Time)
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:5kFQfMRR8rZYhz96YDpy5N
 features: []
-genres: []
+first_released_as_single: false
 key: who-will-answer--ed-ames
 lyrics_url: https://genius.com/Ed-ames-who-will-answer-lyrics
 name: Who Will Answer?
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 222293
 ---
 Hallelujah! Hallelujah!, Hallelujah!
 

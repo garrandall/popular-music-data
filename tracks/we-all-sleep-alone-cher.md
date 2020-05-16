@@ -1,8 +1,11 @@
 ---
+album: Cher
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:3ZW8YDbgZBkqu8Wt0jzf4H
 features: []
-genres: []
+first_released_as_single: false
 key: we-all-sleep-alone-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/weallsleepalone.html
 name: We All Sleep Alone
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 232093
 ---
-
 Somebody, somewhere turns off the lights
 Somebody all alone faces the night
 You got to be strong when you're out on your own
@@ -94,6 +98,3 @@ Yeah, yeah, we all sleep alone, yeah
 And I know, and I know how you feel
 What you're thinkin', what you're saying to me
 'Cause we all sleep alone, yes, we all sleep alone
-
-
-

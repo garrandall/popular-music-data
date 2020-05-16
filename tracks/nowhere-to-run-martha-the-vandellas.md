@@ -1,9 +1,12 @@
 ---
+album: Dance Party
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:1WPqawIF9HCKfSOt7mN6X0
 features: []
-genres: []
+first_released_as_single: false
 key: nowhere-to-run-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/nowheretorun.html
 name: Nowhere To Run
@@ -52,8 +55,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 181640
 ---
-
 Nowhere to run to baby, nowhere to hide
 I got nowhere to run to baby, nowhere to hide
 
@@ -98,6 +102,3 @@ But free of you, I'll never be
 
 Nowhere to run to baby, nowhere to hide (nowhere to hide)
 Got nowhere to run to baby, nowhere to hide (nowhere to hide)
-
-
-

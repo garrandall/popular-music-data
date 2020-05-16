@@ -1,9 +1,12 @@
 ---
+album: Release Therapy
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:2JpUkUR0OsOlUUfm6iS8ic
 features:
 - Pharrell
-genres: []
+first_released_as_single: false
 key: money-maker-ludacris-pharrell
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/moneymaker.html
 name: Money Maker
@@ -108,9 +111,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 230613
 ---
-
-
 Shake your money maker
 Like somebody about to pay you
 I see you on my radar
@@ -178,4 +181,3 @@ See I'm a member of the BBC
 The original bread winner of DTP
 And you the center of attention that's distracting the squad
 Cause everybody in the camp is like OH MY GOD...she could
-

@@ -1,8 +1,11 @@
 ---
+album: Tragic Kingdom
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:5lWRaa0fBxDE5yU91npPq7
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-girl-no-doubt
 lyrics_url: https://genius.com/No-doubt-just-a-girl-lyrics
 name: Just A Girl
@@ -123,6 +126,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1995
+runtime: 209200
 ---
 Take this pink ribbon off my eyes
 I'm exposed, and it's no big surprise

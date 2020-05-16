@@ -1,8 +1,11 @@
 ---
+album: I'm Coming Home
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:1SFqQkrDIgcGp9sz9YgUVS
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-a-song-worth-singing-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/lifeisasongworthsinging.html
 name: Life Is A Song Worth Singing
@@ -55,8 +58,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1973
+runtime: 363320
 ---
-
 Life is a song worth singing
 Why don't you?
 Sing It!
@@ -82,6 +86,3 @@ So you sit on your pants and holler
 cause the world ain't been treating you right
 Don't you know you contain the power
 to control destiny with your mind
-
-
-

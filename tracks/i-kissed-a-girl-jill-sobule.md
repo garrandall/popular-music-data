@@ -1,8 +1,11 @@
 ---
+album: Jill Sobule
 artists:
 - Jill Sobule
+external_ids:
+  spotify: spotify:track:2wbOO38fVqZj0Hz2nRe0Dz
 features: []
-genres: []
+first_released_as_single: false
 key: i-kissed-a-girl-jill-sobule
 lyrics_url: https://genius.com/Jill-sobule-i-kissed-a-girl-lyrics
 name: I Kissed A Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1995
+runtime: 193773
 ---
 Jenny came over and told me about Brad
 He's such a hairy behemoth she said

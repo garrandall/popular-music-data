@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:6KRi6CBUitENJB4HQbSVSD
 features: []
-genres: []
+first_released_as_single: false
 key: escape-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/escape.html
 name: Escape
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 2001
+runtime: 208040
 ---
-
 (You can run, you can hide
 But you can't escape my love)
 
@@ -153,6 +157,3 @@ But you can't escape my love
 But you can't escape my love
 You can run, you can hide
 But you can't escape my love
-
-
-

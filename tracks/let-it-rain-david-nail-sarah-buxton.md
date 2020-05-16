@@ -1,9 +1,12 @@
 ---
+album: The Sound Of A Million Dreams
 artists:
 - David Nail
+external_ids:
+  spotify: spotify:track:0DAjiINHQTnPnnY939Qyhw
 features:
 - Sarah Buxton
-genres: []
+first_released_as_single: true
 key: let-it-rain-david-nail-sarah-buxton
 lyrics_url: https://genius.com/David-nail-let-it-rain-lyrics
 name: Let It Rain
@@ -88,6 +91,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 222253
 ---
 It's hard to find the perfect time to say something
 You know is gonna change everything

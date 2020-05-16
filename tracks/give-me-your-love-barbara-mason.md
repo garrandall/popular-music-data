@@ -1,8 +1,11 @@
 ---
+album: Soulful Truth
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:3rNgQNJ8dFcTxabYUnFwXd
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-your-love-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-give-me-your-love-lyrics
 name: Give Me Your Love
@@ -55,6 +58,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1973
+runtime: 178400
 ---
 Oh, baby, oh, baby
 Oh, baby, oh, baby...

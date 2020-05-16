@@ -1,9 +1,12 @@
 ---
+album: You Know You Like It
 artists:
 - DJ Snake
 - AlunaGeorge
+external_ids:
+  spotify: spotify:track:57kR5SniQIbsbVoIjjOUDa
 features: []
-genres: []
+first_released_as_single: true
 key: you-know-you-like-it-dj-snake-alunageorge
 lyrics_url: https://genius.com/Dj-snake-and-alunageorge-you-know-you-like-it-lyrics
 name: You Know You Like It
@@ -92,6 +95,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-08-29'
+release_year: 2014
+runtime: 247266
 ---
 Some people want me to be heads or tails
 I say no way, try again, another day

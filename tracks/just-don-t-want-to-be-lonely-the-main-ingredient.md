@@ -1,8 +1,11 @@
 ---
+album: Euphrates River (Bonus Track Version)
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:0OrnKmKKeMXhv11lJQJqpf
 features: []
-genres: []
+first_released_as_single: false
 key: just-don-t-want-to-be-lonely-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-just-dont-want-to-be-lonely-lyrics
 name: Just Don't Want To Be Lonely
@@ -87,6 +90,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1974
+runtime: 214893
 ---
 Hey, say, wait a minute
 Where you going with that suitcase

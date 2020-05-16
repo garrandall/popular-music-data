@@ -1,8 +1,11 @@
 ---
+album: Soul Searching
 artists:
 - Average White Band
+external_ids:
+  spotify: spotify:track:6Z4DwTHV87Go5CO6Yn0dd8
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-my-soul-average-white-band
 lyrics_url: https://www.azlyrics.com/lyrics/averagewhiteband/queenofmysoul.html
 name: Queen Of My Soul
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 361613
 ---
-
 I've loved you for as long as I remember
 And I know I'll love you all of my life
 I'll try to stay with you
@@ -109,6 +113,3 @@ Music, sweet music (don't you keep your music to yourself)
 You're the queen of my soul
 Music (music) sweet music (oh..)
 You're the queen of my soul (oh...yeah...yeah..)
-
-
-

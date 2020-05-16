@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:5K5LbSTVuKKe1KGMNfBgIW
 features: []
-genres: []
+first_released_as_single: false
 key: rock-that-body-the-black-eyed-peas
 lyrics_url: https://genius.com/The-black-eyed-peas-rock-that-body-lyrics
 name: Rock That Body
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-09-11'
+release_year: 2009
+runtime: 268840
 ---
 I wanna rock right now
 I wanna, I wanna rock right now

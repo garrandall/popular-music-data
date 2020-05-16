@@ -1,8 +1,11 @@
 ---
+album: The Boy Is Mine
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:7GHFHB58XQG9NPjV6j9sLT
 features: []
-genres: []
+first_released_as_single: true
 key: angel-of-mine-monica
 lyrics_url: https://www.azlyrics.com/lyrics/monica/angelofmine.html
 name: Angel Of Mine
@@ -127,8 +130,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 250400
 ---
-
 When I first saw you I already knew
 There was something inside of you
 Something I thought that I would never find
@@ -179,6 +183,3 @@ I look at you lookin' at me
 Now I know why they say the best things are free
 I'm checkin' for ya, boy you're right on time
 Angel of Mine
-
-
-

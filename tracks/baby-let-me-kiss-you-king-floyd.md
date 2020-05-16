@@ -1,8 +1,11 @@
 ---
+album: Choice Cuts
 artists:
 - King Floyd
+external_ids:
+  spotify: spotify:track:2Lhra4Sk7nRZpjouJZEVF5
 features: []
-genres: []
+first_released_as_single: false
 key: baby-let-me-kiss-you-king-floyd
 lyrics_url: https://genius.com/King-floyd-baby-let-me-kiss-you-lyrics
 name: Baby Let Me Kiss You
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1971
+runtime: 174866
 ---
 Baby, let me do it, let me do it to you
 Let me kiss you, baby

@@ -1,8 +1,11 @@
 ---
+album: The Supremes Sing Holland, Dozier, Holland
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:4a01ClusxuZiloOK5UgLUn
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-hangin--on-the-supremes
 lyrics_url: https://genius.com/The-supremes-you-keep-me-hangin-on-lyrics
 name: You Keep Me Hangin' On
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 163280
 ---
 Set me free, why don't cha babe?
 Get out my life, why don't cha babe?

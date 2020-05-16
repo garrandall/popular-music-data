@@ -1,8 +1,11 @@
 ---
+album: The Electrifying Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6Y3RU7srd76PTBlYBurbYS
 features: []
-genres: []
+first_released_as_single: false
 key: i-surrender-dear-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-i-surrender-dear-lyrics
 name: I Surrender Dear
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1962
+runtime: 164666
 ---
 We played the game of stay away
 But it cost more than I can pay

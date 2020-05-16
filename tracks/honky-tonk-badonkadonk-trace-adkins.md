@@ -1,8 +1,11 @@
 ---
+album: Songs About Me
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:5iDfnRTdV2mrvMK886TLRg
 features: []
-genres: []
+first_released_as_single: false
 key: honky-tonk-badonkadonk-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/honkytonkbadonkadonk.html
 name: Honky Tonk Badonkadonk
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 241133
 ---
-
 Turn it up some
 Alright boys, this is her favorite song
 You know that right
@@ -167,6 +171,3 @@ Yeah, that honky tonk badonkadonk
 (That's it, right there boys, that's why we do what we do
 It ain't for the money, it ain't for the glory, it ain't for the free whiskey
 It's for the badonkadonk)
-
-
-

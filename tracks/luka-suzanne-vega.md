@@ -1,8 +1,11 @@
 ---
+album: Solitude Standing
 artists:
 - Suzanne Vega
+external_ids:
+  spotify: spotify:track:5yMXAaSvxo12QkYU75Ixv0
 features: []
-genres: []
+first_released_as_single: false
 key: luka-suzanne-vega
 lyrics_url: https://www.azlyrics.com/lyrics/suzannevega/luka.html
 name: Luka
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 231933
 ---
-
 My name is Luka
 I live on the second floor
 I live upstairs from you
@@ -132,6 +136,3 @@ After that, you don't ask why
 You just don't argue anymore
 You just don't argue anymore
 You just don't argue anymore
-
-
-

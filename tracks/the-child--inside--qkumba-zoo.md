@@ -1,8 +1,11 @@
 ---
+album: Wake Up & Dream
 artists:
 - Qkumba Zoo
+external_ids:
+  spotify: spotify:track:41NMHDlXO1qeo8YYxcQDHU
 features: []
-genres: []
+first_released_as_single: false
 key: the-child--inside--qkumba-zoo
 lyrics_url: https://genius.com/Qkumba-zoo-the-child-inside-lyrics
 name: The Child (Inside)
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 241506
 ---
 Who's that calling?
 Who's that who can show the way?

@@ -1,8 +1,11 @@
 ---
+album: Let's Limbo Some More
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:65X6ApzxPvmXdk6XOdwSMy
 features: []
-genres: []
+first_released_as_single: false
 key: twenty-miles-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/twentymiles.html
 name: Twenty Miles
@@ -55,8 +58,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1962
+runtime: 131053
 ---
-
 Twenty miles from my house to your house
 Twenty miles and I walk it all the way
 Twenty miles when you're in love is nothin'
@@ -87,6 +91,3 @@ But I got to see my baby every day
 Twenty miles is a long long way
 But I got to see my baby every day
 Oh hey Twenty miles
-
-
-

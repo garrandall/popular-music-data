@@ -1,8 +1,11 @@
 ---
+album: Call Of The West
 artists:
 - Wall Of Voodoo
+external_ids:
+  spotify: spotify:track:1BtOAYgTkPnv1KRcLHqyxO
 features: []
-genres: []
+first_released_as_single: false
 key: mexican-radio-wall-of-voodoo
 lyrics_url: https://genius.com/Wall-of-voodoo-mexican-radio-lyrics
 name: Mexican Radio
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1982
+runtime: 248866
 ---
 I feel a hot wind on my shoulder
 And the touch of a world that is older

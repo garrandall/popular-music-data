@@ -1,8 +1,11 @@
 ---
+album: Back To Your Heart
 artists:
 - Joy Of Cooking
+external_ids:
+  spotify: spotify:track:2ZPWFcSTOnO94OgpMdEk17
 features: []
-genres: []
+first_released_as_single: false
 key: brownsville-joy-of-cooking
 name: Brownsville
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 662213
 ---
 

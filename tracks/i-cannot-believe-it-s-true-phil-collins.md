@@ -1,8 +1,11 @@
 ---
+album: Hello, I Must Be Going!
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:47gHXfrbU3IBshdwwtjrjz
 features: []
-genres: []
+first_released_as_single: false
 key: i-cannot-believe-it-s-true-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/icannotbelieveitstrue.html
 name: I Cannot Believe It's True
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
+release_year: 1982
+runtime: 316426
 ---
-
 When I opened your letter yesterday
 I could not believe my eyes
 'Cos I've already given all I have to give
@@ -87,6 +91,3 @@ Nothing can make me stay
 'Cos you know I cannot believe it's true
 Are you really doing the things you do
 No I cannot believe it's you, really you
-
-
-

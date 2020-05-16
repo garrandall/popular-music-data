@@ -1,8 +1,11 @@
 ---
+album: Hums Of The Lovin' Spoonful
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:6iLj3nyhK3wSm6KOaX82RC
 features: []
-genres: []
+first_released_as_single: false
 key: summer-in-the-city-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-summer-in-the-city-lyrics
 name: Summer In The City
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1965
+runtime: 161106
 ---
 Hot town, summer in the city
 Back of my neck getting dirty and gritty

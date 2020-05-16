@@ -1,8 +1,11 @@
 ---
+album: Music Of The Sun
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:2k0oY7sO7YJf8yauH85Tbk
 features: []
-genres: []
+first_released_as_single: true
 key: pon-de-replay-rihanna
 lyrics_url: https://genius.com/Rihanna-pon-de-replay-lyrics
 name: Pon de Replay
@@ -115,6 +118,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2005
+runtime: 452146
 ---
 Come, Mr. DJ, song pon de replay
 Come, Mr. DJ, won't you turn the music up?

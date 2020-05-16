@@ -1,8 +1,11 @@
 ---
+album: Inside Your Heaven
 artists:
 - Bo Bice
+external_ids:
+  spotify: spotify:track:6SZBK8Z2Tdv7vgO3ZJnHTN
 features: []
-genres: []
+first_released_as_single: true
 key: inside-your-heaven-bo-bice
 lyrics_url: https://www.azlyrics.com/lyrics/bobice/insideyourheaven.html
 name: Inside Your Heaven
@@ -35,8 +38,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2005
+runtime: 252760
 ---
-
 I've been down
 Now I'm blessed
 I felt a revelation coming around
@@ -87,6 +91,3 @@ I wanna be inside your heaven
 Oh yes I do
 
 I wanna be inside your heaven
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bobby Goldsboro
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:75G8fa3d57oG2hPDghjXbh
 features: []
-genres: []
+first_released_as_single: false
 key: broomstick-cowboy-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/broomstickcowboy.html
 name: Broomstick Cowboy
@@ -35,8 +38,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 166186
 ---
-
 Dream on, little Broomstick Cowboy
 Of rocket ships and Mars
 Of sunny days
@@ -75,6 +79,3 @@ So dream on, little Broomstick Cowboy
 Dream while you can
 For soon, you'll be a dreadful thing
 My son, you'll be a man
-
-
-

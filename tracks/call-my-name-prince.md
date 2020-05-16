@@ -1,8 +1,11 @@
 ---
+album: Musicology
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:1NtMkOgf5U9YMaXyuEIRn2
 features: []
-genres: []
+first_released_as_single: false
 key: call-my-name-prince
 lyrics_url: https://genius.com/Prince-call-my-name-lyrics
 name: Call My Name
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
+release_year: 2004
+runtime: 315773
 ---
 Call, call my name
 Call it, call my name

@@ -1,9 +1,12 @@
 ---
+album: SHAKE THE SNOW GLOBE
 artists:
 - Russ
 - BIA
+external_ids:
+  spotify: spotify:track:0xKBkLcF71uUQeTA7FSu4A
 features: []
-genres: []
+first_released_as_single: false
 key: best-on-earth-russ-bia
 lyrics_url: https://www.azlyrics.com/lyrics/russ/bestonearth.html
 name: BEST ON EARTH
@@ -64,8 +67,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 160720
 ---
-
 I like the way she work she always puts me first
 And I know I been around but I swear you got the best on earth
 
@@ -122,6 +126,3 @@ I got drip on the floor and it's getting nasty
 He ain't keepin' his hands up off my ass cheeks
 I got something to give him and if he ask me
 I'm not filling up, baby, I let him gas me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wide Open
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:4KAzYqfcijCSZa2P3etHoM
 features: []
-genres: []
+first_released_as_single: false
 key: big-green-tractor-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/biggreentractor.html
 name: Big Green Tractor
@@ -87,8 +90,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 204200
 ---
-
 She had a shiny little beamer with the rag top down
 Sitting in the drive but she wouldn't get out
 The dogs were all barking and a wagging around
@@ -131,6 +135,3 @@ I'll take you for a ride on my big green tractor
 We can go to town
 Or we can go another round
 On my big green tractor
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Men At Large
 artists:
 - Men At Large
+external_ids:
+  spotify: spotify:track:39SV8I6A8knhMZ2yv1LUnM
 features: []
-genres: []
+first_released_as_single: false
 key: so-alone-men-at-large
 lyrics_url: https://genius.com/Men-at-large-so-alone-lyrics
 name: So Alone
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1992
+runtime: 447546
 ---
 Men At Large- So Alone
 

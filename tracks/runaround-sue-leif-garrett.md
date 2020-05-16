@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:2SA7C7lBySq0m2fHlbPSZv
 features: []
-genres: []
+first_released_as_single: false
 key: runaround-sue-leif-garrett
 lyrics_url: https://genius.com/Leif-garrett-runaround-sue-lyrics
 name: Runaround Sue
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 142693
 ---
 I should have known it from the very start
 This girl would leave me with a broken heart

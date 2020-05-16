@@ -1,8 +1,11 @@
 ---
+album: Let The Good Times Roll & (Feel So Good)
 artists:
 - Bunny Sigler
+external_ids:
+  spotify: spotify:track:5QeZghsdXHZmeFUZ6IgpeI
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-good-times-roll---feel-so-good-bunny-sigler
 lyrics_url: https://genius.com/Bunny-sigler-let-the-good-times-roll-feel-so-good-lyrics
 name: Let The Good Times Roll & Feel So Good
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 178733
 ---
 Come on baby let the good times roll
 Come on baby let me thrill your soul

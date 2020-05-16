@@ -1,8 +1,11 @@
 ---
+album: Plantation Lullabies
 artists:
 - MeShell Ndegeocello
+external_ids:
+  spotify: spotify:track:7vx3QnBgX1RpmMATFIiNA3
 features: []
-genres: []
+first_released_as_single: false
 key: if-that-s-your-boyfriend--he-wasn-t-last-night--meshell-ndegeocello
 lyrics_url: https://genius.com/Meshell-ndegeocello-if-thats-your-boyfriend-he-wasnt-last-night-lyrics
 name: If That's Your Boyfriend (He Wasn't Last Night)
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
+release_year: 1993
+runtime: 271813
 ---
 You say that's your boyfriend
 You say I'm out of line

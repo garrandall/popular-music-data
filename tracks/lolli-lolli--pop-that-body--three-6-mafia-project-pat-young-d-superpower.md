@@ -1,11 +1,14 @@
 ---
+album: Last 2 Walk
 artists:
 - Three 6 Mafia
+external_ids:
+  spotify: spotify:track:0FzNsTG8naVP0O4HTnM7Bp
 features:
 - Project Pat
 - Young D
 - Superpower
-genres: []
+first_released_as_single: true
 key: lolli-lolli--pop-that-body--three-6-mafia-project-pat-young-d-superpower
 lyrics_url: https://genius.com/Three-6-mafia-lolli-lolli-pop-that-body-lyrics
 name: Lolli Lolli (Pop That Body)
@@ -90,6 +93,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 254120
 ---
 Yup! Three 6 Mafia!
 Featuring Project Pat, Young D, let's go

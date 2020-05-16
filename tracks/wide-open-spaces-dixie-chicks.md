@@ -1,8 +1,11 @@
 ---
+album: Wide Open Spaces
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:6cjwec9ii5uLK7CDfPBYt1
 features: []
-genres: []
+first_released_as_single: false
 key: wide-open-spaces-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-wide-open-spaces-lyrics
 name: Wide Open Spaces
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 223832
 ---
 Who doesn't know what I'm talking about
 Who's never left home, who's never struck out

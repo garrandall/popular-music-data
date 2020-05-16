@@ -1,8 +1,11 @@
 ---
+album: Mama Said Knock You Out
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:6C7ZgThn6Yan5MTZdAEEFw
 features: []
-genres: []
+first_released_as_single: false
 key: mama-said-knock-you-out-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-mama-said-knock-you-out-lyrics
 name: Mama Said Knock You Out
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1990
+runtime: 289693
 ---
 C'mon, man
 

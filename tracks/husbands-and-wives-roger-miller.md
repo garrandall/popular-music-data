@@ -1,8 +1,11 @@
 ---
+album: Old Friends
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:1XSgsMAa25QyR4h8iwiWv1
 features: []
-genres: []
+first_released_as_single: false
 key: husbands-and-wives-roger-miller
 lyrics_url: https://genius.com/Roger-miller-husbands-and-wives-lyrics
 name: Husbands And Wives
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 225160
 ---
 Two broken hearts lonely, looking like
 Houses where nobody lives

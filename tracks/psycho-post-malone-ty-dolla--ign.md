@@ -1,9 +1,12 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:3swc6WTsr7rl9DqQKQA55C
 features:
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: psycho-post-malone-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/psycho.html
 name: Psycho
@@ -164,9 +167,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 221440
 ---
-
-
 Damn, my AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
 My roof look like a no-show, got diamonds by the boatload
@@ -227,6 +230,3 @@ My AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
 My roof look like a no-show, got diamonds by the boatload
 Don't act like you my friend when I'm rollin' through my ends, though
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - The Applejacks
+external_ids:
+  spotify: spotify:track:0GLrPJSwT0BgiyAEWqNRs9
 features: []
-genres: []
+first_released_as_single: false
 key: rocka-conga-the-applejacks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Applejacks/Rock-a-Conga
 name: Rocka-Conga
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
+release_year: 1958
+runtime: 138973
 ---
 Love that conga
 Rocka-conga

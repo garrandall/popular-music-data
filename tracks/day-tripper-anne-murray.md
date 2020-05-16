@@ -1,8 +1,11 @@
 ---
+album: Highly Prized Possession
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:76Kd9WcnUdfP0ePxRqujGa
 features: []
-genres: []
+first_released_as_single: false
 key: day-tripper-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/daytripper.html
 name: Day Tripper
@@ -31,8 +34,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 173200
 ---
-
 Got a good reason for
 Taking the easy way out
 Got a good reason for
@@ -69,6 +73,3 @@ I found out
 Day tripper
 One way ticket to ride
 I found out
-
-
-

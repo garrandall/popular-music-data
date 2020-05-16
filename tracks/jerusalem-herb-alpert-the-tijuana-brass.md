@@ -1,9 +1,12 @@
 ---
+album: Summertime
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:5XrskMYc68N9vJHWUKG8yX
 features: []
-genres: []
+first_released_as_single: false
 key: jerusalem-herb-alpert-the-tijuana-brass
 name: Jerusalem
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 153986
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Dimension Dolls
 artists:
 - The Cookies
+external_ids:
+  spotify: spotify:track:5QV1ERhFeYKZfK1Y99gYG6
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-nothin--bad--about-my-baby--the-cookies
 lyrics_url: https://genius.com/The-cookies-dont-say-nothin-bad-about-my-baby-lyrics
 name: Don't Say Nothin' Bad (About My Baby)
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 165840
 ---
 Don't say nothin' bad about my baby
 (Oh, no)

@@ -1,8 +1,11 @@
 ---
+album: Peace Of Mind
 artists:
 - Breathe
+external_ids:
+  spotify: spotify:track:1pg8bc0AuPRW5rAFbv3Th0
 features: []
-genres: []
+first_released_as_single: false
 key: say-a-prayer-breathe
 lyrics_url: https://www.musixmatch.com/lyrics/Breathe/Say-a-Prayer
 name: Say A Prayer
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 231533
 ---
 Whoa, whoa, whoa, whoa
 

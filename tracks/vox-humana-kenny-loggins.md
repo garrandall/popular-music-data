@@ -1,8 +1,11 @@
 ---
+album: Vox Humana
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:5Bv0gYUXTU2sx7BitZ5dRt
 features: []
-genres: []
+first_released_as_single: false
 key: vox-humana-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/voxhumana.html
 name: Vox Humana
@@ -47,8 +50,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1985
+runtime: 250360
 ---
-
 Early mornin' lookin' tired and worn
 And lookin' out for the enemy
 You made all the way to Hudson Bay
@@ -90,6 +94,3 @@ You gotta say
 What you oughtta say
 Don't try to run away
 Darlin' I'm lettin' you know
-
-
-

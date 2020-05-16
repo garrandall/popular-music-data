@@ -1,8 +1,11 @@
 ---
+album: The Classic Albums
 artists:
 - Guy Mitchell
+external_ids:
+  spotify: spotify:track:3FmOtyK5VjQsJqNJZ2ID0K
 features: []
-genres: []
+first_released_as_single: false
 key: heartaches-by-the-number-guy-mitchell
 lyrics_url: https://genius.com/Guy-mitchell-heartaches-by-the-number-lyrics
 name: Heartaches By The Number
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 146173
 ---
 Heartaches by the number, troubles by the score
 Everyday you love me less, each day I love you more

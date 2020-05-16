@@ -1,8 +1,11 @@
 ---
+album: Big Hopes
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:4clg6kDhG2jceRFk8nqqRg
 features: []
-genres: []
+first_released_as_single: false
 key: it-must-be-love-ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/itmustbelove.html
 name: It Must Be Love
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-02-06'
+release_year: 1995
+runtime: 212306
 ---
-
 I just dropped her off, I'm thinking "Oh what a night"
 I ought to be flying but I'm sittin here at this green light
 I thought I was in control, thought I knew where I wanted to go
@@ -84,6 +88,3 @@ I don't know but something tells me
 Oh I don't know but something tells me it must be love
 I don't know but something tells me
 Oh I don't know but something tells me it must be love.
-
-
-

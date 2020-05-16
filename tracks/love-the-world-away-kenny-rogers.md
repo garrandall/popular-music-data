@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:4072P1aXhii6dNjsbn9PES
 features: []
-genres: []
+first_released_as_single: false
 key: love-the-world-away-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/lovetheworldaway.html
 name: Love The World Away
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 192400
 ---
-
 Every now and then
 When the world steps in
 Stealing all our time away
@@ -86,6 +90,3 @@ Here's my heart
 We can hide today
 And love the world away
 We can love the world away
-
-
-

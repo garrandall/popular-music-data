@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:3jb4oKjPdxv58czp4Nct0X
 features: []
-genres: []
+first_released_as_single: false
 key: next-door-to-the-blues-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/nextdoortotheblues.html
 name: Next Door To The Blues
@@ -35,8 +38,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 169373
 ---
-
 Sorrow
 Is the street that I'm living on
 Across Pain Avenue
@@ -86,6 +90,3 @@ Yes I'm living
 And after all I've been through
 I've had to move, Oh Lord
 Next door to the Blues
-
-
-

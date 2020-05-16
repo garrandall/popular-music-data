@@ -1,8 +1,11 @@
 ---
+album: Sam's Town
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:70wYA8oYHoMzhRRkARoMhU
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-were-young-the-killers
 lyrics_url: https://genius.com/The-killers-when-you-were-young-lyrics
 name: When You Were Young
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2007-01-06'
+release_year: 2006
+runtime: 220426
 ---
 You sit there in your heartache
 Waiting on some beautiful boy to

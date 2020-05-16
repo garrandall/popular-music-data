@@ -1,9 +1,12 @@
 ---
+album: Song Of Joy
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:3NRiJ7XFMALvrXXB1oRBFO
 features: []
-genres: []
+first_released_as_single: false
 key: muskrat-love-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/muskratlove.html
 name: Muskrat Love
@@ -88,8 +91,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 228160
 ---
-
 Muskrat, muskrat, candle light
 Doing the town and doing it right in the evening
 It's pretty pleasing
@@ -122,6 +126,3 @@ And they whirl and they twirl and they tango
 Singing and jinging a jangle
 Float like the heavens above
 Looks like muskrat love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tell It to My Heart
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:3YVPpVJvJG2EauXurPA90F
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-to-my-heart-dub--taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-tell-it-to-my-heart-lyrics
 name: Tell It To My Heart(Dub)
@@ -107,6 +110,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 220880
 ---
 I feel the night explode
 When we're together

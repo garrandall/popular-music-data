@@ -1,8 +1,11 @@
 ---
+album: Big Dreams & High Hopes
 artists:
 - Jack Ingram
+external_ids:
+  spotify: spotify:track:743UzZj0Yzh9IYJEzH2f5H
 features: []
-genres: []
+first_released_as_single: false
 key: barefoot-and-crazy-jack-ingram
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Ingram/Barefoot-And-Crazy
 name: Barefoot And Crazy
@@ -55,6 +58,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 210493
 ---
 The clouds are partin', the summer suns startin'
 To burn down on that river

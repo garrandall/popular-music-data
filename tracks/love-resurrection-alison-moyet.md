@@ -1,8 +1,11 @@
 ---
+album: Alf / Raindancing
 artists:
 - Alison Moyet
+external_ids:
+  spotify: spotify:track:1YbbF4RgTU1DL28lz9xpR8
 features: []
-genres: []
+first_released_as_single: false
 key: love-resurrection-alison-moyet
 lyrics_url: https://www.azlyrics.com/lyrics/alisonmoyet/loveresurrection.html
 name: Love Resurrection
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1984
+runtime: 231226
 ---
-
 What can I do to make light of this dull dull day
 What switch can I pull to illuminate the way
 Show me one direction
@@ -51,6 +55,3 @@ Show me one direction
 I will not question again
 For a warm injection
 Is all I need to calm the pain
-
-
-

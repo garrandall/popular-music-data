@@ -1,8 +1,11 @@
 ---
+album: Fastlife
 artists:
 - Joe Jonas
+external_ids:
+  spotify: spotify:track:1j6OxgH4ZLKY2bIJ9k0RHz
 features: []
-genres: []
+first_released_as_single: false
 key: see-no-more-joe-jonas
 lyrics_url: https://genius.com/Joe-jonas-see-no-more-lyrics
 name: See No More
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 232586
 ---
 Oh, I don't wanna see no more
 

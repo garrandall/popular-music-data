@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Journey To Regionals'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6T5C1e56lt5bpLPGFszX0l
 features: []
-genres: []
+first_released_as_single: true
 key: to-sir-with-love-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/tosirwithlove.html
 name: To Sir With Love
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 161560
 ---
-
 Those school girl days
 Of telling tales
 And biting nails
@@ -46,6 +50,3 @@ If you wanted the moon
 I would try to make a start
 But I would rather you let me give my heart
 To sir, with love
-
-
-

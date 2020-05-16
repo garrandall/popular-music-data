@@ -1,8 +1,11 @@
 ---
+album: Supernatural
 artists:
 - Stereo MC's
+external_ids:
+  spotify: spotify:track:7uABD1Cd6M8SGA75OxeUqB
 features: []
-genres: []
+first_released_as_single: false
 key: elevate-my-mind-stereo-mc-s
 lyrics_url: https://genius.com/Stereo-mcs-elevate-my-mind-lyrics
 name: Elevate My Mind
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1990
+runtime: 196826
 ---
 I wanna go higher
 I wanna go higher

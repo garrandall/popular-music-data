@@ -1,8 +1,11 @@
 ---
+album: In the Dark
 artists:
 - Grateful Dead
+external_ids:
+  spotify: spotify:track:0mJQlCl9YgxW7kyeltNiVk
 features: []
-genres: []
+first_released_as_single: false
 key: touch-of-grey-grateful-dead
 lyrics_url: https://www.azlyrics.com/lyrics/gratefuldead/touchofgrey.html
 name: Touch Of Grey
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1987
+runtime: 350862
 ---
-
 It must be getting early
 Clocks are running late
 Paint by numbers morning sky
@@ -150,6 +154,3 @@ We will get by
 We will get by
 We will get by
 We will survive
-
-
-

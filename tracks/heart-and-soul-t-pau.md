@@ -1,8 +1,11 @@
 ---
+album: Bridge Of Spies
 artists:
 - T'Pau
+external_ids:
+  spotify: spotify:track:2OPoenLIGoMzn0xiUgh0cP
 features: []
-genres: []
+first_released_as_single: false
 key: heart-and-soul-t-pau
 lyrics_url: https://genius.com/Tpau-heart-and-soul-lyrics
 name: Heart And Soul
@@ -115,6 +118,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1987
+runtime: 257133
 ---
 Something in the moonlight catches my eye
 The shadow of a lover goes dancing by

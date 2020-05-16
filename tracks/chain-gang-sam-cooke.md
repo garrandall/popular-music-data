@@ -1,8 +1,11 @@
 ---
+album: Swing Low
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:7v7NjssrHUYWQcAtT29qu9
 features: []
-genres: []
+first_released_as_single: false
 key: chain-gang-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-chain-gang-lyrics
 name: Chain Gang
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
+release_year: 1960
+runtime: 156386
 ---
 Hoh ah, hoh, I hear something saying
 Hoh ah, hoh ah

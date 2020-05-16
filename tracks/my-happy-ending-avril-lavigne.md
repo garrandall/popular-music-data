@@ -1,8 +1,11 @@
 ---
+album: Under My Skin
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:6sqNctd7MlJoKDOxPVCAvU
 features: []
-genres: []
+first_released_as_single: false
 key: my-happy-ending-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/myhappyending.html
 name: My Happy Ending
@@ -107,8 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
+release_year: 2004
+runtime: 242413
 ---
-
 So much for my happy ending
 So much for my happy ending
 
@@ -173,6 +177,3 @@ So much for my happy ending
 
 So much for my happy ending
 So much for my happy ending
-
-
-

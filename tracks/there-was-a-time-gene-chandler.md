@@ -1,8 +1,11 @@
 ---
+album: Brunswick Top 40 Singles 1966-1975
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:0O56SgMsaKZnfofiEhlZ8Q
 features: []
-genres: []
+first_released_as_single: false
 key: there-was-a-time-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-there-was-a-time-lyrics
 name: There Was A Time
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 208986
 ---
 One, two, three, four
 There was a time

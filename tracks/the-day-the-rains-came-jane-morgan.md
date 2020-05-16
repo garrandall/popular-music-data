@@ -1,8 +1,11 @@
 ---
+album: Essential Masters
 artists:
 - Jane Morgan
+external_ids:
+  spotify: spotify:track:7GjEpYRYLjULR7jiiBPdhn
 features: []
-genres: []
+first_released_as_single: false
 key: the-day-the-rains-came-jane-morgan
 lyrics_url: https://www.musixmatch.com/lyrics/Jane-Morgan/The-Day-The-Rains-Came
 name: The Day The Rains Came
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 180013
 ---
 The day that the rains came down
 Mother Earth smiled again

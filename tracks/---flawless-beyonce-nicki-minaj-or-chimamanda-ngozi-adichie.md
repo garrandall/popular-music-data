@@ -6,7 +6,7 @@ features:
 - Chimamanda Ngozi Adichie
 genres: []
 key: '---flawless-beyonce-nicki-minaj-chimamanda-ngozi-adichie'
-name: '***Flawless'
+name: 'Flawless'
 rankings:
 - end_date: '2014-09-19'
   rank: 82

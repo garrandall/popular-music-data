@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tommy Edwards
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:2nfVn8LaltmfuHRyXWdt12
 features: []
-genres: []
+first_released_as_single: false
 key: i-looked-at-heaven-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/I-Looked-at-Heaven
 name: I Looked At Heaven
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
+release_year: 1959
+runtime: 142400
 ---
 I looked at Heaven
 And you looked back at me

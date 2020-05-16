@@ -1,10 +1,13 @@
 ---
+album: Baccend Beezy
 artists:
 - Yella Beezy
 - Gucci Mane
 - Quavo
+external_ids:
+  spotify: spotify:track:2biNa12dMbHJrHVFRt8JyO
 features: []
-genres: []
+first_released_as_single: true
 key: bacc-at-it-again-yella-beezy-gucci-mane-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/yellabeezy/baccatitagain.html
 name: Bacc At It Again
@@ -33,8 +36,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2019
+runtime: 228185
 ---
-
 Cook that shit up Quay!
 
 
@@ -125,6 +129,3 @@ Oh my gosh back at it again (Back at it)
 All my grizzy niggas sta-stackin' again
 Big ole forty on me, back packin' again
 Keep a quarter on me, backpack in the Benz (Cash, cash)
-
-
-

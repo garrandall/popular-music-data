@@ -1,8 +1,11 @@
 ---
+album: Life Goes On
 artists:
 - Donell Jones
+external_ids:
+  spotify: spotify:track:3UnjHOCGgfHDAjzMEOyBqQ
 features: []
-genres: []
+first_released_as_single: false
 key: put-me-down-donell-jones
 lyrics_url: https://www.azlyrics.com/lyrics/donelljones/putmedown.html
 name: Put Me Down
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-09-28'
+release_year: 2002
+runtime: 260266
 ---
-
 If I lace you, would you lace me back
 If I blaze you, would you blaze me back
 Spending big faces on the things you like
@@ -115,6 +119,3 @@ I gotta know
 If you're spending my dough
 I gotta know
 Spending my dough
-
-
-

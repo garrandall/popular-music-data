@@ -1,9 +1,12 @@
 ---
+album: Lita
 artists:
 - Lita Ford
 - Ozzy Osbourne
+external_ids:
+  spotify: spotify:track:43thLwzSasUUZEYjYPeJh3
 features: []
-genres: []
+first_released_as_single: false
 key: close-my-eyes-forever-lita-ford-ozzy-osbourne
 lyrics_url: https://genius.com/Lita-ford-close-my-eyes-forever-lyrics
 name: Close My Eyes Forever
@@ -108,6 +111,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1988
+runtime: 283133
 ---
 Baby, I get so scared inside and I don't really understand
 Is it love that's on my mind or is it fantasy?

@@ -1,9 +1,12 @@
 ---
+album: Hero
 artists:
 - Chad Kroeger
+external_ids:
+  spotify: spotify:track:779ooI3rBd0CLqCiiJmtVo
 features:
 - Josey Scott
-genres: []
+first_released_as_single: true
 key: hero-chad-kroeger-josey-scott
 lyrics_url: https://www.azlyrics.com/lyrics/chadkroeger/hero.html
 name: Hero
@@ -96,8 +99,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 200480
 ---
-
 I am so high, I can hear heaven.
 I am so high, I can hear heaven.
 Oh but heaven, no heaven don't hear me.
@@ -132,6 +136,3 @@ And they're watching us (Watching us)
 They're watching us (watching us) as we all fly away.
 And they're watching us (Watching us) 
 They're watching us (watching us) as we all fly away.
-
-
-

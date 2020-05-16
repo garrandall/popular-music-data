@@ -1,8 +1,11 @@
 ---
+album: 'Summer Girls: Lost Sunshine Pop Gems of the 1960s, Vol. 1'
 artists:
 - The Sunshine Company
+external_ids:
+  spotify: spotify:track:2Q4RjDSbiWutacquLvOvTu
 features: []
-genres: []
+first_released_as_single: false
 key: look-here-comes-the-sun-the-sunshine-company
 lyrics_url: https://genius.com/The-sunshine-company-look-here-comes-the-sun-lyrics
 name: Look Here Comes The Sun
@@ -27,6 +30,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 174773
 ---
 Turn to the east
 Watch for the dawn

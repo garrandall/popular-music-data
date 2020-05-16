@@ -1,8 +1,11 @@
 ---
+album: Dreamer
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:4v2mcqeFJTIIL4HO6wridQ
 features: []
-genres: []
+first_released_as_single: true
 key: dreamer-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/dreamer.html
 name: Dreamer
@@ -15,8 +18,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2008
+runtime: 213080
 ---
-
 What Do I Do.. Stop, Go, Fail, Succed? Live or Die? I Just Got To Believe
 
 Believe its worth saving
@@ -63,6 +67,3 @@ Calling a Dreamer (A Dreamer A A A Dreamer )
 (Dream no more) You don't even dream no more
 Dreamer (Dreamer)
 Why don't you just dream again
-
-
-

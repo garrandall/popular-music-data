@@ -1,9 +1,12 @@
 ---
+album: The Wonderful World of the 50's - 100 Hit Songs
 artists:
 - Carl Dobkins
 - Jr.
+external_ids:
+  spotify: spotify:track:4oPoduVWqtgmHj7L2aIM9Y
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-is-an-open-book-carl-dobkins-jr-
 lyrics_url: https://genius.com/Carl-dobkins-jr-my-heart-is-an-open-book-lyrics
 name: My Heart Is An Open Book
@@ -104,6 +107,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 120320
 ---
 Don't believe all those lies
 Darlin', just believe your eyes and

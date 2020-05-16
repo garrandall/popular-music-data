@@ -1,8 +1,11 @@
 ---
+album: Legend
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:6fNID7koTl1dZBCs6FmK4E
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-the-night-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/heartofthenight.html
 name: Heart Of The Night
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1978
+runtime: 294533
 ---
-
 In the heart of the night
 In the cool southern rain
 There's a full moon in sight
@@ -118,6 +122,3 @@ If it's only, if it's only just a dream
 It's the only place I can face that feels so right
 Below that Dixie moon and loving you
 In the heart of the night
-
-
-

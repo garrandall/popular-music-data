@@ -1,8 +1,11 @@
 ---
+album: Affairs Of The Heart
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:107SXFI9bljwFSAMUSJpQK
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-jody-watley
 lyrics_url: https://genius.com/Jody-watley-i-want-you-lyrics
 name: I Want You
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 244600
 ---
 When the night falls, surrounds us gently
 With a sexy atmosphere

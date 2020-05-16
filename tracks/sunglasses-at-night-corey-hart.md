@@ -1,8 +1,11 @@
 ---
+album: First Offense
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:5uRsBdLhn91AYcsTCOGNOC
 features: []
-genres: []
+first_released_as_single: false
 key: sunglasses-at-night-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/sunglassesatnight.html
 name: Sunglasses At Night
@@ -99,8 +102,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
+release_year: 1984
+runtime: 320000
 ---
-
 I wear my sunglasses at night
 So I can, So I can
 Watch you weave then breathe your story lines
@@ -160,6 +164,3 @@ I wear my sunglasses at night
 I cry to you
 I wear my sunglasses at night
 I wear my sunglasses at night
-
-
-

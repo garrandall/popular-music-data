@@ -1,9 +1,12 @@
 ---
+album: I Can't Stop Dancing
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:2SFWXjLJU0TmicoBKfgntx
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-choo-choo-archie-bell-the-drells
 lyrics_url: https://genius.com/Archie-bell-and-the-drells-do-the-choo-choo-lyrics
 name: Do The Choo Choo
@@ -36,6 +39,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 177222
 ---
 Here we go again, y'all
 Hi, everybody, this is

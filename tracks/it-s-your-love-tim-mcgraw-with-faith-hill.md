@@ -1,8 +1,12 @@
 ---
+album: Everywhere
 artists:
-- Tim McGraw With Faith Hill
-features: []
-genres: []
+- Tim McGraw
+external_ids:
+  spotify: spotify:track:503sFkc8Y2eyGnM6cu8kHm
+features:
+- Faith Hill
+first_released_as_single: false
 key: it-s-your-love-tim-mcgraw-with-faith-hill
 name: It's Your Love
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
+release_year: 1997
+runtime: 227333
 ---
 

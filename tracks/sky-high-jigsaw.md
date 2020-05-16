@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Jigsaw
+external_ids:
+  spotify: spotify:track:0PawNY8n4GvLqlbDIs6OPT
 features: []
-genres: []
+first_released_as_single: false
 key: sky-high-jigsaw
 lyrics_url: https://www.azlyrics.com/lyrics/jigsaw/skyhigh.html
 name: Sky High
@@ -91,8 +94,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 171586
 ---
-
 Blown 'round by the wind
 Thrown down in a spin
 
@@ -133,6 +137,3 @@ You, you've blown it all sky high
 By telling me a lie
 Without a reason why
 You've blown it all sky high
-
-
-

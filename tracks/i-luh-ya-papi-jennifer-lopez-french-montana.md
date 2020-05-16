@@ -1,9 +1,12 @@
 ---
+album: A.K.A.
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:0fjqx2nfpWXdbrbnxDDgPT
 features:
 - French Montana
-genres: []
+first_released_as_single: false
 key: i-luh-ya-papi-jennifer-lopez-french-montana
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/iluhyapapi.html
 name: I Luh Ya Papi
@@ -16,8 +19,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2014
+runtime: 207133
 ---
-
 I put it down for a brother like you
 Give it to you right in the car, that's you
 We can first give you some of this, that's you
@@ -107,6 +111,3 @@ I luh ya papi
 I luh ya, luh ya, luh ya, luh ya papi
 Yeah, that my papi
 I luh ya, luh ya, luh ya, luh ya papi
-
-
-

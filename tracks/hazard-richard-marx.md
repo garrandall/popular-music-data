@@ -1,8 +1,11 @@
 ---
+album: Rush Street
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:1ntKYuqLlmV3sTZoNyeHhM
 features: []
-genres: []
+first_released_as_single: false
 key: hazard-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/hazard.html
 name: Hazard
@@ -87,8 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 317306
 ---
-
 My mother came to Hazard when I was just seven
 Even then the folks in town said with predjudiced eyes
 That boy's not right
@@ -122,6 +126,3 @@ I swear I left her by the river
 I swear I left her safe and sound
 I need to make it to the river
 And leave this old Nebraska town
-
-
-

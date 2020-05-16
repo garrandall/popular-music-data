@@ -1,9 +1,12 @@
 ---
+album: Herb Alpert's Ninth
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:791ABnlyBu2gCYCeOMqHzn
 features: []
-genres: []
+first_released_as_single: false
 key: a-banda--ah-bahn-da--herb-alpert-the-tijuana-brass
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/A-Banda
 name: A Banda (Ah Bahn-da)
@@ -32,6 +35,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 131813
 ---
 Is it still me that makes you sweat?
 Am I who you think about in bed?

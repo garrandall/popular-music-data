@@ -1,8 +1,11 @@
 ---
+album: Lovin' Every Minute Of It
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:7wxRteSKMVVYD570x3D7bx
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--every-minute-of-it-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/lovineveryminuteofit.html
 name: Lovin' Every Minute Of It
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 213293
 ---
-
 I'm not man or machine 
 I'm just something in between
 Whoa, oh, whoa, whoa 
@@ -172,6 +176,3 @@ Shoot me like a rocket into space
 Lovin' every minute of it 
 Lovin' every minute of it 
 Whoa, oh, whoa, whoa
-
-
-

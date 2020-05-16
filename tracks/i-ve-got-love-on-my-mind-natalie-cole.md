@@ -1,8 +1,11 @@
 ---
+album: Unpredictable
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:5Zclj5e4Jv0Zo9FU9pDmPY
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-love-on-my-mind-natalie-cole
 lyrics_url: https://genius.com/Natalie-cole-ive-got-love-on-my-mind-lyrics
 name: I've Got Love On My Mind
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 260000
 ---
 I've got love on my mind
 

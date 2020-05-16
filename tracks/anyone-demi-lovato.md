@@ -1,8 +1,11 @@
 ---
+album: Anyone
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:18ssFhD04lWo1RzpcohnrG
 features: []
-genres: []
+first_released_as_single: true
 key: anyone-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/anyone.html
 name: Anyone
@@ -15,8 +18,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 227813
 ---
-
 Uh, uh
 
 I tried to talk to my piano
@@ -76,6 +80,3 @@ And a hundred million songs
 I feel stupid when I sing
 Nobody's listening to me
 Nobody's listening
-
-
-

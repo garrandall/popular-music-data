@@ -1,9 +1,12 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1lIVUZkvFCQy4wxSvNF2LE
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: what-s-wrong-with-them-lil-wayne-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/whatswrongwiththem.html
 name: What's Wrong With Them
@@ -12,9 +15,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 211400
 ---
-
-
 Life on the rocks
 Too hard to swallow
 So we get high till it feel like the sky low
@@ -69,4 +72,3 @@ Yeah, now time's getting shorter
 Red Light on your head like a fucking recorder now
 Don't you cross me, you do better crossing the border
 So much money piled up, I'm a motherfucking hoarder
-

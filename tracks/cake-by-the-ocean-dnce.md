@@ -1,8 +1,11 @@
 ---
+album: DNCE
 artists:
 - DNCE
+external_ids:
+  spotify: spotify:track:5hoHai2Ysk4GdC2WvqI29C
 features: []
-genres: []
+first_released_as_single: false
 key: cake-by-the-ocean-dnce
 lyrics_url: https://www.azlyrics.com/lyrics/dnce/cakebytheocean.html
 name: Cake By The Ocean
@@ -191,8 +194,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2015
+runtime: 163733
 ---
-
 Oh no
 See you walking 'round like it's a funeral
 Not so serious, girl; why those feet cold?
@@ -261,6 +265,3 @@ Red velvet, vanilla, chocolate in my life
 Funfetti, I'm ready; I need it every night
 Red velvet, vanilla, chocolate in my life
 Ah ya ya ya ya I keep on hoping we'll eat cake by the ocean (huh)
-
-
-

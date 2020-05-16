@@ -1,7 +1,8 @@
 ---
 artists:
-- Deon Estus With George Michael
-features: []
+- Deon Estus
+features:
+- George Michael
 genres: []
 key: heaven-help-me-deon-estus-with-george-michael
 name: Heaven Help Me

@@ -1,8 +1,11 @@
 ---
+album: The Young Rascals
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:0XnhQGfqfi5CnZXcONJuI5
 features: []
-genres: []
+first_released_as_single: false
 key: good-lovin--the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-good-lovin-lyrics
 name: Good Lovin'
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 150906
 ---
 One, two, three!
 Good lovin', good lovin'

@@ -1,8 +1,11 @@
 ---
+album: Surface
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:4IWFNlVUGTPIWEdPiMTGhI
 features: []
-genres: []
+first_released_as_single: false
 key: happy-surface
 lyrics_url: https://genius.com/Surface-happy-lyrics
 name: Happy
@@ -63,6 +66,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1986
+runtime: 236440
 ---
 Only you can make me happy
 Happy

@@ -1,9 +1,12 @@
 ---
+album: Ladies' Night
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:0jNTJSaktLVy8iAi7KY2zB
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-too-hot-lyrics
 name: Too Hot
@@ -80,6 +83,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1979
+runtime: 295160
 ---
 At seventeen we fell in love
 High school sweethearts, love was so brand new

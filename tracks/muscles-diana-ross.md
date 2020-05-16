@@ -1,8 +1,11 @@
 ---
+album: Silk Electric
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:45a2uakbDbXOizyjyLv7dN
 features: []
-genres: []
+first_released_as_single: false
 key: muscles-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/muscles.html
 name: Muscles
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 277960
 ---
-
 She said she wants a man
 To always understand
 But that's alright for her
@@ -157,6 +161,3 @@ I want all I can get
 All over him, all over him
 All over him
 (I want) muscles, muscles, muscles...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Soldiers
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:374dcJsGN680hrugv3iTg3
 features: []
-genres: []
+first_released_as_single: false
 key: mother-s-pride-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/motherspride.html
 name: Mother's Pride
@@ -43,8 +46,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1991
+runtime: 232573
 ---
-
 Oh she knows
 She takes his hand
 And prays the child will understand
@@ -82,6 +86,3 @@ Crazy boy
 His lifeless eyes
 He's a soldier now forevermore
 He'll hold a gun till kingdom come
-
-
-

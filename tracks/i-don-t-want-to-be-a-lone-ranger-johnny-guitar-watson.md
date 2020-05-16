@@ -1,8 +1,11 @@
 ---
+album: Bad, Bad Whiskey
 artists:
 - Johnny Guitar Watson
+external_ids:
+  spotify: spotify:track:7ILnNaMHB2H0p2oEH6sWYF
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-be-a-lone-ranger-johnny-guitar-watson
 lyrics_url: https://genius.com/Johnny-guitar-watson-i-dont-want-to-be-a-lone-ranger-lyrics
 name: I Don't Want To Be A Lone Ranger
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 208440
 ---
 Right on with the right on
 You know mama

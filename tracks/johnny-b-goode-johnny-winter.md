@@ -1,8 +1,11 @@
 ---
+album: 'Johnny Winter: The Woodstock Experience'
 artists:
 - Johnny Winter
+external_ids:
+  spotify: spotify:track:4E1aPqbaOZB1GkbIQeuk68
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-b-goode-johnny-winter
 lyrics_url: https://www.azlyrics.com/lyrics/johnnywinter/johnnybgoode.html
 name: Johnny B Goode
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 336400
 ---
-
 Deep down in Louisiana close to New Orleans,
 Way back up in the woods among the evergreens...
 There stood a log cabin made of earth and wood,
@@ -74,6 +78,3 @@ Oh Go Go
 Johnny Go
 Go
 Johnny B. Goode
-
-
-

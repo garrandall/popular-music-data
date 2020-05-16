@@ -1,9 +1,12 @@
 ---
+album: Steers & Stripes
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:7rn5Qtm1ryb3goodLznztf
 features: []
-genres: []
+first_released_as_single: false
 key: the-long-goodbye-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/thelonggoodbye.html
 name: The Long Goodbye
@@ -88,8 +91,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2001
+runtime: 231826
 ---
-
 I know they say if you love somebody
 You should set them free
 But it sure is hard to do
@@ -129,6 +133,3 @@ On a wing and prayer
 
 Long goodbye
 Long goodbye
-
-
-

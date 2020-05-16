@@ -1,8 +1,11 @@
 ---
+album: From The Archives
 artists:
 - Slave
+external_ids:
+  spotify: spotify:track:6awoho9P2G2Xa14LKYn1Iv
 features: []
-genres: []
+first_released_as_single: false
 key: watching-you-slave
 lyrics_url: https://genius.com/Slave-watching-you-lyrics
 name: Watching You
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1979
+runtime: 283653
 ---
 Walking down the street
 Watching ladies go by

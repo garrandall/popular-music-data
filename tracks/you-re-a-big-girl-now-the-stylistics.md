@@ -1,8 +1,11 @@
 ---
+album: The Stylistics - The Original Debut Album
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:7sncwJQ89HXpkzOVkWTMJH
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-big-girl-now-the-stylistics
 lyrics_url: https://genius.com/The-stylistics-youre-a-big-girl-now-lyrics
 name: You're A Big Girl Now
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1971
+runtime: 278426
 ---
 You’re a big girl now
 No more daddy’s little girl (Oh, ho, ho, ho)

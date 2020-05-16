@@ -1,8 +1,11 @@
 ---
+album: The Works (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:5PTvZMe9mIL0GrRvPBRu6S
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-hard-life-queen
 lyrics_url: https://genius.com/Queen-its-a-hard-life-lyrics
 name: It's A Hard Life
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1984
+runtime: 246973
 ---
 I don't want my freedom
 There's no reason for living with a broken heart

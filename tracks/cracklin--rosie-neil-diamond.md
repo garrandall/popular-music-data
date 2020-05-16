@@ -1,8 +1,11 @@
 ---
+album: Tap Root Manuscript
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:5pkd9ib1RgbkAd1R9bIOCa
 features: []
-genres: []
+first_released_as_single: false
 key: cracklin--rosie-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/cracklinrosie.html
 name: Cracklin' Rosie
@@ -67,8 +70,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 179933
 ---
-
 Aw, Cracklin' Rosie, get on board
 We're gonna ride
 Till there ain't no more to go
@@ -117,6 +121,3 @@ We got all night
 To set the world right
 Find us a dream that don't ask no questions
 Ba ba ba ba ba
-
-
-

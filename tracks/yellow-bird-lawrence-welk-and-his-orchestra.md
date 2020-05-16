@@ -1,8 +1,11 @@
 ---
+album: 'The Lawrence Welk Collection: Lawrence Welk & His Champagne Music 1938-62'
 artists:
 - Lawrence Welk
+external_ids:
+  spotify: spotify:track:3i4G7yqRcMjEdsGfMOdalx
 features: []
-genres: []
+first_released_as_single: false
 key: yellow-bird-lawrence-welk-and-his-orchestra
 name: Yellow Bird
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1961
+runtime: 131493
 ---
 

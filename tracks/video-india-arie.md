@@ -1,8 +1,11 @@
 ---
+album: Acoustic Soul
 artists:
 - India.Arie
+external_ids:
+  spotify: spotify:track:4oiAlcisfimXQc1wyAtX9a
 features: []
-genres: []
+first_released_as_single: false
 key: video-india-arie
 lyrics_url: https://genius.com/Indiaarie-video-lyrics
 name: Video
@@ -131,6 +134,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-06-08'
+release_year: 2001
+runtime: 249960
 ---
 Mmm, mmm, oh
 Yeah, yeah, yeah, oh

@@ -1,9 +1,12 @@
 ---
+album: Two Eleven (Deluxe Version)
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:1TjNQSl1Pc5Cqrn14B4gfL
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: put-it-down-brandy-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/brandy/putitdown.html
 name: Put It Down
@@ -64,8 +67,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 248600
 ---
-
 I'm a put it down, you can' fall in love
 I'm a put it down, you can' fall in love
 I'm a put it down, you can' fall in love
@@ -210,6 +214,3 @@ If you put it down right like the way I want it
 
 If you put it, put it, put it, if you put it, put it down
 If you put it, put it, maybe we can fall in love
-
-
-

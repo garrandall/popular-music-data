@@ -1,8 +1,11 @@
 ---
+album: A Question Of Balance
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:4Q27I5G3W14hnYVi45oi2h
 features: []
-genres: []
+first_released_as_single: false
 key: question-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/question.html
 name: Question
@@ -55,8 +58,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 344226
 ---
-
 Why do we never get an answer
 When we're knocking at the door
 With a thousand million questions
@@ -119,6 +123,3 @@ About hate and death and war?
 When we stop and look around us
 There is nothing that we need.
 In a world of persecution that is burning in its greed.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: THR33 RINGZ
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:6m1sJMWeAkCG5eECKaGFew
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: can-t-believe-it-t-pain-lil-wayne
 lyrics_url: https://genius.com/T-pain-cant-believe-it-lyrics
 name: Can't Believe It
@@ -104,6 +107,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2008
+runtime: 275933
 ---
 She make me feel so good
 Better than I would by myself

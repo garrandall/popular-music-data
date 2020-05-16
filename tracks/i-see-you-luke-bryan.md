@@ -1,8 +1,11 @@
 ---
+album: Doin' My Thing
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:6Y8ZCZEM44c7VRIHInw2UC
 features: []
-genres: []
+first_released_as_single: false
 key: i-see-you-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-i-see-you-lyrics
 name: I See You
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2009
+runtime: 245533
 ---
 Roll in the bar, me and my crew
 Their little plan to get me over you

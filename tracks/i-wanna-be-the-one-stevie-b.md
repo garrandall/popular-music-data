@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:6AOsz26oASRoCK1Cm1ioJP
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-the-one-stevie-b
 lyrics_url: https://genius.com/Stevie-b-i-wanna-be-the-one-lyrics
 name: I Wanna Be The One
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1989
+runtime: 298173
 ---
 Late at night
 When I'm all alone

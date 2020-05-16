@@ -1,8 +1,11 @@
 ---
+album: Strictly Instrumental
 artists:
 - Bill Haley And His Comets
+external_ids:
+  spotify: spotify:track:2LEgF8sPiwfaxVyAFWHtzK
 features: []
-genres: []
+first_released_as_single: false
 key: skokiaan--south-african-song--bill-haley-and-his-comets
 name: Skokiaan (South African Song)
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 153360
 ---
 

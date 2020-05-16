@@ -1,8 +1,11 @@
 ---
+album: Twistin' the Night Away
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:5DDmne2Ia9bfDdXklCOVjl
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-dumpling-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/sugardumpling.html
 name: Sugar Dumpling
@@ -43,8 +46,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1960
+runtime: 165173
 ---
-
 Sugar dumpling, you're my baby
 I love you in every way
 sugar dumpling, you're my baby
@@ -90,6 +94,3 @@ my love grows stronger every day
 
 Sugar dumpling, I love you in every way
 Sugar dumpling, my love grows stronger every day
-
-
-

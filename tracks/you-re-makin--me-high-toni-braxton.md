@@ -1,8 +1,11 @@
 ---
+album: Secrets
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:5bJ796cOnGBzSN5bm4mwMj
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-makin--me-high-toni-braxton
 lyrics_url: https://genius.com/Toni-braxton-youre-makin-me-high-lyrics
 name: You're Makin' Me High
@@ -171,6 +174,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
+release_year: 1996
+runtime: 267440
 ---
 I'll always think of you
 Inside of my private thoughts

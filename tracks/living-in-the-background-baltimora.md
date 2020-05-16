@@ -1,8 +1,11 @@
 ---
+album: Living In The Background
 artists:
 - Baltimora
+external_ids:
+  spotify: spotify:track:4MFUR4ugPakVrAv0ewZOAz
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-the-background-baltimora
 lyrics_url: https://www.azlyrics.com/lyrics/baltimora/livinginthebackground.html
 name: Living In The Background
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 369146
 ---
-
 I've come out of hiding by and by
 (Been all alone)
 Cause I've been immobilized for so long
@@ -121,6 +125,3 @@ So true
 
 Woah-woah-oh-oh-oh-oh
 So true
-
-
-

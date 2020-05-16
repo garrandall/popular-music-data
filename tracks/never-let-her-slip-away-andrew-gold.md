@@ -1,8 +1,11 @@
 ---
+album: All This and Heaven Too
 artists:
 - Andrew Gold
+external_ids:
+  spotify: spotify:track:4jV4ld7z4BrswF3uKqz8Ny
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-her-slip-away-andrew-gold
 lyrics_url: https://genius.com/Andrew-gold-never-let-her-slip-away-lyrics
 name: Never Let Her Slip Away
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 208240
 ---
 I talked to my baby on the telephone long distance
 I never would've guessed I could miss someone so bad, yeah

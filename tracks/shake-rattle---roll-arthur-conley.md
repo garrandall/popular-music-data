@@ -1,8 +1,11 @@
 ---
+album: Shake, Rattle & Roll
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:1DpvgmahJSLQL33KGaXvOi
 features: []
-genres: []
+first_released_as_single: false
 key: shake-rattle---roll-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-shake-rattle-and-roll-lyrics
 name: Shake Rattle & Roll
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 142346
 ---
 Get out of that bed
 And wash those face and hands

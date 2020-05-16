@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:6t8msY3YEQAnoG4yG2836B
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: say-has-anybody-seen-my-sweet-gypsy-rose-dawn-tony-orlando
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/sayhasanybodyseenmysweetgypsyrose.html
 name: Say Has Anybody Seen My Sweet Gypsy Rose
@@ -72,8 +75,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 175426
 ---
-
 We were very happy
 Well at least I thought we were
 Can't somebody tell me
@@ -120,6 +124,3 @@ And bells off your toes
 Say has anybody seen my
 Now you know just what I mean by
 Has anybody seen my Sweet Gypsy Rose
-
-
-

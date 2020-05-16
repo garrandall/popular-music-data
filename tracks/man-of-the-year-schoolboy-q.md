@@ -1,8 +1,11 @@
 ---
+album: Oxymoron
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:5SsR3wtCOafDmZgvIdRhSm
 features: []
-genres: []
+first_released_as_single: false
 key: man-of-the-year-schoolboy-q
 lyrics_url: https://genius.com/Schoolboy-q-man-of-the-year-lyrics
 name: Man Of The Year
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2014
+runtime: 216013
 ---
 Ye-ye-ye-yeah
 Bruh, I see, girls everywhere

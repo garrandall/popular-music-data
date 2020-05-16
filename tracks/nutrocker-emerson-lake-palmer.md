@@ -1,10 +1,13 @@
 ---
+album: Pictures At An Exhibition (Live Deluxe Version)
 artists:
 - Emerson
 - Lake
 - Palmer
+external_ids:
+  spotify: spotify:track:7mNgrg18sLcUiUYgqfQDgH
 features: []
-genres: []
+first_released_as_single: false
 key: nutrocker-emerson-lake-palmer
 name: Nutrocker
 rankings:
@@ -32,5 +35,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1971
+runtime: 267373
 ---
 

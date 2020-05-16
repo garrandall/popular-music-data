@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4n1bdaKwynQndm47x5HqWX
 features: []
-genres: []
+first_released_as_single: false
 key: blue-tint-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/bluetint.html
 name: Blue Tint
@@ -19,9 +22,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 162800
 ---
-
-
 Mario!
 Hold up
 Gang gang, gang gang, gang
@@ -96,6 +99,3 @@ Now, does she sink or does she swim, now
 
 Blue faces, I got blue diamonds, blue tint, yeah
 Blue faces, I got blue diamonds, blue tint, yeah
-
-
-

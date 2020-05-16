@@ -1,8 +1,11 @@
 ---
+album: Retro Rock
 artists:
 - Procol Harum
+external_ids:
+  spotify: spotify:track:1cmjxqobVTrgAiJ0btAleN
 features: []
-genres: []
+first_released_as_single: true
 key: a-whiter-shade-of-pale-procol-harum
 lyrics_url: https://genius.com/Procol-harum-a-whiter-shade-of-pale-lyrics
 name: A Whiter Shade Of Pale
@@ -55,6 +58,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 248946
 ---
 We skipped the light fandango
 Turned cartwheels 'cross the floor

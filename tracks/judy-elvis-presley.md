@@ -1,8 +1,11 @@
 ---
+album: Something for Everybody
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4udD4pBxCAjQa1WlETzMMz
 features: []
-genres: []
+first_released_as_single: false
 key: judy-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/judy.html
 name: Judy
@@ -27,8 +30,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1961
+runtime: 132400
 ---
-
 They say you found somebody new
 Whose love will always be true
 I don't know what it is to be alone
@@ -53,6 +57,3 @@ Oh, Judy, there'll never be
 Anyone else, dear, but you
 Oh, Judy, there'll never be
 Anyone else, dear, but you
-
-
-

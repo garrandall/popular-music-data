@@ -1,8 +1,11 @@
 ---
+album: Make It Big
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:0PhU6i6Kei6x0CH3jocvA3
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/freedom.html
 name: Freedom
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1984
+runtime: 302200
 ---
-
 Everyday I hear a different story
 People saying that you're no good for me
 "Saw your lover with another, and she's making a fool of you."
@@ -164,6 +168,3 @@ I don't want your
 I don't want your
 I don't want your
 I don't want your
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Doe Or Die
 artists:
 - AZ
+external_ids:
+  spotify: spotify:track:0lZWjBImx6kNe3WtOA09Xu
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-hill-az
 lyrics_url: https://www.azlyrics.com/lyrics/az/sugarhill.html
 name: Sugar Hill
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
+release_year: 1995
+runtime: 249760
 ---
-
 I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
 AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
 
@@ -148,6 +152,3 @@ I wanna chill on sugar hill baby
 I wanna chill on sugar hill baby
 I wanna chill, I wanna chill, I wanna chill on sugar hill baby
 Sugar Hill
-
-
-

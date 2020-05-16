@@ -1,8 +1,11 @@
 ---
+album: Sings Country Hits
 artists:
 - George Jones
+external_ids:
+  spotify: spotify:track:47IwcVnCY0UVww9TBLMvla
 features: []
-genres: []
+first_released_as_single: false
 key: white-lightning-george-jones
 lyrics_url: https://www.azlyrics.com/lyrics/georgejones/whitelightning.html
 name: White Lightning
@@ -27,8 +30,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 152320
 ---
-
 Well in North Carolina way back in the hills me and my old pappy and he had him a still
 He brewed white lightnin till the sun went down
 Then he'd fill up a jug and he'd pass it around
@@ -49,6 +53,3 @@ I think I want to taste that powerful stuff
 He took one slug and he drank it right down I heard him moanin' as he hit the ground
 Mighty mighty pleasin you'r pappy's corn squeezin (whew white lightnin)
 Well the G men T men.
-
-
-

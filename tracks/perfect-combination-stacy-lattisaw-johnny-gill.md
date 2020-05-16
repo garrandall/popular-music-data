@@ -1,9 +1,12 @@
 ---
+album: Perfect Combination
 artists:
 - Stacy Lattisaw
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:0Ro6ef31feiNEnrTZCBSeA
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-combination-stacy-lattisaw-johnny-gill
 lyrics_url: https://genius.com/Stacy-lattisaw-and-johnny-gill-perfect-combination-lyrics
 name: Perfect Combination
@@ -44,6 +47,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
+release_year: 1984
+runtime: 249933
 ---
 Two hearts together
 We're a harmony so right

@@ -1,8 +1,11 @@
 ---
+album: Loose
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:5AtFypwxB2ShXSxNj12dEd
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-right-nelly-furtado
 lyrics_url: https://genius.com/Nelly-furtado-say-it-right-lyrics
 name: Say It Right
@@ -127,6 +130,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
+release_year: 2006
+runtime: 223080
 ---
 Frk-frk-down
 Hey

@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:429ZSPvrxPnhcF9b1WdNdk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-fence-me-in-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/Don-t-Fence-Me-In
 name: Don't Fence Me In
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 148933
 ---
 Oh, give me land, lots of land
 Under starry skies above

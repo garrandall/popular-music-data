@@ -1,8 +1,11 @@
 ---
+album: Enuff Z'Nuff
 artists:
 - Enuff Z'Nuff
+external_ids:
+  spotify: spotify:track:00iVYbSh1B77akx1ITNWUL
 features: []
-genres: []
+first_released_as_single: false
 key: new-thing-enuff-z-nuff
 lyrics_url: https://genius.com/Enuff-znuff-new-thing-lyrics
 name: New Thing
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1989
+runtime: 257920
 ---
 Information came about her
 Suddenly I live without her

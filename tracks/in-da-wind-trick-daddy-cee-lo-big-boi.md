@@ -1,10 +1,13 @@
 ---
+album: Thug Holiday (Explicit Version)
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:0SKESB21lahkGPtOyJXOnJ
 features:
 - Cee-Lo
 - Big Boi
-genres: []
+first_released_as_single: true
 key: in-da-wind-trick-daddy-cee-lo-big-boi
 lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/indawind.html
 name: In Da Wind
@@ -81,9 +84,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-11-09'
+release_year: 2002
+runtime: 261066
 ---
-
-
 Hah, haha
 That's just the sound of the Hen'..
 True Story.. Buddy Roe..
@@ -173,4 +176,3 @@ not intended for any illegal purposes'
 it's like anthrax and small pox in surplus to murder us
 (Ya gotsta understand Trick love the kids!)
 (Trick love the kids!)
-

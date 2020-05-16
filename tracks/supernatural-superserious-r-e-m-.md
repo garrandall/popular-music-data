@@ -1,8 +1,11 @@
 ---
+album: Accelerate
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:47i0RQi76b6UUCIBDgu2TR
 features: []
-genres: []
+first_released_as_single: false
 key: supernatural-superserious-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/supernaturalsuperserious.html
 name: Supernatural Superserious
@@ -11,8 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2008
+runtime: 203880
 ---
-
 Everybody here
 Comes from somewhere
 That they would just soon forget
@@ -83,6 +87,3 @@ Supernatural, superserious.
 Inexperience, sweet, delirious.
 Supernatural, superserious,
 Wow.
-
-
-

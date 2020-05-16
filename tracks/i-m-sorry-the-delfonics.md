@@ -1,8 +1,11 @@
 ---
+album: La La Means I Love You
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:1ORONFOMyCcwFVvfHMH2Ky
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sorry-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-im-sorry-lyrics
 name: I'm Sorry
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 166160
 ---
 My love I ran around on you
 Yes I broke your heart in two

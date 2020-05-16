@@ -1,8 +1,11 @@
 ---
+album: So Long Bannatyne
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:0ZFqeM9QBQ85dlexfwprrV
 features: []
-genres: []
+first_released_as_single: false
 key: rain-dance-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-rain-dance-lyrics
 name: Rain Dance
@@ -55,6 +58,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 164893
 ---
 Don't you wanna rain dance with me?
 Don't you wanna rain dance with me?

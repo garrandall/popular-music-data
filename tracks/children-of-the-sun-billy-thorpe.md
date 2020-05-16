@@ -1,8 +1,11 @@
 ---
+album: Children Of The Sun...Revisited
 artists:
 - Billy Thorpe
+external_ids:
+  spotify: spotify:track:5iiadi85b2MArbziJVTsEv
 features: []
-genres: []
+first_released_as_single: false
 key: children-of-the-sun-billy-thorpe
 lyrics_url: https://genius.com/Billy-thorpe-children-of-the-sun-lyrics
 name: Children Of The Sun
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 404493
 ---
 People of the Earth can you hear me?
 Came a voice from the sky on that magical night

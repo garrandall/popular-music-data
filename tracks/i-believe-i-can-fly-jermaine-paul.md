@@ -1,8 +1,11 @@
 ---
+album: I Believe I Can Fly (The Voice Performance)
 artists:
 - Jermaine Paul
+external_ids:
+  spotify: spotify:track:6YRrsapstM9gOkObdJQMOG
 features: []
-genres: []
+first_released_as_single: true
 key: i-believe-i-can-fly-jermaine-paul
 lyrics_url: https://www.musixmatch.com/lyrics/Jermaine-Paul/I-Believe-I-Can-Fly-The-Voice-Performance
 name: I Believe I Can Fly
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2012
+runtime: 205226
 ---
 I used to think that I could not go on
 And life was nothing but an awful song

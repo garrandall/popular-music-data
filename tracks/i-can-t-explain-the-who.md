@@ -1,8 +1,11 @@
 ---
+album: My Generation (50th Anniversary / Super Deluxe)
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:4B3gkbr7aGC2sujjgivK0s
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-explain-the-who
 lyrics_url: https://genius.com/The-who-i-cant-explain-lyrics
 name: I Can't Explain
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 125320
 ---
 Got a feeling inside (Can't explain)
 It's a certain kind (Can't explain)

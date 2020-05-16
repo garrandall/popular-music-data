@@ -1,8 +1,11 @@
 ---
+album: Street Survivors
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:0uZs7p6cbEUNwGMdfNj9Kk
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-your-name-lynyrd-skynyrd
 lyrics_url: https://genius.com/Lynyrd-skynyrd-whats-your-name-lyrics
 name: What's Your Name
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-04-01'
+release_year: 1977
+runtime: 213266
 ---
 Well, its eight o'clock in Boise, Idaho
 I'll find my limo driver

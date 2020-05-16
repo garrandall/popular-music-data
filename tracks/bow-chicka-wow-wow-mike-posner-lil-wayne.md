@@ -1,9 +1,12 @@
 ---
+album: Bow Chicka Wow Wow
 artists:
 - Mike Posner
+external_ids:
+  spotify: spotify:track:7neVcKsbivjMDIkdfoao5m
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: bow-chicka-wow-wow-mike-posner-lil-wayne
 lyrics_url: https://genius.com/Mike-posner-bow-chicka-wow-wow-remix-lyrics
 name: Bow Chicka Wow Wow
@@ -72,6 +75,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 223253
 ---
 Once I throw on this, once I throw on this, it's over, girl
 Once I throw on this, once I throw on this, it's over, girl

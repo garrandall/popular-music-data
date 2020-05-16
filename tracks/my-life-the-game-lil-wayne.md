@@ -1,9 +1,12 @@
 ---
+album: LAX
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:4GXH9A6fzuE0MNtqtzjhLg
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: my-life-the-game-lil-wayne
 lyrics_url: https://genius.com/The-game-my-life-lyrics
 name: My Life
@@ -88,6 +91,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2008
+runtime: 320893
 ---
 Punk-ass motherfucker, checkin' shit
 What you was gonna do?

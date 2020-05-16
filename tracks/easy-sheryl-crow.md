@@ -1,8 +1,11 @@
 ---
+album: Tuesday Night Music Club
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:6j1Cx8FqDQ6fSx7cPN62nC
 features: []
-genres: []
+first_released_as_single: false
 key: easy-sheryl-crow
 lyrics_url: https://genius.com/Sheryl-crow-easy-lyrics
 name: Easy
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 1993
+runtime: 328826
 ---
 We said that summer we'd go down to Cancun
 But no money makes that kind of hard to do

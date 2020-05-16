@@ -1,8 +1,11 @@
 ---
+album: The Paramour Sessions
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:7zQ5nqAKKfk0gtBgV70gyq
 features: []
-genres: []
+first_released_as_single: false
 key: forever-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/forever.html
 name: Forever
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
+release_year: 2006
+runtime: 246333
 ---
-
 In the brightest hour of my darkest day
 I realized what is wrong with me
 Can't get over you, can't get through to you
@@ -127,6 +131,3 @@ Before I go
 Dry your tears
 It is time to let you go
 One last kiss
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:0ObT2x1t9Kw2yLWDmHwpbj
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-child-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-lonely-child-lyrics
 name: Lonely Child
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 217659
 ---
 Pipe that shit up, TNT
 I just wanna be loved

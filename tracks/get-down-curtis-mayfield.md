@@ -1,8 +1,11 @@
 ---
+album: Roots
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:7aZGReAQ235D3r9iiao5U5
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-curtis-mayfield
 lyrics_url: https://genius.com/Curtis-mayfield-get-down-lyrics
 name: Get Down
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 348333
 ---
 Get down, baby
 To the funky, funky, funky groove

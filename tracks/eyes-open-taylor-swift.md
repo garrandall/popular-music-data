@@ -1,8 +1,11 @@
 ---
+album: 'The Hunger Games: Songs From District 12 And Beyond'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:7wjbSn8QHsxqKXU5M0jXGM
 features: []
-genres: []
+first_released_as_single: false
 key: eyes-open-taylor-swift
 lyrics_url: https://www.musixmatch.com/lyrics/Taylor-Swift/Eyes-Open
 name: Eyes Open
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-06-30'
+release_year: 2012
+runtime: 244586
 ---
 Everybody's waitin'
 Everybody's watchin'

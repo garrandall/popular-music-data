@@ -1,8 +1,11 @@
 ---
+album: Diva
 artists:
 - Annie Lennox
+external_ids:
+  spotify: spotify:track:4CcSw8wQAHYf4XNckayPoc
 features: []
-genres: []
+first_released_as_single: false
 key: walking-on-broken-glass-annie-lennox
 lyrics_url: https://genius.com/Annie-lennox-walking-on-broken-glass-lyrics
 name: Walking On Broken Glass
@@ -107,6 +110,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
+release_year: 1992
+runtime: 253295
 ---
 Walking on walking on broken glass
 Walking on walking on broken glass

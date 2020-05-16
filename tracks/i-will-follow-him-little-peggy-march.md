@@ -1,8 +1,11 @@
 ---
+album: I Will Follow Him
 artists:
 - Little Peggy March
+external_ids:
+  spotify: spotify:track:3GQETOg4ZXyQ1jEFqfMoac
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-follow-him-little-peggy-march
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Peggy-March/I-Will-Follow-Him
 name: I Will Follow Him
@@ -63,6 +66,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 148160
 ---
 I love him, I love him, I love him
 And where he goes I'll follow

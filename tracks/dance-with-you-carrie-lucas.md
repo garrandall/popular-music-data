@@ -1,8 +1,11 @@
 ---
+album: In Danceland
 artists:
 - Carrie Lucas
+external_ids:
+  spotify: spotify:track:273Yfa9Ie7uxzG7jbkf963
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-you-carrie-lucas
 lyrics_url: https://genius.com/Carrie-lucas-dance-with-you-lyrics
 name: Dance With You
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 396200
 ---
 Dance with you
 Dance with you

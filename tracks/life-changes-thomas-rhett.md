@@ -1,8 +1,11 @@
 ---
+album: Life Changes
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:4Vxu50qVrQcycjRyJQaZLC
 features: []
-genres: []
+first_released_as_single: false
 key: life-changes-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/lifechanges.html
 name: Life Changes
@@ -63,8 +66,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2017
+runtime: 190226
 ---
-
 Waking up in my college dorm
 Yeah, my life, it was pretty normal
 Looking for a date to the spring formal
@@ -114,6 +118,3 @@ You never know what's gonna happen
 You make your plans and you hear God laughing
 Life changes and I wouldn't change it for the world, the world, oh no
 And I wouldn't change it for the world, the world, oh no, the world, the world, the world, the world
-
-
-

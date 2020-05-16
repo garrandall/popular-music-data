@@ -1,8 +1,11 @@
 ---
+album: The Declaration
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:7LFcepuZqkpghbKnslItnx
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-that-i-love-you-ashanti
 lyrics_url: https://genius.com/Ashanti-the-way-that-i-love-you-lyrics
 name: The Way That I Love You
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 267680
 ---
 After all of the times that we tried
 I found out we were living a lie

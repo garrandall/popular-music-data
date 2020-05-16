@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:1K9vQPqYiCdfdKx6jYrfYi
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-heartbreaker-gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-shes-a-heartbreaker-lyrics
 name: She's A Heartbreaker
@@ -59,6 +62,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 197400
 ---
 I've got another heartbreaker on my hands
 Girl, I can't stand up to you and be a normal man

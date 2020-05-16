@@ -1,8 +1,11 @@
 ---
+album: Ain't No 'Bout-A-Doubt It
 artists:
 - Graham Central Station
+external_ids:
+  spotify: spotify:track:54c8a6GAc0Txv7DVMWbIQf
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-graham-central-station
 lyrics_url: https://www.musixmatch.com/lyrics/Graham-Central-Station/Your-Love
 name: Your Love
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 199840
 ---
 Your love Means so much to me girl
 And your kiss, oh baby Means so much to me

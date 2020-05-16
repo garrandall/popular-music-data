@@ -1,8 +1,11 @@
 ---
+album: Electric Youth
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:5zzFuyXkcB6gBqWMD78LJA
 features: []
-genres: []
+first_released_as_single: false
 key: electric-youth-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/electricyouth.html
 name: Electric Youth
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1989
+runtime: 297093
 ---
-
 Ho-woah...
 
 
@@ -129,6 +133,3 @@ relaxation
 elation
 generation of
 an electric youth!
-
-
-

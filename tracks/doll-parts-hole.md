@@ -1,8 +1,11 @@
 ---
+album: Live Through This
 artists:
 - Hole
+external_ids:
+  spotify: spotify:track:49t1GWE6ZiEoBgN92oMDdM
 features: []
-genres: []
+first_released_as_single: false
 key: doll-parts-hole
 lyrics_url: https://genius.com/Hole-doll-parts-lyrics
 name: Doll Parts
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
+release_year: 1994
+runtime: 211960
 ---
 I am doll eyes, doll mouth, doll legs
 I am doll arms, big veins, dog bait

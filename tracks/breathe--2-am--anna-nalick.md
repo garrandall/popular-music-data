@@ -1,8 +1,11 @@
 ---
+album: Wreck of the Day
 artists:
 - Anna Nalick
+external_ids:
+  spotify: spotify:track:7DW72e1eqj5axr4RWNhirc
 features: []
-genres: []
+first_released_as_single: true
 key: breathe--2-am--anna-nalick
 lyrics_url: https://www.azlyrics.com/lyrics/annanalick/breathe2am.html
 name: Breathe (2 AM)
@@ -143,8 +146,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2004
+runtime: 279826
 ---
-
 2 AM and she calls me 'cause I'm still awake,
 "Can you help me unravel my latest mistake?
 I don't love him. Winter just wasn't my season."
@@ -196,6 +200,3 @@ And breathe, just breathe
 Whoa breathe, just breathe,
 Oh breathe, just breathe,
 Oh breathe, just breathe.
-
-
-

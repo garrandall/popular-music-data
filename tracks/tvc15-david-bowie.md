@@ -1,8 +1,11 @@
 ---
+album: Live Nassau Coliseum '76
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:7AlqQzpw1fXyXqxVJY4vBN
 features: []
-genres: []
+first_released_as_single: false
 key: tvc15-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/tvc15.html
 name: TVC15
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1976
+runtime: 297733
 ---
-
 Oh oh oh oh oh, oh oh oh oh oh
 Oh oh oh oh oh, oh oh oh oh oh
 Oh oh oh oh oh, oh oh oh oh oh
@@ -122,6 +126,3 @@ Oh, my TVC 15
 Uh oh, TVC 15
 Oh, my TVC 15
 Uh oh, TVC 15
-
-
-

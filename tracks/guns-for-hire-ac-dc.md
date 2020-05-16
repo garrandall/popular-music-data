@@ -1,8 +1,11 @@
 ---
+album: Flick of the Switch
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:31F5kR9fPxI7lBV0Stfl4V
 features: []
-genres: []
+first_released_as_single: false
 key: guns-for-hire-ac-dc
 lyrics_url: https://www.azlyrics.com/lyrics/acdc/gunsforhire.html
 name: Guns For Hire
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-10-29'
+release_year: 1983
+runtime: 204720
 ---
-
 The word is out that I'm about
 And I've come gunnin' for you
 I'm a real entertainer a mischief maker
@@ -75,6 +79,3 @@ Big shot
 You can't get
 You can't get the drop
 On me
-
-
-

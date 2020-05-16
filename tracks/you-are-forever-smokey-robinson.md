@@ -1,8 +1,11 @@
 ---
+album: Being With You
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:4ZOHea7Cec48ybpLt9Tb8H
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-forever-smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-you-are-forever-lyrics
 name: You Are Forever
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 266733
 ---
 Even mountains will crumble
 Rivers will dry, stars will fall

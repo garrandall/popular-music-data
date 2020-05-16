@@ -1,8 +1,11 @@
 ---
+album: The Man Who Invented Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2g2GkH3vZHk4lWzBjgQ6nY
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-world-sam-cooke
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-Cooke/What-a-Wonderful-World
 name: Wonderful World
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 125440
 ---
 Don't know much about history
 Don't know much biology

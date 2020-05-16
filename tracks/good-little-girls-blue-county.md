@@ -1,8 +1,11 @@
 ---
+album: Blue County
 artists:
 - Blue County
+external_ids:
+  spotify: spotify:track:0Y6dPRfSOVgLzKpn7L741h
 features: []
-genres: []
+first_released_as_single: false
 key: good-little-girls-blue-county
 lyrics_url: https://genius.com/Blue-county-good-little-girls-lyrics
 name: Good Little Girls
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2004
+runtime: 181800
 ---
 She's her momma's baby she's her daddy's pride and joy
 They've kept her under wraps she ain't been hangin' out

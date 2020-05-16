@@ -1,8 +1,11 @@
 ---
+album: The Watts 103rd. St. Rhythm Band
 artists:
 - The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:2PYsODLZ5kXHZBrC1uMLXO
 features: []
-genres: []
+first_released_as_single: false
 key: spreadin--honey-the-watts-103rd-street-rhythm-band
 name: Spreadin' Honey
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 152693
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'The Legendary Henry Stone Presents: Steve Alaimo- The 50s-The 70s'
 artists:
 - Steve Alaimo
+external_ids:
+  spotify: spotify:track:6iLqrqP7kwc6qAvmDyK6hf
 features: []
-genres: []
+first_released_as_single: false
 key: when-my-little-girl-is-smiling-steve-alaimo
 name: When My Little Girl Is Smiling
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 154093
 ---
 

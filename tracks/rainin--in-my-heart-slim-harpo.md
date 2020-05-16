@@ -1,8 +1,11 @@
 ---
+album: Sings Raining In My Heart
 artists:
 - Slim Harpo
+external_ids:
+  spotify: spotify:track:14FyLrYh5z7P4unfoFYMkV
 features: []
-genres: []
+first_released_as_single: false
 key: rainin--in-my-heart-slim-harpo
 lyrics_url: https://genius.com/Slim-harpo-rainin-in-my-heart-lyrics
 name: Rainin' In My Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 154466
 ---
 Still rainin' in my heart
 Baby, we still apart

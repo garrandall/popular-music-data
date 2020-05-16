@@ -1,9 +1,12 @@
 ---
+album: Light Of Worlds
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:0lELJfTnuIVXT3XptuefRY
 features: []
-genres: []
+first_released_as_single: false
 key: rhyme-tyme-people-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/rhymetymepeople.html
 name: Rhyme Tyme People
@@ -40,8 +43,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 203733
 ---
-
 Strange places you've never been before
 No smiling faces to help along the way
 Your mind seems to be an open door
@@ -83,6 +87,3 @@ What you wanna do
 
 You should be cool, cool, cool
 When you're foolin' with that stuff
-
-
-

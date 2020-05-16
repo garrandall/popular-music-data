@@ -1,8 +1,11 @@
 ---
+album: The Joey Heatherton Album
 artists:
 - Joey Heatherton
+external_ids:
+  spotify: spotify:track:4QJKgiXg6YFs5qIWiz4Sz2
 features: []
-genres: []
+first_released_as_single: false
 key: gone-joey-heatherton
 lyrics_url: https://genius.com/Joey-heatherton-gone-lyrics
 name: Gone
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 193640
 ---
 Since you've gone
 The moon, the sun, the stars in the sky

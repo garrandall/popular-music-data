@@ -1,8 +1,11 @@
 ---
+album: PTXmas
 artists:
 - Pentatonix
+external_ids:
+  spotify: spotify:track:7BvCDrlYwJ5D9RUqvvs3BT
 features: []
-genres: []
+first_released_as_single: false
 key: little-drummer-boy-pentatonix
 lyrics_url: https://www.azlyrics.com/lyrics/pentatonix/littledrummerboy.html
 name: Little Drummer Boy
@@ -19,9 +22,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2014-01-04'
+release_year: 2012
+runtime: 255878
 ---
-
-
 Come they told me
 Pa-rum-pum-pum-pum
 
@@ -97,6 +100,3 @@ Me and my drum
 Me and my drum
 Me and my drum
 Rum-pum-pum-pum
-
-
-

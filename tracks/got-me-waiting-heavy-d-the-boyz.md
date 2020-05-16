@@ -1,9 +1,12 @@
 ---
+album: Nuttin' But Love
 artists:
 - Heavy D
 - The Boyz
+external_ids:
+  spotify: spotify:track:7lqwSAP2isafyCokjZd7aE
 features: []
-genres: []
+first_released_as_single: false
 key: got-me-waiting-heavy-d-the-boyz
 lyrics_url: https://genius.com/Heavy-d-and-the-boyz-got-me-waiting-remix-lyrics
 name: Got Me Waiting
@@ -88,6 +91,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 271466
 ---
 Just when I thought I found me someone I can go with just
 When I thought I found me someone I can go with that's

@@ -1,8 +1,11 @@
 ---
+album: Stephen Stills 2
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:72uu4NWtcJhbcfUyxZfiwG
 features: []
-genres: []
+first_released_as_single: false
 key: change-partners-stephen-stills
 lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/changepartners.html
 name: Change Partners
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 197600
 ---
-
 All of the ladies attending the ball
 Are requested to gaze in the faces
 Found on the dance cards
@@ -83,6 +87,3 @@ So we change partners
 Time to change partners
 You must change partners
 Again
-
-
-

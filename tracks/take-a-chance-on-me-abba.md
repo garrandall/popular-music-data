@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:6vQN2a9QSgWcm74KEZYfDL
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-chance-on-me-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/takeachanceonme.html
 name: Take A Chance On Me
@@ -79,8 +82,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1977
+runtime: 243933
 ---
-
 If you change your mind, I'm the first in line
 Honey I'm still free
 Take a chance on me
@@ -150,4 +154,3 @@ Gotta put me to the test, take a chance on me
 Ba ba ba ba baa, ba ba ba ba baa ba-ba
 Honey I'm still free
 Take a chance on me
-

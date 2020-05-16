@@ -1,8 +1,11 @@
 ---
+album: Mamma Mia! The Movie Soundtrack
 artists:
 - Meryl Streep
+external_ids:
+  spotify: spotify:track:4nI8e3fy1hHvhCvJURv5JI
 features: []
-genres: []
+first_released_as_single: false
 key: mamma-mia-meryl-streep
 lyrics_url: https://genius.com/Meryl-streep-mamma-mia-lyrics
 name: Mamma Mia
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2008
+runtime: 214906
 ---
 I was cheated by you and I think you know when
 So I made up my mind, it must come to an end

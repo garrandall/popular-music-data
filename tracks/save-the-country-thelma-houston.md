@@ -1,8 +1,11 @@
 ---
+album: Sunshower
 artists:
 - Thelma Houston
+external_ids:
+  spotify: spotify:track:0HglXwBvTeDnVGYZVUTKJg
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-country-thelma-houston
 name: Save The Country
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 164973
 ---
 

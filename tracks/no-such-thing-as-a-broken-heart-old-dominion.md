@@ -1,8 +1,11 @@
 ---
+album: Happy Endings
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:0OlS52TmtK2gPaEtdmr7DN
 features: []
-genres: []
+first_released_as_single: false
 key: no-such-thing-as-a-broken-heart-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/nosuchthingasabrokenheart.html
 name: No Such Thing As A Broken Heart
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2017
+runtime: 176893
 ---
-
 I wonder if Jack and Diane ever made it
 After the drums and the guitars all faded
 Was the best they could do good enough?
@@ -124,6 +128,3 @@ You gotta love like there's no such thing as a broken heart
 You gotta love love love love... like there's no such thing
 You gotta love love love love... as a broken heart
 You gotta love like there's no such thing as a broken heart
-
-
-

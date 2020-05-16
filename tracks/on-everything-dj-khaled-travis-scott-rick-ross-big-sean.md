@@ -1,11 +1,14 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:3wforUniJGcNJWuQxQERF1
 features:
 - Travis Scott
 - Rick Ross
 - Big Sean
-genres: []
+first_released_as_single: false
 key: on-everything-dj-khaled-travis-scott-rick-ross-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/oneverything.html
 name: On Everything
@@ -14,8 +17,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 233293
 ---
-
 We the Best Music!
 
 
@@ -102,6 +106,3 @@ Yeah, I just pull up in my everything, yeah
 Yeah, I just pull up in my everything, yeah yeah
 Bentley car and matching Rollie, that's on everything (Straight up)
 That's on my life, yeah, yeah
-
-
-

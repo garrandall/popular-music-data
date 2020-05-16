@@ -1,8 +1,11 @@
 ---
+album: Yesterday Is Gone
 artists:
 - Jimmy McCracklin
+external_ids:
+  spotify: spotify:track:4vNFOzjhbd6b35iGTp04Xu
 features: []
-genres: []
+first_released_as_single: false
 key: just-got-to-know-jimmy-mccracklin
 lyrics_url: https://genius.com/Jimmy-mccracklin-just-got-to-know-lyrics
 name: Just Got To Know
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 197200
 ---
 I want to know, I want to know, I just got to know
 Why do you always play around?

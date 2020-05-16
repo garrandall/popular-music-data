@@ -1,8 +1,11 @@
 ---
+album: Best Of Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:226jmAxLwB6D3XydMxDfHW
 features: []
-genres: []
+first_released_as_single: false
 key: the-village-of-st-bernadette-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/thevillageofstbernadette.html
 name: The Village Of St Bernadette
@@ -59,8 +62,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1959
+runtime: 203600
 ---
-
 I've traveled far, the land and the sea
 Beautiful places I happened to be
 One little town I'll never forget
@@ -87,6 +91,3 @@ Ave, ave, ave Ma-ri-i-ia
 
 Ave, ave, ave Ma-ri-a
 Ave, ave, ave Ma-ri-a
-
-
-

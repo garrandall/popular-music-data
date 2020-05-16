@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1M5Mb38gVMh39zcAPSAC7A
 features: []
-genres: []
+first_released_as_single: false
 key: one-love--people-get-ready--glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/onelovepeoplegetready.html
 name: One Love (People Get Ready)
@@ -11,8 +14,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 154306
 ---
-
 One Love, One Heart
 Let's get together and feel all right
 Hear the children crying (One Love)
@@ -46,6 +50,3 @@ Oh what about the one heart (One Heart)
 
 Give thanks and praise to the Lord and I will feel all right
 Let's get together and feel all right
-
-
-

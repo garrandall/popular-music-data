@@ -1,8 +1,11 @@
 ---
+album: Lil Uzi Vert vs. The World
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:0B8QzDH7YWih85V5SEMnyJ
 features: []
-genres: []
+first_released_as_single: false
 key: money-longer-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-money-longer-lyrics
 name: Money Longer
@@ -95,6 +98,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 198944
 ---
 Yeah, it do not matter
 Turned to a savage, pocket got fatter, she call me daddy

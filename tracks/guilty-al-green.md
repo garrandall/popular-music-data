@@ -1,8 +1,11 @@
 ---
+album: Back Up Train
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:7LKL2wR36x2TfW2y5nZIFB
 features: []
-genres: []
+first_released_as_single: false
 key: guilty-al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/guilty.html
 name: Guilty
@@ -35,8 +38,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1967
+runtime: 176880
 ---
-
 Girl I love you
 Yeah, yeah, honest I do
 And I'm guilty, baby
@@ -82,6 +86,3 @@ Than infatuation
 Not so guilty, guilty
 Guilty, guilty, guilty, guilty
 Don't condemn me
-
-
-

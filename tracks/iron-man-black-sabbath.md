@@ -1,8 +1,11 @@
 ---
+album: Paranoid
 artists:
 - Black Sabbath
+external_ids:
+  spotify: spotify:track:3IOQZRcEkplCXg6LofKqE9
 features: []
-genres: []
+first_released_as_single: false
 key: iron-man-black-sabbath
 lyrics_url: https://www.azlyrics.com/lyrics/blacksabbath/ironman.html
 name: Iron Man
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1970
+runtime: 355303
 ---
-
 I am Iron Man
 
 Has he lost his mind?
@@ -85,6 +89,3 @@ Heavy boots of lead
 Fill his victims full of dread
 Running as fast as they can
 Iron Man lives again!
-
-
-

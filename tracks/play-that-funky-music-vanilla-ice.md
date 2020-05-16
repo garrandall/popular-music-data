@@ -1,8 +1,11 @@
 ---
+album: To The Extreme
 artists:
 - Vanilla Ice
+external_ids:
+  spotify: spotify:track:1Ezs8eYxuZjhlgyoI1Bo76
 features: []
-genres: []
+first_released_as_single: false
 key: play-that-funky-music-vanilla-ice
 lyrics_url: https://www.azlyrics.com/lyrics/vanillaice/playthatfunkymusic.html
 name: Play That Funky Music
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1990
+runtime: 285800
 ---
-
 Play that funky music
 Play that funky music, white boy
 Play that funky music
@@ -176,6 +180,3 @@ Play that funky music white boy you say it, say it
 Play that funky music A little louder now
 Play that funky music, white boy Come on, Come on, Come on
 Play that funky music
-
-
-

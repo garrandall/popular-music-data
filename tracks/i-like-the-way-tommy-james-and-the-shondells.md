@@ -1,8 +1,11 @@
 ---
+album: I Think We're Alone Now
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:4LqjD60rG0eD7Sl6voDWF2
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-the-way-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-i-like-the-way-lyrics
 name: I Like The Way
@@ -35,6 +38,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 163800
 ---
 I like the way, you call my name
 It sounds so nice

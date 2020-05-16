@@ -1,8 +1,11 @@
 ---
+album: Surprise
 artists:
 - Crystal Waters
+external_ids:
+  spotify: spotify:track:1SShxVVBeZBCY7WddnksPz
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-woman--she-s-homeless--crystal-waters
 lyrics_url: https://genius.com/Crystal-waters-gypsy-woman-la-da-dee-la-da-da-lyrics
 name: Gypsy Woman (She's Homeless)
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1991
+runtime: 451826
 ---
 She wakes up early every morning
 Just to do her hair, now

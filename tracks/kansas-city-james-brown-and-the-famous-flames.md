@@ -1,8 +1,12 @@
 ---
+album: Cold Sweat
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:0VYS0eGG4CnIfh4uU7PJX2
+features:
+- The Famous Flames
+first_released_as_single: false
 key: kansas-city-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-kansas-city-lyrics
 name: Kansas City
@@ -27,6 +31,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 202493
 ---
 Goin' to Kansas City, haha, Kansas City here I come
 Goin' to Kansas City, ha, Kansas City here I come

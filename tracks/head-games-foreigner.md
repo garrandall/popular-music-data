@@ -1,8 +1,11 @@
 ---
+album: Head Games
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:5nk6wxUSFUBxUKxjz0fKD6
 features: []
-genres: []
+first_released_as_single: false
 key: head-games-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/headgames.html
 name: Head Games
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 217706
 ---
-
 Daylight, alright
 I don't know, I don't know if it's real
 Been a long night and something ain't right
@@ -114,6 +118,3 @@ Head games, in the first degree
 Head games, yeah, always you and me
 Head games, why do you do it baby?
 Head games
-
-
-

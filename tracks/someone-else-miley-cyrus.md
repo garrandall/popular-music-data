@@ -1,8 +1,11 @@
 ---
+album: Bangerz (Deluxe Version)
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:0vRFKF7dGdL5XxZMXzpCpF
 features: []
-genres: []
+first_released_as_single: false
 key: someone-else-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/someoneelse.html
 name: Someone Else
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 288333
 ---
-
 If you're looking for love
 Know that love don't live here anymore
 He left with my heart
@@ -113,6 +117,3 @@ Love is hopeless
 Love is blind
 
 I've turned into someone else
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blackout
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:29Srmzqyig5Tg5EitFXsb8
 features: []
-genres: []
+first_released_as_single: false
 key: radar-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/radar.html
 name: Radar
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2007
+runtime: 229213
 ---
-
 Confidence is a must
 Cockiness is a plus
 Edginess is a rush
@@ -85,6 +89,3 @@ on my radar (got you on my) radar (got you on my) radar (got you on my) RADAR
 
 Da-da-da-da-da-da-dadadadadadada... da da da.
 Da-da-da-da-da-da-dadadadadadada... da da da da da da da
-
-
-

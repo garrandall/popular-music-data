@@ -1,8 +1,11 @@
 ---
+album: Charice
 artists:
 - Charice
+external_ids:
+  spotify: spotify:track:74v5GTzfb9yLnFe96pyghc
 features: []
-genres: []
+first_released_as_single: true
 key: note-to-god-charice
 lyrics_url: https://www.azlyrics.com/lyrics/charice/notetogod.html
 name: Note To God
@@ -11,8 +14,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-06-06'
+release_year: 2009
+runtime: 239760
 ---
-
 If I wrote a note to God
 I would speak what's in my soul
 I'd ask for all the hate to be swept away
@@ -62,6 +66,3 @@ We can't do it on our own!
 So, so
 
 If I wrote a note to God
-
-
-

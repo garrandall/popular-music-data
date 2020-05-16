@@ -1,8 +1,11 @@
 ---
+album: 5th
 artists:
 - Lee Michaels
+external_ids:
+  spotify: spotify:track:13glZTGfrgtr0Anp7FQd0R
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-get-a-witness-lee-michaels
 lyrics_url: https://www.musixmatch.com/lyrics/Lee-Michaels/Can-I-Get-a-Witness
 name: Can I Get A Witness
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 184146
 ---
 Ah ah listen everybody (body), specially you girls (girls)
 Is it right to be left alone when the one you love is never home

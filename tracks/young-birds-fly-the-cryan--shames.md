@@ -1,8 +1,11 @@
 ---
+album: A Scratch in the Sky
 artists:
 - The Cryan' Shames
+external_ids:
+  spotify: spotify:track:1ebiZoQc7zHePdPTLzR8NV
 features: []
-genres: []
+first_released_as_single: false
 key: young-birds-fly-the-cryan--shames
 name: Young Birds Fly
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1967
+runtime: 141786
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:76MPV2FNIV50SBAs9Tmzss
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-you-ve-done-to-me-boz-scaggs
 lyrics_url: https://genius.com/Boz-scaggs-look-what-youve-done-to-me-lyrics
 name: Look What You've Done To Me
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
+release_year: 1980
+runtime: 316333
 ---
 Hope they never end this song
 This could take us all night long

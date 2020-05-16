@@ -1,8 +1,11 @@
 ---
+album: Famous Hoes
 artists:
 - NLE Choppa
+external_ids:
+  spotify: spotify:track:35Xf2ABjPzUXKz19akd7Jj
 features: []
-genres: []
+first_released_as_single: true
 key: famous-hoes-nle-choppa
 lyrics_url: https://genius.com/Nle-choppa-famous-hoes-lyrics
 name: Famous Hoes
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 135460
 ---
 CashMoneyAP
 NLE the top shotta

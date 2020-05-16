@@ -1,8 +1,11 @@
 ---
+album: C.M.B.
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:5OI4XbIHmAGDNnmP01sD82
 features: []
-genres: []
+first_released_as_single: false
 key: thinkin--back-color-me-badd
 lyrics_url: https://genius.com/Color-me-badd-thinkin-back-lyrics
 name: Thinkin' Back
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1991
+runtime: 322533
 ---
 Hum...oh baby...aww baby Yeah!
 We goin' take you back a little further

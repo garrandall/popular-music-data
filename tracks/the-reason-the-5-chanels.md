@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The 5 Chanels
+external_ids:
+  spotify: spotify:track:2CQQsJL0KrzNF5yKqIdfrL
 features: []
-genres: []
+first_released_as_single: true
 key: the-reason-the-5-chanels
 lyrics_url: https://www.musixmatch.com/lyrics/The-5-Chanels/The-Reason
 name: The Reason
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 171309
 ---
 What's the reason
 What's the reason

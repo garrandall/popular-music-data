@@ -1,8 +1,11 @@
 ---
+album: Funk Dat (Why Is It?)
 artists:
 - Sagat
+external_ids:
+  spotify: spotify:track:2fTjkEmR1t7J4WICztg136
 features: []
-genres: []
+first_released_as_single: true
 key: funk-dat-sagat
 lyrics_url: https://genius.com/Sagat-funk-dat-lyrics
 name: Funk Dat
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
+release_year: 1993
+runtime: 259800
 ---
 Funk dat!
 

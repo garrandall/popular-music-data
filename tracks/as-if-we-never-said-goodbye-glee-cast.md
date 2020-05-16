@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7BmY7k9iiOp7tILNYKBv6A
 features: []
-genres: []
+first_released_as_single: false
 key: as-if-we-never-said-goodbye-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/asifweneversaidgoodbye.html
 name: As If We Never Said Goodbye
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 294106
 ---
-
 I don't know why I'm frightened
 I know my way around here
 The cardboard trees, the painted seas, the sound here...
@@ -58,6 +62,3 @@ We'll have magic in the making
 Yes, everything's as if we never said goodbye
 Yes, everything's as if we never said goodbye...
 We taught the world new ways to dream!
-
-
-

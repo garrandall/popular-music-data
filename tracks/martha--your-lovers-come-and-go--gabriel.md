@@ -1,8 +1,11 @@
 ---
+album: Dub_Connected Vol. 1
 artists:
 - Gabriel
+external_ids:
+  spotify: spotify:track:2PyklN4Ouhpu846poIe3Ko
 features: []
-genres: []
+first_released_as_single: false
 key: martha--your-lovers-come-and-go--gabriel
 lyrics_url: https://www.musixmatch.com/lyrics/Ana-Gabriel/Cuanto-te-extra%C3%B1o-Hom-A-martha-laura
 name: Martha (Your Lovers Come And Go)
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 331933
 ---
 Cuanto Te Extraño
 Tengo conmigo

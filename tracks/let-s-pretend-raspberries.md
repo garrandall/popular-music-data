@@ -1,8 +1,11 @@
 ---
+album: Fresh
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:3tF4TjrAO9dxg0AzBRmk5R
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-pretend-raspberries
 lyrics_url: https://www.azlyrics.com/lyrics/raspberries/letspretend.html
 name: Let's Pretend
@@ -71,8 +74,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1972
+runtime: 220493
 ---
-
 I can't sleep nights
 Wishing you were here beside me
 Can't help feeling
@@ -114,6 +118,3 @@ Baby, let's pretend that tonight could live forever
 If we close our eyes and believe it might come true
 Baby, let's pretend we could always be together
 But for now just let me spend the night with you
-
-
-

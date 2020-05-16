@@ -1,8 +1,11 @@
 ---
+album: Knee Deep In The Hoopla
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:6OnfBiiSc9RGKiBKKtZXgQ
 features: []
-genres: []
+first_released_as_single: false
 key: we-built-this-city-starship
 lyrics_url: https://genius.com/Starship-we-built-this-city-lyrics
 name: We Built This City
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1985
+runtime: 296080
 ---
 We built this city
 We built this city on rock and roll

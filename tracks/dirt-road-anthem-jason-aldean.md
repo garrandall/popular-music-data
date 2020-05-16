@@ -1,8 +1,11 @@
 ---
+album: My Kinda Party
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:2qYsSHsYkihWx043HVJQRV
 features: []
-genres: []
+first_released_as_single: false
 key: dirt-road-anthem-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-dirt-road-anthem-lyrics
 name: Dirt Road Anthem
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2010
+runtime: 229400
 ---
 Yeah I'm chillin' on a dirt road
 Laid back swervin' like I'm George Jones

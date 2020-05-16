@@ -1,8 +1,11 @@
 ---
+album: Two Lanes Of Freedom (Accelerated Deluxe)
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:29AR5X5yKPd4DBIAiqUMDy
 features: []
-genres: []
+first_released_as_single: false
 key: southern-girl-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/southerngirl.html
 name: Southern Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 255480
 ---
-
 Now I ain't sayin' them LA ladies don't know what they're doin'
 And I been in love with New York City a time or two
 I had some Seattle coffee, some Chicago wind
@@ -148,6 +152,3 @@ Put on a country song
 Hazel eyes and golden curls
 Put on a country song
 We'll dance all night long)
-
-
-

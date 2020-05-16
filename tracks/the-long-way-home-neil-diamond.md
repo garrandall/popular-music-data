@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:431T7BvSzTrcV6WBXJO6rm
 features: []
-genres: []
+first_released_as_single: false
 key: the-long-way-home-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/thelongwayhome.html
 name: The Long Way Home
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1968
+runtime: 152586
 ---
-
 Had to go, had to know all
 There was out there.
 Now I'm back, I know that, girl
@@ -43,7 +47,7 @@ The long way home, it's true,
 The long way home to you, yeah
 And I just want to say,
 I'm home to stay.
-(instrumental-piano)
+
 Girl I took
 The long way home, it's true,
 The long way home to you, yeah
@@ -53,6 +57,3 @@ Stay,
 I'm home to stay
 Been a long way, long way home
 Long way home, long way home
-
-
-

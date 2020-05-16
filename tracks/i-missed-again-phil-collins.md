@@ -1,8 +1,11 @@
 ---
+album: Face Value (Deluxe Editon)
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:3VNzK4gTzkWwMn8CGPbhXj
 features: []
-genres: []
+first_released_as_single: false
 key: i-missed-again-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/imissedagain.html
 name: I Missed Again
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1981
+runtime: 226226
 ---
-
 So you finally came right out and said it girl
 What took you so long
 It was in your eyes, that look's been there for too long
@@ -108,6 +112,3 @@ I think I missed again
 I'm waiting in line, but would you say if I was wasting my time
 
 Or did I miss again...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Right Here
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:5u3FywQOPJ5O7ZAjm31cnq
 features: []
-genres: []
+first_released_as_single: false
 key: right-here--human-nature--swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/rightherehumannatureradiomix.html
 name: Right Here (Human Nature)
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-12-11'
+release_year: 1992
+runtime: 226800
 ---
-
 Lately there seems to be
 Some insecurities
 About the way I feel
@@ -142,4 +146,3 @@ But as long as I know
 Boy, time will show
 Our love will grow
 And I know
-

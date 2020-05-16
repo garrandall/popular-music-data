@@ -1,8 +1,11 @@
 ---
+album: Nothing's Gonna Change My Love For You
 artists:
 - Glenn Medeiros
+external_ids:
+  spotify: spotify:track:0EjkSXPIm1WfCjMrgEpZlH
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-won-t-leave-me-alone-glenn-medeiros
 lyrics_url: https://genius.com/Glenn-medeiros-lonely-wont-leave-me-alone-lyrics
 name: Lonely Won't Leave Me Alone
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
+release_year: 1986
+runtime: 266893
 ---
 Why do I seem to be
 Caught up inside a dream?

@@ -1,8 +1,11 @@
 ---
+album: No Protection
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:3X7uFMzJrEE0sxn62qd8Ch
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-s-gonna-stop-us-now-starship
 lyrics_url: https://genius.com/Starship-nothings-gonna-stop-us-now-lyrics
 name: Nothing's Gonna Stop Us Now
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
+release_year: 1987
+runtime: 270333
 ---
 Lookin' in your eyes I see a paradise
 This world that I found is too good to be true

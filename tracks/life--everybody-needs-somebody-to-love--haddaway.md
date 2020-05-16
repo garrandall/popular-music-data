@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - Haddaway
+external_ids:
+  spotify: spotify:track:33ZxHmy7gopmjrSTFGr6Jc
 features: []
-genres: []
+first_released_as_single: true
 key: life--everybody-needs-somebody-to-love--haddaway
 lyrics_url: https://www.azlyrics.com/lyrics/haddaway/lifeeverybodyneedssomebodytolove.html
 name: Life (Everybody Needs Somebody To Love)
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 257360
 ---
-
 Life
 Life will never be
 Life
@@ -144,6 +148,3 @@ Life will never be
 Life
 
 Life will never be...the same
-
-
-

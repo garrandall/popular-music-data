@@ -1,6 +1,6 @@
 ---
 artists:
-- Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: let--em-in-wings

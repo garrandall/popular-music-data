@@ -1,9 +1,12 @@
 ---
+album: Reflections
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:6GffueKJJ5oCOLYGfXmfsc
 features: []
-genres: []
+first_released_as_single: false
 key: forever-came-today-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Forever-Came-Today-feat-The-Supremes
 name: Forever Came Today
@@ -44,6 +47,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 193440
 ---
 Forever came today
 Diana ross & the supremes

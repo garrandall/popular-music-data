@@ -1,9 +1,12 @@
 ---
+album: Doin' the Twist at the Peppermint Lounge. Recorded Live
 artists:
 - Joey Dee
 - the Starliters
+external_ids:
+  spotify: spotify:track:3RW8ZidI0OE9BnzZeNoNQv
 features: []
-genres: []
+first_released_as_single: false
 key: peppermint-twist---part-i-joey-dee-the-starliters
 lyrics_url: https://genius.com/Joey-dee-and-the-starliters-peppermint-twist-part-i-lyrics
 name: Peppermint Twist - Part I
@@ -80,6 +83,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1961
+runtime: 259266
 ---
 Got a new dance and it goes like this:
 (Hupp di da pep-pep-pep-pep-pep)

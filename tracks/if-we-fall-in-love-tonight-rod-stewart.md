@@ -1,8 +1,11 @@
 ---
+album: If We Fall in Love Tonight
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3yhHZaToQ3ZxN1A4GzByZR
 features: []
-genres: []
+first_released_as_single: false
 key: if-we-fall-in-love-tonight-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/ifwefallinlovetonight.html
 name: If We Fall In Love Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
+release_year: 1996
+runtime: 340506
 ---
-
 Pain, flows like a river, just keeps on livin'
 with all them memories
 Shame, you're so heartbroken
@@ -134,4 +138,3 @@ Darlin' if, if we fall in love again
 on me you can depend, if you can take a chance
 
 Open your heart and let love, love again
-

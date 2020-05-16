@@ -1,8 +1,11 @@
 ---
+album: Whitesnake
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:0IhUdJRoolbYeEMPL59XPm
 features: []
-genres: []
+first_released_as_single: false
 key: is-this-love-whitesnake
 lyrics_url: https://genius.com/Whitesnake-is-this-love-lyrics
 name: Is This Love
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
+release_year: 1987
+runtime: 284496
 ---
 I should have known better than to let you go alone
 It's times like these I can't make it on my own

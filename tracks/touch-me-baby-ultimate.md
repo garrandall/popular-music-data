@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate: Hits Anthology'
 artists:
 - Ultimate
+external_ids:
+  spotify: spotify:track:0RTt72bL5nE4suLB3UceI0
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-baby-ultimate
 name: Touch Me Baby
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-05-05'
+release_year: 1979
+runtime: 869333
 ---
 

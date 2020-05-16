@@ -1,8 +1,11 @@
 ---
+album: The Mind Of Mannie Fresh
 artists:
 - Mannie Fresh
+external_ids:
+  spotify: spotify:track:47FjToieQbxqNnuiRRQtym
 features: []
-genres: []
+first_released_as_single: false
 key: real-big-mannie-fresh
 lyrics_url: https://genius.com/Mannie-fresh-real-big-lyrics
 name: Real Big
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
+release_year: 2004
+runtime: 228826
 ---
 House real big, cars real big
 Dick real big, everything real big

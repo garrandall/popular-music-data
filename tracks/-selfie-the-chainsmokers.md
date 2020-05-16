@@ -1,8 +1,11 @@
 ---
+album: '#SELFIE'
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:1HOlb9rdNOmy9b1Fakicjo
 features: []
-genres: []
+first_released_as_single: true
 key: -selfie-the-chainsmokers
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/selfie.html
 name: '#SELFIE'
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2014
+runtime: 183750
 ---
-
 When Jason was at the table
 I kept on seeing him look at me while he was with that other girl
 Do you think he was just doing that to make me jealous?
@@ -105,6 +109,3 @@ I guess I took a good selfie
 Selfie 
 
 Let me take a selfie
-
-
-

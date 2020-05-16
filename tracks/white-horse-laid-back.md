@@ -1,8 +1,11 @@
 ---
+album: Keep Smiling  (Remastered Version)
 artists:
 - Laid Back
+external_ids:
+  spotify: spotify:track:6mrxHiqJhSR67wAT71ZYI5
 features: []
-genres: []
+first_released_as_single: false
 key: white-horse-laid-back
 lyrics_url: https://genius.com/Laid-back-white-horse-lyrics
 name: White Horse
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1983
+runtime: 236386
 ---
 If you wanna ride
 Don't ride the white horse

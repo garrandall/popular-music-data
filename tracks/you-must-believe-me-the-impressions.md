@@ -1,8 +1,11 @@
 ---
+album: People Get Ready
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:3UVwuwDtDu7ebH119q7y4a
 features: []
-genres: []
+first_released_as_single: false
 key: you-must-believe-me-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/youmustbelieveme.html
 name: You Must Believe Me
@@ -47,8 +50,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 151293
 ---
-
 You must belie-ie-ieve me
 No matter what the people might say
 You must belie-ie-ieve me
@@ -88,6 +92,3 @@ Woah, it's alright
 Woah, it's alright
 Woah, it's alright
 Woah, it's alright
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: You Smile - The Song Begins
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:2jgq1Kk01aVCi61w4PRvYC
 features:
 - The Tijuana Brass
-genres: []
+first_released_as_single: false
 key: last-tango-in-paris-herb-alpert-the-tijuana-brass
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/Last-Tango-in-Paris
 name: Last Tango In Paris
@@ -40,6 +43,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1973-04-28'
+release_year: 1973
+runtime: 168000
 ---
 We don't exist
 We are nothing but shadow and mist

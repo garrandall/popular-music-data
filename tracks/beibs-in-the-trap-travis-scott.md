@@ -1,8 +1,11 @@
 ---
+album: Birds In The Trap Sing McKnight
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:5ymRHxybhbG2mRJIXRcMa8
 features: []
-genres: []
+first_released_as_single: false
 key: beibs-in-the-trap-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/beibsinthetrap.html
 name: Beibs In The Trap
@@ -19,9 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 213863
 ---
-
-
 I just poured a eight in a liter
 Throw some jolly ranchers in make it sweeter
 Versace my clothes I'm with a white ho
@@ -100,6 +103,3 @@ She said she want more
 She said she want more
 So I'mma get more
 Yeah I'mma get more
-
-
-

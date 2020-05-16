@@ -1,8 +1,11 @@
 ---
+album: Ring My Bell
 artists:
 - Anita Ward
+external_ids:
+  spotify: spotify:track:2BEArHIJsI5fxYEpCZv2sF
 features: []
-genres: []
+first_released_as_single: true
 key: ring-my-bell-anita-ward
 lyrics_url: https://www.azlyrics.com/lyrics/anitaward/ringmybell.html
 name: Ring My Bell
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 212009
 ---
-
 I'm glad you're home
 Now did you really miss me
 I guess you did by the look in your eyes
@@ -124,6 +128,3 @@ You can ring my be-e-ell, ring my bell
 You can ring my be-e-ell, ring my bell
 You can ring my be-e-ell, ring my bell
 You can ring my be-e-ell, ring my bell
-
-
-

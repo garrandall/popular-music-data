@@ -1,8 +1,11 @@
 ---
+album: Alannah Myles
 artists:
 - Alannah Myles
+external_ids:
+  spotify: spotify:track:1KU5EHSz04JhGg3rReGJ0N
 features: []
-genres: []
+first_released_as_single: false
 key: black-velvet-alannah-myles
 lyrics_url: https://genius.com/Alannah-myles-black-velvet-lyrics
 name: Black Velvet
@@ -103,6 +106,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1989
+runtime: 287440
 ---
 Mississippi in the middle of a dry spell
 Jimmy Rogers on the Victrola up high

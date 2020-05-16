@@ -1,8 +1,11 @@
 ---
+album: On The 6
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:1p8GNE0OTH0khjLr8ztcpP
 features: []
-genres: []
+first_released_as_single: true
 key: if-you-had-my-love-jennifer-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Jennifer-Lopez/If-You-Had-My-Love
 name: If You Had My Love
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-10-30'
+release_year: 1999
+runtime: 227226
 ---
 If you had my love
 And I gave you all my trust

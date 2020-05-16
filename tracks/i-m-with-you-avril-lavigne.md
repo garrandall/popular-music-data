@@ -1,8 +1,11 @@
 ---
+album: Let Go
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:1jlG3KJ3gdYmhfuySFfpO1
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-with-you-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-im-with-you-lyrics
 name: I'm With You
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
+release_year: 2002
+runtime: 223066
 ---
 I'm standing on the bridge
 I'm waiting in the dark

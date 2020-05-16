@@ -1,8 +1,11 @@
 ---
+album: Naked Eyes
 artists:
 - Naked Eyes
+external_ids:
+  spotify: spotify:track:6n4t5iMFjHmA3ErCOLT9O8
 features: []
-genres: []
+first_released_as_single: false
 key: promises-promises-naked-eyes
 lyrics_url: https://www.azlyrics.com/lyrics/nakedeyes/promisespromises.html
 name: Promises Promises
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 225840
 ---
-
 Never had a doubt in the beginning
 Never a doubt
 Trusted you true in the beginning
@@ -135,6 +139,3 @@ Promises
 Promises
 Promises
 Promises
-
-
-

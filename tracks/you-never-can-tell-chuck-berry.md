@@ -1,8 +1,11 @@
 ---
+album: St. Louis To Liverpool
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:6FT83pFXKhDlXDsNJFAHWz
 features: []
-genres: []
+first_released_as_single: false
 key: you-never-can-tell-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-you-never-can-tell-lyrics
 name: You Never Can Tell
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 161906
 ---
 It was a teenage wedding
 And the old folks wished them well

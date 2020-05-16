@@ -1,8 +1,11 @@
 ---
+album: Wired For Sound
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:4VGlBK62umuMrrN7hv9Ins
 features: []
-genres: []
+first_released_as_single: false
 key: wired-for-sound-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/wiredforsound.html
 name: Wired For Sound
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1981
+runtime: 218400
 ---
-
 I like small speakers - I like tall speakers
 If they've music - they've wired for sound
 
@@ -56,6 +60,3 @@ Power from the needle to the plastic
 A.M. - F.M. I feel so ecstatic now
 It's music I've found
 And I'm wired for sound
-
-
-

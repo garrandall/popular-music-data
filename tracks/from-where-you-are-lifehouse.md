@@ -1,8 +1,11 @@
 ---
+album: Smoke & Mirrors
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:583xwuJKfvDjAWx62p7SPo
 features: []
-genres: []
+first_released_as_single: true
 key: from-where-you-are-lifehouse
 lyrics_url: https://genius.com/Lifehouse-from-where-you-are-lyrics
 name: From Where You Are
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
+release_year: 2007
+runtime: 185586
 ---
 So far away from where you are
 These miles have torn us worlds apart

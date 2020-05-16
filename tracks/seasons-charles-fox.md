@@ -1,8 +1,11 @@
 ---
+album: Seasons
 artists:
 - Charles Fox
+external_ids:
+  spotify: spotify:track:2gRwQOZW4UyS8OqhDXscAo
 features: []
-genres: []
+first_released_as_single: false
 key: seasons-charles-fox
 name: Seasons
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1981
+runtime: 186853
 ---
 

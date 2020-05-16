@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA, The Motown Collection 1972-1992
 artists:
 - Willie Hutch
+external_ids:
+  spotify: spotify:track:3c6d7TbRhpLYRPpOntiDG1
 features: []
-genres: []
+first_released_as_single: false
 key: love-power-willie-hutch
 lyrics_url: https://genius.com/Willie-hutch-love-power-lyrics
 name: Love Power
@@ -31,6 +34,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 213866
 ---
 Love power
 Talking about love power

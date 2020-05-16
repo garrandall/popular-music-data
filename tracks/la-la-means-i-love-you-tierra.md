@@ -1,8 +1,11 @@
 ---
+album: Together Again
 artists:
 - Tierra
+external_ids:
+  spotify: spotify:track:4dWWUmSucQJ1Zmxi3ctJka
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-means-i-love-you-tierra
 lyrics_url: https://genius.com/Tierra-la-la-means-i-love-you-lyrics
 name: La La Means I Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1981
+runtime: 235748
 ---
 Many guys have come to you
 With a line that wasn't true

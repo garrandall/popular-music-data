@@ -1,8 +1,11 @@
 ---
+album: The Road And The Radio
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3cE5ltZFHmBpiS77itKaOM
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/summertime.html
 name: Summertime
@@ -87,8 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2005
+runtime: 206586
 ---
-
 Summertime is finally here
 That old ballpark, man, is back in gear
 Out on 49
@@ -147,6 +151,3 @@ Sing along 'cause it's one we know
 It's a smile, it's a kiss
 It's a sip of wine, it's summertime
 Sweet summertime
-
-
-

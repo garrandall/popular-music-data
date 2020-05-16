@@ -1,9 +1,12 @@
 ---
+album: Bangarang EP
 artists:
 - Skrillex
+external_ids:
+  spotify: spotify:track:6VRhkROS2SZHGlp0pxndbJ
 features:
 - Sirah
-genres: []
+first_released_as_single: true
 key: bangarang-skrillex-sirah
 lyrics_url: https://www.azlyrics.com/lyrics/skrillex/bangarang.html
 name: Bangarang
@@ -88,8 +91,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2011
+runtime: 215253
 ---
-
 Shout to all my lost boys
 Sh-sh-sh-sh-sh-shout to all my lost boys
 We rowdy
@@ -188,6 +192,3 @@ You feel the bass
 
 Hey, still ain't got my marbles, but I got these beats banging out the back of my toy car
 Aye yo! I'm eating fun-dip right now, not giving a fuck.
-
-
-

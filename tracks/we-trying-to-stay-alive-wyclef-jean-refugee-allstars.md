@@ -1,9 +1,12 @@
 ---
+album: Wyclef Jean presents The Carnival featuring Refugee Allstars
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:4wwRROf47MXBX5u5Knwixx
 features:
 - Refugee Allstars
-genres: []
+first_released_as_single: false
 key: we-trying-to-stay-alive-wyclef-jean-refugee-allstars
 lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/wetryingtostayalive.html
 name: We Trying To Stay Alive
@@ -56,9 +59,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1997
+runtime: 191533
 ---
-
-
 We got the Refugee Allstars rub-a-dubbing in the club
 Wyclef Jean, John Forte, Praswell
 Nah mean, the streets are getting a little crazy..
@@ -140,6 +143,3 @@ Refugee all-stars
 Can't stop the shining, can't stop the shining
 You wanna stop the shining? You wanna stop the shining?
 Can't stop the shining, can't stop the shining
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Us and Them
 artists:
 - Shinedown
+external_ids:
+  spotify: spotify:track:2b86QdcYHnO4YRXqfqlmGH
 features: []
-genres: []
+first_released_as_single: false
 key: i-dare-you-shinedown
 lyrics_url: https://www.azlyrics.com/lyrics/shinedown/idareyou.html
 name: I Dare You
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 234053
 ---
-
 Hello, let me introduce you to
 The characters in the show
 One says yes, one says no
@@ -61,6 +65,3 @@ I dare you to tell me
 I dare you to
 I dare you to tell me
 I dare you to
-
-
-

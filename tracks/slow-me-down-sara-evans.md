@@ -1,8 +1,11 @@
 ---
+album: Slow Me Down
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:6Zf4AMWgnUDobtAixiIqnZ
 features: []
-genres: []
+first_released_as_single: false
 key: slow-me-down-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/slowmedown.html
 name: Slow Me Down
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
+release_year: 2014
+runtime: 196160
 ---
-
 The wheels are turning in my mind
 Don't wanna leave but I might this time
 Seconds from whispering goodbye
@@ -62,6 +66,3 @@ Oh, you need to say it now (you need to say it now)
 Hurry up and slow me down
 Slow me down
 Slow me down
-
-
-

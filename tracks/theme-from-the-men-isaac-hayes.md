@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975'
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:4vIOvyHdPazqbljbN7qPud
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-the-men-isaac-hayes
 lyrics_url: https://genius.com/Isaac-hayes-theme-from-the-men-lyrics
 name: Theme From The Men
@@ -43,5 +46,7 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 238733
 ---
 Instrumental

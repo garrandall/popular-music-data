@@ -1,8 +1,11 @@
 ---
+album: Noel
 artists:
 - Noel
+external_ids:
+  spotify: spotify:track:21brTVDh5Y3B3mA4z5yyaU
 features: []
-genres: []
+first_released_as_single: false
 key: silent-morning-noel
 lyrics_url: https://genius.com/Noel-silent-morning-lyrics
 name: Silent Morning
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 264466
 ---
 I'm on fire
 My emotions run so deep

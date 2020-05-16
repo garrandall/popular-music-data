@@ -1,8 +1,11 @@
 ---
+album: Modern Day Drifter
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:2S2dKZqymLiKM89JtQX2ki
 features: []
-genres: []
+first_released_as_single: false
 key: lot-of-leavin--left-to-do-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/lotofleavinlefttodo.html
 name: Lot Of Leavin' Left To Do
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
+release_year: 2005
+runtime: 272626
 ---
-
 These old boots still got a lot of ground
 They ain't covered yet
 There's at least another million miles
@@ -121,6 +125,3 @@ Be sure that you can turn me loose
 'Cause I still got a lot of leavin' left to do
 
 Yeah, I still got a leavin' left to do
-
-
-

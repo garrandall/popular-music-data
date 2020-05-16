@@ -136,7 +136,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
 ---
-Yuuuuuuu
+Yu
 Soulja Boy tell 'em
 Ayy, I got this new dance for y'all called the Soulja Boy
 You just gotta punch, then crank back three times from left to right
@@ -146,19 +146,19 @@ Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman that ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman dat ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 
 
@@ -169,7 +169,7 @@ Yeah, watch me crank that Robocop
 Super fresh, now watch me jock
 Jocking on them haters, man
 When I do that Soulja Boy
-I lean to the left then crank that thang, now (Yuuuuuu)
+I lean to the left then crank that thang, now (Yu)
 I'm jocking on yo' (I'm jocking on yo')
 And if we get to fightin' then I'm cocking on yo' (Then I'm cocking on yo')
 You catch me at yo' local party
@@ -182,19 +182,19 @@ Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman that ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman dat ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 
 
@@ -214,19 +214,19 @@ Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman that ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman dat ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 
 
@@ -238,9 +238,9 @@ Supersoak that ho
 Supersoak that ho
 Supersoak that ho
 I'm too fresh, now watch me do it
-Watch me shuffle, watch me yuuuuuuu
+Watch me shuffle, watch me yu
 Watch me crank that Soulja Boy
-Now Superman, yuuuuuuu
+Now Superman, yu
 Superman, do it
 Superman, do it
 
@@ -249,21 +249,21 @@ Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman that ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 Soulja Boy off in this ho
 Watch me crank it, watch me roll
 Watch me crank dat Soulja Boy
 Then Superman dat ho
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
-Now watch me yuuuuuuu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
+Now watch me yu (Crank dat Soulja Boy)
 Now watch
 
 
-Yuuuuuuu
-Yuuuuuuu
+Yu
+Yu

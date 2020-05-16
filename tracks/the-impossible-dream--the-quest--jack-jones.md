@@ -1,8 +1,11 @@
 ---
+album: The Impossible Dream
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:3kdGMnFYSKD7ALecbxadhg
 features: []
-genres: []
+first_released_as_single: false
 key: the-impossible-dream--the-quest--jack-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Jones/The-Impossible-Dream
 name: The Impossible Dream (The Quest)
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 139026
 ---
 To dream the impossible dream
 To fight the unbeatable foe

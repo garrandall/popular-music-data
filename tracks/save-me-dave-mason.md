@@ -1,8 +1,11 @@
 ---
+album: Old Crest On A New Wave
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:3NBkUYquW3h5tDBQBnL5hv
 features: []
-genres: []
+first_released_as_single: false
 key: save-me-dave-mason
 lyrics_url: https://www.azlyrics.com/lyrics/davemason/saveme.html
 name: Save Me
@@ -19,8 +22,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1980
+runtime: 216293
 ---
-
 Save me...
 Save me...
 
@@ -125,6 +129,3 @@ Come on, baby
 Hoo!
 Save my soul...
 Oh!
-
-
-

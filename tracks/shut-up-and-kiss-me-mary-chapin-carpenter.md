@@ -1,8 +1,11 @@
 ---
+album: The Essential Mary Chapin Carpenter
 artists:
 - Mary Chapin Carpenter
+external_ids:
+  spotify: spotify:track:5eBbZPQgmEOrw8auY112lV
 features: []
-genres: []
+first_released_as_single: false
 key: shut-up-and-kiss-me-mary-chapin-carpenter
 lyrics_url: https://www.azlyrics.com/lyrics/marychapincarpenter/shutupandkissme.html
 name: Shut Up And Kiss Me
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
+release_year: 1989
+runtime: 220573
 ---
-
 Don't mean to get a little forward with you, don't mean to get ahead of where we are
 Don't mean to act a little nervous around you, I'm just a little nervous about my heart 'cause
 It's been awhile since I felt this feeling that everything that you do gives me
@@ -59,6 +63,3 @@ Oh baby I can feel this feeling that everything that you do gives me
 It's been too long since somebody whispered
 Shut up and kiss me
 Shut up and kiss me
-
-
-

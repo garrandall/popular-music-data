@@ -1,8 +1,11 @@
 ---
+album: Thank You, Pretty Baby
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:7L8pYSWkHZa0DXOM17rAaK
 features: []
-genres: []
+first_released_as_single: false
 key: mr-wishing-well-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-mr-wishing-well-lyrics
 name: Mr Wishing Well
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 153813
 ---
 (Wishing well, Mr. wishing well
 Wishing well, wishing well)

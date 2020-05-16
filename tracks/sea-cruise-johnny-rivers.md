@@ -1,8 +1,11 @@
 ---
+album: Last Boogie In Paris-The Complete Concert
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:4Kzyk2SY8ooD4SmivKxtXA
 features: []
-genres: []
+first_released_as_single: false
 key: sea-cruise-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/seacruise.html
 name: Sea Cruise
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 198520
 ---
-
 Now 'Old Man Rhythm' is in my shoes
 It's no use sittin' here singin' the blues
 So be my guest, you got nothin' to lose
@@ -69,6 +73,3 @@ Won't you let me take you on a sea cruise
 Won't you let me take you on a sea cruise
 And I'm goin', and I'm goin', and I'm goin' on a sea sea cruise
 Let me take you on a sea cruise, na na
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Saturday
 artists:
 - Rebecca Black
 - Dave Days
+external_ids:
+  spotify: spotify:track:7F4szzhfJYIfK8fdKSJj9C
 features: []
-genres: []
+first_released_as_single: true
 key: saturday-rebecca-black-dave-days
 lyrics_url: https://www.azlyrics.com/lyrics/rebeccablack/saturday.html
 name: Saturday
@@ -12,8 +15,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 227775
 ---
-
 (Oh my god, I love this song. This is my jam! Where is the peanut butter?)
 
 2pm, getting out of my bed
@@ -65,6 +69,3 @@ This Saturday, we gon' party all night
 I don't want this Saturday to end
 This Saturday, we gon' party all night
 I don't want this Saturday to end
-
-
-

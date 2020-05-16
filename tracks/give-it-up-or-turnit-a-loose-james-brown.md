@@ -1,8 +1,11 @@
 ---
+album: Sex Machine
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3LSCSS8TEkWLp3JdELpDkJ
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-or-turnit-a-loose-james-brown
 lyrics_url: https://genius.com/James-brown-give-it-up-or-turnit-a-loose-lyrics
 name: Give It Up Or Turnit A Loose
@@ -43,6 +46,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1969
+runtime: 386373
 ---
 YOW!
 

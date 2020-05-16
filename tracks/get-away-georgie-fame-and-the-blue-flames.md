@@ -1,8 +1,11 @@
 ---
+album: On The Air (Live)
 artists:
 - Georgie Fame And The Blue Flames
+external_ids:
+  spotify: spotify:track:0ncVdfMgdTdSirbhICZdYE
 features: []
-genres: []
+first_released_as_single: false
 key: get-away-georgie-fame-and-the-blue-flames
 name: Get Away
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 150192
 ---
 

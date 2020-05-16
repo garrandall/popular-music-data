@@ -1,9 +1,12 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:63p3Slj0shAFP0Q7dQetj5
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: used-to-drake-lil-wayne
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-drake-used-to-ft-lil-wayne-traduccion-al-espanol-lyrics
 name: Used To
@@ -16,6 +19,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 268480
 ---
 Sí, sonido, sonido, sonido
 Sí, el lado verdadero del 6, mierda

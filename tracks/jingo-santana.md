@@ -1,8 +1,11 @@
 ---
+album: Santana
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:5aPj4JAtKbDl8vRtvQ9fHu
 features: []
-genres: []
+first_released_as_single: false
 key: jingo-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/jingo.html
 name: Jingo
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 261066
 ---
-
 Jingo
 Jingo
 Jingo
@@ -55,6 +59,3 @@ Ba, Ba, Lo
 Ba, Ba, Lo
 Ba
 Jingo
-
-
-

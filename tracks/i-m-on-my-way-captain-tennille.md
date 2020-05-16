@@ -1,9 +1,12 @@
 ---
+album: Dream
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:3DHtrrLYHrtX3CCsYyjdeW
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-on-my-way-captain-tennille
 lyrics_url: https://genius.com/Captain-and-tennille-im-on-my-way-lyrics
 name: I'm On My Way
@@ -32,6 +35,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1978
+runtime: 172426
 ---
 Back home you'll see those ruby berries shine
 Tip your head back, drink that summer wine

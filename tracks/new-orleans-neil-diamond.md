@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:0tsf1sI5lpIuWwIRwYRn3D
 features: []
-genres: []
+first_released_as_single: false
 key: new-orleans-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/neworleans.html
 name: New Orleans
@@ -31,8 +34,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1968
+runtime: 144746
 ---
-
 I said, Hey Hey Hey, Hey Ya
 I said, Hey, Hey Ya Ya
 
@@ -85,6 +89,3 @@ We gonna dance, going to New Orleans.
 That's the place
 I said, come on
 Come on, come on, come on
-
-
-

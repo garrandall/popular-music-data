@@ -1,8 +1,11 @@
 ---
+album: Now And Zen
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:0Q8bcOlWIyfuRPMmSEbuJU
 features: []
-genres: []
+first_released_as_single: false
 key: ship-of-fools-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/shipoffools.html
 name: Ship Of Fools
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1988
+runtime: 300586
 ---
-
 On waves of love my heart is breaking
 And stranger still my self control I can't rely on anymore
 New tides surprise - my world it's changing
@@ -48,6 +52,3 @@ Crazy on a ship of fools
 Crazy on a ship of fools
 Turn this boat around - back to my loving ground
 Oh no, oh no - ship of fools --
-
-
-

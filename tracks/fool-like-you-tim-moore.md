@@ -1,8 +1,11 @@
 ---
+album: Tim Moore
 artists:
 - Tim Moore
+external_ids:
+  spotify: spotify:track:6uRA9xbIgGWCOHoTvKm8IK
 features: []
-genres: []
+first_released_as_single: false
 key: fool-like-you-tim-moore
 lyrics_url: https://www.musixmatch.com/lyrics/Tim-Moore/A-Fool-Like-You
 name: Fool Like You
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1973-04-28'
+release_year: 1973
+runtime: 225640
 ---
 If a fool like you, could listen to a fool like me
 And if the leaves on the trees could stop shaking in the wind

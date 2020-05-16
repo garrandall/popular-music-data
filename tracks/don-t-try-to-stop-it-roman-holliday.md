@@ -1,8 +1,11 @@
 ---
+album: Cookin' On The Roof
 artists:
 - Roman Holliday
+external_ids:
+  spotify: spotify:track:3mTd6VbWfaGeKDKQJuU6hE
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-try-to-stop-it-roman-holliday
 lyrics_url: https://genius.com/Roman-holliday-dont-try-to-stop-it-lyrics
 name: Don't Try To Stop It
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 178426
 ---
 Don't try to stop it
 Don't try to stop it

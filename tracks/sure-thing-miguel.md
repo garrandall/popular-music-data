@@ -1,8 +1,11 @@
 ---
+album: All I Want Is You
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:0JXXNGljqupsJaZsgSbMZV
 features: []
-genres: []
+first_released_as_single: false
 key: sure-thing-miguel
 lyrics_url: https://genius.com/Miguel-sure-thing-lyrics
 name: Sure Thing
@@ -99,6 +102,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
+release_year: 2010
+runtime: 195373
 ---
 Love You Like a brother
 Treat you like a friend

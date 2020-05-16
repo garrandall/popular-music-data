@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:2hh6RGmBNTGB7fi62fYgUL
 features: []
-genres: []
+first_released_as_single: false
 key: why-do-i-love-you-so-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-why-do-i-love-you-so-lyrics
 name: Why Do I Love You So
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1960
+runtime: 127106
 ---
 Oooo - Oooo - Oooo - Oooo...
 

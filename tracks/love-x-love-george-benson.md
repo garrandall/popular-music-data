@@ -1,8 +1,11 @@
 ---
+album: Give Me the Night
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:1Gnufs5iuI3h5ow29J7tOO
 features: []
-genres: []
+first_released_as_single: false
 key: love-x-love-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/lovexlove.html
 name: Love X Love
@@ -31,8 +34,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 286960
 ---
-
 I remember the days when we never had a dime
 And our dreams seemed a million miles away
 But we made it baby, facin' the bad times with a smile
@@ -93,6 +97,3 @@ It sure feels good
 Carry me on through all the years
 Keep me satisfied
 ??
-
-
-

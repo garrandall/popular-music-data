@@ -1,8 +1,11 @@
 ---
+album: Zooropa
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:1E1ylgIWTW2yE0glywYLb6
 features: []
-genres: []
+first_released_as_single: false
 key: stay--faraway-so-close---u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/stayfarawaysoclose.html
 name: Stay (Faraway So Close!)
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
+release_year: 1993
+runtime: 298426
 ---
-
 Green light, Seven Eleven 
 You stop in for a pack of cigarettes 
 You don't smoke, don't even want to 
@@ -114,6 +118,3 @@ Just the bang
 And the clatter 
 As an angel 
 Hits the ground
-
-
-

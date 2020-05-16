@@ -1,8 +1,11 @@
 ---
+album: A Song Will Rise
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:6NsWqQZci3haSRpzc0GygH
 features: []
-genres: []
+first_released_as_single: false
 key: for-lovin--me-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/forlovinme.html
 name: For Lovin' Me
@@ -35,8 +38,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 128266
 ---
-
 That's what you get for lovin' me
 That's what you get for lovin' me
 Everything you had is gone, as you can see
@@ -64,6 +68,3 @@ That's what you get for lovin' me
 That's what you get for lovin' me
 Everything you had is gone, as you can see
 That's what you get for lovin' me.
-
-
-

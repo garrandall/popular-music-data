@@ -1,8 +1,11 @@
 ---
+album: 'Kevin Hart: Let Me Explain Soundtrack'
 artists:
 - Driicky Graham
+external_ids:
+  spotify: spotify:track:3SjX6Upo40LW6gZUwctRs5
 features: []
-genres: []
+first_released_as_single: true
 key: snap-backs---tattoos-driicky-graham
 lyrics_url: https://genius.com/Driicky-graham-snapbacks-and-tattoos-lyrics
 name: Snap Backs & Tattoos
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 209293
 ---
 Snapbacks and tattoos
 Snapbacks and tattoos

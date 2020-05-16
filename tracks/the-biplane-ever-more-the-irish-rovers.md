@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Irish Rovers
 artists:
 - The Irish Rovers
+external_ids:
+  spotify: spotify:track:0pFS3h6oeZtNAnOlsNp6nn
 features: []
-genres: []
+first_released_as_single: false
 key: the-biplane-ever-more-the-irish-rovers
 lyrics_url: https://genius.com/The-irish-rovers-the-biplane-evermore-lyrics
 name: The Biplane Ever More
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 170266
 ---
 Way out at London Airport
 In Hangar Number Four

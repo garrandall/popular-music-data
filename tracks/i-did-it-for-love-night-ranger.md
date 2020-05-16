@@ -1,8 +1,11 @@
 ---
+album: Man In Motion
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:1IL99pXfCyRH8oeNAcVhyw
 features: []
-genres: []
+first_released_as_single: false
 key: i-did-it-for-love-night-ranger
 lyrics_url: https://genius.com/Night-ranger-i-did-it-for-love-lyrics
 name: I Did It For Love
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 287266
 ---
 Every night that I held you
 Made heaven from hell, yea

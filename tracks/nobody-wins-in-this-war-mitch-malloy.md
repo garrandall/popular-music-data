@@ -1,8 +1,11 @@
 ---
+album: Mitch Malloy
 artists:
 - Mitch Malloy
+external_ids:
+  spotify: spotify:track:1E5A6jXmNmWSlmeMntFVY0
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wins-in-this-war-mitch-malloy
 lyrics_url: https://genius.com/Mitch-malloy-nobody-wins-in-this-war-lyrics
 name: Nobody Wins In This War
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1992
+runtime: 254481
 ---
 I'm not alone
 

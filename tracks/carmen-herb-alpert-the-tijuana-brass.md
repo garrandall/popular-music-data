@@ -1,9 +1,12 @@
 ---
+album: Herb Alpert's Ninth
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:12xuDqTLVeX5YGhu6iC42k
 features: []
-genres: []
+first_released_as_single: false
 key: carmen-herb-alpert-the-tijuana-brass
 name: Carmen
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 220373
 ---
 

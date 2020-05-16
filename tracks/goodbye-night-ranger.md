@@ -1,8 +1,11 @@
 ---
+album: 7 Wishes
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:50vyUOJM5ncJ6Y5YWZzXvX
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-night-ranger
 lyrics_url: https://www.azlyrics.com/lyrics/nightranger/goodbye.html
 name: Goodbye
@@ -79,8 +82,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1985
+runtime: 259373
 ---
-
 As the sun hides his head
 For another night's rest
 And the wind sings
@@ -128,6 +132,3 @@ Just a dream so it seems
 I was never much good at goodbye
 
 Goodbye
-
-
-

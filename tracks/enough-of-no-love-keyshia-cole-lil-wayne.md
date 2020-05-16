@@ -1,9 +1,12 @@
 ---
+album: Woman To Woman
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:759b29QKmhaVSAuMp6AfWr
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: enough-of-no-love-keyshia-cole-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/enoughofnolove.html
 name: Enough Of No Love
@@ -44,8 +47,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 229426
 ---
-
 I admit that you almost had me
 I admit I was almost crazy
 Had me thinkin' 'bout callin' that bitch that night
@@ -98,6 +102,3 @@ And I'm riding with a girl name Keisha smoking on Kesha
 Cause I-I can't stay here, if there's no love
 I-I can't stay here, cause I've had enough
 Enough of no love...
-
-
-

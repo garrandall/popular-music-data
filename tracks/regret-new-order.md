@@ -1,8 +1,11 @@
 ---
+album: Republic
 artists:
 - New Order
+external_ids:
+  spotify: spotify:track:0jZQlOxLQY9g5RjOd3Vhn1
 features: []
-genres: []
+first_released_as_single: true
 key: regret-new-order
 lyrics_url: https://genius.com/New-order-regret-lyrics
 name: Regret
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-09-04'
+release_year: 1993
+runtime: 249133
 ---
 Maybe I've forgotten
 The name and the address

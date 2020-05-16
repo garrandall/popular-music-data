@@ -1,8 +1,11 @@
 ---
+album: Back Home Again
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:69HICMmc6nNLucAx3aJX9M
 features: []
-genres: []
+first_released_as_single: false
 key: thank-god-i-m-a-country-boy-john-denver
 lyrics_url: https://genius.com/John-denver-thank-god-im-a-country-boy-lyrics
 name: Thank God I'm A Country Boy
@@ -83,6 +86,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1974
+runtime: 193093
 ---
 Well, life on a farm is kinda laid back
 Ain't much an old country boy like me can't hack

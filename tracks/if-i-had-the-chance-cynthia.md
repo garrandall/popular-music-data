@@ -1,8 +1,11 @@
 ---
+album: Thinking About You
 artists:
 - Cynthia
+external_ids:
+  spotify: spotify:track:43l1tp4xS1xNCjkVkP1S3g
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-the-chance-cynthia
 lyrics_url: https://genius.com/Cynthia-if-i-had-the-chance-lyrics
 name: If I Had The Chance
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 255466
 ---
 If I had the chance
 To make love to you again

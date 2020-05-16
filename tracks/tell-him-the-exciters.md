@@ -1,8 +1,11 @@
 ---
+album: 'The Big Chill: 15th Anniversary'
 artists:
 - The Exciters
+external_ids:
+  spotify: spotify:track:5iuMu4HeOmZ9upoIEYJzGe
 features: []
-genres: []
+first_released_as_single: false
 key: tell-him-the-exciters
 lyrics_url: https://genius.com/The-exciters-tell-him-lyrics
 name: Tell Him
@@ -59,6 +62,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 149933
 ---
 I know something about love
 You've gotta want it bad

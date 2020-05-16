@@ -1,8 +1,11 @@
 ---
+album: Fleetwood Mac
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:6lrQo6KAYvb92MGk6ZuZlt
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-love-me-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-say-you-love-me-lyrics
 name: Say You Love Me
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-11-06'
+release_year: 1975
+runtime: 249946
 ---
 Have mercy, baby, on a poor girl like me
 You know I'm falling, falling, falling at your feet

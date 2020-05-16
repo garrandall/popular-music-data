@@ -1,8 +1,11 @@
 ---
+album: Cold Blooded
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:7LHfhusSfulgzuiMg7e3Cz
 features: []
-genres: []
+first_released_as_single: false
 key: cold-blooded-rick-james
 lyrics_url: https://genius.com/Rick-james-cold-blooded-lyrics
 name: Cold Blooded
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 359280
 ---
 Sexy, sexy, sexy
 Sexy, sexy, sexy

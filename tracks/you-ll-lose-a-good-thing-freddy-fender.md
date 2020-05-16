@@ -1,8 +1,11 @@
 ---
+album: Lovin' Tex-Mex Style
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:3EIBxVplP3wVaQ7voD1LTh
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-lose-a-good-thing-freddy-fender
 lyrics_url: https://genius.com/Freddy-fender-youll-lose-a-good-thing-lyrics
 name: You'll Lose A Good Thing
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1975
+runtime: 161173
 ---
 Well if you lose me, oh yes
 You'll lose a good thing

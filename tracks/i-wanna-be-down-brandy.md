@@ -1,8 +1,11 @@
 ---
+album: Brandy
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:6N9uyMZf9pbNOuomveWscp
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-down-brandy
 lyrics_url: https://genius.com/Brandy-i-wanna-be-down-lyrics
 name: I Wanna Be Down
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
+release_year: 1994
+runtime: 291666
 ---
 I would like to get to know if I could be
 The kind of girl you that you could be down for

@@ -1,8 +1,11 @@
 ---
+album: Aretha Now
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4yQw7FR9lcvL6RHtegbJBh
 features: []
-genres: []
+first_released_as_single: false
 key: think-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-think-lyrics
 name: Think
@@ -47,6 +50,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 139733
 ---
 You better think (think)
 Think about what you're trying to do to me

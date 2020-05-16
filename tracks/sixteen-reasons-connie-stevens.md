@@ -1,8 +1,11 @@
 ---
+album: As Cricket In "Hawaiian Eye"
 artists:
 - Connie Stevens
+external_ids:
+  spotify: spotify:track:0oI0ekrSQ3aHiHcMi1B2gK
 features: []
-genres: []
+first_released_as_single: false
 key: sixteen-reasons-connie-stevens
 lyrics_url: https://genius.com/Connie-stevens-sixteen-reasons-lyrics
 name: Sixteen Reasons
@@ -103,6 +106,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 118133
 ---
 Sixteen Reasons
 Why I love you

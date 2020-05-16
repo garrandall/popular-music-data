@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:5D9WxxdVOHUeBVMkVmQxZm
 features: []
-genres: []
+first_released_as_single: false
 key: sleepy-eyed-john-johnny-horton
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/sleepyeyedjohn.html
 name: Sleepy-Eyed John
@@ -35,8 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1956
+runtime: 159306
 ---
-
 Well, way down yonder on Candy Creek
 I whittled out a fiddle from a wagon seat
 I tune my fiddle and I rub my bow
@@ -86,6 +90,3 @@ Sleepy-eyed John, you better get your britches on
 Sleepy-eyed John better tie your shoe
 Sleepy-eyed John, you better get your britches on
 Try to get to heaven 'for the devil gets to you
-
-
-

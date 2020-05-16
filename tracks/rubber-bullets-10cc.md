@@ -1,8 +1,11 @@
 ---
+album: 10cc
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:1QQgSUKCG8GakzMOwi4lFS
 features: []
-genres: []
+first_released_as_single: false
 key: rubber-bullets-10cc
 lyrics_url: https://www.azlyrics.com/lyrics/10cc/rubberbullets.html
 name: Rubber Bullets
@@ -39,8 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 318853
 ---
-
 I went to a party at the local county jail
 All the cons were dancing and the band began to wail
 But the guys were indiscreet
@@ -99,6 +103,3 @@ At the local dance at the local county jail
 
 Whatcha gonna do about it, whatcha gonna do
 Whatcha gonna do about it, whatcha gonna do
-
-
-

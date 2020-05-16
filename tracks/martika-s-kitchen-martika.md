@@ -1,8 +1,11 @@
 ---
+album: Martika's Kitchen
 artists:
 - Martika
+external_ids:
+  spotify: spotify:track:3gQKLNBf70Qdj7hU72g7k1
 features: []
-genres: []
+first_released_as_single: false
 key: martika-s-kitchen-martika
 lyrics_url: https://genius.com/Martika-martikas-kitchen-lyrics
 name: Martika's Kitchen
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 307786
 ---
 Wooo, here we go
 The table's set, baby

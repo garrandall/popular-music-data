@@ -1,8 +1,11 @@
 ---
+album: A View From 3rd Street
 artists:
 - Jude Cole
+external_ids:
+  spotify: spotify:track:0Cnb92tJbXRrqi1FhfyPpY
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-tonight-jude-cole
 lyrics_url: https://genius.com/Jude-cole-baby-its-tonight-lyrics
 name: Baby It's Tonight
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
+release_year: 1990
+runtime: 217933
 ---
 Won't you pick up the phone, 'cause I know that you're home
 Too many words have not been said for us to be living alone

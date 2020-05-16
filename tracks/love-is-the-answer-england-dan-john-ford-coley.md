@@ -1,9 +1,12 @@
 ---
+album: Dr. Heckle & Mr. Jive
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:2jto2mk883akXynLqkdung
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-the-answer-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-love-is-the-answer-lyrics
 name: Love Is The Answer
@@ -80,6 +83,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
+release_year: 1978
+runtime: 284720
 ---
 Name your price
 A ticket to paradise

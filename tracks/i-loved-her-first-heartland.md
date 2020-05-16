@@ -1,8 +1,11 @@
 ---
+album: I Loved Her First
 artists:
 - Heartland
+external_ids:
+  spotify: spotify:track:0fZq48okuWkpAgjsWogAJ4
 features: []
-genres: []
+first_released_as_single: false
 key: i-loved-her-first-heartland
 lyrics_url: https://genius.com/Heartland-i-loved-her-first-lyrics
 name: I Loved Her First
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-01-06'
+release_year: 2006
+runtime: 212013
 ---
 Look at the two of you dancing that way
 Lost in the moment and each other's face

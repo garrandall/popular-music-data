@@ -1,9 +1,12 @@
 ---
+album: Let It Loose
 artists:
 - Gloria Estefan
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:6k6bwPqngQMFBpoimRV7ID
 features: []
-genres: []
+first_released_as_single: false
 key: betcha-say-that-gloria-estefan-miami-sound-machine
 lyrics_url: https://genius.com/Gloria-estefan-and-miami-sound-machine-betcha-say-that-lyrics
 name: Betcha Say That
@@ -52,6 +55,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 276666
 ---
 Betcha say that
 Betcha say that

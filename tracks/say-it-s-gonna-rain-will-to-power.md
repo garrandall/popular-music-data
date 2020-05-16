@@ -1,8 +1,11 @@
 ---
+album: Will To Power
 artists:
 - Will To Power
+external_ids:
+  spotify: spotify:track:08PPWoWOXNWxWoMGSADdSq
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-s-gonna-rain-will-to-power
 lyrics_url: https://genius.com/Will-to-power-say-its-gonna-rain-lyrics
 name: Say It's Gonna Rain
@@ -63,6 +66,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1988
+runtime: 232893
 ---
 You say it's gonna rain
 And no one's gonna go out tonight

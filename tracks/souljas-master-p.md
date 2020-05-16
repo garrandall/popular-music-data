@@ -1,8 +1,11 @@
 ---
+album: Best Of Master P
 artists:
 - Master P
+external_ids:
+  spotify: spotify:track:1mtUwv8L4nhMRfbP2pa36V
 features: []
-genres: []
+first_released_as_single: false
 key: souljas-master-p
 lyrics_url: https://www.azlyrics.com/lyrics/masterp/souljas.html
 name: Souljas
@@ -11,9 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
+release_year: 2000
+runtime: 212706
 ---
-
-
 You in the ghetto.. and you ain't got no hustlin skills?
 GET DOWN AND GIVE ME TEN PRIVATE!
 (Where y'all at? Where y'all at? Where y'all at? Where y'all at?)
@@ -86,6 +89,3 @@ Ride ride niggas (ride ride) Lah lah
 DJ's.. hut one, hut two.. hut one, hut two
 Hut one, hut two..
 DJ cut the fuckin lights off cause I'm through!
-
-
-

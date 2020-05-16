@@ -1,8 +1,11 @@
 ---
+album: Adrenaline Rush
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:03DrwKCR5YhSyQiAQUqzxK
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-wet-twista
 lyrics_url: https://genius.com/Twista-get-it-wet-lyrics
 name: Get It Wet
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1997
+runtime: 242960
 ---
 Dear love I was thinking how I should be starting this
 Magnificent ways to light your life up like an arsonist

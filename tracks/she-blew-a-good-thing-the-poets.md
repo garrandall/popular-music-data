@@ -1,8 +1,11 @@
 ---
+album: 'The Sue Records Story: The Sound Of Soul'
 artists:
 - The Poets
+external_ids:
+  spotify: spotify:track:4zZ1AsMhireArLtGjmANGp
 features: []
-genres: []
+first_released_as_single: false
 key: she-blew-a-good-thing-the-poets
 lyrics_url: https://genius.com/The-poets-she-blew-a-good-thing-lyrics
 name: She Blew A Good Thing
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 169000
 ---
 She blew a good thing
 She blew a good thing

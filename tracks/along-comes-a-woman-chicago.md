@@ -1,8 +1,11 @@
 ---
+album: Chicago 17
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:6DW3KgSRAJ01nKUpfccktX
 features: []
-genres: []
+first_released_as_single: false
 key: along-comes-a-woman-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/alongcomesawoman.html
 name: Along Comes A Woman
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-06-08'
+release_year: 1984
+runtime: 255093
 ---
-
 There is a time when a man needs someone to talk to
 Someone to talk to, somebody who'll always be there
 All alone, nothin' seemed to matter
@@ -98,4 +102,3 @@ Now she's here, nothin' seems to matter
 She's so near, everything is better
 Can't explain, somethin' that you're feelin'
 For the very first time
-

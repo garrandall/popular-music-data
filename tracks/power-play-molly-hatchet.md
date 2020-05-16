@@ -1,8 +1,11 @@
 ---
+album: Take No Prisoners
 artists:
 - Molly Hatchet
+external_ids:
+  spotify: spotify:track:7fKLncPGqlidunA6OKqX2f
 features: []
-genres: []
+first_released_as_single: false
 key: power-play-molly-hatchet
 lyrics_url: https://www.azlyrics.com/lyrics/mollyhatchet/powerplay.html
 name: Power Play
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1981
+runtime: 224400
 ---
-
 What you gona do
 When you're feelin' blue
 You think you're lookin'
@@ -88,6 +92,3 @@ Did you burn all your bridges behind
 Is there another way back
 To that good old track
 Or are we just wasting our time.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:4tRBCyT1lpmvnaix4OVqdE
 features: []
-genres: []
+first_released_as_single: false
 key: only-love-can-break-a-heart-gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-only-love-can-break-a-heart-lyrics
 name: Only Love Can Break A Heart
@@ -63,6 +66,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 169560
 ---
 Only love can break a heart, only love can mend it again
 

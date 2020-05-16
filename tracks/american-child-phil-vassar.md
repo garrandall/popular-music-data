@@ -1,8 +1,11 @@
 ---
+album: American Child
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:3BcGTyGnofcaQlxEaHyuPD
 features: []
-genres: []
+first_released_as_single: false
 key: american-child-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/americanchild.html
 name: American Child
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
+release_year: 2000
+runtime: 189373
 ---
-
 I was ten,
 I was thin,
 I was playing first base
@@ -102,6 +106,3 @@ An American child
 Oh, an American child
 'Cause dreams can grow wild born inside an American child
 An American child
-
-
-

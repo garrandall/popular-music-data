@@ -1,8 +1,11 @@
 ---
+album: Takin' It to the Streets
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:5wFdcY9O6cEn1PL6V3AEmu
 features: []
-genres: []
+first_released_as_single: false
 key: it-keeps-you-runnin--the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-it-keeps-you-runnin-lyrics
 name: It Keeps You Runnin'
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 257079
 ---
 Say, where you gonna go?
 Girl, where you gonna hide?

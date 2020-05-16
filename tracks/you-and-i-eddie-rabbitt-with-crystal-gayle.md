@@ -1,9 +1,12 @@
 ---
+album: Radio Romance
 artists:
 - Eddie Rabbitt
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:7sWlOFUnQShNdxgk1B0TuW
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-i-eddie-rabbitt-with-crystal-gayle
 lyrics_url: https://genius.com/Eddie-rabbitt-you-and-i-lyrics
 name: You And I
@@ -124,6 +127,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1982
+runtime: 241040
 ---
 Just you and I
 Sharing our love together

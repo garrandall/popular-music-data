@@ -1,8 +1,11 @@
 ---
+album: Who's Zoomin' Who?
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2kDMh0Imubeo6BkV1mY7vm
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-zoomin--who-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/whoszoominwho.html
 name: Who's Zoomin' Who
@@ -83,8 +86,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 284506
 ---
-
 Oh, boy
 Oh, yeah yeah
 Oh yeah
@@ -190,6 +194,3 @@ Who's zoomin', who's foolin'
 (Who's zoomin' who?)
 Oh, oh boy
 (Who's zoomin' who?)
-
-
-

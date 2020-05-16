@@ -1,8 +1,11 @@
 ---
+album: Jet Black and Jealous
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:3RFwzA2lXqIzoXHVbeLH1d
 features: []
-genres: []
+first_released_as_single: false
 key: always-the-love-songs-eli-young-band
 lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/alwaysthelovesongs.html
 name: Always The Love Songs
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 221800
 ---
-
 We used to pull off Highway 249
 Had a cool little place where we'd go and hide on Friday night
 And get away from the city lights
@@ -96,6 +100,3 @@ It was the love songs always the love songs
 
 Always the love songs
 Always the love songs
-
-
-

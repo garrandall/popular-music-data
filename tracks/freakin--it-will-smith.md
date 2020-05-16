@@ -1,8 +1,11 @@
 ---
+album: Willennium
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:6jdbqLEusznJd7N5XwSCrN
 features: []
-genres: []
+first_released_as_single: false
 key: freakin--it-will-smith
 lyrics_url: https://www.azlyrics.com/lyrics/willsmith/freakinit.html
 name: Freakin' It
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
+release_year: 1995
+runtime: 238466
 ---
-
 Uh, uh
 I'm bout to freak this
 Ha, ha, ha, ha
@@ -134,6 +138,3 @@ Don't sleep I'm gonna freak this (yeah, yeah)
 What you want me to freak this? (yeah, yeah)
 Big Will just freak this (yeah, yeah)
 Ha, ha
-
-
-

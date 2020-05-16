@@ -1,8 +1,11 @@
 ---
+album: Crickets
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:43lL05gZ1DqG4YJ74rCPmM
 features: []
-genres: []
+first_released_as_single: false
 key: yeah-joe-nichols
 lyrics_url: https://genius.com/Joe-nichols-yeah-lyrics
 name: Yeah
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
+release_year: 2013
+runtime: 231026
 ---
 It was just another night in the hayfield
 'Til she climbed down off of them four wheels

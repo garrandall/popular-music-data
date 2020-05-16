@@ -1,8 +1,11 @@
 ---
+album: Natural Selection
 artists:
 - Fuel
+external_ids:
+  spotify: spotify:track:2P5UsWc1YQlJG4IEF6XZNb
 features: []
-genres: []
+first_released_as_single: true
 key: falls-on-me-fuel
 lyrics_url: https://genius.com/Fuel-falls-on-me-lyrics
 name: Falls On Me
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 255626
 ---
 I've seen you hanging 'round
 This darkness where I'm bound

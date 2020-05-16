@@ -1,8 +1,11 @@
 ---
+album: Upstairs At Eric's
 artists:
 - Yaz
+external_ids:
+  spotify: spotify:track:1QlogZxaAT35c3HqjJt1JH
 features: []
-genres: []
+first_released_as_single: false
 key: situation-yaz
 lyrics_url: https://genius.com/Yazoo-situation-lyrics
 name: Situation
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 346800
 ---
 Blue eyed dressed for every situation
 Moving through the doorway of a nation

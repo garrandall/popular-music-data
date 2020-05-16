@@ -1,10 +1,13 @@
 ---
+album: The Blueprint 3
 artists:
 - Jay-Z
 - Rihanna
 - Kanye West
+external_ids:
+  spotify: spotify:track:7LR85XLWw2yXqKBSI5brbG
 features: []
-genres: []
+first_released_as_single: false
 key: run-this-town-jay-z-rihanna-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/runthistown.html
 name: Run This Town
@@ -101,9 +104,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
+release_year: 2009
+runtime: 267520
 ---
-
-
 Feel it comin' in the air
 Hear the screams from everywhere
 I'm addicted to the thrill
@@ -239,6 +242,3 @@ We gon' run this town tonight!
 
 
 Wassup!
-
-
-

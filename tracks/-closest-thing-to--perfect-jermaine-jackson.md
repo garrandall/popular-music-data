@@ -1,8 +1,11 @@
 ---
+album: Precious Moments
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:19oeN5yHxwFuRL19L9XmCa
 features: []
-genres: []
+first_released_as_single: false
 key: -closest-thing-to--perfect-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/closestthingtoperfect.html
 name: (Closest Thing To) Perfect
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 351893
 ---
-
 Whoa, oh
 Whoa, oh
 Whoa, oh
@@ -112,6 +116,3 @@ Whoa, oh
 Whoa, oh
 She's the closest thing
 To perfect that I've ever seen
-
-
-

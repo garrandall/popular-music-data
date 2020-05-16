@@ -1,8 +1,11 @@
 ---
+album: You Could Have Been With Me
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:1ONz7ocoJticKL8bw6cYEf
 features: []
-genres: []
+first_released_as_single: false
 key: you-could-have-been-with-me-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-brindo-por-un-amor-you-could-have-been-with-me-lyrics
 name: You Could Have Been With Me
@@ -79,6 +82,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 217520
 ---
 You're the seventh son of the seventh son
 Maybe that's why you're such a strange and special one

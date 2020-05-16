@@ -1,8 +1,11 @@
 ---
+album: His California Album
 artists:
 - Bobby "Blue" Bland
+external_ids:
+  spotify: spotify:track:5c8zraa52a8VvBqdmfEHsu
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-i-m-gone-for-good-bobby--blue--bland
 lyrics_url: https://genius.com/Bobby-blue-bland-this-time-im-gone-for-good-lyrics
 name: This Time I'm Gone For Good
@@ -59,6 +62,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 213200
 ---
 I shoulda stayed gone
 When I left before

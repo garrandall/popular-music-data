@@ -1,8 +1,11 @@
 ---
+album: Eyes That See In The Dark
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:0bYE7YWalwykPTEuDNKQsk
 features: []
-genres: []
+first_released_as_single: false
 key: this-woman-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-this-woman-lyrics
 name: This Woman
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1983
+runtime: 238893
 ---
 Well, she walks like you
 In so many ways

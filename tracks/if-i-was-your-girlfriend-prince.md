@@ -1,8 +1,11 @@
 ---
+album: Sign "O" the Times
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:6yK7QgE4H7dIzHa9EV4FKL
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-was-your-girlfriend-prince
 lyrics_url: https://genius.com/Prince-if-i-was-your-girlfriend-lyrics
 name: If I Was Your Girlfriend
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1987
+runtime: 301733
 ---
 "Look at the bargains over here, ladies..."
 

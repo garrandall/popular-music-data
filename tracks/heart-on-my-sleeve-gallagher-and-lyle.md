@@ -1,8 +1,11 @@
 ---
+album: Live At De Montfort Hall, Leicester 1977
 artists:
 - Gallagher And Lyle
+external_ids:
+  spotify: spotify:track:6jirX0M2NycELVWWukspYY
 features: []
-genres: []
+first_released_as_single: false
 key: heart-on-my-sleeve-gallagher-and-lyle
 lyrics_url: https://genius.com/Gallagher-and-lyle-heart-on-my-sleeve-lyrics
 name: Heart On My Sleeve
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
+release_year: 1976
+runtime: 242922
 ---
 I wear my heart on my sleeve, I'm not afraid
 To say what I mean, mean what I say

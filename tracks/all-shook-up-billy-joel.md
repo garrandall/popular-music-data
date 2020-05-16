@@ -1,8 +1,11 @@
 ---
+album: Honeymoon In Vegas (Original Motion Picture Soundtrack)
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3bUxhKMDYo6PU2rzaBattI
 features: []
-genres: []
+first_released_as_single: false
 key: all-shook-up-billy-joel
 lyrics_url: https://genius.com/Billy-joel-all-shook-up-lyrics
 name: All Shook Up
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
+release_year: 1992
+runtime: 128800
 ---
 Well I bless my soul, what's wrong with me?
 I'm itching like a man on a fuzzy tree

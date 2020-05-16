@@ -1,8 +1,11 @@
 ---
+album: Odyssey
 artists:
 - Odyssey
+external_ids:
+  spotify: spotify:track:1jR4bgFyL3ut5ExAKDDNEZ
 features: []
-genres: []
+first_released_as_single: false
 key: native-new-yorker-odyssey
 lyrics_url: https://genius.com/Odyssey-native-new-yorker-lyrics
 name: Native New Yorker
@@ -83,6 +86,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
+release_year: 1977
+runtime: 336466
 ---
 New York girl, oh oohohoh
 Runnin' pretty, New York City girl

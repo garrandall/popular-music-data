@@ -1,8 +1,11 @@
 ---
+album: All Aglow Again!
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:2yHjH1u9ezBZUGUIlCXh7H
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-i-love-him-so-peggy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/peggylee/hallelujahilovehimso.html
 name: Hallelujah I Love Him So
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 149973
 ---
-
 Let me tell you bout a boy I know
 He is my baby and he loves me so
 Every morning before the sun comes up
@@ -60,6 +64,3 @@ He tells me "baby everything's all alright"
 That's why I know, yes I know
 Hallelujah I just love him so 
 Hallelujah I just love him so
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:6IcoSnfvwFlYtYxu5TKbgg
 features: []
-genres: []
+first_released_as_single: false
 key: in-america-the-charlie-daniels-band
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/inamerica.html
 name: In America
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1973
+runtime: 198373
 ---
 Well the eagle's been flyin' slow
 And the flag's been flyin' low

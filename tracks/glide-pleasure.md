@@ -1,8 +1,11 @@
 ---
+album: The Greatest Of Pleasure
 artists:
 - Pleasure
+external_ids:
+  spotify: spotify:track:0f9Nl6xN9hDYW5mz4CekXs
 features: []
-genres: []
+first_released_as_single: false
 key: glide-pleasure
 lyrics_url: https://www.musixmatch.com/lyrics/Pleasure/Glide
 name: Glide
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 388773
 ---
 Car won't start, out of gas
 Check past two, reserves won't last

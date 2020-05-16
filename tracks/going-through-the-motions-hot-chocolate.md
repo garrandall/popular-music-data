@@ -1,8 +1,11 @@
 ---
+album: Electropop Classics
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:3cVoaUfwZ355EwcjrrBiz4
 features: []
-genres: []
+first_released_as_single: false
 key: going-through-the-motions-hot-chocolate
 lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/goingthroughthemotions.html
 name: Going Through The Motions
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 251026
 ---
-
 Just goin' through the motions
 Goin' through the motions
 Goin' through the motions
@@ -102,6 +106,3 @@ I can feel your love, baby
 Feel it flowing away, flowing away, flowing away, flowing away
 I can feel your love, baby
 Feel it flowing away, flowing away, flowing away, flowing away
-
-
-

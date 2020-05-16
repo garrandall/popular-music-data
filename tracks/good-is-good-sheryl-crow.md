@@ -1,8 +1,11 @@
 ---
+album: Wildflower
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:601zxWQ3WNJFnIOSrTiEkH
 features: []
-genres: []
+first_released_as_single: false
 key: good-is-good-sheryl-crow
 lyrics_url: https://genius.com/Sheryl-crow-good-is-good-lyrics
 name: Good Is Good
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2005
+runtime: 257266
 ---
 Good is good and bad is bad
 But you don't know which one you had

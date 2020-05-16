@@ -1,8 +1,11 @@
 ---
+album: Rap & R'n'B Mixtape
 artists:
 - All Saints
+external_ids:
+  spotify: spotify:track:472ixZe8ToUyatXiZxPsPU
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-where-it-s-at-all-saints
 lyrics_url: https://genius.com/All-saints-i-know-where-its-at-lyrics
 name: I Know Where It's At
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-05-30'
+release_year: 1998
+runtime: 260600
 ---
 I know where it's at
 I know where it's at (I know where it's at)

@@ -1,8 +1,11 @@
 ---
+album: Brand New Me
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:7awYVgOAmDqQIswnzClZDC
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-strong-survive-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-only-the-strong-survive-lyrics
 name: Only The Strong Survive
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 155733
 ---
 I remember my first love affair
 Somehow or another the whole darn thing went wrong

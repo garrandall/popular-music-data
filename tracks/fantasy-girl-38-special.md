@@ -1,8 +1,11 @@
 ---
+album: Wild-Eyed Southern Boys
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:2YnONzNDNwNELVLOS7wIgZ
 features: []
-genres: []
+first_released_as_single: false
 key: fantasy-girl-38-special
 lyrics_url: https://www.azlyrics.com/lyrics/38special/fantasygirl.html
 name: Fantasy Girl
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1980
+runtime: 247266
 ---
-
 Lately I'm learnin'
 That so many yearnings are never to be
 The childhood illusions
@@ -92,6 +96,3 @@ Hold on to me
 You're my fantasy girl
 Don't set me free, yeah
 From this fantasy
-
-
-

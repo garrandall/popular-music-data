@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:19a3JfW8BQwqHWUMbcqSx8
 features: []
-genres: []
+first_released_as_single: false
 key: famous-kanye-west
 lyrics_url: https://genius.com/Kanye-west-famous-lyrics
 name: Famous
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-09-24'
+release_year: 2016
+runtime: 196040
 ---
 Man, I can understand how it might be
 Kinda hard to love a girl like me

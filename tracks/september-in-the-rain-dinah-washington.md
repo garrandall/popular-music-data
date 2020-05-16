@@ -1,8 +1,11 @@
 ---
+album: September In The Rain
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:2csA2nDUNR5TfQEn1I7nt4
 features: []
-genres: []
+first_released_as_single: false
 key: september-in-the-rain-dinah-washington
 lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/septemberintherain.html
 name: September In The Rain
@@ -51,8 +54,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1961
+runtime: 129333
 ---
-
 The leaves of brown
 Came tumblin' down, remember
 In September in the rain
@@ -79,6 +83,3 @@ Though spring is here
 To me it's still September
 That September in the rain
 That September in the rain
-
-
-

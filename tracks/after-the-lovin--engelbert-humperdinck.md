@@ -1,8 +1,11 @@
 ---
+album: Live In Concert / All of Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:3boEDzixHH1X6yNMikOCmB
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-lovin--engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/afterthelovin.html
 name: After The Lovin'
@@ -83,8 +86,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1968
+runtime: 204666
 ---
-
 So I sing you to sleep
 After the lovin'
 With a song I just wrote yesterday
@@ -125,6 +129,3 @@ Yes, after the lovin' (after the lovin')
 I'm still in love with you
 Hm, after the lovin'
 I'm still in love with you
-
-
-

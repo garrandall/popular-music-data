@@ -1,8 +1,11 @@
 ---
+album: Brave New Hope
 artists:
 - Basia
+external_ids:
+  spotify: spotify:track:3exzd6B632QnbjvjXNtKGJ
 features: []
-genres: []
+first_released_as_single: false
 key: cruising-for-bruising-basia
 lyrics_url: https://www.azlyrics.com/lyrics/basia/cruisingforbruising.html
 name: Cruising For Bruising
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1986
+runtime: 407266
 ---
-
 Cry
 Come to me and cry
 I know, I know, I know it's not easy
@@ -127,6 +131,3 @@ So bye for now
 Don't let it die
 'Cause we can try
 Some other time
-
-
-

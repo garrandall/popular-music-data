@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2lleIGI5aBkn3oMCvDnAHs
 features: []
-genres: []
+first_released_as_single: false
 key: good-vibrations-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/goodvibrations.html
 name: Good Vibrations
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 253333
 ---
-
 Yeah
 Can you feel it baby
 I can too
@@ -96,4 +100,3 @@ It's such a good vibration
 Come on come on come on
 It's such a sweet sensation
 Feel it feel it
-

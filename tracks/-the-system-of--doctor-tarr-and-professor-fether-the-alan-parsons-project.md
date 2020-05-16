@@ -1,8 +1,11 @@
 ---
+album: Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2IfpSQcggsntXGjXRFWj1b
 features: []
-genres: []
+first_released_as_single: false
 key: -the-system-of--doctor-tarr-and-professor-fether-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/thesystemofdoctortarrandprofessorfether.html
 name: (The System Of) Doctor Tarr And Professor Fether
@@ -47,8 +50,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 260852
 ---
-
 JUST what you need to make you feel better
 Just what you need to make you feel
 Just what you need to make you feel better
@@ -85,6 +89,3 @@ Don't stop bringin' the girls round
 Don't start havin' a showdown
 Keep on handin' the jug round
 All that you need is wine and good company
-
-
-

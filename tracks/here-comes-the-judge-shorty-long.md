@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles - Vol. 8: 1968'
 artists:
 - Shorty Long
+external_ids:
+  spotify: spotify:track:3sWVdMFlcUzA8p93yIjR2f
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-judge-shorty-long
 lyrics_url: https://genius.com/Shorty-long-here-comes-the-judge-lyrics
 name: Here Comes The Judge
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
+release_year: 1968
+runtime: 154720
 ---
 Hear ye, hear ye
 The court's in session

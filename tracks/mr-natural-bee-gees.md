@@ -1,8 +1,11 @@
 ---
+album: Mr. Natural
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2C86Vf9K43LG8GWCHObAzP
 features: []
-genres: []
+first_released_as_single: false
 key: mr-natural-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/mrnatural.html
 name: Mr Natural
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1974
+runtime: 228466
 ---
-
 Burning embers.
 I still remember all of those little things.
 But I don't feel it so much 'cause I am so out of touch
@@ -58,4 +62,3 @@ Still I try try try try try .
 Mr. Natural ( come on baby)
 Well I try try try try try
 Mr. Natural (come on baby)
-

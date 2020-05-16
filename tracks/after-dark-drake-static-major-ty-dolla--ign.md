@@ -1,10 +1,13 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3mvYQKm8h6M5K5h0nVPY9S
 features:
 - Static Major
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: after-dark-drake-static-major-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/drake/afterdark.html
 name: After Dark
@@ -21,8 +24,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 289560
 ---
-
 Haha, haha
 Yeah, ayy
 (After dark)
@@ -85,6 +89,3 @@ Giving you whatever and more, the selected music of Mr Luther Van Dross
 As we kick off your first hour of your most selective, most seductive, most relaxing four hours of the 93-7
 It's Al Wood and you are safe, soft, and warm
 In the loving embrace of my storm on BLK
-
-
-

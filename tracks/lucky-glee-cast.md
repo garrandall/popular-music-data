@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4BaEOfLHGeP9gw5ToeiY7a
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/lucky.html
 name: Lucky
@@ -11,8 +14,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 187560
 ---
-
 Do you hear me,
 I'm talking to you
 Across the water across the deep blue ocean
@@ -60,6 +64,3 @@ Lucky to be coming home someday
 
 Oh oh ohhohoh oh
 Oh oh ohhohoh oh
-
-
-

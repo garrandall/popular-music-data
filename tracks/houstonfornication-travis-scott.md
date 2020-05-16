@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:58TaFP5j5i9swOf584yon2
 features: []
-genres: []
+first_released_as_single: false
 key: houstonfornication-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/houstonfornication.html
 name: Houstonfornication
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 217828
 ---
-
 I might need me some ventilation
 A little vacation, Houstonfornication
 Mind redefine new renovations
@@ -79,6 +83,3 @@ Space coupe back out of the space station
 If it rise on the East land on the West
 We gon' make that shit pop, bust it for a check
 Call the plays, link the squad, we gon' make it cash
-
-
-

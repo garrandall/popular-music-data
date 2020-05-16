@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:5aJEh9Oqdz7PRLKTpH25pB
 features: []
-genres: []
+first_released_as_single: true
 key: lights-up-harry-styles
 lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/lightsup.html
 name: Lights Up
@@ -27,8 +30,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 172213
 ---
-
 What do you mean?
 I'm sorry by the way
 I'm never coming back down
@@ -81,6 +85,3 @@ Running through my heart
 Lights up and they know who you are
 Know who you are
 Do you know who you are?
-
-
-

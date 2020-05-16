@@ -1,8 +1,11 @@
 ---
+album: Leftover Wine
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:03ZNi8z55noym1Yo6KnGNz
 features: []
-genres: []
+first_released_as_single: false
 key: peace-will-come--according-to-plan--melanie
 lyrics_url: https://www.azlyrics.com/lyrics/melanie/peacewillcomeaccordingtoplan.html
 name: Peace Will Come (According To Plan)
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 288720
 ---
-
 There's a chance peace will come in your life please buy one
 There's a chance peace will come in your life please buy one
 
@@ -81,6 +85,3 @@ And our hands are clutching the sand
 
 There's a chance peace will come in your life please buy one
 There's a chance peace will come in your life please buy one...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Earth
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:3vDIydZKbwViSP22sTyzGm
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-feelin--jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/crazyfeelin.html
 name: Crazy Feelin'
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1978
+runtime: 218106
 ---
-
 I love you so you'll never know 
 don't ever stop believing 
 out of out minds time after time 
@@ -53,6 +57,3 @@ changin' it to real
 whenever we are one 
 it's true it's always me and you 
 thru any kinda weather...
-
-
-

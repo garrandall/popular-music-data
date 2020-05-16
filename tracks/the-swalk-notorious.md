@@ -1,8 +1,11 @@
 ---
+album: Radio Silence
 artists:
 - Notorious
+external_ids:
+  spotify: spotify:track:13Zm0LWvvGrwWUfjlHl2D5
 features: []
-genres: []
+first_released_as_single: false
 key: the-swalk-notorious
 name: The Swalk
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 230933
 ---
 

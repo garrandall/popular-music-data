@@ -1,8 +1,11 @@
 ---
+album: Big Band Plays The Big Hits, Vol. 1
 artists:
 - Si Zentner
+external_ids:
+  spotify: spotify:track:1qysQ9JXd8gUbs4oLO5oSd
 features: []
-genres: []
+first_released_as_single: false
 key: up-a-lazy-river-si-zentner-and-his-orchestra
 name: Up A Lazy River
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 124866
 ---
 

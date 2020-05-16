@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:6Jm93p3ISmnMDH3IlN3vxG
 features: []
-genres: []
+first_released_as_single: false
 key: wait-a-minute-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/waitaminute.html
 name: Wait A Minute
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 159666
 ---
-
 Wait a minute let me understand
 While I'm a-sittin' here holdin' your hand
 Your tellin' me about the boy next door
@@ -102,6 +106,3 @@ You might as well forget it
 Why, you can just go on on and forget about
 The whole cotton pickin' affair
 I get so tired
-
-
-

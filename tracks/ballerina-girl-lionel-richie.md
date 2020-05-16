@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:2fNx5nTZGjniOMT5FMcTyE
 features: []
-genres: []
+first_released_as_single: false
 key: ballerina-girl-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/ballerinagirl.html
 name: Ballerina Girl
@@ -79,8 +82,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 217826
 ---
-
 Ballerina girl
 You are so lovely
 With you standing there
@@ -124,6 +128,3 @@ I can see in you
 My dreams come true
 Don't you ever go away
 Ballerina Girl...
-
-
-

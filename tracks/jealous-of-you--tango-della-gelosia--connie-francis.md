@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:46unS3rBtRa1IhXPhojYnj
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-of-you--tango-della-gelosia--connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/jealousofyoutangodellagelosia.html
 name: Jealous Of You (Tango Della Gelosia)
@@ -51,8 +54,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 147133
 ---
-
 Your eyes may thrill me with gladness
 And tell me you're true, dear
 Yet thoughts still fill me with sadness
@@ -76,6 +80,3 @@ Fear that someday we may part
 Still consumes me with pain
 What would become of my heart
 If I loved you in vain
-
-
-

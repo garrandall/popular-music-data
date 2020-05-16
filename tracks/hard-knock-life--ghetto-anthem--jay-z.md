@@ -1,8 +1,11 @@
 ---
+album: Vol.2 ... Hard Knock Life
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:2YIjojA9bKEcD4ScEiBg2q
 features: []
-genres: []
+first_released_as_single: false
 key: hard-knock-life--ghetto-anthem--jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/hardknocklifeghettoanthem.html
 name: Hard Knock Life (Ghetto Anthem)
@@ -95,9 +98,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1998
+runtime: 238560
 ---
-
-
 Check the bassline out, uh-huh
 Jigga (bounce wit it), uh-huh uh-huh uh-huh, yeahh
 Let it bump though
@@ -187,6 +190,3 @@ Steada kisses, we get kicked
 It's the hard knock life!
 .. It's the hard knock life!
 .. It's the hard knock life!
-
-
-

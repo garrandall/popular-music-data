@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tom Jones Country Hits 20th Century Masters The Millennium Collection
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:2BWK9am114SC2Cq5KL2Fbs
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-ll-stay-until-tomorrow-tom-jones
 lyrics_url: https://genius.com/Tom-jones-say-youll-stay-until-tomorrow-lyrics
 name: Say You'll Stay Until Tomorrow
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1977
+runtime: 213240
 ---
 Say you'll stay untill tomorrow
 I can't face tonight alone

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Bobby Hatfield
+external_ids:
+  spotify: spotify:track:32HYJoyWuZ8ETsj8A5stoY
 features: []
-genres: []
+first_released_as_single: false
 key: only-you--and-you-alone--bobby-hatfield
 name: Only You (And You Alone)
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 168013
 ---
 

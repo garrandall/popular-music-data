@@ -1,8 +1,11 @@
 ---
+album: 20 Grandi Successi
 artists:
 - Emilio Pericoli
+external_ids:
+  spotify: spotify:track:35otfav3M63FLEaANURKP0
 features: []
-genres: []
+first_released_as_single: false
 key: al-di-la--emilio-pericoli
 lyrics_url: https://genius.com/Emilio-pericoli-al-di-la-lyrics
 name: Al Di La'
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 244784
 ---
 Al di la means you are far above me, very far
 Al di la, as distant as the lovely evening star

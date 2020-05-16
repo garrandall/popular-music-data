@@ -1,8 +1,11 @@
 ---
+album: 'Come Softly To Me: The Very Best Of The Fleetwoods'
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:603N4XGJUTbK760GLCvIIs
 features: []
-genres: []
+first_released_as_single: false
 key: come-softly-to-me-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-come-softly-to-me-lyrics
 name: Come Softly To Me
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 144933
 ---
 Doo dooby doo
 Dum dum, dum doo dum, dooby doo

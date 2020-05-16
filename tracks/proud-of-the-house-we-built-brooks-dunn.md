@@ -1,9 +1,12 @@
 ---
+album: Cowboy Town
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:7dP5CWoAZlHVBzNAsSxYP1
 features: []
-genres: []
+first_released_as_single: false
 key: proud-of-the-house-we-built-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/proudofthehousewebuilt.html
 name: Proud Of The House We Built
@@ -68,8 +71,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 226186
 ---
-
 I dropped to my knees in that field on your daddy's farm.
 Asked you to marry me, all I had to give was my heart.
 While other kids went diving into swimming holes,
@@ -114,6 +118,3 @@ It's not a big place sittin' up high on some hill.
 A lot of things will come and go but love never will.
 Oh, I'm proud.
 I'm proud of the house we built
-
-
-

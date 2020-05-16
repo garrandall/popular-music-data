@@ -1,8 +1,11 @@
 ---
+album: At Last!
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:5jcNL4DreI4z4XnTfsx9SQ
 features: []
-genres: []
+first_released_as_single: false
 key: my-dearest-darling-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/mydearestdarling.html
 name: My Dearest Darling
@@ -59,8 +62,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 180666
 ---
-
 All I need
 Is someone like you
 My dearest darling
@@ -88,6 +92,3 @@ Unh~ my dearest darling
 I'm offering you my heart
 
 Unh~my dearest darling...
-
-
-

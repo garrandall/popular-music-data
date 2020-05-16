@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:4cluDES4hQEUhmXj6TXkSo
 features: []
-genres: []
+first_released_as_single: false
 key: what-makes-you-beautiful-one-direction
 lyrics_url: https://genius.com/One-direction-what-makes-you-beautiful-lyrics
 name: What Makes You Beautiful
@@ -143,6 +146,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2012
+runtime: 199986
 ---
 You're insecure, don't know what for
 You're turning heads when you walk through the door

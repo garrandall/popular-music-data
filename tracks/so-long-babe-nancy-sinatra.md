@@ -1,8 +1,11 @@
 ---
+album: Boots
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:1FNPFTvq0nk8IlR8rXB2u3
 features: []
-genres: []
+first_released_as_single: false
 key: so-long-babe-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/solongbabe.html
 name: So Long Babe
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 188760
 ---
-
 I know you're leavin' babe, 
 Goodbye, so long. 
 I hope someday somebody 
@@ -68,6 +72,3 @@ So long babe,
 Ah so long babe 
 So long babe 
 Mmm So long babe
-
-
-

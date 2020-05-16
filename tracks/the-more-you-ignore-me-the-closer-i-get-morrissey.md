@@ -1,8 +1,11 @@
 ---
+album: Vauxhall And I (20th Anniversary Definitive Master)
 artists:
 - Morrissey
+external_ids:
+  spotify: spotify:track:24ECIWIixkpUizwCxbxxI4
 features: []
-genres: []
+first_released_as_single: false
 key: the-more-you-ignore-me-the-closer-i-get-morrissey
 lyrics_url: https://www.musixmatch.com/lyrics/Morrissey/The-More-You-Ignore-Me-the-Closer-I-Get
 name: The More You Ignore Me The Closer I Get
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1994
+runtime: 223693
 ---
 The more you ignore me
 The closer I get

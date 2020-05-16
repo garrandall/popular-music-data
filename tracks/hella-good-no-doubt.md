@@ -1,8 +1,11 @@
 ---
+album: Rock Steady
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:6AfLmKXzhEZjwiVPs5jhdV
 features: []
-genres: []
+first_released_as_single: false
 key: hella-good-no-doubt
 lyrics_url: https://genius.com/No-doubt-hella-good-lyrics
 name: Hella Good
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
+release_year: 2001
+runtime: 242586
 ---
 (Oh!) The waves keep on crashing on me for some reason
 (Oh!) But your love keeps on coming like a thunderbolt

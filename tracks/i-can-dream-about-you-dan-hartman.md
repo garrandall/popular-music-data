@@ -1,8 +1,11 @@
 ---
+album: Streets Of Fire
 artists:
 - Dan Hartman
+external_ids:
+  spotify: spotify:track:37nxLdGbmgEYQYrqe14xOp
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-dream-about-you-dan-hartman
 lyrics_url: https://genius.com/Dan-hartman-i-can-dream-about-you-lyrics
 name: I Can Dream About You
@@ -107,6 +110,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 249560
 ---
 No more timing
 Each tear that falls from my eyes

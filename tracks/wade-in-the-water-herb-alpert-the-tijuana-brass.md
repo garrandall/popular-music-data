@@ -1,9 +1,12 @@
 ---
+album: Sounds Like...
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:1yDqpux5cpQBhy0YV9fgWU
 features: []
-genres: []
+first_released_as_single: false
 key: wade-in-the-water-herb-alpert-the-tijuana-brass
 name: Wade In The Water
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 184088
 ---
 

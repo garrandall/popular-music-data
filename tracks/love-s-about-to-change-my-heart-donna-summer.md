@@ -1,8 +1,11 @@
 ---
+album: Another Place and Time
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:78INWZDnZhbwmPMgq8pYC8
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-about-to-change-my-heart-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/lovesabouttochangemyheart.html
 name: Love's About to Change My Heart
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 243533
 ---
-
 I never needed someone
 'cos I always led a life of my own
 Never waited for the ring of the 'phone
@@ -57,6 +61,3 @@ Love's about to change my heart
 Love's about to change my heart
 Love's about to change, change, change
 My heart...
-
-
-

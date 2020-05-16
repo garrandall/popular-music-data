@@ -1,8 +1,11 @@
 ---
+album: Where's the Party?
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2sht0YYskOiCZbc8g7foCp
 features: []
-genres: []
+first_released_as_single: false
 key: big-crash-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/thebigcrash.html
 name: Big Crash
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 219440
 ---
-
 Well she's always been a good good girl
 But she's always lived in her own world
 Stealing makeup from her mommy's purse
@@ -92,6 +96,3 @@ She's running with the white trash
 The girl is moving too fast
 She's heading for the big crash
 The big crash, the big crash
-
-
-

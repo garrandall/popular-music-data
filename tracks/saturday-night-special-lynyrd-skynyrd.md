@@ -1,8 +1,11 @@
 ---
+album: Nuthin' Fancy
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:0ZQmpf5gk4k5VMopcAtyAc
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-special-lynyrd-skynyrd
 lyrics_url: https://genius.com/Lynyrd-skynyrd-saturday-night-special-lyrics
 name: Saturday Night Special
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 309666
 ---
 Two feets, they come a creepin'
 Like a black cat do

@@ -1,8 +1,11 @@
 ---
+album: Patty Smyth
 artists:
 - Patty Smyth
+external_ids:
+  spotify: spotify:track:3CUV8wsoTTKznGpEovrnZw
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-love-just-ain-t-enough-patty-smyth
 lyrics_url: https://genius.com/Patty-smyth-sometimes-love-just-aint-enough-lyrics
 name: Sometimes Love Just Ain't Enough
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1992
+runtime: 267600
 ---
 Now, I don't wanna lose you
 But I don't wanna use you

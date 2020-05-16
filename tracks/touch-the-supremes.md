@@ -1,8 +1,11 @@
 ---
+album: The Magnificent 7
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5s6W7349TSdJMESqfoZ3uC
 features: []
-genres: []
+first_released_as_single: false
 key: touch-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Supremes-The-Four-Tops/Reach-Out-and-Touch-Somebody-s-Hand
 name: Touch
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1970
+runtime: 284413
 ---
 If you feel that you can't go on
 'Cause all your hope is gone

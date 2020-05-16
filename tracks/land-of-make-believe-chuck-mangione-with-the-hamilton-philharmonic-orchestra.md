@@ -1,8 +1,11 @@
 ---
+album: Land Of Make Believe
 artists:
 - Chuck Mangione
+external_ids:
+  spotify: spotify:track:1XiP8qRiHsx2wQPSmsLp7W
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-make-believe-chuck-mangione-with-the-hamilton-philharmonic-orchestra
 lyrics_url: https://genius.com/Chuck-mangione-land-of-make-believe-live-instrumental-1978-hollywood-bowl-lyrics
 name: Land Of Make Believe
@@ -19,11 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-06-25'
+release_year: 1973
+runtime: 744866
 ---
-From the 1973 Live Album, Land of Make Believe
-Chuck Mangione Quartet with the Hamilton Philharmonic Orchestra
-& Esther Satterfield, vocalist
-
 When you're feeling down and out
 Wondering what this world's about
 I know a place that has the answer

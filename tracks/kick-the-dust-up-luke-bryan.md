@@ -1,8 +1,11 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5g15o2Sm55Hn9ShK5yEXgp
 features: []
-genres: []
+first_released_as_single: false
 key: kick-the-dust-up-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/kickthedustup.html
 name: Kick The Dust Up
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-10-17'
+release_year: 2015
+runtime: 190586
 ---
-
 Kick the dust up
 Come on
 
@@ -161,6 +165,3 @@ Back it on up
 Fill your cup up
 That's what's up up
 Let's kick the dust up
-
-
-

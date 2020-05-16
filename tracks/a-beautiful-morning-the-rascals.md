@@ -1,8 +1,11 @@
 ---
+album: 'The New Rascals: Legends'
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:3QwbKe0s8TcNclzXAXHeHy
 features: []
-genres: []
+first_released_as_single: false
 key: a-beautiful-morning-the-rascals
 lyrics_url: https://www.azlyrics.com/lyrics/rascals/abeautifulmorning.html
 name: A Beautiful Morning
@@ -59,8 +62,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 151800
 ---
-
 It's a beautiful morning, ah
 I think I'll go outside for a while
 And just smile
@@ -92,6 +96,3 @@ Gotta say, lead the way
 It's okay, brand new day
 Gotta say, it's okay
 Brand new day, gotta say, lead the way
-
-
-

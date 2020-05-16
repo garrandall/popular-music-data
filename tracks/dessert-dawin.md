@@ -1,8 +1,11 @@
 ---
+album: Dessert
 artists:
 - Dawin
+external_ids:
+  spotify: spotify:track:0mxoXsr14ILAYcXZBMJcOs
 features: []
-genres: []
+first_released_as_single: true
 key: dessert-dawin
 lyrics_url: https://genius.com/Dawin-dessert-lyrics
 name: Dessert
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 210893
 ---
 I said D-A-W-I-N
 (Silentó)

@@ -1,8 +1,11 @@
 ---
+album: Very Best Of
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:6s4b3H4BrUCfskxYinSSA8
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-you-want--bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/whatdoyouwant.html
 name: What Do You Want?
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 98746
 ---
-
 What do you want
 If you don't want money
 What do you want
@@ -65,6 +69,3 @@ Don't turn around
 Then you'll want my love, baby
 
 Well, then you want my love, baby
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Papas & The Mamas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:4ZK6Vo5lRD0IkT9Fm8b93L
 features: []
-genres: []
+first_released_as_single: false
 key: twelve-thirty--young-girls-are-coming-to-the-canyon--the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/twelvethirty.html
 name: Twelve Thirty (Young Girls Are Coming To The Canyon)
@@ -32,8 +35,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 204733
 ---
-
 I used to live in New York City;
 Everything there was dark and dirty.
 Outside my window was a steeple
@@ -66,6 +70,3 @@ And in the mornings I can see them walking.
 I can no longer keep my blinds drawn,
 (Can no longer keep my blinds drawn)
 And I can't keep myself from talking...
-
-
-

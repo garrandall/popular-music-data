@@ -1,8 +1,11 @@
 ---
+album: Karla Bonoff
 artists:
 - Karla Bonoff
+external_ids:
+  spotify: spotify:track:3dcB1V1yZFaEUwQ2TtGzz2
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-hold-on-karla-bonoff
 lyrics_url: https://genius.com/Karla-bonoff-i-cant-hold-on-lyrics
 name: I Can't Hold On
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 191960
 ---
 Oh baby, this time it's goodbye
 And you can be sure that I won't cry

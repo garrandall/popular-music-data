@@ -1,8 +1,11 @@
 ---
+album: The Essential Chet Atkins
 artists:
 - Chet Atkins
+external_ids:
+  spotify: spotify:track:1VOHb1Nz4pHJlrSJ7Jc5Dj
 features: []
-genres: []
+first_released_as_single: false
 key: boo-boo-stick-beat-chet-atkins
 name: Boo Boo Stick Beat
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 127946
 ---
 

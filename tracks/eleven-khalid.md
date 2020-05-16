@@ -1,8 +1,11 @@
 ---
+album: Eleven
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:1ToprX3cpBiXoAe5eNSk74
 features: []
-genres: []
+first_released_as_single: true
 key: eleven-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/eleven.html
 name: Eleven
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2020
+runtime: 206360
 ---
-
 Got my headlights off, we're sittin' outside
 If you cry in my car, then we're here all night, oh
 A couple blunts rolled and I got my windows down
@@ -75,6 +79,3 @@ If I'm the only one that you're
 Am I your favorite drug you've been usin', usin'?
 If I'm the only one that you're
 Am I your favorite drug you've been usin', usin'?
-
-
-

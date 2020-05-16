@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:2vx7DrazOCbpEB7G0TtxlS
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-see-me-in-a-crown-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-you-should-see-me-in-a-crown-lyrics
 name: You Should See Me In A Crown
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 180566
 ---
 Bite my tongue, bide my time
 Wearing a warning sign

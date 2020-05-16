@@ -1,8 +1,11 @@
 ---
+album: This Way Is My Way
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:6y3YVkwO6YZqBcVsrNQRkB
 features: []
-genres: []
+first_released_as_single: false
 key: snowbird-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/snowbird.html
 name: Snowbird
@@ -71,8 +74,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 130493
 ---
-
 Beneath this snowy mantle cold and clean
 The unborn grass lies waiting
 For its coat to turn to green
@@ -112,6 +116,3 @@ Fly away with you
 
 Yeah, if I could you know that I would
 Fl-y-y-y-y away with you
-
-
-

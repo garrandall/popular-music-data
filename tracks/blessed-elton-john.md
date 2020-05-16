@@ -1,8 +1,11 @@
 ---
+album: Made In England
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:7cBikvmY2ZYM0eQlQGOwQu
 features: []
-genres: []
+first_released_as_single: false
 key: blessed-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/blessed.html
 name: Blessed
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 300733
 ---
-
 Hey you, you're a child in my head
 You haven't walked yet
 Your first words have yet to be said
@@ -111,6 +115,3 @@ I need you before I'm too old
 To have and to hold
 To walk with you and watch you grow
 And know that you're blessed
-
-
-

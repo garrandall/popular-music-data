@@ -1,8 +1,11 @@
 ---
+album: Ooooooohhh... On The TLC Tip
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:63PIgPkDf3rswlU4ZWCYAM
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-your-friends-tlc
 lyrics_url: https://genius.com/Tlc-what-about-your-friends-lyrics
 name: What About Your Friends
@@ -115,6 +118,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1992
+runtime: 293600
 ---
 What, what about your friends?
 What about

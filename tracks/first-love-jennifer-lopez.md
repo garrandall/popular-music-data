@@ -1,8 +1,11 @@
 ---
+album: A.K.A.
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:5P16LUPtZ1I5t3EqwELD53
 features: []
-genres: []
+first_released_as_single: false
 key: first-love-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-first-love-lyrics
 name: First Love
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2014
+runtime: 215786
 ---
 Oh, oh
 Oh, oh

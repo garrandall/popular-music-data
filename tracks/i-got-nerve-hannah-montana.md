@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:3bSq5OpEWmLK1o8F7saR2F
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-nerve-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/igotnerve.html
 name: I Got Nerve
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 184226
 ---
-
 We haven't met
 And that's OK
 'cause you will be asking for me one day
@@ -80,6 +84,3 @@ Not afraid to stare you down until you blink
 It's everything I see, every part of me
 Gonna get what I deserve
 I got, I got nerve
-
-
-

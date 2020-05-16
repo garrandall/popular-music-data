@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2mwiLZNriYnykYQrIe5uK0
 features: []
-genres: []
+first_released_as_single: false
 key: another-cup-of-coffee-brook-benton
 lyrics_url: https://genius.com/Brook-benton-another-cup-of-coffee-lyrics
 name: Another Cup Of Coffee
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 173360
 ---
 Another cup of coffee, another cigarette
 Another hour of mem'ries so hard to forget

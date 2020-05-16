@@ -1,8 +1,11 @@
 ---
+album: The Last Great Concert
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:2aBa2XO23shN0lQjpL0G1K
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-get-you-off-my-mind-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/gottogetyouoffmymind.html
 name: Got To Get You Off My Mind
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 155080
 ---
-
 Got to get you off of my mind
 I know it's just a matter of time
 You've found somebody new
@@ -82,6 +86,3 @@ Got to get you off of my mind
 I know it's just a matter of time
 Got to get you off of my mind
 I know it's just a matter of time
-
-
-

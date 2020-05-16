@@ -1,8 +1,12 @@
 ---
+album: Emotion
 artists:
-- Barbra Streisand With Kim Carnes
-features: []
-genres: []
+- Barbra Streisand
+external_ids:
+  spotify: spotify:track:0yWTY5DsdlY5bGrVlh7Hxj
+features:
+- Kim Carnes
+first_released_as_single: false
 key: make-no-mistake-he-s-mine-barbra-streisand-with-kim-carnes
 lyrics_url: https://www.musixmatch.com/lyrics/Barbra-Streisand-with-Kim-Carnes/Make-No-Mistake-He-s-Mine
 name: Make No Mistake He's Mine
@@ -47,6 +51,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 249266
 ---
 Don't call him up anymore
 Cause I don't wanna hear your voice

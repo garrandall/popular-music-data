@@ -1,8 +1,11 @@
 ---
+album: There's Something About Remy-Based On A True Story
 artists:
 - Remy Ma
+external_ids:
+  spotify: spotify:track:25tpVQH31RTvW21ccbVIT0
 features: []
-genres: []
+first_released_as_single: true
 key: conceited--there-s-something-about-remy--remy-ma
 lyrics_url: https://www.azlyrics.com/lyrics/remyma/conceitedtheressomethingaboutremy.html
 name: Conceited (There's Something About Remy)
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-04-29'
+release_year: 2005
+runtime: 221653
 ---
-
 See this ain't nothing that you use to
 Out of the ordinary unusual
 You gotta have the mind state like I'm so great
@@ -117,6 +121,3 @@ See I look too good to be getting with
 And I look to good to be having kids
 You know I look way to good to be in the crib
 I'm conceited I got a reason
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Big Revival
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1dgWTMoHwTUnQhOQ8SR5fV
 features: []
-genres: []
+first_released_as_single: false
 key: american-kids-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/americankids.html
 name: American Kids
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
+release_year: 2014
+runtime: 182960
 ---
-
 Hey!
 Doublewide Quick Stop, midnight T-top
 Jack in her cherry Coke town
@@ -149,6 +153,3 @@ Making out on living room couches
 Blowin' that smoke on a Saturday night
 A little messed up but we're all alright
 Hey!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Horizontal (Deluxe Version)
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:3o7k5Mcdi0PFAXICTqjxra
 features: []
-genres: []
+first_released_as_single: false
 key: -the-lights-went-out-in--massachusetts-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/massachusetts.html
 name: (The Lights Went Out In) Massachusetts
@@ -39,8 +42,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 146906
 ---
-
 Feel I'm goin' back to Massachusetts
 Something's telling me I must go home
 And the lights all went out in Massachusetts
@@ -60,6 +64,3 @@ And Massachusetts is one place I have seen
 I will remember Massachusetts
 I will remember Massachusetts
 (I will remember Massachusetts)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Forever Changes (2015 Remastered Version)
 artists:
 - Love
+external_ids:
+  spotify: spotify:track:1XuccRABkfUVB4FjSVhjL1
 features: []
-genres: []
+first_released_as_single: false
 key: alone-again-or-love
 lyrics_url: https://genius.com/Love-alone-again-or-lyrics
 name: Alone Again Or
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1967
+runtime: 197274
 ---
 Yeah
 Said it's all right

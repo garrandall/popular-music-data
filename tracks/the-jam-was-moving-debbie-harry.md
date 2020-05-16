@@ -1,8 +1,11 @@
 ---
+album: KooKoo
 artists:
 - Debbie Harry
+external_ids:
+  spotify: spotify:track:4pjX1qRFtldYTNbhX3MRiz
 features: []
-genres: []
+first_released_as_single: false
 key: the-jam-was-moving-debbie-harry
 lyrics_url: https://genius.com/Debbie-harry-the-jam-was-moving-lyrics
 name: The Jam Was Moving
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1981
+runtime: 178533
 ---
 The order came directly from the CIA
 To start the following investigation:

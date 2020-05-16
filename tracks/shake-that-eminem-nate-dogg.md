@@ -1,9 +1,12 @@
 ---
+album: Curtain Call
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0fGh0trRN1xz3s41r7V5ce
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: shake-that-eminem-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/shakethat.html
 name: Shake That
@@ -92,9 +95,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2005
+runtime: 274440
 ---
-
-
 Shady, Aftermath
 (Look at that bitch! Ha, yeah!)
 There she goes shaking that ass on the floor
@@ -209,4 +212,3 @@ Coming home with me
 And my boy, and his boy, and his boy, and his girl
 
 Ha ha, Nate Dogg
-

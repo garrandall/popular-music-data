@@ -1,8 +1,11 @@
 ---
+album: 'Put Your Head On My Shoulder: The Very Best Of Paul Anka'
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:7pMGd8mk3kxnlvHwrMNWPM
 features: []
-genres: []
+first_released_as_single: false
 key: every-night--without-you--paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/everynightwithoutyou.html
 name: Every Night (Without You)
@@ -31,8 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 144426
 ---
-
 Every night I keep prayin' that you love me 
 Every night I keep prayin' that you do-oo 
 'cause I know that my life would be worthless 
@@ -57,6 +61,3 @@ Oh-oh-oh
 Oh-oh-oh 
 Without you 
 FADE
-
-
-

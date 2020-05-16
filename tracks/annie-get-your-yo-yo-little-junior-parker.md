@@ -1,8 +1,11 @@
 ---
+album: Driving Wheel
 artists:
 - Little Junior Parker
+external_ids:
+  spotify: spotify:track:6Nd4YWtScMzkucT3QQ3a0F
 features: []
-genres: []
+first_released_as_single: false
 key: annie-get-your-yo-yo-little-junior-parker
 name: Annie Get Your Yo-Yo
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 142800
 ---
 

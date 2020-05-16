@@ -1,9 +1,12 @@
 ---
+album: Live
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:3u2wEGlpM3W4izcKkx4F9l
 features: []
-genres: []
+first_released_as_single: false
 key: home-cookin-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-home-cookin-lyrics
 name: Home Cookin
@@ -32,6 +35,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1969
+runtime: 141974
 ---
 I need home, home cookin', yeah!
 I need home, home cookin', yeah!

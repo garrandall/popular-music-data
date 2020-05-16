@@ -1,8 +1,11 @@
 ---
+album: Bobby Rydell Sings Forget Him
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:6DbFaoM3IQzZpZyiNuZJca
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-forget-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/Make-Me-Forget
 name: Make Me Forget
@@ -31,6 +34,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1964
+runtime: 140000
 ---
 Make me forget her
 With her lips on mine

@@ -1,8 +1,11 @@
 ---
+album: Pain Killer
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:11qh54D0PKkBwelpDxxiEU
 features: []
-genres: []
+first_released_as_single: false
 key: girl-crush-little-big-town
 lyrics_url: https://genius.com/Little-big-town-girl-crush-lyrics
 name: Girl Crush
@@ -103,6 +106,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2014
+runtime: 193320
 ---
 I gotta girl crush, hate to admit it but
 I gotta heart rush, ain’t slowin’ down

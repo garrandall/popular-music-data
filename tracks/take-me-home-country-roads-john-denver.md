@@ -1,8 +1,11 @@
 ---
+album: Poems, Prayers and Promises
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:1YYhDizHx7PnDhAhko6cDS
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-home-country-roads-john-denver
 lyrics_url: https://genius.com/John-denver-take-me-home-country-roads-lyrics
 name: Take Me Home Country Roads
@@ -99,6 +102,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 190160
 ---
 Almost heaven, West Virginia
 Blue Ridge Mountains, Shenandoah River

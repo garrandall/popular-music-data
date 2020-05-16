@@ -1,8 +1,11 @@
 ---
+album: 'Little Star: The Best Of The Elegants'
 artists:
 - The Elegants
+external_ids:
+  spotify: spotify:track:3TNrQsWjct0FOBxm3Yt8Bq
 features: []
-genres: []
+first_released_as_single: false
 key: little-star-the-elegants
 lyrics_url: https://genius.com/The-elegants-little-star-lyrics
 name: Little Star
@@ -75,6 +78,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
+release_year: 1958
+runtime: 163880
 ---
 Where are you little star?
 (Where are you?)

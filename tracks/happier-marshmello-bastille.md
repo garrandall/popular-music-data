@@ -1,9 +1,12 @@
 ---
+album: Happier
 artists:
 - Marshmello
 - Bastille
+external_ids:
+  spotify: spotify:track:2dpaYNEQHiRxtZbfNsse99
 features: []
-genres: []
+first_released_as_single: true
 key: happier-marshmello-bastille
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/happier.html
 name: Happier
@@ -216,8 +219,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 214289
 ---
-
 Lately, I've been, I've been thinking
 I want you to be happier, I want you to be happier
 
@@ -283,6 +287,3 @@ I want you to be happier, I want you to be happier
 
 So I'll go, I'll go
 I will go, go, go
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Arrival
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:46ou4l4zvrZMada0TgoVH9
 features: []
-genres: []
+first_released_as_single: false
 key: knowing-me-knowing-you-abba
 lyrics_url: https://genius.com/Abba-knowing-me-knowing-you-lyrics
 name: Knowing Me Knowing You
@@ -67,6 +70,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1976
+runtime: 243893
 ---
 No more carefree laughter
 Silence ever after

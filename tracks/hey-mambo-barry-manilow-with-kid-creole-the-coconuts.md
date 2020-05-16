@@ -1,10 +1,13 @@
 ---
+album: Swing Street
 artists:
 - Barry Manilow
 - The Coconuts
+external_ids:
+  spotify: spotify:track:0HK9fSsyCqZmLQF4BvVFLs
 features:
 - Kid Creole
-genres: []
+first_released_as_single: false
 key: hey-mambo-barry-manilow-with-kid-creole-the-coconuts
 lyrics_url: https://www.musixmatch.com/lyrics/Barry-Manilow-with-Kid-Creole-and-the-Coconuts/Hey-Mambo
 name: Hey Mambo
@@ -17,6 +20,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 173133
 ---
 Barry Manilow F/ Kid Creole And The Coconuts
 Miscellaneous

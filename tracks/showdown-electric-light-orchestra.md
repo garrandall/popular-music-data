@@ -1,8 +1,11 @@
 ---
+album: On the Third Day
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:2DKiZChkZ2ONiMyXkEiQvi
 features: []
-genres: []
+first_released_as_single: false
 key: showdown-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/showdown.html
 name: Showdown
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1972
+runtime: 252466
 ---
-
 She cried to the southern wind
 About a love that was sure to end
 Every dream in her heart was gone
@@ -107,6 +111,3 @@ There's gonna be a Showdown
 And it's rainin' all over the world
 It's raining all over the world
 Tonight, the longest night
-
-
-

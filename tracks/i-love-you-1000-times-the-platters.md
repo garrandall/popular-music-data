@@ -1,8 +1,11 @@
 ---
+album: I Love You 1000 Times
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:3WGzWg2yg9H66F49dGSgSt
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-1000-times-the-platters
 lyrics_url: https://www.azlyrics.com/lyrics/platters/iloveyou1000times.html
 name: I Love You 1000 Times
@@ -63,8 +66,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 166160
 ---
-
 I love you, baby, 1000 times
 
 Remember love notes
@@ -113,6 +117,3 @@ Girl, I love you, I love you
 (Love you, I love you)
 Girl, I love you, I love you 1000 times
 (Love you, I love you)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chris Young
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:7HLbmbeAqc22XkTAEwPnT6
 features: []
-genres: []
+first_released_as_single: false
 key: you-chris-young
 lyrics_url: https://genius.com/Chris-young-you-lyrics
 name: You
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2006
+runtime: 176920
 ---
 The bluest skies don't seem so blue
 And the stars seem to be a little dimmer too

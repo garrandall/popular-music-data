@@ -1,8 +1,11 @@
 ---
+album: Until Death Call My Name
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4CSQdtbpZVJZY6qAbw0pWb
 features: []
-genres: []
+first_released_as_single: false
 key: diamond-teeth-samurai-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-diamond-teeth-samurai-lyrics
 name: Diamond Teeth Samurai
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 162488
 ---
 DJ Swift on the beat
 Aye

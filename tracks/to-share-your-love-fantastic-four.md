@@ -1,8 +1,11 @@
 ---
+album: Best Of The Fantastic Four
 artists:
 - Fantastic Four
+external_ids:
+  spotify: spotify:track:5LME1QLKHnNtrIITsZBT9J
 features: []
-genres: []
+first_released_as_single: false
 key: to-share-your-love-fantastic-four
 lyrics_url: https://www.musixmatch.com/lyrics/Fantastic-Four/To-Share-Your-Love
 name: To Share Your Love
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 203760
 ---
 It's an evil wind
 That blows no good

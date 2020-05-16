@@ -1,9 +1,12 @@
 ---
+album: No Zip Code
 artists:
 - David Lee Murphy
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2NEBP8SXEqwZt2PRdPXXuy
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-gonna-be-alright-david-lee-murphy-kenny-chesney
 lyrics_url: https://genius.com/David-lee-murphy-everythings-gonna-be-alright-lyrics
 name: Everything's Gonna Be Alright
@@ -60,6 +63,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 229573
 ---
 She rattled the ice in my plastic cup
 I said "yes m'am", fill her up

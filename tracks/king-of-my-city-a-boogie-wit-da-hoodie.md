@@ -1,8 +1,11 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:3cbku1FExwxfb7FbOsir8V
 features: []
-genres: []
+first_released_as_single: true
 key: king-of-my-city-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-king-of-my-city-lyrics
 name: King Of My City
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 148676
 ---
 Yeah
 

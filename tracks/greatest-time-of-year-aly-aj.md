@@ -1,9 +1,12 @@
 ---
+album: Acoustic Hearts Of Winter
 artists:
 - Aly
 - AJ
+external_ids:
+  spotify: spotify:track:7yrqJUfnjteV1FLe9dXcVa
 features: []
-genres: []
+first_released_as_single: false
 key: greatest-time-of-year-aly-aj
 lyrics_url: https://www.azlyrics.com/lyrics/alyaj/greatesttimeofyear.html
 name: Greatest Time Of Year
@@ -12,8 +15,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
+release_year: 2006
+runtime: 218493
 ---
-
 There's a special kind of feeling in the air
 It only happens at this time of year
 When everyone is filled with love and cheer
@@ -59,4 +63,3 @@ Joy to the world
 Joy to the world
 It's the greatest time of year
 It's the greatest time
-

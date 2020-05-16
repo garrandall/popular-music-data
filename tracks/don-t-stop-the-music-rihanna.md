@@ -1,8 +1,11 @@
 ---
+album: Good Girl Gone Bad
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:1Jo0Zg7XlrA6z0mFTZVdkn
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-the-music-rihanna
 lyrics_url: https://genius.com/Rihanna-dont-stop-the-music-lyrics
 name: Don't Stop The Music
@@ -127,6 +130,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 267080
 ---
 Please don't stop the music (Music, music, music, music)
 Please don't stop the music (Music, music, music, music)

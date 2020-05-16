@@ -1,8 +1,11 @@
 ---
+album: Best of Peggy Scott-Adams
 artists:
 - Peggy Scott-Adams
+external_ids:
+  spotify: spotify:track:6JrgTWU23tQSgqfldcozfo
 features: []
-genres: []
+first_released_as_single: false
 key: bill-peggy-scott-adams
 lyrics_url: https://genius.com/Peggy-scott-adams-bill-by-peggy-scott-adams-lyrics
 name: Bill
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-04-19'
+release_year: 1997
+runtime: 317013
 ---
 All of you ladies out there turn up your radio
 Girls, I'm about to tell you something You may wanna know

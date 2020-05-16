@@ -1,8 +1,11 @@
 ---
+album: Power Of Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:4AhLeJ9sJZeBSd5u2Y9Xa1
 features: []
-genres: []
+first_released_as_single: false
 key: the-rush-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/therush.html
 name: The Rush
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1991
+runtime: 404760
 ---
-
 Oh, what happened?
 You know when love comes
 It seems you're never ready
@@ -85,6 +89,3 @@ I get a rush and it's love for sure
 What else can it be? Something's calling me and I go back for more
 Yeah yeah
 It's such a rush, running right through my head, can't pass love by
-
-
-

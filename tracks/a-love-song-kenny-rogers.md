@@ -1,8 +1,11 @@
 ---
+album: Love Will Turn You Around
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:3UAbTey1XDtdb9EKQq1lXf
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-song-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-a-love-song-lyrics
 name: A Love Song
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1982
+runtime: 197706
 ---
 Why do people cry
 When they hear the word goodbye

@@ -1,8 +1,11 @@
 ---
+album: Twist With Bobby Darin
 artists:
 - The Rinky-Dinks
+external_ids:
+  spotify: spotify:track:19qkesdHjvJEZztR8kFuY3
 features: []
-genres: []
+first_released_as_single: false
 key: early-in-the-morning-the-rinky-dinks
 lyrics_url: https://genius.com/Bobby-darin-early-in-the-morning-the-rinky-dinks-lyrics
 name: Early In The Morning
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 134920
 ---
 Well...
 

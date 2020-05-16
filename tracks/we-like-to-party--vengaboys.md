@@ -1,8 +1,11 @@
 ---
+album: Xmas Party Album!
 artists:
 - Vengaboys
+external_ids:
+  spotify: spotify:track:77j9HOrxUpWcjwra9jgvio
 features: []
-genres: []
+first_released_as_single: true
 key: we-like-to-party--vengaboys
 lyrics_url: https://www.azlyrics.com/lyrics/vengaboys/weliketoparty.html
 name: We Like To Party!
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 224226
 ---
-
 We like to party
 We like, we like to party
 We like to party
@@ -160,6 +164,3 @@ And traffic lights are burning
 So if you like to party
 Get on and move your body
 The Vengabus is coming
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Evolution
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:1vjTAQF2XmBnVKxYsyD3Y2
 features: []
-genres: []
+first_released_as_single: false
 key: carrie-anne-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/carrieanne.html
 name: Carrie-Anne
@@ -59,8 +62,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 173800
 ---
-
 Doo doo doo-doo doo doo doo-doo doo
 Doo doo doo-doo doo doo doo-doo doo
 Hey, Carrie Anne
@@ -99,6 +103,3 @@ Then I'll hear the other people saying
 
 
 Carrie Anne, Carrie Anne, Carrie Anne, Carrie Anne
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Letter to America
 artists:
 - John Parr
+external_ids:
+  spotify: spotify:track:1A2PWRltFrX8iB8IP3CUgo
 features: []
-genres: []
+first_released_as_single: false
 key: st-elmo-s-fire--man-in-motion--john-parr
 lyrics_url: https://genius.com/John-parr-st-elmos-fire-acoustic-lyrics
 name: St Elmo's Fire (Man In Motion)
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 251800
 ---
 Growin' up
 You don't see the writing on the wall

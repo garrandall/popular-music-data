@@ -1,8 +1,11 @@
 ---
+album: Here's To The Good Times
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:5T6DM9qjjngWnukcw0svkX
 features: []
-genres: []
+first_released_as_single: false
 key: round-here-florida-georgia-line
 lyrics_url: https://genius.com/Florida-georgia-line-round-here-lyrics
 name: Round Here
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2012
+runtime: 215120
 ---
 Hammerin' a nail, stackin' them bales
 I'm dog tired by the 5 o'clock hour

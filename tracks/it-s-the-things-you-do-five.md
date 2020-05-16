@@ -1,8 +1,11 @@
 ---
+album: 5ive
 artists:
 - Five
+external_ids:
+  spotify: spotify:track:6DX7WBxe3wpUb2wyTXMVH0
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-things-you-do-five
 lyrics_url: https://www.musixmatch.com/lyrics/Five/It-s-the-Things-You-Do
 name: It's The Things You Do
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 216106
 ---
 It's the things you do
 That have made me fall

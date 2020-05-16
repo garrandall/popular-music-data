@@ -1,8 +1,11 @@
 ---
+album: 90s Underground Hip Hop
 artists:
 - The Crooklyn Dodgers
+external_ids:
+  spotify: spotify:track:3RxF3Mz5wprRMopI8fp9uF
 features: []
-genres: []
+first_released_as_single: false
 key: crooklyn-the-crooklyn-dodgers
 lyrics_url: https://genius.com/The-crooklyn-dodgers-crooklyn-lyrics
 name: Crooklyn
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 273453
 ---
 Yeah, we represent
 Church Ave., Nostrand Ave. in the house, Flatbush Ave

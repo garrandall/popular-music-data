@@ -1,8 +1,11 @@
 ---
+album: Summer Nights - Live in Las Vegas
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:5aI3ary3TADn6mG4n18FrK
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-there-olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-let-me-be-there-lyrics
 name: Let Me Be There
@@ -83,6 +86,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 115586
 ---
 Wherever you go
 Wherever you may wander in your life

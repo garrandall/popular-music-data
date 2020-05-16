@@ -1,8 +1,11 @@
 ---
+album: Experience
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:6MRCaacoWWYQ0De0M89Xvb
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-by-gloria-gaynor
 lyrics_url: https://www.azlyrics.com/lyrics/gloriagaynor/walkonby.html
 name: Walk On By
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 344200
 ---
-
 You always said my eyes
 Were the windows of my soul
 You could always fill my love
@@ -72,6 +76,3 @@ I don't have nothing left to say...
 Please take your head... look the other way...
 Wow...wow...wow...walk on by...
 Walk on by...
-
-
-

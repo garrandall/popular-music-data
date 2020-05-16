@@ -1,8 +1,11 @@
 ---
+album: Put Your Hand in the Hand
 artists:
 - Ocean
+external_ids:
+  spotify: spotify:track:07BMRko1MR0kQ845bfPYvZ
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-a-dream-ocean
 lyrics_url: https://genius.com/Ocean-we-got-a-dream-lyrics
 name: We Got A Dream
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 227386
 ---
 small wonder
 How the world could get younger

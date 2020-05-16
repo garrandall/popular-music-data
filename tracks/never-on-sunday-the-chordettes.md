@@ -1,8 +1,11 @@
 ---
+album: 25 All-Time Greatest Recordings
 artists:
 - The Chordettes
+external_ids:
+  spotify: spotify:track:4eHmskhAQ493ynoHt6aKOv
 features: []
-genres: []
+first_released_as_single: false
 key: never-on-sunday-the-chordettes
 lyrics_url: https://www.azlyrics.com/lyrics/chordettes/neveronsunday.html
 name: Never On Sunday
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 160557
 ---
-
 Oh, you can kiss me on a Monday
 A Monday, a Monday is very very good
 Or you can kiss me on a Tuesday
@@ -82,6 +86,3 @@ Well, you can be my guest
 But never ever on a Sunday, a Sunday the one day I need a little rest
 Oh, you can kiss me on a week day, a week day, a week day
 The day to be my guest
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All The Women I Am
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:6A2hvKTF2FShj0Yma7CP8N
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-the-radio-reba
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/turnontheradio.html
 name: Turn On The Radio
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2010
+runtime: 215386
 ---
-
 No Good, Two Timin', Lies comin' outta your mouth. 
 Cheatin', mistreatin' games that you play brought you down. 
 Broke my heart, tore it apart, look who's got the last laugh now. 
@@ -128,6 +132,3 @@ Turn On, Turn On The Radio!
 Turn On The Radio! 
 Turn On The Radio, Oh Oh Oh Oh Oh Ohhh! 
 Turn On The Radio!
-
-
-

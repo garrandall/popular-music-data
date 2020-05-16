@@ -1,8 +1,11 @@
 ---
+album: Running Like The Wind
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:0rJtA64gh9i4W4OMgx5D4B
 features: []
-genres: []
+first_released_as_single: false
 key: last-of-the-singing-cowboys-the-marshall-tucker-band
 lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/lastofthesingingcowboys.html
 name: Last Of The Singing Cowboys
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 256466
 ---
-
 In the corner of dark bar room
 Sat an ole' cowboy singin' western tunes
 Singin' songs he learned as a child
@@ -78,6 +82,3 @@ Don't tell him the only audience he had was you and me"
 'Cause he's the last of the singin' cowboys
 Singin songs of inspiration and joy
 Yippie Yi Yo, Yippie Ay A ye
-
-
-

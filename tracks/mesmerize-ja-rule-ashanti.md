@@ -1,9 +1,12 @@
 ---
+album: The Last Temptation
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:2iclfHORMqpR3TxuhwVRhD
 features:
 - Ashanti
-genres: []
+first_released_as_single: false
 key: mesmerize-ja-rule-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/mesmerize.html
 name: Mesmerize
@@ -88,8 +91,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
+release_year: 2002
+runtime: 278720
 ---
-
 Haha, yeah
 Whattup ma? How you been
 Yeah I know, I know, hehe
@@ -157,4 +161,3 @@ I love when you touch me baby
 All over my body baby
 I love when you kiss me baby
 All over my body baby
-

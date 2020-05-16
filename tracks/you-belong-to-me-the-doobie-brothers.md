@@ -1,8 +1,11 @@
 ---
+album: Livin' On The Fault Line
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:0wQLznkdfmBm8uRdfs0evl
 features: []
-genres: []
+first_released_as_single: false
 key: you-belong-to-me-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/youbelongtome.html
 name: You Belong To Me
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1977
+runtime: 185120
 ---
-
 Why'd you tell me this
 While you look for my reaction
 What do you need to know
@@ -45,6 +49,3 @@ You belong to me
 You belong to me
 Tell him he's a stranger
 You belong to me
-
-
-

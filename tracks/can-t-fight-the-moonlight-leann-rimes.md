@@ -1,8 +1,11 @@
 ---
+album: I Need You
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:10FP9hm2aFfAIKEopqaG9D
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-fight-the-moonlight-leann-rimes
 lyrics_url: https://genius.com/Leann-rimes-cant-fight-the-moonlight-lyrics
 name: Can't Fight The Moonlight
@@ -175,6 +178,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2000
+runtime: 215506
 ---
 Under a lovers' sky
 Gonna be with you

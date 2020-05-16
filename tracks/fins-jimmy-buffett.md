@@ -1,8 +1,11 @@
 ---
+album: Volcano
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:4X6qvY7lDpNxq9QokS5F0u
 features: []
-genres: []
+first_released_as_single: false
 key: fins-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/fins.html
 name: Fins
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 207933
 ---
-
 She came down from Cincinnati.
 It took her three days on a train.
 Lookin' for some peace and quiet;
@@ -89,4 +93,3 @@ But now she feels like a remora,
 'cause the school's still close at hand.
 Just behind the reef are the big white teeth
 of the sharks that can swim on the land.
-

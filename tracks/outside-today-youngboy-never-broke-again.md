@@ -1,8 +1,11 @@
 ---
+album: Until Death Call My Name
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:1womOg3EASv5VswI5S6Chs
 features: []
-genres: []
+first_released_as_single: false
 key: outside-today-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-outside-today-lyrics
 name: Outside Today
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 129105
 ---
 I ain't going outside today
 I ain't going outside today

@@ -1,8 +1,11 @@
 ---
+album: The Essential Fifth Dimension
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:0li5NmNzDRz3UjRbtzLSiH
 features: []
-genres: []
+first_released_as_single: false
 key: flashback-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-flashback-lyrics
 name: Flashback
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1972
+runtime: 220973
 ---
 I wake up to a cold sweat to a clock that says it's only 3AM
 Thinking that I felt you, when I really only dreamed of you again

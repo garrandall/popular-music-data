@@ -1,8 +1,11 @@
 ---
+album: Travelling Without Moving
 artists:
 - Jamiroquai
+external_ids:
+  spotify: spotify:track:2WkHXAVVMgRnBmQ3HYAVla
 features: []
-genres: []
+first_released_as_single: false
 key: alright-jamiroquai
 lyrics_url: https://www.azlyrics.com/lyrics/jamiroquai/alright.html
 name: Alright
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1996
+runtime: 263920
 ---
-
 I need your love,
 I need your love... 
 You, give me light
@@ -88,6 +92,3 @@ I want your love, so much
 Oh now, tonight,
 We'll spend the night together
 Wake up and live forever
-
-
-

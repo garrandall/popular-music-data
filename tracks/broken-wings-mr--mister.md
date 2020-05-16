@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Real World
 artists:
 - Mr. Mister
+external_ids:
+  spotify: spotify:track:3zw1I3gIFEEWTBtwesXRAX
 features: []
-genres: []
+first_released_as_single: false
 key: broken-wings-mr--mister
 lyrics_url: https://genius.com/Mr-mister-broken-wings-lyrics
 name: Broken Wings
@@ -95,6 +98,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1979
+runtime: 274533
 ---
 Baby, don't understand
 Why we can't just hold on to each other's hands?

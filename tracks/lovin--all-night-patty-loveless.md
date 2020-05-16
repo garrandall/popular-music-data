@@ -1,8 +1,11 @@
 ---
+album: On Your Way Home
 artists:
 - Patty Loveless
+external_ids:
+  spotify: spotify:track:6S6542IYfirXzVGwq07Kh8
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--all-night-patty-loveless
 lyrics_url: https://www.azlyrics.com/lyrics/pattyloveless/lovinallnight.html
 name: Lovin' All Night
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 2003
+runtime: 217040
 ---
-
 Now, baby, pull the covers back over my head.
 I don't want to get it up outta this bed.
 I don't wanna drag it on off to work.
@@ -95,6 +99,3 @@ Lovin' all night, yeah,
 Lovin' all night,
 Been lovin' all night.
 Memmmm. hey, ah been lovin' all night.
-
-
-

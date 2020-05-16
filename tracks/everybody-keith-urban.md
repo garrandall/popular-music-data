@@ -1,8 +1,11 @@
 ---
+album: Love, Pain & The Whole Crazy Thing
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:25d54Gbko9tTaN1vg6frgb
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/everybody.html
 name: Everybody
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2006
+runtime: 333040
 ---
-
 So here you are now, nowhere to turn
 It's just the same old yesterday
 And you made a promise to yourself
@@ -122,6 +126,3 @@ Gotta have someone beside you
 Gotta have someone beside you
 Yes, ya do, yes, ya do
 Everybody, everybody needs somebody sometimes
-
-
-

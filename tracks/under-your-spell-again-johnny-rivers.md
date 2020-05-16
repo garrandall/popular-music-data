@@ -1,8 +1,11 @@
 ---
+album: 50 Greatest Hits
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:55h9R6rKBtBH4XY6ozo7ZM
 features: []
-genres: []
+first_released_as_single: false
 key: under-your-spell-again-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-under-your-spell-again-lyrics
 name: Under Your Spell Again
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 193607
 ---
 You got me under your spell again
 Saying those things again

@@ -1,8 +1,11 @@
 ---
+album: The Time Of Our Lives
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:7ywzEdEuVG1lsjsRCGJfLy
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-look-at-you-miley-cyrus
 lyrics_url: https://www.musixmatch.com/lyrics/Miley-Cyrus/When-I-Look-at-You
 name: When I Look At You
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2009
+runtime: 248586
 ---
 Everybody needs inspiration
 Everybody needs a song

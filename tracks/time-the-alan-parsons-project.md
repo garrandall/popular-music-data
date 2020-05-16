@@ -1,8 +1,11 @@
 ---
+album: I Robot
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:7pszxp65rS7xd8ZflKaZRh
 features: []
-genres: []
+first_released_as_single: false
 key: time-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-prime-time-lyrics
 name: Time
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1977
+runtime: 245733
 ---
 Well even the longest night won't last forever
 But too many hopes and dreams won't see the light

@@ -1,8 +1,11 @@
 ---
+album: Triumph
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:0RAiBUgOC5pgFUHsldtix3
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-feel-it-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-can-you-feel-it-lyrics
 name: Can You Feel It
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
+release_year: 1980
+runtime: 359906
 ---
 Can you feel it, can you feel it, can you feel it
 

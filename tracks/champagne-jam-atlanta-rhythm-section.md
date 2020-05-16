@@ -1,8 +1,11 @@
 ---
+album: Champagne Jam
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:79uswZ7pqbHIqERDFqBDjS
 features: []
-genres: []
+first_released_as_single: false
 key: champagne-jam-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/champagnejam.html
 name: Champagne Jam
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 273226
 ---
-
 Come on Mama, give me a break
 Me and the boys are gonna stay out late
 I can't help it, it's in my bones
@@ -85,6 +89,3 @@ So come on
 
 What do you say, what'choo say...
 Thank you ma'am
-
-
-

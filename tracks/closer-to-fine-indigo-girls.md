@@ -1,8 +1,11 @@
 ---
+album: Indigo Girls
 artists:
 - Indigo Girls
+external_ids:
+  spotify: spotify:track:2bal8ZXa9pFioevEAQXqsr
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-fine-indigo-girls
 lyrics_url: https://www.azlyrics.com/lyrics/indigogirls/closertofine.html
 name: Closer To Fine
@@ -43,8 +46,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1987
+runtime: 241666
 ---
-
 I'm trying to tell you something about my life
 Maybe give me insight between black and white
 And the best thing you've ever done for me
@@ -97,6 +101,3 @@ And the less I seek my source for some definitive
 Closer I am to fine
 Closer I am to fine
 Closer I am to fine
-
-
-

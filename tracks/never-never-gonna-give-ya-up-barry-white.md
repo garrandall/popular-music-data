@@ -1,8 +1,11 @@
 ---
+album: Stone Gon'
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:4At54ImSBL41yWMaudry08
 features: []
-genres: []
+first_released_as_single: false
 key: never-never-gonna-give-ya-up-barry-white
 lyrics_url: https://genius.com/Barry-white-never-never-gonna-give-ya-up-lyrics
 name: Never Never Gonna Give Ya Up
@@ -79,6 +82,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1973
+runtime: 476066
 ---
 Ah
 Oh baby

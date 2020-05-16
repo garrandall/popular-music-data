@@ -1,8 +1,11 @@
 ---
+album: Wild Ones
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:0ltBH1JNzSvQJPjJpvTu9B
 features: []
-genres: []
+first_released_as_single: true
 key: whistle-flo-rida
 lyrics_url: https://genius.com/Flo-rida-whistle-lyrics
 name: Whistle
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 225000
 ---
 Can you blow my whistle, baby, whistle, baby? Let me know
 Girl, I'm gonna show you how to do it and we start real slow

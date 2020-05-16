@@ -1,8 +1,11 @@
 ---
+album: Moonshot
 artists:
 - Buffy Sainte-Marie
+external_ids:
+  spotify: spotify:track:5wjjLNeaHsDjUzmcRt9vCD
 features: []
-genres: []
+first_released_as_single: false
 key: mister-can-t-you-see-buffy-sainte-marie
 lyrics_url: https://www.musixmatch.com/lyrics/Buffy-Sainte-Marie/Mister-Can-t-You-See
 name: Mister Can't You See
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 197800
 ---
 I can hear the rivers flowing
 And I can see the winds blowing

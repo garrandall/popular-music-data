@@ -1,8 +1,11 @@
 ---
+album: Foot Loose & Fancy Free
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:0NIRG3SEn2Zf88o3qHJil5
 features: []
-genres: []
+first_released_as_single: false
 key: hot-legs-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-hot-legs-lyrics
 name: Hot Legs
@@ -51,6 +54,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
+release_year: 1977
+runtime: 315293
 ---
 Who's that knocking on my door?
 It's gotta be a quarter to four

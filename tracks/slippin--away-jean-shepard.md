@@ -1,8 +1,11 @@
 ---
+album: 'Jean Shepard: Stars of the Grand Ole Opry'
 artists:
 - Jean Shepard
+external_ids:
+  spotify: spotify:track:78fpGcFMFaT74m3AZkknib
 features: []
-genres: []
+first_released_as_single: false
 key: slippin--away-jean-shepard
 lyrics_url: https://genius.com/Jean-shepard-slippin-away-lyrics
 name: Slippin' Away
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 163343
 ---
 Monday's promise is Tuesday's lie Saturday's party is Sunday's fight
 Somethin's wrong with you and I love's gone wrong that used to be right

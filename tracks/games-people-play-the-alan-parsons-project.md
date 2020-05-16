@@ -1,8 +1,11 @@
 ---
+album: The Turn Of A Friendly Card
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:0DY9H3uIeHklbFZrbxyT6a
 features: []
-genres: []
+first_released_as_single: false
 key: games-people-play-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/gamespeopleplay.html
 name: Games People Play
@@ -99,8 +102,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1977
+runtime: 264333
 ---
-
 Where do we go from here now that all other children are growin' up
 And how do we spend our lives if there's no-one to lend us a hand
 
@@ -132,6 +136,3 @@ Games people play, You take it or leave it
 Things that they say, Just don't make it right
 If I'm tellin' you the truth right now, do you believe it
 Games people play in the middle of the night
-
-
-

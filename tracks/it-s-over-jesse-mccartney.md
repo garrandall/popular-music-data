@@ -1,8 +1,11 @@
 ---
+album: Departure - Recharged
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:6KLAVFlcTrUt9IteOXzsT8
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-jesse-mccartney
 lyrics_url: https://genius.com/Jesse-mccartney-its-over-lyrics
 name: It's Over
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2008
+runtime: 246906
 ---
 We've run out of words, we've run out of time
 We've run out of reasons, really why we together?

@@ -1,8 +1,11 @@
 ---
+album: Boogity Boogity
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:6dTaSfc64JXaWDucb0rz7u
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-special-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/moonlightspecial.html
 name: Moonlight Special
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1974
+runtime: 317133
 ---
-
 It's the Moonlight Special. Comin' on TV. Yeah, the Moonlight Special.
 Late night out of sight rock 'n' roll music for you and me.
 Now here's the host, from the coast. Sounds like a frog doin' the monologue. It's the sheepdog...
@@ -64,6 +68,3 @@ The Moonlight Special for you and me.
 
 It's The Moonlight Special comin' on TV.
 "That was Jerry Joe Henly Jimmy, baby, the king of the rock 'n' roll piano and that about takes up all of our time. That wraps it up for this week guys and gals but the ol' Sheepdog will be back next week one more time for a little more of that Moonlight Special. Until then, just remember
-
-
-

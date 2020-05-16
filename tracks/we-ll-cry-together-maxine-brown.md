@@ -1,8 +1,11 @@
 ---
+album: She's Got Everything
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:6bEZFHtdXyFvugCSv6AMRD
 features: []
-genres: []
+first_released_as_single: false
 key: we-ll-cry-together-maxine-brown
 lyrics_url: https://genius.com/Maxine-brown-well-cry-together-lyrics
 name: We'll Cry Together
@@ -39,6 +42,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 184026
 ---
 We talked it over
 And we both agree

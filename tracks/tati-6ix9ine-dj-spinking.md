@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:6SOBCABlykuNrO04rmXpLs
 features:
 - DJ SPINKING
-genres: []
+first_released_as_single: false
 key: tati-6ix9ine-dj-spinking
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/tati.html
 name: TATI
@@ -28,8 +31,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 154565
 ---
-
 Hold up, let me get it started
 B.B. with the Robin's, lookin' all retarded
 B.B. saggin', fly like a dragon
@@ -89,6 +93,3 @@ You don't even follow me
 Why you tweet my shit?
 You ain't used to read my shit
 Bitch, you used to fuckin' leave me on seen and shit
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:0PrXe1sVQoYMeP70ZjEyP1
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-have-eyes-for-you-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-i-only-have-eyes-for-you-lyrics
 name: I Only Have Eyes For You
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 153733
 ---
 Are the stars out tonight?
 I don't know if it's cloudy or bright

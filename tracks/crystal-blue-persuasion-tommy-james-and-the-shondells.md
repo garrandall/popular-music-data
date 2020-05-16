@@ -1,8 +1,11 @@
 ---
+album: Crimson & Clover
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:0aD8W0ChzDgEKpB1zsJ8zv
 features: []
-genres: []
+first_released_as_single: false
 key: crystal-blue-persuasion-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/crystalbluepersuasion.html
 name: Crystal Blue Persuasion
@@ -67,8 +70,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 242320
 ---
-
 Look over yonder
 What do you see?
 The sun is a-risin'
@@ -112,6 +116,3 @@ Crystal blue persuasion, aha
 Crystal blue persuasion, aha
 Crystal blue persuasion, aha
 Crystal blue persuasion, aha
-
-
-

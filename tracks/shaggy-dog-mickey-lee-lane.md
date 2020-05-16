@@ -1,8 +1,11 @@
 ---
+album: Hey Sah-Lo-Ney
 artists:
 - Mickey Lee Lane
+external_ids:
+  spotify: spotify:track:0J3nckOfR9lwUdGdsPnXUX
 features: []
-genres: []
+first_released_as_single: false
 key: shaggy-dog-mickey-lee-lane
 lyrics_url: https://www.musixmatch.com/lyrics/Mickey-Lee-Lane/Shaggy-Dog
 name: Shaggy Dog
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 169213
 ---
 Do the bird, pretty bird 'cause the bird is the word,
 Do the dog, dirty dog like a daddy frog,

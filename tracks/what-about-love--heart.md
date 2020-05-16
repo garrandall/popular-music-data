@@ -1,8 +1,11 @@
 ---
+album: Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:5nN1jGnCadYk1jYm6oV5zN
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-love--heart
 lyrics_url: https://genius.com/Heart-what-about-love-lyrics
 name: What About Love?
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 221670
 ---
 I've been lonely
 I've been waiting for you

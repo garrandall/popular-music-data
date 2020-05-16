@@ -1,8 +1,11 @@
 ---
+album: 400 Degreez
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:3b0dX6Q2lxp7OX5lFt0nba
 features: []
-genres: []
+first_released_as_single: false
 key: ha-juvenile
 lyrics_url: https://genius.com/Juvenile-ha-lyrics
 name: Ha
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1998
+runtime: 292333
 ---
 That's you with that bad ass Benz ha
 That's you that can't keep your old lady

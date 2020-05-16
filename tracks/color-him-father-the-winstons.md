@@ -1,8 +1,11 @@
 ---
+album: Color Him Father
 artists:
 - The Winstons
+external_ids:
+  spotify: spotify:track:4qlk1U68B90hEi37NvCJRK
 features: []
-genres: []
+first_released_as_single: false
 key: color-him-father-the-winstons
 lyrics_url: https://genius.com/The-winstons-color-him-father-lyrics
 name: Color Him Father
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 190080
 ---
 There's a man at my house, he's so big and strong
 He goes to work each day, and he stays all day long

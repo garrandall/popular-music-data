@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:4L1E4AVWK6eV0gT5rwPllS
 features: []
-genres: []
+first_released_as_single: false
 key: paper-roses-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-paper-roses-lyrics
 name: Paper Roses
@@ -75,6 +78,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 171986
 ---
 I realize the way your eyes deceived me
 With tender looks that I mistook for love

@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection 1954-62
 artists:
 - Roy Hamilton
+external_ids:
+  spotify: spotify:track:48VSTCMXamWCRSw86VYcZ1
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-need-magic-roy-hamilton
 lyrics_url: https://www.musixmatch.com/lyrics/Roy-Hamilton/You-re-Gonna-Need-Magic
 name: You're Gonna Need Magic
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 166520
 ---
 (Magic, magic, magic)
 

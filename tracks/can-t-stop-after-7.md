@@ -1,8 +1,11 @@
 ---
+album: After 7
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:1TYt5etb427hvOod3EKJA5
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-after-7
 lyrics_url: https://genius.com/After-7-cant-stop-lyrics
 name: Can't Stop
@@ -107,6 +110,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1989
+runtime: 247906
 ---
 Last night, I had the time of my life
 It's true

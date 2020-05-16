@@ -1,8 +1,11 @@
 ---
+album: 'The Bottom Line Archive Series: In Their Own Words, Vol. 1'
 artists:
 - Arthur Alexander
+external_ids:
+  spotify: spotify:track:0infa4Uv31EQJkJ6dXWJ6A
 features: []
-genres: []
+first_released_as_single: false
 key: anna--go-to-him--arthur-alexander
 lyrics_url: https://genius.com/Arthur-alexander-anna-go-to-him-lyrics
 name: Anna (Go To Him)
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 201373
 ---
 Anna
 You come and ask me, girl

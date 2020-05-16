@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Again - 20 Twist & Limbo Hits
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:0q9KuZKLyaMuum6C8qJGPJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-fly-chubby-checker
 lyrics_url: https://genius.com/Chubby-checker-the-fly-lyrics
 name: The Fly
@@ -59,6 +62,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 143146
 ---
 Come on come on and do the fly with me
 Hey come on everybody and do the fly with me

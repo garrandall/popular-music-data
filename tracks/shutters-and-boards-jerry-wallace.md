@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:2eyymRihyVnBwAVtoDlD6I
 features: []
-genres: []
+first_released_as_single: true
 key: shutters-and-boards-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-shutters-and-boards-lyrics
 name: Shutters And Boards
@@ -55,6 +58,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 175920
 ---
 (Shutters and boards cover the windows)
 (Of the house where we used to live)

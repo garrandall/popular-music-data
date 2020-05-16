@@ -1,8 +1,11 @@
 ---
+album: Harverd Dropout
 artists:
 - Lil Pump
+external_ids:
+  spotify: spotify:track:44KKhCyI0BGS6LvVyDqJtH
 features: []
-genres: []
+first_released_as_single: true
 key: esskeetit-lil-pump
 lyrics_url: https://www.azlyrics.com/lyrics/lilpump/esskeetit.html
 name: Esskeetit
@@ -55,8 +58,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 181714
 ---
-
 CB on the beat
 Only wear designer, esskeetit
 Oh, Lil Pump
@@ -152,6 +156,3 @@ Runnin' up a check with no limit (Oh)
 Poppin' on X, poppin' on X, poppin' on X, pills (Poppin' on X)
 Got a new car, got a new bitch
 And I got a new deal (Brrt)
-
-
-

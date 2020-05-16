@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2UcS1cuqNEioUR6hYJMaeY
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-to-turn-back-now-brook-benton
 lyrics_url: https://genius.com/Brook-benton-too-late-to-turn-back-now-lyrics
 name: Too Late To Turn Back Now
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 210200
 ---
 You don't know how much you hurt me
 When you broke our precious vows

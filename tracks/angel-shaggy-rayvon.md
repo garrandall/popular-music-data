@@ -1,9 +1,12 @@
 ---
+album: Hot Shot
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:7FDV5ELOJHCGLe52AnttEd
 features:
 - Rayvon
-genres: []
+first_released_as_single: false
 key: angel-shaggy-rayvon
 lyrics_url: https://www.azlyrics.com/lyrics/shaggy/angel.html
 name: Angel
@@ -120,9 +123,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2000
+runtime: 235133
 ---
-
-
 Now this one's dedicated to all the youths who want to say nice things to all them girls
 Treat her like diamonds and pearls
 Dedicated to all the girls around the world
@@ -200,6 +203,3 @@ Girl, you're my angel, you're my darling angel
 Closer than my peeps you are to me, baby
 Shorty, you're my angel, you're my darling angel
 Girl, you're my friend when I'm in need, lady
-
-
-

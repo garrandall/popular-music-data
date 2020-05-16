@@ -1,8 +1,11 @@
 ---
+album: Repeat Offender
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:4V87hYB94wu8DFtd901riK
 features: []
-genres: []
+first_released_as_single: false
 key: satisfied-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/satisfied.html
 name: Satisfied
@@ -67,8 +70,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
+release_year: 1989
+runtime: 254466
 ---
-
 We work our bodies weary to stay alive
 There must be more to livin' than nine to five
 
@@ -102,6 +106,3 @@ Don't you know, ain't gonna stop until
 I'm satisfied
 Don't you know, we won't give up until
 We're satisfied
-
-
-

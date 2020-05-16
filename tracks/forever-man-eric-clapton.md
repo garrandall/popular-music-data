@@ -1,8 +1,11 @@
 ---
+album: Behind the Sun
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:6d4uxTsF44xXW6KWnp5pJh
 features: []
-genres: []
+first_released_as_single: false
 key: forever-man-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-forever-man-lyrics
 name: Forever Man
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1985
+runtime: 191560
 ---
 How many times must I tell you babe
 How many bridges I have got to cross?

@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:3Y7wceiUKsiubeKkezCVsP
 features: []
-genres: []
+first_released_as_single: false
 key: a-letter-to-an-angel-jimmy-clanton
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Clanton/A-Letter-to-an-Angel
 name: A Letter To An Angel
@@ -55,6 +58,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 174614
 ---
 Dearest darling
 I'm writing to say

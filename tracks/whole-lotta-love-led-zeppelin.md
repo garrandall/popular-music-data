@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin II
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:0hCB0YR03f6AmQaHbwWDe8
 features: []
-genres: []
+first_released_as_single: false
 key: whole-lotta-love-led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-whole-lotta-love-lyrics
 name: Whole Lotta Love
@@ -67,6 +70,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1969
+runtime: 333893
 ---
 You need coolin', baby, I'm not foolin'
 I'm going to send you back to schoolin'

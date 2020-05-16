@@ -1,8 +1,11 @@
 ---
+album: I'm On The Outside (Looking In)
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:6kMZdaCLHWqECFKOatBPXF
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-on-the-outside--looking-in--little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-im-on-the-outside-lyrics
 name: I'm On The Outside (Looking In)
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 192066
 ---
 Shimmy Shimmy Ko-Ko-Bop
 Little Anthony and the Imperials

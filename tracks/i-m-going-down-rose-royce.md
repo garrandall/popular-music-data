@@ -1,8 +1,11 @@
 ---
+album: Car Wash
 artists:
 - Rose Royce
+external_ids:
+  spotify: spotify:track:3C2B1j4sOXOw1uoADrBiRH
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-going-down-rose-royce
 lyrics_url: https://www.azlyrics.com/lyrics/roseroyce/imgoingdown.html
 name: I'm Going Down
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1976
+runtime: 216773
 ---
-
 Time on my hands since you've been away boy
 I ain't got no plans
 No, no, no, no.
@@ -85,6 +89,3 @@ Please forgive me, baby, and come on home.
 Going down.
 Going down.
 Going down.
-
-
-

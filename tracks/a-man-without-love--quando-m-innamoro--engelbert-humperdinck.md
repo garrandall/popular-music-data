@@ -1,8 +1,11 @@
 ---
+album: Live In Concert / All of Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:622sVNQCspoVUqFWzOYYcj
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-without-love--quando-m-innamoro--engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-a-man-without-love-lyrics
 name: A Man Without Love (Quando M'innamoro)
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 205640
 ---
 I can remember when we walked together
 Sharing a love I thought would last forever

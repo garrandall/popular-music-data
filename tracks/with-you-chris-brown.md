@@ -1,8 +1,11 @@
 ---
+album: Exclusive
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:5Lgcn7u07bHuqbOtXkN62u
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-chris-brown
 lyrics_url: https://genius.com/Chris-brown-with-you-lyrics
 name: With You
@@ -123,6 +126,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 252120
 ---
 I need you, boo
 I gotta see you, boo

@@ -1,8 +1,11 @@
 ---
+album: Little Girl
 artists:
 - Syndicate Of Sound
+external_ids:
+  spotify: spotify:track:0EdfeUG4DyJcNs8MN5mEeS
 features: []
-genres: []
+first_released_as_single: false
 key: little-girl-syndicate-of-sound
 lyrics_url: https://genius.com/The-syndicate-of-sound-little-girl-lyrics
 name: Little Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1962
+runtime: 146386
 ---
 Hey, little girl, you don't have to hide nothin' no more
 You didn't do nothin' that hadn't been done before

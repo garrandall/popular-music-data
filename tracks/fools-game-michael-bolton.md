@@ -1,8 +1,11 @@
 ---
+album: Michael Bolton
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:0l4S40nqotTBKLcUE7lJsJ
 features: []
-genres: []
+first_released_as_single: false
 key: fools-game-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/foolsgame.html
 name: Fools Game
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1983
+runtime: 234426
 ---
-
 When I met you, oh
 You know at first you had me so confused
 I used to lay awake at night
@@ -59,6 +63,3 @@ Forever in your fools' game
 You got me caught up in this fools' game
 Such a fools' game, oh no, a fools' game
 How long will you keep me in this fools' game
-
-
-

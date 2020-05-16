@@ -1,8 +1,11 @@
 ---
+album: Wide Open Spaces
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:69m9WDPBvemwujQwdONslk
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-your-trouble-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/theresyourtrouble.html
 name: There's Your Trouble
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
+release_year: 1998
+runtime: 193064
 ---
-
 Should Have Been Different But
 It Wasn't Different, Was It
 Same Old Story, Dear John, And So Long
@@ -109,4 +113,3 @@ Should Have All Worked Out
 But It Didn't
 She Should Be Here Now
 But She Isn't
-

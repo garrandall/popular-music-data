@@ -1,8 +1,11 @@
 ---
+album: 'Bring Back The Love: Classic Dells Soul'
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:2zhJskQcL5SvNfFWUMkVvt
 features: []
-genres: []
+first_released_as_single: false
 key: long-lonely-nights-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/Long-Lonely-Nights
 name: Long Lonely Nights
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1970
+runtime: 150133
 ---
 Long, long and lonely nights
 I cry my eyes out over you

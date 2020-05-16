@@ -1,10 +1,13 @@
 ---
+album: '#1s ... and then some'
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:4xvMOj9QANlmQ7If03em5Q
 features:
 - Billy Gibbons
-genres: []
+first_released_as_single: false
 key: honky-tonk-stomp-brooks-dunn-billy-gibbons
 lyrics_url: https://www.musixmatch.com/lyrics/Brooks-Dunn-feat-Billy-Gibbons/Honky-Tonk-Stomp
 name: Honky Tonk Stomp
@@ -21,6 +24,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 181226
 ---
 Telly Man, standin' on a band stand, grand standin'
 Bendin' and bangin' them strings

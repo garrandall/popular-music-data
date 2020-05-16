@@ -1,8 +1,11 @@
 ---
+album: Balance
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:6z3JD6IqVvu6TUBtCfQPbe
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-lovin--you-van-halen
 lyrics_url: https://genius.com/Van-halen-cant-stop-lovin-you-lyrics
 name: Can't Stop Lovin' You
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1995
+runtime: 247466
 ---
 There's a time and place for everything, for everyone
 We can push with all our might, but nothing's gonna come

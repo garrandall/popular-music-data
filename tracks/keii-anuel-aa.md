@@ -1,8 +1,11 @@
 ---
+album: Keii
 artists:
 - Anuel AA
+external_ids:
+  spotify: spotify:track:5eEQCfq7MXQr6aHLNRUZLs
 features: []
-genres: []
+first_released_as_single: true
 key: keii-anuel-aa
 lyrics_url: https://genius.com/Anuel-aa-keii-lyrics
 name: KEII
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2020
+runtime: 210000
 ---
 Ella ya no piensa en él (En él)
 Él la convirtió en alguien que ella no e'

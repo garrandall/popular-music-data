@@ -1,8 +1,11 @@
 ---
+album: Love Stuff
 artists:
 - Elle King
+external_ids:
+  spotify: spotify:track:637kmONo6eMUOd10n9z4xb
 features: []
-genres: []
+first_released_as_single: true
 key: ex-s---oh-s-elle-king
 lyrics_url: https://genius.com/Elle-king-exs-and-ohs-lyrics
 name: Ex's & Oh's
@@ -159,6 +162,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2014
+runtime: 201853
 ---
 Well, I had me a boy, turned him into a man
 I showed him all the things that he didn't understand

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jane Wiedlin
 artists:
 - Jane Wiedlin
+external_ids:
+  spotify: spotify:track:46hyGWG79WYMEei6LCRf6W
 features: []
-genres: []
+first_released_as_single: false
 key: blue-kiss-jane-wiedlin
 lyrics_url: https://genius.com/Jane-wiedlin-blue-kiss-lyrics
 name: Blue Kiss
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 208400
 ---
 A blue kiss coloring me goodbye
 A new kiss could never feel so fine

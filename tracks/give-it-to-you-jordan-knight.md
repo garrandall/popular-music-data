@@ -1,8 +1,11 @@
 ---
+album: Jordan Knight
 artists:
 - Jordan Knight
+external_ids:
+  spotify: spotify:track:6xNnPtnmqpktZLFkgT21u7
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-you-jordan-knight
 lyrics_url: https://genius.com/Jordan-knight-give-it-to-you-lyrics
 name: Give It To You
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
+release_year: 1999
+runtime: 289760
 ---
 You say it's been too long
 Since you had some

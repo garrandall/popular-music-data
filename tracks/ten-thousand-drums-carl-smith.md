@@ -1,8 +1,11 @@
 ---
+album: Carl Smith, Vol. 7
 artists:
 - Carl Smith
+external_ids:
+  spotify: spotify:track:1SYttgGmUvtAZ0gBTjM8S4
 features: []
-genres: []
+first_released_as_single: false
 key: ten-thousand-drums-carl-smith
 lyrics_url: https://genius.com/Carl-smith-ten-thousand-drums-lyrics
 name: Ten Thousand Drums
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 151240
 ---
 Waiting, waiting, for the Red Coats to come
 But all I hear in my frozen ears is ten thousand drums

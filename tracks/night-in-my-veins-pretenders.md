@@ -1,8 +1,11 @@
 ---
+album: Last Of The Independents
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:4jDXkAlsbb1LdhdvXCj0dU
 features: []
-genres: []
+first_released_as_single: false
 key: night-in-my-veins-pretenders
 lyrics_url: https://www.azlyrics.com/lyrics/pretenders/nightinmyveins.html
 name: Night In My Veins
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
+release_year: 1994
+runtime: 197666
 ---
-
 I see him standing silhouetted
 In the lamp-light
 I cross the street
@@ -106,6 +110,3 @@ Even if it's just
 The night in my veins
 It feels good
 It's alright
-
-
-

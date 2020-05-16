@@ -1,8 +1,11 @@
 ---
+album: Poolside
 artists:
 - Nu Shooz
+external_ids:
+  spotify: spotify:track:09PFYYJuXJ961Kp8ZIxxpx
 features: []
-genres: []
+first_released_as_single: false
 key: point-of-no-return-nu-shooz
 lyrics_url: https://genius.com/Nu-shooz-point-of-no-return-lyrics
 name: Point Of No Return
@@ -95,6 +98,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1986
+runtime: 266040
 ---
 All I want's a friend and you want mine
 And you've been around for a long long time

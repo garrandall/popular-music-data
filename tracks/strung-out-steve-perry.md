@@ -1,8 +1,11 @@
 ---
+album: Street Talk
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:1bRaNLthp6QGqhErqzXBWf
 features: []
-genres: []
+first_released_as_single: false
 key: strung-out-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/steveperry/strungout.html
 name: Strung Out
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 225226
 ---
-
 One very happy warm summer night
 I saw your face, what could I do
 So carefully I walked straight up to you
@@ -100,6 +104,3 @@ Oh, when they don't belong to you
 Strung out and hung up on you
 Strung out and hung up on you
 Yeah, strung out
-
-
-

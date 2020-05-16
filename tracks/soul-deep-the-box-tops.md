@@ -1,8 +1,11 @@
 ---
+album: Dimensions
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:4yPl1mK1oluIrCwI4HInPR
 features: []
-genres: []
+first_released_as_single: false
 key: soul-deep-the-box-tops
 lyrics_url: https://genius.com/The-box-tops-soul-deep-lyrics
 name: Soul Deep
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 147760
 ---
 Darling, I don't know much
 But I know I love you so much

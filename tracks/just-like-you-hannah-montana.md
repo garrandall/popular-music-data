@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:1qsN5cpqU6quWtL9lgyA1v
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-you-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/Just-Like-You
 name: Just Like You
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 194306
 ---
 So what you see
 Is only half the story

@@ -1,8 +1,11 @@
 ---
+album: It Goes Like This
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:6GsAD8PgHxmEuIPTG8GP3M
 features: []
-genres: []
+first_released_as_single: false
 key: it-goes-like-this-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/itgoeslikethis.html
 name: It Goes Like This
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 186080
 ---
-
 Hey girl, you make me wanna write a song,
 Sit you down, I'll sing it to you all night long,
 I've had a melody in my head
@@ -146,6 +150,3 @@ And it goes like oh,
 And it goes like hey,
 And it ends with a kiss,
 Yeah it goes like this.
-
-
-

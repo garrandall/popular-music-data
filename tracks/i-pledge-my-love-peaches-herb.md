@@ -1,9 +1,12 @@
 ---
+album: At Their Best
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:7mZBgeTb3oLqTRwC1suWXN
 features: []
-genres: []
+first_released_as_single: false
 key: i-pledge-my-love-peaches-herb
 lyrics_url: https://www.musixmatch.com/lyrics/Peaches-feat-Herb/I-Pledge-My-Love
 name: I Pledge My Love
@@ -84,6 +87,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1980
+runtime: 255000
 ---
 Always together
 Together forever

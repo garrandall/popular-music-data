@@ -1,8 +1,11 @@
 ---
+album: Hit After Hit
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:022RNZj1eViVOTadshGBAF
 features: []
-genres: []
+first_released_as_single: false
 key: point-of-no-return-gene-mcdaniels
 lyrics_url: https://genius.com/Gene-mcdaniels-point-of-no-return-lyrics
 name: Point Of No Return
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 136026
 ---
 You know that once upon a time
 I didn't need you so

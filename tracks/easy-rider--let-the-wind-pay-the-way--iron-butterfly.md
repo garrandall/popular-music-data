@@ -1,8 +1,11 @@
 ---
+album: Metamorphosis
 artists:
 - Iron Butterfly
+external_ids:
+  spotify: spotify:track:6917QTtfHqiKowUDLt5G4A
 features: []
-genres: []
+first_released_as_single: false
 key: easy-rider--let-the-wind-pay-the-way--iron-butterfly
 lyrics_url: https://www.azlyrics.com/lyrics/ironbutterfly/easyriderletthewindpaytheway.html
 name: Easy Rider (Let The Wind Pay The Way)
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 186173
 ---
-
 Pegs of people line the street
 A ball and chain around their feet
 Waitin' for a weekend treat
@@ -69,6 +73,3 @@ Back to where you belong
 Oh, ride on!
 
 Talkin' bout easy
-
-
-

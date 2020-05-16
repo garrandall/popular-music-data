@@ -1,8 +1,11 @@
 ---
+album: Blown Away
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:20DfkHC5grnKNJCzZQB6KC
 features: []
-genres: []
+first_released_as_single: false
 key: good-girl-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/goodgirl.html
 name: Good Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2012
+runtime: 205560
 ---
-
 Hey, good girl (hey, good girl)
 With your head in the clouds
 I bet you I can tell you
@@ -158,6 +162,3 @@ Just a matter of time 'til you find
 He's no good, girl
 No good for you
 You better get to getting on your goodbye shoes
-
-
-

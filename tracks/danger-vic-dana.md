@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:1AkjNnyd2aqZRH4NXzP1Gn
 features: []
-genres: []
+first_released_as_single: false
 key: danger-vic-dana
 lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/Danger
 name: Danger
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 151866
 ---
 Your arms reach out for me
 And something deep inside me

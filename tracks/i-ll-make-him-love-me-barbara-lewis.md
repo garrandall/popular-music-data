@@ -1,8 +1,11 @@
 ---
+album: Working On A Groovy Thing
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:0MbawDKcfL98znAym9cFVj
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-make-him-love-me-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-ill-make-him-love-me-lyrics
 name: I'll Make Him Love Me
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 139813
 ---
 If it's the last thing that I do
 I'll make him love me

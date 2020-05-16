@@ -1,8 +1,11 @@
 ---
+album: One Night Only
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:0qp2BkreL7bxaFdc25VihQ
 features: []
-genres: []
+first_released_as_single: false
 key: how-deep-is-your-love-bee-gees
 lyrics_url: https://genius.com/Bee-gees-how-deep-is-your-love-lyrics
 name: How Deep Is Your Love
@@ -139,6 +142,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 243933
 ---
 I know your eyes in the morning sun
 I feel you touch me in the pouring rain

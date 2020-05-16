@@ -1,8 +1,11 @@
 ---
+album: Tical
 artists:
 - Method Man
+external_ids:
+  spotify: spotify:track:4OriPa2OXO6goScm81cjju
 features: []
-genres: []
+first_released_as_single: false
 key: release-yo--delf-method-man
 lyrics_url: https://www.azlyrics.com/lyrics/methodman/releaseyodelf.html
 name: Release Yo' Delf
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1994
+runtime: 255333
 ---
-
 When I first stepped on the scene, niggas was petrified
 Jet back to the lab like they were being chased by homicide
 My rap flow does you like Tical, and it will never steer you wrong
@@ -85,4 +89,3 @@ Throw your hands in the sky
 And wave em from side to side
 And if you're ready to spark up the Meth-Tical
 Let me hear you say stimuli
-

@@ -1,8 +1,11 @@
 ---
+album: Al Caiola
 artists:
 - Al Caiola
+external_ids:
+  spotify: spotify:track:25Mk94HsK9xl9EvDdTsftF
 features: []
-genres: []
+first_released_as_single: false
 key: bonanza-al-caiola-and-his-orchestra
 name: Bonanza
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 139400
 ---
 

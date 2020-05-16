@@ -1,8 +1,11 @@
 ---
+album: Riot!
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:6SpLc7EXZIPpy0sVko0aoU
 features: []
-genres: []
+first_released_as_single: false
 key: misery-business-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/miserybusiness.html
 name: Misery Business
@@ -127,8 +130,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2007
+runtime: 211520
 ---
-
 (hit that, hit that snare)
 
 I'm in the business of misery,
@@ -190,6 +194,3 @@ But God does it feel so good,
 And if you could then you know you would.
 'Cause God it just feels so...
 It just feels so good.
-
-
-

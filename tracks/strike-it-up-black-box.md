@@ -1,8 +1,11 @@
 ---
+album: Dreamland
 artists:
 - Black Box
+external_ids:
+  spotify: spotify:track:742hY2twqAjwNYnKkQdilj
 features: []
-genres: []
+first_released_as_single: false
 key: strike-it-up-black-box
 lyrics_url: https://genius.com/Black-box-strike-it-up-lyrics
 name: Strike It Up
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1990
+runtime: 298691
 ---
 Yeah, yeah
 Dance, dance, dance, dance

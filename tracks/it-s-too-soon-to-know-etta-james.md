@@ -1,8 +1,11 @@
 ---
+album: The Second Time Around
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:6vDRTM9h3dqqzINp2Znbsh
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-too-soon-to-know-etta-james
 lyrics_url: https://www.musixmatch.com/lyrics/Etta-James/It-s-Too-Soon-to-Know
 name: It's Too Soon To Know
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 167000
 ---
 Does he love me?
 It's too soon to know

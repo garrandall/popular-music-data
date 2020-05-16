@@ -1,8 +1,11 @@
 ---
+album: Zenyatta Mondatta (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:5veJDT0MLsLbhYsx42GXUD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stand-so-close-to-me-the-police
 lyrics_url: https://genius.com/The-police-dont-stand-so-close-to-me-lyrics
 name: Don't Stand So Close To Me
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1980
+runtime: 242666
 ---
 Young teacher, the subject
 Of schoolgirl fantasy

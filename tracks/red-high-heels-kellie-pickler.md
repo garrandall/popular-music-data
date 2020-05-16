@@ -1,8 +1,11 @@
 ---
+album: Small Town Girl
 artists:
 - Kellie Pickler
+external_ids:
+  spotify: spotify:track:7dFSHwa7BNZvWlOuYsvFpy
 features: []
-genres: []
+first_released_as_single: false
 key: red-high-heels-kellie-pickler
 lyrics_url: https://www.azlyrics.com/lyrics/kelliepickler/redhighheels.html
 name: Red High Heels
@@ -51,8 +54,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2006
+runtime: 222853
 ---
-
 Baby, I've got plans tonight
 You don't know nothin about
 I've been sittin round way too long
@@ -99,6 +103,3 @@ I'm about to show you just how missin' me feels
 In my red high heels
 In my red high heels
 In my red high heels
-
-
-

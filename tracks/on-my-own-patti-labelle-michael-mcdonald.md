@@ -1,9 +1,12 @@
 ---
+album: Patti LaBelle's Greatest Hits
 artists:
 - Patti LaBelle
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:29UXndgjLVTUZ8b1Mhz9CR
 features: []
-genres: []
+first_released_as_single: false
 key: on-my-own-patti-labelle-michael-mcdonald
 lyrics_url: https://genius.com/Patti-labelle-and-michael-mcdonald-on-my-own-lyrics
 name: On My Own
@@ -100,6 +103,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1986
+runtime: 283440
 ---
 So many times
 Said it was forever

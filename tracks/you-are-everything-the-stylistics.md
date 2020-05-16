@@ -1,8 +1,11 @@
 ---
+album: The Stylistics - The Original Debut Album
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:3I9f2nHprsSnfK02Oenuic
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-everything-the-stylistics
 lyrics_url: https://genius.com/The-stylistics-you-are-everything-lyrics
 name: You Are Everything
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 175506
 ---
 Today I saw somebody
 Who looked just like you

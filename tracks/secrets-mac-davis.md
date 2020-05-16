@@ -1,8 +1,11 @@
 ---
+album: Very Best And More
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:65Q2ZLufa8Xtqm2ZpZwlbL
 features: []
-genres: []
+first_released_as_single: false
 key: secrets-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/secrets.html
 name: Secrets
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
+release_year: 1981
+runtime: 254693
 ---
-
 Can't be no secrets
 If we're going to last
 Can't keep anything from me
@@ -77,6 +81,3 @@ There should never be (secrets)
 Secrets (secrets)
 Never be secrets (secrets)
 (Secrets secrets)
-
-
-

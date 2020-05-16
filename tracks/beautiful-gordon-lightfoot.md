@@ -1,8 +1,11 @@
 ---
+album: Don Quixote
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:1vRXK3F03wbFnCPmjryyEm
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/beautiful.html
 name: Beautiful
@@ -51,8 +54,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 203840
 ---
-
 At times I just don't know
 How you could be anything but beautiful
 I think that I was made for you
@@ -87,6 +91,3 @@ And I must say it means so much to me
 To be the one who's telling you
 I'm telling you
 That you're beautiful
-
-
-

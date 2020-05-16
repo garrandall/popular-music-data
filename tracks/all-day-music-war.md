@@ -1,8 +1,11 @@
 ---
+album: All Day Music
 artists:
 - War
+external_ids:
+  spotify: spotify:track:6nOgfdfLQ6ZzlRMTqiqQlt
 features: []
-genres: []
+first_released_as_single: false
 key: all-day-music-war
 lyrics_url: https://genius.com/War-all-day-music-lyrics
 name: All Day Music
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 243866
 ---
 Music is what we like to play
 All day all day all day all day all day

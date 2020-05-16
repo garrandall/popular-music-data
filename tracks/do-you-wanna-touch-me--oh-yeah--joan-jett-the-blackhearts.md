@@ -1,8 +1,11 @@
 ---
+album: Bad Reputation
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:6Xprc4GuCejWA3BjU5knyw
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-touch-me--oh-yeah--joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/doyouwannatouchmeohyeah.html
 name: Do You Wanna Touch Me (Oh Yeah)
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1981
+runtime: 226520
 ---
-
 We've been here too long
 Tryin' to get along
 Pretendin' that you're oh so shy
@@ -111,6 +115,3 @@ Do you wanna touch (Yeah)
 Do you wanna touch (Yeah)
 Do you wanna touch me there, where
 There, yeah
-
-
-

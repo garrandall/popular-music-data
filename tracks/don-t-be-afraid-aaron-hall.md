@@ -1,8 +1,11 @@
 ---
+album: The Truth
 artists:
 - Aaron Hall
+external_ids:
+  spotify: spotify:track:3eUsSFWf6Aq5oCK9lTI4Q8
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-afraid-aaron-hall
 lyrics_url: https://genius.com/Aaron-hall-dont-be-afraid-lyrics
 name: Don't Be Afraid
@@ -71,6 +74,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 318600
 ---
 Now I lay me down to sleep
 I pray my Lord my soul to keep

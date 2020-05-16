@@ -1,8 +1,11 @@
 ---
+album: Robbie Nevil
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:71MtbBxubNeGjvr9McwfuP
 features: []
-genres: []
+first_released_as_single: false
 key: wot-s-it-to-ya-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-wots-it-to-ya-lyrics
 name: Wot's It To Ya
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1986
+runtime: 227826
 ---
 Wasn't it you
 I begged to stay

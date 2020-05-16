@@ -1,8 +1,11 @@
 ---
+album: Soul Party - Sun Records
 artists:
 - Mickey Murray
+external_ids:
+  spotify: spotify:track:64SBy7WqIUjmJKUTBZnAY7
 features: []
-genres: []
+first_released_as_single: false
 key: shout-bamalama-mickey-murray
 lyrics_url: https://www.musixmatch.com/lyrics/Mickey-Murray/Shout-Bamalama
 name: Shout Bamalama
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 137165
 ---
 It's done in Alabama
 (You shall be free)

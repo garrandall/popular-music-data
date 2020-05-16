@@ -1,8 +1,11 @@
 ---
+album: 24 Carrots
 artists:
 - Al Stewart
+external_ids:
+  spotify: spotify:track:4GgksqOS098BxNRNN6HPCQ
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-rocks-al-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/alstewart/midnightrocks.html
 name: Midnight Rocks
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 235213
 ---
-
 You say with best intention, lets throw away convention
 Set sail across the water, to find the tides of fortune
 I say please understand it, don't' let our love be stranded
@@ -85,6 +89,3 @@ I know that fascination, with living each sensation
 in your imagination, there is no hesitation
 I say please understand it, don't let our love be stranded
 Upon the midnight rocks.
-
-
-

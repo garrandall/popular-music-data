@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol. 1
 artists:
 - Aurra
+external_ids:
+  spotify: spotify:track:2W37d46W5KIDlXflb855JK
 features: []
-genres: []
+first_released_as_single: false
 key: make-up-your-mind-aurra
 lyrics_url: https://genius.com/Aurra-make-up-your-mind-lyrics
 name: Make Up Your Mind
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-05-01'
+release_year: 1976
+runtime: 589960
 ---
 Why don't you make up your mind?
 Stop wasting all my time

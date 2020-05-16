@@ -1,8 +1,12 @@
 ---
+album: Greatest Hits II
 artists:
-- Clint Black With Steve Wariner
-features: []
-genres: []
+- Clint Black
+external_ids:
+  spotify: spotify:track:5KPqPP8RLsmAMHu0BN0Pw1
+features:
+- Steve Wariner
+first_released_as_single: false
 key: been-there-clint-black-with-steve-wariner
 name: Been There
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
+release_year: 2000
+runtime: 335200
 ---
 

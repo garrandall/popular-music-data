@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Regina Belle
+external_ids:
+  spotify: spotify:track:5sUhPjE13aCyHyEn2XuzF6
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-like-it-was-regina-belle
 lyrics_url: https://www.azlyrics.com/lyrics/reginabelle/makeitlikeitwas.html
 name: Make It Like It Was
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1987
+runtime: 307466
 ---
-
 Everyday we used to slip away to talk
 We would talk about the goodness of your heart
 Now it seems I admit that never exist at all
@@ -99,6 +103,3 @@ To make it like it was
 
 Make it like it was
 Make it like it was
-
-
-

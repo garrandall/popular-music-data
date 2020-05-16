@@ -1,8 +1,11 @@
 ---
+album: Mary
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3Q5xu8VzdwYR9dXHniCU8o
 features: []
-genres: []
+first_released_as_single: false
 key: deep-inside-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-deep-inside-lyrics
 name: Deep Inside
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 326000
 ---
 The problem is for many years
 I've lived my life publicly

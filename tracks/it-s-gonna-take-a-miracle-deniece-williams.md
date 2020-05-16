@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:13swBoqpJNkvN3gDAqfEwR
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-gonna-take-a-miracle-deniece-williams
 lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/itsgonnatakeamiracle.html
 name: It's Gonna Take A Miracle
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1976
+runtime: 198533
 ---
-
 Loving you so
 I was to blind to see
 You letting me go
@@ -106,6 +110,3 @@ You can be sure that now it's gonna take a miracle
 Yes, it's gonna take a miracle
 To make me love someone new
 Cause I'm crazy for you
-
-
-

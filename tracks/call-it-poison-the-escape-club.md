@@ -1,8 +1,11 @@
 ---
+album: Dollars & Sex
 artists:
 - The Escape Club
+external_ids:
+  spotify: spotify:track:3lxGEScEFa9EndItaMZW2O
 features: []
-genres: []
+first_released_as_single: false
 key: call-it-poison-the-escape-club
 lyrics_url: https://genius.com/The-escape-club-call-it-poison-lyrics
 name: Call It Poison
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-04-27'
+release_year: 1991
+runtime: 294426
 ---
 I just left Hollywood, California
 Our countries have become sewers

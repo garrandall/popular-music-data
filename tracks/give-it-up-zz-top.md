@@ -1,8 +1,11 @@
 ---
+album: Recycler
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:470PZEQc7PUnvhp73hSrJc
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/giveitup.html
 name: Give It Up
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 209426
 ---
-
 I bet the derby and I won by a nose,
 I bet Vegas and they took my clothes.
 I bet Monte Carlo I was showin' my stuff,
@@ -53,6 +57,3 @@ I fell in love down in Mexico,
 Thunderbird wine's the only way to go.
 I been in love ten thousand times, 
 All you got to do is remember my line.
-
-
-

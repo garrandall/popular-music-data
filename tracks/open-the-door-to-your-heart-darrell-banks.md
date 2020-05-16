@@ -1,8 +1,11 @@
 ---
+album: Darrell Banks Is Here!
 artists:
 - Darrell Banks
+external_ids:
+  spotify: spotify:track:0rbyxKKubocBP2LWlwL3L8
 features: []
-genres: []
+first_released_as_single: false
 key: open-the-door-to-your-heart-darrell-banks
 lyrics_url: https://genius.com/Darrell-banks-open-the-door-to-your-heart-lyrics
 name: Open The Door To Your Heart
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 157186
 ---
 Walk right on in
 Stretch out your arms

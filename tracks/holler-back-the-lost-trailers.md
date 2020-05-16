@@ -1,8 +1,11 @@
 ---
+album: Holler Back
 artists:
 - The Lost Trailers
+external_ids:
+  spotify: spotify:track:0CoZupLrrahlE1dRh5XKti
 features: []
-genres: []
+first_released_as_single: true
 key: holler-back-the-lost-trailers
 lyrics_url: https://www.azlyrics.com/lyrics/losttrailers/hollerback.html
 name: Holler Back
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 191986
 ---
-
 I got a city folk friend in a hip-hop world
 He goes by E. Diddy but his name is Earl
 Cocks his hat to the side in his Grandma's ride
@@ -124,6 +128,3 @@ All the cowgirls shakin' their sassafras
 Homebrewed, homegrown
 Where the wild seeds a get sown)
 Oh...
-
-
-

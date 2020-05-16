@@ -1,8 +1,11 @@
 ---
+album: The Best of Old Rock/Pop
 artists:
 - Barry Young
+external_ids:
+  spotify: spotify:track:3Vd7lnnD4xihfGIgqNDo9B
 features: []
-genres: []
+first_released_as_single: false
 key: one-has-my-name--the-other-has-my-heart--barry-young
 lyrics_url: https://genius.com/Barry-young-one-has-my-name-the-other-has-my-heart-lyrics
 name: One Has My Name (The Other Has My Heart)
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 155626
 ---
 One has my name, the other has my heart
 With one I'll remain, that's how my heartaches start

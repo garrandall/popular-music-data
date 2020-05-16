@@ -1,8 +1,11 @@
 ---
+album: Nothing But A Breeze
 artists:
 - Jesse Winchester
+external_ids:
+  spotify: spotify:track:5SxuGQBG2bWFMPz186m5cN
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-but-a-breeze-jesse-winchester
 lyrics_url: https://genius.com/Jesse-winchester-nothing-but-a-breeze-lyrics
 name: Nothing But A Breeze
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 274253
 ---
 Life is much too short for some folks
 For other folks it just drags on

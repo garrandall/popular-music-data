@@ -1,9 +1,12 @@
 ---
+album: It's Everyday Bro
 artists:
 - Jake Paul
+external_ids:
+  spotify: spotify:track:4l62h4tiuUwn7eD6hxMlVQ
 features:
 - Team 10
-genres: []
+first_released_as_single: true
 key: it-s-everyday-bro-jake-paul-team-10
 lyrics_url: https://genius.com/Jake-paul-its-everyday-bro-lyrics
 name: It's Everyday Bro
@@ -16,6 +19,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 217678
 ---
 Yah
 Y'all can't handle this

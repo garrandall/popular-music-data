@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:2TvVo7bRILMlNGb7gvcWlx
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-you-could-be-here-the-cyrkle
 lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/iwishyoucouldbehere.html
 name: I Wish You Could Be Here
@@ -23,8 +26,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1967
+runtime: 169893
 ---
-
 Lookin' from my window
 At the freshly fallen snow
 That sparkles as it tumbles
@@ -55,6 +59,3 @@ I wish you could be here
 I wish you could be here
 I wish you could be here...
 Here...
-
-
-

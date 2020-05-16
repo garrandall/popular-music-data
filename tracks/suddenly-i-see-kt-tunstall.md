@@ -1,8 +1,11 @@
 ---
+album: Eye To The Telescope
 artists:
 - KT Tunstall
+external_ids:
+  spotify: spotify:track:5p9XWUdvbUzmPCukOmwoU3
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-i-see-kt-tunstall
 lyrics_url: https://www.azlyrics.com/lyrics/kttunstall/suddenlyisee.html
 name: Suddenly I See
@@ -127,8 +130,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2005
+runtime: 201706
 ---
-
 Her face is a map of the world
 Is a map of the world
 You can see she's a beautiful girl
@@ -200,6 +204,3 @@ Suddenly I see (suddenly I see)
 Why the hell it means so much to me (suddenly I see)
 Suddenly I see (suddenly I see)
 Why the hell it means so much to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Goodies Old Is New: Come Dance With Me'
 artists:
 - Skip And Flip
+external_ids:
+  spotify: spotify:track:19qtW8wdHXBz3fnRlQceET
 features: []
-genres: []
+first_released_as_single: false
 key: fancy-nancy-skip-and-flip
 name: Fancy Nancy
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 118973
 ---
 

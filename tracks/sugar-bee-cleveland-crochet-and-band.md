@@ -1,8 +1,11 @@
 ---
+album: Cleveland Crochet and all The Sugar Bees
 artists:
 - Cleveland Crochet
+external_ids:
+  spotify: spotify:track:37lGfhbrKUmVpYvBgH0y2s
 features: []
-genres: []
+first_released_as_single: true
 key: sugar-bee-cleveland-crochet-and-band
 lyrics_url: https://www.musixmatch.com/lyrics/Cleveland-Crochet/Sugar-Bee
 name: Sugar Bee
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 156790
 ---
 Sugar bee, sugar bee
 Sugar bee, sugar bee

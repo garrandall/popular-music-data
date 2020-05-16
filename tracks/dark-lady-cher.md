@@ -1,8 +1,11 @@
 ---
+album: Half Breed
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:16ShgoIW9TtfzUFHOJJIvC
 features: []
-genres: []
+first_released_as_single: false
 key: dark-lady-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/darklady.html
 name: Dark Lady
@@ -71,8 +74,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1973
+runtime: 209200
 ---
-
 The fortune queen of New Orleans
 Was brushing her cat in her black limousine
 On the backseat were scratches from
@@ -107,4 +111,3 @@ So I sneaked back and caught her with my man
 Laughing and kissing till they saw the gun in my hand
 The next thing I knew they were dead on the floor
 Dark Lady would never turn a card up anymore
-

@@ -1,9 +1,12 @@
 ---
+album: My Soul, My Life
 artists:
 - J-Shin
+external_ids:
+  spotify: spotify:track:0GkrLimxhiGAGb2lhS2arM
 features:
 - LaTocha Scott
-genres: []
+first_released_as_single: false
 key: one-night-stand-j-shin-latocha-scott
 lyrics_url: https://genius.com/J-shin-one-night-stand-lyrics
 name: One Night Stand
@@ -76,6 +79,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 274360
 ---
 (feat. LaTocha Scott)
 

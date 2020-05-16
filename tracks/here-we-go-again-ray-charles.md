@@ -1,8 +1,11 @@
 ---
+album: Best of Jazz
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:4UpiGzkVYkUieq1JTwFp5m
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-go-again-ray-charles
 lyrics_url: https://www.azlyrics.com/lyrics/raycharles/herewegoagain.html
 name: Here We Go Again
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 238306
 ---
-
 Here we go again
 She's back in town again
 I'll take her back again
@@ -78,6 +82,3 @@ She'll break my heart again
 I'll play the part again
 
 One more time
-
-
-

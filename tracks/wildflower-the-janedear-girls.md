@@ -1,8 +1,11 @@
 ---
+album: the JaneDear girls
 artists:
 - The JaneDear Girls
+external_ids:
+  spotify: spotify:track:2pey6ClOaWssXa4tVBGVJP
 features: []
-genres: []
+first_released_as_single: false
 key: wildflower-the-janedear-girls
 lyrics_url: https://www.azlyrics.com/lyrics/janedeargirls/wildflower.html
 name: Wildflower
@@ -39,8 +42,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 163453
 ---
-
 Mmm yeaahh yeaeaa yeaaa
 
 I was born off an old dirt road 40 acre farm no highway no interstate
@@ -76,6 +80,3 @@ Oooo yeah oo yeahh I-I'm a wildflower
 Oooo yeah oo yeah I'm a wildflower
 
 Yeaahh yeaeaa yeaaa I'm a wildflower
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Ultimate Santana
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:5Hv1QAbRWrUSUHaT0CmnMS
 features:
 - Chad Kroeger
-genres: []
+first_released_as_single: false
 key: into-the-night-santana-chad-kroeger
 lyrics_url: https://genius.com/Santana-into-the-night-lyrics
 name: Into The Night
@@ -92,6 +95,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
+release_year: 2007
+runtime: 222440
 ---
 Like a gift from the heavens, it was easy to tell
 It was love from above, that could save me from hell

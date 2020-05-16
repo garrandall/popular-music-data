@@ -1,8 +1,11 @@
 ---
+album: Night Train
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:3C6WblKJq7rpsPsIafytEV
 features: []
-genres: []
+first_released_as_single: false
 key: 1994-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/1994.html
 name: '1994'
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2012
+runtime: 242680
 ---
-
 Now girl I know you used to the same old same
 But we ain't floatin' that boat, no we ain't ridin' that train
 Hop on my rocket ship and let's get outta here
@@ -110,6 +114,3 @@ Hey Joe, Joe, Joe Diffie
 Joe, Joe, Joe Diffie
 Joe, Joe, Joe Diffie
 Will the real Joe Diffie please stand up
-
-
-

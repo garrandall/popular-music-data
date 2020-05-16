@@ -1,8 +1,11 @@
 ---
+album: That's The Way God Planned It
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:1oT3VkbjXWsciXQ2xNmd5x
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-god-planned-it-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/thatsthewaygodplanneditparts12.html
 name: That's The Way God Planned It
@@ -71,8 +74,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1969
+runtime: 254106
 ---
-
 Why can't we be humble
 Like the good Lord say?
 He promised to exalt us
@@ -122,6 +126,3 @@ That's the way God planned it
 That's the way God wants it to be
 That's the way God planned it
 That's the way God wants it to be
-
-
-

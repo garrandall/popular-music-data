@@ -1,9 +1,12 @@
 ---
+album: Presenting Dion And The Belmonts
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:1ZsHsqO3nrafksXkOBeUXG
 features: []
-genres: []
+first_released_as_single: false
 key: where-or-when-dion-the-belmonts
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/whereorwhen.html
 name: Where Or When
@@ -72,8 +75,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1959
+runtime: 160386
 ---
-
 It seems we stood and talked like this before
 We looked at each other in the same way then
 But I can't remember where or when
@@ -88,6 +92,3 @@ And so it seems that we have met before
 And laughed before
 And loved before
 But who knows where or when
-
-
-

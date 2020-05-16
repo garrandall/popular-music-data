@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin IV
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:4PRGxHpCpF2yoOHYKQIEwD
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-rock-and-roll-lyrics
 name: Rock And Roll
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1971
+runtime: 220560
 ---
 It's been a long time since I rock and rolled
 It's been a long time since I did the Stroll

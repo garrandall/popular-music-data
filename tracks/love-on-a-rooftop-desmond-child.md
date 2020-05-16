@@ -1,8 +1,11 @@
 ---
+album: Discipline
 artists:
 - Desmond Child
+external_ids:
+  spotify: spotify:track:3GoeTGM9kbkVnYiWyz7Ps5
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-a-rooftop-desmond-child
 lyrics_url: https://genius.com/Desmond-child-love-on-a-rooftop-lyrics
 name: Love On A Rooftop
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 318226
 ---
 We use to talk forever on a dime
 Now we live together, never find the time

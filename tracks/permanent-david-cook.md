@@ -1,8 +1,11 @@
 ---
+album: David Cook
 artists:
 - David Cook
+external_ids:
+  spotify: spotify:track:7bppBAD4NHqVqzXkrkZVxY
 features: []
-genres: []
+first_released_as_single: false
 key: permanent-david-cook
 lyrics_url: https://www.azlyrics.com/lyrics/davidcook/permanent.html
 name: Permanent
@@ -15,8 +18,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 176520
 ---
-
 Is this the moment where I look you in the eye?
 Forgive my broken promise that you'll never see me cry
 And everything, it will surely change even if I tell you I won't go away today
@@ -36,6 +40,3 @@ I'm permanent
 
 Is this the moment where I look you in the eye?
 Forgive my promise that you'll never see me cry
-
-
-

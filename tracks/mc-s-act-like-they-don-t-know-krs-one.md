@@ -1,8 +1,11 @@
 ---
+album: KRS-One
 artists:
 - KRS-One
+external_ids:
+  spotify: spotify:track:0snDRsjNRMJhm7SVja8l6J
 features: []
-genres: []
+first_released_as_single: false
 key: mc-s-act-like-they-don-t-know-krs-one
 lyrics_url: https://genius.com/Krs-one-mcs-act-like-they-dont-know-lyrics
 name: MC's Act Like They Don't Know
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
+release_year: 1995
+runtime: 295933
 ---
 Clap your hands everybody, if you got what it takes
 'Cause I'm KRS and I'm on the mic, and Premier's on The Breaks

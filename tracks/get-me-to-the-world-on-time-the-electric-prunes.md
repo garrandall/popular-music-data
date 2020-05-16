@@ -1,8 +1,11 @@
 ---
+album: I Had Too Much To Dream (Last Night)
 artists:
 - The Electric Prunes
+external_ids:
+  spotify: spotify:track:7aRVxvubodRSjp875ZBYNC
 features: []
-genres: []
+first_released_as_single: false
 key: get-me-to-the-world-on-time-the-electric-prunes
 lyrics_url: https://genius.com/The-electric-prunes-get-me-to-the-world-on-time-lyrics
 name: Get Me To The World On Time
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 152626
 ---
 Here I go (higher, higher)
 Here I go (higher, higher)

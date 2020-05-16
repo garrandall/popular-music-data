@@ -1,8 +1,11 @@
 ---
+album: Born & Raised (On Rock N Roll)
 artists:
 - Beau Coup
+external_ids:
+  spotify: spotify:track:4tiuVzLFpRMXCKZG6br9Ox
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-rachel-beau-coup
 lyrics_url: https://www.musixmatch.com/lyrics/Beau-Coup/Sweet-Rachel
 name: Sweet Rachel
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-12-05'
+release_year: 1984
+runtime: 229466
 ---
 Rachel, what do I do now
 You got me going but I can't

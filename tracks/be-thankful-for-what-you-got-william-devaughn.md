@@ -1,8 +1,11 @@
 ---
+album: 70's Pop Gems
 artists:
 - William DeVaughn
+external_ids:
+  spotify: spotify:track:3PrqRBsMdy8eZkbDqDb32p
 features: []
-genres: []
+first_released_as_single: true
 key: be-thankful-for-what-you-got-william-devaughn
 lyrics_url: https://genius.com/William-devaughn-be-thankful-for-what-you-got-lyrics
 name: Be Thankful For What You Got
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 206120
 ---
 Though you may not drive a great big Cadillac
 Gangsta whitewalls

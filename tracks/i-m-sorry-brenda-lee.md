@@ -1,8 +1,11 @@
 ---
+album: Brenda Lee
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:4LJcNiq2pBb8OeqrGdBJQw
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sorry-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-im-sorry-lyrics
 name: I'm Sorry
@@ -99,6 +102,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 161546
 ---
 I'm sorry, so sorry
 That I was such a fool

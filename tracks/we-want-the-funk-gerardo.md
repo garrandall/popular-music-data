@@ -1,8 +1,11 @@
 ---
+album: Mo' Ritmo
 artists:
 - Gerardo
+external_ids:
+  spotify: spotify:track:2H2DEIShDY2sCjTiFJIEPt
 features: []
-genres: []
+first_released_as_single: false
 key: we-want-the-funk-gerardo
 lyrics_url: https://genius.com/Gerardo-we-want-the-funk-lyrics
 name: We Want The Funk
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1991
+runtime: 251093
 ---
 'Excuse me, where have I seen you?', they tend to ask me
 A humble answer I give them as we

@@ -1,8 +1,11 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:2gYiCTytrSRtuaHP1Nac6u
 features: []
-genres: []
+first_released_as_single: false
 key: fast-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/fast.html
 name: Fast
@@ -59,8 +62,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-05-06'
+release_year: 2015
+runtime: 206213
 ---
-
 Fast
 That's the kind of car you wanna drive when you're sixteen
 Fast
@@ -106,6 +110,3 @@ But you can't, yeah man
 It goes too fast
 It just goes too fast
 Way too fast
-
-
-

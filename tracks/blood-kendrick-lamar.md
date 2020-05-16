@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:5NMTBJ4AR3TMSVjGQX0Wxk
 features: []
-genres: []
+first_released_as_single: false
 key: blood-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-blood-lyrics
 name: Blood
@@ -11,6 +14,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2017-05-06'
+release_year: 2017
+runtime: 118066
 ---
 Is it wickedness?
 Is it weakness?

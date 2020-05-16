@@ -1,8 +1,11 @@
 ---
+album: Playtyme Is Over
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:62utntNdsx80hraXA5ha0Q
 features: []
-genres: []
+first_released_as_single: false
 key: never-lie-immature
 lyrics_url: https://genius.com/Immature-never-lie-lyrics
 name: Never Lie
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
+release_year: 1994
+runtime: 253190
 ---
 Friends come a dime a dozen
 But I know that I will never find a friend like you

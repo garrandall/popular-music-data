@@ -1,8 +1,11 @@
 ---
+album: Back from the Edge
 artists:
 - James Arthur
+external_ids:
+  spotify: spotify:track:1Pw5C4N6Fn5E4mGCxmbbVa
 features: []
-genres: []
+first_released_as_single: true
 key: say-you-won-t-let-go-james-arthur
 lyrics_url: https://genius.com/James-arthur-say-you-wont-let-go-lyrics
 name: Say You Won't Let Go
@@ -215,6 +218,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2016
+runtime: 211240
 ---
 I met you in the dark
 You lit me up

@@ -1,8 +1,11 @@
 ---
+album: '1990'
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:036VfOqzE69Sn7LEcqhMPo
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-my-soul-on-fire-the-temptations
 lyrics_url: https://genius.com/The-temptations-youve-got-my-soul-on-fire-lyrics
 name: You've Got My Soul On Fire
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1973
+runtime: 232440
 ---
 Baby, you better quit, umm
 

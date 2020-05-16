@@ -1,8 +1,11 @@
 ---
+album: The Pixies Three Meet The Secrets
 artists:
 - The Pixies Three
+external_ids:
+  spotify: spotify:track:1FKzZ9Z2mlXlxOp3FDteKr
 features: []
-genres: []
+first_released_as_single: false
 key: gee-the-pixies-three
 lyrics_url: https://genius.com/The-pixies-three-gee-lyrics
 name: Gee
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1964
+runtime: 143386
 ---
 Do do-do-do do-do-do do-do-do-do
 Do do-do-do do-do-do do-do-do-da-do

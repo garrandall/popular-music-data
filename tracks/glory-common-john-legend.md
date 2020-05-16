@@ -1,9 +1,12 @@
 ---
+album: Glory (From the Motion Picture Selma)
 artists:
 - Common
 - John Legend
+external_ids:
+  spotify: spotify:track:2fmqPLRFdJNPhLU3b2NSFp
 features: []
-genres: []
+first_released_as_single: true
 key: glory-common-john-legend
 lyrics_url: https://www.musixmatch.com/lyrics/Common-feat-John-Legend/Glory
 name: Glory
@@ -20,6 +23,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2014
+runtime: 272727
 ---
 One day when the glory comes
 It will be ours, it will be ours

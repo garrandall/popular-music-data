@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:0QwZfbw26QeUoIy82Z2jYp
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-bad-times-led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-good-times-bad-times-lyrics
 name: Good Times Bad Times
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 166266
 ---
 In the days of my youth, I was told what it means to be a man
 And now I've reached that age, I've tried to do all those things the best I can

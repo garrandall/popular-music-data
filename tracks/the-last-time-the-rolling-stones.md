@@ -1,8 +1,11 @@
 ---
+album: Out Of Our Heads
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7foiOmd1Je7Z0D3TaZCDro
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-time-the-rolling-stones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rolling-Stones/The-Last-Time-Top-Gear-1965
 name: The Last Time
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 221493
 ---
 Well I told you once and I told you twice
 But ya never listen to my advice

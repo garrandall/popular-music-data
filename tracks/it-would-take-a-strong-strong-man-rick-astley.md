@@ -1,8 +1,11 @@
 ---
+album: Whenever You Need Somebody
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:5BDOCu3gk2HrHqEherdl27
 features: []
-genres: []
+first_released_as_single: false
 key: it-would-take-a-strong-strong-man-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/itwouldtakeastrongstrongman.html
 name: It Would Take A Strong Strong Man
@@ -71,8 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1987
+runtime: 219373
 ---
-
 My heart starts breaking
 When I think of making
 A plan to let you go
@@ -133,6 +137,3 @@ To ever let you go
 To ever let you go
 I'll never let you go
 (To ever let you go)
-
-
-

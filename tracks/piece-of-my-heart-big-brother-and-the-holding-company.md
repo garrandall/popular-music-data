@@ -1,8 +1,11 @@
 ---
+album: Cheap Thrills
 artists:
 - Big Brother And The Holding Company
+external_ids:
+  spotify: spotify:track:1xKQbqQtQWrtQS47fUJBtl
 features: []
-genres: []
+first_released_as_single: false
 key: piece-of-my-heart-big-brother-and-the-holding-company
 lyrics_url: https://genius.com/Big-brother-and-the-holding-company-piece-of-my-heart-lyrics
 name: Piece Of My Heart
@@ -55,6 +58,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 253333
 ---
 Oh, come on, come on, come on, come on
 

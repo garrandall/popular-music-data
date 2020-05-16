@@ -1,9 +1,12 @@
 ---
+album: Disclaimer II
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:507bYMYfbm6sUS9iEAaeSd
 features:
 - Amy Lee
-genres: []
+first_released_as_single: false
 key: broken-seether-amy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/seether/brokenfeatamylee.html
 name: Broken
@@ -92,8 +95,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 2004
+runtime: 258333
 ---
-
 I wanted you to know that I love the way you laugh
 I wanna hold you high and steal your pain away
 I keep your photograph and I know it serves me well
@@ -124,6 +128,3 @@ And I don't feel right when you're gone away
 
 You've gone away
 You don't feel me here anymore
-
-
-

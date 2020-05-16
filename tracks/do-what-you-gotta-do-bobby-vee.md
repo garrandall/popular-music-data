@@ -1,8 +1,11 @@
 ---
+album: Do What You Gotta Do
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:4j2ArHvM38V1LxLhhrY5Ks
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-gotta-do-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Do-What-You-Gotta-Do
 name: Do What You Gotta Do
@@ -23,6 +26,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 172000
 ---
 Girl, I can understand how it might be
 Kinda hard to love a guy like me

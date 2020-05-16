@@ -1,8 +1,11 @@
 ---
+album: Near You
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:133CAUMI8sQgeUN2nW0omp
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-outside-roger-williams
 name: The World Outside
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 171253
 ---
 

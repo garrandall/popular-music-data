@@ -1,8 +1,11 @@
 ---
+album: Live From Clear Channel Stripped 2008
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4RBKAqJ3qyvvriDG0s9IJ3
 features: []
-genres: []
+first_released_as_single: false
 key: love-story-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-love-story-lyrics
 name: Love Story
@@ -203,6 +206,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2008
+runtime: 221028
 ---
 We were both young when I first saw you
 I close my eyes, and the flashback starts

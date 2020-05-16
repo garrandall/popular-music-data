@@ -1,8 +1,11 @@
 ---
+album: Adventures Of Stevie V
 artists:
 - The Adventures Of Stevie V
+external_ids:
+  spotify: spotify:track:3lcUQs5nyrjoHpQR9Vo2aA
 features: []
-genres: []
+first_released_as_single: true
 key: dirty-cash--money-talks--the-adventures-of-stevie-v
 lyrics_url: https://genius.com/Adventures-of-stevie-v-dirty-cash-todd-terry-radio-mix-lyrics
 name: Dirty Cash (Money Talks)
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1989
+runtime: 243133
 ---
 Mmm, hm, hm, hm, hm, hm
 

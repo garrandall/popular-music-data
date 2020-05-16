@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:4T1YDePBqGXRnTJMCi4nXm
 features: []
-genres: []
+first_released_as_single: false
 key: waltzing-matilda-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Waltzing-Matilda
 name: Waltzing Matilda
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1960
+runtime: 176000
 ---
 Once a jolly swagman sat beside the billabong,
 Under the shade of a coulibah tree,

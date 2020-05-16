@@ -1,8 +1,11 @@
 ---
+album: Can't Slow Down
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:7gaQtc0vrSpmRJpSMDiPEk
 features: []
-genres: []
+first_released_as_single: false
 key: all-night-long--all-night--lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-all-night-long-all-night-lyrics
 name: All Night Long (All Night)
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
+release_year: 1983
+runtime: 383440
 ---
 Well, my friends, the time has come
 To raise the roof and have some fun

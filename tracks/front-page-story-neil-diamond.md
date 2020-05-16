@@ -1,8 +1,11 @@
 ---
+album: Heartlight
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:5FYfjjNgGG2872yVdto8fE
 features: []
-genres: []
+first_released_as_single: false
 key: front-page-story-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/frontpagestory.html
 name: Front Page Story
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1982
+runtime: 269773
 ---
-
 She wakes up
 She's leaving
 She sets out so assured
@@ -104,6 +108,3 @@ Somebody breaks a heart in two
 No no no
 Oh no no
 Somebody's broken heart ain't news
-
-
-

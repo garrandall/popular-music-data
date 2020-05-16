@@ -1,8 +1,11 @@
 ---
+album: Daddy's Home
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:2Pjiynk3ppiVHWXzoL05tV
 features: []
-genres: []
+first_released_as_single: false
 key: what-now-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-what-now-lyrics
 name: What Now
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 170626
 ---
 What now after you've done me like you did
 Already out stringing along like an infatuated kid

@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3KiexfmhxHvG5IgAElmTkd
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-her-standing-there-the-beatles
 lyrics_url: https://genius.com/The-beatles-i-saw-her-standing-there-lyrics
 name: I Saw Her Standing There
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1963
+runtime: 173946
 ---
 1, 2, 3, 4!
 

@@ -1,8 +1,11 @@
 ---
+album: The Genius Sings the Blues
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:33r2XtaXXcIx0yQepqsHfM
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-movin--on-ray-charles-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Charles-and-His-Orchestra/I-m-Movin-On
 name: I'm Movin' On
@@ -47,6 +50,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 133466
 ---
 I warned you baby from time to time
 But you just wouldn't listen

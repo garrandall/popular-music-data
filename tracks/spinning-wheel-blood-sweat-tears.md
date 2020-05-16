@@ -1,10 +1,13 @@
 ---
+album: Blood, Sweat & Tears
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:2z1hG8KD42pT4tiMhMXC6j
 features: []
-genres: []
+first_released_as_single: false
 key: spinning-wheel-blood-sweat-tears
 lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/spinningwheel.html
 name: Spinning Wheel
@@ -61,8 +64,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1968
+runtime: 245240
 ---
-
 What goes up, must come down
 Spinning wheel got to go round
 Talkin' 'bout your troubles, it's a cryin' sin
@@ -88,6 +92,3 @@ Someone's waiting just for you
 Spinning wheel spinning through
 Drop all your troubles by the riverside
 Ride a painted pony, let the spinning wheel fly
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Longing In Their Hearts
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:5GzhOU3ABPksBqLdjortcG
 features: []
-genres: []
+first_released_as_single: false
 key: love-sneakin--up-on-you-bonnie-raitt
 lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/lovesneakinuponyou.html
 name: Love Sneakin' Up On You
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1994
+runtime: 221626
 ---
-
 Rainy night, I'm all alone
 Sittin' here, waiting for your voice on the phone
 Fever turns to cold, cold sweat
@@ -116,4 +120,3 @@ Yeah
 
 
 Hey yeah
-

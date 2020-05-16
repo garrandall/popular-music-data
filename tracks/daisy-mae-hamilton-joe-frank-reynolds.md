@@ -1,10 +1,13 @@
 ---
+album: Greatest Hits
 artists:
 - Hamilton
 - Joe Frank
 - Reynolds
+external_ids:
+  spotify: spotify:track:3EDKjNcmQTmNhc1QRLCqYy
 features: []
-genres: []
+first_released_as_single: false
 key: daisy-mae-hamilton-joe-frank-reynolds
 lyrics_url: https://www.azlyrics.com/lyrics/hamiltonjoefrankreynolds/daisymae.html
 name: Daisy Mae
@@ -53,8 +56,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 181933
 ---
-
 Your love could be sweeter
 Than the sweetest apple tree
 But I can't taste the goodness
@@ -113,6 +117,3 @@ Daisy Mae (oh, Daisy Mae)
 Come on back where you belong
 Daisy Mae (Daisy Mae)
 You've been running around too long
-
-
-

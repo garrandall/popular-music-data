@@ -1,8 +1,11 @@
 ---
+album: 'The Magic Touch: An Anthology'
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:74ZHF7tNTd2MN2pyJCyi35
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-the-platters
 lyrics_url: https://genius.com/The-platters-i-wish-lyrics
 name: I Wish
@@ -47,6 +50,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 162933
 ---
 I wish, I wish, I wish, I wish for you
 I wish, I wish, I wish, I wish for you

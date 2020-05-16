@@ -1,8 +1,11 @@
 ---
+album: One Good Reason
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:4SByRm49LWQlobusVS7dcZ
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-walk-in-the-room-paul-carrack
 lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/whenyouwalkintheroom.html
 name: When You Walk In The Room
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 211333
 ---
-
 Baby, it's a dream come true 
 Walking right alongside of you 
 Wish I could tell you how much I care 
@@ -54,6 +58,3 @@ Every time you walk
 I feel a brand new way 
 Oh yes I do 
 Yeah, baby
-
-
-

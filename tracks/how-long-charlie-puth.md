@@ -1,8 +1,11 @@
 ---
+album: Voicenotes
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:2cmWjJEB9PydEc1eIHbOHX
 features: []
-genres: []
+first_released_as_single: true
 key: how-long-charlie-puth
 lyrics_url: https://genius.com/Charlie-puth-how-long-lyrics
 name: How Long
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2017
+runtime: 192786
 ---
 Alright
 Oh yeah

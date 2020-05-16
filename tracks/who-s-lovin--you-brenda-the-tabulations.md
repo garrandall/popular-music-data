@@ -1,9 +1,12 @@
 ---
+album: The Dionn Singles Collection 1966-1969
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:55ivHusJG9A8RiMoAEFQok
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-lovin--you-brenda-the-tabulations
 name: Who's Lovin' You
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 193320
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Off the Wall
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3zYpRGnnoegSpt3SguSo3W
 features: []
-genres: []
+first_released_as_single: false
 key: off-the-wall-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-off-the-wall-lyrics
 name: Off The Wall
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1979
+runtime: 246000
 ---
 When the world is on your shoulder
 Gotta straighten up your act and boogie down

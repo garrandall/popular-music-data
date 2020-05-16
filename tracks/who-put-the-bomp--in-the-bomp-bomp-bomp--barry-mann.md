@@ -1,8 +1,11 @@
 ---
+album: The Complete Best Of
 artists:
 - Barry Mann
+external_ids:
+  spotify: spotify:track:30txFxKhnMJqUXz0xx0x39
 features: []
-genres: []
+first_released_as_single: false
 key: who-put-the-bomp--in-the-bomp-bomp-bomp--barry-mann
 lyrics_url: https://genius.com/Barry-mann-who-put-the-bomp-lyrics
 name: Who Put The Bomp (In The Bomp Bomp Bomp)
@@ -55,6 +58,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 167226
 ---
 "I'd like to thank the guy who wrote the song
 That made my baby fall in love with me"

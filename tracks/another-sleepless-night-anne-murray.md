@@ -1,8 +1,11 @@
 ---
+album: Where Do You Go When You Dream
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:24r9lkO9G0fs4IVKrFswsh
 features: []
-genres: []
+first_released_as_single: false
 key: another-sleepless-night-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/anothersleeplessnight.html
 name: Another Sleepless Night
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1982
+runtime: 187266
 ---
-
 The nights have been so lonely since you went away
 I could not get to sleep, try as I may
 But now you're back, and you're here to stay.
@@ -75,6 +79,3 @@ Just as long as you are holdin' me tight.
 
 Makin' love 'til the early morning light
 Only whets our appetite...
-
-
-

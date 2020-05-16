@@ -1,8 +1,11 @@
 ---
+album: Desperate Man
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:3d1qN7AHge6BXuVPutcpI5
 features: []
-genres: []
+first_released_as_single: false
 key: some-of-it-eric-church
 lyrics_url: https://genius.com/Eric-church-some-of-it-lyrics
 name: Some Of It
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2018
+runtime: 195146
 ---
 Beer don't keep
 Love’s not cheap

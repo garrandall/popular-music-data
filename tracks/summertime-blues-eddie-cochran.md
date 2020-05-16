@@ -1,8 +1,11 @@
 ---
+album: 12 Of His Biggest Hits
 artists:
 - Eddie Cochran
+external_ids:
+  spotify: spotify:track:3oAWTk92mZBxKBOKf8mR5v
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-blues-eddie-cochran
 lyrics_url: https://genius.com/Eddie-cochran-summertime-blues-lyrics
 name: Summertime Blues
@@ -71,6 +74,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 119360
 ---
 I'm a-gonna raise a fuss
 I'm a-gonna raise a holler

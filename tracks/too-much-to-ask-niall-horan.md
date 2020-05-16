@@ -1,8 +1,11 @@
 ---
+album: Flicker
 artists:
 - Niall Horan
+external_ids:
+  spotify: spotify:track:2NkbRmygVirMQFCjSkyY7Q
 features: []
-genres: []
+first_released_as_single: true
 key: too-much-to-ask-niall-horan
 lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/toomuchtoask.html
 name: Too Much To Ask
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 223043
 ---
-
 Waiting here for someone
 Only yesterday we were on the run
 You smile back at me and your face lit up the sun
@@ -112,6 +116,3 @@ It's all I'm asking
 Is it too much to ask?
 It's all I'm asking
 Is it too much to ask?
-
-
-

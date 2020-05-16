@@ -1,8 +1,11 @@
 ---
+album: 20 All-Time Greatest Hits!
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:7tMCIOFe99cWEYr21wfsDp
 features: []
-genres: []
+first_released_as_single: false
 key: get-up--i-feel-like-being-like-a--sex-machine--part-1--james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/Get-Up-Sex-Machine
 name: Get Up (I Feel Like Being Like A) Sex Machine (Part 1)
@@ -43,6 +46,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 315840
 ---
 Fellas, I'm ready to get up and do my thing (yeah go ahead!)
 I wanta get into it, man, you know (go ahead!)

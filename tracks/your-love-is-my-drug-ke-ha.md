@@ -1,8 +1,11 @@
 ---
+album: Animal
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:6vc2Jq2vaGu8z326kSrw92
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-is-my-drug-ke-ha
 lyrics_url: https://genius.com/Kesha-your-love-is-my-drug-lyrics
 name: Your Love Is My Drug
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
+release_year: 2010
+runtime: 187133
 ---
 Maybe I need some rehab
 Or maybe just need some sleep

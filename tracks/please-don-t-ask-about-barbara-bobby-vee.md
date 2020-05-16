@@ -1,8 +1,11 @@
 ---
+album: A Bobby Vee Recording Session
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:71rgaYJOU03rn2Fme6pefG
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-ask-about-barbara-bobby-vee
 lyrics_url: https://genius.com/Bobby-vee-please-dont-ask-about-barbara-lyrics
 name: Please Don't Ask About Barbara
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 123826
 ---
 Please don't ask about Barbara
 Don't ask me if she's found somebody new

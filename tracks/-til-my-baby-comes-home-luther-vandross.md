@@ -1,8 +1,11 @@
 ---
+album: The Night I Fell In Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:2R97RZWUx4vAFbMMtmb5Ss
 features: []
-genres: []
+first_released_as_single: false
 key: -til-my-baby-comes-home-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/tilmybabycomeshome.html
 name: '''Til My Baby Comes Home'
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1985
+runtime: 332226
 ---
-
 There's a whole lot of girls
 Messin around
 Trying to get me
@@ -135,4 +139,3 @@ I really love her, keep dreaming of her
 Cause our love is for real
 And I don't worry
 Cause I know, I know, I know
-

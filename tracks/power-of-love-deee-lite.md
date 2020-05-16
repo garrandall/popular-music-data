@@ -1,8 +1,11 @@
 ---
+album: World Clique
 artists:
 - Deee-Lite
+external_ids:
+  spotify: spotify:track:2BuTposwmSKxFBgEoi4jES
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love-deee-lite
 lyrics_url: https://www.azlyrics.com/lyrics/deeelite/poweroflove.html
 name: Power Of Love
@@ -47,8 +50,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 281760
 ---
-
 I believe in the power of love (I believe)
 I believe in the power of love (I believe)
 I believe in the power of love
@@ -83,6 +87,3 @@ Open your heart
 
 I believe I believe
 Power of power of power of love
-
-
-

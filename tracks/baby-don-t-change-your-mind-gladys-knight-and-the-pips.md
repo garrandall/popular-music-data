@@ -1,8 +1,11 @@
 ---
+album: The Essential Gladys Knight & The Pips
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0aNwPLqn7nT8DvT1jUQDw6
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-change-your-mind-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-baby-dont-change-your-mind-lyrics
 name: Baby Don't Change Your Mind
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 194000
 ---
 Oh your ex is back in town
 Whatcha gonna do when she comes around

@@ -1,8 +1,11 @@
 ---
+album: The Very Best
 artists:
 - Nigel Olsson
+external_ids:
+  spotify: spotify:track:5CRm7shhtZQLo4742cVBUT
 features: []
-genres: []
+first_released_as_single: false
 key: little-bit-of-soap-nigel-olsson
 lyrics_url: https://genius.com/Nigel-olsson-little-bit-of-soap-lyrics
 name: Little Bit Of Soap
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1978
+runtime: 206933
 ---
 A little bit of soap
 Will wash away your lipstick from my face

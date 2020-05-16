@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:1RdnFVwreBGgMyNn4DbFh8
 features: []
-genres: []
+first_released_as_single: false
 key: knock--knock---who-s-there---the-orlons
 lyrics_url: https://genius.com/The-orlons-knock-knock-whos-there-lyrics
 name: Knock! Knock! (Who's There?)
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 139400
 ---
 Knock knock knock
 Who's there?

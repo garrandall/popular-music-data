@@ -1,8 +1,11 @@
 ---
+album: Summer Forever
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:4iLPK8QnOvqm0Azbsk2GDn
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-it-billy-currington
 lyrics_url: https://genius.com/Billy-currington-dont-it-lyrics
 name: Don't It
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2015
+runtime: 189000
 ---
 Baby, don’t say no so quick
 This ain’t about me tryin’ to see how far that I can get

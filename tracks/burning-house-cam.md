@@ -1,8 +1,11 @@
 ---
+album: Untamed
 artists:
 - Cam
+external_ids:
+  spotify: spotify:track:2zhk0kypGeOPsaaZcjyc14
 features: []
-genres: []
+first_released_as_single: false
 key: burning-house-cam
 lyrics_url: https://genius.com/Cam-burning-house-lyrics
 name: Burning House
@@ -107,6 +110,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 231333
 ---
 I had a dream about a burning house
 You were stuck inside, I couldn't get you out

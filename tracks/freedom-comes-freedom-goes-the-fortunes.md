@@ -1,8 +1,11 @@
 ---
+album: Seasons In the Sun
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:2bsDrSmLICF3RL9l2bkxAf
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-comes-freedom-goes-the-fortunes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fortunes/Freedom-Comes-Freedom-Goes
 name: Freedom Comes Freedom Goes
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 185213
 ---
 Freedom come, Freedom go
 Tell me yes and then she tells me no

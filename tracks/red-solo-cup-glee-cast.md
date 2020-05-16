@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2jY8KalpIwv0qDh6SSRfVo
 features: []
-genres: []
+first_released_as_single: false
 key: red-solo-cup-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/redsolocup.html
 name: Red Solo Cup
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 221253
 ---
-
 1,2,3
 
 Now red solo cup is the best receptacle
@@ -69,7 +73,4 @@ Let's have a party, let's have a party
 Red solo cup, I lift you up
 Let's have a party, proceed to party
 
-Solo cup 
-
-
-
+Solo cup

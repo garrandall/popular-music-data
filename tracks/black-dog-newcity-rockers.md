@@ -1,8 +1,11 @@
 ---
+album: Black Dog
 artists:
 - Newcity Rockers
+external_ids:
+  spotify: spotify:track:3F92HdpLwf09U4qBPegoCs
 features: []
-genres: []
+first_released_as_single: true
 key: black-dog-newcity-rockers
 name: Black Dog
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1987
+runtime: 238167
 ---
 

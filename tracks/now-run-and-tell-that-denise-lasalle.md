@@ -1,8 +1,11 @@
 ---
+album: On The Loose / Trapped By A Thing Called Love
 artists:
 - Denise LaSalle
+external_ids:
+  spotify: spotify:track:0mbO62w494zUQ4gMSrqkxh
 features: []
-genres: []
+first_released_as_single: false
 key: now-run-and-tell-that-denise-lasalle
 lyrics_url: https://genius.com/Denise-lasalle-now-run-and-tell-that-lyrics
 name: Now Run And Tell That
@@ -51,6 +54,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 200506
 ---
 Every big city man goin' 'round town, yes
 He been tellin' how he loves, the men'll put him down, oh yes he has

@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of The Night
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:5yGTQzYbEdY6B9RFZJypgt
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-the-night-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/debarge/rhythmofthenight.html
 name: Rhythm Of The Night
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1985
+runtime: 229106
 ---
-
 When it feels like the world is on your shoulders
 And all of the madness has got you going crazy
 It's time to get out, step out into the street
@@ -147,6 +151,3 @@ Forget about the worries on your mind, 'cause you can leave them all behind
 To the beat of the rhythm of the night, dance until the morning light
 Forget about the worries on your mind, you can leave them all behind
 To the beat of the rhythm of the night...
-
-
-

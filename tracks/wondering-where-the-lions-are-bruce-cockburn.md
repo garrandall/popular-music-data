@@ -1,8 +1,11 @@
 ---
+album: Dancing In The Dragon's Jaws
 artists:
 - Bruce Cockburn
+external_ids:
+  spotify: spotify:track:0Nn4H46gZGsc5agUTWcaiY
 features: []
-genres: []
+first_released_as_single: false
 key: wondering-where-the-lions-are-bruce-cockburn
 lyrics_url: https://genius.com/Bruce-cockburn-wondering-where-the-lions-are-lyrics
 name: Wondering Where The Lions Are
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1979
+runtime: 227666
 ---
 Sun's up, uuh huh, looks okay
 The world survives into another day

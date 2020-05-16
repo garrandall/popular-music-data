@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:1Hk25057O1SKKJAMRcJvjX
 features: []
-genres: []
+first_released_as_single: false
 key: remember-when-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-remember-when-lyrics
 name: Remember When
@@ -23,6 +26,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 136066
 ---
 Pizza pies, a carousel
 The fountains and the wishing well

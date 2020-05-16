@@ -1,8 +1,11 @@
 ---
+album: La La Means I Love You
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:6k2cegIpd6Nc2WpO6xaSIc
 features: []
-genres: []
+first_released_as_single: false
 key: break-your-promise-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-break-your-promise-lyrics
 name: Break Your Promise
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
+release_year: 1968
+runtime: 184506
 ---
 If I had a dime for every time
 I dreamed about you

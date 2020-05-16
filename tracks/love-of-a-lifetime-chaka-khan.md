@@ -1,8 +1,11 @@
 ---
+album: Destiny
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:3GhNbHLTEhrZhGOGQKzYpw
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-a-lifetime-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/loveofalifetime.html
 name: Love Of A Lifetime
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 260959
 ---
-
 Love of a lifetime
 
 Good for you (heart of change)
@@ -121,6 +125,3 @@ We got the love, we got the love
 We got the love
 It's got to be a heart of change
 We got the love, we got the love...
-
-
-

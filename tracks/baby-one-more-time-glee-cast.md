@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3uheBt1aGsKcZztD4eGzdP
 features: []
-genres: []
+first_released_as_single: false
 key: baby-one-more-time-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/babyonemoretime.html
 name: Baby One More Time
@@ -11,8 +14,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 210866
 ---
-
 Oh baby, baby 
 How was I supposed to know 
 That somethin' wasn't right? 
@@ -67,6 +71,3 @@ I must confess that my loneliness is killing me now
 Don't you know I still believe? 
 That you will be here and give me a sign 
 Hit me baby one more time
-
-
-

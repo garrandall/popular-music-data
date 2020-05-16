@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:54MuDI4aVRHxaNn4hJRiuR
 features: []
-genres: []
+first_released_as_single: false
 key: going-home-kenny-g
 name: Going Home
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1986
+runtime: 330893
 ---
 

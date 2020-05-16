@@ -1,8 +1,11 @@
 ---
+album: Loose Change
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:0CNrpbpJ9HsFffF9hqWIIe
 features: []
-genres: []
+first_released_as_single: false
 key: one-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-one-lyrics
 name: One
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2011
+runtime: 206440
 ---
 Tell me that you'll turn down the man
 Who asks for your hand

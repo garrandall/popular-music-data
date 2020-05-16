@@ -1,8 +1,12 @@
 ---
+album: Breathe
 artists:
-- Faith Hill With Tim McGraw
-features: []
-genres: []
+- Faith Hill
+external_ids:
+  spotify: spotify:track:0i0EezZjtGz0gsd8zBP7vR
+features:
+- Tim McGraw
+first_released_as_single: false
 key: let-s-make-love-faith-hill-with-tim-mcgraw
 name: Let's Make Love
 rankings:
@@ -62,5 +66,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
+release_year: 1999
+runtime: 252893
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of Lonestar'
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:51bGVHqAvMdethz8RNIBeF
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-memphis-lonestar
 lyrics_url: https://genius.com/Lonestar-walking-in-memphis-lyrics
 name: Walking In Memphis
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 1995
+runtime: 229093
 ---
 Put on my blue suede shoes and I boarded the plane
 Touched down in the land of the Delta Blues

@@ -1,8 +1,11 @@
 ---
+album: I See the Light
 artists:
 - The Five Americans
+external_ids:
+  spotify: spotify:track:4dxdrk5iPhe45Y113YgrHb
 features: []
-genres: []
+first_released_as_single: false
 key: i-see-the-light-the-five-americans
 lyrics_url: https://genius.com/The-five-americans-i-see-the-light-lyrics
 name: I See The Light
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 129866
 ---
 I can have your lovin'
 Both day and night

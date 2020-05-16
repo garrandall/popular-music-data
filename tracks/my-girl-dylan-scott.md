@@ -1,8 +1,11 @@
 ---
+album: Dylan Scott
 artists:
 - Dylan Scott
+external_ids:
+  spotify: spotify:track:3izNaTiYdotdPL0Bs76JqO
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-dylan-scott
 lyrics_url: https://genius.com/Dylan-scott-my-girl-lyrics
 name: My Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 197640
 ---
 She looks so pretty with no makeup on (With no makeup on)
 You should hear her talking to her mama on the phone (To her mama on the phone)

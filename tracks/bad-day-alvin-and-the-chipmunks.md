@@ -1,8 +1,11 @@
 ---
+album: Alvin And The Chipmunks (Original Motion Picture Soundtrack)
 artists:
 - Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:2uXvmqJCWcstMyW33aJPks
 features: []
-genres: []
+first_released_as_single: false
 key: bad-day-alvin-and-the-chipmunks
 lyrics_url: https://www.azlyrics.com/lyrics/alvinandthechipmunks/badday.html
 name: Bad Day
@@ -15,8 +18,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2007
+runtime: 214666
 ---
-
 Where is the moment we needed the most?
 You kick up the leaves and the magic is lost.
 They tell me your blue skies fade to grey.
@@ -79,6 +83,3 @@ You've seen what you like.
 And how does it feel for one more time?
 You had a bad day.
 You had a bad day.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tiimmy Turner
 artists:
 - Desiigner
+external_ids:
+  spotify: spotify:track:3NJG6vMH1ZsectZkocMEm0
 features: []
-genres: []
+first_released_as_single: true
 key: tiimmy-turner-desiigner
 lyrics_url: https://www.azlyrics.com/lyrics/desiigner/tiimmyturner.html
 name: Tiimmy Turner
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 239853
 ---
-
 Yeah, yeah, yeah, yeah
 Grrrrraaaah
 Yeah, yeah, yeah, yeah
@@ -241,6 +245,3 @@ Wildin' for wallet
 Kill everybody walkin'
 He knows that his soul in the furnace
 Tiimmy, Tiimmy, Tiimmy Turner
-
-
-

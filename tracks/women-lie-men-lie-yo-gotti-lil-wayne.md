@@ -1,9 +1,12 @@
 ---
+album: 'Cocaine Muzik 4: Gangsta Grillz'
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:6jDMlQsmDnKtusidx4P4p8
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: women-lie-men-lie-yo-gotti-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/yogotti/womenliemenlie.html
 name: Women Lie Men Lie
@@ -36,9 +39,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 2009
+runtime: 216773
 ---
-
-
 Women Lie, Men Lie
 Women Lie, Men Lie
 Women Lie, Men Lie
@@ -104,6 +107,3 @@ And Lear 55 with my air force ones.
 
 Yo this your boy Yo Gotti
 (Say what you want but the numbers don't lie)
-
-
-

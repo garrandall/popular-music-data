@@ -1,8 +1,11 @@
 ---
+album: Get Closer
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:2iJ389BSoL3MlYzVO17qY0
 features: []
-genres: []
+first_released_as_single: false
 key: get-closer-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/getcloser.html
 name: Get Closer
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1982
+runtime: 153066
 ---
-
 Want love? Get closer
 You want love? Get closer
 Hold her hand, be forward
@@ -82,6 +86,3 @@ Why you worrying about those things you said
 Follow your heart and forget your head
 Oh, slide over on the seat
 She'll give you something that's oh so sweet
-
-
-

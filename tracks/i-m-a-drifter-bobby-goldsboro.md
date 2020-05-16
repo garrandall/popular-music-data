@@ -1,8 +1,11 @@
 ---
+album: '"Today"'
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:2JDBniAD0l3AsAd60Zg9el
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-drifter-bobby-goldsboro
 lyrics_url: https://genius.com/Bobby-goldsboro-im-a-drifter-lyrics
 name: I'm A Drifter
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 205306
 ---
 You knew I could not stay for long when you asked me
 To come over in the wee hours of the mornin

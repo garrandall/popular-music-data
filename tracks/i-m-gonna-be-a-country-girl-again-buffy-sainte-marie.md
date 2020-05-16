@@ -1,8 +1,11 @@
 ---
+album: I'm Gonna Be A Country Girl Again
 artists:
 - Buffy Sainte-Marie
+external_ids:
+  spotify: spotify:track:7nrNa7UJtN43Ru1cHVOA5L
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-be-a-country-girl-again-buffy-sainte-marie
 lyrics_url: https://genius.com/Buffy-sainte-marie-im-gonna-be-a-country-girl-again-lyrics
 name: I'm Gonna Be A Country Girl Again
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 177826
 ---
 The rain is falling lightly on the buildings and the cars
 I've said goodbye to city friends, department stores and bars

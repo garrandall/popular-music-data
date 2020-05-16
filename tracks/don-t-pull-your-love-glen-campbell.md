@@ -1,8 +1,11 @@
 ---
+album: Bloodline
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:1j5EgiiW7QP33taK8Xk0D2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-pull-your-love-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-dont-pull-your-love-then-you-can-tell-me-goodbye-lyrics
 name: Don't Pull Your Love
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 202520
 ---
 Don't pull your love out on me baby
 If you do, I think that maybe I'll just lay

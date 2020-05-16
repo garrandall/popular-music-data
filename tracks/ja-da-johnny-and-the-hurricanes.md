@@ -1,8 +1,11 @@
 ---
+album: Live at the Star Club, Volume 1
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:6oPVZ6TkYMlfJ4lVljXeSx
 features: []
-genres: []
+first_released_as_single: false
 key: ja-da-johnny-and-the-hurricanes
 lyrics_url: https://genius.com/Johnny-and-the-hurricanes-ja-da-lyrics
 name: Ja-Da
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 247973
 ---
 You've heard all about your raggy melody
 Everything from opera down to harmony

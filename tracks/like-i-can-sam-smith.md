@@ -1,8 +1,11 @@
 ---
+album: In The Lonely Hour
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:2TeLIzFBe3hxkPR5FIQZut
 features: []
-genres: []
+first_released_as_single: false
 key: like-i-can-sam-smith
 lyrics_url: https://genius.com/Sam-smith-like-i-can-lyrics
 name: Like I Can
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2014
+runtime: 167065
 ---
 He could be a sinner, or a gentleman
 He could be a preacher, when your soul is damned

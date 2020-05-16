@@ -1,8 +1,11 @@
 ---
+album: The Moment (Digital Deluxe)
 artists:
 - Framing Hanley
+external_ids:
+  spotify: spotify:track:49dFv4gH1SeY90FySDOwCE
 features: []
-genres: []
+first_released_as_single: false
 key: lollipop-framing-hanley
 lyrics_url: https://www.azlyrics.com/lyrics/framinghanley/lollipop.html
 name: Lollipop
@@ -47,10 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
+release_year: 2008
+runtime: 187906
 ---
-
-
-
 She said he so sweet 
 I wanna lick the wrapper 
 
@@ -127,6 +129,3 @@ Shorty wanna hump
 Yah know I like to touch 
 Yah lovely lady lumps 
 Won't you get on your knees
-
-
-

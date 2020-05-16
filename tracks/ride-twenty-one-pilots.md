@@ -1,8 +1,11 @@
 ---
+album: Blurryface
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:2Z8WuEywRWYTKe1NybPQEW
 features: []
-genres: []
+first_released_as_single: false
 key: ride-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/ride.html
 name: Ride
@@ -163,8 +166,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2015
+runtime: 214506
 ---
-
 I just wanna stay in the sun where I find
 I know it's hard sometimes
 Pieces of peace in the sun's peace of mind
@@ -227,6 +231,3 @@ I've been thinking too much (help me)
 I've been thinking too much (I've been thinking too much)
 I've been thinking too much
 Help me
-
-
-

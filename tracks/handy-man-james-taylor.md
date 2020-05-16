@@ -1,8 +1,11 @@
 ---
+album: JT
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:70aUjWZmd9F3bRSsR4DwAJ
 features: []
-genres: []
+first_released_as_single: false
 key: handy-man-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/handyman.html
 name: Handy Man
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1977
+runtime: 196800
 ---
-
 Hey girls, gather round, listen to what I'm putting down
 Hey baby, I'm your handy man
 I'm not the kind to use a pencil or rule, I'm handy with love and I'm no fool
@@ -113,6 +117,3 @@ I'm your handy man, yeah yeah, yeah
 That's me
 Comma, comma, comma, comma, com, com
 I'm your handy man, yeah yeah, yeah
-
-
-

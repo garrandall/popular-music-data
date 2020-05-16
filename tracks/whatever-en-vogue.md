@@ -1,8 +1,11 @@
 ---
+album: EV3
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:53sFlnEQbHADehMkqumk96
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/whatever.html
 name: Whatever
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
+release_year: 1997
+runtime: 261826
 ---
-
 I'm liking you too much
 Don't take advantage of
 My tender heart and everything about me
@@ -120,6 +124,3 @@ Whatever you do, whatever you think
 I look in your eyes
 You don't know how my heart aches
 Whatever you say, whatever could mean
-
-
-

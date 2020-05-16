@@ -1,8 +1,11 @@
 ---
+album: The Complete Blue Cat Years
 artists:
 - The Ad Libs
+external_ids:
+  spotify: spotify:track:0L48uvVicL0I5dE1rylTnD
 features: []
-genres: []
+first_released_as_single: false
 key: the-boy-from-new-york-city-the-ad-libs
 lyrics_url: https://genius.com/The-ad-libs-funk-soul-group-the-boy-from-new-york-city-lyrics
 name: The Boy From New York City
@@ -47,6 +50,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 173500
 ---
 Ooo wah, oo wah cool, cool kitty
 Tell us about the boy from New York City

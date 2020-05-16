@@ -1,9 +1,12 @@
 ---
+album: Sing The Great Songs
 artists:
 - Nino Tempo
 - April Stevens
+external_ids:
+  spotify: spotify:track:1i2LC3Qc4rqTyyKQloxb0T
 features: []
-genres: []
+first_released_as_single: false
 key: tea-for-two-nino-tempo-april-stevens
 lyrics_url: https://www.musixmatch.com/lyrics/Nino-Tempo-feat-April-Stevens/Tea-for-Two
 name: Tea For Two
@@ -28,6 +31,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 146226
 ---
 Picture you upon my knee
 Tea for two and two for tea

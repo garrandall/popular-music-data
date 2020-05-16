@@ -1,11 +1,14 @@
 ---
+album: '23'
 artists:
 - Mike WiLL Made-It
+external_ids:
+  spotify: spotify:track:20FZrLl9zSbO9b3DhaqO6M
 features:
 - Miley Cyrus
 - Wiz Khalifa
 - Juicy J
-genres: []
+first_released_as_single: true
 key: 23-mike-will-made-it-miley-cyrus-wiz-khalifa-juicy-j
 lyrics_url: https://genius.com/Mike-will-made-it-23-lyrics
 name: '23'
@@ -102,6 +105,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2013
+runtime: 252520
 ---
 I'm in the club high on purp with some shades on
 Tatted up, mini skirt with my J's on

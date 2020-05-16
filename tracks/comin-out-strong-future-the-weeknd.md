@@ -1,9 +1,12 @@
 ---
+album: HNDRXX
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:0DSSnLy9UYNdiOMuQclRrk
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: comin-out-strong-future-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/future/cominoutstrong.html
 name: Comin Out Strong
@@ -20,8 +23,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 254596
 ---
-
 High Klassified
 I got the truth, me, baby!
 
@@ -120,6 +124,3 @@ Kindness
 Down, like a nigga, she lie
 Kindness, she lie
 Kindness, oh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Elvis At The Movies
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:5DttF339KhuR5EGYnAOjC8
 features: []
-genres: []
+first_released_as_single: false
 key: return-to-sender-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Return-To-Sender-2003-Sony-Remaster
 name: Return To Sender
@@ -72,6 +75,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 126680
 ---
 Return to sender
 Return to sender

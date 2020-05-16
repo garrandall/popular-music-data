@@ -1,8 +1,11 @@
 ---
+album: No Night So Long (Expanded Version)
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4lb4LmBdP6tNBWE7qEe3gt
 features: []
-genres: []
+first_released_as_single: false
 key: easy-love-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-easy-love-lyrics
 name: Easy Love
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 196826
 ---
 Close!
 As close as any lovers can be

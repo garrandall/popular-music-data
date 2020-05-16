@@ -1,9 +1,12 @@
 ---
+album: Only One
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:0j35X8cTq543QDYLOyqB8W
 features:
 - Paul McCartney
-genres: []
+first_released_as_single: true
 key: only-one-kanye-west-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/onlyone.html
 name: Only One
@@ -40,8 +43,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2015
+runtime: 280226
 ---
-
 As I lay me down to sleep
 I hear her speak to me
 Hello 'Mari, how ya doin'?
@@ -105,6 +109,3 @@ Tell Nori about me, tell Nori about me
 Tell Nori about me, tell Nori about me
 Tell Nori about me, tell Nori about me
 Tell Nori about me...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Minute By Minute
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:0ZjTS5zoXFR2w9QMRweDhs
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-fool-believes-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/whatafoolbelieves.html
 name: What A Fool Believes
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
+release_year: 1977
+runtime: 219573
 ---
-
 He came from somewhere back in her long ago
 The sentimental fool don't see
 Tryin' hard to recreate
@@ -127,6 +131,3 @@ What seems to be
 Is always better than nothing
 There's nothing at all
 But what a fool believes he sees...
-
-
-

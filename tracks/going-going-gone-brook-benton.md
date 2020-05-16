@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:1ddtHZH3GqkUHUJJ7i24ur
 features: []
-genres: []
+first_released_as_single: false
 key: going-going-gone-brook-benton
 lyrics_url: https://genius.com/Brook-benton-going-going-gone-lyrics
 name: Going Going Gone
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1964
+runtime: 170333
 ---
 Going, going, gone
 Information society

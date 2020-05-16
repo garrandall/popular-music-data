@@ -1,8 +1,11 @@
 ---
+album: Mahogany Soul
 artists:
 - Angie Stone
+external_ids:
+  spotify: spotify:track:1wuiqYuiE6WZ1JwpicVr17
 features: []
-genres: []
+first_released_as_single: false
 key: wish-i-didn-t-miss-you-angie-stone
 lyrics_url: https://genius.com/Angie-stone-wish-i-didnt-miss-you-lyrics
 name: Wish I Didn't Miss You
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 1990
+runtime: 249626
 ---
 Same old story back again
 'She's not a lover, she's just a friend'

@@ -1,8 +1,11 @@
 ---
+album: Issa Album
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:1oG9cFkWpt7DfBOfvHQWro
 features: []
-genres: []
+first_released_as_single: false
 key: famous-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/21savage/famous.html
 name: Famous
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 234280
 ---
-
 Rags to riches, nigga came from the bottom
 Hood rats, now a nigga fuckin' on models
 Ridin' in the foreign, remember ridin' on MARTA
@@ -86,6 +90,3 @@ Couple niggas switched up, bitched up, fuck 'em
 I can't go nowhere without a pistol or a rubber
 I'm too, too player to put a bitch before my brother
 I'm too street smart, nigga, to serve a undercover
-
-
-

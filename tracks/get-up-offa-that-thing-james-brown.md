@@ -1,8 +1,11 @@
 ---
+album: Get Up Offa That Thing
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3OWaZeFIyJlOAjI3UCcLBW
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-offa-that-thing-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/getupoffathatthing.html
 name: Get Up Offa That Thing
@@ -35,8 +38,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 557533
 ---
-
 AAAAAAAAAAAAAAAAAAAW!
 
 OH!
@@ -157,4 +161,3 @@ Get up offa that thing,
 and try to release that pressure!
 Get up and... call it!
 I feel good!
-

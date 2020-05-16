@@ -1,8 +1,11 @@
 ---
+album: Step II
 artists:
 - Sylvester
+external_ids:
+  spotify: spotify:track:3j1fs2X0ibiihnM4Fd4A2D
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-feel--mighty-real--sylvester
 lyrics_url: https://genius.com/Sylvester-you-make-me-feel-mighty-real-lyrics
 name: You Make Me Feel (Mighty Real)
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 395573
 ---
 When we're out there dancin' on the floor darlin'
 And I feel like I need some more

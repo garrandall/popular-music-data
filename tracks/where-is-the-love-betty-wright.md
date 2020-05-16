@@ -1,8 +1,11 @@
 ---
+album: Betty Wright Live
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:7JsfB9CCfkqHo4FXRTpX5t
 features: []
-genres: []
+first_released_as_single: false
 key: where-is-the-love-betty-wright
 lyrics_url: https://www.azlyrics.com/lyrics/bettywright/whereisthelove.html
 name: Where Is The Love
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1975
+runtime: 257600
 ---
-
 Where is the love, where is the love you promised me
 Where is the love, where is the love you promised me
 
@@ -47,6 +51,3 @@ Where is the love, gotta know... where is the love...
 
 Where is the love you said was mine, I gotta know now, I gotta know now, I gotta know
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pump
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:2pg89WdhaUgJzVX3YobOht
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/theotherside.html
 name: The Other Side
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1989
+runtime: 296733
 ---
-
 Mm mm mm, mm mm mm, mm mm mm,
 mm mm mm mm mm, Yeah
 Come on.
@@ -118,4 +122,3 @@ Lovin' you has got to be (take me to the other side)
 like the devil and the deep blue sea (take me to the other side)
 My conscience got to be my guide (take me to the other side)
 Oh honey take me to the other side
-

@@ -1,8 +1,11 @@
 ---
+album: Christine McVie
 artists:
 - Christine McVie
+external_ids:
+  spotify: spotify:track:3u7ffLulYoencaivAqimKE
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-show-us-how-christine-mcvie
 lyrics_url: https://genius.com/Christine-mcvie-love-will-show-us-how-lyrics
 name: Love Will Show Us How
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 254266
 ---
 I don't fool around on my baby
 And he don't fool around on me

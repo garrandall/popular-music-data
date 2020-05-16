@@ -1,8 +1,11 @@
 ---
+album: Pieces Of The Sky
 artists:
 - Emmylou Harris
+external_ids:
+  spotify: spotify:track:4HAP5hsddtF4xSSC7CkUyd
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-only-win-your-love-emmylou-harris
 lyrics_url: https://www.azlyrics.com/lyrics/emmylouharris/ificouldonlywinyourlove.html
 name: If I Could Only Win Your Love
@@ -27,8 +30,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
+release_year: 1975
+runtime: 155813
 ---
-
 If I could only win your love
 I'd make the most of everything
 I'd proudly wear your wedding ring
@@ -58,6 +62,3 @@ If I could only win your love
 I'd give my all to make it live
 You'll never know how much I give
 If I could only win your love
-
-
-

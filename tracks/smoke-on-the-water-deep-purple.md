@@ -1,8 +1,11 @@
 ---
+album: Made in Japan
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:14EMGihVTMw5K0gpm046lw
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-on-the-water-deep-purple
 lyrics_url: https://genius.com/Deep-purple-smoke-on-the-water-lyrics
 name: Smoke On The Water
@@ -71,6 +74,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1972
+runtime: 456320
 ---
 We all came out to Montreux
 On the Lake Geneva shoreline

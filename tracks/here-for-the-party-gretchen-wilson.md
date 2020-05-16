@@ -1,8 +1,11 @@
 ---
+album: Here For The Party
 artists:
 - Gretchen Wilson
+external_ids:
+  spotify: spotify:track:0SuzUhWAgStNIMZR4jEGgk
 features: []
-genres: []
+first_released_as_single: false
 key: here-for-the-party-gretchen-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/gretchenwilson/herefortheparty.html
 name: Here For The Party
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-11-27'
+release_year: 2004
+runtime: 196760
 ---
-
 Well I'm an eight ball shooting double fisted drinking son of a gun
 I wear My jeans a little tight
 Just to watch the little boys come undone
@@ -99,8 +103,3 @@ So bring on them cowboys and their pick up lines
 
 Dont want no purple hooter shooter just some jack on the rocks
 Dont mind me if I start that trashy talk
-
-
-
-
-

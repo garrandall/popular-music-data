@@ -1,8 +1,11 @@
 ---
+album: Jody Watley
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:7r4ZN8F22eBQeN0aMqwzgN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-want-me-jody-watley
 lyrics_url: https://genius.com/Jody-watley-dont-you-want-me-lyrics
 name: Don't You Want Me
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 253600
 ---
 When I first laid my eyes upon you
 I knew right then and there you were the one

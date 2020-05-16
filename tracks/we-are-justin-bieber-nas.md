@@ -1,9 +1,12 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:1m6FkAtWVloxIRHKl7pBDP
 features:
 - Nas
-genres: []
+first_released_as_single: false
 key: we-are-justin-bieber-nas
 lyrics_url: https://genius.com/Justin-bieber-we-are-lyrics
 name: We Are
@@ -12,6 +15,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 202960
 ---
 Happy birthday
 

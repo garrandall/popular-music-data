@@ -1,8 +1,11 @@
 ---
+album: Summer (The First Time)
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:0LjdDekNQzCC6n5wac2JEC
 features: []
-genres: []
+first_released_as_single: false
 key: summer--the-first-time--bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/summerthefirsttime.html
 name: Summer (The First Time)
@@ -63,8 +66,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 281000
 ---
-
 Was a hot afternoon
 The last day of June
 And the sun was a demon
@@ -122,6 +126,3 @@ And the sun was a demon
 The clouds were afraid
 One ten in the shade
 ...
-
-
-

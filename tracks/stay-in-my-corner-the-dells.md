@@ -1,8 +1,11 @@
 ---
+album: There Is
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:6oavqtFYgu0Zdpgesza6f4
 features: []
-genres: []
+first_released_as_single: false
 key: stay-in-my-corner-the-dells
 lyrics_url: https://genius.com/The-dells-stay-in-my-corner-lyrics
 name: Stay In My Corner
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 373560
 ---
 If you stay, stay darling
 (Stay in my corner)

@@ -1,8 +1,11 @@
 ---
+album: Lovin' Every Minute Of It
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:6EDxBIjrDbq2p1xYkxWIEY
 features: []
-genres: []
+first_released_as_single: false
 key: lead-a-double-life-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/leadadoublelife.html
 name: Lead A Double Life
@@ -35,8 +38,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1985
+runtime: 261760
 ---
-
 All day I've been banging the walls,
 Like a prisoner in a cell
 If I don't get out I'm going to lose my mind
@@ -82,6 +86,3 @@ Rock and roll heaven, I lead a double life
 I come alive at night, rock and roll heaven
 I lead a double life, I come alive at night
 I lead a double life, 007 I come alive at night
-
-
-

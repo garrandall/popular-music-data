@@ -1,8 +1,11 @@
 ---
+album: Can't Slow Down
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:1dJX2lSiKGbkjKMB9PJuBq
 features: []
-genres: []
+first_released_as_single: false
 key: running-with-the-night-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/runningwiththenight.html
 name: Running With The Night
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 362370
 ---
-
 The heart of the city street was beating
 Lights from the neons
 Turned the dark to day
@@ -121,6 +125,3 @@ Playing in the shadows
 Just you and i
 Girl, it was so right
 Girl, it was so right.
-
-
-

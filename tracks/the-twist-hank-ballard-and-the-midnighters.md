@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:1qj9BaE3Odlp78GDtDaHQJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-twist-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-twist-lyrics
 name: The Twist
@@ -71,6 +74,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 155853
 ---
 Come on, baby, let's do the twist
 Come on, baby, let's do the twist

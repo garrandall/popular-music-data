@@ -1,8 +1,11 @@
 ---
+album: Chicago 19
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:2dEVFDQ9Z9Gyl73yhoKl65
 features: []
-genres: []
+first_released_as_single: false
 key: look-away-chicago
 lyrics_url: https://genius.com/Chicago-look-away-lyrics
 name: Look Away
@@ -103,6 +106,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
+release_year: 1988
+runtime: 242960
 ---
 When you called me up this morning
 Told me about the new love you found

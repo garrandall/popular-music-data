@@ -1,6 +1,9 @@
 ---
+album: Major Key
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:4s6ZHa2AWEROf3wOMLEWzc
 features:
 - Nicki Minaj
 - Chris Brown
@@ -8,7 +11,7 @@ features:
 - Jeremih
 - Future
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: do-you-mind-dj-khaled-nicki-minaj-chris-brown-august-alsina-jeremih-future-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/doyoumind.html
 name: Do You Mind
@@ -93,9 +96,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 325614
 ---
-
-
 Another one
 We The Best Music!
 
@@ -194,7 +197,7 @@ Calamari dinners, got you eatin' raw sushi
 Still in the trap but I like my bitches bougie
 Two cups of Styrofoam, excuse me little mama
 I can hold you down, be your friend and your lover
-You want watches, new Versaces, you want CÃ©line
+You want watches, new Versaces, you want Céline
 Top back, dreamin' money ain't a ting
 
 
@@ -238,6 +241,3 @@ Baby you should be up in my bed
 Oh
 Do you mind, do you mind?
 Baby you, do you mind? Do do you mind? Do you mind?
-
-
-

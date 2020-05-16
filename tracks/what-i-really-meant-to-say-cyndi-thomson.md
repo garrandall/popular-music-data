@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Cyndi Thomson
+external_ids:
+  spotify: spotify:track:2YhdP9Wq1yH2pshQ6sWnHo
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-really-meant-to-say-cyndi-thomson
 lyrics_url: https://genius.com/Cyndi-thomson-what-i-really-meant-to-say-lyrics
 name: What I Really Meant To Say
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 2001
+runtime: 200093
 ---
 (Cyndi Thomson/Chris Waters/Tommy Lee James)
 

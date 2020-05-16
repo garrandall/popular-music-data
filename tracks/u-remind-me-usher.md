@@ -1,8 +1,11 @@
 ---
+album: '8701'
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:2QsZVnbWVSjKMXK6K3uRBL
 features: []
-genres: []
+first_released_as_single: false
 key: u-remind-me-usher
 lyrics_url: https://www.azlyrics.com/lyrics/usher/uremindme.html
 name: U Remind Me
@@ -103,8 +106,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-11-24'
+release_year: 2001
+runtime: 266893
 ---
-
 Yo, I ain't seeing you in a minute, but I got something to tell ya, listen.
 
 See the thing about you that caught my eye
@@ -145,6 +149,3 @@ You remind me of a girl, that I once knew.
 See her face whenever I, I look at you.
 You won't believe all of the things she put me through.
 This is why I just can't get with you.
-
-
-

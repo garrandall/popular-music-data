@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:1l31ld2k3jy4UMYDwuTXCZ
 features: []
-genres: []
+first_released_as_single: false
 key: change-j--cole
 lyrics_url: https://genius.com/J-cole-change-lyrics
 name: Change
@@ -15,6 +18,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 331480
 ---
 My intuition is telling me there'll be better days, yeah
 My intuition is telling me there'll be better days

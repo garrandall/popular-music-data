@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton's Barn & Grill
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:5zni15XyrdqAGExRcMSJi2
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-but-me-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/nobodybutme.html
 name: Nobody But Me
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2004
+runtime: 158706
 ---
-
 Don't waste your time looking over your shoulder
 Those loves from the past ain't getting no closer
 When I look in my future you're all I can see
@@ -94,6 +98,3 @@ You can do what you want to,
 But I'm asking pretty please (Honey) Don't go loving on nobody but me.
 
 Don't go loving on nobody but me...
-
-
-

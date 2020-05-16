@@ -1,8 +1,11 @@
 ---
+album: Startin' With Me
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:32C5of1pAeU7IeEbGiLWAo
 features: []
-genres: []
+first_released_as_single: false
 key: yee-haw-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/yeehaw.html
 name: Yee Haw
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2006
+runtime: 172506
 ---
-
 It's five O'clock, just got paid
 I'll be off the next two days
 No more workin' like dogs
@@ -75,6 +79,3 @@ I'm talkin' big time, I mean saddle up ad hold on tight
 And if you know what I'm talkin' about, y'all, yeah
 How about a yee haw! Ha, ha
 Yep, bow bow, Y E E H A W, yee haw!
-
-
-

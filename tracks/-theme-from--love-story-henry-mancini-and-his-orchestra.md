@@ -1,8 +1,11 @@
 ---
+album: Mancini Plays the Theme from "Love Story"
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0zH63dNKyJBCxWROIVODnU
 features: []
-genres: []
+first_released_as_single: false
 key: -theme-from--love-story-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-theme-from-love-story-lyrics
 name: (Theme From) Love Story
@@ -51,6 +54,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 171733
 ---
 Where do I begin
 To tell the story

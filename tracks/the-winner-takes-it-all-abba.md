@@ -1,8 +1,11 @@
 ---
+album: Super Trouper
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:2HeTmGTjl870ucJ8mF7zl5
 features: []
-genres: []
+first_released_as_single: false
 key: the-winner-takes-it-all-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/thewinnertakesitall.html
 name: The Winner Takes It All
@@ -111,8 +114,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 294733
 ---
-
 I don't wanna talk
 About things we've gone through
 Though it's hurting me
@@ -181,6 +185,3 @@ Throw a dice, cold as ice
 Way down here, someone dear
 Takes it all, has to fall
 It seems plain to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:01xMiErR26kH1KCif6uEYI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-cry-instead-the-beatles
 lyrics_url: https://genius.com/The-beatles-ill-cry-instead-lyrics
 name: I'll Cry Instead
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1964
+runtime: 105986
 ---
 I've got every reason on earth to be mad
 Cause I've just lost the only girl I had

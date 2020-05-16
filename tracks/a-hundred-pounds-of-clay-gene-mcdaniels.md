@@ -1,8 +1,11 @@
 ---
+album: 100 Lbs Of Clay!
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:4s9qKAu0wMyIWVUB7Cuv3j
 features: []
-genres: []
+first_released_as_single: false
 key: a-hundred-pounds-of-clay-gene-mcdaniels
 lyrics_url: https://genius.com/Gene-mcdaniels-a-hundred-pounds-of-clay-lyrics
 name: A Hundred Pounds Of Clay
@@ -67,6 +70,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 142026
 ---
 He took a hundred pounds of clay
 And then He said, "Hey, listen"

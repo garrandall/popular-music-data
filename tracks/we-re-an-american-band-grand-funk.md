@@ -1,8 +1,11 @@
 ---
+album: We're An American Band (Remastered / Bonus Track)
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:3XcjIvaZVUFAIdIYZqY9bd
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-an-american-band-grand-funk
 lyrics_url: https://www.musixmatch.com/lyrics/Grand-Funk-Railroad/We-re-An-American-Band-1991-Digital-Remaster
 name: We're An American Band
@@ -75,6 +78,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 207093
 ---
 Out on the road for forty days
 Last night in Little Rock put me in a haze

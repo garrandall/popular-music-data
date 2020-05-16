@@ -1,8 +1,11 @@
 ---
+album: Big Money Heavyweight
 artists:
 - Big Tymers
+external_ids:
+  spotify: spotify:track:27YOXFzRREJ5CGajnsUpQY
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-how-we-do-big-tymers
 lyrics_url: https://genius.com/Big-tymers-this-is-how-we-do-lyrics
 name: This Is How We Do
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-11-15'
+release_year: 2003
+runtime: 271466
 ---
 Yeah, Yeah, Yeah, Yeah, Yeah, Yeah
 

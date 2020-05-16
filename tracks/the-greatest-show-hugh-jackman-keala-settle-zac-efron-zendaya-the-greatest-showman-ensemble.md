@@ -1,12 +1,15 @@
 ---
+album: The Greatest Show
 artists:
 - Hugh Jackman
 - Keala Settle
 - Zac Efron
 - Zendaya
 - The Greatest Showman Ensemble
+external_ids:
+  spotify: spotify:track:43ay9lQZ5rfNcOOHhRF2cM
 features: []
-genres: []
+first_released_as_single: true
 key: the-greatest-show-hugh-jackman-keala-settle-zac-efron-zendaya-the-greatest-showman-ensemble
 lyrics_url: https://genius.com/Hugh-jackman-keala-settle-zac-efron-zendaya-and-the-greatest-showman-ensemble-the-greatest-show-lyrics
 name: The Greatest Show
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 302146
 ---
 Woah
 Woah

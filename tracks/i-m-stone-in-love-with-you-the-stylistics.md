@@ -1,8 +1,11 @@
 ---
+album: Round 2
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:43zSggTZ924EYfVufwDIB3
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-stone-in-love-with-you-the-stylistics
 lyrics_url: https://genius.com/The-stylistics-im-stone-in-love-with-you-lyrics
 name: I'm Stone In Love With You
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 199760
 ---
 If I could, I'd like to be
 A great big movie star

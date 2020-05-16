@@ -1,8 +1,11 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2SasoXZyv82yYgHiVOvxQn
 features: []
-genres: []
+first_released_as_single: false
 key: on-god-kanye-west
 lyrics_url: https://genius.com/Kanye-west-on-god-lyrics
 name: On God
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 136350
 ---
 Yo, Pi'erre, yo, Pi'erre
 

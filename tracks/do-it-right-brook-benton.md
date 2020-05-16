@@ -1,8 +1,11 @@
 ---
+album: This Bitter Earth
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0pAUuwtXvIuA0QXAQCrPKp
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-right-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Do-It-Right
 name: Do It Right
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 153960
 ---
 I don't know
 It's too soon to tell

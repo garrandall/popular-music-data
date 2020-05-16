@@ -1,8 +1,11 @@
 ---
+album: Naked Eyes
 artists:
 - Naked Eyes
+external_ids:
+  spotify: spotify:track:16BBr5OO2J6M3OqKCy20m3
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-lights-go-out-naked-eyes
 lyrics_url: https://genius.com/Naked-eyes-when-the-lights-go-out-lyrics
 name: When The Lights Go Out
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 182560
 ---
 Susie doesn't go out very much
 She likes to stay in bed at night
@@ -93,5 +98,3 @@ Always someone left out in the rain
 Always the same
 Always the same
 Always the same
-
-Words and Music: Pete Byrne and Rob Fisher © PJB Music

@@ -1,8 +1,11 @@
 ---
+album: Here For A Good Time
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1blSBtrZgDJIWQl0BlAyov
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-gonna-make-it-alright-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/lovesgonnamakeitalright.html
 name: Love's Gonna Make It Alright
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 228893
 ---
-
 Girl you've had one of those days
 Seems like they've been goin' around
 You're a long way from bein' where you wanna be
@@ -86,6 +90,3 @@ There ain't nothin' that lovin' can't get us through
 
 
 Tonight, tonight, tonight
-
-
-

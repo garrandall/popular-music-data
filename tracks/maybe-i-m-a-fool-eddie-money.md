@@ -1,8 +1,11 @@
 ---
+album: Life For The Taking
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:18eyLgN59xVDlmTmSzwkRH
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-i-m-a-fool-eddie-money
 lyrics_url: https://genius.com/Eddie-money-maybe-im-a-fool-lyrics
 name: Maybe I'm A Fool
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1977
+runtime: 185733
 ---
 I've been standin' here, for oh so long
 Tryin' to figure out girl, where we went wrong

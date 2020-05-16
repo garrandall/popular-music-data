@@ -1,9 +1,12 @@
 ---
+album: Imagine (The Ultimate Collection)
 artists:
 - John Lennon
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:0v1Sz1MDcjfEPlZuflLkf1
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-john-lennon-plastic-ono-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-The-Plastic-Ono-Band-with-The-Flux-Fiddlers/Imagine
 name: Imagine
@@ -44,6 +47,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 186213
 ---
 Imagine there's no Heaven
 It's easy if you try

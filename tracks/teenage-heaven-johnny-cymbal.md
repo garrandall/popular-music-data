@@ -1,8 +1,11 @@
 ---
+album: Mr. Bass Man
 artists:
 - Johnny Cymbal
+external_ids:
+  spotify: spotify:track:2dyfSKHVfJvi14yogOEkNE
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-heaven-johnny-cymbal
 lyrics_url: https://genius.com/Johnny-cymbal-teenage-heaven-lyrics
 name: Teenage Heaven
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 172280
 ---
 I dreamed I was in teenage heaven
 I saw all the stars in teenage heaven

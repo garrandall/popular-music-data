@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Town
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:2VDWYSr081eTN3US0x9mOH
 features: []
-genres: []
+first_released_as_single: false
 key: the-race-is-on-jack-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Jones/The-Race-Is-On
 name: The Race Is On
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 106626
 ---
 I feel tears wellin' up cold and deep inside
 Like my heart's sprung a big break

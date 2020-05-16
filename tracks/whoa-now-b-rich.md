@@ -1,8 +1,11 @@
 ---
+album: 80 Dimes
 artists:
 - B Rich
+external_ids:
+  spotify: spotify:track:5M787z6y04n4uxZ9rpBAm1
 features: []
-genres: []
+first_released_as_single: false
 key: whoa-now-b-rich
 lyrics_url: https://www.musixmatch.com/lyrics/B-Rich/Whoa-Now
 name: Whoa Now
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 2002
+runtime: 241533
 ---
 We're movin' on up
 To the east side (We're movin' on up)

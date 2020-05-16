@@ -1,8 +1,11 @@
 ---
+album: City Of Angels
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:2j4k2Q2SGEijVhTv8pycv2
 features: []
-genres: []
+first_released_as_single: false
 key: love-machine--part-1--the-miracles
 lyrics_url: https://genius.com/The-miracles-love-machine-lyrics
 name: Love Machine (Part 1)
@@ -119,6 +122,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1975
+runtime: 415133
 ---
 Oh, yeah
 

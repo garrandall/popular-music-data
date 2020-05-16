@@ -1,8 +1,11 @@
 ---
+album: The Captain And Me
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:4nXkbcTj3nyww1cHkw5RAP
 features: []
-genres: []
+first_released_as_single: false
 key: long-train-runnin--the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/longtrainrunnin.html
 name: Long Train Runnin'
@@ -79,8 +82,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 207266
 ---
-
 Down around the corner
 A half a mile from here
 You see them long trains runnin'
@@ -144,6 +148,3 @@ Ya gotta keep on movin'
 Keep on movin'
 Keep on movin'
 Won't ya keep on movin'
-
-
-

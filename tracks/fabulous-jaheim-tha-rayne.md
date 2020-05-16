@@ -1,9 +1,12 @@
 ---
+album: Still Ghetto
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:7A1uqFLf1ZogDxxQZDoZHK
 features:
 - Tha Rayne
-genres: []
+first_released_as_single: false
 key: fabulous-jaheim-tha-rayne
 lyrics_url: https://genius.com/Jaheim-fabulous-lyrics
 name: Fabulous
@@ -88,6 +91,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2002
+runtime: 227066
 ---
 I'm fabulous
 Hi mommy!

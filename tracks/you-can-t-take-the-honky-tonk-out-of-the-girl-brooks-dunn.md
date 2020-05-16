@@ -1,9 +1,12 @@
 ---
+album: Red Dirt Road
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:00TVOtOdzKx9iMDRLz9aRc
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-take-the-honky-tonk-out-of-the-girl-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-you-cant-take-the-honky-tonk-out-of-the-girl-lyrics
 name: You Can't Take The Honky Tonk Out Of The Girl
@@ -88,6 +91,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
+release_year: 2003
+runtime: 221426
 ---
 Connie came back for her second cousin's wedding
 First time she'd been home in a year or two

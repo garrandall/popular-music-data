@@ -1,8 +1,11 @@
 ---
+album: 'Films About Ghosts: The Best Of...'
 artists:
 - Counting Crows
+external_ids:
+  spotify: spotify:track:3OltYYcLZUhvho5QoRbUNr
 features: []
-genres: []
+first_released_as_single: false
 key: accidentally-in-love-counting-crows
 lyrics_url: https://www.musixmatch.com/lyrics/Counting-Crows/Accidentally-in-Love
 name: Accidentally In Love
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
+release_year: 2003
+runtime: 188386
 ---
 So she said, what's the problem, baby?
 What's the problem? I don't know

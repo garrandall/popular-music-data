@@ -1,8 +1,11 @@
 ---
+album: Winner In You
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:79BE7EVavDVsVCTlRbQ66i
 features: []
-genres: []
+first_released_as_single: false
 key: oh-people-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/ohpeople.html
 name: Oh People
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-10-04'
+release_year: 1986
+runtime: 319226
 ---
-
 If we are one big happy family, no one would have to beg
 To eat.
 If we live in a world of dignity, no man would have to
@@ -81,4 +85,3 @@ And me.
 Take my hand, and we will know all that we dream... we,
 Our own.
 Apart we are weak... together we're strong.
-

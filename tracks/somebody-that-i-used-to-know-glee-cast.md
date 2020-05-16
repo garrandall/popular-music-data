@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5cxq7YCarud9twaVh6Y3Rt
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-that-i-used-to-know-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/somebodythatiusedtoknow.html
 name: Somebody That I Used To Know
@@ -15,8 +18,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
+release_year: 2012
+runtime: 246186
 ---
-
 Now and then I think of when we were together
 Like when you said you felt so happy you could die
 Told myself that you were right for me
@@ -72,6 +76,3 @@ I used to know
 That I used to know
 I used to know
 Somebody
-
-
-

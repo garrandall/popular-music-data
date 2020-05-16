@@ -1,8 +1,11 @@
 ---
+album: Personal Conversation
 artists:
 - Case
+external_ids:
+  spotify: spotify:track:21fXrzSxu2y51Yqf57QycI
 features: []
-genres: []
+first_released_as_single: false
 key: happily-ever-after-case
 lyrics_url: https://www.azlyrics.com/lyrics/case/happilyeverafter.html
 name: Happily Ever After
@@ -87,9 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1999
+runtime: 276000
 ---
-
-
 Guess what I did today
 Those were the words I said to you
 It was last May, don't know the exact day
@@ -133,8 +136,3 @@ Couldn't we please be happily ever after (Said I wanna be...said I wanna be)
 We could be strong together for so long (Our love is...)
 Couldn't we please be happily ever after (Couldn't we please baby)
 Leaving you never stays forever strong (No, No...Said No, No I will never leave you, oh
-
-
-
-
-

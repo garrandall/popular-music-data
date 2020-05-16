@@ -1,8 +1,11 @@
 ---
+album: Beatles For Sale
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3kQDIa85ZK8cKVn72NfBnl
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-spoil-the-party-the-beatles
 lyrics_url: https://genius.com/The-beatles-i-dont-want-to-spoil-the-party-lyrics
 name: I Don't Want To Spoil The Party
@@ -31,6 +34,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1964
+runtime: 154466
 ---
 I don't want to spoil the party so I'll go
 I would hate my disappointment to show

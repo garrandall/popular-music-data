@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:4sPIIyPhVdsQeG0g3HQcjc
 features: []
-genres: []
+first_released_as_single: false
 key: sooner-or-later-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/soonerorlater.html
 name: Sooner Or Later
@@ -51,8 +54,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 162293
 ---
-
 Sooner or later, love is gonna get ya
 Sooner or later, girl, you got to give in
 Sooner or later, love is gonna let ya
@@ -107,6 +111,3 @@ Sooner or later, love is gonna get ya
 Sooner or later, girl, you got to give in
 Sooner or later, love is gonna let ya
 Sooner or later, love is gonna win
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Great Balls Of Fire
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:03Usap4v3EWP7DsR7eT59e
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-summer-lovin--dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/sweetsummerlovin.html
 name: Sweet Summer Lovin'
@@ -19,8 +22,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 196600
 ---
-
 Though the sun may be dawning
 You're the one that lights the morning
 As I awake to the heaven
@@ -63,6 +67,3 @@ Mmm
 Sweet summer lovin'
 Mmm
 Sweet summer lovin'
-
-
-

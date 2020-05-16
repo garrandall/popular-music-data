@@ -1,8 +1,11 @@
 ---
+album: Chad Brock
 artists:
 - Chad Brock
+external_ids:
+  spotify: spotify:track:3NYN3dbeIXL9qaAWvo9XiG
 features: []
-genres: []
+first_released_as_single: true
 key: ordinary-life-chad-brock
 lyrics_url: https://genius.com/Chad-brock-ordinary-life-lyrics
 name: Ordinary Life
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1998
+runtime: 236106
 ---
 Shelly's at the kitchen table, cup of coffee, the morning paper
 When he walks in she's so surprised to see the tears in his eyes

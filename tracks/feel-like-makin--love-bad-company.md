@@ -1,8 +1,11 @@
 ---
+album: Straight Shooter
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:3KPwt1LBpt1jVSHz8GXERo
 features: []
-genres: []
+first_released_as_single: false
 key: feel-like-makin--love-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/feellikemakinlove.html
 name: Feel Like Makin' Love
@@ -67,8 +70,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 313840
 ---
-
 Baby, when I think about you, I think about love
 Darlin', don't live without you and your love
 If I had those golden dreams of my yesterdays
@@ -116,6 +120,3 @@ Well I feel like makin' love
 Feel like makin' love to you
 
 Well I feel like makin' love
-
-
-

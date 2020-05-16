@@ -1,8 +1,11 @@
 ---
+album: Tuesday Night Music Club
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:3ZpQiJ78LKINrW9SQTgbXd
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-wanna-do-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/alliwannado.html
 name: All I Wanna Do
@@ -139,8 +142,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1993
+runtime: 272106
 ---
-
 Hit it!
 This ain't no disco
 It ain't no country club either
@@ -194,4 +198,3 @@ The day and the night and the car wash too
 The matches and the Buds and the clean and dirty
 cars
 The sun and the moon but
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Sonny James
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:6igmavWKq6wMUz6ZNBJdO0
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-world-i-know-sonny-james
 lyrics_url: https://genius.com/Sonny-james-youre-the-only-world-i-know-lyrics
 name: You're The Only World I Know
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 133400
 ---
 You're the only world I know you're the one I can't let go
 You're my laughter and my tears and I love you all my years

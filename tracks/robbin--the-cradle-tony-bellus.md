@@ -1,8 +1,11 @@
 ---
+album: Robbin' The Cradle
 artists:
 - Tony Bellus
+external_ids:
+  spotify: spotify:track:02Bs8ZfPsA43w8GJcVqMBy
 features: []
-genres: []
+first_released_as_single: false
 key: robbin--the-cradle-tony-bellus
 lyrics_url: https://www.musixmatch.com/lyrics/Tony-Bellus/Robbin-the-Cradle
 name: Robbin' The Cradle
@@ -111,6 +114,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 157866
 ---
 A broken heart is why
 I sing this song to you

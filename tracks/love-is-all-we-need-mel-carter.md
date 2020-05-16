@@ -1,8 +1,11 @@
 ---
+album: Mel Carter Live! In Hollywood
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:2XdDxK8mLhaOdXPBpMxOkV
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-we-need-mel-carter
 lyrics_url: https://www.musixmatch.com/lyrics/Mel-Carter/Love-Is-All-We-Need
 name: Love Is All We Need
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 109333
 ---
 Love is all we need
 So won't you take me

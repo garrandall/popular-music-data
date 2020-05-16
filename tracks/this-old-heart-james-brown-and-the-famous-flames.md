@@ -1,8 +1,12 @@
 ---
+album: Think!
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:4xIQKy50msPO2S4UpJyHBJ
+features:
+- The Famous Flames
+first_released_as_single: false
 key: this-old-heart-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-this-old-heart-lyrics
 name: This Old Heart
@@ -27,6 +31,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
+release_year: 1960
+runtime: 133293
 ---
 This old heart
 Can't stand much more

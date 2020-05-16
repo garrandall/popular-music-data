@@ -1,8 +1,11 @@
 ---
+album: Hot Spot
 artists:
 - Dazz Band
+external_ids:
+  spotify: spotify:track:6swDbMpUoQ9DyHIe8QZg6E
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-all-blow-dazz-band
 lyrics_url: https://genius.com/Dazz-band-let-it-all-blow-lyrics
 name: Let It All Blow
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1984
+runtime: 410466
 ---
 Let let let
 Let it all blow

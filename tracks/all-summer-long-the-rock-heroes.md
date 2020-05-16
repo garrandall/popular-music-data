@@ -1,8 +1,11 @@
 ---
+album: A Salute To Kid Rock
 artists:
 - The Rock Heroes
+external_ids:
+  spotify: spotify:track:0gTEBEvVYhVAbq0M7ZuWhe
 features: []
-genres: []
+first_released_as_single: false
 key: all-summer-long-the-rock-heroes
 lyrics_url: https://genius.com/The-rock-heroes-all-summer-long-lyrics
 name: All Summer Long
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 296346
 ---
 It was 1989, my thoughts were short, my hair was long
 Caught somewhere between a boy and man

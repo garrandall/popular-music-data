@@ -1,8 +1,11 @@
 ---
+album: 'The Art of War: World War 1'
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:4ISp82TYvp9G3HTA2dPzQu
 features: []
-genres: []
+first_released_as_single: false
 key: look-into-my-eyes-bone-thugs-n-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/bonethugsnharmony/lookintomyeyes.html
 name: Look Into My Eyes
@@ -87,9 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 259800
 ---
-
-
 We thuggish ruggish niggas always, always,
 and ready to bring the war up your way, if you hate
 Look into my eyes and tell me what it is you see in me
@@ -170,4 +173,3 @@ Put 'em in check, fuck 'em up with the 44 mag, I'm glad
 'cause when you're fuckin' with Bone, we sendin' 'em home in a bodybag
 Now, look into my eyes, bet you see a realer killer thug puttin' it down with
 harmony, harmony
-

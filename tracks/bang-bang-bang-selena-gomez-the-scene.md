@@ -1,9 +1,12 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:1P5RYVvxPVrzonLqAC8uxk
 features: []
-genres: []
+first_released_as_single: false
 key: bang-bang-bang-selena-gomez-the-scene
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomezthescene/bangbangbang.html
 name: Bang Bang Bang
@@ -12,8 +15,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 195160
 ---
-
 My new boy used to be a model
 He looks way better than you
 He looks way better than you
@@ -101,6 +105,3 @@ Stealing all my love back, giving it to him
 Bang, bang, bang, this time I win
 I thought your love was all that
 Til I let him in
-
-
-

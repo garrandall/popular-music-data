@@ -1,8 +1,11 @@
 ---
+album: 'There Is No Competition 2: The Grieving Music Mixtape'
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:5I6YA7oHtraxwWQzzCugDt
 features: []
-genres: []
+first_released_as_single: false
 key: you-be-killin-em-fabolous
 lyrics_url: https://genius.com/Fabolous-you-be-killin-em-lyrics
 name: You Be Killin Em
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 209693
 ---
 Nice
 Oh, oh

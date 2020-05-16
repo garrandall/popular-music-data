@@ -1,8 +1,11 @@
 ---
+album: Ooh Baby, You Turn Me On
 artists:
 - Willie Mitchell
+external_ids:
+  spotify: spotify:track:315NtKOZZ30iThBRGS13Al
 features: []
-genres: []
+first_released_as_single: false
 key: soul-serenade-willie-mitchell
 name: Soul Serenade
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 141800
 ---
 

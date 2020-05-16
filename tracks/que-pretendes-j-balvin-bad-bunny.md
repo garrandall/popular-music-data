@@ -1,9 +1,12 @@
 ---
+album: OASIS
 artists:
 - J Balvin
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:25ZAibhr3bdlMCLmubZDVt
 features: []
-genres: []
+first_released_as_single: false
 key: que-pretendes-j-balvin-bad-bunny
 lyrics_url: https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
 name: Que Pretendes
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 222346
 ---
 Uah, uh-uh
 Uah

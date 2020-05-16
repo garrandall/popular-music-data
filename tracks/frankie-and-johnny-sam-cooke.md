@@ -1,8 +1,11 @@
 ---
+album: Sam Cooke At the Copa
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:4wJw1D8jb09iHuawQawYda
 features: []
-genres: []
+first_released_as_single: false
 key: frankie-and-johnny-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/frankieandjohnny.html
 name: Frankie And Johnny
@@ -51,8 +54,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 180146
 ---
-
 Frankie and Johnny was sweethearts
 At least that's the way the story goes
 Frankie bought everything for Johnny
@@ -104,6 +108,3 @@ And I know, and I know I was doing wrong
 You wrong, wrong, wrong, wrong
 Frankie, baby, you know I love you
 Frankie...
-
-
-

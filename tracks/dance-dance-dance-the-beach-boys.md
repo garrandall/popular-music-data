@@ -1,8 +1,11 @@
 ---
+album: The Beach Boys Today!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:2qtFkMvkD5R7kKYCNIh5MR
 features: []
-genres: []
+first_released_as_single: false
 key: dance-dance-dance-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-dance-dance-dance-lyrics
 name: Dance Dance Dance
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 121466
 ---
 After six hours of school I've had enough for the day
 I hit the radio dial and turn it up all the way

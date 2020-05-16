@@ -1,8 +1,11 @@
 ---
+album: Hums Of The Lovin' Spoonful
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:1bqMXyANLRXZD9mbyD3wJZ
 features: []
-genres: []
+first_released_as_single: false
 key: full-measure-the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/fullmeasure.html
 name: Full Measure
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 159706
 ---
-
 The full measure of your giving
 You don't yet understand.
 A cupful of living
@@ -53,6 +57,3 @@ It's as good as I'm getting from you,
 It's as good as I'm getting from you,
 It's as good as I'm getting from you,
 It's as good as I'm getting from you.
-
-
-

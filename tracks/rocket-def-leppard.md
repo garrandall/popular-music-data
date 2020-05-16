@@ -1,8 +1,11 @@
 ---
+album: Hysteria
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:0RVeadY2MbHz4Pe4MreLNw
 features: []
-genres: []
+first_released_as_single: false
 key: rocket-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/rocket.html
 name: Rocket
@@ -59,8 +62,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1987
+runtime: 396823
 ---
-
 Ah ah
 Oh ooh
 Ah ah
@@ -118,6 +122,3 @@ We're gonna fly, rocket yeah
 Satellite of love, we're gonna fly
 Rocket yeah, satellite of love
 Rocket yeah!
-
-
-

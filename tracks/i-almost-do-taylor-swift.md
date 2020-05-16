@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:31pEV5lPJi7btskZoUr2yu
 features: []
-genres: []
+first_released_as_single: false
 key: i-almost-do-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/ialmostdo.html
 name: I Almost Do
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2012-11-10'
+release_year: 2012
+runtime: 242573
 ---
-
 I bet this time of night you're still up.
 I bet you're tired from a long hard week.
 I bet you're sitting in your chair by the window looking out at the city.
@@ -55,6 +59,3 @@ I bet this time of night you're still up.
 I bet you're tired from a long hard week.
 I bet you're sitting in your chair by the window looking out at the city.
 And I hope sometimes you wonder about me.
-
-
-

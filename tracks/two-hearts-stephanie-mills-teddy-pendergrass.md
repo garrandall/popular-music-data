@@ -1,9 +1,12 @@
 ---
+album: The Best Of Stephanie Mills
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:7ikuX6GAuWaT5SAZytkBRi
 features:
 - Teddy Pendergrass
-genres: []
+first_released_as_single: false
 key: two-hearts-stephanie-mills-teddy-pendergrass
 lyrics_url: https://genius.com/Stephanie-mills-two-hearts-lyrics
 name: Two Hearts
@@ -60,6 +63,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 277306
 ---
 Came into my life a stranger
 You captured my heart

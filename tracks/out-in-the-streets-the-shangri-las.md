@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:1ca2eR3iB65uLzu9C7j3Eu
 features: []
-genres: []
+first_released_as_single: false
 key: out-in-the-streets-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/outinthestreets.html
 name: Out In The Streets
@@ -31,8 +34,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 165080
 ---
-
 He don't hang around with the gang no more
 He don't do the wild things that he did before
 He used to act bad, used to, but he quit it
@@ -77,6 +81,3 @@ He don't hang around with the gang no more
 (Out in the streets)
 He don't hang around with the gang no more
 (Out in the streets)
-
-
-

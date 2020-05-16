@@ -1,8 +1,11 @@
 ---
+album: Michele Lee Sings L. David Sloane
 artists:
 - Michele Lee
+external_ids:
+  spotify: spotify:track:0WR2ShQK2lmbjiyXw7nanO
 features: []
-genres: []
+first_released_as_single: false
 key: l-david-sloane-michele-lee
 name: L David Sloane
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 129226
 ---
 

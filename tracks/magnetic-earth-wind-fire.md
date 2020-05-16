@@ -1,8 +1,11 @@
 ---
+album: Electric Universe
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2xYNXatOP0PJZ20PcsjCx1
 features: []
-genres: []
+first_released_as_single: false
 key: magnetic-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/magnetic.html
 name: Magnetic
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1983
+runtime: 261720
 ---
-
 No self-control
 A chain reaction as my body lets go
 A strange kind of light
@@ -81,6 +85,3 @@ Are we making contact tonight?
 Don't break the circuit
 I'll be making contact tonight
 Don't break the circuit
-
-
-

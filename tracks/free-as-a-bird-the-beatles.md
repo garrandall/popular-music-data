@@ -1,8 +1,11 @@
 ---
+album: 'The Pop Royals Perform: The Best of The Beatles (Original)'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:6hLY3Tz1Xt5kBuKNDTs4ib
 features: []
-genres: []
+first_released_as_single: false
 key: free-as-a-bird-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/freeasabird.html
 name: Free As A Bird
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 265293
 ---
-
 Free as a bird
 It's the next best thing to be
 Free as a bird
@@ -93,4 +97,3 @@ Free as a bird
 Oooooo
 
 Free...
-

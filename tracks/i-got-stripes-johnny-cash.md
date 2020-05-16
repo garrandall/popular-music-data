@@ -1,8 +1,11 @@
 ---
+album: At Folsom Prison
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:0ry355UoTbc3NScBC2F3jA
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-stripes-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/igotstripes.html
 name: I Got Stripes
@@ -51,8 +54,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 105573
 ---
-
 On A Monday I Was Ar-rested (Uh Huh)
 On A Tuesday They Locked Me In The Jail (Oh Boy)
 On A Wednesday My Trial Was At-tested
@@ -77,6 +81,3 @@ I Got Stripes - Stripes Around My Shoulders
 I Got Chains - Chains Around My Feet
 I Got Stripes - Stripes Around My Shoulders
 And Them Chains - Them Chains They're About To Drag Me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wind & Wuthering
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:2yOJ8rGhSns3kCr9WJHDgj
 features: []
-genres: []
+first_released_as_single: false
 key: your-own-special-way-genesis
 lyrics_url: https://genius.com/Genesis-your-own-special-way-lyrics
 name: Your Own Special Way
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1976
+runtime: 378813
 ---
 Go far enough and you will reach
 A place where the sea runs underneath

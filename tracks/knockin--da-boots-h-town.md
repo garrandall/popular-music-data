@@ -1,8 +1,11 @@
 ---
+album: Fever for da Flavor
 artists:
 - H-Town
+external_ids:
+  spotify: spotify:track:6x53SJOV1PAZ8ZUwH4NFXQ
 features: []
-genres: []
+first_released_as_single: false
 key: knockin--da-boots-h-town
 lyrics_url: https://genius.com/H-town-knockin-da-boots-lyrics
 name: Knockin' Da Boots
@@ -107,6 +110,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1993-09-25'
+release_year: 1993
+runtime: 330945
 ---
 Yeah, We doin' this one for all the ladies, huh
 H-Town Boys, kickin' it with my boy Luke for the 9-3, you know what I'm sayin' cause we will be knockin' boots

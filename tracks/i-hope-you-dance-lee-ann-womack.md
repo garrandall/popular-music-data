@@ -1,8 +1,11 @@
 ---
+album: I Hope You Dance
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:65B1tEOv5W294uCKbmEcFV
 features: []
-genres: []
+first_released_as_single: false
 key: i-hope-you-dance-lee-ann-womack
 lyrics_url: https://genius.com/Lee-ann-womack-i-hope-you-dance-lyrics
 name: I Hope You Dance
@@ -199,6 +202,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-08-04'
+release_year: 2000
+runtime: 294533
 ---
 I hope you never lose your sense of wonder
 You get your fill to eat

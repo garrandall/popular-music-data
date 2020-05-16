@@ -1,8 +1,11 @@
 ---
+album: Ram (Archive Collection)
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:6qYmf2NjhDfsF7x5U5DUOf
 features: []
-genres: []
+first_released_as_single: false
 key: another-day-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/anotherday.html
 name: Another Day
@@ -55,8 +58,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1971
+runtime: 222533
 ---
-
 Every day she takes a morning bath, she wets her hair,
 Wraps a towel 'round her as she's heading for the bedroom chair,
 It's just another day.
@@ -119,6 +123,3 @@ Choo choo choo choo choo choo,
 It's just another day,
 Choo choo choo choo choo choo,
 It's just another day.
-
-
-

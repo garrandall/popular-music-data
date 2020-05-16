@@ -1,8 +1,11 @@
 ---
+album: Ella Mai
 artists:
 - Ella Mai
+external_ids:
+  spotify: spotify:track:6CTWathupIiDs7U4InHnDA
 features: []
-genres: []
+first_released_as_single: false
 key: trip-ella-mai
 lyrics_url: https://www.azlyrics.com/lyrics/ellamai/trip.html
 name: Trip
@@ -115,8 +118,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 213993
 ---
-
 Oh yeah, yeah
 
 I put my feelings on safety
@@ -185,6 +189,3 @@ My bad, my bad, my bad for, trippin' on you (Trippin' on you, trippin' on you)
 
 Trippin' on you, yeah, yeah
 Oh yeah, yeah
-
-
-

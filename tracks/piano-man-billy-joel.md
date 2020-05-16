@@ -1,8 +1,11 @@
 ---
+album: Piano Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:70C4NyhjD5OZUMzvWZ3njJ
 features: []
-genres: []
+first_released_as_single: false
 key: piano-man-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/pianoman.html
 name: Piano Man
@@ -63,8 +66,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1973
+runtime: 339000
 ---
-
 It's nine o'clock on a Saturday
 The regular crowd shuffles in
 There's an old man sitting next to me
@@ -120,6 +124,3 @@ Sing us a song you're the piano man
 Sing us a song tonight
 Well we're all in the mood for a melody
 And you've got us feeling alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Something To Talk About
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:2idP3s3XxNtKqCHAc9YR0s
 features: []
-genres: []
+first_released_as_single: false
 key: now-and-forever--you-and-me--anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/nowandforeveryouandme.html
 name: Now And Forever (You And Me)
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1986
+runtime: 256106
 ---
-
 Up until now I've learned to live without love
 Like a ship without a sail, wandering aimlessly lost
 I never knew how it felt to lose my control
@@ -69,6 +73,3 @@ You and me, this is what love should be
 And it's gonna be right.
 
 Woo ohoohhoh-oh.oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Visitors
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:1IHEefbRdL7VkscggnoPaM
 features: []
-genres: []
+first_released_as_single: false
 key: when-all-is-said-and-done-abba
 lyrics_url: https://genius.com/Abba-when-all-is-said-and-done-lyrics
 name: When All Is Said And Done
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 199866
 ---
 Here's to us, one more toast, and then we'll pay the bill
 Deep inside, both of us can feel the autumn chill

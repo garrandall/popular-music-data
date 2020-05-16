@@ -1,8 +1,11 @@
 ---
+album: Hard
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:5SKkOuJxufkWfkTFnwQvWO
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-it-like-jagged-edge
 lyrics_url: https://genius.com/Jagged-edge-whats-it-like-lyrics
 name: What's It Like
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 262960
 ---
 Ohahh, OOhhh, ohahh ah ah
 

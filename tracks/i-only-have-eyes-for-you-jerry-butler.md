@@ -1,8 +1,11 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6qG1vhp0H3sD39AgqPqTCI
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-have-eyes-for-you-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-i-only-have-eyes-for-you-lyrics
 name: I Only Have Eyes For You
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1972
+runtime: 211266
 ---
 My love must be a kind of blind love
 Girl, I don't see anything but you

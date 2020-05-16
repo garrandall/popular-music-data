@@ -1,8 +1,11 @@
 ---
+album: Rock for Lovers
 artists:
 - Axe
+external_ids:
+  spotify: spotify:track:7dXbEfh3NiPHYz4uoClcW7
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-you-ll-remember-tonight-axe
 lyrics_url: https://genius.com/Axe-i-think-youll-remember-tonight-lyrics
 name: I Think You'll Remember Tonight
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-10-29'
+release_year: 1983
+runtime: 234306
 ---
 I look kinda tired, baby, I'm kinda worn
 But there's something burning deep in my veins

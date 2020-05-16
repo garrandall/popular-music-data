@@ -1,8 +1,11 @@
 ---
+album: Additional Singles & Rarities
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7gNmjbj2lDUWu3aFYplIJA
 features: []
-genres: []
+first_released_as_single: false
 key: high-heel-sneakers-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-high-heel-sneakers-lyrics
 name: High Heel Sneakers
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 188200
 ---
 Now I want everybody to clap your hands in this groove
 Come on! Ha, yeah

@@ -1,9 +1,12 @@
 ---
+album: One Love
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:7DEEplBQH91fKPWQH0LsOw
 features:
 - Kelly Rowland
-genres: []
+first_released_as_single: true
 key: when-love-takes-over-david-guetta-kelly-rowland
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/whenlovetakesover.html
 name: When Love Takes Over
@@ -44,8 +47,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2009
+runtime: 182213
 ---
-
 It's complicated, it always is, that's just the way it goes
 Feels like I've waited so long for this, I wonder if it shows?
 Head under water now I can't breathe, it never felt so good
@@ -84,6 +88,3 @@ When love takes over, yeah
 You know you can't deny
 When love takes over, yeah
 'Cause something's here tonight
-
-
-

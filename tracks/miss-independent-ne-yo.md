@@ -1,8 +1,11 @@
 ---
+album: Year Of The Gentleman
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:34ceTg8ChN5HjrqiIYCn9Q
 features: []
-genres: []
+first_released_as_single: false
 key: miss-independent-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/neyo/missindependent.html
 name: Miss Independent
@@ -119,8 +122,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 232000
 ---
-
 Ohthere's something about
 Just something about the way she move
 And I can't figure it out
@@ -197,6 +201,3 @@ Miss Independent
 
 Miss Independent
 That's why I love her
-
-
-

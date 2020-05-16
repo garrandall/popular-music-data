@@ -1,8 +1,11 @@
 ---
+album: Giuffria
 artists:
 - Giuffria
+external_ids:
+  spotify: spotify:track:3FK5tOrXKOWV3HIBqIJ0KM
 features: []
-genres: []
+first_released_as_single: false
 key: call-to-the-heart-giuffria
 lyrics_url: https://genius.com/Giuffria-call-to-the-heart-lyrics
 name: Call To The Heart
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 277000
 ---
 Can I ever live without you girl?
 Get back on my feet again

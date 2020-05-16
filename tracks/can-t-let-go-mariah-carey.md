@@ -1,8 +1,11 @@
 ---
+album: Emotions
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0ikbcCJIJaY9sKEivAXJ4I
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-let-go-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-cant-let-go-lyrics
 name: Can't Let Go
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 266560
 ---
 There you are, holding her hand
 I am lost, dying to understand

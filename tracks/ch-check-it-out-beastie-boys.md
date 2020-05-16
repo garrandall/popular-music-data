@@ -1,8 +1,11 @@
 ---
+album: To The 5 Boroughs
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:56H98l4uinRifnTH8e308N
 features: []
-genres: []
+first_released_as_single: false
 key: ch-check-it-out-beastie-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beastieboys/chcheckitout.html
 name: Ch-Check It Out
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2004
+runtime: 192426
 ---
-
 All you trekkies and tv addicts
 Don't mean to diss
 Don't mean to bring static
@@ -163,6 +167,3 @@ Check-ch-check-check-check-ch-check it out
 What-wha-what-what-what's it all about
 Work-wa-work-work-work-wa-work it out
 Let's turn this motherfuckin' party out
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'The Archies: Greatest Hits'
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:1xpF92kg1hWLnkh3PGWEz4
 features: []
-genres: []
+first_released_as_single: false
 key: jingle-jangle-the-archies
 lyrics_url: https://www.azlyrics.com/lyrics/archies/jinglejangle.html
 name: Jingle Jangle
@@ -59,8 +62,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1968
+runtime: 162150
 ---
-
 Sing me, sing me, baby
 Sing me, sing me, sing me
 Oh
@@ -143,6 +147,3 @@ La, lala, lalala
 (Sing the jingle jangle song)
 La, lala, lalala
 (Sing me, sing me, baby, yeah)
-
-
-

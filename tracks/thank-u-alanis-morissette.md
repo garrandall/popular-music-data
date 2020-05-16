@@ -1,8 +1,11 @@
 ---
+album: Supposed Former Infatuation Junkie
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:3CVDronuSnhguSUguPoseM
 features: []
-genres: []
+first_released_as_single: false
 key: thank-u-alanis-morissette
 lyrics_url: https://www.azlyrics.com/lyrics/alanismorissette/thanku.html
 name: Thank U
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
+release_year: 1998
+runtime: 258773
 ---
-
 How bout getting off of these antibiotics
 How bout stopping eating when I'm full up
 How bout them transparent dangling carrots
@@ -93,6 +97,3 @@ Thank you disillusionment
 Thank you nothingness
 Thank you clarity
 Thank you thank you silence...
-
-
-

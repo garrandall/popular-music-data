@@ -1,8 +1,11 @@
 ---
+album: Spellbound
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:6IXKljJrwMJlyRhzHRbEDW
 features: []
-genres: []
+first_released_as_single: false
 key: vibeology-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/vibeology.html
 name: Vibeology
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1991
+runtime: 316333
 ---
-
 OOH A WORK IT BABY
 A GIVE ME THAT VIBE
 
@@ -151,6 +155,3 @@ OH THE VIBES THE VIBES
 VIBEOLOGY
 
 AYEE, AYEE... AYEE YEE YEE!
-
-
-

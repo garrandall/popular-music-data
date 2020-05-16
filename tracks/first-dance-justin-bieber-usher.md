@@ -1,9 +1,12 @@
 ---
+album: My World
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4bPeekGfzuqkmlpKiJur5o
 features:
 - Usher
-genres: []
+first_released_as_single: false
 key: first-dance-justin-bieber-usher
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/firstdance.html
 name: First Dance
@@ -12,9 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 222333
 ---
-
-
 (It's your chance, take her hand to the floor)
 Fellas, it's the moment you've been waiting for
 (Girl, if you see something you like then let 'em know)
@@ -90,6 +93,3 @@ So take advantage of the slow jam, yeah, man
 If you give (give it), give the first dance to me (give it to me)
 I'm gon' cherish every moment
 'Cause it only happens once, once in a lifetime
-
-
-

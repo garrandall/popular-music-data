@@ -1,8 +1,11 @@
 ---
+album: Every Day I Have To Cry
 artists:
 - Steve Alaimo
+external_ids:
+  spotify: spotify:track:3zjDQSxu0WmlfLc2Yq4RdY
 features: []
-genres: []
+first_released_as_single: false
 key: every-day-i-have-to-cry-steve-alaimo
 lyrics_url: https://genius.com/Steve-alaimo-every-day-i-have-to-cry-lyrics
 name: Every Day I Have To Cry
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1963
+runtime: 147173
 ---
 Everyday I have to cry some
 Everyday I have to cry some

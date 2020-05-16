@@ -1,8 +1,11 @@
 ---
+album: I'll Cry If I Want To
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:1Pq47iFLC5U7j8xeNiNcuS
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-party-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/itsmyparty.html
 name: It's My Party
@@ -59,8 +62,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 140000
 ---
-
 It's my party and I'll cry if I want to
 Cry if I want to
 Cry if I want to
@@ -102,6 +106,3 @@ Cry if I want to
 You would cry too, if it happened to you
 
 Oh, it's my party and I'll cry if I want to
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Special Part of Me
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:5yqIBcH5TWKZ6pgPlHXnpW
 features: []
-genres: []
+first_released_as_single: false
 key: simple-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/simple.html
 name: Simple
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1984
+runtime: 224413
 ---
-
 I know someone's done you wrong
 But girl you've cried too long
 It's time to live again
@@ -67,4 +71,3 @@ Girl, what are you waiting for?
 This time there'll be no sad good-byes
 No teardrops in your eyes
 Girl I'm gonna make it beautifies
-

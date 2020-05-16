@@ -1,8 +1,11 @@
 ---
+album: Boogity Boogity
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:3Q3jr0TmGMEjFieUO0hBOw
 features: []
-genres: []
+first_released_as_single: false
 key: bridget-the-midget--the-queen-of-the-blues--ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/bridgetthemidgetqueenoftheblues.html
 name: Bridget The Midget (The Queen Of The Blues)
@@ -47,8 +50,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 219240
 ---
-
 Well come on down to the go go, we're down on the strip
 If you want to get hip to a brand new trip
 They got a new soul singer, she's really dynamite
@@ -149,6 +153,3 @@ Hey, watch it! You can't do that, fellow!
 But I dig it, I love you, Bridget!
 
 Get back there, get back!
-
-
-

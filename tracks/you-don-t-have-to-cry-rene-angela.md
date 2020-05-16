@@ -1,9 +1,12 @@
 ---
+album: Street Called Desire
 artists:
 - Rene
 - Angela
+external_ids:
+  spotify: spotify:track:23qALjTn2vRJQwodjosUmU
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-cry-rene-angela
 lyrics_url: https://genius.com/Rene-and-angela-you-dont-have-to-cry-lyrics
 name: You Don't Have To Cry
@@ -36,6 +39,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1985
+runtime: 335173
 ---
 You don't have to cry-cry-cry-cry...alone
 ‘Cause I'll be right by your side to help you be strong

@@ -1,10 +1,13 @@
 ---
+album: The Process
 artists:
 - Play-N-Skillz
+external_ids:
+  spotify: spotify:track:44lyozTbDlfQo5KXO742ug
 features:
 - Krayzie Bone
 - Adina Howard
-genres: []
+first_released_as_single: true
 key: freaks-play-n-skillz-krayzie-bone-adina-howard
 lyrics_url: https://genius.com/Play-n-skillz-freaks-feat-krayzie-bone-and-adina-howard-lyrics
 name: Freaks
@@ -49,6 +52,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2004
+runtime: 269880
 ---
 (The world has too many freaks)
 I can freak you in the morning, freak you in the evening

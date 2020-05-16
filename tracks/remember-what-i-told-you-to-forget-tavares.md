@@ -1,8 +1,11 @@
 ---
+album: Live Hits
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:4w5mkf0oolqtaHD79Vl4F5
 features: []
-genres: []
+first_released_as_single: false
 key: remember-what-i-told-you-to-forget-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/rememberwhatitoldyoutoforget.html
 name: Remember What I Told You To Forget
@@ -51,8 +54,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 216440
 ---
-
 Hello Baby
 I betcha never thought I would call
 Well my heart just went in with this dime
@@ -97,6 +101,3 @@ Baby remember what I told you to forget
 No I won't waste anytime when I hang up the phone
 I'll be back in your arms
 I'll be back in your ar
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 74
 artists:
 - blackbear
+external_ids:
+  spotify: spotify:track:7aiClxsDWFRQ0Kzk5KI5ku
 features: []
-genres: []
+first_released_as_single: true
 key: hot-girl-bummer-blackbear
 lyrics_url: https://www.azlyrics.com/lyrics/blackbear/hotgirlbummer.html
 name: Hot Girl Bummer
@@ -111,8 +114,9 @@ rankings:
   rank: 17
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 185093
 ---
-
 Fuck you and you, and you
 I hate your friends and they hate me too
 I'm through, I'm through, I'm through
@@ -201,6 +205,3 @@ I hate your friends and they hate me too
 Fuck you and you, and you
 This that hot girl bummer anthem
 Turn it up and throw a tantrum
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits - Finest Performances
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:7nP4dbZhIjMrBmnvSS1f0P
 features: []
-genres: []
+first_released_as_single: false
 key: most-people-get-married-patti-page
 lyrics_url: https://www.musixmatch.com/lyrics/Patti-Page/Most-People-Get-Married
 name: Most People Get Married
@@ -39,6 +42,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1962
+runtime: 120400
 ---
 When the kisses get so long that you can't catch your breath
 And the huggin' gets so strong that it's gotcha scared to death

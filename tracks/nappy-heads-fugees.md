@@ -1,8 +1,11 @@
 ---
+album: Bootleg Versions
 artists:
 - Fugees
+external_ids:
+  spotify: spotify:track:1LGZK77vO0P8TJ22ahdCrA
 features: []
-genres: []
+first_released_as_single: false
 key: nappy-heads-fugees
 lyrics_url: https://www.azlyrics.com/lyrics/fugees/nappyheads.html
 name: Nappy Heads
@@ -71,9 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1994
+runtime: 267360
 ---
-
-
 Why am I trapped in a cage? (THE NAPPY HEADS ARE COMIN OUT)
 Barber can I get a fade? (THE NAPPY HEADS ARE COMIN OUT)
 Teacher teacher check my grades (THE NAPPY HEADS ARE COMIN OUT)
@@ -190,6 +193,3 @@ Now, speak of resistance, we're nappy heads
 Rhymes, kinks, braids and dreads
 The mother of creation, epitome of creativity, yeah
 and keep your heads nappy
-
-
-

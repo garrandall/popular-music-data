@@ -1,8 +1,11 @@
 ---
+album: Twilight 22
 artists:
 - Twilight 22
+external_ids:
+  spotify: spotify:track:1XCKE65GRGauDKnyFAKDN5
 features: []
-genres: []
+first_released_as_single: false
 key: electric-kingdom-twilight-22
 lyrics_url: https://genius.com/Twilight-22-electric-kingdom-lyrics
 name: Electric Kingdom
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 286040
 ---
 Huh, deep in the city people live in the streets
 You got to be careful of everyone you meet

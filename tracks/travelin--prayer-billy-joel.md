@@ -1,8 +1,11 @@
 ---
+album: Piano Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3gxl50b9332rNcPI8YbTXu
 features: []
-genres: []
+first_released_as_single: false
 key: travelin--prayer-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/travelinprayer.html
 name: Travelin' Prayer
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1973
+runtime: 256959
 ---
-
 Hey Lord, take a look all around
 And I'd a-find where my baby's gonna be.
 Hey Lord, would ya look out for her tonight
@@ -65,6 +69,3 @@ Hey Lord, would ya look out for her tonight
 And make sure that she's gonna be alright
 Until she's home and here with me.
 With me.
-
-
-

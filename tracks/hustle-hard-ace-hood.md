@@ -1,8 +1,11 @@
 ---
+album: The Statement
 artists:
 - Ace Hood
+external_ids:
+  spotify: spotify:track:5P7qF5PKEDQZ7IlRt6e7D8
 features: []
-genres: []
+first_released_as_single: false
 key: hustle-hard-ace-hood
 lyrics_url: https://genius.com/Ace-hood-hustle-hard-lyrics
 name: Hustle Hard
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2010
+runtime: 196363
 ---
 (I Do It)
 Hustle

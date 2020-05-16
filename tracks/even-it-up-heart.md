@@ -1,8 +1,11 @@
 ---
+album: Bebe Le Strange
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:4XpmzUpYX35pz85JOvAAZH
 features: []
-genres: []
+first_released_as_single: false
 key: even-it-up-heart
 lyrics_url: https://genius.com/Heart-even-it-up-lyrics
 name: Even It Up
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 309133
 ---
 I am the one who can please you
 Ain't that what you said

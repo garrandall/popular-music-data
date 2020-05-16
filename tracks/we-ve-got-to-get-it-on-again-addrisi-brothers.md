@@ -1,8 +1,11 @@
 ---
+album: We've Got to Get It On Again
 artists:
 - Addrisi Brothers
+external_ids:
+  spotify: spotify:track:2PWofzdzoKXyLG7vZGIP2u
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-got-to-get-it-on-again-addrisi-brothers
 lyrics_url: https://genius.com/Addrisi-brothers-weve-got-to-get-it-on-again-lyrics
 name: We've Got To Get It On Again
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1972
+runtime: 164466
 ---
 We never talk
 There was a time when there weren't enough words to say

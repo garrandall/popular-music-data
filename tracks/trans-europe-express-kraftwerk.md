@@ -1,8 +1,11 @@
 ---
+album: Trans Europe Express (2009 Remastered Version)
 artists:
 - Kraftwerk
+external_ids:
+  spotify: spotify:track:3UjH6apk0ogZeIqhHbjrRU
 features: []
-genres: []
+first_released_as_single: false
 key: trans-europe-express-kraftwerk
 lyrics_url: https://www.azlyrics.com/lyrics/kraftwerk/transeuropeexpress.html
 name: Trans-europe Express
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1977
+runtime: 397373
 ---
-
 Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
@@ -47,14 +51,14 @@ Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
 
-Rendezvous on Champs-ÃlysÃ©es
+Rendezvous on Champs-Ãlysées
 Leave Paris in the morning on TEE
 Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
 
-In Vienna we sit in a late-night cafÃ©
+In Vienna we sit in a late-night café
 Straight connection, TEE
 Trans-Europe Express
 Trans-Europe Express
@@ -67,6 +71,3 @@ Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
 Trans-Europe Express
-
-
-

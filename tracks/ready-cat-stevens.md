@@ -1,8 +1,11 @@
 ---
+album: Buddha And The Chocolate Box
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:3kHifL7QKpa4bc9xmda1Gf
 features: []
-genres: []
+first_released_as_single: false
 key: ready-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/ready.html
 name: Ready
@@ -47,8 +50,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 198760
 ---
-
 I love I love I'm ready to love yes
 I love I love I'm ready to love yeah
 I love I love I'm ready
@@ -75,6 +79,3 @@ I love I love I'm ready to love yes
 I love I love I'm ready to love yeah
 I love I love I'm ready
 Ready Ready Ready to love
-
-
-

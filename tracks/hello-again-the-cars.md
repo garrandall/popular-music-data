@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:1I3cmZZmhxGvL2QViQC17h
 features: []
-genres: []
+first_released_as_single: false
 key: hello-again-the-cars
 lyrics_url: https://genius.com/The-cars-hello-again-lyrics
 name: Hello Again
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 226414
 ---
 Hello, hello again
 Hello, hello again

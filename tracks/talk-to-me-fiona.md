@@ -1,8 +1,11 @@
 ---
+album: Fiona
 artists:
 - Fiona
+external_ids:
+  spotify: spotify:track:4nOK4ihQRFmLxVJfFGbure
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-fiona
 lyrics_url: https://genius.com/Fiona-talk-to-me-lyrics
 name: Talk To Me
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1985
+runtime: 230640
 ---
 Oh baby, talk to me
 How can I understand if you don't talk to me

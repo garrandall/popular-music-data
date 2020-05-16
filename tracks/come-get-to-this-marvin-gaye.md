@@ -1,8 +1,11 @@
 ---
+album: Let's Get It On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4N9DOPhK7km5WnsgVD9GMI
 features: []
-genres: []
+first_released_as_single: false
 key: come-get-to-this-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-come-get-to-this-lyrics
 name: Come Get To This
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 160840
 ---
 Girl, you've been gone away a real long time
 I nearly went out of my mind

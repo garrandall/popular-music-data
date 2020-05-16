@@ -1,8 +1,11 @@
 ---
+album: God's Favorite
 artists:
 - N.O.R.E.
+external_ids:
+  spotify: spotify:track:5ZKVNTG7yu7gbX4vryqS2X
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--n-o-r-e-
 lyrics_url: https://genius.com/Nore-nothin-lyrics
 name: Nothin'
@@ -103,6 +106,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 2002
+runtime: 264653
 ---
 Oh! (Millitainment)
 Oh! (Millitainment)

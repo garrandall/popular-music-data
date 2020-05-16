@@ -1,8 +1,11 @@
 ---
+album: Chyna Doll
 artists:
 - Foxy Brown
+external_ids:
+  spotify: spotify:track:27vsyn5d9HPSkeLleEnL1x
 features: []
-genres: []
+first_released_as_single: false
 key: hot-spot-foxy-brown
 lyrics_url: https://www.azlyrics.com/lyrics/foxybrown/hotspot.html
 name: Hot Spot
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-02-27'
+release_year: 1999
+runtime: 230000
 ---
-
 Guess who's back! Uhh
 Yeah, uhh, uhh
 
@@ -112,6 +116,3 @@ Hot spot (pause), bar y'all (pause)
 Alright (pause), our world (pause)
 Hot spot (pause), bar y'all (pause)
 Alright (pause), our world (pause)
-
-
-

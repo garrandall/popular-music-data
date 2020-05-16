@@ -1,8 +1,11 @@
 ---
+album: Just Another Way To Say I Love You
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:7yP5kD8KuPKR8XRJkvRWyu
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-do-for-you-anything-you-want-me-to-barry-white
 lyrics_url: https://genius.com/Barry-white-ill-do-for-you-anything-you-want-me-to-lyrics
 name: I'll Do For You Anything You Want Me To
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1975
+runtime: 370666
 ---
 Nothin' and nobody
 Baby, could ever take or stop

@@ -1,8 +1,11 @@
 ---
+album: 'Down In Jamaica: 40 Years of VP Records'
 artists:
 - T.O.K.
+external_ids:
+  spotify: spotify:track:1zwZpprsjJWnOJ9l4mNkbM
 features: []
-genres: []
+first_released_as_single: false
 key: footprints-t-o-k-
 lyrics_url: https://www.azlyrics.com/lyrics/tok/footprints.html
 name: Footprints
@@ -31,9 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-10-15'
+release_year: 2005
+runtime: 211960
 ---
-
-
 One set of footprints inna di sand and yuh a grumble and a screw a seh it shoulda be two remember one thing mi youth a Father God have the plan so when
 you see one set of footprints a God carry you
 
@@ -66,4 +69,3 @@ and then he looked up to the sky and he heard a voice reply
 It was early Sunday morning mi get up a watch the news then mi hear seh last night a seaview dem kill a youth den mamma tell mi seh her church sister
 Jacqueline just lose her brother over seaview gardens when she tell mi jah jah know ti mash mi up naah tell nuh lie but yuh know seh man a thuggist so yuh
 naah go see me cry everyday and every night she still a ask the father why her brother had to die she heard a voice reply
-

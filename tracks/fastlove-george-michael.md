@@ -1,8 +1,11 @@
 ---
+album: Older
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:6SaeXxdt0Id6ZzmX0ZGTQK
 features: []
-genres: []
+first_released_as_single: false
 key: fastlove-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/fastlove.html
 name: Fastlove
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
+release_year: 1996
+runtime: 324666
 ---
-
 (Gotta get up to get down)
 (Gotta get up to get down)
 (Oh oh baby baby)
@@ -155,6 +159,3 @@ Oh you really oughta get up
 (Oh oh baby baby)
 Oh yeah
 Looking for some affirmation
-
-
-

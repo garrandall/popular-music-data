@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1rc7RzuBYQ9KZIntUyEAVb
 features: []
-genres: []
+first_released_as_single: false
 key: poker-face-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/pokerface.html
 name: Poker Face
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 219613
 ---
-
 I wanna hold 'em like they do in Texas please
 Fold 'em let 'em hit me raise it
 Baby stay with me
@@ -81,6 +85,3 @@ She's got to love nobody
 Can't read my can't read my
 No he can't read my poker face
 She's got to love nobody
-
-
-

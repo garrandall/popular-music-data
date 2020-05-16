@@ -1,8 +1,11 @@
 ---
+album: Welcome II Nextasy
 artists:
 - Next
+external_ids:
+  spotify: spotify:track:3JXBiZiavDWdnanqeNGw2n
 features: []
-genres: []
+first_released_as_single: true
 key: wifey-next
 lyrics_url: https://genius.com/Next-wifey-lyrics
 name: Wifey
@@ -91,6 +94,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 2000
+runtime: 247400
 ---
 You never try me
 Always stood right by me

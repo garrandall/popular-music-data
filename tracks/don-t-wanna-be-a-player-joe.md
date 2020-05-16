@@ -1,8 +1,11 @@
 ---
+album: All That I Am
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:5e771elJi4yvyIF4sQBHnx
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-wanna-be-a-player-joe
 lyrics_url: https://genius.com/Joe-dont-wanna-be-a-player-lyrics
 name: Don't Wanna Be A Player
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-09-13'
+release_year: 1997
+runtime: 259706
 ---
 Don't wanna be a player
 Don't wanna be a player

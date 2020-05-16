@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:1YscJ7yVTlFxW3eF6pv5ba
 features: []
-genres: []
+first_released_as_single: false
 key: allergic-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/allergic.html
 name: Allergic
@@ -15,8 +18,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 156893
 ---
-
 Wasted on Sunday
 Erase you on Monday
 Allergic, allergic
@@ -65,6 +69,3 @@ So sad but true
 Give a hundred million reasons
 But why could you believe them?
 Too bad for you
-
-
-

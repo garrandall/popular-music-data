@@ -1,8 +1,11 @@
 ---
+album: Living Hard
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:63u5QGp9dKXAoYTVKUKBYn
 features: []
-genres: []
+first_released_as_single: false
 key: watching-airplanes-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/watchingairplanes.html
 name: Watching Airplanes
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
+release_year: 2007
+runtime: 242946
 ---
-
 Sittin Out here on the hood of this truck looking up
 At a caramel colored sunset sky
 Checkin my watch doin the math in my head
@@ -126,6 +130,3 @@ Yeah I'm just sittin' out here watching airplanes
 Go by, by, by
 Im just sittin' out here watching airplanes
 Baby bye, bye, bye
-
-
-

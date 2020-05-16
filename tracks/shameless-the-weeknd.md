@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6C6fHTuFUxVtJpBOOaMvJr
 features: []
-genres: []
+first_released_as_single: false
 key: shameless-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/shameless.html
 name: Shameless
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 253506
 ---
-
 Say it louder, say it louder
 Who's gonna love you like me, like me?
 Say it louder, say it louder
@@ -65,6 +69,3 @@ But I'll always be there for you, I'll always be there for you
 I'll always be there for you, girl I have no shame
 I'll always be there for you, I'll always be there for you
 I'll always be there for you, girl I have no shame
-
-
-

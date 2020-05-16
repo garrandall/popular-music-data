@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits II
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:5jjoS9t9LgIsSGbVrtoKR7
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-back-yet-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-aint-back-yet-lyrics
 name: Ain't Back Yet
@@ -59,6 +62,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2009
+runtime: 239813
 ---
 I heard a song about a rambling man
 Bought a guitar and I started a band

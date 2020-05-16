@@ -1,8 +1,11 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3lyeSiAIdLoZUHhV8psOTI
 features: []
-genres: []
+first_released_as_single: false
 key: feed-me-dope-future
 lyrics_url: https://genius.com/Future-feed-me-dope-lyrics
 name: Feed Me Dope
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 166693
 ---
 Ready for whatever
 Clever as it get

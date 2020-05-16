@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:40xf41xM6NvGX0BUzpjYOQ
 features: []
-genres: []
+first_released_as_single: false
 key: glad-you-came-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/gladyoucame.html
 name: Glad You Came
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 194666
 ---
-
 The sun goes down
 The stars come out
 And all that counts
@@ -77,6 +81,3 @@ Is here and now
 My universe will never be the same
 I'm glad you came
 I'm glad you came
-
-
-

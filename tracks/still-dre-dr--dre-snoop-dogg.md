@@ -1,9 +1,12 @@
 ---
+album: '2001'
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:503OTo2dSqe7qk76rgsbep
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: still-dre-dr--dre-snoop-dogg
 lyrics_url: https://www.musixmatch.com/lyrics/Dr-Dre-feat-Snoop-Dogg-2/Still-D-R-E-4
 name: Still DRE
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1999
+runtime: 270586
 ---
 Yeah, nigga
 I'm still fucking with ya

@@ -1,9 +1,12 @@
 ---
+album: Rainbow
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0YahM6TymBqCKL9QzMV1Kk
 features:
 - Jay-Z
-genres: []
+first_released_as_single: true
 key: heartbreaker-mariah-carey-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/heartbreaker.html
 name: Heartbreaker
@@ -88,9 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2000-01-15'
+release_year: 1999
+runtime: 288066
 ---
-
-
 Yeah
 Aight
 ( We're gonna do it like this)
@@ -212,6 +215,3 @@ You'd go and break my heart
 
 (Gimme your love, gimme your love)
 (Gimme your love, gimme your love)
-
-
-

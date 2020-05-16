@@ -1,8 +1,11 @@
 ---
+album: Don't Cry Now
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:43xZPZuBDfkj43E6Ll6o52
 features: []
-genres: []
+first_released_as_single: false
 key: love-has-no-pride-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/lovehasnopride.html
 name: Love Has No Pride
@@ -51,8 +54,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 252080
 ---
-
 I've had bad dreams too many times
 To think that they don't mean much anymore
 And fine times have gone and left my sad home
@@ -87,6 +91,3 @@ Love has no pride when I call out your name
 And love has no pride when there's no one but myself to blame
 But I'd give anything to see you again
 Yes I'd give anything to see you again
-
-
-

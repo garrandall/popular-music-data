@@ -1,8 +1,11 @@
 ---
+album: Same Trailer Different Park
 artists:
 - Kacey Musgraves
+external_ids:
+  spotify: spotify:track:5UDqWOgDdixYMAgAyNbpgh
 features: []
-genres: []
+first_released_as_single: false
 key: merry-go--round-kacey-musgraves
 lyrics_url: https://genius.com/Kacey-musgraves-merry-go-round-lyrics
 name: Merry Go 'round
@@ -67,6 +70,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 206893
 ---
 If you ain't got two kids by 21
 You're probably gonna die alone

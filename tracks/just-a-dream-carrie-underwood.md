@@ -1,8 +1,11 @@
 ---
+album: Carnival Ride
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:7g8OpS827dAYU067lZaR0L
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-dream-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/justadream.html
 name: Just A Dream
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2007
+runtime: 284706
 ---
-
 It was two weeks after the day she turned eighteen
 All dressed in white
 Going to the church that night
@@ -144,6 +148,3 @@ This is just a dream
 Oh, this is just a dream
 Just a dream
 Yeah, yeah
-
-
-

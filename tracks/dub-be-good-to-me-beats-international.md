@@ -1,8 +1,11 @@
 ---
+album: Let Them Eat Bingo
 artists:
 - Beats International
+external_ids:
+  spotify: spotify:track:0LatWThfKUOdIj3x6V6xKu
 features: []
-genres: []
+first_released_as_single: false
 key: dub-be-good-to-me-beats-international
 lyrics_url: https://www.musixmatch.com/lyrics/Beats-International/Dub-Be-Good-to-Me
 name: Dub Be Good To Me
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1990
+runtime: 217626
 ---
 Just be good to me
 

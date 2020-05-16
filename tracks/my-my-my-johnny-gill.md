@@ -1,8 +1,11 @@
 ---
+album: Johnny Gill
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:0Z9FRM5zukGVagh8TVSdrI
 features: []
-genres: []
+first_released_as_single: false
 key: my-my-my-johnny-gill
 lyrics_url: https://genius.com/Johnny-gill-my-my-my-lyrics
 name: My My My
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-11-17'
+release_year: 1990
+runtime: 321906
 ---
 Yeah!
 So good

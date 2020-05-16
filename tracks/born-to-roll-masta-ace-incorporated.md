@@ -1,8 +1,11 @@
 ---
+album: SlaughtaHouse
 artists:
 - Masta Ace Incorporated
+external_ids:
+  spotify: spotify:track:2j6DORpoXYTicBm4hl5Ztx
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-roll-masta-ace-incorporated
 lyrics_url: https://www.musixmatch.com/lyrics/Masta-Ace-Incorporated/Born-to-Roll
 name: Born To Roll
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1993
+runtime: 254533
 ---
 Braniac, dumb-dumb, bust the scientifical
 Approach to the course and the force is centrifugal

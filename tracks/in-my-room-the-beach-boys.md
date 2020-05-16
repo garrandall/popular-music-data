@@ -1,8 +1,11 @@
 ---
+album: Surfer Girl
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:62fX8EW16l8St2yL8rMer9
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-room-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-in-my-room-lyrics
 name: In My Room
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 134133
 ---
 There's a world where I can go
 And tell my secrets to

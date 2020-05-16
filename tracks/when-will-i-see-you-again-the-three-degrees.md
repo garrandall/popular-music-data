@@ -1,8 +1,11 @@
 ---
+album: The Three Degrees
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:0TEkqWXZwuFw5OsrJg3fsY
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-see-you-again-the-three-degrees
 lyrics_url: https://genius.com/The-three-degrees-when-will-i-see-you-again-lyrics
 name: When Will I See You Again
@@ -79,6 +82,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1972
+runtime: 178786
 ---
 Hoo, hah
 Hah, hoo

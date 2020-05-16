@@ -1,8 +1,11 @@
 ---
+album: Point Of Know Return
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:4aqmCKYqI5ALJR6pGLKCtK
 features: []
-genres: []
+first_released_as_single: false
 key: portrait--he-knew--kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/portraitheknew.html
 name: Portrait (He Knew)
@@ -31,8 +34,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1977
+runtime: 276026
 ---
-
 He had a thousand ideas, you might have heard his name
 He lived alone with his vision
 Not looking for fortune or fame
@@ -74,6 +78,3 @@ Oh, where was he going to
 But he knew, you could tell by the picture he drew
 It was totally something new,
 Oh where was he going to?
-
-
-

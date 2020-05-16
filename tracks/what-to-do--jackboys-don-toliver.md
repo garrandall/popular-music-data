@@ -1,9 +1,12 @@
 ---
+album: JACKBOYS
 artists:
 - JACKBOYS
+external_ids:
+  spotify: spotify:track:4AO1XhrgJczQ9bNVxdfKQe
 features:
 - Don Toliver
-genres: []
+first_released_as_single: false
 key: what-to-do--jackboys-don-toliver
 lyrics_url: https://genius.com/Jackboys-what-to-do-lyrics
 name: WHAT TO DO?
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 250141
 ---
 Why did we fall that evening?
 Silhouettes for the evening

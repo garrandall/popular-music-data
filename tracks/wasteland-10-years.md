@@ -1,8 +1,11 @@
 ---
+album: The Autumn Effect
 artists:
 - 10 Years
+external_ids:
+  spotify: spotify:track:3pO37BXsjMC2wApALxGbuB
 features: []
-genres: []
+first_released_as_single: false
 key: wasteland-10-years
 lyrics_url: https://www.azlyrics.com/lyrics/10years/wasteland.html
 name: Wasteland
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 229866
 ---
-
 Change my attempt good intentions
 
 Crouched over
@@ -95,6 +99,3 @@ Change my attempt good intentions
 Should I, could I
 
 Should I, could I
-
-
-

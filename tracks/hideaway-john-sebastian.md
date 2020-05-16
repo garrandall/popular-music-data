@@ -1,8 +1,11 @@
 ---
+album: Welcome Back
 artists:
 - John Sebastian
+external_ids:
+  spotify: spotify:track:51NG9ouCDAfQSRx9buc1EV
 features: []
-genres: []
+first_released_as_single: false
 key: hideaway-john-sebastian
 lyrics_url: https://www.musixmatch.com/lyrics/John-Sebastian/Hideaway
 name: Hideaway
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 175706
 ---
 Watchin' from her basement window
 People's feet goin' by

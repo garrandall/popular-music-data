@@ -1,8 +1,11 @@
 ---
+album: Mickey's Dance Party
 artists:
 - ATC
+external_ids:
+  spotify: spotify:track:39OXrPu2xUUNgDv8ukbOge
 features: []
-genres: []
+first_released_as_single: false
 key: around-the-world--la-la-la-la-la--atc
 lyrics_url: https://www.azlyrics.com/lyrics/atc/aroundtheworld.html
 name: Around The World (La La La La La)
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 2001
+runtime: 194440
 ---
-
 The kisses of the sun - Were sweet I didn't blink
 I let it in my eyes - Like an exotic drink
 The radio playing songs - That I have never heard
@@ -122,6 +126,3 @@ La la la la la - la la la la la la la - la la la la la - la la la la la la la
 La la la la la - la la la la la la la - la la la la la - la la la la la la la
 
 Around - Around - Around the world
-
-
-

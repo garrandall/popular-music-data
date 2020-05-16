@@ -1,8 +1,11 @@
 ---
+album: Kick
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:5eU8qMd0TpaLqTGDZJaLDs
 features: []
-genres: []
+first_released_as_single: false
 key: need-you-tonight-inxs
 lyrics_url: https://genius.com/Inxs-need-you-tonight-lyrics
 name: Need You Tonight
@@ -107,6 +110,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 180517
 ---
 All you got is this moment
 Twenty-first century's yesterday

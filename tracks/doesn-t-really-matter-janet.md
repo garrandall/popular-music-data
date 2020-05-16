@@ -1,8 +1,11 @@
 ---
+album: The Nutty Professor II - The Klumps
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:0calZiHD3eVfJrHDCwzjW6
 features: []
-genres: []
+first_released_as_single: false
 key: doesn-t-really-matter-janet
 lyrics_url: https://www.musixmatch.com/lyrics/Janet-Jackson/Doesn-t-Really-Matter
 name: Doesn't Really Matter
@@ -103,6 +106,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 2000
+runtime: 296800
 ---
 Um, yeah, yeah yeah, yeah, eh
 Doesn't matter, doesn't matter

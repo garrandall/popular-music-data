@@ -1,8 +1,11 @@
 ---
+album: Touch Me
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:5AE6Ms50U9Hh3TtANtAnut
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me--i-want-your-body--samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-touch-me-i-want-your-body-lyrics
 name: Touch Me (I Want Your Body)
@@ -99,6 +102,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 222666
 ---
 Ah, touch me, touch me
 This is the night

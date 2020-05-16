@@ -1,8 +1,11 @@
 ---
+album: Desolation Boulevard
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:4uip0lLkMKl1nwchsdXs1r
 features: []
-genres: []
+first_released_as_single: false
 key: fox-on-the-run-sweet
 lyrics_url: https://genius.com/Sweet-fox-on-the-run-lyrics
 name: Fox On The Run
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1974
+runtime: 207666
 ---
 I - don't wanna know your name
 'Cause you don't look the same

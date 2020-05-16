@@ -1,8 +1,11 @@
 ---
+album: What I Do
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:3AEZuf31DB3fEaSVA2FNsv
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-of-a-good-thing-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/toomuchofagoodthing.html
 name: Too Much Of A Good Thing
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-10-30'
+release_year: 2004
+runtime: 188200
 ---
-
 Smiles in the morning
 As warm as sunshine
 Kisses when I lay down at night
@@ -90,6 +94,3 @@ Is a good thing
 And we've got a good thing going on 
 
 And we've got a good thing going on
-
-
-

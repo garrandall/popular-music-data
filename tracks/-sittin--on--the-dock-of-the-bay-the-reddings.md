@@ -1,8 +1,11 @@
 ---
+album: Steamin' Hot
 artists:
 - The Reddings
+external_ids:
+  spotify: spotify:track:1dnyOQ9DMv3KrtqyLTE4dy
 features: []
-genres: []
+first_released_as_single: false
 key: -sittin--on--the-dock-of-the-bay-the-reddings
 lyrics_url: https://genius.com/The-reddings-sittin-on-the-dock-of-the-bay-lyrics
 name: (Sittin' On) The Dock Of The Bay
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1982
+runtime: 185733
 ---
 Sitting in the mornin' sun
 I'll be sitting when the evening comes

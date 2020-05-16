@@ -1,9 +1,12 @@
 ---
+album: Guts Over Fear
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0VZs2OQq4axr8GFRdC9nyD
 features:
 - Sia
-genres: []
+first_released_as_single: true
 key: guts-over-fear-eminem-sia
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/gutsoverfear.html
 name: Guts Over Fear
@@ -20,9 +23,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2014
+runtime: 300386
 ---
-
-
 Feels like a close, it's coming to
 Fuck am I gonna do?
 It's too late to start over
@@ -153,6 +156,3 @@ Guts over fear (might shed a tear)
 For all the times I let you push me round
 I let you keep me down
 Now I got, guts over fear, guts over fear
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Out Of Time
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:31AOj9sFz2gM0O3hMARRBx
 features: []
-genres: []
+first_released_as_single: false
 key: losing-my-religion-r-e-m-
 lyrics_url: https://genius.com/Rem-losing-my-religion-lyrics
 name: Losing My Religion
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1991
+runtime: 268426
 ---
 Oh, life is bigger
 It's bigger than you and you are not me

@@ -1,9 +1,12 @@
 ---
+album: KIRK
 artists:
 - DaBaby
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:3GX2hFAekmSduZzcS52OnR
 features: []
-genres: []
+first_released_as_single: false
 key: iphone-dababy-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/iphone.html
 name: iPHONE
@@ -12,8 +15,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 191920
 ---
-
 I'm tryna stay up off my iPhone
 Told my bitch I love you, that was just a typo
 That bitch drive me crazy, she gone make me psycho
@@ -99,6 +103,3 @@ Ain't no typo, ain't no Michael
 Ain't a psycho, fuck your iPhone
 (Yeah)
 Fuck your iPhone
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Walkin' In The Sun
 artists:
 - Lisa Keith
+external_ids:
+  spotify: spotify:track:0ztx9RtN72NDMcjtTaZroj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-love-lisa-keith
 lyrics_url: https://genius.com/Lisa-keith-im-in-love-lyrics
 name: I'm In Love
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1993
+runtime: 272533
 ---
 I'm in love, I'm in love
 And it feels so fine

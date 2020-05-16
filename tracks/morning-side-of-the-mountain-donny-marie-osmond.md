@@ -1,9 +1,12 @@
 ---
+album: I'm Leaving It All Up To You
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:1VdODpkKqLQ20VNlyN2H9e
 features: []
-genres: []
+first_released_as_single: false
 key: morning-side-of-the-mountain-donny-marie-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/morningsideofthemountain.html
 name: Morning Side Of The Mountain
@@ -72,9 +75,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1974
+runtime: 183200
 ---
-
-
 There was a girl
 
 
@@ -122,6 +125,3 @@ There was a girl
 
 
 There was a boy
-
-
-

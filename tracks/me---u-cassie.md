@@ -1,8 +1,11 @@
 ---
+album: Cassie (U.S. Version)
 artists:
 - Cassie
+external_ids:
+  spotify: spotify:track:74r0nwfhQyQ5vPYjDoEuve
 features: []
-genres: []
+first_released_as_single: true
 key: me---u-cassie
 lyrics_url: https://genius.com/Cassie-me-and-u-lyrics
 name: Me & U
@@ -115,6 +118,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
+release_year: 2006
+runtime: 287946
 ---
 Uh, NextSelection
 

@@ -1,8 +1,11 @@
 ---
+album: 'Come And Stay With Me: The UK 45s 1964-1969'
 artists:
 - Marianne Faithfull
+external_ids:
+  spotify: spotify:track:3QWAuUWZhvAJT1IbO99a17
 features: []
-genres: []
+first_released_as_single: false
 key: come-and-stay-with-me-marianne-faithfull
 lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/comeandstaywithme.html
 name: Come And Stay With Me
@@ -43,8 +46,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 144640
 ---
-
 I'll send away all my false pride
 And I'll forsake our love my lies
 Yes, I'll be as true, as true can be
@@ -67,6 +71,3 @@ I can see you're gonna stay with me
 
 But O thank God, at last and finally
 I can see you're gonna stay with me
-
-
-

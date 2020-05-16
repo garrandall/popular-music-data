@@ -1,8 +1,11 @@
 ---
+album: Miracles
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:5jZ0ooFQg4qEobPNSJjomm
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-my-friend-engelbert-humperdinck
 name: Goodbye My Friend
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-07-23'
+release_year: 1977
+runtime: 211560
 ---
 

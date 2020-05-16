@@ -1,8 +1,11 @@
 ---
+album: My Town
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:5M8oqeozsjPMSXbkjo0SyD
 features: []
-genres: []
+first_released_as_single: false
 key: my-town-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/mytown.html
 name: My Town
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 1999
+runtime: 285586
 ---
-
 There's a "For Sale" sign on a big old rusty tractor.
 You can't miss it, it's the first thing that you see.
 Just up the road, a pale-blue water tower,
@@ -162,6 +166,3 @@ Yeah, this is my town.
 This is my town.
 (Na, na, na, na, na.)
 My town.
-
-
-

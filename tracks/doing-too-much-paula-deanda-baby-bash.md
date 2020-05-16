@@ -1,9 +1,12 @@
 ---
+album: Paula DeAnda
 artists:
 - Paula DeAnda
+external_ids:
+  spotify: spotify:track:1ZNAkD6NW5QnIdJegUw7X0
 features:
 - Baby Bash
-genres: []
+first_released_as_single: true
 key: doing-too-much-paula-deanda-baby-bash
 lyrics_url: https://www.azlyrics.com/lyrics/pauladeanda/doingtoomuch.html
 name: Doing Too Much
@@ -72,8 +75,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2006
+runtime: 247431
 ---
-
 I'm leaving messages and voicemails
 Telling you I miss you
 Baby am I doing too much (too much)
@@ -188,6 +192,3 @@ Something I ain't hip to
 Baby am I doing too much (too much)
 
 Doing Too Much
-
-
-

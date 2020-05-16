@@ -1,8 +1,11 @@
 ---
+album: This Love Is Real
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:3pZtEvSC4CU6ruoShJTmTn
 features: []
-genres: []
+first_released_as_single: false
 key: -i-can-feel-those-vibrations--this-love-is-real-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-i-can-feel-those-vibrations-this-love-is-real-lyrics
 name: (I Can Feel Those Vibrations) This Love Is Real
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 176000
 ---
 (I can feel those vibrations)
 (Vibrations)

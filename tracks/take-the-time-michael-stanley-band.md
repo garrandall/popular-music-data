@@ -1,8 +1,11 @@
 ---
+album: MSB
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:00drgzklCYUPHnEDRi7ROJ
 features: []
-genres: []
+first_released_as_single: false
 key: take-the-time-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/Take-the-Time
 name: Take The Time
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 333560
 ---
 These are strange days we live in
 The nights get even worse

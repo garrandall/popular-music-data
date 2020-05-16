@@ -1,9 +1,12 @@
 ---
+album: Make Your Move
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:0m4jVVZrsv0bLkAr1uM6UG
 features: []
-genres: []
+first_released_as_single: false
 key: do-that-to-me-one-more-time-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/dothattomeonemoretime.html
 name: Do That To Me One More Time
@@ -116,8 +119,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1979
+runtime: 256666
 ---
-
 Do that to me one more time
 Once is never enough with a man like you
 Do that to me one more time
@@ -156,6 +160,3 @@ Do that to me one more time
 (Do it again) one more time
 (Do it again) one more time
 (Do it again) one more time
-
-
-

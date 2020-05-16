@@ -1,8 +1,11 @@
 ---
+album: Chicago 18
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:2hguBbjR5p2oSfWGeLIOxf
 features: []
-genres: []
+first_released_as_single: false
 key: niagara-falls-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/niagarafalls.html
 name: Niagara Falls
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1986
+runtime: 225960
 ---
-
 Baby, so you think you can start again?
 You got somebody new,
 But the same thing keeps happening.
@@ -56,4 +60,3 @@ As long as Niagara falls,
 Until the end of time,
 Till hell freezes over,
 You are forever mine
-

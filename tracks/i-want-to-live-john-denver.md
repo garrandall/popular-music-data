@@ -1,8 +1,11 @@
 ---
+album: I Want To Live
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:1Z1aXnOH9OV9NGK3lou6bs
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-live-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/iwanttolive.html
 name: I Want To Live
@@ -27,8 +30,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1977
+runtime: 227746
 ---
-
 There are children raised in sorrow on a scorched and barren plain,
 there are children raised beneath a golden sun.
 There are children of the water, children of the sand,
@@ -57,6 +61,3 @@ I want to live, I want to grow, I want to see, I want to know,
 I want to share what I can give, I want to be, I want to live.
 I want to live, I want to grow, I want to see, I want to know,
 I want to share what I can give, I want to be, I want to live, I want to live, I want to live.
-
-
-

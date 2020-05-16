@@ -1,8 +1,11 @@
 ---
+album: Shelby Flint
 artists:
 - Shelby Flint
+external_ids:
+  spotify: spotify:track:7qljXH2LAO8xASUqbyoP9F
 features: []
-genres: []
+first_released_as_single: false
 key: angel-on-my-shoulder-shelby-flint
 lyrics_url: https://genius.com/Shelby-flint-angel-on-my-shoulder-lyrics
 name: Angel On My Shoulder
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1960
+runtime: 137200
 ---
 Got an angel on my shoulder
 Got a penny in my pocket

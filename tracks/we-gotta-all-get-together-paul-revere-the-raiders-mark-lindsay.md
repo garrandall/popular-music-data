@@ -1,10 +1,13 @@
 ---
+album: The Legend Of Paul Revere
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:64Gj097B05zvuL8gcbRGQ9
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: we-gotta-all-get-together-paul-revere-the-raiders-mark-lindsay
 name: We Gotta All Get Together
 rankings:
@@ -36,5 +39,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 179440
 ---
 

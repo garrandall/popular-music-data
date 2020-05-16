@@ -1,8 +1,11 @@
 ---
+album: Baby Now That I've Found You
 artists:
 - The Foundations
+external_ids:
+  spotify: spotify:track:1S5fUiFmKltr00XfSRHNwf
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-chickadee-the-foundations
 lyrics_url: https://genius.com/The-foundations-my-little-chickadee-lyrics
 name: My Little Chickadee
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 180226
 ---
 Where in the world
 Did I do it wrong

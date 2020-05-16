@@ -1,8 +1,11 @@
 ---
+album: 'Camp Rock 2: The Final Jam'
 artists:
 - Nick Jonas
+external_ids:
+  spotify: spotify:track:74tQaH4CxM5Rs9BzerEbHr
 features: []
-genres: []
+first_released_as_single: false
 key: introducing-me-nick-jonas
 lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/introducingme.html
 name: Introducing Me
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2010
+runtime: 186893
 ---
-
 I'm, I'm good at wasting time
 I think lyrics need to rhyme
 And you're not asking
@@ -84,6 +88,3 @@ Do do do do do do do
 Do do do do do do do
 Do do do do
 Introducing me
-
-
-

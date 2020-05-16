@@ -1,8 +1,11 @@
 ---
+album: Days of Gold
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:3obQ7Qx6YZt8r1KvTv7uk3
 features: []
-genres: []
+first_released_as_single: false
 key: what-we-ain-t-got-jake-owen
 lyrics_url: https://genius.com/Jake-owen-what-we-aint-got-lyrics
 name: What We Ain't Got
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-03-28'
+release_year: 2013
+runtime: 218786
 ---
 We all want what we ain't got
 Our favorite doors are always locked

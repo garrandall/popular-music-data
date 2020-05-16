@@ -1,8 +1,11 @@
 ---
+album: Big Willie Style
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:0weAUscowxeqDtpCgtbpgp
 features: []
-genres: []
+first_released_as_single: false
 key: gettin--jiggy-wit-it-will-smith
 lyrics_url: https://www.azlyrics.com/lyrics/willsmith/gettinjiggywitit.html
 name: Gettin' Jiggy Wit It
@@ -135,8 +138,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1997
+runtime: 227694
 ---
-
 Bring it.
 Whoo!
 Unh, unh, unh, unh
@@ -223,8 +227,3 @@ Crib for my mom on the outskirts of Philly
 You trying to flex on me
 Don't be silly
 Getting jiggy wit it
-
-
-
-
-

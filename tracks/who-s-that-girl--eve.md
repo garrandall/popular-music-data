@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:3uVE5vLKkigiWBOQEgmdDk
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-that-girl--eve
 lyrics_url: https://genius.com/Eve-whos-that-girl-main-pass-lyrics
 name: Who's That Girl?
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
+release_year: 2001
+runtime: 281906
 ---
 It's about that time, y'all
 Haha, Ruff Ryders

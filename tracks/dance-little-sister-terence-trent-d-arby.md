@@ -1,8 +1,11 @@
 ---
+album: Introducing The Hardline According To Terence Trent D'Arby
 artists:
 - Terence Trent D'Arby
+external_ids:
+  spotify: spotify:track:4o9Kj7onklt6xbYl3jVArp
 features: []
-genres: []
+first_released_as_single: false
 key: dance-little-sister-terence-trent-d-arby
 lyrics_url: https://genius.com/Terence-trent-darby-dance-little-sister-lyrics
 name: Dance Little Sister
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1987
+runtime: 234640
 ---
 Get up 'outta' your rockin' chair, grandma!
 Or rather would you care to dance, grandmother?

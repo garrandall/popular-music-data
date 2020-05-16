@@ -1,8 +1,11 @@
 ---
+album: Beck-Ola
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:5ESoKuPH6TvtJnpH5oGCyp
 features: []
-genres: []
+first_released_as_single: false
 key: girl-beck
 lyrics_url: https://genius.com/Beck-girl-lyrics
 name: Girl
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 1969
+runtime: 229026
 ---
 I saw her, yeah I saw her with her black tongue tied
 Round the roses

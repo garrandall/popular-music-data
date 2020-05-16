@@ -1,8 +1,11 @@
 ---
+album: SOUTHSIDE
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:6myp8eBOKdeaJm2g8YsOZz
 features: []
-genres: []
+first_released_as_single: true
 key: drinkin--too-much-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/drinkintoomuch.html
 name: Drinkin' Too Much
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2017
+runtime: 231493
 ---
-
 Pour a drink and take a sip of it
 Feelin' like a hypocrite
 Couple more and I don't give a shit
@@ -79,6 +83,3 @@ Nobody can love you like I do
 I don't know what I'm gonna say to you
 But I know there ain't no way, I know there ain't no way
 No there ain't no way we're through
-
-
-

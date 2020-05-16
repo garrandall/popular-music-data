@@ -1,8 +1,11 @@
 ---
+album: Eat To The Beat
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:5QIbR39hAEDIOkr4ggh4xc
 features: []
-genres: []
+first_released_as_single: false
 key: atomic-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/atomic.html
 name: Atomic
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1979
+runtime: 280324
 ---
-
 Uh-huh make me tonight
 Tonight
 Make it right
@@ -73,6 +77,3 @@ Oh
 Oh Atomic
 Oh Atomic
 Oh
-
-
-

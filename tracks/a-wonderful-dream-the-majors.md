@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's (All Original Artists & Versions)
 artists:
 - The Majors
+external_ids:
+  spotify: spotify:track:7phNHUv2ElaycVYwGvXD78
 features: []
-genres: []
+first_released_as_single: false
 key: a-wonderful-dream-the-majors
 lyrics_url: https://genius.com/The-majors-a-wonderful-dream-original-hit-version-lyrics
 name: A Wonderful Dream
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 124000
 ---
 The Majors – A Wonderful Dream
 

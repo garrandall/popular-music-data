@@ -1,10 +1,13 @@
 ---
+album: Pricele$$
 artists:
 - Birdman
+external_ids:
+  spotify: spotify:track:3922kPG1JMYBNhACLo9j3f
 features:
 - Drake
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: 4-my-town--play-ball--birdman-drake-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/birdman/4mytownplayball.html
 name: 4 My Town (Play Ball)
@@ -21,8 +24,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 2009
+runtime: 261266
 ---
-
 Play ball!
 
 Yea, so priceless.
@@ -90,4 +94,3 @@ Simmer down pimpin, let me handle this.
 I know the game, analysts.
 Man I'm the shit and yall are janitors.
 Blow out the k-sh and crack a smile for the cameras.
-

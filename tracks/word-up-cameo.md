@@ -1,8 +1,11 @@
 ---
+album: Word Up
 artists:
 - Cameo
+external_ids:
+  spotify: spotify:track:7LoGfKBAaOl0nxhodJ1240
 features: []
-genres: []
+first_released_as_single: false
 key: word-up-cameo
 lyrics_url: https://genius.com/Cameo-word-up-lyrics
 name: Word Up
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 260000
 ---
 Oh!
 

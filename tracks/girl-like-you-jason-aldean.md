@@ -1,8 +1,11 @@
 ---
+album: Rearview Town
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:7K0lR5Ngf5jkOWt1g6ut6l
 features: []
-genres: []
+first_released_as_single: false
 key: girl-like-you-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-girl-like-you-lyrics
 name: Girl Like You
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2018
+runtime: 193066
 ---
 Love how you close your eyes when I pull you in closer
 Tonight's moving fast but we ain't taking it slower

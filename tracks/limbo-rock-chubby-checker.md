@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Again - 20 Twist & Limbo Hits
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:6FXjVsmKPW93LXRFYhfmmw
 features: []
-genres: []
+first_released_as_single: false
 key: limbo-rock-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/limborock.html
 name: Limbo Rock
@@ -99,8 +102,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 148520
 ---
-
 Every limbo boy and girl
 All around the limbo world
 Gonna do the limbo rock
@@ -142,6 +146,3 @@ Hey, let's do the limbo rock
 Don't move that limbo bar
 You'll be a limbo star
 How low can you go?
-
-
-

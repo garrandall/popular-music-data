@@ -1,8 +1,11 @@
 ---
+album: Unreal!!!
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:688znVmgeA6faueZJIT2VQ
 features: []
-genres: []
+first_released_as_single: false
 key: sunset-strip-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-sunset-strip-lyrics
 name: Sunset Strip
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 217266
 ---
 Sunset Strip
 Sunset Strip

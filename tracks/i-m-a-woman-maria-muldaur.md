@@ -1,8 +1,11 @@
 ---
+album: Waitress In A Donut Shop
 artists:
 - Maria Muldaur
+external_ids:
+  spotify: spotify:track:3OyKM9HXGOixI4p16m8VBs
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-woman-maria-muldaur
 lyrics_url: https://genius.com/Maria-muldaur-im-a-woman-lyrics
 name: I'm A Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1974
+runtime: 248407
 ---
 Well, I can wash out forty-four pairs of socks
 And hang them on the line

@@ -1,8 +1,11 @@
 ---
+album: Blowin' Your Mind!
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:3yrSvpt2l1xhsV9Em88Pul
 features: []
-genres: []
+first_released_as_single: false
 key: brown-eyed-girl-van-morrison
 lyrics_url: https://genius.com/Van-morrison-brown-eyed-girl-lyrics
 name: Brown Eyed Girl
@@ -71,6 +74,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1967
+runtime: 183306
 ---
 Hey, where did we go?
 Days when the rains came

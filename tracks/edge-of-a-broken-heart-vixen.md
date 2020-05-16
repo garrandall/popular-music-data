@@ -1,8 +1,11 @@
 ---
+album: Vixen
 artists:
 - Vixen
+external_ids:
+  spotify: spotify:track:2mEk0VdrbDJ11DBC6Y92mh
 features: []
-genres: []
+first_released_as_single: false
 key: edge-of-a-broken-heart-vixen
 lyrics_url: https://www.azlyrics.com/lyrics/vixen/edgeofabrokenheart.html
 name: Edge Of A Broken Heart
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
+release_year: 1988
+runtime: 265333
 ---
-
 I can't believe I could've been so blind, but love is strange
 I thought about it for a long, long time, but the truth remains
 I don't need another lonely night to dry my tears
@@ -128,6 +132,3 @@ I've been living on the edge of a broken heart
 I've been living on the edge of a broken heart
 Don't you wonder why, I gotta say goodbye!
 I've been living on the edge of a broken heart
-
-
-

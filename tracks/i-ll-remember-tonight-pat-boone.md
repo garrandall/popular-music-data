@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:7joT0lpeu6beSA9zgYcUFd
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-remember-tonight-pat-boone
 lyrics_url: https://genius.com/Pat-boone-ill-remember-tonight-lyrics
 name: I'll Remember Tonight
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 131731
 ---
 I'll remember tonight
 That lovely melody we danced to

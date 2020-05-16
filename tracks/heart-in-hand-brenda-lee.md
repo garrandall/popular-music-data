@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:3jahm7OVtMN4iWOqFZda3M
 features: []
-genres: []
+first_released_as_single: false
 key: heart-in-hand-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-heart-in-hand-lyrics
 name: Heart In Hand
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 147426
 ---
 Here I stand heart in hand
 Looking like a fool

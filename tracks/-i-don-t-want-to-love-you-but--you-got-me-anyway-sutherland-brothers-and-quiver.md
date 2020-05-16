@@ -1,8 +1,11 @@
 ---
+album: A Night in Winterland
 artists:
 - Sutherland Brothers And Quiver
+external_ids:
+  spotify: spotify:track:4sedfDbR2vLbA7syCdA0Od
 features: []
-genres: []
+first_released_as_single: false
 key: -i-don-t-want-to-love-you-but--you-got-me-anyway-sutherland-brothers-and-quiver
 lyrics_url: https://genius.com/Sutherland-brothers-and-quiver-i-dont-want-to-love-you-but-you-got-me-anyway-lyrics
 name: (I Don't Want To Love You But) You Got Me Anyway
@@ -55,6 +58,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 186400
 ---
 It was 1948 like a Hollywood scene
 Everybody at the door trying to live a little dream

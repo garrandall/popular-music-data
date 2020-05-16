@@ -1,6 +1,6 @@
 ---
 artists:
-- Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: i-ve-had-enough-wings

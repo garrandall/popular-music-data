@@ -1,8 +1,11 @@
 ---
+album: 'Unforgettable: A Tribute To Dinah Washington'
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2TMm8uoO8g80pY5tOzkPqU
 features: []
-genres: []
+first_released_as_single: false
 key: soulville-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/soulville.html
 name: Soulville
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1964
+runtime: 140546
 ---
-
 Soulville, Soulville
 
 Come on and
@@ -101,6 +105,3 @@ Down in Soulville
 I'm talking 'bout the black eyed peas
 Down in Soulville, oh, yeah
 Yes Sir, down in Soulville
-
-
-

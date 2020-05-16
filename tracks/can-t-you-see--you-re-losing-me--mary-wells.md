@@ -1,8 +1,11 @@
 ---
+album: 100 Greatest Northern Soul Classics
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:6TffRoGoJQFX5N7en7YNK0
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-see--you-re-losing-me--mary-wells
 lyrics_url: https://genius.com/Mary-wells-cant-you-see-youre-losing-me-lyrics
 name: Can't You See (You're Losing Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1966
+runtime: 166400
 ---
 (Baby, honey)
 Can't you see you're losing me?

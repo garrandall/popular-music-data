@@ -1,9 +1,12 @@
 ---
+album: Mykonos 10
 artists:
 - Edward Maya
 - Vika Jigulina
+external_ids:
+  spotify: spotify:track:6YFO3C9RVmPO2wFX4ttjX7
 features: []
-genres: []
+first_released_as_single: false
 key: stereo-love-edward-maya-vika-jigulina
 lyrics_url: https://genius.com/Dj-redo-stereo-love-edward-maya-feat-vika-jigulina-ultra-weekend-6instrumental-lyrics
 name: Stereo Love
@@ -120,5 +123,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
+release_year: 2009
+runtime: 247760
 ---
 Instrumental

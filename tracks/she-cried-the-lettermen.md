@@ -1,8 +1,11 @@
 ---
+album: Live In Concert Encore
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:4LG3Y8O84dQUGn3ykgU0Ny
 features: []
-genres: []
+first_released_as_single: false
 key: she-cried-the-lettermen
 lyrics_url: https://www.musixmatch.com/lyrics/The-Lettermen/She-Cried-Rerecorded
 name: She Cried
@@ -35,6 +38,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 260075
 ---
 And when I told her
 I didn't love her anymore

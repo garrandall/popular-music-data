@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:24gmbHt5tMCsXZjloonzIm
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-i-have-you-the-cars
 lyrics_url: https://genius.com/The-cars-why-cant-i-have-you-lyrics
 name: Why Can't I Have You
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 243834
 ---
 Ah dreamy lips, set in motion, flashing
 Ah breathless hush, poundin' soft, lasting

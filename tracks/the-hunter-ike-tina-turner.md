@@ -1,9 +1,12 @@
 ---
+album: The Hunter
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:5yM1XZ2kk5A6Eh5u7kMLMk
 features: []
-genres: []
+first_released_as_single: false
 key: the-hunter-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/thehunter.html
 name: The Hunter
@@ -16,8 +19,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 399389
 ---
-
 They call me the hunter, that's my name
 A handsome man like you is my only game
 I bought me a love gun just the other day
@@ -64,6 +68,3 @@ Oh, it ain't no used to hide ain't no need to run
 I'm a big game how can I miss when I got good aim
 All I ever hunt is a big handsome man
 Hey, alright and I'm on my way
-
-
-

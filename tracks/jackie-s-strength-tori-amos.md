@@ -1,8 +1,11 @@
 ---
+album: From The Choir Girl Hotel
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:3bPSPTXcc8gB7NMOa0LDAo
 features: []
-genres: []
+first_released_as_single: false
 key: jackie-s-strength-tori-amos
 lyrics_url: https://genius.com/Tori-amos-jackies-strength-lyrics
 name: Jackie's Strength
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
+release_year: 1998
+runtime: 266586
 ---
 And Jackie, and Jackie, and Jackie, ha-hm
 And Jackie, and Jackie, and Jackie, hey

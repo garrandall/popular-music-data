@@ -1,8 +1,11 @@
 ---
+album: Face the Music
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:5qRJD1yaLJ5s0J3JpbgnwA
 features: []
-genres: []
+first_released_as_single: false
 key: evil-woman-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/evilwoman.html
 name: Evil Woman
@@ -75,8 +78,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1972
+runtime: 259826
 ---
-
 You made a fool of me, but them broken dreams have got to end
 
 Hey woman, you got the blues, cos' you ain't got no one else to use
@@ -108,4 +112,3 @@ You made the wine now you drink the cup
 I came runnin' every time you cried
 Thought I saw love smilin' in your eyes
 Ha Ha very nice to know, that you ain't got no place left to go
-

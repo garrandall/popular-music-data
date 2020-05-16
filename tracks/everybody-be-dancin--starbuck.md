@@ -1,8 +1,11 @@
 ---
+album: 20 Of Their Best
 artists:
 - Starbuck
+external_ids:
+  spotify: spotify:track:5kEaW0jiXbDJ08N01VAQX0
 features: []
-genres: []
+first_released_as_single: true
 key: everybody-be-dancin--starbuck
 lyrics_url: https://genius.com/Starbuck-everybody-be-dancin-lyrics
 name: Everybody Be Dancin'
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 226866
 ---
 I never won for losing
 But it ceased to be amusing when you told me

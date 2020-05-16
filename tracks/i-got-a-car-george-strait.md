@@ -1,8 +1,11 @@
 ---
+album: Love Is Everything
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:4Fpq4QkR06QRDkujBUk0JY
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-car-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/igotacar.html
 name: I Got A Car
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-07-26'
+release_year: 2013
+runtime: 272266
 ---
-
 She was leaning on a rail in a cotton dress
 Summer tanned pretty, little perfect mess
 With a story that could only be anybody's guess
@@ -85,6 +89,3 @@ Got your things in the back and I'm ready when you are
 She said, are you sure it'll get us where we're goin'?
 I said, if there's one thing I know girl, it's gotten us this far
 And I don't mean to hurry but I'm ready when you are
-
-
-

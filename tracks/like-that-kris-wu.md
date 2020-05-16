@@ -1,8 +1,11 @@
 ---
+album: Antares
 artists:
 - Kris Wu
+external_ids:
+  spotify: spotify:track:4caEPudXQ1xDd1garjHPFv
 features: []
-genres: []
+first_released_as_single: true
 key: like-that-kris-wu
 lyrics_url: https://genius.com/Kris-wu-like-that-lyrics
 name: Like That
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 228661
 ---
 I'm about to throw away my money on you
 I'm about to throw it all up

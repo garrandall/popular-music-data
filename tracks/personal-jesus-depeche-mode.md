@@ -1,8 +1,11 @@
 ---
+album: Violator
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:1xShPgQbOUa98avWJQFDBY
 features: []
-genres: []
+first_released_as_single: true
 key: personal-jesus-depeche-mode
 lyrics_url: https://genius.com/Depeche-mode-personal-jesus-lyrics
 name: Personal Jesus
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 224906
 ---
 Reach out and touch faith
 

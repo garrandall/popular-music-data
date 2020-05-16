@@ -1,8 +1,11 @@
 ---
+album: KIMBERLY SCOTT
 artists:
 - Kimberly Scott
+external_ids:
+  spotify: spotify:track:6GaafBUOjkIsVBZYlpMrcX
 features: []
-genres: []
+first_released_as_single: false
 key: tuck-me-in-kimberly-scott
 lyrics_url: https://www.musixmatch.com/lyrics/Kimberly-Scott/Tuck-Me-In
 name: Tuck Me In
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1997
+runtime: 270466
 ---
 Oh? hoo? hoo?
 Oh? hey?

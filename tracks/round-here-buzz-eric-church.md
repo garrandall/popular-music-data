@@ -1,8 +1,11 @@
 ---
+album: Mr. Misunderstood
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:52ioLaTnO2J7BWY8UN2n9D
 features: []
-genres: []
+first_released_as_single: false
 key: round-here-buzz-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/roundherebuzz.html
 name: Round Here Buzz
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2015
+runtime: 214626
 ---
-
 Another Friday night
 There's a line of cars leaving
 Home team's got an out-of-towner
@@ -138,6 +142,3 @@ I catch me a 'round here buzz
 I catch me a 'round here buzz
 'Round here buzz
 I catch me a 'round here buzz
-
-
-

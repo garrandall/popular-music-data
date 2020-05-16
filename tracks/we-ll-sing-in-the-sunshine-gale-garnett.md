@@ -1,8 +1,11 @@
 ---
+album: My Kind of Folk Songs
 artists:
 - Gale Garnett
+external_ids:
+  spotify: spotify:track:1Dyj4ecLBwWFYvvFr6URzw
 features: []
-genres: []
+first_released_as_single: false
 key: we-ll-sing-in-the-sunshine-gale-garnett
 lyrics_url: https://genius.com/Gale-garnett-well-sing-in-the-sunshine-lyrics
 name: We'll Sing In The Sunshine
@@ -75,6 +78,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1962
+runtime: 175626
 ---
 We'll sing in the sunshine
 We'll laugh every day

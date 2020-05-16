@@ -1,8 +1,11 @@
 ---
+album: Cracked Rear View
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:6NGi23FFKq9tH5NR1NcTw2
 features: []
-genres: []
+first_released_as_single: false
 key: let-her-cry-hootie-the-blowfish
 lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/lethercry.html
 name: Let Her Cry
@@ -147,8 +150,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1994
+runtime: 318533
 ---
-
 She sits alone
 By a lamp post
 Trying to find a thought that's escaped her mind
@@ -211,6 +215,3 @@ Let her sing, if it eases all her pain
 Let her go, let her walk right out on me
 And if the sun comes up tomorrow
 Let her be, oh, let her be.
-
-
-

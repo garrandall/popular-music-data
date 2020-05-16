@@ -1,8 +1,11 @@
 ---
+album: The Dimension Dolls
 artists:
 - The Cookies
+external_ids:
+  spotify: spotify:track:7MMz7zySaLubuOqlOIraNA
 features: []
-genres: []
+first_released_as_single: false
 key: chains-the-cookies
 lyrics_url: https://genius.com/The-cookies-chains-lyrics
 name: Chains
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 146413
 ---
 Chains, my baby's got me locked up in chains
 And they ain't the kind that you can see

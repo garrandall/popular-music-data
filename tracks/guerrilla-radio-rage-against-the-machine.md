@@ -1,8 +1,11 @@
 ---
+album: The Battle Of Los Angeles
 artists:
 - Rage Against The Machine
+external_ids:
+  spotify: spotify:track:1wsRitfRRtWyEapl0q22o8
 features: []
-genres: []
+first_released_as_single: false
 key: guerrilla-radio-rage-against-the-machine
 lyrics_url: https://genius.com/Rage-against-the-machine-guerrilla-radio-lyrics
 name: Guerrilla Radio
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1999
+runtime: 206200
 ---
 Transmission, third World War, third round
 A decade of the weapon of sound above ground

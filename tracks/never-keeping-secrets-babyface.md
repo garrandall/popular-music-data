@@ -1,8 +1,11 @@
 ---
+album: For The Cool In You
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:7L06pF5o819jflseQ4Wde5
 features: []
-genres: []
+first_released_as_single: false
 key: never-keeping-secrets-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/neverkeepingsecrets.html
 name: Never Keeping Secrets
@@ -99,8 +102,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
+release_year: 1993
+runtime: 293266
 ---
-
 I never meant to lie to you
 But I needed me an easy way out
 I couldn't face the truth with you
@@ -155,4 +159,3 @@ For each and every lie
 I want you to be
 The only one for me
 Forever and ever and ever and ever and ever
-

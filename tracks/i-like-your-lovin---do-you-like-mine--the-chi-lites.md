@@ -1,8 +1,11 @@
 ---
+album: I Like Your Lovin' (Do You Like Mine?)
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:0yzfYMVHfRO3BwuTg78rcv
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-your-lovin---do-you-like-mine--the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/ilikeyourlovindoyoulikemine.html
 name: I Like Your Lovin' (Do You Like Mine)
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 168213
 ---
-
 Friends of mine try to change
 My mind about loving you
 They say I made a bad mistake
@@ -66,6 +70,3 @@ And I just got to tell you
 And I just got to tell you
 Never gonna let you go
 ...
-
-
-

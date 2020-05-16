@@ -1,8 +1,11 @@
 ---
+album: Vinyl Confessions
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:5JQaG1VrTu4fbieUsDUdrt
 features: []
-genres: []
+first_released_as_single: false
 key: play-the-game-tonight-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/playthegametonight.html
 name: Play The Game Tonight
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1982
+runtime: 207786
 ---
-
 You think that something's happening
 And it's bigger than your life
 But it's only what you're hearing
@@ -91,4 +95,3 @@ Then it finally happens
 And it's all come true for you
 And the songs are playing over and over
 Till you do it all over again
-

@@ -1,8 +1,11 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0h6sfKXFb641F2E13rY4f2
 features: []
-genres: []
+first_released_as_single: false
 key: president-carter-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-president-carter-lyrics
 name: President Carter
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 255373
 ---
 President Carter, Pre-President Carter
 President Carter, Pre-President Carter

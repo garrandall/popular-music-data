@@ -1,8 +1,11 @@
 ---
+album: You Light Up My Life
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:05NgW9vpvEdfPxG7A0odVK
 features: []
-genres: []
+first_released_as_single: false
 key: you-light-up-my-life-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/youlightupmylife.html
 name: You Light Up My Life
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 217533
 ---
-
 So many nights, I'd sit by my window,
 Waiting for someone to sing me his song.
 So many dreams, I kept deep inside me,
@@ -112,6 +116,3 @@ You light up my day's
 And fill my life with song
 It can't be wrong when it feels so right
 'cause you, you light up my life
-
-
-

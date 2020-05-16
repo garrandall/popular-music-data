@@ -1,8 +1,11 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:794F99D5BQHS5ZGRXAs7I5
 features: []
-genres: []
+first_released_as_single: false
 key: anaconda-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/anaconda.html
 name: Anaconda
@@ -95,8 +98,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 260240
 ---
-
 My Anaconda don't...
 My Anaconda don't...
 My Anaconda don't want none unless you got buns hun

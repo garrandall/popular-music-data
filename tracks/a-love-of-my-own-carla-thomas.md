@@ -1,8 +1,11 @@
 ---
+album: Gee Whiz
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:5RmFLhiJu0U2m28BeFC8Jy
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-of-my-own-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-a-love-of-my-own-lyrics
 name: A Love Of My Own
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 152240
 ---
 I look at the mountain, I look at the sun
 I look at everything Mother Nature has done

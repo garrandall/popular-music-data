@@ -1,8 +1,11 @@
 ---
+album: No Lookin' Back
 artists:
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:7sHUlfMG1yaYuzck8uY4BG
 features: []
-genres: []
+first_released_as_single: false
 key: no-lookin--back-michael-mcdonald
 lyrics_url: https://www.azlyrics.com/lyrics/michaelmcdonald/nolookinback.html
 name: No Lookin' Back
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 236626
 ---
-
 I'm fading out of sight
 My wheels are the only sound
 Runnin' at the speed of light
@@ -101,6 +105,3 @@ But there's no lookin' back now
 No lookin' back now
 No lookin' back now
 No lookin' back now
-
-
-

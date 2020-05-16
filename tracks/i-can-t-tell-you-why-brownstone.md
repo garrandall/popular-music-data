@@ -1,8 +1,11 @@
 ---
+album: From The Bottom Up
 artists:
 - Brownstone
+external_ids:
+  spotify: spotify:track:74oQkrFn64k3furu8GoBLr
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-tell-you-why-brownstone
 lyrics_url: https://genius.com/Brownstone-i-cant-tell-you-why-lyrics
 name: I Can't Tell You Why
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1993
+runtime: 246200
 ---
 Look at us baby
 Up all night

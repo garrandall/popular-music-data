@@ -1,8 +1,11 @@
 ---
+album: Bridge Over Troubled Water
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:1eN42Q7IWRzRBq8eW2Y2TE
 features: []
-genres: []
+first_released_as_single: false
 key: el-condor-pasa--if-i-could--simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/elcondorpasaificould.html
 name: El Condor Pasa (If I Could)
@@ -51,8 +54,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 187040
 ---
-
 I'd rather be a sparrow than a snail
 Yes, I would
 If I could
@@ -78,6 +82,3 @@ I'd rather feel the earth beneath my feet
 Yes, I would
 If I only could
 I surely would
-
-
-

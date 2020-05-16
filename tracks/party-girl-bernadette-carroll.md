@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's
 artists:
 - Bernadette Carroll
+external_ids:
+  spotify: spotify:track:1g6b5h7Zyo54Nub1aHlHbf
 features: []
-genres: []
+first_released_as_single: false
 key: party-girl-bernadette-carroll
 lyrics_url: https://genius.com/Bernadette-carroll-party-girl-lyrics
 name: Party Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 139440
 ---
 I made up my mind
 What I'm gonna do

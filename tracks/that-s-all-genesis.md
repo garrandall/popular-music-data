@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:3xaBJGjMnrbuu2wlI5itEv
 features: []
-genres: []
+first_released_as_single: true
 key: that-s-all-genesis
 lyrics_url: https://genius.com/Genesis-thats-all-lyrics
 name: That's All
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1983
+runtime: 266306
 ---
 {Intro}
 

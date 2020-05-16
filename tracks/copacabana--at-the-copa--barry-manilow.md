@@ -1,8 +1,11 @@
 ---
+album: Even Now
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:4uHj0xjikhTgLqg7FIenVO
 features: []
-genres: []
+first_released_as_single: false
 key: copacabana--at-the-copa--barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/copacabanaatthecopa2005dancemix.html
 name: Copacabana (at The Copa)
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1973
+runtime: 344666
 ---
-
 Her name is Lola
 She was a showgirl
 With yellow feathers in her hair
@@ -142,6 +146,3 @@ Music and passion
 Were always the fashion
 At the copa
 Don't fall in love...
-
-
-

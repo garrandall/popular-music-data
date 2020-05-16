@@ -1,8 +1,11 @@
 ---
+album: Children Of The World
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2rVxsVGLFssDfM5B9BUL0K
 features: []
-genres: []
+first_released_as_single: false
 key: love-so-right-bee-gees
 lyrics_url: https://genius.com/Bee-gees-love-so-right-lyrics
 name: Love So Right
@@ -99,6 +102,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 215493
 ---
 She came on like the night, and she held on tight
 And the world was right when she made love to me

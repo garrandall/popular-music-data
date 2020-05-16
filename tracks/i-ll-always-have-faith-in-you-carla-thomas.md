@@ -1,8 +1,11 @@
 ---
+album: The Queen Alone
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:3CT34llfqT3ODsX8vgJcse
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-have-faith-in-you-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-ill-always-have-faith-in-you-lyrics
 name: I'll Always Have Faith In You
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 175693
 ---
 I will always have faith in you
 Oh, oh, in all you strive to do

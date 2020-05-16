@@ -1,8 +1,11 @@
 ---
+album: The Supremes A' Go-Go
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:59tAS0swoeibMJQzySh6FH
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-like-an-itching-in-my-heart-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/loveislikeanitchinginmyheart.html
 name: Love Is Like An Itching In My Heart
@@ -39,8 +42,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 177133
 ---
-
 The love bug done bit me
 Didn't mean for him to get me
 Woo, get up in the morning
@@ -99,6 +103,3 @@ Love is a nagging irritation
 Causing my heart complication
 
 I've been bitten by the love bug...
-
-
-

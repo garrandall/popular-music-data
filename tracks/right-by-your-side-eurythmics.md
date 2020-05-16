@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:486W7TsJOJl2C6NktjOd9O
 features: []
-genres: []
+first_released_as_single: false
 key: right-by-your-side-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/rightbyyourside.html
 name: Right By Your Side
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1983
+runtime: 244946
 ---
-
 Give me two strong arms
 To protect myself
 Give me so much love
@@ -85,6 +89,3 @@ When love gets into town
 I'm so full of desire
 When you set my head on fire
 I need to be right by your side
-
-
-

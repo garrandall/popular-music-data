@@ -1,8 +1,11 @@
 ---
+album: Bad 25th Anniversary
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:2bCQHF9gdG5BNDVuEIEnNk
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-criminal-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-smooth-criminal-lyrics
 name: Smooth Criminal
@@ -67,6 +70,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1987
+runtime: 257760
 ---
 As he came into the window
 Was a sound of a crescendo

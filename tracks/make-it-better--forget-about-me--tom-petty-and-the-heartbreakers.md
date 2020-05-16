@@ -1,8 +1,11 @@
 ---
+album: Southern Accents
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:2iBDvB4tH77SER1ppzZ2NL
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-better--forget-about-me--tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/makeitbetterforgetaboutme.html
 name: Make It Better (Forget About Me)
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
+release_year: 1985
+runtime: 263800
 ---
-
 I wanna make it better baby
 Listen, I want to make it good again
 Yes I want to make it better girl
@@ -67,6 +71,3 @@ These was too much rain, too much humility
 Do you know why you did what you did to me?
 Honey you're the jugde, there ain't no jury
 And I'm just an innocent boy, used to bein' guilty
-
-
-

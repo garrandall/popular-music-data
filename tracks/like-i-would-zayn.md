@@ -1,8 +1,11 @@
 ---
+album: Mind Of Mine
 artists:
 - Zayn
+external_ids:
+  spotify: spotify:track:1zWMf9bVyhY5W3ZORbjNWt
 features: []
-genres: []
+first_released_as_single: false
 key: like-i-would-zayn
 lyrics_url: https://genius.com/Zayn-like-i-would-lyrics
 name: Like I Would
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2016
+runtime: 192133
 ---
 Hey what's up? It's been a while
 Talking 'bout it's not my style

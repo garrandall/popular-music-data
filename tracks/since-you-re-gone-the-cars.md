@@ -1,8 +1,11 @@
 ---
+album: Shake It Up (Expanded)
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:32DHqroB1hXKwtDap7vTZL
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-re-gone-the-cars
 lyrics_url: https://genius.com/The-cars-since-youre-gone-lyrics
 name: Since You're Gone
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1981
+runtime: 211306
 ---
 Since you're gone
 The nights are gettin' strange

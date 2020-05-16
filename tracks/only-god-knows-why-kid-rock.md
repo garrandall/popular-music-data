@@ -1,8 +1,11 @@
 ---
+album: Devil Without a Cause
 artists:
 - Kid Rock
+external_ids:
+  spotify: spotify:track:1rAzW6aco1ZtxLRx4XOagB
 features: []
-genres: []
+first_released_as_single: false
 key: only-god-knows-why-kid-rock
 lyrics_url: https://www.azlyrics.com/lyrics/kidrock/onlygodknowswhy.html
 name: Only God Knows Why
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
+release_year: 1998
+runtime: 327666
 ---
 I've been sittin here
 Tryin to find myself

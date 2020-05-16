@@ -1,8 +1,11 @@
 ---
+album: One Step At A Time
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:4cdAXfguhQHYFkvuuzye1m
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-want-to-dance-with-you-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/ijustwanttodancewithyou.html
 name: I Just Want To Dance With You
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
+release_year: 1998
+runtime: 210866
 ---
-
 I don't want to be the kind to hesitate,
 Be too shy, wait too late
 I don't care what they say other lovers do,
@@ -118,6 +122,3 @@ I just want to dance with you.
 I just want to dance with you,
 I just want to dance with you,
 I just want to dance with you.
-
-
-

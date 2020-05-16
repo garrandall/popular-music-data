@@ -1,8 +1,11 @@
 ---
+album: Identified
 artists:
 - Vanessa Hudgens
+external_ids:
+  spotify: spotify:track:5qaxeIJLARExwa34d9TuYp
 features: []
-genres: []
+first_released_as_single: false
 key: sneakernight-vanessa-hudgens
 lyrics_url: https://www.azlyrics.com/lyrics/vanessahudgens/sneakernight.html
 name: Sneakernight
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 179080
 ---
-
 Put your sneakers on, Put your sneakers on
 We're goin' dancin' all night long
 
@@ -60,6 +64,3 @@ Just admit it, You can't stop it, It's addictive
 
 
 Put your sneakers on...Let's go all night long...
-
-
-

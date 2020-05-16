@@ -1,8 +1,11 @@
 ---
+album: The Skill
 artists:
 - Sherbs
+external_ids:
+  spotify: spotify:track:3TOTBRxjNKlAshvFH55OaG
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-the-skill-sherbs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sherbs/I-Have-the-Skill
 name: I Have The Skill
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1980
+runtime: 228586
 ---
 Ain't no magician, no miracle maker
 I am the shoreline, you are the breaker

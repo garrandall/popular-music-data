@@ -1,8 +1,11 @@
 ---
+album: Never A Dull Moment
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:4qiUf0nH55Bx2uuybf5S1g
 features: []
-genres: []
+first_released_as_single: false
 key: angel-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/angel.html
 name: Angel
@@ -35,8 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 243826
 ---
-
 Angel came down from heaven yesterday
 stayed with me long enough to rescue me
 And she told me a story yesterday
@@ -60,6 +64,3 @@ Fly on my sweet angel forever I will be by your side"
 And I said, "Fly on my sweet angel, fly on through the sky
 Fly on my sweet angel forever I will be by your side"
 Fly away, come back another day
-
-
-

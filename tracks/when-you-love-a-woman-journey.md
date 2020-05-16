@@ -1,8 +1,11 @@
 ---
+album: Trial By Fire
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:4b79AEQyxEVoiGMyBUv0io
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-love-a-woman-journey
 lyrics_url: https://genius.com/Journey-when-you-love-a-woman-lyrics
 name: When You Love A Woman
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 246986
 ---
 In my life I see where I've been
 I said that I'd never fall again

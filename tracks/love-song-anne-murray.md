@@ -1,8 +1,11 @@
 ---
+album: A Love Song
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:2ZMVTfvCziy8qzSMgpD8Cz
 features: []
-genres: []
+first_released_as_single: false
 key: love-song-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/lovesong.html
 name: Love Song
@@ -75,8 +78,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1973
+runtime: 169493
 ---
-
 There's a wren in a willow wood
 Flies so high and sings so good
 And he brings to you what he sings to you
@@ -111,6 +115,3 @@ I wanna get to know you
 I wanna show you the peaceful feelin' of my home
 
 I wanna show you the peaceful feelin' of my home
-
-
-

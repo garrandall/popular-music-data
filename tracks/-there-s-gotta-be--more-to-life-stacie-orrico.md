@@ -1,8 +1,11 @@
 ---
+album: Stacie Orrico
 artists:
 - Stacie Orrico
+external_ids:
+  spotify: spotify:track:2x5qF66rFO6DERBMNkQAqn
 features: []
-genres: []
+first_released_as_single: false
 key: -there-s-gotta-be--more-to-life-stacie-orrico
 lyrics_url: https://www.azlyrics.com/lyrics/stacieorrico/theresgottabemoretolife.html
 name: (There's Gotta Be) More To Life
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2004-01-31'
+release_year: 2003
+runtime: 200386
 ---
-
 I've got it all, but I feel so deprived
 I go up, I come down and I'm emptier inside
 Tell me what is this thing that I feel like I'm missing
@@ -111,4 +115,3 @@ Onto the next thing, I'm searching for something that's missing
 i'm wanting more
 I'm always waiting on something other than this
 Why am I feelin' like there's something I missed...
-

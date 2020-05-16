@@ -1,8 +1,11 @@
 ---
+album: Green Thoughts
 artists:
 - The Smithereens
+external_ids:
+  spotify: spotify:track:4QlKsURJWveSH9C8pLQKWq
 features: []
-genres: []
+first_released_as_single: false
 key: only-a-memory-the-smithereens
 lyrics_url: https://www.azlyrics.com/lyrics/smithereens/onlyamemory.html
 name: Only A Memory
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1988
+runtime: 223293
 ---
-
 My mind is filled with thoughts of you
 I think about the days of two
 I search the room but you're not there
@@ -80,6 +84,3 @@ Only a memory, only a memory
 
 Memory
 Memory
-
-
-

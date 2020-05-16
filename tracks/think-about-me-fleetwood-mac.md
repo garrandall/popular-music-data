@@ -1,8 +1,11 @@
 ---
+album: Tusk
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:1Q5kDGREVR7mcTjhvuFLm1
 features: []
-genres: []
+first_released_as_single: false
 key: think-about-me-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-think-about-me-lyrics
 name: Think About Me
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1979
+runtime: 164333
 ---
 All it took was a special look
 And I felt I knew you before

@@ -1,8 +1,11 @@
 ---
+album: Odelay
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:2qq31IL5PChshB6u6sWDYh
 features: []
-genres: []
+first_released_as_single: false
 key: jack-ass-beck
 lyrics_url: https://www.azlyrics.com/lyrics/beck/jackass.html
 name: Jack-Ass
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-11-15'
+release_year: 1996
+runtime: 240933
 ---
-
 I been drifting along
 In the same stale shoes
 Loose ends tying a noose
@@ -73,6 +77,3 @@ If you thought that you were making your way
 To where the puzzles and pagans lay
 I'll put it together:
 It's a strange invitation
-
-
-

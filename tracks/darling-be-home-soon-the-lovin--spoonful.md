@@ -1,8 +1,11 @@
 ---
+album: You're A Big Boy Now
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:0KJOiIPKD1Ff6MOnMvNWDS
 features: []
-genres: []
+first_released_as_single: false
 key: darling-be-home-soon-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-darling-be-home-soon-lyrics
 name: Darling Be Home Soon
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1965
+runtime: 213013
 ---
 Come and talk of all the things we did today
 Here and laugh about our funny little ways

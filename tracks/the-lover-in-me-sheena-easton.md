@@ -1,8 +1,11 @@
 ---
+album: The Lover In Me
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:6pvIzUyq2yxvIEIK8i6hRs
 features: []
-genres: []
+first_released_as_single: false
 key: the-lover-in-me-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/theloverinme.html
 name: The Lover In Me
@@ -107,8 +110,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1988
+runtime: 301373
 ---
-
 Talk about the love you're missing
 Maybe then it's true
 When they say love is blind
@@ -218,6 +222,3 @@ If you talk about good loving
 Let's talk about the lover in me
 (Don't dream about it)
 (Don't dream about it)...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Take Another Picture
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:4VFpmNL2EgtM0veqYNTXj4
 features: []
-genres: []
+first_released_as_single: false
 key: take-another-picture-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/takeanotherpicture.html
 name: Take Another Picture
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 269400
 ---
-
 Saw my father living in a picture
 Squinting in the Michigan sun
 Caught forever in his blouse and knickers
@@ -64,6 +68,3 @@ Please, please freeze my features
 Oh, won't you please, please
 Take another
 I don't wanna fade away
-
-
-

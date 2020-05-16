@@ -1,8 +1,11 @@
 ---
+album: Tao
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:1NPGOxtPdmhcdPLgZ0RBT2
 features: []
-genres: []
+first_released_as_single: false
 key: celebrate-youth-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/celebrateyouth.html
 name: Celebrate Youth
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-06-15'
+release_year: 1981
+runtime: 232133
 ---
-
 I can see the older man
 Looking at the younger man
 I can see the younger man
@@ -168,6 +172,3 @@ Teach them right
 Looking in a child's eye
 There's no hate and there's no lie
 There's no black and there's no white
-
-
-

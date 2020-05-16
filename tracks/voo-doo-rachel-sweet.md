@@ -1,8 +1,11 @@
 ---
+album: Blame It On Love
 artists:
 - Rachel Sweet
+external_ids:
+  spotify: spotify:track:2IplZsq9NcTLvp4j1vYAum
 features: []
-genres: []
+first_released_as_single: false
 key: voo-doo-rachel-sweet
 lyrics_url: https://genius.com/Rachel-sweet-voo-doo-lyrics
 name: Voo Doo
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 218360
 ---
 Close your eyes baby, make a wish
 Wanna try, wanna try

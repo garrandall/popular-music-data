@@ -1,8 +1,11 @@
 ---
+album: 'The Bar-Kays: All-Time Greatest Hits'
 artists:
 - The Bar-Kays
+external_ids:
+  spotify: spotify:track:1pZlO1V8RgQFHUKDLOPguT
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-to-stop--pt-1--the-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-too-hot-to-stop-lyrics
 name: Too Hot To Stop (Pt 1)
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1977
+runtime: 384640
 ---
 Whoo
 Whoo

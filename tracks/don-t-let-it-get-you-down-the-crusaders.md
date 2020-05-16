@@ -1,8 +1,11 @@
 ---
+album: The 2nd Crusade
 artists:
 - The Crusaders
+external_ids:
+  spotify: spotify:track:7CCR0i2wUUFsFSHaCMKX36
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-it-get-you-down-the-crusaders
 name: Don't Let It Get You Down
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 183506
 ---
 

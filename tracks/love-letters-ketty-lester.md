@@ -1,8 +1,11 @@
 ---
+album: Hidden Treasures From The West Coast
 artists:
 - Ketty Lester
+external_ids:
+  spotify: spotify:track:7b0ePdS3VSJa5iVHCFJk2u
 features: []
-genres: []
+first_released_as_single: true
 key: love-letters-ketty-lester
 lyrics_url: https://genius.com/Ketty-lester-love-letters-lyrics
 name: Love Letters
@@ -63,6 +66,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1962
+runtime: 160506
 ---
 Love letters straight from your heart
 Keep us so near while apart

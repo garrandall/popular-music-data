@@ -1,8 +1,11 @@
 ---
+album: Freedom for the Stallion
 artists:
 - The Hues Corporation
+external_ids:
+  spotify: spotify:track:118DMrbWUSRBrrQ8xaZyZW
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-for-the-stallion-the-hues-corporation
 lyrics_url: https://genius.com/The-hues-corporation-freedom-for-the-stallion-lyrics
 name: Freedom For The Stallion
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 240040
 ---
 Freedom for the stallion, freedom for the mare and her colt
 Freedom for the baby child who has not grown old enough to vote

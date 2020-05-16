@@ -1,8 +1,11 @@
 ---
+album: Bad 25th Anniversary
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3yBlJtq86wROQpHi1goEKT
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-diana-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-dirty-diana-lyrics
 name: Dirty Diana
@@ -63,6 +66,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
+release_year: 1987
+runtime: 280760
 ---
 You'll never make me stay
 So take your weight off of me

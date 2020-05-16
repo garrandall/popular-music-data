@@ -1,8 +1,11 @@
 ---
+album: Great Movie Sounds of John Barry
 artists:
 - John Barry
+external_ids:
+  spotify: spotify:track:2dm5KB6NZijq8t9EhLkB7W
 features: []
-genres: []
+first_released_as_single: false
 key: goldfinger-john-barry-and-his-orchestra
 lyrics_url: https://genius.com/John-barry-goldfinger-lyrics
 name: Goldfinger
@@ -19,6 +22,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 264506
 ---
 Goldfinger, he's the man, the man with the Midas touch
 A spider's touch

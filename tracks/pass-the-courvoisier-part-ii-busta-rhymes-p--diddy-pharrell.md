@@ -1,10 +1,13 @@
 ---
+album: Genesis
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:7nYUOwj0CkkGlIV3mZqAJJ
 features:
 - P. Diddy
 - Pharrell
-genres: []
+first_released_as_single: false
 key: pass-the-courvoisier-part-ii-busta-rhymes-p--diddy-pharrell
 lyrics_url: https://genius.com/Busta-rhymes-pass-the-courvoisier-part-ii-lyrics
 name: Pass The Courvoisier Part II
@@ -89,6 +92,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 1990
+runtime: 230506
 ---
 Don't this shit make a nigga wanna (JUMP JUMP!)
 Don't this shit make a nigga wanna (JUMP JUMP!)

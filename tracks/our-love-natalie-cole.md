@@ -1,8 +1,11 @@
 ---
+album: Thankful
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:4Oe8GNcT42Vhu0S9plFryE
 features: []
-genres: []
+first_released_as_single: false
 key: our-love-natalie-cole
 lyrics_url: https://genius.com/Natalie-cole-our-love-lyrics
 name: Our Love
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1977
+runtime: 323000
 ---
 You're my morning star shining brightly beside me
 And if we keep this love

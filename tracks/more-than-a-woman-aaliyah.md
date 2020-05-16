@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:1s3hhkY447paKtDm2bEY31
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-a-woman-aaliyah
 lyrics_url: https://www.azlyrics.com/lyrics/aaliyah/morethanawoman.html
 name: More Than A Woman
@@ -103,8 +106,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 2002
+runtime: 230693
 ---
-
 Passion, instant
 Sweat beads, feel me
 Cupid's shot me
@@ -195,6 +199,3 @@ More than enough for you
 (I'll be more) more than a lover
 (more) more than a woman
 (more) more than enough for you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live Bird '65-'67
 artists:
 - The Trashmen
+external_ids:
+  spotify: spotify:track:7HIjpKxjQ8kN9nTKvBLkjQ
 features: []
-genres: []
+first_released_as_single: false
 key: bird-dance-beat-the-trashmen
 lyrics_url: https://genius.com/The-trashmen-bird-dance-beat-lyrics
 name: Bird Dance Beat
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 189226
 ---
 Uh well a'shake'a your shoulders and a'move' your feet
 We're gonna stomp to the Bird Dance Beat

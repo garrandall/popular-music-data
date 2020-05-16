@@ -1,8 +1,11 @@
 ---
+album: The Predator
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:3mXfH030L2E8A6iuf0bCvR
 features: []
-genres: []
+first_released_as_single: false
 key: wicked-ice-cube
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/wicked.html
 name: Wicked
@@ -47,9 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1992
+runtime: 235706
 ---
-
-
 One, two, three and I come with the wicked
 style and you know that I'm from the wicked
 crew, act like you knew
@@ -114,6 +117,3 @@ Bring the yellow tape
 The white cape, cos I'm so straight
 Thru with the picket signs, take his job and stick it
 Bigot, cos I get wicked
-
-
-

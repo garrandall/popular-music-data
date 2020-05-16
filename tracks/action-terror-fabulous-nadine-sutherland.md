@@ -1,9 +1,12 @@
 ---
+album: Yaga Yaga
 artists:
 - Terror Fabulous
+external_ids:
+  spotify: spotify:track:5o0IrtXfutZpIWwE8EiRvN
 features:
 - Nadine Sutherland
-genres: []
+first_released_as_single: false
 key: action-terror-fabulous-nadine-sutherland
 lyrics_url: https://genius.com/Nadine-sutherland-and-terror-fabulous-action-lyrics
 name: Action
@@ -88,6 +91,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
+release_year: 1992
+runtime: 222533
 ---
 When 'oman waan good love) Hm
 (No sympathize)

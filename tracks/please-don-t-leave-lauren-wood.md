@@ -1,8 +1,11 @@
 ---
+album: Lauren Wood
 artists:
 - Lauren Wood
+external_ids:
+  spotify: spotify:track:6BDWKu4eOJgdSg9KA6Icn6
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-leave-lauren-wood
 lyrics_url: https://www.musixmatch.com/lyrics/Lauren-Wood/Please-Don-t-Leave
 name: Please Don't Leave
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-12-29'
+release_year: 1979
+runtime: 238491
 ---
 Please Don't Leave
 Lauren Wood

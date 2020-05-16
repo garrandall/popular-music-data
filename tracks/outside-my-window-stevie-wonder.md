@@ -1,8 +1,11 @@
 ---
+album: Journey Through The Secret Life Of Plants
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7fth5d5bhRQHq9VcVi1BuJ
 features: []
-genres: []
+first_released_as_single: false
 key: outside-my-window-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-outside-my-window-lyrics
 name: Outside My Window
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1979
+runtime: 330133
 ---
 La-La-La-La
 La-La-La La-La-La

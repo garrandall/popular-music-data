@@ -1,8 +1,11 @@
 ---
+album: Edge Of The Century
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:5stIYIS2BnzkSzKeVUimdj
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-the-ritual-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/loveistheritual.html
 name: Love Is The Ritual
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 229226
 ---
-
 Little sister
 She got a lot of time she got a lot of money
 Don't you know that ain't enough
@@ -74,6 +78,3 @@ To rock her world, to be her lover
 
 So signal all the children
 Send a message calling to the wild
-
-
-

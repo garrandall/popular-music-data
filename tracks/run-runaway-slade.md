@@ -1,8 +1,11 @@
 ---
+album: The Amazing Kamikaze Syndrome (Expanded)
 artists:
 - Slade
+external_ids:
+  spotify: spotify:track:5e0ozDjIRDuitUuekiF6ns
 features: []
-genres: []
+first_released_as_single: false
 key: run-runaway-slade
 lyrics_url: https://www.azlyrics.com/lyrics/slade/runrunaway.html
 name: Run Runaway
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1983
+runtime: 300800
 ---
-
 Hold on! 
 I like black and white
 (Dreaming of black and white) 
@@ -121,6 +125,3 @@ Run run away
 Run run away 
 Run run away 
 Run run away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Livin' On The Fault Line
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:26vUU8q0982LrpZRtRTQtG
 features: []
-genres: []
+first_released_as_single: false
 key: little-darling--i-need-you--the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-little-darling-i-need-you-lyrics
 name: Little Darling (i Need You)
@@ -35,6 +38,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 206533
 ---
 It's so hard lovin' you
 But I just can't let you go

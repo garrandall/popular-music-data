@@ -1,8 +1,11 @@
 ---
+album: Javier
 artists:
 - Javier
+external_ids:
+  spotify: spotify:track:7Ddl7aYrNU9kAjXjpE5iF4
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-javier
 lyrics_url: https://www.azlyrics.com/lyrics/javiercolon/crazy.html
 name: Crazy
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-10-18'
+release_year: 2003
+runtime: 293053
 ---
-
 Hm...hey yea hey...hoooooowhooo...baby,
 
 
@@ -92,6 +96,3 @@ Crazy,
 Everytime you call my name,
 I don't know what to do,
 I'm so in love with you.
-
-
-

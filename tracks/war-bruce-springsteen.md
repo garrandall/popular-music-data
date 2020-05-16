@@ -1,8 +1,11 @@
 ---
+album: Bruce Springsteen & The E Street Band Live 1975-85
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:1sTeIjsjonMTTQyffRgehj
 features: []
-genres: []
+first_released_as_single: false
 key: war-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/war.html
 name: War
@@ -55,8 +58,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 183466
 ---
-
 War
 What is it good for? Absolutely nothing
 Say it again, war
@@ -118,6 +122,3 @@ Say it again, war
 What is it good for? Nothing
 
 I'm talkin' about war
-
-
-

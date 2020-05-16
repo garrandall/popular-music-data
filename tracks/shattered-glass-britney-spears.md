@@ -1,8 +1,11 @@
 ---
+album: Circus (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:3sJx8qerYrs92oqVAa9S0Z
 features: []
-genres: []
+first_released_as_single: false
 key: shattered-glass-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/shatteredglass.html
 name: Shattered Glass
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2008-12-20'
+release_year: 2008
+runtime: 172400
 ---
-
 Oh, oh, oh, oo-oo-oo-oo-oh
 Oh, oh, oh, oo-oo-oo-oo-oh
 
@@ -51,6 +55,3 @@ Glass (gl-gl-gl), glass (glee-glee-glee), glass, glass
 
 Oh, oh, oh, oo-oo-oo-oo-oh
 Oh, oh, oh, oo-oo-oo-oh
-
-
-

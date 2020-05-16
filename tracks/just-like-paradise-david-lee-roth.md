@@ -1,8 +1,11 @@
 ---
+album: Skyscraper
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:5ZY7Gug850kv4heJcWZGHM
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-paradise-david-lee-roth
 lyrics_url: https://www.azlyrics.com/lyrics/davidleeroth/justlikeparadise.html
 name: Just Like Paradise
@@ -71,8 +74,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1988
+runtime: 243280
 ---
-
 Rockin' steady in her daddy's car
 She got the stereo with the big guitars
 And that's all right
@@ -123,6 +127,3 @@ And I don't wanna go home (wow, 1-800-SEE-YA, baby)
 This must be just like livin' in paradise (just like paradise)
 And I don't wanna go home (wow, hey hey)
 (Just like paradise, just like) This must be just like livin' in paradise
-
-
-

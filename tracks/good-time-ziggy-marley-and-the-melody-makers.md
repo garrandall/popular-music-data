@@ -1,8 +1,11 @@
 ---
+album: Jahmekya
 artists:
 - Ziggy Marley And The Melody Makers
+external_ids:
+  spotify: spotify:track:4UgyyXhmiynuy3DDHGLQCZ
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-ziggy-marley-and-the-melody-makers
 lyrics_url: https://genius.com/Ziggy-marley-and-the-melody-makers-good-time-lyrics
 name: Good Time
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 330666
 ---
 Though the world is cruel and blind
 Let's have a good time

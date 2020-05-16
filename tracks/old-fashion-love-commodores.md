@@ -1,8 +1,11 @@
 ---
+album: Heroes
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:4uCZ87lJrOyc1L38MpaA08
 features: []
-genres: []
+first_released_as_single: false
 key: old-fashion-love-commodores
 lyrics_url: https://genius.com/Commodores-old-fashion-love-lyrics
 name: Old-Fashion Love
@@ -71,6 +74,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 298133
 ---
 I'm in love with a plain old-fashion girl
 She's the most beautiful person in the world

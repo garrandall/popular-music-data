@@ -1,8 +1,11 @@
 ---
+album: The Fat of the Land - Expanded Edition
 artists:
 - The Prodigy
+external_ids:
+  spotify: spotify:track:3tehrxZR8eaANHov4cEctL
 features: []
-genres: []
+first_released_as_single: false
 key: smack-my-bitch-up-the-prodigy
 lyrics_url: https://genius.com/The-prodigy-smack-my-bitch-up-lyrics
 name: Smack My Bitch Up
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1997
+runtime: 342733
 ---
 (Like this)
 

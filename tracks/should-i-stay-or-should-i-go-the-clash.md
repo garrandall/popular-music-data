@@ -1,8 +1,11 @@
 ---
+album: Combat Rock
 artists:
 - The Clash
+external_ids:
+  spotify: spotify:track:39shmbIHICJ2Wxnk1fPSdz
 features: []
-genres: []
+first_released_as_single: false
 key: should-i-stay-or-should-i-go-the-clash
 lyrics_url: https://genius.com/The-clash-should-i-stay-or-should-i-go-lyrics
 name: Should I Stay Or Should I Go
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1982
+runtime: 188986
 ---
 Oh!
 Darling, you got to let me know

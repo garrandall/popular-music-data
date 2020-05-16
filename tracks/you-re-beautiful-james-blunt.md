@@ -1,8 +1,11 @@
 ---
+album: Back to Bedlam
 artists:
 - James Blunt
+external_ids:
+  spotify: spotify:track:0vg4WnUWvze6pBOJDTq99k
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-beautiful-james-blunt
 lyrics_url: https://genius.com/James-blunt-youre-beautiful-lyrics
 name: You're Beautiful
@@ -159,6 +162,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2005
+runtime: 209493
 ---
 My life is brilliant
 

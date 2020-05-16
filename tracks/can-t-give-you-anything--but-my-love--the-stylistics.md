@@ -1,8 +1,11 @@
 ---
+album: Thank You Baby
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:6osyfeG7lbY1ZkWTjMnHUU
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-give-you-anything--but-my-love--the-stylistics
 lyrics_url: https://genius.com/The-stylistics-cant-give-you-anything-but-my-love-lyrics
 name: Can't Give You Anything (but My Love)
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 201572
 ---
 If I had money I'd go wild buy you furs dress you like a queen
 And in a chauffered limousine

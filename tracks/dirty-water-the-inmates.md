@@ -1,8 +1,11 @@
 ---
+album: Meet The Beatles
 artists:
 - The Inmates
+external_ids:
+  spotify: spotify:track:1N03qVwj3pMY6MNFlzEMvX
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-water-the-inmates
 lyrics_url: https://genius.com/The-inmates-dirty-water-lyrics
 name: Dirty Water
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 179866
 ---
 I'm gonna tell you a story
 I'm gonna tell you about my town

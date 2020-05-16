@@ -1,8 +1,11 @@
 ---
+album: For Unlawful Carnal Knowledge
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:6N1sNzq3CArC1pMSaZTxaT
 features: []
-genres: []
+first_released_as_single: false
 key: right-now-van-halen
 lyrics_url: https://genius.com/Van-halen-right-now-lyrics
 name: Right Now
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1991
+runtime: 320866
 ---
 Don't wanna wait til tomorrow
 Why put it off another day?

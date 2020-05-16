@@ -1,10 +1,13 @@
 ---
+album: Kings Of Crunk - Clean
 artists:
 - Lil Jon
 - The East Side Boyz
+external_ids:
+  spotify: spotify:track:5CSossBRgqQUcBJGkI9H8S
 features:
 - Ying Yang Twins
-genres: []
+first_released_as_single: false
 key: get-low-lil-jon-the-east-side-boyz-ying-yang-twins
 lyrics_url: https://genius.com/Lil-jon-and-the-east-side-boyz-get-low-lyrics
 name: Get Low
@@ -189,6 +192,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2002
+runtime: 324600
 ---
 3, 6, 9 - damn you fine
 Hoping she can sock it to me one more time

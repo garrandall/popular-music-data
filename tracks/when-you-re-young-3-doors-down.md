@@ -1,8 +1,11 @@
 ---
+album: Time Of My Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:6uMPJ3NmW8FfqqNwqjUHrB
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-young-3-doors-down
 lyrics_url: https://www.musixmatch.com/lyrics/3-Doors-Down/When-You-re-Young
 name: When You're Young
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2011
+runtime: 256013
 ---
 So far away from knowing where I'm going
 I am trying hard to find out who I am

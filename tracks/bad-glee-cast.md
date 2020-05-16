@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0LpE5tfNe15QLvQL4YDi7T
 features: []
-genres: []
+first_released_as_single: false
 key: bad-glee-cast
 lyrics_url: https://genius.com/Glee-cast-bad-lyrics
 name: Bad
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2010
+runtime: 294226
 ---
 Artie:
 Ah, your butt is mine
@@ -101,7 +106,7 @@ Oh, woah, woah, woah, woah
 Woah, woah, woah, woah, woah
 
 Santana:
-Huuuuh
+Huh
 
 Artie and Santana:
 Hwoah, woah, woah, woah, woah, yeah!

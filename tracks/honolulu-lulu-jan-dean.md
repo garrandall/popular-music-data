@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:4BQbEkfmgIrFo7ZxqZkMOi
 features: []
-genres: []
+first_released_as_single: false
 key: honolulu-lulu-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/honolulululu.html
 name: Honolulu Lulu
@@ -48,8 +51,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 138426
 ---
-
 Queen of the surfer girls
 
 She's got stars in her eyes and knots on her knees now
@@ -86,6 +90,3 @@ But then she'd paddle out and try it again
 But she's my Honolulu Lulu
 She's my Honolulu Lulu
 Queen of the surfer girls
-
-
-

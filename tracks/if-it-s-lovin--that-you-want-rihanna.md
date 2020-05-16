@@ -1,8 +1,11 @@
 ---
+album: Music Of The Sun
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4x2rgtSFOI4hRvEvDj02KP
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-s-lovin--that-you-want-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/ifitslovinthatyouwant.html
 name: If It's Lovin' That You Want
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
+release_year: 2005
+runtime: 208106
 ---
-
 I want to let you know
 That you don't have to go
 Don't wonder no more
@@ -171,6 +175,3 @@ What I think about you
 
 What I think about you boy
 I got what you need so come share my world oh
-
-
-

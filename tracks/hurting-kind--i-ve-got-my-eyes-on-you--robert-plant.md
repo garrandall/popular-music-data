@@ -1,8 +1,11 @@
 ---
+album: Manic Nirvana
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:0ZxNsq37iUw6Gciukm4BCn
 features: []
-genres: []
+first_released_as_single: false
 key: hurting-kind--i-ve-got-my-eyes-on-you--robert-plant
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-Plant/Hurting-Kind-I-ve-Got-My-Eyes-on-You
 name: Hurting Kind (I've Got My Eyes On You)
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1990
+runtime: 305000
 ---
 She's the girl of my dreams
 She's the girl on my mind

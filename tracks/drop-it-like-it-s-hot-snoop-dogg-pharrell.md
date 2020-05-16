@@ -1,9 +1,12 @@
 ---
+album: 'R&G (Rhythm & Gangsta): The Masterpiece'
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:2NBQmPrOEEjA8VbeWOQGxO
 features:
 - Pharrell
-genres: []
+first_released_as_single: false
 key: drop-it-like-it-s-hot-snoop-dogg-pharrell
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/dropitlikeitshot.html
 name: Drop It Like It's Hot
@@ -128,8 +131,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2004
+runtime: 266066
 ---
-
 Snoop, Snoop
 
 
@@ -251,6 +255,3 @@ I got the Rolly on my arm and I'm pouring Chandon
 And I roll the best weed 'cause I got it going on
 
 Snoop, Snoop
-
-
-

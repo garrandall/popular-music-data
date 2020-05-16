@@ -1,8 +1,11 @@
 ---
+album: Going To The Ventures Dance Party!
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:6jsvExXPusE40bF05CW6n8
 features: []
-genres: []
+first_released_as_single: false
 key: lolita-ya-ya-the-ventures
 name: Lolita Ya-Ya
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 128880
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Desireless
 artists:
 - Eagle-Eye Cherry
+external_ids:
+  spotify: spotify:track:5AgNbgB8oaIypkQ4ATIjQs
 features: []
-genres: []
+first_released_as_single: true
 key: save-tonight-eagle-eye-cherry
 lyrics_url: https://genius.com/Eagle-eye-cherry-save-tonight-lyrics
 name: Save Tonight
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1998
+runtime: 323693
 ---
 Go on and close the curtains
 'Cause all we need is candlelight

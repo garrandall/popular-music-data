@@ -1,9 +1,12 @@
 ---
+album: Forever
 artists:
 - Alesso
+external_ids:
+  spotify: spotify:track:3wyJ90In0gjiWYgXniY4Op
 features:
 - Tove Lo
-genres: []
+first_released_as_single: true
 key: heroes--we-could-be--alesso-tove-lo
 lyrics_url: https://genius.com/Alesso-heroes-we-could-be-lyrics
 name: Heroes (We Could Be)
@@ -88,6 +91,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2014
+runtime: 204906
 ---
 We could hide away in daylight
 We go undercover, wait out the Sun

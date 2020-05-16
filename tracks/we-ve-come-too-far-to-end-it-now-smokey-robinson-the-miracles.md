@@ -1,9 +1,12 @@
 ---
+album: Flying High Together
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:2eRSnTq9TKDf1Y779KrBqb
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-come-too-far-to-end-it-now-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-weve-come-too-far-to-end-it-now-lyrics
 name: We've Come Too Far To End It Now
@@ -48,6 +51,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 244653
 ---
 Last night we had an argument
 Oh, oh, yes we did

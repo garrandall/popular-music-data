@@ -1,8 +1,11 @@
 ---
+album: A New Time - A New Day
 artists:
 - The Chambers Brothers
+external_ids:
+  spotify: spotify:track:6fmpeMEiK7M38rL9MSOFF5
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-turn-you-loose-the-chambers-brothers
 name: I Can't Turn You Loose
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 295386
 ---
 

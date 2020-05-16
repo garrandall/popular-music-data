@@ -1,8 +1,11 @@
 ---
+album: Len Barry Meets Johnny Caswell
 artists:
 - Len Barry
+external_ids:
+  spotify: spotify:track:1OWCpfDDXckUvy3pA0OubI
 features: []
-genres: []
+first_released_as_single: false
 key: i-struck-it-rich-len-barry
 lyrics_url: https://genius.com/Len-barry-i-struck-it-rich-lyrics
 name: I Struck It Rich
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 176026
 ---
 I love you, baby
 Need you, darling, all right

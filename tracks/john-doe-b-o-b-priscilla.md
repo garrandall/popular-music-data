@@ -1,9 +1,12 @@
 ---
+album: Underground Luxury
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:1Oxr5PnmgrPqebwY4IPwjb
 features:
 - Priscilla
-genres: []
+first_released_as_single: true
 key: john-doe-b-o-b-priscilla
 lyrics_url: https://www.azlyrics.com/lyrics/bob/johndoe.html
 name: John Doe
@@ -28,9 +31,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2013
+runtime: 212005
 ---
-
-
 Seems like your heart stops working
 The minute they close the curtain
 You take off your mask
@@ -117,6 +120,3 @@ Maybe you could come back home
 John Doe, oh oh oh oh
 Oh oh oh ohooh oh
 Oh oh oh ohooh oh
-
-
-

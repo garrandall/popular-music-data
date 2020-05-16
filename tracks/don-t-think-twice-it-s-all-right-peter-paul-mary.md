@@ -1,10 +1,13 @@
 ---
+album: In The Wind
 artists:
 - Peter
 - Paul
 - Mary
+external_ids:
+  spotify: spotify:track:7IsXXgpowAB48crGjV1oGb
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-think-twice-it-s-all-right-peter-paul-mary
 lyrics_url: https://genius.com/Peter-paul-and-mary-dont-think-twice-its-all-right-lyrics
 name: Don't Think Twice It's All Right
@@ -49,6 +52,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 196466
 ---
 It ain't no use to sit and wonder why, babe
 It don't matter, anyhow

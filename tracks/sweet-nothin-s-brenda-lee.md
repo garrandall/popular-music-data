@@ -1,8 +1,11 @@
 ---
+album: Brenda Lee
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:4ZiDhG5Ift5I6reAEOBBec
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-nothin-s-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/sweetnothins.html
 name: Sweet Nothin's
@@ -103,9 +106,10 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1959
+runtime: 144600
 ---
-
- Uh huh, Honey
+Uh huh, Honey
  Alright
 
 My baby whispers in my ear (pst pst pst)
@@ -140,6 +144,3 @@ Sweet nothins
 Mmm sweet nothin's
 
 Sweet nothins
-
-
-

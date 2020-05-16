@@ -1,8 +1,11 @@
 ---
+album: The Lost Singles Collection - Instrumental Collection
 artists:
 - Jacky Noguez
+external_ids:
+  spotify: spotify:track:5NzXxxJNMPqyq7tIYf1iF5
 features: []
-genres: []
+first_released_as_single: false
 key: ciao-ciao-bambina-jacky-noguez-and-his-musette-orchestra
 name: Ciao Ciao Bambina
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 131880
 ---
 

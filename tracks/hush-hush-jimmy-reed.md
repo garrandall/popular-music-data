@@ -1,8 +1,11 @@
 ---
+album: Found Love
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:6vsgYtfPHXH6RRnRGMzcaK
 features: []
-genres: []
+first_released_as_single: false
 key: hush-hush-jimmy-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/hushhush.html
 name: Hush-Hush
@@ -15,8 +18,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 158941
 ---
-
 Hush, hush
 Baby don't believe a word
 Hush, hush
@@ -43,6 +47,3 @@ Hush, hush
 Hush, hush
 Hush, hush
 Hush, hush
-
-
-

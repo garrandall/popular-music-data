@@ -1,8 +1,11 @@
 ---
+album: Into The Fire
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:20HhDn0i0STNmkjgFqmvO5
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-on-fire-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-hearts-on-fire-lyrics
 name: Hearts On Fire
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1987
+runtime: 210626
 ---
 Some other time
 Some other place

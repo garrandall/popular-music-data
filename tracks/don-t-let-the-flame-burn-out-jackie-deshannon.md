@@ -1,8 +1,11 @@
 ---
+album: You're The Only Dancer
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:4stniPOUZcQh9weswCI17n
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-flame-burn-out-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-dont-let-the-flame-burn-out-lyrics
 name: Don't Let The Flame Burn Out
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 216596
 ---
 You gave me somethin'
 I never had

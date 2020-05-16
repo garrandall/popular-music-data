@@ -1,8 +1,11 @@
 ---
+album: Superfly (O.S.T.)
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:4XsH9zBWPOCdXoH9ZDdS8r
 features: []
-genres: []
+first_released_as_single: false
 key: superfly-curtis-mayfield
 lyrics_url: https://www.azlyrics.com/lyrics/curtismayfield/superfly.html
 name: Superfly
@@ -67,8 +70,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1972
+runtime: 233600
 ---
-
 Darkest of night
 With the moon shining bright
 There's a set goin' strong
@@ -143,6 +147,3 @@ Tryin' to get over
 Tryin' to get over
 Tryin' to get over
 Tryin' to get over
-
-
-

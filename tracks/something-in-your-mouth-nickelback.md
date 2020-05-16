@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:6wO0vMRAJB0r1lEWBJZNOq
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-your-mouth-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/somethinginyourmouth.html
 name: Something In Your Mouth
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2008
+runtime: 219253
 ---
-
 Got to meet the hottie with the million dollar body
 They say it's over budget but you'd pay her just to touch it come on
 Needs to hit the big screen and shoot a little love scene
@@ -86,6 +90,3 @@ I love the way you dance with anybody
 And tease them all by sucking on your thumb
 You're so much cooler when you never pull it out
 'Cause you look so much cuter with something in your
-
-
-

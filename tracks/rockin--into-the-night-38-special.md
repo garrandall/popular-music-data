@@ -1,8 +1,11 @@
 ---
+album: Rockin' Into The Night
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:1rWqtf1rOYiPEb9puv2bYd
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--into-the-night-38-special
 lyrics_url: https://www.azlyrics.com/lyrics/38special/rockinintothenight.html
 name: Rockin' Into The Night
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1979
+runtime: 241226
 ---
-
 Cruisin down the motorway
 Got my girl by my side
 We're both a little anxious
@@ -85,6 +89,3 @@ Ooo yeah
 Rockin into the night
 Rockin into the night
 Hoo rockin
-
-
-

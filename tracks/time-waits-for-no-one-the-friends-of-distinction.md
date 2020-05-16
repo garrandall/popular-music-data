@@ -1,8 +1,11 @@
 ---
+album: The Best Of Friends Of Distinction
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:0CBUPfKuvFssOpwPwVgG6v
 features: []
-genres: []
+first_released_as_single: false
 key: time-waits-for-no-one-the-friends-of-distinction
 lyrics_url: https://www.musixmatch.com/lyrics/The-Friends-of-Distinction/Time-Waits-for-No-One
 name: Time Waits For No One
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 205240
 ---
 Oh, hoo, hey hey
 

@@ -1,9 +1,12 @@
 ---
+album: I Am...
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:158DIbrVt4YbqNnWyRCS3P
 features:
 - Puff Daddy
-genres: []
+first_released_as_single: false
 key: hate-me-now-nas-puff-daddy
 lyrics_url: https://www.azlyrics.com/lyrics/nas/hatemenow.html
 name: Hate Me Now
@@ -40,9 +43,10 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1999
+runtime: 284000
 ---
-
- Escobar season has returned...
+Escobar season has returned...
 
 
 It's been a long time, been a long time comin
@@ -175,6 +179,3 @@ You can hate me now..
  But I won't stop now..
  It ain't gon' never stop niggas
  I can't stop..
-
-
-

@@ -1,11 +1,14 @@
 ---
+album: Kanye West Presents Good Music Cruel Summer
 artists:
 - Kanye West
 - Big Sean
 - Pusha T
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:4qikXelSRKvoCqFcHLB2H2
 features: []
-genres: []
+first_released_as_single: true
 key: mercy-kanye-west-big-sean-pusha-t-2-chainz
 lyrics_url: https://genius.com/Trackmasters-mercy-kanye-west-feat-big-sean-pusha-t-2-chainz-instrumental-lyrics
 name: Mercy
@@ -138,5 +141,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-11-24'
+release_year: 2012
+runtime: 329320
 ---
 Instrumental

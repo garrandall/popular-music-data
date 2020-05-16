@@ -1,8 +1,11 @@
 ---
+album: In My Own Words
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:6brl7bwOHmGFkNw3MBqssT
 features: []
-genres: []
+first_released_as_single: false
 key: so-sick-ne-yo
 lyrics_url: https://genius.com/Ne-yo-so-sick-lyrics
 name: So Sick
@@ -107,6 +110,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 207186
 ---
 Mmm, mmm, yeah
 Do, do, do, do, do, do, do-do

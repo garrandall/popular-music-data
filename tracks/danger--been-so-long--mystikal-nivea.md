@@ -1,9 +1,12 @@
 ---
+album: Let's Get Ready
 artists:
 - Mystikal
+external_ids:
+  spotify: spotify:track:0e42i89bY2NmPuVDtey8pg
 features:
 - Nivea
-genres: []
+first_released_as_single: false
 key: danger--been-so-long--mystikal-nivea
 lyrics_url: https://genius.com/Mystikal-danger-been-so-long-lyrics
 name: Danger (Been So Long)
@@ -88,6 +91,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2000
+runtime: 211400
 ---
 You know what time it is, nigga
 And you know who the fuck this is

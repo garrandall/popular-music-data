@@ -1,9 +1,12 @@
 ---
+album: Truce - EP
 artists:
 - Frenship
 - Emily Warren
+external_ids:
+  spotify: spotify:track:2XMTqoHHSH0lvuXrvIEdco
 features: []
-genres: []
+first_released_as_single: true
 key: capsize-frenship-emily-warren
 lyrics_url: https://genius.com/Frenship-and-emily-warren-capsize-lyrics
 name: Capsize
@@ -48,6 +51,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 237706
 ---
 Hey-ey-ey-ey-yeah
 Hey-ya, hey-ya, hey

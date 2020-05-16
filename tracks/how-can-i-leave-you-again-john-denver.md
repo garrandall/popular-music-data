@@ -1,8 +1,11 @@
 ---
+album: I Want To Live
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:1hjNIcn5cvl9x8U44xUMqE
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-leave-you-again-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/howcanileaveyouagain.html
 name: How Can I Leave You Again
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 189546
 ---
-
 In a spaceship over the mountains, chasing rainbows in the setting sun.
 Leaving heart and home for the city of angels, I feel my life is undone.
 There are pathways winding below me, in pleasure I've gone where they go.
@@ -66,6 +70,3 @@ How can I leave you again? I must be clear out of my mind.
 Lost in a storm I've gone blind, oh, how can I leave you again.
 How can I leave you again? I must be clear out of my mind.
 Lost in a storm I've gone blind, oh, how can I leave you again.
-
-
-

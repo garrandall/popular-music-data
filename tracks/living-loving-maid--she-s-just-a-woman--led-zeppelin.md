@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin II
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:49C6EGQhCUSgyADHYvJ7ez
 features: []
-genres: []
+first_released_as_single: false
 key: living-loving-maid--she-s-just-a-woman--led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-living-loving-maid-shes-just-a-woman-lyrics
 name: Living Loving Maid (She's Just A Woman)
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
+release_year: 1969
+runtime: 159300
 ---
 With a purple umbrella and a fifty cent hat
 Living, loving, she's just a woman

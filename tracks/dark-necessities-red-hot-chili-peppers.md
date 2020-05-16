@@ -1,8 +1,11 @@
 ---
+album: The Getaway
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:2oaK4JLVnmRGIO9ytBE1bt
 features: []
-genres: []
+first_released_as_single: false
 key: dark-necessities-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/darknecessities.html
 name: Dark Necessities
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2016
+runtime: 302000
 ---
-
 Coming on to the light of day
 We got many moons that are deep at play
 So I keep an eye on the shadow smile
@@ -84,6 +88,3 @@ You don't know my kind
 Dark necessities are part of my design
 Tell the world that I'm falling from the sky
 Dark necessities are part of my design
-
-
-

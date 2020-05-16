@@ -1,8 +1,11 @@
 ---
+album: Completely
 artists:
 - Diamond Rio
+external_ids:
+  spotify: spotify:track:6cTZQGs1U5xkWA1fgLc8tH
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-diamond-rio
 lyrics_url: https://genius.com/Diamond-rio-i-believe-lyrics
 name: I Believe
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 1991
+runtime: 237186
 ---
 Every now and then
 Soft as breath upon my skin

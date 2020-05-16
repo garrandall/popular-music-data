@@ -1,8 +1,11 @@
 ---
+album: Elvis Now
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3xahstzELWc2PccxBN7zZV
 features: []
-genres: []
+first_released_as_single: false
 key: until-it-s-time-for-you-to-go-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-until-its-time-for-you-to-go-lyrics
 name: Until It's Time For You To Go
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 238293
 ---
 You're not a dream, you're not an angel, you're a woman
 I'm not a king, just a man, take my hand

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of The Righteous Brothers - Unchained Melody
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:1f6JxG6MNzILprLk4PNdi8
 features: []
-genres: []
+first_released_as_single: false
 key: go-ahead-and-cry-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/goaheadandcry.html
 name: Go Ahead And Cry
@@ -31,8 +34,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 155666
 ---
-
 Love can change a young boy into a man
 But a broken heart can change a man
 Back into a boy again
@@ -72,6 +76,3 @@ Cry
 Go ahead and cry
 Don't be ashamed to cry
 Cry
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My Life
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:5X82VFLvjpeWQlTSShqqj0
 features: []
-genres: []
+first_released_as_single: false
 key: be-happy-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-be-happy-lyrics
 name: Be Happy
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1994
+runtime: 349560
 ---
 How can I love somebody else
 If I can't love myself enough to know

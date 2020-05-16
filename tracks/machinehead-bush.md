@@ -1,8 +1,11 @@
 ---
+album: Zen X Four
 artists:
 - Bush
+external_ids:
+  spotify: spotify:track:25KqghhQVMLJf02bKjWcMq
 features: []
-genres: []
+first_released_as_single: false
 key: machinehead-bush
 lyrics_url: https://www.azlyrics.com/lyrics/bush/machinehead.html
 name: Machinehead
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1996
+runtime: 288373
 ---
-
 Breathe in breathe out
 Breathe in breathe out
 Breathe in
@@ -164,6 +168,3 @@ Machinehead
 
 And I walk from my machine
 I walk from my machine
-
-
-

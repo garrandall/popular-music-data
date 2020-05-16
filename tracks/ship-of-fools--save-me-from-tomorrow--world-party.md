@@ -1,8 +1,11 @@
 ---
+album: Private Revolution
 artists:
 - World Party
+external_ids:
+  spotify: spotify:track:3ndKgw7LvKO7zIk1rgOQJ2
 features: []
-genres: []
+first_released_as_single: false
 key: ship-of-fools--save-me-from-tomorrow--world-party
 lyrics_url: https://genius.com/World-party-ship-of-fools-lyrics
 name: Ship Of Fools (Save Me From Tomorrow)
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1987
+runtime: 268493
 ---
 We're setting sail
 To the place on the map from which no one has ever returned

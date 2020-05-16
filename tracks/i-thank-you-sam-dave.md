@@ -1,9 +1,12 @@
 ---
+album: I Thank You
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:0c2Gc3qrijvGkr0mZ8iKxq
 features: []
-genres: []
+first_released_as_single: false
 key: i-thank-you-sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/ithankyou.html
 name: I Thank You
@@ -60,8 +63,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1968
+runtime: 174160
 ---
-
 (I want everybody to get up off your seat
 And get your arms together, and your hands together
 And give me some of that old soul clapping)
@@ -121,6 +125,3 @@ Baby (got to thank you)
 Baby (oh, baby)
 Thank! I've! Got! I've got to (thank you baby)
 Thank you baby (oh baby)
-
-
-

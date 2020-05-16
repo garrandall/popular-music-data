@@ -1,8 +1,11 @@
 ---
+album: Back To Basics
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:5lUTzPuiloBHm1qEaJcJfF
 features: []
-genres: []
+first_released_as_single: false
 key: candyman-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/candyman.html
 name: Candyman
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
+release_year: 2006
+runtime: 194213
 ---
-
 Tarzan and Jane were swingin' on a vine
 Candyman, Candyman
 Sippin' from a bottle of vodka double wine
@@ -138,7 +142,4 @@ He's a sweet-talkin', sugar coated candyman
 Tarzan and Jane were swingin' on a vine 
 Sippin' from a bottle of vodka double wine 
 Jane lost her grip and a-down she fell 
-Squared herself away as she let out a yell 
-
-
-
+Squared herself away as she let out a yell

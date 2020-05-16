@@ -1,8 +1,11 @@
 ---
+album: Nellyville
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:7bYKMJI4z6mApjLhv4hOBM
 features: []
-genres: []
+first_released_as_single: false
 key: pimp-juice-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/pimpjuice.html
 name: Pimp Juice
@@ -35,9 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-05-24'
+release_year: 2002
+runtime: 292173
 ---
-
-
 One pound for the house, that's all we need baby
 Just one for the house.. c'mon
 
@@ -112,10 +115,3 @@ Cause you wanna put your feet on my rug, don'tcha?
 You really wanna put your feet on my rug, don'tcha?
 You're in a hurry - SLOW DOWN - bitch I got all night
 Matter fact, stand on my left boo - I know you ain't right
-
-
-
-
-
-
-

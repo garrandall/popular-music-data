@@ -1,8 +1,11 @@
 ---
+album: Latin Mix USA
 artists:
 - The Blackout Allstars
+external_ids:
+  spotify: spotify:track:57laKLECmh8J3TvFfJxT2g
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-the-blackout-allstars
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blackout-Allstars/I-Like-It-Like-That
 name: I Like It
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1994
+runtime: 227093
 ---
 I like it like that
 Yeah baby

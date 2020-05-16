@@ -1,8 +1,11 @@
 ---
+album: To Know Him Is to Love Him / Don't You Worry My Little Pet
 artists:
 - The Teddy Bears
+external_ids:
+  spotify: spotify:track:12UGU3ev7jEYzTG8r25H8J
 features: []
-genres: []
+first_released_as_single: true
 key: to-know-him-is-to-love-him-the-teddy-bears
 lyrics_url: https://genius.com/The-teddy-bears-us-to-know-him-is-to-love-him-lyrics
 name: To Know Him Is To Love Him
@@ -99,6 +102,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
+release_year: 1958
+runtime: 144840
 ---
 To know, know, know him
 Is to love, love, love him

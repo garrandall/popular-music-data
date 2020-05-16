@@ -1,8 +1,11 @@
 ---
+album: L.A. Woman
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:3MFFDRC4wTN9JNGtzXsZlN
 features: []
-genres: []
+first_released_as_single: false
 key: love-her-madly-the-doors
 lyrics_url: https://www.azlyrics.com/lyrics/doors/lovehermadly.html
 name: Love Her Madly
@@ -51,8 +54,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 198466
 ---
-
 Don't ya love her madly 
 Don't ya need her badly 
 Don't ya love her ways 
@@ -93,6 +97,3 @@ Seven horses seem to be on the mark
 Well, don't ya love her madly 
 Don't ya love her madly 
 Don't ya love her madly
-
-
-

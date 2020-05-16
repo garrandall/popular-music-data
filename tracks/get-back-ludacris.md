@@ -1,8 +1,11 @@
 ---
+album: The Red Light District
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:3njpLvANriMsdv3dgADEad
 features: []
-genres: []
+first_released_as_single: false
 key: get-back-ludacris
 lyrics_url: https://www.musixmatch.com/lyrics/Ludacris/Get-Back
 name: Get Back
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2005-04-02'
+release_year: 2004
+runtime: 270746
 ---
 Heads up, heads up
 Here's another one

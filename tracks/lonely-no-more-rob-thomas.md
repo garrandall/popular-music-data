@@ -1,8 +1,11 @@
 ---
+album: Something To Be
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:4qzIe9XOsGUoODrqyrDI5s
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-no-more-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/lonelynomore.html
 name: Lonely No More
@@ -143,8 +146,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-10-08'
+release_year: 2005
+runtime: 220206
 ---
-
 Now it seems to me
 That you know just what to say
 But words are only words
@@ -198,6 +202,3 @@ I don't want to be lonely anymore
 I don't wanna be lonely anymore
 I don't wanna be lonely anymore
 I don't wanna be lonely anymore
-
-
-

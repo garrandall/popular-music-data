@@ -1,8 +1,11 @@
 ---
+album: The Glamorous Life
 artists:
 - Sheila E.
+external_ids:
+  spotify: spotify:track:179SfVFJ0ZN41toTxnpgRD
 features: []
-genres: []
+first_released_as_single: false
 key: the-glamorous-life-sheila-e-
 lyrics_url: https://www.azlyrics.com/lyrics/sheilae/theglamorouslife.html
 name: The Glamorous Life
@@ -111,8 +114,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 543560
 ---
-
 She wears a long fur coat of mink
 Even in the summer time
 Everybody knows from the coy little wink
@@ -183,6 +187,3 @@ She don't need a man's touch
 She wants to lead the glamorous life
 Without love it ain't much, it ain't much
 Oh, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:2IOFZdYYkFxEHVz1w34PoL
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-harry-styles
 lyrics_url: https://genius.com/Harry-styles-cherry-lyrics
 name: Cherry
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 259186
 ---
 Coucou
 

@@ -1,8 +1,11 @@
 ---
+album: Meat and Candy
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:5ZManJDV3CexO66nRCkdiV
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-with-him-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/breakupwithhim.html
 name: Break Up With Him
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 207733
 ---
-
 Hey girl, what's up?
 I know it's late, but I knew you'd pick it up
 Naw, I ain't drunk
@@ -129,6 +133,3 @@ Yeah, I know I said it, but I'll say it again, I know you ain't in love with him
 The way you look at me, girl, you can't pretend,
 I know you ain't in love with him, break up with him, yeah
 Just break up with him
-
-
-

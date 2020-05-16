@@ -1,8 +1,11 @@
 ---
+album: x
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:6fxVffaTuwjgEk5h9QyRjy
 features: []
-genres: []
+first_released_as_single: false
 key: photograph-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/photograph.html
 name: Photograph
@@ -127,8 +130,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2013
+runtime: 258986
 ---
-
 Loving can hurt
 Loving can hurt sometimes
 But it's the only thing that I know
@@ -197,6 +201,3 @@ Under the lamppost
 Back on 6th street
 Hearing you whisper through the phone
 "Wait for me to come home"
-
-
-

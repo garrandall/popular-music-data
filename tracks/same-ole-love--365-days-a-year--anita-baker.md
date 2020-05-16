@@ -1,8 +1,11 @@
 ---
+album: Turntable Hits
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:1yfsc4b7DdUCIxg00SZtzk
 features: []
-genres: []
+first_released_as_single: false
 key: same-ole-love--365-days-a-year--anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/sameolelove.html
 name: Same Ole Love (365 Days A Year)
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1987
+runtime: 238626
 ---
-
 Flashbacks of the times we've had
 Some made us laugh some made us sad
 We used to break up to make up
@@ -102,6 +106,3 @@ From beginning to end 365 days of the year
 I want your same ole' love
 All I want to do is share my life with you
 I want your same ole' love
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: The Remixes
 artists:
 - Busta Rhymes
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0xDxS2g775ttrfrwDQl9f8
 features:
 - The Flipmode Squad
-genres: []
+first_released_as_single: false
 key: i-know-what-you-want-busta-rhymes-mariah-carey-the-flipmode-squad
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/iknowwhatyouwant.html
 name: I Know What You Want
@@ -105,9 +108,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2003
+runtime: 252360
 ---
-
-
 Yeah
 Shorty I know what you need
 I got everything you need
@@ -238,6 +241,3 @@ So beautiful
 Ah-ha I knew you was gon' give me that high note
 Mariah
 Ah-ha-ha yeah
-
-
-

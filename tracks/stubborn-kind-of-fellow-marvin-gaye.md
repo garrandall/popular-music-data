@@ -1,8 +1,11 @@
 ---
+album: 'Recorded Live: Marvin Gaye On Stage'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:2L4RJhvopHS1Gjz8VwCb3a
 features: []
-genres: []
+first_released_as_single: false
 key: stubborn-kind-of-fellow-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/stubbornkindoffellow.html
 name: Stubborn Kind Of Fellow
@@ -43,8 +46,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 177158
 ---
-
 Ah say yeah yeah yeah, say yeah yeah yeah
 Ah say yeah yeah yeah, say yeah yeah yeah
 
@@ -86,6 +90,3 @@ Got my mind made up to love you
 
 
 Ah say yeah yeah yeah, say yeah yeah yeah
-
-
-

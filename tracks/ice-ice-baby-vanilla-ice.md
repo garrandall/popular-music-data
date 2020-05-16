@@ -1,8 +1,11 @@
 ---
+album: To The Extreme
 artists:
 - Vanilla Ice
+external_ids:
+  spotify: spotify:track:11d9oUiwHuYt216EFA2tiz
 features: []
-genres: []
+first_released_as_single: false
 key: ice-ice-baby-vanilla-ice
 lyrics_url: https://genius.com/Vanilla-ice-ice-ice-baby-lyrics
 name: Ice Ice Baby
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-01-26'
+release_year: 1990
+runtime: 271466
 ---
 Yo VIP, let's kick it
 

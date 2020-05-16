@@ -1,8 +1,11 @@
 ---
+album: Into The Gap
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:0BJU4rYOfj43xHw6gvTIwE
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-now-thompson-twins
 lyrics_url: https://genius.com/Thompson-twins-hold-me-now-lyrics
 name: Hold Me Now
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 286666
 ---
 I have a picture
 Pinned to my wall

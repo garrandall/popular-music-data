@@ -1,8 +1,11 @@
 ---
+album: A Pentatonix Christmas Deluxe
 artists:
 - Pentatonix
+external_ids:
+  spotify: spotify:track:0LsRGxeE8zZjzOV5QrR8G2
 features: []
-genres: []
+first_released_as_single: true
 key: hallelujah-pentatonix
 lyrics_url: https://www.azlyrics.com/lyrics/pentatonix/hallelujah.html
 name: Hallelujah
@@ -51,9 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2016
+runtime: 268960
 ---
-
-
 I've heard there was a secret chord
 That David played and it pleased the Lord
 But you don't really care for music, do ya?
@@ -101,6 +104,3 @@ Hallelujah, Hallelujah
 
 Mmm, Mmm
 Mmm, Mmm
-
-
-

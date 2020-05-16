@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:1iyCfLFYAfw4DooVxQD4yA
 features: []
-genres: []
+first_released_as_single: false
 key: past-present-and-future-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/pastpresentandfuture.html
 name: Past Present And Future
@@ -31,8 +34,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 159093
 ---
-
 The past, past, well now let me tell you about the past
 The past is filled with silent joys and broken toys
 Laughing girls and teasing boys
@@ -55,6 +59,3 @@ But at the moment it doesn't look good
 At the moment it will never happen again
 
 I don't think it will ever happen again
-
-
-

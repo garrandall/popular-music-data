@@ -1,8 +1,11 @@
 ---
+album: Phil Vassar
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:6ZKpyxLzgI0pQ9mExc3Qve
 features: []
-genres: []
+first_released_as_single: false
 key: carlene-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/carlene.html
 name: Carlene
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-07-22'
+release_year: 2000
+runtime: 265733
 ---
-
 I was lousy at math, failed historian
 Carlene was the valedictorian
 I was the quarter back in the back of classes
@@ -151,6 +155,3 @@ Looking good Carlene
 Woh my my my my my
 Times been good to you
 If you know what I mean
-
-
-

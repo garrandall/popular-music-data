@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:0ecGwZA1ReAq4Mn3ZInaT4
 features: []
-genres: []
+first_released_as_single: false
 key: happy-days-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-happy-days-lyrics
 name: Happy Days
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 160040
 ---
 Happy days
 Happy days

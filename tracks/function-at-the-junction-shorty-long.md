@@ -1,8 +1,11 @@
 ---
+album: Bobby - Original Motion Picture Soundtrack
 artists:
 - Shorty Long
+external_ids:
+  spotify: spotify:track:3I0DNvsTn0JMltxxZmkyqs
 features: []
-genres: []
+first_released_as_single: false
 key: function-at-the-junction-shorty-long
 lyrics_url: https://genius.com/Shorty-long-function-at-the-junction-lyrics
 name: Function At The Junction
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 168973
 ---
 I'm getting ready for the Function at the Junction
 And baby you'd better come on right now

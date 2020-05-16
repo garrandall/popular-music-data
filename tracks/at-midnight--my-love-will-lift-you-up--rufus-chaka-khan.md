@@ -1,9 +1,12 @@
 ---
+album: Ask Rufus
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:1c8e9rdsGARATWuBsHG852
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: at-midnight--my-love-will-lift-you-up--rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-at-midnight-my-love-will-lift-you-up-lyrics
 name: At Midnight (My Love Will Lift You Up)
@@ -56,6 +59,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1977
+runtime: 260893
 ---
 You said you won't
 I bet my neck, I bet you will

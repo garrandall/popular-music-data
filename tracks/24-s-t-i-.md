@@ -1,8 +1,11 @@
 ---
+album: Trap Muzik
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:33j4CLU9UyRjO63ry5J61Q
 features: []
-genres: []
+first_released_as_single: false
 key: 24-s-t-i-
 lyrics_url: https://www.musixmatch.com/lyrics/T-I/24-s
 name: 24's
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 2003
+runtime: 282906
 ---
 Yeah
 For all my real ATL niggas, that's right

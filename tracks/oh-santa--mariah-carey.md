@@ -1,8 +1,11 @@
 ---
+album: Merry Christmas II You
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:4eXL9ici1ddorTRr5jJQvm
 features: []
-genres: []
+first_released_as_single: false
 key: oh-santa--mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-oh-santa-lyrics
 name: Oh Santa!
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 211000
 ---
 Oh, Santa's gonna come and make him mine this Christmas
 Santa's gonna come and make him mine, mine

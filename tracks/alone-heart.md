@@ -1,8 +1,11 @@
 ---
+album: Bad Animals
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:54b8qPFqYqIndfdxiLApea
 features: []
-genres: []
+first_released_as_single: false
 key: alone-heart
 lyrics_url: https://genius.com/Heart-alone-lyrics
 name: Alone
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
+release_year: 1987
+runtime: 218733
 ---
 I hear the ticking of the clock
 I'm lying here the room's pitch dark

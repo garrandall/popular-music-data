@@ -1,8 +1,11 @@
 ---
+album: Last Kiss
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:0QnONzv3TvHAWk294h6DaQ
 features: []
-genres: []
+first_released_as_single: true
 key: last-kiss-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/lastkiss.html
 name: Last Kiss
@@ -91,9 +94,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1999
+runtime: 195466
 ---
-
-
 Oh where, oh where, can my baby be?
 The Lord took her away from me.
 She's gone to heaven so I've got to be good,
@@ -123,4 +126,3 @@ I found the love that I knew I had missed.
 
 Well now she's gone even though I hold her tight,
 I lost my love, my life that night.
-

@@ -1,8 +1,11 @@
 ---
+album: Heart Of Stone
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:6mYrhCAGWzTdF8QnKuchXM
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-turn-back-time-cher
 lyrics_url: https://www.musixmatch.com/lyrics/Cher/If-I-Could-Turn-Back-Time
 name: If I Could Turn Back Time
@@ -99,6 +102,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 239826
 ---
 If I could turn back time
 If I could find a way

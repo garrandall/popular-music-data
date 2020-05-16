@@ -1,9 +1,12 @@
 ---
+album: Dream
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:5j9AxwzCuUOd24WWHDbQEr
 features: []
-genres: []
+first_released_as_single: false
 key: you-need-a-woman-tonight-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/youneedawomantonight.html
 name: You Need A Woman Tonight
@@ -48,8 +51,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 196000
 ---
-
 You need a woman, need a woman tonight
 You are looking to your left, you are looking to your right
 You need a woman tonight, you need a lover so right
@@ -98,6 +102,3 @@ You need a woman, need a woman tonight
 You need a woman, need a woman tonight
 You need a woman, need a woman tonight
 You need a woman, need a woman tonight
-
-
-

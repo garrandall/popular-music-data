@@ -1,8 +1,11 @@
 ---
+album: Ark
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:4AeH1nSZaqRliKLqEohH9c
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-the-animals
 lyrics_url: https://genius.com/The-animals-the-night-lyrics
 name: The Night
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 235506
 ---
 Well, here comes the night
 Its dark shadows passing over me

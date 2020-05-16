@@ -1,8 +1,11 @@
 ---
+album: Leisure
 artists:
 - Blur
+external_ids:
+  spotify: spotify:track:7qk4uPeLpaKhp8lwas1sBb
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-no-other-way-blur
 lyrics_url: https://genius.com/Blur-theres-no-other-way-lyrics
 name: There's No Other Way
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1991
+runtime: 204866
 ---
 You're taking the fun out of everything
 You're making me run when I don't want to think

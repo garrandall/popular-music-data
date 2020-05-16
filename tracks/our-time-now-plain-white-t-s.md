@@ -1,8 +1,11 @@
 ---
+album: Every Second Counts
 artists:
 - Plain White T's
+external_ids:
+  spotify: spotify:track:3CE3PYF64qJBjq54Uf9ZiW
 features: []
-genres: []
+first_released_as_single: false
 key: our-time-now-plain-white-t-s
 lyrics_url: https://genius.com/Plain-white-ts-our-time-now-lyrics
 name: Our Time Now
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2006
+runtime: 170213
 ---
 Oh oh oh oh
 

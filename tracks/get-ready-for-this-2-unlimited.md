@@ -1,8 +1,11 @@
 ---
+album: Greatest Remix Hits
 artists:
 - 2 Unlimited
+external_ids:
+  spotify: spotify:track:2P7L26IbmkrqxxtyP1CRRb
 features: []
-genres: []
+first_released_as_single: false
 key: get-ready-for-this-2-unlimited
 lyrics_url: https://www.azlyrics.com/lyrics/2unlimited/getreadyforthis.html
 name: Get Ready For This
@@ -143,8 +146,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1992
+runtime: 327586
 ---
-
 Ya'll ready for this?
 
 Get down with the sound, house on the ground
@@ -193,6 +197,3 @@ We're 2 Unlimited, so people won't you sit?
 Moving up and down, dancing all around
 Feeling kinda free; security
 House is sound that moves you from the ground
-
-
-

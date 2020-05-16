@@ -1,8 +1,11 @@
 ---
+album: Everything
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:6BsXgrxQViV3PdAjS13uWZ
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-room-the-bangles
 lyrics_url: https://www.azlyrics.com/lyrics/bangles/inyourroom.html
 name: In Your Room
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 207533
 ---
-
 I love it in your room at night
 You're the only one who gets through to me
 In the warm glow of the candlelight
@@ -133,6 +137,3 @@ In your room, in your room.
 (In your room...in your room)
 (In your room...in your room)
 (In your room).
-
-
-

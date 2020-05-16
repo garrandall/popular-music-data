@@ -1,9 +1,12 @@
 ---
+album: Latin World Hip Hop Reloaded 1
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:5fngnkVw7i77dqLO346hsr
 features:
 - Lil Jon
-genres: []
+first_released_as_single: true
 key: krazy-pitbull-lil-jon
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/krazy.html
 name: Krazy
@@ -84,9 +87,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 228649
 ---
-
-
 Boom Boom I'mma make em go KRAZY...
 Hey Hey Let's do it again Baby...Let's Do it...
 Boom Boom I'mma make em go KRAZY...
@@ -242,6 +245,3 @@ Boom Boom I'mma make em go KRAZY...
 Boom Boom I'mma make em go KRAZY...
 Boom Boom I'mma make em go KRAZY...
 Boom Boom I'mma make em go KRAZY...
-
-
-

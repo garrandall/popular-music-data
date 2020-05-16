@@ -1,8 +1,11 @@
 ---
+album: Mr. A-Z
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:3qBaCCsAJGkSJc8XBui6Mp
 features: []
-genres: []
+first_released_as_single: false
 key: wordplay-jason-mraz
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmraz/wordplay.html
 name: Wordplay
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2005
+runtime: 186506
 ---
-
 I've been all around the world
 I've been a new sensation
 But it doesn't really matter
@@ -115,6 +119,3 @@ Because, because
 The oh's and ah's and fa-la-la's fall back in love
 For the Mister A to Z they say
 Is all about the wordplay
-
-
-

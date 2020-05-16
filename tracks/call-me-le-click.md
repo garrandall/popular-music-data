@@ -1,8 +1,11 @@
 ---
+album: Le Click feat. Kayo
 artists:
 - Le Click
+external_ids:
+  spotify: spotify:track:6HfxbPl1fj8SQO1LlHrntC
 features: []
-genres: []
+first_released_as_single: true
 key: call-me-le-click
 lyrics_url: https://genius.com/Le-click-call-me-lyrics
 name: Call Me
@@ -107,6 +110,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 225400
 ---
 Call me when you're down
 Call me when you need someone

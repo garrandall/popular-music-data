@@ -1,8 +1,11 @@
 ---
+album: JEKYLL + HYDE
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:1qwnPVOIJjAFfCc40Etb1D
 features: []
-genres: []
+first_released_as_single: false
 key: homegrown-zac-brown-band
 lyrics_url: https://genius.com/Zac-brown-band-homegrown-lyrics
 name: Homegrown
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2015
+runtime: 205000
 ---
 I got a piece of land out in the countryside
 Lay back and smell the sun warm up the Georgia pine

@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:4lNmMfDeRnciGAYqhxrL49
 features: []
-genres: []
+first_released_as_single: false
 key: -the-bees-are-for-the-birds--the-birds-are-for-the-bees-the-newbeats
 lyrics_url: https://genius.com/The-newbeats-the-birds-are-for-the-bees-lyrics
 name: (The Bees Are For The Birds) The Birds Are For The Bees
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 135720
 ---
 Grownups tell me
 The birds and the bees

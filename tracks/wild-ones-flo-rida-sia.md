@@ -1,9 +1,12 @@
 ---
+album: Wild Ones
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:5Z7ygHQo02SUrFmcgpwsKW
 features:
 - Sia
-genres: []
+first_released_as_single: true
 key: wild-ones-flo-rida-sia
 lyrics_url: https://www.azlyrics.com/lyrics/florida/wildones.html
 name: Wild Ones
@@ -152,9 +155,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2011
+runtime: 233688
 ---
-
-
 Hey I heard you are a wild one
 Oh
 If I took you home
@@ -264,6 +267,3 @@ I am a wild one
 Tame me now
 Running with wolves
 And I'm on the prowl
-
-
-

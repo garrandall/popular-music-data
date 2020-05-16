@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1957-62
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:4YDV8fPzCCpghxuy0beu4P
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-feeling--called-love--jack-scott
 lyrics_url: https://genius.com/Jack-scott-a-little-feeling-called-love-lyrics
 name: A Little Feeling (Called Love)
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 163733
 ---
 A little feeling
 That comes and goes

@@ -1,8 +1,11 @@
 ---
+album: Sinatra's Sinatra
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:7qWS5jHm5I5wJtsbchm7YL
 features: []
-genres: []
+first_released_as_single: false
 key: pocketful-of-miracles-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/pocketfulofmiracles.html
 name: Pocketful Of Miracles
@@ -39,8 +42,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 158933
 ---
-
 Pee-rac-ti-cal-I-ty de-us-n't int'rest me, love the life that I lead.
 I've got a pocketful of miracles, and with a pocketful of miracles,
 One miracle a day is all I need!
@@ -52,6 +56,3 @@ I feel so good, it's Christmas every day! Lee-ife's a carousel, fee-ar as I can 
 And I'm riding for free.
 I've got a pocketful of miracles, but if I had to pick a miracle,
 My favorite miracle of all is you love me.
-
-
-

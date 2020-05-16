@@ -1,10 +1,13 @@
 ---
+album: Go Stupid
 artists:
 - Polo G
+external_ids:
+  spotify: spotify:track:74fV8TuLZKVzSIOOGu8wwI
 features:
 - NLE Choppa
 - Stunna 4 Vegas
-genres: []
+first_released_as_single: true
 key: go-stupid-polo-g-nle-choppa-stunna-4-vegas
 lyrics_url: https://www.azlyrics.com/lyrics/polog/gostupid.html
 name: Go Stupid
@@ -25,8 +28,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 165726
 ---
-
 Ayy
 Gang, gang, gang, gang
 (Mike Will Made it)
@@ -127,6 +131,3 @@ Whole gang we strapped, don't test us
 In the lead, I'm top shotta
 Don dada, got the bombs like I'm Gaza
 Yeah, yeah, yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Save the Dancer
 artists:
 - Gene Cotton
+external_ids:
+  spotify: spotify:track:2ua7lj8QKEIpvoeB4yfiAf
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-sunday-in-salem--the-amos---andy-song--gene-cotton
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Cotton/Like-a-Sunday-in-Salem
 name: Like A Sunday In Salem (The Amos & Andy Song)
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 254600
 ---
 There was a lights out television show
 There was an Amos and Andy on the radio
@@ -55,7 +60,7 @@ Sayin' "everybody here got to go"
 Sayin' "everybody here got to go"
 There were some people out in Hollywood
 The words they had spoken it was well understood
-But three thousand miles and for ev'ryone's good
+But three thousand miles and for everyone's good
 A man stood singing his song
 Dancin' around all the tombstones he said
 "That a man if he's livin' would rather be dead"

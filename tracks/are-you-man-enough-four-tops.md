@@ -1,8 +1,11 @@
 ---
+album: Main Street People
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6DdWSQJNCQuQjXJQBHXTz0
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-man-enough-four-tops
 lyrics_url: https://genius.com/The-four-tops-are-you-man-enough-lyrics
 name: Are You Man Enough
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 207146
 ---
 That's not a street that you can walk
 You gotta watch just who you're talking to

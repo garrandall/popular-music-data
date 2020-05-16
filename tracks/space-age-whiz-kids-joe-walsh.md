@@ -1,8 +1,11 @@
 ---
+album: You Bought It - You Name It
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:0jgcFIVpI36Q1ieSlAXFv1
 features: []
-genres: []
+first_released_as_single: false
 key: space-age-whiz-kids-joe-walsh
 lyrics_url: https://www.azlyrics.com/lyrics/joewalsh/spaceagewhizkids.html
 name: Space Age Whiz Kids
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1983
+runtime: 220760
 ---
-
 I used to play that pinball, I used to go outside
 I had to spend my money, get on your bus and ride
 I used to go out dancing, put on my high-heeled shoes
@@ -78,6 +82,3 @@ Space age whiz kids, Space age whiz kids
 I like space age whiz kids
 I like...I need...I need quarters...quarters!
 Give me quarters! I like quarters!
-
-
-

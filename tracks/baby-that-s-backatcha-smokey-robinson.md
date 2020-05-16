@@ -1,8 +1,11 @@
 ---
+album: A Quiet Storm
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:6Og4RxasYLlzXUlhbvoGzh
 features: []
-genres: []
+first_released_as_single: false
 key: baby-that-s-backatcha-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/babythatsbackatcha.html
 name: Baby That's Backatcha
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1975
+runtime: 228546
 ---
-
 I put a song in your heart, so you say
 Sing it out, let the world know what it's all about
 If I make it possible for the impossible
@@ -83,6 +87,3 @@ So when you feel it, don't try to conceal it, no
 Just let it happen for you
 
 Baby, that's backatcha
-
-
-

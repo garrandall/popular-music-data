@@ -1,8 +1,11 @@
 ---
+album: Break the Cycle
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:0x8Q7d0dzJ3XAHE7vZLX3I
 features: []
-genres: []
+first_released_as_single: false
 key: believe-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/believe.html
 name: Believe
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2001
+runtime: 167933
 ---
-
 I sit alone and watch the clock
 Trying to collect my thoughts
 All I think about is you
@@ -76,6 +80,3 @@ Believe in me
 This life is not always what it seems
 Believe in me
 Cause I was made for chasing dreams
-
-
-

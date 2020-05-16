@@ -1,8 +1,11 @@
 ---
+album: Angel Station
 artists:
 - Manfred Mann's Earth Band
+external_ids:
+  spotify: spotify:track:4syCYjXifmtvGI5tDDmstN
 features: []
-genres: []
+first_released_as_single: false
 key: you-angel-you-manfred-mann-s-earth-band
 lyrics_url: https://www.musixmatch.com/lyrics/Manfred-Mann-s-Earth-Band/You-Angel-You
 name: You Angel You
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 242226
 ---
 You angel you
 You got me under your wing

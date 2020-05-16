@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5THUK7wGMc21N80a8EFSF2
 features: []
-genres: []
+first_released_as_single: false
 key: many-tears-ago-connie-francis
 lyrics_url: https://genius.com/Connie-francis-many-tears-ago-lyrics
 name: Many Tears Ago
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 115066
 ---
 They said your cheating heart will make me cry
 And like a fool I gave it a try

@@ -1,8 +1,11 @@
 ---
+album: Real Talk (Explicit U.S. Version)
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:7fuoqve1SOEBmhc2PoQTF0
 features: []
-genres: []
+first_released_as_single: false
 key: breathe-fabolous
 lyrics_url: https://genius.com/Fabolous-breathe-lyrics
 name: Breathe
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 2004
+runtime: 268960
 ---
 Woo, woo, woo
 Breathe

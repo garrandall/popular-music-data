@@ -1,10 +1,13 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:6jin465re80co3DeK8hsns
 features:
 - Eminem
 - 50 Cent
-genres: []
+first_released_as_single: true
 key: remember-the-name-ed-sheeran-eminem-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/rememberthename.html
 name: Remember The Name
@@ -13,9 +16,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 207760
 ---
-
-
 Yeah I was born a misfit, grew up ten miles from the town of Ipswich
 Wanted to make it big I wished it to existence
 I never was a sick kid, always dismissed quick
@@ -109,6 +112,3 @@ But it's 'bout time you remember the name
 Aye-aye, aye-aye
 
 (Hey, hey, hey)
-
-
-

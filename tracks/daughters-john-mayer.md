@@ -1,8 +1,11 @@
 ---
+album: Heavier Things
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:5FPnjikbwlDMULCCCa6ZCJ
 features: []
-genres: []
+first_released_as_single: false
 key: daughters-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/daughters.html
 name: Daughters
@@ -99,8 +102,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2003
+runtime: 237906
 ---
-
 I know a girl
 She puts the color inside of my world
 But she's just like a maze
@@ -143,6 +147,3 @@ Girls become lovers who turn into mothers
 So mothers, be good to your daughters too
 So mothers, be good to your daughters too
 So mothers, be good to your daughters too
-
-
-

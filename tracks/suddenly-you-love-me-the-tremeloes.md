@@ -1,8 +1,11 @@
 ---
+album: Even The Bad Times Are Good
 artists:
 - The Tremeloes
+external_ids:
+  spotify: spotify:track:3vWuaWqY6vzsyWF61AE3WG
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-you-love-me-the-tremeloes
 lyrics_url: https://genius.com/The-tremeloes-suddenly-you-love-me-lyrics
 name: Suddenly You Love Me
@@ -47,6 +50,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1967
+runtime: 165026
 ---
 Oh! There's never been a woman who could treat me like you do
 Who could trample on my pride and play around as much as you

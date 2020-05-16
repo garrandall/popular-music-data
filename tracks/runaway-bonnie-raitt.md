@@ -1,8 +1,11 @@
 ---
+album: Sweet Forgiveness
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:7ldCklGtxrVxpmdt1el897
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-bonnie-raitt
 lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/runaway.html
 name: Runaway
@@ -55,8 +58,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1977
+runtime: 235773
 ---
-
 As I walk along I wonder what went wrong
 With our love, a love that was so strong
 And as still walk on I think of the things we've done
@@ -68,6 +72,3 @@ And I wonder, I wo wo wo wo wonder
 Why, why why why why why she (you) ran away
 And I wonder where she (you) will stay
 My little runaway, a run run run run runaway
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sheltering Tree
 artists:
 - NewSong
+external_ids:
+  spotify: spotify:track:6F2fBbJN8jsxbARj9xvbKe
 features: []
-genres: []
+first_released_as_single: false
 key: the-christmas-shoes-newsong
 lyrics_url: https://www.azlyrics.com/lyrics/newsong/thechristmasshoes.html
 name: The Christmas Shoes
@@ -15,8 +18,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
+release_year: 2000
+runtime: 291000
 ---
-
 It was almost Christmas time
 And there I stood in another line
 Trying to buy that last gift or two
@@ -64,6 +68,3 @@ I knew I'd caught a glimpse of heaven's love as he thanked me and ran out
 I knew that God had sent me that little boy to remind me what Christmas is all about
 
 I want her to look beautiful if mama meets Jesus tonight
-
-
-

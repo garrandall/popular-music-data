@@ -1,8 +1,11 @@
 ---
+album: 'Club Epic - A Collection Of Classic Dance Mixes: Volume 4'
 artists:
 - Lil Louis
+external_ids:
+  spotify: spotify:track:7hnqJYCKZFW7vMoykaraZG
 features: []
-genres: []
+first_released_as_single: false
 key: french-kiss-lil-louis
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Louis-2/French-Kiss
 name: French Kiss
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 591733
 ---
 LIL' ROMEO
 Miscellaneous

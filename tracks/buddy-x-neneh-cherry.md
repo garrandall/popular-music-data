@@ -1,8 +1,11 @@
 ---
+album: Homebrew
 artists:
 - Neneh Cherry
+external_ids:
+  spotify: spotify:track:23Lr7C7wMMeIOJK3ZVYMe5
 features: []
-genres: []
+first_released_as_single: false
 key: buddy-x-neneh-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/buddyx.html
 name: Buddy X
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
+release_year: 1992
+runtime: 169000
 ---
-
 Call yourself a family man
 Talking 'bout the families plan
 To bring the sweet talk deep and down
@@ -94,6 +98,3 @@ Buddy my friend
 Treat her that way
 And you'll be X-D soon
 Buddy X-D soon
-
-
-

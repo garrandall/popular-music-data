@@ -1,8 +1,11 @@
 ---
+album: Animal Tracks
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:3NnfJ0a4bGjmEGuOrX2ujS
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-life-the-animals
 lyrics_url: https://genius.com/The-animals-its-my-life-lyrics
 name: It's My Life
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1965
+runtime: 186333
 ---
 It's a hard world to get a break in
 All the good things have been taken

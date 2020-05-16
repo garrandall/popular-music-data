@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Shirelles
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:50l1yYCJa0senClZpU2gPq
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-you-re-gonna-fall-in-love-with-me-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-tonight-youre-gonna-fall-in-love-with-me-lyrics
 name: Tonight You're Gonna Fall In Love With Me
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1964
+runtime: 124853
 ---
 They say that you will never settle down
 They say that you just have to run around

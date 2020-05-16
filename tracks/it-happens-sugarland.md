@@ -1,8 +1,11 @@
 ---
+album: Love On The Inside
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:1I66zFfRohnb8kwJV3vrV4
 features: []
-genres: []
+first_released_as_single: false
 key: it-happens-sugarland
 lyrics_url: https://genius.com/Sugarland-it-happens-lyrics
 name: It Happens
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2008
+runtime: 181253
 ---
 Missed my alarm clock ringing
 Woke up, telephone screaming

@@ -1,8 +1,11 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:4Y89J1aWI0yZTQCDFA9OWW
 features: []
-genres: []
+first_released_as_single: false
 key: jump-out-the-window-big-sean
 lyrics_url: https://genius.com/Big-sean-jump-out-the-window-lyrics
 name: Jump Out The Window
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 213693
 ---
 I think I’m ready to jump out the window
 And turn that nigga that you with right back into your friend, though

@@ -1,8 +1,11 @@
 ---
+album: Jim Reeves on Stage (Live)
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:3o3sFawONCCfri23KX76qD
 features: []
-genres: []
+first_released_as_single: false
 key: the-blizzard-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/theblizzard.html
 name: The Blizzard
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
+release_year: 1961
+runtime: 185933
 ---
-
 There's a blizzard coming on, how I'm wishing I was home
 For my pony's lame, and he can hardly stand
 Listen to that norther sigh, if we don't get home we'll die
@@ -58,6 +62,3 @@ He'd have made it but he just couldn't leave old Dan
 Yes, they found him there on the plains, his hands froze to the reins
 He was just a hundred yards form Mary Ann
 He was just a hundred yards from Mary Ann
-
-
-

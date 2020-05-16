@@ -1,8 +1,11 @@
 ---
+album: The Classic Roy Orbison
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:2GEW7EFcnqHqugI6KOSPm8
 features: []
-genres: []
+first_released_as_single: false
 key: twinkle-toes-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-twinkle-toes-lyrics
 name: Twinkle Toes
@@ -31,6 +34,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 156506
 ---
 Hey boys, gather round boys, the money's right
 Go down to low town for me tonight

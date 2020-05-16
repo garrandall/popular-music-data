@@ -1,8 +1,11 @@
 ---
+album: It's Better To Travel
 artists:
 - Swing Out Sister
+external_ids:
+  spotify: spotify:track:5JsIknb4lyIKQCytjv0Uw5
 features: []
-genres: []
+first_released_as_single: false
 key: breakout-swing-out-sister
 lyrics_url: https://www.azlyrics.com/lyrics/swingoutsister/breakout.html
 name: Breakout
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 226453
 ---
-
 And breakout
 
 When explanations make no sense
@@ -171,6 +175,3 @@ Breakout
 Lay down the law
 Shout out for more
 Breakout and shout day in day out
-
-
-

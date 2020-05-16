@@ -1,9 +1,12 @@
 ---
+album: Wild Life
 artists:
 - Jack
 - Jack
+external_ids:
+  spotify: spotify:track:5Nh8XViPuGZpPfAdcmcr5t
 features: []
-genres: []
+first_released_as_single: true
 key: wild-life-jack-jack
 lyrics_url: https://genius.com/Jack-and-jack-wild-life-lyrics
 name: Wild Life
@@ -12,6 +15,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2014
+runtime: 175885
 ---
 Wild like
 Wild life

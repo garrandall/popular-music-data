@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5ZBeML7Lf3FMEVviTyvi8l
 features: []
-genres: []
+first_released_as_single: false
 key: twist-and-shout-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/twistandshout.html
 name: Twist And Shout
@@ -111,8 +114,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1963
+runtime: 155226
 ---
-
 Well, shake it up, baby, now (Shake it up, baby)
 Twist and shout (Twist and shout)
 C'mon c'mon, c'mon, c'mon, baby, now (Come on baby)
@@ -146,6 +150,3 @@ And let me know that you're mine (Let me know you're mine)
 Well, shake it, shake it, shake it, baby, now (Shake it up baby)
 Well, shake it, shake it, shake it, baby, now (Shake it up baby)
 Well, shake it, shake it, shake it, baby, now (Shake it up baby)
-
-
-

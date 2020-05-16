@@ -1,9 +1,12 @@
 ---
+album: Dowdy Ferry Road
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:3zqvox7nyhykHe7WS8w9Rm
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-sad-to-belong-england-dan-john-ford-coley
 lyrics_url: https://www.azlyrics.com/lyrics/englanddanjohnfordcoley/itssadtobelong.html
 name: It's Sad To Belong
@@ -72,8 +75,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 173546
 ---
-
 Met you on a springtime day
 You were minding your life
 And I was minding mine, too
@@ -132,6 +136,3 @@ Yes, it's sad to belong to someone else
 When the right one comes along
 
 Yes, it's sad to belong to someone else
-
-
-

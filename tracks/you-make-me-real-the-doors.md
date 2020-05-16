@@ -1,8 +1,11 @@
 ---
+album: Morrison Hotel
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:1MR950KaknDDJ2PyU5NQDa
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-real-the-doors
 lyrics_url: https://genius.com/The-doors-you-make-me-real-lyrics
 name: You Make Me Real
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 171293
 ---
 I really want you
 Really do

@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2018
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:6uVzeU47Qzg0rrMneP5BNg
 features: []
-genres: []
+first_released_as_single: true
 key: love-ain-t-eli-young-band
 lyrics_url: https://genius.com/Eli-young-band-love-aint-lyrics
 name: Love Ain't
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 186118
 ---
 Hotels are made for two night stays, checking in and out
 Meeting strangers in the lobby

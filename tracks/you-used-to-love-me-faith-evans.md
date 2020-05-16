@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:0KhXVmAN4sqeEgsqRd39f2
 features: []
-genres: []
+first_released_as_single: false
 key: you-used-to-love-me-faith-evans
 lyrics_url: https://genius.com/Faith-evans-you-used-to-love-me-lyrics
 name: You Used To Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1995
+runtime: 269173
 ---
 I remember the way, you used to love me
 I remember the days, you used to love me

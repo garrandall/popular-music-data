@@ -1,8 +1,11 @@
 ---
+album: Business As Usual
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:29r3fDexnrto7WABfpblNH
 features: []
-genres: []
+first_released_as_single: false
 key: who-can-it-be-now--men-at-work
 lyrics_url: https://genius.com/Men-at-work-who-can-it-be-now-lyrics
 name: Who Can It Be Now?
@@ -115,6 +118,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1981
+runtime: 203266
 ---
 Who can it be knocking at my door?
 Go 'way, don't come 'round here no more

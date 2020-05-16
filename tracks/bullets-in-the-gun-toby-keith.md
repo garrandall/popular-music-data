@@ -1,8 +1,11 @@
 ---
+album: Bullets in the Gun
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:26bRcXA9qmivWYTPocMlfT
 features: []
-genres: []
+first_released_as_single: false
 key: bullets-in-the-gun-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/bulletsinthegun.html
 name: Bullets In The Gun
@@ -63,8 +66,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 256613
 ---
-
 They used to call me lightning
 I was always quick to strike
 Had everything I own
@@ -158,6 +162,3 @@ The bullets in the gun
 Bullets in the gun
 Bullets in the gun
 Bullets in the gun
-
-
-

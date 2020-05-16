@@ -1,8 +1,11 @@
 ---
+album: Jermaine Dupri Presents... Young, Fly & Flashy Vol. 1
 artists:
 - Jermaine Dupri
+external_ids:
+  spotify: spotify:track:5gOYXiA88QUy9DdWR4oNni
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-getcha-jermaine-dupri
 lyrics_url: https://www.azlyrics.com/lyrics/jermaineduprijd/gottagetcha.html
 name: Gotta Getcha
@@ -51,10 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 170933
 ---
-
-
-
 I been watching you for so damn long but I don't know what to say or do,
 I be sittin' around fantasizin' bout' what I wanna do to you,
 Here's somethin' about the way you move your body I can't take,
@@ -125,6 +127,3 @@ I gotta getcha getcha getcha getcha,
 I gotta getcha getcha getcha getcha,
 I gotta getcha getcha getcha getcha,
 If it's the last thing that I do.
-
-
-

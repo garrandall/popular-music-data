@@ -1,8 +1,11 @@
 ---
+album: Victory
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:4Ap0AgeFVJI0v254AjT3Rd
 features: []
-genres: []
+first_released_as_single: false
 key: state-of-shock-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-state-of-shock-lyrics
 name: State of Shock
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1979
+runtime: 340000
 ---
 Yeah, come on, baby
 

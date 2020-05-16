@@ -1,9 +1,12 @@
 ---
+album: The Hunter
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:6g2RtR71Qj12dKQIwPpFJc
 features: []
-genres: []
+first_released_as_single: false
 key: bold-soul-sister-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/boldsoulsister.html
 name: Bold Soul Sister
@@ -40,8 +43,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
+release_year: 1969
+runtime: 158507
 ---
-
 Hey! Uh!
 Things and stuff and stuff and things and stuff... Grease me!
 I'm a bold soul sister, B.S.S.! Ow!
@@ -70,6 +74,3 @@ Oh!
 (Do what you wanna, when you wanna, how you wanna, now - do your thing, soul sister...)
 (Do what you wanna, when you wanna, how you wanna, now - do your thing, soul sister...)
 (Do what you wanna, when you wanna, how you wanna, now - do your thing, soul sister...)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bon Jovi
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:5ponLS88v37duDQHewRDaX
 features: []
-genres: []
+first_released_as_single: false
 key: she-don-t-know-me-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-she-dont-know-me-lyrics
 name: She Don't Know Me
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1984
+runtime: 242400
 ---
 What more can I do, there's nothing I haven't tried
 Still it's so hard for her to notice

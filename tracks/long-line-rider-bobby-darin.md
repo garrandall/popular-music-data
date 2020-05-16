@@ -1,8 +1,11 @@
 ---
+album: Songs From Big Sur
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:6OU7pt11iGYyv9etnaToyH
 features: []
-genres: []
+first_released_as_single: false
 key: long-line-rider-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/longlinerider.html
 name: Long Line Rider
@@ -19,8 +22,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1969
+runtime: 179852
 ---
-
 Wettin' it down, boss
 Wet it down
 Wipin' it off, boss
@@ -83,6 +87,3 @@ I said, buddy, shake your gloom
 They're just here to make more room
 In the clay
 U.S.A
-
-
-

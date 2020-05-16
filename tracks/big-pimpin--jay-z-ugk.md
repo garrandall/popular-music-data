@@ -1,9 +1,12 @@
 ---
+album: Volume. 3... Life and Times of S. Carter
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:7m97yKVzPpXV9Z4ezEziOD
 features:
 - UGK
-genres: []
+first_released_as_single: false
 key: big-pimpin--jay-z-ugk
 lyrics_url: https://genius.com/Jay-z-big-pimpin-lyrics
 name: Big Pimpin'
@@ -88,6 +91,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
+release_year: 1999
+runtime: 283066
 ---
 Uh, uh uh uh
 It's big pimpin' baby (That's right)

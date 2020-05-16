@@ -1,8 +1,11 @@
 ---
+album: 808s & Heartbreak
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1kxeWHF9PrCVZHvVskv8lg
 features: []
-genres: []
+first_released_as_single: false
 key: love-lockdown-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/lovelockdown.html
 name: Love Lockdown
@@ -99,8 +102,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 270306
 ---
-
 I'm not loving you, way I wanted to
 What I had to do, had to run from you
 I'm in love with you, but the vibe is wrong
@@ -170,6 +174,3 @@ You lose
 You lose
 You lose
 You lose
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Madness, Money and Music
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:4KEl4FRuvHnqVqgrYzEVp8
 features: []
-genres: []
+first_released_as_single: false
 key: machinery-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/machinery.html
 name: Machinery
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-10-16'
+release_year: 1982
+runtime: 178120
 ---
-
 Waiting for the peace of the night to be shattered
 I do believe my illusions are in tatters
 When I see the pale moonlight in the sky
@@ -57,4 +61,3 @@ I wanna give it hell, and behave just like a gonner
 I wanna stay and reduce the things I wanna
 When I see the pale moonlight in the sky, I know
 Hes got the power to hit it!
-

@@ -1,8 +1,11 @@
 ---
+album: Sings All Originals
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:1OUuxIOvdDjlzYHgxOfASI
 features: []
-genres: []
+first_released_as_single: false
 key: take-my-love--i-want-to-give-it-all-to-you--little-willie-john
 lyrics_url: https://genius.com/Little-willie-john-take-my-love-i-want-to-give-it-all-to-you-lyrics
 name: Take My Love (I Want To Give It All To You)
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 123007
 ---
 My love, my love, take my love
 

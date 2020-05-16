@@ -1,8 +1,11 @@
 ---
+album: Back Stabbers
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:0KpMY3D2G8253VTZbDBUmA
 features: []
-genres: []
+first_released_as_single: false
 key: back-stabbers-the-o-jays
 lyrics_url: https://genius.com/The-ojays-back-stabbers-lyrics
 name: Back Stabbers
@@ -67,6 +70,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 186093
 ---
 (What they do?)
 (They smilin' in your face)

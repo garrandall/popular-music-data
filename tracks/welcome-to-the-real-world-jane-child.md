@@ -1,8 +1,11 @@
 ---
+album: Jane Child
 artists:
 - Jane Child
+external_ids:
+  spotify: spotify:track:37o0UBywazf2Xcy3297Que
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-the-real-world-jane-child
 lyrics_url: https://genius.com/Jane-child-welcome-to-the-real-world-lyrics
 name: Welcome To The Real World
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1989
+runtime: 299640
 ---
 Fact is often
 Much stranger than fiction

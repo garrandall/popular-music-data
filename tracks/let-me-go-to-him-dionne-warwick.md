@@ -1,8 +1,11 @@
 ---
+album: I'll Never Fall In Love Again
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4xNaafNxNUJDOibIjR9ozV
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-to-him-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/letmegotohim.html
 name: Let Me Go To Him
@@ -35,8 +38,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 231506
 ---
-
 He needs me more than you do
 And I know that he loves me
 You never have
@@ -58,4 +62,3 @@ You're never there
 And lately we're never together
 Half the time you don't call
 That's no life at all
-

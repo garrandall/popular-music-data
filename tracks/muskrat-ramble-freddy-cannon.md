@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:5tayxTorhNcu0Ovz70VqOF
 features: []
-genres: []
+first_released_as_single: false
 key: muskrat-ramble-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-muskrat-ramble-lyrics
 name: Muskrat Ramble
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1961
+runtime: 148400
 ---
 A-look at them shuffle
 And a-shufflin' down

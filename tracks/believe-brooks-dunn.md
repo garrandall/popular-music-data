@@ -1,9 +1,12 @@
 ---
+album: Red Dirt Road
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:40recgZMmqVOOptA4wyWbJ
 features: []
-genres: []
+first_released_as_single: false
 key: believe-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/believe.html
 name: Believe
@@ -88,8 +91,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2003
+runtime: 227626
 ---
-
 Old man Wrigley lived in that white house
 Down the street where I grew up
 Momma used to send me over with things
@@ -145,6 +149,3 @@ I believe
 I believe
 I believe
 I believe
-
-
-

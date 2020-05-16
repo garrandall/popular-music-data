@@ -1,9 +1,12 @@
 ---
+album: Pop Masters
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:5qHp6VZFrrDodCgm6z1sMM
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/cupid.html
 name: Cupid
@@ -44,8 +47,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1976
+runtime: 187440
 ---
-
 Cupid draw back your bow
 And let your arrow go
 Straight to my lover's heart for me
@@ -87,6 +91,3 @@ Calling you
 I need you
 Cupid
 Help me
-
-
-

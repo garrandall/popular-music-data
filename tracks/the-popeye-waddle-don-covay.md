@@ -1,8 +1,11 @@
 ---
+album: Top Teen Dance Hits (1958-1964)
 artists:
 - Don Covay
+external_ids:
+  spotify: spotify:track:44H059CRuA0xDbyPhCsMpl
 features: []
-genres: []
+first_released_as_single: false
 key: the-popeye-waddle-don-covay
 lyrics_url: https://www.musixmatch.com/lyrics/Don-Covay/The-Popeye-Waddle
 name: The Popeye Waddle
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 148600
 ---
 (Can you do the Popeye)
 I'm trying that now

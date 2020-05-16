@@ -1,8 +1,11 @@
 ---
+album: Blue F10
 artists:
 - Redeye
+external_ids:
+  spotify: spotify:track:6KehfDs7TDW47HIF66g9Dd
 features: []
-genres: []
+first_released_as_single: false
 key: games-redeye
 lyrics_url: https://genius.com/Red-eye-games-lyrics
 name: Games
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1970
+runtime: 206001
 ---
 See how they run
 Taking a ride on an everyday fight to nowhere

@@ -1,8 +1,11 @@
 ---
+album: Fame (Original Motion Picture Soundtrack)
 artists:
 - Irene Cara
+external_ids:
+  spotify: spotify:track:5CI1FP2Volc9wjz2MBZsGx
 features: []
-genres: []
+first_released_as_single: false
 key: fame-irene-cara
 lyrics_url: https://www.azlyrics.com/lyrics/irenecara/fame.html
 name: Fame
@@ -111,8 +114,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 316066
 ---
-
 Baby, look at me
 And tell me what do you see?
 You ain't seen the best of me yet
@@ -210,6 +214,3 @@ Fame
 People will see me and cry
 Fame
 I'm gonna make it to heaven
-
-
-

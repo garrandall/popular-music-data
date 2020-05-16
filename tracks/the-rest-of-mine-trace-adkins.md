@@ -1,8 +1,11 @@
 ---
+album: Big Time
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:0VNcARNLNJmCnDEdFInDAm
 features: []
-genres: []
+first_released_as_single: false
 key: the-rest-of-mine-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/therestofmine.html
 name: The Rest Of Mine
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1997
+runtime: 193293
 ---
-
 There's no guarantee that we'll see tomorrow
 Heaven only knows how long we have
 So there's no way I'll ever for one second let you wonder
@@ -94,6 +98,3 @@ But I swear I'll love you for the rest of mine
 
 No I can't swear that I'll be here for the rest of your life
 But I swear I'll love you for the rest of mine
-
-
-

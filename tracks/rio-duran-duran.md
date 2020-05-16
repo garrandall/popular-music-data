@@ -1,8 +1,11 @@
 ---
+album: Rio
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:43eBgYRTmu5BJnCJDBU5Hb
 features: []
-genres: []
+first_released_as_single: false
 key: rio-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/rio.html
 name: Rio
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1982
+runtime: 337333
 ---
-
 Moving on the floor now babe you're a bird of paradise
 Cherry ice cream smile I suppose it's very nice
 With a step to your left and a flick to the right you catch that mirror way out west
@@ -96,6 +100,3 @@ And I might find her if I'm looking like I can
 Oh Rio, Rio hear them shout across the land
 From mountains in the north down to the Rio Grande
 Do do do do do do do do do do do do do do do do do do do do do do
-
-
-

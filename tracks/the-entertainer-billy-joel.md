@@ -1,8 +1,11 @@
 ---
+album: Streetlife Serenade
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:60m29Z8TtocKOqDlQEbwUS
 features: []
-genres: []
+first_released_as_single: false
 key: the-entertainer-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/theentertainer.html
 name: The Entertainer
@@ -47,8 +50,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 221040
 ---
-
 I am the entertainer
 And I know just where I stand
 Another serenader
@@ -121,6 +125,3 @@ I may have won your hearts
 But I know the game, you'll forget my name
 I won't be here in another year
 If I don't stay on the charts
-
-
-

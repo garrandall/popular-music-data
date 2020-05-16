@@ -1,9 +1,12 @@
 ---
+album: A Year Without Rain
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:1r0XfrhdG6bsiS4oe1QM96
 features: []
-genres: []
+first_released_as_single: false
 key: a-year-without-rain-selena-gomez-the-scene
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomezthescene/ayearwithoutrain.html
 name: A Year Without Rain
@@ -40,8 +43,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 234333
 ---
-
 Ohoh oh
 Ohoh oh
 
@@ -94,6 +98,3 @@ But a day without you is like a year without rain (oh, whoa)
 
 Ohoh oh
 Ohoh oh
-
-
-

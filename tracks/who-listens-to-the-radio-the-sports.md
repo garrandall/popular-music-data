@@ -1,8 +1,11 @@
 ---
+album: The Monsters of Power Pop
 artists:
 - The Sports
+external_ids:
+  spotify: spotify:track:2V0iEcZ8r4OEBuyXro3lUr
 features: []
-genres: []
+first_released_as_single: false
 key: who-listens-to-the-radio-the-sports
 lyrics_url: https://genius.com/The-sports-aus-who-listens-to-the-radio-lyrics
 name: Who Listens To The Radio
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-11-24'
+release_year: 1979
+runtime: 195760
 ---
 This girl in her bedroom doing her homework
 She's foolin' with the logarithms, she's going berserk

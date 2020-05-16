@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:7GyOQEsN2UdEYOnCJHGaTv
 features: []
-genres: []
+first_released_as_single: false
 key: north-to-alaska-johnny-horton
 lyrics_url: https://genius.com/Johnny-horton-north-to-alaska-lyrics
 name: North To Alaska
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1954
+runtime: 166600
 ---
 Way up north (north to Alaska)
 Way up north (north to Alaska)

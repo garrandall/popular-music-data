@@ -1,8 +1,11 @@
 ---
+album: King Of The Blues Guitar (Deluxe Version)
 artists:
 - Albert King
+external_ids:
+  spotify: spotify:track:6E77pjDezszTn0zaoKmtOl
 features: []
-genres: []
+first_released_as_single: false
 key: cold-feet-albert-king
 lyrics_url: https://www.azlyrics.com/lyrics/albertking/coldfeet.html
 name: Cold Feet
@@ -23,8 +26,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1968
+runtime: 164951
 ---
-
 They keep raisin' sand about playing this chord
 He ain't hitting the B flat right
 I'm a make a hit
@@ -55,6 +59,3 @@ Hey, ohwee
 
 If you hear a little fuss
 It ain't nobody but us
-
-
-

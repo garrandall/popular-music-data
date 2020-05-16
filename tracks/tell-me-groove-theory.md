@@ -1,8 +1,11 @@
 ---
+album: Groove Theory
 artists:
 - Groove Theory
+external_ids:
+  spotify: spotify:track:3D1dAtPMb1c52MgcN6LUeq
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-groove-theory
 lyrics_url: https://www.azlyrics.com/lyrics/groovetheory/tellme.html
 name: Tell Me
@@ -139,8 +142,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1996-04-06'
+release_year: 1993
+runtime: 233560
 ---
-
 I've been doing my own thing
 Love has always had a way of having bad timing
 But to my great surprise, ever since I looked in your eyes
@@ -167,4 +171,3 @@ Sweetheart, now it's time I let you know
 I don't wanna rush, we should take it slow
 Boy, I can love you, can you help me grow
 Give me a new beginning and I'll give you a happy ending
-

@@ -1,8 +1,11 @@
 ---
+album: Live At P.J.'s
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:3bPn6Tlr5JqlWls3oQ61BQ
 features: []
-genres: []
+first_released_as_single: false
 key: make-the-world-go-away-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-make-the-world-go-away-lyrics
 name: Make The World Go Away
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 231586
 ---
 Make the world go away
 Get it off my shoulder

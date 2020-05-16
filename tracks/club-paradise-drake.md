@@ -1,8 +1,11 @@
 ---
+album: Care Package
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6MR5IBSNfDmiwnrlQpVw4w
 features: []
-genres: []
+first_released_as_single: false
 key: club-paradise-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/clubparadise.html
 name: Club Paradise
@@ -11,9 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 283816
 ---
-
-
 They say that all of yo old girls got somebody new
 I say, "damn really? even Rosemary? even Leanne Seely? "
 They said, "fuckin right, they were the 1st to go
@@ -105,4 +108,3 @@ I can just read your mind
 You think I'm so caught up in where,
 I am right now
 But believe I remember it all
-

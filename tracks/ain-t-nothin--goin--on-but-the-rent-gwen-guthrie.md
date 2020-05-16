@@ -1,8 +1,11 @@
 ---
+album: Good To Go Lover
 artists:
 - Gwen Guthrie
+external_ids:
+  spotify: spotify:track:4De6tTVXe0N3V0OPOmkvT3
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nothin--goin--on-but-the-rent-gwen-guthrie
 lyrics_url: https://genius.com/Gwen-guthrie-aint-nothin-goin-on-but-the-rent-lyrics
 name: Ain't Nothin' Goin' On But The Rent
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 359560
 ---
 Bill collector's at my door
 What can you do for me? Hey!

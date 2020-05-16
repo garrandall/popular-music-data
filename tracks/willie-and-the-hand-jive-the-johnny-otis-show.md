@@ -1,8 +1,11 @@
 ---
+album: The Capitol Years
 artists:
 - The Johnny Otis Show
+external_ids:
+  spotify: spotify:track:4ToAe9XCKjFGin2Qfswwis
 features: []
-genres: []
+first_released_as_single: false
 key: willie-and-the-hand-jive-the-johnny-otis-show
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Otis-Show/Willie-And-The-Hand-Jive
 name: Willie And The Hand Jive
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1958-10-06'
+release_year: 1958
+runtime: 154733
 ---
 I know a cat named Way Out Willie
 He's got a cool little chick named Rockin' Millie

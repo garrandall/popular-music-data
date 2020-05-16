@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5iaPhRuBYqeCHbCOpOlvx5
 features: []
-genres: []
+first_released_as_single: false
 key: uptown-girl-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/uptowngirl.html
 name: Uptown Girl
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 180706
 ---
-
 Oh, Oh
 
 Uptown girl
@@ -73,6 +77,3 @@ She's my uptown girl
 You know I'm in love
 
 With an uptown girl
-
-
-

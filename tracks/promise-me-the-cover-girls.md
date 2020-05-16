@@ -1,8 +1,11 @@
 ---
+album: Show Me
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:0QciY6CzknfKHZD9h0Oahg
 features: []
-genres: []
+first_released_as_single: false
 key: promise-me-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-promise-me-lyrics
 name: Promise Me
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-07-30'
+release_year: 1987
+runtime: 418906
 ---
 It's been so very long
 Since you held me in your arms this way

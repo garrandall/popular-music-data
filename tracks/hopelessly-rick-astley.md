@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:2sZX1XaQOGaOZEQLCzRkCU
 features: []
-genres: []
+first_released_as_single: false
 key: hopelessly-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/hopelessly.html
 name: Hopelessly
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
+release_year: 1993
+runtime: 215133
 ---
-
 I walk the wire every night
 I can't decide between wrong and right
 I've lost control over the things I do
@@ -117,6 +121,3 @@ And I don't care about the things I could lose
 I'm not gonna fight it, I'm gonna choose
 To hopelessly fall, oh yeah
 You know I'll hopelessly fall in love, with you.
-
-
-

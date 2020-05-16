@@ -1,8 +1,11 @@
 ---
+album: Jailbreak
 artists:
 - Thin Lizzy
+external_ids:
+  spotify: spotify:track:2H82AQCQNc4TH2yVcYKIID
 features: []
-genres: []
+first_released_as_single: false
 key: cowboy-song-thin-lizzy
 lyrics_url: https://genius.com/Thin-lizzy-cowboy-song-lyrics
 name: Cowboy Song
@@ -39,6 +42,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-11-06'
+release_year: 1976
+runtime: 314440
 ---
 I am just a cowboy lonesome on the trail
 A starry night, a campfire light

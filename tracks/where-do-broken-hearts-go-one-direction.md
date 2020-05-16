@@ -1,8 +1,11 @@
 ---
+album: FOUR
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:6HFywc5eQYRRYHYTatCb5Y
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-broken-hearts-go-one-direction
 lyrics_url: https://www.musixmatch.com/lyrics/One-Direction/Where-Do-Broken-Hearts-Go
 name: Where Do Broken Hearts Go
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 229040
 ---
 Counted all my mistakes and there's only one
 Standing out from the list of the things I've done

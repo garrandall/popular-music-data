@@ -1,8 +1,11 @@
 ---
+album: '9'
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:6UL2RC5J2vMau9KOMKQfJg
 features: []
-genres: []
+first_released_as_single: false
 key: we-back-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-we-back-lyrics
 name: We Back
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 197160
 ---
 Where's the guy in the steel toes covered in dirt?
 Just a rock n' roll T-shirt, headed to work

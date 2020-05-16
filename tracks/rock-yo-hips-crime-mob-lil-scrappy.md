@@ -1,9 +1,12 @@
 ---
+album: Hated On Mostly
 artists:
 - Crime Mob
+external_ids:
+  spotify: spotify:track:5zlPQzcAVRaPW1qIIJmh95
 features:
 - Lil Scrappy
-genres: []
+first_released_as_single: true
 key: rock-yo-hips-crime-mob-lil-scrappy
 lyrics_url: https://www.azlyrics.com/lyrics/crimemob/rockyohips.html
 name: Rock Yo Hips
@@ -88,8 +91,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2006
+runtime: 228786
 ---
-
 Lil J on the track
 
 You already know
@@ -188,6 +192,3 @@ She rock her hips
 She rock her hips
 I like the way
 She rock her hips
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:4m7w2W776tlZ7xBqJPZOyq
 features: []
-genres: []
+first_released_as_single: false
 key: this-door-swings-both-ways-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/thisdoorswingsbothways.html
 name: This Door Swings Both Ways
@@ -39,8 +42,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 127800
 ---
-
 Everyone's life is bittersweet
 It's a door that opens wide
 And no man can call himself complete
@@ -82,6 +86,3 @@ Make the most of livin'
 If you're not prepared to die
 Make the most of livin'
 If you're not prepared to die
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Vinton
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:2Bw9DDKhseKHukQufooB3y
 features: []
-genres: []
+first_released_as_single: false
 key: no-arms-can-ever-hold-you-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/noarmscaneverholdyou.html
 name: No Arms Can Ever Hold You
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1969
+runtime: 151826
 ---
-
 No arms can ever hold you
 Like these arms of mine
 
@@ -52,6 +56,3 @@ My heart, my arms are yours
 Till the end of time
 No arms can ever hold you
 Like these arms of mine
-
-
-

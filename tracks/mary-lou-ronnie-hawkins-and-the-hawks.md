@@ -1,8 +1,11 @@
 ---
+album: A Ride with Ronnie Hawkins
 artists:
 - Ronnie Hawkins and The Hawks
+external_ids:
+  spotify: spotify:track:5umgscPuyTVCvSwWkyNhfU
 features: []
-genres: []
+first_released_as_single: false
 key: mary-lou-ronnie-hawkins-and-the-hawks
 name: Mary Lou
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 130680
 ---
 

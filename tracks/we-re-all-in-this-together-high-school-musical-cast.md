@@ -1,8 +1,11 @@
 ---
+album: 'High School Musical 3: Senior Year'
 artists:
 - High School Musical Cast
+external_ids:
+  spotify: spotify:track:0cqNGWvuukhCiKvEX7utys
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-all-in-this-together-high-school-musical-cast
 lyrics_url: https://genius.com/High-school-musical-cast-were-all-in-this-together-lyrics
 name: We're All In This Together
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
+release_year: 2006
+runtime: 231426
 ---
 Together, together, together everyone
 Together, together, come on, let's have some fun

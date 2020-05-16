@@ -1,8 +1,11 @@
 ---
+album: DECEMBERUNDERGROUND
 artists:
 - AFI
+external_ids:
+  spotify: spotify:track:0Ti2dlF2xLjXblvdU5fCxM
 features: []
-genres: []
+first_released_as_single: false
 key: miss-murder-afi
 lyrics_url: https://genius.com/Afi-miss-murder-lyrics
 name: Miss Murder
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2006
+runtime: 206586
 ---
 Hey, Miss Murder, can I?
 Hey, Miss Murder, can I?

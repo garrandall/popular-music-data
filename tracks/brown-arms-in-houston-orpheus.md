@@ -1,8 +1,11 @@
 ---
+album: Joyful
 artists:
 - Orpheus
+external_ids:
+  spotify: spotify:track:4HHoaK6OgwU2x9cUroZAA5
 features: []
-genres: []
+first_released_as_single: false
 key: brown-arms-in-houston-orpheus
 lyrics_url: https://www.musixmatch.com/lyrics/Orpheus/Brown-Arms-in-Houston
 name: Brown Arms In Houston
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 225306
 ---
 Names have held me in the gray light of dawn
 Before morning had come, after night time had gone

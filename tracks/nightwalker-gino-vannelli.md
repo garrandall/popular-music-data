@@ -1,8 +1,11 @@
 ---
+album: Nightwalker
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:1OMGjMyooYrLkK5VuhDAkk
 features: []
-genres: []
+first_released_as_single: false
 key: nightwalker-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/nightwalker.html
 name: Nightwalker
@@ -47,8 +50,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 307960
 ---
-
 I sleep at night
 On a cloud high on the horizon
 And when I close my eyes
@@ -89,6 +93,3 @@ I just run where my thoughts take me to
 Without love without you
 I walk the night
 I walk the night
-
-
-

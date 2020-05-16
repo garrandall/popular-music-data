@@ -1,8 +1,11 @@
 ---
+album: Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:7tLtIZclwLWk54PFAyDv5T
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-broken-hearts-go-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-where-do-broken-hearts-go-lyrics
 name: Where Do Broken Hearts Go
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1987
+runtime: 277600
 ---
 I know it's been some time
 But there's something on my mind

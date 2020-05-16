@@ -1,8 +1,11 @@
 ---
+album: Songs In A Minor
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:3unsLiH5FXmaDWtT5Imolu
 features: []
-genres: []
+first_released_as_single: false
 key: fallin--alicia-keys
 lyrics_url: https://genius.com/Alicia-keys-fallin-lyrics
 name: Fallin'
@@ -143,6 +146,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2001
+runtime: 210200
 ---
 I keep on fallin' in and outta love with you
 Sometimes I love ya, sometimes you make me blue

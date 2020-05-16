@@ -1,8 +1,11 @@
 ---
+album: The Coasters - 34 Massive Hits
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:1RgPcdzrllWUcaZNb28xNG
 features: []
-genres: []
+first_released_as_single: false
 key: charlie-brown-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/charliebrown.html
 name: Charlie Brown
@@ -67,8 +70,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 141000
 ---
-
 Fe-fe, fi-fi, fo-fo, fum
 I smell smoke in the auditorium
 
@@ -111,6 +115,3 @@ He's a clown, that Charlie Brown
 He's gonna get caught
 Just you wait and see
 (Why's everybody always pickin' on me)
-
-
-

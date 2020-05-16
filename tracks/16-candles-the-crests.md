@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Crests
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:53Xn5in3Ek5B9HAVNX07iR
 features: []
-genres: []
+first_released_as_single: false
 key: 16-candles-the-crests
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Maestro-The-Crests/16-Candles
 name: 16 Candles
@@ -91,6 +94,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1958
+runtime: 176706
 ---
 Happy birthday, happy birthday, baby
 Oh, I love you so

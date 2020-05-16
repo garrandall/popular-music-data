@@ -1,8 +1,11 @@
 ---
+album: Connected
 artists:
 - Stereo MC's
+external_ids:
+  spotify: spotify:track:68QlEZu3EtI5Bojo1mmwxE
 features: []
-genres: []
+first_released_as_single: false
 key: step-it-up-stereo-mc-s
 lyrics_url: https://genius.com/Stereo-mcs-step-it-up-lyrics
 name: Step It Up
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1992
+runtime: 301440
 ---
 To the left to the right
 Step it up, step it up it's alright

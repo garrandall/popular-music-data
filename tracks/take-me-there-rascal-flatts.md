@@ -1,8 +1,11 @@
 ---
+album: Still Feels Good
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:6xRMwzjtb7bEbDFYP97jQB
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-there-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-take-me-there-lyrics
 name: Take Me There
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2007-12-22'
+release_year: 2007
+runtime: 266586
 ---
 There's a place in your heart where nobody's been
 Take me there

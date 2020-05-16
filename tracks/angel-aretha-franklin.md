@@ -1,8 +1,11 @@
 ---
+album: Hey Now Hey (The Other Side Of The Sky)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1q8lKGydMVguWa1NXjlpGx
 features: []
-genres: []
+first_released_as_single: false
 key: angel-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/angel.html
 name: Angel
@@ -59,9 +62,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1972
+runtime: 215866
 ---
-
-
 I got a call the other day
 It was my sister Carolyn, sayin'
 "Aretha, come by when you can
@@ -106,6 +109,3 @@ In my life
 In my life
 (He'll be there, now don't you worry)
 In my life.
-
-
-

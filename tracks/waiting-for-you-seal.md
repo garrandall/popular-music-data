@@ -1,8 +1,11 @@
 ---
+album: Seal IV
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:1NqBz6s0KAoPF4zpN0vaXI
 features: []
-genres: []
+first_released_as_single: true
 key: waiting-for-you-seal
 lyrics_url: https://genius.com/Seal-waiting-for-you-lyrics
 name: Waiting For You
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-12-06'
+release_year: 2003
+runtime: 224280
 ---
 Everyday, a shade of blue
 You won't believe, what I'm goin through

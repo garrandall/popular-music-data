@@ -1,8 +1,11 @@
 ---
+album: Another Side
 artists:
 - Corbin Bleu
+external_ids:
+  spotify: spotify:track:3K01q0jtSNHeqx5gs97HH2
 features: []
-genres: []
+first_released_as_single: false
 key: push-it-to-the-limit-corbin-bleu
 lyrics_url: https://www.azlyrics.com/lyrics/corbinbleu/pushittothelimit.html
 name: Push It To The Limit
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-03-03'
+release_year: 2007
+runtime: 196960
 ---
-
 Yeah
 Come on now
 Here we go
@@ -133,6 +137,3 @@ We're in it to win it
 Oh yeah
 
 Push it to the limit...
-
-
-

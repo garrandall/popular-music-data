@@ -1,8 +1,11 @@
 ---
+album: The Game (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:57JVGBtBLCfHw2muk5416J
 features: []
-genres: []
+first_released_as_single: false
 key: another-one-bites-the-dust-queen
 lyrics_url: https://www.azlyrics.com/lyrics/queen/anotheronebitesthedust.html
 name: Another One Bites The Dust
@@ -131,8 +134,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 214653
 ---
-
 Oh! Let's go!
 
 Steve walks warily down the street
@@ -202,6 +206,3 @@ Another one bites the dust
 
 Shoot out
 Alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Guilt
 artists:
 - Mims
+external_ids:
+  spotify: spotify:track:3sDTZD8cxyuKT5oMZcVy5H
 features: []
-genres: []
+first_released_as_single: false
 key: move--if-you--w-anna--mims
 lyrics_url: https://www.azlyrics.com/lyrics/mims/moveifyouwanna.html
 name: Move (If You 'W'anna)
@@ -59,9 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 190666
 ---
-
-
 Let's get it! Ha Ha! I know you like
 wonderin right now like, what the hell is this right?
 Heh heh heh heh! I guess you bout to see right now
@@ -134,6 +137,3 @@ MOVE IF YOU WANNA IF YOU WANNA IF YOU WANNA
 MOVE-MOVE IF YOU WANNA IF YOU WANNA IF YOU WANNA
 MOVE-MOVE IF YOU WANNA IF YOU WANNA IF YOU WANNA
 MOVE-MOVE IF YOU WANNA IF YOU WANNA IF YOU WANNA MOVE
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Animals On Tour
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:3RwomkUaNHS0gFs3QqgudU
 features: []
-genres: []
+first_released_as_single: false
 key: boom-boom-the-animals
 lyrics_url: https://genius.com/The-animals-boom-boom-lyrics
 name: Boom Boom
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 199760
 ---
 Boom boom boom boom
 Gonna shoot you right down

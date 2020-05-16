@@ -1,9 +1,12 @@
 ---
+album: Wish Upon A Star
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:2tcrbhSlKCv6bciZEy1BGE
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-prayer-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-a-lovers-prayer-lyrics
 name: A Lover's Prayer
@@ -20,6 +23,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 140506
 ---
 Oh I am so blue when I think that you
 Were once my own

@@ -1,8 +1,11 @@
 ---
+album: Groove Me
 artists:
 - Fern Kinney
+external_ids:
+  spotify: spotify:track:4gaUIgp5tUocVJII03LKRh
 features: []
-genres: []
+first_released_as_single: false
 key: groove-me-fern-kinney
 lyrics_url: https://genius.com/Fern-kinney-groove-me-lyrics
 name: Groove Me
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 533226
 ---
 Uh, ohucky sucky now
 Hey, oh, come on baby

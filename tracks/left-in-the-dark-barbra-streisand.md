@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:56Mezqhixz82RQZFcOUz9J
 features: []
-genres: []
+first_released_as_single: false
 key: left-in-the-dark-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/leftinthedark.html
 name: Left In The Dark
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 429733
 ---
-
 Where did she touch you,
 How did if feel,
 Why did you let it begin
@@ -152,6 +156,3 @@ So turn out the light and I'll be left in the dark again
 I just need some love
 So turn out the lights and I'll be left in the dark again...
 Left in the dark again
-
-
-

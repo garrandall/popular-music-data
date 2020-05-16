@@ -1,9 +1,12 @@
 ---
+album: Steers & Stripes
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:7hAUQNn3k9QZFjtqnWzq8b
 features: []
-genres: []
+first_released_as_single: false
 key: every-river-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/everyriver.html
 name: Every River
@@ -28,8 +31,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-01-04'
+release_year: 2001
+runtime: 209026
 ---
-
 Once upon a time
 Somewhere in your past
 Someone said forever
@@ -57,6 +61,3 @@ Should you ever fall
 
 
 And every river run dry
-
-
-

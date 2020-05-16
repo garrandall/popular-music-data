@@ -1,8 +1,11 @@
 ---
+album: Another Round
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:1wCJ3JIsNaJK0MYct4Kmrv
 features: []
-genres: []
+first_released_as_single: false
 key: finding-my-way-back-jaheim
 lyrics_url: https://www.azlyrics.com/lyrics/jaheim/findingmywayback.html
 name: Finding My Way Back
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 226693
 ---
-
 Lights out,
 sucker punch, siked out.
 Caught a love wave,
@@ -55,6 +59,3 @@ and just can't let you slip away.
 Gotta find my way back, way back to you baby.
 Tryna find my way back , way back to you baby.
 Gotta find my way back, way back, to you, to us, to love.
-
-
-

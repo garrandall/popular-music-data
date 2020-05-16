@@ -1,8 +1,11 @@
 ---
+album: Save Rock And Roll
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:5MsZIaCYY6Tsdph0LiB0hE
 features: []
-genres: []
+first_released_as_single: false
 key: alone-together-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-alone-together-lyrics
 name: Alone Together
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 203413
 ---
 I don't know where you're going
 But do you got room for one more troubled soul?

@@ -1,8 +1,11 @@
 ---
+album: Dynasty
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:07q0QVgO56EorrSGHC48y3
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-made-for-lovin--you-kiss
 lyrics_url: https://genius.com/Kiss-i-was-made-for-lovin-you-lyrics
 name: I Was Made For Lovin' You
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 271240
 ---
 Mmm, yeah, ha
 Do, do, do, do, do, do, do, do, do

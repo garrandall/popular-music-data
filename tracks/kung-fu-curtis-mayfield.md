@@ -1,8 +1,11 @@
 ---
+album: Sweet Exorcist
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:0WNXlCwsn9npUGGG45B2XA
 features: []
-genres: []
+first_released_as_single: false
 key: kung-fu-curtis-mayfield
 lyrics_url: https://www.azlyrics.com/lyrics/curtismayfield/kungfu.html
 name: Kung Fu
@@ -59,8 +62,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 372826
 ---
-
 Our days of comfort, days of night
 Don't put yourself in solitude
 Who can I trust with my life
@@ -118,6 +122,3 @@ I'm just trying to make it, (love), Kung Fu
 
 (Y'all), Kung Fu
 Yeah, Kung Fu
-
-
-

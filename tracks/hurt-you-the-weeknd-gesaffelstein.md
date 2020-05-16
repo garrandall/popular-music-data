@@ -1,9 +1,12 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6QdnKD1zwEgyOWtkrdzlOF
 features:
 - Gesaffelstein
-genres: []
+first_released_as_single: false
 key: hurt-you-the-weeknd-gesaffelstein
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/hurtyou.html
 name: Hurt You
@@ -12,8 +15,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2018
+runtime: 230026
 ---
-
 And now I know relationship's my enemy
 So stay away from me
 I'm warning you
@@ -59,6 +63,3 @@ I don't want
 I don't wanna, baby
 I don't wanna, baby
 I don't
-
-
-

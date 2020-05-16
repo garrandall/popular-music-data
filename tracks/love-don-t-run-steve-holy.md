@@ -1,8 +1,11 @@
 ---
+album: Love Don't Run
 artists:
 - Steve Holy
+external_ids:
+  spotify: spotify:track:1dXUWskP4zy7Inqpfy5hf6
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-run-steve-holy
 lyrics_url: https://genius.com/Steve-holy-love-dont-run-lyrics
 name: Love Don't Run
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 219266
 ---
 This is gonna hurt, this is gonna hurt like hell
 This is gonna damn near kill me, sometimes the truth ain't easy

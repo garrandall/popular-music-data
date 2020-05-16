@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Wailers
 artists:
 - The Wailers
+external_ids:
+  spotify: spotify:track:38cpfKQLhEnoEotWjscRju
 features: []
-genres: []
+first_released_as_single: false
 key: mau-mau-the-wailers
 name: Mau-Mau
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 160266
 ---
 

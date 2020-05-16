@@ -1,8 +1,11 @@
 ---
+album: Language of Love
 artists:
 - John D. Loudermilk
+external_ids:
+  spotify: spotify:track:02DoAJpOC8XrHFrYobz48F
 features: []
-genres: []
+first_released_as_single: false
 key: language-of-love-john-d--loudermilk
 lyrics_url: https://genius.com/John-d-loudermilk-the-language-of-love-lyrics
 name: Language Of Love
@@ -43,6 +46,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1961
+runtime: 107333
 ---
 Oh, two lovers parked on lovers lane
 Just a watchin' the stars above

@@ -1,9 +1,12 @@
 ---
+album: Pocketful Of Sunshine
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:2uGQZ5uGAbtPfbcmSzgOON
 features:
 - Sean Kingston
-genres: []
+first_released_as_single: true
 key: love-like-this-natasha-bedingfield-sean-kingston
 lyrics_url: https://genius.com/Natasha-bedingfield-love-like-this-lyrics
 name: Love Like This
@@ -88,6 +91,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2008-03-15'
+release_year: 2007
+runtime: 381626
 ---
 Oh oh (Talk to 'em, babe)
 Whoa, whoa, whoa

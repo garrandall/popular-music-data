@@ -1,9 +1,12 @@
 ---
+album: The Art of Hustle
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:7mhk9WyqZZzvTTCQKfh2iV
 features:
 - E-40
-genres: []
+first_released_as_single: false
 key: law-yo-gotti-e-40
 lyrics_url: https://www.azlyrics.com/lyrics/yogotti/law.html
 name: Law
@@ -44,9 +47,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2016
+runtime: 257266
 ---
-
-
 Don't fuck no bitch that's fucking with your dawg, that's law
 If you come up don't forget about your dawgs, that's law
 I'm a street nigga so its fuck the law
@@ -139,6 +142,3 @@ I'm a real hustler so don't knock it, that's law
 It's all about the re-up and the profit, that's law
 Can't be in the club without no bottles, that's law
 We gon' ball today fuck tomorrow, that's law
-
-
-

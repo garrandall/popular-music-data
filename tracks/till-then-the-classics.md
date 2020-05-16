@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Classics
+external_ids:
+  spotify: spotify:track:1NPIhlG3DsR4v7O8ZfOmZ3
 features: []
-genres: []
+first_released_as_single: false
 key: till-then-the-classics
 lyrics_url: https://genius.com/The-classics-till-then-lyrics
 name: Till Then
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 303093
 ---
 (doo-doo-doom) (doo-doo-doom) (doo-doo-doom)
 (rep-reddah-rep)

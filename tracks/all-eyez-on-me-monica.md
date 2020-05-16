@@ -1,8 +1,11 @@
 ---
+album: All Eyez On Me EP
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:0rHehT9M8peRzeV1O1FeOk
 features: []
-genres: []
+first_released_as_single: true
 key: all-eyez-on-me-monica
 lyrics_url: https://www.azlyrics.com/lyrics/monica/alleyezonme.html
 name: All Eyez On Me
@@ -35,9 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 238773
 ---
-
-
 I see you girl. Darkchild.
 I got my eyez on you.
 Let me see what you workin' with.
@@ -99,6 +102,3 @@ I see you (ah baby!)
 You watchin' me (ah baby!)
 I see you (ah baby!)
 All Eyez On Me (ah darling!)
-
-
-

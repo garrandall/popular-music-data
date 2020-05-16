@@ -1,8 +1,11 @@
 ---
+album: I Don't Know What The World Is Coming To
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:2BtR5ETTo06oJLV362fO61
 features: []
-genres: []
+first_released_as_single: false
 key: check-it-out-bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/checkitout.html
 name: Check It Out
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1975
+runtime: 230400
 ---
-
 Girrrl, Baby --
 What gave it away?
 You had somethin' on your mind
@@ -75,6 +79,3 @@ Oh Baby
 Yeah Yeah Yeah Yeah Yeah Yeah Yeah
 Oh Baby, -- Oooohhhhoooowwww!
 Baby!
-
-
-

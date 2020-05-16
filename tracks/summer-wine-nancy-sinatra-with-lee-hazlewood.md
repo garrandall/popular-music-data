@@ -1,9 +1,12 @@
 ---
+album: Nancy & Lee
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:7zmVAVcT1oho7iWJGpApkE
 features:
 - Lee Hazlewood
-genres: []
+first_released_as_single: false
 key: summer-wine-nancy-sinatra-with-lee-hazlewood
 lyrics_url: https://genius.com/Nancy-sinatra-and-lee-hazlewood-summer-wine-lyrics
 name: Summer Wine
@@ -44,6 +47,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 256279
 ---
 Strawberries cherries and an angel's kiss in spring
 My summer wine is really made from all these things

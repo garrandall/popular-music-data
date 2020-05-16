@@ -1,8 +1,11 @@
 ---
+album: Aloha from Hawaii Via Satellite (Live)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5XOWIgNoqI6imfycO16J8t
 features: []
-genres: []
+first_released_as_single: false
 key: burning-love-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-burning-love-lyrics
 name: Burning Love
@@ -67,6 +70,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 191079
 ---
 Lord Almighty
 I feel my temperature rising

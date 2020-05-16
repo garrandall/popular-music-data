@@ -1,11 +1,14 @@
 ---
+album: Free The Universe (Extended Version)
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:4REEbsJ6WV9NoGubnlhnkm
 features:
 - Bruno Mars
 - Tyga
 - Mystic
-genres: []
+first_released_as_single: false
 key: bubble-butt-major-lazer-bruno-mars-tyga-mystic
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/bubblebutt.html
 name: Bubble Butt
@@ -46,9 +49,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2013
+runtime: 227813
 ---
-
-
 Bubble butt, bubble, bubble, bubble butt
 Bubble butt, bubble, bubble, bubble butt
 Bubble butt, bubble, bubble, bubble butt
@@ -106,4 +109,3 @@ I'm trying to get into you, into you
 Then make you my enemy
 Not playing, got the bitch mad
 Me don't like flat screen, ass I need a 3D
-

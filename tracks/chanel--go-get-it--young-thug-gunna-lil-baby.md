@@ -1,10 +1,13 @@
 ---
+album: Slime Language
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:0kCBorRrKZkSztd9m0QI3r
 features:
 - Gunna
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: chanel--go-get-it--young-thug-gunna-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/chanelgogetit.html
 name: Chanel (Go Get It)
@@ -25,9 +28,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 201706
 ---
-
-
 Anything she want she can get
 Anything she want she can get
 Anything she want she can get
@@ -113,6 +116,3 @@ Bentley sedan, she get it, hop out the Benz, she gettin' it
 Hop out the Lamb, she gettin' it, the Porsche Cayenne, she gettin' it
 Hop out the coupe, she get it, shine to the shoes, she get it
 I put my kids on her titty, anything she want she can get it
-
-
-

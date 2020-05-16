@@ -1,8 +1,11 @@
 ---
+album: Quad City Knock
 artists:
 - 95 South
+external_ids:
+  spotify: spotify:track:1PJM5F9oC7AKcdYROTv8EX
 features: []
-genres: []
+first_released_as_single: false
 key: whoot-there-it-is-95-south
 lyrics_url: https://genius.com/95-south-whoot-there-it-is-club-style-lyrics
 name: Whoot There It Is
@@ -107,6 +110,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1993
+runtime: 276866
 ---
 Excuse me sonny, do you know where I can find some booty!
 

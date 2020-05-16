@@ -1,8 +1,11 @@
 ---
+album: Straight To The Sky
 artists:
 - Lisa Lisa And Cult Jam
+external_ids:
+  spotify: spotify:track:01XhYI6Jdq3NOmgGrivwVE
 features: []
-genres: []
+first_released_as_single: false
 key: little-jackie-wants-to-be-a-star-lisa-lisa-and-cult-jam
 lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-little-jackie-wants-to-be-a-star-lyrics
 name: Little Jackie Wants To Be A Star
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1985
+runtime: 287373
 ---
 Oh
 Little Jackie

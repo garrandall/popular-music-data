@@ -1,8 +1,11 @@
 ---
+album: Lullaby
 artists:
 - Book Of Love
+external_ids:
+  spotify: spotify:track:6QTRvE3gSLPbYmOdPX5Koa
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-boys-and-pretty-girls-book-of-love
 lyrics_url: https://genius.com/Book-of-love-pretty-boys-and-pretty-girls-lyrics
 name: Pretty Boys And Pretty Girls
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 265373
 ---
 When I'm alone
 And you're away

@@ -1,9 +1,12 @@
 ---
+album: Equinox
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:7crAUHfZ5nyIM5MMS8dQg1
 features: []
-genres: []
+first_released_as_single: false
 key: constant-rain--chove-chuva--sergio-mendes-brasil--66
 lyrics_url: https://www.azlyrics.com/lyrics/sergiomendes/constantrain.html
 name: Constant Rain (Chove Chuva)
@@ -32,8 +35,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 196453
 ---
-
 Chove, chuva
 Constant is the rain
 Chove, chuva
@@ -90,6 +94,3 @@ Chove, chuva
 Constant is the rain
 Chove, chove, chove, chuva
 Endless is the pain
-
-
-

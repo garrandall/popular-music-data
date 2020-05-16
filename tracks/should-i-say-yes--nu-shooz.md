@@ -1,8 +1,11 @@
 ---
+album: Told U So
 artists:
 - Nu Shooz
+external_ids:
+  spotify: spotify:track:0xsvvo4F8Qs67gwKdPQevF
 features: []
-genres: []
+first_released_as_single: false
 key: should-i-say-yes--nu-shooz
 lyrics_url: https://genius.com/Nu-shooz-should-i-say-yes-lyrics
 name: Should I Say Yes?
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-07-30'
+release_year: 1988
+runtime: 291066
 ---
 My friends all tell me
 What they think that I should do

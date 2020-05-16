@@ -1,8 +1,11 @@
 ---
+album: Eaten Alive
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3N3UmpRUvoZQrUREMen54e
 features: []
-genres: []
+first_released_as_single: false
 key: chain-reaction-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/chainreaction.html
 name: Chain Reaction
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1985
+runtime: 227880
 ---
-
 You took a mystery and made me want it
 You got a pedestal and put me on it
 You made me love you out of feeling nothing
@@ -104,6 +108,3 @@ All you gotta do is get in the middle of a chain reaction
 You get a medal when you're lost in action
 Don't pass me by
 I wanna get your love all ready for the chain reaction...
-
-
-

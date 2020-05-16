@@ -1,10 +1,13 @@
 ---
+album: FourFiveSeconds
 artists:
 - Rihanna
 - Kanye West
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:78TTtXnFQPzwqlbtbwqN0y
 features: []
-genres: []
+first_released_as_single: true
 key: fourfiveseconds-rihanna-kanye-west-paul-mccartney
 lyrics_url: https://genius.com/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-lyrics
 name: FourFiveSeconds
@@ -89,6 +92,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2015
+runtime: 188238
 ---
 I think I've had enough
 I might get a little drunk

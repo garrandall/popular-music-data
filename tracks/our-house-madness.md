@@ -1,8 +1,11 @@
 ---
+album: Wonderful
 artists:
 - Madness
+external_ids:
+  spotify: spotify:track:1qV6e4ITnfGmA6m6Vklvbi
 features: []
-genres: []
+first_released_as_single: false
 key: our-house-madness
 lyrics_url: https://genius.com/Madness-our-house-lyrics
 name: Our House
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 201133
 ---
 Father wears his Sunday best
 Mother's tired, she needs a rest, the kids are playing up downstairs

@@ -1,8 +1,11 @@
 ---
+album: Stay The Same
 artists:
 - Joey McIntyre
+external_ids:
+  spotify: spotify:track:1Z3BhlpRdSIWlPuuvVIOg2
 features: []
-genres: []
+first_released_as_single: false
 key: stay-the-same-joey-mcintyre
 lyrics_url: https://www.azlyrics.com/lyrics/joeymcintyre/staythesame.html
 name: Stay The Same
@@ -63,9 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
+release_year: 1999
+runtime: 227293
 ---
-
-
 Don't you ever wish you were someone else,
 You were meant to be the way you are exactly.
 Don't you ever say you don't like the way you are.
@@ -88,4 +91,3 @@ The love you find will set you free.
 Believe in yourself, you will come alive.
 Have faith in what you do.
 You'll make it through.
-

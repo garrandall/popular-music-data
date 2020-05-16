@@ -1,9 +1,12 @@
 ---
+album: The Papercut Chronicles II
 artists:
 - Gym Class Heroes
+external_ids:
+  spotify: spotify:track:3bfqkspKABT4pPicm6wC9F
 features:
 - Neon Hitch
-genres: []
+first_released_as_single: false
 key: ass-back-home-gym-class-heroes-neon-hitch
 lyrics_url: https://www.azlyrics.com/lyrics/gymclassheroes/assbackhome.html
 name: Ass Back Home
@@ -100,9 +103,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2011
+runtime: 222213
 ---
-
-
 Oh, it's so sexy, yo
 
 
@@ -192,6 +195,3 @@ I don't know, where you're going
 Just get your ass back home.
 
 I'm home, baby.
-
-
-

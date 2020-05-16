@@ -1,9 +1,12 @@
 ---
+album: The Way It Is
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:6V50MyHPGhEmwYu0Wdyf0t
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-it-is-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-the-way-it-is-lyrics
 name: The Way It Is
@@ -96,6 +99,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
+release_year: 1986
+runtime: 297853
 ---
 Standin' in line, marking time
 Waiting for the welfare dime

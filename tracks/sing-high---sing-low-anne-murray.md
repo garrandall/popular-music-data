@@ -1,8 +1,11 @@
 ---
+album: Straight, Clean And Simple
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:5YyA2je5TBPKFGdL2QpyZN
 features: []
-genres: []
+first_released_as_single: false
 key: sing-high---sing-low-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/singhighsinglow.html
 name: Sing High - Sing Low
@@ -27,8 +30,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 166426
 ---
-
 Got a feeling in my heart
 That it's time for us to start
 To sing, sing together again
@@ -82,6 +86,3 @@ Sing it low
 
 Sing it high, sing it high
 Sing it high, sing it low
-
-
-

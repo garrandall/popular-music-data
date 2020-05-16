@@ -1,8 +1,11 @@
 ---
+album: Lady Antebellum
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:1Ec7xc3zWcd4ysMINmr9LW
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--for-a-good-time-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/lookinforagoodtime.html
 name: Lookin' For A Good Time
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 187320
 ---
-
 Girl you're beautiful
 You're bout near perfect
 But I bet somebody's already told you that
@@ -108,6 +112,3 @@ But you never say never in life
 
 
 Hey I'm just lookin' for a good time
-
-
-

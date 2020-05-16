@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Connie Francis - Connie's 21 Biggest Hits
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:0d8FE2qM1lDEv5TI8VuivT
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-somebody-s-fool-connie-francis
 lyrics_url: https://genius.com/Connie-francis-everybodys-somebodys-fool-lyrics
 name: Everybody's Somebody's Fool
@@ -79,6 +82,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 157600
 ---
 The tears I cried for you could fill an ocean
 But you don't care how many tears I cry

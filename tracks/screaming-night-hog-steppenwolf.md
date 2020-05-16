@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits (Reissue)
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:7wMUJtlUf2rKIVpp9prOLm
 features: []
-genres: []
+first_released_as_single: false
 key: screaming-night-hog-steppenwolf
 lyrics_url: https://genius.com/Steppenwolf-screaming-night-hog-lyrics
 name: Screaming Night Hog
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 198266
 ---
 Out on my Night Hog somebody temptin'
 Hear it scream on by your house

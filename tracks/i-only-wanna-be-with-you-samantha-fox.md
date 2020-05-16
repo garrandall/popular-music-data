@@ -1,8 +1,11 @@
 ---
+album: I Wanna Have Some Fun
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:7d6gTSWc9PYrY5bct0QKkT
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-wanna-be-with-you-samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-i-only-wanna-be-with-you-lyrics
 name: I Only Wanna Be With You
@@ -59,6 +62,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1989
+runtime: 164040
 ---
 I don't know what it is
 That makes me love you so

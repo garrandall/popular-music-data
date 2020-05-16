@@ -1,9 +1,12 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:73tgFzBug5Ifk1Retdtwk7
 features:
 - Alicia Keys
-genres: []
+first_released_as_single: false
 key: fireworks-drake-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/drake/fireworks.html
 name: Fireworks
@@ -12,9 +15,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 313280
 ---
-
-
 Money just changed everything, I wonder how life without it would go
 From the concrete who knew that a flower would grow
 Lookin' down from the top and its crowded below
@@ -84,4 +87,3 @@ Let's stay together 'til we're ghosts
 I want to witness love, I've never seen it close
 Yeah, but I guess I gotta find it first, that's why I'm really going off
 Fireworks
-

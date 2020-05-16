@@ -1,8 +1,11 @@
 ---
+album: "Apocalypse 91\u2026 The Enemy Strikes Black"
 artists:
 - Public Enemy
+external_ids:
+  spotify: spotify:track:5r5uZvXHbE4X6CdhnSATtX
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-truss-it-public-enemy
 lyrics_url: https://genius.com/Public-enemy-cant-truss-it-lyrics
 name: Can't Truss It
@@ -67,6 +70,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 321573
 ---
 (Confusion)
 Here come the drums, music

@@ -1,8 +1,11 @@
 ---
+album: The Gestures
 artists:
 - The Gestures
+external_ids:
+  spotify: spotify:track:6TO29gYhF5EHRvYPgit3EI
 features: []
-genres: []
+first_released_as_single: false
 key: run-run-run-the-gestures
 lyrics_url: https://www.musixmatch.com/lyrics/The-Gestures/Run-Run-Run
 name: Run Run Run
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 139200
 ---
 Now run run baby
 Run run run to set you free

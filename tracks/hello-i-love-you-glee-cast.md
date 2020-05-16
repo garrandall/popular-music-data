@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:41RxdTltq3TM5AbOLHVR28
 features: []
-genres: []
+first_released_as_single: false
 key: hello-i-love-you-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/helloiloveyou.html
 name: Hello I Love You
@@ -11,8 +14,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2010
+runtime: 139760
 ---
-
 Hello, I love you
 Won't you tell me your name?
 Hello, I love you
@@ -53,6 +57,3 @@ I need my baby
 woah woah
 I need you
 Hello, Hello, Hello, Hello
-
-
-

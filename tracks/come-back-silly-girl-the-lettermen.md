@@ -1,8 +1,11 @@
 ---
+album: A Song For Young Love
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:4dChdrXkfi9N1dZU7uXqvs
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-silly-girl-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-come-back-silly-girl-lyrics
 name: Come Back Silly Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 144226
 ---
 I go round moping, and I go around blue
 I made you cry cause I had been untrue

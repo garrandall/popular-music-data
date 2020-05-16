@@ -1,8 +1,11 @@
 ---
+album: Ain't It Funky
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:5pDntFG2pviuYB1d9XB0sj
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-funky-now--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-aint-it-funky-now-part-1-lyrics
 name: Ain't It Funky Now (Part 1)
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 533040
 ---
 Fellas, things done got too far gone
 We gotta let the girls know what they gotta do for us!

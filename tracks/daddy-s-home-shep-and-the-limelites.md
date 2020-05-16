@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More
 artists:
 - Shep And The Limelites
+external_ids:
+  spotify: spotify:track:2Vr3XMnJyu60xBUUchWUrI
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-s-home-shep-and-the-limelites
 lyrics_url: https://genius.com/Shep-and-the-limelites-daddys-home-lyrics
 name: Daddy's Home
@@ -63,6 +66,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 174200
 ---
 You're my love, you're my angel
 You're the girl of my dreams

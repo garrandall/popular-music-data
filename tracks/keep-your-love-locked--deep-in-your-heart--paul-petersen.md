@@ -1,8 +1,11 @@
 ---
+album: Lollipops And Roses
 artists:
 - Paul Petersen
+external_ids:
+  spotify: spotify:track:33qJXj0gUexHxx6NYxXNku
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-love-locked--deep-in-your-heart--paul-petersen
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Petersen/Keep-Your-Love-Locked-Deep-in-Your-Heart
 name: Keep Your Love Locked (Deep In Your Heart)
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 131466
 ---
 Don't stay at home when I go away
 Don't waste your time with letters each day

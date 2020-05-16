@@ -1,8 +1,11 @@
 ---
+album: The Concert of Love
 artists:
 - Darlene Love
+external_ids:
+  spotify: spotify:track:4i5uj1EfjkWmCxpp58K7oE
 features: []
-genres: []
+first_released_as_single: true
 key: -today-i-met--the-boy-i-m-gonna-marry-darlene-love
 lyrics_url: https://genius.com/Darlene-love-today-i-met-the-boy-im-gonna-marry-lyrics
 name: (Today I Met) The Boy I'm Gonna Marry
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 166053
 ---
 Today I met the boy I'm gonna marry
 He's all I've wanted all my life and even more

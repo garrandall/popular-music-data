@@ -1,8 +1,11 @@
 ---
+album: In A Tidal Wave Of Mystery
 artists:
 - Capital Cities
+external_ids:
+  spotify: spotify:track:45lAVwA9olPEIGZP7seZGc
 features: []
-genres: []
+first_released_as_single: false
 key: safe-and-sound-capital-cities
 lyrics_url: https://www.azlyrics.com/lyrics/capitalcities/safeandsound.html
 name: Safe And Sound
@@ -179,8 +182,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2012
+runtime: 273080
 ---
-
 I could lift you up
 I could show you what you wanna see
 And take you where you wanna be
@@ -251,6 +255,3 @@ Hold your ground
 We're safe and sound
 Safe and sound
 We're safe and sound
-
-
-

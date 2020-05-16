@@ -1,9 +1,12 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:7vgTNTaEz3CsBZ1N4YQalM
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: false
 key: ghost-town-kanye-west-partynextdoor
 lyrics_url: https://genius.com/Kanye-west-ghost-town-lyrics
 name: Ghost Town
@@ -16,6 +19,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 271386
 ---
 Some day, some day
 Some day I'll, I wanna wear a starry crown

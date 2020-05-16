@@ -1,8 +1,11 @@
 ---
+album: The Wanderer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:2JfAwvb81jxgfLp69YWzd1
 features: []
-genres: []
+first_released_as_single: false
 key: cold-love-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/coldlove.html
 name: Cold Love
@@ -55,8 +58,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1980
+runtime: 219600
 ---
-
 I'm walking the line
 I'm walking the line
 Treading thin ice
@@ -119,6 +123,3 @@ Sweet old love
 Cold love, cold love
 Whatever happened to that
 Sweet old love
-
-
-

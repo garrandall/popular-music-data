@@ -1,8 +1,11 @@
 ---
+album: Good Times
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:6spFPDx8wecZ6GhKPr0WXD
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-thing-about-you-baby-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-ive-got-a-thing-about-you-baby-lyrics
 name: I've Got A Thing About You Baby
@@ -55,6 +58,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1974
+runtime: 141426
 ---
 I've got something to tell you
 That I think you ought to know

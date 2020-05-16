@@ -1,8 +1,11 @@
 ---
+album: Encore (Deluxe Version)
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6pocsnip9WtmYlBQSfawfq
 features: []
-genres: []
+first_released_as_single: true
 key: just-lose-it-eminem
 lyrics_url: https://genius.com/Eminem-just-lose-it-lyrics
 name: Just Lose It
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2004
+runtime: 248400
 ---
 Down, down, down
 Down, down, down

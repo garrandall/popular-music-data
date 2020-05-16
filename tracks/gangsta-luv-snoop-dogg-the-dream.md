@@ -1,9 +1,12 @@
 ---
+album: Malice 'N Wonderland
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:1E8wif6bVXurUgxV8Gfwrw
 features:
 - The-Dream
-genres: []
+first_released_as_single: false
 key: gangsta-luv-snoop-dogg-the-dream
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/gangstaluv.html
 name: Gangsta Luv
@@ -84,8 +87,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2009
+runtime: 256546
 ---
-
 Radio Killa, Big Snoop D O dub
 The American Dream
 
@@ -202,6 +206,3 @@ Gangsta, gang, gangsta
 That gangsta, gang, gangsta
 Gangsta, gang, gangsta
 That gangsta love
-
-
-

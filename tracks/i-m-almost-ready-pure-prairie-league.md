@@ -1,8 +1,11 @@
 ---
+album: Firin' Up
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:7MdQpyImL53xqO5Y9xANJe
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-almost-ready-pure-prairie-league
 lyrics_url: https://genius.com/Pure-prairie-league-im-almost-ready-lyrics
 name: I'm Almost Ready
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 220093
 ---
 (Vince Gill)
 

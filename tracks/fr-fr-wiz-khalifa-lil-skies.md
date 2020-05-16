@@ -1,9 +1,12 @@
 ---
+album: Rolling Papers 2
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:0bnlA8646f1B0AANUyKCAJ
 features:
 - Lil Skies
-genres: []
+first_released_as_single: false
 key: fr-fr-wiz-khalifa-lil-skies
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/frfr.html
 name: Fr Fr
@@ -12,9 +15,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 195590
 ---
-
-
 Yeah
 
 Nigga for real, for real
@@ -119,6 +122,3 @@ I'm 'bout my check for real
 I'm 'bout my respect for real
 My diamonds are crystal clear
 I'm shining from ear to ear
-
-
-

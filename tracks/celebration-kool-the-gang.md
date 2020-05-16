@@ -1,9 +1,12 @@
 ---
+album: Celebrate!
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:3K7Q9PHUWPTaknlbFPThn2
 features: []
-genres: []
+first_released_as_single: false
 key: celebration-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/celebration.html
 name: Celebration
@@ -128,8 +131,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 298866
 ---
-
 Yahoo!
 Celebration
 Yahoo!
@@ -216,6 +220,3 @@ Celebrate good times, come on!
 Celebrate good times, come on!
 (Let's celebrate)
 Celebrate good times, come on!
-
-
-

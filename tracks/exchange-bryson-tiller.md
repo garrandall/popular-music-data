@@ -1,8 +1,11 @@
 ---
+album: T R A P S O U L
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:6dCWeqaYpCj8rJTifqHMHr
 features: []
-genres: []
+first_released_as_single: true
 key: exchange-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/brysontiller/exchange.html
 name: Exchange
@@ -143,8 +146,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2015
+runtime: 202083
 ---
-
 This what happen when I think about you
 I get in my feelings, yeah
 I start reminiscing, yeah
@@ -198,6 +202,3 @@ Nah, girl, I got a job for you, swear to God I could do a lot for you
 Saw you strollin' through the campus, I had to stop for you
 I was scrollin' through the 'gram, girl, I had to follow you
 Say what's up with you? You got my soul
-
-
-

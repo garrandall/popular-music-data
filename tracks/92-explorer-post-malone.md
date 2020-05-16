@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:1D2L6MefbXon28PzIk9I3r
 features: []
-genres: []
+first_released_as_single: false
 key: 92-explorer-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/92explorer.html
 name: 92 Explorer
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 211426
 ---
-
 Ohh, yeah yeah (wow), yeah yeah, yeah, yeah
 We got London On Da Track
 
@@ -86,6 +90,3 @@ When my whip start, then my wheels keep spinnin'
 
 Yeah
 We got London On Da Track
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pain in My Heart
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:2tT6mzIeQG2tAFIMTwR6DV
 features: []
-genres: []
+first_released_as_single: false
 key: pain-in-my-heart-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/paininmyheart.html
 name: Pain In My Heart
@@ -51,8 +54,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 143600
 ---
-
 Pain in my heart
 she's treating me cold
 where can my baby be
@@ -77,6 +81,3 @@ stop this little pain in my heart
 stop this little pain in my heart
 someone stop this pain
 someone stop this pain
-
-
-

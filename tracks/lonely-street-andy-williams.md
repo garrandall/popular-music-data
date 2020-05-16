@@ -1,8 +1,11 @@
 ---
+album: Best Of Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:4vzwzP3O4ihgi4FdewHMsb
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-street-andy-williams
 lyrics_url: https://genius.com/Andy-williams-lonely-street-lyrics
 name: Lonely Street
@@ -71,6 +74,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 166493
 ---
 Where's this place called "Lonely Stree-ee-ee-eet?"
 

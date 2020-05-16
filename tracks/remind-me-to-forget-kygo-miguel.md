@@ -1,9 +1,12 @@
 ---
+album: Kids in Love
 artists:
 - Kygo
+external_ids:
+  spotify: spotify:track:6xTU6B6nFwKKTSZ9ySXS80
 features:
 - Miguel
-genres: []
+first_released_as_single: false
 key: remind-me-to-forget-kygo-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/kygo/remindmetoforget.html
 name: Remind Me To Forget
@@ -52,8 +55,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2017
+runtime: 217293
 ---
-
 It never fades away, it's staying
 Your kiss like broken glass on my skin
 And all the greatest loves end in violence
@@ -107,6 +111,3 @@ You left your burn (in my heart)
 You left your mark, reminding me to forget
 You left your burn (in my heart)
 You left your mark, reminding me to forget
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gangsta Lean
 artists:
 - DRS
+external_ids:
+  spotify: spotify:track:4cyfPmLxWifacLyTYLF7qA
 features: []
-genres: []
+first_released_as_single: false
 key: gangsta-lean-drs
 lyrics_url: https://genius.com/Drs-gangsta-lean-lyrics
 name: Gangsta Lean
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
+release_year: 1993
+runtime: 253440
 ---
 This song's dedicated
 To my homies in that gangsta lean

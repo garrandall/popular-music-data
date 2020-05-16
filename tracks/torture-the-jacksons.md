@@ -1,8 +1,11 @@
 ---
+album: Victory
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:79rIsbqmsjvz8umdE91J2s
 features: []
-genres: []
+first_released_as_single: false
 key: torture-the-jacksons
 lyrics_url: https://www.azlyrics.com/lyrics/jacksons/torture.html
 name: Torture
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 293986
 ---
-
 It was on a street so evil
 So bad that even hell disowned it
 Every single step was trouble
@@ -105,6 +109,3 @@ And I just can't stop this feeling
 It's torture
 It's torture
 It's torture
-
-
-

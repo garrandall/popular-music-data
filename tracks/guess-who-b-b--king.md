@@ -1,8 +1,11 @@
 ---
+album: Guess Who
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3FHvrCsqBjvwut2rXT1QPZ
 features: []
-genres: []
+first_released_as_single: false
 key: guess-who-b-b--king
 lyrics_url: https://genius.com/Bb-king-guess-who-lyrics
 name: Guess Who
@@ -51,6 +54,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 249733
 ---
 Someone really loves you
 Guess who

@@ -1,8 +1,11 @@
 ---
+album: Gitarzan
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:0iE8CuhrbtabeFRnrQYmZP
 features: []
-genres: []
+first_released_as_single: false
 key: gitarzan-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/gitarzan.html
 name: Gitarzan
@@ -59,8 +62,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 187040
 ---
-
 He's free as the breeze,
 He's always at ease.
 He lives in the jungle
@@ -150,4 +154,3 @@ Gitarzan!
 And his jungle band!
 They're all you can stand,
 Give 'em a hand, Gitarzan!
-

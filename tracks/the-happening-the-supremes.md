@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:4ZYgTkMN6ApgA2QDupaaSp
 features: []
-genres: []
+first_released_as_single: true
 key: the-happening-the-supremes
 lyrics_url: https://genius.com/The-supremes-the-happening-lyrics
 name: The Happening
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 206298
 ---
 Hey, life, look at me
 I can see the reality

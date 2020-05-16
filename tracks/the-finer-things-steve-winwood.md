@@ -1,8 +1,11 @@
 ---
+album: Back In The High Life
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:385rLznnaUjxlbQR1oAiU6
 features: []
-genres: []
+first_released_as_single: false
 key: the-finer-things-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/thefinerthings.html
 name: The Finer Things
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1986
+runtime: 349666
 ---
-
 While there is time
 Let's go out and feel everything
 If you hold me
@@ -145,6 +149,3 @@ The finer things keep shining through
 The way my soul gets lost in you
 The finer things I feel in me
 The golden dance life could be
-
-
-

@@ -1,8 +1,12 @@
 ---
+album: I Can't Stand Myself When You Touch Me
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:437K6n86c8sfJiUN9x8CI9
+features:
+- The Famous Flames
+first_released_as_single: false
 key: get-it-together--part-1--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-get-it-together-part-1-lyrics
 name: Get It Together (Part 1)
@@ -31,6 +35,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 223626
 ---
 OOH WEE!
 Don't guess why

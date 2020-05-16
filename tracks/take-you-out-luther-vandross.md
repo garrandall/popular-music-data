@@ -1,8 +1,11 @@
 ---
+album: Luther Vandross
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:650M98AP1WgRo1jJ0snmoI
 features: []
-genres: []
+first_released_as_single: false
 key: take-you-out-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-take-you-out-lyrics
 name: Take You Out
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 206066
 ---
 Here it is...
 

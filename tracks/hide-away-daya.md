@@ -1,8 +1,11 @@
 ---
+album: Sit Still, Look Pretty
 artists:
 - Daya
+external_ids:
+  spotify: spotify:track:0uyZ5ckiIUbFZd3P6RWmrj
 features: []
-genres: []
+first_released_as_single: false
 key: hide-away-daya
 lyrics_url: https://www.azlyrics.com/lyrics/daya/hideaway.html
 name: Hide Away
@@ -115,8 +118,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 192376
 ---
-
 Boys seem to like the girls
 Who laugh at anything
 The ones who get undressed
@@ -174,6 +178,3 @@ Hide away, hide away
 Looking high and low, someone let me know
 Where do the good boys go to hide away, hide away?
 (Hey!)
-
-
-

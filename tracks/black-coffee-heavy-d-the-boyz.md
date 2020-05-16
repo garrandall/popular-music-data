@@ -1,9 +1,12 @@
 ---
+album: Nuttin' But Love
 artists:
 - Heavy D
 - The Boyz
+external_ids:
+  spotify: spotify:track:42eQvQg4NO1wRuZ5h8QB8M
 features: []
-genres: []
+first_released_as_single: false
 key: black-coffee-heavy-d-the-boyz
 lyrics_url: https://genius.com/Heavy-d-and-the-boyz-black-coffee-lyrics
 name: Black Coffee
@@ -68,6 +71,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1994
+runtime: 267800
 ---
 Black coffee, no sugar, no cream
 That's the kind of girl I need down with my team

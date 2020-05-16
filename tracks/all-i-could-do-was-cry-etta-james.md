@@ -1,8 +1,11 @@
 ---
+album: At Last!
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:7Ca3Zb8wejNYCoei3tlJ9e
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-could-do-was-cry-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/allicoulddowascry.html
 name: All I Could Do Was Cry
@@ -67,8 +70,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 175626
 ---
-
 I heard church bells ringing
 I heard a choir singing
 I saw my love walk down the aisle
@@ -93,6 +97,3 @@ All, all I could do, all I could do was cry (cry, cry, cry)
 All I could do was cry (cry, cry, cry)
 I was losing the man that I loved (cry, cry, cry)
 And all I could do was cry (cry, cry, cry)
-
-
-

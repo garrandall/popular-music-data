@@ -1,8 +1,11 @@
 ---
+album: The Biz Never Sleeps
 artists:
 - Biz Markie
+external_ids:
+  spotify: spotify:track:7pMroEAD9nSNc6Wsu9kGlt
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-friend-biz-markie
 lyrics_url: https://genius.com/Biz-markie-just-a-friend-lyrics
 name: Just A Friend
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1989
+runtime: 246880
 ---
 Have you ever met a girl that you tried to date
 But a year to make love she wanted you to wait?

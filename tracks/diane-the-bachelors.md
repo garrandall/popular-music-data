@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:3GKWrhz8tuiBWjtJ3T5K3H
 features: []
-genres: []
+first_released_as_single: false
 key: diane-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-diane-lyrics
 name: Diane
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 156000
 ---
 Smile for me, my Diane
 

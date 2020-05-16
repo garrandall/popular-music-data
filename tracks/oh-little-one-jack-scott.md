@@ -1,8 +1,11 @@
 ---
+album: Canadian Rock & Roll with Jack Scott
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:4jfnYFsHmSD7yVR8Im3c2m
 features: []
-genres: []
+first_released_as_single: false
 key: oh-little-one-jack-scott
 lyrics_url: https://genius.com/Jack-scott-oh-little-one-lyrics
 name: Oh Little One
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1960-06-13'
+release_year: 1960
+runtime: 170133
 ---
 Oh little one (oh little one)
 Oh little one (oh little one)

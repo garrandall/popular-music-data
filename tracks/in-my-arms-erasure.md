@@ -1,8 +1,11 @@
 ---
+album: Cowboy
 artists:
 - Erasure
+external_ids:
+  spotify: spotify:track:2wmNvJ2w6QJVlndgvT5vnY
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-arms-erasure
 lyrics_url: https://www.azlyrics.com/lyrics/erasure/inmyarms.html
 name: In My Arms
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1992
+runtime: 210173
 ---
-
 The deal is on the rise again
 The ship comes in to shore
 You've been away to somewhere
@@ -74,6 +78,3 @@ And walls come tumbling down
 We'll be forever calm
 And you'll be here in my arms
 I'll keep you away from harm
-
-
-

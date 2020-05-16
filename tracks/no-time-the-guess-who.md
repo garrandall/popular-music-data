@@ -1,8 +1,11 @@
 ---
+album: Live At The Paramount
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:19bR4aKlr6fD1eAHDCmr2l
 features: []
-genres: []
+first_released_as_single: false
 key: no-time-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-no-time-lyrics
 name: No Time
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1969
+runtime: 219426
 ---
 No time left for you
 On my way to better things

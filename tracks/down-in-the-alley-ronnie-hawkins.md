@@ -1,8 +1,11 @@
 ---
+album: Ronnie Hawkins
 artists:
 - Ronnie Hawkins
+external_ids:
+  spotify: spotify:track:1seMwNogcfKoM4l3dYf2GH
 features: []
-genres: []
+first_released_as_single: false
 key: down-in-the-alley-ronnie-hawkins
 lyrics_url: https://genius.com/Ronnie-hawkins-down-in-the-alley-lyrics
 name: Down In The Alley
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1970
+runtime: 310933
 ---
 Down in the alley, just you and me
 There'll be a party 'til half past three

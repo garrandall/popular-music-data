@@ -1,8 +1,11 @@
 ---
+album: The Beautiful & Damned
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:7fOPVfABNLg3sxtgXBhBdp
 features: []
-genres: []
+first_released_as_single: false
 key: the-plan-g-eazy
 lyrics_url: https://genius.com/G-eazy-the-plan-lyrics
 name: The Plan
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 250293
 ---
 Yeah, ayy, uh
 I do this shit 'cause I-

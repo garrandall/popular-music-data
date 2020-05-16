@@ -1,8 +1,11 @@
 ---
+album: Goodbye Lullaby
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:2z4U9d5OAA4YLNXoCgioxo
 features: []
-genres: []
+first_released_as_single: false
 key: what-the-hell-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/whatthehell.html
 name: What The Hell
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 220706
 ---
-
 You say that I'm messin' with your head
 (Yeah, yeah, yeah, yeah)
 All 'cause I was making out with your friend
@@ -157,6 +161,3 @@ La, la
 La la la la la,
 La
 La la la la la, la
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nothing Matters Without Love
 artists:
 - Seduction
+external_ids:
+  spotify: spotify:track:7dp9giMXEl62EC6MkXSEfm
 features: []
-genres: []
+first_released_as_single: false
 key: breakdown-seduction
 lyrics_url: https://genius.com/Seduction-breakdown-lyrics
 name: Breakdown
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1989
+runtime: 301893
 ---
 In the beginning, your love was true
 And I gave to you

@@ -1,8 +1,11 @@
 ---
+album: We Got A Thing That's In The Groove
 artists:
 - The Capitols
+external_ids:
+  spotify: spotify:track:6NOmlIRYul9LqS9xCZGf6S
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-to-handle-it-the-capitols
 name: I Got To Handle It
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
+release_year: 1966
+runtime: 141120
 ---
 

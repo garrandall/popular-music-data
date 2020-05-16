@@ -1,8 +1,11 @@
 ---
+album: Don't Press Your Luck! The In Sound of '60s Connecticut
 artists:
 - The Wildweeds
+external_ids:
+  spotify: spotify:track:7mnlWaXynCtCo1I0DiINXA
 features: []
-genres: []
+first_released_as_single: false
 key: no-good-to-cry-the-wildweeds
 lyrics_url: https://genius.com/The-wildweeds-no-good-to-cry-stereo-lyrics
 name: No Good To Cry
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 162920
 ---
 I hear a new girl moved into town
 And now your baby ain't no where around

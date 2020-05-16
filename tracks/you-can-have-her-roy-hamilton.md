@@ -1,8 +1,11 @@
 ---
+album: You Can Have Her
 artists:
 - Roy Hamilton
+external_ids:
+  spotify: spotify:track:2MAoJ97inXy07VArmGOfKe
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-have-her-roy-hamilton
 lyrics_url: https://genius.com/Roy-hamilton-you-can-have-her-lyrics
 name: You Can Have Her
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1960
+runtime: 165933
 ---
 Well, you can have her, I don't want her
 She didn't love me anyway

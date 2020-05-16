@@ -1,8 +1,11 @@
 ---
+album: 'Hy Weiss Presents: Old Town Records'
 artists:
 - Larry Finnegan
+external_ids:
+  spotify: spotify:track:35Fa5QHO8IRfZjQC1RkNNK
 features: []
-genres: []
+first_released_as_single: false
 key: dear-one-larry-finnegan
 lyrics_url: https://genius.com/Larry-finnegan-dear-one-lyrics
 name: Dear One
@@ -63,6 +66,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1962
+runtime: 196453
 ---
 Dear One
 Artist: Larry Finnegan (peak Billboard position # 11 in 1962 )

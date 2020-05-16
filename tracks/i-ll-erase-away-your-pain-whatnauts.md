@@ -1,8 +1,11 @@
 ---
+album: Introducing the Whatnauts
 artists:
 - Whatnauts
+external_ids:
+  spotify: spotify:track:7dCLMi5pZleCWsRroWaBYH
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-erase-away-your-pain-whatnauts
 lyrics_url: https://genius.com/Whatnauts-ill-erase-away-your-pain-lyrics
 name: I'll Erase Away Your Pain
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 194973
 ---
 Little girl, please stop your crying
 'Cause I'll erase away your pain

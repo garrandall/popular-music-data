@@ -1,8 +1,11 @@
 ---
+album: Regular Gal
 artists:
 - Ruby Wright
+external_ids:
+  spotify: spotify:track:4k6DThldI3PZHcqLXvAmJY
 features: []
-genres: []
+first_released_as_single: false
 key: three-stars-ruby-wright
 lyrics_url: https://www.musixmatch.com/lyrics/Ruby-Wright/Three-Stars
 name: Three Stars
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 182320
 ---
 Look up in the sky
 Up to one who knows

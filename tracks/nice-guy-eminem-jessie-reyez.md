@@ -1,9 +1,12 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
 - Jessie Reyez
+external_ids:
+  spotify: spotify:track:09FfQO3PqHO4HIJL511Ksi
 features: []
-genres: []
+first_released_as_single: false
 key: nice-guy-eminem-jessie-reyez
 lyrics_url: https://genius.com/Eminem-and-jessie-reyez-nice-guy-lyrics
 name: Nice Guy
@@ -12,6 +15,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 150801
 ---
 You're such a nice guy, a nice guy
 You're faithful, you don't lie

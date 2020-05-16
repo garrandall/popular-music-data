@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - The Communards
+external_ids:
+  spotify: spotify:track:6A48JrV1QyIbmd5cZglvRl
 features: []
-genres: []
+first_released_as_single: false
 key: never-can-say-goodbye-the-communards
 lyrics_url: https://genius.com/The-communards-never-can-say-goodbye-lyrics
 name: Never Can Say Goodbye
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 285066
 ---
 No no no no
 Never say, never say

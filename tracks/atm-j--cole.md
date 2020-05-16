@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3YpZCyr3OOQsASKaUUzrQ2
 features: []
-genres: []
+first_released_as_single: false
 key: atm-j--cole
 lyrics_url: https://www.musixmatch.com/lyrics/J-Cole/ATM
 name: ATM
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 216706
 ---
 Life can bring much pain
 There are many ways to deal with this pain

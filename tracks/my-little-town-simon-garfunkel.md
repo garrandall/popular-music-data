@@ -1,8 +1,11 @@
 ---
+album: Still Crazy After All These Years
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:3obrfotpr4kLCKiOu2GZ4Q
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-town-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/mylittletown.html
 name: My Little Town
@@ -63,8 +66,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 231946
 ---
-
 In my little town
 I grew up believing
 God keeps his eye on us all
@@ -106,6 +110,3 @@ Nothing but the dead and dying
 Back in my little town
 Nothing but the dead and dying
 Back in my little town
-
-
-

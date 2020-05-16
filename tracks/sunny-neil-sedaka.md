@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:7uNVqVGLikR52Cj0BOFnQ3
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/sunny.html
 name: Sunny
@@ -19,8 +22,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 156760
 ---
-
 Sunny, stay by me.
 
 Rain used to fill my eyes 
@@ -51,6 +55,3 @@ Sunny never leave me.
 Promise you won't go away, 
 love me for ever as you do today. 
 Oh Sunny, stay by me.
-
-
-

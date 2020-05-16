@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The Rollers
+external_ids:
+  spotify: spotify:track:00Bu7AiNb06604KMuYTQAi
 features: []
-genres: []
+first_released_as_single: false
 key: the-continental-walk-the-rollers
 name: The Continental Walk
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 143626
 ---
 

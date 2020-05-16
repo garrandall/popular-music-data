@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:3UGIZ8qcrMTwzLbx6Kttqt
 features: []
-genres: []
+first_released_as_single: false
 key: boyfriend-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/boyfriend.html
 name: Boyfriend
@@ -87,9 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2012-08-25'
+release_year: 2012
+runtime: 171333
 ---
-
-
 If I was your boyfriend, I'd never let you go
 I can take you places you ain't never been before
 Baby, take a chance or you'll never ever know
@@ -150,6 +153,3 @@ If I was your boyfriend
 Na, na, na, na, na, na, na, na, na ey
 Na, na, na, na, na, na, na, na, na ey
 If I was your boyfriend
-
-
-

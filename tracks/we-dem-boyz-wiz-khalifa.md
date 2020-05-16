@@ -1,8 +1,11 @@
 ---
+album: Blacc Hollywood
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:4f1SoQCmLHuxC6QeMAfKSV
 features: []
-genres: []
+first_released_as_single: true
 key: we-dem-boyz-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-we-dem-boyz-lyrics
 name: We Dem Boyz
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2014
+runtime: 224933
 ---
 Yeah ayy!
 Yeah ayy!

@@ -1,8 +1,11 @@
 ---
+album: 'Goes To the Movies: Decade of Hits (clean)'
 artists:
 - The 2 Live Crew
+external_ids:
+  spotify: spotify:track:3N7pAAdl3qox2z0O9OH0IC
 features: []
-genres: []
+first_released_as_single: false
 key: pop-that-coochie-the-2-live-crew
 lyrics_url: https://genius.com/2-live-crew-pop-that-coochie-lyrics
 name: Pop That Coochie
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 257800
 ---
 There's only one place where we can go
 To see freaky Girls doin' shows

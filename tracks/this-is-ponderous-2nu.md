@@ -1,8 +1,11 @@
 ---
+album: Ponderous
 artists:
 - 2nu
+external_ids:
+  spotify: spotify:track:6S4bhrjrlJhS6eQX07VqlO
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-ponderous-2nu
 lyrics_url: https://genius.com/2nu-this-is-ponderous-lyrics
 name: This Is Ponderous
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
+release_year: 1990
+runtime: 217466
 ---
 This is ponderous, man, really ponderous
 

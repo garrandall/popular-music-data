@@ -1,10 +1,13 @@
 ---
+album: New City
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:3J18G0juCSotrye2o28wzi
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-get-you-into-my-life-blood-sweat-tears
 lyrics_url: https://genius.com/Blood-sweat-and-tears-got-to-get-you-into-my-life-lyrics
 name: Got To Get You Into My Life
@@ -33,6 +36,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1972
+runtime: 200066
 ---
 I was alone, I took a ride, I didn't know what I would find there
 Another road where maybe I could find another kind of mind there

@@ -1,8 +1,11 @@
 ---
+album: Glee The 3D Concert Movie (Motion Picture Soundtrack)
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:63RjPVTZMZkwb7jsGHynUI
 features: []
-genres: []
+first_released_as_single: false
 key: happy-days-are-here-again-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/happydaysarehereagaingethappy.html
 name: Happy Days Are Here Again
@@ -11,9 +14,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 171840
 ---
-
-
 So long sad times
 Go along bad times
 We are rid of you at last
@@ -124,6 +127,3 @@ Happy nights
 Happy days
 are here again
 Are here again!
-
-
-

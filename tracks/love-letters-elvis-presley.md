@@ -1,8 +1,11 @@
 ---
+album: Elvis' Gold Records, Vol. 4
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1DGFY32byCpsiTSTAQI3RW
 features: []
-genres: []
+first_released_as_single: false
 key: love-letters-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-love-letters-lyrics
 name: Love Letters
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 170800
 ---
 Love letters straight from your heart
 Keep us so near while apart

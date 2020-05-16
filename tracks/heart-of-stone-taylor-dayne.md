@@ -1,8 +1,11 @@
 ---
+album: Can't Fight Fate
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:3V1NOgRn1eTshgG7OiavSl
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-stone-taylor-dayne
 lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/heartofstone.html
 name: Heart Of Stone
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-11-17'
+release_year: 1989
+runtime: 257160
 ---
-
 We need to lay in each other's arms
 There's no where else to go
 It's all so easy and I want you to know
@@ -117,6 +121,3 @@ I can't believe you've got a heart of stone
 Your eyes say yes even when you tell me no
 I can't believe you've got a heart of stone
 I can't believe it
-
-
-

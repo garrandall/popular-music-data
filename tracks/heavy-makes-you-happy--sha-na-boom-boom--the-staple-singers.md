@@ -1,8 +1,11 @@
 ---
+album: 'Be Altitude: Respect Yourself'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:1BOumI1T9ZpnumLDDxFliN
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-makes-you-happy--sha-na-boom-boom--the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/heavymakesyouhappyshanaboomboom.html
 name: Heavy Makes You Happy (Sha-Na-Boom Boom)
@@ -55,8 +58,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 221186
 ---
-
 Ah, whoa, great gosh, a mighty
 
 (Sha-na-boom boom, yeah)
@@ -121,6 +125,3 @@ Oh, do it easy, now
 (Sha-na-boom boom, yeah)
 Lay it on down
 (Sha-na-na-na-boom boom, yeah)
-
-
-

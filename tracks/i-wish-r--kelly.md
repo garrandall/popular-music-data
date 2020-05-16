@@ -1,8 +1,11 @@
 ---
+album: TP-2.com
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:7sOqd1dVmfU5mgqrUtlqc5
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-r--kelly
 lyrics_url: https://genius.com/R-kelly-i-wish-lyrics
 name: I Wish
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2000
+runtime: 334000
 ---
 I wish, I wish, I wish
 (To every city)

@@ -1,8 +1,11 @@
 ---
+album: Firecracker
 artists:
 - Lisa Loeb
+external_ids:
+  spotify: spotify:track:014Y7CPce02N9bir2M1ePw
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-lisa-loeb
 lyrics_url: https://genius.com/Lisa-loeb-i-do-lyrics
 name: I Do
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-03-28'
+release_year: 1997
+runtime: 221093
 ---
 When I'm done with thinking
 Then I'm done with you

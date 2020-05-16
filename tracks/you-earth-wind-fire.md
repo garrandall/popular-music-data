@@ -1,8 +1,11 @@
 ---
+album: Head To The Sky
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0iPy1MWCrOT7SjGs14zSSv
 features: []
-genres: []
+first_released_as_single: false
 key: you-earth-wind-fire
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-feat-Brian-McKnight/To-You
 name: You
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
+release_year: 1973
+runtime: 311080
 ---
 Don't try to hide the way you feel
 'Cause deep inside you know, you can feel it

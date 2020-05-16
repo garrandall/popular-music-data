@@ -1,8 +1,11 @@
 ---
+album: Sealed With A Kiss
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:2W5UG7uGle3SlZiyzEGxls
 features: []
-genres: []
+first_released_as_single: false
 key: sealed-with-a-kiss-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/sealedwithakiss.html
 name: Sealed With A Kiss
@@ -63,8 +66,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1962
+runtime: 168866
 ---
-
 Though we've got to say
 Goodbye for the summer
 Baby, I promise you this
@@ -99,7 +103,4 @@ Every day in a letter
 Sealed with a kiss
 Sealed with a kiss
 Sealed with a kiss
-Sealed with a kiss 
-
-
-
+Sealed with a kiss

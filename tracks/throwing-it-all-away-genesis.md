@@ -1,8 +1,11 @@
 ---
+album: Invisible Touch
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:1dMilrhgON9TIGPVdWG2dX
 features: []
-genres: []
+first_released_as_single: false
 key: throwing-it-all-away-genesis
 lyrics_url: https://genius.com/Genesis-throwing-it-all-away-lyrics
 name: Throwing It All Away
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1986
+runtime: 230520
 ---
 Need I say I love you?
 Need I say I care?

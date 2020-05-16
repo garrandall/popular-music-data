@@ -1,8 +1,11 @@
 ---
+album: I'm Your Baby Tonight
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:6LuRPg5tHDwcyXvEvrtVxP
 features: []
-genres: []
+first_released_as_single: false
 key: miracle-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/miracle.html
 name: Miracle
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1990
+runtime: 342666
 ---
-
 How could I throw away a miracle?
 How could I face another day?
 It's all of my doing, I made a choice
@@ -104,4 +108,3 @@ That you should come listen
 Don't ever throw away your miracle
 Don't let it slip away
 Nothing should matter
-

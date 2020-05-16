@@ -1,8 +1,11 @@
 ---
+album: The Big Bad Bay Area
 artists:
 - The Ballads
+external_ids:
+  spotify: spotify:track:4bEo2foxPfrWk0INZI9dqy
 features: []
-genres: []
+first_released_as_single: false
 key: god-bless-our-love-the-ballads
 name: God Bless Our Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 310283
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Dr. Buzzard's Original Savannah Band
 artists:
 - Dr. Buzzard's Original Savannah Band
+external_ids:
+  spotify: spotify:track:1bSE0n12PsKE9l6I6wGevd
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-play-the-fool-dr--buzzard-s-original-savannah-band
 lyrics_url: https://genius.com/Dr-buzzards-original-savannah-band-ill-play-the-fool-lyrics
 name: I'll Play The Fool
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
+release_year: 1976
+runtime: 288400
 ---
 I'll play the fool for you, oh girl
 If that will get me over

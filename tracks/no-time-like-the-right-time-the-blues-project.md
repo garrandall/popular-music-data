@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - The Blues Project
+external_ids:
+  spotify: spotify:track:7Ai4qIKyxcBCcKAz4AtGxo
 features: []
-genres: []
+first_released_as_single: false
 key: no-time-like-the-right-time-the-blues-project
 lyrics_url: https://genius.com/The-blues-project-no-time-like-the-right-time-lyrics
 name: No Time Like The Right Time
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 164040
 ---
 You have made the moment into happy hours
 And in just that moment changed the rain cloud into flowers

@@ -1,8 +1,11 @@
 ---
+album: Ain't That Good News
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:6SlKb345GYqrJSvxoT2WCs
 features: []
-genres: []
+first_released_as_single: false
 key: good-news-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-aint-that-good-news-lyrics
 name: Good News
@@ -47,6 +50,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1960
+runtime: 150680
 ---
 Oh my baby's comin' home tomorrow
 Ain't that good news?

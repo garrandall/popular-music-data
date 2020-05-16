@@ -1,8 +1,11 @@
 ---
+album: Chess Divas
 artists:
 - Mitty Collier
+external_ids:
+  spotify: spotify:track:1EMHaxW0G6tFGPas0qod1M
 features: []
-genres: []
+first_released_as_single: false
 key: sharing-you-mitty-collier
 lyrics_url: https://genius.com/Mitty-collier-sharing-you-lyrics
 name: Sharing You
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 193786
 ---
 Sharing you
 I know I'm sharing you

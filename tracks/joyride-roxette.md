@@ -1,8 +1,11 @@
 ---
+album: Joyride
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:4wj8ppW6nJ5hYlgfeJNBn2
 features: []
-genres: []
+first_released_as_single: false
 key: joyride-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/joyride.html
 name: Joyride
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
+release_year: 1991
+runtime: 263093
 ---
-
 I hit the road out of nowhere 
 I had to jump in my car 
 And be a rider in a love game 
@@ -132,6 +136,3 @@ Who ROX you like a baby
 She says: Hello, you fool, I love you 
 Come on join the joyride 
 Join the joyride
-
-
-

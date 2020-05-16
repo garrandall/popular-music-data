@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:0Mfbc7b4veAMEiWOffph5q
 features: []
-genres: []
+first_released_as_single: false
 key: mary-did-you-know-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/marydidyouknow.html
 name: Mary Did You Know
@@ -11,8 +14,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 199760
 ---
-
 Mary, did you know that your baby boy
 Will one day walk on water?
 Mary, did you know that your baby boy
@@ -52,6 +56,3 @@ He is the great, the great I Am?
 
 Mary, did you know?
 Mary, did you know?
-
-
-

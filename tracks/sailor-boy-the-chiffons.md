@@ -1,8 +1,11 @@
 ---
+album: The Chiffons Absolutely The Best!
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:0CEIKXrsriBeQWTTE4eJvt
 features: []
-genres: []
+first_released_as_single: false
 key: sailor-boy-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/sailorboy.html
 name: Sailor Boy
@@ -19,8 +22,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 176226
 ---
-
 Sailor boy (sailor boy)
 Sailor boy (sailor boy)
 Hurry home to me
@@ -76,6 +80,3 @@ Oh, my sailor boy
 Sailor boy (sailor boy)
 Sailor boy (sailor boy)
 Hurry home to me
-
-
-

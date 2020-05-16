@@ -1,8 +1,11 @@
 ---
+album: Kiss Me, Kiss Me, Kiss Me
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:5I2EthKpXxIDSkfqCmRHUd
 features: []
-genres: []
+first_released_as_single: true
 key: just-like-heaven-the-cure
 lyrics_url: https://genius.com/The-cure-just-like-heaven-lyrics
 name: Just Like Heaven
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 199893
 ---
 "Show me, show me, show me how you do that trick
 The one that makes me scream", she said

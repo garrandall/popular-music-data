@@ -1,9 +1,12 @@
 ---
+album: Lack Of Communication
 artists:
 - Ric-A-Che
+external_ids:
+  spotify: spotify:track:3WuLVGWC1S616Unk73tOK5
 features:
 - Darija
-genres: []
+first_released_as_single: true
 key: coo-coo-chee-ric-a-che-darija
 lyrics_url: https://www.musixmatch.com/lyrics/Ric-A-Che-Darija/Coo-Coo-Chee
 name: Coo-Coo Chee
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2003
+runtime: 232506
 ---
 آخ که دیگه دلم میگه تمــــــوم دنیــــای منی
 ستــاره های آســـــمونو واسه تو میارم زمین

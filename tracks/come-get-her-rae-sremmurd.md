@@ -1,8 +1,11 @@
 ---
+album: SremmLife
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:1Ser4X0TKttOvo8bgdytTP
 features: []
-genres: []
+first_released_as_single: false
 key: come-get-her-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-come-get-her-lyrics
 name: Come Get Her
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 212946
 ---
 Trippin'
 Mike WiLL Made-It

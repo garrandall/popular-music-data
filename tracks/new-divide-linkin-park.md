@@ -1,8 +1,11 @@
 ---
+album: One More Light Live
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:6PPu2SJkd5XmHU7q4QifbQ
 features: []
-genres: []
+first_released_as_single: true
 key: new-divide-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/newdivide.html
 name: New Divide
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 268613
 ---
-
 I remembered black skies
 The lightning all around me
 I remembered each flash
@@ -144,6 +148,3 @@ Let it be enough to reach the truth that lies
 Across this new divide
 Across this new divide
 Across this new divide
-
-
-

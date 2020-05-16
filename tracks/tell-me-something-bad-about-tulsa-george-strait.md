@@ -1,8 +1,11 @@
 ---
+album: Honkytonkville
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:24G9unJcgg98i678VyoXXI
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-something-bad-about-tulsa-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/tellmesomethingbadabouttulsa.html
 name: Tell Me Something Bad About Tulsa
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2003
+runtime: 196973
 ---
-
 Love is so beautiful
 When everything is fine
 But when it is like hers and mine
@@ -68,6 +72,3 @@ Tell me something bad about Tulsa
 So I won't have to go back
 Believing I belong there
 Again
-
-
-

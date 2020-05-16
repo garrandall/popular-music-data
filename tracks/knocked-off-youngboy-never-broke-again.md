@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:7MYFKS7XpVz1JQDK38pr8N
 features: []
-genres: []
+first_released_as_single: false
 key: knocked-off-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-knocked-off-lyrics
 name: Knocked Off
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 127983
 ---
 Who made this shit?
 TayTay made the beat

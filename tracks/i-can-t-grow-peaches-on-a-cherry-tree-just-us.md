@@ -1,8 +1,11 @@
 ---
+album: 'So Fine: One Hit Wonders of AM Radio'
 artists:
 - Just Us
+external_ids:
+  spotify: spotify:track:56OqFabpmkMegY248eoSm5
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-grow-peaches-on-a-cherry-tree-just-us
 name: I Can't Grow Peaches On A Cherry Tree
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 154760
 ---
 

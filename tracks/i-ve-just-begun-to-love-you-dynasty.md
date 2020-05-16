@@ -1,8 +1,11 @@
 ---
+album: Adventures in the Land of Music
 artists:
 - Dynasty
+external_ids:
+  spotify: spotify:track:4uAmOz06dbppQuq4wyWd7g
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-just-begun-to-love-you-dynasty
 lyrics_url: https://genius.com/Dynasty-ive-just-begun-to-love-you-lyrics
 name: I've Just Begun To Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
+release_year: 1980
+runtime: 395039
 ---
 When I saw you standing there
 I asked myself, "Is she the kind who plays it fair?"

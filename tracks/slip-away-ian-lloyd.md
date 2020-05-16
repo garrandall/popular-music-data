@@ -1,8 +1,11 @@
 ---
+album: Goosebumps
 artists:
 - Ian Lloyd
+external_ids:
+  spotify: spotify:track:5Q0bR0GcbC40ZbuprgLVHb
 features: []
-genres: []
+first_released_as_single: false
 key: slip-away-ian-lloyd
 name: Slip Away
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 217093
 ---
 

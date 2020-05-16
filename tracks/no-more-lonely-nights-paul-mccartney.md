@@ -1,8 +1,11 @@
 ---
+album: Give My Regards To Broad Street
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:3CCBwpqjdar1PG6HHulmD0
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-lonely-nights-paul-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-no-more-lonely-nights-lyrics
 name: No More Lonely Nights
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 312733
 ---
 I can wait another day until I call you
 Mm-hm

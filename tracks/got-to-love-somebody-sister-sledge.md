@@ -1,8 +1,11 @@
 ---
+album: Love Somebody Today
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:2Cp5fKWX5eJ4TgU9IYFPxG
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-love-somebody-sister-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/sistersledge/gottolovesomebody.html
 name: Got To Love Somebody
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1980
+runtime: 413706
 ---
-
 I've got to love somebody today
 I've got to love somebody
 I've got to love somebody today
@@ -79,6 +83,3 @@ I've got to love somebody
 I've got to love somebody today
 I've got to love somebody soon
 ...
-
-
-

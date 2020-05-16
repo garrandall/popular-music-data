@@ -1,8 +1,11 @@
 ---
+album: O
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:1j8iydbPBXcqOhNkJex7Vx
 features: []
-genres: []
+first_released_as_single: false
 key: o-omarion
 lyrics_url: https://genius.com/Omarion-o-lyrics
 name: O
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2002
+runtime: 280693
 ---
 Woah, let me tell you girl
 Woah oh

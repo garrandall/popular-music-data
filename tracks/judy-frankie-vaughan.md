@@ -1,8 +1,11 @@
 ---
+album: US & UK Singles Collection 1950-62
 artists:
 - Frankie Vaughan
+external_ids:
+  spotify: spotify:track:1ZdejhoA03ns0W3MZz6Ceb
 features: []
-genres: []
+first_released_as_single: false
 key: judy-frankie-vaughan
 lyrics_url: https://genius.com/Frankie-vaughan-judy-lyrics
 name: Judy
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 125933
 ---
 If her voice can bring
 Every hope of Spring

@@ -1,8 +1,11 @@
 ---
+album: Pearl
 artists:
 - Janis Joplin
+external_ids:
+  spotify: spotify:track:3L60Vu9qmY6fg2QroRIxgi
 features: []
-genres: []
+first_released_as_single: false
 key: cry-baby-janis-joplin
 lyrics_url: https://www.azlyrics.com/lyrics/janisjoplin/crybaby.html
 name: Cry Baby
@@ -31,8 +34,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 238600
 ---
-
 Cry baby, cry baby, cry baby,
 Honey, welcome back home.
 
@@ -76,6 +80,3 @@ I want you to come on, come on to your mama now,
 And if you ever want a little love of a woman
 Come on and baby baby baby babe babe baby now
 Cry baby yeah.
-
-
-

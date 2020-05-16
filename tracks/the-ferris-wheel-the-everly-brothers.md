@@ -1,8 +1,11 @@
 ---
+album: Gone Gone Gone
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:06oW9gZWV5nfoaAoT0MsdD
 features: []
-genres: []
+first_released_as_single: false
 key: the-ferris-wheel-the-everly-brothers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Everly-Brothers/The-Ferris-Wheel
 name: The Ferris Wheel
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 138280
 ---
 I'll ride the roller coaster or the carousel
 I like the spider and the diving bell

@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:6ck1GKFARCK3T6w03RTV8y
 features: []
-genres: []
+first_released_as_single: false
 key: shu-rah-fats-domino
 lyrics_url: https://genius.com/Fats-domino-shu-rah-lyrics
 name: Shu Rah
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1960
+runtime: 103560
 ---
 Here comes my baby
 Shu Rah

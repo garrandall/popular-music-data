@@ -1,8 +1,11 @@
 ---
+album: Sheer Heart Attack (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:7GqWnsKhMtEW0nzki5o0d8
 features: []
-genres: []
+first_released_as_single: false
 key: killer-queen-queen
 lyrics_url: https://www.musixmatch.com/lyrics/5-Seconds-of-Summer/Killer-Queen
 name: Killer Queen
@@ -83,6 +86,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1974
+runtime: 179600
 ---
 She's a Killer Queen
 Gunpowder, gelatin

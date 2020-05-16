@@ -1,8 +1,11 @@
 ---
+album: Harmony
 artists:
 - Lidell Townsell
+external_ids:
+  spotify: spotify:track:0qMUoCJmSPCjeej1d6g85A
 features: []
-genres: []
+first_released_as_single: false
 key: nu-nu-lidell-townsell
 lyrics_url: https://genius.com/Lidell-townsell-nu-nu-lyrics
 name: Nu Nu
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1992-07-11'
+release_year: 1992
+runtime: 199626
 ---
 When I saw her walking down the street
 She looks so fine, I just have to speak

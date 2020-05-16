@@ -1,8 +1,11 @@
 ---
+album: Wonderful Wanda
 artists:
 - Wanda Jackson
+external_ids:
+  spotify: spotify:track:29Oy5JtYzFvBiSzn6wXTce
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-middle-of-a-heartache-wanda-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/inthemiddleofaheartache.html
 name: In The Middle Of A Heartache
@@ -47,8 +50,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 156760
 ---
-
 I'm in the middle of a heartache half out half in
 Not quite out of love with you not too much in love with him
 I'm in the middle of a heartache half way half blue
@@ -60,6 +64,3 @@ I'm in the middle of a heartache heart old heart new
 Can't give all my love to him when I'm still in love with you
 
 Just when I think...
-
-
-

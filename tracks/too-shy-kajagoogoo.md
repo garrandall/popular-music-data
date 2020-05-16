@@ -1,8 +1,11 @@
 ---
+album: White Feathers
 artists:
 - Kajagoogoo
+external_ids:
+  spotify: spotify:track:6WEBIVqiEsevfgJefTyuQQ
 features: []
-genres: []
+first_released_as_single: false
 key: too-shy-kajagoogoo
 lyrics_url: https://www.azlyrics.com/lyrics/kajagoogoo/tooshy.html
 name: Too Shy
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 222320
 ---
-
 Tied
 
 Tongue tied or short of breath, don't even try
@@ -154,6 +158,3 @@ Too shy, shy
 Hush hush, eye-to-eye
 
 Too shy, shy
-
-
-

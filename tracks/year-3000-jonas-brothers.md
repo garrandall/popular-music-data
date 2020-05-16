@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:7BbyWKteSctTKe696qf7fw
 features: []
-genres: []
+first_released_as_single: false
 key: year-3000-jonas-brothers
 lyrics_url: https://genius.com/Jonas-brothers-year-3000-lyrics
 name: Year 3000
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2007-04-21'
+release_year: 2006
+runtime: 201813
 ---
 One day, when I came home at lunchtime
 I heard a funny noise

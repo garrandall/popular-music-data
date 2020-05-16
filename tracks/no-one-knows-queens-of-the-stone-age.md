@@ -1,8 +1,11 @@
 ---
+album: Songs For The Deaf
 artists:
 - Queens Of The Stone Age
+external_ids:
+  spotify: spotify:track:6NvRxjfYkkT2SpirAlmsjH
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-knows-queens-of-the-stone-age
 lyrics_url: https://genius.com/Queens-of-the-stone-age-no-one-knows-lyrics
 name: No One Knows
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
+release_year: 2002
+runtime: 278706
 ---
 We get some rules to follow
 That and this, these and those

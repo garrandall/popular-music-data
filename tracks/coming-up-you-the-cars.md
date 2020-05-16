@@ -1,8 +1,11 @@
 ---
+album: Shake It Up (Expanded)
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:0sySRNxPDfvUWyjyoyuoHk
 features: []
-genres: []
+first_released_as_single: false
 key: coming-up-you-the-cars
 lyrics_url: https://genius.com/The-cars-coming-up-you-lyrics
 name: Coming Up You
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1981
+runtime: 321186
 ---
 How could they leave you standing
 Holding on to the air

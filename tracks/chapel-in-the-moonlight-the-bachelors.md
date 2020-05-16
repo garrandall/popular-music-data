@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:0IR0Gxgnn4zHeNlrqY8iVp
 features: []
-genres: []
+first_released_as_single: false
 key: chapel-in-the-moonlight-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-in-the-chapel-in-the-moonlight-lyrics
 name: Chapel In The Moonlight
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 124333
 ---
 How I'd love to hear the organ
 In the chapel in the moonlight

@@ -1,8 +1,11 @@
 ---
+album: Out Of This World
 artists:
 - Europe
+external_ids:
+  spotify: spotify:track:4Mq8m1rgMittyGnP5ty36Q
 features: []
-genres: []
+first_released_as_single: false
 key: superstitious-europe
 lyrics_url: https://www.azlyrics.com/lyrics/europe/superstitious.html
 name: Superstitious
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1988
+runtime: 274960
 ---
-
 Keep on walkin' that road and I'll follow
 Keep on callin' my name I'll be there
 And if a mirror should break it's easy to take
@@ -109,6 +113,3 @@ Keep on callin' my name I'll be there
 And if a mirror should break it's easy to take
 Cause deep down I know that you care
 I'm not superstitious
-
-
-

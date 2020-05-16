@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3STe6wgb3CfS7HmYX6NRlG
 features: []
-genres: []
+first_released_as_single: false
 key: fix-you-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/fixyou.html
 name: Fix You
@@ -11,9 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 274906
 ---
-
-
 When you try your best, but you don't succeed
 When you get what you want, but not what you need
 When you feel so tired, but you can't sleep
@@ -51,6 +54,3 @@ And I
 Lights will guide you home
 And ignite your bones
 And I will try to fix you
-
-
-

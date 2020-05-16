@@ -1,8 +1,11 @@
 ---
+album: Rock a Little
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:0p4b7LieKeph1CqJhxkTMC
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-wait-stevie-nicks
 lyrics_url: https://genius.com/Stevie-nicks-i-cant-wait-lyrics
 name: I Can't Wait
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1986
+runtime: 275840
 ---
 I can't wait
 How will I love you

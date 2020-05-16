@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:48C1BwVwuZPMAQbQl9gOan
 features: []
-genres: []
+first_released_as_single: false
 key: half-heaven---half-heartache-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/halfheavenhalfheartache.html
 name: Half Heaven - Half Heartache
@@ -55,8 +58,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 163560
 ---
-
 My arms reach out for you I kiss you tenderly
 But when you touch my lips you're kissing him not me, why must it be
 Half heaven, half heartache, my lovin' you, darlin'
@@ -71,6 +75,3 @@ And make my life a heaven on earth with you-ou-oo-ou
 Half heaven, half heartache, my loving you, darlin'
 Oh let my love be strong enough to take away the heartache
 And make my life a heaven on earth with you-ou-oo-oo-ou
-
-
-

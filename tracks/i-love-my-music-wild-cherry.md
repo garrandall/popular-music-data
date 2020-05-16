@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Wild Cherry
+external_ids:
+  spotify: spotify:track:7KHriXtGqZS83iUWwgbyss
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-my-music-wild-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/wildcherry/ilovemymusic.html
 name: I Love My Music
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1978
+runtime: 244933
 ---
-
 Do do do do do
 Do do do do do
 Do doo
@@ -116,6 +120,3 @@ Well yeah, yeah, yeah, yeah
 And my music
 And my music
 And my music yeah, yeah, yeah, yeah, yeah, yeah
-
-
-

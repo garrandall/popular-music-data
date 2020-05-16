@@ -1,8 +1,11 @@
 ---
+album: Half-Breed
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:23jaOlnV7vHmly51DPBr35
 features: []
-genres: []
+first_released_as_single: false
 key: half-breed-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/halfbreed.html
 name: Half-Breed
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1973
+runtime: 167533
 ---
-
 My father married a pure Cherokee
 My mother's people were ashamed of me
 The indians said I was white by law
@@ -110,4 +114,3 @@ We weren't accepted and I felt ashamed
 Nineteen I left them, tell me who's to blame
 My life since then has been from man to man
 But I can't run away from what I am
-

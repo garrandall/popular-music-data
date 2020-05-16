@@ -1,8 +1,11 @@
 ---
+album: Into My Own Thing
 artists:
 - Bobby Powell
+external_ids:
+  spotify: spotify:track:4GeDvtCKRWFi6HtauLMM0G
 features: []
-genres: []
+first_released_as_single: false
 key: why--am-i-treated-so-bad--bobby-powell
 name: Why (Am I Treated So Bad)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1966
+runtime: 168879
 ---
 

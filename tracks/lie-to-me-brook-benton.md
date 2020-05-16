@@ -1,8 +1,11 @@
 ---
+album: Brook Benton - His Very Best
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4yRzM6T7gqAlEMye90cLS4
 features: []
-genres: []
+first_released_as_single: false
 key: lie-to-me-brook-benton
 lyrics_url: https://genius.com/Brook-benton-lie-to-me-lyrics
 name: Lie To Me
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 129288
 ---
 I know I'm losing you, I feel it all the time
 And I know if I lose you, then I'll lose my mind

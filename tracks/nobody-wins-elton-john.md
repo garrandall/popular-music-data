@@ -1,8 +1,11 @@
 ---
+album: The Fox
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:2fnEJ2Lltacut4fcIwsOcj
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wins-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/nobodywins.html
 name: Nobody Wins
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 219493
 ---
-
 They must have loved each other once
 But that was many years ago
 And by the time I came along
@@ -93,6 +97,3 @@ But if we learn from what we see
 And face the truth while we still can
 Then though the passion may be gone
 Some kind of love can still live on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All That You Can't Leave Behind
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:1VuBmEauSZywQVtqbxNqka
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-day-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/beautifulday.html
 name: Beautiful Day
@@ -107,8 +110,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
+release_year: 2000
+runtime: 246400
 ---
-
 The heart is a bloom
 Shoots up through the stony ground
 There's no room
@@ -171,6 +175,3 @@ What you don't know you can feel it somehow
 What you don't have you don't need it now
 Don't need it now
 Was a beautiful day
-
-
-

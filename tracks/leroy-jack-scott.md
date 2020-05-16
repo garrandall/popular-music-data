@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:6yG8ws5eWLilCkRgA5Je83
 features: []
-genres: []
+first_released_as_single: false
 key: leroy-jack-scott
 lyrics_url: https://genius.com/Jack-scott-leroy-lyrics
 name: Leroy
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 129759
 ---
 I know a boy who was never blue
 Now he lives in Cellblock Two

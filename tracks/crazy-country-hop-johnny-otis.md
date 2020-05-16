@@ -1,8 +1,11 @@
 ---
+album: The Capitol Years
 artists:
 - Johnny Otis
+external_ids:
+  spotify: spotify:track:3ckKoeMeBQNuV5HjVZplD0
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-country-hop-johnny-otis
 lyrics_url: https://www.musixmatch.com/lyrics/The-Johnny-Otis-Show/Crazy-Country-Hop
 name: Crazy Country Hop
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 162626
 ---
 Way down in a country town one day
 A little ole' country band began to play.

@@ -1,8 +1,11 @@
 ---
+album: Turn Your Radio On
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:5B65sNON1ysGfSuoIPPUSc
 features: []
-genres: []
+first_released_as_single: false
 key: turn-your-radio-on-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/turnyourradioon.html
 name: Turn Your Radio On
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-01-01'
+release_year: 1971
+runtime: 133346
 ---
-
 Welcome and listen into a radio station
 Where the mighty hosts of heaven sing
 Turn your radio on - turn your radio
@@ -73,6 +77,3 @@ And listen to the master's radio - and listen to the master's
 Turn your lights down low and listen to the master's radio
 Get in touch with God - get in touch with God
 Turn your radio on - turn your radio on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 12" Masters - The Essential Mixes
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:0R03f3Axt495bkgGhivLEe
 features: []
-genres: []
+first_released_as_single: true
 key: what-goes-aroundcomes-around-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-what-goes-around-comes-around-interlude-lyrics
 name: What Goes AroundComes Around
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
+release_year: 2006
+runtime: 313133
 ---
 Hey, girl
 Is he everything you wanted in a man?

@@ -1,8 +1,11 @@
 ---
+album: Seventh Sojourn
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:4qE1zFIyqtfYc2XfVnsKVf
 features: []
-genres: []
+first_released_as_single: false
 key: isn-t-life-strange-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-isnt-life-strange-lyrics
 name: Isn't Life Strange
@@ -47,6 +50,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 368560
 ---
 Isn't life strange
 A turn of the page

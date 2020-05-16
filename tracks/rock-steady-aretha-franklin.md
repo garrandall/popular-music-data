@@ -1,8 +1,11 @@
 ---
+album: Young, Gifted and Black
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6ZnHrF3PTc3JEVz4tlKAJh
 features: []
-genres: []
+first_released_as_single: false
 key: rock-steady-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-rock-steady-lyrics
 name: Rock Steady
@@ -43,6 +46,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 195573
 ---
 Rock steady, baby!
 That's what I feel now

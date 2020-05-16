@@ -1,8 +1,11 @@
 ---
+album: The Belle Album
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:7gCp8Ze97mZJpNPC6DmfQv
 features: []
-genres: []
+first_released_as_single: false
 key: belle-al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/belle.html
 name: Belle
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 289426
 ---
-
 Belle...
 The Lord and I have been friends for a mighty long time
 Belle...
@@ -88,6 +92,3 @@ In the nighttime...
 He's my everything, yeah!
 Belle...
 Belle..
-
-
-

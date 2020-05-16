@@ -1,8 +1,11 @@
 ---
+album: Desert Moon
 artists:
 - Dennis DeYoung
+external_ids:
+  spotify: spotify:track:3MzjEIe5pjA1gFgS95bkdN
 features: []
-genres: []
+first_released_as_single: false
 key: desert-moon-dennis-deyoung
 lyrics_url: https://www.azlyrics.com/lyrics/dennisdeyoung/desertmoon.html
 name: Desert Moon
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 368800
 ---
-
 "Is this the train to Desert Moon?" was all she said
 But I knew I'd heard that stranger's voice before
 I turned to look into her eyes, but she moved away
@@ -135,6 +139,3 @@ But dreams remain for just as long
 As there's dreamers, all the dreamers
 On Desert Moon, on Desert Moon
 On Desert Moon, Desert Moon
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mirror Moves
 artists:
 - Psychedelic Furs
+external_ids:
+  spotify: spotify:track:04BQXS1HwzNpfZ2Wvw2RIy
 features: []
-genres: []
+first_released_as_single: false
 key: the-ghost-in-you-psychedelic-furs
 lyrics_url: https://www.azlyrics.com/lyrics/psychedelicfurs/theghostinyou.html
 name: The Ghost In You
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
+release_year: 1984
+runtime: 257760
 ---
-
 A man in my shoes runs a light
 And all the papers lied tonight
 But falling over you
@@ -84,6 +88,3 @@ The ghost in you, she don't fade
 Inside you the time moves and she don't fade
 The ghost in you, she don't fade
 Inside you the time moves
-
-
-

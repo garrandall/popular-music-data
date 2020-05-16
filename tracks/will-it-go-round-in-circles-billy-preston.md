@@ -1,8 +1,11 @@
 ---
+album: Billy Preston - The Best
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:0k5YMrVmBTlWTxcCyFv5xA
 features: []
-genres: []
+first_released_as_single: false
 key: will-it-go-round-in-circles-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/willitgoroundincircles.html
 name: Will It Go Round In Circles
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1973
+runtime: 224760
 ---
-
 I've got a song, I ain't got no melody
 I'ma gonna sing it to my friends
 I've got a song, I ain't got no melody
@@ -151,6 +155,3 @@ Go round in circles
 Will it fly high like a bird up in the sky?
 Will it go round in circles?
 Will it fly high like a bird up in the sky? Woo...
-
-
-

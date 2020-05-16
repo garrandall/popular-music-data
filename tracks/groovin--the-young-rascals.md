@@ -1,8 +1,11 @@
 ---
+album: Groovin' (Mono)
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:3c2kMiSB86tVq1J4oULmvL
 features: []
-genres: []
+first_released_as_single: false
 key: groovin--the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-groovin-lyrics
 name: Groovin'
@@ -59,6 +62,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 151289
 ---
 Groovin' on a Sunday afternoon
 Really couldn't get away too soon

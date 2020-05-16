@@ -1,9 +1,12 @@
 ---
+album: United
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:1gQsnhxmvNtqnH1hcmRALk
 features: []
-genres: []
+first_released_as_single: false
 key: if-this-world-were-mine-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-if-this-world-were-mine-lyrics
 name: If This World Were Mine
@@ -32,6 +35,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1967
+runtime: 166373
 ---
 If this world were mine
 I'd place at your feet all that I own

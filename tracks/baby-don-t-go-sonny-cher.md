@@ -1,9 +1,12 @@
 ---
+album: Baby Don't Go
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:3gtaAsLDt1N7fLhQSc24ZX
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-go-sonny-cher
 lyrics_url: https://genius.com/Sonny-and-cher-baby-dont-go-lyrics
 name: Baby Don't Go
@@ -56,6 +59,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 190560
 ---
 Baby don't go, pretty baby please don't go
 

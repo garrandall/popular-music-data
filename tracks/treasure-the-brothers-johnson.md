@@ -1,8 +1,11 @@
 ---
+album: Light Up The Night
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:4rMkDtoaC5jCJyUAiBriQT
 features: []
-genres: []
+first_released_as_single: false
 key: treasure-the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/brothersjohnson/treasure.html
 name: Treasure
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 251266
 ---
-
 Moonlight won't ever be cold
 As long as I have you to hold
 And if I'm away from your side
@@ -58,6 +62,3 @@ And I'll never need dreams in my life
 'Cause you make them all come true
 And now life's a pleasure
 'Cause I found a treasure in you
-
-
-

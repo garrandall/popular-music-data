@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:5vB9Ci7kJosmk1AwIQSpru
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-in-common-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/nothingincommon.html
 name: Nothing In Common
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 208826
 ---
-
 Need a helping hand of all the people in the world
 I hoped you'd understand
 You and me have grown so far apart
@@ -98,6 +102,3 @@ After all that we've been through
 Don't you know I feel for you
 We've got nothing in common
 So much to lose
-
-
-

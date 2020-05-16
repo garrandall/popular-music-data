@@ -1,8 +1,11 @@
 ---
+album: low kii savage
 artists:
 - Kiiara
+external_ids:
+  spotify: spotify:track:6ZSO7kPn8IMJFymyticbJO
 features: []
-genres: []
+first_released_as_single: true
 key: gold-kiiara
 lyrics_url: https://genius.com/Kiiara-gold-lyrics
 name: Gold
@@ -115,6 +118,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 225882
 ---
 Roof was on, let me, love me-on-ly s-you know
 Roof was on, let me, love me-on-ly s-you know

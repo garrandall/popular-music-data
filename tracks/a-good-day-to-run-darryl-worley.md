@@ -1,8 +1,11 @@
 ---
+album: Hard Rain Don't Last
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:3Ye4dPI87Y3SP3pH0EC3rC
 features: []
-genres: []
+first_released_as_single: false
 key: a-good-day-to-run-darryl-worley
 lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/agooddaytorun.html
 name: A Good Day To Run
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-03-17'
+release_year: 2000
+runtime: 188333
 ---
-
 I'm tired of working every day for a dollar
 About to choke on my own blue collar
 This ain't gonna last
@@ -77,6 +81,3 @@ Throwing troubles out to the wind and
 I'm praying that they never catch up again
 I'm gonna say my worrying days are done
 And this looks like a good day to run
-
-
-

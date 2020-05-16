@@ -1,8 +1,11 @@
 ---
+album: We're A Winner
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:55DJEyZPKwDktxV2EZSJ9u
 features: []
-genres: []
+first_released_as_single: false
 key: i-loved-and-i-lost-the-impressions
 lyrics_url: https://genius.com/The-impressions-i-loved-and-i-lost-lyrics
 name: I Loved And I Lost
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 197466
 ---
 What do you know about it?
 Who had told you so?

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6XsvT9BGwhOHCXXBzkahnu
 features: []
-genres: []
+first_released_as_single: false
 key: the-boy-is-mine-glee-cast
 lyrics_url: https://genius.com/Glee-cast-the-boy-is-mine-lyrics
 name: The Boy Is Mine
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 293680
 ---
 Excuse me, can I please talk to you for a minute?
 

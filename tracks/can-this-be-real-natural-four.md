@@ -1,8 +1,11 @@
 ---
+album: The Natural Four
 artists:
 - Natural Four
+external_ids:
+  spotify: spotify:track:0H4tjVFyQTABUyYhmy0wsU
 features: []
-genres: []
+first_released_as_single: false
 key: can-this-be-real-natural-four
 lyrics_url: https://genius.com/Natural-four-can-this-be-real-lyrics
 name: Can This Be Real
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1974
+runtime: 208040
 ---
 I have always been the guy, who coild handle almost anything
 I've had money and cars, expensive girls in bars, and I've always had my own song to sing. Ah but you came along, changed the sound of my song, and I've never ever felt like this before so tell me Can this be real? This love I feel. In my heart for you baby, Ah can it really be true? You changed my life so suddenly, I don't know if thiis is me or not. But I like the new me, my new idenity. So don't you ever let the feeling stop. Sometime I try to resists you girl, ah but that would just

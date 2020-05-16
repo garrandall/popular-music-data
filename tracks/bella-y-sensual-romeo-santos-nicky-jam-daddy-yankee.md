@@ -1,10 +1,13 @@
 ---
+album: Golden
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:0ERbK7qVqveCaBWIiYCrl3
 features:
 - Nicky Jam
 - Daddy Yankee
-genres: []
+first_released_as_single: false
 key: bella-y-sensual-romeo-santos-nicky-jam-daddy-yankee
 lyrics_url: https://genius.com/Romeo-santos-bella-y-sensual-lyrics
 name: Bella y Sensual
@@ -13,6 +16,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
+release_year: 2017
+runtime: 204700
 ---
 Hola mi amor, vengo acompañado
 DY

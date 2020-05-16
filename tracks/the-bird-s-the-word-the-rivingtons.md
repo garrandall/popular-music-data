@@ -1,8 +1,11 @@
 ---
+album: The Libery Years
 artists:
 - The Rivingtons
+external_ids:
+  spotify: spotify:track:4niy5jbEb70771kN6GitE6
 features: []
-genres: []
+first_released_as_single: false
 key: the-bird-s-the-word-the-rivingtons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rivingtons/The-Bird-s-the-Word-2
 name: The Bird's The Word
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 132293
 ---
 A-well now, everybody's heard about the bird
 

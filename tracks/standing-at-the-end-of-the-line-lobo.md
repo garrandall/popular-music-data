@@ -1,8 +1,11 @@
 ---
+album: Calumet
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:5g8ICTXPpjlEnGQLpJfrcM
 features: []
-genres: []
+first_released_as_single: false
 key: standing-at-the-end-of-the-line-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/standingattheendoftheline.html
 name: Standing At The End Of The Line
@@ -35,8 +38,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1973
+runtime: 235466
 ---
-
 You've been around for a long, long time
 I've seen you here before
 You'll meet some guy who really turns you on
@@ -65,6 +69,3 @@ But you picked another guy to entertain
 you that night
 And I was left to entertain myself
 so I got into a fight.
-
-
-

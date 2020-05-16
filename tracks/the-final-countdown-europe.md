@@ -1,8 +1,11 @@
 ---
+album: The Final Countdown
 artists:
 - Europe
+external_ids:
+  spotify: spotify:track:3MrRksHupTVEQ7YbA0FsZK
 features: []
-genres: []
+first_released_as_single: false
 key: the-final-countdown-europe
 lyrics_url: https://www.azlyrics.com/lyrics/europe/thefinalcountdown.html
 name: The Final Countdown
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1986
+runtime: 310333
 ---
-
 Ten, nine, eight, seven, six, five, four, three, two, one.
 
 We're leaving together,
@@ -121,6 +125,3 @@ We'll all miss her so.
 It's the final countdown.
 
 It's the final countdown.
-
-
-

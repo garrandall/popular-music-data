@@ -1,8 +1,11 @@
 ---
+album: 'Global Warming: Meltdown (Deluxe Version)'
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:3eQlGeyuSibgAGPEJugaDW
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-time-pitbull
 lyrics_url: https://genius.com/Pitbull-back-in-time-lyrics
 name: Back In Time
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2012
+runtime: 207760
 ---
 Let's, excuse me, baby
 Go, yeah you, baby

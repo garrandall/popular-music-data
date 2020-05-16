@@ -1,8 +1,12 @@
 ---
+album: Don't Fight the Feeling - the Complete Aretha Franklin & King Curtis Live at
+  Fillmore West
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4HATay25mEjvfHNnWzvuvU
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-all-i-need-to-get-by-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-youre-all-i-need-to-get-by-lyrics
 name: You're All I Need To Get By
@@ -43,6 +47,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1971
+runtime: 217400
 ---
 You're all I need to get by
 You're all I need to get by

@@ -1,8 +1,11 @@
 ---
+album: 'Live! Take: 2'
 artists:
 - Gloria Lynne
+external_ids:
+  spotify: spotify:track:0kXKFTtDpUjSNsbpixifKv
 features: []
-genres: []
+first_released_as_single: false
 key: watermelon-man-gloria-lynne
 name: Watermelon Man
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 318613
 ---
 

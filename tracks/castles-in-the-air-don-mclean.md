@@ -1,8 +1,11 @@
 ---
+album: Believers
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:5RSeCwyPtZckl0GNNj7Rv5
 features: []
-genres: []
+first_released_as_single: false
 key: castles-in-the-air-don-mclean
 lyrics_url: https://www.azlyrics.com/lyrics/donmclean/castlesintheair.html
 name: Castles In The Air
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 222786
 ---
-
 And if she asks you why you can tell her that I told you
 That I'm tired of Castles in the Air
 I've got a dream I want the world to share and castle walls
@@ -99,6 +103,3 @@ And if she asks you why you can tell her that I told you
 That I'm tired of Castles in the Air
 I've got a dream I want the world to share and castle walls
 Just lead me to despair
-
-
-

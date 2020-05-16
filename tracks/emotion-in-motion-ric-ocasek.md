@@ -1,8 +1,11 @@
 ---
+album: This Side Of Paradise
 artists:
 - Ric Ocasek
+external_ids:
+  spotify: spotify:track:5TknpiAJsKOhUM4HM3tFDX
 features: []
-genres: []
+first_released_as_single: false
 key: emotion-in-motion-ric-ocasek
 lyrics_url: https://genius.com/Ric-ocasek-emotion-in-motion-lyrics
 name: Emotion In Motion
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 280600
 ---
 I would do anything
 To hold on to you

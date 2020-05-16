@@ -1,8 +1,11 @@
 ---
+album: Born Late
 artists:
 - Shaun Cassidy
+external_ids:
+  spotify: spotify:track:0inlixqQpYphAQY7K38NAZ
 features: []
-genres: []
+first_released_as_single: false
 key: hey-deanie-shaun-cassidy
 lyrics_url: https://genius.com/Shaun-cassidy-hey-deanie-lyrics
 name: Hey Deanie
@@ -71,6 +74,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1977
+runtime: 219306
 ---
 Hey Deanie
 Won't you come out tonight

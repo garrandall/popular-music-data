@@ -1,9 +1,12 @@
 ---
+album: United
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:3uMJcNcxcp801NLwgYrj9k
 features: []
-genres: []
+first_released_as_single: false
 key: your-precious-love-marvin-gaye-tammi-terrell
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/yourpreciouslove.html
 name: Your Precious Love
@@ -60,9 +63,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 187266
 ---
-
-
 Every day there's something new
 Honey, to keep me lovin' you
 And with every passin' minute
@@ -89,8 +92,3 @@ Laughter in the eyes where tears used to be
 'Cause there's so much, girl, I have yet to learn
  And I wanna show, I wanna show my appreciation
 'Cause when I found you, I found a new inspiration
-
-
-
-
-

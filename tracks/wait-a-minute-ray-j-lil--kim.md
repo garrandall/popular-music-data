@@ -1,9 +1,12 @@
 ---
+album: This Ain't A Game
 artists:
 - Ray J
+external_ids:
+  spotify: spotify:track:7xwFOVYwBuLvFquLyfooRp
 features:
 - Lil' Kim
-genres: []
+first_released_as_single: false
 key: wait-a-minute-ray-j-lil--kim
 lyrics_url: https://genius.com/Ray-j-wait-a-minute-lyrics
 name: Wait A Minute
@@ -76,6 +79,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
+release_year: 2001
+runtime: 227266
 ---
 Oh uh oh uh yea
 I don't think yall ready for this one

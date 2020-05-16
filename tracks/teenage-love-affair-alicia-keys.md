@@ -1,8 +1,11 @@
 ---
+album: As I Am
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:34ClgyHf8Awds1ew9vMX26
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-love-affair-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/teenageloveaffair.html
 name: Teenage Love Affair
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2007
+runtime: 190200
 ---
-
 Can't wait to get home
 Baby dial your number
 Can you pick up the phone
@@ -127,6 +131,3 @@ What nobody tell me
 I'm gonna be here
 It's a matter of extreme importance
 My first teenage love affair
-
-
-

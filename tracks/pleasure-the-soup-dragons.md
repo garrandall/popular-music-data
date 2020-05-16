@@ -1,8 +1,11 @@
 ---
+album: Hotwired
 artists:
 - The Soup Dragons
+external_ids:
+  spotify: spotify:track:3NV4AZ9aBiQMCIMZmK3jur
 features: []
-genres: []
+first_released_as_single: false
 key: pleasure-the-soup-dragons
 lyrics_url: https://genius.com/The-soup-dragons-pleasure-lyrics
 name: Pleasure
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
+release_year: 1992
+runtime: 234720
 ---
 Take it to the limit
 Live it to the full

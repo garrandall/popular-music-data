@@ -1,8 +1,11 @@
 ---
+album: The Big Picture
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:6FGfXPvZ8sMpq1xd75FHXp
 features: []
-genres: []
+first_released_as_single: false
 key: recover-your-soul-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/recoveryoursoul.html
 name: Recover Your Soul
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
+release_year: 1997
+runtime: 318040
 ---
-
 Baby you're missing something in the air
 I got a name but it don't matter
 What's going on, it's cold in here
@@ -109,6 +113,3 @@ Lazy old sunset sinking like a tear
 Alone at night in a losing battle
 That perfect world is never clear
 You have to fight for the things that matter
-
-
-

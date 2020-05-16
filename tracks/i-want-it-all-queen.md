@@ -1,8 +1,11 @@
 ---
+album: The Miracle (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:4DtB1PJsbl4KAb2rZVNCUL
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-it-all-queen
 lyrics_url: https://genius.com/Queen-i-want-it-all-lyrics
 name: I Want It All
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 242093
 ---
 I want it all (Hey, yeah), I want it all
 I want it all, and I want it now

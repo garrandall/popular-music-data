@@ -1,8 +1,11 @@
 ---
+album: Whitey Ford Sings the Blues
 artists:
 - Everlast
+external_ids:
+  spotify: spotify:track:0nbuX7OZkEY5agMkpr98wS
 features: []
-genres: []
+first_released_as_single: false
 key: what-it-s-like-everlast
 lyrics_url: https://genius.com/Everlast-what-its-like-lyrics
 name: What It's Like
@@ -139,6 +142,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
+release_year: 1998
+runtime: 303133
 ---
 We've all seen the man at the liquor store beggin' for your change
 The hair on his face is dirty, dreadlocked and full of mange

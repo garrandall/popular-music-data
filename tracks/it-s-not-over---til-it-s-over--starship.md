@@ -1,8 +1,11 @@
 ---
+album: No Protection
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:2NwH11vRqwyAkNmdVNaKhu
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-over---til-it-s-over--starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/itsnotovertilitsover.html
 name: It's Not Over ('til It's Over)
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 257333
 ---
-
 Listen
 We don't call the shots here
 We don't make the rules
@@ -130,6 +134,3 @@ It's not over 'til we get it right
 
 It's not over 'til it's over
 It's not over 'til we get it right
-
-
-

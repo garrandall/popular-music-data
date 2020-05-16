@@ -1,8 +1,11 @@
 ---
+album: A Date With The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:05x9nkkybDpaC9StimjFHA
 features: []
-genres: []
+first_released_as_single: false
 key: always-it-s-you-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-always-its-you-lyrics
 name: Always It's You
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 150426
 ---
 When I feel downhearted
 When I'm feeling blue

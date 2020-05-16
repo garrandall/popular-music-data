@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:0cJdSg34dnUSxSyFjBf703
 features: []
-genres: []
+first_released_as_single: false
 key: finger-poppin--time-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-finger-poppin-time-lyrics
 name: Finger Poppin' Time
@@ -111,6 +114,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 111826
 ---
 (Hey now, hey now, hey now, hey now)
 (It's finger pop poppin' time)

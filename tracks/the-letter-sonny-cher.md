@@ -1,9 +1,12 @@
 ---
+album: Look At Us
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:6tluFvNsaxJ0ExyAiNOvi2
 features: []
-genres: []
+first_released_as_single: false
 key: the-letter-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/theletter.html
 name: The Letter
@@ -28,8 +31,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 131933
 ---
-
 I'm writing this letter
 To say good-bye
 I know it will hurt you
@@ -49,6 +53,3 @@ Throw in our picture
 Darling forgive me
 I read your lies
 But darling you let me
-
-
-

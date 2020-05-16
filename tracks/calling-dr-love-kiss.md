@@ -1,8 +1,11 @@
 ---
+album: Rock And Roll Over
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:7xD7MvjAdZkx1YICschIuI
 features: []
-genres: []
+first_released_as_single: false
 key: calling-dr-love-kiss
 lyrics_url: https://genius.com/Kiss-calling-dr-love-lyrics
 name: Calling Dr Love
@@ -63,6 +66,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1976
+runtime: 224666
 ---
 You need my love, baby, oh so bad
 You're not the only one I've ever had

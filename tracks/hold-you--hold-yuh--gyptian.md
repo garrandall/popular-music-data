@@ -1,8 +1,11 @@
 ---
+album: Hold You
 artists:
 - Gyptian
+external_ids:
+  spotify: spotify:track:6UNBB3NvtQ2DIb8BOBpJeR
 features: []
-genres: []
+first_released_as_single: false
 key: hold-you--hold-yuh--gyptian
 lyrics_url: https://genius.com/Gyptian-hold-you-lyrics
 name: Hold You (Hold Yuh)
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2010
+runtime: 233093
 ---
 Gyal me wann fi hold yuh
 Put me arms right around ya

@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:6fEdWrEYspdneQMNIT33I4
 features: []
-genres: []
+first_released_as_single: false
 key: bat-man-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-bat-man-lyrics
 name: Bat Man
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 178655
 ---
 Dubba-AA flexin'
 Mm, Statik On The Track (David Tell Em)

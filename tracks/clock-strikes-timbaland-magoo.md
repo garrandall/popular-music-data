@@ -1,9 +1,12 @@
 ---
+album: Equalizer 2 - The Complete Fantasy Playlist
 artists:
 - Timbaland
 - Magoo
+external_ids:
+  spotify: spotify:track:2Oxkx0GFiJh6HwRTqVoVys
 features: []
-genres: []
+first_released_as_single: false
 key: clock-strikes-timbaland-magoo
 lyrics_url: https://www.azlyrics.com/lyrics/timbalandmagoo/clockstrikes.html
 name: Clock Strikes
@@ -64,9 +67,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 291120
 ---
-
-
 See, them other crews could not figure me
 It's the Mag and double-oh got that fat CD
 Buck a crystal, hit a nigga with my blunt Philly
@@ -127,4 +130,3 @@ The rappin Don, I make a dyke go straight
 If you think I'm cute, then you up too late
 Make no mistake, I'm a question with no answer
 Riddle me like the Joker get burnt like JoJo dancer
-

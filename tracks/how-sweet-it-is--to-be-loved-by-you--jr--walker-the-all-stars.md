@@ -1,9 +1,12 @@
 ---
+album: Road Runner
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:5Rb211KhnOhLLXPpt8awxU
 features: []
-genres: []
+first_released_as_single: false
 key: how-sweet-it-is--to-be-loved-by-you--jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-how-sweet-it-is-to-be-loved-by-you-lyrics
 name: How Sweet It Is (To Be Loved By You)
@@ -52,6 +55,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 182440
 ---
 How sweet it is to be loved by you
 Whoa, yes it is baby

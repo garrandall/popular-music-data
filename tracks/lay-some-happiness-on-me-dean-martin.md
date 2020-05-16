@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:3PcTCFDtLnMYzG0Sl5jcR7
 features: []
-genres: []
+first_released_as_single: false
 key: lay-some-happiness-on-me-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/laysomehappinessonme.html
 name: Lay Some Happiness On Me
@@ -27,8 +30,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 141266
 ---
-
 Lay some happiness on me
 So the brighter side you'll see
 No more lonliness to me
@@ -65,6 +69,3 @@ Lay some happiness on me
 So the brighter side you'll see
 No more lonliness to me
 Lay some happiness on me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Miseducation of Lauryn Hill
 artists:
 - Lauryn Hill
+external_ids:
+  spotify: spotify:track:2VjXGuPVVxyhMgER3Uz2Fe
 features: []
-genres: []
+first_released_as_single: false
 key: ex-factor-lauryn-hill
 lyrics_url: https://www.azlyrics.com/lyrics/laurynhill/exfactorasimlpemix.html
 name: Ex-Factor
@@ -95,9 +98,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
+release_year: 1998
+runtime: 326533
 ---
-
-
 Y-yo.. , y-yo.. uhh
 Y-yo.. , y-yo.. uhh
 Y-y-yo.., yo, y-yo..
@@ -189,6 +192,3 @@ Hmmmhmmmmmmmmmmmmm
 Give to meeee.. care for meeee..
 Give to meeee.. care for meeeeeee..
 Care for meeee.
-
-
-

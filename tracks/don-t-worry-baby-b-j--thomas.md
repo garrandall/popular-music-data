@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:1uzx3sFsjLg1HUcwJfgmgy
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-baby-b-j--thomas
 lyrics_url: https://genius.com/Bj-thomas-dont-worry-baby-lyrics
 name: Don't Worry Baby
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-10-22'
+release_year: 1977
+runtime: 281013
 ---
 Well, it's been building up inside of me
 For, oh, I don't know how long

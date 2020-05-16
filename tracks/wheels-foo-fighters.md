@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:3KsatAMRt1a7iryhWt5I8U
 features: []
-genres: []
+first_released_as_single: false
 key: wheels-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/wheels.html
 name: Wheels
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 278213
 ---
-
 I know what you're thinkin'
 We were goin' down
 I can feel the sinkin'
@@ -101,6 +105,3 @@ When the wheels touch ground (When the wheels touch ground)
 And you feel like it's all over
 There's another round for you
 When the wheels come down (When the wheels come down)
-
-
-

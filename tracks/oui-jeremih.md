@@ -1,8 +1,11 @@
 ---
+album: 'Late Nights: The Album'
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:0PJIbOdMs3bd5AT8liULMQ
 features: []
-genres: []
+first_released_as_single: false
 key: oui-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/jeremih/oui.html
 name: Oui
@@ -115,8 +118,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2015
+runtime: 238320
 ---
-
 Ah ah ah ah ah ah
 Ah ah ah ah ah
 Ah ah ah ah ah...
@@ -180,6 +184,3 @@ Oh, yea, ah yea, ah ah yea
 Hey, there's no we without you and I
 Oh yea, ah yea, ah ah yea
 Hey, there's no we without you and I
-
-
-

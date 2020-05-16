@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles - Vol. 8: 1968'
 artists:
 - Shorty Long
+external_ids:
+  spotify: spotify:track:5A3cnzVRLXUH50LVaQGIO5
 features: []
-genres: []
+first_released_as_single: false
 key: night-fo--last-shorty-long
 lyrics_url: https://genius.com/Shorty-long-night-fo-last-lyrics
 name: Night Fo' Last
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 149666
 ---
 Child, you oughta been there, night fo' last
 Seen sister shakin' her tailfeather

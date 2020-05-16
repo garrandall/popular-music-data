@@ -1,8 +1,11 @@
 ---
+album: Cargo
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:0bBVRsBbgnzW8wmdlD7Apq
 features: []
-genres: []
+first_released_as_single: false
 key: overkill-men-at-work
 lyrics_url: https://www.azlyrics.com/lyrics/menatwork/overkill.html
 name: Overkill
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1981
+runtime: 227133
 ---
-
 I can't get to sleep
 I think about the implications
 Of diving in too deep
@@ -114,6 +118,3 @@ Night after night my heartbeat shows the fear
 Ghosts appear and fade away
 Ghosts appear and fade away
 Ghosts appear and fade away
-
-
-

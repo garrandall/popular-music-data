@@ -1,8 +1,11 @@
 ---
+album: Sex, America, Cheap Trick
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:6eg66y3B71zBNbmK3HmbMz
 features: []
-genres: []
+first_released_as_single: false
 key: everything-works-if-you-let-it-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-everything-works-if-you-let-it-lyrics
 name: Everything Works If You Let It
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1977
+runtime: 236200
 ---
 (Alternate intro)
 Everything'll work out if you let it

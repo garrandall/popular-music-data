@@ -1,8 +1,11 @@
 ---
+album: More Songs About Buildings and Food (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:1oV1tu8utgHQjLJsEK9sVl
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-to-the-river-talking-heads
 lyrics_url: https://genius.com/Talking-heads-take-me-to-the-river-lyrics
 name: Take Me To The River
@@ -75,6 +78,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 302520
 ---
 I don't know why I love her like I do
 All the changes you put me through

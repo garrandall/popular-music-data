@@ -1,8 +1,11 @@
 ---
+album: Fifth Dimension
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:6ukmmVAYz1mipkuuLNXXi7
 features: []
-genres: []
+first_released_as_single: false
 key: eight-miles-high-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/eightmileshigh.html
 name: Eight Miles High
@@ -43,8 +46,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1965
+runtime: 214400
 ---
-
 Eight miles high and when you touch down
 You'll find that it's stranger than known
 Signs in the street that say where you're going
@@ -59,6 +63,3 @@ Round the squares huddled in storms
 Some laughing some just shapeless forms
 Sidewalk scenes and black limousines
 Some living, some standing alone
-
-
-

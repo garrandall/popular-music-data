@@ -1,10 +1,13 @@
 ---
+album: River Deep-Mountain High
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:44BmNSqH9uZV5OfIjGcER3
 features:
 - Tina
-genres: []
+first_released_as_single: false
 key: river-deep-mountain-high-ike-tina-turner-tina
 lyrics_url: https://genius.com/Ike-and-tina-turner-river-deep-mountain-high-lyrics
 name: River Deep-Mountain High
@@ -25,6 +28,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 214880
 ---
 When I was a little girl, I had a rag doll
 Only doll I've ever owned

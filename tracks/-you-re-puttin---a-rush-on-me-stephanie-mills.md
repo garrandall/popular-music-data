@@ -1,8 +1,11 @@
 ---
+album: If I Were Your Woman
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:4aLQ6VBFJl7i8msvDOjIsp
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-puttin---a-rush-on-me-stephanie-mills
 lyrics_url: https://genius.com/Stephanie-mills-youre-puttin-a-rush-on-me-lyrics
 name: (You're Puttin') A Rush On Me
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 352933
 ---
 You're puttin' a rush on me
 But I'd like to know you better

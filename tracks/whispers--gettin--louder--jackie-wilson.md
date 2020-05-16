@@ -1,8 +1,11 @@
 ---
+album: Whispers
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:1hJZFxflhsCvlfVIXh2vlQ
 features: []
-genres: []
+first_released_as_single: false
 key: whispers--gettin--louder--jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-whispers-gettin-louder-lyrics
 name: Whispers (Gettin' Louder)
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
+release_year: 1966
+runtime: 145440
 ---
 Calling your name, Peaches
 Calling your name, Peaches
@@ -80,4 +85,4 @@ Whispers gettin louder
 Calling your name
 Hear it baby
 Calling to you Peaches
-Fades... louder, baby...
+Louder, baby...

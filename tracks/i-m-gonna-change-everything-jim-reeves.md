@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Reeves
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:1JuFW45jFAFgXdhnS4pjBw
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-change-everything-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-im-gonna-change-everything-lyrics
 name: I'm Gonna Change Everything
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 125786
 ---
 Yeah, I'm gonna change everything
 That holds a memory of you

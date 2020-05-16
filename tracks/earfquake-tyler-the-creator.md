@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:5hVghJ4KaYES3BFUATCYn0
 features: []
-genres: []
+first_released_as_single: false
 key: earfquake-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/earfquake.html
 name: EARFQUAKE
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 190066
 ---
 For real, for real this time
 For real, for real, for real this time

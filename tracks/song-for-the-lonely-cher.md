@@ -1,8 +1,11 @@
 ---
+album: Living Proof
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:1nu7ec0zCNvyHRrFXZsFHy
 features: []
-genres: []
+first_released_as_single: false
 key: song-for-the-lonely-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/thisisasongforthelonely.html
 name: Song For The Lonely
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
+release_year: 2002
+runtime: 202600
 ---
-
 When you're standing on the edge of nowhere
 There's only one way up
 So your heart's got to go there
@@ -91,6 +95,3 @@ For the broken hearted, battle scarred
 I'll be by your side
 And this is a song
 For the lonely
-
-
-

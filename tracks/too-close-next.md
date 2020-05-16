@@ -1,8 +1,11 @@
 ---
+album: Rated Next
 artists:
 - Next
+external_ids:
+  spotify: spotify:track:0vHzMjvLcQ93WHRKHZhvuW
 features: []
-genres: []
+first_released_as_single: true
 key: too-close-next
 lyrics_url: https://genius.com/Next-too-close-lyrics
 name: Too Close
@@ -219,6 +222,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
+release_year: 1997
+runtime: 246440
 ---
 I wonder if she could tell I'm hard right now
 Yeah, come on, dance for me, baby, yeah

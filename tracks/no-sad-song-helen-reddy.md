@@ -1,8 +1,11 @@
 ---
+album: Helen Reddy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:4GAu46qbdEu21ScQ10BkPZ
 features: []
-genres: []
+first_released_as_single: false
 key: no-sad-song-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-no-sad-song-lyrics
 name: No Sad Song
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 191480
 ---
 Women fell into his arms
 Her rolled them up just like sigars

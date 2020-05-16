@@ -1,8 +1,11 @@
 ---
+album: Keep On Pushing
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:3hDpZwNGmrnREv7mp5BPAn
 features: []
-genres: []
+first_released_as_single: false
 key: amen-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/amen.html
 name: Amen
@@ -51,8 +54,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 211733
 ---
-
 Amen, amen, amen, amen, amen
 Sing it over
 Amen, amen, amen, amen, amen
@@ -80,6 +84,3 @@ Keep on pushin' now
 Amen, amen, amen, amen, amen
 Hallelujah now
 Amen, amen, amen, amen, amen
-
-
-

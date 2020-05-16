@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:3mMetrzTw1nIp0q0Y3jRQu
 features: []
-genres: []
+first_released_as_single: false
 key: circle-the-drain-katy-perry
 lyrics_url: https://genius.com/Katy-perry-circle-the-drain-lyrics
 name: Circle The Drain
@@ -11,6 +14,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2010-08-28'
+release_year: 2010
+runtime: 272880
 ---
 "This is the last time," you say
 After the last line you break

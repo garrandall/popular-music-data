@@ -1,9 +1,12 @@
 ---
+album: The Adventures Of MC Skat Kat And The Stray Mob
 artists:
 - MC Skat Kat
 - The Stray Mob
+external_ids:
+  spotify: spotify:track:1FsHvF9dR2Hfi4wpGxcwbn
 features: []
-genres: []
+first_released_as_single: false
 key: skat-strut-mc-skat-kat-the-stray-mob
 lyrics_url: https://genius.com/Mc-skat-kat-and-the-stray-mob-skat-strut-lyrics
 name: Skat Strut
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 221066
 ---
 MC Skat Kat: Well You've never seen a kat with so much charisma
 Got More Moves than a mutant nina- turtle that is

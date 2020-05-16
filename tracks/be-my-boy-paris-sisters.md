@@ -1,8 +1,11 @@
 ---
+album: Best Of The Paris Sisters
 artists:
 - Paris Sisters
+external_ids:
+  spotify: spotify:track:6A4GF6fhQyP49J3YzjajCZ
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-boy-paris-sisters
 lyrics_url: https://genius.com/The-paris-sisters-be-my-boy-lyrics
 name: Be My Boy
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 118960
 ---
 Be my boy
 And always be true to me

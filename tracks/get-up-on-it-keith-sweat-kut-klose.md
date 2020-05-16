@@ -1,9 +1,12 @@
 ---
+album: Get up on It
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:1HQ5gWFF5fEjqvj7SLjJtP
 features:
 - Kut Klose
-genres: []
+first_released_as_single: false
 key: get-up-on-it-keith-sweat-kut-klose
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/getuponit.html
 name: Get Up On It
@@ -72,8 +75,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1994
+runtime: 306800
 ---
-
 I got something for the fellas this time around
 Lady's, won't you tell me your names
 Tabath, Avina and Lavan
@@ -126,6 +130,3 @@ Oh love, nothing can resist
 I wanna lift you up and down, oh baby
 I want you take me, take me, take your time
 I want you to take your time with me
-
-
-

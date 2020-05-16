@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6gp3RHhdZlrPGaf5qcgFSg
 features: []
-genres: []
+first_released_as_single: true
 key: animals-maroon-5
 lyrics_url: https://genius.com/Maroon-5-animals-lyrics
 name: Animals
@@ -139,6 +142,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 229133
 ---
 Baby, I'm preying on you tonight
 Hunt you down, eat you alive

@@ -1,8 +1,11 @@
 ---
+album: Call Me
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:2THyR0on3DrsfXBtRrLZgK
 features: []
-genres: []
+first_released_as_single: false
 key: call-me--come-back-home--al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/callmecomebackhome.html
 name: Call Me (Come Back Home)
@@ -51,8 +54,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1973-04-28'
+release_year: 1973
+runtime: 184906
 ---
-
 Call me
 
 What a beautiful time we had together
@@ -96,6 +100,3 @@ It's all in a day's work
 
 Come back home
 (Call me)
-
-
-

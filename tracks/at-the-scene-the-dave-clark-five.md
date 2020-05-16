@@ -1,8 +1,11 @@
 ---
+album: American Tour
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:0yYUeEc8Wp7c5pHPvDbRTO
 features: []
-genres: []
+first_released_as_single: false
 key: at-the-scene-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/atthescene.html
 name: At The Scene
@@ -35,8 +38,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1964
+runtime: 111733
 ---
-
 Everyone who is lonely
 I've got a place for you
 Where the music play-ay-ay-ay-ays
@@ -74,6 +78,3 @@ You'll live just like a queen
 When you're down at the scene
 When you're down at the scene
 When you're down at the scene
-
-
-

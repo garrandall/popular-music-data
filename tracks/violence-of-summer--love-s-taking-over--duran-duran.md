@@ -1,8 +1,11 @@
 ---
+album: Liberty
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:7dH1uyeLjl0OHWjaJ1GC5k
 features: []
-genres: []
+first_released_as_single: false
 key: violence-of-summer--love-s-taking-over--duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/violenceofsummerlovestakingover.html
 name: Violence Of Summer (Love's Taking Over)
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
+release_year: 1990
+runtime: 262266
 ---
-
 Pick it up
 This'll get you out of your head
 
@@ -100,6 +104,3 @@ It starts with desire
 Ends up under cover...mmm... love's takin' over
 Yes love's takin' over
 Love's takin over...
-
-
-

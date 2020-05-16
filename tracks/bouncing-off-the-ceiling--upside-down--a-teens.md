@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Teen Female Pop - Vol. 9
 artists:
 - A*Teens
+external_ids:
+  spotify: spotify:track:0axx1CL1xLrcgZAp0J9WjN
 features: []
-genres: []
+first_released_as_single: false
 key: bouncing-off-the-ceiling--upside-down--a-teens
 lyrics_url: https://genius.com/Ateens-bouncing-off-the-ceiling-upside-down-lyrics
 name: Bouncing Off The Ceiling (Upside Down)
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2001
+runtime: 193091
 ---
 Up... side down
 Upside down

@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1957-62
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:69cikKSonWdugzCyc38K35
 features: []
-genres: []
+first_released_as_single: false
 key: it-only-happened-yesterday-jack-scott
 lyrics_url: https://genius.com/Jack-scott-it-only-happened-yesterday-lyrics
 name: It Only Happened Yesterday
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
+release_year: 1960
+runtime: 166226
 ---
 It only happened yesterday
 And already I miss you, my dear

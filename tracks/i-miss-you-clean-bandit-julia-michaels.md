@@ -1,9 +1,12 @@
 ---
+album: 'Big Beat Ignition: Miami 2018'
 artists:
 - Clean Bandit
+external_ids:
+  spotify: spotify:track:4mIDiO3YkbRedskD4m0Onl
 features:
 - Julia Michaels
-genres: []
+first_released_as_single: true
 key: i-miss-you-clean-bandit-julia-michaels
 lyrics_url: https://genius.com/Clean-bandit-i-miss-you-lyrics
 name: I Miss You
@@ -12,6 +15,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 205747
 ---
 I know you're out in Cabo
 Hanging with your brother

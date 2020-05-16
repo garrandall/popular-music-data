@@ -1,8 +1,11 @@
 ---
+album: One Voice
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:0cgrVLnhP5hGuX1ntLsnRs
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-wanted-you-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-when-i-wanted-you-lyrics
 name: When I Wanted You
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1979
+runtime: 215586
 ---
 Tho' we're going our separate ways
 There can only be brighter days
@@ -102,4 +107,3 @@ And now I'm turnin' mine on you
 Now you're on your own
 How does it feel
 To feel the way I used to feel
-

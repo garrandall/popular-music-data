@@ -1,8 +1,11 @@
 ---
+album: North Coast
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:1TprcToQRsTtpkxYaTT7Ln
 features: []
-genres: []
+first_released_as_single: false
 key: falling-in-love-again-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/Falling-in-Love-Again
 name: Falling In Love Again
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1981
+runtime: 236333
 ---
 I don't know why I came here tonight
 I don't know how this all got started...

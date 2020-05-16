@@ -1,8 +1,11 @@
 ---
+album: Shanice
 artists:
 - Shanice
+external_ids:
+  spotify: spotify:track:3EKEsJWz8oaxG1lfrojWug
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-close-my-eyes-shanice
 lyrics_url: https://www.azlyrics.com/lyrics/shanice/wheniclosemyeyes.html
 name: When I Close My Eyes
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
+release_year: 1999
+runtime: 202226
 ---
-
 Yeah yeah yeah...
 
 
@@ -85,4 +89,3 @@ I feel so good
 No one loves me like you...
 
 When I close my eyes
-

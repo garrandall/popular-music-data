@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:05pdoheuKPSotkjMgIVX6I
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: false
 key: mirror-lil-wayne-bruno-mars
 lyrics_url: https://genius.com/Genius-traductions-francaises-lil-wayne-mirror-ft-bruno-mars-traduction-francaise-lyrics
 name: Mirror
@@ -76,6 +79,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2011
+runtime: 228093
 ---
 With everything happening today
 You don't know whether you're coming or going

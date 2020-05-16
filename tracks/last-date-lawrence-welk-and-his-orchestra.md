@@ -1,8 +1,11 @@
 ---
+album: 'The Lawrence Welk Collection: Lawrence Welk & His Champagne Music 1938-62'
 artists:
 - Lawrence Welk
+external_ids:
+  spotify: spotify:track:5U4icElYYXj7d3bikcvfO2
 features: []
-genres: []
+first_released_as_single: false
 key: last-date-lawrence-welk-and-his-orchestra
 name: Last Date
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 139640
 ---
 

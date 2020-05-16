@@ -1,8 +1,11 @@
 ---
+album: The Chiffons Absolutely The Best!
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:5GLr9bkV2czl8o7zJoWXca
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-talkin--guy-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/sweettalkinguy.html
 name: Sweet Talkin' Guy
@@ -47,8 +50,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 146133
 ---
-
 Sweet talkin' guy
 Talkin' sweet kinda lies
 Don't you believe in him
@@ -82,6 +86,3 @@ Tomorrow he's on his way
 He's a sweet talkin' guy
 Stay away from him
 No no no, you'll never win
-
-
-

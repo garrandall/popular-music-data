@@ -1,8 +1,11 @@
 ---
+album: Miss Thang
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:6xrvubhznLOcEO3AM6XBN2
 features: []
-genres: []
+first_released_as_single: false
 key: before-you-walk-out-of-my-life-monica
 lyrics_url: https://genius.com/Monica-before-you-walk-out-of-my-life-lyrics
 name: Before You Walk Out Of My Life
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 292800
 ---
 Oh, oh, oh
 Oh, yeah, yes

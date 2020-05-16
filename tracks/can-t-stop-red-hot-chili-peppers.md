@@ -1,8 +1,11 @@
 ---
+album: By the Way
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:3ZOEytgrvLwQaqXreDs2Jx
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-cant-stop-lyrics
 name: Can't Stop
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2002
+runtime: 269000
 ---
 Can't stop, addicted to the shindig
 Chop Top, he says I'm gonna win big

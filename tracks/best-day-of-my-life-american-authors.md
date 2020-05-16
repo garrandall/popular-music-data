@@ -1,8 +1,11 @@
 ---
+album: Oh, What A Life
 artists:
 - American Authors
+external_ids:
+  spotify: spotify:track:5Hroj5K7vLpIG4FNCRIjbP
 features: []
-genres: []
+first_released_as_single: false
 key: best-day-of-my-life-american-authors
 lyrics_url: https://www.azlyrics.com/lyrics/americanauthors/bestdayofmylife.html
 name: Best Day Of My Life
@@ -151,8 +154,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-08-02'
+release_year: 2013
+runtime: 194240
 ---
-
 I had a dream so big and loud
 I jumped so high I touched the clouds
 Wo-o-o-o-o-oh 
@@ -207,6 +211,3 @@ The best day of my life
 Everything is looking up, everybody up now
 This is gonna be the best day of my life
 My li-i-i-ife
-
-
-

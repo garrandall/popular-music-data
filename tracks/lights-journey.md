@@ -1,8 +1,11 @@
 ---
+album: Infinity
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:548wwjrfEPMadztF6KcoOT
 features: []
-genres: []
+first_released_as_single: false
 key: lights-journey
 lyrics_url: https://genius.com/Journey-lights-lyrics
 name: Lights
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
+release_year: 1975
+runtime: 211293
 ---
 When the lights go down in the City
 And the sun shines on the bay

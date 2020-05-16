@@ -1,8 +1,11 @@
 ---
+album: Moonlight Cocktails
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:0lDaLquROBu6XlWB9g7BP7
 features: []
-genres: []
+first_released_as_single: false
 key: count-every-star-the-rivieras
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rivieras/Count-Every-Star
 name: Count Every Star
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 175173
 ---
 Well count (doo wop doobie doo) every star
 

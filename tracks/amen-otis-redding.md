@@ -1,8 +1,11 @@
 ---
+album: Dock of the Bay Sessions
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:5Rv4yV6gO1YapA2Hw2QNZU
 features: []
-genres: []
+first_released_as_single: false
 key: amen-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/amen.html
 name: Amen
@@ -27,8 +30,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 186440
 ---
-
 Amen, uh, A-Amen, uh
 A-Amen, Amen, Amen, with the horns, now
 Amen, with the rhythm, now
@@ -68,6 +72,3 @@ A-Amen, little louder now
 A-A-Amen, everybody say
 A-Amen, Amen, Amen
 Amen
-
-
-

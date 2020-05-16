@@ -1,8 +1,11 @@
 ---
+album: Romany
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:5fdx4P7W47NeVI7RM7yvuF
 features: []
-genres: []
+first_released_as_single: false
 key: magic-woman-touch-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/magicwomantouch.html
 name: Magic Woman Touch
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1972
+runtime: 200413
 ---
-
 I'm looking through at yesterday
 All my life thrown away
 Keep searching for the same old clue
@@ -81,6 +85,3 @@ I wanna feel your magic woman touch
 
 Cast your spell upon me one more time
 I wanna feel your magic woman touch
-
-
-

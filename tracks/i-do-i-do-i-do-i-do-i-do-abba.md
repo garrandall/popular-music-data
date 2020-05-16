@@ -1,8 +1,11 @@
 ---
+album: Abba
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:57BDT1bvzeAzl3IXMQU4Ri
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-i-do-i-do-i-do-i-do-abba
 lyrics_url: https://genius.com/Abba-i-do-i-do-i-do-i-do-i-do-lyrics
 name: I Do I Do I Do I Do I Do
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1975
+runtime: 197893
 ---
 Love me or leave me, make your choice but believe me
 I love you, I do, I do, I do, I do, I do

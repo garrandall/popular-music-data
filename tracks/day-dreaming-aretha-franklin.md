@@ -1,8 +1,11 @@
 ---
+album: Young, Gifted and Black
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4N54FUNMh4t4K82Zlsbjyy
 features: []
-genres: []
+first_released_as_single: false
 key: day-dreaming-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/daydreaming.html
 name: Day Dreaming
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 240826
 ---
 Daydreamin' and I'm thinkin' of you
 Daydreamin' and I'm thinkin' of you

@@ -1,8 +1,11 @@
 ---
+album: Dios No Esta Muerto
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:4KswXROZJ2ffzJ2dt21j7v
 features: []
-genres: []
+first_released_as_single: false
 key: contra-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/contra.html
 name: Contra
@@ -11,8 +14,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2017
+runtime: 275285
 ---
-
 Yeah, yeah
 The tunes on here? That shit sounds good
 Let's go
@@ -111,6 +115,3 @@ No, you do not know enough (you do not, you do not, you do not)
 You do not know a thing about this life that I'm livin'
 You've never been low enough (never been low enough)
 Yeah I was born at the bottom, everything I'm given now (yeah, yeah, yeah)
-
-
-

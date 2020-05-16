@@ -1,8 +1,11 @@
 ---
+album: Aftermath
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:1RJeiAIwR9pZBgJA8ndZLL
 features: []
-genres: []
+first_released_as_single: false
 key: paint-it-black-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-paint-it-black-lyrics
 name: Paint It Black
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 204480
 ---
 I see a red door and I want it painted black
 No colours anymore, I want them to turn black

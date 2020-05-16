@@ -1,8 +1,11 @@
 ---
+album: 'Wang Dang Doodle: Women of the Blues'
 artists:
 - Mable John
+external_ids:
+  spotify: spotify:track:7lSjn8C3NkOpgL4ac5djz9
 features: []
-genres: []
+first_released_as_single: false
 key: your-good-thing--is-about-to-end--mable-john
 lyrics_url: https://genius.com/Mable-john-your-good-thing-is-about-to-end-annotated
 name: Your Good Thing (Is About To End)
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 176453
 ---
 I don't have to beg you to hold me
 Cause somebody else will

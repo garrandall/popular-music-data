@@ -1,8 +1,11 @@
 ---
+album: Sometimes Late at Night
 artists:
 - Carole Bayer Sager
+external_ids:
+  spotify: spotify:track:2udjGvdchrDPVGk2TCpcl2
 features: []
-genres: []
+first_released_as_single: false
 key: stronger-than-before-carole-bayer-sager
 lyrics_url: https://genius.com/Carole-bayer-sager-stronger-than-before-lyrics
 name: Stronger Than Before
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 214617
 ---
 If you don't believe what I say
 You won't believe I'm not that way

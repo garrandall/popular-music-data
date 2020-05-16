@@ -1,8 +1,11 @@
 ---
+album: My Way
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:1vvNmPOiUuyCbgWmtc6yfm
 features: []
-genres: []
+first_released_as_single: true
 key: my-way-calvin-harris
 lyrics_url: https://genius.com/Calvin-harris-my-way-lyrics
 name: My Way
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 219159
 ---
 Why wait to say, at least I did it my way
 Lie awake, two faced

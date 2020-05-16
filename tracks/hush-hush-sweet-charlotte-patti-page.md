@@ -1,8 +1,11 @@
 ---
+album: Hush, Hush Sweet Charlotte
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:7piKtR55k2SsnV7I01ncNI
 features: []
-genres: []
+first_released_as_single: false
 key: hush-hush-sweet-charlotte-patti-page
 lyrics_url: https://genius.com/Patti-page-hush-hush-sweet-charlotte-lyrics
 name: Hush Hush Sweet Charlotte
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 152360
 ---
 Hush hush, sweet Charlotte
 Charlotte, don't you cry

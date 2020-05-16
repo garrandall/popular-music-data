@@ -1,8 +1,11 @@
 ---
+album: That's Why
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:3GfFnxBuDNay7D1srwrqZU
 features: []
-genres: []
+first_released_as_single: false
 key: this-ain-t-nothin--craig-morgan
 lyrics_url: https://genius.com/Craig-morgan-this-aint-nothin-lyrics
 name: This Ain't Nothin'
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2008
+runtime: 242226
 ---
 He was standin' in the rubble
 Of an old farmhouse outside Birmingham

@@ -1,9 +1,12 @@
 ---
+album: The Way It Is
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:3T8Ye4NB0MQhcEcxzMdAuH
 features: []
-genres: []
+first_released_as_single: false
 key: mandolin-rain-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-mandolin-rain-lyrics
 name: Mandolin Rain
@@ -80,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1986
+runtime: 318946
 ---
 The song came and went
 Like the times that we spent

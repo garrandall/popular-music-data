@@ -1,8 +1,11 @@
 ---
+album: Night Songs
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:3fjiaIx6KFssAz3C8TaUec
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-save-me-cinderella
 lyrics_url: https://www.azlyrics.com/lyrics/cinderella/somebodysaveme.html
 name: Somebody Save Me
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1986
+runtime: 194560
 ---
-
 When I was a young boy
 they said you're only gettin' older
 but how was I to know then
@@ -96,6 +100,3 @@ I'm goin' down for the last time, look out
 Save me
 
 Save me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Stand Up
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:2hSOrxX3I69A8xth8arEq2
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-the-past-jethro-tull
 lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/livinginthepast.html
 name: Living In The Past
@@ -63,8 +66,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1969
+runtime: 202893
 ---
-
 Happy and I'm smiling
 Walk a mile to drink your water
 You know I'd love to love you
@@ -82,6 +86,3 @@ Let us close our eyes
 Outside their lives go on much faster
 Oh, we won't give in
 We'll keep living in the past
-
-
-

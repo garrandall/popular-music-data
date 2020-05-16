@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:1Emswl5GSXcZW0kUlgT7C2
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-the-lucky-ones-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-one-of-the-lucky-ones-lyrics
 name: One Of The Lucky Ones
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 129400
 ---
 Who has a love as great as yours
 When others may have none

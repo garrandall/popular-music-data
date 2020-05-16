@@ -1,9 +1,12 @@
 ---
+album: A Summer Song
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:0xZwWBcPoSm088g7Pa3gAD
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-gone-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-yesterdays-gone-lyrics
 name: Yesterday's Gone
@@ -44,6 +47,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 151586
 ---
 I loved you all the summer through
 I thought I'd found my dream in you

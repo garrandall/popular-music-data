@@ -1,8 +1,11 @@
 ---
+album: Greatest hits & More
 artists:
 - McGuffey Lane
+external_ids:
+  spotify: spotify:track:7tv8DdTaO0XSxXQEQ2HGEG
 features: []
-genres: []
+first_released_as_single: false
 key: long-time-lovin--you-mcguffey-lane
 lyrics_url: https://www.musixmatch.com/lyrics/McGuffey-Lane/Long-Time-Lovin-You
 name: Long Time Lovin' You
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1981
+runtime: 257866
 ---
 I was in Austin when you called me
 I noticed your voice it sounded strange

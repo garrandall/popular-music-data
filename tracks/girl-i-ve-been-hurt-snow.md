@@ -1,8 +1,11 @@
 ---
+album: 12 Inches Of Snow
 artists:
 - Snow
+external_ids:
+  spotify: spotify:track:2VdbkEyvcnNvTU4Tn1tL2v
 features: []
-genres: []
+first_released_as_single: false
 key: girl-i-ve-been-hurt-snow
 lyrics_url: https://genius.com/Snow-girl-ive-been-hurt-lyrics
 name: Girl I've Been Hurt
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-09-04'
+release_year: 1993
+runtime: 252400
 ---
 Girl I've been hurt
 Girl I've been hurt

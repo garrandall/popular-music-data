@@ -1,8 +1,11 @@
 ---
+album: Amplified Heart
 artists:
 - Everything But The Girl
+external_ids:
+  spotify: spotify:track:79WrmdVsLbwRTUCiH7cPsa
 features: []
-genres: []
+first_released_as_single: false
 key: missing-everything-but-the-girl
 lyrics_url: https://genius.com/Everything-but-the-girl-missing-lyrics
 name: Missing
@@ -227,6 +230,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1994
+runtime: 247200
 ---
 I step off the train
 I'm walking down your street again

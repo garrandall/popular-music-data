@@ -1,8 +1,11 @@
 ---
+album: 100% Ginuwine
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:6t8JpJtI0PgVRSuMDGWZlH
 features: []
-genres: []
+first_released_as_single: false
 key: none-of-ur-friends-business-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/noneofurfriendsbusiness.html
 name: None Of Ur Friends Business
@@ -67,9 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 365800
 ---
-
-
 It aint none of your friends business
 It aint none of your friends business
 What we will be doin tonight
@@ -118,4 +121,3 @@ When I see you with your friends, under my breath, all I can say is
 Mmm Mmm Damn Mmm
 When I see you with your friends, under my breath, all I can say is
 Mmm Mmm Damn Mmm
-

@@ -1,8 +1,11 @@
 ---
+album: Jordin Sparks
 artists:
 - Jordin Sparks
+external_ids:
+  spotify: spotify:track:6P5mjh3dfcYJ6JoDd4tdWI
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-my-now-jordin-sparks
 lyrics_url: https://genius.com/Jordin-sparks-this-is-my-now-lyrics
 name: This Is My Now
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2007
+runtime: 230626
 ---
 There was a time
 I packed my dreams away

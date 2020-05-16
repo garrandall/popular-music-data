@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:175MNUY1aNnGCFfCyNZz2m
 features: []
-genres: []
+first_released_as_single: false
 key: since-u-been-gone-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-since-u-been-gone-lyrics
 name: Since U Been Gone
@@ -191,6 +194,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2003
+runtime: 188960
 ---
 Here's the thing, we started out friends
 It was cool, but it was all pretend

@@ -1,9 +1,12 @@
 ---
+album: Unchained Melody / Gloria (Digital 45)
 artists:
 - Vito
 - The Salutations
+external_ids:
+  spotify: spotify:track:2m02GFARux3eDr6iwGNfqN
 features: []
-genres: []
+first_released_as_single: true
 key: unchained-melody-vito-the-salutations
 lyrics_url: https://genius.com/Vito-and-the-salutations-unchained-melody-lyrics
 name: Unchained Melody
@@ -32,6 +35,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 118889
 ---
 Oh, my love, my darling
 I've hungered for your

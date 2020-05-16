@@ -1,9 +1,12 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:5iXz9HRkWDIkryIINbmYBQ
 features:
 - Rihanna
-genres: []
+first_released_as_single: true
 key: the-monster-eminem-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/themonster.html
 name: The Monster
@@ -124,9 +127,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2013
+runtime: 250893
 ---
-
-
 I'm friends with the monster that's under my bed
 Get along with the voices inside of my head
 You're trying to save me, stop holding your breath
@@ -221,6 +224,3 @@ And you think I'm crazy, yeah, you think I'm crazy
 
 Well, that's nothing
 Well, that's nothing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nothing Takes the Place of You
 artists:
 - Toussaint McCall
+external_ids:
+  spotify: spotify:track:1uiMXPkNhcpXSx7RlGFbQB
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-takes-the-place-of-you-toussaint-mccall
 lyrics_url: https://genius.com/Toussaint-mccall-nothing-takes-the-place-of-you-lyrics
 name: Nothing Takes The Place Of You
@@ -51,6 +54,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 204612
 ---
 I move your picture
 From my wall

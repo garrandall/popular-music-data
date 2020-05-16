@@ -1,10 +1,13 @@
 ---
+album: Dinero
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:22mQXNE0nCuWq4yOwcadIn
 features:
 - DJ Khaled
 - Cardi B
-genres: []
+first_released_as_single: true
 key: dinero-jennifer-lopez-dj-khaled-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/dinero.html
 name: Dinero
@@ -13,6 +16,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 213750
 ---
 Me and Benjamín Franco stay at the banco
 Getting checks like Nike, everywhere that I go

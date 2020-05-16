@@ -1,8 +1,11 @@
 ---
+album: Into The Gap
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:2OBHhMpKC3TwMK8ZOwJQGA
 features: []
-genres: []
+first_released_as_single: false
 key: the-gap-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/thegap.html
 name: The Gap
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 286400
 ---
-
 Wake up in a strange land, one of forty thieves
 And I see for the first time just what you believe
 I go down to the market where I can buy or sell
@@ -90,6 +94,3 @@ East is east, west is west
 Two diff'rent rhythms to the rap
 We say break the line, chew the fat
 And keep moving out into the gap
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Magic Music Of Far Away Places
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:4HrIVFt8LZuPQzeNqXny3c
 features: []
-genres: []
+first_released_as_single: false
 key: moon-over-naples-bert-kaempfert-and-his-orchestra
 name: Moon Over Naples
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 156146
 ---
 

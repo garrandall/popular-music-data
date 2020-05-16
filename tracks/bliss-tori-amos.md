@@ -1,8 +1,11 @@
 ---
+album: To Venus And Back
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:45mIOsIEs727MwXGOteLpm
 features: []
-genres: []
+first_released_as_single: false
 key: bliss-tori-amos
 lyrics_url: https://www.azlyrics.com/lyrics/toriamos/bliss.html
 name: Bliss
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
+release_year: 1999
+runtime: 222866
 ---
-
 Father, I killed my monkey
 I let it out to
 Taste the sweet of spring
@@ -70,6 +74,3 @@ So maybe we're a Bliss
 A Bliss of
 A Bliss of A Bliss of We're a Bliss
 Of another kind
-
-
-

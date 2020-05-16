@@ -1,8 +1,11 @@
 ---
+album: Shang-A-Lang
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:2QDRje8o5jOasNIWAx7OQe
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-want-to-be-with-you-bay-city-rollers
 lyrics_url: https://genius.com/Bay-city-rollers-i-only-want-to-be-with-you-lyrics
 name: I Only Want To Be With You
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1974
+runtime: 217466
 ---
 I don't know what it is that makes me love you so
 I only know I never want to let you go

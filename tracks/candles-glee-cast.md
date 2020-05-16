@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5oICWTlNXn1M3DHMaSk0uq
 features: []
-genres: []
+first_released_as_single: false
 key: candles-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/candles.html
 name: Candles
@@ -11,8 +14,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2011
+runtime: 171373
 ---
-
 The power lines went out
 And I am all alone
 But I don't really care at all
@@ -65,6 +69,3 @@ I'm beginning to see the light
 Blow the candles out (The candles out)
 Looks like a solo tonight (Solo tonight)
 But I think I'll be alright
-
-
-

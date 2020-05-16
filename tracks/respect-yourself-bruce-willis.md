@@ -1,8 +1,11 @@
 ---
+album: The Return Of Bruno
 artists:
 - Bruce Willis
+external_ids:
+  spotify: spotify:track:0kCZaMtxJtEGTSyMllPTNn
 features: []
-genres: []
+first_released_as_single: false
 key: respect-yourself-bruce-willis
 lyrics_url: https://genius.com/Bruce-willis-respect-yourself-lyrics
 name: Respect Yourself
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1987
+runtime: 233160
 ---
 If you disrespect everybody
 That you run into

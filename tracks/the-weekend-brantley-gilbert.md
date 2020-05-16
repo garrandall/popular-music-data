@@ -1,8 +1,11 @@
 ---
+album: The Devil Don't Sleep
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:48tAdjG4ng2JfECa7OQujk
 features: []
-genres: []
+first_released_as_single: false
 key: the-weekend-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/theweekend.html
 name: The Weekend
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2017
+runtime: 187760
 ---
-
 Tick tock, I'm on the clock
 And I'm feeling like this job's
 Just nine to fivin' my life away
@@ -150,6 +154,3 @@ Live it up for the weekend
 Live it up 
 Live it up
 It's the weekend
-
-
-

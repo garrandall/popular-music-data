@@ -1,8 +1,11 @@
 ---
+album: Slip Of The Tongue
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:5lxl6lhnrMFUo4vTqA7xB6
 features: []
-genres: []
+first_released_as_single: false
 key: the-deeper-the-love-whitesnake
 lyrics_url: https://www.azlyrics.com/lyrics/whitesnake/thedeeperthelove.html
 name: The Deeper The Love
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 260466
 ---
-
 When I look back
 On everything I've done
 I know you must have cried
@@ -123,6 +127,3 @@ I never gonna let you go,
 In my heart, I know.
 I love you, I love you.
 Oh baby, I really love you...
-
-
-

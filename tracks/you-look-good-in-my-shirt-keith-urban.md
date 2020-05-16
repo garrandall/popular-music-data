@@ -1,8 +1,11 @@
 ---
+album: Golden Road
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:4O4hiA7KxHhzv3s0QIHDlz
 features: []
-genres: []
+first_released_as_single: false
 key: you-look-good-in-my-shirt-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/youlookgoodinmyshirt.html
 name: You Look Good In My Shirt
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2002
+runtime: 227733
 ---
-
 When you walked up behind me and covered my eyes 
 And whispered in my ear, guess who
 I rattled off names like I really didn't know
@@ -119,6 +123,3 @@ All I know is you're sure looking
 Good in my shirt
 You look good in my shirt
 You look good in my shirt
-
-
-

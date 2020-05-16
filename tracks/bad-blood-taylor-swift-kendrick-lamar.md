@@ -1,9 +1,12 @@
 ---
+album: Bad Blood
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6xsEAm6w9oMQYYg3jkEkMT
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: true
 key: bad-blood-taylor-swift-kendrick-lamar
 lyrics_url: https://genius.com/Ten-second-songs-taylor-swift-bad-blood-ft-kendrick-lamar-ten-second-songs-20-style-cover-lyrics
 name: Bad Blood
@@ -108,6 +111,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
+release_year: 2014
+runtime: 200106
 ---
 ‘Cause, baby, now we've got bad blood
 You know it used to be mad love

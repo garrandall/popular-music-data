@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:4pxMiBQKzofploa6qERfjR
 features: []
-genres: []
+first_released_as_single: false
 key: high-time-we-went-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/hightimewewent.html
 name: High Time We Went
@@ -51,8 +54,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 272373
 ---
-
 Well, it's five o'clock in the morning
 feel just like the end of a mule
 Somebody's been yawning
@@ -106,6 +110,3 @@ Ain't it high time we went?
 Ain't it high time we went?
 Ain't it high time we went?
 Ain't it high time we went?
-
-
-

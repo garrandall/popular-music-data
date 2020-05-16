@@ -1,8 +1,11 @@
 ---
+album: Moving Pictures
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:3QZ7uX97s82HFYSmQUAN1D
 features: []
-genres: []
+first_released_as_single: false
 key: tom-sawyer-rush
 lyrics_url: https://www.azlyrics.com/lyrics/rush/tomsawyer.html
 name: Tom Sawyer
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-08-29'
+release_year: 1981
+runtime: 276880
 ---
-
 A modern day warrior
 Mean, mean stride
 Today's Tom Sawyer
@@ -106,6 +110,3 @@ Today's Tom Sawyer
 He gets high on you
 And the energy you trade
 He gets right on to the friction of the day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Zootopia (Original Motion Picture Soundtrack)
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:3qrH2YFnbEiQeUe4wzgOuP
 features: []
-genres: []
+first_released_as_single: true
 key: try-everything-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/tryeverything.html
 name: Try Everything
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2016
+runtime: 196706
 ---
-
 Oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh
@@ -102,6 +106,3 @@ Try everything
 Oh, oh, oh, oh, oh
 
 Try everything
-
-
-

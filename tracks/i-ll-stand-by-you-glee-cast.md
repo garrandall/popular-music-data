@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2TMApkmCp2KYmUDiJGLisw
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-stand-by-you-glee-cast
 lyrics_url: https://genius.com/Glee-cast-ill-stand-by-you-lyrics
 name: I'll Stand By You
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 229773
 ---
 Oh, why you look so sad?
 Tears are in your eyes

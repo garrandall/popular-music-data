@@ -1,8 +1,11 @@
 ---
+album: Pain
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:5YjVrTyRqNA9F17yQ3NIeC
 features: []
-genres: []
+first_released_as_single: false
 key: pain--part-i--ohio-players
 lyrics_url: https://genius.com/Ohio-players-pain-lyrics
 name: Pain (Part I)
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 374853
 ---
 Pain
 Is in my heart

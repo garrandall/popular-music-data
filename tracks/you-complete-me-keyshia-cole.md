@@ -1,8 +1,11 @@
 ---
+album: A Different Me
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:5T0LcVM6SwLX95hLedcseh
 features: []
-genres: []
+first_released_as_single: false
 key: you-complete-me-keyshia-cole
 lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/youcompleteme.html
 name: You Complete Me
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2008
+runtime: 230920
 ---
-
 Can you hear me out there
 Have you ever had someone who loved you
 Never leave your side
@@ -117,6 +121,3 @@ You'll be the best man that you can
 And it's okay...
 I know you do you... I know you do.
 Yes you do... I need you too... yeaahh. I love you baby (oh)
-
-
-

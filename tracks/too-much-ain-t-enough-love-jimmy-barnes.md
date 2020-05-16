@@ -1,8 +1,11 @@
 ---
+album: Freight Train Heart
 artists:
 - Jimmy Barnes
+external_ids:
+  spotify: spotify:track:41c0FBsKGWXqAnQC3ifyzw
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-ain-t-enough-love-jimmy-barnes
 lyrics_url: https://genius.com/Jimmy-barnes-too-much-aint-enough-love-lyrics
 name: Too Much Ain't Enough Love
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 284280
 ---
 You walked in my life, with and angels smile
 How could I have known, the hunger locked inside

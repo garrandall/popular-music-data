@@ -1,9 +1,12 @@
 ---
+album: Dreams Worth More Than Money
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:17AS0y6FnHdYImAPUydAJg
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: jump-out-the-face-meek-mill-future
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/jumpouttheface.html
 name: Jump Out The Face
@@ -16,9 +19,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2015
+runtime: 161906
 ---
-
-
 I just took a perc now I'm on another level
 Tasting on the molly got me dancing with the devil
 Poured a 8th of Kobe Bryant mixing purple with the yellow
@@ -94,6 +97,3 @@ Jump out the Rari then jump out the Wraith
 Then I hop in Margiela then hop in some Bape
 Then jump out the face, then jump out the face
 Money gon' stack and this money gon' fall
-
-
-

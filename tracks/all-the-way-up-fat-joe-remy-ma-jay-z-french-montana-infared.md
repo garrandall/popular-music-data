@@ -1,12 +1,15 @@
 ---
+album: All The Way Up (Remix)  - Single
 artists:
 - Fat Joe
 - Remy Ma
 - Jay Z
+external_ids:
+  spotify: spotify:track:2AYTGaclgKXACh13nJRVcV
 features:
 - French Montana
 - Infared
-genres: []
+first_released_as_single: true
 key: all-the-way-up-fat-joe-remy-ma-jay-z-french-montana-infared
 lyrics_url: https://genius.com/Fat-joe-and-remy-ma-all-the-way-up-remix-lyrics
 name: All The Way Up
@@ -91,6 +94,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2016
+runtime: 284830
 ---
 Cool and Dre, this is, this is Edsclusive
 The remix for the city, let's just start snappin'

@@ -1,8 +1,11 @@
 ---
+album: Toxicity
 artists:
 - System Of A Down
+external_ids:
+  spotify: spotify:track:2DlHlPMa4M17kufBvI2lEN
 features: []
-genres: []
+first_released_as_single: false
 key: chop-suey-system-of-a-down
 lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/chopsuey.html
 name: Chop Suey
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2001
+runtime: 210240
 ---
-
 We're rolling suicide
 
 Wake up (wake up)
@@ -142,6 +146,3 @@ Trust in my self-righteous suicide
 I cry when angels deserve to die
 In my self-righteous suicide
 I cry when angels deserve to die
-
-
-

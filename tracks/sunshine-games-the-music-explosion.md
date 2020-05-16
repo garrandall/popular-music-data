@@ -1,8 +1,11 @@
 ---
+album: Little Bit O' Soul - The Best Of
 artists:
 - The Music Explosion
+external_ids:
+  spotify: spotify:track:23AvvjxHFRgT0xvXxYVyNG
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-games-the-music-explosion
 lyrics_url: https://genius.com/The-music-explosion-sunshine-games-lyrics
 name: Sunshine Games
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 124160
 ---
 I've been playing sunshine games
 All  of my lonely life

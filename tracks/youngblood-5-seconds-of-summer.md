@@ -1,8 +1,11 @@
 ---
+album: Youngblood
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:55S2PQgSMYAhgoTCcGCDfw
 features: []
-genres: []
+first_released_as_single: true
 key: youngblood-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/youngblood.html
 name: Youngblood
@@ -199,8 +202,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-05-11'
+release_year: 2018
+runtime: 203417
 ---
-
 Remember the words you told me? "Love me 'til the day I die"
 Surrender my everything 'cause you made me believe you're mine
 Yeah, you used to call me baby, now you're calling me by name
@@ -252,6 +256,3 @@ I give and I give and I give and you take, give and you take
 Youngblood
 Say you want me, say you want me out of your life
 And I'm just a dead man walking tonight
-
-
-

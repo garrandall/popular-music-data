@@ -1,8 +1,11 @@
 ---
+album: The Origin
 artists:
 - Magazine 60
+external_ids:
+  spotify: spotify:track:07MzOyhawYbSxp15MElUCv
 features: []
-genres: []
+first_released_as_single: true
 key: don-quichotte-magazine-60
 lyrics_url: https://genius.com/Magazine-60-don-quichotte-lyrics
 name: Don Quichotte
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1984
+runtime: 210093
 ---
 No, no no no no no, Señor!
 

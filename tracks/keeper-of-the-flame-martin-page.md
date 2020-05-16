@@ -1,8 +1,11 @@
 ---
+album: In The House Of Stone And Light
 artists:
 - Martin Page
+external_ids:
+  spotify: spotify:track:1mrmYropNyzuJlyHxeJOT6
 features: []
-genres: []
+first_released_as_single: false
 key: keeper-of-the-flame-martin-page
 lyrics_url: https://genius.com/Martin-page-keeper-of-the-flame-lyrics
 name: Keeper Of The Flame
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-09-30'
+release_year: 1994
+runtime: 364000
 ---
 And I'll be the train
 That keeps on rollin'

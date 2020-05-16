@@ -1,9 +1,12 @@
 ---
+album: Let It Loose
 artists:
 - Gloria Estefan
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:0AO6H4lEJhuqWcmIebNhKO
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-gloria-estefan-miami-sound-machine
 lyrics_url: https://genius.com/Gloria-estefan-and-miami-sound-machine-1-2-3-lyrics
 name: 1-2-3
@@ -84,6 +87,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1987
+runtime: 208266
 ---
 1-2-3-4
 Come on, baby

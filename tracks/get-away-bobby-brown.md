@@ -1,8 +1,11 @@
 ---
+album: Bobby
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:62cC8knNydvmC1JPZExWTD
 features: []
-genres: []
+first_released_as_single: false
 key: get-away-bobby-brown
 lyrics_url: https://genius.com/Bobby-brown-get-away-lyrics
 name: Get Away
@@ -71,6 +74,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1993-05-01'
+release_year: 1992
+runtime: 310497
 ---
 I've got to get away, I've got to get away
 I've got to get away, I've got to get away

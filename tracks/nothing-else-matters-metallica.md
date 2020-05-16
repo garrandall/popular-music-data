@@ -1,8 +1,11 @@
 ---
+album: Metallica
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:10igKaIKsSB6ZnWxPxPvKO
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-else-matters-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/nothingelsematters.html
 name: Nothing Else Matters
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1991
+runtime: 388733
 ---
-
 So close no matter how far
 Couldn't be much more from the heart
 Forever trusting who we are
@@ -117,6 +121,3 @@ So close no matter how far
 Couldn't be much more from the heart
 Forever trusting who we are
 No nothing else matters
-
-
-

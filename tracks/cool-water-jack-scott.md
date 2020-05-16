@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1957-62
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:0OFX1hwVTJRLkpH0nDykat
 features: []
-genres: []
+first_released_as_single: false
 key: cool-water-jack-scott
 lyrics_url: https://genius.com/Jack-scott-cool-water-lyrics
 name: Cool Water
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 150706
 ---
 All day I face a barren waste
 Without the taste of water

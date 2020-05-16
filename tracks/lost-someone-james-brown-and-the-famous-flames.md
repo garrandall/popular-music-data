@@ -1,8 +1,12 @@
 ---
+album: The Amazing James Brown
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:4OyCDFoTLvlaoxbkYIOBQd
+features:
+- The Famous Flames
+first_released_as_single: false
 key: lost-someone-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-lost-someone-1965-version-lyrics
 name: Lost Someone
@@ -55,6 +59,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1961
+runtime: 185573
 ---
 I lost someone, my love
 Someone who's greater than the stars above

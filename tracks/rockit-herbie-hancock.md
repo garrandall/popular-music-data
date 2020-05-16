@@ -1,8 +1,11 @@
 ---
+album: Future Shock
 artists:
 - Herbie Hancock
+external_ids:
+  spotify: spotify:track:2imFIZ1WcOHrA5IPFhVLJY
 features: []
-genres: []
+first_released_as_single: false
 key: rockit-herbie-hancock
 lyrics_url: https://genius.com/Herbie-hancock-rockit-lyrics
 name: Rockit
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1973
+runtime: 325800
 ---
 Don't stop it
 

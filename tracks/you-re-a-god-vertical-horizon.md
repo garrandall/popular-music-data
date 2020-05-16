@@ -1,8 +1,11 @@
 ---
+album: Everything You Want
 artists:
 - Vertical Horizon
+external_ids:
+  spotify: spotify:track:758wp6xs3ADdgIwdeHoXmX
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-god-vertical-horizon
 lyrics_url: https://genius.com/Vertical-horizon-youre-a-god-lyrics
 name: You're A God
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
+release_year: 1999
+runtime: 218760
 ---
 I've got to be honest
 I think you know

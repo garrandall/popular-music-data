@@ -1,8 +1,11 @@
 ---
+album: Smoke Rings In The Dark
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:47tVV7s6UzdcyTJBoIW7aX
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-rings-in-the-dark-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/smokeringsinthedark.html
 name: Smoke Rings In The Dark
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 257646
 ---
-
 Well I won't make you tell me
 What I've come to understand
 You're a certain kind of woman and
@@ -63,6 +67,3 @@ I- I- I know I must be going
 'Cause loves already gone and
 All I'm taking with me are the pieces of my heart and
 All I'll leave are smoke rings in the dark
-
-
-

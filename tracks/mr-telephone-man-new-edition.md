@@ -1,8 +1,11 @@
 ---
+album: New Edition
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:4DiNls6kFmF1ZittKsPsTc
 features: []
-genres: []
+first_released_as_single: false
 key: mr-telephone-man-new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/mrtelephoneman.html
 name: Mr Telephone Man
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-04-06'
+release_year: 1984
+runtime: 239160
 ---
-
 Mr. Telephone man
 There's something wrong with my line,
 When I dial my baby's number
@@ -154,6 +158,3 @@ Help me out
 Please Mr. Telephone Man
 Help me out
 Please Mr. Telephone Man
-
-
-

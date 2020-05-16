@@ -1,8 +1,11 @@
 ---
+album: Moods
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:4FZ8wtTaOAbYvyChBt4GEQ
 features: []
-genres: []
+first_released_as_single: false
 key: song-sung-blue-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/songsungblue.html
 name: Song Sung Blue
@@ -59,8 +62,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 195160
 ---
-
 Song sung blue, everybody knows one
 Song sung blue, every garden grows one
 
@@ -95,6 +99,3 @@ Song sung blue
 Song sung blue
 Funny thing,
 But you can sing it with a cry in your voice
-
-
-

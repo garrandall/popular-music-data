@@ -1,8 +1,11 @@
 ---
+album: The Everly Brothers Show
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:2ZCkqAo0tzzCVOth7ityh5
 features: []
-genres: []
+first_released_as_single: false
 key: bird-dog-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-bird-dog-lyrics
 name: Bird Dog
@@ -79,6 +82,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 136426
 ---
 Johnny is the joker (he's a bird)
 A very funny joker (he's a bird)

@@ -1,8 +1,11 @@
 ---
+album: In The Groove
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:1tqT6DhmsrtQgyCKUwotiw
 features: []
-genres: []
+first_released_as_single: false
 key: i-heard-it-through-the-grapevine-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-i-heard-it-through-the-grapevine-lyrics
 name: I Heard It Through The Grapevine
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 194293
 ---
 I bet you're wondering how I knew
 'Bout your plans to make me blue

@@ -1,8 +1,11 @@
 ---
+album: 90125 (Deluxe Version)
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:0GTK6TesV108Jj5D3MHsYb
 features: []
-genres: []
+first_released_as_single: false
 key: owner-of-a-lonely-heart-yes
 lyrics_url: https://genius.com/Yes-owner-of-a-lonely-heart-lyrics
 name: Owner Of A Lonely Heart
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1983
+runtime: 268506
 ---
 ​
 

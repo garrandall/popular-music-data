@@ -1,8 +1,11 @@
 ---
+album: It Keeps Right On A-Hurtin'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:0fabZNPJqBJBfwzDxuKQTi
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-the-pillow-you-dream-on-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-send-me-the-pillow-you-dream-on-lyrics
 name: Send Me The Pillow You Dream On
@@ -43,6 +46,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 173960
 ---
 Send me the pillow that you dream on
 Don't you know that I still care for you?

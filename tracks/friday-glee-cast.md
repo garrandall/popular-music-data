@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0Y1JthFAUbcqmNxEMAklOe
 features: []
-genres: []
+first_released_as_single: false
 key: friday-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/friday.html
 name: Friday
@@ -15,10 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 228066
 ---
-
-
-
 Oo-oh-oh, hoo yeah, yeah Yeah, yeah
 Yeah-ah-ah Yeah-ah-ah Yeah-ah-ah Yeah-ah-ah Yeah, yeah, yeah
 
@@ -161,6 +163,3 @@ Everybody's lookin' forward to the weekend
 Partyin', partyin' (Yeah)
 Partyin', partyin' (Yeah)
 Fun, fun, fun, fun Lookin' forward to the weekend
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Til Death Do Us Part
 artists:
 - Geto Boys
+external_ids:
+  spotify: spotify:track:7fOa2YngldFhZpkPpQVwpb
 features: []
-genres: []
+first_released_as_single: false
 key: six-feet-deep-geto-boys
 lyrics_url: https://www.azlyrics.com/lyrics/getoboys/sixfeetdeep.html
 name: Six Feet Deep
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
+release_year: 1993
+runtime: 324333
 ---
-
 (There's far too many of you dying)
 
 
@@ -163,6 +167,3 @@ dead or alive real partners come together, and you know that
 
 (There's far too many of you dying)
 (There's far too many of you dying)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:4dvp1I0lYy5OgeMzugM8L2
 features: []
-genres: []
+first_released_as_single: false
 key: moody-woman-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-moody-woman-lyrics
 name: Moody Woman
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 140906
 ---
 (Moody woman)
 (Moody woman)

@@ -1,8 +1,11 @@
 ---
+album: Total Club Hits 3
 artists:
 - GS Boyz
+external_ids:
+  spotify: spotify:track:51ttEPT6uBo9Uydycd4rdI
 features: []
-genres: []
+first_released_as_single: false
 key: stanky-legg-gs-boyz
 lyrics_url: https://genius.com/Gs-boyz-stanky-legg-lyrics
 name: Stanky Legg
@@ -63,6 +66,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2009
+runtime: 222800
 ---
 Huh, Soufside is who I be!
 Say, I got my G-Spot Boyz wit me, ya dig?

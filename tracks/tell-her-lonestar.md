@@ -1,8 +1,11 @@
 ---
+album: Lonely Grill
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:6gT8YuM5QZUYWseXUufZ87
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/tellher.html
 name: Tell Her
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 1995
+runtime: 206573
 ---
-
 So you say your love's about to end
 You say you can't take no more
 She's out the door
@@ -145,6 +149,3 @@ Even though it's hard to say
 'Cause she needs to know you're thinking of her
 So open up and tell her that you love her
 Tell her that you love her
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Golden Child
 artists:
 - YK Osiris
+external_ids:
+  spotify: spotify:track:4XiGKQqbmnMVxDzUj6j3f2
 features: []
-genres: []
+first_released_as_single: true
 key: worth-it-yk-osiris
 lyrics_url: https://genius.com/Yk-osiris-worth-it-lyrics
 name: Worth It
@@ -107,6 +110,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 189253
 ---
 I would give you the world, nah, nah, nah
 (Yo Kiwi, thank you bro)

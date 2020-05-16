@@ -1,8 +1,11 @@
 ---
+album: '#1 Spot'
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:3hRwcwpkOenKHjOsyIwTxf
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-on-tonite-montell-jordan
 lyrics_url: https://www.azlyrics.com/lyrics/montelljordan/getitontonite.html
 name: Get It On Tonite
@@ -135,8 +138,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2000-05-27'
+release_year: 1999
+runtime: 275080
 ---
-
 Oh, oh wee oh, oh
 When I'm looking at you I keep thinking
 Why can't she be like you, so I'm scheming
@@ -183,4 +187,3 @@ My baby's stressin' me
 You need to come with me
 We need to go somewhere, yeah
 Tonight, tonight
-

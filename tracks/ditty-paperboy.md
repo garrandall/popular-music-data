@@ -1,8 +1,11 @@
 ---
+album: The Nine Yards
 artists:
 - Paperboy
+external_ids:
+  spotify: spotify:track:2JaHnS7CcIPoc7Il4BkqdR
 features: []
-genres: []
+first_released_as_single: false
 key: ditty-paperboy
 lyrics_url: https://genius.com/Paperboy-ditty-lyrics
 name: Ditty
@@ -127,6 +130,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 245029
 ---
 Yo, this is how I'm comin' for the nine deuce
 Another phat, phat track, so Rhythm D, pour the orange juice

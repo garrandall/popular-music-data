@@ -1,8 +1,12 @@
 ---
+album: Rattle And Hum
 artists:
-- U2 With B.B. King
-features: []
-genres: []
+- U2
+external_ids:
+  spotify: spotify:track:2cpUudtTX7OU6DcoNTuxwB
+features:
+- B.B. King
+first_released_as_single: false
 key: when-love-comes-to-town-u2-with-b-b--king
 name: When Love Comes To Town
 rankings:
@@ -34,5 +38,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1988
+runtime: 254266
 ---
 

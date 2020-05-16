@@ -1,8 +1,11 @@
 ---
+album: If That's What It Takes
 artists:
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:5GvWrvLIqoHroq7YvO260M
 features: []
-genres: []
+first_released_as_single: false
 key: i-keep-forgettin---every-time-you-re-near--michael-mcdonald
 lyrics_url: https://genius.com/Michael-mcdonald-i-keep-forgettin-every-time-youre-near-lyrics
 name: I Keep Forgettin' (Every Time You're Near)
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1982
+runtime: 222280
 ---
 I keep forgettin' we're not in love anymore
 I keep forgettin' things will never be the same again

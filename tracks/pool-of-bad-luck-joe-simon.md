@@ -1,8 +1,11 @@
 ---
+album: Drowning In the Sea of Love
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:1hajL4x5ggMwmCoGOflbrh
 features: []
-genres: []
+first_released_as_single: false
 key: pool-of-bad-luck-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Pool-of-Bad-Luck
 name: Pool Of Bad Luck
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 290506
 ---
 I tripped and I fell
 In this pool of bad luck

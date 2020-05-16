@@ -1,8 +1,11 @@
 ---
+album: Monkey Business
 artists:
 - Gorilla Zoe
+external_ids:
+  spotify: spotify:track:7mlig9KrLfHLnntuwKBf95
 features: []
-genres: []
+first_released_as_single: false
 key: lost-gorilla-zoe
 lyrics_url: https://genius.com/Gorilla-zoe-lost-lyrics
 name: Lost
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-04-04'
+release_year: 2008
+runtime: 227866
 ---
 Walking around looking for a way
 But no one tells me which way to go

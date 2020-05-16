@@ -1,8 +1,11 @@
 ---
+album: Barbershop - Music From The Motion Picture
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:77S5wtMOUOsWN5Fu7stlPS
 features: []
-genres: []
+first_released_as_single: false
 key: stingy-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/stingy.html
 name: Stingy
@@ -87,9 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
+release_year: 2002
+runtime: 262733
 ---
-
-
 You know what, baby
 I need to tell you something
 And...it's something very important
@@ -170,6 +173,3 @@ You're the only one, with the only love
 That's strong enough to claim me
 So please forgive me, I'm just stingy
 But how can you blame me
-
-
-

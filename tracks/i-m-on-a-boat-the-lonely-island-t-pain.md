@@ -1,9 +1,12 @@
 ---
+album: Incredibad
 artists:
 - The Lonely Island
+external_ids:
+  spotify: spotify:track:3IQSYqnKsCTMLWn2xE3HFT
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: i-m-on-a-boat-the-lonely-island-t-pain
 lyrics_url: https://genius.com/The-lonely-island-im-on-a-boat-lyrics
 name: I'm On A Boat
@@ -88,6 +91,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2009
+runtime: 156266
 ---
 Shawty
 Aw, shit (yeah, yeah)

@@ -1,8 +1,11 @@
 ---
+album: Band Together
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:0Q20xUAhXf9YQo8M9siE3o
 features: []
-genres: []
+first_released_as_single: false
 key: warm-ride-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/warmride.html
 name: Warm Ride
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
+release_year: 1978
+runtime: 233613
 ---
-
 Come to me baby, I got something to say
 I been changin' your direction every step of the way
 Now I bring emotion and I bring desire
@@ -86,6 +90,3 @@ Warm ride, warm ride, baby just the way you are
 Warm ride, warm ride, we can reach the highest star
 
 Warm ride...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:4fzQ3UPDlbvNbUP938zsJf
 features: []
-genres: []
+first_released_as_single: false
 key: happy-heart-petula-clark
 lyrics_url: https://genius.com/Petula-clark-happy-heart-lyrics
 name: Happy Heart
@@ -27,6 +30,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 208800
 ---
 There's a certain sound
 Always follows me around

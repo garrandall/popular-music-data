@@ -1,8 +1,11 @@
 ---
+album: Robbie Dupree
 artists:
 - Robbie Dupree
+external_ids:
+  spotify: spotify:track:1QEZIhNmz28cJ2Lr45MKJ4
 features: []
-genres: []
+first_released_as_single: false
 key: hot-rod-hearts-robbie-dupree
 lyrics_url: https://genius.com/Robbie-dupree-hot-rod-hearts-lyrics
 name: Hot Rod Hearts
@@ -79,6 +82,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 221626
 ---
 Ten miles east of the highway
 Hot sparks burnin' the night away

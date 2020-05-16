@@ -1,8 +1,11 @@
 ---
+album: Inner Spectrum
 artists:
 - Ace Spectrum
+external_ids:
+  spotify: spotify:track:3LUCDzb0WYk3YSZHonmMma
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-send-nobody-else-ace-spectrum
 lyrics_url: https://www.musixmatch.com/lyrics/Ace-Spectrum/Don-t-Send-Nobody-Else
 name: Don't Send Nobody Else
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 242991
 ---
 Don't send me no postcards
 Don't send me no letter

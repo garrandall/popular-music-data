@@ -1,8 +1,11 @@
 ---
+album: Love Hurts
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:6PlV2oZkDVq0dCDyDZqoTw
 features: []
-genres: []
+first_released_as_single: false
 key: save-up-all-your-tears-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/saveupallyourtears.html
 name: Save Up All Your Tears
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1991
+runtime: 238160
 ---
-
 I can't figure you out
 But a heart must be the one thing
 You were born without
@@ -169,6 +173,3 @@ You'll be cryin' over me
 (You don't know it now)
 (You don't know it now)
 (You don't know it now)
-
-
-

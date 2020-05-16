@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 10 Collection (The Voice Performance)
 artists:
 - Hannah Huston
+external_ids:
+  spotify: spotify:track:4hZu7IefxrjzuoGjhWmhOu
 features: []
-genres: []
+first_released_as_single: false
 key: every-breath-you-take-hannah-huston
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Huston/Every-Breath-You-Take-The-Voice-Performance
 name: Every Breath You Take
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 191693
 ---
 Every breathe you take
 Every move you make

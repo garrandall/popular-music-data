@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:7qCXcXKI6DGnL8Z89WubWm
 features: []
-genres: []
+first_released_as_single: false
 key: teardrops-on-your-letter-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-teardrops-on-your-letter-lyrics
 name: Teardrops On Your Letter
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 164800
 ---
 Teardrops on your letter
 That I got from you

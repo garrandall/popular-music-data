@@ -1,8 +1,11 @@
 ---
+album: Up, Up And Away
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:1hlzWy4ouz6nOCnmZzrItn
 features: []
-genres: []
+first_released_as_single: false
 key: another-day-another-heartache-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/anotherdayanotherheartache.html
 name: Another Day Another Heartache
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 155613
 ---
-
 Another day
 Another heartache
 Sometimes it just don't pay
@@ -66,6 +70,3 @@ Another day
 Another heartache
 Another day
 Another heartache
-
-
-

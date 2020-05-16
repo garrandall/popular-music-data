@@ -1,8 +1,11 @@
 ---
+album: Hit Singles - EP
 artists:
 - Eddie Hodges
+external_ids:
+  spotify: spotify:track:2HzOTwIfaNsdsr1KVtuID7
 features: []
-genres: []
+first_released_as_single: true
 key: bandit-of-my-dreams-eddie-hodges
 lyrics_url: https://www.musixmatch.com/lyrics/Eddie-Hodges/Bandit-of-My-Dreams
 name: Bandit Of My Dreams
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1962
+runtime: 123333
 ---
 (Da da da da dat boom boom
 Bandit of my dreams)

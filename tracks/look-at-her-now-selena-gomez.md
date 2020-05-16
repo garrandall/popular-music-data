@@ -1,8 +1,11 @@
 ---
+album: Rare
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:7eOkHIcaoUhngxxypM5Ajr
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-her-now-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/lookathernow.html
 name: Look At Her Now
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 162595
 ---
-
 They fell in love one summer
 A little too wild for each other
 Shiny till it wasn't
@@ -118,6 +122,3 @@ She knows she'll find love
 Wow
 
 Look at her now
-
-
-

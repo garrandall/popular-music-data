@@ -1,9 +1,12 @@
 ---
+album: We Made It
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:26jVcJqG66nj36jRqPBp2U
 features:
 - Linkin Park
-genres: []
+first_released_as_single: true
 key: we-made-it-busta-rhymes-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/wemadeit.html
 name: We Made It
@@ -12,9 +15,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2008
+runtime: 238066
 ---
-
-
 Together we made it
 We made it even though we had our backs
 Up against the wall
@@ -122,6 +125,3 @@ on the road
 on the road
 (Come and get it)
 on the road
-
-
-

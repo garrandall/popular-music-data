@@ -1,9 +1,12 @@
 ---
+album: Kenny Rogers & The First Edition
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:2QzAYSUKU9HkFNSxGPQMUA
 features: []
-genres: []
+first_released_as_single: false
 key: reuben-james-kenny-rogers-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-reuben-james-lyrics
 name: Reuben James
@@ -56,6 +59,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 169960
 ---
 Ruben James
 In my song you'll live again

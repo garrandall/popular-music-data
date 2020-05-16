@@ -1,8 +1,11 @@
 ---
+album: Loverboy
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:7rOLhbPgZtlghYVXmKRDgh
 features: []
-genres: []
+first_released_as_single: false
 key: the-kid-is-hot-tonite-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/thekidishottonite.html
 name: The Kid Is Hot Tonite
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1980
+runtime: 268960
 ---
-
 We just heard of a brand new way
 And we hope it's here to stay
 We'll have to wait and see if it's half of what they say
@@ -92,6 +96,3 @@ Whoa, so hot tonight
 But where will he be tomorrow?
 The kid is hot tonight
 Whoa, so hot tonight
-
-
-

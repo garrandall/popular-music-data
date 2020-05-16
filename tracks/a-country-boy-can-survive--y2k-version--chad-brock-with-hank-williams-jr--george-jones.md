@@ -1,13 +1,16 @@
 ---
+album: Yes!
 artists:
 - Chad Brock
 - George Jones
+external_ids:
+  spotify: spotify:track:5pinOKTQyPCPpgjIOKVFY3
 features:
 - Hank Williams Jr.
-genres: []
+first_released_as_single: false
 key: a-country-boy-can-survive--y2k-version--chad-brock-with-hank-williams-jr--george-jones
-name: A Country Boy Can Survive (Y2K Version)
 lyrics_url: https://genius.com/Chad-brock-a-country-boy-can-survive-y2k-version-lyrics
+name: A Country Boy Can Survive (Y2K Version)
 rankings:
 - end_date: '2000-01-07'
   rank: 93
@@ -21,8 +24,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-01-15'
+release_year: 2000
+runtime: 237666
 ---
-
 Computer man says it's the end of time
 December 31st nineteen ninety-nine
 People buyin' up Army surplus things

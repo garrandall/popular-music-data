@@ -1,8 +1,11 @@
 ---
+album: Fifth Dimension
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:4FODuvVR5tajKLhLUZLRzy
 features: []
-genres: []
+first_released_as_single: false
 key: mr-spaceman-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/mrspaceman.html
 name: Mr Spaceman
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1965
+runtime: 129333
 ---
-
 Woke up this morning with light in my eyes
 And then realized it was still dark outside
 It was a light comin'down from the sky
@@ -66,6 +70,3 @@ Hey Mr.Spaceman, won't you please take me along
 I won't do anything wrong
 Hey Mr.Spaceman, won't you please take me along
 For a ride
-
-
-

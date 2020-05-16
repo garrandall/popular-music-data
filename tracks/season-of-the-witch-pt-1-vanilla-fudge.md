@@ -1,8 +1,11 @@
 ---
+album: The Complete Atco Singles
 artists:
 - Vanilla Fudge
+external_ids:
+  spotify: spotify:track:1nxnRYlU4DRfZruzbKYEoj
 features: []
-genres: []
+first_released_as_single: false
 key: season-of-the-witch-pt-1-vanilla-fudge
 lyrics_url: https://www.musixmatch.com/lyrics/Vanilla-Fudge/Season-of-the-Witch-Pt-1
 name: Season Of The Witch Pt 1
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
+release_year: 1968
+runtime: 212226
 ---
 When I look outside my window
 What do I see?

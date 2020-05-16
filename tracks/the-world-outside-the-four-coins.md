@@ -1,8 +1,11 @@
 ---
+album: Best Of The Four Coins
 artists:
 - The Four Coins
+external_ids:
+  spotify: spotify:track:0VZWkRDVnVcCZIBhT2eGZG
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-outside-the-four-coins
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Coins/The-World-Outside
 name: The World Outside
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 173520
 ---
 The world outside
 Belongs to me

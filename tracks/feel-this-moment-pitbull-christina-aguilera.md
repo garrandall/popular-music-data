@@ -1,9 +1,12 @@
 ---
+album: 'Global Warming: Meltdown (Deluxe Version)'
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:0Hf4aIJpsN4Os2f0y0VqWl
 features:
 - Christina Aguilera
-genres: []
+first_released_as_single: false
 key: feel-this-moment-pitbull-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/feelthismoment.html
 name: Feel This Moment
@@ -104,9 +107,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2012
+runtime: 229506
 ---
-
-
 Ask for money
 And get advice.
 Ask for advice,
@@ -243,6 +246,3 @@ Feel this moment
 Whoa, whoa oh oh
 I just want to feel
 This moment.
-
-
-

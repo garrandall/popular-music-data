@@ -1,8 +1,11 @@
 ---
+album: Starchild
 artists:
 - Teena Marie
+external_ids:
+  spotify: spotify:track:1Ym4HYsyi81DAaTvbDLpok
 features: []
-genres: []
+first_released_as_single: false
 key: jammin--teena-marie
 lyrics_url: https://www.azlyrics.com/lyrics/teenamarie/jammin.html
 name: Jammin'
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1984
+runtime: 350893
 ---
-
 Baby, I was just a young girl
 When you came on the scene 10 years ago
 I thought I was hip, I could deal with the trips
@@ -133,6 +137,3 @@ I was like a moving violation
 Give me a ticket, baby
 Thought I was the queen of syncopation
 You know you can't give the queen no bad advice
-
-
-

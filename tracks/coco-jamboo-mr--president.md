@@ -1,8 +1,11 @@
 ---
+album: We See The Same Sun
 artists:
 - Mr. President
+external_ids:
+  spotify: spotify:track:2hR569tBptbBg1u9zSLmwt
 features: []
-genres: []
+first_released_as_single: true
 key: coco-jamboo-mr--president
 lyrics_url: https://genius.com/Mr-president-coco-jamboo-lyrics
 name: Coco Jamboo
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
+release_year: 1996
+runtime: 378133
 ---
 Ya ya ya Coco Jamboo ya ya ye
 Ya ya ya Coco Jamboo ya ya ye

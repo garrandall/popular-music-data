@@ -1,8 +1,11 @@
 ---
+album: The Good Parts
 artists:
 - Andy Grammer
+external_ids:
+  spotify: spotify:track:7wahqDDzUPpJy91bVFHUF3
 features: []
-genres: []
+first_released_as_single: true
 key: fresh-eyes-andy-grammer
 lyrics_url: https://genius.com/Andy-grammer-fresh-eyes-lyrics
 name: Fresh Eyes
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2016
+runtime: 198001
 ---
 I got these fresh eyes, never seen you before like this
 My God, you're beautiful

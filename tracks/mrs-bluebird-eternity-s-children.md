@@ -1,8 +1,11 @@
 ---
+album: Eternity's Children
 artists:
 - Eternity's Children
+external_ids:
+  spotify: spotify:track:4Eur5HL2hyJcMVAa9K5QQT
 features: []
-genres: []
+first_released_as_single: false
 key: mrs-bluebird-eternity-s-children
 lyrics_url: https://genius.com/Eternitys-children-mrs-bluebird-lyrics
 name: Mrs Bluebird
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 197653
 ---
 Mrs. Bluebird, on my shoulder
 How's  your life since you've gotten older?

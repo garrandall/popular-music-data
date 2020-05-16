@@ -1,8 +1,11 @@
 ---
+album: One Good Reason
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:2fW7Mqfuo97jUbgQWWL6US
 features: []
-genres: []
+first_released_as_single: false
 key: button-off-my-shirt-paul-carrack
 lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/buttonoffmyshirt.html
 name: Button Off My Shirt
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1987
+runtime: 226360
 ---
-
 I've heard the word going 'round town
 They say that you're making a fool out of me
 Baby, it took me some time to come 'round
@@ -73,6 +77,3 @@ Like a button off my shirt
 Just an everyday distraction
 You'd be overreacting, if you think that I still hurt
 You're just a button off my shirt and someday I will replace you
-
-
-

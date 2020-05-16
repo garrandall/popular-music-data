@@ -1,8 +1,11 @@
 ---
+album: Gwen McCrae Sings TK
 artists:
 - Gwen McCrae
+external_ids:
+  spotify: spotify:track:4a5G0Qzg4jisb9YFIVs01r
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--chair-gwen-mccrae
 lyrics_url: https://genius.com/Gwen-mccrae-rockin-chair-lyrics
 name: Rockin' Chair
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1975
+runtime: 326573
 ---
 Sexy baby, good loving daddy
 Let me be your rocking chair

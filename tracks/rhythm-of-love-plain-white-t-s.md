@@ -1,8 +1,11 @@
 ---
+album: Wonders Of The Younger
 artists:
 - Plain White T's
+external_ids:
+  spotify: spotify:track:6MDTpYxPFL0wtFd0pjfKws
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-love-plain-white-t-s
 lyrics_url: https://genius.com/Plain-white-ts-rhythm-of-love-lyrics
 name: Rhythm of Love
@@ -91,6 +94,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 200200
 ---
 My head is stuck in the clouds
 She begs me to come down

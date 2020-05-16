@@ -1,8 +1,11 @@
 ---
+album: Eddie Money
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:7jmU8QYtpfgDfi304r7klj
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-really-got-a-hold-on-me-eddie-money
 lyrics_url: https://genius.com/Eddie-money-youve-really-got-a-hold-on-me-lyrics
 name: You've Really Got A Hold On Me
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1977
+runtime: 229240
 ---
 I don't like you
 But I love you

@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:6NMtzpDQBTOfJwMzgMX0zl
 features: []
-genres: []
+first_released_as_single: false
 key: skeletons-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/skeletons.html
 name: Skeletons
@@ -11,8 +14,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 145588
 ---
-
 Yeah yeah yeah (yeah, oh)
 Feels like slow motion, we're floating at the speed (yeah)
 (Yeah, yeah)
@@ -42,6 +46,3 @@ Standing in the ocean
 (Oh baby)
 Standing in the ocean
 Feels like slow motion, we're floating at the speed
-
-
-

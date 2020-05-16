@@ -1,8 +1,12 @@
 ---
+album: Spiritual Yoga - Oshun Goddess, Sexual Empowering 50 Songs for Hatha & Kundalini
+  Practices
 artists:
 - Goddess
+external_ids:
+  spotify: spotify:track:3xfkVkdK3TN8CEdcdc7xf7
 features: []
-genres: []
+first_released_as_single: false
 key: sexual-goddess
 lyrics_url: https://www.musixmatch.com/lyrics/Goddess/Sexual
 name: Sexual
@@ -47,6 +51,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 274726
 ---
 The Goddess is coming,
 The Goddess is coming

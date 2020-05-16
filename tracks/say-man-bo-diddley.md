@@ -1,8 +1,11 @@
 ---
+album: Go Bo Diddley
 artists:
 - Bo Diddley
+external_ids:
+  spotify: spotify:track:44hxtFfVOY3afOWb5wmgz4
 features: []
-genres: []
+first_released_as_single: false
 key: say-man-bo-diddley
 lyrics_url: https://genius.com/Bo-diddley-say-man-lyrics
 name: Say Man
@@ -55,6 +58,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 190413
 ---
 Say man, what's that boy?
 I want to tell you about your girlfriend

@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 2
 artists:
 - The Limeliters
+external_ids:
+  spotify: spotify:track:4MYwuoHZRF7zcWH9zXUhDQ
 features: []
-genres: []
+first_released_as_single: false
 key: a-dollar-down-the-limeliters
 lyrics_url: https://genius.com/The-limeliters-a-dollar-down-lyrics
 name: A Dollar Down
@@ -19,6 +22,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 158093
 ---
 Throughout history mankind has been plagued with triangles
 A there's the eternal triangle

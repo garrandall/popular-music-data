@@ -1,11 +1,14 @@
 ---
+album: Ultra Dance 19
 artists:
 - Sofi Tukker
+external_ids:
+  spotify: spotify:track:6FuLQkI1pPnYwGxPUx9Rqn
 features:
 - NERVO
 - The Knocks
 - Alisa Ueno
-genres: []
+first_released_as_single: true
 key: best-friend-sofi-tukker-nervo-the-knocks-alisa-ueno
 lyrics_url: https://genius.com/Genius-brasil-traducoes-sofi-tukker-best-friend-traducao-lyrics
 name: Best Friend
@@ -30,6 +33,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2017
+runtime: 184880
 ---
 Eu acho que vou continuar amando você, bem depois dos sessenta e cinco anos
 Nós fizemos um idioma para nós dois, não precisamos descrever

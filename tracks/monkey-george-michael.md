@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:2nzPzkGP9QSZ1lqvXTfyzT
 features: []
-genres: []
+first_released_as_single: false
 key: monkey-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/monkey.html
 name: Monkey
@@ -71,8 +74,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1987
+runtime: 306120
 ---
-
 Why Can't You Do It?
 Why can't you set your monkey free?
 Always giving in to it -
@@ -126,6 +130,3 @@ Don't look now
 There's a monkey on your back
 Don't look now
 There's a monkey on you...
-
-
-

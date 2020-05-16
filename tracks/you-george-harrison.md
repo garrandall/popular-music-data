@@ -1,8 +1,11 @@
 ---
+album: All Things Must Pass
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:0wZuvGn7nZbKoyKOlwZQMF
 features: []
-genres: []
+first_released_as_single: false
 key: you-george-harrison
 lyrics_url: https://genius.com/George-harrison-got-my-mind-set-on-you-lyrics
 name: You
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1970
+runtime: 177426
 ---
 I got my mind set on you
 I got my mind set on you

@@ -1,8 +1,11 @@
 ---
+album: 3 Doors Down
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:0uybt73QFXaLCoxuVf6fhm
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-my-time-3-doors-down
 lyrics_url: https://genius.com/3-doors-down-its-not-my-time-lyrics
 name: It's Not My Time
@@ -123,6 +126,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2008
+runtime: 241960
 ---
 Looking back at the beginning of this
 And how life was

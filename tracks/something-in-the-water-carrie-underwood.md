@@ -1,8 +1,11 @@
 ---
+album: NOW Country Songs Of Inspiration Vol. 2
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:6i4AhEKKrOhstqhZoiO2E1
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-the-water-carrie-underwood
 lyrics_url: https://genius.com/Carrie-underwood-something-in-the-water-lyrics
 name: Something In The Water
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2014
+runtime: 30600
 ---
 He said, "I've been where you've been before
 Down every hallway's a slamming door"

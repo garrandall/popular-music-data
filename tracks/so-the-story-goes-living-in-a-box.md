@@ -1,8 +1,11 @@
 ---
+album: Living in a Box
 artists:
 - Living In A Box
+external_ids:
+  spotify: spotify:track:2DsBDML9W0jYUkTCSUUvDC
 features: []
-genres: []
+first_released_as_single: false
 key: so-the-story-goes-living-in-a-box
 lyrics_url: https://genius.com/Living-in-a-box-so-the-story-goes-lyrics
 name: So The Story Goes
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 262173
 ---
 Empty rooms without a view
 And empty space to see it through

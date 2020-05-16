@@ -1,9 +1,12 @@
 ---
+album: Free TC
 artists:
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:5UPNBWFU2TEf9kauIITfBs
 features:
 - E-40
-genres: []
+first_released_as_single: false
 key: saved-ty-dolla--ign-e-40
 name: Saved
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 178506
 ---
 

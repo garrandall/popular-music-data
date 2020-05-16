@@ -1,8 +1,11 @@
 ---
+album: Fix You (The Voice Performance)
 artists:
 - Javier Colon
+external_ids:
+  spotify: spotify:track:36i9buM6LLNqaprbNZhUJ3
 features: []
-genres: []
+first_released_as_single: true
 key: fix-you-javier-colon
 lyrics_url: https://genius.com/Javier-colon-fix-you-the-voice-performance-lyrics
 name: Fix You
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 204173
 ---
 When you try your best, but you don't succeed
 When you get what you want, but not what you need

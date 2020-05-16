@@ -1,8 +1,11 @@
 ---
+album: The Writing's On The Wall
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:7h0LCcYSjd71GGup5xkTcd
 features: []
-genres: []
+first_released_as_single: false
 key: jumpin--jumpin--destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-jumpin-jumpin-lyrics
 name: Jumpin' Jumpin'
@@ -135,6 +138,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 1997
+runtime: 245240
 ---
 Ladies leave your man at home
 The club is full of ballers and their pockets full grown

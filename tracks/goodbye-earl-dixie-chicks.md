@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:7rqaqQurHzR5xHAhdm1gmM
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-earl-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-goodbye-earl-lyrics
 name: Goodbye Earl
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
+release_year: 1999
+runtime: 258640
 ---
 Mary Anne and Wanda were the best of friends
 All through their high school days

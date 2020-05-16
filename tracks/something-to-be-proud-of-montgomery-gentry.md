@@ -1,8 +1,11 @@
 ---
+album: You Do Your Thing
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:4c13gErxlMG5Spfx4OrzHO
 features: []
-genres: []
+first_released_as_single: false
 key: something-to-be-proud-of-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/somethingtobeproudof.html
 name: Something To Be Proud Of
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2005-12-17'
+release_year: 1999
+runtime: 255480
 ---
-
 There's a story that my daddy tells religiously
 Like clockwork every time he sees an opening
 In a conversation about the way things used to be
@@ -154,6 +158,3 @@ That's something to be proud of
 Yeah, that's something to be proud of
 That's something to be proud of
 Now that's something to be proud of
-
-
-

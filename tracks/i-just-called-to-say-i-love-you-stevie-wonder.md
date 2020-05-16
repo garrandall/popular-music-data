@@ -1,8 +1,11 @@
 ---
+album: Selections From The Original Soundtrack The Woman In Red
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0kVE2yBjTwnFqbsrXRKg5Y
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-called-to-say-i-love-you-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-i-just-called-to-say-i-love-you-lyrics
 name: I Just Called To Say I Love You
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 376293
 ---
 No New Year's Day to celebrate
 No chocolate covered candy hearts to give away

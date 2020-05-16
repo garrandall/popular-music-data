@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Martha Reeves & The Vandellas'
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:66X43fkuR66E51rarIeCbT
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-loves-me-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/mybabylovesme.html
 name: My Baby Loves Me
@@ -52,8 +55,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 186200
 ---
-
 My baby loves me, oh yeah, my baby needs me, oh yeah
 No other guy can whisper sweet things in my ear
 My sweetie pie has the only sweet voice I hear, so clear
@@ -74,6 +78,3 @@ Nobody could ever erase the love so strong
 
 'Cause I know he loves me, he told me that he needs me
 I know he loves me
-
-
-

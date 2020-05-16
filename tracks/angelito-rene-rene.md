@@ -1,9 +1,12 @@
 ---
+album: Mucho Rene and Rene
 artists:
 - Rene
 - Rene
+external_ids:
+  spotify: spotify:track:5H5RKWxi1AOGngZfk6lUtV
 features: []
-genres: []
+first_released_as_single: false
 key: angelito-rene-rene
 lyrics_url: https://genius.com/Rene-y-rene-angelito-lyrics
 name: Angelito
@@ -40,6 +43,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 152840
 ---
 Me encontré un angelito
 Que bajó

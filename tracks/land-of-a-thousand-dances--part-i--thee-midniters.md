@@ -1,8 +1,11 @@
 ---
+album: In Thee Midnite Hour!!!!
 artists:
 - Thee Midniters
+external_ids:
+  spotify: spotify:track:5JBHz653h64fYqdntGj1rX
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-a-thousand-dances--part-i--thee-midniters
 lyrics_url: https://www.musixmatch.com/lyrics/Thee-Midniters/Land-of-a-Thousand-Dances
 name: Land Of A Thousand Dances (Part I)
@@ -23,6 +26,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 355066
 ---
 Na nana na na, nana na na nana na nana na
 Na na nana na

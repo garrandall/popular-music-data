@@ -1,8 +1,11 @@
 ---
+album: The Colorful Ventures
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:1baecMC7REYsVkXKNgNuRk
 features: []
-genres: []
+first_released_as_single: false
 key: blue-moon-the-ventures
 lyrics_url: https://genius.com/The-ventures-blue-moon-lyrics
 name: Blue Moon
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 132066
 ---
 Blue moon, you saw me standing alone
 Without a dream in my heart, without a love of my own

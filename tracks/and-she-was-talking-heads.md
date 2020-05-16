@@ -1,8 +1,11 @@
 ---
+album: Little Creatures
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:0iZPqMaNFkyvzZslExxL8S
 features: []
-genres: []
+first_released_as_single: true
 key: and-she-was-talking-heads
 lyrics_url: https://genius.com/Talking-heads-and-she-was-lyrics
 name: And She Was
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 212026
 ---
 Hey!
 

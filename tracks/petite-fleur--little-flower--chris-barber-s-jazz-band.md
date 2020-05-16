@@ -1,8 +1,11 @@
 ---
+album: Jazz Jamboree
 artists:
 - Chris Barber's Jazz Band
+external_ids:
+  spotify: spotify:track:2nComnaCZnFiIXQiExzu65
 features: []
-genres: []
+first_released_as_single: false
 key: petite-fleur--little-flower--chris-barber-s-jazz-band
 name: Petite Fleur (Little Flower)
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 166586
 ---
 

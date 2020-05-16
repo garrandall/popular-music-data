@@ -1,8 +1,11 @@
 ---
+album: Collection 1954-62
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:7sRUv6Aw8Au1vka3a6fJue
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-love-pass-me-by-frankie-avalon
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/Don-t-Let-Love-Pass-Me-By
 name: Don't Let Love Pass Me By
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 165106
 ---
 Why won't the moon ever shine for me
 Don't know the reason why

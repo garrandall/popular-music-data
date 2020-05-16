@@ -1,8 +1,11 @@
 ---
+album: Machismo
 artists:
 - Cameo
+external_ids:
+  spotify: spotify:track:0ftH3dPb9wqNrVjQCycaI8
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-work-cameo
 lyrics_url: https://genius.com/Cameo-you-make-me-work-lyrics
 name: You Make Me Work
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1988
+runtime: 368013
 ---
 Ow ow ow ow
 Ow ow ow ow

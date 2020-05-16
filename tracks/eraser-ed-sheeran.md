@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:7oolFzHipTMg2nL7shhdz2
 features: []
-genres: []
+first_released_as_single: false
 key: eraser-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/eraser.html
 name: Eraser
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 227426
 ---
-
 I was born inside a small town, I lost that state of mind
 Learned to sing inside the lord's house
 But stopped at the age of nine
@@ -80,6 +84,3 @@ And I'll find comfort in my pain eraser
 And I'll find comfort in my pain eraser
 And I'll find comfort in my pain eraser
 And I'll find comfort in my pain eraser
-
-
-

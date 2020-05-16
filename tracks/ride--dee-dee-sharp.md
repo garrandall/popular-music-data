@@ -1,8 +1,11 @@
 ---
+album: 25 Original Greatest Hits- Cameo Parkway
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:29XbmPrdqwBHtvN7Ferxet
 features: []
-genres: []
+first_released_as_single: false
 key: ride--dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-ride-lyrics
 name: Ride!
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 144773
 ---
 Let's pony again
 (Get it, get it, get it, get it, get it)

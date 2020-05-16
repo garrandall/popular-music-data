@@ -1,8 +1,11 @@
 ---
+album: Think Like A Girl
 artists:
 - Diana King
+external_ids:
+  spotify: spotify:track:2RXOXKIx5mOUgYWMYwoW1t
 features: []
-genres: []
+first_released_as_single: false
 key: l-l-lies-diana-king
 lyrics_url: https://www.azlyrics.com/lyrics/dianaking/lllies.html
 name: L-L-Lies
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 248160
 ---
-
 Oh why, oh why, oh why
 You tell me l-l-l-lies
 Never t-t-t-t-t think
@@ -127,6 +131,3 @@ Things you say-ay-ay-ay-ay
 Will make you fay-ay-ay-ade away
 So b-b-b-b-bye-bye-bye
 Good b-b-b-b-bye-bye-bye
-
-
-

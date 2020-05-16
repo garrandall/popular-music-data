@@ -1,8 +1,11 @@
 ---
+album: Octave
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:5DY2MyjIlecnD2QHakgnDR
 features: []
-genres: []
+first_released_as_single: false
 key: steppin--in-a-slide-zone-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/steppininaslidezone.html
 name: Steppin' In A Slide Zone
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 326573
 ---
-
 I took a ride in a limousine
 I took a road I'd never been
 I met a stranger by the way
@@ -96,6 +100,3 @@ Standing in a slide zone
 Falling through a time zone
 Steppin' in a slide zone
 He had me falling through a time zone
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Magnificent 7
 artists:
 - The Supremes
 - Four Tops
+external_ids:
+  spotify: spotify:track:5ZG2VUAuYPtgZ3zTflosFo
 features: []
-genres: []
+first_released_as_single: false
 key: river-deep---mountain-high-the-supremes-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/riverdeepmountainhigh.html
 name: River Deep - Mountain High
@@ -48,8 +51,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 291093
 ---
-
 When I was a little girl, I had a rag doll
 Only doll I've ever owned
 Well, I love you just the way I loved that rag doll
@@ -109,6 +113,3 @@ That's how I love you, baby
 High, high, high, high, high, high, high, yeah, baby
 I love you, baby, yes, yes, yes, I do
 Tell me, tell me, tell me one more time
-
-
-

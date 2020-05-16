@@ -1,8 +1,11 @@
 ---
+album: Steppenwolf
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:3lN8PP6R2IxbLP05QpYXng
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-be-wild-steppenwolf
 lyrics_url: https://genius.com/Steppenwolf-born-to-be-wild-lyrics
 name: Born To Be Wild
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 212893
 ---
 Get your motor runnin'
 Head out on the highway

@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:1C1OBpwB6tRViTiWE2ZgNR
 features: []
-genres: []
+first_released_as_single: false
 key: dna-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-dna-lyrics
 name: DNA
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 185946
 ---
 I got, I got, I got, I got—
 Loyalty, got royalty inside my DNA

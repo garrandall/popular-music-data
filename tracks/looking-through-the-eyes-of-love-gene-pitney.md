@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:7rZwy5k09HLz1s88SCvSHn
 features: []
-genres: []
+first_released_as_single: false
 key: looking-through-the-eyes-of-love-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/lookingthroughtheeyesoflove.html
 name: Looking Through The Eyes Of Love
@@ -39,8 +42,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 196920
 ---
-
 In the eyes of the world I'm a loser just wastin' my time
 I can't make a dime
 In the eyes of the world being born was my first big mistake
@@ -73,6 +77,3 @@ Lookin' through the eyes of love (lookin' through the eyes of love)
 Lookin' through the eyes of love (lookin' through the eyes of love)
 Lookin' through the eyes of love (lookin' through the eyes of love)
 Lookin' through the eyes of love.
-
-
-

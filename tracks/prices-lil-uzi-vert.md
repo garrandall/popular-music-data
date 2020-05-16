@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:4YcWzLSnGqLjSCycuSMHnn
 features: []
-genres: []
+first_released_as_single: false
 key: prices-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/prices.html
 name: Prices
@@ -11,8 +14,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 233333
 ---
-
 Yeah, yeah
 Yeah, yeah
 Oh
@@ -132,6 +136,3 @@ I just went up in my price, in my price
 (Come over here)
 (You tell 'em two)
 (Yo, it's not four)
-
-
-

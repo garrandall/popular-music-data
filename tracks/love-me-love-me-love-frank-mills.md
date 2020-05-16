@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Frank
 artists:
 - Frank Mills
+external_ids:
+  spotify: spotify:track:1xz8xkGTqxH6MlWB5yohoV
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-love-me-love-frank-mills
 lyrics_url: https://www.musixmatch.com/lyrics/Frank-Mills/Love-Me-Love-Me-Love
 name: Love Me Love Me Love
@@ -43,6 +46,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 256519
 ---
 Standing on a corner
 Passing time away

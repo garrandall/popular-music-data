@@ -1,8 +1,11 @@
 ---
+album: Curtis Live! (US Release)
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:45uEM6yN4zW6yyokM66gyG
 features: []
-genres: []
+first_released_as_single: false
 key: -don-t-worry--if-there-s-a-hell-below-we-re-all-going-to-go-curtis-mayfield
 lyrics_url: https://genius.com/Curtis-mayfield-dont-worry-if-theres-a-hell-below-were-all-going-to-go-lyrics
 name: (Don't Worry) If There's A Hell Below We're All Going To Go
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1970
+runtime: 567093
 ---
 Last night, I was so depressed
 And I went and got the Bible

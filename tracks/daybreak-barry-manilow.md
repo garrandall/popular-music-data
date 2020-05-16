@@ -1,8 +1,11 @@
 ---
+album: This One's For You
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:6Fc4tZ0NSs8FA8O6qdbctv
 features: []
-genres: []
+first_released_as_single: false
 key: daybreak-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/daybreak.html
 name: Daybreak
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
+release_year: 1974
+runtime: 187245
 ---
-
 Singing to the world
 Its time we let the spirt come in
 Let it come on in
@@ -102,4 +106,3 @@ And its daybreak
 Can't you sing it
 That its daybreak
 Sunshine
-

@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of The Jets'
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:1QOapaQd48o1H8JfrlzUjO
 features: []
-genres: []
+first_released_as_single: false
 key: the-same-love-the-jets
 lyrics_url: https://genius.com/The-jets-group-the-same-love-lyrics
 name: The Same Love
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 238973
 ---
 You and me
 We had a love that was forever

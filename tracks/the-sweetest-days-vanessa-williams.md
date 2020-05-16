@@ -1,8 +1,11 @@
 ---
+album: The Sweetest Days
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:2aw72RcR4WQvmA9bICK8QZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-sweetest-days-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/thesweetestdays.html
 name: The Sweetest Days
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
+release_year: 1994
+runtime: 211293
 ---
-
 You and I in this moment, holding the night so close 
 Hanging on still unbroken, while outside the thunder rolls 
 
@@ -124,6 +128,3 @@ These are the days
 Every day is the sweetest day we'll know 
 
 The sweetest days we'll know
-
-
-

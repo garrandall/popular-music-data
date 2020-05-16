@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:1NSuI83PSNDwCXQ0O4MD2s
 features: []
-genres: []
+first_released_as_single: false
 key: giving-up-on-love-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-giving-up-on-love-lyrics
 name: Giving Up On Love
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 156160
 ---
 (Giving up, giving up)
 (Giving up, giving up)

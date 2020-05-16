@@ -1,8 +1,11 @@
 ---
+album: Willard
 artists:
 - John Stewart
+external_ids:
+  spotify: spotify:track:423FZ2gkzCI195VRx33vYE
 features: []
-genres: []
+first_released_as_single: false
 key: gold-john-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/johnstewart/gold.html
 name: Gold
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1970
+runtime: 192826
 ---
-
 When the lights go down in the California town
 People are in for the evening
 I jump into my car and I throw in my guitar
@@ -135,6 +139,3 @@ People out there turning music into gold (into gold)
 Slipping down the back road
 People out there turning music into gold (into gold)
 People out there turning music into gold (into gold)
-
-
-

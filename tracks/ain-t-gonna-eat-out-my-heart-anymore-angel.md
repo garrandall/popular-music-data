@@ -1,8 +1,11 @@
 ---
+album: White Hot
 artists:
 - Angel
+external_ids:
+  spotify: spotify:track:7ncIYb0xb57bSgYllscI0f
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-gonna-eat-out-my-heart-anymore-angel
 lyrics_url: https://genius.com/Angel-band-aint-gonna-eat-out-my-heart-anymore-lyrics
 name: Ain't Gonna Eat Out My Heart Anymore
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1978
+runtime: 172333
 ---
 Yeahhhhh
 I admit you've got the biggest brown eyes

@@ -1,8 +1,11 @@
 ---
+album: It Won't Be The Last
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:5Irso3FdhTm7H2mHkSVUTA
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-heart-of-a-woman-billy-ray-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/billyraycyrus/intheheartofawoman.html
 name: In The Heart Of A Woman
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 239626
 ---
-
 She was all that I ever could have wanted her to be
 She always knew just how to give the best of love to me
 I thought I knew a thing or two about the ways of love
@@ -74,6 +78,3 @@ In the heart of a woman
 
 Say you love her strong and true...
 Say you love her strong and true...
-
-
-

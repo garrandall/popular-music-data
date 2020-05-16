@@ -1,8 +1,11 @@
 ---
+album: With These Hands (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:58Bz9hocjPiMXFfgYAEovs
 features: []
-genres: []
+first_released_as_single: false
 key: if-my-heart-could-speak-the-manhattans
 lyrics_url: https://www.musixmatch.com/lyrics/The-Manhattans/If-My-Heart-Could-Speak
 name: If My Heart Could Speak
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 232306
 ---
 If my heart could speak
 Then it could tell you

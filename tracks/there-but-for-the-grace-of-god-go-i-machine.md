@@ -1,8 +1,11 @@
 ---
+album: There But for the Grace of God Go I
 artists:
 - Machine
+external_ids:
+  spotify: spotify:track:238ktHqrZJtfyoF1xcvfSR
 features: []
-genres: []
+first_released_as_single: false
 key: there-but-for-the-grace-of-god-go-i-machine
 lyrics_url: https://genius.com/The-machine-there-but-for-the-grace-of-god-go-i-lyrics
 name: There But For The Grace Of God Go I
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1979
+runtime: 317733
 ---
 Carlos and Carmen Vidal just had a child
 A lovely girl with a crooked smile

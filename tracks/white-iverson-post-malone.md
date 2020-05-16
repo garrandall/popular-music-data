@@ -1,8 +1,11 @@
 ---
+album: Stoney
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:6eT7xZZlB2mwyzJ2sUKG6w
 features: []
-genres: []
+first_released_as_single: false
 key: white-iverson-post-malone
 lyrics_url: https://genius.com/Post-malone-white-iverson-lyrics
 name: White Iverson
@@ -127,6 +130,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 256533
 ---
 Double OT
 I'm a new three

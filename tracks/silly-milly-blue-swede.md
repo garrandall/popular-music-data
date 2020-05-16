@@ -1,8 +1,11 @@
 ---
+album: Hooked On A Feeling - 40th Anniversary Collection
 artists:
 - Blue Swede
+external_ids:
+  spotify: spotify:track:6uoAhuZPYIlqTUtR5NMuVA
 features: []
-genres: []
+first_released_as_single: false
 key: silly-milly-blue-swede
 lyrics_url: https://www.azlyrics.com/lyrics/blueswede/sillymilly.html
 name: Silly Milly
@@ -23,8 +26,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
+release_year: 1974
+runtime: 175280
 ---
-
 Sitting in a bus stop 
 Singing silly songs 
 
@@ -83,6 +87,3 @@ My love is still strong but maybe
 Silly Milly, you nearly kill me 
 Now why don't you thrill me 
 My love is still strong but maybe
-
-
-

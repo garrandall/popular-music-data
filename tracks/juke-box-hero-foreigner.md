@@ -1,8 +1,11 @@
 ---
+album: 4 (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:00qOE7OjRl0BpYiCiweZB2
 features: []
-genres: []
+first_released_as_single: false
 key: juke-box-hero-foreigner
 lyrics_url: https://genius.com/Foreigner-juke-box-hero-lyrics
 name: Juke Box Hero
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1981
+runtime: 259800
 ---
 Standing in the rain, with his head hung low
 Couldn't get a ticket, it was a sold out show

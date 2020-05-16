@@ -1,8 +1,11 @@
 ---
+album: The Politics of Dancing (Expanded)
 artists:
 - Re-flex
+external_ids:
+  spotify: spotify:track:6NiHQZdBG5Kkj87x5yfPtU
 features: []
-genres: []
+first_released_as_single: false
 key: the-politics-of-dancing-re-flex
 lyrics_url: https://genius.com/Re-flex-the-politics-of-dancing-lyrics
 name: The Politics Of Dancing
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1983
+runtime: 398306
 ---
 We got the message
 I heard it on the airwaves

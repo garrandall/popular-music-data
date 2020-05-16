@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:2sLR6e7dZpGICe7MqrVuRH
 features: []
-genres: []
+first_released_as_single: false
 key: my-home-town-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/myhometown.html
 name: My Home Town
@@ -59,8 +62,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 127226
 ---
-
 I took a little trip to my home town
 I only stopped to look around
 And as I walked along the thorough-fare
@@ -89,6 +93,3 @@ And through the night until the break of dawn
 I hear a bird up in the tree
 He sings a pretty little melody
 ya-ya-ya-ya
-
-
-

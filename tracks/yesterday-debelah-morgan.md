@@ -1,8 +1,11 @@
 ---
+album: Yesterday Remixes
 artists:
 - Debelah Morgan
+external_ids:
+  spotify: spotify:track:2LG8A4p8RGMRy010fg9czM
 features: []
-genres: []
+first_released_as_single: true
 key: yesterday-debelah-morgan
 lyrics_url: https://genius.com/Debelah-morgan-yesterday-lyrics
 name: Yesterday
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 289800
 ---
 Who's gonna love me baby
 Who's gonna hold me now

@@ -1,8 +1,11 @@
 ---
+album: Meeting In The Ladies Room
 artists:
 - Klymaxx
+external_ids:
+  spotify: spotify:track:78VE3KQ85A5ejWZAKOVjNp
 features: []
-genres: []
+first_released_as_single: false
 key: the-men-all-pause-klymaxx
 lyrics_url: https://www.azlyrics.com/lyrics/klymaxx/themenallpause.html
 name: The Men All Pause
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1984
+runtime: 435333
 ---
-
 I know I was lookin' good
 I had my Kenneth Cole shoes on
 My Gianni Versace blue leather suit
@@ -156,6 +160,3 @@ Whoa, whoa, whoa, whoa, whoa
 Check me out
 Whoa, whoa, whoa, whoa, whoa
 Whoa, whoa, whoa, whoa, whoa
-
-
-

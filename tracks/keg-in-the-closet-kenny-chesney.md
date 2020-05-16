@@ -1,8 +1,11 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3cXMt1SIh2nPfdAwgS24je
 features: []
-genres: []
+first_released_as_single: false
 key: keg-in-the-closet-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/keginthecloset.html
 name: Keg In The Closet
@@ -47,8 +50,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
+release_year: 2004
+runtime: 213493
 ---
-
 We had a dog named Bocephus? living in the front yard he liked sleeping out on the top of
 the car he drank beer out of the mason jar and he'd climb up on everyone in bed
 
@@ -68,8 +72,3 @@ pass the time back in eighty nine
 
 
 We all kind of went our separate ways, but I swear it seems like yesterday
-
-
-
-
-

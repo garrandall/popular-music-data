@@ -1,8 +1,11 @@
 ---
+album: 'I Want Candy: The Best Of The Strangeloves'
 artists:
 - The Strangeloves
+external_ids:
+  spotify: spotify:track:3cOM3Zc2w5y5tOaUZ4wj95
 features: []
-genres: []
+first_released_as_single: false
 key: night-time-the-strangeloves
 lyrics_url: https://www.musixmatch.com/lyrics/The-Strangeloves/Night-Time
 name: Night Time
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1965
+runtime: 203533
 ---
 I get up in the mornin
 Kick the covers from my bed

@@ -1,8 +1,11 @@
 ---
+album: Brett Young
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:2VIPU72L6tIR4w8J8ap6Kp
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-brett-young
 lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/mercy.html
 name: Mercy
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2017
+runtime: 217120
 ---
-
 Mercy
 Why you gotta show up lookin so good just to hurt me
 Why you wanna stop this whole damn world from turning
@@ -136,6 +140,3 @@ Have mercy
 Oh have mercy
 Oh have mercy
 Have mercy
-
-
-

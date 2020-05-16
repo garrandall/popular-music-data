@@ -1,8 +1,11 @@
 ---
+album: Taylor Swift
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:16MVSD0mGI4RMQT83Qzm69
 features: []
-genres: []
+first_released_as_single: false
 key: should-ve-said-no-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-shouldve-said-no-lyrics
 name: Should've Said No
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2006
+runtime: 242200
 ---
 It's strange to think the songs we used to sing
 The smiles, the flowers, everything is gone

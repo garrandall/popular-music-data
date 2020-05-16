@@ -1,8 +1,11 @@
 ---
+album: Car Wash
 artists:
 - Rose Royce
+external_ids:
+  spotify: spotify:track:2pbWkjtGtjkzBdZ95GFINm
 features: []
-genres: []
+first_released_as_single: false
 key: car-wash-rose-royce
 lyrics_url: https://www.azlyrics.com/lyrics/roseroyce/carwash.html
 name: Car Wash
@@ -99,8 +102,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1976
+runtime: 307573
 ---
-
 Oh...
 You might not ever get rich
 But let me tell you it's better than digging a ditch
@@ -145,6 +149,3 @@ Those cars never seem to stop coming
 Keeps those rags and machines coming
 Let me tell you it's always cool,
 And the boss don't mind sometimes if you, act the fool
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'A Good Thing Lost: 1968-1973'
 artists:
 - The Poppy Family
+external_ids:
+  spotify: spotify:track:3fIAKy9npKmK4Aw5ELdnaE
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-wondering-the-poppy-family
 lyrics_url: https://genius.com/The-poppy-family-i-was-wondering-lyrics
 name: I Was Wondering
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
+release_year: 1971
+runtime: 182560
 ---
 I was wondering
 If you cried today

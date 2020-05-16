@@ -1,8 +1,11 @@
 ---
+album: 11-20-79
 artists:
 - Mona Lisa
+external_ids:
+  spotify: spotify:track:3KBpe2oTYKFXzkYihkdcmb
 features: []
-genres: []
+first_released_as_single: false
 key: you-said-mona-lisa
 lyrics_url: https://www.musixmatch.com/lyrics/Mona-Lisa/You-Said
 name: You Said
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1995
+runtime: 287960
 ---
 You said you'd never leave me
 On my own

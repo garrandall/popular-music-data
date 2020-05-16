@@ -1,8 +1,11 @@
 ---
+album: Atlantic Crossing
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6OuRbvP4PgbuzBIapVzmFJ
 features: []
-genres: []
+first_released_as_single: false
 key: sailing-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/sailing.html
 name: Sailing
@@ -35,8 +38,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 277960
 ---
-
 I am sailing
 I am sailing
 Home again
@@ -77,6 +81,3 @@ Oh Lord, to be near you, to be free
 Oh Lord, to be near you, to be free
 Oh Lord, to be near you, to be free
 Oh Lord
-
-
-

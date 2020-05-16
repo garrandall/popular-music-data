@@ -1,8 +1,11 @@
 ---
+album: STOKELEY
 artists:
 - Ski Mask The Slump God
+external_ids:
+  spotify: spotify:track:1ThmUihH9dF8EV08ku5AXN
 features: []
-genres: []
+first_released_as_single: false
 key: faucet-failure-ski-mask-the-slump-god
 lyrics_url: https://www.azlyrics.com/lyrics/skimasktheslumpgod/faucetfailure.html
 name: Faucet Failure
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2018
+runtime: 145626
 ---
-
 Woah, Heh
 ChaseTheMoney, ChaseTheMoney
 Bitch be for real, huh
@@ -75,7 +79,7 @@ Remember days, me and X hittin' licks
 Guantanamera, we hit a lick on your bitch
 I'm a Goodfella, Maison Margiela my kick, uh
 I am faucet failure, my nigga, I got drip, uh
-Ashin' on your bitch, this that PokÃ©mon trainer shit, uh
+Ashin' on your bitch, this that Pokémon trainer shit, uh
 Who's this? He should be in cockpit, uh
 'Cause I'm flyer than a fuckin' ostrich, uh (Okay)
 On my wood, that bitch won't give me polish, uh
@@ -97,7 +101,7 @@ Um, hol' up, uh, where's my weed guys? (Huh?)
 Guantanamera, we hit a lick on your bitch
 I'm a Goodfella, Maison Margiela my kick, uh
 I am faucet failure, my nigga, I got drip, uh
-Ashin' on your bitch, this that PokÃ©mon trainer shit, uh
+Ashin' on your bitch, this that Pokémon trainer shit, uh
 Who's this? He should be in cockpit, uh
 'Cause I'm flyer than a fuckin' ostrich, uh
 On my wood, that bitch won't give me polish, uh
@@ -108,6 +112,3 @@ On my wood, that bitch won't give me polish, huh
 I am constructor, that bitch I demolish, ayy
 
 ChaseTheMoney, ChaseTheMoney
-
-
-

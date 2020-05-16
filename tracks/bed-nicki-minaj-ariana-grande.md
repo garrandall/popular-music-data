@@ -1,9 +1,12 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:4ZUfbHQOBeEOyf6EArWXA3
 features:
 - Ariana Grande
-genres: []
+first_released_as_single: false
 key: bed-nicki-minaj-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/bed.html
 name: Bed
@@ -48,9 +51,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 189533
 ---
-
-
 Got a bed wit' your name on it
 Wit' your name on it
 Got a kiss wit' your name on it
@@ -129,6 +132,3 @@ Love me good, love me down
 Don't turn me down (Turn it down, baby)
 Got a bed wit' your name on it (Your name...)
 Wit' your name on it
-
-
-

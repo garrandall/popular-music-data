@@ -1,8 +1,11 @@
 ---
+album: Shiver
 artists:
 - Jamie O'Neal
+external_ids:
+  spotify: spotify:track:7Hgcw6qYU1ukRdRGvEkJk3
 features: []
-genres: []
+first_released_as_single: false
 key: there-is-no-arizona-jamie-o-neal
 lyrics_url: https://www.musixmatch.com/lyrics/Jamie-O-Neal/There-Is-No-Arizona
 name: There Is No Arizona
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
+release_year: 2000
+runtime: 236106
 ---
 He promised her a new and better life
 Out in Arizona

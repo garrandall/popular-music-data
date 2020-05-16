@@ -1,9 +1,12 @@
 ---
+album: Unpredictable
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:2F1H1Tm2qJmeiFcUi7vZiL
 features:
 - Twista
-genres: []
+first_released_as_single: false
 key: dj-play-a-love-song-jamie-foxx-twista
 lyrics_url: https://www.azlyrics.com/lyrics/jamiefoxx/djplayalovesong.html
 name: DJ Play A Love Song
@@ -64,9 +67,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
+release_year: 2005
+runtime: 258800
 ---
-
-
 I know you see me lookin' at you
 And I know he know you lookin' at me
 Well...damn
@@ -115,6 +118,3 @@ DJ play this girl a song
 Turned her out, damn that clown, ain't been down
 
 DJ play this girl a song
-
-
-

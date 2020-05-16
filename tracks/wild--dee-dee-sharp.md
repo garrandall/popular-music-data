@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dee Dee Sharp 1962-1966
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:0JSrMb4ohAYkFwS9qwoyA0
 features: []
-genres: []
+first_released_as_single: false
 key: wild--dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-wild-lyrics
 name: Wild!
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 137533
 ---
 Baby, baby you're no good
 Never treat me like a lover should

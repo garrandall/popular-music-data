@@ -1,8 +1,11 @@
 ---
+album: The Wanderer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:4DAo1YydUfqSGcgX2sXn1M
 features: []
-genres: []
+first_released_as_single: false
 key: the-wanderer-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/thewanderer.html
 name: The Wanderer
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 227173
 ---
-
 Woke up this morning
 Dragged myself across the bed
 Alice went to wonderland
@@ -182,6 +186,3 @@ I travel every place
 From here to outer space
 'Cause I'm a wanderer
 Got no time
-
-
-

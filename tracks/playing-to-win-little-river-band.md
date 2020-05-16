@@ -1,8 +1,11 @@
 ---
+album: Playing To Win
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:3bTC0dp9O6QH9YnOtrikc8
 features: []
-genres: []
+first_released_as_single: false
 key: playing-to-win-little-river-band
 lyrics_url: https://genius.com/Little-river-band-playing-to-win-lyrics
 name: Playing To Win
@@ -39,6 +42,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 179120
 ---
 If you want me, come and get me
 You don't have a chance if you don't move now

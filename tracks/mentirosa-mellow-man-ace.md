@@ -1,8 +1,11 @@
 ---
+album: Escape From Havana
 artists:
 - Mellow Man Ace
+external_ids:
+  spotify: spotify:track:3P6fS71hWhZvOnnxQojJ0Z
 features: []
-genres: []
+first_released_as_single: false
 key: mentirosa-mellow-man-ace
 lyrics_url: https://genius.com/Mellow-man-ace-mentirosa-lyrics
 name: Mentirosa
@@ -103,6 +106,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1989
+runtime: 258533
 ---
 Ain't got nobody, baby...baby
 

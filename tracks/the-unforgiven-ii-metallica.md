@@ -1,8 +1,11 @@
 ---
+album: Reload
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:0IGXkVRn0uCsgn4FvIfpgB
 features: []
-genres: []
+first_released_as_single: false
 key: the-unforgiven-ii-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/theunforgivenii.html
 name: The Unforgiven II
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-07-11'
+release_year: 1997
+runtime: 396440
 ---
-
 Lay beside me, tell me what they've done
 Speak the words I wanna hear, to make my demons run
 The door is locked now, but it's opened if you're true
@@ -135,6 +139,3 @@ Never free...
 Never me...
 'Cause you're unforgiven, too...
 Oh
-
-
-

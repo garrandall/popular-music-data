@@ -1,8 +1,11 @@
 ---
+album: The Dells Live
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:2ht21Rlf8L6cPLBkYmhpcs
 features: []
-genres: []
+first_released_as_single: false
 key: oh-what-a-night-the-dells
 lyrics_url: https://genius.com/The-dells-oh-what-a-night-lyrics
 name: Oh What A Night
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 247266
 ---
 Oh what a night, to love you, dear
 Oh what a night, to hold you near

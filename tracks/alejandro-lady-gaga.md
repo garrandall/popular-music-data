@@ -1,8 +1,11 @@
 ---
+album: The Fame Monster
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:4lwavw59UjXUPJZtKNdFYp
 features: []
-genres: []
+first_released_as_single: false
 key: alejandro-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-alejandro-lyrics
 name: Alejandro
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2009
+runtime: 274213
 ---
 I know that we are young, and I know that you may love me
 But I just can't be with you like this anymore

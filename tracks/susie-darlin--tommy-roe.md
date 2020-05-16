@@ -1,8 +1,11 @@
 ---
+album: Sheila
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:1nhJcUXlLFsjXdmxeEfv5b
 features: []
-genres: []
+first_released_as_single: false
 key: susie-darlin--tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/susiedarlin.html
 name: Susie Darlin'
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 139040
 ---
-
 I stood watching all night long
 I stood watching all night long
 I stood watching till you went away
@@ -70,6 +74,3 @@ All my dreams come true
 Oh, uh, Susie darlin' (I thought you knew)
 Oh, uh, Susie darlin' (I thought you knew)
 Oh, uh, Susie darlin' (I thought you knew)
-
-
-

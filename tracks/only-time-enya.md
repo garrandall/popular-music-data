@@ -1,8 +1,11 @@
 ---
+album: A Day Without Rain
 artists:
 - Enya
+external_ids:
+  spotify: spotify:track:6FLwmdmW77N1Pxb1aWsZmO
 features: []
-genres: []
+first_released_as_single: false
 key: only-time-enya
 lyrics_url: https://www.azlyrics.com/lyrics/enya/onlytime.html
 name: Only Time
@@ -135,8 +138,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2000
+runtime: 218546
 ---
-
 Who can say where the road goes?
 Where the day flows?
 Only time.
@@ -166,6 +170,3 @@ Only time.
 
 Who knows? Only time.
 Who knows? Only time.
-
-
-

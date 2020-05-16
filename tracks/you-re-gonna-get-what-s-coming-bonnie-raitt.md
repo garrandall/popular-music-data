@@ -1,8 +1,11 @@
 ---
+album: The Glow
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:0Eb081S16qeQIqWwpaUMFY
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-get-what-s-coming-bonnie-raitt
 lyrics_url: https://genius.com/Bonnie-raitt-youre-gonna-get-whats-coming-lyrics
 name: You're Gonna Get What's Coming
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 212600
 ---
 You came up on me like a landslide
 Once in a while I get taken like that and I like it

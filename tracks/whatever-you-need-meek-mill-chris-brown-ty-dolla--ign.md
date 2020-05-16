@@ -1,10 +1,13 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:6yMxfx9wpiuhhdb8vHDVMu
 features:
 - Chris Brown
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: whatever-you-need-meek-mill-chris-brown-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/whateveryouneed.html
 name: Whatever You Need
@@ -61,9 +64,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2017
+runtime: 205373
 ---
-
-
 Mustard on the beat, ho
 
 
@@ -126,6 +129,3 @@ Girl, you know I can provide
 Whatever you need
 (Whatever you need, babe)
 Listen to your heart, baby
-
-
-

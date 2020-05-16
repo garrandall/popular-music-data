@@ -1,8 +1,11 @@
 ---
+album: The House On The Hill
 artists:
 - Audience
+external_ids:
+  spotify: spotify:track:44nbjnt6SNb8EnU5gGxCP5
 features: []
-genres: []
+first_released_as_single: false
 key: indian-summer-audience
 lyrics_url: https://genius.com/Audience-indian-summer-lyrics
 name: Indian Summer
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 196840
 ---
 Connor-Werth-Williams
 

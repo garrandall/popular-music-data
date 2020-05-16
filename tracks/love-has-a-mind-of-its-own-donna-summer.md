@@ -1,8 +1,11 @@
 ---
+album: She Works Hard For The Money
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:4UcqvPYHj95XXTtPdhOmWG
 features: []
-genres: []
+first_released_as_single: false
 key: love-has-a-mind-of-its-own-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/lovehasamindofitsown.html
 name: Love Has A Mind Of Its Own
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 258160
 ---
-
 Think about me and you
 Think of all the changes we've
 Been through
@@ -83,6 +87,3 @@ And it roams where it will roam
 Love has a mind of its own
 It holds our lives together
 You're my heart, you're my home
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Agent Provocateur
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:1JLn8RhQzHz3qDqsChcmBl
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-know-what-love-is-foreigner
 lyrics_url: https://genius.com/Foreigner-i-want-to-know-what-love-is-lyrics
 name: I Want To Know What Love Is
@@ -91,6 +94,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1984
+runtime: 304786
 ---
 I've gotta take a little time
 A little time to think things over

@@ -1,8 +1,11 @@
 ---
+album: A's, B's & EP's
 artists:
 - Freddie And The Dreamers
+external_ids:
+  spotify: spotify:track:6zsFcHTXjzOuvEv90WRgA9
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-telling-you-now-freddie-and-the-dreamers
 lyrics_url: https://www.musixmatch.com/lyrics/Freddie-And-The-Dreamers/I-m-Telling-You-Now
 name: I'm Telling You Now
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 127493
 ---
 Freddie & The Dreamers
 I'm Telling You Now

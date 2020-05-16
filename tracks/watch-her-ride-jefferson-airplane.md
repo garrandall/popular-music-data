@@ -1,8 +1,11 @@
 ---
+album: After Bathing At Baxters
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:2cxkf523cgIg4kE8P7hflZ
 features: []
-genres: []
+first_released_as_single: false
 key: watch-her-ride-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/watchherride.html
 name: Watch Her Ride
@@ -23,8 +26,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 191026
 ---
-
 I didn't know you were the one for me, I couldn't see
 But you were waiting,
 For someone to come along to help you out to sing your song,
@@ -56,6 +60,3 @@ It's all that I can do to sit here and let you blow my mind;
 Ah! My mind,
 You're so fine, in my mind you're so fine, in my mind you're so fine,
 You're so fine, in my mind, you're so fine in mind.
-
-
-

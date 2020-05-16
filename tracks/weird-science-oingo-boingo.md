@@ -1,8 +1,11 @@
 ---
+album: Dead Man's Party
 artists:
 - Oingo Boingo
+external_ids:
+  spotify: spotify:track:03AhYPRQeOqG2j54Tdg94E
 features: []
-genres: []
+first_released_as_single: false
 key: weird-science-oingo-boingo
 lyrics_url: https://genius.com/Oingo-boingo-weird-science-lyrics
 name: Weird Science
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 368760
 ---
 From my heart and from my hand
 Why don't people understand

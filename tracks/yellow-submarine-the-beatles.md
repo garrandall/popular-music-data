@@ -1,8 +1,11 @@
 ---
+album: Revolver
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:50xwQXPtfNZFKFeZ0XePWc
 features: []
-genres: []
+first_released_as_single: false
 key: yellow-submarine-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/yellowsubmarine.html
 name: Yellow Submarine
@@ -43,8 +46,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 158880
 ---
-
 In the town where I was born
 Lived a man who sailed to sea
 And he told us of his life
@@ -89,6 +93,3 @@ We all live in a yellow submarine
 Yellow submarine, yellow submarine
 We all live in a yellow submarine
 Yellow submarine, yellow submarine
-
-
-

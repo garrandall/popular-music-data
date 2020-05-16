@@ -1,8 +1,11 @@
 ---
+album: Songs Of Experience
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:2p45wJs98Ek4U6PbZhbDbf
 features: []
-genres: []
+first_released_as_single: true
 key: ordinary-love-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/ordinarylove.html
 name: Ordinary Love
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2014
+runtime: 192156
 ---
-
 The sea wants to kiss the golden shore
 The sunlight warms your skin
 All the beauty that's been lost before
@@ -59,6 +63,3 @@ We can't fall any further
 If we can't feel ordinary love
 And we cannot reach any higher
 If we can't deal with ordinary love
-
-
-

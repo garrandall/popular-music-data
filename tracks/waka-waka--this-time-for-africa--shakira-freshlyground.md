@@ -1,9 +1,12 @@
 ---
+album: Waka Waka (This Time for Africa)
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:2Cd9iWfcOpGDHLz6tVA3G4
 features:
 - Freshlyground
-genres: []
+first_released_as_single: true
 key: waka-waka--this-time-for-africa--shakira-freshlyground
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/wakawakathistimeforafrica.html
 name: Waka Waka (This Time For Africa)
@@ -80,8 +83,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 202626
 ---
-
 Oooeeeeeeeeeeeeeeeehh
 
 You're a good soldier
@@ -176,6 +180,3 @@ This time for Africa
 
 We're all Africa
 We're all Africa
-
-
-

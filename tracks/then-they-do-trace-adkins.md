@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Collection, Volume 1
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:09sPp29XZUJ0FttO94aEQA
 features: []
-genres: []
+first_released_as_single: false
 key: then-they-do-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/thentheydo.html
 name: Then They Do
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 271240
 ---
-
 In the early rush of morning,
 Trying to get the kids to school:
 One's hanging on my shirt-tail,
@@ -118,6 +122,3 @@ You want all the dreams they dreamed of to come true:
 Then they do.
 
 Ah, then they do.
-
-
-

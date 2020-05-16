@@ -1,8 +1,11 @@
 ---
+album: Voices
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:3nvTgo1GKp5WnsZXrC1F7O
 features: []
-genres: []
+first_released_as_single: false
 key: open-the-door--song-for-judith--judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/songforjudithopenthedoor.html
 name: Open The Door (Song For Judith)
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 230800
 ---
-
 Sometimes I remember the old days
 When the world was filled with sorrow
 You might have thought I was living but I was all alone
@@ -87,6 +91,3 @@ You're all like rainbows, coming around the bend
 And when I see you happy
 Well, it sets my heart free
 I'd like to be as good a friend to you, as you are to me
-
-
-

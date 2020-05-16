@@ -1,8 +1,11 @@
 ---
+album: 'Pearls: Songs of Goffin & King'
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:0yFNDhDfpUudsjtpwokyx0
 features: []
-genres: []
+first_released_as_single: false
 key: one-fine-day-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/onefineday.html
 name: One Fine Day
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 150200
 ---
-
 One fine day, you'll look at me
 And you will know our love was, meant to be
 One fine day, you're gonna want me for your girl
@@ -98,6 +102,3 @@ And then you'll want the love you threw away before
 One fine day, you're gonna want me for your girl
 One fine day, oh
 Oh, one fine day, you're gonna want me for your girl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Barbara Acklin
+external_ids:
+  spotify: spotify:track:1ZHSmc2m66fqF0BaRuS9d2
 features: []
-genres: []
+first_released_as_single: false
 key: just-ain-t-no-love-barbara-acklin
 lyrics_url: https://genius.com/Barbara-acklin-just-aint-no-love-lyrics
 name: Just Ain't No Love
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 167413
 ---
 Now I know why the sky is blue
 It sees the sin and heartbreak in you

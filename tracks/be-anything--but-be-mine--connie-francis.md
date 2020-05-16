@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4hu2eRTVUA2zQy2lirqocR
 features: []
-genres: []
+first_released_as_single: false
 key: be-anything--but-be-mine--connie-francis
 lyrics_url: https://www.musixmatch.com/lyrics/Connie-Francis/Be-Anything-But-Be-Mine
 name: Be Anything (But Be Mine)
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 132446
 ---
 Be a beggar, be a thief
 Be my sunshine or my grief

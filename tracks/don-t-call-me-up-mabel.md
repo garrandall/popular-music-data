@@ -1,8 +1,11 @@
 ---
+album: Ivy To Roses (Mixtape)
 artists:
 - Mabel
+external_ids:
+  spotify: spotify:track:5WHTFyqSii0lmT9R21abT8
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-call-me-up-mabel
 lyrics_url: https://www.musixmatch.com/lyrics/Mabel-3/Don-t-Call-Me-Up
 name: Don't Call Me Up
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 178480
 ---
 When I'm underneath the bright lights
 When I'm tryna have a good time

@@ -1,8 +1,11 @@
 ---
+album: Wichita Lineman
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:7J0AqOGLuT3TxoHKzX8RLL
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-of-the-everyday-housewife-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-dreams-of-the-everyday-housewife-lyrics
 name: Dreams Of The Everyday Housewife
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 155093
 ---
 She looks in the mirror
 And stares at the wrinkles that

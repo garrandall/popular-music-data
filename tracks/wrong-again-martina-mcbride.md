@@ -1,8 +1,11 @@
 ---
+album: Evolution (G010001122177S)
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:76aUexA11Kh7KUt86xQM4l
 features: []
-genres: []
+first_released_as_single: false
 key: wrong-again-martina-mcbride
 lyrics_url: https://genius.com/Martina-mcbride-wrong-again-lyrics
 name: Wrong Again
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1997
+runtime: 195466
 ---
 From the day we met
 You made me forget

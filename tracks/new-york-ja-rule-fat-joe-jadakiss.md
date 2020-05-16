@@ -1,10 +1,13 @@
 ---
+album: R.U.L.E.
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:7xXvPyOiFCsB5SSpio5g38
 features:
 - Fat Joe
 - Jadakiss
-genres: []
+first_released_as_single: false
 key: new-york-ja-rule-fat-joe-jadakiss
 lyrics_url: https://genius.com/Ja-rule-new-york-lyrics
 name: New York
@@ -65,6 +68,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2004
+runtime: 258213
 ---
 This is, this is...
 This is, this is...

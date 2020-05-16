@@ -1,8 +1,11 @@
 ---
+album: Graffiti
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7FbOmIhqXF5POFK5MdMUTv
 features: []
-genres: []
+first_released_as_single: true
 key: crawl-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/crawl.html
 name: Crawl
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 236253
 ---
-
 Everybody sees it's you
 I'm the one that lost the view
 Everybody says we're through
@@ -104,6 +108,3 @@ Then we'll fly
 Until there is no winds
 So let's crawl, let's crawl, let's crawl
 Back to love
-
-
-

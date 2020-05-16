@@ -1,8 +1,11 @@
 ---
+album: Sgt. Pepper's Lonely Hearts Club Band
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1sjmKmR4u9xDeJHjDCn2bZ
 features: []
-genres: []
+first_released_as_single: false
 key: penny-lane-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/pennylane.html
 name: Penny Lane
@@ -47,8 +50,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 182053
 ---
-
 In Penny Lane there is a barber showing photographs
 Of every head he's had the pleasure to have known
 And all the people that come and go
@@ -88,6 +92,3 @@ I sit, and meanwhile back
 Penny lane is in my ears and in my eyes
 There beneath the blue suburban skies
 Penny Lane
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Shangri-La
 artists:
 - Robert Maxwell
+external_ids:
+  spotify: spotify:track:2a94G20CcWw8dhoNOh0h1a
 features: []
-genres: []
+first_released_as_single: false
 key: shangri-la-robert-maxwell-his-harp-and-orchestra
 lyrics_url: https://genius.com/Robert-maxwell-his-harp-and-orchestra-shangri-la-lyrics
 name: Shangri-La
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 125400
 ---
 Your kisses take me to Shangri-La
 Each kiss is magic

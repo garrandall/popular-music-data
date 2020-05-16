@@ -1,8 +1,11 @@
 ---
+album: Sports Arena Anthems
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:6dfXwa0dI1sBm4CIePuOYM
 features: []
-genres: []
+first_released_as_single: true
 key: levels-avicii
 lyrics_url: https://www.azlyrics.com/lyrics/avicii/levels.html
 name: Levels
@@ -87,10 +90,10 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 338866
 ---
-
 Oh, sometimes
 I get a good feeling, yeah
 Get a feeling that I never, never, never, never had before, no no
 I get a good feeling, yeah
-

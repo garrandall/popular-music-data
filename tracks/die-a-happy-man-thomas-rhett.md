@@ -1,8 +1,11 @@
 ---
+album: Tangled Up
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:5kNe7PE09d6Kvw5pAsx23n
 features: []
-genres: []
+first_released_as_single: false
 key: die-a-happy-man-thomas-rhett
 lyrics_url: https://genius.com/Thomas-rhett-die-a-happy-man-lyrics
 name: Die A Happy Man
@@ -127,6 +130,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2015
+runtime: 227426
 ---
 Baby, last night was hands down
 One of the best nights that I've had, no doubt

@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:114mpBe63wliCxik7TKcw6
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-let-you-out-of-my-sight-chuck-jackson-maxine-brown
 name: Can't Let You Out Of My Sight
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 137386
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Word Of Mouf
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:3lcC9CnN7Rpo1ugATzmYjY
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: area-codes-ludacris-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/areacodes.html
 name: Area Codes
@@ -76,10 +79,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
+release_year: 2001
+runtime: 303026
 ---
-
-
-
 I've got hoes
 I've got hoes, in different area codes (area, area codes...codes)
 hoes, hoes, in different area codes (area, area codes...codes)
@@ -147,6 +149,3 @@ Everybody in the 8-0-8
 9-0-4, 4-0-7, 8-5-0
 7-0-8, 5-0-2
 And different area codes..
-
-
-

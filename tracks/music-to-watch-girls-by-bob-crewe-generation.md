@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of The Bob Crewe Generation: Music To Watch Girls By'
 artists:
 - Bob Crewe Generation
+external_ids:
+  spotify: spotify:track:2QZ3TaDZsHEFPYBxBWel9X
 features: []
-genres: []
+first_released_as_single: false
 key: music-to-watch-girls-by-bob-crewe-generation
 name: Music To Watch Girls By
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 173999
 ---
 

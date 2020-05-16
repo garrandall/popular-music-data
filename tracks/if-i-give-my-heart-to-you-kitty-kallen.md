@@ -1,8 +1,11 @@
 ---
+album: If I Give My Heart to You
 artists:
 - Kitty Kallen
+external_ids:
+  spotify: spotify:track:5Pk5NPWAKaVzmbrJ7pEJum
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-give-my-heart-to-you-kitty-kallen
 lyrics_url: https://www.musixmatch.com/lyrics/Kitty-Kallen/If-I-Give-My-Heart-to-You
 name: If I Give My Heart To You
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 166866
 ---
 If I give my heart to you, will you handle it with care?
 Will you always treat me tenderly and in every way be fair?

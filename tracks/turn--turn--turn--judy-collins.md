@@ -1,8 +1,11 @@
 ---
+album: 'Judy Collins #3'
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:01e0o0koiUiQZBDFEnAT6D
 features: []
-genres: []
+first_released_as_single: false
 key: turn--turn--turn--judy-collins
 lyrics_url: https://genius.com/Judy-collins-turn-turn-turn-to-everything-there-is-a-season-lyrics
 name: Turn! Turn! Turn!
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1964
+runtime: 220266
 ---
 Words-adapted from the bible, book of ecclesiastes
 Music-pete seeger

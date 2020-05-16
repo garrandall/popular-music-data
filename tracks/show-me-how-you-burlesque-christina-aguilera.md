@@ -1,8 +1,11 @@
 ---
+album: Burlesque Original Motion Picture Soundtrack
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:3my8nYpb74vfIPyRPo0zVq
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-how-you-burlesque-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-show-me-how-you-burlesque-lyrics
 name: Show Me How You Burlesque
@@ -11,6 +14,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 179373
 ---
 Underneath the city lights
 There is a world few know about

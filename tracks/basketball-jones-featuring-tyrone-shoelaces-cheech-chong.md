@@ -1,7 +1,6 @@
 ---
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
 features: []
 genres: []
 key: basketball-jones-featuring-tyrone-shoelaces-cheech-chong

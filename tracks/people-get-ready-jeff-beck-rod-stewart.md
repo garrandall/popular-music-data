@@ -1,9 +1,12 @@
 ---
+album: Flash
 artists:
 - Jeff Beck
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:1Qd3CUBmJMBOmapxPYY6pZ
 features: []
-genres: []
+first_released_as_single: false
 key: people-get-ready-jeff-beck-rod-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/Jeff-Beck-Rod-Stewart/People-Get-Ready
 name: People Get Ready
@@ -48,6 +51,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
+release_year: 1985
+runtime: 292693
 ---
 People get ready
 There's a train a-coming

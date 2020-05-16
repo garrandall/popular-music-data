@@ -1,8 +1,11 @@
 ---
+album: Call Me Crazy
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:5DWmvAL8WPuncj8tSxFVNC
 features: []
-genres: []
+first_released_as_single: false
 key: last-call-lee-ann-womack
 lyrics_url: https://genius.com/Lee-ann-womack-last-call-lyrics
 name: Last Call
@@ -43,6 +46,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
+release_year: 2008
+runtime: 195466
 ---
 I recognized your number
 It's burned into my brain

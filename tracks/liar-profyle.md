@@ -1,8 +1,11 @@
 ---
+album: Nothing But Drama
 artists:
 - Profyle
+external_ids:
+  spotify: spotify:track:18jS43nfrzTvN68Q9tkjDh
 features: []
-genres: []
+first_released_as_single: false
 key: liar-profyle
 lyrics_url: https://genius.com/Profyle-liar-lyrics
 name: Liar
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 2000
+runtime: 297893
 ---
 Tell my why did you do this to me
 After we made plans for a family

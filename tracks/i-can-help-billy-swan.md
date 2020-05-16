@@ -1,8 +1,11 @@
 ---
+album: I Can Help
 artists:
 - Billy Swan
+external_ids:
+  spotify: spotify:track:4merAuE6CTtkpSTpYD7WtW
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-help-billy-swan
 lyrics_url: https://www.azlyrics.com/lyrics/billyswan/icanhelp.html
 name: I Can Help
@@ -79,8 +82,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1972
+runtime: 239840
 ---
-
 If you got a problem
 Don't care what it is
 If you need a hand
@@ -134,6 +138,3 @@ If your child needs a daddy
 I can help
 It would sure do me good to do you good
 Let me help
-
-
-

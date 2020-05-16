@@ -1,9 +1,12 @@
 ---
+album: Spirit Of The Boogie
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:79SELrTGJwfdEd6MbWcNBt
 features: []
-genres: []
+first_released_as_single: false
 key: spirit-of-the-boogie-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/spiritoftheboogie.html
 name: Spirit Of The Boogie
@@ -76,8 +79,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1975
+runtime: 293333
 ---
-
 Get up, let's boogie all
 The boogie's back again
 For the boogie there is no beginning
@@ -145,6 +149,3 @@ Feel the spirit of the boogie band
 It's the baddest little boogie in the land
 
 Feel the spirit of the boogie band
-
-
-

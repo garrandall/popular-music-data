@@ -1,9 +1,12 @@
 ---
+album: Special Occasion
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7DsVb8grtKPFArT750RvTs
 features: []
-genres: []
+first_released_as_single: false
 key: special-occasion-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/specialoccasion.html
 name: Special Occasion
@@ -44,8 +47,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 142173
 ---
-
 Hm, hm, yeah
 Special occasion
 Like when you dress up
@@ -95,6 +99,3 @@ Yeah, now
 It's a real special occasion
 Every time you come around
 Baby, it's a real special occasion
-
-
-

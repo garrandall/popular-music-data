@@ -1,8 +1,11 @@
 ---
+album: The Broadway Album
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:2TdSHyUEsv0XnjXM8UnGnG
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/somewhere.html
 name: Somewhere
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
+release_year: 1985
+runtime: 296200
 ---
-
 Someday, somewhere
 We'll find a new way of living
 Will find a way of forgiving
@@ -88,6 +92,3 @@ Hold my hand and we're half way there
 Hold my hand and I'll take you there
 Somehow
 Someday, somewhere...
-
-
-

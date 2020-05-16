@@ -1,8 +1,11 @@
 ---
+album: Baggariddim
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:07itbZUgkAmBi4CEH5NniJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-babe-ub40
 lyrics_url: https://www.azlyrics.com/lyrics/ub40/igotyoubabe.html
 name: I Got You Babe
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
+release_year: 1985
+runtime: 189093
 ---
-
 They say we're young and we don't know
 Won't find out until we grow
 Well I don't know babe if that's true
@@ -102,6 +106,3 @@ I got you to love me so
 
 
 I got you, babe
-
-
-

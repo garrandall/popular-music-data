@@ -1,6 +1,6 @@
 ---
 artists:
-- Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: getting-closer-wings

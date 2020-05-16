@@ -1,8 +1,11 @@
 ---
+album: 'Live: The Best Of Vanilla Fudge'
 artists:
 - Vanilla Fudge
+external_ids:
+  spotify: spotify:track:4JWVdm7ENx32Ms4VpII3nc
 features: []
-genres: []
+first_released_as_single: false
 key: shotgun-vanilla-fudge
 lyrics_url: https://www.azlyrics.com/lyrics/vanillafudge/shotgun.html
 name: Shotgun
@@ -27,8 +30,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 309533
 ---
-
 I said, shotgun
 Shoot 'em 'fore he runs, now
 Do the jerk, baby
@@ -53,6 +57,3 @@ Shoot 'em 'fore he run, now
 Do the jerk, baby
 Do the jerk, now
 Yeah!
-
-
-

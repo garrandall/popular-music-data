@@ -1,8 +1,11 @@
 ---
+album: Swass
 artists:
 - Sir Mix-A-Lot
+external_ids:
+  spotify: spotify:track:7MmhQMfjXPF2AnqrmbqvVB
 features: []
-genres: []
+first_released_as_single: false
 key: posse-on-broadway-sir-mix-a-lot
 lyrics_url: https://genius.com/Sir-mix-a-lot-posse-on-broadway-lyrics
 name: Posse On Broadway
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 304880
 ---
 Me and Kid Sensation at home away from home
 In the black Benz limo with the cellular phone

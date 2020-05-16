@@ -1,8 +1,11 @@
 ---
+album: Joy
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:2Qv5EUATFNebcFGq3rN8O6
 features: []
-genres: []
+first_released_as_single: false
 key: joy-teddy-pendergrass
 lyrics_url: https://www.azlyrics.com/lyrics/teddypendergrass/joy.html
 name: Joy
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 376066
 ---
-
 Joy
 Joy
 
@@ -169,6 +173,3 @@ Want you here with me
 Oh, joy
 (Joy to be)
 Oh, joy
-
-
-

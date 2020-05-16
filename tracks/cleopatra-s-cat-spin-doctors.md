@@ -1,8 +1,11 @@
 ---
+album: Turn It Upside Down
 artists:
 - Spin Doctors
+external_ids:
+  spotify: spotify:track:2XIqE0nhuX3GW8R45m7qEa
 features: []
-genres: []
+first_released_as_single: false
 key: cleopatra-s-cat-spin-doctors
 lyrics_url: https://www.azlyrics.com/lyrics/spindoctors/cleopatrascat.html
 name: Cleopatra's Cat
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
+release_year: 1994
+runtime: 244266
 ---
-
 Cleopatra's favorite cat
 Got his hands on Caesar's spats
 The heat was on as you could see
@@ -61,6 +65,3 @@ Friends, Romans, can't you see
 My girlfriend's cat is smarter than me
 Egypt's biggest rivalry:
 Cleopatra's cat and me."
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Disco-Fied
 artists:
 - Rhythm Heritage
+external_ids:
+  spotify: spotify:track:7tcC7oVF6YRrjZiD9Cun09
 features: []
-genres: []
+first_released_as_single: false
 key: baretta-s-theme---keep-your-eye-on-the-sparrow---rhythm-heritage
 lyrics_url: https://www.musixmatch.com/lyrics/Rhythm-Heritage/Baretta-s-Theme
 name: Baretta's Theme ("Keep Your Eye On The Sparrow")
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
+release_year: 1976
+runtime: 309200
 ---
 Don't go to bed with no price on your head,
 Don't do it.

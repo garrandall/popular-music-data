@@ -1,8 +1,11 @@
 ---
+album: Therfu
 artists:
 - Turley Richards
+external_ids:
+  spotify: spotify:track:0ojCFgI78aJ33qskR7WpYx
 features: []
-genres: []
+first_released_as_single: false
 key: you-might-need-somebody-turley-richards
 lyrics_url: https://www.musixmatch.com/lyrics/Turley-Richards/You-Might-Need-Somebody
 name: You Might Need Somebody
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1979
+runtime: 216693
 ---
 When somebody reaches for your heart
 Open up and let them through

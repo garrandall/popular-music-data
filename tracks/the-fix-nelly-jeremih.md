@@ -1,9 +1,12 @@
 ---
+album: The Fix
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:33QRsLBBdWDYgCZfWEZqR6
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: the-fix-nelly-jeremih
 lyrics_url: https://genius.com/Nelly-the-fix-lyrics
 name: The Fix
@@ -88,6 +91,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
+release_year: 2015
+runtime: 173045
 ---
 Yeah, Mustard on the beat ho
 

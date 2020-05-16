@@ -1,8 +1,11 @@
 ---
+album: Cocktails
 artists:
 - Too $hort
+external_ids:
+  spotify: spotify:track:6oadMAqfdbOBvGib6lUpn3
 features: []
-genres: []
+first_released_as_single: false
 key: cocktales-too--hort
 lyrics_url: https://www.azlyrics.com/lyrics/toohort/cocktalesradioedit.html
 name: Cocktales
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1995
+runtime: 366160
 ---
-
 Cause these are the tales, the Freaky Tales
 These are the Tales that I cherrish so well.
 You don't like my dirty rap, you can go to hell
@@ -131,6 +135,3 @@ I'm Too $hort baby, I don't stop mackin
 I grab the microphone and I don't stop rappin.
 You can bet your life as I spit these raps
 I'll be funkin em up like that... BITCH
-
-
-

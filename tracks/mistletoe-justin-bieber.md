@@ -1,8 +1,11 @@
 ---
+album: Under The Mistletoe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:7xapw9Oy21WpfEcib2ErSA
 features: []
-genres: []
+first_released_as_single: false
 key: mistletoe-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-mistletoe-lyrics
 name: Mistletoe
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 182946
 ---
 It’s the most beautiful time of the year
 Lights fill the streets, spreading so much cheer

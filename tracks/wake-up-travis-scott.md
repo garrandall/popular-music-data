@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:20MuVazoNMv6xjKPnRFOxG
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-travis-scott
 lyrics_url: https://genius.com/Travis-scott-wake-up-lyrics
 name: Wake Up
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2018
+runtime: 231963
 ---
 I don't wanna wake up
 I want you spread out on the sheets

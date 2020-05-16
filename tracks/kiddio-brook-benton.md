@@ -1,8 +1,11 @@
 ---
+album: Brook Benton - His Very Best
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2hiqVnpGeXJj2hoW4CyBVf
 features: []
-genres: []
+first_released_as_single: false
 key: kiddio-brook-benton
 lyrics_url: https://genius.com/Brook-benton-kiddio-lyrics
 name: Kiddio
@@ -75,6 +78,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
+release_year: 1960
+runtime: 152322
 ---
 I told you, baby, how I feel
 One word can close this deal

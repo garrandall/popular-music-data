@@ -1,8 +1,11 @@
 ---
+album: Chicago VI
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:3hfqqSWS52Vucr4S0mLqUN
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--stronger-every-day-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/feelinstrongereveryday.html
 name: Feelin' Stronger Every Day
@@ -71,8 +74,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1973
+runtime: 254933
 ---
-
 I do believe in you
 And I know you believe in me
 Oh yeah
@@ -127,6 +131,3 @@ Feelin' stronger every day
 Feelin' stronger every day
 (You know I'm alright now)
 Feelin' stronger every day
-
-
-

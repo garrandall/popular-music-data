@@ -1,8 +1,11 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1PokNDiTBQZgXci6rn2BVE
 features: []
-genres: []
+first_released_as_single: false
 key: music-box-eminem
 lyrics_url: https://genius.com/Eminem-music-box-lyrics
 name: Music Box
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
+release_year: 2009
+runtime: 304906
 ---
 Yeah
 Yeah, girl

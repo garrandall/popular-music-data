@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:5hviCr3lgg6LY6noG6DPKs
 features: []
-genres: []
+first_released_as_single: false
 key: landslide-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/landslide.html
 name: Landslide
@@ -123,8 +126,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 230549
 ---
-
 I took my love and I took it down
 I climbed a mountain and I turned around
 And I saw my reflection in the snow-covered hills
@@ -157,6 +161,3 @@ And if you see my reflection in the snow-covered hills
 Well, maybe
 Well, maybe
 Well, maybe the landslide will bring you down
-
-
-

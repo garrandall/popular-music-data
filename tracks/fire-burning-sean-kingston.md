@@ -1,8 +1,11 @@
 ---
+album: Tomorrow
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:7gDKfEMIhyyO4asgEXwcrs
 features: []
-genres: []
+first_released_as_single: true
 key: fire-burning-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/fireburning.html
 name: Fire Burning
@@ -91,8 +94,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2009
+runtime: 242927
 ---
-
 Somebody call 911!
 Shawty fire-burning on the dance floor
 Whoa!
@@ -181,6 +185,3 @@ She's fire-burning, fire-burning on the dance floor
 That little shawty's fire-burning on the dance floor
 
 Somebody call 911
-
-
-

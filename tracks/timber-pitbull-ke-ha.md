@@ -1,9 +1,12 @@
 ---
+album: 'Global Warming: Meltdown (Deluxe Version)'
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:3cHyrEgdyYRjgJKSOiOtcS
 features:
 - Kesha
-genres: []
+first_released_as_single: false
 key: timber-pitbull-ke-ha
 lyrics_url: https://genius.com/Pitbull-timber-lyrics
 name: Timber
@@ -164,6 +167,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2012
+runtime: 204160
 ---
 It's goin' down, I'm yellin' timber
 You better move, you better dance

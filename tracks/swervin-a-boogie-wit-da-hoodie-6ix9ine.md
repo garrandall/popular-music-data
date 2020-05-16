@@ -1,9 +1,12 @@
 ---
+album: Hoodie SZN
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:1wJRveJZLSb1rjhnUHQiv6
 features:
 - 6ix9ine
-genres: []
+first_released_as_single: false
 key: swervin-a-boogie-wit-da-hoodie-6ix9ine
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-swervin-lyrics
 name: Swervin
@@ -88,6 +91,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2018
+runtime: 189486
 ---
 Uh
 Yeah

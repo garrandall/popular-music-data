@@ -1,8 +1,11 @@
 ---
+album: Torches
 artists:
 - Foster The People
+external_ids:
+  spotify: spotify:track:7w87IxuO7BDcJ3YUqCyMTT
 features: []
-genres: []
+first_released_as_single: false
 key: pumped-up-kicks-foster-the-people
 lyrics_url: https://genius.com/Foster-the-people-pumped-up-kicks-lyrics
 name: Pumped Up Kicks
@@ -167,6 +170,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 239600
 ---
 Robert's got a quick hand
 He'll look around the room, he won't tell you his plan

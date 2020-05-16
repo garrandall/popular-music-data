@@ -1,10 +1,13 @@
 ---
+album: B, S & T; 4
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:4u2i6dbT4DgGwmQAqw8gnt
 features: []
-genres: []
+first_released_as_single: false
 key: lisa-listen-to-me-blood-sweat-tears
 lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/lisalistentome.html
 name: Lisa Listen To Me
@@ -33,8 +36,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 178866
 ---
-
 Once a girl I knew, all alone and unprepared.
 Everyone she knew, running scared.
 Then she found him or maybe he found her.
@@ -66,6 +70,3 @@ Everyone she knew, running scared.
 Then she found him or maybe he found her.
 His were gentle words she had never heard before.
 She had never heard before
-
-
-

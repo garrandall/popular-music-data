@@ -1,8 +1,11 @@
 ---
+album: Jam On Revenge
 artists:
 - Newcleus
+external_ids:
+  spotify: spotify:track:1lB2kyB5h9ceZ388GBfC9L
 features: []
-genres: []
+first_released_as_single: false
 key: jam-on-it-newcleus
 lyrics_url: https://genius.com/Newcleus-jam-on-it-lyrics
 name: Jam On It
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1984
+runtime: 383600
 ---
 Ha-ha-ha-ha, Yeah
 Jam on it

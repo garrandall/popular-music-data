@@ -1,8 +1,11 @@
 ---
+album: The New Seekers - Their Very Best
 artists:
 - The New Seekers
+external_ids:
+  spotify: spotify:track:561H1vi4xYPD0uQ5EOPrch
 features: []
-genres: []
+first_released_as_single: true
 key: pinball-wizard-the-new-seekers
 lyrics_url: https://genius.com/The-new-seekers-pinball-wizard-see-me-feel-me-lyrics
 name: Pinball Wizard
@@ -59,6 +62,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
+release_year: 1973
+runtime: 183666
 ---
 Ever since I was a young boy, I've played the silver ball
 From Soho down to Brighton, I must have played them all

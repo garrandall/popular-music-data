@@ -1,8 +1,11 @@
 ---
+album: Live! Bootleg
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:7DfXgMCQjST7K8JvUhZ4ck
 features: []
-genres: []
+first_released_as_single: false
 key: come-together-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/cometogether.html
 name: Come Together
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1978
+runtime: 291466
 ---
-
 Here come old flat top
 He come groovin' up slowly
 He got joo joo eyeball

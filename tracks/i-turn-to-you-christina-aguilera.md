@@ -1,8 +1,11 @@
 ---
+album: Christina Aguilera
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:5pjooutGKcRh3nW1Ykyln3
 features: []
-genres: []
+first_released_as_single: false
 key: i-turn-to-you-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-i-turn-to-you-lyrics
 name: I Turn To You
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
+release_year: 1996
+runtime: 273813
 ---
 When I'm lost in the rain
 In your eyes I know I'll find the light

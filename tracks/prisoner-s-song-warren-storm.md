@@ -1,8 +1,11 @@
 ---
+album: Night After Night
 artists:
 - Warren Storm
+external_ids:
+  spotify: spotify:track:1me5FBIYUyhPzgqs7AJ1ya
 features: []
-genres: []
+first_released_as_single: false
 key: prisoner-s-song-warren-storm
 lyrics_url: https://www.musixmatch.com/lyrics/Warren-Storm/Prisoner-s-Song
 name: Prisoner's Song
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-09-01'
+release_year: 1958
+runtime: 138760
 ---
 If I
 Had wings

@@ -1,8 +1,11 @@
 ---
+album: Mellon Collie And The Infinite Sadness
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:7bu0znpSbTks0O6I98ij0W
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-tonight-the-smashing-pumpkins
 lyrics_url: https://genius.com/The-smashing-pumpkins-tonight-tonight-lyrics
 name: Tonight Tonight
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1995
+runtime: 254626
 ---
 Time is never time at all
 You can never ever leave

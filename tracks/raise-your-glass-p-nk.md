@@ -1,8 +1,11 @@
 ---
+album: Raise Your Glass
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:1gv4xPanImH17bKZ9rOveR
 features: []
-genres: []
+first_released_as_single: true
 key: raise-your-glass-p-nk
 lyrics_url: https://genius.com/P-nk-raise-your-glass-lyrics
 name: Raise Your Glass
@@ -127,6 +130,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 202960
 ---
 Right, right, turn off the lights
 We're gonna lose our minds tonight

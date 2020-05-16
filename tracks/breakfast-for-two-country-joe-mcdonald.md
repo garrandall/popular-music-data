@@ -1,8 +1,11 @@
 ---
+album: Paradise With An Ocean View
 artists:
 - Country Joe McDonald
+external_ids:
+  spotify: spotify:track:0hZ3JWdTLt6nghIloAyIHM
 features: []
-genres: []
+first_released_as_single: false
 key: breakfast-for-two-country-joe-mcdonald
 lyrics_url: https://www.musixmatch.com/lyrics/Country-Joe-McDonald/Breakfast-for-Two
 name: Breakfast For Two
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
+release_year: 1975
+runtime: 285760
 ---
 We went out to dinner
 Boy, what an appetite

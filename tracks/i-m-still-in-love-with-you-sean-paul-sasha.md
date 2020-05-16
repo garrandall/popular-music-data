@@ -1,9 +1,12 @@
 ---
+album: Dutty Rock
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:3MhdH8PxqH1FuQp3HBptUI
 features:
 - Sasha
-genres: []
+first_released_as_single: false
 key: i-m-still-in-love-with-you-sean-paul-sasha
 lyrics_url: https://genius.com/Sean-paul-im-still-in-love-with-you-lyrics
 name: I'm Still In Love With You
@@ -108,6 +111,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2002
+runtime: 273360
 ---
 Well in come the thing them call di broken heart
 This blessed love will never part

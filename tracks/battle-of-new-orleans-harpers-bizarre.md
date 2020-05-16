@@ -1,8 +1,11 @@
 ---
+album: The Secret Life Of Harpers Bizarre
 artists:
 - Harpers Bizarre
+external_ids:
+  spotify: spotify:track:2AVUPbwgQUGEIBdsUpzYzU
 features: []
-genres: []
+first_released_as_single: false
 key: battle-of-new-orleans-harpers-bizarre
 lyrics_url: https://genius.com/Harpers-bizarre-battle-of-new-orleans-lyrics
 name: Battle Of New Orleans
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 151933
 ---
 In 1814 we took a little trip
 Along with Colonel Jackson down the mighty Mississip'

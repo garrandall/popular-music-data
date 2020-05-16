@@ -1,9 +1,12 @@
 ---
+album: Come In From The Rain
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:5ODYB65yumUUrL2aYtvHsU
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-dancin--captain-tennille
 lyrics_url: https://genius.com/Captain-and-tennille-cant-stop-dancin-lyrics
 name: Can't Stop Dancin'
@@ -56,6 +59,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 232266
 ---
 Oh, you can't stop dancin'
 Just because the music's gone

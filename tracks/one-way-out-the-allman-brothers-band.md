@@ -1,8 +1,11 @@
 ---
+album: At Fillmore East
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:3q7em8kVHiHpZbKQuVYwFQ
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-out-the-allman-brothers-band
 lyrics_url: https://genius.com/The-allman-brothers-band-one-way-out-lyrics
 name: One Way Out
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1971
+runtime: 296146
 ---
 Ain't but one way out, baby, Lord I just can't go out the door
 Ain't but one way out, baby and Lord, I just can't go out the door

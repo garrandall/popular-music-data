@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:1nXZnTALNXiPlvXotqHm66
 features: []
-genres: []
+first_released_as_single: false
 key: a-boy-is-a-gun-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/aboyisagun.html
 name: A Boy Is A Gun
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 210253
 ---
-
 No, don't shoot me down (Yeah)
 No, don't shoot me down (Ok)
 No, don't shoot me down
@@ -80,6 +84,3 @@ I ain't gon' repeat myself but stay the fuck away from me
 A boy is a gun
 Don't, don't shoot me down
 A boy is a gun
-
-
-

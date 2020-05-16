@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:0fv2KH6hac06J86hBUTcSf
 features: []
-genres: []
+first_released_as_single: false
 key: new-magic-wand-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/newmagicwand.html
 name: New Magic Wand
@@ -11,6 +14,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 195320
 ---
 (Sometimes you gotta close a door to open a window)
 

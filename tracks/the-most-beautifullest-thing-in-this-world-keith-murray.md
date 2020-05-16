@@ -1,8 +1,11 @@
 ---
+album: The Most Beautifullest Thing In This World
 artists:
 - Keith Murray
+external_ids:
+  spotify: spotify:track:4YwdeZPiTDjjBINwQD6mWB
 features: []
-genres: []
+first_released_as_single: false
 key: the-most-beautifullest-thing-in-this-world-keith-murray
 lyrics_url: https://genius.com/Keith-murray-the-most-beautifullest-thing-in-this-world-lyrics
 name: The Most Beautifullest Thing In This World
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1994
+runtime: 226246
 ---
 Y'all mythalogical niggas is comical
 The astronomical is coming through like the flu bombing you

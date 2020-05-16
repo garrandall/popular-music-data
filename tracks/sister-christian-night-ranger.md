@@ -1,8 +1,11 @@
 ---
+album: Midnight Madness
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:57trQKFZdJxHia4sMJioWk
 features: []
-genres: []
+first_released_as_single: false
 key: sister-christian-night-ranger
 lyrics_url: https://genius.com/Night-ranger-sister-christian-lyrics
 name: Sister Christian
@@ -103,6 +106,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1983
+runtime: 302933
 ---
 Sister Christian, oh, the time has come
 And you know that you're the only one

@@ -1,8 +1,11 @@
 ---
+album: Shaun Cassidy
 artists:
 - Shaun Cassidy
+external_ids:
+  spotify: spotify:track:0VZ8HejqjGgKtotIvBfvd9
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-rock--n--roll-shaun-cassidy
 lyrics_url: https://genius.com/Shaun-cassidy-thats-rock-n-roll-lyrics
 name: That's Rock 'N' Roll
@@ -103,6 +106,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 176173
 ---
 When I was sixteen, and sick of school
 I didn't know what I wanted to do

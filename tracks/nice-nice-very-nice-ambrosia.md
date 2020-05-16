@@ -1,8 +1,11 @@
 ---
+album: Ambrosia
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:10Vp6LUbSc5LUM3ksCZB1M
 features: []
-genres: []
+first_released_as_single: false
 key: nice-nice-very-nice-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/niceniceverynice.html
 name: Nice Nice Very Nice
@@ -27,8 +30,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 349866
 ---
-
 Oh a sleeping drunkard up in Central Park
 Or the lion hunter in the jungle dark
 
@@ -62,6 +66,3 @@ Nice, nice, very nice
 Nice, nice, very nice 
 So many people in the same device 
 So many people in the same device
-
-
-

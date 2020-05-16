@@ -1,8 +1,11 @@
 ---
+album: Dragon Fly
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:28w6mwqpRPqireb1OT6OEZ
 features: []
-genres: []
+first_released_as_single: false
 key: ride-the-tiger-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/ridethetiger.html
 name: Ride The Tiger
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 310066
 ---
-
 I want to ride the tiger 
 I want to ride the tiger 
 It will be black and white in the dead of night 
@@ -62,6 +66,3 @@ It's like a tear in the hands of a western man
 Tell you about salt, carbon and water 
 But a tear to an oriental man 
 He'll tell you about sadness and sorrow or the love of a man and a woman.
-
-
-

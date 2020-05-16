@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:5F8pP3aynnN6Hy2D9SC2VD
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-baby--baby-goodbye--solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/goodbyebabybabygoodbye.html
 name: Goodbye Baby (Baby Goodbye)
@@ -47,8 +50,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 195066
 ---
-
 Goodbye baby, so long girl
 I know you ain't gonna like it
 But I'm stepping right out in your world
@@ -85,6 +89,3 @@ Goodbye baby sing it sweet baby goodbye
 Lord, you're singing so sweet tonight Goodbye baby
 Goodbye baby baby baby baby goodbye
 I'll see you around sometime, Lord Goodbye baby...
-
-
-

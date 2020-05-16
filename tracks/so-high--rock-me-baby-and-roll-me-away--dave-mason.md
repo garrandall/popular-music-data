@@ -1,8 +1,11 @@
 ---
+album: Let It Flow
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:2cx5BLuKJhwt50rWQjQrKA
 features: []
-genres: []
+first_released_as_single: false
 key: so-high--rock-me-baby-and-roll-me-away--dave-mason
 lyrics_url: https://www.azlyrics.com/lyrics/davemason/sohighrockmebabyandrollmeaway.html
 name: So High (rock Me Baby And Roll Me Away)
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1974
+runtime: 247573
 ---
-
 Tellin' you darlin' we can do it in style
 My imagination is drivin' me wild
 'Cause the things that you're sayin'
@@ -79,6 +83,3 @@ Roll me away
 So high (you got me movin')
 Rock me baby
 Roll me away
-
-
-

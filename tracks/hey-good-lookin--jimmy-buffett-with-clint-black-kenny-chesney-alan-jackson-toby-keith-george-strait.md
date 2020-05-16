@@ -1,12 +1,16 @@
 ---
+album: License to Chill
 artists:
-- Jimmy Buffett With Clint Black
+- Jimmy Buffett
+external_ids:
+  spotify: spotify:track:2TSc7ee1OQPb4tuXsi2X7W
+features:
+- Clint Black
 - Kenny Chesney
 - Alan Jackson
 - Toby Keith
 - George Strait
-features: []
-genres: []
+first_released_as_single: false
 key: hey-good-lookin--jimmy-buffett-with-clint-black-kenny-chesney-alan-jackson-toby-keith-george-strait
 name: Hey Good Lookin'
 rankings:
@@ -54,5 +58,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2004
+runtime: 183293
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Out of the Blue
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:72FPM7tLZK8ETq51oG8fLb
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-its-over-lyrics
 name: It's Over
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1972
+runtime: 235306
 ---
 It's over, it's over, it's over
 

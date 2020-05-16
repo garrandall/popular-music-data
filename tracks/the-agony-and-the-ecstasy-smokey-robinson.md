@@ -1,8 +1,11 @@
 ---
+album: A Quiet Storm
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:5tJtbMylDCdtsQf4R02qer
 features: []
-genres: []
+first_released_as_single: false
 key: the-agony-and-the-ecstasy-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/theagonyandtheecstasy.html
 name: The Agony And The Ecstasy
@@ -55,8 +58,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 289240
 ---
-
 What's it all about this crazy love
 How did our two worlds entwine?
 How do I fit into your life
@@ -98,6 +102,3 @@ And I'm willin' to pay the price, ho
 'Cause I'll make it a sacrifice, ho yes, I will
 And I'll never, never, never, never
 Never, never wanna be free
-
-
-

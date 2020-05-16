@@ -1,8 +1,11 @@
 ---
+album: 'Sleepwalk: The ''50s & ''60s Instrumental Playlist'
 artists:
 - The Tune Rockers
+external_ids:
+  spotify: spotify:track:2n4jL9nv4CS7uwqmu4MHu8
 features: []
-genres: []
+first_released_as_single: false
 key: the-green-mosquito-the-tune-rockers
 name: The Green Mosquito
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 139040
 ---
 

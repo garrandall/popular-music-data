@@ -1,8 +1,11 @@
 ---
+album: With A Lot O' Soul
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:2imeCEVWpza2OheK2KoANa
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-everything-the-temptations
 lyrics_url: https://genius.com/The-temptations-youre-my-everything-lyrics
 name: You're My Everything
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 180533
 ---
 You surely must know magic girl
 Because you changed my life

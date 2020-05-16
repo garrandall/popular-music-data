@@ -1,8 +1,11 @@
 ---
+album: What'd I Say
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:5yQ9iMZXGcr5rlO4hoLsP4
 features: []
-genres: []
+first_released_as_single: false
 key: what-d-i-say--part-i---ii--ray-charles-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Charles-and-His-Orchestra/What-d-I-Say
 name: What'd I Say (Part I & II)
@@ -67,6 +70,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 307053
 ---
 Hey mama, don't you treat me wrong
 Come and love your daddy all night long

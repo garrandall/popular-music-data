@@ -1,8 +1,11 @@
 ---
+album: Meeting Of The Minds
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:4CQBGglRqD0EqwhkqOLx33
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-flower-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/midnightflower.html
 name: Midnight Flower
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 251040
 ---
-
 Midnight flower
 You got the power
 Let me buy the things you do, darlin'
@@ -115,6 +119,3 @@ But it don't matter
 (Do something with me)
 As long as you and I, darling
 Can get together
-
-
-

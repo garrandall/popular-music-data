@@ -1,9 +1,12 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:6Kbu55LHFZHjF2nRXVWOrd
 features:
 - Chris Richardson
-genres: []
+first_released_as_single: false
 key: far-away-tyga-chris-richardson
 lyrics_url: https://genius.com/Tyga-far-away-lyrics
 name: Far Away
@@ -36,6 +39,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 206520
 ---
 Walk a thousand miles
 Just to see her (see her)

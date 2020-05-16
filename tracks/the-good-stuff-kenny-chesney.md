@@ -1,8 +1,11 @@
 ---
+album: No Shoes, No Shirt, No Problems
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1sR3kJi14jA8Gau3a0yXAo
 features: []
-genres: []
+first_released_as_single: false
 key: the-good-stuff-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/thegoodstuff.html
 name: The Good Stuff
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
+release_year: 2002
+runtime: 200440
 ---
-
 Well, me and my lady had our first big fight
 So I drove around 'til I saw the neon light
 A corner bar, an it just seemed right
@@ -143,6 +147,3 @@ An' look into those eyes, so deep in love
 An' drink it up
 'Cause that's the good stuff
 That's the good stuff"
-
-
-

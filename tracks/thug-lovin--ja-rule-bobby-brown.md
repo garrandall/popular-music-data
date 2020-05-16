@@ -1,9 +1,12 @@
 ---
+album: The Last Temptation
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:2EhZdDMJBk529B7I57vJb8
 features:
 - Bobby Brown
-genres: []
+first_released_as_single: false
 key: thug-lovin--ja-rule-bobby-brown
 lyrics_url: https://genius.com/Ja-rule-thug-lovin-lyrics
 name: Thug Lovin'
@@ -48,6 +51,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-01-25'
+release_year: 2002
+runtime: 290386
 ---
 What up, Gotti? Yeah
 This is how it's goin down, nigga, Rule, baby

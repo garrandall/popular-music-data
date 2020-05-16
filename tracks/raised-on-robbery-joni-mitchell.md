@@ -1,8 +1,11 @@
 ---
+album: Court and Spark
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:4C1jo6AbILMbE4TlAjXfVl
 features: []
-genres: []
+first_released_as_single: false
 key: raised-on-robbery-joni-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/jonimitchell/raisedonrobbery.html
 name: Raised On Robbery
@@ -39,8 +42,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 187773
 ---
-
 He was sitting in the lounge of the Empire Hotel
 He was drinking for diversion, he was thinking for himself
 A little money riding on the Maple Leafs
@@ -68,6 +72,3 @@ Come home with me honey, I ain't asking for no full-length mink
 Hey, where you going, don't go yet
 Your glass ain't empty and we just met
 You're mean when you're loaded, I was raised on robbery
-
-
-

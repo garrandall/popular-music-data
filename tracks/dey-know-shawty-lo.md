@@ -1,8 +1,11 @@
 ---
+album: Cut The Check
 artists:
 - Shawty Lo
+external_ids:
+  spotify: spotify:track:3iRCWiWzfrfqdqy7NpOCmX
 features: []
-genres: []
+first_released_as_single: false
 key: dey-know-shawty-lo
 lyrics_url: https://www.azlyrics.com/lyrics/shawtylo/deyknow.html
 name: Dey Know
@@ -75,8 +78,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2008
+runtime: 178240
 ---
-
 Hey
 Get ready to show love man
 Shawty Lo man
@@ -132,6 +136,3 @@ L O, L O, Dey Know, Dey Know
 Dey Know, Dey Know
 Dey Know, Dey Know
 Dey Know, Dey Know
-
-
-

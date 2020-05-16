@@ -1,8 +1,11 @@
 ---
+album: I Won't Be Home Tonight
 artists:
 - Tony Carey
+external_ids:
+  spotify: spotify:track:0Z0TdhMStXKhP7JmiYfKNw
 features: []
-genres: []
+first_released_as_single: false
 key: west-coast-summer-nights-tony-carey
 lyrics_url: https://www.musixmatch.com/lyrics/Tony-Carey/West-Coast-Summer-Nights
 name: West Coast Summer Nights
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1979
+runtime: 210000
 ---
 Oh, that summer was a killer, all right
 Sleeping in the back of the car at night

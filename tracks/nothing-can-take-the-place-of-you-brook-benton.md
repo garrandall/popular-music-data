@@ -1,8 +1,11 @@
 ---
+album: Do Your Own Thing
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:3daw0o8J2gWbNpat6Sud6r
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-can-take-the-place-of-you-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Nothing-Can-Take-the-Place-of-You
 name: Nothing Can Take The Place Of You
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 198306
 ---
 I moved your pictures
 From my wall

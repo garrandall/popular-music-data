@@ -1,8 +1,11 @@
 ---
+album: Magical Mystery Tour
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:6Pq9MmkDQYZiiCDpxnvrf6
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-the-walrus-the-beatles
 lyrics_url: https://genius.com/The-beatles-i-am-the-walrus-lyrics
 name: I Am The Walrus
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 275866
 ---
 I am he as you are he as you are me and we are all together
 See how they run like pigs from a gun, see how they fly

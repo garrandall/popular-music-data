@@ -1,8 +1,11 @@
 ---
+album: Live Concert At The Forum
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:0s95DBA5l4aPvCNR83UmsH
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-we-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-didnt-we-lyrics
 name: Didn't We
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 193093
 ---
 (someone shouting: I love you!)
 Still uh? faithful. wait... wait. if I would have known there were so many

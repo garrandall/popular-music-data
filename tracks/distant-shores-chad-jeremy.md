@@ -1,9 +1,12 @@
 ---
+album: Distant Shores
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:1HkEcKZgwPKcYSCM1llppS
 features: []
-genres: []
+first_released_as_single: false
 key: distant-shores-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-distant-shores-lyrics
 name: Distant Shores
@@ -44,6 +47,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 166960
 ---
 Sweet soft summer nights
 Dancing shadows in the distant lights

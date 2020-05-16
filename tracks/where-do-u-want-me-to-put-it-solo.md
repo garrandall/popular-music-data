@@ -1,8 +1,11 @@
 ---
+album: Solo
 artists:
 - Solo
+external_ids:
+  spotify: spotify:track:2PezcbOknrIxEylhhzedVT
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-u-want-me-to-put-it-solo
 lyrics_url: https://genius.com/Solo-r-b-group-where-do-u-want-me-to-put-it-lyrics
 name: Where Do U Want Me To Put It
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1995
+runtime: 243666
 ---
 Time to get off
 Let's get it on

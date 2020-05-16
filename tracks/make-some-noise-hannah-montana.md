@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:4OCwbVkarjtTqkYZUP10lQ
 features: []
-genres: []
+first_released_as_single: false
 key: make-some-noise-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/makesomenoise.html
 name: Make Some Noise
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2007
+runtime: 287626
 ---
-
 It's easy to feel like
 You're all alone
 To feel like nobody knows
@@ -103,6 +107,3 @@ Hey, yeah
 Hey, yeah
 Hey, yeah
 Make some noise
-
-
-

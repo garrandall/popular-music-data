@@ -1,8 +1,11 @@
 ---
+album: Will O' The Wisp
 artists:
 - Leon Russell
+external_ids:
+  spotify: spotify:track:1ctRXRqAQ10hJm6kaCZ2Lw
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-the-island-leon-russell
 lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/backtotheisland.html
 name: Back To The Island
@@ -27,8 +30,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 325266
 ---
-
 Now the day is gone and I sit alone and think of you, girl
 What can I do without you in my life?
 I guess that our guessing game just had to end that way
@@ -52,4 +56,3 @@ Well all the fun has died, It's raining in my heart
 I know down in my soul I'm really gonna miss you
 But it had to end this way with all the games we played
 Well I hope you understand I just had to go back to the island
-

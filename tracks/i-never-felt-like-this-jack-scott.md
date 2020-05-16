@@ -1,8 +1,11 @@
 ---
+album: The Way I Walk
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:1eia0BKeMyQnYUNMjQV8z0
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-felt-like-this-jack-scott
 lyrics_url: https://genius.com/Jack-scott-i-never-felt-like-this-lyrics
 name: I Never Felt Like This
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1959
+runtime: 106773
 ---
 Well, bless my soul 'cause it's a-happened to me
 The girl with the big blue eyes

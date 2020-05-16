@@ -1,8 +1,11 @@
 ---
+album: The Cheetah Girls 2
 artists:
 - The Cheetah Girls
+external_ids:
+  spotify: spotify:track:5Au8ObNQvrwFVEgGqQQL6D
 features: []
-genres: []
+first_released_as_single: false
 key: the-party-s-just-begun-the-cheetah-girls
 lyrics_url: https://genius.com/The-cheetah-girls-the-partys-just-begun-lyrics
 name: The Party's Just Begun
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2006
+runtime: 189693
 ---
 Start the party up
 Hit the groove

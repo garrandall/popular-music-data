@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Delbert McClinton
+external_ids:
+  spotify: spotify:track:5E2EpolcGmcbYpsv0z6jAZ
 features: []
-genres: []
+first_released_as_single: false
 key: giving-it-up-for-your-love-delbert-mcclinton
 lyrics_url: https://genius.com/Delbert-mcclinton-giving-it-up-for-your-love-lyrics
 name: Giving It Up For Your Love
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
+release_year: 1980
+runtime: 226933
 ---
 Givin' it up for your love - everything
 Givin' it up for your love right now

@@ -1,9 +1,12 @@
 ---
+album: Jewel Of The Nile
 artists:
 - Nice
 - Smooth
+external_ids:
+  spotify: spotify:track:1eyHkqk22jB7DVr7kGXFs8
 features: []
-genres: []
+first_released_as_single: false
 key: old-to-the-new-nice-smooth
 lyrics_url: https://genius.com/Nice-and-smooth-old-to-the-new-lyrics
 name: Old To The New
@@ -36,6 +39,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1994
+runtime: 253333
 ---
 This is how we take
 The old from the new

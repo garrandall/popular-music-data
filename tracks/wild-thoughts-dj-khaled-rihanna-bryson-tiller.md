@@ -1,10 +1,13 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:7AZiZMup0bLK5f4A2jRMpP
 features:
 - Rihanna
 - Bryson Tiller
-genres: []
+first_released_as_single: false
 key: wild-thoughts-dj-khaled-rihanna-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/wildthoughts.html
 name: Wild Thoughts
@@ -93,9 +96,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
+release_year: 2017
+runtime: 204169
 ---
-
-
 Another one
 We The Best music
 DJ Khaled
@@ -146,7 +149,7 @@ Fuck you 'til you're burned out, cremation (burned out)
 Make it cream, yeah, Wu-Tang, Wu-Tang
 Throw that ass back, bouquet, bouquet
 Call me and I can get it juicy
-I can tell you're gone off the D'ussÃ©
+I can tell you're gone off the D'ussé
 Careful, mama, watch what you say
 You talking to me like ya new bae
 Girl, you talking like you tryna do things
@@ -181,6 +184,3 @@ DJ Khaled!
 Wild, wild, wild
 Wild, wild, wild
 When I'm with you, all I get is wild thoughts
-
-
-

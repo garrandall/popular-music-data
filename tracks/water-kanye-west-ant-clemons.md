@@ -1,9 +1,12 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:454Epa1vrCGFddHXKyC1kb
 features:
 - Ant Clemons
-genres: []
+first_released_as_single: false
 key: water-kanye-west-ant-clemons
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/water.html
 name: Water
@@ -12,9 +15,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 168419
 ---
-
-
 Well, right
 So, so well
 Well, right
@@ -88,6 +91,3 @@ Movin'
 Plannin'
 Tubin', there
 Well, well
-
-
-

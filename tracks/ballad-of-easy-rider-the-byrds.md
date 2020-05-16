@@ -1,8 +1,11 @@
 ---
+album: Ballad Of Easy Rider
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:0DckIMMiRZVx0UMkMVYV4u
 features: []
-genres: []
+first_released_as_single: false
 key: ballad-of-easy-rider-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/balladofeasyrider.html
 name: Ballad Of Easy Rider
@@ -31,8 +34,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1965
+runtime: 124306
 ---
-
 The river flows
 It flows to the sea
 Wherever that river goes
@@ -65,6 +69,3 @@ Flow river flow
 Let your waters wash down
 Take me from this road
 To some other town
-
-
-

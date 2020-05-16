@@ -1,8 +1,11 @@
 ---
+album: Dusty
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:5kSEYDFCbFH0kxMwLh4iVx
 features: []
-genres: []
+first_released_as_single: false
 key: all-cried-out-dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/allcriedout.html
 name: All Cried Out
@@ -35,8 +38,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 181866
 ---
-
 I stayed up cryin' all night (all night)
 I knew the end was in sight (in sight)
 And now you're walkin' out on me (on me)
@@ -75,6 +79,3 @@ I'm all cried out, yeah, over you
 Listen to me when I'm a-tellin' you
 I'm all cried out, yeah, over you
 Over you
-
-
-

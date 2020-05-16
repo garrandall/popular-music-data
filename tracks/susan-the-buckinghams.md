@@ -1,8 +1,11 @@
 ---
+album: Portraits
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:2Z8FsPTnN8s9Dtguvqspca
 features: []
-genres: []
+first_released_as_single: false
 key: susan-the-buckinghams
 lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/susan.html
 name: Susan
@@ -55,8 +58,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1967
+runtime: 175360
 ---
-
 Susan, looks like I'm losing
 I'm losing my mind
 I'm wasting my time
@@ -87,6 +91,3 @@ Susan, I love you
 Oh, Susan, I love you
 My Susan, I love you
 My Susan, I love you
-
-
-

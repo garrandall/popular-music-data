@@ -1,8 +1,11 @@
 ---
+album: Care Package
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1qyFlfPREPbRcS2BNszdYI
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-money-can-buy-drake
 lyrics_url: https://genius.com/Drake-dreams-money-can-buy-lyrics
 name: Dreams Money Can Buy
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 253803
 ---
 Oh-ohoohohoh-ohoohoh
 Oh-ohoohohoh-ohoohoh

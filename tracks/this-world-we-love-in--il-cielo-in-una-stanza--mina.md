@@ -1,8 +1,11 @@
 ---
+album: I am Mina
 artists:
 - Mina
+external_ids:
+  spotify: spotify:track:4L7xJVwgTStG1EFiHWQFoV
 features: []
-genres: []
+first_released_as_single: false
 key: this-world-we-love-in--il-cielo-in-una-stanza--mina
 lyrics_url: https://www.musixmatch.com/lyrics/Mina-6/This-world-we-love-in-Il-cielo-in-una-stanza-2011-Digital-Remaster
 name: This World We Love In (Il Cielo In Una Stanza)
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 151386
 ---
 Here in our little room
 It's a dreamy world we love in.

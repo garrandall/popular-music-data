@@ -1,8 +1,11 @@
 ---
+album: Choice Cuts
 artists:
 - King Floyd
+external_ids:
+  spotify: spotify:track:0pXm2TrQHRnw9BIpbRz9Nn
 features: []
-genres: []
+first_released_as_single: false
 key: woman-don-t-go-astray-king-floyd
 lyrics_url: https://genius.com/King-floyd-woman-dont-go-astray-lyrics
 name: Woman Don't Go Astray
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 153973
 ---
 Woman don't run away, baby, don't ya go astray
 Please don't do me, ah, tell me that you're gonna stay

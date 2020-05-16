@@ -1,8 +1,11 @@
 ---
+album: Vesta 4 U
 artists:
 - Vesta
+external_ids:
+  spotify: spotify:track:2sn1IwoYnhBL4eGySbcqXm
 features: []
-genres: []
+first_released_as_single: false
 key: congratulations-vesta
 lyrics_url: https://genius.com/Vesta-williams-congratulations-lyrics
 name: Congratulations
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1989
+runtime: 266560
 ---
 Saw an old friend on the street
 She said today's your wedding

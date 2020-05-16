@@ -1,9 +1,12 @@
 ---
+album: Start Here
 artists:
 - Maddie
 - Tae
+external_ids:
+  spotify: spotify:track:1ewLdzcpSQkU9wpFdqFauw
 features: []
-genres: []
+first_released_as_single: false
 key: fly-maddie-tae
 lyrics_url: https://www.azlyrics.com/lyrics/maddietae/fly.html
 name: Fly
@@ -64,8 +67,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
+release_year: 2015
+runtime: 217293
 ---
-
 Baby blue staring in the window pane
 Just counting drops of rain
 Wondering if she's got the guts to take it
@@ -101,6 +105,3 @@ We've come this far, don't you be scared now
 Oh, oh
 Fly
 Fly
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: 'Webstar Presents: Caught In The WEB'
 artists:
 - Webstar
 - Young B
+external_ids:
+  spotify: spotify:track:6PGrYbKY6I0LnKmAseNBO2
 features:
 - The Voice Of Harlem
-genres: []
+first_released_as_single: false
 key: chicken-noodle-soup-webstar-young-b-the-voice-of-harlem
 lyrics_url: https://www.azlyrics.com/lyrics/djwebstar/chickennoodlesoup.html
 name: Chicken Noodle Soup
@@ -61,8 +64,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 223120
 ---
-
 Just When You Thought It Was Safe.
 We're Back.
 Voice Of Harlem,
@@ -237,6 +241,3 @@ G South
 Clear It Out
 Ma Nigga Smooth
 Clear It Out
-
-
-

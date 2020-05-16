@@ -1,8 +1,11 @@
 ---
+album: Gunfighter Ballads And Trail Songs
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:1PWNeeq3hZ2WbPkKTbeY6c
 features: []
-genres: []
+first_released_as_single: false
 key: el-paso-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/elpaso.html
 name: El Paso
@@ -95,8 +98,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1952
+runtime: 279493
 ---
-
 Out in the West Texas town of El Paso
 I fell in love with a Mexican girl
 Nighttime would find me in Rosa's cantina
@@ -168,6 +172,3 @@ From out of nowhere Felina has found me
 Kissing my cheek as she kneels by my side
 Cradled by two loving arms that I'll die for
 One little kiss and Felina, goodbye
-
-
-

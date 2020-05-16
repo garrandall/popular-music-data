@@ -1,8 +1,11 @@
 ---
+album: With Love, Cher
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:09v2waPISsO1PZR36VEzpQ
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-sit-down-kids-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/youbettersitdownkids.html
 name: You Better Sit Down Kids
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 225000
 ---
 Better sit down kids
 I'll tell you why, kids

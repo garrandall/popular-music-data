@@ -1,8 +1,11 @@
 ---
+album: Today
 artists:
 - The New Christy Minstrels
+external_ids:
+  spotify: spotify:track:51LazY4piOq7dw5AARunow
 features: []
-genres: []
+first_released_as_single: false
 key: today-the-new-christy-minstrels
 lyrics_url: https://genius.com/The-new-christy-minstrels-love-theme-today-lyrics
 name: Today
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 163800
 ---
 Today while the blossoms still cling to the vine
 I'll taste your strawberries, I'll drink your sweet wine

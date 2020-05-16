@@ -1,8 +1,11 @@
 ---
+album: Stankonia
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:6glsMWIMIxQ4BedzLqGVi4
 features: []
-genres: []
+first_released_as_single: false
 key: so-fresh-so-clean-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/sofreshsoclean.html
 name: So Fresh So Clean
@@ -87,9 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 2000
+runtime: 240026
 ---
-
-
 Ain't nobody dope as me I'm dressed so fresh so clean
 (So fresh and so clean clean)
 Don't you think I'm so sexy I'm dressed so fresh so clean
@@ -141,4 +144,3 @@ Ha Ha
 (In my mind...) the sky is falling ain't no need to panic
 (But Oh oh...) I got a stick and want yo automatic
 (Oh oh oh...) Compatible created in the attic
-

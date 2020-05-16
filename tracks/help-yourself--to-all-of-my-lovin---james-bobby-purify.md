@@ -1,9 +1,12 @@
 ---
+album: Shake A Tail Feather! The Best Of James And Bobby Purify
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:47IGCBcC8P7L8CHlEnzWFD
 features: []
-genres: []
+first_released_as_single: false
 key: help-yourself--to-all-of-my-lovin---james-bobby-purify
 lyrics_url: https://www.musixmatch.com/lyrics/James-Bobby-Purify/Help-Yourself-To-All-My-Lovin
 name: Help Yourself (To All Of My Lovin')
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 135533
 ---
 Honey, you're sweeter than ice cream and candy
 When I'm in need girl, you understand me

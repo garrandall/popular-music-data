@@ -1,8 +1,11 @@
 ---
+album: Dancin' With Nobody But You Babe
 artists:
 - Clarence Reid
+external_ids:
+  spotify: spotify:track:0LTqGc7UqoOEfyrBrffixC
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-but-you-babe-clarence-reid
 lyrics_url: https://genius.com/Clarence-reid-nobody-but-you-babe-lyrics
 name: Nobody But You Babe
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 169560
 ---
 I'm doing my thing
 With nobody but you, baby

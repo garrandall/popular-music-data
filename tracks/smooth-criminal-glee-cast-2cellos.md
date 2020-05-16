@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4E7B45OimTovLiETRzSBly
 features:
 - 2Cellos
-genres: []
+first_released_as_single: false
 key: smooth-criminal-glee-cast-2cellos
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast-feat-2Cellos/Smooth-Criminal
 name: Smooth Criminal
@@ -16,6 +19,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2012
+runtime: 214680
 ---
 Uh, as he came into the window
 It was the sound of a crescendo, uh!

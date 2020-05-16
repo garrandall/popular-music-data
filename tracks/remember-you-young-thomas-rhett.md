@@ -1,8 +1,11 @@
 ---
+album: Center Point Road
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:3LK6wDkhbTyg8GhJidU9oC
 features: []
-genres: []
+first_released_as_single: false
 key: remember-you-young-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/rememberyouyoung.html
 name: Remember You Young
@@ -79,8 +82,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 180466
 ---
-
 Hey buddies that I grew up with
 All straight laced and married up now
 You ain't foolin' me
@@ -120,6 +124,3 @@ And he'll say 'For worse or for better, from now 'til forever
 I'll always remember you young"
 
 Woah, oh, I'll always remember you young
-
-
-

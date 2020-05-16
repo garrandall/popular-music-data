@@ -1,8 +1,11 @@
 ---
+album: Arnold Schwarzenegger's Total Body Workout
 artists:
 - Tommy Tutone
+external_ids:
+  spotify: spotify:track:0NOnW2FRYJzpUlLLgokIpZ
 features: []
-genres: []
+first_released_as_single: false
 key: 867-5309-tommy-tutone
 lyrics_url: https://www.azlyrics.com/lyrics/tommytutone/8675309jenny.html
 name: 867-5309
@@ -115,8 +118,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1979
+runtime: 226346
 ---
-
 Hey!
 
 Jenny, Jenny, who can I turn to?
@@ -174,6 +178,3 @@ For the price of a dime I can always turn to you
 (5309) 867-5309
 (5309) 867-5309
 (5309) 867-5309
-
-
-

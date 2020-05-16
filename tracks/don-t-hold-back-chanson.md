@@ -1,8 +1,11 @@
 ---
+album: Chanson
 artists:
 - Chanson
+external_ids:
+  spotify: spotify:track:76l6DYgJ6X7b9yiYp2IMuJ
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-hold-back-chanson
 lyrics_url: https://genius.com/Chanson-dont-hold-back-lyrics
 name: Don't Hold Back
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 265866
 ---
 Don't hold back
 If it feels good, do it

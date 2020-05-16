@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:3lRSz6HujrSy9b3LXg2Kq9
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--to-die-for-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/nothintodiefor.html
 name: Nothin' To Die For
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2007
+runtime: 253640
 ---
-
 Stopped to have a few at five now you're crossing that center line for the third time
 Second time like this this week had a friend ask you for your keys
 You said 'no I'm fine'
@@ -84,6 +88,3 @@ Just this side of the other side
 Ain't nothin' to die for
 Nothin' to die for
 Ain't nothin' to die for
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A.M.
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:4u7KjVIQPdzGCcAwg4W5Kl
 features: []
-genres: []
+first_released_as_single: false
 key: who-i-am-with-you-chris-young
 lyrics_url: https://genius.com/Chris-young-who-i-am-with-you-lyrics
 name: Who I Am With You
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2013
+runtime: 191573
 ---
 I've been a rolling stone all my life
 Flying all alone, flying blind

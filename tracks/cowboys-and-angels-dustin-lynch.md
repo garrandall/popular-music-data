@@ -1,8 +1,11 @@
 ---
+album: Dustin Lynch
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:5ksoJlQJtduEkwQTo7UN7X
 features: []
-genres: []
+first_released_as_single: false
 key: cowboys-and-angels-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/cowboysandangels.html
 name: Cowboys And Angels
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2012
+runtime: 227720
 ---
-
 There's a want and there's a need
 There's a history between
 Girls like her and guys like me
@@ -133,6 +137,3 @@ There's a history between
 Girls like you and guys like me
 Cowboys and angels
 Cowboys and angels
-
-
-

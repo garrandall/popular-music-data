@@ -1,8 +1,11 @@
 ---
+album: A Quiet Storm
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:1JhpdM2PtIsKC0lrBTPSAK
 features: []
-genres: []
+first_released_as_single: false
 key: quiet-storm-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/quietstorm.html
 name: Quiet Storm
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1975
+runtime: 468653
 ---
-
 Soft and warm a quiet storm
 Quiet as when flowers talk at break of dawn, break of dawn
 A power source of tender force generatin', radiatin'
@@ -69,6 +73,3 @@ Through all the seasons let it pour and never stop
 Quiet storm, blowin' through my life, through my life
 You're just like a quiet storm, blowin' through my life
 Blow baby, blow baby
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hard Ride
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:23UufB6W2aRUe3CdUHFSwX
 features: []
-genres: []
+first_released_as_single: false
 key: the-train-1910-fruitgum-co-
 lyrics_url: https://genius.com/1910-fruitgum-company-the-train-lyrics
 name: The Train
@@ -47,6 +50,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 163426
 ---
 The train is comin' down the track
 It's bringin' my baby back

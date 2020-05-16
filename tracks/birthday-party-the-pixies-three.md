@@ -1,8 +1,11 @@
 ---
+album: The Pixies Three Meet The Secrets
 artists:
 - The Pixies Three
+external_ids:
+  spotify: spotify:track:2JjYsmbIK6Kh02H5cYWb69
 features: []
-genres: []
+first_released_as_single: false
 key: birthday-party-the-pixies-three
 lyrics_url: https://genius.com/The-pixies-three-birthday-party-lyrics
 name: Birthday Party
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 131026
 ---
 Birthday party!
 Birthday party!

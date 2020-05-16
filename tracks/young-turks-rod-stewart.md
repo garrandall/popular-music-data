@@ -1,8 +1,11 @@
 ---
+album: Tonight I'm Yours
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6sBA8b9bT8Z8G8TkVDvNTK
 features: []
-genres: []
+first_released_as_single: false
 key: young-turks-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-young-turks-lyrics
 name: Young Turks
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-02-20'
+release_year: 1981
+runtime: 303333
 ---
 Billy left his home with a dollar in his pocket
 And a head full of dreams

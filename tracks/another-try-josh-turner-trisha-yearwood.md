@@ -1,9 +1,12 @@
 ---
+album: Everything Is Fine
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:776wdb7j6xJuLJDVay0zww
 features:
 - Trisha Yearwood
-genres: []
+first_released_as_single: false
 key: another-try-josh-turner-trisha-yearwood
 lyrics_url: https://genius.com/Josh-turner-another-try-lyrics
 name: Another Try
@@ -20,6 +23,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 225786
 ---
 All the things I felt and never shared
 All the times she was lonely with me there

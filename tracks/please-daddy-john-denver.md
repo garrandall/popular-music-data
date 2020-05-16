@@ -1,8 +1,11 @@
 ---
+album: Farewell Andromeda
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:7yFwT9OHpOemu5t5oxsn5P
 features: []
-genres: []
+first_released_as_single: false
 key: please-daddy-john-denver
 lyrics_url: https://genius.com/John-denver-please-daddy-dont-get-drunk-this-christmas-lyrics
 name: Please Daddy
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 177066
 ---
 Please Daddy, don't get drunk this Christmas
 I don't wanna see my Mumma cry

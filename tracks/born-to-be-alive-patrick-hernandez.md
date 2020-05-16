@@ -1,8 +1,11 @@
 ---
+album: Born to Be Alive
 artists:
 - Patrick Hernandez
+external_ids:
+  spotify: spotify:track:3XIEWK1V9n25PS9Vb6axj5
 features: []
-genres: []
+first_released_as_single: true
 key: born-to-be-alive-patrick-hernandez
 lyrics_url: https://www.azlyrics.com/lyrics/patrickhernandez/borntobealive.html
 name: Born To Be Alive
@@ -83,8 +86,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1978
+runtime: 188133
 ---
-
 We were born to be alive
 We were born to be alive
 
@@ -160,6 +164,3 @@ Born
 
 Born
 Born to be alive
-
-
-

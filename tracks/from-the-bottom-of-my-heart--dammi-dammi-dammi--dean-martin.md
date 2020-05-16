@@ -1,8 +1,11 @@
 ---
+album: The Essential Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:2E9vbRYksg5pcZVVzJ0t4d
 features: []
-genres: []
+first_released_as_single: false
 key: from-the-bottom-of-my-heart--dammi-dammi-dammi--dean-martin
 lyrics_url: https://genius.com/Dean-martin-from-the-bottom-of-my-heart-dammi-dammi-dammi-lyrics
 name: From The Bottom Of My Heart (Dammi Dammi Dammi)
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 158693
 ---
 From the bottom of my heart, Dear
 I love you

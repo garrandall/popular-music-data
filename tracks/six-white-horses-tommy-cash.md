@@ -1,8 +1,11 @@
 ---
+album: Six White Horses
 artists:
 - Tommy Cash
+external_ids:
+  spotify: spotify:track:49G19iNgHgIXlnABDy9UEG
 features: []
-genres: []
+first_released_as_single: false
 key: six-white-horses-tommy-cash
 lyrics_url: https://genius.com/Tommy-cash-us-six-white-horses-lyrics
 name: Six White Horses
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 170080
 ---
 Mhm some folks drink and some folks smoke and some folks love and some folks don't
 Some folks laugh and some folks frown folks hear then they gun you down

@@ -1,8 +1,11 @@
 ---
+album: Let Me Make Love To You
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:6nvuJuh62rJAMwEg8U4Ypq
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-make-love-to-you-the-o-jays
 lyrics_url: https://genius.com/The-ojays-let-me-make-love-to-you-lyrics
 name: Let Me Make Love To You
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1972
+runtime: 217760
 ---
 Just, just, just, just
 Let me make love to you, baby

@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:03L2AoiRbWhvt7BDMx1jUB
 features: []
-genres: []
+first_released_as_single: false
 key: u-with-me--drake
 lyrics_url: https://genius.com/Drake-u-with-me-lyrics
 name: U With Me?
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 297373
 ---
 What these bitches want from a nigga?
 

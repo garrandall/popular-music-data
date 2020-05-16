@@ -1,8 +1,11 @@
 ---
+album: Jimmy Wayne
 artists:
 - Jimmy Wayne
+external_ids:
+  spotify: spotify:track:6AsMEdzzqzRQsTyOub8r15
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-this-much-jimmy-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/iloveyouthismuch.html
 name: I Love You This Much
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
+release_year: 2003
+runtime: 247373
 ---
-
 He can't remember
 The times that he thought
 Does my daddy love me?
@@ -136,6 +140,3 @@ Do you love me too?
 How ever long it takes
 I'm never giving up no matter what
 I love you this much
-
-
-

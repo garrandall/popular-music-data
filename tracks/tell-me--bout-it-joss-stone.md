@@ -1,8 +1,11 @@
 ---
+album: Introducing Joss Stone
 artists:
 - Joss Stone
+external_ids:
+  spotify: spotify:track:7GmELLCacoDxgw74xfeUE4
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me--bout-it-joss-stone
 lyrics_url: https://www.azlyrics.com/lyrics/jossstone/tellmeboutit.html
 name: Tell Me 'Bout It
@@ -11,10 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2007
+runtime: 169186
 ---
-
-
-
 Joss, how much lovin do you need
 Do you need it once a day
 Twice a day, three times a day, four times a day
@@ -103,6 +105,3 @@ Come on now what's your story
 Tell me
 Tell me baby
 Tell me baby
-
-
-

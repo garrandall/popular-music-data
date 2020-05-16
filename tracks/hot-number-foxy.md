@@ -1,8 +1,11 @@
 ---
+album: Hot Numbers
 artists:
 - Foxy
+external_ids:
+  spotify: spotify:track:0aos1cY4zQASbxdyzK5oNT
 features: []
-genres: []
+first_released_as_single: false
 key: hot-number-foxy
 lyrics_url: https://genius.com/Foxy-hot-number-lyrics
 name: Hot Number
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
+release_year: 1979
+runtime: 242615
 ---
 Put your makeup on try to fantasize
 

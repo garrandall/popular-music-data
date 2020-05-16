@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Dream
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:11nK7oshTjmfGBSuVJoZ8D
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-wonderful-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-its-wonderful-lyrics
 name: It's Wonderful
@@ -35,6 +38,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 160960
 ---
 It's wonderful, S'wonderful
 Tell you a story

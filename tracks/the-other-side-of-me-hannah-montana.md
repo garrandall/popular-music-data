@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:0Q2y7Amx3vHz5Jqa7TFEYE
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-of-me-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/theothersideofme.html
 name: The Other Side Of Me
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 185893
 ---
-
 The other side
 The other side
 The other side of me
@@ -94,6 +98,3 @@ The other side of me
 The other side...the other side
 I want you to see
 The other side...the other side of me
-
-
-

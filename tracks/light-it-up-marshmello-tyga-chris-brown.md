@@ -1,10 +1,13 @@
 ---
+album: Light It Up (with Tyga & Chris Brown)
 artists:
 - Marshmello
 - Tyga
 - Chris Brown
+external_ids:
+  spotify: spotify:track:4Q8aDd3H6LF8t4eY7So9O8
 features: []
-genres: []
+first_released_as_single: true
 key: light-it-up-marshmello-tyga-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/lightitup.html
 name: Light It Up
@@ -13,8 +16,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-05-11'
+release_year: 2019
+runtime: 137448
 ---
-
 You a real bitch, light it up (Light it up)
 You a real bitch, go 'n light it up (Light it up)
 It's your birthday, go 'n light it up (Light it up)
@@ -76,6 +80,3 @@ T-raw, C-Breezy
 If you a real bitch, go 'n light it up
 You a real bitch, light it up
 If you a real bitch, go 'n light it up
-
-
-

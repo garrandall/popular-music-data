@@ -1,9 +1,12 @@
 ---
+album: Sale el Sol
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:6YMPu36VGIknb8Ey1ohW3j
 features:
 - Dizzee Rascal
-genres: []
+first_released_as_single: false
 key: loca-shakira-dizzee-rascal
 lyrics_url: https://genius.com/Shakira-loca-english-version-lyrics
 name: Loca
@@ -52,6 +55,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 193160
 ---
 Loca (loca)
 Loca

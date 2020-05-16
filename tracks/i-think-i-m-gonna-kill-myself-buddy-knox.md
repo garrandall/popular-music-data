@@ -1,8 +1,11 @@
 ---
+album: Party Doll
 artists:
 - Buddy Knox
+external_ids:
+  spotify: spotify:track:23CsUqwFO4Uk4h2gnRbv0Z
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-i-m-gonna-kill-myself-buddy-knox
 lyrics_url: https://genius.com/Buddy-knox-i-think-im-gonna-kill-myself-lyrics
 name: I Think I'm Gonna Kill Myself
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 126800
 ---
 A-so long a-to you
 I hope I don't make you blue

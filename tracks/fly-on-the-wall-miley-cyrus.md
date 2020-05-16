@@ -1,8 +1,11 @@
 ---
+album: Breakout
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2f6s0AcBRBE0vIOU0NMdXw
 features: []
-genres: []
+first_released_as_single: false
 key: fly-on-the-wall-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/flyonthewall.html
 name: Fly On The Wall
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 151800
 ---
-
 You don't understand what it is
 That makes me tick
 But you wish you did
@@ -78,6 +82,3 @@ A creepy little sneaky little Fly on the Wall
 All my precious secrets, yeah
 You'd know them all
 Don't you wish that you could be a Fly on the Wall
-
-
-

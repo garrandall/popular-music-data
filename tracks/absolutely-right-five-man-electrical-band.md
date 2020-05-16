@@ -1,8 +1,11 @@
 ---
+album: Absolutely Right - The Best Of Five Man Electrical Band
 artists:
 - Five Man Electrical Band
+external_ids:
+  spotify: spotify:track:4LjJIibyUazknsZNZWHOgy
 features: []
-genres: []
+first_released_as_single: false
 key: absolutely-right-five-man-electrical-band
 lyrics_url: https://genius.com/Five-man-electrical-band-absolutely-right-lyrics
 name: Absolutely Right
@@ -39,6 +42,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 138200
 ---
 Here I am again, mama
 I'm knockin' on your door

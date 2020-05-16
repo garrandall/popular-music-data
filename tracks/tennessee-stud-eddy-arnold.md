@@ -1,8 +1,11 @@
 ---
+album: 'RCA Country Legends: Eddy Arnold'
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:4QvPpTARltCJap9S4ky5N7
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-stud-eddy-arnold
 lyrics_url: https://genius.com/Eddy-arnold-tennessee-stud-lyrics
 name: Tennessee Stud
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 186106
 ---
 Well, there never was a horse like Tennessee Stud
 Along about 1825 I left Tennessee very much alive

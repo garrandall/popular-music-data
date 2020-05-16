@@ -1,8 +1,11 @@
 ---
+album: That Don't Make Me a Bad Guy
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:4CA1ZvDNhoaCJcozvGP8WH
 features: []
-genres: []
+first_released_as_single: false
 key: she-never-cried-in-front-of-me-toby-keith
 lyrics_url: https://genius.com/Toby-keith-she-never-cried-in-front-of-me-lyrics
 name: She Never Cried In Front Of Me
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2008
+runtime: 239506
 ---
 Seven Thirty-five
 She's someone else’s wife

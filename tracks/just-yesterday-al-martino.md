@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:2sTzesoyRqdQliEdc3WSoT
 features: []
-genres: []
+first_released_as_single: false
 key: just-yesterday-al-martino
 lyrics_url: https://genius.com/Al-martino-just-yesterday-lyrics
 name: Just Yesterday
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 166800
 ---
 Just yesterday
 We were two

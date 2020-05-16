@@ -1,8 +1,11 @@
 ---
+album: I Want To Be With You
 artists:
 - Dee Dee Warwick
+external_ids:
+  spotify: spotify:track:0dmQv5F4dm9nMxX8zz2x34
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-make-you-love-me-dee-dee-warwick
 lyrics_url: https://genius.com/Dee-dee-warwick-im-gonna-make-you-love-me-lyrics
 name: I'm Gonna Make You Love Me
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 181400
 ---
 I'm gonna do all the things for you
 A man wants a girl to do

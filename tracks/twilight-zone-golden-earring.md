@@ -1,8 +1,11 @@
 ---
+album: Cut
 artists:
 - Golden Earring
+external_ids:
+  spotify: spotify:track:1miXjv3X34Q9w7wDZoBnDz
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-zone-golden-earring
 lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/twilightzone.html
 name: Twilight Zone
@@ -115,8 +118,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1982
+runtime: 478106
 ---
-
 Somewhere in a lonely hotel room there's a guy starting to realize that eternal fate has turned its back on him.
 It's two A.M.
 
@@ -196,6 +200,3 @@ When the bullet hits the bone
 When the bullet hits the bone
 When the bullet hits the bone
 When the bullet hits the bone
-
-
-

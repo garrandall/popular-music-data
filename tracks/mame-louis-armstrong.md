@@ -1,8 +1,11 @@
 ---
+album: Louis
 artists:
 - Louis Armstrong
+external_ids:
+  spotify: spotify:track:5uKfSvBagugSsAXMh5Aags
 features: []
-genres: []
+first_released_as_single: false
 key: mame-louis-armstrong
 lyrics_url: https://www.azlyrics.com/lyrics/louisarmstrong/mame.html
 name: Mame
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 141266
 ---
-
 You coax the blues right out of the horn, Mame
 You charm the husk right off of the corn, Mame
 
@@ -54,6 +58,3 @@ I think you're just sensational
 
 Yea, sensational, you sensational, Mame
 Mame, Mame, Mame
-
-
-

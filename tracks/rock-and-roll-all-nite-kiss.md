@@ -1,8 +1,11 @@
 ---
+album: Dressed To Kill
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:6KTv0Z8BmVqM7DPxbGzpVC
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-all-nite-kiss
 lyrics_url: https://genius.com/Kiss-rock-and-roll-all-nite-lyrics
 name: Rock And Roll All Nite
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
+release_year: 1975
+runtime: 168840
 ---
 You show us everything you've got
 You keep on dancin', and the room gets hot

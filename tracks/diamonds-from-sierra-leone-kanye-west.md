@@ -1,8 +1,11 @@
 ---
+album: Late Registration
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:290DH5BclWLihECLilse0o
 features: []
-genres: []
+first_released_as_single: true
 key: diamonds-from-sierra-leone-kanye-west
 lyrics_url: https://genius.com/Kanye-west-diamonds-from-sierra-leone-lyrics
 name: Diamonds From Sierra Leone
@@ -83,6 +86,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 214200
 ---
 Diamonds are forever
 They won't leave in the night

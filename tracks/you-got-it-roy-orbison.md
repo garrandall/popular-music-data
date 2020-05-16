@@ -1,8 +1,11 @@
 ---
+album: Mystery Girl
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:6r20M5DWYdIoCDmDViBxuz
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-it-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-you-got-it-lyrics
 name: You Got It
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1989
+runtime: 210266
 ---
 Every time I look into your lovely eyes
 I see a love that money just can't buy

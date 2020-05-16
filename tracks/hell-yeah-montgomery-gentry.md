@@ -1,8 +1,11 @@
 ---
+album: My Town
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:4nllHILOTFjoMo5RD8IciY
 features: []
-genres: []
+first_released_as_single: false
 key: hell-yeah-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/hellyeah.html
 name: Hell Yeah
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
+release_year: 1999
+runtime: 290653
 ---
-
 He works way too much for way too little 
 He drinks way too early till way too late 
 He hasn't had a raise since new years day 
@@ -166,6 +170,3 @@ Sing that song!
 Guitar man playin' all night long 
 Take me back to where the music hit me 
 When life was good and love was easy
-
-
-

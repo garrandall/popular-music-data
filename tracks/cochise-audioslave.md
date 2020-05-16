@@ -1,8 +1,11 @@
 ---
+album: Audioslave
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:1TDk2Jmi4dVZhm2dum3Jim
 features: []
-genres: []
+first_released_as_single: false
 key: cochise-audioslave
 lyrics_url: https://www.azlyrics.com/lyrics/audioslave/cochise.html
 name: Cochise
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
+release_year: 2002
+runtime: 222026
 ---
-
 Well, I've been watching, while you've been coughing.
 I've been drinking life, while you've been nauseous.
 And so I drink to health, while you kill yourself.
@@ -94,6 +98,3 @@ Go on and save yourself, and take it out on me.
 Go on and save yourself, and take it out on me.
 Go on and save yourself, and take it out on me.
 Go on and save yourself, and take it out on me. Yeah.
-
-
-

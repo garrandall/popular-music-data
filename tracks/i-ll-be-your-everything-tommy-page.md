@@ -1,8 +1,11 @@
 ---
+album: Paintings In My Mind
 artists:
 - Tommy Page
+external_ids:
+  spotify: spotify:track:4K0fYuC7qJx5P7Yh0Ch2zo
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-your-everything-tommy-page
 lyrics_url: https://genius.com/Tommy-page-ill-be-your-everything-lyrics
 name: I'll Be Your Everything
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1990
+runtime: 244840
 ---
 So long that I've waited for a girl
 To come into my life and in my world

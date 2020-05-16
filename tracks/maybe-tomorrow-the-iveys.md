@@ -1,8 +1,11 @@
 ---
+album: Come And Get It - The Best Of Apple Records
 artists:
 - The Iveys
+external_ids:
+  spotify: spotify:track:2z5tXhynZ7JULfGxcz1rry
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-tomorrow-the-iveys
 lyrics_url: https://genius.com/The-iveys-maybe-tomorrow-lyrics
 name: Maybe Tomorrow
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1969
+runtime: 173760
 ---
 Listen to a lonely sound
 See the gray and sadness all around

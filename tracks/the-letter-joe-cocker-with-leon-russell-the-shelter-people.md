@@ -1,10 +1,13 @@
 ---
+album: Mad Dogs & Englishmen
 artists:
 - Joe Cocker
 - Leon Russell
 - The Shelter People
+external_ids:
+  spotify: spotify:track:7jwz36C3cRzKutse6Nr9zd
 features: []
-genres: []
+first_released_as_single: false
 key: the-letter-joe-cocker-with-leon-russell-the-shelter-people
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Cocker-feat-Leon-Russell-and-The-Shelter-People/The-Letter
 name: The Letter
@@ -57,6 +60,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 250306
 ---
 Give me a ticket for an aeroplane
 

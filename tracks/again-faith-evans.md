@@ -1,8 +1,11 @@
 ---
+album: The First Lady
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:17Yws6NV4W7lAGPtq4UPIT
 features: []
-genres: []
+first_released_as_single: false
 key: again-faith-evans
 lyrics_url: https://genius.com/Faith-evans-again-lyrics
 name: Again
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2005
+runtime: 198786
 ---
 Now I done felt a lot of pain
 I done seen a lot of things

@@ -1,8 +1,11 @@
 ---
+album: In 3-D
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:022XE9RZVU3a9nULENXfnm
 features: []
-genres: []
+first_released_as_single: false
 key: i-lost-on-jeopardy--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/ilostonjeopardy.html
 name: I Lost On Jeopardy
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 208933
 ---
-
 I was there to match my intellect on national TV
 Against a plumber, oh and an architect, both with a PhD
 I was tense, I was nervous, I guess it just wasn't my night
@@ -60,6 +64,3 @@ Next weekend on the Price Is Right-ight-ight
 I lost on Jeopardy, baby, oh
 I lost on Jeopardy, baby, oh
 I lost on Jeopardy, baby
-
-
-

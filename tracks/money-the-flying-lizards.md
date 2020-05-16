@@ -1,8 +1,11 @@
 ---
+album: The Flying Lizards
 artists:
 - The Flying Lizards
+external_ids:
+  spotify: spotify:track:5rgY6vN5CaEL3boucCi3CT
 features: []
-genres: []
+first_released_as_single: false
 key: money-the-flying-lizards
 lyrics_url: https://genius.com/Cid-bahary-and-the-flying-lizards-money-lyrics
 name: Money
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1979
+runtime: 338186
 ---
 The best things in life are free
 But you can give them to the birds and bees

@@ -1,8 +1,11 @@
 ---
+album: Unbroken
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:7iLokTaYXjghjKpxzbIg9C
 features: []
-genres: []
+first_released_as_single: false
 key: unbroken-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/unbroken.html
 name: Unbroken
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 198626
 ---
-
 Locked up tight
 Like I would never feel again
 Stuck in some kind of love prison
@@ -55,6 +59,3 @@ Tonight, tonight I'm letting go, I'm letting go, go
 I'm gonna give it like it's never been taken
 I'm gonna fall like I don't need saving
 Tonight, tonight I'm letting go, go, go, go
-
-
-

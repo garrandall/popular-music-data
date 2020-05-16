@@ -1,8 +1,11 @@
 ---
+album: Claudine
 artists:
 - Claudine Longet
+external_ids:
+  spotify: spotify:track:7CRVGxQiVGc7zXxUvwJCVD
 features: []
-genres: []
+first_released_as_single: false
 key: meditation--meditacao--claudine-longet
 lyrics_url: https://genius.com/Claudine-longet-meditation-lyrics
 name: Meditation (Meditacao)
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 197493
 ---
 Oh, I love you so
 And that for me

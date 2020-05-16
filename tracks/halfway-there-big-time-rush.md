@@ -1,8 +1,11 @@
 ---
+album: BTR
 artists:
 - Big Time Rush
+external_ids:
+  spotify: spotify:track:6L4PjBaEjTxI0sOBGq8OQg
 features: []
-genres: []
+first_released_as_single: false
 key: halfway-there-big-time-rush
 lyrics_url: https://www.azlyrics.com/lyrics/bigtimerush/halfway-there.html
 name: Halfway There
@@ -11,9 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 212813
 ---
-
-
 If we never flew
 We would never fall
 If the world was ours
@@ -87,6 +90,3 @@ We're halfway there
 
 We're halfway there
 We're halfway there
-
-
-

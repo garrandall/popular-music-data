@@ -1,8 +1,11 @@
 ---
+album: You
 artists:
 - Ryan Duarte
+external_ids:
+  spotify: spotify:track:14k9qyaFUPF7fm5o0fRwZD
 features: []
-genres: []
+first_released_as_single: true
 key: you-ryan-duarte
 lyrics_url: https://www.azlyrics.com/lyrics/ryanduarte/you.html
 name: You
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-04-10'
+release_year: 2003
+runtime: 208426
 ---
-
 Its all about you
 
 The way your makin me feel inside feels just so right
@@ -107,6 +111,3 @@ You make me feel so good I said
 You give good lovin that I can't deny
 Said it makes me wanna go and tell the whole wide world
 About your lovin girl you got me goin
-
-
-

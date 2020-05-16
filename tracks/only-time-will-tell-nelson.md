@@ -1,8 +1,11 @@
 ---
+album: After The Rain
 artists:
 - Nelson
+external_ids:
+  spotify: spotify:track:6NYLAMn7PPdnOfC5mzD8eg
 features: []
-genres: []
+first_released_as_single: false
 key: only-time-will-tell-nelson
 lyrics_url: https://genius.com/Nelson-only-time-will-tell-lyrics
 name: Only Time Will Tell
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1990
+runtime: 317915
 ---
 Hello, my friend, it sure has been a while
 I don't know where the time has gone

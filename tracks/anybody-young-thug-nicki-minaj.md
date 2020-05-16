@@ -1,9 +1,12 @@
 ---
+album: Hear No Evil
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:5I30ByMf5nhgbSokY1EZiN
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: anybody-young-thug-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/anybody.html
 name: Anybody
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 254946
 ---
-
-
 Somebody called for the queen?
 Thugger...
 
@@ -113,6 +116,3 @@ My shawty pullin' up with a real bad bitch, I wanna fuck you too
 Drippin' my swag, oh, pop tag, I'm...mhm..
 I got a Smith and in the bag now
 I get all type of cash, I'm a general true
-
-
-

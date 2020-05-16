@@ -1,8 +1,11 @@
 ---
+album: Carly Simon
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:4jkn5PRfAJoKfXF0OPL7n7
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-i-ve-always-heard-it-should-be-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/thatsthewayivealwayshearditshouldbe.html
 name: That's The Way I've Always Heard It Should Be
@@ -75,8 +78,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 258133
 ---
-
 My father sits at night with no lights on
 His cigarette glows in the dark.
 The living room is still;
@@ -119,6 +123,3 @@ And raised a family of our own, you and me -
 Well, that's the way I've always heard it should be,
 You want to marry me, we'll marry,
 We'll marry.
-
-
-

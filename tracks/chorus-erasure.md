@@ -1,8 +1,11 @@
 ---
+album: Chorus
 artists:
 - Erasure
+external_ids:
+  spotify: spotify:track:6gGie940lliTLLt85tZPp7
 features: []
-genres: []
+first_released_as_single: false
 key: chorus-erasure
 lyrics_url: https://www.azlyrics.com/lyrics/erasure/chorus.html
 name: Chorus
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 266266
 ---
-
 Go ahead with your dreamin'
 For what it's worth
 Or you'll be stricken bound
@@ -130,6 +134,3 @@ And they covered up the sun
 Until the birds had flown away
 And the fishes in the sea
 Had gone to sleep
-
-
-

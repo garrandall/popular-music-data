@@ -1,8 +1,11 @@
 ---
+album: Hang On for Your Life
 artists:
 - Shooting Star
+external_ids:
+  spotify: spotify:track:7yOebX0QGh6BkvxdZpKuM9
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-shooting-star
 lyrics_url: https://genius.com/Shooting-star-hollywood-lyrics
 name: Hollywood
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1980
+runtime: 250773
 ---
 She grew up reading every magazine
 Of rags to riches worlds

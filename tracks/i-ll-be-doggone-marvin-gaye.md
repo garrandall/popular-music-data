@@ -1,8 +1,11 @@
 ---
+album: Moods Of Marvin Gaye
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:471yG3FpXwgKcbNlblZ1Yt
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-doggone-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-ill-be-doggone-lyrics
 name: I'll Be Doggone
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 166200
 ---
 Well, I'd be doggone if I wouldn't work all day
 And I'd be doggone if I wouldn't bring you my pay

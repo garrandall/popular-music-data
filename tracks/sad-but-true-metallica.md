@@ -1,8 +1,11 @@
 ---
+album: Metallica
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:1Ug98CRiQYu7wiSym4uLY4
 features: []
-genres: []
+first_released_as_single: false
 key: sad-but-true-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/sadbuttrue.html
 name: Sad But True
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
+release_year: 1991
+runtime: 324560
 ---
-
 Hey (hey)
 I'm your life
 I'm the one who takes you there
@@ -95,6 +99,3 @@ I'm inside, open your eyes
 I'm you
 
 Sad but true
-
-
-

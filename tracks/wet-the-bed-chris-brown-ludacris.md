@@ -1,9 +1,12 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2xRGPubKBTHX6iyrpQvtCy
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: wet-the-bed-chris-brown-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/wetthebed.html
 name: Wet The Bed
@@ -48,9 +51,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 266306
 ---
-
-
 Woo, Hear the sound of your body drip, drip, drip
 As I kiss both sets of lips, lips, lips (Muah)
 Hear the sound of your body drip, drip, drip
@@ -156,6 +159,3 @@ Hear the sound of your body drip, drip, drip
 As I kiss both sets of lips, lips, lips
 Hear the sound of your body drip, drip, drip
 As I kiss both sets of lips, lips, lips
-
-
-

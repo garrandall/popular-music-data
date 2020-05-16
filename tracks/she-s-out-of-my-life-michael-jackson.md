@@ -1,8 +1,11 @@
 ---
+album: Off the Wall
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:6NGsHLZYGVAkXTFr75WWnn
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-out-of-my-life-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-shes-out-of-my-life-lyrics
 name: She's Out Of My Life
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1979
+runtime: 218266
 ---
 She's out of my life
 She's out of my life

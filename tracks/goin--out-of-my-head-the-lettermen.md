@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:1nQQ69Je9pPSF6cjqr6dsZ
 features: []
-genres: []
+first_released_as_single: false
 key: goin--out-of-my-head-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-goin-out-of-my-head-cant-take-my-eyes-off-you-lyrics
 name: Goin' Out Of My Head
@@ -67,6 +70,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1967
+runtime: 192426
 ---
 Well, I think I'm goin' out of my head
 Yes, I think I'm goin' out of my head

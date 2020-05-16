@@ -1,8 +1,11 @@
 ---
+album: Small Change
 artists:
 - Prism
+external_ids:
+  spotify: spotify:track:3e4wV57WXUDyKU09DuvL30
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-him-know-prism
 lyrics_url: https://genius.com/Prism-dont-let-him-know-lyrics
 name: Don't Let Him Know
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1981
+runtime: 188600
 ---
 Here we are waking up by the fire light
 Now you're worried cause it's four a.m

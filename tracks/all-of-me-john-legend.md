@@ -1,8 +1,11 @@
 ---
+album: Love In The Future
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:3U4isOIWM3VvDubwSI3y7a
 features: []
-genres: []
+first_released_as_single: false
 key: all-of-me-john-legend
 lyrics_url: https://genius.com/John-legend-all-of-me-lyrics
 name: All Of Me
@@ -243,6 +246,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2013
+runtime: 269560
 ---
 What would I do without your smart mouth?
 Drawin' me in and you kickin' me out

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:3dmqIB2Qxe2XZobw9gXxJ6
 features: []
-genres: []
+first_released_as_single: false
 key: mary-jane-s-last-dance-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/maryjaneslastdance.html
 name: Mary Jane's Last Dance
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1993
+runtime: 273600
 ---
-
 She grew up in an Indiana town
 Had a good-lookin' mama who never was around
 But she grew up tall and she grew up right
@@ -128,6 +132,3 @@ I hit my last number, I walked to the road
 
 Last dance with Mary Jane, one more time to kill the pain
 I feel summer creepin' in and I'm tired of this town again
-
-
-

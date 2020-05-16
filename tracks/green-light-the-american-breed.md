@@ -1,8 +1,11 @@
 ---
+album: The Best Of The American Breed
 artists:
 - The American Breed
+external_ids:
+  spotify: spotify:track:1akXUwBNOovAwNmBUWYZs1
 features: []
-genres: []
+first_released_as_single: false
 key: green-light-the-american-breed
 lyrics_url: https://genius.com/The-american-breed-green-light-lyrics
 name: Green Light
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 137466
 ---
 When you were just a child you built a wall
 In your sheltered world like an antique doll

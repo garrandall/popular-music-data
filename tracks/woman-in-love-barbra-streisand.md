@@ -1,8 +1,11 @@
 ---
+album: Guilty
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1pTGc8pwyo6xtgXBKCBcFn
 features: []
-genres: []
+first_released_as_single: false
 key: woman-in-love-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-woman-in-love-lyrics
 name: Woman In Love
@@ -103,6 +106,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1980
+runtime: 231840
 ---
 Life is a moment in space
 When the dream is gone, it's a lonelier place

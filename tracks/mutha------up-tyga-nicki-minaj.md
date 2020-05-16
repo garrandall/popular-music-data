@@ -1,9 +1,12 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:673AitlQq6SZOpamDTzlPV
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: mutha------up-tyga-nicki-minaj
 lyrics_url: https://www.musixmatch.com/lyrics/Tyga-feat-Nicki-Minaj/Mutha-Up
 name: Mutha***** Up
@@ -12,6 +15,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 233666
 ---
 "Muthafucka Up"
 

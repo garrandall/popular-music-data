@@ -1,9 +1,12 @@
 ---
+album: The Little Old Lady From Pasadena
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:5UJQAc8xaMqo8z88Y1UMSP
 features: []
-genres: []
+first_released_as_single: false
 key: sidewalk-surfin--jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/sidewalksurfin.html
 name: Sidewalk Surfin'
@@ -40,8 +43,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 156533
 ---
-
 Grab your board and go sidewalk surfin' with me
 Don't be afraid to try the newest sport around
 Bust your buns, bust your buns now
@@ -79,6 +83,3 @@ Skateboard with me, why don't you skateboard me?
 Grab your board and go sidewalk surfin' with me
 Skateboard with me, why don't you skateboard me?
 Grab your board and go sidewalk surfin' with me
-
-
-

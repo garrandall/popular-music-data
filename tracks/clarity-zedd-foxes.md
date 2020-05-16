@@ -1,9 +1,12 @@
 ---
+album: Clarity
 artists:
 - Zedd
+external_ids:
+  spotify: spotify:track:60wwxj6Dd9NJlirf84wr2c
 features:
 - Foxes
-genres: []
+first_released_as_single: false
 key: clarity-zedd-foxes
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/clarity.html
 name: Clarity
@@ -140,8 +143,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2012
+runtime: 271426
 ---
-
 High dive into frozen waves where the past comes back to life
 Fight fear for the selfish pain, it was worth it every time
 Hold still right before we crash 'cause we both know how this ends
@@ -178,6 +182,3 @@ Why are you my remedy?
 
 If our love is tragedy, why are you my remedy?
 If our love's insanity, why are you my clarity?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Immortal
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:4IO8X9W69dIQe0EC5ALXhq
 features: []
-genres: []
+first_released_as_single: true
 key: immortal-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/21savage/immortal.html
 name: Immortal
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 254723
 ---
-
 21
 I feel like the motherfuckin' Grim Reaper
 The biggest smoke blower
@@ -113,6 +117,3 @@ She tried to give me head, it was boring
 Codeine got a nigga snoring
 I wonder if she woulda slept with the poor me
 Savage keep a Draco, and it corn beef
-
-
-

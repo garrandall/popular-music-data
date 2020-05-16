@@ -1,7 +1,11 @@
 ---
+album: Blonde On Blonde
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:6SWc6nlxqENq5v8TEkdD1J
 features: []
+first_released_as_single: false
 genres: []
 key: just-like-a-woman-bob-dylan
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Dylan/Just-Like-a-Woman
@@ -31,6 +35,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1965
+runtime: 318280
 ---
 Nobody feels any pain
 Tonight as I stand inside the rain

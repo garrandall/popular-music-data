@@ -1,8 +1,11 @@
 ---
+album: Eric Paslay
 artists:
 - Eric Paslay
+external_ids:
+  spotify: spotify:track:66rVt7PbwyKlu6CK6rxyAi
 features: []
-genres: []
+first_released_as_single: false
 key: friday-night-eric-paslay
 lyrics_url: https://genius.com/Eric-paslay-friday-night-lyrics
 name: Friday Night
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 167213
 ---
 Here we go
 Uh, ha ha

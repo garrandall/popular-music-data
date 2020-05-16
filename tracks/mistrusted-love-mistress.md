@@ -1,8 +1,11 @@
 ---
+album: Mistress
 artists:
 - Mistress
+external_ids:
+  spotify: spotify:track:3uFdJybO8YlmvpUu8TMhnU
 features: []
-genres: []
+first_released_as_single: false
 key: mistrusted-love-mistress
 name: Mistrusted Love
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
+release_year: 1979
+runtime: 235572
 ---
 

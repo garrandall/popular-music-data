@@ -1,8 +1,11 @@
 ---
+album: Green, Green Grass Of Home
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:5BFWQXNGPYadZxNKxY1UfU
 features: []
-genres: []
+first_released_as_single: false
 key: green-green-grass-of-home-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/greengreengrassofhome.html
 name: Green Green Grass Of Home
@@ -55,8 +58,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1966
+runtime: 184893
 ---
-
 The old home town looks the same
 As I step down from the train,
 And there to meet me is my Mama and Papa.
@@ -88,6 +92,3 @@ Then again I'll touch the green, green grass of home.
 Yes, they'll all come to see me
 In the shade of that old oak tree
 As they lay me neath the green, green grass of home.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Redneck Crazy
 artists:
 - Tyler Farr
+external_ids:
+  spotify: spotify:track:5E4CJfa6yZNGSKVFSUgaBt
 features: []
-genres: []
+first_released_as_single: false
 key: whiskey-in-my-water-tyler-farr
 lyrics_url: https://www.azlyrics.com/lyrics/tylerfarr/whiskeyinmywater.html
 name: Whiskey In My Water
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2013
+runtime: 188146
 ---
-
 In my truck flying down a dirt road
 Pickin' you up, feelin' kinda crazy
 I think I'm in luck cause I know my baby
@@ -118,6 +122,3 @@ Every day I pray I thank God I got her She's the moon in my shine, the whiskey i
 
 Whiskey in my water
 Whiskey in my water yeah yeah yeah
-
-
-

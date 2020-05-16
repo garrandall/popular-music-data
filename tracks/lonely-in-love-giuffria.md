@@ -1,8 +1,11 @@
 ---
+album: Giuffria
 artists:
 - Giuffria
+external_ids:
+  spotify: spotify:track:6RXmp4dcRSP4UDoGpLX3q7
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-in-love-giuffria
 lyrics_url: https://genius.com/Giuffria-lonely-in-love-lyrics
 name: Lonely In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1984
+runtime: 292133
 ---
 Don't take it so hard with your broken heart
 Don't cry yourself to sleep tonight

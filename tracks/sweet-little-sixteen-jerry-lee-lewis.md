@@ -1,8 +1,11 @@
 ---
+album: Rockin' Rhythm & Blues
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:5OM6Q2ZKUcMWG8UxMSKudD
 features: []
-genres: []
+first_released_as_single: true
 key: sweet-little-sixteen-jerry-lee-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/sweetlittlesixteen.html
 name: Sweet Little Sixteen
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 172874
 ---
-
 They're really rockin' in Boston
 In Pittsburgh, Pa.
 Deep in the heart of Texas
@@ -83,6 +87,3 @@ Way out in St.Louis
 Way down in New Orleans
 All the cats wanna dance with
 Sweet Little Sixteen
-
-
-

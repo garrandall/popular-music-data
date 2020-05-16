@@ -1,8 +1,11 @@
 ---
+album: Boogie With Canned Heat
 artists:
 - Canned Heat
+external_ids:
+  spotify: spotify:track:0PRJmbFX6z9OxQ57OFHCqd
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-road-again-canned-heat
 lyrics_url: https://genius.com/Canned-heat-on-the-road-again-lyrics
 name: On The Road Again
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 296026
 ---
 Well, I'm so tired of crying but I'm out on the road again
 I'm on the road again

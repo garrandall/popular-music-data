@@ -1,8 +1,11 @@
 ---
+album: 4 Bruthas & A Bass
 artists:
 - Solo
+external_ids:
+  spotify: spotify:track:2wwigvqN8mhEt0EZlrW1S8
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-solo
 lyrics_url: https://www.musixmatch.com/lyrics/Solo/Touch-Me
 name: Touch Me
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 258226
 ---
 Come on
 

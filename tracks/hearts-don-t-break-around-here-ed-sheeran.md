@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:2dfHh7ECGxfNqZTQno09Vk
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-don-t-break-around-here-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-hearts-dont-break-around-here-lyrics
 name: Hearts Don't Break Around Here
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 248413
 ---
 She is the sweetest thing that I know
 Should see the way she holds me when the lights go low

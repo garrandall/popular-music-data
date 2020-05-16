@@ -1,8 +1,11 @@
 ---
+album: Cosmic Hallelujah
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:66pxmg3Jhjm09tHoWR1wVR
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-pretty-girls-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/alltheprettygirls.html
 name: All The Pretty Girls
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
+release_year: 2017
+runtime: 212893
 ---
-
 All the pretty girls said pick me up at eight
 All the pretty girls said I'm going to L.A.
 All the pretty girls said I hate my hair
@@ -110,6 +114,3 @@ All of the whiskey went to my head
 Shut up and kiss me all the pretty girls said
 
 All the pretty girls said
-
-
-

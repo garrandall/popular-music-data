@@ -1,8 +1,11 @@
 ---
+album: Glee The 3D Concert Movie (Motion Picture Soundtrack)
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3aKNGl01j8n9RZY7XHWPMz
 features: []
-genres: []
+first_released_as_single: false
 key: jessie-s-girl-glee-cast
 lyrics_url: https://genius.com/Glee-cast-jessies-girl-lyrics
 name: Jessie's Girl
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 194466
 ---
 Jessie is a friend
 Yeah, I know he's been a good friend of mine

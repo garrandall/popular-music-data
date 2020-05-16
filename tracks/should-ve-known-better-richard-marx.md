@@ -1,8 +1,11 @@
 ---
+album: Richard Marx
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:5j1zOOvkxxe4uZZ2Jgl8r4
 features: []
-genres: []
+first_released_as_single: false
 key: should-ve-known-better-richard-marx
 lyrics_url: https://genius.com/Richard-marx-shouldve-known-better-lyrics
 name: Should've Known Better
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 250240
 ---
 Another sleepless night I can't explain
 Somebody said they heard me call your name

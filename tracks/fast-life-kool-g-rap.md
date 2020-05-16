@@ -1,8 +1,11 @@
 ---
+album: 4,5,6
 artists:
 - Kool G Rap
+external_ids:
+  spotify: spotify:track:4TyOdHslAsrWZyXuStT2Ay
 features: []
-genres: []
+first_released_as_single: false
 key: fast-life-kool-g-rap
 lyrics_url: https://genius.com/Kool-g-rap-fast-life-lyrics
 name: Fast Life
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-02-17'
+release_year: 1995
+runtime: 293626
 ---
 The time has come, we gotta expand, the whole operation
 Distribution, New York, to Chicago, L.A

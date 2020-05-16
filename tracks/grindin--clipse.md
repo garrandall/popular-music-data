@@ -1,8 +1,11 @@
 ---
+album: The Source - Hip Hop Hits Vol. 6
 artists:
 - Clipse
+external_ids:
+  spotify: spotify:track:1ZluSCShiDZfVBoRU6TrSP
 features: []
-genres: []
+first_released_as_single: false
 key: grindin--clipse
 lyrics_url: https://genius.com/Clipse-grindin-lyrics
 name: Grindin'
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2002
+runtime: 257013
 ---
 Yo, I go by the name (I'm yo' pusha)
 Of Pharrell, from The Neptunes

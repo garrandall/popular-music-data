@@ -1,8 +1,11 @@
 ---
+album: 'Lookin'' For A Love: The Complete SAR Recordings'
 artists:
 - The Valentinos
+external_ids:
+  spotify: spotify:track:2hP1F1yFpeVlfiGhesaOn3
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-over-now-the-valentinos
 lyrics_url: https://genius.com/The-valentinos-its-all-over-now-lyrics
 name: It's All Over Now
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1960
+runtime: 171600
 ---
 Well, baby used to stay out all night long
 She made me cry, she did me wrong

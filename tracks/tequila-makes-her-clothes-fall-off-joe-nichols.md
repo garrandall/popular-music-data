@@ -1,8 +1,11 @@
 ---
+album: III
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:6IC6VhpV7D8T1t037Atqpu
 features: []
-genres: []
+first_released_as_single: false
 key: tequila-makes-her-clothes-fall-off-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/tequilamakesherclothesfalloff.html
 name: Tequila Makes Her Clothes Fall Off
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 187053
 ---
-
 She said, "I'm going out with my girlfriends
 For margaritas at the Holiday Inn"
 Oh have mercy my only thought
@@ -121,6 +125,3 @@ Her friends will joke about the stuff she lost
 Yeah, tequila makes her clothes fall off
 Oh tequila makes her clothes fall off
 Oh tequila makes her clothes fall off
-
-
-

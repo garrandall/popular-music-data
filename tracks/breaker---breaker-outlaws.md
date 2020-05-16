@@ -1,8 +1,11 @@
 ---
+album: Lady In Waiting
 artists:
 - Outlaws
+external_ids:
+  spotify: spotify:track:2DneH1ZWt73gK7WjQD7ZcK
 features: []
-genres: []
+first_released_as_single: false
 key: breaker---breaker-outlaws
 lyrics_url: https://www.azlyrics.com/lyrics/outlaws/breakerbreaker.html
 name: Breaker - Breaker
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 177000
 ---
-
 Breaker breaker, take me home
 You're the one I want to see
 
@@ -66,6 +70,3 @@ Breaker breaker, take me home, clear the highway for me
 Breaker breaker, take me home you're the one I wanna see
 
 Breaker breaker take me home, clear the highway for me
-
-
-

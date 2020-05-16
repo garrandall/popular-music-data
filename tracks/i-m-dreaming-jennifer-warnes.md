@@ -1,8 +1,11 @@
 ---
+album: Jennifer Warnes
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:21fnq9SVO9WCg7q43xzE2t
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-dreaming-jennifer-warnes
 lyrics_url: https://genius.com/Jennifer-warnes-im-dreaming-lyrics
 name: I'm Dreaming
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1976
+runtime: 212333
 ---
 Watching all the fishing boats coming
 Lying back in the warm, soft sand

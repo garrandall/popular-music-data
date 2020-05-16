@@ -1,8 +1,11 @@
 ---
+album: Sugar Shack / Buddy's Buddy
 artists:
 - Jimmy Gilmer And The Fireballs
+external_ids:
+  spotify: spotify:track:7g0RYi9itCZ1NqmE1h6RLp
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-shack-jimmy-gilmer-and-the-fireballs
 lyrics_url: https://genius.com/Jimmy-gilmer-and-the-fireballs-sugar-shack-lyrics
 name: Sugar Shack
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 123693
 ---
 There's a crazy little shack beyond the tracks
 And everybody calls it the Sugar Shack

@@ -1,8 +1,11 @@
 ---
+album: Harry
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:4gFB9xxwrJB0uIEPSquCTU
 features: []
-genres: []
+first_released_as_single: false
 key: i-guess-the-lord-must-be-in-new-york-city-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/iguessthelordmustbeinnewyorkcity.html
 name: I Guess The Lord Must Be In New York City
@@ -35,8 +38,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 161266
 ---
-
 I'll say goodbye to all my sorrow
 And by tomorrow I'll be on my way
 I guess the Lord must be in New York City
@@ -62,6 +66,3 @@ Well, here I am, Lord, knockin' at your back door, hm
 Ain't it wonderful to be where I've always wanted to be?
 For the first time, I'll breathe free
 Here in New York City
-
-
-

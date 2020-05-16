@@ -1,8 +1,11 @@
 ---
+album: Lovin' the Night Away
 artists:
 - The Dillman Band
+external_ids:
+  spotify: spotify:track:41xWKAwhYsjVspVnao72JE
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--the-night-away-the-dillman-band
 name: Lovin' The Night Away
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1981
+runtime: 237694
 ---
 

@@ -1,10 +1,13 @@
 ---
+album: MONTANA
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:40Zb4FZ6nS1Hj8RVfaLkCV
 features:
 - Blueface
 - Lil Tjay
-genres: []
+first_released_as_single: true
 key: slide-french-montana-blueface-lil-tjay
 lyrics_url: https://genius.com/French-montana-slide-lyrics
 name: Slide
@@ -13,6 +16,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2019
+runtime: 186344
 ---
 Blueface, baby
 You know what it is when you hear that, haan (Yeah, a'ight)

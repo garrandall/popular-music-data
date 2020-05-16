@@ -1,9 +1,12 @@
 ---
+album: Freedom
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:1sBiJZixyXiVBkZCXYvTdf
 features:
 - Sweet Rush
-genres: []
+first_released_as_single: false
 key: troublemaker-akon-sweet-rush
 lyrics_url: https://genius.com/Akon-troublemaker-lyrics
 name: Troublemaker
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2008
+runtime: 237173
 ---
 Most stared up in the club, just swagging doing my thang
 Popping bottles with models and just watching them drank

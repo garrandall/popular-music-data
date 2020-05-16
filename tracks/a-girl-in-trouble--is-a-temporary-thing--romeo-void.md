@@ -1,8 +1,11 @@
 ---
+album: Warm, In Your Coat
 artists:
 - Romeo Void
+external_ids:
+  spotify: spotify:track:4apng8tvgwREkexRmIhArY
 features: []
-genres: []
+first_released_as_single: false
 key: a-girl-in-trouble--is-a-temporary-thing--romeo-void
 lyrics_url: https://genius.com/Romeo-void-a-girl-in-trouble-is-a-temporary-thing-lyrics
 name: A Girl In Trouble (Is A Temporary Thing)
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
+release_year: 1979
+runtime: 371973
 ---
 She's got a face that shows that she knows
 She's heard every line

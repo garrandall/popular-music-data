@@ -1,8 +1,11 @@
 ---
+album: Apollo Saturday Night
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:7z72UdscXF0hhNUUYWLqUN
 features: []
-genres: []
+first_released_as_single: false
 key: t-ain-t-nothin--to-me-the-coasters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Coasters/T-Ain-t-Nothin-to-Me
 name: T'ain't Nothin' To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1964
+runtime: 267026
 ---
 Just taking a drink to
 The end of the bar, buddy

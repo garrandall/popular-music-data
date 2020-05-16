@@ -1,9 +1,12 @@
 ---
+album: Get Money Stay True (Explicit U.S. Version)
 artists:
 - Paul Wall
+external_ids:
+  spotify: spotify:track:1JSAG9urr36eQ9MM8brXWy
 features:
 - Lil' KeKe
-genres: []
+first_released_as_single: true
 key: break--em-off-paul-wall-lil--keke
 lyrics_url: https://www.azlyrics.com/lyrics/paulwall/breakemoff.html
 name: Break 'Em Off
@@ -12,9 +15,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2007
+runtime: 291733
 ---
-
-
 I'ma break 'em off real bad, I'ma show'em pourin up a duece and ridin slab
 
 
@@ -88,4 +91,3 @@ In dat 2 seater feeder, it's me and a seÃ¡orita
 3 ounces up in the liter, and it's ten up in the heater
 Mackin a mamacita, runnin game like a cheetah
 I'm knockin 'em out the park similar to Derek Jeter (Break 'em off)
-

@@ -1,8 +1,11 @@
 ---
+album: Americana
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:3SFXsFpeGmBTtQvKiwYMDA
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-fly--for-a-white-guy--the-offspring
 lyrics_url: https://genius.com/The-offspring-pretty-fly-for-a-white-guy-lyrics
 name: Pretty Fly (For A White Guy)
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
+release_year: 1998
+runtime: 188666
 ---
 Gunter glieben glauten globen
 

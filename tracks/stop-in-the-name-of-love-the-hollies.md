@@ -1,8 +1,11 @@
 ---
+album: "The Hollies: Greatest Hits\u2026Live!"
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:2fD7IwGnxZy0h3WF6unOKE
 features: []
-genres: []
+first_released_as_single: false
 key: stop-in-the-name-of-love-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/stopinthenameoflove.html
 name: Stop In The Name Of Love
@@ -55,8 +58,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1983
+runtime: 217306
 ---
-
 Oh baby I'm aware
 Of where you go
 Each time you leave my door
@@ -87,4 +91,3 @@ And rush back into his arms
 
 
 Haven't I been sweet to you baby
-

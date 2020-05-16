@@ -1,8 +1,11 @@
 ---
+album: Hits & Rarities
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:0zPpqu1oiqRhtc186hvUbv
 features: []
-genres: []
+first_released_as_single: false
 key: the-price-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-the-price-lyrics
 name: The Price
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 168653
 ---
 After I hung up my
 Heart for you, darling

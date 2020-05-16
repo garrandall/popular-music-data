@@ -1,8 +1,11 @@
 ---
+album: Living
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:7feWz9NnrE7cQaFIgf3Omg
 features: []
-genres: []
+first_released_as_single: false
 key: chelsea-morning-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/chelseamorning.html
 name: Chelsea Morning
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 212200
 ---
-
 I woke up, it was a Chelsea morning
 And the first thing that I heard
 Was a song outside my window
@@ -65,6 +69,3 @@ And the rainbow runs away
 I will bring you incense owls by night
 By jewel light, by candlelight, if only you will stay
 Oh my darling won't you wake up, it is a Chelsea morning
-
-
-

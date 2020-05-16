@@ -1,8 +1,11 @@
 ---
+album: Love, Pain & The Whole Crazy Thing
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2gL2Pm7OJkk0X5neLyqiKB
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-boy-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/stupidboy.html
 name: Stupid Boy
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 376386
 ---
-
 Well, she was precious like a flower
 She grew wild, wild but innocent
 A perfect prayer in a desperate hour
@@ -139,6 +143,3 @@ I'm sorry, I'm sorry
 I'm sorry, I'm sorry
 Baby, yeah, I'm down on my knees
 She's never coming back to me
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Bend Ova
 artists:
 - Lil Jon
+external_ids:
+  spotify: spotify:track:6ziRvlmeTYF16I8oRCLSre
 features:
 - Tyga
-genres: []
+first_released_as_single: true
 key: bend-ova-lil-jon-tyga
 lyrics_url: https://www.azlyrics.com/lyrics/liljon/bendova.html
 name: Bend Ova
@@ -20,8 +23,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-10-11'
+release_year: 2014
+runtime: 226146
 ---
-
 Bend ova, make your knees touch your elbows!
 Bend ova, make your knees touch your elbows!
 Bend ova, make your knees touch your elbows!
@@ -76,6 +80,3 @@ Hands on your knees, bounce that ass like a yoga ball
 
 Bend ova, make your knees touch your elbows!
 Bend ova, make your knees touch your elbows!
-
-
-

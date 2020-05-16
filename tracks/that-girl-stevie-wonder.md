@@ -1,8 +1,11 @@
 ---
+album: Original Musiquarium
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5oNi6zJgIcGh8pv3XlmZb3
 features: []
-genres: []
+first_released_as_single: false
 key: that-girl-stevie-wonder
 lyrics_url: https://www.musixmatch.com/lyrics/Stevie-Wonder/That-Girl
 name: That Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1982
+runtime: 313840
 ---
 That girl thinks that she's so fine
 That soon she'll have my mind

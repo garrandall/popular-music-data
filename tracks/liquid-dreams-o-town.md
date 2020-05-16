@@ -1,8 +1,11 @@
 ---
+album: O-Town
 artists:
 - O-Town
+external_ids:
+  spotify: spotify:track:2Pxzfzd1jaZT2F2uqLkZUr
 features: []
-genres: []
+first_released_as_single: false
 key: liquid-dreams-o-town
 lyrics_url: https://www.azlyrics.com/lyrics/otown/liquiddreams.html
 name: Liquid Dreams
@@ -55,8 +58,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
+release_year: 2000
+runtime: 210400
 ---
-
 Posters of love surrounding me, lost in the world of fantasy
 Every night she comes to me and gives me all the love I need.
 
@@ -100,4 +104,3 @@ With Janet Jackson's smile
 Throw in a body like Jennifer's
 You've got the star of my liquid dreams
 My liquid dreams
-

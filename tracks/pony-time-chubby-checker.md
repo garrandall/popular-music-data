@@ -1,8 +1,11 @@
 ---
+album: It's Pony Time/Let's Twist Again
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:45gAw2xmDx9DZAnoiJK723
 features: []
-genres: []
+first_released_as_single: false
 key: pony-time-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/ponytime.html
 name: Pony Time
@@ -71,8 +74,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 148733
 ---
-
 It's pony time, get up
 (Boogety, boogety, boogety, boogety shoo)
 
@@ -146,6 +150,3 @@ Now haw, ya
 Oh baby, oh baby, pretty baby
 Do it baby, oh baby, oh baby
 (Boogety, boogety, boogety, boogety shoo)
-
-
-

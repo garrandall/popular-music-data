@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6qug49UELSYOLEmqmFeDrM
 features: []
-genres: []
+first_released_as_single: false
 key: wanna-be-startin--somethin--glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/wannabestartinsomethin.html
 name: Wanna Be Startin' Somethin'
@@ -11,9 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2012
+runtime: 207466
 ---
-
-
 I said you wanna be startin' somethin'
 You got to be startin' somethin'
 I said you wanna be startin' somethin'
@@ -83,6 +86,3 @@ Yeah! Sing to the world! Sing it out loud!
 Help Me Sing It!
 
 Ma ma se, ma ma se ma ma coo sa!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bubblegum Music Is The Naked Truth Volume 1
 artists:
 - Kasenetz-Katz Singing Orchestral Circus
+external_ids:
+  spotify: spotify:track:1AboGOId6vPiP74HGTQhhC
 features: []
-genres: []
+first_released_as_single: false
 key: quick-joey-small--run-joey-run--kasenetz-katz-singing-orchestral-circus
 lyrics_url: https://genius.com/Kasenetz-katz-singing-orchestral-circus-quick-joey-small-run-joey-run-lyrics
 name: Quick Joey Small (Run Joey Run)
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 143813
 ---
 Quick Joey Small went over the wall
 With a ball and a chain behind him

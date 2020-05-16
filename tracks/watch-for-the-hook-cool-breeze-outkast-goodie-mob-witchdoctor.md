@@ -1,11 +1,14 @@
 ---
+album: East Point's Greatest Hit
 artists:
 - Cool Breeze
+external_ids:
+  spotify: spotify:track:5CNBjdmp5aZdW2Nu6f0Xav
 features:
 - OutKast
 - Goodie Mob
 - Witchdoctor
-genres: []
+first_released_as_single: false
 key: watch-for-the-hook-cool-breeze-outkast-goodie-mob-witchdoctor
 lyrics_url: https://genius.com/Cool-breeze-watch-for-the-hook-dungeon-family-mix-lyrics
 name: Watch For The Hook
@@ -50,6 +53,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-04-03'
+release_year: 1999
+runtime: 271600
 ---
 * some words from the intro are left out - this is as it appears on
 The CD single

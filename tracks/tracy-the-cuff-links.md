@@ -1,8 +1,11 @@
 ---
+album: Male Oldies - Vol. 36 - Karaoke
 artists:
 - The Cuff Links
+external_ids:
+  spotify: spotify:track:10qKqdvYLoIwwis1MqP53U
 features: []
-genres: []
+first_released_as_single: false
 key: tracy-the-cuff-links
 lyrics_url: https://genius.com/The-cuff-links-tracy-lyrics
 name: Tracy
@@ -55,6 +58,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1969
+runtime: 141688
 ---
 Ba ba, ba ba ba ba
 Ba ba ba ba

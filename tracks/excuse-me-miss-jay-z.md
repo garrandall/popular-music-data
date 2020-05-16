@@ -1,8 +1,11 @@
 ---
+album: The Blueprint 2 The Gift & The Curse
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:0ZHu7jkSSrT0eK4OxuG4O5
 features: []
-genres: []
+first_released_as_single: false
 key: excuse-me-miss-jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-Z-6/Excuse-Me-Miss
 name: Excuse Me Miss
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2002
+runtime: 281240
 ---
 You can't roll a blunt to this one
 You gotta, you gotta well, ya gotta light a J

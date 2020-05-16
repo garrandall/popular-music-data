@@ -1,8 +1,11 @@
 ---
+album: Stealin' Home
 artists:
 - Ian Matthews
+external_ids:
+  spotify: spotify:track:3HlFHrduozey0jCtDWQ5Wv
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-ian-matthews
 lyrics_url: https://www.musixmatch.com/lyrics/Ian-Matthews/Shake-It
 name: Shake It
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1978
+runtime: 205493
 ---
 Here she comes ridin'
 Rollin' it down the line

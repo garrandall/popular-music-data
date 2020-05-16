@@ -1,8 +1,11 @@
 ---
+album: A Collection Of 16 Original Big Hits Vol. 2
 artists:
 - Valadiers
+external_ids:
+  spotify: spotify:track:57Hw6qef9NFy3fYJZ9fIxP
 features: []
-genres: []
+first_released_as_single: false
 key: greetings--this-is-uncle-sam--valadiers
 lyrics_url: https://genius.com/The-valadiers-greetings-this-is-uncle-sam-lyrics
 name: Greetings (This is Uncle Sam)
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 188333
 ---
 Greetings, this is Uncle Sam
 I want to take you to a far off land

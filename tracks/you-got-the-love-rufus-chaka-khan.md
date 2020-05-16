@@ -1,9 +1,12 @@
 ---
+album: Rags To Rufus
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:4y1vMFRC4T2P43ovfvOor7
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: you-got-the-love-rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-you-got-the-love-lyrics
 name: You Got The Love
@@ -72,6 +75,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 278440
 ---
 Love me right
 What's the matter with you

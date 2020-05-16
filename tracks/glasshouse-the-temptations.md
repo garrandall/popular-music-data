@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:0Nyq54pf1IrkPomVk4BUTE
 features: []
-genres: []
+first_released_as_single: false
 key: glasshouse-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/glasshouse.html
 name: Glasshouse
@@ -47,8 +50,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 234693
 ---
-
 If you're living in a glasshouse (Watch out, watch out)
 Don't throw no stones (Watch out, watch out)
 
@@ -107,6 +111,3 @@ Swapping
 I said livin', I said livin'
 
 If you're living in a glasshouse...
-
-
-

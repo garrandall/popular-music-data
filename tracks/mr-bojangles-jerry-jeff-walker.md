@@ -1,8 +1,11 @@
 ---
+album: Mr. Bojangles
 artists:
 - Jerry Jeff Walker
+external_ids:
+  spotify: spotify:track:51DLN9R1dIqkKnlRsz1kpg
 features: []
-genres: []
+first_released_as_single: false
 key: mr-bojangles-jerry-jeff-walker
 lyrics_url: https://www.azlyrics.com/lyrics/jerryjeffwalker/mrbojangles.html
 name: Mr Bojangles
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 328146
 ---
-
 I knew a man Bojangles and he'd dance for you
 In worn out shoes
 Silver hair and ragged shirt and baggy pants
@@ -77,6 +81,3 @@ Mister Bojangles
 Mister Bojangles
 Mister Bojangles
 Dance
-
-
-

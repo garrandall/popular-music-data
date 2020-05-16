@@ -1,8 +1,11 @@
 ---
+album: "Belle-Issima! Sweet Memories\u2026"
 artists:
 - The Belle Stars
+external_ids:
+  spotify: spotify:track:0ftI96GEGTvqEyDqhI35Hx
 features: []
-genres: []
+first_released_as_single: false
 key: sign-of-the-times-the-belle-stars
 lyrics_url: https://genius.com/The-belle-stars-sign-of-the-times-lyrics
 name: Sign Of The Times
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1981
+runtime: 174346
 ---
 As I lie here thinking of you
 I realize that nothing is new

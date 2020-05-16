@@ -1,8 +1,11 @@
 ---
+album: There's No Gettin' Over Me
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:7sNKhnl4MZnHdMzvmC4jG5
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-have-missed-it-for-the-world-ronnie-milsap
 lyrics_url: https://genius.com/Ronnie-milsap-i-wouldnt-have-missed-it-for-the-world-lyrics
 name: I Wouldn't Have Missed It For The World
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1981
+runtime: 217826
 ---
 Our paths may never cross again
 Maybe my heart will never mend

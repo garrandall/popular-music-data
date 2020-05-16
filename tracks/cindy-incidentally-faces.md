@@ -1,8 +1,11 @@
 ---
+album: Ooh La La
 artists:
 - Faces
+external_ids:
+  spotify: spotify:track:3w0ZmyR5gMRPZvqQA3p2G2
 features: []
-genres: []
+first_released_as_single: false
 key: cindy-incidentally-faces
 lyrics_url: https://www.azlyrics.com/lyrics/faces/cindyincidentally.html
 name: Cindy Incidentally
@@ -43,8 +46,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 158893
 ---
-
 Oh Cindy ain't you noticed
 That several of your friends have moved on
 And the street outside is just a little too quiet
@@ -72,6 +76,3 @@ So Cindy get your coat on
 Leave the rent with the gent up in the penthouse
 Turn your music so loud let's attract a big crowd
 We'll drink a round to this town and bid goodbye
-
-
-

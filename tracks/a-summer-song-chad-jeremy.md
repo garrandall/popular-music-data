@@ -1,9 +1,12 @@
 ---
+album: A Summer Song
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:5xM7bDmr2KUynKX6OfZufi
 features: []
-genres: []
+first_released_as_single: false
 key: a-summer-song-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-a-summer-song-lyrics
 name: A Summer Song
@@ -64,6 +67,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 160413
 ---
 Trees swayin' in the summer breeze
 Showin' off their silver leaves

@@ -1,8 +1,11 @@
 ---
+album: Dru Hill
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:58D9AHRscmmc6HsNtIll6f
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-dru-hill
 lyrics_url: https://genius.com/Dru-hill-tell-me-lyrics
 name: Tell Me
@@ -99,6 +102,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
+release_year: 1996
+runtime: 253666
 ---
 Tell me what you want
 Tell me what you need

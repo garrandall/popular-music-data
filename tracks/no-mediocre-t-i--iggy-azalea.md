@@ -1,9 +1,12 @@
 ---
+album: Paperwork (Deluxe Explicit)
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:38aECKrbMv2F5FsYYCewCQ
 features:
 - Iggy Azalea
-genres: []
+first_released_as_single: true
 key: no-mediocre-t-i--iggy-azalea
 lyrics_url: https://www.azlyrics.com/lyrics/ti/nomediocre.html
 name: No Mediocre
@@ -88,9 +91,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
+release_year: 2014
+runtime: 201600
 ---
-
-
 All I fuck is bad bitches
 I don't want no mediocre
 Don't want no mediocre
@@ -209,6 +212,3 @@ Seven bitches with me
 And ain't none of them mediocre
 From they head to they toes
 They so far from mediocre, yeah
-
-
-

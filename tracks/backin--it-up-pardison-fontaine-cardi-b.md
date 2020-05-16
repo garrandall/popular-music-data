@@ -1,9 +1,12 @@
 ---
+album: UNDER8ED
 artists:
 - Pardison Fontaine
+external_ids:
+  spotify: spotify:track:0PpfPNtQOOvbMNVJijTQj0
 features:
 - Cardi B
-genres: []
+first_released_as_single: true
 key: backin--it-up-pardison-fontaine-cardi-b
 lyrics_url: https://genius.com/Pardison-fontaine-backin-it-up-lyrics
 name: Backin' It Up
@@ -88,6 +91,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 190466
 ---
 Ah
 Cardi!

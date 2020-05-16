@@ -1,8 +1,11 @@
 ---
+album: Special Things (Bonus Track Version)
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:6R9NqD0WX9sJYs6PbA5onu
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-so-shy-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/hessoshy.html
 name: He's So Shy
@@ -111,8 +114,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1980
+runtime: 218320
 ---
-
 When I first saw him standing there
 I longed to speak but did not dare
 Something inside whispered to me
@@ -152,6 +156,3 @@ And he's so shy
 He's so shy
 He's so shy
 He's so shy
-
-
-

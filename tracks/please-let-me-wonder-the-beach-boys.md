@@ -1,8 +1,11 @@
 ---
+album: The Beach Boys Today!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:0rttThNJX5cZLtQUASghA7
 features: []
-genres: []
+first_released_as_single: false
 key: please-let-me-wonder-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-please-let-me-wonder-lyrics
 name: Please Let Me Wonder
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 167266
 ---
 Now here we are together
 This would've been worth waiting forever

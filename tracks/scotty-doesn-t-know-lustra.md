@@ -1,8 +1,11 @@
 ---
+album: Left for Dead
 artists:
 - Lustra
+external_ids:
+  spotify: spotify:track:1LkoYGxmYpO6QSEvY5C0Zl
 features: []
-genres: []
+first_released_as_single: false
 key: scotty-doesn-t-know-lustra
 lyrics_url: https://genius.com/Lustra-scotty-doesnt-know-lyrics
 name: Scotty Doesn't Know
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
+release_year: 2006
+runtime: 175200
 ---
 Whoaaaaaaa
 

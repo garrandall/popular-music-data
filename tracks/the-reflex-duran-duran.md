@@ -1,8 +1,11 @@
 ---
+album: Seven and the Ragged Tiger
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:4sz1Ng2Cgidfqqiy0pNL6R
 features: []
-genres: []
+first_released_as_single: false
 key: the-reflex-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/thereflex.html
 name: The Reflex
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1983
+runtime: 267426
 ---
-
 The reflex
 The reflex
 The reflex
@@ -151,6 +155,3 @@ Leaves you answered with a question mark
 
 Oh the reflex what a game he's hiding all the cards
 The reflex is in charge of finding treasure in the dark
-
-
-

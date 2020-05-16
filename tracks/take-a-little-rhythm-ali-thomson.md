@@ -1,8 +1,11 @@
 ---
+album: Take A Little Rhythm
 artists:
 - Ali Thomson
+external_ids:
+  spotify: spotify:track:3bHzd7D3BE5dSJAkxQDUpN
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-little-rhythm-ali-thomson
 lyrics_url: https://www.musixmatch.com/lyrics/Ali-Thomson/Take-a-Little-Rhythm
 name: Take A Little Rhythm
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 198000
 ---
 Oh
 

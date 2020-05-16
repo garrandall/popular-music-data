@@ -1,8 +1,11 @@
 ---
+album: Bad Liar
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:2fZQIJew3nkNe99s2PKzul
 features: []
-genres: []
+first_released_as_single: true
 key: bad-liar-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-bad-liar-lyrics
 name: Bad Liar
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 214647
 ---
 I was walking down the street the other day
 Tryna distract myself

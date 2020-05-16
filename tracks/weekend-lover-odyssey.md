@@ -1,8 +1,11 @@
 ---
+album: Odyssey
 artists:
 - Odyssey
+external_ids:
+  spotify: spotify:track:3JC3FvqS04Mi0DK8gWmQZp
 features: []
-genres: []
+first_released_as_single: false
 key: weekend-lover-odyssey
 lyrics_url: https://www.azlyrics.com/lyrics/odyssey/weekendlover.html
 name: Weekend Lover
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1977
+runtime: 228520
 ---
-
 Lover, lover
 Lover, lover
 Lover, lover
@@ -100,6 +104,3 @@ His girl undercover, when the girl my lover doesn't call
 A weekend lover, girl undercover
 With nobody at all, yeah
 A weekend, weekend lover
-
-
-

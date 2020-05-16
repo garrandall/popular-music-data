@@ -1,8 +1,11 @@
 ---
+album: Hurt So Bad
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:30MyA7RaAa7ofOOxzew5vf
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-take-my-eyes-off-you-nancy-wilson
 lyrics_url: https://genius.com/Nancy-wilson-cant-take-my-eyes-off-you-lyrics
 name: Can't Take My Eyes Off You
@@ -47,6 +50,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 204813
 ---
 You're just too good to be true
 Can't take my eyes off you

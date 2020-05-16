@@ -1,8 +1,11 @@
 ---
+album: Highly Distinct
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:354oJ0prNvlmvopjdUI1mE
 features: []
-genres: []
+first_released_as_single: false
 key: let-yourself-go-the-friends-of-distinction
 lyrics_url: https://genius.com/The-friends-of-distinction-let-yourself-go-lyrics
 name: Let Yourself Go
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1969
+runtime: 151640
 ---
 Hey you
 You say you got a problem

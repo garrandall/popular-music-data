@@ -1,8 +1,11 @@
 ---
+album: I Wish It Could Be Christmas Forever
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:2VThv8sbANBptTmz5vNtqJ
 features: []
-genres: []
+first_released_as_single: false
 key: christmas-dream-perry-como
 lyrics_url: https://genius.com/Perry-como-christmas-dream-lyrics
 name: Christmas Dream
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 166600
 ---
 Watch me now, here I go, all I need's a little snow
 Starts me off, sets the theme, helps me dream my Christmas dream

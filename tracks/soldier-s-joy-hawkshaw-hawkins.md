@@ -1,8 +1,11 @@
 ---
+album: 'Columbia Country Classics Volume 3: Americana'
 artists:
 - Hawkshaw Hawkins
+external_ids:
+  spotify: spotify:track:0ECjHDGYnjB1ixiGXYZupY
 features: []
-genres: []
+first_released_as_single: false
 key: soldier-s-joy-hawkshaw-hawkins
 lyrics_url: https://genius.com/Hawkshaw-hawkins-soldiers-joy-lyrics
 name: Soldier's Joy
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
+release_year: 1954
+runtime: 140026
 ---
 Some Continental soldiers on a bivouac
 Were playin' stud poker in a mountain shack

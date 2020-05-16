@@ -1,8 +1,11 @@
 ---
+album: Ashanti
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:6CbcdeTQKj0qTaZTt0xkdk
 features: []
-genres: []
+first_released_as_single: false
 key: happy-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/ashanti/happy.html
 name: Happy
@@ -99,9 +102,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 2002
+runtime: 262226
 ---
-
-
 Woo, ha ha right back at ya..
 it's the world's most talented record label
 Murder Inc.
@@ -148,6 +151,3 @@ and I thank God he sent you from above.
 Hm that I wouldn't be without you babe
 couldn't see me without you babe and I wouldn't be
 without you babe couldn't see me without you baby.
-
-
-

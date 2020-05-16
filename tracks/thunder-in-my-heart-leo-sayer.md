@@ -1,8 +1,11 @@
 ---
+album: 'The Show Must Go On: The Leo Sayer Anthology'
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:5UCs2pKQOgB898UunuBO2k
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-in-my-heart-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/thunderinmyheart.html
 name: Thunder In My Heart
@@ -43,8 +46,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
+release_year: 1977
+runtime: 215640
 ---
-
 Standing here alone with you
 Wondering what it is that I'm supposed to do
 And there you are with the lovelight in your eyes
@@ -96,6 +100,3 @@ I feel a thunder in my heart
 I know you're here to stay
 I feel a thunder in my heart
 And I know you're here to stay
-
-
-

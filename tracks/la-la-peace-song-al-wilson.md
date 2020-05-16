@@ -1,8 +1,11 @@
 ---
+album: 'Show and Tell: The Best of Al Wilson'
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:09wsoxgIjNhZUOgPhMHg0W
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-peace-song-al-wilson
 lyrics_url: https://genius.com/Al-wilson-la-la-peace-song-lyrics
 name: La La Peace Song
@@ -47,6 +50,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1973
+runtime: 202826
 ---
 Mmm hm, la la, oh, yeah
 

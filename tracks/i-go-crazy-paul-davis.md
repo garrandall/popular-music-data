@@ -1,8 +1,11 @@
 ---
+album: Singer of Songs, Teller of Tales
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:08kvJTpcthAvvvW0BAcGHN
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-crazy-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/igocrazy.html
 name: I Go Crazy
@@ -167,8 +170,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1977
+runtime: 233893
 ---
-
 Hello, girl, it's been a while
 Guess you'll be glad to know
 That I've learned how to laugh and smile
@@ -208,6 +212,3 @@ No, my heart just can't hide
 That old feelin' inside
 Way deep down inside
 I go crazy
-
-
-

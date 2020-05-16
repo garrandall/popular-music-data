@@ -1,8 +1,11 @@
 ---
+album: Rattle And Hum
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:4D01oA1mGouaAT7fubvKRT
 features: []
-genres: []
+first_released_as_single: false
 key: desire-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/desire.html
 name: Desire
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 179360
 ---
-
 (Yeah)
 
 Lover, I'm on the street
@@ -108,6 +112,3 @@ money money money
 And the fever, getting higher
 Desire, desire, desire, desire
 Desire, desire
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Roll With It
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:2rc0xWbPb7YpvYBvZqjzu8
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-on-fire-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/heartsonfire.html
 name: Hearts On Fire
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1988
+runtime: 317560
 ---
-
 Night was falling and my chances were low
 Nothing was happening, I was ready to go
 Then I saw her walking through that door
@@ -71,6 +75,3 @@ I wanted to make her part of my life
 
 Just the two of us sat talking together
 I wanted to make her part of my life
-
-
-

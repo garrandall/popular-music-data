@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:5fbSS9bGOCB4Ejaz2QCrYk
 features: []
-genres: []
+first_released_as_single: true
 key: beautiful-life-ace-of-base
 lyrics_url: https://genius.com/Ace-of-base-beautiful-life-lyrics
 name: Beautiful Life
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1996-03-23'
+release_year: 1995
+runtime: 221186
 ---
 You can do what you want, just seize the day
 What you're doin' tomorrow's gonna come your way

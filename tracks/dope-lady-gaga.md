@@ -1,8 +1,11 @@
 ---
+album: ARTPOP
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:1gPCk3KUE83rPdz9QqGsX9
 features: []
-genres: []
+first_released_as_single: false
 key: dope-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/dope.html
 name: Dope
@@ -15,9 +18,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2013
+runtime: 221546
 ---
-
-
 Corks off, it's on
 The party's just begun
 I promise this
@@ -58,6 +61,3 @@ Oh, I feel so low from living high
 I need you more
 Need you more
 I need you more than dope
-
-
-

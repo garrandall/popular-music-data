@@ -1,8 +1,11 @@
 ---
+album: 'Snatching It Back: The Best Of Clarence Carter'
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:0EPHR89Nx5J0sBexA3HKXd
 features: []
-genres: []
+first_released_as_single: false
 key: slipped-tripped-and-fell-in-love-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-slipped-tripped-and-fell-in-love-lyrics
 name: Slipped Tripped And Fell In Love
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 167506
 ---
 I knew from the very beginning
 What you had in mind

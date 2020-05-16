@@ -1,8 +1,11 @@
 ---
+album: Heavenly
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:4uxsv9PjV3Yeyn51RdWvGJ
 features: []
-genres: []
+first_released_as_single: false
 key: misty-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/misty.html
 name: Misty
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 216573
 ---
-
 Look at me
 I'm as helpless as a kitten up a tree
 And I feel like I'm clinging to a cloud
@@ -102,6 +106,3 @@ I'm too misty and too much in love
 
 
 Look at me
-
-
-

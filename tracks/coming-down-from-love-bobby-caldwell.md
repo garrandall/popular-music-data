@@ -1,8 +1,11 @@
 ---
+album: Cat in the Hat
 artists:
 - Bobby Caldwell
+external_ids:
+  spotify: spotify:track:4IR1LDAWA3Rly689SrjHrF
 features: []
-genres: []
+first_released_as_single: false
 key: coming-down-from-love-bobby-caldwell
 lyrics_url: https://www.azlyrics.com/lyrics/bobbycaldwell/comingdownfromlove.html
 name: Coming Down From Love
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1980
+runtime: 242026
 ---
-
 From the beginning
 You were my life
 And through the seasons
@@ -87,6 +91,3 @@ Keeping an open mind
 Now I remember
 Cause I can't forget the past
 I keep spinning around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:5xPazRvyrkVootu8pM9vUG
 features: []
-genres: []
+first_released_as_single: true
 key: rolling-in-the-deep-adele
 lyrics_url: https://genius.com/Adele-rolling-in-the-deep-lyrics
 name: Rolling In The Deep
@@ -267,6 +270,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2010
+runtime: 228093
 ---
 There's a fire starting in my heart
 Reaching a fever pitch, and it's bringing me out the dark

@@ -1,8 +1,11 @@
 ---
+album: Joanne
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:56ZrTFkANjeAMiS14njg4E
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-illusion-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-perfect-illusion-lyrics
 name: Perfect Illusion
@@ -31,6 +34,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 182000
 ---
 Tryin' to get control
 Pressure's takin' its toll

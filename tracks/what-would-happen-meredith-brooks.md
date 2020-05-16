@@ -1,8 +1,11 @@
 ---
+album: Blurring The Edges
 artists:
 - Meredith Brooks
+external_ids:
+  spotify: spotify:track:5on1ppavPW4nxtGXJJiSLd
 features: []
-genres: []
+first_released_as_single: false
 key: what-would-happen-meredith-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/meredithbrooks/whatwouldhappen.html
 name: What Would Happen
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
+release_year: 1997
+runtime: 317266
 ---
-
 Electricity, eye to eye
 Hey don't I know you
 I can't speak
@@ -81,4 +85,3 @@ Will I pretend I'm innocent
 I struggle with myself again
 Quickly the walls are crumbling
 Don't know if I can turn away
-

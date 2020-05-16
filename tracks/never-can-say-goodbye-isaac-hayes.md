@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Isaac Hayes'
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:2OCdNTtbNnHUrWYO13uyMo
 features: []
-genres: []
+first_released_as_single: false
 key: never-can-say-goodbye-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/nevercansaygoodbye.html
 name: Never Can Say Goodbye
@@ -43,8 +46,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 216533
 ---
-
 I never can say goodbye
 (No, no, no, no, I)
 I never can say goodbye, no
@@ -128,6 +132,3 @@ You're my one and only lover
 I can't say goodbye
 Don't wanna another
 I can't say goodbye
-
-
-

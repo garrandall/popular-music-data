@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Journey To Regionals'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7cHROTw8JRjEaO3hDf1GZN
 features: []
-genres: []
+first_released_as_single: true
 key: any-way-you-want-it-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/anywayyouwantit.html
 name: Any Way You Want It
@@ -11,8 +14,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 187413
 ---
-
 Any way you want it
 That's the way you need it
 Anyway you want it
@@ -81,6 +85,3 @@ That's the way you need it
 Anyway you want it
 Any way you want it
 That's the way you need it
-
-
-

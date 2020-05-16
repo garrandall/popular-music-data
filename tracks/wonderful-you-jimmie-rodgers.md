@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:3NSmmAfeZlfshzvll6tlfm
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-you-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Wonderful-You
 name: Wonderful You
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 152733
 ---
 Wonder-wonder-wonderful you
 Oh what a wonder just being under

@@ -1,8 +1,11 @@
 ---
+album: The Notorious K.I.M.
 artists:
 - Lil' Kim
+external_ids:
+  spotify: spotify:track:5bH5uk3A1Y9Aky75Akkdvg
 features: []
-genres: []
+first_released_as_single: false
 key: no-matter-what-they-say-lil--kim
 lyrics_url: https://www.azlyrics.com/lyrics/lilkim/nomatterwhattheysay.html
 name: No Matter What They Say
@@ -47,9 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
+release_year: 2000
+runtime: 251200
 ---
-
-
 Uh, yeah
 Queen Bee, 2000
 Come on
@@ -146,4 +149,3 @@ In fact I'ma give it to y'all one more time like..
 
 Uh yeah, what?
 Come on, bounce, what?
-

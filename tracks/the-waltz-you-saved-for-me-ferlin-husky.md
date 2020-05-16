@@ -1,8 +1,11 @@
 ---
+album: The Best of Ferlin Husky
 artists:
 - Ferlin Husky
+external_ids:
+  spotify: spotify:track:5THsax88NZuxrr1OzfteIX
 features: []
-genres: []
+first_released_as_single: false
 key: the-waltz-you-saved-for-me-ferlin-husky
 lyrics_url: https://www.musixmatch.com/lyrics/Ferlin-Husky/The-Waltz-You-Saved-for-Me
 name: The Waltz You Saved For Me
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1962
+runtime: 182752
 ---
 Every dream with you I'll sway, dear
 To the Waltz you saved for me

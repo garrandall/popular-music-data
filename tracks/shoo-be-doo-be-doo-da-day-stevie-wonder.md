@@ -1,8 +1,11 @@
 ---
+album: For Once In My Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:3Cqr3l72XDpazdFiQQpFHh
 features: []
-genres: []
+first_released_as_single: false
 key: shoo-be-doo-be-doo-da-day-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/shoobedoobedoodaday.html
 name: Shoo-Be-Doo-Be-Doo-Da-Day
@@ -59,8 +62,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 165266
 ---
-
 Your precious sweetheart, she's so faithful, she's so true, oh yeah,
 Her dreams are tumblin', her world is crumblin' because of you, uhh uh.
 One day you'll hurt her just once too much,
@@ -89,6 +93,3 @@ Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Day
 Her feet may wander, her heart may stray, yeah, yeah
 Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Dee.
 Love's gon' send your baby straight to me, hey, hey.
-
-
-

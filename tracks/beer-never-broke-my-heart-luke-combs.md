@@ -1,8 +1,11 @@
 ---
+album: What You See Is What You Get
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:7aEtlGHoiPAfRB084NiDmx
 features: []
-genres: []
+first_released_as_single: false
 key: beer-never-broke-my-heart-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/beerneverbrokemyheart.html
 name: Beer Never Broke My Heart
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 186733
 ---
-
 I've had a largemouth bass bust my line
 A couple beautiful girls tell me goodbye
 Trucks break down, dogs run off
@@ -124,6 +128,3 @@ Like diamond rings and football teams have torn this boy apart
 Like a neon dream, it just dawned on me, that bars and this guitar
 And long neck ice cold beer never broke my heart, no
 It never broke my heart
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Behind The Light
 artists:
 - Phillip Phillips
+external_ids:
+  spotify: spotify:track:3Q2tKt6gKdn9LUMcHFxNJy
 features: []
-genres: []
+first_released_as_single: false
 key: raging-fire-phillip-phillips
 lyrics_url: https://www.azlyrics.com/lyrics/phillipphillips/ragingfire.html
 name: Raging Fire
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2014
+runtime: 234693
 ---
-
 We are dead to rights born and raised
 We are thick and thin 'til our last days
 So hold me close and I'll surrender to your heart
@@ -91,6 +95,3 @@ Won't you turn my soul into a raging fire?
 Come out, come out, come out
 'Til we lose control into a raging fire
 Into a raging fire
-
-
-

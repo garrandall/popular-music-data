@@ -1,8 +1,11 @@
 ---
+album: Portrait In Music
 artists:
 - George Maharis
+external_ids:
+  spotify: spotify:track:3aZxXWFsmIuGU2pS7RxYCq
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-it-goes-george-maharis
 name: That's How It Goes
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1962
+runtime: 137866
 ---
 

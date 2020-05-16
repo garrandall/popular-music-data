@@ -1,8 +1,11 @@
 ---
+album: Listen Like Thieves
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:04EnF5C2HvYZfGu64Bng7I
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-need-inxs
 lyrics_url: https://genius.com/Inxs-what-you-need-lyrics
 name: What You Need
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 214000
 ---
 Hey, here is the story
 Forget about the trouble in life

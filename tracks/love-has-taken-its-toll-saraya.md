@@ -1,8 +1,11 @@
 ---
+album: Saraya
 artists:
 - Saraya
+external_ids:
+  spotify: spotify:track:0xoTEpWW6JDmVpnoQo5Oxl
 features: []
-genres: []
+first_released_as_single: false
 key: love-has-taken-its-toll-saraya
 lyrics_url: https://genius.com/Saraya-love-has-taken-its-toll-lyrics
 name: Love Has Taken Its Toll
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1989
+runtime: 321440
 ---
 Smoke-filled room
 Champagne on ice

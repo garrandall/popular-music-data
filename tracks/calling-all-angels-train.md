@@ -1,8 +1,11 @@
 ---
+album: My Private Nation
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:0E29BKKGCJHcb7b9oIWgGB
 features: []
-genres: []
+first_released_as_single: false
 key: calling-all-angels-train
 lyrics_url: https://genius.com/Train-calling-all-angels-lyrics
 name: Calling All Angels
@@ -123,6 +126,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-12-06'
+release_year: 2003
+runtime: 242200
 ---
 I need a sign to let me know you're here
 All of these lines are being crossed over the atmosphere

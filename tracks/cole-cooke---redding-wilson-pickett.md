@@ -1,8 +1,11 @@
 ---
+album: 'Wilson Pickett: A Man And A Half'
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6a0k23wrj492S3BQm3iHMK
 features: []
-genres: []
+first_released_as_single: false
 key: cole-cooke---redding-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-cole-cooke-and-redding-lyrics
 name: Cole Cooke & Redding
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 233266
 ---
 (Spoken):
 A wonderful lady whom I admire very much, by the name of Moms Mabley, sung a song about a lot of great men

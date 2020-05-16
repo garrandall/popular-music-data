@@ -1,8 +1,11 @@
 ---
+album: I Love Rock 'N' Roll
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:4do0Z0rHdFUV3RSMxMQsdq
 features: []
-genres: []
+first_released_as_single: false
 key: crimson-and-clover-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/crimsonandclover.html
 name: Crimson And Clover
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1981
+runtime: 197493
 ---
-
 Ah, now I don't hardly know her
 But I think I can love her
 Crimson and clover
@@ -88,6 +92,3 @@ Crimson and clover, over and over
 Crimson and clover, over and over
 Crimson and clover, over and over
 Crimson and clover, over and over
-
-
-

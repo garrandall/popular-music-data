@@ -1,8 +1,11 @@
 ---
+album: The Dock of the Bay (Mono)
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:2tDHjMFbehKsqC1vpgSNS5
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-more-than-words-can-say-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/iloveyoumorethanwordscansay.html
 name: I Love You More Than Words Can Say
@@ -19,8 +22,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 172715
 ---
-
 Please, let me sit down beside you.
 I've got something to tell you, you should know.
 I just couldn't wait for not another day.
@@ -38,6 +42,3 @@ You've got me in your hand, why can't you understand.
 I love you honey, for more than words can say.
 I love you honey, for more than words can say.
 Yes, I do.
-
-
-

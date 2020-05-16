@@ -1,8 +1,11 @@
 ---
+album: Waterloo
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:0RzhMHIsFMbOGh0oWDvNNK
 features: []
-genres: []
+first_released_as_single: false
 key: waterloo-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/waterloo.html
 name: Waterloo
@@ -75,8 +78,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 168826
 ---
-
 My, my, at Waterloo Napoleon did surrender
 Oh yeah, and I have met my destiny in quite a similar way
 The history book on the shelf
@@ -109,6 +113,3 @@ Waterloo - finally facing my Waterloo
 Waterloo - knowing my fate is to be with you
 Waterloo - finally facing my Waterloo
 Waterloo - knowing my fate is to be with you
-
-
-

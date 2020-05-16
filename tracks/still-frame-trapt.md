@@ -1,8 +1,11 @@
 ---
+album: Trapt
 artists:
 - Trapt
+external_ids:
+  spotify: spotify:track:114bGIxUrj6vnZwWEfEdMP
 features: []
-genres: []
+first_released_as_single: false
 key: still-frame-trapt
 lyrics_url: https://genius.com/Trapt-still-frame-lyrics
 name: Still Frame
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2002
+runtime: 271093
 ---
 Please help me ‘cause I'm breaking down
 This picture's frozen, and I can't get it out

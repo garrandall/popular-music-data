@@ -1,8 +1,11 @@
 ---
+album: Lonely Grill
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:3KVH8dkLQTKEsueo6ZhoBP
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-now-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/whataboutnow.html
 name: What About Now
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
+release_year: 1995
+runtime: 210040
 ---
-
 The sign in the window said for sale or trade
 On the last remaining dinosaur Detroit made
 Seven hundred dollars was a heck of a deal
@@ -134,6 +138,3 @@ We can chase these dreams down the interstate
 And be long gone 'fore the world moves on and makes another round
 What about now
 What about now
-
-
-

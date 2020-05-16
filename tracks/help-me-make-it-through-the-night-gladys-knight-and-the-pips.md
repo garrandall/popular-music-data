@@ -1,8 +1,11 @@
 ---
+album: Standing Ovation
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:01gc96njmCGB8VFS3wPKyC
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-make-it-through-the-night-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-help-me-make-it-through-the-night-lyrics
 name: Help Me Make It Through The Night
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1971
+runtime: 263573
 ---
 I’m imagining a lot of happy people
 And most of you are with someone you love

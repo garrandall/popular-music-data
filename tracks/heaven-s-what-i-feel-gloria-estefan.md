@@ -1,8 +1,11 @@
 ---
+album: gloria!
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:3W4TLyLrSZfEFP2xlkoxF5
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-s-what-i-feel-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/heavenswhatifeel.html
 name: Heaven's What I Feel
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1984
+runtime: 275040
 ---
-
 Love sometimes
 Can be like destiny
 There's no way to say forever
@@ -159,6 +163,3 @@ Heaven's what I feel
 And I was not supposed to let this love get through
 So let me say for real
 Heaven's what I feel when I'm with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Black & Blue
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:1mxTCArq9EhSg4QPGqhjhT
 features: []
-genres: []
+first_released_as_single: false
 key: the-call-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-the-call-lyrics
 name: The Call
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
+release_year: 2000
+runtime: 204800
 ---
 "Hello"
 "Hi, it's me. Wassup baby?

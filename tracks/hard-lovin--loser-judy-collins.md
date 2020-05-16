@@ -1,8 +1,11 @@
 ---
+album: In My Life
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:3u5NVpdpX1yj6QWkjeZiqc
 features: []
-genres: []
+first_released_as_single: false
 key: hard-lovin--loser-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/hardlovinloser.html
 name: Hard Lovin' Loser
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 149960
 ---
-
 He's the kind of guy
 Puts on a motorcycle jacket
 And he weighs about
@@ -108,6 +112,3 @@ He's got em pounding on the door
 Got em begging for some more
 And they call him
 Whatever they choose
-
-
-

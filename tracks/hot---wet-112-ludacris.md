@@ -1,9 +1,12 @@
 ---
+album: Hot & Wet
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:0sPsWYAHvMeHAlsh5sUDCw
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: hot---wet-112-ludacris
 lyrics_url: https://genius.com/112-hot-and-wet-lyrics
 name: Hot & Wet
@@ -44,6 +47,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
+release_year: 2003
+runtime: 222040
 ---
 (Slim)
 Let's go (112, 112 ..)

@@ -1,8 +1,11 @@
 ---
+album: Plays Teen Beat
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:0b6gDFi2UJhDDFk3vOIHxL
 features: []
-genres: []
+first_released_as_single: false
 key: teen-beat-sandy-nelson
 lyrics_url: https://genius.com/Sandy-nelson-teen-beat-lyrics
 name: Teen Beat
@@ -71,5 +74,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 182533
 ---
 (Instrumental)

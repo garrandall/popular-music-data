@@ -1,8 +1,11 @@
 ---
+album: Secret Dreams And Forbidden Fire
 artists:
 - Bonnie Tyler
+external_ids:
+  spotify: spotify:track:3H7LNj07y44RPvBvFq8Hrg
 features: []
-genres: []
+first_released_as_single: false
 key: holding-out-for-a-hero-bonnie-tyler
 lyrics_url: https://www.musixmatch.com/lyrics/Various-Artists-feat-Bonnie-Tyler/Holding-Out-For-A-Hero
 name: Holding Out For A Hero
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
+release_year: 1983
+runtime: 348733
 ---
 Where have all good men gone
 And where are all the gods?

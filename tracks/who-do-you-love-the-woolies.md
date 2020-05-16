@@ -1,8 +1,11 @@
 ---
+album: Psychotic Moose & The Soul Searchers (Wild 60s Punk Classics)
 artists:
 - The Woolies
+external_ids:
+  spotify: spotify:track:615QoDLpyIODGVvHEPP4pt
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-you-love-the-woolies
 lyrics_url: https://genius.com/The-woolies-who-do-you-love-lyrics
 name: Who Do You Love
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 123493
 ---
 Walk 47 miles of bob wire
 I use a cobra-snake for a necktie

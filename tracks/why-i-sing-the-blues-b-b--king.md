@@ -1,8 +1,11 @@
 ---
+album: Live And Well
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:2bIfM0ZOF4gxK1BeqH3Djm
 features: []
-genres: []
+first_released_as_single: false
 key: why-i-sing-the-blues-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/whyisingtheblues.html
 name: Why I Sing The Blues
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 517400
 ---
-
 Everybody wants to know
 Why I sing the blues
 Yes, I say everybody wanna know
@@ -160,6 +164,3 @@ Fellows, tell them one more time
 
 Ha, ha, ha. That's all right, fellows
 Yeah
-
-
-

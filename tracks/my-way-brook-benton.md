@@ -1,8 +1,11 @@
 ---
+album: Brook Benton Today
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0fcvrAmbVEy6V9szoadvNY
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/My-Way
 name: My Way
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 337733
 ---
 And now, the end is near
 Lord, you know, I got to

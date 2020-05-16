@@ -1,8 +1,11 @@
 ---
+album: The Global Singles and Unreleased
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:7H8VmgeUtAzVG9jyEyyMR1
 features: []
-genres: []
+first_released_as_single: false
 key: listen-lonely-girl-johnny-mathis
 name: Listen Lonely Girl
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 151693
 ---
 

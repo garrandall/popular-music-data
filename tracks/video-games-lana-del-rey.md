@@ -1,8 +1,11 @@
 ---
+album: "Born To Die \u2013 Paradise Edition (Special Version)"
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:3WD91HQDBIavSapet3ZpjG
 features: []
-genres: []
+first_released_as_single: false
 key: video-games-lana-del-rey
 lyrics_url: https://genius.com/Lana-del-rey-video-games-lyrics
 name: Video Games
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2012
+runtime: 281946
 ---
 Swinging in the backyard, pull up in your fast car
 Whistling my name

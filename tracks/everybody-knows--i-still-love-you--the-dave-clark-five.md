@@ -1,8 +1,11 @@
 ---
+album: Coast to Coast
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:4SKybaVsHrSxfU6f8W6KT3
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-knows--i-still-love-you--the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/everybodyknowsistillloveyou.html
 name: Everybody Knows (I Still Love You)
@@ -39,8 +42,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 101160
 ---
-
 Everybody knows you've been treating me bad
 Everybody knows you've been makin' me sad
 Well you don't have to lie 'cause I'm no fool
@@ -59,6 +63,3 @@ I want to forget you as fast as I can
 But every time I see you the hurtin' begins again
 I still love you
 Everybody knows, everybody knows
-
-
-

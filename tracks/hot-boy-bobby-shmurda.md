@@ -1,8 +1,11 @@
 ---
+album: Hot Boy
 artists:
 - Bobby Shmurda
+external_ids:
+  spotify: spotify:track:0rFke7eNFHbGuGJUdRgjB2
 features: []
-genres: []
+first_released_as_single: true
 key: hot-boy-bobby-shmurda
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Shmurda/Hot-Boy
 name: Hot Boy
@@ -107,6 +110,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2015-01-31'
+release_year: 2014
+runtime: 194561
 ---
 In Truey, I'm some hot nigga
 Like I talk to Shyste when I shot niggas

@@ -1,8 +1,11 @@
 ---
+album: Get Happy!
 artists:
 - Dorothy Collins
+external_ids:
+  spotify: spotify:track:1M24NmdiAvtOCxkqyfVFdJ
 features: []
-genres: []
+first_released_as_single: false
 key: baciare-baciare--kissing-kissing--dorothy-collins
 lyrics_url: https://www.musixmatch.com/lyrics/Dorothy-Collins/Baciare-Baciare
 name: Baciare Baciare (Kissing Kissing)
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 159653
 ---
 The boys and girls of Napoli
 Are whistling merrily

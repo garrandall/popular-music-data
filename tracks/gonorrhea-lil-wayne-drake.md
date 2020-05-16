@@ -1,9 +1,12 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2k79z9A1dbdQ8gQG8M1Zz5
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: gonorrhea-lil-wayne-drake
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/gonorrhea.html
 name: Gonorrhea
@@ -20,9 +23,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 262440
 ---
-
-
 Sound like my mic is right
 Ugh
 I am not a human
@@ -104,6 +107,3 @@ Yeah, I call it how I see it
 Y'all some pussy ass niggas we should call your gonorrhea
 Uh, you keep talkin' that shit I'mma see you
 Kill your senorita and and fuck your mama mia!
-
-
-

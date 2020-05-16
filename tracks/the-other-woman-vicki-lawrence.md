@@ -1,8 +1,11 @@
 ---
+album: The Other Woman
 artists:
 - Vicki Lawrence
+external_ids:
+  spotify: spotify:track:1TrMZgVg8ZL8xyDLYfmgyc
 features: []
-genres: []
+first_released_as_single: true
 key: the-other-woman-vicki-lawrence
 lyrics_url: https://genius.com/Vicki-lawrence-the-other-woman-lyrics
 name: The Other Woman
@@ -19,6 +22,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 195082
 ---
 I'm up early every Monday morning
 There's some laundry to do

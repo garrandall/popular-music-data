@@ -1,8 +1,11 @@
 ---
+album: Think I'll Go Somewhere And Cry Myself To Sleep
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:49CnPV5v4T9AX2rubSK5S1
 features: []
-genres: []
+first_released_as_single: false
 key: wiederseh-n-al-martino
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Wiedersehn
 name: Wiederseh'n
@@ -23,6 +26,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 164773
 ---
 Wiedersehn, auf wiedersehen
 We'll meet again someday

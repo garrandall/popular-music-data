@@ -40,11 +40,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
-(Written by Bill Anderson)
-
-(God put a song in the heart of an Angel,)
-(And softly she sang it to me.)
-
 I get to thinking lots of times
 About back when I was a lad
 Of the old home-place where I growed up;

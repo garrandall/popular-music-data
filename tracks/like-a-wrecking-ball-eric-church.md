@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:6hr4weuSidHy2LNMw8UVJ2
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-wrecking-ball-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/likeawreckingball.html
 name: Like A Wrecking Ball
@@ -95,8 +98,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2014
+runtime: 198906
 ---
-
 I've, I've been gone, I've been gone too long
 Singin' my songs on the road, another town
 One more show then I'm coming home
@@ -129,6 +133,3 @@ Back you up against the wall
 Love you baby
 Take it right there baby
 Rock you baby like a wrecking ball
-
-
-

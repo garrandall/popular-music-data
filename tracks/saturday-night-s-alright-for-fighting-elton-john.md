@@ -1,8 +1,11 @@
 ---
+album: Here And There
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1c1ruqxUaQJ0VhjODhEuhG
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-s-alright-for-fighting-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/saturdaynightsalrightforfighting.html
 name: Saturday Night's Alright For Fighting
@@ -55,8 +58,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 428706
 ---
-
 It's getting late have you seen my mates
 Ma tell me when the boys get here
 It's seven o'clock and I want to rock
@@ -115,6 +119,3 @@ Night's alright
 
 Saturday 
 Night's alright
-
-
-

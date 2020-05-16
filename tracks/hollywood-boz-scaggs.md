@@ -1,8 +1,11 @@
 ---
+album: Moments (Expanded)
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:5UVUjmNWpq0D4iFWTT4TVa
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/hollywood.html
 name: Hollywood
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1971
+runtime: 159973
 ---
-
 The way you read the crowd
 The way you make them pay
 You stepped in and did the scene a whole new way
@@ -115,6 +119,3 @@ To get you this part
 (What a reaction do it again)
 Oh... do it again
 What a reaction do it again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Super Best
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:0hfDyQbnvDdRZJsjtwUegG
 features: []
-genres: []
+first_released_as_single: false
 key: now-i-know-jack-jones
 name: Now I Know
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 174521
 ---
 

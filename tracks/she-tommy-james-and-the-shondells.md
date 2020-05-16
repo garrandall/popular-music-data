@@ -1,8 +1,11 @@
 ---
+album: Travelin'
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:7z0MR4ZVmMVkXwxFwxLcR0
 features: []
-genres: []
+first_released_as_single: false
 key: she-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/she.html
 name: She
@@ -39,8 +42,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 127040
 ---
-
 She loves her man
 And lets him know every way she can
 Soul on soul, hand in hand
@@ -65,6 +69,3 @@ She
 She
 She
 She
-
-
-

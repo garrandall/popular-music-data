@@ -1,8 +1,11 @@
 ---
+album: Baby, I'm For Real
 artists:
 - The Originals
+external_ids:
+  spotify: spotify:track:7vI2UMCyF56ZNDbVZmKiJ2
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-m-for-real-the-originals
 lyrics_url: https://genius.com/The-originals-baby-im-for-real-lyrics
 name: Baby I'm For Real
@@ -71,6 +74,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1969
+runtime: 201866
 ---
 Baby, baby
 You don't understand

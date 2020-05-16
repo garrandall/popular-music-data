@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:3wS2DFx6AUsk6XgociYWwq
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-he-holds-you-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/wheneverheholdsyou.html
 name: Whenever He Holds You
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 139680
 ---
-
 Take your little heart
 Tear it all apart
 Make the teardrops fall
@@ -68,6 +72,3 @@ Maybe you'll come back to my arms
 Till then I'll cry
 When he holds you
 Whenever he holds you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Confessions on a Dance Floor
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:03UAID5OeTwjDIKCM7M3rg
 features: []
-genres: []
+first_released_as_single: true
 key: hung-up-madonna
 lyrics_url: https://genius.com/Madonna-hung-up-lyrics
 name: Hung Up
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 202720
 ---
 Time goes by so slowly
 Time goes by so slowly

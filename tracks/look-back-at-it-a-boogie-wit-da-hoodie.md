@@ -1,8 +1,11 @@
 ---
+album: Hoodie SZN
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:2rCBqBXi8Nyr5U9pX9i2Gt
 features: []
-genres: []
+first_released_as_single: true
 key: look-back-at-it-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-look-back-at-it-lyrics
 name: Look Back At It
@@ -131,6 +134,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2018
+runtime: 184529
 ---
 Look back at it
 She ain't never do this before, but she good at it

@@ -1,12 +1,15 @@
 ---
+album: I Changed A Lot
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:5YQtVaYbkyJUKYtMcV9fnk
 features:
 - Chris Brown
 - August Alsina
 - Future
 - Jeremih
-genres: []
+first_released_as_single: true
 key: hold-you-down-dj-khaled-chris-brown-august-alsina-future-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/holdyoudown.html
 name: Hold You Down
@@ -91,9 +94,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2015-01-31'
+release_year: 2014
+runtime: 293205
 ---
-
-
 I'll hold you down
 I'm on my way (DJ Khaled!)
 
@@ -197,6 +200,3 @@ Want you like right now
 (You the one got all I need, give me all of you or all of me babe)
 I'm on my way
 (I'm the one that's gon' hold you down, I'm the one gon' hold you down)
-
-
-

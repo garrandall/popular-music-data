@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:38XMrGaQxUcB8A1S6CJBLi
 features:
 - Nivea
-genres: []
+first_released_as_single: false
 key: dope-new-gospel-lil-wayne-nivea
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/dopenewgospel.html
 name: Dope New Gospel
@@ -12,9 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 207186
 ---
-
-
 Man in the mirror, my hero
 He helped me center my ego
 When I think I'm bad like Michael
@@ -66,7 +69,7 @@ He helped me center my evil
 I see the fire in his eyes
 But he keep my blood temperature zero
 Man in the mirror, my 'migo
-CrÃ¨me de la crÃ¨me de la CrÃ©ole
+CrÃ¨me de la crÃ¨me de la Créole
 Couple a cracks in the mirror
 Even through the cracks, I see no cracks in me though
 
@@ -111,6 +114,3 @@ It's written all over my face
 Tattoos that can't be erased
 One of a kind, I can't be replaced
 In case that mirror breaks
-
-
-

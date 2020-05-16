@@ -1,9 +1,12 @@
 ---
+album: When It's Dark Out
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:1Bqxj0aH5KewYHKUg1IdrF
 features:
 - Marc E. Bassy
-genres: []
+first_released_as_single: false
 key: some-kind-of-drug-g-eazy-marc-e--bassy
 lyrics_url: https://genius.com/G-eazy-some-kind-of-drug-lyrics
 name: Some Kind Of Drug
@@ -20,6 +23,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2015
+runtime: 222466
 ---
 Wake up this morning I'm shaking I can't be still girl
 Too many images running through my mind

@@ -1,8 +1,11 @@
 ---
+album: Waking & Dreaming
 artists:
 - Orleans
+external_ids:
+  spotify: spotify:track:1AbZ6WttpwuiNrBqtnNcp3
 features: []
-genres: []
+first_released_as_single: false
 key: reach-orleans
 lyrics_url: https://genius.com/Orleans-reach-lyrics
 name: Reach
@@ -39,6 +42,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 260293
 ---
 Sometimes
 I stop and wonder

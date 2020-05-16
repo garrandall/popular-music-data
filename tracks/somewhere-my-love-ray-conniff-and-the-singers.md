@@ -1,9 +1,12 @@
 ---
+album: SOMEWHERE MY LOVE (Love Theme from "Dr. Zhivago") And Other Great Hits
 artists:
 - Ray Conniff
+external_ids:
+  spotify: spotify:track:1IYn7ytdb8byvHKS7S3Cat
 features:
 - The Ray Conniff Singers
-genres: []
+first_released_as_single: false
 key: somewhere-my-love-ray-conniff-and-the-singers
 lyrics_url: https://genius.com/The-ray-conniff-singers-somewhere-my-love-lyrics
 name: Somewhere My Love
@@ -56,6 +59,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 148626
 ---
 Somewhere my love there will be songs to sing
 Although the snow covers the hope of Spring

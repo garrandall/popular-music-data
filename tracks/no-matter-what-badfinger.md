@@ -1,8 +1,11 @@
 ---
+album: No Dice
 artists:
 - Badfinger
+external_ids:
+  spotify: spotify:track:0zK545STj6P7qbFSpCK9pp
 features: []
-genres: []
+first_released_as_single: false
 key: no-matter-what-badfinger
 lyrics_url: https://genius.com/Badfinger-no-matter-what-lyrics
 name: No Matter What
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 180546
 ---
 No matter what you are
 I will always be with you

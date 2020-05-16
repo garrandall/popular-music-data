@@ -1,8 +1,11 @@
 ---
+album: All The Young Dudes
 artists:
 - Mott The Hoople
+external_ids:
+  spotify: spotify:track:0WNGPpmWqzPnk0psUhJ3SX
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-young-dudes-mott-the-hoople
 lyrics_url: https://genius.com/Mott-the-hoople-all-the-young-dudes-lyrics
 name: All The Young Dudes
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 211066
 ---
 Well, Billy rapped all night about his suicide
 How he'd kick it in the head when he was twenty-five

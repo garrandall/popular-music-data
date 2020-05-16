@@ -1,8 +1,11 @@
 ---
+album: Journey To The Center Of The Mind
 artists:
 - The Amboy Dukes
+external_ids:
+  spotify: spotify:track:5eQL5AQ3iNI4Hqq6TqZ2xd
 features: []
-genres: []
+first_released_as_single: false
 key: journey-to-the-center-of-the-mind-the-amboy-dukes
 lyrics_url: https://www.azlyrics.com/lyrics/ramones/journeytothecenterofthemindamboydukes.html
 name: Journey To The Center Of The Mind
@@ -55,8 +58,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 215439
 ---
-
 Leave your cares behind come with us and find
 The pleasures of a journey to the center of the mind
 
@@ -84,6 +88,3 @@ Would take the time to journey to the center of the mind
 
 Would take the time to journey to the center of the mind
 Center of the mind
-
-
-

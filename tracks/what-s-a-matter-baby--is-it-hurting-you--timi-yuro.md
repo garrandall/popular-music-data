@@ -1,8 +1,11 @@
 ---
+album: What's A Matter Baby
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:4pm0n3tssKLImGyXPQ3fRY
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-a-matter-baby--is-it-hurting-you--timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-whats-a-matter-baby-lyrics
 name: What's A Matter Baby (Is It Hurting You)
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 165706
 ---
 I know the reason you've been crying
 Oh yes I heard she won't be needing you

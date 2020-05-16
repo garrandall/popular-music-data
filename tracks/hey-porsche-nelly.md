@@ -1,8 +1,11 @@
 ---
+album: M.O.
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:6MhGq8IlmVQXpl6YYKZqYN
 features: []
-genres: []
+first_released_as_single: true
 key: hey-porsche-nelly
 lyrics_url: https://genius.com/Nelly-hey-porsche-lyrics
 name: Hey Porsche
@@ -23,6 +26,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2013
+runtime: 209453
 ---
 Hey lil' Porsche, I wanna try ya
 Crazy baby girl, there ain't nothing like you

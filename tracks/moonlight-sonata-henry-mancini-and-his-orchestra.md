@@ -1,8 +1,11 @@
 ---
+album: Six Hours Past Sunset
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0NfOkSbLeCOGvWOBuLwQEN
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-sonata-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-moonlight-sonata-lyrics
 name: Moonlight Sonata
@@ -23,5 +26,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 175333
 ---
 Instrumental

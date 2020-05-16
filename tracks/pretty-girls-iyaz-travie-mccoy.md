@@ -1,9 +1,12 @@
 ---
+album: Pretty Girls
 artists:
 - Iyaz
+external_ids:
+  spotify: spotify:track:3Ju48PMNQkAGxjJCbWcfeM
 features:
 - Travie McCoy
-genres: []
+first_released_as_single: true
 key: pretty-girls-iyaz-travie-mccoy
 lyrics_url: https://www.azlyrics.com/lyrics/iyaz/prettygirls.html
 name: Pretty Girls
@@ -64,9 +67,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 223506
 ---
-
-
 So many different flavors
 So many shapes and sizes
 You coming with me and you going with Iyaz
@@ -177,6 +180,3 @@ Tell me is it you, girl?
 Is it you, girl?
 Is it you, girl?
 Is it you, girl?
-
-
-

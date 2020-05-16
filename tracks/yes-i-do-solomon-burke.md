@@ -1,8 +1,11 @@
 ---
+album: Blue And Soulful
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:0GeYPM4p631EfRp9fpdqgC
 features: []
-genres: []
+first_released_as_single: false
 key: yes-i-do-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/yesido.html
 name: Yes I Do
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 186840
 ---
-
 Oh, my darling
 Come next Sunday
 We're getting married
@@ -83,6 +87,3 @@ You know I do
 I do love you)
 
 Oh, yes, I do...
-
-
-

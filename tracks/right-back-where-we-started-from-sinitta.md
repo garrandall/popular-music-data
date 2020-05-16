@@ -1,8 +1,11 @@
 ---
+album: Shame Shame Shame
 artists:
 - Sinitta
+external_ids:
+  spotify: spotify:track:7EpFsAln7FP2JXyGBPdDq0
 features: []
-genres: []
+first_released_as_single: true
 key: right-back-where-we-started-from-sinitta
 lyrics_url: https://genius.com/Sinitta-right-back-where-we-started-from-lyrics
 name: Right Back Where We Started From
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 192464
 ---
 Ooo and it's alright and it's comin' 'long
 We got to get right back to where we started from
@@ -52,4 +57,3 @@ You give me your love
 (Give me your love)
 I just can't stay away
 I know that you're the only one
-

@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:4nGIIeemCmkJ2I3hpC3x43
 features: []
-genres: []
+first_released_as_single: false
 key: follow-me-the-drifters
 lyrics_url: https://genius.com/The-drifters-follow-me-lyrics
 name: Follow Me
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 154133
 ---
 I'm getting tired of doing nothing
 Wasting time

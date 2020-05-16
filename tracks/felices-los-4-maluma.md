@@ -1,8 +1,11 @@
 ---
+album: F.A.M.E.
 artists:
 - Maluma
+external_ids:
+  spotify: spotify:track:6hI9Oa4K5yAeo9VlAxgXEg
 features: []
-genres: []
+first_released_as_single: true
 key: felices-los-4-maluma
 lyrics_url: https://genius.com/Maluma-felices-los-4-lyrics
 name: Felices Los 4
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2017
+runtime: 224264
 ---
 Maluma baby
 

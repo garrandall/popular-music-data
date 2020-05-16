@@ -1,8 +1,11 @@
 ---
+album: I'm Comin' Over
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:0H04yVa3DJxoXbLBpAb7iV
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-comin--over-chris-young
 lyrics_url: https://genius.com/Chris-young-im-comin-over-lyrics
 name: I'm Comin' Over
@@ -99,6 +102,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 197280
 ---
 We say goodbye see you around
 We turn our backs then turn back around

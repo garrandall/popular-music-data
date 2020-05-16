@@ -1,8 +1,11 @@
 ---
+album: The Fighters
 artists:
 - LOCASH
+external_ids:
+  spotify: spotify:track:21jkhW2773dELgTMRJcMfI
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-this-life-locash
 lyrics_url: https://www.azlyrics.com/lyrics/locashcowboys/ilovethislife.html
 name: I Love This Life
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2015
+runtime: 208863
 ---
-
 I love my boots broke in, I love my Camo hat
 Don't mind a little paint on my jeans, yeah I roll like that
 I love driving my truck across the railroad tracks
@@ -146,6 +150,3 @@ Oh-o-o-o-oh
 Man, I love this life
 Oh-o-o-o-oh
 Man, I love this life
-
-
-

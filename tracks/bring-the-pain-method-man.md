@@ -1,8 +1,11 @@
 ---
+album: Tical
 artists:
 - Method Man
+external_ids:
+  spotify: spotify:track:3F3R4uyTMkX9jRCEVVmdz6
 features: []
-genres: []
+first_released_as_single: false
 key: bring-the-pain-method-man
 lyrics_url: https://genius.com/Method-man-bring-the-pain-lyrics
 name: Bring The Pain
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
+release_year: 1994
+runtime: 189760
 ---
 Basically...
 Can't fuck with me

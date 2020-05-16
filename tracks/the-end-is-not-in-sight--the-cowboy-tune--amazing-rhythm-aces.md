@@ -1,8 +1,11 @@
 ---
+album: Too Stuffed to Jump
 artists:
 - Amazing Rhythm Aces
+external_ids:
+  spotify: spotify:track:2XgmRcQs8o709APqLLNUVd
 features: []
-genres: []
+first_released_as_single: false
 key: the-end-is-not-in-sight--the-cowboy-tune--amazing-rhythm-aces
 lyrics_url: https://genius.com/Amazing-rhythm-aces-the-end-is-not-in-sight-the-cowboy-tune-lyrics
 name: The End Is Not In Sight (the Cowboy Tune)
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 230866
 ---
 Guess I knew it all along
 I'd have to come back home

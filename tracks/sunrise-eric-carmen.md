@@ -1,8 +1,11 @@
 ---
+album: Eric Carmen
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:3GCXXFJWf8Ey0xG7ZnBH5V
 features: []
-genres: []
+first_released_as_single: false
 key: sunrise-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/sunrise.html
 name: Sunrise
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1975
+runtime: 322373
 ---
-
 Sunrise, shine down a little love
 On the world today
 Make a morning so sweet
@@ -82,6 +86,3 @@ And I can see the light of dawn
 Like a golden smile
 Brightening up the brand new day
 Brand new day
-
-
-

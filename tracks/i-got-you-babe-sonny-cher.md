@@ -1,9 +1,12 @@
 ---
+album: Look At Us
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:4SGBuq37Ol4HJr7pQqFMKa
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-babe-sonny-cher
 lyrics_url: https://genius.com/Sonny-and-cher-i-got-you-babe-lyrics
 name: I Got You Babe
@@ -64,6 +67,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 190080
 ---
 They say we're young and we don't know
 We won't find out until we grow

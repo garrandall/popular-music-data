@@ -1,8 +1,11 @@
 ---
+album: His California Album
 artists:
 - Bobby "Blue" Bland
+external_ids:
+  spotify: spotify:track:6OEBHHHffm5kR7JijEHyEq
 features: []
-genres: []
+first_released_as_single: false
 key: goin--down-slow-bobby--blue--bland
 lyrics_url: https://genius.com/Bobby-blue-bland-goin-down-slow-lyrics
 name: Goin' Down Slow
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1973
+runtime: 335293
 ---
 I've had my fun
 If I don't get well no more

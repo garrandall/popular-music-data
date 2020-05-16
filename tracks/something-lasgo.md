@@ -1,8 +1,11 @@
 ---
+album: Some Things
 artists:
 - Lasgo
+external_ids:
+  spotify: spotify:track:3e9L9HiHKcfYLAga28Vmcf
 features: []
-genres: []
+first_released_as_single: false
 key: something-lasgo
 lyrics_url: https://www.azlyrics.com/lyrics/lasgo/something.html
 name: Something
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2001
+runtime: 220973
 ---
-
 I don't wanna say I'm sorry
 Cause I know there is nothing wrong
 Don't be afraid there is no need to worry
@@ -134,6 +138,3 @@ Something you wanna tell me
 I see it in your eyes
 There is something
 That you hide for me
-
-
-

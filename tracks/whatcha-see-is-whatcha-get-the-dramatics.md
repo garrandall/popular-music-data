@@ -1,8 +1,11 @@
 ---
+album: Whatcha See Is Whatcha Get
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:70eine3FCFbBVmX3HZhto4
 features: []
-genres: []
+first_released_as_single: false
 key: whatcha-see-is-whatcha-get-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/whatchaseeiswhatchaget.html
 name: Whatcha See Is Whatcha Get
@@ -67,8 +70,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 240066
 ---
-
 Hey, some people are made of plastic
 And you know some people are made of wood
 Some people have hearts of stone
@@ -115,6 +119,3 @@ I got to say it, what you see, baby, baby (what you see) is what you get (is wha
 I got to remember, what you see (what you see) got to be what you get (is what you get)
 Look at me, look at me, look at me, look at me, ha is what you get
 I got to remember, what you see
-
-
-

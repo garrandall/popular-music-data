@@ -1,8 +1,11 @@
 ---
+album: It Won't Be Soon Before Long.
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:1zqllQUMCgMaInr0CzFVll
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-call-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/wakeupcall.html
 name: Wake Up Call
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2007
+runtime: 201306
 ---
-
 I didn't hear what you were saying.
 I live on raw emotion, baby
 I answer questions never maybe
@@ -189,6 +193,3 @@ I don't feel so bad.
 Wake up call
 Caught you in the morning with another one in my bed
 Don't you care about me anymore?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Preview
 artists:
 - Chiddy Bang
+external_ids:
+  spotify: spotify:track:01oPNCtTniFT3YM4K3ksTf
 features: []
-genres: []
+first_released_as_single: false
 key: opposite-of-adults-chiddy-bang
 lyrics_url: https://www.azlyrics.com/lyrics/chiddybang/oppositeofadults.html
 name: Opposite Of Adults
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 191600
 ---
-
 Fresh kid z, fresh kid c, fresh kid p, fresh kid t (oh yeah we back)
 (Oh yeah and xenepho by the way)
 Yeah
@@ -79,6 +83,3 @@ So fresh how we flow, everybody get their style from us
 Hey yo I once was a kid with the other little kids
 Now I'm whipping up shows and them fans going wild with us
 Tell mummy I'm sorry, this life is a party, I'm never growing up
-
-
-

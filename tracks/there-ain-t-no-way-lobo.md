@@ -1,8 +1,11 @@
 ---
+album: Of A Simple Man
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:2OvAHHJJplzQLu2CT7JZZA
 features: []
-genres: []
+first_released_as_single: false
 key: there-ain-t-no-way-lobo
 lyrics_url: https://genius.com/Lobo-singer-there-aint-no-way-lyrics
 name: There Ain't No Way
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1972
+runtime: 196826
 ---
 The dirty rain is falling
 I hear the wind a calling me away

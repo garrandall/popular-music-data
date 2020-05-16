@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:5Ek4GAfvwpqu5sMzQbERqS
 features: []
-genres: []
+first_released_as_single: false
 key: the-matador-major-lance
 lyrics_url: https://genius.com/Major-lance-the-matador-lyrics
 name: The Matador
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 146493
 ---
 Hey, everybody, everybody
 Have you been informed

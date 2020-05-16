@@ -1,8 +1,11 @@
 ---
+album: Off the Wall
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:46eu3SBuFCXWsPT39Yg3tJ
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop--til-you-get-enough-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-dont-stop-til-you-get-enough-lyrics
 name: Don't Stop 'til You Get Enough
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 365466
 ---
 You know, I was
 I was wondering, you know

@@ -1,8 +1,11 @@
 ---
+album: Love Vs Money
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:3oJJ1dQBxiFYGMQSe2SluG
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--that-thang-the-dream
 lyrics_url: https://genius.com/The-dream-rockin-that-shit-rockin-that-thang-lyrics
 name: Rockin' That Thang
@@ -87,6 +90,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2009
+runtime: 221933
 ---
 Girl I'm in love with you baby
 And I want you to know

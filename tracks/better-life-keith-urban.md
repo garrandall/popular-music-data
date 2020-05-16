@@ -1,8 +1,11 @@
 ---
+album: Be Here
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:29Qqb1qYSjC1pSK8QPDnkp
 features: []
-genres: []
+first_released_as_single: false
 key: better-life-keith-urban
 lyrics_url: https://genius.com/Keith-urban-better-life-lyrics
 name: Better Life
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2004
+runtime: 283160
 ---
 Friday night and the moon is high
 I'm wide-awake just watching you sleep

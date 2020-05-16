@@ -1,8 +1,11 @@
 ---
+album: "Bristol's Cr\xE8me"
 artists:
 - Johnny Bristol
+external_ids:
+  spotify: spotify:track:78VgIj2FYSaU1uygkmJ7l7
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-to-my-mind-johnny-bristol
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Bristol/Do-It-to-My-Mind
 name: Do It To My Mind
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 291973
 ---
 Evening's settled down
 Girl, I'm yours for the taking

@@ -1,8 +1,11 @@
 ---
+album: Very Dionne
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2LoOwCZyGEBEMyouxsn2WX
 features: []
-genres: []
+first_released_as_single: false
 key: who-gets-the-guy-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/whogetstheguy.html
 name: Who Gets The Guy
@@ -27,8 +30,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1970
+runtime: 200906
 ---
-
 Who gets the guy at the end of the show?
 I'd like to know
 People say you have found another
@@ -60,6 +64,3 @@ Please tell me that the ending is a happy ending
 
 Can't you see just how much I need you?
 It just has to be me
-
-
-

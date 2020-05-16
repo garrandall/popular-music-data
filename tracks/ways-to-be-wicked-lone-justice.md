@@ -1,8 +1,11 @@
 ---
+album: Lone Justice
 artists:
 - Lone Justice
+external_ids:
+  spotify: spotify:track:2Oxrq0oQaQb5dtswjYMwmm
 features: []
-genres: []
+first_released_as_single: false
 key: ways-to-be-wicked-lone-justice
 lyrics_url: https://www.musixmatch.com/lyrics/Lone-Justice/Ways-to-be-Wicked
 name: Ways To Be Wicked
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-06-15'
+release_year: 1985
+runtime: 205333
 ---
 Honey, why you always smile
 When you see me hurt so bad?

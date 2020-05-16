@@ -1,8 +1,11 @@
 ---
+album: Almost There
 artists:
 - Mercy
+external_ids:
+  spotify: spotify:track:1eSSWHMJ7bnEcN22uWQMw6
 features: []
-genres: []
+first_released_as_single: false
 key: love--can-make-you-happy--mercy
 lyrics_url: https://genius.com/Mercyme-how-great-is-your-love-lyrics
 name: Love (Can Make You Happy)
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 254346
 ---
 My heart is steadfast O God
 And I will sing

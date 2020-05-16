@@ -1,8 +1,11 @@
 ---
+album: Shawty Is A 10
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:4nuMA47XIxcu85zkkDkz1t
 features: []
-genres: []
+first_released_as_single: true
 key: shawty-is-a-10-the-dream
 lyrics_url: https://genius.com/The-dream-shawty-is-a-10-lyrics
 name: Shawty Is A 10
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2007
+runtime: 232040
 ---
 Shawty Rock To The Beat For Ya Boy
 Shawty

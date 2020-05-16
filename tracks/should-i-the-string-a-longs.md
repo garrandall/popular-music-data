@@ -1,8 +1,11 @@
 ---
+album: The Tex-Mex Teen Magic of the String-A-Longs
 artists:
 - The String-A-Longs
+external_ids:
+  spotify: spotify:track:7pow15KCWlKuMPe9o4nq3w
 features: []
-genres: []
+first_released_as_single: false
 key: should-i-the-string-a-longs
 lyrics_url: https://www.musixmatch.com/lyrics/The-String-A-Longs/Should-I
 name: Should I
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 108088
 ---
 Should I reveal exactly how I feel?
 Should I confess I love you?

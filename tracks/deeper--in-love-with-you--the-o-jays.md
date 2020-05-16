@@ -1,8 +1,11 @@
 ---
+album: In Philadelphia
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:1vGO3br8e6yQKO8iu6mzC5
 features: []
-genres: []
+first_released_as_single: false
 key: deeper--in-love-with-you--the-o-jays
 lyrics_url: https://www.musixmatch.com/lyrics/The-O-Jays-2/Deeper-In-Love-With-You
 name: Deeper (In Love With You)
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 158866
 ---
 There is a longing
 Only You can fill

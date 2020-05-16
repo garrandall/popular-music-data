@@ -1,8 +1,11 @@
 ---
+album: When The Party Is Over (Original)
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:2ozyLjR26GmlEEeobC0OYE
 features: []
-genres: []
+first_released_as_single: true
 key: when-the-party-is-over-robert-john
 lyrics_url: https://genius.com/Robert-john-when-the-party-is-over-lyrics
 name: When The Party Is Over
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 152921
 ---
 I don't mind you having a good time
 Being free

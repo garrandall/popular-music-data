@@ -1,8 +1,11 @@
 ---
+album: A Girl Like You
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:3AsNVBJ7LHsltdu9490ZiS
 features: []
-genres: []
+first_released_as_single: true
 key: a-girl-like-you-easton-corbin
 lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/agirllikeyou.html
 name: A Girl Like You
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2017
+runtime: 217840
 ---
-
 Got lots of bars around this town
 They got cold beer, yeah, and they got Crown
 Got neon light in the windowpane
@@ -59,6 +63,3 @@ Baby, what did I do to ever get a girl like you
 A girl like you
 
 I could sail the ocean blue, and never find, never find a girl like you
-
-
-

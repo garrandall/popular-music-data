@@ -1,9 +1,12 @@
 ---
+album: Frozen 2
 artists:
 - Idina Menzel
 - AURORA
+external_ids:
+  spotify: spotify:track:3Z0oQ8r78OUaHvGPiDBR3W
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-unknown-idina-menzel-aurora
 lyrics_url: https://genius.com/Idina-menzel-and-aurora-into-the-unknown-lyrics
 name: Into The Unknown
@@ -48,6 +51,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2019
+runtime: 194848
 ---
 Oh
 Oh

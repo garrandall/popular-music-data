@@ -1,8 +1,11 @@
 ---
+album: 'American Man: Greatest Hits Vol. II'
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:7Efs0OIW6zgQyH7ehKZYpN
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-miss-this-trace-adkins
 lyrics_url: https://www.musixmatch.com/lyrics/Trace-Adkins/You-re-Gonna-Miss-This
 name: You're Gonna Miss This
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 224960
 ---
 She was staring out the window, of their SUV
 Complaining, saying I can't wait to turn 18

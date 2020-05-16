@@ -1,8 +1,11 @@
 ---
+album: Voices & Images
 artists:
 - Camouflage
+external_ids:
+  spotify: spotify:track:3TlHXurwKSffEj6vsEEyLb
 features: []
-genres: []
+first_released_as_single: false
 key: the-great-commandment-camouflage
 lyrics_url: https://www.azlyrics.com/lyrics/camouflage/thegreatcommandment.html
 name: The Great Commandment
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 260153
 ---
-
 Some people suppress you
 They parch you
 And reap a disaster
@@ -90,6 +94,3 @@ Read the readings
 Realize the man who says anything
 
 The great commandment
-
-
-

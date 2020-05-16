@@ -1,8 +1,11 @@
 ---
+album: The Last Night!
 artists:
 - Mar-Keys
+external_ids:
+  spotify: spotify:track:3AtoOqGce7J6mFp6hnIAcT
 features: []
-genres: []
+first_released_as_single: false
 key: morning-after-mar-keys
 lyrics_url: https://genius.com/The-mar-keys-morning-after-lyrics
 name: Morning After
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 134226
 ---
 Baby, oh baby
 I love to call you baby

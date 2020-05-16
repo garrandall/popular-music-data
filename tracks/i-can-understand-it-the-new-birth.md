@@ -1,8 +1,11 @@
 ---
+album: Birth Day
 artists:
 - The New Birth
+external_ids:
+  spotify: spotify:track:65x1aCYMTLRNitjuWzWjL8
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-understand-it-the-new-birth
 lyrics_url: https://genius.com/New-birth-i-can-understand-it-lyrics
 name: I Can Understand It
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1972
+runtime: 383746
 ---
 I know everybody realizes that a man works
 Better when he works out of his own band

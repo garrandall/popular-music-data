@@ -1,8 +1,11 @@
 ---
+album: Where Your Road Leads
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:2BQ3U6cCECj2ULc7vUUVcO
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-still-love-you-more-trisha-yearwood
 lyrics_url: https://genius.com/Trisha-yearwood-ill-still-love-you-more-lyrics
 name: I'll Still Love You More
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1998
+runtime: 264026
 ---
 Ask me how much you mean to me
 And I wouldn't even know where to start

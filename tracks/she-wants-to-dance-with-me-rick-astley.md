@@ -1,8 +1,11 @@
 ---
+album: Hold Me in Your Arms
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:40RrsR16maAWMtBX6iav7d
 features: []
-genres: []
+first_released_as_single: false
 key: she-wants-to-dance-with-me-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/shewantstodancewithme.html
 name: She Wants To Dance With Me
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1988
+runtime: 196440
 ---
-
 She wants to dance
 She wants to dance with me
 Oh yeah (dance with me)
@@ -118,6 +122,3 @@ She wants to dance with me
 'Cos I'll hold her so tight next to me
 She wants to dance with me
 'Cos I'll let her be what she wants to be
-
-
-

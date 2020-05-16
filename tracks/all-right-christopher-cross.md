@@ -1,8 +1,11 @@
 ---
+album: Another Page
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:5tE2kEW1Jom3Qc93UPBT79
 features: []
-genres: []
+first_released_as_single: false
 key: all-right-christopher-cross
 lyrics_url: https://genius.com/Christopher-cross-all-right-lyrics
 name: All Right
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1983
+runtime: 253653
 ---
 I know
 I know what's on your mind

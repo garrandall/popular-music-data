@@ -1,8 +1,11 @@
 ---
+album: Head To The Sky
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0IFbyuvJUXroM8UkZ2Pnsk
 features: []
-genres: []
+first_released_as_single: false
 key: evil-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-evil-lyrics
 name: Evil
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 300813
 ---
 Evil, runnin' through our brain
 We and evil is about the same

@@ -1,8 +1,11 @@
 ---
+album: Love's Lines, Angles and Rhymes
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:4ObRa4H0HdjLW6pqbTm1K8
 features: []
-genres: []
+first_released_as_single: false
 key: light-sings-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-light-sings-lyrics
 name: Light Sings
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 210280
 ---
 The sun comes up
 The moon goes down

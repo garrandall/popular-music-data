@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0z5ZPs57J2KERwM1tBM2GF
 features:
 - Cory Gunz
-genres: []
+first_released_as_single: false
 key: 6-foot-7-foot-lil-wayne-cory-gunz
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/6foot7foot.html
 name: 6 Foot 7 Foot
@@ -92,9 +95,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 248586
 ---
-
-
 Six-foot, seven-foot, eight-foot bunch
 Six-foot, seven-foot, eight-foot bunch
 
@@ -189,6 +192,3 @@ I'm a man, I visit urinals abroad
 Tune told me to, I'm shooting when the funeral outside
 I'm uptown, thoroughbred, a BX nigga, ya heard?
 Gunna
-
-
-

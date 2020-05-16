@@ -1,8 +1,11 @@
 ---
+album: What's The 411?
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3XG801WWhqC753dekEBkMt
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-real-love-lyrics
 name: Real Love
@@ -131,6 +134,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 269973
 ---
 We are lovers through and through
 And though we made it through the storm

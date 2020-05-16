@@ -1,8 +1,11 @@
 ---
+album: Enlightened Rogues
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:4JHoOfnad61lljGlVhfFSb
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-love-the-allman-brothers-band
 lyrics_url: https://genius.com/The-allman-brothers-band-crazy-love-lyrics
 name: Crazy Love
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1979
+runtime: 224000
 ---
 Somewhere down on a back street
 Way down deep in the back seat

@@ -1,8 +1,11 @@
 ---
+album: Beautiful
 artists:
 - Mighty Clouds Of Joy
+external_ids:
+  spotify: spotify:track:4lClAt28Fc38DPbOg40aBn
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-high-mighty-clouds-of-joy
 lyrics_url: https://genius.com/The-mighty-clouds-of-joy-mighty-high-lyrics
 name: Mighty High
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1976
+runtime: 278225
 ---
 Take a load off your mind
 Ride the mighty glory

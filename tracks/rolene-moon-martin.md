@@ -1,8 +1,11 @@
 ---
+album: Escape From Domination
 artists:
 - Moon Martin
+external_ids:
+  spotify: spotify:track:6OPRgLCf7wSWe4bbxIYraH
 features: []
-genres: []
+first_released_as_single: false
 key: rolene-moon-martin
 lyrics_url: https://genius.com/Moon-martin-rolene-lyrics
 name: Rolene
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 216066
 ---
 Come on operator gimme Rolene on my line
 She knows what I need to ease a cravin' in my spine

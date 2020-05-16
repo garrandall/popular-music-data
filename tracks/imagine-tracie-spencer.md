@@ -1,8 +1,11 @@
 ---
+album: Tracie Spencer
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:5dJeloBIxmZiqCUexEJxbX
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-imagine-lyrics
 name: Imagine
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
+release_year: 1988
+runtime: 268866
 ---
 Imagine there's no heaven
 It's easy if you try

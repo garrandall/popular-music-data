@@ -1,8 +1,11 @@
 ---
+album: Shortnin' Bread
 artists:
 - Paul Chaplain and his Emeralds
+external_ids:
+  spotify: spotify:track:6Gv10QCi8aaEdBlpXrpzy8
 features: []
-genres: []
+first_released_as_single: true
 key: shortnin--bread-paul-chaplain-and-his-emeralds
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Chaplain-and-His-Emeralds/Shortnin-Bread
 name: Shortnin' Bread
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 116508
 ---
 Put on the skillet
 Put on the lid

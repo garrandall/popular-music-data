@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:0l58YQ6trzdxO3C9XFczZS
 features: []
-genres: []
+first_released_as_single: false
 key: whispers-in-the-dark-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/whispersinthedark.html
 name: Whispers In The Dark
@@ -24,8 +27,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 195866
 ---
-
 You hold your truth so purely
 Well swerve not through the minds of men
 This lie is dead
@@ -59,6 +63,3 @@ And I lost my head
 Let's live while we are young
 While we are young, while are young
 While we are young
-
-
-

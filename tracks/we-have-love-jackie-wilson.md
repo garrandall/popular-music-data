@@ -1,8 +1,11 @@
 ---
+album: Lonely Teardrops
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:3bsC48K6ii49bZmxJyDXc8
 features: []
-genres: []
+first_released_as_single: false
 key: we-have-love-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-we-have-love-lyrics
 name: We Have Love
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 147786
 ---
 We have love
 Wonderful love

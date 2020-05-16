@@ -1,9 +1,12 @@
 ---
+album: Ice Cold Sessions 2014 Mixed By Luca Guerrieri aka Josh Feedblack
 artists:
 - Ruffneck
+external_ids:
+  spotify: spotify:track:1wxGc8zyx36YUqgaozRTLK
 features:
 - Yavahn
-genres: []
+first_released_as_single: false
 key: everybody-be-somebody-ruffneck-yavahn
 lyrics_url: https://genius.com/Ruffneck-everybody-be-somebody-feat-yavahn-lyrics
 name: Everybody Be Somebody
@@ -36,6 +39,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1996
+runtime: 554554
 ---
 Blues Brothers
 Miscellaneous

@@ -1,8 +1,11 @@
 ---
+album: I Love The Nightlife
 artists:
 - Alicia Bridges
+external_ids:
+  spotify: spotify:track:6g9l3OynVaLGda7s0OeyDt
 features: []
-genres: []
+first_released_as_single: false
 key: body-heat-alicia-bridges
 lyrics_url: https://genius.com/Alicia-bridges-body-heat-lyrics
 name: Body Heat
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1979
+runtime: 182000
 ---
 I know that I could not survive
 All alone in isolation

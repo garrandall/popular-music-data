@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - Dean And Jean
+external_ids:
+  spotify: spotify:track:4rufn1lwE4IUQJWmrOWxLp
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-loved-dean-and-jean
 lyrics_url: https://www.musixmatch.com/lyrics/Dean-And-Jean/I-Wanna-Be-Loved
 name: I Wanna Be Loved
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 146426
 ---
 I wanna be loved with inspiration
 I wanna be loved starting tonight

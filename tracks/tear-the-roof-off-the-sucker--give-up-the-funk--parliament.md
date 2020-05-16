@@ -1,8 +1,11 @@
 ---
+album: 'Live: P Funk Earth Tour'
 artists:
 - Parliament
+external_ids:
+  spotify: spotify:track:3qmtvfTBfnxpmrnnolVarh
 features: []
-genres: []
+first_released_as_single: false
 key: tear-the-roof-off-the-sucker--give-up-the-funk--parliament
 lyrics_url: https://www.azlyrics.com/lyrics/parliament/giveupthefunkteartheroofoffthesucker.html
 name: Tear The Roof Off The Sucker (Give Up The Funk)
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 297332
 ---
-
 Tear the roof off, we're gonna tear the roof off the mother sucker
 Tear the roof off the sucker
 Tear the roof off, we're gonna tear the roof off the mother sucker
@@ -207,6 +211,3 @@ Ow, we want the funk
 Give up the funk
 Ow, we need the funk
 (Let us in we'll tear this mother out)
-
-
-

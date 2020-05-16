@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:3dioGTloIgwWjGlfEM4B8o
 features: []
-genres: []
+first_released_as_single: false
 key: lust-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/lust.html
 name: Lust
@@ -15,9 +18,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 307880
 ---
-
-
 I need some water
 Somethin' came over me
 Way too hot to simmer down
@@ -144,6 +147,3 @@ I promise just a touch
 Let me put the head in
 If it's okay
 She said, "It's okay."
-
-
-

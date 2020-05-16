@@ -1,8 +1,11 @@
 ---
+album: Hard To Handle / Music Talk
 artists:
 - Patti Drew
+external_ids:
+  spotify: spotify:track:2IWuT87z5w0kkG14dxbXEC
 features: []
-genres: []
+first_released_as_single: true
 key: hard-to-handle-patti-drew
 lyrics_url: https://genius.com/Patti-drew-hard-to-handle-lyrics
 name: Hard To Handle
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 150093
 ---
 Baby, here I am
 I'm a girl on the scene

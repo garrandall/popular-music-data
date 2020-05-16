@@ -1,8 +1,11 @@
 ---
+album: Pity for the Lonely
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:49IQpipnAdKebfTwJRJrtM
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-loving-you--for-more-reasons-than-one--luther-ingram
 lyrics_url: https://genius.com/Luther-ingram-aint-that-loving-you-for-more-reasons-than-one-lyrics
 name: Ain't That Loving You (For More Reasons Than One)
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1966
+runtime: 250973
 ---
 Before you think I love you
 For just one thing

@@ -1,8 +1,11 @@
 ---
+album: Evolve
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:1zB4vmk8tFRmM9UULNzbLB
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-imagine-dragons
 lyrics_url: https://genius.com/Imagine-dragons-thunder-lyrics
 name: Thunder
@@ -215,6 +218,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2017
+runtime: 187146
 ---
 Just a young gun with a quick fuse
 I was uptight, wanna let loose

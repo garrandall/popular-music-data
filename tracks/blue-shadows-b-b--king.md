@@ -1,8 +1,11 @@
 ---
+album: In London
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:6rGuOsQMY1UsvyPcpvbE4i
 features: []
-genres: []
+first_released_as_single: false
 key: blue-shadows-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/blueshadows.html
 name: Blue Shadows
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 309293
 ---
-
 Blues shadows fallin', since my baby went away
 Blues shadows fallin', since my baby went away
 You know the blues is my companion, every night and every day
@@ -28,6 +32,3 @@ Let me tell you how I miss you baby and how it feels to be alone
 So brother, if you got a good woman, man, you better take my advice
 Say, if you got a good woman, man, you better take my advice
 You better treat her like an angel and keep her home at any price
-
-
-

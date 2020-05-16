@@ -1,8 +1,11 @@
 ---
+album: Minus Plus
 artists:
 - Smith
+external_ids:
+  spotify: spotify:track:276DTCILFYlkQlafEXvnV7
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-look-around-smith
 lyrics_url: https://genius.com/Smith-take-a-look-around-lyrics
 name: Take A Look Around
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1970
+runtime: 173773
 ---
 Too many people talking in too many different ways
 Looks like the politician's got it sewn up today

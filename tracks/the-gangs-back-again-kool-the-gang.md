@@ -1,9 +1,12 @@
 ---
+album: Kool And The Gang
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:0qJ7VIc05OdciRRvTXAVkt
 features: []
-genres: []
+first_released_as_single: false
 key: the-gangs-back-again-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-the-gangs-back-again-annotated
 name: The Gangs Back Again
@@ -28,5 +31,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 164906
 ---
 {Instrumental}

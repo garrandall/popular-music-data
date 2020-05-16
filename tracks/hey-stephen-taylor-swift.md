@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4WXzzCof26KJLTK5kK53dS
 features: []
-genres: []
+first_released_as_single: false
 key: hey-stephen-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-hey-stephen-lyrics
 name: Hey Stephen
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2008
+runtime: 254306
 ---
 Hey Stephen, I know looks can be deceiving
 But I know I saw a light in you

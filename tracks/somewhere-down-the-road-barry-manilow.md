@@ -1,8 +1,11 @@
 ---
+album: If I Should Love Again
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:1VhQvBofTY7C9do45vZ1yp
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-down-the-road-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/somewheredowntheroad.html
 name: Somewhere Down The Road
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1973
+runtime: 239600
 ---
-
 We had the right love
 At the wrong time
 Guess I always knew inside
@@ -115,6 +119,3 @@ But somewhere down the road
 I know that heart of yours
 Will come to see
 That you belong with me
-
-
-

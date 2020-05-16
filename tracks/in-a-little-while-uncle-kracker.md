@@ -1,8 +1,11 @@
 ---
+album: No Stranger To Shame
 artists:
 - Uncle Kracker
+external_ids:
+  spotify: spotify:track:7whM5VFdH5ddvNYO7HIfvs
 features: []
-genres: []
+first_released_as_single: false
 key: in-a-little-while-uncle-kracker
 lyrics_url: https://www.azlyrics.com/lyrics/unclekracker/inalittlewhile.html
 name: In A Little While
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 249760
 ---
-
 Here's to the good life or so they say
 All those parties and games that all those people play
 They tell me this is the place to be
@@ -127,4 +131,3 @@ Sometimes I feel like something is gone here
 Something is wrong here, I don't belong here
 Sometimes I feel like a stranger in town
 And I've lost what I found, it'll all turn around
-

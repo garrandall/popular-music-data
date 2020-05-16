@@ -1,8 +1,11 @@
 ---
+album: Swing Along With Floyd Cramer
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:3aJ6m5Uo6B24sMLd1h2O8f
 features: []
-genres: []
+first_released_as_single: false
 key: java-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-java-lyrics
 name: Java
@@ -51,5 +54,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1962
+runtime: 121173
 ---
 [Instrumental}

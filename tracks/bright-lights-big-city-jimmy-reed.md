@@ -1,8 +1,11 @@
 ---
+album: Jimmy Reed Plays 12 String Guitar Blues
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:0CzMiYdvDn4xy2jpuPOrCq
 features: []
-genres: []
+first_released_as_single: false
 key: bright-lights-big-city-jimmy-reed
 lyrics_url: https://genius.com/Jimmy-reed-bright-lights-big-city-lyrics
 name: Bright Lights Big City
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 149159
 ---
 "Bright light n' big city"
 

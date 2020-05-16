@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:2Yv2mHzr5AQavVdwQjEokV
 features: []
-genres: []
+first_released_as_single: false
 key: hand-me-downs-mac-miller
 lyrics_url: https://genius.com/Mac-miller-hand-me-downs-lyrics
 name: Hand Me Downs
@@ -11,6 +14,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 298440
 ---
 I'm thinkin' maybe I should thank you
 Oh baby I should buy you another round

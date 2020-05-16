@@ -1,8 +1,11 @@
 ---
+album: Almost in Love
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4cXnUi6qulwgj0fLSu0VYE
 features: []
-genres: []
+first_released_as_single: false
 key: rubberneckin--elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-rubberneckin-lyrics
 name: Rubberneckin'
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-10-04'
+release_year: 1970
+runtime: 133813
 ---
 Stop, look and listen baby that's my philosophy
 It's called rubberneckin' baby well that's all right with me

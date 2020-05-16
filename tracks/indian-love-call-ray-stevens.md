@@ -1,8 +1,11 @@
 ---
+album: Misty
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:3KNOADg5BrIsf4niTKjLFB
 features: []
-genres: []
+first_released_as_single: false
 key: indian-love-call-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/indianlovecall.html
 name: Indian Love Call
@@ -27,8 +30,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 211760
 ---
-
 When I'm calling you, oh
 If you answer too, oh
 
@@ -46,6 +50,3 @@ Then I will know
 That our love will be true
 You belong to me
 I belong to you, oh oohohoh
-
-
-

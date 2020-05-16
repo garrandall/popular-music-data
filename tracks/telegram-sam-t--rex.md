@@ -1,8 +1,11 @@
 ---
+album: The Slider
 artists:
 - T. Rex
+external_ids:
+  spotify: spotify:track:4hdKgDxQMLEoiNwzL1Wu5y
 features: []
-genres: []
+first_released_as_single: false
 key: telegram-sam-t--rex
 lyrics_url: https://www.azlyrics.com/lyrics/trex/telegramsam.html
 name: Telegram Sam
@@ -27,8 +30,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 225773
 ---
-
 Telegram Sam Telegram Sam
 You're my main man
 
@@ -61,6 +65,3 @@ I ain't no square with my corkscrew hair
 Telegram Sam Telegram Sam
 
 I'm a howlin' wolf
-
-
-

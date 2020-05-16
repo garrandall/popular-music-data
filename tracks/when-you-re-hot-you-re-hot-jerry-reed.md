@@ -1,8 +1,11 @@
 ---
+album: The Essential Jerry Reed
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:4M34QzR8qNy2m8BqFxOwFS
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-hot-you-re-hot-jerry-reed
 lyrics_url: https://genius.com/Jerry-reed-when-youre-hot-youre-hot-lyrics
 name: When You're Hot You're Hot
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 137373
 ---
 Well, now me and Homer Jones and Big John Talley
 Had a big crap game goin' back in the alley

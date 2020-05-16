@@ -1,8 +1,11 @@
 ---
+album: Blue Moves
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0guUn7StaYwajmI8ohihMA
 features: []
-genres: []
+first_released_as_single: false
 key: bite-your-lip--get-up-and-dance---elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/biteyourlipgetupanddance.html
 name: Bite Your Lip (Get up and dance!)
@@ -31,8 +34,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 402866
 ---
-
 She slid down to the city limits
 Monkey time in fifteen minutes
 Bite your lip, get up, get up and dance
@@ -63,6 +67,3 @@ Bite your lip, get up, get up and dance
 Bite your lip, get up, get up and dance
 Bite your lip, get up, get up and dance
 Bite your lip, get up, get up and dance
-
-
-

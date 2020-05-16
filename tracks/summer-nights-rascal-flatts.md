@@ -1,8 +1,11 @@
 ---
+album: Unstoppable
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:2F08d4KocfOdWhn7aK3gDI
 features: []
-genres: []
+first_released_as_single: false
 key: summer-nights-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-summer-nights-lyrics
 name: Summer Nights
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2009
+runtime: 242026
 ---
 It's summer nights baby!
 Come on ladies, it's time to pop that top

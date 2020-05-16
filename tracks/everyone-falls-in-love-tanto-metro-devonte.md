@@ -1,9 +1,12 @@
 ---
+album: Everyone Falls In Love
 artists:
 - Tanto Metro
 - Devonte
+external_ids:
+  spotify: spotify:track:5vRMi6pEjSWl4zxMJeXgJ1
 features: []
-genres: []
+first_released_as_single: false
 key: everyone-falls-in-love-tanto-metro-devonte
 lyrics_url: https://genius.com/Tanto-metro-and-devonte-everyone-falls-in-love-lyrics
 name: Everyone Falls In Love
@@ -72,6 +75,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1998
+runtime: 228760
 ---
 Yo! I'm just giving out sounds
 Every day yuh get up and a frowns

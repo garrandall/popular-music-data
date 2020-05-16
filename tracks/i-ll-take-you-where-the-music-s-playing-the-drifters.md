@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:40N0Wizb2BANJZTRZ4oivr
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-you-where-the-music-s-playing-the-drifters
 lyrics_url: https://genius.com/The-drifters-ill-take-you-where-the-musics-playing-lyrics
 name: I'll Take You Where The Music's Playing
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 162093
 ---
 Hey, little girl
 I hear somebody broke your heart

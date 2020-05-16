@@ -1,8 +1,11 @@
 ---
+album: One On One
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:0PMq0putpGexEh40qZ5CgQ
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-want-my-love-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-if-you-want-my-love-lyrics
 name: If You Want My Love
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1977
+runtime: 266040
 ---
 If you want my love you got it
 When you need my love you got it

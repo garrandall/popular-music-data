@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:0HlIziU2FZ7BjiQDt8Zost
 features: []
-genres: []
+first_released_as_single: false
 key: attention-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-attention-lyrics
 name: Attention
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 197653
 ---
 Ooo, oo, oo, oo, oo, oo
 Ooo, oo, oo-oo

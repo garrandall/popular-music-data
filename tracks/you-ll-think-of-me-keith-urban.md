@@ -1,8 +1,11 @@
 ---
+album: You'll Think Of Me (Live)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2cvIplJWt8tF5ASde7hEvY
 features: []
-genres: []
+first_released_as_single: true
 key: you-ll-think-of-me-keith-urban
 lyrics_url: https://genius.com/Keith-urban-youll-think-of-me-lyrics
 name: You'll Think Of Me
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2004
+runtime: 238585
 ---
 I woke up early this morning around 4am
 With the moon shining bright

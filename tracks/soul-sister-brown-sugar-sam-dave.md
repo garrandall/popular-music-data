@@ -1,9 +1,12 @@
 ---
+album: 'Golden Legends: Sam & Dave'
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:7nu9JKvNCQ0y41fQZpQHmD
 features: []
-genres: []
+first_released_as_single: false
 key: soul-sister-brown-sugar-sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/soulsisterbrownsugar.html
 name: Soul Sister Brown Sugar
@@ -44,8 +47,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 149986
 ---
-
 Oh, you're sweeter than the honey that the bees make
 Soul sister, you're brown sugar
 Sweeter than the icing on the best cake
@@ -99,6 +103,3 @@ Oh lord, yeah
 I just got to have brown sugar
 You sweeter than icing on a cake
 I just got to have brown sugar
-
-
-

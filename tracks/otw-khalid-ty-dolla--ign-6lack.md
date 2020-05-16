@@ -1,10 +1,13 @@
 ---
+album: OTW
 artists:
 - Khalid
 - Ty Dolla $ign
 - 6LACK
+external_ids:
+  spotify: spotify:track:6Hgh47WXVKtXN5zGOu0hjI
 features: []
-genres: []
+first_released_as_single: true
 key: otw-khalid-ty-dolla--ign-6lack
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/otw.html
 name: OTW
@@ -81,9 +84,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 263013
 ---
-
-
 Na, na, na, na, oh
 Oh, no, oh, ayy
 
@@ -171,6 +174,3 @@ Put it in drive, I'll be outside, I'll be on the way
 I'll be on the way
 You can meet me in five, I'll be all night, I'll be a-all day
 I'll be a-all day
-
-
-

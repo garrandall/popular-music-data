@@ -1,8 +1,11 @@
 ---
+album: About Us
 artists:
 - Stories
+external_ids:
+  spotify: spotify:track:5kbSslE6zBMZnULSrE4SdZ
 features: []
-genres: []
+first_released_as_single: false
 key: brother-louie-stories
 lyrics_url: https://genius.com/Stories-brother-louie-lyrics
 name: Brother Louie
@@ -79,6 +82,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 235800
 ---
 She was black as the night;
 Louie was whiter than white

@@ -1,9 +1,12 @@
 ---
+album: Best Night Of My Life
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:4kICggHj8ce9oBdv4yPvpN
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: fall-for-your-type-jamie-foxx-drake
 lyrics_url: https://genius.com/Jamie-foxx-fall-for-your-type-lyrics
 name: Fall For Your Type
@@ -80,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2010
+runtime: 271560
 ---
 Can I, can I, save you from you?
 Cause you know there's somethin' missin'

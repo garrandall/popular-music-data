@@ -1,8 +1,11 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4BycRneKmOs6MhYG9THsuX
 features: []
-genres: []
+first_released_as_single: false
 key: find-your-love-drake
 lyrics_url: https://genius.com/Drake-find-your-love-lyrics
 name: Find Your Love
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 208946
 ---
 I'm more than just an option (Hey, hey, hey)
 Refuse to be forgotten (Hey, hey, hey)

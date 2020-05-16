@@ -1,8 +1,11 @@
 ---
+album: soulstar
 artists:
 - Musiq
+external_ids:
+  spotify: spotify:track:69rOfKSz0ys8UdgTkGd6qV
 features: []
-genres: []
+first_released_as_single: false
 key: whoknows-musiq
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/whoknows.html
 name: whoknows
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 2003
+runtime: 295320
 ---
-
 Now what we came here to do
 It means more to me than just a night
 That we share
@@ -106,6 +110,3 @@ And just try to deal with what's going on with us right now
 
 Oh baby girl
 Come on and let me love you
-
-
-

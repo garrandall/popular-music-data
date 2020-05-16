@@ -1,8 +1,11 @@
 ---
+album: Love
 artists:
 - Love
+external_ids:
+  spotify: spotify:track:1pBPVzChJfeySTkqCfozDZ
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-red-book-love
 lyrics_url: https://www.musixmatch.com/lyrics/Love/My-Little-Red-Book
 name: My Little Red Book
@@ -51,6 +54,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 150133
 ---
 I just got out my little red book
 The minute that you said goodbye

@@ -1,8 +1,11 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:2ACys0pX0SjmpQmQWzp7wt
 features: []
-genres: []
+first_released_as_single: false
 key: jersey-future
 lyrics_url: https://genius.com/Future-jersey-lyrics
 name: Jersey
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 188702
 ---
 First I got married to money
 Then I fell in love with that dirty

@@ -1,8 +1,11 @@
 ---
+album: Victim Of Love
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1zxyBNzJSzhdWXrws0p3xV
 features: []
-genres: []
+first_released_as_single: false
 key: victim-of-love-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/victimoflove.html
 name: Victim Of Love
@@ -47,8 +50,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 295026
 ---
-
 You said you'd never fake it
 You swore we'd always make it last
 And it sounded so real
@@ -86,6 +90,3 @@ Victim of love, victim of love
 You were only using me
 Victim of love, victim of love
 What a fool you've made of me
-
-
-

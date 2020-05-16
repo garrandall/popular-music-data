@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:1r7eJB9ITPJyII7JJgHIZj
 features: []
-genres: []
+first_released_as_single: false
 key: modern-woman-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/modernwoman.html
 name: Modern Woman
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 229693
 ---
-
 You see her sitting with her coffee and her paper
 With her high top sneakers of italian design
 With a long cool stare she aggravates the tension
@@ -121,6 +125,3 @@ And face the facts of modern woman
 And you're an old fashioned man
 She understands the things you're doin'
 She's a modern woman
-
-
-

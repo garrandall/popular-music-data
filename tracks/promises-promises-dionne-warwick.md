@@ -1,8 +1,11 @@
 ---
+album: Promises, Promises
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4SNokZZ5vA7bIhQQeozv6i
 features: []
-genres: []
+first_released_as_single: false
 key: promises-promises-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/promisespromises.html
 name: Promises Promises
@@ -43,8 +46,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 182373
 ---
-
 I'm all through with promises, promises now
 I don't know how I got the nerve to walk out
 If I shout, remember I feel free
@@ -73,6 +77,3 @@ Oh, promises, those kind of promises take all the joy from life
 Oh, promises, promises, my kind of promises
 Can lead to joy and hope and love
 Yes, love!
-
-
-

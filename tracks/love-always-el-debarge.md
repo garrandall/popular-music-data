@@ -1,8 +1,11 @@
 ---
+album: El DeBarge
 artists:
 - El DeBarge
+external_ids:
+  spotify: spotify:track:3br4eo71aySdagUtjZ5m0p
 features: []
-genres: []
+first_released_as_single: false
 key: love-always-el-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/eldebarge/lovealways.html
 name: Love Always
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 330466
 ---
-
 I got a secret for you
 Can't believe myself
 But ever since you've been gone
@@ -126,6 +130,3 @@ Oh, ever and a day
 I'll always love you
 Ever and a day
 Oh
-
-
-

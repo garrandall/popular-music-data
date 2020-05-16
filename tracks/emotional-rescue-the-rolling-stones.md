@@ -1,8 +1,11 @@
 ---
+album: Emotional Rescue (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5IATbFZds3cbOx8YxuMuko
 features: []
-genres: []
+first_released_as_single: false
 key: emotional-rescue-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/emotionalrescue.html
 name: Emotional Rescue
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 339400
 ---
-
 Is there nothing I can say
 Nothing I can do
 To change your mind
@@ -131,6 +135,3 @@ You will be mine, you will be mine, all mine
 You will be mine, you will be mine, all mine
 I will be your knight in shining armour
 Riding across the desert with a fine Arab charger
-
-
-

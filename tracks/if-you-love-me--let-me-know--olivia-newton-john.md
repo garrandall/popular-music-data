@@ -1,8 +1,11 @@
 ---
+album: Summer Nights - Live in Las Vegas
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:659kkKUPzX3KyWiRkL8OS1
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-love-me--let-me-know--olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-if-you-love-me-lyrics
 name: If You Love Me (let Me Know)
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1974
+runtime: 101453
 ---
 You came when I was happy in your sunshine
 I grew to love you more each passing day

@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3hJQ0Bzblzx7JY5rKPvap0
 features:
 - Olivia Newton-John
-genres: []
+first_released_as_single: false
 key: physical-glee-cast-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/physical.html
 name: Physical
@@ -12,8 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2010
+runtime: 198906
 ---
-
 Physical, Physical, Physical
 
 I'm saying all the things that I know you'll like
@@ -78,6 +82,3 @@ Let me hear your body talk
 Let me hear your body talk
 Let me hear your body talk
 Let's get physical
-
-
-

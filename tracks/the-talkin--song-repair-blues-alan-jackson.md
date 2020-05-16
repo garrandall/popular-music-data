@@ -1,8 +1,11 @@
 ---
+album: What I Do
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:2NKXcEKxgJFLW79EpjofqI
 features: []
-genres: []
+first_released_as_single: false
 key: the-talkin--song-repair-blues-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/thetalkinsongrepairblues.html
 name: The Talkin' Song Repair Blues
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
+release_year: 2004
+runtime: 180373
 ---
-
 The mechanic raised up from under my hood
 And he shook his head and said, "This ain't good
 Your timin' belt's done shrunk one size too small
@@ -72,6 +76,3 @@ It won't take too long
 You guessed it
 It may be a hit
 I like it
-
-
-

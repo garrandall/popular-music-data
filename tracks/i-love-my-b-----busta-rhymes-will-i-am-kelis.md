@@ -1,10 +1,13 @@
 ---
+album: The Big Bang
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:7tqb60RgdOFTptWn5ZJLoq
 features:
 - will.i.am
 - Kelis
-genres: []
+first_released_as_single: false
 key: i-love-my-b-----busta-rhymes-will-i-am-kelis
 lyrics_url: https://www.musixmatch.com/lyrics/Busta-Rhymes-feat-Kelis-will-i-am/I-Love-My-Bitch
 name: I Love My B****
@@ -57,6 +60,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2006
+runtime: 227666
 ---
 Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
 Guano sakit gini lalu sengal habis sendi tule hok ni jenis keli kayu meme sengat dio panje

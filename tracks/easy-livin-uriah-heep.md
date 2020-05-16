@@ -1,8 +1,11 @@
 ---
+album: Demons and Wizards
 artists:
 - Uriah Heep
+external_ids:
+  spotify: spotify:track:0w1PM2u77EYMnUknvj1bCN
 features: []
-genres: []
+first_released_as_single: false
 key: easy-livin-uriah-heep
 lyrics_url: https://www.azlyrics.com/lyrics/uriahheep/easylivin.html
 name: Easy Livin
@@ -55,8 +58,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 156133
 ---
-
 This is a thing I've never known before
 It's called easy livin'
 This is a place I've never seen before
@@ -84,6 +88,3 @@ Easy livin' and I've been forgiven
 Since you've taken your place in my heart
 Easy livin' and I've been forgiven
 Since you've taken your place in my heart
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Green Tambourine
 artists:
 - The Lemon Pipers
+external_ids:
+  spotify: spotify:track:2Lg0cTxmByzQcozvDcayw0
 features: []
-genres: []
+first_released_as_single: false
 key: rice-is-nice-the-lemon-pipers
 lyrics_url: https://genius.com/The-lemon-pipers-rice-is-nice-lyrics
 name: Rice Is Nice
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1968
+runtime: 131133
 ---
 I wanna find somebody to care
 I wanna catch some rice in my hair

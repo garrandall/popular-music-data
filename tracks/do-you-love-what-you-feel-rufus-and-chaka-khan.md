@@ -1,8 +1,11 @@
 ---
+album: Masterjam
 artists:
 - Rufus And Chaka Khan
+external_ids:
+  spotify: spotify:track:7fYozX6MaNmfHoGW7bFTdK
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-love-what-you-feel-rufus-and-chaka-khan
 name: Do You Love What You Feel
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1979
+runtime: 269306
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Ghetto Story (Explicit Content U.S. Version)
 artists:
 - Cham
+external_ids:
+  spotify: spotify:track:4lhwhaW9bTJ3GdSyEP8mah
 features:
 - Alicia Keys
-genres: []
+first_released_as_single: false
 key: ghetto-story-chapter-2-cham-alicia-keys
 lyrics_url: https://genius.com/Cham-ghetto-story-chapter-2-lyrics
 name: Ghetto Story Chapter 2
@@ -36,6 +39,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2006
+runtime: 285480
 ---
 Here's my, ghetto story (Story)
 Been in hell through the fire, now, gonna take it higher (This a survival story, true ghetto story)

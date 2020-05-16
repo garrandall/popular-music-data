@@ -1,8 +1,11 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:0iYebKFUSfF72fUu2OW6ZT
 features: []
-genres: []
+first_released_as_single: false
 key: super-bass-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/superbass.html
 name: Super Bass
@@ -163,8 +166,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2010
+runtime: 200013
 ---
-
 This one is for the boys with the booming system
 Top down, AC with the cooling system
 When he come up in the club, he be blazin' up
@@ -265,6 +269,3 @@ Boom, badoom, boom, boom, badoom, boom, bass
 He got that super bass
 Boom, badoom, boom, boom, badoom, boom, bass
 He got that super bass
-
-
-

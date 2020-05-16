@@ -1,8 +1,11 @@
 ---
+album: Sing Great Country Favorites
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:3j0ohzSwIyRnYAaavHzXWK
 features: []
-genres: []
+first_released_as_single: false
 key: fallin--connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/fallin.html
 name: Fallin'
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1958
+runtime: 132840
 ---
-
 I got the feelin' I'm a-fallin'
 Like a star up in the blue
 Like I was fallin' off Niagara
@@ -84,6 +88,3 @@ And you're the reason why
 Oh you're the reason why
 Yeah, you're the reason why
 Mmm baby, you're the reason why
-
-
-

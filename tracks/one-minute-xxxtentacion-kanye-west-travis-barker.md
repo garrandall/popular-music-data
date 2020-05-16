@@ -1,10 +1,13 @@
 ---
+album: SKINS
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:0T6RSXxFhW8dRTWHI604ld
 features:
 - Kanye West
 - Travis Barker
-genres: []
+first_released_as_single: false
 key: one-minute-xxxtentacion-kanye-west-travis-barker
 lyrics_url: https://genius.com/Genius-traductions-francaises-xxxtentacion-one-minute-ft-kanye-west-and-travis-barker-traduction-francaise-lyrics
 name: One Minute
@@ -13,6 +16,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 197758
 ---
 Tant de haine au sommet, c'est un endroit solitaire
 Quand tu te rends compte que tes ennemis ne sont pas les seuls serpents

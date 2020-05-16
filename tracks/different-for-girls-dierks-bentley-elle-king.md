@@ -1,9 +1,12 @@
 ---
+album: Black
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:5HJId22hZ2IvFnvNSy6ZbE
 features:
 - Elle King
-genres: []
+first_released_as_single: false
 key: different-for-girls-dierks-bentley-elle-king
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/differentforgirls.html
 name: Different For Girls
@@ -88,9 +91,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 180360
 ---
-
-
 She don't throw any t-shirt on and walk to a bar
 She don't text her friends and say, "I gotta get laid tonight."
 She don't say, "It's okay, I never loved him anyway."
@@ -135,6 +138,3 @@ So tough
 It's different for girls
 
 It's different for girls
-
-
-

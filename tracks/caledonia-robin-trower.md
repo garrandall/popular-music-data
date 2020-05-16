@@ -1,8 +1,11 @@
 ---
+album: Long Misty Days
 artists:
 - Robin Trower
+external_ids:
+  spotify: spotify:track:6nax6sk0bJm1RE2RGGm8zR
 features: []
-genres: []
+first_released_as_single: false
 key: caledonia-robin-trower
 lyrics_url: https://www.azlyrics.com/lyrics/robintrower/caledonia.html
 name: Caledonia
@@ -35,8 +38,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 222293
 ---
-
 Caledonia, Caledonia
 Seeing you walk by
 Make a river twist and shout
@@ -67,6 +71,3 @@ Caledonia, Caledonia
 We'll move it slow
 Caledonia, Caledonia
 Caledonia, Caledonia
-
-
-

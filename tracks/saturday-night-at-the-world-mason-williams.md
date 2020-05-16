@@ -1,8 +1,11 @@
 ---
+album: The Mason Williams Ear Show
 artists:
 - Mason Williams
+external_ids:
+  spotify: spotify:track:3efSs07OsjLojox2TZs9hD
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-at-the-world-mason-williams
 lyrics_url: https://www.musixmatch.com/lyrics/Mason-Williams/Saturday-Night-at-the-World
 name: Saturday Night At The World
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 232320
 ---
 It's a saturday's night at the world
 I am thinking about a girl

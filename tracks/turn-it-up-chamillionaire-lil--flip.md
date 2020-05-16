@@ -1,9 +1,12 @@
 ---
+album: The Sound of Revenge
 artists:
 - Chamillionaire
+external_ids:
+  spotify: spotify:track:3KcsyKN0GyGQYGZJJhIx3L
 features:
 - Lil' Flip
-genres: []
+first_released_as_single: false
 key: turn-it-up-chamillionaire-lil--flip
 lyrics_url: https://www.azlyrics.com/lyrics/chamillionaire/turnitup.html
 name: Turn It Up
@@ -88,11 +91,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 274226
 ---
-
-
-
-
 Yeah!
 It's the name they say is running the game
 Chamilitary Mayne
@@ -200,6 +201,3 @@ I'ma show 'em how to get the club crunk (club crunk)
 Give 'em something thats goin' rattle that trunk (that trunk)
 Tip ya cups up until ya get drunk (get drunk)
 Tell the DJ to play it loud and turn the beat up..
-
-
-

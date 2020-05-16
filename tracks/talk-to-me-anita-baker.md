@@ -1,8 +1,11 @@
 ---
+album: Hot Tub Smooth Sounds
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:1Zj2qntVUNFxtF4J2j1nkq
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-anita-baker
 lyrics_url: https://genius.com/Anita-baker-talk-to-me-lyrics
 name: Talk To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-09-15'
+release_year: 1990
+runtime: 304106
 ---
 Oh
 Baby, baby, baby

@@ -1,8 +1,11 @@
 ---
+album: Which One's Willie?
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:586k2PyloqfKXVFBdX8o6e
 features: []
-genres: []
+first_released_as_single: false
 key: weekend-wet-willie
 lyrics_url: https://genius.com/Wet-willie-weekend-lyrics
 name: Weekend
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1979
+runtime: 358493
 ---
 Wet Willie
 Miscellaneous

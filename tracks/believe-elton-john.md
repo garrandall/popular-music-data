@@ -1,8 +1,11 @@
 ---
+album: Made In England
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0hACDgEDhKuQlv2ZhVbAIt
 features: []
-genres: []
+first_released_as_single: false
 key: believe-elton-john
 lyrics_url: https://genius.com/Elton-john-believe-lyrics
 name: Believe
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
+release_year: 1995
+runtime: 294800
 ---
 I believe in love, it's all we got
 Love has no boundaries, costs nothin' to touch

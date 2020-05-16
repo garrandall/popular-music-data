@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5OndtwLGA9O6XHFcGm2H7r
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-the-woods-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-out-of-the-woods-lyrics
 name: Out Of The Woods
@@ -47,6 +50,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2014
+runtime: 235800
 ---
 Looking at it now
 It all seems so simple

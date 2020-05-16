@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:6ZOMtAejDpbIRHXgahSKPY
 features: []
-genres: []
+first_released_as_single: false
 key: memorize-your-number-leif-garrett
 lyrics_url: https://www.musixmatch.com/lyrics/Leif-Garrett/Memorize-Your-Number
 name: Memorize Your Number
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 167960
 ---
 Just let me look at you now
 Dont you say a word

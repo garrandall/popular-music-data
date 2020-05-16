@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1BmVQ5RGqqtF5cnsv6cQYu
 features: []
-genres: []
+first_released_as_single: false
 key: be-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-be-lyrics
 name: Be
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1968
+runtime: 180253
 ---
 Lost
 On a painted sky

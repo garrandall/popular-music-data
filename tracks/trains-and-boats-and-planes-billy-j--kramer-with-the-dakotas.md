@@ -1,8 +1,12 @@
 ---
+album: EMI Legends Rock 'n' Roll Seris - The Definitive Collection
 artists:
-- Billy J. Kramer With The Dakotas
-features: []
-genres: []
+- Billy J. Kramer
+external_ids:
+  spotify: spotify:track:7urWTFngb8AuSdmLpyfd9H
+features:
+- The Dakotas
+first_released_as_single: false
 key: trains-and-boats-and-planes-billy-j--kramer-with-the-dakotas
 lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-trains-and-boats-and-planes-lyrics
 name: Trains And Boats And Planes
@@ -35,6 +39,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 170066
 ---
 Trains and bloats and planes are passing by
 They mean a trip to Paris or Rome

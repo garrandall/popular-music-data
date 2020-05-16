@@ -1,8 +1,11 @@
 ---
+album: Uncaged
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:6U9aiT7cvmOL4hRHnHISUx
 features: []
-genres: []
+first_released_as_single: false
 key: the-wind-zac-brown-band
 lyrics_url: https://genius.com/Zac-brown-band-the-wind-lyrics
 name: The Wind
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 176800
 ---
 30,000 feet above
 The city where I fell in love with you

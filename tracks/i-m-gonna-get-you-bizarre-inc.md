@@ -1,8 +1,11 @@
 ---
+album: Energique
 artists:
 - Bizarre Inc
+external_ids:
+  spotify: spotify:track:4EzZPB8OujNAeND6C2SduJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-get-you-bizarre-inc
 lyrics_url: https://genius.com/Bizarre-inc-im-gonna-get-you-lyrics
 name: I'm Gonna Get You
@@ -99,6 +102,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1992
+runtime: 319493
 ---
 Da-da-da a-doo da-da
 Da-da-da a-doo da-da-da

@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:6f6l0x0co344VpbPyiP5JN
 features: []
-genres: []
+first_released_as_single: false
 key: jack-and-jill-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/jackandjill.html
 name: Jack And Jill
@@ -59,8 +62,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 163000
 ---
-
 Hey Jack you better get right
 Or Jill won't be impressed
 Hey Jill you better get right
@@ -100,4 +104,3 @@ Hey Jack you better get right
 Or Jill won't be impressed
 Hey Jill you better get right
 Cause Jack expects the best
-

@@ -1,8 +1,11 @@
 ---
+album: Red Pill Blues
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:0BUFJvuLjUm7lN7DPkGSJV
 features: []
-genres: []
+first_released_as_single: false
 key: wait-maroon-5
 lyrics_url: https://genius.com/Maroon-5-wait-lyrics
 name: Wait
@@ -103,6 +106,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2017
+runtime: 190506
 ---
 Dirty looks from your mother
 Never seen you in a dress that color, no

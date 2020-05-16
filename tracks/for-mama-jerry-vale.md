@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Jerry Vale
+external_ids:
+  spotify: spotify:track:11G1VikY1wkfUAJ9DFEu2I
 features: []
-genres: []
+first_released_as_single: false
 key: for-mama-jerry-vale
 name: For Mama
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1959
+runtime: 170800
 ---
 

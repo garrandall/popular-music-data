@@ -1,8 +1,11 @@
 ---
+album: This Way
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:3ME8wEbmrIlu5FS0Jgb0R0
 features: []
-genres: []
+first_released_as_single: false
 key: standing-still-jewel
 lyrics_url: https://genius.com/Jewel-standing-still-lyrics
 name: Standing Still
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2002-03-30'
+release_year: 2001
+runtime: 270333
 ---
 Cutting through the darkest night are my two headlights
 Trying to keep it clear, but I'm losing it here

@@ -1,8 +1,11 @@
 ---
+album: Givin' It Back
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:6OLhrvLdUVWOmQ47Muuoiw
 features: []
-genres: []
+first_released_as_single: false
 key: lay-lady-lay-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/layladylay.html
 name: Lay Lady Lay
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-01-01'
+release_year: 1971
+runtime: 623053
 ---
-
 Lay, lady, lay
 Lay across my big brass bed
 Lay, lady, lay
@@ -119,6 +123,3 @@ Lay, lady, lay
 
 Lay, lady, lay
 Lay, lady, lay...
-
-
-

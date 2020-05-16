@@ -1,9 +1,12 @@
 ---
+album: Rufus Featuring Chaka Khan
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:0bqZnsPz4klg5TuWGcKb34
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: sweet-thing-rufus-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/rufus/sweetthing.html
 name: Sweet Thing
@@ -92,8 +95,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1975
+runtime: 200146
 ---
-
 I will love you anyway
 Even if you cannot stay
 I think you are the one for me
@@ -157,6 +161,3 @@ You're my heat, you are my fire
 You're not mine, I can't deny it
 Can't you hear me talkin', baby
 Love me now or I'll go crazy
-
-
-

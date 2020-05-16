@@ -1,8 +1,11 @@
 ---
+album: Dancing with Strangers
 artists:
 - Chris Rea
+external_ids:
+  spotify: spotify:track:2HDc1De9ZdPO1DDLao0iIw
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-dance-chris-rea
 lyrics_url: https://genius.com/Chris-rea-lets-dance-lyrics
 name: Let's Dance
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1987
+runtime: 247066
 ---
 When you sing of the joy only love can bring
 Heaven knows it's in my heart and my soul

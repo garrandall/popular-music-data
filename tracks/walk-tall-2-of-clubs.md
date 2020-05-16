@@ -1,8 +1,11 @@
 ---
+album: Spotlight On Fraternity Records
 artists:
 - 2 Of Clubs
+external_ids:
+  spotify: spotify:track:27JuahbVzPdLctRmgBkTc5
 features: []
-genres: []
+first_released_as_single: true
 key: walk-tall-2-of-clubs
 name: Walk Tall
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 148022
 ---
 

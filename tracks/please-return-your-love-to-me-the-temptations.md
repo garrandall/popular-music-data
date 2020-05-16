@@ -1,8 +1,11 @@
 ---
+album: Wish It Would Rain
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:7olWVrJ6syY0PrX1d7KSge
 features: []
-genres: []
+first_released_as_single: false
 key: please-return-your-love-to-me-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/pleasereturnyourlovetome.html
 name: Please Return Your Love To Me
@@ -35,8 +38,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 143933
 ---
-
 (Please return your love to me, girl)
 (Forgive me for the wrong I've done)
 
@@ -87,6 +91,3 @@ I'm just a lonelyyyyyyyyyyyyyyyy onnnnnnnnnnnnne (I am just a)
 (Forgive me for the wrong I've done
 (Without your love, I'm just no good)
 (I am just a lonely one)
-
-
-

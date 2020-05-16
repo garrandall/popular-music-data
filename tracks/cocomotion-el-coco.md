@@ -1,8 +1,11 @@
 ---
+album: Greatest Disco Hits
 artists:
 - El Coco
+external_ids:
+  spotify: spotify:track:0UoECgbYdCAHzknSytVrEw
 features: []
-genres: []
+first_released_as_single: false
 key: cocomotion-el-coco
 lyrics_url: https://www.musixmatch.com/lyrics/El-Coco/Cocomotion
 name: Cocomotion
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 614506
 ---
 Come on, let's do
 The Cocomotion

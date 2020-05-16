@@ -1,8 +1,11 @@
 ---
+album: Lenny
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:0mBmE1IzBpbhfwEU4nd4ew
 features: []
-genres: []
+first_released_as_single: false
 key: dig-in-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/digin.html
 name: Dig In
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 217533
 ---
-
 It's time to face and come-on in and join the party
 Life has been waiting for you to care
 Don't try to fake it, jump on in and get it started
@@ -143,6 +147,3 @@ Once you dig in
 You'll find it coming out the other side
 
 And once you dig in
-
-
-

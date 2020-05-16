@@ -1,8 +1,11 @@
 ---
+album: Southernplayalisticadillacmuzik
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:2pMAmZdHfQHyqJCXJbfhK3
 features: []
-genres: []
+first_released_as_single: false
 key: southernplayalisticadillacmuzik-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/southernplayalisticadillacmuzik.html
 name: Southernplayalisticadillacmuzik
@@ -47,9 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
+release_year: 1994
+runtime: 317506
 ---
-
-
 Well its the m I crooked letter coming around the south
 Rollin straight hammers and vogues in that old southern slouch
 Please, ain't nothing but incense in my atmosphere
@@ -148,8 +151,3 @@ Thumping out the roaches
 Dungeon if ya'll missed it
 Big Gimp, Goodie MOb, PA, Outkast
 Southernplaylistic
-
-
-
-
-

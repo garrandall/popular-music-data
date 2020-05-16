@@ -1,9 +1,12 @@
 ---
+album: Presenting Dion And The Belmonts
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:0QGwOFQChzflLAmPq5NwKo
 features: []
-genres: []
+first_released_as_single: false
 key: a-teenager-in-love-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-a-teenager-in-love-lyrics
 name: A Teenager In Love
@@ -68,6 +71,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 158253
 ---
 Each time we have a quarrel
 It almost breaks my heart

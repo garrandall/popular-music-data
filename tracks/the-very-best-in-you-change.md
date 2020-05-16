@@ -1,8 +1,11 @@
 ---
+album: The Very Best in You (Disco Mix - Original 12 Inch Version)
 artists:
 - Change
+external_ids:
+  spotify: spotify:track:273lvc0WLvWd9Lt6XW6IF4
 features: []
-genres: []
+first_released_as_single: true
 key: the-very-best-in-you-change
 lyrics_url: https://genius.com/Change-the-very-best-in-you-lyrics
 name: The Very Best In You
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 416146
 ---
 This is for the very best in you
 This is for the very best in you

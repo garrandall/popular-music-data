@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3cCxoOgfi6hgt8MNteuiiD
 features: []
-genres: []
+first_released_as_single: false
 key: fade-kanye-west
 lyrics_url: https://genius.com/Kanye-west-fade-lyrics
 name: Fade
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 193747
 ---
 Your love is fadin'
 Your love is fadin'

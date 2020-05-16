@@ -1,8 +1,11 @@
 ---
+album: Physical Graffiti
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:2g7iUTiLRue30KAXnesFgt
 features: []
-genres: []
+first_released_as_single: false
 key: trampled-under-foot-led-zeppelin
 lyrics_url: https://www.azlyrics.com/lyrics/ledzeppelin/trampledunderfoot.html
 name: Trampled Under Foot
@@ -35,8 +38,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
+release_year: 1975
+runtime: 335466
 ---
-
 Greasy slicked down body, groovy leather trim
 I like the way you hold the road, mama, it ain't no sin
 
@@ -84,6 +88,3 @@ I'm so glad I took a look inside your showroom doors
 Talkin' 'bout love 
 
 Oh, I can't stop talkin' about love.
-
-
-

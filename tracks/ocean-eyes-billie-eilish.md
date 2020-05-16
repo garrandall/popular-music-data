@@ -1,8 +1,11 @@
 ---
+album: Common Culture, Vol. V by Connor Franta
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:0trpp6GajAZDzqBWWtDELk
 features: []
-genres: []
+first_released_as_single: false
 key: ocean-eyes-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/oceaneyes.html
 name: Ocean Eyes
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2016
+runtime: 200379
 ---
-
 I've been watching you for some time
 Can't stop staring at those ocean eyes
 Burning cities and napalm skies
@@ -124,6 +128,3 @@ I'm scared
 I've never fallen from quite this high
 Falling into your ocean eyes
 Those ocean eyes
-
-
-

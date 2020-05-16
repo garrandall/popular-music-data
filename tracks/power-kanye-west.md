@@ -1,8 +1,11 @@
 ---
+album: My Beautiful Dark Twisted Fantasy
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:76mzio0HuYMaCfIDd5EU1w
 features: []
-genres: []
+first_released_as_single: false
 key: power-kanye-west
 lyrics_url: https://genius.com/Kanye-west-power-lyrics
 name: POWER
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 292093
 ---
 I'm living in that 21st Century, doing something mean to it
 Do it better than anybody you ever seen do it

@@ -1,8 +1,11 @@
 ---
+album: Let's Get It On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0jHkgTtTaqg5LNCiYDQPUB
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-it-on-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-lets-get-it-on-lyrics
 name: Let's Get It On
@@ -83,6 +86,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 290960
 ---
 I’ve been really trying, baby
 Trying to hold back this feeling for so long

@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:6MjNilJCVKJq0LfFvo5jWJ
 features: []
-genres: []
+first_released_as_single: false
 key: fast-juice-wrld
 lyrics_url: https://genius.com/Juice-wrld-fast-lyrics
 name: Fast
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-03-30'
+release_year: 2019
+runtime: 208517
 ---
 I been living fast, fast, fast, fast
 Feeling really bad, bad, bad, bad

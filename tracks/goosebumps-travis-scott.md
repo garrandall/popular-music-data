@@ -1,8 +1,11 @@
 ---
+album: Birds In The Trap Sing McKnight
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:2SzjMcZIsE2zUWQnccsTAo
 features: []
-genres: []
+first_released_as_single: false
 key: goosebumps-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/goosebumps.html
 name: Goosebumps
@@ -143,9 +146,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2016
+runtime: 243836
 ---
-
-
 Yeah
 7:30 in the night
 Oh oh
@@ -220,6 +223,3 @@ Throw that to the side, yeah
 I get those goosebumps every time, yeah, when you're not around
 When you throw that to the side, yeah
 I get those goosebumps every time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:1jBfY6x1uIZTUxYAOi54c3
 features: []
-genres: []
+first_released_as_single: false
 key: monster-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/monstersuicideamerica.html
 name: Monster
@@ -39,10 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 556426
 ---
-
-
-
 Once the religious, the hunted and weary
 Chasing the promise of freedom and hope
 Came to this country to build a new vision
@@ -114,6 +116,3 @@ Don't you care about your sons and daughters?
 Don't you know, we need you now
 We can't fight alone against the monster
 ...
-
-
-

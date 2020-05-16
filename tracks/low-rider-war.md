@@ -1,8 +1,11 @@
 ---
+album: Why Can't We Be Friends?
 artists:
 - War
+external_ids:
+  spotify: spotify:track:2fmMPJb5EzZCx8BcNJvVk4
 features: []
-genres: []
+first_released_as_single: false
 key: low-rider-war
 lyrics_url: https://genius.com/War-low-rider-lyrics
 name: Low Rider
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1975
+runtime: 191560
 ---
 All my friends know the low rider
 The low rider is a little higher

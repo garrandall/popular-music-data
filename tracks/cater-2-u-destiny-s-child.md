@@ -1,8 +1,11 @@
 ---
+album: Destiny Fulfilled
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:6W1uxcStBXFl7aM0eNCqqw
 features: []
-genres: []
+first_released_as_single: false
 key: cater-2-u-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-cater-2-u-lyrics
 name: Cater 2 U
@@ -103,6 +106,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2005-10-08'
+release_year: 1999
+runtime: 245746
 ---
 Baby, I see you working hard
 I wanna let you know I'm proud

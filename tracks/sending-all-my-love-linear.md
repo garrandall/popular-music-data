@@ -1,8 +1,11 @@
 ---
+album: Linear
 artists:
 - Linear
+external_ids:
+  spotify: spotify:track:6zNPPFFrxmhpTQejOn1Wm1
 features: []
-genres: []
+first_released_as_single: false
 key: sending-all-my-love-linear
 lyrics_url: https://genius.com/Linear-sending-all-my-love-lyrics
 name: Sending All My Love
@@ -115,6 +118,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1990
+runtime: 234066
 ---
 Girl, I close my eyes
 And then I start to cry for you

@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:1xYpVRspgaLxdJLOTQkTjg
 features: []
-genres: []
+first_released_as_single: false
 key: stop-trying-to-be-god-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/stoptryingtobegod.html
 name: Stop Trying To Be God
@@ -15,9 +18,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 338438
 ---
-
-
 This is the rewatch, the hot pockets, the fritters, the missiles, the humans, all gathered in secrecy
 And flying high as a kite
 
@@ -104,6 +107,3 @@ Whoa-oh-oh
 Whoa-oh-oh
 
 That it?
-
-
-

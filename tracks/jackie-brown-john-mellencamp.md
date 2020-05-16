@@ -1,8 +1,11 @@
 ---
+album: Big Daddy
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:37zFCQlcLHzi94fJYSvMo7
 features: []
-genres: []
+first_released_as_single: false
 key: jackie-brown-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/jackiebrown.html
 name: Jackie Brown
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1989
+runtime: 243026
 ---
-
 Is this your life, Jackie Brown?
 Poorly educated and forced to live on the poor side of town.
 Is this your daughter, Jackie Brown?
@@ -74,6 +78,3 @@ Just another lazy man who couldn't take what was his.
 One helluva life Jackie Brown.
 Forevermore, Jackie Brown
 Amen and amen - Jackie Brown?
-
-
-

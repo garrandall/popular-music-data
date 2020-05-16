@@ -1,8 +1,11 @@
 ---
+album: I Still Believe
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:1bUrdVhrxVzTuROudSTYVO
 features: []
-genres: []
+first_released_as_single: true
 key: i-still-believe-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-i-still-believe-lyrics
 name: I Still Believe
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
+release_year: 1999
+runtime: 234933
 ---
 You look in my eyes
 And I get emotional inside

@@ -1,9 +1,12 @@
 ---
+album: Wild And Peaceful
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:3K0SJUQNbOkUprTFcwwAKN
 features: []
-genres: []
+first_released_as_single: false
 key: jungle-boogie-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/jungleboogie.html
 name: Jungle Boogie
@@ -96,8 +99,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1973
+runtime: 186533
 ---
-
 Get down - get down
 Get down - get down
 Get down - get down
@@ -154,6 +158,3 @@ Get down say
 Get down
 Get up ya'll
 With the get down
-
-
-

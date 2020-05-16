@@ -1,8 +1,11 @@
 ---
+album: Real Friends
 artists:
 - Chris Janson
+external_ids:
+  spotify: spotify:track:49oBFP6ZHPtd6t33LFTD3E
 features: []
-genres: []
+first_released_as_single: true
 key: good-vibes-chris-janson
 lyrics_url: https://www.azlyrics.com/lyrics/chrisjanson/goodvibes.html
 name: Good Vibes
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 165586
 ---
-
 I ain't watchin' TV today
 Bad news, it can just stay away
 If you ain't got anything good to say
@@ -124,6 +128,3 @@ Wavin' them worries goodbye
 I'm feelin' them good vibes
 Oh I'm feelin' them good vibes
 Yeah
-
-
-

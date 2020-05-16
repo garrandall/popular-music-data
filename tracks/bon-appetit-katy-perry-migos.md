@@ -42,11 +42,11 @@ Katy Perry, Migos
 'Cause I'm all that you want, boy
 All that you can have, boy
 Got me spread like a buffet
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 Appetite for seduction
 Fresh out the oven
 Melt in your mouth kind of lovin'
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 
 Looks like you've been starving
 You've got those hungry eyes
@@ -68,11 +68,11 @@ I'm on the menu
 'Cause I'm all that you want, boy
 All that you can have, boy
 Got me spread like a buffet
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 Appetite for seduction
 Fresh out the oven
 Melt in your mouth kind of lovin'
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 
 So you want some more
 Well, I'm open 24
@@ -94,20 +94,20 @@ I'm on the menu
 'Cause I'm all that you want, boy (all what you want)
 All that you can have, boy (ay)
 Got me spread like a buffet
-Bon a, bon appÃ©tit, baby (bon appetit)
+Bon a, bon appétit, baby (bon appetit)
 Appetite for seduction
 Fresh out the oven
 Melt in your mouth kind of lovin'
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 
 'Cause I'm all that you want, boy
 All that you can have, boy
 Got me spread like a buffet
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 Appetite for seduction
 Fresh out the oven
 Melt in your mouth kind of lovin'
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 
 
 Quavo
@@ -139,14 +139,14 @@ But no horses, no carriage
 'Cause I'm all that you want, boy
 All that you can have, boy
 Got me spread like a buffet
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 Appetite for seduction
 Fresh out the oven
 Melt in your mouth kind of lovin'
-Bon a, bon appÃ©tit, baby
+Bon a, bon appétit, baby
 
 Under candle light
-Bon appÃ©tit, baby
+Bon appétit, baby
 
 
 

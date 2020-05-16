@@ -1,8 +1,11 @@
 ---
+album: Inside Of You
 artists:
 - Aaron Hall
+external_ids:
+  spotify: spotify:track:5zJAnQ1NFfks3SRbIRLVSM
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-places--i-will-kiss-you--aaron-hall
 lyrics_url: https://genius.com/Aaron-hall-all-the-places-lyrics
 name: All The Places (I Will Kiss You)
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 240133
 ---
 There's so many places I wanna kiss you, baby
 I cannot begin to start

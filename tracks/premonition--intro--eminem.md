@@ -1,8 +1,11 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7ccTcabbJlCJiIqtrSSwBk
 features: []
-genres: []
+first_released_as_single: false
 key: premonition--intro--eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/premonitionintro.html
 name: Premonition (Intro)
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 173893
 ---
-
 Yeah
 So I guess this is what it is, huh?
 Think it's obvious
@@ -91,6 +95,3 @@ Only way that you're ahead of me's alphabetically
 Killing everything, play this tune, it's your eulogy
 It's your funeral, prepare to die
 This is music for you to be murdered by
-
-
-

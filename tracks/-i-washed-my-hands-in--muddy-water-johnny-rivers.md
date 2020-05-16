@@ -1,8 +1,11 @@
 ---
+album: The Best Of Johnny Rivers
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:53JnBuXIHTP0Tyc1H9uayA
 features: []
-genres: []
+first_released_as_single: false
 key: -i-washed-my-hands-in--muddy-water-johnny-rivers
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Rivers/I-Washed-My-Hands-in-Muddy-Water
 name: (I Washed My Hands In) Muddy Water
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 187026
 ---
 I was home in Macon, Georgia
 They kept my Daddy in the Macon jail

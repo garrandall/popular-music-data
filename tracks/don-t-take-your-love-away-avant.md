@@ -1,8 +1,11 @@
 ---
+album: Private Room
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:5rI62NPoTQ1qxvqbgUy2sN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-your-love-away-avant
 lyrics_url: https://genius.com/Avant-dont-take-your-love-away-lyrics
 name: Don't Take Your Love Away
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
+release_year: 2003
+runtime: 278946
 ---
 After the hoping and the praying and the wishing
 Girl your right here in my face

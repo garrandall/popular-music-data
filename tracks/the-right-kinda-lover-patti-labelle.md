@@ -1,8 +1,11 @@
 ---
+album: Gems
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:39KhQn8GOfE7z9wZbldgaQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-right-kinda-lover-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/therightkindalover.html
 name: The Right Kinda Lover
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1994
+runtime: 292666
 ---
-
 A real man
 Strong but tender
 Baby thats the kinda man I need
@@ -100,6 +104,3 @@ he's the right kinda lover
 I'll never need another
 sure 'nuff he's got the stuff
 he's the right kinda lover fot me
-
-
-

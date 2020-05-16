@@ -1,9 +1,12 @@
 ---
+album: Eddie And The Cruisers - Original Motion Picture Soundtrack
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:2cL360CDEVWtavnqLu32sI
 features: []
-genres: []
+first_released_as_single: false
 key: tender-years-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/tenderyears.html
 name: Tender Years
@@ -84,8 +87,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1983
+runtime: 282440
 ---
-
 When the moon hung soft and low, 
 Catchin' stardust in the light 
 You held me closer and closer 
@@ -111,6 +115,3 @@ Whoa, whoa tender years
 Won't you wash away my tears 
 How I wish you were here 
 Please don't go, tender years
-
-
-

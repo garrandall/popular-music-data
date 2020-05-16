@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:1Vuva7i6K8XibDiQDeS28C
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-beat--everybody-disco--ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/feelthebeateverybodydisco.html
 name: Feel The Beat (Everybody Disco)
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1976
+runtime: 192386
 ---
-
 Music has a freedom
 That will set your body to freedom
 Yeah, yeah, yeah
@@ -46,6 +50,3 @@ Yeah, yeah everybody disco down the floor
 'Cause I'm hot yeah get in the groove
 I want to make you groove fell the body
 The storm yeah! one more time
-
-
-

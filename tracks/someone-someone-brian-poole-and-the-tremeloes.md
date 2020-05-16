@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - Brian Poole And The Tremeloes
+external_ids:
+  spotify: spotify:track:6FXLVvGylQoxxpcA8mWGRD
 features: []
-genres: []
+first_released_as_single: false
 key: someone-someone-brian-poole-and-the-tremeloes
 lyrics_url: https://genius.com/Brian-poole-and-the-tremeloes-someone-someone-lyrics
 name: Someone Someone
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 176960
 ---
 Someone (love you), Someone (love you), Someone who really love you
 (Someone) when Someone really loves you (Someone) that's when your life begins

@@ -1,8 +1,11 @@
 ---
+album: Let It Bleed
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3DnsiBgVwDp65kXfuQ84st
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-always-get-what-you-want-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-you-cant-always-get-what-you-want-lyrics
 name: You Can't Always Get What You Want
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1966
+runtime: 291426
 ---
 I saw her today at the reception
 A glass of wine in her hand

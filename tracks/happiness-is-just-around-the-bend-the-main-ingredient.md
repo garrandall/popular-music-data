@@ -1,8 +1,11 @@
 ---
+album: Euphrates River (Bonus Track Version)
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:1YFs00UiqJEa0hQX1LwBTR
 features: []
-genres: []
+first_released_as_single: false
 key: happiness-is-just-around-the-bend-the-main-ingredient
 lyrics_url: https://www.azlyrics.com/lyrics/mainingredient/happinessisjustaroundthebend.html
 name: Happiness Is Just Around The Bend
@@ -55,8 +58,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 380026
 ---
-
 Say girl, you look a little restless
 Well you ought to come with me 'cause I'm going where the fun is
 Come on, don't get lazy now, just a little bit up the road, just around the bend
@@ -81,6 +85,3 @@ Happiness is just round the bend... yeah
 
 Why don't you get up?
 Get it on...
-
-
-

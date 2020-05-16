@@ -1,8 +1,11 @@
 ---
+album: Days of Wine and Roses
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:4R6f7ecZamXSjRyZ32PSYy
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-used-to-losing-you-andy-williams
 lyrics_url: https://genius.com/Andy-williams-cant-get-used-to-losing-you-lyrics
 name: Can't Get Used To Losing You
@@ -67,6 +70,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1962
+runtime: 140173
 ---
 Guess there's no use in hangin' 'round
 Guess I'll get dressed and do the town

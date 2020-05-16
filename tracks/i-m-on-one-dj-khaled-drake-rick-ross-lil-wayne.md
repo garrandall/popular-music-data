@@ -1,11 +1,14 @@
 ---
+album: We The Best Forever
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:608a1wIsSd5KzMEqm1O7w3
 features:
 - Drake
 - Rick Ross
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-m-on-one-dj-khaled-drake-rick-ross-lil-wayne
 lyrics_url: https://genius.com/Dj-khaled-im-on-one-lyrics
 name: I'm On One
@@ -102,6 +105,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 296146
 ---
 I get 'em up! (I'm on one)
 I get 'em up! (Fuck it, I'm on one)

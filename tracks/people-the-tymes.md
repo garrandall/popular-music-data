@@ -1,8 +1,11 @@
 ---
+album: People
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:310v4j8Mnda0oAg2E8Ml1a
 features: []
-genres: []
+first_released_as_single: false
 key: people-the-tymes
 lyrics_url: https://genius.com/The-tymes-people-lyrics
 name: People
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
+release_year: 1968
+runtime: 187653
 ---
 Everybody's got to have somebody
 Everybody's got to have someone

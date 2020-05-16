@@ -1,8 +1,11 @@
 ---
+album: Blazzin' Fire
 artists:
 - Inner Circle
+external_ids:
+  spotify: spotify:track:1VkNLfYxoS7Uc80xvt1xBK
 features: []
-genres: []
+first_released_as_single: false
 key: games-people-play-inner-circle
 lyrics_url: https://www.azlyrics.com/lyrics/innercircle/gamespeopleplay.html
 name: Games People Play
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1994
+runtime: 208230
 ---
-
 Na na na na na na na na
 Na na na na na na na na
 Talkin' 'bout you and me, yeah and the games people play
@@ -75,6 +79,3 @@ Talkin' 'bout you and me, yeah and the games people play
 
 Talkin' 'bout you and me, yeah and the games people play
 Oh, talkin' 'bout you and me, yeah and the games people play
-
-
-

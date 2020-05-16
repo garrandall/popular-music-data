@@ -1,8 +1,11 @@
 ---
+album: Where Did Our Love Go
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5uES1C2NgkdrNHiCwf9jRr
 features: []
-genres: []
+first_released_as_single: false
 key: baby-love-the-supremes
 lyrics_url: https://genius.com/The-supremes-baby-love-lyrics
 name: Baby Love
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 158040
 ---
 Oh baby love, my baby love
 I need you, oh how I need you

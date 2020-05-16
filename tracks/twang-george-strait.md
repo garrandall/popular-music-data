@@ -1,8 +1,11 @@
 ---
+album: Twang
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:10Jl8nC5i4idX63nUk3mRj
 features: []
-genres: []
+first_released_as_single: false
 key: twang-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/twang.html
 name: Twang
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 175600
 ---
-
 When I get off of work on Friday after working like a dog all week
 I go to meet the boys for a cold one at a little joint up the street
 They got a jukebox in the corner full of old country tunes
@@ -38,6 +42,3 @@ Some peddle steel whining like a whistle of an old freight train
 To get that foot stomping honky tonkin' feeling going through my veins
 I need a little twang, twang, twang
 I need a little twang, twang, twang
-
-
-

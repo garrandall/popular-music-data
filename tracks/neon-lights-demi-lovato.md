@@ -1,8 +1,11 @@
 ---
+album: Demi
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:34MJ07N9Bhu6iKPaxSVnCT
 features: []
-genres: []
+first_released_as_single: false
 key: neon-lights-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/neonlights.html
 name: Neon Lights
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2013
+runtime: 233173
 ---
-
 Baby, when they look up at the sky
 We'll be shootin' stars just passin' by
 You'll be comin' home with me tonight
@@ -147,6 +151,3 @@ Like neon lights, oh
 Like neon lights, oh
 
 Be still, my heart 'cause it's freakin' out
-
-
-

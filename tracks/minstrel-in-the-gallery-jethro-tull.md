@@ -1,8 +1,11 @@
 ---
+album: Minstrel In The Gallery
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:6JWLeCDXGkCFlB6aIDNsCF
 features: []
-genres: []
+first_released_as_single: false
 key: minstrel-in-the-gallery-jethro-tull
 lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/minstrelinthegallery.html
 name: Minstrel In The Gallery
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 491360
 ---
-
 The minstrel in the gallery looked down upon the
 smiling faces.
 He met the gazes --- observed the spaces between the
@@ -48,6 +52,3 @@ The minstrel in the gallery looked down on the
 rabbit-run.
 And threw away his looking-glass - saw his face in
 everyone.
-
-
-

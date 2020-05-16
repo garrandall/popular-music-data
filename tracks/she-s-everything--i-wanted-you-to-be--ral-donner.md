@@ -1,8 +1,11 @@
 ---
+album: The Complete Donner 1959-1962
 artists:
 - Ral Donner
+external_ids:
+  spotify: spotify:track:2zZUzrhtPnxzqzWMQaMcAc
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-everything--i-wanted-you-to-be--ral-donner
 lyrics_url: https://www.musixmatch.com/lyrics/Ral-Donner/She-s-Everything
 name: She's Everything (I Wanted You To Be)
@@ -51,6 +54,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1961
+runtime: 147931
 ---
 If only you would have kissed me
 The way that she kissed me

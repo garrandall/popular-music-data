@@ -1,8 +1,11 @@
 ---
+album: 'XXXTENTACION Presents: Members Only, Vol. 4'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:3jq1RpStaB1YGyN3rRZGca
 features: []
-genres: []
+first_released_as_single: false
 key: sauce--xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/sauce.html
 name: Sauce!
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
+release_year: 2019
+runtime: 144724
 ---
-
 To Bass be the glory
 (Oh my, du-du-du, huh, bu-bu)
 Oh, oh, oh, oh, yeah (Yeah! Bow!)
@@ -58,6 +62,3 @@ Sauce on ya nigga, got the sauce on me, uh
 Boss, like a young nigga with sauce on me, uh
 Pull up on your shawty, have her sauce on it, yuh
 Sauce on ya nigga, got the sauce on me, yeah, huh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Famous
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:3e2KBwxibC1rq4bA5TNKW2
 features: []
-genres: []
+first_released_as_single: false
 key: psycho-puddle-of-mudd
 lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/psycho.html
 name: Psycho
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2007
+runtime: 210653
 ---
-
 Maybe I'm the one
 Maybe I'm the one who is the schizophrenic psycho. Yeah.
 
@@ -139,6 +143,3 @@ You're the one, you're the one who is the schizophrenic psycho!
 You're the one, you're the one who is the schizophrenic psycho!
 
 You're the one, you're the one who is the schizophrenic psycho!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pump
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:3mxArYKgaBlVVTLYrNnms9
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-an-elevator-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/loveinanelevator.html
 name: Love In An Elevator
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-12-16'
+release_year: 1989
+runtime: 338866
 ---
-
 Workin' like a dog for the boss man
 Workin' for the company
 I'm bettin' on the dice I'm tossin'
@@ -132,6 +136,3 @@ Do you care? Do you care?
 Honey one more time now it ain't fair
 Love in an elevator
 Livin' it up when I'm goin' down
-
-
-

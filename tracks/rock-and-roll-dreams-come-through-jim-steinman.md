@@ -1,8 +1,11 @@
 ---
+album: Bad For Good
 artists:
 - Jim Steinman
+external_ids:
+  spotify: spotify:track:5Y7JlzuX1CtyEl8qf58qeU
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-dreams-come-through-jim-steinman
 lyrics_url: https://genius.com/Jim-steinman-rock-and-roll-dreams-come-through-lyrics
 name: Rock And Roll Dreams Come Through
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
+release_year: 1981
+runtime: 387266
 ---
 You can't run away forever
 But there's nothing wrong with getting a good head start

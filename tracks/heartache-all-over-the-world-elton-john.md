@@ -1,8 +1,11 @@
 ---
+album: Leather Jackets
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5l51BWu2CUYJQPhovOV8eQ
 features: []
-genres: []
+first_released_as_single: false
 key: heartache-all-over-the-world-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/heartacheallovertheworld.html
 name: Heartache All Over The World
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 256399
 ---
-
 Well I'm running away
 From this house on the hill
 There's a devil inside
@@ -75,6 +79,3 @@ And everybody's got a date
 And the one's that ain't are tired
 What the hell do you do on a weekend honey
 When your heart's on fire
-
-
-

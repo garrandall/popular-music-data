@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:0buSNWU1Nf280O5JV7UXZW
 features: []
-genres: []
+first_released_as_single: false
 key: never-had-a-love-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/neverhadalove.html
 name: Never Had A Love
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 308493
 ---
-
 There's been a hundred if there's been one, whoa, oh
 And they have all been nice for a while, uh huh, yea
 But then one day, I call on you
@@ -70,6 +74,3 @@ No I never had a love like this
 No I never had a love like this
 And I can't explain the way
 It feels but it feels right, yea
-
-
-

@@ -1,7 +1,8 @@
 ---
 artists:
-- The Chipmunks With David Seville
-features: []
+- Alvin And The Chipmunks
+features:
+- David Seville
 genres: []
 key: the-alvin-twist-the-chipmunks-with-david-seville
 name: The Alvin Twist

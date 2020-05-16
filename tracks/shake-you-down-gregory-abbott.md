@@ -1,8 +1,11 @@
 ---
+album: Shake You Down
 artists:
 - Gregory Abbott
+external_ids:
+  spotify: spotify:track:7wQ9alB79WZb0F5gFLbxSh
 features: []
-genres: []
+first_released_as_single: false
 key: shake-you-down-gregory-abbott
 lyrics_url: https://www.azlyrics.com/lyrics/gregoryabbott/shakeyoudown.html
 name: Shake You Down
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1986
+runtime: 245413
 ---
-
 Oh, yeah
 
 Girl, I've been watching you
@@ -165,6 +169,3 @@ Come on, sugar, let me shake you down
 I'm gonna take you down to the ground
 I shake and I shiver when I know you're near
 Come on, baby, whisper in my ear
-
-
-

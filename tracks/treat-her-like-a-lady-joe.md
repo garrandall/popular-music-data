@@ -1,8 +1,11 @@
 ---
+album: My Name Is Joe
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:4bHgzt9rBMbnrzgd1UCyCa
 features: []
-genres: []
+first_released_as_single: true
 key: treat-her-like-a-lady-joe
 lyrics_url: https://www.azlyrics.com/lyrics/joe/treatherlikealady.html
 name: Treat Her Like A Lady
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 1971
+runtime: 168750
 ---
-
 Something ain't right, something just ain't right.
 Lord have mercy, babe,
 Tell me when was the last time, you brought her roses home from work.
@@ -110,4 +114,3 @@ See I know what I'm talking about.
 
 
 (You better run to her)
-

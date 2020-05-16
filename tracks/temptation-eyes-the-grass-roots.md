@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:6KYEtZi2zMlIULXzca9mjp
 features: []
-genres: []
+first_released_as_single: false
 key: temptation-eyes-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/temptationeyes.html
 name: Temptation Eyes
@@ -79,8 +82,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1970
+runtime: 154600
 ---
-
 She's got something that moves my soul
 And she knows 
 I'd love to love her
@@ -129,6 +133,3 @@ Temptation eyes
 You're gonna love me, love me tonight
 
 Temptation eyes
-
-
-

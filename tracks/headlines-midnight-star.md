@@ -1,8 +1,11 @@
 ---
+album: Headlines
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:3eD8zm8wgfKNyWgS4qM3LW
 features: []
-genres: []
+first_released_as_single: false
 key: headlines-midnight-star
 lyrics_url: https://genius.com/Midnight-star-headlines-lyrics
 name: Headlines
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1986
+runtime: 498466
 ---
 Extra extra read all about it
 Extra extra read all about it

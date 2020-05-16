@@ -1,9 +1,12 @@
 ---
+album: The Beat Goes On
 artists:
 - Tanto Metro
 - Devonte
+external_ids:
+  spotify: spotify:track:2phO9g0qp9onVKSChWZtlb
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-her-tanto-metro-devonte
 lyrics_url: https://genius.com/Tanto-metro-and-devonte-give-it-to-her-lyrics
 name: Give It To Her
@@ -88,6 +91,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2002
+runtime: 210866
 ---
 Yo, you see if she a request it... (Oh oh oh, oh boy)
 Yeah man, let she have it

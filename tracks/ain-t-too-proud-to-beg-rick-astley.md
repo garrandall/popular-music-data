@@ -1,8 +1,11 @@
 ---
+album: Hold Me in Your Arms
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:1j0q1Ljv4gdFYiwtw3vGPU
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-too-proud-to-beg-rick-astley
 lyrics_url: https://genius.com/Rick-astley-aint-too-proud-to-beg-lyrics
 name: Ain't Too Proud To Beg
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1988
+runtime: 258133
 ---
 I know you wanna leave me
 But I refuse to let you go

@@ -1,8 +1,11 @@
 ---
+album: Fleetwood Mac
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:5ihS6UUlyQAfmp48eSkxuQ
 features: []
-genres: []
+first_released_as_single: false
 key: landslide-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/landslide.html
 name: Landslide
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1975
+runtime: 199493
 ---
-
 I took my love, I took it down
 I climbed a mountain and I turned around
 And I saw my reflection in the snow-covered hills
@@ -119,6 +123,3 @@ Well the landslide will bring it down
 And if you see my reflection in the snow-covered hills
 Well the landslide will bring it down, oh oh
 The landslide will bring it down
-
-
-

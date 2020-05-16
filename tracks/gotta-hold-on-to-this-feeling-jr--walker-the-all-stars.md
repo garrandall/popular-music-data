@@ -1,9 +1,12 @@
 ---
+album: 'The Complete Motown Singles Vol. 10: 1970'
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:2dlVeyhP1kM1xdfJGN6gpG
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-hold-on-to-this-feeling-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-gotta-hold-on-to-this-feeling-lyrics
 name: Gotta Hold On To This Feeling
@@ -48,6 +51,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 214133
 ---
 The day without the shining sun
 Is a day without your loving baby

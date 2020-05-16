@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The Viscounts
+external_ids:
+  spotify: spotify:track:6aW0GTIAQcHdPxQczS0rG4
 features: []
-genres: []
+first_released_as_single: false
 key: wabash-blues-the-viscounts
 name: Wabash Blues
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 121866
 ---
 

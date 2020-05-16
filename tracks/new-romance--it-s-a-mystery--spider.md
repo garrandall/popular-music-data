@@ -1,8 +1,11 @@
 ---
+album: Spider
 artists:
 - Spider
+external_ids:
+  spotify: spotify:track:6mRcTcQxjHByzX6eMWv13T
 features: []
-genres: []
+first_released_as_single: false
 key: new-romance--it-s-a-mystery--spider
 lyrics_url: https://genius.com/Spider-new-romance-its-a-mystery-lyrics
 name: New Romance (It's A Mystery)
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
+release_year: 1980
+runtime: 189666
 ---
 I fell in love today
 Never thought I'd feel this way

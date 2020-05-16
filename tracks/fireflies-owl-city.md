@@ -1,8 +1,11 @@
 ---
+album: Ocean Eyes
 artists:
 - Owl City
+external_ids:
+  spotify: spotify:track:3DamFFqW32WihKkTVlwTYQ
 features: []
-genres: []
+first_released_as_single: false
 key: fireflies-owl-city
 lyrics_url: https://www.azlyrics.com/lyrics/owlcity/fireflies.html
 name: Fireflies
@@ -131,8 +134,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2009
+runtime: 228346
 ---
-
 You would not believe your eyes
 If ten million fireflies
 Lit up the world as I fell asleep
@@ -192,6 +196,3 @@ I'd like to make myself believe
 That planet Earth turns slowly
 It's hard to say that I'd rather stay awake when I'm asleep
 Because my dreams are bursting at the seams
-
-
-

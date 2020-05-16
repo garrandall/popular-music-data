@@ -1,8 +1,11 @@
 ---
+album: Forever Blue
 artists:
 - Chris Isaak
+external_ids:
+  spotify: spotify:track:3oLHKGV6TZc2NCUk4wEOA7
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-crying-chris-isaak
 lyrics_url: https://genius.com/Chris-isaak-somebodys-crying-lyrics
 name: Somebody's Crying
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 168280
 ---
 I know somebody and they cry for you
 They lie awake at night and dream of you

@@ -1,8 +1,11 @@
 ---
+album: The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:5ydD69Y6DBBu6VFJmsu4BB
 features: []
-genres: []
+first_released_as_single: false
 key: reaching-for-the-world-harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-reaching-for-the-world-lyrics
 name: Reaching For The World
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1977
+runtime: 266106
 ---
 I've been a lucky fella
 Been around everywhere

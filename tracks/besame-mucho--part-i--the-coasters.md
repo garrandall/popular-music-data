@@ -1,8 +1,11 @@
 ---
+album: 'There''s A Riot Goin'' On: The Coasters On Atco'
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:0giG9rN3UBRB0qyM6MWOU3
 features: []
-genres: []
+first_released_as_single: false
 key: besame-mucho--part-i--the-coasters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Coasters/Besame-mucho
 name: Besame Mucho (Part I)
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 136506
 ---
 Bésame, bésame mucho
 Each time I cling to your kiss,

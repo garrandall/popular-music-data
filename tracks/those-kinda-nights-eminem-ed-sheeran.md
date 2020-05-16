@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0VSzREd1OjEWJ9tXoFHRQH
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: those-kinda-nights-eminem-ed-sheeran
 lyrics_url: https://genius.com/Eminem-those-kinda-nights-lyrics
 name: Those Kinda Nights
@@ -16,6 +19,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 177693
 ---
 Damn, girl, with your sexy ass, haha
 Let me holla at you

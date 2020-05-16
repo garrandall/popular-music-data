@@ -1,8 +1,11 @@
 ---
+album: From Q, With Love
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:06EJXsMGuxmLZvJaZE0U1d
 features: []
-genres: []
+first_released_as_single: false
 key: the-secret-garden-quincy-jones
 lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/thesecretgarden.html
 name: The Secret Garden
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
+release_year: 1990
+runtime: 397986
 ---
-
 Tell me your secret
 I don't just want to know
 About any secret of yours
@@ -217,6 +221,3 @@ Gonna take care of you
 If you think I have
 Got what you need
 Show you right
-
-
-

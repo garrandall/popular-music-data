@@ -1,8 +1,11 @@
 ---
+album: Back Stabbers
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:7ycwZrSaXqhSaY5yeOZgdS
 features: []
-genres: []
+first_released_as_single: false
 key: 992-arguments-the-o-jays
 lyrics_url: https://genius.com/The-ojays-992-arguments-lyrics
 name: 992 Arguments
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 366373
 ---
 992 arguments
 992, quit just a-fighting

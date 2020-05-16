@@ -1,8 +1,11 @@
 ---
+album: Keep It Comin'
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:3fZluaUtO99vNpEQoE6cpc
 features: []
-genres: []
+first_released_as_single: false
 key: why-me-baby--keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-why-me-baby-lyrics
 name: Why Me Baby?
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1991
+runtime: 327973
 ---
 (Why, why me, baby) Girl, I need to know why
 (Why me, baby) What did I do, girl, what did I do

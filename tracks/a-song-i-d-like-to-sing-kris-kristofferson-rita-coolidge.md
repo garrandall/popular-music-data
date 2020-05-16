@@ -1,9 +1,12 @@
 ---
+album: Full Moon
 artists:
 - Kris Kristofferson
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:53aAtPr0aC6xZzLYBULWwm
 features: []
-genres: []
+first_released_as_single: false
 key: a-song-i-d-like-to-sing-kris-kristofferson-rita-coolidge
 lyrics_url: https://www.musixmatch.com/lyrics/Rita-Coolidge-Kris-Kristofferson/A-Song-I-d-Like-to-Sing
 name: A Song I'd Like To Sing
@@ -48,6 +51,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 241560
 ---
 There's a song I'd like to sing
 Do you know the song I mean

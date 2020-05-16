@@ -1,8 +1,11 @@
 ---
+album: Love Soul
 artists:
 - MoKenStef
+external_ids:
+  spotify: spotify:track:20VRVHMwAspwLA207PdKOn
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-mine-mokenstef
 lyrics_url: https://genius.com/Mokenstef-hes-mine-lyrics
 name: He's Mine
@@ -99,6 +102,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
+release_year: 1995
+runtime: 253040
 ---
 He might be doing you
 But he's thinking about me

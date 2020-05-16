@@ -1,8 +1,11 @@
 ---
+album: The Windows Of The World
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:05XkMS2YVNfPNXepMScPRJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-say-a-little-prayer-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-i-say-a-little-prayer-lyrics
 name: I Say A Little Prayer
@@ -59,6 +62,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 188360
 ---
 The moment I wake up
 Before I put on my makeup

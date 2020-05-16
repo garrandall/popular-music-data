@@ -1,8 +1,11 @@
 ---
+album: Slippery When Wet
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:37ZJ0p5Jm13JPevGcx4SkF
 features: []
-genres: []
+first_released_as_single: false
 key: livin--on-a-prayer-bon-jovi
 lyrics_url: https://www.musixmatch.com/lyrics/Bon-Jovi/Livin-on-a-Prayer-You-Give-Love-a-Bad-Name
 name: Livin' On A Prayer
@@ -95,6 +98,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 1986
+runtime: 249293
 ---
 Shot through the heart and you're to blame
 Darlin' you give love a bad name

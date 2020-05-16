@@ -1,8 +1,11 @@
 ---
+album: Break Every Rule
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:2fjJt3OQ8MPaZ3LMzAWiTA
 features: []
-genres: []
+first_released_as_single: false
 key: typical-male-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/typicalmale.html
 name: Typical Male
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
+release_year: 1986
+runtime: 256826
 ---
-
 TELL ME LAWYER WHAT TO DO
 I THINK I`M FALLING IN LOVE WITH YOU
 DEFEND ME, FROM THE WAY I FEEL
@@ -109,4 +113,3 @@ SO PUT YOUR BOOKS ASIDE
 LOOSEN OFF THE SUIT AND TIE
 OPEN OFF YOUR HEART AND LET ME IN
 OPEN OFF YOUR HEART AND LET ME IN
-

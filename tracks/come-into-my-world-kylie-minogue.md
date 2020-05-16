@@ -1,8 +1,11 @@
 ---
+album: Fever
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:39DW02MW41A8bBIxH7nT1V
 features: []
-genres: []
+first_released_as_single: false
 key: come-into-my-world-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/comeintomyworld.html
 name: Come Into My World
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
+release_year: 2001
+runtime: 246866
 ---
-
 Come, come, come into my world
 Won't you lift me up, up, high upon your love
 
@@ -78,6 +82,3 @@ Like night needs morning
 Oh won't you
 Come, come, come into my world
 Won't you lift me up, up, high upon your love
-
-
-

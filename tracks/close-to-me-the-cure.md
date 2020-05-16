@@ -1,8 +1,11 @@
 ---
+album: The Head On The Door
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:7ABE6G4uQxbNtYgVrpBBPA
 features: []
-genres: []
+first_released_as_single: false
 key: close-to-me-the-cure
 lyrics_url: https://genius.com/The-cure-close-to-me-lyrics
 name: Close To Me
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
+release_year: 1985
+runtime: 203266
 ---
 I've waited hours for this
 I've made myself so sick

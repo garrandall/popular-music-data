@@ -1,9 +1,12 @@
 ---
+album: Waylon & Willie
 artists:
 - Waylon
 - Willie
+external_ids:
+  spotify: spotify:track:7nVQ8mo77KaUvhUQzh4vMy
 features: []
-genres: []
+first_released_as_single: false
 key: mammas-don-t-let-your-babies-grow-up-to-be-cowboys-waylon-willie
 lyrics_url: https://genius.com/Waylon-jennings-and-willie-nelson-mammas-dont-let-your-babies-grow-up-to-be-cowboys-lyrics
 name: Mammas Don't Let Your Babies Grow Up To Be Cowboys
@@ -48,6 +51,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1978
+runtime: 152866
 ---
 Cowboys ain't easy to love and they're harder to hold
 They'd rather give you a song than diamonds or gold

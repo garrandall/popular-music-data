@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:6EJ2jG7CQ0xXZXAMM6jP73
 features: []
-genres: []
+first_released_as_single: false
 key: linda-jan-dean
 lyrics_url: https://www.musixmatch.com/lyrics/Jan-feat-Dean/Linda-2
 name: Linda
@@ -60,6 +63,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 168506
 ---
 L-l, l-l-l, l-l-l-l-linda
 L-l, l-l-l, l-l-l-l-linda
@@ -94,7 +99,7 @@ And when my lucky star begins to shine
 With one lucky break i'll make linda mine
 L-l, l-l-l, l-l-l-l-linda
 L-l, l-l-l, l-l-l-l-linda
------ instrumental interlude -----
+
 But miracles still happen
 And when my lucky star begins to shine
 (Ah-ah-ah-ah)

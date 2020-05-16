@@ -1,8 +1,11 @@
 ---
+album: How Does That Grab You?
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:3l35DNYvWELcX1z1DIZ6Tf
 features: []
-genres: []
+first_released_as_single: false
 key: how-does-that-grab-you-darlin---nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/howdoesthatgrabyoudarlin.html
 name: How Does That Grab You Darlin'?
@@ -39,8 +42,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 153716
 ---
-
 You came by at two o'clock, you shoulda been by at ten
 I said bye at three o'clock and I ain't coming back again
 
@@ -74,6 +78,3 @@ This girl is leavin' you behind.
 
 There's more than one way to skin a cat you know. Prrrrrrr...
 Bye Bye
-
-
-

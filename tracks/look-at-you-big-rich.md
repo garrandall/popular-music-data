@@ -1,9 +1,12 @@
 ---
+album: Gravity
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:6hQNZOmjGuiJuArVQLSKro
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-you-big-rich
 lyrics_url: https://genius.com/Big-and-rich-look-at-you-lyrics
 name: Look At You
@@ -64,6 +67,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2014
+runtime: 223706
 ---
 Baby when I look at you, with them baby blues
 Cuttin' right through me

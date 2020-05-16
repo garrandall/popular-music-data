@@ -1,8 +1,11 @@
 ---
+album: Crush
 artists:
 - Orchestral Manoeuvres In The Dark
+external_ids:
+  spotify: spotify:track:0WnVjkW8k8Zo37JAI7K8zF
 features: []
-genres: []
+first_released_as_single: false
 key: secret-orchestral-manoeuvres-in-the-dark
 lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-secret-lyrics
 name: Secret
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1985
+runtime: 236333
 ---
 Secret
 Secret

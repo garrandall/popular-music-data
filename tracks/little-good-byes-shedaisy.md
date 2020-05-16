@@ -1,8 +1,11 @@
 ---
+album: The Whole Shebang
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:5ZX3IrB9tPxOoBZdXILNpy
 features: []
-genres: []
+first_released_as_single: false
 key: little-good-byes-shedaisy
 lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/littlegoodbyes.html
 name: Little Good-Byes
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
+release_year: 1999
+runtime: 200693
 ---
-
 (Ooooo, Ooooo)
 I'm gonna tell you something you don't wanna hear
 You never listen when I talk
@@ -156,6 +160,3 @@ Little good-byes
 Hey, hey - yeah, yeah, yeah
 Hey, hey - yeah, yeah, yeah
 Little good-byes
-
-
-

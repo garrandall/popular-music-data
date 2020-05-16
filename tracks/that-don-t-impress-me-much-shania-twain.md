@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:4FUfoWMypAyWbOavmYyeNu
 features: []
-genres: []
+first_released_as_single: false
 key: that-don-t-impress-me-much-shania-twain
 lyrics_url: https://genius.com/Shania-twain-that-dont-impress-me-much-lyrics
 name: That Don't Impress Me Much
@@ -119,6 +122,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
+release_year: 1997
+runtime: 218866
 ---
 Ow
 Uh-huh, yeah, yeah

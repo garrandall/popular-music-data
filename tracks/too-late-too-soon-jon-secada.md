@@ -1,8 +1,11 @@
 ---
+album: Secada
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:0A2FMrx8LiswErLm7OSNDL
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-too-soon-jon-secada
 lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/toolatetoosoon.html
 name: Too Late Too Soon
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1997
+runtime: 255266
 ---
-
 Tender was the night
 Took an early flight
 Rushing' home tonight
@@ -109,4 +113,3 @@ What was I supposed to do
 You had to see it for yourself
 Cause I thought our love was strong
 I guess I must be dreaming.
-

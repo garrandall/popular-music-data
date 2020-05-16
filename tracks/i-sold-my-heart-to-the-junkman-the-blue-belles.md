@@ -1,8 +1,11 @@
 ---
+album: The Sweet Sound Of Philadelphia Soul 1959-1964
 artists:
 - The Blue-Belles
+external_ids:
+  spotify: spotify:track:5j4ESfe75Odr8d6I7OLRji
 features: []
-genres: []
+first_released_as_single: false
 key: i-sold-my-heart-to-the-junkman-the-blue-belles
 lyrics_url: https://genius.com/Blue-belles-starlets-i-sold-my-heart-to-the-junkman-lyrics
 name: I Sold My Heart To The Junkman
@@ -51,6 +54,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 146259
 ---
 "...song, this is a very sad song, this next
 Song we're gonna do

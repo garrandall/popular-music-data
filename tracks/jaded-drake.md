@@ -1,8 +1,11 @@
 ---
+album: Blue
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1vPgw05S5Em7tuYgDzUMan
 features: []
-genres: []
+first_released_as_single: false
 key: jaded-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/jaded.html
 name: Jaded
@@ -15,9 +18,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 255000
 ---
-
-
 Ayy, yeah
 Dogs on this side, dogs over on this side
 Yeah
@@ -90,6 +93,3 @@ You wanna hit me up when you make it
 You'll try and come back when you famous (back around, back around)
 Dogs on this side, dogs over on this side
 You wanna get with me, stop (playin')
-
-
-

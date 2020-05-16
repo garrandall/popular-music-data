@@ -1,8 +1,11 @@
 ---
+album: Loc-ed After Dark
 artists:
 - Tone-Loc
+external_ids:
+  spotify: spotify:track:5YIF6HSOtHN9HdcE5IPzMe
 features: []
-genres: []
+first_released_as_single: false
 key: funky-cold-medina-tone-loc
 lyrics_url: https://www.azlyrics.com/lyrics/tone-loc/funkycoldmedina.html
 name: Funky Cold Medina
@@ -79,8 +82,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1989
+runtime: 248160
 ---
-
 Alright, dig it
 
 
@@ -141,6 +145,3 @@ Ya know what I'm sayin
 That Medina's a monster, y'all
 
 Funky Cold Medina
-
-
-

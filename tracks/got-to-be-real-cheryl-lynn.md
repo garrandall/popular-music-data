@@ -1,8 +1,11 @@
 ---
+album: Cheryl Lynn
 artists:
 - Cheryl Lynn
+external_ids:
+  spotify: spotify:track:207ucQrfXLCJ0egZlabT1g
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-be-real-cheryl-lynn
 lyrics_url: https://www.azlyrics.com/lyrics/cheryllynn/gottobereal.html
 name: Got To Be Real
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1968
+runtime: 221493
 ---
-
 What you find-ah
 What you feel now
 What you know-a
@@ -121,6 +125,3 @@ What you feel now
 (I feel I need you)
 What you know-a
 To be real...
-
-
-

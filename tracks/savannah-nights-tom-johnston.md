@@ -1,8 +1,11 @@
 ---
+album: Everything You've Heard Is True
 artists:
 - Tom Johnston
+external_ids:
+  spotify: spotify:track:7Guvd0oJuLKQQp4lXx5Ike
 features: []
-genres: []
+first_released_as_single: false
 key: savannah-nights-tom-johnston
 lyrics_url: https://genius.com/Tom-johnston-savannah-nights-lyrics
 name: Savannah Nights
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1979
+runtime: 244160
 ---
 Well, when the night falls
 Way down in Savannah

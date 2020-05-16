@@ -1,8 +1,11 @@
 ---
+album: The Legendary Zing Album
 artists:
 - The Trammps
+external_ids:
+  spotify: spotify:track:5RIBJPsFAF2x3G1Vhem1oa
 features: []
-genres: []
+first_released_as_single: false
 key: hold-back-the-night-the-trammps
 lyrics_url: https://www.azlyrics.com/lyrics/trammps/holdbackthenight.html
 name: Hold Back The Night
@@ -47,8 +50,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
+release_year: 1975
+runtime: 234466
 ---
-
 Hold back the night, turn on the lights
 Don't wanna dream about you, baby
 (Dream about you, baby)
@@ -81,6 +85,3 @@ Don't want to dream about you, baby
 
 Hold back the night, turn on the lights
 Don't want to dream about you, baby
-
-
-

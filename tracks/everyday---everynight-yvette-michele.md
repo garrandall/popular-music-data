@@ -1,8 +1,11 @@
 ---
+album: Funkmaster Flex Presents The Mix Tape Vol. 1
 artists:
 - Yvette Michele
+external_ids:
+  spotify: spotify:track:5sIzSNxjMHT4oOajhanNVY
 features: []
-genres: []
+first_released_as_single: false
 key: everyday---everynight-yvette-michele
 lyrics_url: https://genius.com/Yvette-michele-everyday-and-everynight-lyrics
 name: Everyday & Everynight
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-04-06'
+release_year: 1995
+runtime: 211400
 ---
 I'm crazy for you Mr. DJ
 I just wanna get to know your name

@@ -1,8 +1,11 @@
 ---
+album: Spiceworld
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:3FteycP8CaXS1MhjcXekVT
 features: []
-genres: []
+first_released_as_single: false
 key: stop-spice-girls
 lyrics_url: https://genius.com/Spice-girls-stop-lyrics
 name: Stop
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
+release_year: 1997
+runtime: 204753
 ---
 You just walk in, I make you smile
 It's cool but you don't even know me

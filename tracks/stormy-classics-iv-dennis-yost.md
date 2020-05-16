@@ -1,9 +1,12 @@
 ---
+album: Mamas And Papas/Soul Train
 artists:
 - Classics IV
+external_ids:
+  spotify: spotify:track:0Dn130TEDADOUN6TrZSpLr
 features:
 - Dennis Yost
-genres: []
+first_released_as_single: false
 key: stormy-classics-iv-dennis-yost
 lyrics_url: https://genius.com/Classics-iv-stormy-feat-denis-yost-lyrics
 name: Stormy
@@ -68,6 +71,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 167893
 ---
 You were the sunshine, baby, whenever you smiled
 But I call you Stormy today

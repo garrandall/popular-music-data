@@ -1,8 +1,11 @@
 ---
+album: Keep Your Eye On The Sparrow
 artists:
 - Merry Clayton
+external_ids:
+  spotify: spotify:track:6rmEDD2dmfsJzQSF3r7iGs
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-eye-on-the-sparrow-merry-clayton
 lyrics_url: https://genius.com/Merry-clayton-keep-your-eye-on-the-sparrow-lyrics
 name: Keep Your Eye On The Sparrow
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 172986
 ---
 Don't go to bed with
 No price on your head, no

@@ -1,8 +1,11 @@
 ---
+album: Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:3qmyaJxqKaGkAioK3lEnFS
 features: []
-genres: []
+first_released_as_single: false
 key: ghetto-child-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/ghettochild.html
 name: Ghetto Child
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1973
+runtime: 230719
 ---
-
 When I was seventeen
 I ran away from home
 And from everything
@@ -114,6 +118,3 @@ Things gotta change, gotta change, yeah, yeah!
 Life ain't so easy
 When you're a ghetto child
 Whoa, oh, oh, whoa,I'm a ghetto boy
-
-
-

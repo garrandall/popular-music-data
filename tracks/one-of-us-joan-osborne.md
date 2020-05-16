@@ -1,8 +1,11 @@
 ---
+album: Relish
 artists:
 - Joan Osborne
+external_ids:
+  spotify: spotify:track:1xNmF1Uep5OGutizZSbKvd
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-us-joan-osborne
 lyrics_url: https://genius.com/Joan-osborne-one-of-us-lyrics
 name: One Of Us
@@ -95,6 +98,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1995
+runtime: 320466
 ---
 If God had a name, what would it be?
 And would you call it to his face

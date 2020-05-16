@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:1WY7BXIynpGEchR5SD0zsQ
 features: []
-genres: []
+first_released_as_single: false
 key: ebb-tide-bobby-freeman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Freeman/Ebb-Tide
 name: Ebb Tide
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 151360
 ---
 First the tide rushes in
 Plants a kiss on the shore

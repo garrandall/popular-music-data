@@ -1,8 +1,11 @@
 ---
+album: Come Share the Wine
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:4I6OrFObPlJNl1bP2KZTjA
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-more-and-more-every-day-al-martino
 lyrics_url: https://genius.com/Al-martino-i-love-you-more-and-more-every-day-lyrics
 name: I Love You More And More Every Day
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 135333
 ---
 I love you more and more every day
 

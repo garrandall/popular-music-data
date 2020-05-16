@@ -1,8 +1,11 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:4HfaOznGhHYWqPtpLYz2PB
 features: []
-genres: []
+first_released_as_single: false
 key: rocket-ship-future
 lyrics_url: https://genius.com/Future-rocket-ship-lyrics
 name: Rocket Ship
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2019
+runtime: 116846
 ---
 Drankin' lean, totin' extendos
 Phantom long like a limo

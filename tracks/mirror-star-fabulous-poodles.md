@@ -1,8 +1,11 @@
 ---
+album: Unsuitable
 artists:
 - Fabulous Poodles
+external_ids:
+  spotify: spotify:track:3cGWZDPMbPIR5o12o9bTZL
 features: []
-genres: []
+first_released_as_single: false
 key: mirror-star-fabulous-poodles
 lyrics_url: https://genius.com/Fabulous-poodles-mirror-star-lyrics
 name: Mirror Star
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 272946
 ---
 He was a lonely boy
 No good at sports

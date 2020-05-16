@@ -1,8 +1,11 @@
 ---
+album: Best Of The Tams
 artists:
 - The Tams
+external_ids:
+  spotify: spotify:track:3UbCQtvvWzivfkCnNxrOoi
 features: []
-genres: []
+first_released_as_single: false
 key: be-young-be-foolish-be-happy-the-tams
 lyrics_url: https://genius.com/The-tams-be-young-be-foolish-be-happy-lyrics
 name: Be Young Be Foolish Be Happy
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 126706
 ---
 Be young, be foolish but be happy
 Be young, be foolish but be happy

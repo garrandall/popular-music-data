@@ -1,8 +1,12 @@
 ---
+album: 'The Essentials: Betty Wright'
 artists:
-- Peter Brown With Betty Wright
-features: []
-genres: []
+- Peter Brown
+external_ids:
+  spotify: spotify:track:2mKJOxhHIcQjr14YpmW2aj
+features:
+- Betty Wright
+first_released_as_single: false
 key: dance-with-me-peter-brown-with-betty-wright
 name: Dance With Me
 rankings:
@@ -118,5 +122,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 223440
 ---
 

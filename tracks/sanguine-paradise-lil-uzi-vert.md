@@ -1,8 +1,11 @@
 ---
+album: Sanguine Paradise
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:3XiNC94b4Tq1xwv70sQJGN
 features: []
-genres: []
+first_released_as_single: true
 key: sanguine-paradise-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/sanguineparadise.html
 name: Sanguine Paradise
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 243976
 ---
-
 We be throwin' money in a spiral
 Every time your girl hear my song, yeah, turn her right into my hoe
 She shake her ass, do the eye roll
@@ -176,6 +180,3 @@ You do it (I'm working on dying)
 You do it (Ayy)
 You do it (Ayy)
 You do it (Ayy)
-
-
-

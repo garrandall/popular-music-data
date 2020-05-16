@@ -1,8 +1,11 @@
 ---
+album: Time After Time
 artists:
 - Timmy T.
+external_ids:
+  spotify: spotify:track:4eJsGX9rhsU33HVz0hXGLS
 features: []
-genres: []
+first_released_as_single: false
 key: what-will-i-do-timmy-t-
 lyrics_url: https://genius.com/Timmy-t-what-will-i-do-lyrics
 name: What Will I Do
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
+release_year: 1990
+runtime: 248173
 ---
 When I met you, you meant the world to me
 But you were the type of girl that set love free
@@ -39,4 +44,3 @@ You're far away from me
 You would have been so rich with love but set it free
 Now you want home but it's too late for me
 'Cause I won't be used and abused and then set free
-

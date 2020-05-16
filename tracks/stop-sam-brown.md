@@ -1,8 +1,11 @@
 ---
+album: Stop!
 artists:
 - Sam Brown
+external_ids:
+  spotify: spotify:track:2IWYi4NJyJvhpJVjVs2pm8
 features: []
-genres: []
+first_released_as_single: false
 key: stop-sam-brown
 lyrics_url: https://genius.com/Sam-brown-stop-lyrics
 name: Stop
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1988
+runtime: 295906
 ---
 All that I have is all that you've given me
 Did you never worry that I'd come to depend on you?

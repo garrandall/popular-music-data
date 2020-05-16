@@ -1,9 +1,12 @@
 ---
+album: Playboi Carti
 artists:
 - Playboi Carti
+external_ids:
+  spotify: spotify:track:59J5nzL1KniFHnU120dQzt
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: wokeuplikethis--playboi-carti-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/playboi-carti/wokeuplikethis.html
 name: Wokeuplikethis*
@@ -48,9 +51,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 235535
 ---
-
-
 Know I got a lot, lot
 I'm a rockstar
 I'm a rockstar, know I got a lot, lot
@@ -134,6 +137,3 @@ I woke up to niggas soundin' like me
 Woke up to niggas talkin' like me
 Woke up to niggas soundin' like me
 Woke up to niggas talkin' like me
-
-
-

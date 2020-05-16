@@ -1,8 +1,11 @@
 ---
+album: Seven The Hard Way
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:2kFCYlFRuC7YqM5stlM9fH
 features: []
-genres: []
+first_released_as_single: false
 key: invincible--theme-from-the-legend-of-billie-jean--pat-benatar
 lyrics_url: https://genius.com/Pat-benatar-invincible-lyrics
 name: Invincible (Theme From The Legend Of Billie Jean)
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
+release_year: 1985
+runtime: 268866
 ---
 This bloody road remains a mystery
 This sudden darkness fills the air

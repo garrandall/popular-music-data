@@ -1,8 +1,11 @@
 ---
+album: She Looks So Perfect (B-Sides)
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:3dljWRIrBeb8YXte1mvjX5
 features: []
-genres: []
+first_released_as_single: false
 key: she-looks-so-perfect-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-she-looks-so-perfect-lyrics
 name: She Looks So Perfect
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2014
+runtime: 202967
 ---
 Hey-hey, hey-hey, hey-hey, hey
 Hey-hey, hey-hey, hey-hey, hey

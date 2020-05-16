@@ -1,8 +1,11 @@
 ---
+album: 'The Percells Collection: What Are Boys Made Of'
 artists:
 - The Percells
+external_ids:
+  spotify: spotify:track:3lnG4KSgzz6wjkJxrRR2ss
 features: []
-genres: []
+first_released_as_single: false
 key: what-are-boys-made-of-the-percells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Percells/What-Are-Boys-Made-Of
 name: What Are Boys Made Of
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 122386
 ---
 (Oh won't you tell me, tell me, tell me, tell me,
 What are boys made of)

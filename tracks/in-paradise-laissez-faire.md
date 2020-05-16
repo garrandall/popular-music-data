@@ -1,8 +1,11 @@
 ---
+album: Hands Off
 artists:
 - Laissez Faire
+external_ids:
+  spotify: spotify:track:7EOZ9Q3Ntl2fJpclhFc937
 features: []
-genres: []
+first_released_as_single: false
 key: in-paradise-laissez-faire
 lyrics_url: https://genius.com/Laissez-faire-in-paradise-lyrics
 name: In Paradise
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 349893
 ---
 In paradise
 

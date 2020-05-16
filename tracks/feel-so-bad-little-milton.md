@@ -1,8 +1,11 @@
 ---
+album: 'Little Milton: Chess 50th Anniversary Collection'
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:6JSrZlaGV7Xle7KJhGikRq
 features: []
-genres: []
+first_released_as_single: false
 key: feel-so-bad-little-milton
 lyrics_url: https://genius.com/Little-milton-feel-so-bad-lyrics
 name: Feel So Bad
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1967
+runtime: 243240
 ---
 Feel so bad
 Feel like a ballgame on a rainy day

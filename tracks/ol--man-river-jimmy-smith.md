@@ -1,8 +1,11 @@
 ---
+album: Bashin
 artists:
 - Jimmy Smith
+external_ids:
+  spotify: spotify:track:0YWmZHhhQdc8FgR4QNHAVC
 features: []
-genres: []
+first_released_as_single: false
 key: ol--man-river-jimmy-smith
 name: Ol' Man River
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 237066
 ---
 

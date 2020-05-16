@@ -1,8 +1,11 @@
 ---
+album: Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:22wWxHGHRH8gZXNDXRgSqY
 features: []
-genres: []
+first_released_as_single: false
 key: these-dreams-heart
 lyrics_url: https://genius.com/Heart-these-dreams-lyrics
 name: These Dreams
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 254476
 ---
 Spare a little candle
 Save some light for me

@@ -1,9 +1,12 @@
 ---
+album: Look Around
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:6QeXqr6JQInV8Q8WDndmBn
 features: []
-genres: []
+first_released_as_single: false
 key: the-look-of-love-sergio-mendes-brasil--66
 lyrics_url: https://www.musixmatch.com/lyrics/Sergio-Mendes-feat-Brasil-66-4/The-Look-of-Love
 name: The Look Of Love
@@ -64,6 +67,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
+release_year: 1966
+runtime: 166066
 ---
 The look of love is in your eyes
 A look the time can't disguise

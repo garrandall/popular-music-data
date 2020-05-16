@@ -1,10 +1,13 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2x0WlnmfG39ZuDmstl9xfX
 features:
 - Ed Sheeran
 - Future
-genres: []
+first_released_as_single: false
 key: end-game-taylor-swift-ed-sheeran-future
 lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-taylor-swift-end-game-ft-ed-sheeran-and-future-deutsche-ubersetzung-lyrics
 name: End Game
@@ -65,6 +68,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 244826
 ---
 Ich will dein Ziel sein
 Ich will deine Nummer eins sein

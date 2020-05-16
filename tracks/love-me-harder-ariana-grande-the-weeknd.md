@@ -1,9 +1,12 @@
 ---
+album: My Everything
 artists:
 - Ariana Grande
 - The Weeknd
+external_ids:
+  spotify: spotify:track:5J4ZkQpzMUFojo1CtAZYpn
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-harder-ariana-grande-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/lovemeharder.html
 name: Love Me Harder
@@ -96,9 +99,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 236133
 ---
-
-
 Tell me something I need to know
 Then take my breath and never let it go
 If you just let me invade your space
@@ -159,6 +162,3 @@ Love me, love me, love me
 (Just a little bit, harder, harder, baby)
 Oh, oh, oh, oh
 Harder, harder, harder
-
-
-

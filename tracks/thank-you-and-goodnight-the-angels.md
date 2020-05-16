@@ -1,8 +1,11 @@
 ---
+album: My Boyfriend's Back
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:293W5tGqQJC73Q1SEBwDo7
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-and-goodnight-the-angels
 lyrics_url: https://genius.com/The-angels-usa-thank-you-and-goodnight-lyrics
 name: Thank You And Goodnight
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 153733
 ---
 Thank you and goodnight
 Thank you and goodnight

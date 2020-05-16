@@ -1,8 +1,11 @@
 ---
+album: Lady Bump
 artists:
 - Penny Mclean
+external_ids:
+  spotify: spotify:track:31UBcyZkwJRy2ZV5XpMlxh
 features: []
-genres: []
+first_released_as_single: false
 key: lady-bump-penny-mclean
 lyrics_url: https://genius.com/Penny-mclean-lady-bump-lyrics
 name: Lady Bump
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 228762
 ---
 Hey
 I'm so glad you come in here tonight. I'm so itchin' to

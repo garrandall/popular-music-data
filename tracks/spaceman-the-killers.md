@@ -1,8 +1,11 @@
 ---
+album: Day & Age (Bonus Tracks)
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:6tPcv3GSPeSNFCqVsGjycu
 features: []
-genres: []
+first_released_as_single: true
 key: spaceman-the-killers
 lyrics_url: https://www.azlyrics.com/lyrics/killers/spaceman.html
 name: Spaceman
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2008
+runtime: 355872
 ---
-
 It started with a low light.
 Next thing I knew, they ripped me from my bed,
 And then they took my blood type.
@@ -87,6 +91,3 @@ It's all in your mind."
 
 It's all in my mind
 It's all in my mind
-
-
-

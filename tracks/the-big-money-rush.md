@@ -1,8 +1,11 @@
 ---
+album: Power Windows
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:4f6CJbnASHEtQspSwqoYlr
 features: []
-genres: []
+first_released_as_single: false
 key: the-big-money-rush
 lyrics_url: https://genius.com/Rush-the-big-money-lyrics
 name: The Big Money
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 334493
 ---
 Big money goes around the world
 Big money underground

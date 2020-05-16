@@ -1,8 +1,11 @@
 ---
+album: Langston, Up Close And Personal
 artists:
 - The O'Kaysions
+external_ids:
+  spotify: spotify:track:4hFijVSyGeulZaLRJSGU5G
 features: []
-genres: []
+first_released_as_single: false
 key: girl-watcher-the-o-kaysions
 lyrics_url: https://genius.com/The-okaysions-girl-watcher-lyrics
 name: Girl Watcher
@@ -63,6 +66,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 157000
 ---
 I'm a girl watcher
 I'm a girl watcher

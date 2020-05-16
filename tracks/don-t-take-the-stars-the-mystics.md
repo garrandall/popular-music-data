@@ -1,8 +1,11 @@
 ---
+album: 'Hushabye: The Complete Laurie Singles'
 artists:
 - The Mystics
+external_ids:
+  spotify: spotify:track:0smvyhir3JqCjkGYmA2q2B
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-the-stars-the-mystics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Mystics/Don-t-Take-the-Stars
 name: Don't Take The Stars
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 151306
 ---
 The night we fell in love
 Stars bright above

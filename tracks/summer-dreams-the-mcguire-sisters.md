@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:7dj1hbvMZPdezIDwCLhFn7
 features: []
-genres: []
+first_released_as_single: false
 key: summer-dreams-the-mcguire-sisters
 lyrics_url: https://genius.com/The-mcguire-sisters-summer-dreams-lyrics
 name: Summer Dreams
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 174000
 ---
 Summer dreams
 Where do they come

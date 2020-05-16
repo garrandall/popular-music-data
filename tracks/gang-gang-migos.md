@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:6RKkHI2fkmgZq7uQPPav8f
 features: []
-genres: []
+first_released_as_single: false
 key: gang-gang-migos
 lyrics_url: https://genius.com/Migos-gang-gang-lyrics
 name: Gang Gang
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 181318
 ---
 Would you, oh
 Would you, oh

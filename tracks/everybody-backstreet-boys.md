@@ -1,8 +1,11 @@
 ---
+album: Backstreet Boys
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:5WTxbyWTpoqhdxEN2szOnl
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-everybody-backstreets-back-lyrics
 name: Everybody
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-09-12'
+release_year: 1996
+runtime: 287293
 ---
 Everybody, yeah
 Rock your body, yeah

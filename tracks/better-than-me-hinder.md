@@ -1,8 +1,11 @@
 ---
+album: Extreme Behavior
 artists:
 - Hinder
+external_ids:
+  spotify: spotify:track:10fddGyyeUquZZ2uPTjD7P
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-me-hinder
 lyrics_url: https://genius.com/Hinder-better-than-me-lyrics
 name: Better Than Me
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2005
+runtime: 223533
 ---
 I think you can do much better than me
 After all the lies that I made you believe

@@ -1,8 +1,11 @@
 ---
+album: Ol' Waylon
 artists:
 - Waylon Jennings
+external_ids:
+  spotify: spotify:track:4WScDSwAa9m48pgHugVkCo
 features: []
-genres: []
+first_released_as_single: false
 key: luckenbach-texas--back-to-the-basics-of-love--waylon-jennings
 lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/luckenbachtexasbacktothebasicsoflove.html
 name: Luckenbach Texas (Back To The Basics Of Love)
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 202026
 ---
-
 The only two things in life
 That make it worth livin'
 Is guitars to tune good 
@@ -125,6 +129,3 @@ And Jerry Jeff's train songs
 And blue eyes cryin' in the rain
 Out in Luckenbach, Texas 
 There ain't nobody feelin' no pain
-
-
-

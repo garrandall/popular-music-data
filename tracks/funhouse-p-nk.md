@@ -1,8 +1,11 @@
 ---
+album: Funhouse
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:1uexV2mYuZmLhVz4G5LUZv
 features: []
-genres: []
+first_released_as_single: false
 key: funhouse-p-nk
 lyrics_url: https://genius.com/P-nk-funhouse-lyrics
 name: Funhouse
@@ -59,6 +62,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
+release_year: 2008
+runtime: 204626
 ---
 I dance around this empty house
 Tear us down, throw you out

@@ -1,8 +1,11 @@
 ---
+album: 'El Rosario de Almonte: Sevillanas Rocieras'
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:5GUXG5tQfQr2LJt5aXeEo6
 features: []
-genres: []
+first_released_as_single: false
 key: adorn-miguel
 lyrics_url: https://genius.com/Miguel-adorn-lyrics
 name: Adorn
@@ -139,6 +142,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 1997
+runtime: 259000
 ---
 Hello, I am your subconscious
 Don't be afraid

@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:1reWqUNMwp5ciYLIufmWLI
 features: []
-genres: []
+first_released_as_single: true
 key: wow-post-malone
 lyrics_url: https://genius.com/Post-malone-wow-lyrics
 name: Wow
@@ -183,6 +186,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 149040
 ---
 Said she tired of little money, need a big boy
 Pull up 20 inch blades like I'm Lil’ Troy

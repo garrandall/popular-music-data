@@ -1,8 +1,11 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:3s3VVLE1kB7Xk2AoJKlGmr
 features: []
-genres: []
+first_released_as_single: false
 key: overnight-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/overnight.html
 name: Overnight
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 217560
 ---
-
 Yeah, maybe this should just be the intro, like this
 That's it, squad, bitch
 
@@ -74,6 +78,3 @@ Hustlin' the streets that they trap over-over-overnight
 People think this how this shit happened, but they never right
 Acting like they got it, they got it, but they never quite seem to understand that this right here deeper than all that
 Hustlin' the streets like they trappin' and burnin' down, shit
-
-
-

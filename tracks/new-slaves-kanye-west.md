@@ -1,8 +1,11 @@
 ---
+album: Yeezus
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:4cAgkb0ifwn0FSHGXnr4F6
 features: []
-genres: []
+first_released_as_single: false
 key: new-slaves-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/newslaves.html
 name: New Slaves
@@ -15,9 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
+release_year: 2013
+runtime: 256093
 ---
-
-
 My momma was raised in an era when,
 Clean water was only served to the fairer skin
 Doing clothes you would have thought I had help
@@ -87,6 +90,3 @@ Y'all 'bout to turn shit up
 I'm 'bout to tear shit down
 I'm 'bout to air shit out
 Now what the fuck they gon' say now?
-
-
-

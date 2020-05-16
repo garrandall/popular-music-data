@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin Music from the Movies
 artists:
 - The Wonder Band
+external_ids:
+  spotify: spotify:track:6Qu1yi6M7Z0BoH39bSiBfu
 features: []
-genres: []
+first_released_as_single: false
 key: whole-lotta-love-the-wonder-band
 lyrics_url: https://www.musixmatch.com/lyrics/The-Wonder-Band/Whole-Lotta-Love
 name: Whole Lotta Love
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1979
+runtime: 348005
 ---
 You need cooling
 Baby, I'm not fooling

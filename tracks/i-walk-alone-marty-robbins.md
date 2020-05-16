@@ -1,8 +1,11 @@
 ---
+album: I Walk Alone
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:6o2VQ2SaibBZydzDe26X1w
 features: []
-genres: []
+first_released_as_single: false
 key: i-walk-alone-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/iwalkalone.html
 name: I Walk Alone
@@ -39,8 +42,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1952
+runtime: 197493
 ---
-
 I walk alone where once we wandered
 It seems so strange that you are gone
 Till you return I'll stay the same, dear
@@ -55,6 +59,3 @@ Flame of love is brightly burnin'
 You know that I'm your very own
 Until you return I'll stay the same, dear
 And I'll still be true and walk alone
-
-
-

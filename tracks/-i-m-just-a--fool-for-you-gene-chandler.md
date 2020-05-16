@@ -1,8 +1,11 @@
 ---
+album: The Girl Don't Care
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:0FESeUvkf85Xj65Yv08Ovf
 features: []
-genres: []
+first_released_as_single: false
 key: -i-m-just-a--fool-for-you-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-im-just-a-fool-for-you-lyrics
 name: (I'm Just A) Fool For You
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 160853
 ---
 People getting smarter
 Every day, yeah

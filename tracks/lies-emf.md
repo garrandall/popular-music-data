@@ -1,8 +1,11 @@
 ---
+album: Schubert Dip
 artists:
 - EMF
+external_ids:
+  spotify: spotify:track:0p49hWG0ttwbLltdzxKOZO
 features: []
-genres: []
+first_released_as_single: false
 key: lies-emf
 lyrics_url: https://genius.com/Emf-lies-lyrics
 name: Lies
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
+release_year: 1991
+runtime: 259666
 ---
 You said too much
 And what you said it was a lie

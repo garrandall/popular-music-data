@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:07Dq6uKYVtArkND8KPSJXl
 features:
 - Kehlani
-genres: []
+first_released_as_single: false
 key: ring-cardi-b-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/ring.html
 name: Ring
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 177139
 ---
-
-
 Oh, oh
 Ring, ring, ring, ring
 
@@ -156,6 +159,3 @@ You don't hit my line no more, oh, oh
 You don't make it ring, ring, ring, ring (you don't make it ring, baby)
 I can't keep this on the low (yeah, yeah, oh)
 I want you to make it ring, ring, ring, ring
-
-
-

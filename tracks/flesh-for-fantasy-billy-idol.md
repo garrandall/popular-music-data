@@ -1,8 +1,11 @@
 ---
+album: Rebel Yell
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:5NJvgtVjLTTogjFcrOIZYN
 features: []
-genres: []
+first_released_as_single: false
 key: flesh-for-fantasy-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/fleshforfantasy.html
 name: Flesh For Fantasy
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1983
+runtime: 278280
 ---
-
 There's a change in pace
 Of fantasy and taste
 Do you like good music?
@@ -105,6 +109,3 @@ We want
 Flesh, flesh for fantasy
 You cry
 Flesh, flesh for fantasy
-
-
-

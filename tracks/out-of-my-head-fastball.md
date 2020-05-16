@@ -1,8 +1,11 @@
 ---
+album: All The Pain Money Can Buy
 artists:
 - Fastball
+external_ids:
+  spotify: spotify:track:5tOjRq5shlEdm15nmJBq7Z
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-my-head-fastball
 lyrics_url: https://www.azlyrics.com/lyrics/fastball/outofmyhead.html
 name: Out Of My Head
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
+release_year: 1998
+runtime: 153066
 ---
-
 Sometimes I feel
 Like I am drunk behind the wheel
 The wheel of possibility
@@ -107,4 +111,3 @@ Don't matter what I say only what I do
 I never mean to do bad things to you
 So quiet but I finally woke up
 If you're sad then it's time you spoke up too
-

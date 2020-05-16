@@ -1,8 +1,11 @@
 ---
+album: It Never Rains In Southern California
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:1K24PVzIzAKBzRhmVKRleL
 features: []
-genres: []
+first_released_as_single: false
 key: it-never-rains-in-southern-california-albert-hammond
 lyrics_url: https://genius.com/Albert-hammond-it-never-rains-in-southern-california-lyrics
 name: It Never Rains In Southern California
@@ -71,6 +74,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1972
+runtime: 229000
 ---
 Got on board a westbound seven forty-seven
 Didn't think before deciding what to do

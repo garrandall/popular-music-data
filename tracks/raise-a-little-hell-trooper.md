@@ -1,8 +1,11 @@
 ---
+album: Thick As Thieves
 artists:
 - Trooper
+external_ids:
+  spotify: spotify:track:1yNz3A4ubmE5IEvpNFkjdc
 features: []
-genres: []
+first_released_as_single: false
 key: raise-a-little-hell-trooper
 lyrics_url: https://www.azlyrics.com/lyrics/trooper/raisealittlehell.html
 name: Raise A Little Hell
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1978
+runtime: 222426
 ---
-
 ...2 3 4 Raise a little hell, raise a little hell, raise a little hell!
 
 Raise a little hell, raise a little hell, raise a little hell!
@@ -91,6 +95,3 @@ Raise a little hell, raise a little hell, raise a little hell!
 Raise a little hell, raise a little hell, raise a little hell!
 
 RAISE A LITTLE HELL! RAISE A LITTLE HELL!
-
-
-

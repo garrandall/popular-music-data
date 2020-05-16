@@ -1,8 +1,11 @@
 ---
+album: The Crossing
 artists:
 - Big Country
+external_ids:
+  spotify: spotify:track:7f7bSSvBqxn6WAHTRZMWHB
 features: []
-genres: []
+first_released_as_single: false
 key: fields-of-fire-big-country
 lyrics_url: https://www.azlyrics.com/lyrics/bigcountry/fieldsoffire.html
 name: Fields Of Fire
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
+release_year: 1983
+runtime: 211466
 ---
-
 Between a father and a son
 Between the city and the one
 Before the teacher and the test
@@ -57,6 +61,3 @@ Before the journey and the rest
 400 miles without a word until you smile
 400 miles without a word until you smile
 400 miles on fields of fire
-
-
-

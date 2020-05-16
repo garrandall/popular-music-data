@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:45R0mGVMQpjrMG5oDZyJaf
 features: []
-genres: []
+first_released_as_single: false
 key: 4-your-eyez-only-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/4youreyezonly.html
 name: 4 Your Eyez Only
@@ -11,8 +14,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 530253
 ---
-
 For your eyes only,
 For your eyes only
 For your eyes
@@ -166,6 +170,3 @@ Not because he lived a life of crime and sat behind some bars
 Not because he screamed fuck the law, although that was true
 Your daddy was a real nigga 'cause he loved you."
 For your eyes only
-
-
-

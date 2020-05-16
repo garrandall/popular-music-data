@@ -47,8 +47,6 @@ Although he treats you nice & claims to be your friend
 He's always askin' me if he can call me now & then
 Oh oh boy, use your head, oh oh boy
 
-(instrumental)
-
 I tell that you must have faith in me
 Give me your trust & I'll never betray you
 But don't let him say I'm not the girl for you, oh no boy

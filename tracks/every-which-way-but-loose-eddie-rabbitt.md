@@ -1,8 +1,11 @@
 ---
+album: I Love a Rainy Night
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:73xcnqBwjnGwAlrfBomLP3
 features: []
-genres: []
+first_released_as_single: false
 key: every-which-way-but-loose-eddie-rabbitt
 lyrics_url: https://genius.com/Eddie-rabbitt-every-which-way-but-loose-lyrics
 name: Every Which Way But Loose
@@ -51,6 +54,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1979
+runtime: 171653
 ---
 I've always been the kind of man
 Who doesn't believe in strings

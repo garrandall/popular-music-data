@@ -1,8 +1,11 @@
 ---
+album: 'Rock N'' Roll Masters: BJ Thomas (Re-recorded)'
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:6V04d0onuzT8AFfkbr2x5k
 features: []
-genres: []
+first_released_as_single: false
 key: no-love-at-all-b-j--thomas
 lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/noloveatall.html
 name: No Love At All
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 201642
 ---
-
 Read in the paper nearly day 
 People breakin' up and just walkin' away from love and that's wrong 
 That's so wrong 
@@ -117,6 +121,3 @@ Got to believe me
 A little bit of love is better than no love 
 Even the bad love is better than no love 
 And any kind
-
-
-

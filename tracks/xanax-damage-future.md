@@ -1,8 +1,11 @@
 ---
+album: SAVE ME
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3tZ4zv4UuenjJGSNUMfBNG
 features: []
-genres: []
+first_released_as_single: false
 key: xanax-damage-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/xanaxdamage.html
 name: XanaX Damage
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 104013
 ---
-
 Baby when the sun is out it's like I'm by myself
 Xanax doin' damage make it nice so I can handle it
 Baby when the moon is out I'm finally myself
@@ -37,6 +41,3 @@ Baby when the sun is out it's like I'm by myself
 Xanax doin' damage make it nice so I can handle it
 Baby when the moon is out I'm finally myself
 Xanny pills, then I feel my body starving for you
-
-
-

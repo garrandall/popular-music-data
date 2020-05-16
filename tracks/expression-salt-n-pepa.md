@@ -1,8 +1,11 @@
 ---
+album: Blacks' Magic
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:1lXs8UWoQr7wMjHdxQI2XA
 features: []
-genres: []
+first_released_as_single: false
 key: expression-salt-n-pepa
 lyrics_url: https://www.azlyrics.com/lyrics/saltnpepa/expression.html
 name: Expression
@@ -91,8 +94,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1990
+runtime: 236240
 ---
-
 Oh yeah, oh yeah
 You know life is all about expression
 You only live once, and you're not coming back
@@ -171,6 +175,3 @@ Express yourself, don't tell me what to do, babe
 
 Express yourself, oh yeah, oh yeah
 Express yourself
-
-
-

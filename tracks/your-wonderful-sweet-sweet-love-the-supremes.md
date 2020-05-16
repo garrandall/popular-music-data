@@ -1,8 +1,11 @@
 ---
+album: Floy Joy
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5SsTHh7JK6I0FYm0u3sIMX
 features: []
-genres: []
+first_released_as_single: false
 key: your-wonderful-sweet-sweet-love-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/yourwonderfulsweetsweetlove.html
 name: Your Wonderful Sweet Sweet Love
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 182093
 ---
-
 Now there's a theory
 That everybody has a love somewhere
 
@@ -113,6 +117,3 @@ Wanna tell the whole wide world about you
 I'm talking about your sweet love
 Your sweet loving
 Talking 'bout your loving
-
-
-

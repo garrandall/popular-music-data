@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ray Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:55Bzaj6GGMHBudPHwUkxCL
 features: []
-genres: []
+first_released_as_single: false
 key: ahab-the-arab-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/ahabthearab.html
 name: Ahab The Arab
@@ -51,8 +54,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1899
+runtime: 256853
 ---
-
 Let me tell you 'bout Ahab The Arab
 The Sheik of the burning sand
 He had emeralds and rubies just dripping off 'a him
@@ -82,6 +86,3 @@ And that's the story 'bout Ahab the Arab
 The Sheik of the Burnin' sand
 Ahab the Arab
 The swinging Sheik of the burnin' sand
-
-
-

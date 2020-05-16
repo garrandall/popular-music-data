@@ -1,8 +1,11 @@
 ---
+album: Celebrate Me Home
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:7B4gn4dPeLtB3x63exF7F4
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-love-kenny-loggins
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Loggins/I-Believe-in-Love
 name: I Believe In Love
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 209706
 ---
 I see faces!
 Coverin' an empty 'I'

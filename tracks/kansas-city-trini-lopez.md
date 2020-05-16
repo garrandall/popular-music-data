@@ -1,8 +1,11 @@
 ---
+album: More Trini Lopez At PJ's (Live)
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:1C9KJfUGwGCs0m5N2AOcK3
 features: []
-genres: []
+first_released_as_single: false
 key: kansas-city-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-kansas-city-lyrics
 name: Kansas City
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 201360
 ---
 (Oh, let's go to Kansas City, now.)
 

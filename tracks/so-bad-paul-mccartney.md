@@ -1,8 +1,11 @@
 ---
+album: Pipes Of Peace
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:5DAiPy6Igp619HsJZR6FRM
 features: []
-genres: []
+first_released_as_single: false
 key: so-bad-paul-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-so-bad-lyrics
 name: So Bad
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-03-24'
+release_year: 1983
+runtime: 202053
 ---
 There is a pain, inside my heart
 You mean so much to me

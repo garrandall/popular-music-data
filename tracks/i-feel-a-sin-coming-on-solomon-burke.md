@@ -1,8 +1,11 @@
 ---
+album: Blue And Soulful
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:34XoUKjZx2TYWfwE8yBUgz
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-a-sin-coming-on-solomon-burke
 lyrics_url: https://www.musixmatch.com/lyrics/Solomon-Burke/I-Feel-a-Sin-Coming-On
 name: I Feel A Sin Coming On
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 170120
 ---
 She just sits there
 Her eyes are on me

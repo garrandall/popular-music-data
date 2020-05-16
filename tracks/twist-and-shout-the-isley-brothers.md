@@ -1,8 +1,11 @@
 ---
+album: Twist & Shout
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0URp9jOJtiWKR1AfMGH2Qj
 features: []
-genres: []
+first_released_as_single: false
 key: twist-and-shout-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/twistandshout.html
 name: Twist And Shout
@@ -71,8 +74,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 155400
 ---
-
 Well, shake it up baby now
 Twist and shout
 Come on, come on, come, come on baby now
@@ -104,6 +108,3 @@ Well shake it, shake it, shake it, baby now
 Well shake it, shake it, shake it, baby now
 Well shake it, shake it, shake it, baby now
 Ah, ah, ah, ah
-
-
-

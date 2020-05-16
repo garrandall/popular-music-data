@@ -1,8 +1,11 @@
 ---
+album: In Square Circle
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0Dm43YLUlGdePpSbI1ct8h
 features: []
-genres: []
+first_released_as_single: false
 key: part-time-lover-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-part-time-lover-lyrics
 name: Part-Time Lover
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 252560
 ---
 Call up, ring once, hang up the phone
 To let me know you made it home

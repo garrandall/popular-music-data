@@ -1,8 +1,11 @@
 ---
+album: The Best Of Roy Head
 artists:
 - Roy Head And The Traits
+external_ids:
+  spotify: spotify:track:2dq2J24oIF67Uvttut4dv7
 features: []
-genres: []
+first_released_as_single: false
 key: treat-her-right-roy-head-and-the-traits
 name: Treat Her Right
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 125893
 ---
 

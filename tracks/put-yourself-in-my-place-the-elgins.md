@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles, Vol. 5: 1965'
 artists:
 - The Elgins
+external_ids:
+  spotify: spotify:track:21T8pH4AjVcPvrOrFOqqdl
 features: []
-genres: []
+first_released_as_single: false
 key: put-yourself-in-my-place-the-elgins
 lyrics_url: https://genius.com/The-elgins-put-yourself-in-my-place-lyrics
 name: Put Yourself In My Place
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 146906
 ---
 Put yourself in my place
 If only for a day

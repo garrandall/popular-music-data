@@ -1,8 +1,11 @@
 ---
+album: Manhattan Spiritual
 artists:
 - Reg Owen
+external_ids:
+  spotify: spotify:track:4cgibwRpdDerKJ0NKNetdQ
 features: []
-genres: []
+first_released_as_single: true
 key: manhattan-spiritual-reg-owen-his-orchestra
 name: Manhattan Spiritual
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1958
+runtime: 153994
 ---
 

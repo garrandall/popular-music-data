@@ -1,8 +1,11 @@
 ---
+album: GO:OD AM
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:60krMz2O2lV7rP9GsqC8cY
 features: []
-genres: []
+first_released_as_single: true
 key: 100-grandkids-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/100grandkids.html
 name: 100 Grandkids
@@ -11,10 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-08-29'
+release_year: 2015
+runtime: 280481
 ---
-
-
-
 Woah-oh
 (Hey!)
 Wow-wow-wow-wow
@@ -131,6 +133,3 @@ Let me get some money (Time flies)
 Let me, let me get some money (yeah, you know time flies)
 Let me get some money (Try to catch it)
 Let me, let me get some money
-
-
-

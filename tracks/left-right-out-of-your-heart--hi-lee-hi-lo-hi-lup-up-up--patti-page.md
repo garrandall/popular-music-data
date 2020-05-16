@@ -1,8 +1,11 @@
 ---
+album: Golden Greats
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:2FoUadIRzR44ZmPPlhYLop
 features: []
-genres: []
+first_released_as_single: false
 key: left-right-out-of-your-heart--hi-lee-hi-lo-hi-lup-up-up--patti-page
 lyrics_url: https://genius.com/Patti-page-left-right-out-of-your-heart-lyrics
 name: Left Right Out Of Your Heart (Hi Lee Hi Lo Hi Lup Up Up)
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 141400
 ---
 Hi-lee Hi-lo Hi-lup up - up
 Hi-lee Hi-lo Hi-left!

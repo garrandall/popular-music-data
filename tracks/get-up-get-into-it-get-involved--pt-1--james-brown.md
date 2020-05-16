@@ -1,8 +1,11 @@
 ---
+album: Revolution Of The Mind (Live)
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3Ac5c7vHHokMwmRqYqNHig
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-get-into-it-get-involved--pt-1--james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/Get-Up-Get-Into-It-Get-Involved
 name: Get Up Get Into It Get Involved (Pt 1)
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1971
+runtime: 201333
 ---
 Fellas, I'm ready to get up and do my thing (yeah go ahead!)
 I wanta get into it, man, you know (go ahead!)

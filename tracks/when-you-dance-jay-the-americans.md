@@ -1,9 +1,12 @@
 ---
+album: Sands Of Time
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:2alNlDEU9kckE1U8QTTjtA
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-dance-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/whenyoudance.html
 name: When You Dance
@@ -28,8 +31,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 174400
 ---
-
 When you dance be sure to hold her, hold her tight
 When you dance you'll squeeze her, yes, with all your might
 Such a thrill, oh, when she's close to you
@@ -54,6 +58,3 @@ When you dance be sure to hold her, hold her tight
 When you dance you'll squeeze her, yes, with all your might
 Such a thrill, oh, when she's close to you
 Well, hold her tight when you dance
-
-
-

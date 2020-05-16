@@ -1,8 +1,11 @@
 ---
+album: Testifyin'
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:3n9BRFhSDiSZz5aIOvrUMA
 features: []
-genres: []
+first_released_as_single: false
 key: the-feeling-is-right-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-the-feeling-is-right-lyrics
 name: The Feeling Is Right
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 175066
 ---
 Every time I'm with you darling
 A fever comes over me, oh yeah

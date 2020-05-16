@@ -1,8 +1,11 @@
 ---
+album: I'm In Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:2yzPnCC4znYMESaPnTFjmg
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-lookin--good-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-shes-lookin-good-lyrics
 name: She's Lookin' Good
@@ -47,6 +50,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 146640
 ---
 Huh! look-a-here
 Ya got the kinda lovin, that was made to be mine

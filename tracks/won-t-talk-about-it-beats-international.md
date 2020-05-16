@@ -1,8 +1,11 @@
 ---
+album: Let Them Eat Bingo
 artists:
 - Beats International
+external_ids:
+  spotify: spotify:track:3cgWQzRlXoDkMKBb6AEi4s
 features: []
-genres: []
+first_released_as_single: false
 key: won-t-talk-about-it-beats-international
 lyrics_url: https://genius.com/Beats-international-wont-talk-about-it-lyrics
 name: Won't Talk About It
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
+release_year: 1990
+runtime: 276226
 ---
 (Check the beat now)
 

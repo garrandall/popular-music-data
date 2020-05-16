@@ -1,8 +1,11 @@
 ---
+album: Western Union
 artists:
 - The Five Americans
+external_ids:
+  spotify: spotify:track:0McWeUtZcCDOUAJVuI9IGw
 features: []
-genres: []
+first_released_as_single: false
 key: western-union-the-five-americans
 lyrics_url: https://genius.com/The-five-americans-western-union-lyrics
 name: Western Union
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 157720
 ---
 Things went wrong today
 Bad news came my way

@@ -1,8 +1,11 @@
 ---
+album: Roy Clark's Greatest
 artists:
 - Roy Clark
+external_ids:
+  spotify: spotify:track:3dxgNA1Qz5w121R2CqwwhU
 features: []
-genres: []
+first_released_as_single: false
 key: tips-of-my-fingers-roy-clark
 lyrics_url: https://genius.com/Roy-clark-tips-of-my-fingers-lyrics
 name: Tips Of My Fingers
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 164160
 ---
 I reached out my arms and I touched you
 With soft words I whispered your name

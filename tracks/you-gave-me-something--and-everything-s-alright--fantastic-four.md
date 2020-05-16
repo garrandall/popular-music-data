@@ -1,8 +1,11 @@
 ---
+album: Best Of The Fantastic Four
 artists:
 - Fantastic Four
+external_ids:
+  spotify: spotify:track:0Z7a70FevCaQINjlrsVZb4
 features: []
-genres: []
+first_released_as_single: false
 key: you-gave-me-something--and-everything-s-alright--fantastic-four
 lyrics_url: https://genius.com/Fantastic-four-you-gave-me-something-and-everythings-alright-lyrics
 name: You Gave Me Something (And Everything's Alright)
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 194093
 ---
 Everything is alright
 (Everything is alright)

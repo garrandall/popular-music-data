@@ -1,9 +1,12 @@
 ---
+album: Racks
 artists:
 - YC
+external_ids:
+  spotify: spotify:track:2n8lekNlZSQzbyuQedd4Dx
 features:
 - Future
-genres: []
+first_released_as_single: true
 key: racks-yc-future
 lyrics_url: https://genius.com/Yc-racks-lyrics
 name: Racks
@@ -76,6 +79,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2011
+runtime: 285866
 ---
 YC!
 What you got? Racks on racks on racks

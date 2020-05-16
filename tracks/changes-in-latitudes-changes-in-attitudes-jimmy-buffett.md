@@ -1,8 +1,11 @@
 ---
+album: Changes In Latitudes, Changes In Attitudes
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:5nIqitaV7WyyuM3KVUju1G
 features: []
-genres: []
+first_released_as_single: false
 key: changes-in-latitudes-changes-in-attitudes-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/changesinlatitudeschangesinattitudes.html
 name: Changes In Latitudes Changes In Attitudes
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 197333
 ---
-
 I took off for a weekend last month
 Just to try and recall the whole year.
 All of the faces and all of the places,
@@ -89,4 +93,3 @@ So I can't look back for too long.
 There's just too much to see waiting in front of me,
 and I know that I just can't go wrong
 with these...
-

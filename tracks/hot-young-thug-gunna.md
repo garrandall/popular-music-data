@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:5PIWsuoBRvyxw4Ex1xNh4P
 features:
 - Gunna
-genres: []
+first_released_as_single: false
 key: hot-young-thug-gunna
 lyrics_url: https://www.musixmatch.com/lyrics/Young-Thug-Gunna/Hot-Gunna
 name: Hot
@@ -112,6 +115,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 193026
 ---
 Wheezy outta here
 Hot, hot, hot, hot

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The EMI Years
 artists:
 - Frank Ifield
+external_ids:
+  spotify: spotify:track:7JO0jDBKdB5c1zgUhPMogF
 features: []
-genres: []
+first_released_as_single: false
 key: i-remember-you-frank-ifield
 lyrics_url: https://genius.com/Frank-ifield-i-remember-you-lyrics
 name: I Remember You
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 124400
 ---
 I remember you-oh
 You're the one who

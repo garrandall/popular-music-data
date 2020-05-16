@@ -1,8 +1,11 @@
 ---
+album: Summer (The First Time)
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:3X3gk2trUVAIwAqOCmOTkF
 features: []
-genres: []
+first_released_as_single: false
 key: muddy-mississippi-line-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/muddymississippiline.html
 name: Muddy Mississippi Line
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 164586
 ---
-
 Working on a barge down in New Orleans
 Spending all my money on Cajun queens
 Working from the morning till the end of day
@@ -83,6 +87,3 @@ Working on the muddy Mississippi line
 
 Working on the muddy Mississippi line
 Working on the muddy Mississippi line
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Concert (Recorded Live In Europe)
 artists:
 - Canned Heat
+external_ids:
+  spotify: spotify:track:2iH58U4sroq4FdVSg5RyUD
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-work-together-canned-heat
 lyrics_url: https://genius.com/Canned-heat-lets-work-together-lyrics
 name: Let's Work Together
@@ -51,6 +54,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 290800
 ---
 {Intro}
 

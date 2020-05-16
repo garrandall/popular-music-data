@@ -1,8 +1,11 @@
 ---
+album: Daylight Again
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:7HOmCnPcSoTpaUa2XVXxfo
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-love-to-hide-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/toomuchlovetohide.html
 name: Too Much Love To Hide
@@ -31,10 +34,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 237013
 ---
-
-
-
 Can I sing a song to the woman
 Take a look at what you might be missing
 With a certain love that you know will stand
@@ -77,4 +79,3 @@ I believe, I believe enough don't I
 I believe when I see her eyes
 I believe there is too much love to hide
 Too much, too much
-

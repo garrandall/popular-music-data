@@ -1,9 +1,12 @@
 ---
+album: Tomahawk Technique
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:7ha7zYOryB0rpnMTa4S75U
 features:
 - Alexis Jordan
-genres: []
+first_released_as_single: true
 key: got-2-luv-u-sean-paul-alexis-jordan
 lyrics_url: https://www.azlyrics.com/lyrics/seanpaul/got2luvu.html
 name: Got 2 Luv U
@@ -32,9 +35,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 196640
 ---
-
-
 Got to love you!
 Got to love you!
 Got to love you!
@@ -146,6 +149,3 @@ Got to love you!
 Got to love you!
 Got to love you!
 Got to love you!
-
-
-

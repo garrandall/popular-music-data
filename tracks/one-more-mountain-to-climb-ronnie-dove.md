@@ -1,8 +1,11 @@
 ---
+album: The Best of Ronnie Dove Volume 2
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:7e0B9MrV4KVf7TRG9BBDss
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-mountain-to-climb-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-one-more-mountain-to-climb-lyrics
 name: One More Mountain To Climb
@@ -31,6 +34,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 152986
 ---
 You open your arms when you see me
 You cry when I walk away

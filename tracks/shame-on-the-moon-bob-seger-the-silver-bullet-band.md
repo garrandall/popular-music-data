@@ -1,9 +1,12 @@
 ---
+album: The Distance
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:1Gxaks4MTbjMCAQ20rx4Iy
 features: []
-genres: []
+first_released_as_single: false
 key: shame-on-the-moon-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Shame-on-the-Moon
 name: Shame On The Moon
@@ -92,6 +95,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 295053
 ---
 Until you've been beside a man
 You don't know what he wants

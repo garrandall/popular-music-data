@@ -1,8 +1,11 @@
 ---
+album: The Early Years Pop Hits Vol. 2
 artists:
 - The Springfields
+external_ids:
+  spotify: spotify:track:4KmaO186C0dNwLHYa00Esu
 features: []
-genres: []
+first_released_as_single: false
 key: silver-threads-and-golden-needles-the-springfields
 lyrics_url: https://genius.com/The-springfields-silver-threads-and-golden-needles-lyrics
 name: Silver Threads And Golden Needles
@@ -47,6 +50,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 134973
 ---
 I don't want your lonely mansion
 With a tear in every room

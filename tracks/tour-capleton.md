@@ -1,8 +1,11 @@
 ---
+album: Prophecy
 artists:
 - Capleton
+external_ids:
+  spotify: spotify:track:4ynn1E7kAwv4jSy4IyPxRi
 features: []
-genres: []
+first_released_as_single: false
 key: tour-capleton
 lyrics_url: https://www.azlyrics.com/lyrics/capleton/tour.html
 name: Tour
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1994
+runtime: 211226
 ---
-
 Yeh!
 I say starighten yuh crooked ways
 Blessed is the man that walketh not in the counsel of the ungodly
@@ -164,6 +168,3 @@ Down on general competition
 Man a take them money an a guh obeah man
 Man a grudge full and dem no stop envy man
 But dem laborite, and dem labor wrong
-
-
-

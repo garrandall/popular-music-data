@@ -1,10 +1,13 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:6wWaVoUOzLQJHd3bWAUpdZ
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: never-recover-lil-baby-gunna-drake
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/neverrecover.html
 name: Never Recover
@@ -41,9 +44,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 194732
 ---
-
-
 Tay Keith, fuck these niggas up...
 Ayy, yeah
 Tay Keith, this too hard
@@ -153,6 +156,3 @@ Tay Keith, this too hard
 Ring, ring, ring, we drip too hard, ayy
 (Run that back, Turbo)
 You seen the overseas drip?
-
-
-

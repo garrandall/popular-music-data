@@ -1,8 +1,11 @@
 ---
+album: New York, London, Paris, Munich
 artists:
 - M
+external_ids:
+  spotify: spotify:track:0FBeVAGy58YREuZK2rpRVm
 features: []
-genres: []
+first_released_as_single: false
 key: pop-muzik-m
 lyrics_url: https://genius.com/M-robin-scott-pop-muzik-lyrics
 name: Pop Muzik
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
+release_year: 1979
+runtime: 296466
 ---
 Pop Pop Pop Muzik
 Pop Pop Pop Muzik

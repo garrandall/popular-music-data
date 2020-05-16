@@ -1,10 +1,13 @@
 ---
+album: Complicated
 artists:
 - Nivea
+external_ids:
+  spotify: spotify:track:1e5ayf28RKanXy0NNJVANp
 features:
 - Lil Jon
 - YoungBloodZ
-genres: []
+first_released_as_single: false
 key: okay-nivea-lil-jon-youngbloodz
 lyrics_url: https://www.azlyrics.com/lyrics/nivea/okay.html
 name: Okay
@@ -93,9 +96,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2001
+runtime: 283360
 ---
-
-
 La la la la la lalalala la lalalalalala
 Just got up in this party, tipsy off this Bacardi, bout to take this flight, so high, say bye, bye. We up in here all
 night now, my girl like hey that's my song, cuz I'm feeling fine, so fine, so fine.
@@ -139,6 +142,3 @@ okay (okay)..
 
 All my girls up in the club...All my girls up in the club...say oh oh oh oh oh...All my fellas spin them thugs...All my fellas
 spin them thugs...say oh oh oh oh oh lalal lalalalla lala lala la lalal la
-
-
-

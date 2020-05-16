@@ -1,9 +1,12 @@
 ---
+album: Special Occasion
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:0LUQTuJtO01w8cshVau5mk
 features: []
-genres: []
+first_released_as_single: false
 key: yester-love-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/yesterlove.html
 name: Yester Love
@@ -40,8 +43,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 138560
 ---
-
 Ooo, Ooo, Ooo,
 Yesterday we made future plans
 She loved me I could tell
@@ -75,6 +79,3 @@ Seemin further away with each hour
 Today I'll go on my way dreamin of all my yester love
 Today I'll go on my way dreamin of my yester love
 Today I'll go on my way dreamin of my yester love...
-
-
-

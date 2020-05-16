@@ -1,8 +1,11 @@
 ---
+album: Melt
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:2WsWOqZk5YKJD1WTGKihRp
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-out-loud-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/loveyououtloud.html
 name: Love You Out Loud
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 185493
 ---
-
 I have always been a little shy 
 I've always been the quiet type till now 
 And I never let my feelings show 
@@ -121,6 +125,3 @@ Just how good your love looks on me
 
 Baby, I love to love you out loud 
 Yeah, I love to love you out loud
-
-
-

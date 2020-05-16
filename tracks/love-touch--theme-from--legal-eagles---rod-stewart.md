@@ -1,8 +1,11 @@
 ---
+album: Every Beat of My Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3aJrPU9tHoaAMGTTVtUAyN
 features: []
-genres: []
+first_released_as_single: false
 key: love-touch--theme-from--legal-eagles---rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-love-touch-extended-version-lyrics
 name: Love Touch (Theme From "Legal Eagles")
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 243933
 ---
 Oh baby, I don't know why
 But somehow I always seem to get

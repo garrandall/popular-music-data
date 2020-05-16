@@ -1,8 +1,11 @@
 ---
+album: Saturday Night With Conway Twitty
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:2O7KD1tW6eyLLSE7ce0ohD
 features: []
-genres: []
+first_released_as_single: false
 key: danny-boy-conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/dannyboy.html
 name: Danny Boy
@@ -79,8 +82,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 167160
 ---
-
 Oh, Danny boy, the pipes, the pipes are calling
 From glenn to glenn and down the mountain side
 The summer's gone and all the roses falling
@@ -108,6 +112,3 @@ Oh Danny boy, oh Danny boy I love you so.
 
 Oh Danny boy, oh Danny boy I love you so.
 Oh Danny boy, oh Danny boy I love you so...
-
-
-

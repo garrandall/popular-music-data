@@ -1,8 +1,11 @@
 ---
+album: Macho Man
 artists:
 - Village People
+external_ids:
+  spotify: spotify:track:22kv2NoeaD7qhTgShfZjIv
 features: []
-genres: []
+first_released_as_single: true
 key: macho-man-village-people
 lyrics_url: https://www.azlyrics.com/lyrics/villagepeople/machoman.html
 name: Macho Man
@@ -67,8 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 314800
 ---
-
 Body, wanna feel my body,
 body, baby, such a thrill, my body
 Body, wanna touch my body,
@@ -160,6 +164,3 @@ I gotta be a macho
 I gotta be a macho man
 I gotta be a mucho mucho, macho macho man
 I gotta be a macho
-
-
-

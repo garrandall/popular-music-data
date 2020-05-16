@@ -1,8 +1,11 @@
 ---
+album: That's All
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:3E5ndyOfO6vFDEIE42HA8o
 features: []
-genres: []
+first_released_as_single: false
 key: mack-the-knife-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-mack-the-knife-lyrics
 name: Mack The Knife
@@ -111,6 +114,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 184333
 ---
 Oh the shark, babe
 Has such teeth, dear

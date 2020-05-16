@@ -1,8 +1,11 @@
 ---
+album: Love's Lines, Angles and Rhymes
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:2ZyVwblnzUkUkPBGE1YD2A
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-lines-angles-and-rhymes-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/loveslinesanglesandrhymes.html
 name: Love's Lines Angles And Rhymes
@@ -47,8 +50,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 251746
 ---
-
 Love leads the lines of love in circles and angles
 Love runs deep like a tunnel with a pendulum beat
 That touches the heart in many directions
@@ -92,6 +96,3 @@ Taking the line and triangle rhyme and twisting it
 To bend the mind in all directions
 It's love and want and need and all those things
 Tearing you apart
-
-
-

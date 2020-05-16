@@ -1,8 +1,11 @@
 ---
+album: Sunflower
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:5fmSii6QOiD1LPvfapnQHK
 features: []
-genres: []
+first_released_as_single: false
 key: add-some-music-to-your-day-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-add-some-music-to-your-day-lyrics
 name: Add Some Music To Your Day
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1970
+runtime: 215893
 ---
 The Sunday morning gospel goes good with the soul
 There's blues, folk, and country, and rock like a rolling stone

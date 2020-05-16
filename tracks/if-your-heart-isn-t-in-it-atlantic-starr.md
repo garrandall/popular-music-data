@@ -1,8 +1,11 @@
 ---
+album: As The Band Turns
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:0ZGC492TCRtYxYDTjdQQSC
 features: []
-genres: []
+first_released_as_single: false
 key: if-your-heart-isn-t-in-it-atlantic-starr
 lyrics_url: https://genius.com/Atlantic-starr-if-your-heart-isnt-in-it-lyrics
 name: If Your Heart Isn't In It
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1986
+runtime: 242266
 ---
 It's a fragile situation
 It could fall apart at any time

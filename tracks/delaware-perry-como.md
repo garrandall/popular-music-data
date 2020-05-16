@@ -1,8 +1,11 @@
 ---
+album: Today & Yesterday
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:7moaXjSX1RHksmk6qanoPY
 features: []
-genres: []
+first_released_as_single: false
 key: delaware-perry-como
 lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/delaware.html
 name: Delaware
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1960
+runtime: 139400
 ---
-
 Oh, what did Delaware boy what did Delaware?
 What did Delaware boy, what did Delaware?
 She wore a brand New Jersey, she wore a brand New Jersey
@@ -80,6 +84,3 @@ She died in Missouri boy, she died in Misery
 
 Oh, what did Delaware, boy what did Delaware
 What did Delaware boy, what did Delaware
-
-
-

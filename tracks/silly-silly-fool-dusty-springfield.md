@@ -1,8 +1,11 @@
 ---
+album: A Brand New Me
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:72JpCXt7QiZxC9sW7XNXmP
 features: []
-genres: []
+first_released_as_single: false
 key: silly-silly-fool-dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/sillysillyfool.html
 name: Silly Silly Fool
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 153666
 ---
-
 Such a silly, silly, silly, silly fool am I
 Oh, I, just a silly, silly, silly, silly fool am I 
 
@@ -62,6 +66,3 @@ I'm such a silly, silly, silly, silly, silly fool am I, oh yes I am
 I'm such a silly, silly, dilly, silly, dilly, silly fool am I, oh yeah
 I'm such a silly, dilly, silly, dilly, silly fool am I, oh
 Silly, dilly
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rick Is 21
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:1sM0yZDxUhPQhkDh2CLd6l
 features: []
-genres: []
+first_released_as_single: false
 key: travelin--man-ricky-nelson
 lyrics_url: https://genius.com/Ricky-nelson-travelin-man-lyrics
 name: Travelin' Man
@@ -71,6 +74,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 143200
 ---
 I'm a travelin' man
 I've made a lot of stops all over the world
@@ -91,8 +96,6 @@ Pretty Polynesian baby over the sea
 I remember the night
 When we walked in the sands of the Waikiki
 And I held you oh so tight
-
------- instrumental break ------
 
 Oh my sweet Fraulien down in Berlin town
 Makes my heart start to yearn

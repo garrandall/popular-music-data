@@ -1,8 +1,11 @@
 ---
+album: Nervous Hip Hop
 artists:
 - Black Moon
+external_ids:
+  spotify: spotify:track:2wReOKtzUIgMspOYtv37JV
 features: []
-genres: []
+first_released_as_single: false
 key: who-got-the-props-black-moon
 lyrics_url: https://www.musixmatch.com/lyrics/Black-Moon/Who-Got-the-Props
 name: Who Got The Props
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-04-03'
+release_year: 1993
+runtime: 281906
 ---
 Put up, what up, bo bo bo
 Suckers want to flow

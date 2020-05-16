@@ -1,8 +1,11 @@
 ---
+album: Revelation
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:28NvPQZ8XVVlV2eGmUw2Za
 features: []
-genres: []
+first_released_as_single: false
 key: if-nobody-believed-in-you-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/ifnobodybelievedinyou.html
 name: If Nobody Believed In You
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 235066
 ---
-
 I watched him take the two strike call"
 He hadn't tried to swing at all.
 I guess he'd had all that he could take,
@@ -110,6 +114,3 @@ If nobody believed in you.
 Tell me, how would you feel?
 You'd probably give up too,
 If nobody believed in you.
-
-
-

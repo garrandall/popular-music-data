@@ -1,8 +1,11 @@
 ---
+album: I'm On The Outside (Looking In)
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:6cO6oMK4cVfXb1tZlP3DVt
 features: []
-genres: []
+first_released_as_single: false
 key: tears-on-my-pillow-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-tears-on-my-pillow-lyrics
 name: Tears On My Pillow
@@ -83,6 +86,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1958
+runtime: 134200
 ---
 You don't remember me, but I remember you
 'Twas not so long ago, you broke my heart in two

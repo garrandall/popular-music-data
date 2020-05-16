@@ -1,8 +1,11 @@
 ---
+album: The Works (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:3ldRLdk3D4cuvrWYmfBQk0
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-break-free-queen
 lyrics_url: https://genius.com/Queen-i-want-to-break-free-lyrics
 name: I Want To Break Free
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
+release_year: 1981
+runtime: 262133
 ---
 I want to break free
 I want to break free

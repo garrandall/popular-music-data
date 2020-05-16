@@ -1,8 +1,11 @@
 ---
+album: Live Hits
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:4IJsgzD6JiipfjPR4GW0fT
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-tell-the-bottom-from-the-top-the-hollies
 lyrics_url: https://genius.com/The-hollies-i-cant-tell-the-bottom-from-the-top-lyrics
 name: I Can't Tell The Bottom From The Top
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 225160
 ---
 And every time I get to thinkin'
 With every thought of you, I wanna shout aloud

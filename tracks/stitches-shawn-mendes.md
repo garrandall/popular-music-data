@@ -1,8 +1,11 @@
 ---
+album: Handwritten
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:5jsw9uXEGuKyJzs0boZ1bT
 features: []
-genres: []
+first_released_as_single: false
 key: stitches-shawn-mendes
 lyrics_url: https://genius.com/Shawn-mendes-stitches-lyrics
 name: Stitches
@@ -215,6 +218,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2015
+runtime: 206880
 ---
 I thought that I've been hurt before
 But no one's ever left me quite this sore

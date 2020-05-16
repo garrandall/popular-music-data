@@ -1,8 +1,11 @@
 ---
+album: Moondance
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:340k3JIT2OD06pNNpH38KW
 features: []
-genres: []
+first_released_as_single: false
 key: come-running-van-morrison
 lyrics_url: https://genius.com/Van-morrison-come-running-lyrics
 name: Come Running
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 151333
 ---
 By the side of the tracks where the train goes by
 The wind and rain will catch you, you will sigh

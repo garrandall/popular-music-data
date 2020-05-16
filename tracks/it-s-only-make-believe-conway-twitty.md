@@ -1,8 +1,11 @@
 ---
+album: Conway Twitty Sings
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:1xVOttVNT27FBTD8iHjOfU
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-make-believe-conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-and-loretta-lynn-its-only-make-believe-lyrics
 name: It's Only Make Believe
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1958
+runtime: 132026
 ---
 People see us everywhere
 They all think we really care

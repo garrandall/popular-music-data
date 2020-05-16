@@ -1,8 +1,11 @@
 ---
+album: The Best of The Stylistics V2
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:2vUrR108jJd0yEIUsU7cv9
 features: []
-genres: []
+first_released_as_single: false
 key: star-on-a-tv-show-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/staronatvshow.html
 name: Star On A TV Show
@@ -35,8 +38,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1975
+runtime: 252680
 ---
-
 You ought to be
 The star on a TV show
 Then all the world would know
@@ -85,6 +89,3 @@ The magic of you
 And they would love you too
 But not half as much as I do
 No, not half as much as I do
-
-
-

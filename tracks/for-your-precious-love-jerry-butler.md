@@ -1,8 +1,11 @@
 ---
+album: Curtis In Chicago - Recorded Live!
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:2UL1EwS6tfbNrdH805oyvi
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-precious-love-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-for-your-precious-love-lyrics
 name: For Your Precious Love
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 251613
 ---
 Your precious love
 Means more to me
@@ -52,5 +57,3 @@ Wanting you
 (Oh-oh I'm lonely and blue)
 I'm so-whoa, lonely
 (That's what love will do)
-
-~

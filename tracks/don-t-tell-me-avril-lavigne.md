@@ -1,8 +1,11 @@
 ---
+album: Under My Skin
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:0dEQaNYfp5G7Sflek2Qnde
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-dont-tell-me-lyrics
 name: Don't Tell Me
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2004
+runtime: 202013
 ---
 You held my hand and walked me home, I know
 While you gave me that kiss, it was something like this

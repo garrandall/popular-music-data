@@ -1,8 +1,11 @@
 ---
+album: Wilson Phillips
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:2lxfnTyWxW381PXDm9Mg77
 features: []
-genres: []
+first_released_as_single: false
 key: impulsive-wilson-phillips
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/impulsive.html
 name: Impulsive
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 274266
 ---
-
 The secret of love
 I thought I understood
 The way it's supposed to be
@@ -139,6 +143,3 @@ Impulsive
 I wanna be... impulsive
 I'm gonna be impulsive... reckless
 And lose myself, lose myself
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rocksides (1957-64)
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:7121qM2g5al2WehLUDOqBm
 features: []
-genres: []
+first_released_as_single: false
 key: -he-s-my--dreamboat-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/hesmydreamboat.html
 name: (He's My) Dreamboat
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 162200
 ---
-
 He's my dreamboat, asleep in English class
 He's my dreamboat, mowin' his folk's grass
 He's my dreamboat with the dreamy, dreamy eyes
@@ -63,6 +67,3 @@ He's my dreamboat with the dreamy, dreamy eyes
 Yes, he's my dreamboat, coffee in a Dixie cup
 Whoa, darlin' dreamboat, that crazy, silly nut
 He's my dreamboat with the dreamy, dreamy eyes
-
-
-

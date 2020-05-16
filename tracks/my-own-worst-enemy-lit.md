@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Lit
+external_ids:
+  spotify: spotify:track:33iv3wnGMrrDugd7GBso1z
 features: []
-genres: []
+first_released_as_single: false
 key: my-own-worst-enemy-lit
 lyrics_url: https://genius.com/Lit-my-own-worst-enemy-lyrics
 name: My Own Worst Enemy
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
+release_year: 1999
+runtime: 169026
 ---
 Can we forget about the things I said when I was drunk?
 I didn't mean to call you that

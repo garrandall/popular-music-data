@@ -1,8 +1,11 @@
 ---
+album: Extreme II - Pornograffitti
 artists:
 - Extreme
+external_ids:
+  spotify: spotify:track:1cItNpcJskTVETprljc7HV
 features: []
-genres: []
+first_released_as_single: false
 key: hole-hearted-extreme
 lyrics_url: https://www.azlyrics.com/lyrics/extreme/holehearted.html
 name: Hole Hearted
@@ -87,8 +90,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1990
+runtime: 219289
 ---
-
 Life ambition occupy my time
 Priorities confuse the mind
 Happiness one step behind
@@ -132,6 +136,3 @@ Hole-hearted
 Hole-hearted
 Hole-hearted
 Hole-hearted
-
-
-

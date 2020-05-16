@@ -1,8 +1,11 @@
 ---
+album: Current Mood
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:7pxhKtuTwofDIdgHx2DcVK
 features: []
-genres: []
+first_released_as_single: false
 key: seein--red-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/seeinred.html
 name: Seein' Red
@@ -43,8 +46,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2017
+runtime: 194893
 ---
-
 Flame
 Girl you light it up
 When I hear you say my name
@@ -128,6 +132,3 @@ The way you color up my world
 I'm seein' red
 I'm seein' red
 I'm seein' red red red red red
-
-
-

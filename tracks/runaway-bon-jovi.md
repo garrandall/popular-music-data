@@ -1,8 +1,11 @@
 ---
+album: Bon Jovi
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0X1sqQ652p1sceKM2nJlIJ
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/runaway.html
 name: Runaway
@@ -59,8 +62,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
+release_year: 1984
+runtime: 230666
 ---
-
 On the street where you live girls talk about their social lives
 They're made of lipstick, plastic and paint, a touch of sable in their eyes
 All your life, all your life all you've asked when's your daddy gonna talk to you
@@ -107,6 +111,3 @@ All those things he couldn't say
 Oh, she's a little runaway
 Daddy's girl learned fast
 Now she works the night away
-
-
-

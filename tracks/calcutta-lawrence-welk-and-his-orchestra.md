@@ -1,8 +1,11 @@
 ---
+album: My Best
 artists:
 - Lawrence Welk
+external_ids:
+  spotify: spotify:track:1IbkA9p1si2S46NVbn1igk
 features: []
-genres: []
+first_released_as_single: false
 key: calcutta-lawrence-welk-and-his-orchestra
 lyrics_url: https://genius.com/Lawrence-welk-calcutta-lyrics
 name: Calcutta
@@ -75,5 +78,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1960
+runtime: 130075
 ---
 Instrumental

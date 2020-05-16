@@ -1,8 +1,11 @@
 ---
+album: Lorrie Morgan Live
 artists:
 - Lorrie Morgan
+external_ids:
+  spotify: spotify:track:1A0ztUdCDMZjIeeJjXLgDL
 features: []
-genres: []
+first_released_as_single: false
 key: go-away-lorrie-morgan
 lyrics_url: https://genius.com/Lorrie-morgan-go-away-lyrics
 name: Go Away
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
+release_year: 1997
+runtime: 169333
 ---
 Touche, touche
 You're right, there's nothing I can say

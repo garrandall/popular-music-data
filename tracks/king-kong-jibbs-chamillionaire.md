@@ -1,9 +1,12 @@
 ---
+album: Jibbs feat. Jibbs
 artists:
 - Jibbs
+external_ids:
+  spotify: spotify:track:3FY0HrfhcG75h0UCTGpg4S
 features:
 - Chamillionaire
-genres: []
+first_released_as_single: false
 key: king-kong-jibbs-chamillionaire
 lyrics_url: https://www.azlyrics.com/lyrics/jibbs/kingkong.html
 name: King Kong
@@ -60,9 +63,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 275266
 ---
-
-
 King Kong, king, king, king, king Kong, king
 King Kong, king, king, king, king Kong
 You could hear me 'fore you see me 
@@ -156,6 +159,3 @@ King Kong, king, king, king, king Kong, King
 King Kong, King, King, King, King Kong
 If you hear before you see me
 I got King, I got King Kong
-
-
-

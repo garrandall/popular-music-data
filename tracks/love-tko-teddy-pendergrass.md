@@ -1,8 +1,11 @@
 ---
+album: Duets - Love & Soul
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:13kCzuXquOJ9Un8piPp5X3
 features: []
-genres: []
+first_released_as_single: false
 key: love-tko-teddy-pendergrass
 lyrics_url: https://genius.com/Teddy-pendergrass-love-tko-lyrics
 name: Love TKO
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1980
+runtime: 281983
 ---
 Lookin' back over my years
 I guessed, I've shedded some tears

@@ -1,8 +1,11 @@
 ---
+album: Dinah '62
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:0NGkwzOcUafCMQcxobfaxl
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-you-dinah-washington
 lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/whereareyou.html
 name: Where Are You
@@ -55,8 +58,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 134133
 ---
-
 Where are you?
 Where have you gone without me?
 I thought you cared about me
@@ -86,6 +90,3 @@ All life through
 Must I go on pretending
 Where is that happy ending
 Where are you? Where are you?
-
-
-

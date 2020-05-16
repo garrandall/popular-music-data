@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5raTDhlbxFDnpn89bxArdH
 features: []
-genres: []
+first_released_as_single: true
 key: that-way-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-that-way-lyrics
 name: That Way
@@ -15,6 +18,8 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 212354
 ---
 I want it that way
 I want it that way

@@ -1,8 +1,11 @@
 ---
+album: Waking Up
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:6OtCIsQZ64Vs1EbzztvAv4
 features: []
-genres: []
+first_released_as_single: false
 key: good-life-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/goodlife.html
 name: Good Life
@@ -147,8 +150,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2009
+runtime: 253306
 ---
-
 Woke up in London yesterday
 Found myself in the city near Piccadilly
 Don't really know how I got here
@@ -225,6 +229,3 @@ Sometimes there's airplanes I can't jump out
 Sometimes there's bullshit that don't work now
 We all got our stories, but please tell me-e-e-e
 What there is to complain about
-
-
-

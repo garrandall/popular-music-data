@@ -1,8 +1,11 @@
 ---
+album: Get Closer (Deluxe Version)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:5B25Jpgu62IX8w1YtLibuA
 features: []
-genres: []
+first_released_as_single: false
 key: you-gonna-fly-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/yougonnafly.html
 name: You Gonna Fly
@@ -79,9 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2010
+runtime: 216866
 ---
-
-
 One, two, three baby don't think twice
 Just like that you got a brand new life
 Hop in this truck and run through the red lights
@@ -115,7 +118,4 @@ Baby I could get used to this
 
 
 
-You gonna fly 
-
-
-
+You gonna fly

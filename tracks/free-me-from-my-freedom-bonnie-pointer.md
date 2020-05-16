@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Pointer Sisters 20th Century Masters The Millennium Collection
 artists:
 - Bonnie Pointer
+external_ids:
+  spotify: spotify:track:4AeeK0sdEn2ttduj6B91eu
 features: []
-genres: []
+first_released_as_single: false
 key: free-me-from-my-freedom-bonnie-pointer
 lyrics_url: https://www.musixmatch.com/lyrics/Bonnie-Pointer/Free-Me-From-My-Freedom-Tie-Me-to-a-Tree-Handcuff-Me
 name: Free Me From My Freedom
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 237413
 ---
 When I asked you for my freedom
 Little did I know

@@ -1,8 +1,11 @@
 ---
+album: I Get Around
 artists:
 - K'Jon
+external_ids:
+  spotify: spotify:track:5tRna9FSqMrh2LJwqIykHA
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-ocean-k-jon
 lyrics_url: https://genius.com/Kjon-on-the-ocean-lyrics
 name: On The Ocean
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2009
+runtime: 272026
 ---
 Man
 The moment I been waiting on

@@ -1,8 +1,11 @@
 ---
+album: Amanda Marshall
 artists:
 - Amanda Marshall
+external_ids:
+  spotify: spotify:track:7uq3apmiiLp8WbgcbDZe6X
 features: []
-genres: []
+first_released_as_single: false
 key: birmingham-amanda-marshall
 lyrics_url: https://www.azlyrics.com/lyrics/amandamarshall/birmingham.html
 name: Birmingham
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 321066
 ---
-
 Virgil Spencer's got a 19 inch Hitachi
 And many demons lingering
 Friday night, he pulled a gun to change the channel
@@ -145,6 +149,3 @@ Yeah, someday soon
 Hey, hey, yeah
 Keep on driving
 Yeah, keep on driving baby, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Am Beautiful
 artists:
 - Candice Glover
+external_ids:
+  spotify: spotify:track:2jKrwn5GUuLUmO7dNUMc5c
 features: []
-genres: []
+first_released_as_single: true
 key: i-am-beautiful-candice-glover
 lyrics_url: https://genius.com/Candice-glover-i-am-beautiful-lyrics
 name: I Am Beautiful
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2013
+runtime: 177053
 ---
 You say I sound silly when I laugh real loud
 Talk about my day and you tune me out

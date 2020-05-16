@@ -1,9 +1,12 @@
 ---
+album: The College Dropout
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1V7mKfA04Mj0dZWUs8DmYQ
 features:
 - Syleena Johnson
-genres: []
+first_released_as_single: true
 key: all-falls-down-kanye-west-syleena-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/allfallsdown.html
 name: All Falls Down
@@ -88,9 +91,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
+release_year: 2004
+runtime: 232146
 ---
-
-
 Oh when it all, it all falls down
 I'm telling you oh, it all falls down
 
@@ -148,4 +151,3 @@ I wanna act ballerific like it's all terrific
 I got a couple past due bills, I won't get specific
 I got a problem with spending before I get it
 We all self conscious I'm just the first to admit it
-

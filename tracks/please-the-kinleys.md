@@ -1,8 +1,11 @@
 ---
+album: Just Between You And Me
 artists:
 - The Kinleys
+external_ids:
+  spotify: spotify:track:0wTrRpeNHnJXrzszeL0uAs
 features: []
-genres: []
+first_released_as_single: false
 key: please-the-kinleys
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kinleys/Please
 name: Please
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
+release_year: 1996
+runtime: 215600
 ---
 (Tony haselden)
 

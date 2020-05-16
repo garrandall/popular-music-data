@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:53trN8rFU32G7X1Mj7z2Bn
 features: []
-genres: []
+first_released_as_single: false
 key: sure-gonna-miss-her-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-sure-gonna-miss-her-lyrics
 name: Sure Gonna Miss Her
@@ -43,6 +46,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 152600
 ---
 I never did too much to make her stay here
 And words of love to her I'd never say

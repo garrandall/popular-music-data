@@ -1,8 +1,11 @@
 ---
+album: Hello
 artists:
 - Karmin
+external_ids:
+  spotify: spotify:track:7jO1boY6qwRjeu0EBtvDuu
 features: []
-genres: []
+first_released_as_single: false
 key: hello-karmin
 lyrics_url: https://www.azlyrics.com/lyrics/karmin/hello.html
 name: Hello
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 237546
 ---
-
 I'mma do it, do it
 Like I wanna do it
 You gon' know me like, you ain't never known me before
@@ -130,6 +134,3 @@ Hello, hello, hello, hello
 Hello, hello, hello, hello
 Hello, hello, hello, hello
 You gon' love me like you ain't loved nobody before
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Double Or Nothing (& Metro Boomin)
 artists:
 - Big Sean
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:2jCXqj2eerYiisqde2Ccd4
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: pull-up-n-wreck-big-sean-metro-boomin-21-savage
 lyrics_url: https://genius.com/Big-sean-and-metro-boomin-pull-up-n-wreck-lyrics
 name: Pull Up N Wreck
@@ -17,6 +20,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 227533
 ---
 Southside (Southside, Southside)
 Pull up and wreck (Yeah), pull up and

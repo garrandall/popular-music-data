@@ -1,8 +1,11 @@
 ---
+album: Painted Desert Serenade
 artists:
 - Joshua Kadison
+external_ids:
+  spotify: spotify:track:4n8iSiSWRdaSeSpJMbdk9O
 features: []
-genres: []
+first_released_as_single: false
 key: jessie-joshua-kadison
 lyrics_url: https://www.azlyrics.com/lyrics/joshuakadison/jessie.html
 name: Jessie
@@ -95,8 +98,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 319026
 ---
-
 From a phone booth in Vegas Jessie calls at five a.m.
 To tell me how she's tired of all of them
 She says, "Baby, I've been thinking about a trailer by the sea
@@ -143,6 +147,3 @@ Your dreams are never free
 But tell me all about our little trailer by the sea
 Oh Jessie you can always sell any dream to me
 Oh Jessie you can always sell any dream to me
-
-
-

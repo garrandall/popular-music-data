@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:408AbMSq22HyOPJ5RqceiH
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-home-marv-johnson
 name: I'm Coming Home
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
+release_year: 1959
+runtime: 158400
 ---
 

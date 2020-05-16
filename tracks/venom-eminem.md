@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:2SL6oP2YAEQbqsrkOzRGO4
 features: []
-genres: []
+first_released_as_single: false
 key: venom-eminem
 lyrics_url: https://genius.com/Eminem-venom-lyrics
 name: Venom
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 269554
 ---
 I got a song filled with shit for the strong-willed
 When the world gives you a raw deal

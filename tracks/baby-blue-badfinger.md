@@ -1,8 +1,11 @@
 ---
+album: Straight Up
 artists:
 - Badfinger
+external_ids:
+  spotify: spotify:track:6S3JlDAGk3uu3NtZbPnuhS
 features: []
-genres: []
+first_released_as_single: false
 key: baby-blue-badfinger
 lyrics_url: https://genius.com/Badfinger-baby-blue-lyrics
 name: Baby Blue
@@ -47,6 +50,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1971
+runtime: 217346
 ---
 Guess I got what I deserved
 Kept you waitin' there too long, my love

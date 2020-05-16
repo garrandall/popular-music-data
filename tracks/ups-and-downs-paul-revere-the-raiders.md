@@ -1,9 +1,12 @@
 ---
+album: Revolution!
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:4gQ6oyK3y4UZoBmvjkNr8q
 features: []
-genres: []
+first_released_as_single: false
 key: ups-and-downs-paul-revere-the-raiders
 lyrics_url: https://genius.com/Paul-revere-and-the-raiders-ups-and-downs-lyrics
 name: Ups And Downs
@@ -40,6 +43,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 169706
 ---
 Lindsay-Melcher
 

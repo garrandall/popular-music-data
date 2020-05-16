@@ -1,8 +1,11 @@
 ---
+album: Symphonic Hits
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:2IobDyMywYgrJAdLpRvqvT
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-live-for-today-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/letslivefortoday.html
 name: Let's Live For Today
@@ -55,8 +58,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 167400
 ---
-
 When I think of all the worries
 That people seem to find
 And how they're in a hurry
@@ -118,6 +122,3 @@ Sha-la-la-la-la-la, live for today
 And don't worry 'bout tomorrow, hey
 Sha-la-la-la-la-la, live for today
 Sha-la-la-la-la-la, live for today
-
-
-

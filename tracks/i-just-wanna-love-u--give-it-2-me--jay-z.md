@@ -1,8 +1,11 @@
 ---
+album: The Dynasty
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:0s46SltT4On0Z6kglK1I5c
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-love-u--give-it-2-me--jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/JAY-Z/I-Just-Wanna-Love-U
 name: I Just Wanna Love U (Give It 2 Me)
@@ -91,6 +94,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2001-03-17'
+release_year: 2000
+runtime: 227866
 ---
 I'm a hustler baby, I just want you to know
 It ain't where I been, it's where I'm 'bout to go

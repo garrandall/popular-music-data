@@ -1,8 +1,11 @@
 ---
+album: Talk Show
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:5Bxl6uiDPrMjNmTrAr7Q4d
 features: []
-genres: []
+first_released_as_single: false
 key: yes-or-no-go-go-s
 lyrics_url: https://genius.com/The-go-gos-yes-or-no-lyrics
 name: Yes Or No
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1984
+runtime: 243800
 ---
 (Jane Wiedlin/Ron Mael/Russell Mael)
 You're alone and I am too

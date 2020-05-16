@@ -1,9 +1,12 @@
 ---
+album: Underground Luxury
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:6gf1xlPETW9CwjsdnUzW3g
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: true
 key: headband-b-o-b-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/bob/headband.html
 name: HeadBand
@@ -124,9 +127,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
+release_year: 2013
+runtime: 219833
 ---
-
-
 Already got one, rolled up in my left hand
 Pussy on my mind, tighter than a headband
 Kush in my lungs, got ganja in my sweat glands
@@ -208,6 +211,3 @@ Until she started dancing like she do it in the mirror
 Like she do it in the mirror, like she do it in the mirror
 She broke it down started moving like Shakira
 Like she do it in the mirror
-
-
-

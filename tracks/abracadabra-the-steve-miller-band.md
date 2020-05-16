@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Vault
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:0fnTADkpDxvjA3v0Ss5bpb
 features: []
-genres: []
+first_released_as_single: false
 key: abracadabra-the-steve-miller-band
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/abracadabra.html
 name: Abracadabra
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
+release_year: 1982
+runtime: 307360
 ---
-
 I heat up, I can't cool down
 You got me spinnin'
 'Round and 'round
@@ -161,6 +165,3 @@ I heat up, I can't cool down
 My situation goes 'round and 'round
 I heat up, I can't cool down
 My situation goes 'round and 'round
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Border Lord
 artists:
 - Kris Kristofferson
+external_ids:
+  spotify: spotify:track:07rkOVz8p74BtEs1WWPLP8
 features: []
-genres: []
+first_released_as_single: false
 key: josie-kris-kristofferson
 lyrics_url: https://www.azlyrics.com/lyrics/kriskristofferson/josie.html
 name: Josie
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 191786
 ---
-
 I've been chasing after Josie since the day I could run
 Even though I didn't know it at the time
 And I followed her from Texas 'til she found me undone
@@ -72,6 +76,3 @@ Josie, is it true that you've grown harder than your years
 Sellin' them your sadness on the street
 How much did you lose between the laughter and the tears
 Gettin' back the bitter for the sweet
-
-
-

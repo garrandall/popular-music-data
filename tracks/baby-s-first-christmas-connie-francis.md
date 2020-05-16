@@ -1,8 +1,11 @@
 ---
+album: Christmas In My Heart
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4YGB5SzMVQJAB7gjsxbtQR
 features: []
-genres: []
+first_released_as_single: false
 key: baby-s-first-christmas-connie-francis
 lyrics_url: https://genius.com/Connie-francis-babys-first-christmas-lyrics
 name: Baby's First Christmas
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1959
+runtime: 145666
 ---
 It's baby's first Christmas
 It's somethin' to see

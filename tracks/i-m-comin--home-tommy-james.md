@@ -1,8 +1,11 @@
 ---
+album: Christian Of The World
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:3YvdhiEZRvRHFDBSIW5I7K
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-comin--home-tommy-james
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-James/I-m-Comin-Home
 name: I'm Comin' Home
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 121173
 ---
 Someone told me long ago
 There's a calm before the storm,

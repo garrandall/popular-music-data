@@ -1,8 +1,11 @@
 ---
+album: Women of the 60's
 artists:
 - Cathy Jean and The Roommates
+external_ids:
+  spotify: spotify:track:1lmjI5ia1E04BTbEjuTOb0
 features: []
-genres: []
+first_released_as_single: false
 key: please-love-me-forever-cathy-jean-and-the-roommates
 lyrics_url: https://genius.com/Cathy-jean-and-the-roommates-please-love-me-forever-lyrics
 name: Please Love Me Forever
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 171680
 ---
 (Please love me)
 (Please!)

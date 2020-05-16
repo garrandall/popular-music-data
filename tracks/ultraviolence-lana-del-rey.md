@@ -1,8 +1,11 @@
 ---
+album: Ultraviolence
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:1y3r6RXiJZNBV1EI0NggpS
 features: []
-genres: []
+first_released_as_single: false
 key: ultraviolence-lana-del-rey
 lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/ultraviolence.html
 name: Ultraviolence
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2014
+runtime: 251480
 ---
-
 He used to call me DN
 That stood for deadly nightshade
 Cause I was filled with poison
@@ -78,6 +82,3 @@ I can hear sirens, sirens
 He hit me and it felt like a kiss
 I can hear violins, violins
 Give me all of that ultraviolence
-
-
-

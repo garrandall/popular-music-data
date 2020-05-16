@@ -1,8 +1,11 @@
 ---
+album: Supersonic The Album
 artists:
 - J.J. Fad
+external_ids:
+  spotify: spotify:track:2pxXrmgstADhRFZg1vrm6L
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-love-j-j--fad
 lyrics_url: https://genius.com/Jj-fad-is-it-love-lyrics
 name: Is It Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-01-07'
+release_year: 1988
+runtime: 183040
 ---
 Sitting around
 Waiting for the phone to ring

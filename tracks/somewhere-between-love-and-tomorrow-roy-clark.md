@@ -1,8 +1,11 @@
 ---
+album: Great Picks & New Traditions
 artists:
 - Roy Clark
+external_ids:
+  spotify: spotify:track:7nuX57Xvxzw9P5Id9Jevqo
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-between-love-and-tomorrow-roy-clark
 lyrics_url: https://genius.com/Roy-clark-somewhere-between-love-and-tomorrow-lyrics
 name: Somewhere Between Love And Tomorrow
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
+release_year: 1973
+runtime: 205933
 ---
 You gave your love completely
 And warmed my life, so cold

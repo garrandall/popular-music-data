@@ -1,8 +1,12 @@
 ---
+album: Let's All Sing With The Chipmunks
 artists:
-- David Seville And The Chipmunks
-features: []
-genres: []
+- Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:7mZwaEEaHSeTYC2hTAjUki
+features:
+- David Seville
+first_released_as_single: false
 key: the-chipmunk-song--christmas-don-t-be-late--david-seville-and-the-chipmunks
 name: The Chipmunk Song (Christmas Don't Be Late)
 rankings:
@@ -66,5 +70,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1959
+runtime: 141906
 ---
 

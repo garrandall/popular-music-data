@@ -1,9 +1,12 @@
 ---
+album: In the Year 2525 (Exordium Terminus)
 artists:
 - Zager
 - Evans
+external_ids:
+  spotify: spotify:track:3LdLGNKCW0dNr14JQlZPQt
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-year-2525-zager-evans
 lyrics_url: https://genius.com/Zager-and-evans-in-the-year-2525-lyrics
 name: In The Year 2525
@@ -60,6 +63,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1962
+runtime: 191160
 ---
 In the year 2525
 If man is still alive

@@ -1,8 +1,11 @@
 ---
+album: Apples, Peaches, Pumpkin Pie
 artists:
 - Jay And The Techniques
+external_ids:
+  spotify: spotify:track:1m1UTLYGCzEciEdSfpK1Yu
 features: []
-genres: []
+first_released_as_single: false
 key: apples-peaches-pumpkin-pie-jay-and-the-techniques
 lyrics_url: https://genius.com/Jay-and-the-techniques-apples-peaches-pumpkin-pie-lyrics
 name: Apples Peaches Pumpkin Pie
@@ -75,6 +78,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 148493
 ---
 Ready or not here I come
 Gee that used to be such fun

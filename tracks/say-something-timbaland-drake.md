@@ -1,9 +1,12 @@
 ---
+album: Shock Value II
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:7qje9qxLncMESiPeI27SAn
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: say-something-timbaland-drake
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/saysomething.html
 name: Say Something
@@ -88,8 +91,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2009
+runtime: 240920
 ---
-
 This shit was all I knew
 You and me only
 I did it all for you
@@ -174,6 +178,3 @@ But, I'm gonna need you to say something baby
 Say something baby, say something baby, say something baby
 I'm gon' need you to say something baby
 I'm gon' need you to say something baby
-
-
-

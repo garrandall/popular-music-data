@@ -1,8 +1,11 @@
 ---
+album: Wheels Are Turnin'
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:1IMz8NXt3d1ApV6WJUFmg2
 features: []
-genres: []
+first_released_as_single: false
 key: live-every-moment-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/liveeverymoment.html
 name: Live Every Moment
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1984
+runtime: 299960
 ---
-
 Live every moment - love every day
 'Cus before you know it your precious time slips away.
 Live every moment - love every day
@@ -81,6 +85,3 @@ Leave all this trouble and heartache and pain for another day.
 I will search for that place but 'til I find it all I can say is...
 
 Live every moment - and love every day
-
-
-

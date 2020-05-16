@@ -1,8 +1,11 @@
 ---
+album: Coming Home
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:0F60KsvDxOuOMfe6wnFXKx
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-like-comin--home-lonestar
 lyrics_url: https://genius.com/Lonestar-youre-like-comin-home-lyrics
 name: You're Like Comin' Home
@@ -51,6 +54,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 1995
+runtime: 240800
 ---
 Ridin' restless under broken sky
 Weary traveller, somethin' missin' inside

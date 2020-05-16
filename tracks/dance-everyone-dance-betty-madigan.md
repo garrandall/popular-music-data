@@ -1,8 +1,11 @@
 ---
+album: Vocal & Jazz Classics
 artists:
 - Betty Madigan
+external_ids:
+  spotify: spotify:track:2tkBw0h4j2H0czTykwtZic
 features: []
-genres: []
+first_released_as_single: false
 key: dance-everyone-dance-betty-madigan
 lyrics_url: https://genius.com/Betty-madigan-dance-everyone-dance-lyrics
 name: Dance Everyone Dance
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 144493
 ---
 Dance everyone dance
 Betty Madigan

@@ -1,9 +1,12 @@
 ---
+album: Warm
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:7zXf2wuLlzHelbcQCgQsPm
 features: []
-genres: []
+first_released_as_single: false
 key: zazueira--za-zoo-wher-a--herb-alpert-the-tijuana-brass
 name: Zazueira (Za-zoo-wher-a)
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 194640
 ---
 

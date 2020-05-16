@@ -1,8 +1,11 @@
 ---
+album: Shot in the Dark
 artists:
 - Shot In The Dark
+external_ids:
+  spotify: spotify:track:1Lw8lLCrC17bLOuFPwACuB
 features: []
-genres: []
+first_released_as_single: false
 key: playing-with-lightning-shot-in-the-dark
 name: Playing With Lightning
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1981
+runtime: 245849
 ---
 

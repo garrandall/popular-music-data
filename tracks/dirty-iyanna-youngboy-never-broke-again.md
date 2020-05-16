@@ -1,8 +1,11 @@
 ---
+album: Dirty Iyanna
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:3z2q4KZxGOotjB87arytei
 features: []
-genres: []
+first_released_as_single: true
 key: dirty-iyanna-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-dirty-iyanna-lyrics
 name: Dirty Iyanna
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 252311
 ---
 CashMoneyAP
 

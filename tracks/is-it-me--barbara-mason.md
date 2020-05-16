@@ -1,8 +1,11 @@
 ---
+album: Oh, How It Hurts
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:7nNawutueOA7m2c4OhKrZX
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-me--barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-is-it-me-lyrics
 name: Is It Me?
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1966
+runtime: 185600
 ---
 Is it me or is it her
 Tell me which one do you prefer

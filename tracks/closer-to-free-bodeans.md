@@ -1,8 +1,11 @@
 ---
+album: Go Slow Down
 artists:
 - BoDeans
+external_ids:
+  spotify: spotify:track:0xw22cJECqEQ8RlH0H4sHr
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-free-bodeans
 lyrics_url: https://www.azlyrics.com/lyrics/bodeans/closertofree.html
 name: Closer To Free
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1993
+runtime: 188600
 ---
-
 Everybody wants to live how they wanna live and
 Everybody wants to love how they wanna love and
 Everybody wants to be closer to free
@@ -110,6 +114,3 @@ And everybody wants to be closer to free
 Closer to free
 Closer to free
 Closer to free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:72UdlKL7OsoG9R0zZENhxu
 features: []
-genres: []
+first_released_as_single: false
 key: over-the-mountain--across-the-sea--bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/overthemountainacrossthesea.html
 name: Over The Mountain (Across The Sea)
@@ -47,8 +50,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1963
+runtime: 146853
 ---
-
 Over the mountain
 Across the sea
 There's a girl, she's waiting for me
@@ -69,6 +73,3 @@ My love waits for me
 Into each dark and starry night
 Oh, what a mystery that's sealed so tight
 Over the mountain, a girl waits for me
-
-
-

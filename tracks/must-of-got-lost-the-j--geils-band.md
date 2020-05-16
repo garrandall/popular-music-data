@@ -1,8 +1,11 @@
 ---
+album: Nightmares...And Other Tales From The Vinyl Jungle
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:252pAlbltOjOcUux4dRtjp
 features: []
-genres: []
+first_released_as_single: false
 key: must-of-got-lost-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/mustofgotlost.html
 name: Must Of Got Lost
@@ -51,8 +54,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 178240
 ---
-
 Hold on this song has a little introduction to it
 It's ain't supposed to be sad though you might feel it that way
 It's a song about desperation,
@@ -176,6 +180,3 @@ I said your love has got me higher,
 than I ever been lifted before
 
 Somewhere
-
-
-

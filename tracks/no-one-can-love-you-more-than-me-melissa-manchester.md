@@ -1,8 +1,11 @@
 ---
+album: Emergency
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:3vBJ5AduJQrk7ySMJ0MDqM
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-can-love-you-more-than-me-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/noonecanloveyoumorethanme.html
 name: No One Can Love You More Than Me
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 252986
 ---
-
 Can't believe that you think it's best that we part
 We had good times but understood from the start
 Time alone won't decide our fate
@@ -67,6 +71,3 @@ No one can give like I give to you
 No one can feel your every need
 Oh, no one can love
 No one can give like I give to you
-
-
-

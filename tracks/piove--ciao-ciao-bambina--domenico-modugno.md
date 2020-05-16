@@ -1,8 +1,11 @@
 ---
+album: Domenico Modugno
 artists:
 - Domenico Modugno
+external_ids:
+  spotify: spotify:track:74F6eM5sKBjAGtWBu5KpZQ
 features: []
-genres: []
+first_released_as_single: false
 key: piove--ciao-ciao-bambina--domenico-modugno
 lyrics_url: https://genius.com/Domenico-modugno-piove-lyrics
 name: Piove (Ciao Ciao Bambina)
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
+release_year: 1959
+runtime: 142733
 ---
 Mille violini suonati dal vento
 Tutti I colori dell'arcobaleno

@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:4Qw41GUmS4rF7GR3am9Rt6
 features: []
-genres: []
+first_released_as_single: false
 key: leave-a-tender-moment-alone-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/leaveatendermomentalone.html
 name: Leave A Tender Moment Alone
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1983
+runtime: 236706
 ---
-
 Even though I'm in love
 Sometimes I get so afraid
 I'll say something so wrong
@@ -119,6 +123,3 @@ Leave a tender moment alone
 Leave it alone
 You got to leave a tender moment alone
 Leave a tender moment alone
-
-
-

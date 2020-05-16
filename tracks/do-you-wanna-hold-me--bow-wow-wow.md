@@ -1,8 +1,11 @@
 ---
+album: We Are The '80s
 artists:
 - Bow Wow Wow
+external_ids:
+  spotify: spotify:track:2hvf4cvCj7stVtS7la1V2Y
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-hold-me--bow-wow-wow
 lyrics_url: https://genius.com/Bow-wow-wow-do-you-wanna-hold-me-lyrics
 name: Do You Wanna Hold Me?
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1980
+runtime: 193173
 ---
 Children, I wanna warn ya (Whoa-oh-oh)
 'Cause I've been to California (Whoa-oh-oh)

@@ -1,8 +1,11 @@
 ---
+album: On The Threshold Of A Dream
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:3jTVFIyNFqQmgniYhKfFqW
 features: []
-genres: []
+first_released_as_single: false
 key: never-comes-the-day-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/nevercomestheday.html
 name: Never Comes The Day
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 283693
 ---
-
 Work away today, work away tomorrow.
 Never comes the day for my love and me.
 I feel her gently sighing as the evening slips away.
@@ -62,6 +66,3 @@ And see what's in front of you,
 It's never out of your sight.
 You know it's true,
 We all know that it's true.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Life
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:6GbtYclO9NzN0NLFLmlB7A
 features: []
-genres: []
+first_released_as_single: false
 key: m-lady-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/mlady.html
 name: M'Lady
@@ -20,9 +23,10 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 166106
 ---
-
- MLady, MLady
+MLady, MLady
 MLady, MLady
 
  A smile of pleasure, beautiful and kind
@@ -48,6 +52,3 @@ Hoo now now yeah yeah yeah
 
  MLady, MLady
 MLady, MLady
-
-
-

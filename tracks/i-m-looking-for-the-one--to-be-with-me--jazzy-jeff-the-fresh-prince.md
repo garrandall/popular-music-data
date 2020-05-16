@@ -1,9 +1,12 @@
 ---
+album: Code Red
 artists:
 - Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:3hdG10y4aLANkVEpBHHzU9
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-looking-for-the-one--to-be-with-me--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-im-looking-for-the-one-to-be-with-me-lyrics
 name: I'm Looking For The One (To Be With Me)
@@ -36,6 +39,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
+release_year: 1987
+runtime: 221506
 ---
 Yeah, kick it!
 

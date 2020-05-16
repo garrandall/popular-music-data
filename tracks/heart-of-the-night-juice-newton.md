@@ -1,8 +1,11 @@
 ---
+album: Quiet Lies
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:4bbTSYc4VRsX6vcXIIZWbt
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-the-night-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/heartofthenight.html
 name: Heart Of The Night
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1981
+runtime: 249426
 ---
-
 Dark city streets
 Twist and moan in the heat
 As night descends
@@ -133,6 +137,3 @@ Heart of the night
 In the heart of the night
 In the heart of the night
 (In the heart of the night)
-
-
-

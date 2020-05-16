@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Shooting Star
+external_ids:
+  spotify: spotify:track:4lbAS9fTXxBkV71DIaE9O0
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-tonight-shooting-star
 lyrics_url: https://www.musixmatch.com/lyrics/Shooting-Star/Touch-Me-Tonight
 name: Touch Me Tonight
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-12-30'
+release_year: 1989
+runtime: 252666
 ---
 Oo-oo-oo Oo oo Oo-oo
 Oo-oo-oo-oo Oo

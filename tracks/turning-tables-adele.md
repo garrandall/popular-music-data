@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:5O6yk6U8L3rTbFsIwuqe8H
 features: []
-genres: []
+first_released_as_single: false
 key: turning-tables-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/turningtables.html
 name: Turning Tables
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2011
+runtime: 250133
 ---
-
 Close enough to start a war
 All that I have is on the floor
 God only knows what we're fighting for
@@ -63,6 +67,3 @@ It's time to say goodbye to turning tables
 To turning tables
 Turning tables, yeah
 Turning, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pictures At Eleven
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:5snDBnRlxwwxD6MYiHzJ4i
 features: []
-genres: []
+first_released_as_single: false
 key: burning-down-one-side-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/burningdownoneside.html
 name: Burning Down One Side
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-10-16'
+release_year: 1982
+runtime: 236760
 ---
-
 Slipped through the window by the back door
 Caught short in transit with my love
 Jumped up, fell back, cut off from romance,
@@ -64,6 +68,3 @@ There's three-course kissing in the same place
 But that don't help me out no more
 I've been away so long and dreaming
 Little girl ain't I seen you before
-
-
-

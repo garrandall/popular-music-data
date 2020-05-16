@@ -1,8 +1,11 @@
 ---
+album: Energy & Harmony
 artists:
 - Planet Soul
+external_ids:
+  spotify: spotify:track:1Q6oJGLbh2s1OocPyMKkJr
 features: []
-genres: []
+first_released_as_single: true
 key: set-u-free-planet-soul
 lyrics_url: https://genius.com/Planet-soul-set-u-free-lyrics
 name: Set U Free
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-04-13'
+release_year: 1995
+runtime: 589951
 ---
 Set you free
 Set you free

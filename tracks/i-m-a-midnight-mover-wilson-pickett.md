@@ -1,8 +1,11 @@
 ---
+album: The Midnight Mover
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:1wGeHxQTeDRt4rYO4tMB6a
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-midnight-mover-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-im-a-midnight-mover-lyrics
 name: I'm A Midnight Mover
@@ -35,6 +38,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 146053
 ---
 Im a midnight mover, huh! all the night through
 Im a midnight teaser huh! real soul pleaser

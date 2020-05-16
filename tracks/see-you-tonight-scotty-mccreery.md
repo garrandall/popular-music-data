@@ -1,8 +1,11 @@
 ---
+album: See You Tonight
 artists:
 - Scotty McCreery
+external_ids:
+  spotify: spotify:track:54RCDE1TAewECyX4WDUVm1
 features: []
-genres: []
+first_released_as_single: false
 key: see-you-tonight-scotty-mccreery
 lyrics_url: https://www.azlyrics.com/lyrics/scottymccreery/gottaseeyoutonight.html
 name: See You Tonight
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-04-12'
+release_year: 2013
+runtime: 226320
 ---
-
 Girl, you know I love talking to you on the phone
 I could listen to your sweet voice all night long
 Sometimes I can get by with a sweet dreams baby good night
@@ -130,6 +134,3 @@ But girl, I gotta see you tonight, tonight, tonight
 Girl, I gotta see you tonight, tonight, tonight, yeah, yeah
 
 Girl, I gotta see you tonight (tonight, tonight)
-
-
-

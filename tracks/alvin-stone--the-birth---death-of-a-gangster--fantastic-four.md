@@ -1,8 +1,11 @@
 ---
+album: Alvin Stone / Night People
 artists:
 - Fantastic Four
+external_ids:
+  spotify: spotify:track:1svcT9nBI9H9MkYRYRBPy6
 features: []
-genres: []
+first_released_as_single: false
 key: alvin-stone--the-birth---death-of-a-gangster--fantastic-four
 lyrics_url: https://genius.com/Fantastic-four-alvin-stone-the-birth-and-death-of-a-gangster-lyrics
 name: Alvin Stone (The Birth & Death Of A Gangster)
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 408160
 ---
 Alvin Stone
 The birth of a gangster

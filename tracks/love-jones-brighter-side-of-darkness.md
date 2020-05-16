@@ -1,8 +1,11 @@
 ---
+album: 'Love Jones: The Best Of Funk Essentials Ballads Vol.2'
 artists:
 - Brighter Side Of Darkness
+external_ids:
+  spotify: spotify:track:46Qk7yYzkQq0b4wctCKP2M
 features: []
-genres: []
+first_released_as_single: false
 key: love-jones-brighter-side-of-darkness
 lyrics_url: https://genius.com/Brighter-side-of-darkness-love-jones-lyrics
 name: Love Jones
@@ -59,6 +62,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 270106
 ---
 What's happening, baby
 Did you miss me over the weekend

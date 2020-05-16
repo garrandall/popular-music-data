@@ -1,8 +1,11 @@
 ---
+album: This Old Heart Of Mine
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:5e5vU8SzgEWmRsEaQWD3c3
 features: []
-genres: []
+first_released_as_single: false
 key: take-some-time-out-for-love-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-take-some-time-out-for-love-lyrics
 name: Take Some Time Out For Love
@@ -23,6 +26,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 146360
 ---
 If your baby lives away across town
 (Away across town)

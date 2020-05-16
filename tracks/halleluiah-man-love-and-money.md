@@ -1,8 +1,11 @@
 ---
+album: Strange Kind of Love (Live In Glasgow 2011)
 artists:
 - Love And Money
+external_ids:
+  spotify: spotify:track:5BCE2WGfKvHMdTsqll6Dom
 features: []
-genres: []
+first_released_as_single: false
 key: halleluiah-man-love-and-money
 lyrics_url: https://genius.com/Love-and-money-halleluiah-man-lyrics
 name: Halleluiah Man
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1989
+runtime: 382853
 ---
 On the blind side and down the back ways
 The roots of sadness crawl

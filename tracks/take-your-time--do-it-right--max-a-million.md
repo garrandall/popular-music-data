@@ -1,8 +1,11 @@
 ---
+album: Take Your Time
 artists:
 - Max-A-Million
+external_ids:
+  spotify: spotify:track:2fgoo2VrxMVXpNdvjomY1i
 features: []
-genres: []
+first_released_as_single: false
 key: take-your-time--do-it-right--max-a-million
 lyrics_url: https://genius.com/Maxamillion-take-your-time-lyrics
 name: Take Your Time (Do It Right)
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1995
+runtime: 220333
 ---
 Come and take, come and take your time
 You got to do it right, to take your time

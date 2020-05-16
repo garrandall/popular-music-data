@@ -1,8 +1,11 @@
 ---
+album: Pop Megahits Of The 1950's Vol. 1
 artists:
 - Mark Dinning
+external_ids:
+  spotify: spotify:track:36NPEs4S7ik50NrlzaqoIJ
 features: []
-genres: []
+first_released_as_single: false
 key: teen-angel-mark-dinning
 lyrics_url: https://www.azlyrics.com/lyrics/markdinning/teenangel.html
 name: Teen Angel
@@ -79,8 +82,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1959
+runtime: 159893
 ---
-
 Teen angel
 Teen angel
 Teen angel
@@ -124,6 +128,3 @@ And am I still your own true love?
 Teen angel
 Teen angel
 Answer me please
-
-
-

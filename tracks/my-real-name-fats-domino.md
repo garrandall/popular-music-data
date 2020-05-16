@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:50O2i8HRJIeBtnqpqlqRZh
 features: []
-genres: []
+first_released_as_single: false
 key: my-real-name-fats-domino
 lyrics_url: https://genius.com/Fats-domino-my-real-name-lyrics
 name: My Real Name
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 139533
 ---
 Some folks call me Fatso
 Some call me Dumbo

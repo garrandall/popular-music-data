@@ -1,8 +1,11 @@
 ---
+album: Melodies Of Love
 artists:
 - James Last
+external_ids:
+  spotify: spotify:track:1vb7aoJESHMUmLYNBzRPuh
 features: []
-genres: []
+first_released_as_single: false
 key: music-from-across-the-way-james-last
 name: Music From Across The Way
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1972
+runtime: 296000
 ---
 

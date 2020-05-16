@@ -1,8 +1,11 @@
 ---
+album: Eyes of a Stranger
 artists:
 - The Deele
+external_ids:
+  spotify: spotify:track:0mt80ksFAwPHXyAlArU5Yc
 features: []
-genres: []
+first_released_as_single: false
 key: two-occasions-the-deele
 lyrics_url: https://genius.com/The-deele-two-occasions-lyrics
 name: Two Occasions
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1987
+runtime: 258426
 ---
 A summer love is beautiful
 But it's not enough

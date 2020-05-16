@@ -1,8 +1,11 @@
 ---
+album: Luck Of The Draw
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:69uJi5QsBtqlYkGURTBli8
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-make-you-love-me-bonnie-raitt
 lyrics_url: https://genius.com/Bonnie-raitt-i-cant-make-you-love-me-lyrics
 name: I Can't Make You Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 332960
 ---
 Turn down the lights
 Turn down the bed

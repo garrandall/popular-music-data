@@ -1,8 +1,11 @@
 ---
+album: There It Is
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:1uEvVpntlreSRmSgjwwLB3
 features: []
-genres: []
+first_released_as_single: false
 key: there-it-is--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-there-it-is-lyrics
 name: There It Is (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1972
+runtime: 350733
 ---
 Help, there it is
 Hey, so so, need taste

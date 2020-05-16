@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:76gUmNLXGQVOsGhfcshkFP
 features: []
-genres: []
+first_released_as_single: false
 key: madiba-riddim-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/madibariddim.html
 name: Madiba Riddim
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 205162
 ---
-
 I cannot tell who is my friend
 I need distance between me and them
 Gonna have to teach me how to love you again
@@ -67,6 +71,3 @@ Alright, fam, soft. I see you, aye?
 You pay my bills, right?
 It's light
 You're a wasteman
-
-
-

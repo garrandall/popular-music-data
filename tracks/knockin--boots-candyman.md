@@ -1,8 +1,11 @@
 ---
+album: AIN'T NO SHAME IN MY GAME
 artists:
 - Candyman
+external_ids:
+  spotify: spotify:track:4bvqOj9QiH6qKecLiefKst
 features: []
-genres: []
+first_released_as_single: false
 key: knockin--boots-candyman
 lyrics_url: https://genius.com/Candyman-knockin-boots-lyrics
 name: Knockin' Boots
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
+release_year: 1990
+runtime: 233026
 ---
 Attention all ladies
 The Candyman is on the prowl

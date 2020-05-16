@@ -1,8 +1,11 @@
 ---
+album: Lady Soul (With Bonus Selections)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3lrSnngQqNWgvQmcFbCJCx
 features: []
-genres: []
+first_released_as_single: false
 key: -sweet-sweet-baby--since-you-ve-been-gone-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-since-youve-been-gone-lyrics
 name: (Sweet Sweet Baby) Since You've Been Gone
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 145264
 ---
 Baby baby, sweet baby
 There's something that I just got to say

@@ -1,8 +1,11 @@
 ---
+album: El Chicano
 artists:
 - El Chicano
+external_ids:
+  spotify: spotify:track:6yb6xhPaZBYwPvamEITnHy
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-she-s-lovely-el-chicano
 lyrics_url: https://genius.com/El-chicano-tell-her-shes-lovely-lyrics
 name: Tell Her She's Lovely
@@ -47,6 +50,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 232600
 ---
 Da da da da
 Tell her

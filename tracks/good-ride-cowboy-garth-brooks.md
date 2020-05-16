@@ -1,8 +1,11 @@
 ---
+album: A Salute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:1BXu4K8W7HXafUZo7MDlu4
 features: []
-genres: []
+first_released_as_single: false
 key: good-ride-cowboy-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/goodridecowboy.html
 name: Good Ride Cowboy
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
+release_year: 2005
+runtime: 194680
 ---
-
 From the hills to Kaycee, Wyoming
 Where life's wooly and wild
 Came an Air Force brat
@@ -131,6 +135,3 @@ I bet he crossed that river Jordan
 With St. Peter on the other side
 Singing good ride cowboy, good ride
 Good ride cowboy, good ride
-
-
-

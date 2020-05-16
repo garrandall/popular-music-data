@@ -1,8 +1,11 @@
 ---
+album: About Face
 artists:
 - David Gilmour
+external_ids:
+  spotify: spotify:track:0jn4nZA7te79ZebfJwTzGd
 features: []
-genres: []
+first_released_as_single: false
 key: blue-light-david-gilmour
 lyrics_url: https://genius.com/David-gilmour-blue-light-lyrics
 name: Blue Light
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
+release_year: 1984
+runtime: 275826
 ---
 She's a blue light, yes it cannot be denied
 She will give you back your pride

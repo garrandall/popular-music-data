@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Buddy Holly
+external_ids:
+  spotify: spotify:track:3WKh4fFDbb5zr0ixuh5tos
 features: []
-genres: []
+first_released_as_single: false
 key: raining-in-my-heart-buddy-holly
 lyrics_url: https://genius.com/Buddy-holly-raining-in-my-heart-lyrics
 name: Raining In My Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1959
+runtime: 167800
 ---
 The sun is out
 The sky is blue

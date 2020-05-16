@@ -1,8 +1,11 @@
 ---
+album: Guitar Man
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:4pxstwcAaMdSXpb5wx48VR
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-surrender-bread
 lyrics_url: https://www.azlyrics.com/lyrics/bread/sweetsurrender.html
 name: Sweet Surrender
@@ -51,8 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 156973
 ---
-
 Baby I'm through runnin' it's true
 I'd be a fool to try to escape you
 Maybe I'm beat but oh what a sweet surrender
@@ -72,6 +76,3 @@ Umm Babe, I may be beat, but oh what a sweet surrender
 surrender...
 And you, sweet thing in my life
 I surrender to you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Origins
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:1YBER5wirv0YFvED0LFTMK
 features: []
-genres: []
+first_released_as_single: false
 key: natural-imagine-dragons
 lyrics_url: https://genius.com/Imagine-dragons-natural-lyrics
 name: Natural
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2018
+runtime: 186360
 ---
 Will you hold the line
 When every one of them has given up and given in? Tell me

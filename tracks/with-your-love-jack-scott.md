@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:6hXji2WIbo3MvfZ0560wkx
 features: []
-genres: []
+first_released_as_single: false
 key: with-your-love-jack-scott
 lyrics_url: https://genius.com/Jack-scott-with-your-love-lyrics
 name: With Your Love
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 122733
 ---
 With your love here beside me
 Here to guide me, how can I go wrong?

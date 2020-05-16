@@ -1,8 +1,11 @@
 ---
+album: Do you Believe In Magic
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:3WnvXncCC2nERn5myOmKdE
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-in-magic-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-do-you-believe-in-magic-lyrics
 name: Do You Believe In Magic
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 124800
 ---
 Do you believe in magic in a young girl's heart
 How the music can free her whenever it starts?

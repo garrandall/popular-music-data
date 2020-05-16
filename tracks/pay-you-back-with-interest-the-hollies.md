@@ -1,8 +1,11 @@
 ---
+album: For Certain Because...
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:0EiZvJXVZpjMxTAxCTjNqZ
 features: []
-genres: []
+first_released_as_single: false
 key: pay-you-back-with-interest-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/payyoubackwithinterest.html
 name: Pay You Back With Interest
@@ -35,8 +38,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1966
+runtime: 165973
 ---
-
 Too many people need me
 I've got so much, So much to do
 But when my travelling is over
@@ -69,6 +73,3 @@ I've got so much, So much to do
 But when my travelling is over
 I'll pay you back with interest
 I'll pay you back with interest
-
-
-

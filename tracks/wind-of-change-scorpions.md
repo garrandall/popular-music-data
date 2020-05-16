@@ -1,8 +1,11 @@
 ---
+album: Crazy World
 artists:
 - Scorpions
+external_ids:
+  spotify: spotify:track:3ovjw5HZZv43SxTwApooCM
 features: []
-genres: []
+first_released_as_single: false
 key: wind-of-change-scorpions
 lyrics_url: https://www.azlyrics.com/lyrics/scorpions/windofchange.html
 name: Wind Of Change
@@ -107,8 +110,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1990
+runtime: 312360
 ---
-
 I follow the Moskva
 Down to Gorky Park
 Listening to the wind of change
@@ -159,6 +163,3 @@ Take me to the magic of the moment
 On a glory night
 Where the children of tomorrow dream away
 in the wind of change
-
-
-

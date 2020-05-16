@@ -1,8 +1,11 @@
 ---
+album: Guilty
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:2zj2oanLv5B1RwlqIQYrOD
 features: []
-genres: []
+first_released_as_single: false
 key: promises-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/promises.html
 name: Promises
@@ -43,8 +46,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1980
+runtime: 261040
 ---
-
 Here by my side
 Are you close enough to take me to your paradise
 Or am I going down to my loneliness
@@ -105,6 +109,3 @@ Promises
 Promises to be there
 Promises
 Promises...Ah!
-
-
-

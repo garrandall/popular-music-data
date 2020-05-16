@@ -1,8 +1,11 @@
 ---
+album: The Kick Inside
 artists:
 - Kate Bush
+external_ids:
+  spotify: spotify:track:4xjVfArXNQRxAvsUpjmfMt
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-with-the-child-in-his-eyes-kate-bush
 lyrics_url: https://www.azlyrics.com/lyrics/katebush/themanwiththechildinhiseyes.html
 name: The Man With The Child In His Eyes
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 158693
 ---
-
 ("He's here! He's here!
 He's here! He's here!")
 
@@ -62,6 +66,3 @@ Oh, he's here again,
 The man with the child in his eyes.
 Oh, he's here again,
 The man with the child in his eyes.
-
-
-

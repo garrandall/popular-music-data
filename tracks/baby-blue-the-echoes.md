@@ -1,8 +1,11 @@
 ---
+album: Goldisc Records From The Vault Volume 1
 artists:
 - The Echoes
+external_ids:
+  spotify: spotify:track:5Kt64y0teh7Y23o8JHNC8l
 features: []
-genres: []
+first_released_as_single: false
 key: baby-blue-the-echoes
 lyrics_url: https://genius.com/The-echoes-band-baby-blue-lyrics
 name: Baby Blue
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 156813
 ---
 Be -be -A-be -why, be -be -L-you-E
 Be -be -A-be -why, be -be -L-you-E

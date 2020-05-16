@@ -1,8 +1,11 @@
 ---
+album: Blown Away
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:5mFYtqhN4T2D9IPSaZnVDw
 features: []
-genres: []
+first_released_as_single: false
 key: two-black-cadillacs-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/twoblackcadillacs.html
 name: Two Black Cadillacs
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2012
+runtime: 297946
 ---
-
 Two black Cadillacs driving in a slow parade
 Headlights shining bright in the middle of the day
 One is for his wife,
@@ -136,6 +140,3 @@ They took turns laying a rose down
 Threw a handful of dirt into the deep ground
 He's not the only one who had a secret to hide
 Bye-bye, bye-bye, bye-bye
-
-
-

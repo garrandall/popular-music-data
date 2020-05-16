@@ -1,8 +1,11 @@
 ---
+album: Masterpiece Theatre
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:5AYyDRotbApDiucOpJnFGr
 features: []
-genres: []
+first_released_as_single: false
 key: riddle-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/riddle.html
 name: Riddle
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-07-08'
+release_year: 2000
+runtime: 309813
 ---
-
 One little riddle
 Two little three little
 Four little riddle
@@ -179,6 +183,3 @@ Seven little riddle
 Eight little riddle
 Now you know
 You gotta go
-
-
-

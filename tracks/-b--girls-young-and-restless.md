@@ -1,8 +1,11 @@
 ---
+album: Something To Get You Hyped
 artists:
 - Young And Restless
+external_ids:
+  spotify: spotify:track:0rWUHulFlScxQsCq7kWKde
 features: []
-genres: []
+first_released_as_single: false
 key: -b--girls-young-and-restless
 lyrics_url: https://genius.com/Young-and-restless-b-girls-lyrics
 name: '"B" Girls'
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
+release_year: 1990
+runtime: 242106
 ---
 Hey, Slim. Come here, check this out
 Uh-uh, wait. Let me tell you something

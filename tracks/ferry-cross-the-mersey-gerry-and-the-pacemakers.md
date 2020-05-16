@@ -1,8 +1,11 @@
 ---
+album: Ferry Cross The Mersey
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:3NFScsiDPfCzKgQQUL0674
 features: []
-genres: []
+first_released_as_single: false
 key: ferry-cross-the-mersey-gerry-and-the-pacemakers
 lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/ferrycrossthemersey.html
 name: Ferry Cross The Mersey
@@ -51,8 +54,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 143866
 ---
-
 Life goes on day after day
 Hearts torn in every way
 
@@ -80,6 +84,3 @@ So ferry, cross the Mersey
 And here I'll stay
 And here I'll stay
 Here I'll stay
-
-
-

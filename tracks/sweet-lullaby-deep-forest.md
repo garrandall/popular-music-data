@@ -1,8 +1,11 @@
 ---
+album: Made In Japan
 artists:
 - Deep Forest
+external_ids:
+  spotify: spotify:track:0ccpoWwoEkjL2uQDQvVLbb
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-lullaby-deep-forest
 lyrics_url: https://genius.com/Deep-forest-sweet-lullaby-lyrics
 name: Sweet Lullaby
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
+release_year: 1994
+runtime: 380160
 ---
 Sasi sasi o to aro aro
 O angi si nau boroi amu

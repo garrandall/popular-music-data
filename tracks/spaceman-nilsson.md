@@ -1,8 +1,11 @@
 ---
+album: Son Of Schmilsson
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:69O3FLsnM3zi5czOZGL70B
 features: []
-genres: []
+first_released_as_single: false
 key: spaceman-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/spaceman.html
 name: Spaceman
@@ -47,8 +50,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 214173
 ---
-
 Bang, bang, shoot em' up, destiny
 Bang, bang, shoot em' up to the moon
 Bang, bang, shoot em' up one, two, three
@@ -101,6 +105,3 @@ You better bring me back down
 I've taken just as much as I can
 But around and around and around and around
 Is the problem of a spaceman
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Deliver The Word
 artists:
 - War
+external_ids:
+  spotify: spotify:track:7t0ED5agxfnPpUFypQDIYK
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-man-war
 lyrics_url: https://genius.com/War-gypsy-man-lyrics
 name: Gypsy Man
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 696053
 ---
 They call
 They call me a gypsy man

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:01kmJXmeQaNlSZFRyFlSmz
 features: []
-genres: []
+first_released_as_single: false
 key: fire-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/fire.html
 name: Fire
@@ -75,8 +78,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 264360
 ---
-
 Hey, ha, uh-huh
 Hey, hey, hey, Lord (ow, gow)
 Hey, ha, uh-huh
@@ -129,6 +133,3 @@ Got me burnin', got me burnin' (fire)
 Got me burnin', got me burnin' (fire)
 Got me burnin', got me burnin' (fire)
 Got me burnin', got me burnin' (fire)
-
-
-

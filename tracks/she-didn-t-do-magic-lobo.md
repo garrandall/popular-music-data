@@ -1,8 +1,11 @@
 ---
+album: Introducing Lobo
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:3CTw0HBMIP5YZ8ZobPmt3w
 features: []
-genres: []
+first_released_as_single: false
 key: she-didn-t-do-magic-lobo
 lyrics_url: https://genius.com/Lobo-singer-she-didnt-do-magic-lyrics
 name: She Didn't Do Magic
@@ -43,6 +46,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 174666
 ---
 Thumbing across Georgia I ran into Gloria
 She seemed like a mystic to me

@@ -1,8 +1,11 @@
 ---
+album: Wild-Eyed Southern Boys
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:6i9dZZQWNB06HKsQYKTiPF
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-loosely-38-special
 lyrics_url: https://www.azlyrics.com/lyrics/38special/holdonloosely.html
 name: Hold On Loosely
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1980
+runtime: 280636
 ---
-
 You see it all around you
 Good lovin' gone bad
 And usually it's too late when you
@@ -144,6 +148,3 @@ Hold on loosely
 But don't let go
 If you cling too tightly to her
 You're gonna lose control, yeah, yeah, yeah
-
-
-

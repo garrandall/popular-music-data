@@ -1,8 +1,11 @@
 ---
+album: Celebrity Skin
 artists:
 - Hole
+external_ids:
+  spotify: spotify:track:2V4Bc2I962j7acQj1N0PiQ
 features: []
-genres: []
+first_released_as_single: false
 key: celebrity-skin-hole
 lyrics_url: https://www.azlyrics.com/lyrics/hole/celebrityskin.html
 name: Celebrity Skin
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 162666
 ---
-
 Oh, make me over
 I'm all I wanna be
 A walking study
@@ -93,6 +97,3 @@ I'm glad I came here with your pound of flesh
 You want a part of me?
 Well, I'm not selling cheap
 No, I'm not selling cheap
-
-
-

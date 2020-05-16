@@ -1,8 +1,11 @@
 ---
+album: Dreamland
 artists:
 - Robert Miles
+external_ids:
+  spotify: spotify:track:2AVZ7BJ1PKTkbeeleDr3SK
 features: []
-genres: []
+first_released_as_single: false
 key: children-robert-miles
 name: Children
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
+release_year: 1996
+runtime: 391800
 ---
 

@@ -1,10 +1,13 @@
 ---
+album: My Love Is Your Love
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4J9u7UsXH7F6sFI32KnYuP
 features:
 - Faith Evans
 - Kelly Price
-genres: []
+first_released_as_single: false
 key: heartbreak-hotel-whitney-houston-faith-evans-kelly-price
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/heartbreakhotel.html
 name: Heartbreak Hotel
@@ -121,8 +124,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1999-07-03'
+release_year: 1998
+runtime: 281493
 ---
-
 This is the heartbreak hotel 
 You said that you'd be here by nine
 And said you took your time
@@ -157,7 +161,4 @@ This is the heartbreak hotel
 Chorus and ad lib
 I ain't going to take it no more 
  Everything you said was a lie
-Don't lie to me 
-
-
-
+Don't lie to me

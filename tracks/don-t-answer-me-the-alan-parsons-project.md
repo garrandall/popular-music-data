@@ -1,8 +1,11 @@
 ---
+album: Ammonia Avenue
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2nckfUzyQPh6PTOXTheSww
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-answer-me-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-dont-answer-me-lyrics
 name: Don't Answer Me
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1977
+runtime: 253266
 ---
 If you believe in the power magic
 I can change your mind

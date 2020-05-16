@@ -1,8 +1,11 @@
 ---
+album: 'Behaviour: Further Listening 1990 - 1991'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:5Mg9aYhw9zo66e7pf1jdDI
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-streets-have-no-name-pet-shop-boys
 lyrics_url: https://genius.com/Pet-shop-boys-where-the-streets-have-no-name-cant-take-my-eyes-off-you-lyrics
 name: Where The Streets Have No Name
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
+release_year: 1990
+runtime: 406853
 ---
 (hewson/evan/mullen/clayton/gaudio/crewe)
 -----------------------------------------

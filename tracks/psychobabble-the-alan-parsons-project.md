@@ -1,8 +1,11 @@
 ---
+album: Eye In The Sky
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2ykU6RxoAWttfbPW3YT4o6
 features: []
-genres: []
+first_released_as_single: false
 key: psychobabble-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/psychobabble.html
 name: Psychobabble
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1977
+runtime: 291960
 ---
-
 Tell you 'bout a dream that I have every night
 Tell you 'bout a dream that I have every night
 It ain't in Kodachrome and it isn't black and white
@@ -88,6 +92,3 @@ Psychobabble all psychobabble
 You're lighting a scene that's faded to black
 I threw it away cause I don't want it back
 But I don't care it's all psychobabble rap
-
-
-

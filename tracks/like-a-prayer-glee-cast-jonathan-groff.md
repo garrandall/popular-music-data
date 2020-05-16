@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Power Of Madonna'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6ib7bSRpd5ZcE3Cr5lPvYJ
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: false
 key: like-a-prayer-glee-cast-jonathan-groff
 lyrics_url: https://genius.com/Glee-cast-like-a-prayer-lyrics
 name: Like A Prayer
@@ -16,6 +19,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 315253
 ---
 Life is a mystery
 Everyone must stand alone

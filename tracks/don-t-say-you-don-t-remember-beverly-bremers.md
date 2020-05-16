@@ -1,8 +1,11 @@
 ---
+album: I'll Make You Music
 artists:
 - Beverly Bremers
+external_ids:
+  spotify: spotify:track:3FODe1S9OlL5Y9y9koJA7I
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-you-don-t-remember-beverly-bremers
 lyrics_url: https://genius.com/Beverly-bremers-dont-say-you-dont-remember-lyrics
 name: Don't Say You Don't Remember
@@ -71,6 +74,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1971
+runtime: 203050
 ---
 We wrote on the corner of the table:
 "This is the only one that will last

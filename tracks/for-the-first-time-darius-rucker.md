@@ -1,8 +1,11 @@
 ---
+album: When Was The Last Time
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:1UtuSLerXBc6DNpIlfey7H
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-first-time-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/forthefirsttime.html
 name: For The First Time
@@ -47,8 +50,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2017
+runtime: 198346
 ---
-
 You say you never danced to a dashboard singin' R.E.M. under summer stars
 Never leaned back on a jet black Chevy, blowing smoke rings in the dark
 You don't want to be a rumor, girl, and I feel just the same
@@ -83,6 +87,3 @@ Like a real life, let your hair down, feel alive, alive
 When was the last time oh you did something for the first time, girl?
 Come on, baby
 When was the last time yeah you did something for the first time?
-
-
-

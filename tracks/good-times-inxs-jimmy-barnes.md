@@ -1,9 +1,12 @@
 ---
+album: The Lost Boys Original Motion Picture Soundtrack
 artists:
 - INXS
 - Jimmy Barnes
+external_ids:
+  spotify: spotify:track:5UDIOboF6XMphU2MNBumVK
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-inxs-jimmy-barnes
 lyrics_url: https://genius.com/Inxs-and-jimmy-barnes-good-times-lyrics
 name: Good Times
@@ -60,6 +63,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1987
+runtime: 231320
 ---
 Everybody shake
 Everybody groove

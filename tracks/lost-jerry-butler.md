@@ -1,8 +1,11 @@
 ---
+album: Starring Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:60cGRiz0WR03Q7x6KvT1kH
 features: []
-genres: []
+first_released_as_single: false
 key: lost-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/Lost
 name: Lost
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 142250
 ---
 I was a sad and lonely guy
 Seems no one would hear my cry

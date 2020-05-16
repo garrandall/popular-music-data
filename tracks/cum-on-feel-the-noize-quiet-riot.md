@@ -1,8 +1,11 @@
 ---
+album: Metal Health
 artists:
 - Quiet Riot
+external_ids:
+  spotify: spotify:track:3vV3cr2TpPqFk07zxYUbla
 features: []
-genres: []
+first_released_as_single: false
 key: cum-on-feel-the-noize-quiet-riot
 lyrics_url: https://www.azlyrics.com/lyrics/quietriot/cumonfeelthenoize.html
 name: Cum On Feel The Noize
@@ -91,8 +94,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 290960
 ---
-
 Cum on feel the noize
 Girls rock your boys
 We'll get wild, wild, wild
@@ -190,6 +194,3 @@ We'll get wild, wild, wild
 
 Ah, ah, ah
 Ah, ah, ah
-
-
-

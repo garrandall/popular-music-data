@@ -1,9 +1,12 @@
 ---
+album: Ready
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:1Ug1mV9h5qVSs4rvvnQWux
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: i-invented-sex-trey-songz-drake
 lyrics_url: https://genius.com/Trey-songz-i-invented-sex-lyrics
 name: I Invented Sex
@@ -88,6 +91,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-03-20'
+release_year: 2009
+runtime: 247933
 ---
 Hey girl, hey girl, hey girl
 This goes out to the beautiful girls

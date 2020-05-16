@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:5Y05hazw0pF5jMQiZm2zf5
 features: []
-genres: []
+first_released_as_single: false
 key: step-by-step-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Step-by-Step
 name: Step By Step
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 204729
 ---
 Oh yeah Step by step
 I've got to get close to you

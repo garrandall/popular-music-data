@@ -1,8 +1,11 @@
 ---
+album: '#1 to Infinity'
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:3qczyRtur0tILibW9rHBFA
 features: []
-genres: []
+first_released_as_single: false
 key: infinity-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-infinity-lyrics
 name: Infinity
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-05-16'
+release_year: 2015
+runtime: 239800
 ---
 Why you mad? Talkin' 'bout you're mad
 Could it be that you just lost the best you've ever had?

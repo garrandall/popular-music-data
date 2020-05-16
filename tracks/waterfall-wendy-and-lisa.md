@@ -1,8 +1,11 @@
 ---
+album: Wendy and Lisa (Expanded)
 artists:
 - Wendy And Lisa
+external_ids:
+  spotify: spotify:track:0i6vxP7VXmi1pIepsIkydF
 features: []
-genres: []
+first_released_as_single: false
 key: waterfall-wendy-and-lisa
 lyrics_url: https://genius.com/Wendy-and-lisa-waterfall-lyrics
 name: Waterfall
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 301906
 ---
 Move slow
 Now your times at hand

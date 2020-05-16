@@ -1,8 +1,11 @@
 ---
+album: LFO
 artists:
 - LFO
+external_ids:
+  spotify: spotify:track:4KJKJUetg7Gs3e0MAoSIzX
 features: []
-genres: []
+first_released_as_single: false
 key: west-side-story-lfo
 lyrics_url: https://www.musixmatch.com/lyrics/LFO/West-Side-Story-2
 name: West Side Story
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-08-26'
+release_year: 1999
+runtime: 208160
 ---
 There's a place for us
 Somewhere a place for us

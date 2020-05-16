@@ -1,9 +1,12 @@
 ---
+album: Dynamite
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7s5o8VNeNLDYoBYHXjBm9H
 features: []
-genres: []
+first_released_as_single: false
 key: tra-la-la-la-la-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/tralalalala.html
 name: Tra La La La La
@@ -36,8 +39,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 160706
 ---
-
 Walking along
 (Walking along)
 And I'm singing a song
@@ -88,6 +92,3 @@ Tra, la, la, la, la
 (Tra, la, la, la, la, la, la, la, la, la)
 Tra, la, la
 (Tra, la, la, la, la, la, tra, la, la, la, la, la, la)
-
-
-

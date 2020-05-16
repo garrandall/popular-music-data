@@ -1,8 +1,11 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:2KVOEdNDWrMfc5AlMEF0lm
 features: []
-genres: []
+first_released_as_single: false
 key: pick-up-the-pieces-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-pick-up-the-pieces-lyrics
 name: Pick Up The Pieces
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 169813
 ---
 Hey, boy, we're drifting apart
 We keep breaking each other's hearts

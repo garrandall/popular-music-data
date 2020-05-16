@@ -1,8 +1,11 @@
 ---
+album: The Marvelettes
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:3URfKi5DOvUaJMuTuT8osm
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-young-and-in-love-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-when-youre-young-and-in-love-lyrics
 name: When You're Young And In Love
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 159533
 ---
 Spring in the air (filled with love)
 There's magic ev'rywhere

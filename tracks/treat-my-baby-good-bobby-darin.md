@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:2nH8k1bk6a5q9cGR5aeWg5
 features: []
-genres: []
+first_released_as_single: false
 key: treat-my-baby-good-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/treatmybabygood.html
 name: Treat My Baby Good
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 116933
 ---
-
 You better treat my baby good
 If you know what's good for you
 You'd better never make her cry
@@ -82,6 +86,3 @@ Treat my baby good
 Just make sure everyday
 That you treat her the way
 She'd like to say that you should
-
-
-

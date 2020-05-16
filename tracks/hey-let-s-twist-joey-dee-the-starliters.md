@@ -1,9 +1,12 @@
 ---
+album: Peppermint Twist
 artists:
 - Joey Dee
 - the Starliters
+external_ids:
+  spotify: spotify:track:2990YbBg6l1YuRQFmsYcS6
 features: []
-genres: []
+first_released_as_single: true
 key: hey-let-s-twist-joey-dee-the-starliters
 lyrics_url: https://www.musixmatch.com/lyrics/Joey-Dee-and-the-Starliters/Hey-Let-s-Twist
 name: Hey Let's Twist
@@ -32,6 +35,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1962
+runtime: 119071
 ---
 Hey, let's twist
 All you do is this

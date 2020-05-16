@@ -1,8 +1,11 @@
 ---
+album: Toni Braxton
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:1xFliXOpcu7E89AsDAZ7JV
 features: []
-genres: []
+first_released_as_single: false
 key: breathe-again-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/breatheagain.html
 name: Breathe Again
@@ -147,8 +150,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
+release_year: 1993
+runtime: 269173
 ---
-
 If I never feel you in my arms again
 If I never feel your tender kiss again
 If I never hear I love you now and then
@@ -219,6 +223,3 @@ Breathe again
 Breathe again
 That I shall never breathe again
 Breathe again
-
-
-

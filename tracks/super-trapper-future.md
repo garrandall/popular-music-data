@@ -1,8 +1,11 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:13bhyrtEsnXkm26HM0k0OP
 features: []
-genres: []
+first_released_as_single: false
 key: super-trapper-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/supertrapper.html
 name: Super Trapper
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2017
+runtime: 230746
 ---
-
 The top come out the lamb cause I'm a super trapper
 My pockets on fat Albert I'm a super trapper
 
@@ -91,6 +95,3 @@ Hard top Rari, Double R, that Mercedes
 The top come out the lamb cause I'm a super trapper
 My pockets on Fat Albert I'm a super trapper
 Two door Maybach on the schedule that's the latest
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chattanooga Shoe Shine Boy (Shellac Memories)
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:09Ajvg7syF6abRRgjzDzVK
 features: []
-genres: []
+first_released_as_single: false
 key: chattanooga-shoe-shine-boy-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-chattanooga-shoe-shine-boy-lyrics
 name: Chattanooga Shoe Shine Boy
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1960
+runtime: 136518
 ---
 Have you ever passed the corner of Fourth and Grand
 Where a little ball of rhythm has a shoe shine stand?

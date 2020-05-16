@@ -1,8 +1,11 @@
 ---
+album: Kay Starr
 artists:
 - Kay Starr
+external_ids:
+  spotify: spotify:track:0iGT4Yhq2332ekLivOo6AJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-be-free-kay-starr
 lyrics_url: https://genius.com/Kay-starr-and-tennessee-ernie-ford-ill-never-be-free-lyrics
 name: I'll Never Be Free
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 130506
 ---
 Each time I hold somebody new
 My arms go cold aching for you

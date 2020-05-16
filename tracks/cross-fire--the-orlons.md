@@ -1,8 +1,11 @@
 ---
+album: Back to Back - The Happenings & The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:5SQlhb0WNlnr74LpiNDjHW
 features: []
-genres: []
+first_released_as_single: false
 key: cross-fire--the-orlons
 lyrics_url: https://genius.com/The-orlons-crossfire-lyrics
 name: Cross Fire!
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 174840
 ---
 Cross fire cross fire cross fire
 Me and my baby we were doing fine

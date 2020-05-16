@@ -1,8 +1,11 @@
 ---
+album: Keep Movin' On
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:51CLtAxPX5Rtp6DSqi15IE
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-got-the-whole-world-shakin--sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/itsgotthewholeworldshakin.html
 name: It's Got The Whole World Shakin'
@@ -35,8 +38,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1960
+runtime: 165520
 ---
-
 It's got the whole world shaking
 Something must be going on
 It's got the whole world shaking
@@ -67,6 +71,3 @@ It's got the whole shaking
 From New York to old Hong Kong
 It's got that soul in it baby
 You can't meet that beat alone
-
-
-

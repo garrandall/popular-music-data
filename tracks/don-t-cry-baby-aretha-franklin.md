@@ -1,8 +1,11 @@
 ---
+album: The Tender, The Moving, The Swinging Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3WJiH2WqecijPtfBv8EQHX
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-baby-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-dont-cry-baby-lyrics
 name: Don't Cry Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 200440
 ---
 Don't cry, baby, don't cry, sugar
 Dry your eyes

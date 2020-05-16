@@ -1,8 +1,11 @@
 ---
+album: Fireflies (U.S. Release)
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:3H2PYvePtlKoErKnlP943M
 features: []
-genres: []
+first_released_as_single: false
 key: the-lucky-one-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/theluckyone.html
 name: The Lucky One
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
+release_year: 2005
+runtime: 216426
 ---
-
 So hot outside all I can wear
 Is these cut off overalls
 And these sandals on my feet
@@ -79,8 +83,3 @@ I'm on a roll
 When I'm with you
 Don't stop me now
 I just can't lose
-
-
-
-
-

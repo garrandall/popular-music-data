@@ -1,8 +1,11 @@
 ---
+album: Please Hammer Don't Hurt 'Em
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:1B75hgRqe7A4fwee3g3Wmu
 features: []
-genres: []
+first_released_as_single: false
 key: u-can-t-touch-this-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-u-cant-touch-this-lyrics
 name: U Can't Touch This
@@ -75,6 +78,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1990
+runtime: 257360
 ---
 You can't touch this
 You can't touch this

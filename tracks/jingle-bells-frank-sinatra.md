@@ -1,8 +1,11 @@
 ---
+album: A Jolly Christmas From Frank Sinatra
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:5CMVGP24paZIukljDj0iWc
 features: []
-genres: []
+first_released_as_single: false
 key: jingle-bells-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/jinglebells.html
 name: Jingle Bells
@@ -15,8 +18,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1945
+runtime: 156666
 ---
-
 Jingle Bells
 Jingle Bells
 Jingle all the way
@@ -83,6 +87,3 @@ Jingle Bells
 Jingle all the way
 Oh what fun it is to ride
 In a one horse open sleigh
-
-
-

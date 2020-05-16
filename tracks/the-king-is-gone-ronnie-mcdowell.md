@@ -1,8 +1,11 @@
 ---
+album: The King is Gone
 artists:
 - Ronnie McDowell
+external_ids:
+  spotify: spotify:track:0057gafv5LeIWA4Nh1U1u5
 features: []
-genres: []
+first_released_as_single: false
 key: the-king-is-gone-ronnie-mcdowell
 lyrics_url: https://genius.com/Ronnie-mcdowell-the-king-is-gone-lyrics
 name: The King Is Gone
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1977
+runtime: 196394
 ---
 I was barely six years old when I first heard him sing
 But somehow I knew, from that moment on...

@@ -1,8 +1,11 @@
 ---
+album: Stanley Climbfall
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:15HDJXieqgBjMwis8G4JEF
 features: []
-genres: []
+first_released_as_single: true
 key: spin-lifehouse
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/spin.html
 name: Spin
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
+release_year: 2002
+runtime: 230560
 ---
-
 I'd rather chase your shadow all my life
 than be afraid of my own 
 I'd rather be with you 
@@ -97,6 +101,3 @@ I've got nothing else to lose
 I lost it all when I found you and I wouldn't change thing
 no you and I wouldn't change a thing
 no you and I wouldn't change a thing
-
-
-

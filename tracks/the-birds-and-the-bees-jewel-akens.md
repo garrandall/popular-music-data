@@ -1,8 +1,11 @@
 ---
+album: The Best of Jewel Akens
 artists:
 - Jewel Akens
+external_ids:
+  spotify: spotify:track:1ku1Ld7gd76GPxOphoQiR6
 features: []
-genres: []
+first_released_as_single: false
 key: the-birds-and-the-bees-jewel-akens
 lyrics_url: https://genius.com/Jewel-akens-the-birds-and-the-bees-lyrics
 name: The Birds And The Bees
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 129244
 ---
 Let me tell ya 'bout the birds and the bees
 And the flowers and the trees

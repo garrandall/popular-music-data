@@ -1,8 +1,11 @@
 ---
+album: Change Your World
 artists:
 - Michael W. Smith
+external_ids:
+  spotify: spotify:track:3CO19cTl5zzlWx9GWEpOhD
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-be-here-for-you-michael-w--smith
 lyrics_url: https://genius.com/Michael-w-smith-i-will-be-here-for-you-lyrics
 name: I Will Be Here For You
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
+release_year: 1992
+runtime: 273773
 ---
 When you feel the sunlight
 Fade into the cold night

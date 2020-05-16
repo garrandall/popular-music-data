@@ -1,8 +1,11 @@
 ---
+album: Live Steppenwolf
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:7uBFTvkmgnCpaIe5c2MU7x
 features: []
-genres: []
+first_released_as_single: false
 key: hey-lawdy-mama-steppenwolf
 lyrics_url: https://genius.com/Steppenwolf-hey-lawdy-mama-lyrics
 name: Hey Lawdy Mama
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 178760
 ---
 You'd like to show me all around
 Thank you girl but I know this town

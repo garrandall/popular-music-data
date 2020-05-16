@@ -1,8 +1,11 @@
 ---
+album: 3:47 EST
 artists:
 - Klaatu
+external_ids:
+  spotify: spotify:track:08BhQkvdBWY3rYkW0UO2MH
 features: []
-genres: []
+first_released_as_single: false
 key: sub-rosa-subway-klaatu
 lyrics_url: https://genius.com/Klaatu-sub-rosa-subway-lyrics
 name: Sub-rosa Subway
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
+release_year: 1976
+runtime: 274466
 ---
 Back in 1870
 Just beneath the Great White Way

@@ -1,8 +1,11 @@
 ---
+album: Crazysexycool
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:1aWV3uY3SIEZVbmv45oFWS
 features: []
-genres: []
+first_released_as_single: false
 key: creep-tlc
 lyrics_url: https://genius.com/Tlc-creep-lyrics
 name: Creep
@@ -135,6 +138,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1994
+runtime: 268533
 ---
 Yes it's me again
 And I'm back

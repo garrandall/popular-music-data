@@ -1,8 +1,11 @@
 ---
+album: Paul And
 artists:
 - Paul Stookey
+external_ids:
+  spotify: spotify:track:3bwgcbZwEVnRP0JMwKVYCa
 features: []
-genres: []
+first_released_as_single: false
 key: wedding-song--there-is-love--paul-stookey
 lyrics_url: https://genius.com/Paul-stookey-wedding-song-there-is-love-lyrics
 name: Wedding Song (There Is Love)
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 226760
 ---
 He is now to be among you at the calling of your hearts;
 Rest assured, this troubadour is acting on His part

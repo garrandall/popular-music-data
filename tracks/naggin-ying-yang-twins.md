@@ -1,8 +1,11 @@
 ---
+album: Me & My Brother
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:4QEoAZj6fVeSHj9ti2JpN8
 features: []
-genres: []
+first_released_as_single: false
 key: naggin-ying-yang-twins
 lyrics_url: https://genius.com/Ying-yang-twins-naggin-lyrics
 name: Naggin
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2003-11-29'
+release_year: 2003
+runtime: 263226
 ---
 Women always talkin' about what men do
 We don't never talk about what women do...at least 'til now

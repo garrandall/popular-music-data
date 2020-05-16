@@ -1,8 +1,11 @@
 ---
+album: What Are You Lookin' At?
 artists:
 - Rockell
+external_ids:
+  spotify: spotify:track:1hAksq3b9HVOrochxaZwUF
 features: []
-genres: []
+first_released_as_single: true
 key: i-fell-in-love-rockell
 lyrics_url: https://genius.com/Rockell-i-fell-in-love-lyrics
 name: I Fell In Love
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 274440
 ---
 1 - I fell in love, gave you my heart
 You turned your back, and walked out on me

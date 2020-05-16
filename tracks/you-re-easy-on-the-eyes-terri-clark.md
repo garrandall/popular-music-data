@@ -1,8 +1,11 @@
 ---
+album: How I Feel
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:4av5wg7WAM6Bofc0Almsh0
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-easy-on-the-eyes-terri-clark
 lyrics_url: https://genius.com/Terri-clark-youre-easy-on-the-eyes-lyrics
 name: You're Easy On The Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1998
+runtime: 213160
 ---
 Shoulda known it was you knocking on my door
 At half past a heartache at quarter to four

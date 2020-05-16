@@ -1,8 +1,11 @@
 ---
+album: Honeycomb
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:43koaxKWQyaAzfnSnLHO9K
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/It-s-Over
 name: It's Over
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 159813
 ---
 It's Over
 Jimmie Rodgers

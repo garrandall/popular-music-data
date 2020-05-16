@@ -1,8 +1,11 @@
 ---
+album: Inside Information
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:19aYH2zhbnTNx4plfenrIk
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-live-without-you-foreigner
 lyrics_url: https://genius.com/Foreigner-i-dont-want-to-live-without-you-lyrics
 name: I Don't Want To Live Without You
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1987
+runtime: 237693
 ---
 I find myself in a strange situation
 And I don't know how

@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1I3cevxQnV6XvDQtt4gUGz
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-do-it-lyrics
 name: Do It
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
+release_year: 1968
+runtime: 113613
 ---
 Do it, while your soul's still burnin'
 Don't hide the yearnin' away

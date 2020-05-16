@@ -1,8 +1,11 @@
 ---
+album: Millie Jackson
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:1DN8EVPCnNaEQbF8eOxuK5
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-baby-millie-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Millie-Jackson/I-Miss-You-Baby
 name: I Miss You Baby
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 175746
 ---
 I've life the life
 Of a many things

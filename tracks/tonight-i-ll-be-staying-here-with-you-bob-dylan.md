@@ -1,8 +1,11 @@
 ---
+album: Nashville Skyline
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:3uHpPWsNDTpbbqedCRoaQU
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-ll-be-staying-here-with-you-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-tonight-ill-be-staying-here-with-you-lyrics
 name: Tonight I'll Be Staying Here With You
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 201133
 ---
 Throw my ticket out the window
 Throw my suitcase out there, too

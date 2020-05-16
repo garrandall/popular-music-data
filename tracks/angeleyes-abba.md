@@ -1,8 +1,11 @@
 ---
+album: Voulez-Vous
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:5tqTKmoKtY5926Z9KRTNjB
 features: []
-genres: []
+first_released_as_single: false
 key: angeleyes-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/angeleyes.html
 name: Angeleyes
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1979
+runtime: 263266
 ---
-
 Ah-ha-ha, ah-ah
 Ah-ha-ha, ah-ah
 Ah-ha-ha, keep thinking 'bout his angeleyes
@@ -85,8 +89,3 @@ Ah-ha-ha, keep thinking, ah-ah
 Keep thinking 'bout his angeleyes
 Ah-ha-ha, keep thinking, ah-ah
 Keep thinking, I had to pay the price
-
-
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Somewhere Down In Texas
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:33Ac3dT2JHu0ljlPoGVYHT
 features: []
-genres: []
+first_released_as_single: false
 key: the-seashores-of-old-mexico-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/theseashoresofoldmexico.html
 name: The Seashores Of Old Mexico
@@ -35,8 +38,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2005
+runtime: 251333
 ---
-
 I left, out of Tucson, with no destination in mind.
 I was runnin' from trouble and the jail-term the Judge had in mind.
 And the border meant freedom, a new life, romance,
@@ -70,4 +74,3 @@ Yeah, I found what I needed on the seashores of old Mexico.
 Yeah, she loved the gringo, my red hair and lingo...
 That's all I needed to know, ha, ha.
 Yeah, I found what I needed on the seashores of old Mexico.
-

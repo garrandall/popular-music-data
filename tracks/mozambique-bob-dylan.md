@@ -1,8 +1,11 @@
 ---
+album: Desire
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:1gpQMd0R3blMSn8vhXU0Uu
 features: []
-genres: []
+first_released_as_single: false
 key: mozambique-bob-dylan
 lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/mozambique.html
 name: Mozambique
@@ -27,6 +30,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1976
+runtime: 180800
 ---
 I like to spend some time in Mozambique
 The sunny sky is aqua blue

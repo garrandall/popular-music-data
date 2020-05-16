@@ -1,8 +1,11 @@
 ---
+album: Men From Earth
 artists:
 - Ozark Mountain Daredevils
+external_ids:
+  spotify: spotify:track:5de8C2whEHDn4uVSehQwWe
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-like-i-know-ozark-mountain-daredevils
 lyrics_url: https://genius.com/Ozark-mountain-daredevils-you-know-like-i-know-lyrics
 name: You Know Like I Know
@@ -55,9 +58,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1976
+runtime: 220493
 ---
-(GUITAR & PIANO INTRO)
-
 To take a look and walk away
 
 Isn't a stand man
@@ -113,5 +116,3 @@ Nah-nah-nah-nah-nah-nah-nah
 Nah-nah-nah-nah-nah-nah
 
 Nah-nah-nah-nah-nah-nah...
-
-Lyrics are copyright 1972, Larry Lee

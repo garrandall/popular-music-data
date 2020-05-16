@@ -1,8 +1,11 @@
 ---
+album: Wheelhouse
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2EUHzmBZux7SSra71cGkIB
 features: []
-genres: []
+first_released_as_single: false
 key: beat-this-summer-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-beat-this-summer-lyrics
 name: Beat This Summer
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-08-10'
+release_year: 2013
+runtime: 281453
 ---
 Oh, oh, oh, oh-oh-oh-ho
 

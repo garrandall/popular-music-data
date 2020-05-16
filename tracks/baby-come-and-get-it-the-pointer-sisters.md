@@ -1,8 +1,11 @@
 ---
+album: Break Out
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:5lPf06lyZznfUzGo1FujTd
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-and-get-it-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/babycomeandgetit.html
 name: Baby Come And Get It
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1983
+runtime: 257920
 ---
-
 You call me up at two in the morning
 Honey ya burnin' up the telephone wire
 You say you can't wait 'til tomorrow
@@ -107,6 +111,3 @@ Come and get it while it's hot
 Baby come and get it
 Baby come and get it
 You always get the best I got
-
-
-

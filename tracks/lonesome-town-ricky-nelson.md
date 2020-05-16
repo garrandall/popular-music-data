@@ -1,8 +1,11 @@
 ---
+album: Ricky Sings Again
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:0SsYlkXxZ5vkWOTsKxMfMz
 features: []
-genres: []
+first_released_as_single: false
 key: lonesome-town-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/lonesometown.html
 name: Lonesome Town
@@ -79,8 +82,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
+release_year: 1958
+runtime: 134040
 ---
-
 There's a place where lovers go
 To cry their troubles away
 And they call it
@@ -105,6 +109,3 @@ I can learn to forget
 Maybe down in Lonesome Town
 I can learn to forget
 Lonesome Town
-
-
-

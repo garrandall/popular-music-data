@@ -1,8 +1,11 @@
 ---
+album: A Moment Of Love
 artists:
 - La Bouche
+external_ids:
+  spotify: spotify:track:7xzbNI19wR8qTWHW2Nd5Sz
 features: []
-genres: []
+first_released_as_single: false
 key: you-won-t-forget-me-la-bouche
 lyrics_url: https://genius.com/La-bouche-you-wont-forget-me-lyrics
 name: You Won't Forget Me
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
+release_year: 1998
+runtime: 257733
 ---
 Ooooooooo
 

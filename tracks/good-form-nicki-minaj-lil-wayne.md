@@ -1,9 +1,12 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:5GuHz5b9CObPCBDMwf1A3Y
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: good-form-nicki-minaj-lil-wayne
 lyrics_url: https://genius.com/Genius-brasil-traducoes-nicki-minaj-and-lil-wayne-good-form-remix-traducao-em-portugues-lyrics
 name: Good Form
@@ -32,6 +35,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 237493
 ---
 Eardrummers
 Mhm, Young Money, uh huh, mhm

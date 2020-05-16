@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:0QkWikH5Z3U0f79T9iuF6c
 features: []
-genres: []
+first_released_as_single: false
 key: judas-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-judas-lyrics
 name: Judas
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 249066
 ---
 Whoa-whoa-whoa-whoa-whoa
 I’m in love with Juda-as, Juda-as

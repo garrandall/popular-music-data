@@ -1,8 +1,11 @@
 ---
+album: Who Can I Turn To
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:2FXk3LhwfbziRcCg8Rp0fN
 features: []
-genres: []
+first_released_as_single: false
 key: who-can-i-turn-to--when-nobody-needs-me--tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/whocaniturntowhennobodyneedsme.html
 name: Who Can I Turn To (When Nobody Needs Me)
@@ -47,8 +50,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 175360
 ---
-
 Who can I turn to when nobody needs me?
 My heart wants to know and so I must go where destiny leads me
 With no star to guide me and no one beside me
@@ -61,6 +65,3 @@ But who can I turn to if you turn away?
 
 With you I could learn to, with you what a new day
 But who can I turn to if you turn away?
-
-
-

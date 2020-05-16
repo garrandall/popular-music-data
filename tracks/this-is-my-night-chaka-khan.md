@@ -1,8 +1,11 @@
 ---
+album: I Feel For You
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:1EZmeztCbpOM1vqDlGyJLQ
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-my-night-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/thisismynight.html
 name: This Is My Night
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 280626
 ---
-
 (Tonight, ah, tonight)
 
 I'm puttin' on my makeup
@@ -107,6 +111,3 @@ I'm gonna let this magic shine (let it shine, oh)
 My night, let it shine This is my night (tonight)
 I'm gonna do it just right
 I'm gonna let this magic shine (let it shine on me, shine on me)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Human Touch
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:1o53HbxmOy5TzThJdBaDZb
 features: []
-genres: []
+first_released_as_single: false
 key: human-touch-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/humantouch.html
 name: Human Touch
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1992
+runtime: 388800
 ---
-
 You and me we were the pretenders
 We let it all slip away
 In the end what you don't surrender
@@ -121,6 +125,3 @@ Baby in a world without pity
 Do you think what I'm askin's too much?
 I just want to feel you in my arms
 And share a little of that human touch...
-
-
-

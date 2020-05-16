@@ -1,8 +1,11 @@
 ---
+album: Rise
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:7znZstuIvZjldNIO1E11U4
 features: []
-genres: []
+first_released_as_single: false
 key: rise-herb-alpert
 name: Rise
 rankings:
@@ -106,5 +109,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 457400
 ---
 

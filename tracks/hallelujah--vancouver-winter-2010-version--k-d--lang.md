@@ -1,8 +1,11 @@
 ---
+album: Hymns of the 49th Parallel
 artists:
 - k.d. lang
+external_ids:
+  spotify: spotify:track:1kz91PzVKwqo6na9LT1JQz
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah--vancouver-winter-2010-version--k-d--lang
 lyrics_url: https://genius.com/Kd-lang-hallelujah-lyrics
 name: Hallelujah (Vancouver Winter 2010 Version)
@@ -11,6 +14,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2004
+runtime: 301120
 ---
 I heard there was a secret chord
 That David played, and it pleased the Lord

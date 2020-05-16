@@ -1,8 +1,11 @@
 ---
+album: No Doubt
 artists:
 - '702'
+external_ids:
+  spotify: spotify:track:5OQO6NEs89flntUWPtXUiG
 features: []
-genres: []
+first_released_as_single: false
 key: steelo-702
 lyrics_url: https://genius.com/702-steelo-lyrics
 name: Steelo
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
+release_year: 1996
+runtime: 257959
 ---
 I'm gonna keep it real
 How you make me feel

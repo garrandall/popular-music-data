@@ -1,10 +1,13 @@
 ---
+album: Born Again
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:1YQ7BbJR8HqAolfprvxGKu
 features:
 - Puff Daddy
 - Lil' Kim
-genres: []
+first_released_as_single: false
 key: notorious-big-the-notorious-b-i-g--puff-daddy-lil--kim
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/notoriousbig.html
 name: Notorious BIG
@@ -37,9 +40,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
+release_year: 1999
+runtime: 191600
 ---
-
-
 Yo, check it
 Call Lil' Cease
 Tell that muh'fucker to bring me some muh'fuckin weed for this hospital
@@ -140,6 +143,3 @@ cause he can't stop, yeah, uh-huh
 We are, we are.. (Brooklyn baby)
 NO, NO, NO, NOTORIOUS!
 He is, he is..
-
-
-

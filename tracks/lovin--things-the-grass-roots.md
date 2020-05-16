@@ -1,8 +1,11 @@
 ---
+album: Midnight Confessions
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:20MW318ScHMwE6yE8jXFUI
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--things-the-grass-roots
 lyrics_url: https://genius.com/The-grass-roots-lovin-things-lyrics
 name: Lovin' Things
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 156755
 ---
 It's the lovin' things you do
 That make me grow so close to you

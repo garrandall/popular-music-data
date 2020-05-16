@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:5Jrr6tbbVNnWqQDLmTaO5M
 features: []
-genres: []
+first_released_as_single: false
 key: cinderella-paul-anka
 lyrics_url: https://genius.com/Paul-anka-cinderella-lyrics
 name: Cinderella
@@ -23,6 +26,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 124000
 ---
 Cinderella cinderella, pretty pretty pretty cinderella
 It's late now

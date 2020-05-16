@@ -1,9 +1,12 @@
 ---
+album: Tight Rope
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:1migZXJuB0tB2pFucCtEm5
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-always-be-loved-by-me-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-youll-always-be-loved-by-me-lyrics
 name: You'll Always Be Loved By Me
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 1999
+runtime: 181840
 ---
 I know forever is a long long time
 For a girl to put her heart on the line

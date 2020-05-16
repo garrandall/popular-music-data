@@ -1,8 +1,11 @@
 ---
+album: Back to Back
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:4na1JqDjHIhpZQ8MeyX6hH
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-seen-her-the-chi-lites
 lyrics_url: https://genius.com/The-chi-lites-have-you-seen-her-lyrics
 name: Have You Seen Her
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 337200
 ---
 One month ago today
 I was happy as a lark

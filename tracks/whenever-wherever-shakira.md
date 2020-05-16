@@ -1,8 +1,11 @@
 ---
+album: Laundry Service
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:2lnzGkdtDj5mtlcOW2yRtG
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-wherever-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/wheneverwherever.html
 name: Whenever Wherever
@@ -103,8 +106,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-04-06'
+release_year: 2001
+runtime: 196160
 ---
-
 Lucky you were born that far away so
 We could both make fun of distance
 Lucky that I love a foreign land for
@@ -180,6 +184,3 @@ Thereover, hereunder
 You've got me head over heels
 There's nothing left to fear
 If you really feel the way I feel
-
-
-

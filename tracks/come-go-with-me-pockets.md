@@ -1,8 +1,11 @@
 ---
+album: Come Go With Us
 artists:
 - Pockets
+external_ids:
+  spotify: spotify:track:5sbjhxchF1QOgZt7GyOdQ8
 features: []
-genres: []
+first_released_as_single: false
 key: come-go-with-me-pockets
 name: Come Go With Me
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 265093
 ---
 

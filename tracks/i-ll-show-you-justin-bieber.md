@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0SNIAtRCPVVLoGEPcuHSIc
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-show-you-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-ill-show-you-lyrics
 name: I'll Show You
@@ -55,6 +58,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 199946
 ---
 My life is a movie and everyone's watching
 So let's get to the good part and past all the nonsense

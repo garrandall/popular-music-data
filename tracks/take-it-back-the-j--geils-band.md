@@ -1,8 +1,11 @@
 ---
+album: Sanctuary.
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:1iy22Xi1YvQBwYWHjstrUr
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-back-the-j--geils-band
 lyrics_url: https://genius.com/The-j-geils-band-take-it-back-lyrics
 name: Take It Back
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1978
+runtime: 199866
 ---
 You play with my heart
 There's no doubt about it

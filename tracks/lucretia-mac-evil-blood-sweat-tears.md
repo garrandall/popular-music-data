@@ -1,10 +1,13 @@
 ---
+album: Blood, Sweat And Tears 3
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:4iCBPbbuKxdUtbZ226x7Ow
 features: []
-genres: []
+first_released_as_single: false
 key: lucretia-mac-evil-blood-sweat-tears
 lyrics_url: https://genius.com/Blood-sweat-and-tears-lucretia-mac-evil-lyrics
 name: Lucretia Mac Evil
@@ -37,6 +40,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 183866
 ---
 Lucretia Mac Evil, little girl, what's your game?
 Hard luck and trouble, bound to be your claim to fame

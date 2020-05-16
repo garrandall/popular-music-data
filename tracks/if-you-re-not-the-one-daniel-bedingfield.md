@@ -1,8 +1,11 @@
 ---
+album: Gotta Get Thru This
 artists:
 - Daniel Bedingfield
+external_ids:
+  spotify: spotify:track:4gJoAvFpDvaeqm2EKYGmhb
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-not-the-one-daniel-bedingfield
 lyrics_url: https://genius.com/Daniel-bedingfield-if-youre-not-the-one-lyrics
 name: If You're Not The One
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 257160
 ---
 If you're not the one, then why does my soul feel glad today?
 If you're not the one, then why does my hand fit yours this way?

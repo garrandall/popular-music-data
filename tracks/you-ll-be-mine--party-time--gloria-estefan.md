@@ -1,8 +1,11 @@
 ---
+album: DESTINY
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:22E8duYxuw0vNHvmfya61l
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-be-mine--party-time--gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-youll-be-mine-party-time-lyrics
 name: You'll Be Mine (Party Time)
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1984
+runtime: 240293
 ---
 When the sun is setting in the sky
 Everybody know it's party time

@@ -1,8 +1,11 @@
 ---
+album: Late Nights & Early Mornings
 artists:
 - Marsha Ambrosius
+external_ids:
+  spotify: spotify:track:68JtQx6Jono0AhPJxpXcl4
 features: []
-genres: []
+first_released_as_single: true
 key: far-away-marsha-ambrosius
 lyrics_url: https://genius.com/Marsha-ambrosius-far-away-lyrics
 name: Far Away
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2011
+runtime: 437413
 ---
 So sad to see you go so soon
 I know that you ain't comin' back

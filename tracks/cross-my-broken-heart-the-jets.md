@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:61Ss9YGGQ9yLcsK9tESN9H
 features: []
-genres: []
+first_released_as_single: false
 key: cross-my-broken-heart-the-jets
 lyrics_url: https://genius.com/The-jets-group-cross-my-broken-heart-lyrics
 name: Cross My Broken Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1987
+runtime: 251826
 ---
 Cross my broken heart, boy
 Cross my broken heart for you

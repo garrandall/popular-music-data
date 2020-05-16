@@ -1,9 +1,12 @@
 ---
+album: Emergency (Reissue)
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:1mMYaXpT65iZDtvfRA9EkE
 features: []
-genres: []
+first_released_as_single: false
 key: fresh-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/fresh.html
 name: Fresh
@@ -84,8 +87,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
+release_year: 1984
+runtime: 266560
 ---
-
 Conversation is going 'round
 People talking 'bout the girl who's come to town
 Lovely lady, pretty as can be
@@ -144,6 +148,3 @@ She's fresh, she's so fresh
 She's so fresh, she's so fresh
 She's so fresh
 ...
-
-
-

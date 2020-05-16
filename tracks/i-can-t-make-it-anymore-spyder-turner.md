@@ -1,8 +1,11 @@
 ---
+album: I Can't Make It Anymore
 artists:
 - Spyder Turner
+external_ids:
+  spotify: spotify:track:4DenFRbcl8jsKryY2CajiN
 features: []
-genres: []
+first_released_as_single: true
 key: i-can-t-make-it-anymore-spyder-turner
 name: I Can't Make It Anymore
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 135200
 ---
 

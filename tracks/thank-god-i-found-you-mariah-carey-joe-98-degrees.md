@@ -1,10 +1,13 @@
 ---
+album: Rainbow
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:1RS3LStQYhju50eBdD9Uul
 features:
 - Joe
 - 98 Degrees
-genres: []
+first_released_as_single: false
 key: thank-god-i-found-you-mariah-carey-joe-98-degrees
 lyrics_url: https://genius.com/Mariah-carey-thank-god-i-found-you-lyrics
 name: Thank God I Found You
@@ -89,6 +92,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
+release_year: 1999
+runtime: 257360
 ---
 I would give up everything
 Before I'd separate myself from you

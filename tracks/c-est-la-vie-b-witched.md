@@ -1,8 +1,11 @@
 ---
+album: 'C''est la Vie: The Collection'
 artists:
 - B*Witched
+external_ids:
+  spotify: spotify:track:0P6CPJrNJ1Zt755CQTWg3S
 features: []
-genres: []
+first_released_as_single: false
 key: c-est-la-vie-b-witched
 lyrics_url: https://genius.com/Bwitched-cest-la-vie-lyrics
 name: C'est La Vie
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
+release_year: 1998
+runtime: 173693
 ---
 "Some people say I look like me dad"
 "What? Are you serious?"

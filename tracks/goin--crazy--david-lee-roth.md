@@ -1,8 +1,11 @@
 ---
+album: Eat 'Em And Smile
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:5dZiQVyXv66lYP2SSm8Ne1
 features: []
-genres: []
+first_released_as_single: false
 key: goin--crazy--david-lee-roth
 lyrics_url: https://www.azlyrics.com/lyrics/davidleeroth/goincrazy.html
 name: Goin' Crazy!
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 190106
 ---
-
 Wow, ah
 Yeah
 
@@ -85,6 +89,3 @@ Wow-wow-wow-wow
 Goin' crazy (goin' crazy)
 Goin' crazy
 From the heat
-
-
-

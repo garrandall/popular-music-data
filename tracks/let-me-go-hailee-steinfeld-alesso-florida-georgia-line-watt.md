@@ -1,11 +1,14 @@
 ---
+album: Let Me Go (with Alesso, Florida Georgia Line & watt)
 artists:
 - Hailee Steinfeld
 - Alesso
+external_ids:
+  spotify: spotify:track:5Gu0PDLN4YJeW75PpBSg9p
 features:
 - Florida Georgia Line
 - Watt
-genres: []
+first_released_as_single: true
 key: let-me-go-hailee-steinfeld-alesso-florida-georgia-line-watt
 lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/letmego.html
 name: Let Me Go
@@ -98,9 +101,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 174800
 ---
-
-
 You made plans and I, I made problems
 We were sleeping back to back
 We know this thing wasn't built to last
@@ -149,6 +152,3 @@ Somebody's taking care of all of the mess I made
 Someone you don't have to change
 I've been hoping
 Someone will love you, let me go
-
-
-

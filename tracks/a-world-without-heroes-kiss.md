@@ -1,8 +1,11 @@
 ---
+album: Music From "The Elder"
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:2bCBrhZdfdHnDucyQcyp42
 features: []
-genres: []
+first_released_as_single: false
 key: a-world-without-heroes-kiss
 lyrics_url: https://www.azlyrics.com/lyrics/kiss/aworldwithoutheroes.html
 name: A World Without Heroes
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 160666
 ---
-
 A world without heroes
 Is like a world without sun
 You can't look up to anyone
@@ -74,6 +78,3 @@ And you don't know why you don't know
 In a world without heroes
 There's nothing to be
 It's no place for me
-
-
-

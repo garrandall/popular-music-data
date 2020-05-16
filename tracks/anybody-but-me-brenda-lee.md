@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:56rEp6uhPXIlneMX3Eqp4b
 features: []
-genres: []
+first_released_as_single: false
 key: anybody-but-me-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-anybody-but-me-lyrics
 name: Anybody But Me
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 144613
 ---
 I wish I could be
 Anybody but me

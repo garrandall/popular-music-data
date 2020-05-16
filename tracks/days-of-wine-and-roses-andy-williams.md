@@ -1,8 +1,11 @@
 ---
+album: Days of Wine and Roses
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:3pl4QLuxnoDyTk9JlwRyBq
 features: []
-genres: []
+first_released_as_single: false
 key: days-of-wine-and-roses-andy-williams
 lyrics_url: https://genius.com/Andy-williams-days-of-wine-and-roses-lyrics
 name: Days Of Wine And Roses
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1962
+runtime: 164266
 ---
 The days of wine and roses laugh and run away like a child at play
 Through a meadow land toward a closing door

@@ -1,8 +1,11 @@
 ---
+album: True to Self
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:2rUwQj4SWaP2anuGDtNpYR
 features: []
-genres: []
+first_released_as_single: false
 key: self-made-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/brysontiller/selfmade.html
 name: Self-Made
@@ -11,8 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 167853
 ---
-
 Woo, yeah, yeah, yeah
 You already know
 Young Tiller
@@ -75,6 +79,3 @@ Yeah, she want Gucci on her belt
 Gucci on her purse
 Gucci on that
 Yeah
-
-
-

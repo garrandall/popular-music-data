@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:3Xt8v3SulFbBxtVEVuOGsh
 features: []
-genres: []
+first_released_as_single: false
 key: puppet-on-a-string-elvis-presley-with-the-jordanaires
 name: Puppet On A String
 rankings:
@@ -47,5 +50,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 159653
 ---
 

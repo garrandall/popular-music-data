@@ -1,8 +1,11 @@
 ---
+album: The Complete RCA Studio Recordings (1973-1975)
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:3wEHOqaGdPUZOTPdli0FsC
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-closer-look-at-the-woman-you-re-with-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-take-a-closer-look-at-the-woman-youre-with-lyrics
 name: Take A Closer Look At The Woman You're With
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 201266
 ---
 You have proved yourself at being a way-out guy
 Even  the suit and hat you're wearing is superfly

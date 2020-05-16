@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:1PLgQkmhgh6GHQnomQ50Rv
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-to-love-carpenters
 lyrics_url: https://genius.com/Carpenters-goodbye-to-love-lyrics
 name: Goodbye To Love
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 238266
 ---
 I'll say goodbye to love
 No-one ever cared if I should live or die

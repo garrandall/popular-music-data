@@ -1,8 +1,11 @@
 ---
+album: The Wild Heart
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:4pCCNs8hTsXAnadASFtREk
 features: []
-genres: []
+first_released_as_single: false
 key: nightbird-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/nightbird.html
 name: Nightbird
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 301293
 ---
-
 And the summer became the fall
 I was not ready for the winter
 It makes no difference at all
@@ -107,6 +111,3 @@ The ones you dream of
 Finally... the nightbird
 Finally... the nightbird
 Tonite
-
-
-

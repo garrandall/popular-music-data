@@ -1,8 +1,11 @@
 ---
+album: Keep On Dancing
 artists:
 - The Gentrys
+external_ids:
+  spotify: spotify:track:0U2qjjKAGyednhFU0fxw1B
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-dancing-the-gentrys
 lyrics_url: https://genius.com/The-gentrys-keep-on-dancing-lyrics
 name: Keep On Dancing
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 131840
 ---
 I keep on dancin' (keep on)
 Keep on doin' the jerk right now

@@ -1,8 +1,11 @@
 ---
+album: Mosaic
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:59d4ueObaAstLAQCqrRiUN
 features: []
-genres: []
+first_released_as_single: false
 key: hypnotize-me-wang-chung
 lyrics_url: https://www.azlyrics.com/lyrics/wangchung/hypnotizeme.html
 name: Hypnotize Me
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1986
+runtime: 279360
 ---
-
 Darlin', I believe in love
 Since I met you, baby
 I believe in love
@@ -96,4 +100,3 @@ Just shine the light in my eyes
 And hypnotize me love
 Just shine the light in my eyes
 And hypnotize me love
-

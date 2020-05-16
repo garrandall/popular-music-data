@@ -1,8 +1,11 @@
 ---
+album: Reunion
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:0mgmkHH51OIB7ZAnXcBb6O
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-heaven-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/rockandrollheaven.html
 name: Rock And Roll Heaven
@@ -75,8 +78,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 204000
 ---
-
 If you believe in forever
 Then life is just a one-night stand
 If there's a rock n' roll heaven
@@ -117,6 +121,3 @@ If you believe in forever
 Then life is just a one-night stand
 If there's a rock n' roll heaven
 Well you know they've got a hell of a band, band, band Jimmy
-
-
-

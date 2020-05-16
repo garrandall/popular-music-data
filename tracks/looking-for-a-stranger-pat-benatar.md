@@ -1,8 +1,11 @@
 ---
+album: Get Nervous
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:1iTb1iholOxAcDZKSqODpc
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-a-stranger-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/lookingforastranger.html
 name: Looking For A Stranger
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1982
+runtime: 206573
 ---
-
 I've had it with the same old routine
 I've had it with the same old faces, places, every night in my life
 I started feeling washed up, washed out, hung up, wrung out, left to dry
@@ -78,6 +82,3 @@ I'm looking for a stranger in the night
 I need a little danger in my life, tonight
 I'm looking for a stranger in the night
 I need a little danger in my life, tonight
-
-
-

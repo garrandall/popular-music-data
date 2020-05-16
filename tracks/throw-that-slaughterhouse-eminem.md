@@ -1,9 +1,12 @@
 ---
+album: 'welcome to: OUR HOUSE'
 artists:
 - Slaughterhouse
+external_ids:
+  spotify: spotify:track:645aNrBOT7qX6jKEOCQq8Q
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: throw-that-slaughterhouse-eminem
 lyrics_url: https://genius.com/Slaughterhouse-throw-that-lyrics
 name: Throw That
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
+release_year: 2012
+runtime: 237573
 ---
 Right about now
 You're about to be possessed

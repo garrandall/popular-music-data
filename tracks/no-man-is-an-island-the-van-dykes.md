@@ -1,8 +1,11 @@
 ---
+album: Tellin' It Like It Is
 artists:
 - The Van Dykes
+external_ids:
+  spotify: spotify:track:7CnIx5LpNWIUuz4H4u6xgS
 features: []
-genres: []
+first_released_as_single: false
 key: no-man-is-an-island-the-van-dykes
 lyrics_url: https://genius.com/The-van-dykes-no-man-is-an-island-lyrics
 name: No Man Is An Island
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 155826
 ---
 No man is an island
 No, no man is alone

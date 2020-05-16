@@ -1,8 +1,12 @@
 ---
+album: Set The Night To Music
 artists:
-- Roberta Flack With Maxi Priest
-features: []
-genres: []
+- Roberta Flack
+external_ids:
+  spotify: spotify:track:32jYppBJlMiUDUAwd0yHnr
+features:
+- Maxi Priest
+first_released_as_single: false
 key: set-the-night-to-music-roberta-flack-with-maxi-priest
 lyrics_url: https://genius.com/Roberta-flack-with-maxi-priest-set-the-night-to-music-duet-with-maxi-priest-lyrics
 name: Set The Night To Music
@@ -87,6 +91,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
+release_year: 1991
+runtime: 323880
 ---
 Set the night to music
 Set the night to music

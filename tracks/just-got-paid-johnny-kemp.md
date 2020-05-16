@@ -1,8 +1,11 @@
 ---
+album: Sweat Hotel Live
 artists:
 - Johnny Kemp
+external_ids:
+  spotify: spotify:track:1OK4hVcucqYKMU9Ipb3dtx
 features: []
-genres: []
+first_released_as_single: false
 key: just-got-paid-johnny-kemp
 lyrics_url: https://genius.com/Johnny-kemp-just-got-paid-lyrics
 name: Just Got Paid
@@ -91,6 +94,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1979
+runtime: 212466
 ---
 Just got paid; it's Friday night
 Party hunting, feeling right

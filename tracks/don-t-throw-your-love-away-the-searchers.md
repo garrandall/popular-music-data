@@ -1,8 +1,11 @@
 ---
+album: It's The Searchers
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:79JSK9KJq20yINUKx0feVz
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-throw-your-love-away-the-searchers
 lyrics_url: https://genius.com/The-searchers-dont-throw-your-love-away-lyrics
 name: Don't Throw Your Love Away
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 136960
 ---
 Don't throw your love away
 No, no, no, no

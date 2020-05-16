@@ -1,8 +1,11 @@
 ---
+album: Like Red On A Rose
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:1ayFArNqsYgGT8gWWSscTD
 features: []
-genres: []
+first_released_as_single: false
 key: like-red-on-a-rose-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/likeredonarose.html
 name: Like Red On A Rose
@@ -27,8 +30,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2006
+runtime: 213306
 ---
-
 Like red on a rose
 When your lips first smiled at me
 I was captured instantly
@@ -54,6 +58,3 @@ And I love you cause
 I know you give me a heart of my own
 You make my blood flow
 Like red on a rose
-
-
-

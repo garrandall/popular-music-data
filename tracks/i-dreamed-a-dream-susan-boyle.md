@@ -1,8 +1,11 @@
 ---
+album: I Dreamed A Dream
 artists:
 - Susan Boyle
+external_ids:
+  spotify: spotify:track:1uenbEVPd129TmVPXyn9Lv
 features: []
-genres: []
+first_released_as_single: false
 key: i-dreamed-a-dream-susan-boyle
 lyrics_url: https://www.azlyrics.com/lyrics/susanboyle/idreamedadream.html
 name: I Dreamed A Dream
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 190560
 ---
-
 I dreamed a dream in time gone by
 When hope was high and life worth living
 I dreamed that love would never die
@@ -37,6 +41,3 @@ I had a dream my life would be
 So different from this hell I'm living
 So different now from what it seemed
 Now life has killed the dream I dreamed
-
-
-

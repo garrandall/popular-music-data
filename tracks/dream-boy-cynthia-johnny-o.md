@@ -1,9 +1,12 @@
 ---
+album: Bangin' Beats Then & Now!, Vol. 2
 artists:
 - Cynthia
 - Johnny O
+external_ids:
+  spotify: spotify:track:6F1pFDYzksiDm0dbPf0Rzg
 features: []
-genres: []
+first_released_as_single: false
 key: dream-boy-cynthia-johnny-o
 lyrics_url: https://genius.com/Cynthia-and-johnny-o-dream-boy-dream-girl-lyrics
 name: Dream Boy
@@ -68,6 +71,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 258693
 ---
 I still remember the first time
 You've said that you love me

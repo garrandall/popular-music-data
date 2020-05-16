@@ -1,8 +1,11 @@
 ---
+album: This I Gotta See
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:5Eph6Vs0PftspPXZqlVN2y
 features: []
-genres: []
+first_released_as_single: false
 key: she-thinks-she-needs-me-andy-griggs
 lyrics_url: https://genius.com/Andy-griggs-she-thinks-she-needs-me-lyrics
 name: She Thinks She Needs Me
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 239000
 ---
 She thinks I walk on water
 She thinks I hung the moon

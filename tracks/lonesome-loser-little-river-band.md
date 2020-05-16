@@ -1,8 +1,11 @@
 ---
+album: First Under The Wire
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:3OZ40egQbNWeTe0BnR2QKa
 features: []
-genres: []
+first_released_as_single: false
 key: lonesome-loser-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/lonesomeloser.html
 name: Lonesome Loser
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 237973
 ---
-
 Have you heard about the lonesome loser
 Beaten by the queen of hearts every time
 Have you heard about the lonesome loser
@@ -127,6 +131,3 @@ Have you heard about the lonesome loser
 Have you heard about the lonesome loser
 Have you heard about the lonesome loser
 Now tell me have you heard about the lonesome loser
-
-
-

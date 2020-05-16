@@ -1,9 +1,12 @@
 ---
+album: Flying High Together
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:6z4kR1dqGWRSGbatllcF1y
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-to-see-you-cry-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-i-cant-stand-to-see-you-cry-lyrics
 name: I Can't Stand To See You Cry
@@ -40,6 +43,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1972
+runtime: 219826
 ---
 Your love is so precious and rarely found
 I realize that there are few with your love around

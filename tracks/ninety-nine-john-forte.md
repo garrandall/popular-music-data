@@ -1,8 +1,11 @@
 ---
+album: Poly Sci
 artists:
 - John Forte
+external_ids:
+  spotify: spotify:track:1shRBEykFXAQFgnAF02nZ7
 features: []
-genres: []
+first_released_as_single: false
 key: ninety-nine-john-forte
 lyrics_url: https://genius.com/John-forte-ninety-nine-flash-the-message-lyrics
 name: Ninety Nine
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-09-12'
+release_year: 1998
+runtime: 223533
 ---
 Me and my crew in a little tour show
 Learned to flip the door with the money we've got

@@ -1,8 +1,11 @@
 ---
+album: Right On
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:2sHahlW8ib7C7GkuV39tKR
 features: []
-genres: []
+first_released_as_single: false
 key: up-the-ladder-to-the-roof-the-supremes
 lyrics_url: https://genius.com/The-supremes-up-the-ladder-to-the-roof-lyrics
 name: Up The Ladder To The Roof
@@ -51,6 +54,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 191666
 ---
 Come with me
 And we shall run across the sky

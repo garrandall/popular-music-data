@@ -1,8 +1,11 @@
 ---
+album: The Happenings
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:2caREKLVN9PbVDe9EPzXjc
 features: []
-genres: []
+first_released_as_single: false
 key: see-you-in-september-the-happenings
 lyrics_url: https://genius.com/The-happenings-see-you-in-september-lyrics
 name: See You In September
@@ -63,6 +66,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 147226
 ---
 I'll be alone each and every night
 While you're away, don't forget to write

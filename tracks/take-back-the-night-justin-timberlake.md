@@ -1,8 +1,11 @@
 ---
+album: The 20/20 Experience - 2 of 2
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:0a4ZGSRZOgspQy2HYzU82l
 features: []
-genres: []
+first_released_as_single: false
 key: take-back-the-night-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/takebackthenight.html
 name: Take Back The Night
@@ -59,8 +62,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 353160
 ---
-
 Yeah, uh, feels good, don't it?
 Listen, uh
 
@@ -170,6 +174,3 @@ Oh don't know when the sun is rising next
 Take back the night
 So if the feeling's right, then raise your glass and let's
 Take back the night
-
-
-

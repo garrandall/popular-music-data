@@ -1,8 +1,11 @@
 ---
+album: Are You Ready For This?
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:5clavfmBD4EU0CyxxUUAiX
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-make-it-with-you-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-i-can-make-it-with-you-lyrics
 name: I Can Make It With You
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 183080
 ---
 When the world was on my shoulders
 And all hope for tomorrow was gone

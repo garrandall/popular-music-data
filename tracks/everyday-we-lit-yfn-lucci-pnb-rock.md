@@ -1,9 +1,12 @@
 ---
+album: Long Live Nut
 artists:
 - YFN Lucci
+external_ids:
+  spotify: spotify:track:4PzovBqgnSHKd8opsP7IVM
 features:
 - PnB Rock
-genres: []
+first_released_as_single: false
 key: everyday-we-lit-yfn-lucci-pnb-rock
 lyrics_url: https://www.azlyrics.com/lyrics/yfnlucci/everydaywelit.html
 name: Everyday We Lit
@@ -88,9 +91,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 197170
 ---
-
-
 I came up from nothing nigga you can't tell me shit yeah
 Did it on my own, check out neck check my wrist yeah
 I swear I ain't never expected it to be like this
@@ -162,6 +165,3 @@ Yeah
 Everyday we lit uh
 Everyday we lit
 Everyday we lit uh
-
-
-

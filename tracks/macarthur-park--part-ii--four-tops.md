@@ -1,8 +1,11 @@
 ---
+album: Four Tops Now
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:4DRbwY3647n18OPWAq2LV8
 features: []
-genres: []
+first_released_as_single: false
 key: macarthur-park--part-ii--four-tops
 lyrics_url: https://genius.com/The-four-tops-macarthur-park-lyrics
 name: MacArthur Park (Part II)
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1969
+runtime: 393266
 ---
 Spring was never waiting for us, girl
 It ran one step ahead

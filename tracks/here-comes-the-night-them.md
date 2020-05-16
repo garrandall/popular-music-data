@@ -1,8 +1,11 @@
 ---
+album: Male Oldies - Vol. 30 - Karaoke
 artists:
 - Them
+external_ids:
+  spotify: spotify:track:0NGnY6H8lRSoNvo2IG5OZY
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-night-them
 lyrics_url: https://genius.com/Them-here-comes-the-night-lyrics
 name: Here Comes The Night
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 176866
 ---
 Whoa, here it comes
 Here comes the night
@@ -93,6 +98,6 @@ Well, here it comes
 Here comes the night
 The long, the long and lonely night
 Night, night, night, night, night, night
-FADES-
+
 Whoa, here comes the night
 The long, the long, the long and lonely night

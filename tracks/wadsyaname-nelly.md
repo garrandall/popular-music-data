@@ -1,8 +1,11 @@
 ---
+album: Wadsyaname
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:5JUGffssS2e4dUXEDxzPAX
 features: []
-genres: []
+first_released_as_single: true
 key: wadsyaname-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/wadsyaname.html
 name: Wadsyaname
@@ -31,10 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
+release_year: 2007
+runtime: 246426
 ---
-
-
-
 Let's Go!
 
 
@@ -152,6 +154,3 @@ Go n do ya dance (do ya dance)
 Go do your dance (do that dance)
 Go do your dance (do that dance)
 Shawty
-
-
-

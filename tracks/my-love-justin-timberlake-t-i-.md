@@ -1,9 +1,12 @@
 ---
+album: FutureSex/LoveSounds
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:1vMuSYlp2Im8Gpj6JxRJfj
 features:
 - T.I.
-genres: []
+first_released_as_single: false
 key: my-love-justin-timberlake-t-i-
 lyrics_url: https://genius.com/Justin-timberlake-my-love-lyrics
 name: My Love
@@ -124,6 +127,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 370133
 ---
 Ain't another woman that can take your spot, my—
 

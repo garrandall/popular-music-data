@@ -1,8 +1,11 @@
 ---
+album: Lift Your Spirit
 artists:
 - Aloe Blacc
+external_ids:
+  spotify: spotify:track:2stPxcgjdSImK7Gizl8ZUN
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-aloe-blacc
 lyrics_url: https://genius.com/Aloe-blacc-the-man-lyrics
 name: The Man
@@ -87,6 +90,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2013
+runtime: 254880
 ---
 Well, you can tell everybody
 Yeah, you can tell everybody

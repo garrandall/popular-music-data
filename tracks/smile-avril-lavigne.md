@@ -1,8 +1,11 @@
 ---
+album: Goodbye Lullaby
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:4bia7OWZPoswlzXCqESYrR
 features: []
-genres: []
+first_released_as_single: false
 key: smile-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/smile.html
 name: Smile
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2011
+runtime: 209520
 ---
-
 You know that I'm a crazy bitch
 I do what I want when I feel like it
 All I wanna do is lose control
@@ -111,6 +115,3 @@ I smile
 I smile
 The reason why I-I-I
 I smile
-
-
-

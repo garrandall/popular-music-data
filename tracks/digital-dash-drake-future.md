@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:0GR7iJLhj80KD5LkA14ZRn
 features: []
-genres: []
+first_released_as_single: false
 key: digital-dash-drake-future
 lyrics_url: https://genius.com/Drake-and-future-digital-dash-lyrics
 name: Digital Dash
@@ -36,6 +39,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-11-21'
+release_year: 2015
+runtime: 231231
 ---
 Metro Boomin want some more, nigga
 Yeah, yeah, get it, get it get it, Southside, yeah

@@ -1,8 +1,11 @@
 ---
+album: Reach The Beach
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:1wD9NQhbVVLrDjUKvfgKbX
 features: []
-genres: []
+first_released_as_single: false
 key: saved-by-zero-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/savedbyzero.html
 name: Saved By Zero
@@ -71,8 +74,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 220733
 ---
-
 Maybe someday
 Saved by zero
 I'll be more together
@@ -101,6 +105,3 @@ Maybe I'll win (saved by zero)
 Who needs to win (saved by zero)
 
 Saved by zero
-
-
-

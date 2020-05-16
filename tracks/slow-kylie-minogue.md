@@ -1,8 +1,11 @@
 ---
+album: Body Language
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:2DAxu8f0ZupOzkFEZz8kqE
 features: []
-genres: []
+first_released_as_single: false
 key: slow-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/slow.html
 name: Slow
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2003
+runtime: 193666
 ---
-
 Knew you'd be here tonight
 So I put my best dress on
 Boy I was so right
@@ -79,6 +83,3 @@ Skip a beat and move with my body
 Skip a beat and move with my body
 Skip a beat and move with my body
 Slow
-
-
-

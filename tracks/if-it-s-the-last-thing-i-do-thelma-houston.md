@@ -1,8 +1,11 @@
 ---
+album: Any Way You Like It
 artists:
 - Thelma Houston
+external_ids:
+  spotify: spotify:track:03N7Tzzxr7E4HJU3aptvnL
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-s-the-last-thing-i-do-thelma-houston
 lyrics_url: https://www.azlyrics.com/lyrics/thelmahouston/ifitsthelastthingido.html
 name: If It's The Last Thing I Do
@@ -51,8 +54,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1976
+runtime: 190293
 ---
-
 If it's the last thing I do
 I'll make you mine
 But baby
@@ -93,6 +97,3 @@ And baby, I'm sure you'll understand, yeah, yeah
 If it's the last thing I do
 I'm gonna get you
 I'm gonna make you mine...
-
-
-

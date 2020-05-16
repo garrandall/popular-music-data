@@ -1,8 +1,11 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:0LohatbcUXRauoeMlR1jnS
 features: []
-genres: []
+first_released_as_single: false
 key: pound-the-alarm-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/poundthealarm.html
 name: Pound The Alarm
@@ -79,8 +82,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2011
+runtime: 205640
 ---
-
 Oh, oh, oh,
 Come fill my glass up a little more
 We 'bout to get up and burn this floor
@@ -144,6 +148,3 @@ Sexy and hotter, let's shut it down
 Pound the alarm!
 Pound the alarm!
 Pound the alarm!
-
-
-

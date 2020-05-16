@@ -1,8 +1,11 @@
 ---
+album: "Energ\xEDa"
 artists:
 - J Balvin
+external_ids:
+  spotify: spotify:track:5MaIREuFJSPgk7CcS8uXoh
 features: []
-genres: []
+first_released_as_single: true
 key: ginza-j-balvin
 lyrics_url: https://www.musixmatch.com/lyrics/J-Balvin/Ginza
 name: Ginza
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 162973
 ---
 Kenedy
 

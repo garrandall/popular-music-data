@@ -1,9 +1,12 @@
 ---
+album: Whipped Cream & Other Delights
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:6gJyJsLvGVCQane5HVV9rC
 features: []
-genres: []
+first_released_as_single: false
 key: taste-of-honey-herb-alpert-the-tijuana-brass
 name: Taste Of Honey
 rankings:
@@ -71,5 +74,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1965
+runtime: 163746
 ---
 

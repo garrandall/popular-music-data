@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:14zj5jZTzV1MN8pQAR730z
 features: []
-genres: []
+first_released_as_single: false
 key: dark-horse-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/darkhorse.html
 name: Dark Horse
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 233720
 ---
-
 You thought that you knew where I was and when
 But it looks like they've been foolin' you again,
 You thought that you'd got me all steaked out
@@ -88,6 +92,3 @@ Since I stepped from out of the womb
 I've been a cool jerk
 Cooking at the source
 I'm a dark horse.
-
-
-

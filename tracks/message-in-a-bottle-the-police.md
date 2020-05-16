@@ -1,8 +1,11 @@
 ---
+album: Reggatta De Blanc (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:1oYYd2gnWZYrt89EBXdFiO
 features: []
-genres: []
+first_released_as_single: false
 key: message-in-a-bottle-the-police
 lyrics_url: https://genius.com/The-police-message-in-a-bottle-lyrics
 name: Message In A Bottle
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
+release_year: 1979
+runtime: 290280
 ---
 Just a castaway, an island lost at sea, oh
 Another lonely day with no one here but me, oh

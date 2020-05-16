@@ -1,8 +1,11 @@
 ---
+album: The Writing's On The Wall
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:0TfoyJau217GO4Zjb1q0X4
 features: []
-genres: []
+first_released_as_single: false
 key: bug-a-boo-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-bug-a-boo-lyrics
 name: Bug A Boo
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1999
+runtime: 202573
 ---
 You make me wanna throw my pager out the window
 Tell MCI to cut the phone poles

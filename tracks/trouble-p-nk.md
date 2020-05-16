@@ -1,8 +1,11 @@
 ---
+album: Try This
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:0qrGSKtrEj7PJAGVBFE9vG
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-p-nk
 lyrics_url: https://genius.com/P-nk-trouble-lyrics
 name: Trouble
@@ -23,6 +26,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
+release_year: 2003
+runtime: 193600
 ---
 No attorneys to plead my case
 No opiates to send me into outer space

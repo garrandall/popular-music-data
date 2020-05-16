@@ -1,8 +1,11 @@
 ---
+album: III Sides To Every Story
 artists:
 - Extreme
+external_ids:
+  spotify: spotify:track:4Vghbo90YLD9BudOpMKW0K
 features: []
-genres: []
+first_released_as_single: false
 key: stop-the-world-extreme
 lyrics_url: https://www.musixmatch.com/lyrics/Extreme/Stop-the-World
 name: Stop The World
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1992
+runtime: 357933
 ---
 All the world's a masquerade
 Made up of fools and philosophers

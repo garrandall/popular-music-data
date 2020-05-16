@@ -1,8 +1,11 @@
 ---
+album: Total Eclipse of the Heart
 artists:
 - Nicki French
+external_ids:
+  spotify: spotify:track:0ofctAkoKj9KfbxFInnCVW
 features: []
-genres: []
+first_released_as_single: false
 key: total-eclipse-of-the-heart-nicki-french
 lyrics_url: https://genius.com/Nicki-french-total-eclipse-of-the-heart-lyrics
 name: Total Eclipse Of The Heart
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-09-30'
+release_year: 1994
+runtime: 236000
 ---
 Turn around
 Every now and then I get a little bit lonely and you're never coming around

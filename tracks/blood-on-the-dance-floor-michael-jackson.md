@@ -1,8 +1,11 @@
 ---
+album: BLOOD ON THE DANCE FLOOR/ HIStory In The Mix
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:11lw4bWbmxWIETHitBU0Gc
 features: []
-genres: []
+first_released_as_single: false
 key: blood-on-the-dance-floor-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/bloodonthedancefloorxdangerousthewhitepandamashup.html
 name: Blood On The Dance Floor
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-07-19'
+release_year: 1997
+runtime: 253000
 ---
-
 Alone tonight
 Me here tonight
 Till it's all right
@@ -114,6 +118,3 @@ You've been, you've been, you don't, you don't, don't
 You don't, you don't, don't mess with my baby
 She don't, she don't, she don't know it
 She just, she just, mess with my baby
-
-
-

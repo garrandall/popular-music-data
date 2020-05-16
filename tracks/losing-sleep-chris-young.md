@@ -1,8 +1,11 @@
 ---
+album: Losing Sleep
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:6waqLPcT6ruMhmd36OhmFO
 features: []
-genres: []
+first_released_as_single: false
 key: losing-sleep-chris-young
 lyrics_url: https://genius.com/Chris-young-losing-sleep-lyrics
 name: Losing Sleep
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2017
+runtime: 178253
 ---
 Light a candle
 Turn all the lights down low

@@ -1,8 +1,11 @@
 ---
+album: Communards
 artists:
 - The Communards
+external_ids:
+  spotify: spotify:track:0ire4j2mcGovF5JA1D2cTp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-leave-me-this-way-the-communards
 lyrics_url: https://genius.com/The-communards-dont-leave-me-this-way-lyrics
 name: Don't Leave Me This Way
@@ -59,6 +62,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 271066
 ---
 Don't leave me this way
 I can't survive

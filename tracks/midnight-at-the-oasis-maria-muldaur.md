@@ -1,8 +1,11 @@
 ---
+album: Maria Muldaur
 artists:
 - Maria Muldaur
+external_ids:
+  spotify: spotify:track:5VBcEJ4mtXTmVEJtc7hx2g
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-at-the-oasis-maria-muldaur
 lyrics_url: https://genius.com/Maria-muldaur-midnight-at-the-oasis-lyrics
 name: Midnight At The Oasis
@@ -103,6 +106,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
+release_year: 1973
+runtime: 229506
 ---
 Midnight at the oasis
 Send your camel to bed

@@ -1,8 +1,11 @@
 ---
+album: Me And My Gang
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:6Gfmj0HbpvxTdW0sdlzTDU
 features: []
-genres: []
+first_released_as_single: false
 key: my-wish-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-my-wish-lyrics
 name: My Wish
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 248280
 ---
 Oh
 

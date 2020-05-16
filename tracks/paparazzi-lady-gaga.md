@@ -1,8 +1,11 @@
 ---
+album: The Fame
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:7Hqig8kp32q2Ire3ECQvWM
 features: []
-genres: []
+first_released_as_single: false
 key: paparazzi-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-paparazzi-lyrics
 name: Paparazzi
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2008
+runtime: 208306
 ---
 We are the crowd
 We're c-coming out

@@ -1,8 +1,11 @@
 ---
+album: Not Fragile
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:0HOrDVS349XFcpCYsO2hAP
 features: []
-genres: []
+first_released_as_single: false
 key: you-ain-t-seen-nothing-yet-bachman-turner-overdrive
 lyrics_url: https://genius.com/Bachmanturner-overdrive-you-aint-seen-nothing-yet-lyrics
 name: You Ain't Seen Nothing Yet
@@ -75,6 +78,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 234866
 ---
 I met a devil woman
 She took my heart away

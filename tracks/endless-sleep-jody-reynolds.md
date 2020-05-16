@@ -1,8 +1,11 @@
 ---
+album: Endless Sleep
 artists:
 - Jody Reynolds
+external_ids:
+  spotify: spotify:track:5Ug7n6LdrjmXuN33qO0HLT
 features: []
-genres: []
+first_released_as_single: false
 key: endless-sleep-jody-reynolds
 lyrics_url: https://genius.com/Jody-reynolds-endless-sleep-lyrics
 name: Endless Sleep
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 143693
 ---
 VERSE 1
 The night was black, rain falling down

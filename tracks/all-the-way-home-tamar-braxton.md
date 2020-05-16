@@ -1,8 +1,11 @@
 ---
+album: Love and War
 artists:
 - Tamar Braxton
+external_ids:
+  spotify: spotify:track:6rvKqjSuVP02HzGiV4G4iq
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-way-home-tamar-braxton
 lyrics_url: https://genius.com/Tamar-braxton-all-the-way-home-lyrics
 name: All The Way Home
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 262226
 ---
 Wait a minute, baby
 Going too fast, I'mma turn back, oh

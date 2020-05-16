@@ -1,10 +1,13 @@
 ---
+album: I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)
 artists:
 - Lil Peep
 - iLoveMakonnen
+external_ids:
+  spotify: spotify:track:2v5JTeM6hSmi5wWy7jiwrI
 features:
 - Fall Out Boy
-genres: []
+first_released_as_single: true
 key: i-ve-been-waiting-lil-peep-ilovemakonnen-fall-out-boy
 lyrics_url: https://genius.com/Lil-peep-and-ilovemakonnen-ive-been-waiting-lyrics
 name: I've Been Waiting
@@ -45,6 +48,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2019
+runtime: 233613
 ---
 Whoa, yeah
 

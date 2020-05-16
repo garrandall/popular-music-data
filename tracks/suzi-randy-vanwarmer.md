@@ -1,8 +1,11 @@
 ---
+album: Beat of Love
 artists:
 - Randy VanWarmer
+external_ids:
+  spotify: spotify:track:1kHAXkcTzR6B6ky6mG18f2
 features: []
-genres: []
+first_released_as_single: false
 key: suzi-randy-vanwarmer
 lyrics_url: https://genius.com/Randy-vanwarmer-suzi-found-a-weapon-lyrics
 name: Suzi
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 189586
 ---
 Well, she never sees it comin'
 She never sees it goin'

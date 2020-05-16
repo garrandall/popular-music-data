@@ -1,8 +1,11 @@
 ---
+album: Ramblin Rose
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:6bZlab0NrNteVppLu9C2Zy
 features: []
-genres: []
+first_released_as_single: false
 key: ramblin--rose-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/ramblinrose.html
 name: Ramblin' Rose
@@ -71,8 +74,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 167853
 ---
-
 Ramblin' rose, ramblin' rose
 Why you ramble, no one knows
 Wild and wind-blown, that's how you've grown
@@ -94,6 +98,3 @@ Ramblin' rose, ramblin' rose
 Why I want you, heaven knows
 Though I love you with a love true
 Who can cling to a ramblin' rose?
-
-
-

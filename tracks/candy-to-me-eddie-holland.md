@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 4: 1964'
 artists:
 - Eddie Holland
+external_ids:
+  spotify: spotify:track:4N0VVY1BeWVpllqcwX7mNH
 features: []
-genres: []
+first_released_as_single: false
 key: candy-to-me-eddie-holland
 lyrics_url: https://genius.com/Eddie-holland-candy-to-me-lyrics
 name: Candy To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 145040
 ---
 One lump of sugar don't compare
 To the sweetness of my baby's love and care

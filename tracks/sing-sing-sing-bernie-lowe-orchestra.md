@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Bernie Lowe Orchestra
+external_ids:
+  spotify: spotify:track:0T4b706qiJ87eBtHcgq9oH
 features: []
-genres: []
+first_released_as_single: false
 key: sing-sing-sing-bernie-lowe-orchestra
 name: Sing Sing Sing
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 145226
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Crazysexycool
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:2W2vmNmTLERMWT9XBxm35E
 features: []
-genres: []
+first_released_as_single: false
 key: diggin--on-you-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/digginonyou.html
 name: Diggin' On You
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1994
+runtime: 254560
 ---
-
 I was like peace in a groove
 On a sunday afternoon
 You were there so was I
@@ -143,8 +147,3 @@ Why I'm diggin' diggin' diggin' diggin' on you
 Diggin' on you
 It's on like that
 Diggin' diggin' diggin' diggin' on you
-
-
-
-
-

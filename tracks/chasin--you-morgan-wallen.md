@@ -1,8 +1,11 @@
 ---
+album: If I Know Me
 artists:
 - Morgan Wallen
+external_ids:
+  spotify: spotify:track:5MwynWK9s4hlyKHqhkNn4A
 features: []
-genres: []
+first_released_as_single: false
 key: chasin--you-morgan-wallen
 lyrics_url: https://www.azlyrics.com/lyrics/morganwallen/chasinyou.html
 name: Chasin' You
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2018
+runtime: 205453
 ---
-
 We used to chase that Chattanooga freight
 Couple of kids in a Chevrolet
 Catch a little air when we cross the tracks
@@ -82,6 +86,3 @@ Yeah I'm laying here tonight holding someone new
 Still chasing you, still chasing you
 
 Still chasing you, still chasing you
-
-
-

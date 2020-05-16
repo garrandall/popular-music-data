@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:7mRtoJ6Cg23vYa4VL2Qo0Y
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-make-it-through-the-night-joe-simon
 name: Help Me Make It Through The Night
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 164075
 ---
 

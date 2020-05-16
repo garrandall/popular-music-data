@@ -1,8 +1,11 @@
 ---
+album: Best Of The Sapphires
 artists:
 - The Sapphires
+external_ids:
+  spotify: spotify:track:4BkHHw26fIlHEdcUqeCkgv
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-have-your-love-the-sapphires
 lyrics_url: https://genius.com/The-sapphires-gotta-have-your-love-lyrics
 name: Gotta Have Your Love
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 136226
 ---
 Ive gotta have your love
 Ive gotta have your love

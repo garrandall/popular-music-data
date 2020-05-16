@@ -1,8 +1,11 @@
 ---
+album: Ringo
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:4RFqi5JQduiSlRZCVlUDGH
 features: []
-genres: []
+first_released_as_single: false
 key: it-don-t-come-easy-ringo-starr
 lyrics_url: https://genius.com/Ringo-starr-it-dont-come-easy-lyrics
 name: It Don't Come Easy
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1971
+runtime: 184333
 ---
 It don't come easy
 You know it don't come easy

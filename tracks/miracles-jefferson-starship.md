@@ -1,8 +1,11 @@
 ---
+album: Red Octopus
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:5dFvprlP5JS7gxeaMhMOWS
 features: []
-genres: []
+first_released_as_single: false
 key: miracles-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/miracles.html
 name: Miracles
@@ -75,8 +78,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 412040
 ---
-
 If only you believe like I believe, baby (If only you believe like I believe)
 We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
@@ -182,6 +186,3 @@ If only you believe like I believe, baby (If only you believe like I believe)
 We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
 So would I
-
-
-

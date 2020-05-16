@@ -1,8 +1,11 @@
 ---
+album: Don't Knock My Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:1JkLbghZLWT1rRVsJANORc
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-knock-my-love---pt-1-wilson-pickett
 lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Pickett/Don-t-Knock-My-Love-Pt-1
 name: Don't Knock My Love - Pt 1
@@ -55,6 +58,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 136293
 ---
 If my love won't pull you up
 And my kisses won't shake your stuff

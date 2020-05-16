@@ -1,9 +1,12 @@
 ---
+album: Dreamland
 artists:
 - Robert Miles
+external_ids:
+  spotify: spotify:track:033uNwmVzZvXm00CUPBnA0
 features:
 - Maria Nayler
-genres: []
+first_released_as_single: false
 key: one-and-one-robert-miles-maria-nayler
 lyrics_url: https://genius.com/Robert-miles-one-and-one-radio-version-lyrics
 name: One And One
@@ -84,6 +87,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 239626
 ---
 The sky isn't always blue
 The sun doesn't always shine

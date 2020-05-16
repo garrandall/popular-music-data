@@ -1,8 +1,11 @@
 ---
+album: Just For You
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:3Trmj9b3Ek60cggl86joz5
 features: []
-genres: []
+first_released_as_single: false
 key: together-again-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-together-again-lyrics
 name: Together Again
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1972
+runtime: 137880
 ---
 Together again, me and myself
 Wings on my shoes, losin' the blues, being myself

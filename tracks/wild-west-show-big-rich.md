@@ -1,9 +1,12 @@
 ---
+album: Horse Of A Different Color
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:0Z9YP4ntjcqlMCfgi5Eete
 features: []
-genres: []
+first_released_as_single: false
 key: wild-west-show-big-rich
 lyrics_url: https://genius.com/Big-and-rich-wild-west-show-lyrics
 name: Wild West Show
@@ -44,6 +47,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2004
+runtime: 260813
 ---
 I'm feelin' like Tonto
 Ridin' a Pinto

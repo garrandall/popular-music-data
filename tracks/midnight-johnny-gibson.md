@@ -1,8 +1,11 @@
 ---
+album: Johnny Gibson
 artists:
 - Johnny Gibson
+external_ids:
+  spotify: spotify:track:4KKQMQD6Q0TbqFlioQHPIy
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-johnny-gibson
 name: Midnight
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1962
+runtime: 142080
 ---
 

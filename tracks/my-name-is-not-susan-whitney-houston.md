@@ -1,8 +1,11 @@
 ---
+album: I'm Your Baby Tonight
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:7623p8KZ24WTeO0NeIb4tV
 features: []
-genres: []
+first_released_as_single: false
 key: my-name-is-not-susan-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/mynameisnotsusan.html
 name: My Name Is Not Susan
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
+release_year: 1990
+runtime: 279840
 ---
-
 One night not long ago
 I fell for you 
 Too easy to let go
@@ -99,6 +103,3 @@ Well, anyway
 Don't want to hear about Susan 
 My name ain't Susan 
 Ya better get it right!
-
-
-

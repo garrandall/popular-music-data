@@ -1,10 +1,13 @@
 ---
+album: Cheated (To All the Girls) - EP
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:407OEIO5ny4JZA3OFZGD3p
 features:
 - Queen Pen
 - The Product
-genres: []
+first_released_as_single: true
 key: cheated--to-all-the-girls--wyclef-jean-queen-pen-the-product
 lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/cheatedtoallthegirls.html
 name: Cheated (To All The Girls)
@@ -41,9 +44,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1997
+runtime: 245240
 ---
-
-
 Chickenheads, gobble, gobble
 Thugs in the dance, no shootin', shootin', shootin'
 
@@ -139,6 +142,3 @@ I'm telling you, I have no time to fool around
 
 Salaam Remi collabo, Wyclef Jean, Product, yeah, Queen Pen
 9-8 'til infinitee, for all you girls out there I cheated on before
-
-
-

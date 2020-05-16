@@ -1,8 +1,11 @@
 ---
+album: Stage Fright
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:18B2YomkDx6bqvTWzPbYNN
 features: []
-genres: []
+first_released_as_single: false
 key: time-to-kill-the-band
 lyrics_url: https://genius.com/The-band-time-to-kill-lyrics
 name: Time To Kill
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 208200
 ---
 The many roads I've covered
 The many trails I've burned

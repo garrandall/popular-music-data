@@ -1,8 +1,11 @@
 ---
+album: Hudson & Landry Greatest Hits Vol. 1
 artists:
 - Hudson and Landry
+external_ids:
+  spotify: spotify:track:50i7iJSGaM1aOb2ZZd1iCD
 features: []
-genres: []
+first_released_as_single: false
 key: ajax-liquor-store-hudson-and-landry
 name: Ajax Liquor Store
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 174826
 ---
 

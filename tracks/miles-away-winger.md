@@ -1,8 +1,11 @@
 ---
+album: In The Heart Of The Young
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:3Bzh1AtiViTIaZV6yqySZH
 features: []
-genres: []
+first_released_as_single: false
 key: miles-away-winger
 lyrics_url: https://www.azlyrics.com/lyrics/winger/milesaway.html
 name: Miles Away
@@ -95,8 +98,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 252866
 ---
-
 So this is love
 Or so you tell me
 As you're walkin
@@ -152,6 +156,3 @@ What you meant to me
 
 If only just for a moment
 Hold on to the dreams that we had...
-
-
-

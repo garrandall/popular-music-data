@@ -1,8 +1,11 @@
 ---
+album: Paradise Theatre
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:7GRUpcvSQM9HrnC2CjYPG4
 features: []
-genres: []
+first_released_as_single: false
 key: the-best-of-times-styx
 lyrics_url: https://genius.com/Styx-the-best-of-times-lyrics
 name: The Best Of Times
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
+release_year: 1981
+runtime: 257866
 ---
 Tonight's the night we'll make history
 Honey, you and I

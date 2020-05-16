@@ -1,8 +1,11 @@
 ---
+album: Baby Call On Me
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6hlRJGUMJZTNbZmHr0qb69
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-need-me-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/ifyouneedme.html
 name: If You Need Me
@@ -31,8 +34,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 153506
 ---
-
 If you need me, I wantcha to call me
 Said if you need me, all ya gotta do is call me
 Don't wait too lo-o-ong if things go wrong
@@ -56,6 +60,3 @@ And I still love, love, always thinkin' of you
 Don't wait too lo-o-ong, just-a pick up your phone
 And I-I-I'll hurry home (I'll hurry home)
 Right there, where I belong
-
-
-

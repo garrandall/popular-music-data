@@ -1,8 +1,11 @@
 ---
+album: Cool Night
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:4jw1ul6HZvgJRugmphktgp
 features: []
-genres: []
+first_released_as_single: false
 key: love-or-let-me-be-lonely-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/loveorletmebelonely.html
 name: Love Or Let Me Be Lonely
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1981
+runtime: 221400
 ---
-
 Love me let me be lonely
 Part time love I can find any day
 So don't defy mother nature's way please
@@ -69,6 +73,3 @@ Love me let me be lonely
 Part time love I can find any day
 So don't defy mother nature's way please
 Make it mine, a love for to stay
-
-
-

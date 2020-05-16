@@ -1,8 +1,11 @@
 ---
+album: Back 'dare!
 artists:
 - Johnnie Morisette
+external_ids:
+  spotify: spotify:track:0bQIkuMxdWJ2zGZ8AhY9Du
 features: []
-genres: []
+first_released_as_single: false
 key: meet-me-at-the-twistin--place-johnnie-morisette
 name: Meet Me At The Twistin' Place
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1962
+runtime: 174240
 ---
 

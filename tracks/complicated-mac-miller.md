@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:3WfSNAoj2D8C9noPSGZZFM
 features: []
-genres: []
+first_released_as_single: false
 key: complicated-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/complicated.html
 name: Complicated
@@ -11,8 +14,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 232211
 ---
-
 Outside is cloudy but I like that better
 Behind the wheel but still ain't on my way
 Some people say they want to live forever
@@ -44,6 +48,3 @@ Without any complications
 Does it always gotta, does it always gotta
 Gotta be so complicated?
 Well I'm way too young to be getting old
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Life of a Dark Rose
 artists:
 - Lil Skies
+external_ids:
+  spotify: spotify:track:5IKOXYnhzrLxqhlI0btiaa
 features:
 - Landon Cube
-genres: []
+first_released_as_single: true
 key: red-roses-lil-skies-landon-cube
 lyrics_url: https://www.azlyrics.com/lyrics/lilskies/redroses.html
 name: Red Roses
@@ -88,9 +91,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2017
+runtime: 262061
 ---
-
-
 And I got all the drugs in the world that you need
 We get high to pass time but bitch I ain't no fiend
 I got money on my mind, I be stacking my green
@@ -167,6 +170,3 @@ And she off a bar
 And she can't feel her face no more
 Yeah she off a bar and she can't feel her face no more
 She said she can't feel her face no more
-
-
-

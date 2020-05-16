@@ -1,8 +1,11 @@
 ---
+album: Meet The Supremes - Expanded Edition
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:0TPS0FAuY821aAtIYdLv7Z
 features: []
-genres: []
+first_released_as_single: false
 key: run-run-run-the-supremes
 lyrics_url: https://genius.com/The-supremes-run-run-run-lyrics
 name: Run Run Run
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1962
+runtime: 162466
 ---
 Girls, gather 'round me
 And hear the news

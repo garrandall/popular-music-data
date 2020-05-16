@@ -1,8 +1,11 @@
 ---
+album: HERO
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:3R3DmcYhNiYXHsgzJo3Sg7
 features: []
-genres: []
+first_released_as_single: true
 key: my-church-maren-morris
 lyrics_url: https://genius.com/Maren-morris-my-church-lyrics
 name: My Church
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 197653
 ---
 I’ve cussed on a Sunday
 I’ve cheated and I’ve lied

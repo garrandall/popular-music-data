@@ -1,8 +1,11 @@
 ---
+album: The Complete Atlantic Recordings
 artists:
 - Bettye Swann
+external_ids:
+  spotify: spotify:track:375AJd1VZJWsIBYqG0VTYq
 features: []
-genres: []
+first_released_as_single: false
 key: victim-of-a-foolish-heart-bettye-swann
 lyrics_url: https://www.musixmatch.com/lyrics/Bettye-Swann/Victim-of-a-Foolish-Heart
 name: Victim Of A Foolish Heart
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 181880
 ---
 Your scars were still showing
 When I first met you, baby

@@ -1,8 +1,11 @@
 ---
+album: 'Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974'
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:7DhjJ5AmX53JQF78floFhQ
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-only-a-child-again-curtis-mayfield
 lyrics_url: https://www.azlyrics.com/lyrics/curtismayfield/ifiwereonlyachildagain.html
 name: If I Were Only A Child Again
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 176360
 ---
-
 If I were only a child again
 No one's ever been, oh, good to me since then
 Everywhere I looked it seemed so color bright
@@ -59,6 +63,3 @@ Only, only, only a child
 Only, only, only a child
 Only, only, only a child
 Only a child again, hey, hey
-
-
-

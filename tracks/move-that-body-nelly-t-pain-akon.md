@@ -1,10 +1,13 @@
 ---
+album: '5.0'
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:6KiAEdLLo268B0ZKk8Ze2c
 features:
 - T-Pain
 - Akon
-genres: []
+first_released_as_single: false
 key: move-that-body-nelly-t-pain-akon
 lyrics_url: https://genius.com/Nelly-move-that-body-lyrics
 name: Move That Body
@@ -13,6 +16,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 205013
 ---
 Move, that body
 Work, that body girl

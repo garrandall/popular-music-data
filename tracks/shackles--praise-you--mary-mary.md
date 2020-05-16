@@ -1,8 +1,11 @@
 ---
+album: Go Get It
 artists:
 - Mary Mary
+external_ids:
+  spotify: spotify:track:6SRBgd6EGk9GBehPnCtsU2
 features: []
-genres: []
+first_released_as_single: false
 key: shackles--praise-you--mary-mary
 lyrics_url: https://www.azlyrics.com/lyrics/marymary/shacklespraiseyou.html
 name: Shackles (Praise You)
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 1992
+runtime: 196586
 ---
-
 Whoo!
 It sure is hot out here
 You know?
@@ -170,6 +174,3 @@ What'cha gonna do, yeah
 Take the shackles off my feet so I can dance
 I just wanna praise you
 I just wanna praise you
-
-
-

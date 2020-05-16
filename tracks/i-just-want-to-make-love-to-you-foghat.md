@@ -1,8 +1,11 @@
 ---
+album: Foghat
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:48MQDFkvHlGnRQyUx6ZXVe
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-want-to-make-love-to-you-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/ijustwanttomakelovetoyou.html
 name: I Just Want To Make Love To You
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1972
+runtime: 261173
 ---
-
 I don't want you, cook my bread
 I don't want you, make my bed
 I don't want your money, too
@@ -106,6 +110,3 @@ I don't want you, keep a home
 I don't want you, wash my clothes
 I don't want you to be true
 I just wanna make love
-
-
-

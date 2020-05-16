@@ -1,8 +1,11 @@
 ---
+album: I'll Do 4 U
 artists:
 - Father M.C.
+external_ids:
+  spotify: spotify:track:7zyLObYw4QUKQDyZOb4J0Y
 features: []
-genres: []
+first_released_as_single: true
 key: i-ll-do-4-u-father-m-c-
 lyrics_url: https://genius.com/Father-mc-ill-do-4-u-lyrics
 name: I'll Do 4 U
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1991
+runtime: 223889
 ---
 (Would you do for me)
 Sweetheart

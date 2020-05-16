@@ -1,9 +1,12 @@
 ---
+album: Ctrl
 artists:
 - SZA
+external_ids:
+  spotify: spotify:track:5wMAfMDlDxe14SQhnsFien
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: love-galore-sza-travis-scott
 lyrics_url: https://genius.com/Sza-and-travis-scott-love-galore-starfox-remix-lyrics
 name: Love Galore
@@ -88,6 +91,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 260769
 ---
 I need, I need
 I need, I need

@@ -1,8 +1,11 @@
 ---
+album: Be Here
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:4zwIZoWo9KKOAkFqHZqVzO
 features: []
-genres: []
+first_released_as_single: false
 key: making-memories-of-us-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/makingmemoriesofus.html
 name: Making Memories Of Us
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
+release_year: 2004
+runtime: 251106
 ---
-
 I'm gonna be here for you baby
 I'll be a man of my word
 Speak the language in a voice that you have never heard
@@ -126,6 +130,3 @@ And I'm gonna love you like nobody loves you
 And I'll earn your trust making memories of us
 I'm gonna love you like nobody loves you
 And I'll win your trust making memories of us
-
-
-

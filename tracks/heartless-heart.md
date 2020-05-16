@@ -1,8 +1,11 @@
 ---
+album: Magazine
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:0TQ8uuzlzubDsoeYGmA3zF
 features: []
-genres: []
+first_released_as_single: false
 key: heartless-heart
 lyrics_url: https://genius.com/Boosie-badazz-heartless-hearts-lyrics
 name: Heartless
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1977
+runtime: 301226
 ---
 No one care about this heart of mine
 (I feel alone, alone, -lone, -lone, mama)

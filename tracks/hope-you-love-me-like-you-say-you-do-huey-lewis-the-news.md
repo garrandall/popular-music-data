@@ -1,8 +1,11 @@
 ---
+album: Picture This
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:00uWuJtkT7qNBKkhZtgWzF
 features: []
-genres: []
+first_released_as_single: false
 key: hope-you-love-me-like-you-say-you-do-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/hopeyoulovemelikeyousayyoudo.html
 name: Hope You Love Me Like You Say You Do
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1982
+runtime: 225000
 ---
-
 What does a girl like you, see in a man like me?
 Just cause I love you baby, don't think I'll be,
 just what you want me to be.
@@ -94,6 +98,3 @@ And I hope you love me like you say I do. Hope you love me.
 And I hope you love me like you say I do. Do you really love me?
 And I hope you love me like you say I do. (Yeah)
 And I hope you love me like you say I do. (Yeah)
-
-
-

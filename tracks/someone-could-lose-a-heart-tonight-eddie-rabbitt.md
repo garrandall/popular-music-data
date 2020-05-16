@@ -1,8 +1,11 @@
 ---
+album: Step By Step
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:3YiBgdwcilfgBYyEIiv04W
 features: []
-genres: []
+first_released_as_single: false
 key: someone-could-lose-a-heart-tonight-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/someonecouldloseahearttonight.html
 name: Someone Could Lose A Heart Tonight
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-02-20'
+release_year: 1981
+runtime: 207706
 ---
-
 There's a full moon out tonight
 And love is movin' in the shadows
 I got no place to run
@@ -104,6 +108,3 @@ Love you're weavin'
 It's gonna get crazy baby if you don't stop
 Someone could lose a heart tonight
 Someone could lose a heart
-
-
-

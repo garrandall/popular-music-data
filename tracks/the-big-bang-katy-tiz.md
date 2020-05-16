@@ -1,8 +1,11 @@
 ---
+album: The Big Bang
 artists:
 - Katy Tiz
+external_ids:
+  spotify: spotify:track:1XTbAGjlbdQ74ADCA7sE02
 features: []
-genres: []
+first_released_as_single: true
 key: the-big-bang-katy-tiz
 lyrics_url: https://www.azlyrics.com/lyrics/katytiz/thebigbang.html
 name: The Big Bang
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2014
+runtime: 159626
 ---
-
 Oh, babe
 
 I don't wanna lie
@@ -68,6 +72,3 @@ The Big, Big, Big Bang
 Oh, babe
 Oh, babe
 Oh, babe
-
-
-

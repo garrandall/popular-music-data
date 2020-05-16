@@ -1,8 +1,11 @@
 ---
+album: Cricklewood Green
 artists:
 - Ten Years After
+external_ids:
+  spotify: spotify:track:084dFKvSE4nGshTbbdXYIw
 features: []
-genres: []
+first_released_as_single: false
 key: love-like-a-man-ten-years-after
 lyrics_url: https://genius.com/Ten-years-after-love-like-a-man-lyrics
 name: Love Like A Man
@@ -15,9 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 187933
 ---
-
-
 You roly-poly
 All over town
 But you come on back to me
@@ -49,5 +52,3 @@ Love like a man
 Love all you can
 Love like a man
 Love all you can...
-
-

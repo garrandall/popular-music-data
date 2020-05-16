@@ -1,8 +1,11 @@
 ---
+album: Anthology-Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:6sKhdm5VN71T8BDuoBqGV3
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-down-here-below-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/troubledownherebelow.html
 name: Trouble Down Here Below
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1967
+runtime: 138373
 ---
-
 Well, I know there's peace on the mountain 
 And that's where I want to go 
 But I just can't rest on the mountaintop 
@@ -49,6 +53,3 @@ No Lord, there ain't no trouble on the mountain
 But there's trouble down here below 
 Whoa, trouble down here below 
 'Cause there's trouble down here below
-
-
-

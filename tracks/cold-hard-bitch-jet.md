@@ -1,8 +1,11 @@
 ---
+album: Get Born
 artists:
 - Jet
+external_ids:
+  spotify: spotify:track:5u6fnmRO5V0PTl5M2Eekeu
 features: []
-genres: []
+first_released_as_single: false
 key: cold-hard-bitch-jet
 lyrics_url: https://genius.com/Jet-band-cold-hard-bitch-lyrics
 name: Cold Hard Bitch
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2003
+runtime: 243200
 ---
 Gotta leave town
 Got another appointment

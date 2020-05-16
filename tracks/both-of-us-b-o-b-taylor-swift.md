@@ -1,9 +1,12 @@
 ---
+album: Strange Clouds
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:3r9bgSJlJz2zlevcBRYXko
 features:
 - Taylor Swift
-genres: []
+first_released_as_single: false
 key: both-of-us-b-o-b-taylor-swift
 lyrics_url: https://genius.com/Bob-both-of-us-lyrics
 name: Both Of Us
@@ -84,6 +87,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 216120
 ---
 I wish I was strong enough to lift not one but both of us
 Some day I will be strong enough to lift not one but both of us

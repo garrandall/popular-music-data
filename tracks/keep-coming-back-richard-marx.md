@@ -1,8 +1,11 @@
 ---
+album: Rush Street
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:2v9mXHdr2EjJL9Toh5rrCr
 features: []
-genres: []
+first_released_as_single: false
 key: keep-coming-back-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/keepcomingback.html
 name: Keep Coming Back
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1991
+runtime: 411533
 ---
-
 You know just how to hurt me
 And how to take all the pain away
 Girl, you must be the devil in disguise
@@ -126,6 +130,3 @@ Why should I try, I don't want to get over you
 I don't know why I keep coming back to you, baby
 I don't know why I keep coming back to you
 To you baby
-
-
-

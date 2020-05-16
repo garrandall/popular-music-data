@@ -1,8 +1,11 @@
 ---
+album: Don't Play That Song
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:14V0JNwmdWcLdYnOc2e1EX
 features: []
-genres: []
+first_released_as_single: false
 key: young-boy-blues-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/youngboyblues.html
 name: Young Boy Blues
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 140666
 ---
-
 Every time I kiss somebody new, I
 Make believe I'm kissing you but
 I can't kid my aching heart 'cause
@@ -65,6 +69,3 @@ Each night is like a thousand years
 I can't lose these young boy blues
 
 Each night is like a thousand years
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:2kB3glhYbsX2vnxEeAPCwd
 features: []
-genres: []
+first_released_as_single: false
 key: walk-easy-my-son-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/Walk-Easy-My-Son
 name: Walk Easy My Son
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 177066
 ---
 When I was a very small boy
 (Just a small boy)

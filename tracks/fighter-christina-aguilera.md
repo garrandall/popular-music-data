@@ -1,8 +1,11 @@
 ---
+album: Stripped
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:7nXq1vaZiz7PdbfojpPjW5
 features: []
-genres: []
+first_released_as_single: false
 key: fighter-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/fighter.html
 name: Fighter
@@ -87,9 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2002
+runtime: 245960
 ---
-
-
 After all you put me through,
 You think I'd despise you,
 But in the end I wanna thank you,
@@ -157,4 +160,3 @@ You thought I would forget
 I remembered
 'Cause I remembered
 I remembered
-

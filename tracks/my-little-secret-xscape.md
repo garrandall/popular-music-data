@@ -1,8 +1,11 @@
 ---
+album: Traces Of My Lipstick
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:0mIuIBLkaRvPCz6A0mPqbM
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-secret-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/mylittlesecret.html
 name: My Little Secret
@@ -63,9 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
+release_year: 1998
+runtime: 268040
 ---
-
-
 See baby you're my little secret,
 If you don't tell, I won't tell,
 And that's how we gotta keep it.
@@ -122,4 +125,3 @@ You ain't never gonna be by yourself.
 'Cause the love that we share,
 It stays on my mind,
 You're always gonna be a little secret of mine.
-

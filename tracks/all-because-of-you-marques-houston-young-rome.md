@@ -1,9 +1,12 @@
 ---
+album: Naked
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:43PXNweF6u0LS9N6czAY0M
 features:
 - Young Rome
-genres: []
+first_released_as_single: false
 key: all-because-of-you-marques-houston-young-rome
 lyrics_url: https://www.azlyrics.com/lyrics/marqueshouston/allbecauseofyou.html
 name: All Because Of You
@@ -48,9 +51,10 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2005
+runtime: 212013
 ---
-
- (Corna Boys..)
+(Corna Boys..)
 
 I can't blame you if you wanna leave
 Cause I'm not the man that I once used to be
@@ -113,6 +117,3 @@ Wanna make it right, wanna change my life girl
 Wanna change your name to my name baby
 (all because of you) not gon' be the man that I used to be (not the man I used to be, nooo, yea yea)
 I changed because of you
-
-
-

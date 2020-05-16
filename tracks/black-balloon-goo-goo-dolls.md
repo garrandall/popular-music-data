@@ -1,8 +1,11 @@
 ---
+album: Dizzy up the Girl
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:5zmaypMaWb21FUGBxbw8hT
 features: []
-genres: []
+first_released_as_single: false
 key: black-balloon-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/blackballoon.html
 name: Black Balloon
@@ -143,8 +146,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1998
+runtime: 249533
 ---
-
 Baby's black balloon makes her fly
 I almost fell into that hole in your life
 And you're not thinking 'bout tomorrow
@@ -185,6 +189,3 @@ All because I'm
 All because I'm
 And I'll become
 What you became to me
-
-
-

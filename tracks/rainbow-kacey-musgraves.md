@@ -1,8 +1,11 @@
 ---
+album: Golden Hour
 artists:
 - Kacey Musgraves
+external_ids:
+  spotify: spotify:track:79qxwHypONUt3AFq0WPpT9
 features: []
-genres: []
+first_released_as_single: false
 key: rainbow-kacey-musgraves
 lyrics_url: https://www.azlyrics.com/lyrics/kaceymusgraves/rainbow.html
 name: Rainbow
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2018
+runtime: 214293
 ---
-
 When it rain it pours
 But you didn't even notice
 It ain't rainin' anymore
@@ -57,6 +61,3 @@ That there's always been a rainbow hangin' over your head
 Yeah, there's always been a rainbow hangin' over your head
 
 It'll all be alright
-
-
-

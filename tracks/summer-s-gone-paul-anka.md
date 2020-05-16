@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:2AxBABFfvKGhS7idu6IjQS
 features: []
-genres: []
+first_released_as_single: false
 key: summer-s-gone-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/summersgone.html
 name: Summer's Gone
@@ -51,8 +54,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 143826
 ---
-
 Summer's gone and no songbirds are singing 
 Because you're gone, gone from my arms 
 Gone from my lips but you're still in my heart 
@@ -75,6 +79,3 @@ Summer's gone and no songbirds are singing
 Because you're gone, gone from my arms 
 Gone from my lips but still in my heart 
 (Summer's gone but you're still in my heart)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Ridin' High
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3YGuismm9qnCaEfUkD8uQA
 features: []
-genres: []
+first_released_as_single: false
 key: honey-chile-martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-honey-chile-lyrics
 name: Honey Chile
@@ -56,6 +59,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 177973
 ---
 You're shiftless and you're lazy
 Just like that hound dog, Daisy

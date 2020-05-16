@@ -1,8 +1,11 @@
 ---
+album: The Last Rocket
 artists:
 - TakeOff
+external_ids:
+  spotify: spotify:track:66XXCMX3Na7KNfm5e0tOVZ
 features: []
-genres: []
+first_released_as_single: true
 key: last-memory-takeoff
 lyrics_url: https://www.azlyrics.com/lyrics/takeoff/lastmemory.html
 name: Last Memory
@@ -15,8 +18,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 171270
 ---
-
 (MonstaBeatz)
 
 Woke up this morning can't remember nothing
@@ -87,6 +91,3 @@ I go to space with the stars (Stars)
 Might smoke a blunt with my pilot (Cookie)
 Saturn, Moon, Earth, and Mars (Mars)
 NASA takeoff with the rocket (NASA)
-
-
-

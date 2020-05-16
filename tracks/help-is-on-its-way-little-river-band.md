@@ -1,8 +1,11 @@
 ---
+album: Diamantina Cocktail
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:64RnIqEMPUPx3MTzPwcfKO
 features: []
-genres: []
+first_released_as_single: false
 key: help-is-on-its-way-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/helpisonitsway.html
 name: Help Is On Its Way
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 247506
 ---
-
 Why are you in so much hurry
 Is it really worth the worry
 Look around
@@ -151,6 +155,3 @@ Hang on, help is on its way
 I'll be there as fast as I can
 Hang on, a tiny voice did say
 From somewhere deep inside the inner man
-
-
-

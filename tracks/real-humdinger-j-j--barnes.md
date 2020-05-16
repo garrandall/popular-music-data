@@ -1,8 +1,11 @@
 ---
+album: JJ Barnes is Northern Soul
 artists:
 - J.J. Barnes
+external_ids:
+  spotify: spotify:track:6N5S5zo5l63PEmuhyCbwjl
 features: []
-genres: []
+first_released_as_single: false
 key: real-humdinger-j-j--barnes
 lyrics_url: https://genius.com/Jj-barnes-real-humdinger-lyrics
 name: Real Humdinger
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 317026
 ---
 (Real humdinger) yeah
 (Real humdinger)

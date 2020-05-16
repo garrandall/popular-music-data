@@ -1,8 +1,11 @@
 ---
+album: The Edward Bear Collection
 artists:
 - Edward Bear
+external_ids:
+  spotify: spotify:track:6TrN11JReoddt2kXtx602X
 features: []
-genres: []
+first_released_as_single: false
 key: you-me-and-mexico-edward-bear
 lyrics_url: https://genius.com/Edward-bear-you-me-and-mexico-lyrics
 name: You Me And Mexico
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 170440
 ---
 It's been a long time since I've even bothered you
 It's been a long time since I realized that you weren't there

@@ -1,8 +1,11 @@
 ---
+album: 'The Archies: Greatest Hits'
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:6l5D1WC6kR5cxaUOEyCGvs
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-sugar-the-archies
 lyrics_url: https://www.musixmatch.com/lyrics/The-Archies/Sugar-Sugar-1
 name: Sugar Sugar
@@ -95,6 +98,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1968
+runtime: 163715
 ---
 Sugar
 Ah, honey, honey

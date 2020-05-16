@@ -1,8 +1,11 @@
 ---
+album: Storm Front
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:39cFQHfY6tsdMRmSbFse3X
 features: []
-genres: []
+first_released_as_single: false
 key: the-downeaster--alexa--billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/thedowneasteralexa.html
 name: The Downeaster "Alexa"
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1989
+runtime: 223266
 ---
-
 Well I'm on the Downeaster Alexa
 And I'm cruising through Block Island Sound
 I have charted a course to the Vineyard
@@ -78,7 +82,4 @@ Can't make a living as a bayman anymore
 There ain't much future for a man who works the sea
 But there ain't no island left for islanders like me
 
-Yea yea yea oh 
-
-
-
+Yea yea yea oh

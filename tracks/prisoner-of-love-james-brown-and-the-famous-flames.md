@@ -1,8 +1,12 @@
 ---
+album: Prisoner Of Love
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+features:
+- The Famous Flames
+external_ids:
+  spotify: spotify:track:3bRY8rf0zDJdfc5krsSp4C
+first_released_as_single: false
 key: prisoner-of-love-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-prisoner-of-love-live-at-the-apollo-theater-1967-lyrics
 name: Prisoner Of Love
@@ -51,6 +55,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 141893
 ---
 Alone from night to night you'll find me
 Thank you

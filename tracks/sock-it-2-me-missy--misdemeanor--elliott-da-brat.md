@@ -1,9 +1,12 @@
 ---
+album: Supa Dupa Fly
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:08bn759cPYICtUPoYx29P0
 features:
 - Da Brat
-genres: []
+first_released_as_single: false
 key: sock-it-2-me-missy--misdemeanor--elliott-da-brat
 lyrics_url: https://genius.com/Missy-elliott-sock-it-2-me-lyrics
 name: Sock It 2 Me
@@ -88,6 +91,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 257466
 ---
 Hehe, nigga
 I'm nasty

@@ -1,8 +1,11 @@
 ---
+album: The Politics of Dancing (Expanded)
 artists:
 - Re-flex
+external_ids:
+  spotify: spotify:track:4vLL9wYgNQbBDIoZ9Rvp95
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-re-flex
 lyrics_url: https://genius.com/Re-flex-hurt-lyrics
 name: Hurt
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1983
+runtime: 308533
 ---
 I keep my love in a paper bag
 I've got to hide it away

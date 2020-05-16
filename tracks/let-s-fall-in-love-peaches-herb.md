@@ -1,9 +1,12 @@
 ---
+album: Let's Fall In Love
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:7l9DlqEWqgKVDIzWIeoObf
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-fall-in-love-peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-lets-fall-in-love-lyrics
 name: Let's Fall In Love
@@ -56,6 +59,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1966
+runtime: 156781
 ---
 Let's fall in love
 

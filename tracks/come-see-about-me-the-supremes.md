@@ -1,8 +1,11 @@
 ---
+album: Where Did Our Love Go
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:307kcWJQNMdiYYKj1LgClU
 features: []
-genres: []
+first_released_as_single: false
 key: come-see-about-me-the-supremes
 lyrics_url: https://genius.com/The-supremes-come-see-about-me-lyrics
 name: Come See About Me
@@ -63,6 +66,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1964
+runtime: 163093
 ---
 I've been crying (Oh, oh
 'Cause I'm lonely (For you)

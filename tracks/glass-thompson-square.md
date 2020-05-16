@@ -1,8 +1,11 @@
 ---
+album: Thompson Square
 artists:
 - Thompson Square
+external_ids:
+  spotify: spotify:track:1jhgT2iu9vcwQy0ukJ8fgW
 features: []
-genres: []
+first_released_as_single: false
 key: glass-thompson-square
 lyrics_url: https://www.azlyrics.com/lyrics/thompsonsquare/glass.html
 name: Glass
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2011
+runtime: 231680
 ---
-
 Trying to live and love,
 With a heart that can't be broken,
 Is like trying to see the light with eyes that can't be opened.
@@ -89,6 +93,3 @@ We are fragile, we are human,
 And we are shaped by the light we let through us,
 We break fast, cause we are glass.
 We are glass.
-
-
-

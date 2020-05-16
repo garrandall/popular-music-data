@@ -1,8 +1,11 @@
 ---
+album: "Chess Soul: A Decade Of Chicago\u2019s Finest"
 artists:
 - The Radiants
+external_ids:
+  spotify: spotify:track:31dHt2zr4E9aBgLqLrkncq
 features: []
-genres: []
+first_released_as_single: false
 key: voice-your-choice-the-radiants
 lyrics_url: https://genius.com/The-radiants-voice-your-choice-lyrics
 name: Voice Your Choice
@@ -43,6 +46,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 155306
 ---
 Voice your choice
 Voice your choice

@@ -1,8 +1,11 @@
 ---
+album: Keith Sweat
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:69QIVIjPMnI1ABLBqh9P1b
 features: []
-genres: []
+first_released_as_single: false
 key: twisted-keith-sweat
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/twisted.html
 name: Twisted
@@ -159,8 +162,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 260666
 ---
-
 Oh yeah baby
 You got to make your mind up
 Yeah, Kut Klose, help me out
@@ -203,4 +207,3 @@ You left me all alone now I can't even concentrate
 I guess I'll wait for the day until you come back
 Because my heart is where your love is at
 You got me twisted
-

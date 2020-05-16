@@ -1,8 +1,11 @@
 ---
+album: Trapt
 artists:
 - Trapt
+external_ids:
+  spotify: spotify:track:1AEYT6VxrxXPMoQUxsY0E4
 features: []
-genres: []
+first_released_as_single: false
 key: headstrong-trapt
 lyrics_url: https://www.azlyrics.com/lyrics/trapt/headstrong.html
 name: Headstrong
@@ -179,8 +182,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2002
+runtime: 285569
 ---
-
 Circling your, circling your, circling your head
 Contemplating everything you ever said
 Now I see the truth, I got doubt
@@ -218,4 +222,3 @@ I see your motives inside, decisions to hide
 
 I know, I know all about
 I know, I know all about your motives inside, and your decision to hide
-

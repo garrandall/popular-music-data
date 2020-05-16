@@ -1,9 +1,12 @@
 ---
+album: LIFE'S A TRIP
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:3YeJXuRSNS5FYwOsDu44kD
 features:
 - Travis Scott
-genres: []
+first_released_as_single: true
 key: dark-knight-dummo-trippie-redd-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/darkknightdummo.html
 name: Dark Knight Dummo
@@ -36,9 +39,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 256162
 ---
-
-
 Oh my God
 Honorable C.N.O.T.E
 Oh my God
@@ -115,6 +118,3 @@ I pulled up in a drop top, she drop dead
 My diamonds dancing, hopscotch, they holding hands
 My diamonds dancing, hopscotch, they holding hands
 Yeah
-
-
-

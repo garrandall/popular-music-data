@@ -1,8 +1,11 @@
 ---
+album: LOU CHRISTIE "LIVE FROM THE BOTTOM LINE"
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:43QHyN5OWllcZNmkH0jJRA
 features: []
-genres: []
+first_released_as_single: false
 key: rhapsody-in-the-rain-lou-christie
 lyrics_url: https://genius.com/Lou-christie-rhapsody-in-the-rain-lyrics
 name: Rhapsody In The Rain
@@ -39,6 +42,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 171853
 ---
 Baby, the raindrops play for me
 A lonely rhapsody cause on our first date

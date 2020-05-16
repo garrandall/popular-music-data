@@ -1,8 +1,11 @@
 ---
+album: Hey Little One
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:1onF8Vd61HucuXFZml6SxH
 features: []
-genres: []
+first_released_as_single: false
 key: turn-around-look-at-me-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/turnaroundlookatme.html
 name: Turn Around Look At Me
@@ -47,8 +50,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 174560
 ---
-
 There is someone walking behind you
 Turn around, look at me
 There is someone watching your footsteps
@@ -74,6 +78,3 @@ Look at someone
 Who really loves you
 (Yeah, really loves you)
 Turn around, look at me
-
-
-

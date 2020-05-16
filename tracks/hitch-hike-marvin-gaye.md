@@ -1,8 +1,11 @@
 ---
+album: 'Recorded Live: Marvin Gaye On Stage'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4bxA4CZcO20ZUYxXlspmEY
 features: []
-genres: []
+first_released_as_single: false
 key: hitch-hike-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-hitch-hike-lyrics
 name: Hitch Hike
@@ -55,6 +58,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
+release_year: 1963
+runtime: 206533
 ---
 I'm going to Chicago; that's the last place my baby strayed
 (Hitch hike) Hitch hike (Hitch hike baby)

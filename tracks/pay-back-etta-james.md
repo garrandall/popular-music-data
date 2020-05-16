@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:1yal6iLzB19q1RufNTQv23
 features: []
-genres: []
+first_released_as_single: false
 key: pay-back-etta-james
 name: Pay Back
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 159000
 ---
 

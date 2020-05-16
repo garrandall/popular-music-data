@@ -1,8 +1,11 @@
 ---
+album: Five-A-Side
 artists:
 - Ace
+external_ids:
+  spotify: spotify:track:4AjKVyNUMdUveKK5OH1OJD
 features: []
-genres: []
+first_released_as_single: false
 key: how-long-ace
 lyrics_url: https://genius.com/Ace-how-long-lyrics
 name: How Long
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1974
+runtime: 204226
 ---
 How long has this been going on?
 How long has this been going on?

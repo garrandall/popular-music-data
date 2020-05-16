@@ -1,9 +1,12 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:222dTwr5XeEgAzEtsrQA0R
 features:
 - Nate Ruess
-genres: []
+first_released_as_single: false
 key: headlights-eminem-nate-ruess
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/headlights.html
 name: Headlights
@@ -40,9 +43,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2013
+runtime: 343032
 ---
-
-
 Mom, I know I let you down
 And though you say the days are happy
 Why is the power off, and I'm fucked up?
@@ -153,6 +156,3 @@ Headlights shining in the dark night I drive on
 Maybe we took this too far
 
 I want a new life
-
-
-

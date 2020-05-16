@@ -1,8 +1,11 @@
 ---
+album: Too Blind To See It
 artists:
 - Kym Sims
+external_ids:
+  spotify: spotify:track:5KhAzdjCDy6MZai1P0RJAe
 features: []
-genres: []
+first_released_as_single: false
 key: take-my-advice-kym-sims
 lyrics_url: https://www.musixmatch.com/lyrics/Kym-Sims/Take-My-Advice
 name: Take My Advice
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1992
+runtime: 283226
 ---
 (Hey...)
 

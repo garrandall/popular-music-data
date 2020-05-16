@@ -1,8 +1,11 @@
 ---
+album: Kinda Kinks
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:3sFnC76vUu0dtHUM5Z5bLL
 features: []
-genres: []
+first_released_as_single: false
 key: tired-of-waiting-for-you-the-kinks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kinks/Tired-of-Waiting-for-You
 name: Tired Of Waiting For You
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 149851
 ---
 So tired, tired of waiting
 Tired of waiting for you

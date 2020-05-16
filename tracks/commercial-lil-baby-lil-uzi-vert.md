@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:3tDqEKKUs6gf8zMvSuLyLA
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: commercial-lil-baby-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/commercial.html
 name: Commercial
@@ -16,8 +19,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 214214
 ---
-
 Tay Keith, this too hard
 Tay Keith, fuck these niggas up
 
@@ -130,6 +134,3 @@ Lotta bands on the table
 They say I went commercial, I ain't know it
 They want me catch a murder, I ain't goin' back
 Play myself on my opposition, who doin' that?
-
-
-

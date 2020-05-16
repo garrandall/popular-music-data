@@ -1,10 +1,13 @@
 ---
+album: The Spirit of '67
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:0HkFBtJT19oKGvK2nhs88Q
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: the-great-airplane-strike-paul-revere-the-raiders-mark-lindsay
 name: The Great Airplane Strike
 rankings:
@@ -40,5 +43,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 189213
 ---
 

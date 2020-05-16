@@ -1,9 +1,12 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4g32MdRoqwGKQd3NXIRhpU
 features:
 - Jessie Reyez
-genres: []
+first_released_as_single: false
 key: good-guy-eminem-jessie-reyez
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/goodguy.html
 name: Good Guy
@@ -12,9 +15,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 142192
 ---
-
-
 Here we go again from heroes to villains
 Used to be your Romeo but we both were jilted
 A couple of times, so we had a slippery slope to deal with
@@ -65,6 +68,3 @@ You can't beat a cheater, convince a nonbeliever
 I ain't in my feelings, I'm out but I let you say that you're the good guy
 They like, "You're the good guy," they like, they like
 They like, "You're the good guy"
-
-
-

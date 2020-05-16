@@ -1,8 +1,11 @@
 ---
+album: F*ck A Mixtape
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:4JGypFKEHrlufSjF8DPl9X
 features: []
-genres: []
+first_released_as_single: false
 key: yeah-ya-know--takers--t-i-
 lyrics_url: https://www.musixmatch.com/lyrics/T-I/Yeah-Ya-Know
 name: Yeah Ya Know (Takers)
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 249800
 ---
 Damn, has it been that long?
 Say, what happened since I been gone, homie?

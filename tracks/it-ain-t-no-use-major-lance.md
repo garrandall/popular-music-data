@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:6yDvUqNQe14h9WVQnoQC0z
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-no-use-major-lance
 lyrics_url: https://genius.com/Major-lance-it-aint-no-use-lyrics
 name: It Ain't No Use
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 166826
 ---
 What good are you to me
 When you found somebody else

@@ -1,8 +1,11 @@
 ---
+album: soulstar
 artists:
 - Musiq
+external_ids:
+  spotify: spotify:track:2s0DmFkinx9TZMFxAfn4lJ
 features: []
-genres: []
+first_released_as_single: false
 key: forthenight-musiq
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/forthenight.html
 name: Forthenight
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-02-28'
+release_year: 2003
+runtime: 229466
 ---
-
 Let's pretend for one night, I'm the man in your life
 And we do the things that lovers do
 All the loving u like 
@@ -124,6 +128,3 @@ I like it (I like it)
 I love it (I love it)
 It feels good to me (it feels good to me)
 So good to me (so good to me)
-
-
-

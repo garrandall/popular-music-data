@@ -1,8 +1,11 @@
 ---
+album: 75 At 75
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:0pDAuaAcfmfz7OWtYqHkW5
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-lonely-one-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-im-the-lonely-one-lyrics
 name: I'm The Lonely One
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 140306
 ---
 Well, you don't know how much you mean to me
 I said goodbye, I left you there to cry

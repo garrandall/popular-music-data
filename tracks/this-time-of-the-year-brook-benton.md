@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:1TakWmf3uJ8jUPGHOILkHG
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-of-the-year-brook-benton
 lyrics_url: https://genius.com/Brook-benton-this-time-of-the-year-lyrics
 name: This Time Of The Year
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 149466
 ---
 Christmas always comes this time of the year
 

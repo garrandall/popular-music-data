@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:3VttbBwsNHRqP9fARhy7LD
 features: []
-genres: []
+first_released_as_single: false
 key: james--hold-the-ladder-steady--sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-james-hold-the-ladder-steady-lyrics
 name: James (Hold The Ladder Steady)
@@ -47,6 +50,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1961
+runtime: 133200
 ---
 James, James hold the ladder steady
 James, James I'm packed tonight I'm ready

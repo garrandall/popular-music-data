@@ -1,8 +1,11 @@
 ---
+album: God's Son
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:3qRPc4QpHGNwKFAzCdqwxA
 features: []
-genres: []
+first_released_as_single: false
 key: made-you-look-nas
 lyrics_url: https://genius.com/Nas-made-you-look-lyrics
 name: Made You Look
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 203000
 ---
 Bravehearts, Bravehearts, Bravehearts…
 

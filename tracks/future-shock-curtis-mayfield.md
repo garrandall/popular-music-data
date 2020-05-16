@@ -1,8 +1,11 @@
 ---
+album: Back To The World
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:2sJ0dw9o8Cb4o5kpCLrxRj
 features: []
-genres: []
+first_released_as_single: false
 key: future-shock-curtis-mayfield
 lyrics_url: https://www.azlyrics.com/lyrics/curtismayfield/futureshock.html
 name: Future Shock
@@ -47,8 +50,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 320533
 ---
-
 Future shock
 
 Hey, little sister, where's your brother?
@@ -88,6 +92,3 @@ When won't we understand this is our last and only chance
 Everybody, it's a future shock
 Future shock, future shock
 Future shock, future shock
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:2Qhvi6R73Zj3cpzRYzcAww
 features: []
-genres: []
+first_released_as_single: false
 key: honey-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/honey.html
 name: Honey
@@ -67,8 +70,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 238733
 ---
-
 See the tree, how big it's grown
 But friend, it hasn't been too long it wasn't big
 I laughed at her and she got mad
@@ -123,6 +127,3 @@ And see the tree, how big it's grown
 But friend, it hasn't been too long, it wasn't big
 And I laughed at her, she got mad
 The first day that she planted it, was just a twig
-
-
-

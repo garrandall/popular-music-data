@@ -1,10 +1,13 @@
 ---
+album: Savage Life 2 (Explicit Version)
 artists:
 - Webbie
+external_ids:
+  spotify: spotify:track:65D95SmygxGCQGiI64eaZf
 features:
 - Lil' Phat
 - Lil' Boosie
-genres: []
+first_released_as_single: false
 key: independent-webbie-lil--phat-lil--boosie
 lyrics_url: https://www.azlyrics.com/lyrics/webbie/independent.html
 name: Independent
@@ -109,9 +112,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-05-24'
+release_year: 2007
+runtime: 250026
 ---
-
-
 Independent do you know what that mean?
 She got to her own house
 She got her own car
@@ -183,4 +186,3 @@ I got independent dimes on my mind...who spoil me
 Gucci hat...Gucci fit so sick
 That's a gift from my independent chick that serve
 Tryna get me next to her gotta be yourself mayne 'cause she got her own money she don't need no help mayne.
-

@@ -1,9 +1,12 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:2cZrrQMjB63c0iIugYH9zS
 features:
 - Marc Anthony
-genres: []
+first_released_as_single: false
 key: rain-over-me-pitbull-marc-anthony
 lyrics_url: https://genius.com/Cover-nation-rain-over-me-tribute-to-pitbull-ft-marc-anthony-performed-by-cover-nation-lyrics
 name: Rain Over Me
@@ -84,6 +87,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2011
+runtime: 231573
 ---
 Girl my body don't lie
 I'm outta my mind

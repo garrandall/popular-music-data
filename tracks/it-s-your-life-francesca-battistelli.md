@@ -1,8 +1,11 @@
 ---
+album: My Paper Heart
 artists:
 - Francesca Battistelli
+external_ids:
+  spotify: spotify:track:49MBX6Un597xDasqAcgN4G
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-your-life-francesca-battistelli
 lyrics_url: https://www.azlyrics.com/lyrics/francescabattistelli/itsyourlife.html
 name: It's Your Life
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2008
+runtime: 171933
 ---
-
 This is the moment
 It's on the line
 Which way you gonna fall?
@@ -40,4 +44,3 @@ Tell me when did you forget
 To live the way that you believe
 This is your opportunity
 To let your life be one that lights the way
-

@@ -1,8 +1,11 @@
 ---
+album: Long Lonesome Highway
 artists:
 - Michael Parks
+external_ids:
+  spotify: spotify:track:7qHGRefOGiaPqrG4IEckcv
 features: []
-genres: []
+first_released_as_single: false
 key: long-lonesome-highway-michael-parks
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Parks/Long-Lonesome-Highway
 name: Long Lonesome Highway
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 128280
 ---
 Going down that long lonesome highway
 Bound for the mountains and the plains

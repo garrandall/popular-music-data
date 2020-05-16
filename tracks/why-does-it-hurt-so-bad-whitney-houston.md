@@ -1,8 +1,11 @@
 ---
+album: Waiting To Exhale
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:7hbUoBUewDxW0Pceqxw3g2
 features: []
-genres: []
+first_released_as_single: false
 key: why-does-it-hurt-so-bad-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/whydoesithurtsobad.html
 name: Why Does It Hurt So Bad
@@ -87,9 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
+release_year: 1995
+runtime: 278026
 ---
-
-
 Why does it hurt so bad 
 Why do I feel so sad 
 Thought I was over you 
@@ -156,6 +159,3 @@ Hurts so bad (hurt me so, gotta shoop now, hey hey hey hey)
 Hurts so bad (Hurts me so) 
 Oh why, you hurt me so bad 
 Bad... (how bout that?)
-
-
-

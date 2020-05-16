@@ -1,8 +1,11 @@
 ---
+album: Phobia (Clean Version)
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:4JXfNOePhdgMOI7KZ1L25U
 features: []
-genres: []
+first_released_as_single: false
 key: breath-breaking-benjamin
 lyrics_url: https://genius.com/Breaking-benjamin-breath-lyrics
 name: Breath
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2006
+runtime: 218466
 ---
 I see nothing in your eyes
 And the more I see the less I like

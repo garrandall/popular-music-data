@@ -1,8 +1,11 @@
 ---
+album: Horace Brown
 artists:
 - Horace Brown
+external_ids:
+  spotify: spotify:track:4jw4BotdO2WfbF0U1J7mXc
 features: []
-genres: []
+first_released_as_single: false
 key: one-for-the-money-horace-brown
 lyrics_url: https://genius.com/Horace-brown-one-for-the-money-lyrics
 name: One For The Money
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
+release_year: 1996
+runtime: 265466
 ---
 One for the money ("one, one, one one")
 Two for the show ("two, two, two two ")

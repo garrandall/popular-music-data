@@ -1,8 +1,11 @@
 ---
+album: Presenting the Fabulous Ronettes Featuring Veronica
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:2rdZT6OxSxNvr3UrZCIgCb
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-you-the-ronettes
 lyrics_url: https://genius.com/The-ronettes-baby-i-love-you-lyrics
 name: Baby I Love You
@@ -43,6 +46,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 169453
 ---
 Whoa-oh, whoa-oh oh oh
 Have I ever told you

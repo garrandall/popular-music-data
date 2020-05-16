@@ -1,8 +1,11 @@
 ---
+album: A Man Needs a Woman
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:7amcuXoCkjbuGwzS1Uatj6
 features: []
-genres: []
+first_released_as_single: false
 key: the-dark-end-of-the-street-james-carr
 lyrics_url: https://genius.com/James-carr-the-dark-end-of-the-street-lyrics
 name: The Dark End Of The Street
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 154453
 ---
 At the dark end of the street
 That's where we always meet

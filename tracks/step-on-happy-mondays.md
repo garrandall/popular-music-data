@@ -1,8 +1,11 @@
 ---
+album: Pills 'N' Thrills And Bellyaches
 artists:
 - Happy Mondays
+external_ids:
+  spotify: spotify:track:4gAU0cHQJFxj1n2ZDiEIzG
 features: []
-genres: []
+first_released_as_single: false
 key: step-on-happy-mondays
 lyrics_url: https://genius.com/Happy-mondays-step-on-lyrics
 name: Step On
@@ -47,6 +50,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
+release_year: 1990
+runtime: 318506
 ---
 You're twistin' my melon man, you know you talk so hip man
 You're twistin' my melon man ... Call the cops!

@@ -1,9 +1,12 @@
 ---
+album: Instant Vintage
 artists:
 - Raphael Saadiq
+external_ids:
+  spotify: spotify:track:7x6ev0H9OAmvuDnyuItBZS
 features:
 - D'Angelo
-genres: []
+first_released_as_single: false
 key: be-here-raphael-saadiq-d-angelo
 lyrics_url: https://genius.com/Raphael-saadiq-be-here-lyrics
 name: Be Here
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2002
+runtime: 228973
 ---
 (You should be here)
 You should really be here with me, baby

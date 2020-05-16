@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:5M7qj3MkvGK36ZAPP89euN
 features: []
-genres: []
+first_released_as_single: false
 key: any-day-now--my-wild-beautiful-bird--chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-any-day-now-lyrics
 name: Any Day Now (My Wild Beautiful Bird)
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 201466
 ---
 Any day now, I will hear you say
 "Goodbye, my love."

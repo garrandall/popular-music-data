@@ -1,8 +1,11 @@
 ---
+album: Play On
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:1Fo2N5iXRi37maMboaig7O
 features: []
-genres: []
+first_released_as_single: false
 key: undo-it-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/undoit.html
 name: Undo It
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2009
+runtime: 177253
 ---
-
 I should have known by the way you passed me by
 There was something in your eyes and it wasn't right
 I should have walked, but I never had the chance
@@ -149,6 +153,3 @@ You stole my happy, you made me cry
 Took the lonely and took me for a ride
 Boy you blew it, you put me through it
 I wanna uh-uh-uh-uh-uh-undo it
-
-
-

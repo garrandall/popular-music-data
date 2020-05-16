@@ -1,9 +1,12 @@
 ---
+album: A Star Is Born Soundtrack
 artists:
 - Lady Gaga
 - Bradley Cooper
+external_ids:
+  spotify: spotify:track:2VxeLyX666F8uXCJ0dZF8B
 features: []
-genres: []
+first_released_as_single: false
 key: shallow-lady-gaga-bradley-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/shallow.html
 name: Shallow
@@ -188,9 +191,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2018
+runtime: 215733
 ---
-
-
 Tell me somethin' girl
 Are you happy in this modern world?
 Or do you need more?
@@ -235,6 +238,3 @@ In the sha-ha-sha-ha-low
 In the sha-ha-sha-la-la-la-low
 In the sha-ha-sha-ha-ha-low
 We're far from the shallow now
-
-
-

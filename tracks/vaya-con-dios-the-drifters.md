@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:0InNB7XxKf6hEBMWki1Mrf
 features: []
-genres: []
+first_released_as_single: false
 key: vaya-con-dios-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/vayacondiosmaygodbewithyou.html
 name: Vaya Con Dios
@@ -35,8 +38,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1964
+runtime: 198080
 ---
-
 Vaya con dios, my darlin'
 Vaya con dios, vaya con dios, my love
 
@@ -67,6 +71,3 @@ Whoa, whoa, whoa
 Whoa, vaya con dios, vaya con dios, my love
 Whoa, vaya con dios, vaya con dios, my love
 Whoa, vaya con dios, vaya con dios, my love
-
-
-

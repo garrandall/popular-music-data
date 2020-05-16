@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5ELjkugmdkiOZNFJ0CM3jG
 features: []
-genres: []
+first_released_as_single: false
 key: 444-222-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/444222.html
 name: 444+222
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-09-30'
+release_year: 2017
+runtime: 247347
 ---
-
 Okay I'm ready
 
 Breathe in, breathe in
@@ -144,6 +148,3 @@ No I can't wait need it right now
 Get guap only ones, what she like now
 Count it up from the morning to the night now
 That's the reason that niggas wanna fight now
-
-
-

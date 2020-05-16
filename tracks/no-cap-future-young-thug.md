@@ -1,9 +1,12 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
 - Young Thug
+external_ids:
+  spotify: spotify:track:06Gyf2pFDVmN5K8XAawG96
 features: []
-genres: []
+first_released_as_single: false
 key: no-cap-future-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/future/nocap.html
 name: No Cap
@@ -12,8 +15,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 144142
 ---
-
 Southside on the track, yeah
 
 
@@ -78,6 +82,3 @@ I send my Ethiopian to go pray at the temple
 I flood her heart with diamonds, just to pray, it's so expensive
 She tasting holy water, so, for me, it's beneficial
 She caught the holy ghost when I gave her the presidential
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Unpredictable
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:3UNrtRxBBlWE70SjxnOo02
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: unpredictable-jamie-foxx-ludacris
 lyrics_url: https://genius.com/Jamie-foxx-unpredictable-lyrics
 name: Unpredictable
@@ -96,6 +99,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2006-04-29'
+release_year: 2005
+runtime: 219866
 ---
 Yeah ladies I know you tired of the same old thing
 Things have become so mundane

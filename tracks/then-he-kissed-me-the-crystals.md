@@ -1,8 +1,11 @@
 ---
+album: The Crystals
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:0fr18yCJmgyhLk0tXyZwRM
 features: []
-genres: []
+first_released_as_single: false
 key: then-he-kissed-me-the-crystals
 lyrics_url: https://genius.com/The-crystals-then-he-kissed-me-lyrics
 name: Then He Kissed Me
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 151600
 ---
 Well he walked up to me
 And he asked me if I wanted to dance

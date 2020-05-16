@@ -1,8 +1,11 @@
 ---
+album: I'm Not Dead
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:7uYl7xgDeAOHP98obvrJvB
 features: []
-genres: []
+first_released_as_single: false
 key: who-knew-p-nk
 lyrics_url: https://genius.com/P-nk-who-knew-lyrics
 name: Who Knew
@@ -151,6 +154,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2006
+runtime: 208493
 ---
 You took my hand, you showed me how
 You promised me you'd be around

@@ -1,8 +1,11 @@
 ---
+album: Toys In The Attic
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:24NwBd5vZ2CK8VOQVnqdxr
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-emotion-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/sweetemotion.html
 name: Sweet Emotion
@@ -39,8 +42,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
+release_year: 1975
+runtime: 274133
 ---
-
 Sweet emotion
 Sweet emotion
 
@@ -67,6 +71,3 @@ Standin' in the front just a-shakin' your ass
 I take you backstage you can drink from my glass
 I talk about something you can sure understand
 'Cause a month on the road and I'll be eatin' from your hand
-
-
-

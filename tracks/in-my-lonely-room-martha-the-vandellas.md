@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Martha Reeves & The Vandellas'
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3wYaOAHDPznk2vqSJZ6XCr
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-lonely-room-martha-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-in-my-lonely-room-lyrics
 name: In My Lonely Room
@@ -32,6 +35,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 149200
 ---
 Every single time
 You take me out with you

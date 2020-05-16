@@ -1,8 +1,11 @@
 ---
+album: Duran Duran
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:3DMO3orHyVwheG0Adbg8Ox
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-information-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/toomuchinformation.html
 name: Too Much Information
@@ -51,8 +54,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-11-13'
+release_year: 1993
+runtime: 295960
 ---
-
 Destroyed by MTV,
 I hate to bite the hand that
 Feeds me so much information
@@ -121,6 +125,3 @@ Got to give in to me
 Now I'm on the line
 
 I try...
-
-
-

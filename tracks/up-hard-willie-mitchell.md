@@ -1,8 +1,11 @@
 ---
+album: Solid Soul
 artists:
 - Willie Mitchell
+external_ids:
+  spotify: spotify:track:7F5r8CWyMTRXbRZyhVweZX
 features: []
-genres: []
+first_released_as_single: false
 key: up-hard-willie-mitchell
 name: Up-Hard
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 133440
 ---
 

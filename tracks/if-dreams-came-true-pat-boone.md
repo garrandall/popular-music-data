@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:3bOkX6Yz6Pe4NByWzuJY6G
 features: []
-genres: []
+first_released_as_single: false
 key: if-dreams-came-true-pat-boone
 lyrics_url: https://genius.com/Pat-boone-if-dreams-came-true-lyrics
 name: If Dreams Came True
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-10-06'
+release_year: 1958
+runtime: 162306
 ---
 Oh my darling, oh my lover
 

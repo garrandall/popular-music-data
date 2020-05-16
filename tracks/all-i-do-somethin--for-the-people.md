@@ -1,8 +1,11 @@
 ---
+album: This Time It's Personal
 artists:
 - Somethin' For The People
+external_ids:
+  spotify: spotify:track:7gF0J2ixqSDWlOEDnQD1Wo
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-do-somethin--for-the-people
 lyrics_url: https://genius.com/Somethin-for-the-people-all-i-do-lyrics
 name: All I Do
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
+release_year: 1997
+runtime: 304360
 ---
 Aight now roll the track
 Ugh yeah

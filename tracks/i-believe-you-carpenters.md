@@ -1,8 +1,11 @@
 ---
+album: Made In America
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:1rzCLw4kDialEipO0Ud8tz
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-you-carpenters
 lyrics_url: https://www.musixmatch.com/lyrics/Carpenters/I-Believe-You
 name: I Believe You
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
+release_year: 1978
+runtime: 234426
 ---
 Believe you
 When you say that you will reach into the sky

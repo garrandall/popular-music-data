@@ -1,8 +1,11 @@
 ---
+album: Affirmation
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:33kEjnns0GusmOcsM9fg3Q
 features: []
-genres: []
+first_released_as_single: false
 key: crash-and-burn-savage-garden
 lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/crashandburn.html
 name: Crash And Burn
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 1995
+runtime: 229933
 ---
-
 When you feel all alone
 And the world has turned its back on you
 Give me a moment please to tame your wild wild heart
@@ -135,6 +139,3 @@ If you need to fall apart
 I can mend a broken heart
 If you need to crash then crash and burn
 You're not alone
-
-
-

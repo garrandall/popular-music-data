@@ -1,8 +1,11 @@
 ---
+album: Western Union
 artists:
 - The Five Americans
+external_ids:
+  spotify: spotify:track:3DAIIHohlSQh3bUtZK0u2u
 features: []
-genres: []
+first_released_as_single: false
 key: sound-of-love-the-five-americans
 name: Sound Of Love
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 144146
 ---
 

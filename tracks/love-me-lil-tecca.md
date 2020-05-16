@@ -1,8 +1,11 @@
 ---
+album: We Love You Tecca
 artists:
 - Lil Tecca
+external_ids:
+  spotify: spotify:track:4e0FYxSROat25pH16zMTZI
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-lil-tecca
 lyrics_url: https://genius.com/Lil-tecca-love-me-lyrics
 name: Love Me
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 117013
 ---
 Yeah, I know you see the drip and you like it
 Wanna text me, but your pride tryna fight it

@@ -1,8 +1,11 @@
 ---
+album: Strangest Places
 artists:
 - Abra Moore
+external_ids:
+  spotify: spotify:track:69Icug2F3NaW6jiCrhHPMf
 features: []
-genres: []
+first_released_as_single: false
 key: four-leaf-clover-abra-moore
 lyrics_url: https://genius.com/Abra-moore-four-leaf-clover-lyrics
 name: Four Leaf Clover
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1997
+runtime: 213840
 ---
 He's got the best of me
 It's such a price to pay

@@ -1,8 +1,11 @@
 ---
+album: Torches
 artists:
 - Foster The People
+external_ids:
+  spotify: spotify:track:4HRa9ZWcmZ8JD7UySPu0wT
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop--color-on-the-walls--foster-the-people
 lyrics_url: https://genius.com/Foster-the-people-dont-stop-lyrics
 name: Don't Stop (Color On The Walls)
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
+release_year: 2011
+runtime: 174920
 ---
 Walk little walk
 Small talk big thoughts

@@ -1,8 +1,11 @@
 ---
+album: LFO
 artists:
 - LFO
+external_ids:
+  spotify: spotify:track:4DJwdQDai9DLYBL9TNrEDo
 features: []
-genres: []
+first_released_as_single: false
 key: girl-on-tv-lfo
 lyrics_url: https://www.azlyrics.com/lyrics/lfo/girlontv.html
 name: Girl On TV
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1999
+runtime: 247600
 ---
-
 Oh,Yeahhhh,I'm wishin' on a fallin' star,
 wonderin' where you are...I wish...
 
@@ -132,4 +136,3 @@ For a better day,To the beach shore and scooby snacks,
 I met a fly girl and I can't relax,
 Never had to be on a movie screen
 Cause she's the leading lady in all my dreams,I wish
-

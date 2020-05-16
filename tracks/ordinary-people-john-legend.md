@@ -1,8 +1,11 @@
 ---
+album: Get Lifted
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:2ZA4uMlSZjaoWGFqP1tsLI
 features: []
-genres: []
+first_released_as_single: false
 key: ordinary-people-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/ordinarypeople.html
 name: Ordinary People
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
+release_year: 2005
+runtime: 281466
 ---
-
 Girl, I'm in love with you
 This ain't the honeymoon
 Past the infatuation phase
@@ -166,6 +170,3 @@ Take it slow, slow
 This time we'll take it slow
 Take it slow
 This time we'll take it slow
-
-
-

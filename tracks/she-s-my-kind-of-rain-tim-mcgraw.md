@@ -1,8 +1,11 @@
 ---
+album: Tim McGraw And The Dancehall Doctors
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:599y8O5L7DicaGwm1KUdrX
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-my-kind-of-rain-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-shes-my-kind-of-rain-lyrics
 name: She's My Kind Of Rain
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-07-12'
+release_year: 2002
+runtime: 255973
 ---
 She's my kind of rain
 Like love in a drunken sky

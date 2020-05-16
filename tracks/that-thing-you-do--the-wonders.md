@@ -1,8 +1,11 @@
 ---
+album: That Thing You Do! Original Motion Picture Soundtrack
 artists:
 - The Wonders
+external_ids:
+  spotify: spotify:track:4O6ZaZrRCFfiZZKjnrXqlk
 features: []
-genres: []
+first_released_as_single: false
 key: that-thing-you-do--the-wonders
 lyrics_url: https://genius.com/The-wonders-that-thing-you-do-lyrics
 name: That Thing You Do!
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 166773
 ---
 You
 Doing that thing you do

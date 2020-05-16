@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1Wsbr1d2BouNGk2q92mIj7
 features: []
-genres: []
+first_released_as_single: false
 key: pt-2-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/idk/hellopt2kanyewestfamousfreestyle.html
 name: Pt 2
@@ -19,9 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2016
+runtime: 130293
 ---
-
-
 Man I can understand how it might be
 Kinda hard to love a girl like me
 I don't blame you much for wanting to be free
@@ -101,6 +104,3 @@ What a bam
 Let me see your middle finger in the air
 Bam bam 'ey 'ey 'ey
 Bam bam bam, bam bam dilla
-
-
-

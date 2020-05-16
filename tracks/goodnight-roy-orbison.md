@@ -1,8 +1,11 @@
 ---
+album: The Soul of Rock And Roll
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:63W5utSNaHPHm2hWD4jF7u
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/goodnight.html
 name: Goodnight
@@ -35,8 +38,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 148760
 ---
-
 My Lovely woman child 
 I found you out running wild with someone new 
 You've been untrue, And everybody knows we're through 
@@ -59,6 +63,3 @@ Goodnight turned out to be a lie
 And I can't help it if I cry 
 Goodnight my love, Sleep tight my love 
 Goodnight
-
-
-

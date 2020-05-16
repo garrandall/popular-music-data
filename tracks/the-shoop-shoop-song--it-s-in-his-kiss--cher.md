@@ -1,8 +1,11 @@
 ---
+album: Love Hurts
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:472zDwHK1A4kAcsIq0M2L3
 features: []
-genres: []
+first_released_as_single: false
 key: the-shoop-shoop-song--it-s-in-his-kiss--cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/theshoopshoopsongitsinhiskiss.html
 name: The Shoop Shoop Song (It's In His Kiss)
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 171933
 ---
-
 Does he love me I want to know
 How can I tell if he loves me so
 Is it in his eyes?
@@ -128,6 +132,3 @@ It's in his kiss
 That's where it is
 It's in his kiss
 That's where it is
-
-
-

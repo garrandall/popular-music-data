@@ -1,8 +1,11 @@
 ---
+album: Tymes Up
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:5a57mdQCGjcjLsJIxyl61v
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-cool-the-tymes
 name: It's Cool
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 219933
 ---
 

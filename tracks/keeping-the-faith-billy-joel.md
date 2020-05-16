@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3nulzAA8PNw1nZcUbrNxcf
 features: []
-genres: []
+first_released_as_single: false
 key: keeping-the-faith-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/keepingthefaith.html
 name: Keeping The Faith
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1983
+runtime: 279000
 ---
-
 If it seems like I've been lost
 In let's remember
 If you think I'm feeling older
@@ -158,6 +162,3 @@ Yeah, yeah, yeah, yeah
 Keeping the faith
 I'm keeping the faith,
 Yes I am
-
-
-

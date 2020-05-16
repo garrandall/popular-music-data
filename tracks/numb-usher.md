@@ -1,8 +1,11 @@
 ---
+album: Looking 4 Myself
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:0IGqnANwfZgUFpoPRXQxFj
 features: []
-genres: []
+first_released_as_single: false
 key: numb-usher
 lyrics_url: https://genius.com/Usher-numb-lyrics
 name: Numb
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-11-17'
+release_year: 2012
+runtime: 225520
 ---
 They say life is a battlefield
 I say bring it on

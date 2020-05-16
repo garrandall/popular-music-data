@@ -1,8 +1,11 @@
 ---
+album: The Essential Mary Chapin Carpenter
 artists:
 - Mary Chapin Carpenter
+external_ids:
+  spotify: spotify:track:4CzyLocgGmnRxSlHaKvYGB
 features: []
-genres: []
+first_released_as_single: false
 key: passionate-kisses-mary-chapin-carpenter
 lyrics_url: https://www.azlyrics.com/lyrics/marychapincarpenter/passionatekisses.html
 name: Passionate Kisses
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1989
+runtime: 201906
 ---
-
 Is it too much to ask
 I want a comfortable bed that won't hurt my back
 Food to fill me up
@@ -91,6 +95,3 @@ Passionate kisses from you
 Passionate kisses
 Passionate kisses, whoa oh oh
 Passionate kisses from you
-
-
-

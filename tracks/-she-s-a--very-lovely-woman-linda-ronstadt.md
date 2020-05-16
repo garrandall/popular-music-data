@@ -1,8 +1,11 @@
 ---
+album: Live at the Boarding House, San Francisco
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:094pKgWPUGeSYnNohXR9Zo
 features: []
-genres: []
+first_released_as_single: false
 key: -she-s-a--very-lovely-woman-linda-ronstadt
 lyrics_url: https://www.musixmatch.com/lyrics/Dolly-Parton-Linda-Ronstadt/She-s-a-Very-Lovely-Woman
 name: (She's A) Very Lovely Woman
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1971
+runtime: 358759
 ---
 You're a very lovely woman
 But I think I better turn you down this time.

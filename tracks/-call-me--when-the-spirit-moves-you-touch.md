@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Touch
+external_ids:
+  spotify: spotify:track:4hD05aMMsp1HT7OkwdDN3h
 features: []
-genres: []
+first_released_as_single: false
 key: -call-me--when-the-spirit-moves-you-touch
 name: (Call Me) When The Spirit Moves You
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
+release_year: 1979
+runtime: 237520
 ---
 

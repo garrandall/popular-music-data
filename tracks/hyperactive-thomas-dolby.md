@@ -1,8 +1,11 @@
 ---
+album: The Flat Earth
 artists:
 - Thomas Dolby
+external_ids:
+  spotify: spotify:track:0xuWD2fiePVonFgx7GRClW
 features: []
-genres: []
+first_released_as_single: false
 key: hyperactive-thomas-dolby
 lyrics_url: https://www.azlyrics.com/lyrics/thomasdolby/hyperactive.html
 name: Hyperactive
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1984
+runtime: 249293
 ---
-
 Hm
 Tell me about your childhood
 
@@ -122,6 +126,3 @@ Hyperactive, in your phones
 Hyperactive, and the night is young (Oh)
 Hyperactive, when I'm small
 Hyperactive, now I'm grown
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Can't Slow Down
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:2G47eWiZyaUTAnTdhjcGFl
 features: []
-genres: []
+first_released_as_single: false
 key: penny-lover-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/pennylover.html
 name: Penny Lover
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1983
+runtime: 226106
 ---
-
 The first time I saw you
 Oh, you looked so fine
 And I had a feeling
@@ -129,6 +133,3 @@ I just want to reach out and hold ya, I want to reach out and say oh oh
 Don't make me cry
 I wanna talk about you everyday (penny lover)
 Need you, need you baby
-
-
-

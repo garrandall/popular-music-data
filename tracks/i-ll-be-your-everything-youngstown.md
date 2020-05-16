@@ -1,8 +1,11 @@
 ---
+album: Let's Roll
 artists:
 - Youngstown
+external_ids:
+  spotify: spotify:track:4G4fDBH6HSJEHzj98JGCDw
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-your-everything-youngstown
 lyrics_url: https://www.azlyrics.com/lyrics/youngstown/illbeyoureverything.html
 name: I'll Be Your Everything
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1999
+runtime: 220426
 ---
-
 You can call me when you want me, if you need a friend you got me
 I'll be your everything, fulfill your every dream
 We can do it automatic, I can freak you with my gadget
@@ -105,6 +109,3 @@ You can call me when you want me, if you need a friend you got me
 I'll be your everything, fulfill your every dream
 We can do it automatic, I can freak you with my gadget
 I'll be your everything, You'll see I'm everything you want and more
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hotter Than July
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5EAgXGJ8Kw5QAfhQkZXYqT
 features: []
-genres: []
+first_released_as_single: false
 key: master-blaster--jammin---stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/masterblaster.html
 name: Master Blaster (Jammin')
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1980
+runtime: 307933
 ---
-
 Everyone's feeling pretty
 It's hotter than July
 Though the world's full of problems
@@ -176,6 +180,3 @@ because you feel your body jammin'
 Oh, Oh, you would be jammin' until the break of dawn
 (We're in the middle of the makin's of the master blaster jammin')
 (We're in the middle of the makin's of the master blaster jammin')
-
-
-

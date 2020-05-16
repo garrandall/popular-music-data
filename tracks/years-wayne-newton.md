@@ -1,8 +1,11 @@
 ---
+album: The Best Of Wayne Newton Now
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:3mvgXbMjAS1Me6YnMHvTYm
 features: []
-genres: []
+first_released_as_single: false
 key: years-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-the-hungry-years-lyrics
 name: Years
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 234560
 ---
 Girl we made it to the top
 We went so high we couldn't stop

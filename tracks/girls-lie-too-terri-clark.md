@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:2Vn8Ea6fGOM3dsGYVcJ62G
 features: []
-genres: []
+first_released_as_single: false
 key: girls-lie-too-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/girlslietoo.html
 name: Girls Lie Too
@@ -67,8 +70,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
+release_year: 2004
+runtime: 214200
 ---
-
 So she can't go out tonight again 
 Her sister's sick, she's gotta baby-sit 
 Yeah, that sounds like a pretty good excuse 
@@ -110,6 +114,3 @@ Girls lie, too
 No, we don't care how much hair you have 
 Yeah, that looks good 
 Comb it over like that
-
-
-

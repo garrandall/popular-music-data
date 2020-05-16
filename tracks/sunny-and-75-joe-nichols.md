@@ -1,8 +1,11 @@
 ---
+album: Crickets
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:1rGLPyb4LMojT4wpxiZTp8
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-and-75-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/sunnyand75.html
 name: Sunny And 75
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 206946
 ---
-
 A yellow two piece, black Ray Bans
 Your bare feet covered in sand
 White jet trails across the blue sky
@@ -126,6 +130,3 @@ Kissing you and the salt air
 I can taste it, I swear
 Take me somewhere sunny and 75
 Sunny and 75
-
-
-

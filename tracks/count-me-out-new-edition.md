@@ -1,8 +1,11 @@
 ---
+album: All For Love
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:0XpJaafBTohHGhhdrp83rJ
 features: []
-genres: []
+first_released_as_single: false
 key: count-me-out-new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/countmeout.html
 name: Count Me Out
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 340493
 ---
-
 Count me out
 Count me out
 
@@ -216,6 +220,3 @@ I wanna be with my girlfriend
 You'll have to count me out
 This time
 You'll have to count me out
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Think We're Alone Now
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:28DmQwWGctmkziuiuTqFBK
 features: []
-genres: []
+first_released_as_single: false
 key: mirage-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/mirage.html
 name: Mirage
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 160386
 ---
-
 I see you standing in the alleys and the hallways
 (Wait a second)
 You're gone now
@@ -88,6 +92,3 @@ Just a mirage, that's all you are to me
 Just a mirage, something that I only see
 Just a mirage, that's all you are to me
 Just a mirage, something that I only see
-
-
-

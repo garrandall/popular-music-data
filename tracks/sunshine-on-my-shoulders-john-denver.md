@@ -1,8 +1,11 @@
 ---
+album: Poems, Prayers and Promises
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:3m8lTUL5GxGUNSaycI77ND
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-on-my-shoulders-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/sunshineonmyshoulders.html
 name: Sunshine On My Shoulders
@@ -79,8 +82,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1971
+runtime: 311893
 ---
-
 Sunshine on my shoulders makes me happy
 Sunshine in my eyes can make me cry
 Sunshine on the water looks so lovely
@@ -108,6 +112,3 @@ Sunshine almost always makes me high
 
 Sunshine almost all the time makes me high
 Sunshine almost always
-
-
-

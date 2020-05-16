@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:3TFSEVxjQabU96NbB5a9PU
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-vic-dana
 lyrics_url: https://genius.com/Vic-dana-i-will-lyrics
 name: I Will
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1962
+runtime: 161520
 ---
 I don't want to be the one to
 Say I'm gonna miss you

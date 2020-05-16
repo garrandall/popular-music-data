@@ -1,8 +1,11 @@
 ---
+album: The Reason (15th Anniversary Deluxe)
 artists:
 - Hoobastank
+external_ids:
+  spotify: spotify:track:77loZpT5Y5PRP1S451P9Yz
 features: []
-genres: []
+first_released_as_single: false
 key: the-reason-hoobastank
 lyrics_url: https://www.azlyrics.com/lyrics/hoobastank/thereason.html
 name: The Reason
@@ -159,8 +162,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2003
+runtime: 232800
 ---
-
 I'm not a perfect person
 There's many things I wish I didn't do
 But I continue learning
@@ -203,6 +207,3 @@ I've found a reason to show
 A side of me you didn't know
 A reason for all that I do
 And the reason is you
-
-
-

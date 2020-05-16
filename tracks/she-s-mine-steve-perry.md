@@ -1,8 +1,11 @@
 ---
+album: Street Talk
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:5fvckCqCWIxJzBoKZ02JEY
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-mine-steve-perry
 lyrics_url: https://genius.com/Steve-perry-shes-mine-lyrics
 name: She's Mine
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 266520
 ---
 I've seen your kind before
 I've seen you creepin around

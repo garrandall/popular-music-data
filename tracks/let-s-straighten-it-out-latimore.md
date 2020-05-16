@@ -1,8 +1,11 @@
 ---
+album: More, More, More
 artists:
 - Latimore
+external_ids:
+  spotify: spotify:track:3FcpOcVWW7Jm7xxkjZ7oAp
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-straighten-it-out-latimore
 lyrics_url: https://genius.com/Latimore-lets-straighten-it-out-lyrics
 name: Let's Straighten It Out
@@ -55,6 +58,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 297500
 ---
 Sit yourself down, girl
 And talk to me

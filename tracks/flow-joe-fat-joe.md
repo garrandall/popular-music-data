@@ -1,8 +1,11 @@
 ---
+album: Represent
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:113LqHyJALWRb4FyM8Zd0r
 features: []
-genres: []
+first_released_as_single: false
 key: flow-joe-fat-joe
 lyrics_url: https://genius.com/Fat-joe-flow-joe-lyrics
 name: Flow Joe
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1993
+runtime: 256533
 ---
 Ah yeah!
 Da Fat Gangsta

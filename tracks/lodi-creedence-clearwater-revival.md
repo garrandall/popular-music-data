@@ -1,8 +1,11 @@
 ---
+album: Green River
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:23X6XGt0ydmKcgoczZ2N6p
 features: []
-genres: []
+first_released_as_single: false
 key: lodi-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/lodi.html
 name: Lodi
@@ -23,8 +26,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 189906
 ---
-
 Just about a year ago, I set out on the road,
 Seekin' my fame and fortune, lookin' for a pot of gold.
 Things got bad, and things got worse, I guess you will know the tune.
@@ -45,6 +49,3 @@ And every time I've had to play while people sat there drunk.
 You know, I'd catch the next train back to where I live.
 Oh! Lord, I'm stuck in Lodi again.
 Oh! Lord, I'm stuck in Lodi again.
-
-
-

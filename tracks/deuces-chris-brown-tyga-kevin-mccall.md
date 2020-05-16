@@ -1,10 +1,13 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:6wN4nT2qy3MQc098yL3Eu9
 features:
 - Tyga
 - Kevin McCall
-genres: []
+first_released_as_single: false
 key: deuces-chris-brown-tyga-kevin-mccall
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/deuces.html
 name: Deuces
@@ -117,9 +120,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 276560
 ---
-
-
 All that bullshit's for the birds
 You ain't nothin but a vulture
 Always hopin for the worst
@@ -193,6 +196,3 @@ I'm chuckin my deuces up to her
 I'm moving on to something better, better, better
 No more tryin to make it work
 You made me wanna say bye bye, say bye bye, say bye bye to her
-
-
-

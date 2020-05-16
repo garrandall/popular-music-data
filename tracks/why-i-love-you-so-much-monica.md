@@ -1,8 +1,11 @@
 ---
+album: Miss Thang
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:7EKvTUo567BRNzZ37clvlf
 features: []
-genres: []
+first_released_as_single: false
 key: why-i-love-you-so-much-monica
 lyrics_url: https://genius.com/Monica-why-i-love-you-so-much-lyrics
 name: Why I Love You So Much
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
+release_year: 1995
+runtime: 270266
 ---
 Oh, oh, baby
 Ah, oh

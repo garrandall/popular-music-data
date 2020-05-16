@@ -1,8 +1,12 @@
 ---
+album: Chinese Wall
 artists:
-- Philip Bailey With Phil Collins
-features: []
-genres: []
+- Philip Bailey
+external_ids:
+  spotify: spotify:track:5LYJ631w9ps5h9tdvac7yP
+features:
+- Phil Collins
+first_released_as_single: false
 key: easy-lover-philip-bailey-with-phil-collins
 name: Easy Lover
 rankings:
@@ -98,5 +102,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1984
+runtime: 305866
 ---
 

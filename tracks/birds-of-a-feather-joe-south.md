@@ -1,8 +1,11 @@
 ---
+album: Introspect (Bonus Track Version)
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:1RaBOJucDb7QCObIj2JEKO
 features: []
-genres: []
+first_released_as_single: false
 key: birds-of-a-feather-joe-south
 lyrics_url: https://www.azlyrics.com/lyrics/joesouth/birdsofafeather940066.html
 name: Birds Of A Feather
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1968
+runtime: 166520
 ---
-
 I remember back a long time ago
 In the days of my childhood
 In the evenin' when the sun's sinkin' low
@@ -80,6 +84,3 @@ We should be together
 Like birds of a feather, la-la-la, la-la-la, la, la
 We got to be together
 Like birds of a feather, la-la-la, la-la-la, la, la
-
-
-

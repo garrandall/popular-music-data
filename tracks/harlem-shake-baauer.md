@@ -1,8 +1,11 @@
 ---
+album: Harlem Shake
 artists:
 - Baauer
+external_ids:
+  spotify: spotify:track:01XFgRZfZI7oBagNf1Loml
 features: []
-genres: []
+first_released_as_single: true
 key: harlem-shake-baauer
 lyrics_url: https://www.azlyrics.com/lyrics/baauer/harlemshake.html
 name: Harlem Shake
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
+release_year: 2013
+runtime: 196664
 ---
-
 Con los terroristas
 Ey Shake
 Ey Shake
@@ -103,6 +107,3 @@ Shake, Shake, Shake
 Con los terroristas
 Ey, Con los terroristas
 Ey, Ey
-
-
-

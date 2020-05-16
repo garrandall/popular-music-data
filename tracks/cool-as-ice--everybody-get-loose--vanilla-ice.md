@@ -1,8 +1,11 @@
 ---
+album: The Best Of Vanilla Ice
 artists:
 - Vanilla Ice
+external_ids:
+  spotify: spotify:track:4IEoniSlS3CTljXF8DPP8z
 features: []
-genres: []
+first_released_as_single: false
 key: cool-as-ice--everybody-get-loose--vanilla-ice
 lyrics_url: https://genius.com/Vanilla-ice-cool-as-ice-everybody-get-loose-lyrics
 name: Cool As Ice (Everybody Get Loose)
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 331760
 ---
 Gotta hold on to this feelin'
 Gotta let you body move

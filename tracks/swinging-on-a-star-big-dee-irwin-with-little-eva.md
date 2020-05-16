@@ -1,9 +1,12 @@
 ---
+album: A Night at the Oscars
 artists:
 - Big Dee Irwin
+external_ids:
+  spotify: spotify:track:7xXCDDmEegQDogZ81AHWT7
 features:
 - Little Eva
-genres: []
+first_released_as_single: false
 key: swinging-on-a-star-big-dee-irwin-with-little-eva
 lyrics_url: https://genius.com/Big-dee-irwin-and-little-eva-swinging-on-a-star-lyrics
 name: Swinging On A Star
@@ -48,6 +51,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1963
+runtime: 156933
 ---
 Would you like to swing on a star
 Carry moonbeams home in a jar

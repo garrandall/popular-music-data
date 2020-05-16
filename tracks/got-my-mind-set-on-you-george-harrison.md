@@ -1,8 +1,11 @@
 ---
+album: Cloud Nine
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:3OeUlriM0EZHdWleJtjoVr
 features: []
-genres: []
+first_released_as_single: false
 key: got-my-mind-set-on-you-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/gotmymindsetonyou.html
 name: Got My Mind Set On You
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
+release_year: 1987
+runtime: 234653
 ---
-
 I got my mind set on you
 I got my mind set on you
 I got my mind set on you
@@ -169,6 +173,3 @@ Set on you
 Set on you
 I got my mind set on you
 Set on you...
-
-
-

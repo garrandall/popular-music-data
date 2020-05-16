@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection 1946-60
 artists:
 - The Fontane Sisters
+external_ids:
+  spotify: spotify:track:3hWeCGNLDUE2LxbAn712ZH
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-heart-the-fontane-sisters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fontane-Sisters/Jealous-Heart
 name: Jealous Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
+release_year: 1958
+runtime: 128413
 ---
 Jealous Heart, oh, jealous heart stop beating
 Can't you see the damage you have done

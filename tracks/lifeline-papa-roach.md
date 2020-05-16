@@ -1,8 +1,11 @@
 ---
+album: Metamorphosis
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:69dO2HECe2I2563iMIvEV2
 features: []
-genres: []
+first_released_as_single: false
 key: lifeline-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/lifeline.html
 name: Lifeline
@@ -15,8 +18,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2009
+runtime: 257546
 ---
-
 When I was a boy
 I didn't care about a thing
 It was me and this world and a broken dream
@@ -74,6 +78,3 @@ I'm drowning in the pain
 Breaking down again
 Looking for a lifeline
 (Looking for a lifeline)
-
-
-

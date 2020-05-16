@@ -1,10 +1,13 @@
 ---
+album: R.U.L.E.
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:1bl99Q4umnPomYGv3dQP67
 features:
 - R. Kelly
 - Ashanti
-genres: []
+first_released_as_single: false
 key: wonderful-ja-rule-r--kelly-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/wonderful.html
 name: Wonderful
@@ -89,8 +92,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 2004
+runtime: 270506
 ---
-
 If it wasn't for the money
 Cars and movie stars and jewels
 And all these things I've got
@@ -193,6 +197,3 @@ Would you still be calling me
 (Still calling you)
 You'll be loving me
 (I'll be loving you)
-
-
-

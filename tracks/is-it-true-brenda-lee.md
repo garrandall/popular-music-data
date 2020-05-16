@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:4j8DrdCiiVRWw1iRfOZcQj
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-true-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-is-it-true-lyrics
 name: Is It True
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 149426
 ---
 Listen to the talk that's going around town
 Everywhere you go they're spreading it around

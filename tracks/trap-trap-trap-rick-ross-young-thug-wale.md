@@ -1,10 +1,13 @@
 ---
+album: Rather You Than Me
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:1KZ0Xo6Mmeprp1Sw5xCHYz
 features:
 - Young Thug
 - Wale
-genres: []
+first_released_as_single: false
 key: trap-trap-trap-rick-ross-young-thug-wale
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/traptraptrap.html
 name: Trap Trap Trap
@@ -13,11 +16,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2017
+runtime: 275720
 ---
-
-
-
-
 I'm sittin' at the red light
 
 My ankle monitor beepin'
@@ -145,6 +146,3 @@ Brown bag legend 'cause it's all cash
 Brown bag legend when it's all cash
 Trap, trap, trap, trap, trap, trap
 Trap, trap, trap, trap, trap, trap
-
-
-

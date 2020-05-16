@@ -1,9 +1,12 @@
 ---
+album: 'Soul Jazz Records Presents DANCEHALL: The Rise of Jamaican Dancehall Culture'
 artists:
 - Chaka Demus
 - Pliers
+external_ids:
+  spotify: spotify:track:700buc23nE4c2i6jRtysli
 features: []
-genres: []
+first_released_as_single: false
 key: murder-she-wrote-chaka-demus-pliers
 lyrics_url: https://www.azlyrics.com/lyrics/chakademuspliers/murdershewrote.html
 name: Murder She Wrote
@@ -76,8 +79,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1982
+runtime: 246213
 ---
-
 Now this one dedicated to the girls them with the angel face and the devil heart
 You know say Ragamuffin Chaka Demus and youth called Pliers
 Come to deal with the case
@@ -264,6 +268,3 @@ Her face is like a bunch of rose
 Man a if I ever tell you bout Maxine
 You would a say I don't
 Know what I know
-
-
-

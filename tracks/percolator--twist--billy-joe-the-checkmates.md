@@ -1,9 +1,12 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - Billy Joe
 - The Checkmates
+external_ids:
+  spotify: spotify:track:3eD78WC4ZSKcvysxg6fNed
 features: []
-genres: []
+first_released_as_single: false
 key: percolator--twist--billy-joe-the-checkmates
 name: Percolator (Twist)
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 133333
 ---
 

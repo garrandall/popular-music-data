@@ -1,8 +1,11 @@
 ---
+album: All My Best
 artists:
 - Hagood Hardy
+external_ids:
+  spotify: spotify:track:4AF3zdRolTrncZa9F8gjEp
 features: []
-genres: []
+first_released_as_single: false
 key: the-homecoming-hagood-hardy
 name: The Homecoming
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 300133
 ---
 

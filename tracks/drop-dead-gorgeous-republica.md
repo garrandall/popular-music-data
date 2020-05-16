@@ -1,8 +1,11 @@
 ---
+album: Republica
 artists:
 - Republica
+external_ids:
+  spotify: spotify:track:253PaikJ4dv2naUFa4VeJW
 features: []
-genres: []
+first_released_as_single: false
 key: drop-dead-gorgeous-republica
 lyrics_url: https://www.azlyrics.com/lyrics/republica/dropdeadgorgeous.html
 name: Drop Dead Gorgeous
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
+release_year: 1996
+runtime: 271373
 ---
-
 Backwords words, he got em
 Shut up, I'm talking
 This time, you'll listen
@@ -66,6 +70,3 @@ Yeah yeah and you're drop dead gorgeous
 You're forgiven
 Yeah yeah
 Drop dead
-
-
-

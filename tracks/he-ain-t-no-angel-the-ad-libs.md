@@ -1,8 +1,11 @@
 ---
+album: The Complete Blue Cat Years
 artists:
 - The Ad Libs
+external_ids:
+  spotify: spotify:track:2399xBioDnAJggexITqTLj
 features: []
-genres: []
+first_released_as_single: false
 key: he-ain-t-no-angel-the-ad-libs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ad-Libs/He-Ain-t-No-Angel
 name: He Ain't No Angel
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 160000
 ---
 He ain't no angel
 (I ain't no angel)

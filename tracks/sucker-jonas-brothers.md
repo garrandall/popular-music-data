@@ -1,8 +1,11 @@
 ---
+album: Happiness Begins
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:22vgEDb5hykfaTwLuskFGD
 features: []
-genres: []
+first_released_as_single: false
 key: sucker-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/sucker.html
 name: Sucker
@@ -195,8 +198,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 181026
 ---
-
 We go together
 Better than birds of a feather, you and me
 We change the weather, yeah
@@ -271,6 +275,3 @@ And you're making the typical me
 Break my typical rules
 It's true, I'm a sucker for you
 I'm a sucker for you
-
-
-

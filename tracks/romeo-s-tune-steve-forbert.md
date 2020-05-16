@@ -1,8 +1,11 @@
 ---
+album: School Girl (Live)
 artists:
 - Steve Forbert
+external_ids:
+  spotify: spotify:track:6S57ZCldJvB9FxWVKAnMBz
 features: []
-genres: []
+first_released_as_single: false
 key: romeo-s-tune-steve-forbert
 lyrics_url: https://genius.com/Steve-forbert-romeos-tune-lyrics
 name: Romeo's Tune
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1979
+runtime: 217746
 ---
 Meet me in the middle of the day
 Let me hear you say everything's okay

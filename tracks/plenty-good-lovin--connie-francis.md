@@ -1,8 +1,11 @@
 ---
+album: Her Greatest Hits & Finest Performances
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5p2dm5X12rsJigtzuEAaV5
 features: []
-genres: []
+first_released_as_single: false
 key: plenty-good-lovin--connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/plentygoodlovin.html
 name: Plenty Good Lovin'
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 125160
 ---
-
 He got a plenty good lovin' plenty good kissin'
 Plenty good huggin' ah he's so fine and he's mine all mine
 
@@ -56,6 +60,3 @@ Plenty good huggin' ah he's so sweet and I must repeat
 
 He got a plenty good lovin' plenty good kissin'
 Plenty good huggin' yes indeed he's all I need
-
-
-

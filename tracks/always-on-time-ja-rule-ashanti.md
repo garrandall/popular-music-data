@@ -1,9 +1,12 @@
 ---
+album: Pain Is Love
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:4hrae8atte6cRlSC9a7VCO
 features:
 - Ashanti
-genres: []
+first_released_as_single: false
 key: always-on-time-ja-rule-ashanti
 lyrics_url: https://genius.com/Rap-critic-rap-critic-reviews-always-on-time-by-ja-rule-and-ashanti-lyrics
 name: Always On Time
@@ -116,6 +119,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2001
+runtime: 245133
 ---
 Hi, I’m the Rap Critic. Let’s talk about Ja Rule. Yeah… remember him?
 

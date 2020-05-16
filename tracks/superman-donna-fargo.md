@@ -1,8 +1,11 @@
 ---
+album: The Happiest Girl In The Whole U.S.A.
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:78gI8beWZAdnAht7mKW7t1
 features: []
-genres: []
+first_released_as_single: false
 key: superman-donna-fargo
 lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/superman.html
 name: Superman
@@ -43,8 +46,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 147173
 ---
-
 Superman, Superman, Superman
 
 And there you go pickin' on me again
@@ -84,6 +88,3 @@ All I can do is the best I can to change the way
 That you can't stand
 And if it ain't good enough for superman
 He ain't good enough for me...
-
-
-

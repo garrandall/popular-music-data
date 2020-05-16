@@ -1,8 +1,11 @@
 ---
+album: Charged Up
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4pc01CAhGKx15PY23uPjHp
 features: []
-genres: []
+first_released_as_single: true
 key: charged-up-drake
 lyrics_url: https://genius.com/Drake-charged-up-lyrics
 name: Charged Up
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2015
+runtime: 189768
 ---
 Stop, stop, stop…
 Fuck niggas gon' be fuck niggas

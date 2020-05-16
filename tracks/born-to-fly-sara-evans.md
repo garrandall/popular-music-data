@@ -1,8 +1,11 @@
 ---
+album: Born To Fly
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:1zmvaeDthBdtthb4RgYr9a
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-fly-sara-evans
 lyrics_url: https://genius.com/Sara-evans-born-to-fly-lyrics
 name: Born To Fly
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 2000
+runtime: 336360
 ---
 I've been tellin' my dreams to the scarecrow
 About the places that I'd like to see

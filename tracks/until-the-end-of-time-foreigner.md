@@ -1,8 +1,11 @@
 ---
+album: Mr. Moonlight
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:5ZKAXWtrLyKGUmsl83Fg8R
 features: []
-genres: []
+first_released_as_single: false
 key: until-the-end-of-time-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/untiltheendoftime.html
 name: Until The End Of Time
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
+release_year: 1995
+runtime: 291133
 ---
-
 When I was young and the world belonged to me
 I thought that love meant pain and jealousy
 It was a cross on my shoulder
@@ -119,6 +123,3 @@ And when I see the light of love shine
 In your eyes when they meet mine
 Only then I'll know it's you and I
 Until the end of time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Reflection
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:1COvXs6jaykXC73h9OSBVM
 features: []
-genres: []
+first_released_as_single: false
 key: bo---fifth-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/bo.html
 name: Bo$$
@@ -67,9 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 171413
 ---
-
-
 Everyday is payday
 Swipe my card, then I do the nae nae
 You talking to a lady
@@ -146,6 +149,3 @@ So yo ass better show me some re-spect
 Ohoooh
 
 Oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:4LH1gsNA3wUS6QKkGZoJN8
 features: []
-genres: []
+first_released_as_single: false
 key: xxl-dababy
 lyrics_url: https://genius.com/Dababy-xxl-lyrics
 name: XXL
@@ -11,6 +14,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 153863
 ---
 I got 20 on my beat
 

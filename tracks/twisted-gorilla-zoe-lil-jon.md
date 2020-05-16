@@ -1,9 +1,12 @@
 ---
+album: King Kong
 artists:
 - Gorilla Zoe
+external_ids:
+  spotify: spotify:track:0New02oiZXcjmzsD19pch8
 features:
 - Lil Jon
-genres: []
+first_released_as_single: true
 key: twisted-gorilla-zoe-lil-jon
 lyrics_url: https://www.azlyrics.com/lyrics/gorillazoe/twisted.html
 name: Twisted
@@ -12,8 +15,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 179106
 ---
-
 In the club, getting twisted hit the floor if you with me 
 In the club, getting twisted hands up if you're with me 
 In the club, getting twisted hands up if you're with me 
@@ -59,6 +63,3 @@ In the club, getting twisted hit the floor if you with me
 In the club, getting twisted hands up if you're with me 
 In the club, getting twisted hands up if you're with me 
 In the club, getting twisted, getting twisted, getting twisted, let's go, let's go.
-
-
-

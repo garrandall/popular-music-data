@@ -1,8 +1,11 @@
 ---
+album: Don't Look Back
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:0yqIpi7zj74a0CRCedacOW
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--satisfied-boston
 lyrics_url: https://www.azlyrics.com/lyrics/boston/feelinsatisfied.html
 name: Feelin' Satisfied
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-05-05'
+release_year: 1978
+runtime: 251826
 ---
-
 Well come on
 All you people
 The time has come to get together
@@ -75,6 +79,3 @@ Come on let us give your mind a ride
 Ooo are you ready tonight
 Come on let us give your mind a ride You can do what you like
 Come on let us give your mind a ride
-
-
-

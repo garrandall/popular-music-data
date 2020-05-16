@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:1HlUKiYgvKAox4Ao2vMHby
 features: []
-genres: []
+first_released_as_single: false
 key: you-win-again-fats-domino
 lyrics_url: https://genius.com/Fats-domino-you-win-again-lyrics
 name: You Win Again
@@ -47,6 +50,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 135266
 ---
 The news is out, all over town
 That you been seen, out runnin round

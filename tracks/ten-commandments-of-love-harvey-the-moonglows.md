@@ -1,9 +1,12 @@
 ---
+album: Harvey & The Moonglows 2000
 artists:
 - Harvey
 - The Moonglows
+external_ids:
+  spotify: spotify:track:6wbUIGTKbNkiq4ddqiyTmA
 features: []
-genres: []
+first_released_as_single: false
 key: ten-commandments-of-love-harvey-the-moonglows
 lyrics_url: https://www.musixmatch.com/lyrics/Harvey-and-the-Moonglows/Ten-Commandments-of-Love
 name: Ten Commandments Of Love
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 255640
 ---
 Woo-wooo-woo, Ah-ah-ah, Woo-woo-woo-wooo. (One.) Thou shalt never love another. (Two.) And stand by me all the while. (Three.) Take happiness with the heartaches. (Four.) And go through love wearing a smile. And, oh, how happy we will be, if we keep the ten commandments of love, of love. (Five.) Thou should always have faith in me, In everything I say and do. (Six.) Love with all your heart and soul, Until our life on earth is through. Oh, how happy we will be, If we keep the ten commandments of love.
 Love, oh, sweet love, it's oh, oh, so grand.

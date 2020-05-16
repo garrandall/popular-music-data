@@ -87,7 +87,7 @@ Stay in your struggle, crystal blue water
 PiÃ±a colada-in', you stay Ramada Inn
 My baby father, bloodline Rwanda
 Why would you try me? Why would you bother?
-I am BeyoncÃ© Giselle Knowles-Carter
+I am Beyoncé Giselle Knowles-Carter
 I am the Nala, sister of Yoruba
 Oshun, Queen Sheba, I am the mother
 Ankh on my gold chain, ice on my whole chain

@@ -1,9 +1,12 @@
 ---
+album: El Dorado
 artists:
 - Carlos Vives
 - Shakira
+external_ids:
+  spotify: spotify:track:7IRuf7FrdQvOGs0g9mSNGr
 features: []
-genres: []
+first_released_as_single: true
 key: la-bicicleta-carlos-vives-shakira
 lyrics_url: https://genius.com/Carlos-vives-and-shakira-la-bicicleta-lyrics
 name: La Bicicleta
@@ -12,6 +15,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2016
+runtime: 254069
 ---
 Nada voy a hacer
 Rebuscando en las heridas del pasado

@@ -1,8 +1,11 @@
 ---
+album: I'm Already There
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:1Qw6RHLlVgHvGQ6OTBv7IQ
 features: []
-genres: []
+first_released_as_single: false
 key: not-a-day-goes-by-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/notadaygoesby.html
 name: Not A Day Goes By
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
+release_year: 1995
+runtime: 247693
 ---
-
 Got a picture of you I carry in my heart
 Close my eyes to see it when the world gets dark
 Got a memory of you I carry in my soul
@@ -109,6 +113,3 @@ After all this time you're still with me it's true
 Somehow you remain locked so deep inside
 Baby, baby, oh baby, not a day goes by
 That I don't think of you
-
-
-

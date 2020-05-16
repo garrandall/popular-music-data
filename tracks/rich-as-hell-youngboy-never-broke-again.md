@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:6c20grUPNdmGcCHtMvnDcd
 features: []
-genres: []
+first_released_as_single: false
 key: rich-as-hell-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-rich-as-hell-lyrics
 name: Rich As Hell
@@ -15,6 +18,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 215327
 ---
 17
 D-Roc

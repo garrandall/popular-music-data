@@ -1,8 +1,11 @@
 ---
+album: Helios
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:6IDDwI0YOCAUDhMZltQekS
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-die-the-fray
 lyrics_url: https://genius.com/The-fray-love-dont-die-lyrics
 name: Love Don't Die
@@ -43,6 +46,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2014
+runtime: 183093
 ---
 If I know one thing that's true
 It ain't what you say, it's what you do

@@ -1,8 +1,11 @@
 ---
+album: Welcome To My Nightmare
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:0mtUvL8w3vQiMm93AfnRpO
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-my-nightmare-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/welcometomynightmare.html
 name: Welcome To My Nightmare
@@ -31,8 +34,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 320640
 ---
-
 Welcome to my nightmare, I think you're gonna like it, I think you're gonna feel you belong.
 A nocturnal vacation, unnecessary sedation, you want to feel at home 'cause you belong.
 Welcome to my nightmare whoa, ho, ho, ho...
@@ -56,6 +60,3 @@ Welcome to my nightmare hoo, hoo, woo, hoo...
 Welcome to my breakdown...
 
 Yeah!
-
-
-

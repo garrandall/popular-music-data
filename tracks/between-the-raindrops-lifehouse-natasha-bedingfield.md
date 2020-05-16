@@ -1,9 +1,12 @@
 ---
+album: Almeria
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:1nxGSNnFCpDLwm3umCOUpi
 features:
 - Natasha Bedingfield
-genres: []
+first_released_as_single: false
 key: between-the-raindrops-lifehouse-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/betweentheraindrops.html
 name: Between The Raindrops
@@ -16,8 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2012
+runtime: 285120
 ---
-
 Look around
 There's no one but you and me
 Right here and now
@@ -71,6 +75,3 @@ Between the raindrops with you
 Between the raindrops with you
 
 Between the raindrops with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Kool Moe Dee
 artists:
 - Kool Moe Dee
+external_ids:
+  spotify: spotify:track:60z5ezmI1iL3s2pPEct4wh
 features: []
-genres: []
+first_released_as_single: false
 key: go-see-the-doctor-kool-moe-dee
 lyrics_url: https://www.azlyrics.com/lyrics/koolmoedee/goseethedoctor.html
 name: Go See The Doctor
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1986
+runtime: 333786
 ---
-
 But three days later, go see the doctor...
 
 I was walking down the street, rocking my beat
@@ -89,6 +93,3 @@ I'm walking in the other direction
 So I'm keeping my prick inside my pants
 And if I see another girl and I know I can rock her
 Before I push up I'll make her go see the doctor
-
-
-

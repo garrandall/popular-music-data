@@ -1,8 +1,11 @@
 ---
+album: French Kiss
 artists:
 - Bob Welch
+external_ids:
+  spotify: spotify:track:16LlLzZwt7HNy0faS5w0xh
 features: []
-genres: []
+first_released_as_single: false
 key: hot-love-cold-world-bob-welch
 lyrics_url: https://genius.com/Bob-welch-hot-love-cold-world-lyrics
 name: Hot Love Cold World
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1977
+runtime: 220573
 ---
 Now there is a way to say I love you
 And it's said everyday by some kind of fool

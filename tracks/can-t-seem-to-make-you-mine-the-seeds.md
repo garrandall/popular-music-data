@@ -1,8 +1,11 @@
 ---
+album: The Seeds
 artists:
 - The Seeds
+external_ids:
+  spotify: spotify:track:6nnSkEpzo8PmHsOlSopoO6
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-seem-to-make-you-mine-the-seeds
 lyrics_url: https://genius.com/The-seeds-cant-seem-to-make-you-mine-lyrics
 name: Can't Seem To Make You Mine
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1966
+runtime: 185480
 ---
 I can't seem to make you mine
 Kissing all around all the time

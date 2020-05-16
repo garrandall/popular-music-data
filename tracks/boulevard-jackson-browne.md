@@ -1,8 +1,11 @@
 ---
+album: Hold Out
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:6oO4MqRSMxIDFqX1OQnVAz
 features: []
-genres: []
+first_released_as_single: false
 key: boulevard-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/boulevard.html
 name: Boulevard
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
+release_year: 1980
+runtime: 200800
 ---
-
 Down on the boulevard they take it hard
 They look at life with such disregard
 They say it can't be won
@@ -112,6 +116,3 @@ You got to watch the street, keep your feet
 And be on guard
 Make it pay baby
 It's only time on the boulevard
-
-
-

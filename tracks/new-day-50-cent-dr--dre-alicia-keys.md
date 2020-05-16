@@ -1,10 +1,13 @@
 ---
+album: New Day
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:2swCZgyEIdacDpUNcSQMQI
 features:
 - Dr. Dre
 - Alicia Keys
-genres: []
+first_released_as_single: true
 key: new-day-50-cent-dr--dre-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/newday.html
 name: New Day
@@ -13,9 +16,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2012
+runtime: 264840
 ---
-
-
 It don't take much strength to pull a trigger
 But try and get up every morning day after day and work for a living
 Let's see 'em try that
@@ -103,6 +106,3 @@ It's a new day, it's a new day"
 The world is gettin' ready, everybody ready, yeah!
 For a new day, for a new day,
 Celebrate and say ay ay ay...
-
-
-

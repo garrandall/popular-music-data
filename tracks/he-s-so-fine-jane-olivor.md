@@ -1,8 +1,11 @@
 ---
+album: Stay The Night
 artists:
 - Jane Olivor
+external_ids:
+  spotify: spotify:track:2QP9zuLJUer2B4QOTGHrwn
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-so-fine-jane-olivor
 name: He's So Fine
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1978
+runtime: 207773
 ---
 

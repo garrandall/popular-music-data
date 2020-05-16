@@ -1,8 +1,11 @@
 ---
+album: Norwood
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:4rJPnr1XKDugmH6n0VDStQ
 features: []
-genres: []
+first_released_as_single: false
 key: everything-a-man-could-ever-need-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/everythingamancouldeverneed.html
 name: Everything A Man Could Ever Need
@@ -39,8 +42,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 151920
 ---
-
 Looking back on the days
 When I was scuffling for a buck
 Not overly concerned with life and love
@@ -83,6 +87,3 @@ I've got hands to hold my baby-child
 And eyes to watch my woman smile
 I've got everything a man could ever need
 I've got everything a man could ever need
-
-
-

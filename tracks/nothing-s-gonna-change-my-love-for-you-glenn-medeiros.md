@@ -1,8 +1,11 @@
 ---
+album: Nothing's Gonna Change My Love For You
 artists:
 - Glenn Medeiros
+external_ids:
+  spotify: spotify:track:7pUJSr5pgnQjCTc7PfiUVA
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-s-gonna-change-my-love-for-you-glenn-medeiros
 lyrics_url: https://genius.com/Glenn-medeiros-nothings-gonna-change-my-love-for-you-lyrics
 name: Nothing's Gonna Change My Love For You
@@ -107,6 +110,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1986
+runtime: 231586
 ---
 If I had to live my life
 Without you near me

@@ -1,8 +1,11 @@
 ---
+album: Lil Uzi Vert vs. The World
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:2ANLarE8yHVsLWW21nj79M
 features: []
-genres: []
+first_released_as_single: false
 key: you-was-right-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-you-was-right-lyrics
 name: You Was Right
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 163944
 ---
 Hit it from the back, watch a nigga bless you
 (If Young Metro don't trust you I'm gon' shoot you)

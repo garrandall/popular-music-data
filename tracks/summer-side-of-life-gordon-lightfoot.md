@@ -1,8 +1,11 @@
 ---
+album: Summer Side Of Life
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:3mo4sOUqa5CM8UoKaxObmI
 features: []
-genres: []
+first_released_as_single: false
 key: summer-side-of-life-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/summersideoflife.html
 name: Summer Side Of Life
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 244426
 ---
-
 He came down through fields of green
 On the summer side of life
 His love was ripe
@@ -61,6 +65,3 @@ You'd wonder why
 
 And if you saw him now
 You'd wonder why
-
-
-

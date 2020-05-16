@@ -1,8 +1,11 @@
 ---
+album: Keep On Loving You
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:0fNCLvSVUEK7NTwhu5vk5B
 features: []
-genres: []
+first_released_as_single: false
 key: consider-me-gone-reba
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/considermegone.html
 name: Consider Me Gone
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
+release_year: 2009
+runtime: 218053
 ---
-
 Every time I turn the conversation to something deeper than the weather
 I can feel you all but shuttin' down
 And when I need an explanation for the silence
@@ -126,6 +130,3 @@ Consider me gone
 Consider me gone
 Consider me gone
 Just consider me gone
-
-
-

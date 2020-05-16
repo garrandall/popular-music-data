@@ -1,8 +1,11 @@
 ---
+album: Hummin' Comin' At 'Cha
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:4yKbbM56fLCxwR5CTH6QkP
 features: []
-genres: []
+first_released_as_single: false
 key: understanding-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/understanding.html
 name: Understanding
@@ -87,9 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1993
+runtime: 341466
 ---
-
-
 What I need from you is understanding,
 How can we communicate,
 If you don't hear what I say.
@@ -128,4 +131,3 @@ See everyday we're living,
 Is one thing that will always be unsure.
 That's why I need you baby, pleading baby,
 Please let our love endure.
-

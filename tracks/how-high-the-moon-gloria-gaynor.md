@@ -1,8 +1,11 @@
 ---
+album: Experience
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:5GxHYXctldsnJvzx7Xc5tW
 features: []
-genres: []
+first_released_as_single: false
 key: how-high-the-moon-gloria-gaynor
 lyrics_url: https://www.azlyrics.com/lyrics/gloriagaynor/howhighthemoon.html
 name: How High The Moon
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1975
+runtime: 392840
 ---
-
 Somewhere there's music
 How faint the tune
 Oh, somewhere there's heaven
@@ -66,6 +70,3 @@ Oh, when you're near
 I wanna hear the music
 I know it's where you are
 Please let me hear it
-
-
-

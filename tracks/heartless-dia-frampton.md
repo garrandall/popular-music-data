@@ -1,8 +1,11 @@
 ---
+album: Heartless (The Voice Performance)
 artists:
 - Dia Frampton
+external_ids:
+  spotify: spotify:track:5xbtFVrkqpVD8lzHOI9lR7
 features: []
-genres: []
+first_released_as_single: true
 key: heartless-dia-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/diaframpton/heartless.html
 name: Heartless
@@ -23,9 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 208306
 ---
-
-
 In the night, I hear 'em talk,
 Coldest story ever told
 Somewhere far along this road,
@@ -85,6 +88,3 @@ Somewhere far along this road,
 He lost his soul to a woman so heartless
 How could you be so heartless?
 How could you be so heartless?
-
-
-

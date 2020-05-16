@@ -1,6 +1,6 @@
 ---
 artists:
-- Huey "piano" Smith With His Clowns
+- Huey Smith With His Clowns
 features: []
 genres: []
 key: don-t-you-know-yockomo-huey--piano--smith-with-his-clowns

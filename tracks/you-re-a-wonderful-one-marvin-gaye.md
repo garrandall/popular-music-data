@@ -1,8 +1,11 @@
 ---
+album: How Sweet It Is To Be Loved By You
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:1qZcepZC1sulgWKM1y9LYs
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-wonderful-one-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-youre-a-wonderful-one-lyrics
 name: You're A Wonderful One
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 164960
 ---
 You are so wonderful
 That being near you is all I'm living for

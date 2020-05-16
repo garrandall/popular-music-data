@@ -1,8 +1,11 @@
 ---
+album: I Think About You
 artists:
 - Collin Raye
+external_ids:
+  spotify: spotify:track:2tSF8UvwQHspF4SNp956M7
 features: []
-genres: []
+first_released_as_single: false
 key: one-boy-one-girl-collin-raye
 lyrics_url: https://www.azlyrics.com/lyrics/collinraye/oneboyonegirl176297.html
 name: One Boy One Girl
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1991
+runtime: 244600
 ---
-
 He finally gave in to his friend's girlfriend
 When she said, "there's someone you should meet"
 At a crowded restaurant way cross town
@@ -65,4 +69,3 @@ Like the night they met time just stood still
 
 He was holding her hand when the doctor looked up and grinned
 "congratulations, twins"
-

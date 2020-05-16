@@ -1,8 +1,11 @@
 ---
+album: Before The Storm
 artists:
 - CROW
+external_ids:
+  spotify: spotify:track:2wbbw0UcpKf8fNjy7oRLbA
 features: []
-genres: []
+first_released_as_single: false
 key: evil-woman-don-t-play-your-games-with-me-crow
 lyrics_url: https://genius.com/Crow-evil-woman-dont-play-your-games-with-me-lyrics
 name: Evil Woman Don't Play Your Games With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 229213
 ---
 I see the look of evil in your eyes
 You've been filling me all full of lies

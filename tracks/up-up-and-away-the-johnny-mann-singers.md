@@ -1,8 +1,11 @@
 ---
+album: We Can Fly! Up-Up And Away
 artists:
 - The Johnny Mann Singers
+external_ids:
+  spotify: spotify:track:30dIevLsWhw7KDU2i1RdJY
 features: []
-genres: []
+first_released_as_single: false
 key: up-up-and-away-the-johnny-mann-singers
 lyrics_url: https://genius.com/Johnny-mann-singers-up-up-and-away-lyrics
 name: Up-Up And Away
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 164160
 ---
 Would you like to ride
 In my beautiful balloon

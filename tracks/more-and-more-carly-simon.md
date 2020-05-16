@@ -1,8 +1,11 @@
 ---
+album: Playing Possum
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:0vWAXygaIAwtMQxuMchoOm
 features: []
-genres: []
+first_released_as_single: false
 key: more-and-more-carly-simon
 lyrics_url: https://genius.com/Carly-simon-more-and-more-lyrics
 name: More And More
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 244506
 ---
 (Mac Rebennack/Alvin Robinson)
 

@@ -1,8 +1,11 @@
 ---
+album: My Promise
 artists:
 - No Mercy
+external_ids:
+  spotify: spotify:track:37tzoWY1ubBQKGXiWdO5Qv
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-you-go-no-mercy
 lyrics_url: https://genius.com/No-mercy-where-do-you-go-lyrics
 name: Where Do You Go
@@ -163,6 +166,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
+release_year: 1996
+runtime: 272093
 ---
 Where do you go, my lovely
 Where do you go

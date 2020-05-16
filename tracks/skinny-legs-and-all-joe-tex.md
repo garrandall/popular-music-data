@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:4RulRoY1kSfDiNitV7VMwG
 features: []
-genres: []
+first_released_as_single: false
 key: skinny-legs-and-all-joe-tex
 lyrics_url: https://genius.com/Joe-tex-skinny-legs-and-all-lyrics
 name: Skinny Legs And All
@@ -67,6 +70,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1965
+runtime: 189946
 ---
 Unks:
 'Moving out to you, now'

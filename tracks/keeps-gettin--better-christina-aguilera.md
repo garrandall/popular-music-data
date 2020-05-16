@@ -1,8 +1,11 @@
 ---
+album: 'Keeps Gettin'' Better: A Decade of Hits'
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:0j0n5CUS1g3QSwDWg8r5qq
 features: []
-genres: []
+first_released_as_single: false
 key: keeps-gettin--better-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/keepsgettinbetter.html
 name: Keeps Gettin' Better
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 181946
 ---
-
 Step Back!
 Gonna come at you fast
 I'm driving out of control and getting ready to crash
@@ -150,6 +154,3 @@ Hold on
 Keeps getting better
 Hold on
 Keeps getting better
-
-
-

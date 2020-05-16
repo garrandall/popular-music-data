@@ -1,8 +1,11 @@
 ---
+album: Fuse
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:5Net7uzpcqkJtOwR22onye
 features: []
-genres: []
+first_released_as_single: false
 key: we-were-keith-urban
 lyrics_url: https://genius.com/Keith-urban-we-were-lyrics
 name: We Were
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2013
+runtime: 191746
 ---
 We were just a couple years short of the age
 By my name on a fake ID

@@ -1,8 +1,11 @@
 ---
+album: Relentless
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:7C2Th9WKovi6NyjGoqaPsK
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-cash-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/johnnycash.html
 name: Johnny Cash
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
+release_year: 2007
+runtime: 190560
 ---
-
 (Watch ya got)
 
 Quit my job flipped off the boss took my name off the payroll.
@@ -122,6 +126,3 @@ The man in black is gonna rock your ass again.
 (woah)
 (woah)
 (woah)
-
-
-

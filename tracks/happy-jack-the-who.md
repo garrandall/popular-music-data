@@ -1,8 +1,11 @@
 ---
+album: A Quick One
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:0CFB9QlwL7SzQ8tSWp83eh
 features: []
-genres: []
+first_released_as_single: false
 key: happy-jack-the-who
 lyrics_url: https://genius.com/The-who-happy-jack-lyrics
 name: Happy Jack
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1966
+runtime: 175200
 ---
 Happy Jack wasn't old, but he was a man
 He lived in the sand at the Isle of Man.

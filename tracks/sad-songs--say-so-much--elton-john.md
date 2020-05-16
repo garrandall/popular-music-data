@@ -1,8 +1,11 @@
 ---
+album: Breaking Hearts
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:2LAgzgp3kmBG6uOqwms3eR
 features: []
-genres: []
+first_released_as_single: false
 key: sad-songs--say-so-much--elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/sadsongssaysomuch.html
 name: Sad Songs (say So Much)
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 295533
 ---
-
 Guess there are times when we all need to share a little pain
 And ironing out the rough spots
 Is the hardest part when memories remain
@@ -113,6 +117,3 @@ Sad songs, they say
 Sad songs, they say
 Sad songs, they say
 Sad songs, they say so much
-
-
-

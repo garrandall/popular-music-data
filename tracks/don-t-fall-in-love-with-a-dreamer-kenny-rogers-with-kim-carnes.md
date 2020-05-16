@@ -1,8 +1,12 @@
 ---
+album: Gideon
 artists:
-- Kenny Rogers With Kim Carnes
-features: []
-genres: []
+- Kenny Rogers
+external_ids:
+  spotify: spotify:track:6xSrfSM8IvRPzwbC4VjBcg
+features:
+- Kim Carnes
+first_released_as_single: false
 key: don-t-fall-in-love-with-a-dreamer-kenny-rogers-with-kim-carnes
 name: Don't Fall In Love With A Dreamer
 rankings:
@@ -82,5 +86,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1980
+runtime: 222066
 ---
 

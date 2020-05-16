@@ -1,8 +1,11 @@
 ---
+album: Pieces Of You
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:2U40DawrPNZwD0lcqqx3bq
 features: []
-genres: []
+first_released_as_single: false
 key: who-will-save-your-soul-jewel
 lyrics_url: https://genius.com/Jewel-who-will-save-your-soul-lyrics
 name: Who Will Save Your Soul
@@ -127,6 +130,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1996-12-21'
+release_year: 1995
+runtime: 239293
 ---
 People livin' their lives for you on TV
 They say they're better than you and you agree

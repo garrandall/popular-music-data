@@ -1,8 +1,11 @@
 ---
+album: 'Philly Groove Records Presents: The Early Years, Vol. 2'
 artists:
 - First Choice
+external_ids:
+  spotify: spotify:track:3qd8HEkro7uCj9q3kS9j0y
 features: []
-genres: []
+first_released_as_single: false
 key: newsy-neighbors-first-choice
 lyrics_url: https://genius.com/First-choice-newsy-neighbors-lyrics
 name: Newsy Neighbors
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1974
+runtime: 205960
 ---
 Talking about those (Newsy neighbors)
 Always asking for favors

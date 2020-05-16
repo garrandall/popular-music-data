@@ -1,8 +1,11 @@
 ---
+album: No More Drama
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:7nWsh14AHpnTzq1Xejz90U
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-drama-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-no-more-drama-lyrics
 name: No More Drama
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 2001
+runtime: 326240
 ---
 So tired, tired of this drama
 You go your way, I go my way

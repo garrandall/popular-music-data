@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5yEPktRqvIhko5QFF3aBhQ
 features: []
-genres: []
+first_released_as_single: false
 key: mean-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-mean-lyrics
 name: Mean
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
+release_year: 2010
+runtime: 237733
 ---
 You, with your words like knives
 And swords and weapons that you use against me

@@ -1,8 +1,11 @@
 ---
+album: 'Revelation: Revolution ''69'
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:3Kj1FUd1N1E7whESUWEuKI
 features: []
-genres: []
+first_released_as_single: false
 key: never-going-back-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-never-going-back-lyrics
 name: Never Going Back
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 171680
 ---
 Every time I see that Greyhound Bus go rollin’ down the line
 Makes me wish I talked much more to you

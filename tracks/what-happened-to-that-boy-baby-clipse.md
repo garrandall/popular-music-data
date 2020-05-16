@@ -1,9 +1,12 @@
 ---
+album: Birdman
 artists:
 - Baby
+external_ids:
+  spotify: spotify:track:20Sp7dNLM3NjIu3TInDqjq
 features:
 - Clipse
-genres: []
+first_released_as_single: false
 key: what-happened-to-that-boy-baby-clipse
 lyrics_url: https://www.azlyrics.com/lyrics/babyakathe1stunna/whathappenedtothatboy.html
 name: What Happened To That Boy
@@ -52,9 +55,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 258066
 ---
-
-
 Aye, Aye, Aye, Ya
 Tot' 'em up, light it up nigga
 Birdman motherfucker
@@ -146,6 +149,3 @@ However you want it you can get it pimp
 From gangster to blood nigga, take it how you want it nigga
 We did it how we live, aint nothin' but the thug thing nigga
 Money thing motherfucker
-
-
-

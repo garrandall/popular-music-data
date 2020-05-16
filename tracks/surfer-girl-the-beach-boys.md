@@ -1,8 +1,11 @@
 ---
+album: Surfer Girl
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1AJ5F0FMTC3yFU3ocjy1gE
 features: []
-genres: []
+first_released_as_single: false
 key: surfer-girl-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfergirl.html
 name: Surfer Girl
@@ -63,8 +66,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 148533
 ---
-
 Little surfer little one
 Made my heart come all undone
 Do you love me, do you surfer girl
@@ -89,6 +93,3 @@ Little one
 Girl surfer girl my little surfer girl
 Little one
 Girl surfer girl my little surfer girl
-
-
-

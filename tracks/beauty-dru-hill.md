@@ -1,8 +1,11 @@
 ---
+album: Enter The Dru
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:125dAqUSmX1nOG50fBz9vb
 features: []
-genres: []
+first_released_as_single: false
 key: beauty-dru-hill
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/beauty.html
 name: Beauty
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-12-11'
+release_year: 1998
+runtime: 272560
 ---
-
 Sorry, didn't notice you there
 But then again you didn't notice me
 So we'll remain passers by
@@ -129,6 +133,3 @@ Walks by me every day
 Her and love are the same
 The woman that's stolen my heart
 And beauty is her name
-
-
-

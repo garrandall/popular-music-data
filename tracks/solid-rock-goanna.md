@@ -1,8 +1,11 @@
 ---
+album: Spirit Of Place (Remastered & Expanded)
 artists:
 - Goanna
+external_ids:
+  spotify: spotify:track:18PsAoBaEHQZRUxigLP8QJ
 features: []
-genres: []
+first_released_as_single: false
 key: solid-rock-goanna
 lyrics_url: https://genius.com/Goanna-solid-rock-lyrics
 name: Solid Rock
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1983
+runtime: 275226
 ---
 Out here nothin' changes
 Not in a hurry anyway

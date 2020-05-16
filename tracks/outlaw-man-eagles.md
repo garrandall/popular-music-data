@@ -1,8 +1,11 @@
 ---
+album: Desperado
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:798K1FlIgRmuIIJeSbmmA0
 features: []
-genres: []
+first_released_as_single: false
 key: outlaw-man-eagles
 lyrics_url: https://genius.com/Eagles-outlaw-man-lyrics
 name: Outlaw Man
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 213430
 ---
 I am an Outlaw, I was born an Outlaw's son
 The highway is my legacy

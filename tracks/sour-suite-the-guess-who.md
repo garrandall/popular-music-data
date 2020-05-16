@@ -1,8 +1,11 @@
 ---
+album: So Long Bannatyne
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:6jlGV0yCpmnU75mdudi081
 features: []
-genres: []
+first_released_as_single: false
 key: sour-suite-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/soursuite.html
 name: Sour Suite
@@ -43,8 +46,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 246626
 ---
-
 Don't want to listen to my telephone ring
 Or sing ding-a-ling or talk about a thing
 Not this morning
@@ -99,6 +103,3 @@ There's gotta be a few small changes made
 Don't want to listen to my telephone ring
 Or sing ding-a-ling or talk about a thing
 Leave me alone this morning
-
-
-

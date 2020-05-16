@@ -1,8 +1,11 @@
 ---
+album: Once Again
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:3sTc75CCyIw4FPs6cXkOe7
 features: []
-genres: []
+first_released_as_single: false
 key: save-room-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/saveroom.html
 name: Save Room
@@ -31,9 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-03-03'
+release_year: 2006
+runtime: 235666
 ---
-
-
 Say that you'll stay a little
 don't say bye-bye tonight
 say you'll be mine
@@ -71,8 +74,3 @@ don't let this moment slip by tonight
 you'll never know what you're missing
 'till you try, ill keep you satisfied if you stay
 won't you save, save
-
-
-
-
-

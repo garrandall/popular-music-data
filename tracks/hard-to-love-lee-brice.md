@@ -1,8 +1,11 @@
 ---
+album: Hard 2 Love
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:6E9V9TRlVOLjenGjHemzEH
 features: []
-genres: []
+first_released_as_single: false
 key: hard-to-love-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/hardtolove.html
 name: Hard To Love
@@ -99,8 +102,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 224293
 ---
-
 I am insensitive, I have a tendency
 To pay more attention to the things that I need.
 Sometimes I drink too much, sometimes I test your trust,
@@ -147,6 +151,3 @@ I don't deserve it but I love that you love me good,
 You love me good.
 
 You love me good.
-
-
-

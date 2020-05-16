@@ -1,8 +1,11 @@
 ---
+album: Machine Gun
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:3mQTPYezPCB9uUM3WpkIff
 features: []
-genres: []
+first_released_as_single: false
 key: machine-gun-commodores
 lyrics_url: https://genius.com/Commodores-machine-gun-lyrics
 name: Machine Gun
@@ -59,5 +62,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1974
+runtime: 159466
 ---
 Instrumental

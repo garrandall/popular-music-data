@@ -1,8 +1,11 @@
 ---
+album: Coneheads (Music From The Motion Picture Soundtrack)
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:6pkzrU2RKoPcQJHT7dwlbP
 features: []
-genres: []
+first_released_as_single: false
 key: soul-to-squeeze-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/soultosqueeze.html
 name: Soul To Squeeze
@@ -87,10 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1994-01-08'
+release_year: 1993
+runtime: 289533
 ---
-
-
-
 I got a bad disease,
 Up from my brain is where I bleed.
 Insanity it seems,
@@ -294,6 +296,3 @@ Where I go I just don't know,
 I might end up somewhere in Mexico.
 When I find my peace of mind,
 I'm gonna keep for the end of time!
-
-
-

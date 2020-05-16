@@ -1,8 +1,11 @@
 ---
+album: Change Of Heart
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:3JUSHG1WHesa1p7rN7Ad3g
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-need-your-lovin--eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/babyineedyourlovin.html
 name: Baby I Need Your Lovin'
@@ -27,8 +30,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 196986
 ---
-
 Baby I need your lovin'
 Baby I need your lovin'
 
@@ -79,6 +83,3 @@ Baby, I need your lovin'
 I got to have all your lovin'
 Baby, I need your lovin'
 Got to have all your lovin'
-
-
-

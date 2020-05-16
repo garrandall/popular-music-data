@@ -1,9 +1,12 @@
 ---
+album: Between The Sheets - Volume 1
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:3lmmUdsD2jnsnHAxsQvVti
 features:
 - Gregory Hines
-genres: []
+first_released_as_single: false
 key: there-s-nothing-better-than-love-luther-vandross-with-gregory-hines
 lyrics_url: https://genius.com/Luther-vandross-theres-nothing-better-than-love-lyrics
 name: There's Nothing Better Than Love
@@ -64,6 +67,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1972
+runtime: 283400
 ---
 I, fell asleep late last night...
 And I dreamed the night and almost half the day away

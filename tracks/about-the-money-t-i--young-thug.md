@@ -1,9 +1,12 @@
 ---
+album: Paperwork (Deluxe Clean)
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:1hzJQIkgXwZevaKsc7iA6D
 features:
 - Young Thug
-genres: []
+first_released_as_single: true
 key: about-the-money-t-i--young-thug
 lyrics_url: https://genius.com/Ti-about-the-money-lyrics
 name: About The Money
@@ -88,6 +91,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2014
+runtime: 270120
 ---
 (We got London On Da Track)
 Woah

@@ -1,8 +1,11 @@
 ---
+album: The Wetter The Better
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:6n6AOv8it9k1emYF4tWRPR
 features: []
-genres: []
+first_released_as_single: false
 key: everything-that--cha-do--will-come-back-to-you--wet-willie
 lyrics_url: https://genius.com/Wet-willie-everything-that-cha-do-lyrics
 name: Everything That 'Cha Do (Will Come Back To You)
@@ -19,6 +22,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1976
+runtime: 313426
 ---
 Wet Willie
 Miscellaneous

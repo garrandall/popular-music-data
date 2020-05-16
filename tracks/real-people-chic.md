@@ -1,8 +1,11 @@
 ---
+album: Real People
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:28Ffq85bnIGz2vWQmuRdIF
 features: []
-genres: []
+first_released_as_single: false
 key: real-people-chic
 lyrics_url: https://genius.com/Chic-real-people-lyrics
 name: Real People
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
+release_year: 1980
+runtime: 323680
 ---
 Real people
 I want to live my life

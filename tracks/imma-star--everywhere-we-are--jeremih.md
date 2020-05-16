@@ -1,8 +1,11 @@
 ---
+album: Jeremih
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:1QOxGqu6VTjx58nslWBFVW
 features: []
-genres: []
+first_released_as_single: false
 key: imma-star--everywhere-we-are--jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/jeremih/immastareverywhereweare.html
 name: Imma Star (Everywhere We Are)
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 261373
 ---
-
 I thought I told ya
 Ima star.
 You see the ice?
@@ -163,6 +167,3 @@ Now they got the spotlight on me, why they put that on me
 Now I'm never lonley cuz everywhere I go there's...
 
 Flashy lights
-
-
-

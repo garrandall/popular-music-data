@@ -1,8 +1,11 @@
 ---
+album: Leavin' It All Behind
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:3UWUDZxv7sVmCEDNz1fxor
 features: []
-genres: []
+first_released_as_single: false
 key: walking-through-the-country-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/walkingthroughthecountry.html
 name: Walking Through The Country
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1970
+runtime: 235373
 ---
-
 Groovy day, a sunny day
 Walking through the country
 Just a breeze and I feel at ease
@@ -94,6 +98,3 @@ Don't it feel good
 Walkin' through the country
 Feels good now, doesn't it?
 Oh, yeah...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sons of the P
 artists:
 - Digital Underground
+external_ids:
+  spotify: spotify:track:0EdWAGNdIHQHxgZpYw4HRJ
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-you-back-digital-underground
 lyrics_url: https://www.azlyrics.com/lyrics/digitalunderground/kissyouback.html
 name: Kiss You Back
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 371760
 ---
-
 Shimmy shimmy cocoa-pop
 Shimmy shimmy cocoa-pop
 Shimmy shimmy cocoa-pop
@@ -116,7 +120,7 @@ Money-B's not buyin' it
 quit denyin' it
 you're better off tryin' it
 Freak me girl and I'll freak you back
-(duh nuh nuh nuh nuh nuh nuuuuh)
+(duh nuh nuh nuh nuh nuh nuh)
 
 Through any kinda weather
 will me and you forever
@@ -282,6 +286,3 @@ See me cocoa might go pop
 Me cocoa and I might go pop
 hah hah hah hah hah
 See me cocoa might go pop
-
-
-

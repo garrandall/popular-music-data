@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:4f8Mh5wuWHOsfXtzjrJB3t
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-tyler-the-creator
 lyrics_url: https://genius.com/Tyler-the-creator-i-think-lyrics
 name: I Think
@@ -11,6 +14,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 212013
 ---
 (Four, four, four, four)
 (Four, skate, four, skate, four, skate, four, skate)

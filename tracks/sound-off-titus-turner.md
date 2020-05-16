@@ -1,8 +1,11 @@
 ---
+album: Sound Off
 artists:
 - Titus Turner
+external_ids:
+  spotify: spotify:track:4xHlxSvdAE6o91oeAvXOfS
 features: []
-genres: []
+first_released_as_single: false
 key: sound-off-titus-turner
 lyrics_url: https://genius.com/Titus-turner-sound-off-lyrics
 name: Sound-Off
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1961
+runtime: 126533
 ---
 (Hut, two, three, four)
 (Hut, two, three, four)

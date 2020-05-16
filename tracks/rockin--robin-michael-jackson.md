@@ -1,8 +1,11 @@
 ---
+album: Got To Be There
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:63gcHyuhAC8G2C0bVQUOJI
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--robin-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/rockinrobin.html
 name: Rockin' Robin
@@ -59,8 +62,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 154840
 ---
-
 He rocks in the tree tops all day long
 Hoppin' and a-boppin' and singing his song
 All the little birdies on Jaybird Street
@@ -110,6 +114,3 @@ Rockin' robin, rock rock
 Rockin' robin
 Blow rockin' robin
 'Cause we're really gonna rock tonight
-
-
-

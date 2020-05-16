@@ -1,8 +1,11 @@
 ---
+album: Switch II
 artists:
 - Switch
+external_ids:
+  spotify: spotify:track:6j2M2UGvVmi4nbwjsSUkIv
 features: []
-genres: []
+first_released_as_single: false
 key: best-beat-in-town-switch
 lyrics_url: https://genius.com/Switch-r-b-band-best-beat-in-town-lyrics
 name: Best Beat In Town
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 286560
 ---
 We have a beat we made just for you to rock
 With harmonies and our beats you won't stop

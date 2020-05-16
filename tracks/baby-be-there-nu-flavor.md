@@ -1,8 +1,11 @@
 ---
+album: Nu Flavor
 artists:
 - Nu Flavor
+external_ids:
+  spotify: spotify:track:5ipaVsVyXBn9XyM7VnWexd
 features: []
-genres: []
+first_released_as_single: false
 key: baby-be-there-nu-flavor
 lyrics_url: https://www.azlyrics.com/lyrics/nuflavor/babybethere.html
 name: Baby Be There
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1997
+runtime: 255840
 ---
-
 I lay beside you in the warmth of the night.
 I can fell you breathe, I can hear you sigh, so softly.
 Tell me now baby, this feeling won't change.
@@ -93,6 +97,3 @@ Just swear
 There when I need you,
 Tell me you care,
 Make me believe you
-
-
-

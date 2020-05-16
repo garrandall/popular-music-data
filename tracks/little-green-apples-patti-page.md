@@ -1,8 +1,11 @@
 ---
+album: Gentle on My Mind
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:7mLlVDKxxdBSMEKG9W6XfW
 features: []
-genres: []
+first_released_as_single: false
 key: little-green-apples-patti-page
 lyrics_url: https://genius.com/Patti-page-little-green-apples-lyrics
 name: Little Green Apples
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 183933
 ---
 And I wake up in the mornin'
 With my hair down in my eyes and he says Hi

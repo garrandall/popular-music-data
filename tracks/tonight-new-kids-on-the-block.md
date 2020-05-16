@@ -1,8 +1,11 @@
 ---
+album: Step By Step
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:2QqbBVwpyJn7SL7thga35w
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-tonight-lyrics
 name: Tonight
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1990
+runtime: 207466
 ---
 Remember when we said, “Girl, please don’t go”
 And how I’d be loving you, forever?

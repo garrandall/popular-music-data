@@ -1,8 +1,11 @@
 ---
+album: Randy Meisner
 artists:
 - Randy Meisner
+external_ids:
+  spotify: spotify:track:49Wwa0weJwnNgzfINnQXgf
 features: []
-genres: []
+first_released_as_single: false
 key: never-been-in-love-randy-meisner
 lyrics_url: https://genius.com/Randy-meisner-never-been-in-love-lyrics
 name: Never Been In Love
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 268026
 ---
 I know you must be somebody else's dream
 Please don't go, 'cause it really doesn't matter to me

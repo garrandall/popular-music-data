@@ -1,8 +1,11 @@
 ---
+album: Sex Down
 artists:
 - Link
+external_ids:
+  spotify: spotify:track:1oPKnJv14YIAbEw4Xw1sAN
 features: []
-genres: []
+first_released_as_single: false
 key: whatcha-gone-do--link
 lyrics_url: https://www.musixmatch.com/lyrics/Link/Whatcha-Gone-Do
 name: Whatcha Gone Do?
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-10-10'
+release_year: 1998
+runtime: 259161
 ---
 What you gon do huh
 Tell me what you gon, what you gon do wha, wha-wha

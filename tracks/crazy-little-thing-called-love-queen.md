@@ -1,8 +1,11 @@
 ---
+album: The Game (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:35ItUJlMtjOQW3SSiTCrrw
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-little-thing-called-love-queen
 lyrics_url: https://www.musixmatch.com/lyrics/Queen-Robert-Plant/Crazy-Little-Thing-Called-Love
 name: Crazy Little Thing Called Love
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1979
+runtime: 163373
 ---
 This thing called love I just can't handle it
 This thing called love I must get round to it

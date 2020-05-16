@@ -1,8 +1,11 @@
 ---
+album: What A Wonderful World
 artists:
 - Louis Armstrong
+external_ids:
+  spotify: spotify:track:29U7stRjqHU6rMiS8BfaI9
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-wonderful-world-louis-armstrong
 lyrics_url: https://genius.com/Louis-armstrong-what-a-wonderful-world-lyrics
 name: What A Wonderful World
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1968
+runtime: 139226
 ---
 I see trees of green, red roses too
 I see them bloom, for me and you

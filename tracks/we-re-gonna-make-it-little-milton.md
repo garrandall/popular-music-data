@@ -1,8 +1,11 @@
 ---
+album: Montreux Festival
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:4pjXcTaGskA3teCn8mZCAQ
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-gonna-make-it-little-milton
 lyrics_url: https://genius.com/Little-milton-were-gonna-make-it-lyrics
 name: We're Gonna Make It
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 197373
 ---
 We may not have a cent to pay the rent
 But we're gonna make it, I know we will

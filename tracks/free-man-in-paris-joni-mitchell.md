@@ -1,8 +1,11 @@
 ---
+album: Court and Spark
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:2by5mqpQ1ZP2G5FOIccMnu
 features: []
-genres: []
+first_released_as_single: false
 key: free-man-in-paris-joni-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/jonimitchell/freemaninparis.html
 name: Free Man In Paris
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 183120
 ---
-
 The way I see it, he said, you just can't win it
 Everybody's in it for their own gain
 You can't please 'em all
@@ -80,16 +84,16 @@ There was nobody calling me up for favors
 And no one's future to decide
 You know I'd go back there tomorrow
 But for the work I've taken on
-Stoking the star-maker machinery 
+Stoking the star-maker machinery
 Behind the popular song
 
 I deal in dreamers and telephone screamers
 Lately I wonder what I do it for
 If I had my way
 I'd just walk through those doors
-And wander down the Champs-ÃlysÃ©es 
-Going cafÃ© to cabaret
-Thinking how I'd feel when I find 
+And wander down the Champs-Ãlysées
+Going café to cabaret
+Thinking how I'd feel when I find
 That very good friend of mine
 
 I was a free man in Paris
@@ -100,6 +104,3 @@ You know I'd go back there tomorrow
 But for the work I've taken on
 Stoking the star-maker machinery
 Behind the popular song
-
-
-

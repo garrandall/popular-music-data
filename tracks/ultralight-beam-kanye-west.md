@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1eQBEelI2NCy7AUTerX0KS
 features: []
-genres: []
+first_released_as_single: false
 key: ultralight-beam-kanye-west
 lyrics_url: https://genius.com/Kanye-west-ultralight-beam-lyrics
 name: Ultralight Beam
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2016
+runtime: 320680
 ---
 (Yes, God)
 We don't want no devils in the house, God (Yes, Lord)

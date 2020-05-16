@@ -1,8 +1,11 @@
 ---
+album: On The Move
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:67xS2k4sf3Ymj0UXx9wKUO
 features: []
-genres: []
+first_released_as_single: false
 key: what-have-i-got-of-my-own-trini-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Trini-Lopez/What-Have-I-Got-Of-My-Own
 name: What Have I Got Of My Own
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 157613
 ---
 What have I got of my own, my own?
 What have I got of my own?

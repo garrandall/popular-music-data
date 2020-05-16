@@ -1,8 +1,11 @@
 ---
+album: Cosmic Thing
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:64B4UbGRLtGRBtiN2m8OvF
 features: []
-genres: []
+first_released_as_single: true
 key: love-shack-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/loveshack.html
 name: Love Shack
@@ -115,8 +118,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 257519
 ---
-
 If you see a faded sign at the side of the road that says
 "15 miles to the Love Shack"
 Love Shack, yeah, yeah
@@ -202,6 +206,3 @@ Love, baby, Love Shack
 Huggin' and a-kissin'
 Dancin' and a-lovin'
 At the Love Shack
-
-
-

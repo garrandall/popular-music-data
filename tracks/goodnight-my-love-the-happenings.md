@@ -1,8 +1,11 @@
 ---
+album: Music Music Music
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:3rQzv2lYriRlWITedMsECq
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-my-love-the-happenings
 lyrics_url: https://genius.com/The-happenings-goodnight-my-love-lyrics
 name: Goodnight My Love
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 152306
 ---
 Goodnight my love
 Bless your heart and sleep tight my love

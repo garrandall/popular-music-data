@@ -1,9 +1,12 @@
 ---
+album: Calm Down  - Single
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:72DuDVv06ZtKDceAlq40f2
 features:
 - Eminem
-genres: []
+first_released_as_single: true
 key: calm-down-busta-rhymes-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/calmdown.html
 name: Calm Down
@@ -12,9 +15,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2014
+runtime: 355666
 ---
-
-
 Turn my mic up
 Turn my mic up
 
@@ -148,6 +151,3 @@ That on a grand scale I don't give a fuck about nothing like Stan mailing
 His last piece of fan mail before he ran straight into the damn railing
 
 Chill, man, chill
-
-
-

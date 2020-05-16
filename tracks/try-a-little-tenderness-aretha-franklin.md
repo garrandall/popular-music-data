@@ -1,8 +1,11 @@
 ---
+album: The Tender, The Moving, The Swinging Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6XA1E2WTQlHpaFEH4TwOIb
 features: []
-genres: []
+first_released_as_single: false
 key: try-a-little-tenderness-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/tryalittletenderness.html
 name: Try A Little Tenderness
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 194613
 ---
-
 She may be weary
 Women do get weary 
 Wearing the same shabby dress
@@ -58,6 +62,3 @@ Love is their whole happiness
 
 It's all so easy 
 Try a little tenderness
-
-
-

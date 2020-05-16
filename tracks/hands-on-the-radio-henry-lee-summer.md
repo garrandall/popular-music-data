@@ -1,8 +1,11 @@
 ---
+album: Henry Lee Summer
 artists:
 - Henry Lee Summer
+external_ids:
+  spotify: spotify:track:46pITDSOoxdYEqeqa1MS9f
 features: []
-genres: []
+first_released_as_single: false
 key: hands-on-the-radio-henry-lee-summer
 lyrics_url: https://genius.com/Henry-lee-summer-hands-on-the-radio-lyrics
 name: Hands On The Radio
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1988
+runtime: 199973
 ---
 Yeah...
 

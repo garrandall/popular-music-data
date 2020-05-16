@@ -1,8 +1,11 @@
 ---
+album: Don't Knock My Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:3eZGRqUedYnCfDuKVCVnqN
 features: []
-genres: []
+first_released_as_single: false
 key: mama-told-me-not-to-come-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-mama-told-me-not-to-come-lyrics
 name: Mama Told Me Not To Come
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1971
+runtime: 171426
 ---
 Want some whiskey in your water?
 Sugar in your tea?

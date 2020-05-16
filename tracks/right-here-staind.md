@@ -1,8 +1,11 @@
 ---
+album: Chapter V
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:6S7mmHgyWOG6pIYuL4YrfQ
 features: []
-genres: []
+first_released_as_single: false
 key: right-here-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/righthere.html
 name: Right Here
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-11-05'
+release_year: 2005
+runtime: 253933
 ---
-
 I know I've been mistaken
 But just give me a break and see the changes that I've made
 I've got some imperfections
@@ -124,6 +128,3 @@ To keep me right here waiting
 You always find the words to say to keep me right here waiting
 And if I chose to walk away would you be right here waiting
 Searching for the things to say to keep me right here waiting
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:11UUQDNB6XHOQ7zhdur4Ln
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-the-vogues
 lyrics_url: https://genius.com/The-vogues-youre-the-one-lyrics
 name: You're The One
@@ -55,6 +58,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 145796
 ---
 Every time we meet, everything is sweet
 Oh, you're so tender, I must surrender

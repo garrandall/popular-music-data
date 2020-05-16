@@ -1,9 +1,12 @@
 ---
+album: Ultra Dance 16
 artists:
 - Kygo
+external_ids:
+  spotify: spotify:track:4gek9UL5WceAq1qiZlhmGM
 features:
 - Conrad
-genres: []
+first_released_as_single: true
 key: firestone-kygo-conrad
 lyrics_url: https://www.azlyrics.com/lyrics/kygo/firestone.html
 name: Firestone
@@ -12,8 +15,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 226345
 ---
-
 I'm a flame
 You're a fire
 I'm the dark in need of light
@@ -62,6 +66,3 @@ Oh oh
 World
 Oh oh
 Firestone
-
-
-

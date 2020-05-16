@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1Y7abeCiyuhkE7lVliXkWp
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-always-get-what-you-want-glee-cast
 lyrics_url: https://genius.com/Glee-cast-you-cant-always-get-what-you-want-lyrics
 name: You Can't Always Get What You Want
@@ -11,6 +14,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 207160
 ---
 You can't always get what you want
 You can't always get what you want

@@ -1,8 +1,11 @@
 ---
+album: They Never Saw Me Coming
 artists:
 - TQ
+external_ids:
+  spotify: spotify:track:6I3LsZncKrJG9mwv12FCEg
 features: []
-genres: []
+first_released_as_single: false
 key: westside-tq
 lyrics_url: https://genius.com/Tq-westside-lyrics
 name: Westside
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 304733
 ---
 This is goin' out
 To the whole wide Westside

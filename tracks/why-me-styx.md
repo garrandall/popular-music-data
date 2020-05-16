@@ -1,8 +1,11 @@
 ---
+album: Cornerstone
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:5TRDExTcoThDZZ1myVFtlo
 features: []
-genres: []
+first_released_as_single: false
 key: why-me-styx
 lyrics_url: https://genius.com/Styx-why-me-lyrics
 name: Why Me
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1979
+runtime: 233800
 ---
 I guess we used to be the lucky ones
 Whose fortune smiled on everyone
@@ -85,7 +90,7 @@ And things won't go your way
 You know you've had enough
 You've got the right to say
 Why me, why me
-(Instrumental break)
+
 Stop (stop)
 Here comes anxiety
 Stop (stop)

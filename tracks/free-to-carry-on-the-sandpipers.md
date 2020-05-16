@@ -1,8 +1,11 @@
 ---
+album: Come Saturday Morning
 artists:
 - The Sandpipers
+external_ids:
+  spotify: spotify:track:1YYRxoIizffhsvCfJ2MF00
 features: []
-genres: []
+first_released_as_single: false
 key: free-to-carry-on-the-sandpipers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sandpipers/Free-to-Carry-On
 name: Free To Carry On
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 168800
 ---
 Someday I'll listen to my heart
 And know it's turning me off

@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Chris Jamison
 - Adam Levine
+external_ids:
+  spotify: spotify:track:6rZ2PWCvrGET4tg03I5Mke
 features: []
-genres: []
+first_released_as_single: false
 key: lost-without-u-chris-jamison-adam-levine
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Jamison-Adam-Levine/Lost-Without-U-The-Voice-Performance
 name: Lost Without U
@@ -12,6 +15,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2015
+runtime: 181546
 ---
 I'm lost without you
 Can't help myself

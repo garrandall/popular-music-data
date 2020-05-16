@@ -1,8 +1,11 @@
 ---
+album: Meet The Supremes - Expanded Edition
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:6wmH6V0qMx1DGLt3IqewVM
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-lovelight-starts-shining-through-his-eyes-the-supremes
 lyrics_url: https://genius.com/The-supremes-when-the-lovelight-starts-shining-through-his-eyes-lyrics
 name: When The Lovelight Starts Shining Through His Eyes
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1962
+runtime: 170800
 ---
 He gave me the eye
 But I just passed him by

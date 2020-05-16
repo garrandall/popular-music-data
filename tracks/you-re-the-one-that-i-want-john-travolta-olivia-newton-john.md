@@ -1,9 +1,12 @@
 ---
+album: Grease (The Original Motion Picture Soundtrack)
 artists:
 - John Travolta
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:0B9x2BRHqj3Qer7biM3pU3
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-that-i-want-john-travolta-olivia-newton-john
 lyrics_url: https://genius.com/John-travolta-and-olivia-newton-john-youre-the-one-that-i-want-martian-remix-lyrics
 name: You're The One That I Want
@@ -104,6 +107,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 169840
 ---
 I got chills, they're multiplyin'
 And I'm losin' control

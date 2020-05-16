@@ -1,8 +1,11 @@
 ---
+album: Georgia Clay
 artists:
 - Josh Kelley
+external_ids:
+  spotify: spotify:track:7Lr6MoqSD5Y6KjSKxFy4TH
 features: []
-genres: []
+first_released_as_single: true
 key: georgia-clay-josh-kelley
 lyrics_url: https://genius.com/Josh-kelley-georgia-clay-lyrics
 name: Georgia Clay
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2010
+runtime: 184213
 ---
 Ain't it funny how some things take you back
 And the here and now just fades to black

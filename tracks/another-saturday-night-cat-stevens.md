@@ -1,8 +1,11 @@
 ---
+album: Majikat Earth Tour 1976
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:3ekij6XVw1F5dFX9oLvNU0
 features: []
-genres: []
+first_released_as_single: false
 key: another-saturday-night-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/anothersaturdaynight.html
 name: Another Saturday Night
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 150360
 ---
-
 Another Saturday night and I ain't got nobody
 I've got some money 'cause I just got paid
 Now, how I wish I had someone to talk to
@@ -105,6 +109,3 @@ Another Saturday night and I ain't got nobody
 I've got some money 'cause I just got paid
 Now, how I wish I had someone to talk to
 I'm in an awful way
-
-
-

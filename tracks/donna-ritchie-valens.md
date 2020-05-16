@@ -1,8 +1,11 @@
 ---
+album: Ritchie Valens
 artists:
 - Ritchie Valens
+external_ids:
+  spotify: spotify:track:0VE4ayVlGs5DBoqOdgJ0Zv
 features: []
-genres: []
+first_released_as_single: false
 key: donna-ritchie-valens
 lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/donna.html
 name: Donna
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1958
+runtime: 150973
 ---
-
 Oh, Donna
 Oh, Donna
 Oh, Donna
@@ -142,6 +146,3 @@ Oh, Donna
 Oh, Donna
 Oh, Donna
 Oh, Donna
-
-
-

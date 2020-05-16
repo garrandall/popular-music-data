@@ -1,8 +1,11 @@
 ---
+album: Goodnight Vienna
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:25Cv6pteVL6Wm4GIvPCFnO
 features: []
-genres: []
+first_released_as_single: false
 key: back-off-boogaloo-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/backoffboogaloo.html
 name: Back Off Boogaloo
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 202426
 ---
-
 Go!
 
 Back off boogaloo,
@@ -115,6 +119,3 @@ Come on, back off boogaloo, boo.
 Back off boogaloo,
 I said, back off boogaloo,
 Come on, back off boogaloo, boo.
-
-
-

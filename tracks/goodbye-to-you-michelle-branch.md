@@ -1,8 +1,11 @@
 ---
+album: Broken Bracelet
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:2LvCjmOY3N5pBtym68DHZp
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-to-you-michelle-branch
 lyrics_url: https://www.azlyrics.com/lyrics/michellebranch/goodbyetoyou.html
 name: Goodbye To You
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-01-11'
+release_year: 2000
+runtime: 266066
 ---
-
 Of all the things I've believed in
 I just want to get it over with
 Tears form behind my eyes
@@ -126,6 +130,3 @@ But I'm not giving in this time
 And when the stars fall
 I will lie awake
 You're my shooting star
-
-
-

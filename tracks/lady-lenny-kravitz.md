@@ -1,8 +1,11 @@
 ---
+album: Baptism
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:4qM2h3xkzwGJiVv6GgL6w0
 features: []
-genres: []
+first_released_as_single: false
 key: lady-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/lady.html
 name: Lady
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2004
+runtime: 255573
 ---
-
 I'm crazy for this little lady
 I'm freaking for my little baby
 'Cause she makes me feel good
@@ -153,6 +157,3 @@ Yeah
 All the time
 Yeah
 Yeah Yeah Yeah Yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: G
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:4z9aQnKnoM0cDrLkUXdbPr
 features: []
-genres: []
+first_released_as_single: false
 key: baby-u-are-gerald-levert
 lyrics_url: https://genius.com/Gerald-levert-baby-u-are-lyrics
 name: Baby U Are
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
+release_year: 2000
+runtime: 317066
 ---
 Before you came around I asked myself
 What is this thing called love

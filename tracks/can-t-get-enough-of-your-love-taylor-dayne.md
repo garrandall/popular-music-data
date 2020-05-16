@@ -1,8 +1,11 @@
 ---
+album: Soul Dancing
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:39owLj3gqY7XN41PC1WO6Q
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-enough-of-your-love-taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-cant-get-enough-of-your-love-lyrics
 name: Can't Get Enough Of Your Love
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1993
+runtime: 265893
 ---
 I've heard people say that
 Too much of anything is not good for you, baby

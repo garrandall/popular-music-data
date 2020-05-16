@@ -1,8 +1,11 @@
 ---
+album: Brian Hyland
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:1txNotaGMAx0ihqiOHDVan
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-woman-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/Gypsy-Woman
 name: Gypsy Woman
@@ -87,6 +90,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 154440
 ---
 From nowhere through a caravan
 Around the campfire light

@@ -1,8 +1,11 @@
 ---
+album: Spotlight on Eddie Floyd
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:0IPDr9SPslyz8XF0tF5Ms1
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-saturday-night-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-on-a-saturday-night-lyrics
 name: On A Saturday Night
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 290066
 ---
 Well I'm looking for my baby
 And when I found my baby

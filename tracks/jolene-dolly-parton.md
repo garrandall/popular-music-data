@@ -1,8 +1,11 @@
 ---
+album: Jolene
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:5fdhThPDe6jQQDqCyWrdAn
 features: []
-genres: []
+first_released_as_single: false
 key: jolene-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/jolene141885.html
 name: Jolene
@@ -39,8 +42,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1974
+runtime: 161533
 ---
-
 Jolene, Jolene, Jolene, Jolene
 I'm begging of you please don't take my man
 Jolene, Jolene, Jolene, Jolene
@@ -81,6 +85,3 @@ Jolene, Jolene, Jolene, Jolene
 Please don't take him even though you can
 
 Jolene, Jolene
-
-
-

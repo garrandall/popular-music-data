@@ -1,9 +1,12 @@
 ---
+album: Midnight Light
 artists:
 - LeBlanc
 - Carr
+external_ids:
+  spotify: spotify:track:2niFXRDFTmgLjPYNkcA2no
 features: []
-genres: []
+first_released_as_single: false
 key: falling-leblanc-carr
 lyrics_url: https://genius.com/Leblanc-and-carr-falling-lyrics
 name: Falling
@@ -120,6 +123,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
+release_year: 1977
+runtime: 192226
 ---
 I think about winter when I was with her
 And the snow was falling down

@@ -1,8 +1,11 @@
 ---
+album: I'm Yours
 artists:
 - Linda Clifford
+external_ids:
+  spotify: spotify:track:44LZ8tzYJ8RiWvqAwibyO0
 features: []
-genres: []
+first_released_as_single: false
 key: red-light-linda-clifford
 lyrics_url: https://genius.com/Linda-clifford-red-light-lyrics
 name: Red Light
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
+release_year: 1980
+runtime: 370866
 ---
 Doo, doo, doo, doo, doo, doo, doo
 Doo, doo, doo, doo, doo, doo, doo, doo

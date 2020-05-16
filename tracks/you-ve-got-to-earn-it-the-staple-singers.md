@@ -1,8 +1,11 @@
 ---
+album: The Staple Swingers
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:4K8zdnORr9jsQIbZraSLrU
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-to-earn-it-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-youve-got-to-earn-it-lyrics
 name: You've Got To Earn It
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 208733
 ---
 To get stones from a rock
 You've got to break it

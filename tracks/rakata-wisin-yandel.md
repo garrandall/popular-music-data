@@ -1,9 +1,12 @@
 ---
+album: Pa'l Mundo
 artists:
 - Wisin
 - Yandel
+external_ids:
+  spotify: spotify:track:1kQqiC1rS1FiuVpeBKN0QN
 features: []
-genres: []
+first_released_as_single: false
 key: rakata-wisin-yandel
 lyrics_url: https://www.azlyrics.com/lyrics/wisinyyandel/rakata.html
 name: Rakata
@@ -28,8 +31,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-01-07'
+release_year: 2005
+runtime: 172680
 ---
-
 Salte... ('W', con!)
 Si no estas bailando con ella
 Salte... ('Y', Yandel!)
@@ -113,6 +117,3 @@ Nelly!
 'W', el sobreviviente! 
 Con Yandel! 
 El dÃºo dinÃ¡mico!
-
-
-

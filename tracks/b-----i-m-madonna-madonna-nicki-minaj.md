@@ -1,9 +1,12 @@
 ---
+album: Rebel Heart
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3Ik6ZVvOgr2Pu5cnI8Gsu0
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: b-----i-m-madonna-madonna-nicki-minaj
 lyrics_url: https://www.musixmatch.com/lyrics/Madonna-feat-Nicki-Minaj/B-I-m-Madonna
 name: B**** I'm Madonna
@@ -16,6 +19,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2015
+runtime: 228853
 ---
 Ohhhhh...
 Oh Oh Oh, You're gonna love this

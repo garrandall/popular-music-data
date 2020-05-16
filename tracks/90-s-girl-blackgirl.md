@@ -1,8 +1,11 @@
 ---
+album: Love Soul, Vol. 2
 artists:
 - Blackgirl
+external_ids:
+  spotify: spotify:track:7wihIPRid6q3FyrQPfSSuN
 features: []
-genres: []
+first_released_as_single: false
 key: 90-s-girl-blackgirl
 lyrics_url: https://genius.com/Blackgirl-90s-girl-lyrics
 name: 90's Girl
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
+release_year: 1994
+runtime: 415713
 ---
 Oh, oh
 Oh, no, no

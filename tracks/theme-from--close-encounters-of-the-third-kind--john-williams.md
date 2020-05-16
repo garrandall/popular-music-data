@@ -1,8 +1,11 @@
 ---
+album: Classical Soundtrack To The Movies
 artists:
 - John Williams
+external_ids:
+  spotify: spotify:track:2gM2WmMK1J2ghGc45sx1ge
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from--close-encounters-of-the-third-kind--john-williams
 name: Theme From "Close Encounters Of The Third Kind"
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 401933
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Diesel And Dust
 artists:
 - Midnight Oil
+external_ids:
+  spotify: spotify:track:1CtAzw53AIXKjAemxy4b1j
 features: []
-genres: []
+first_released_as_single: false
 key: beds-are-burning-midnight-oil
 lyrics_url: https://genius.com/Midnight-oil-beds-are-burning-lyrics
 name: Beds Are Burning
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1987
+runtime: 255680
 ---
 Out where the river broke
 The bloodwood and the desert oak

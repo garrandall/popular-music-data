@@ -1,9 +1,12 @@
 ---
+album: Talk That Talk
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:3eiljiHHlpZKkfj2uQTunn
 features:
 - Calvin Harris
-genres: []
+first_released_as_single: true
 key: we-found-love-rihanna-calvin-harris
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/wefoundlove.html
 name: We Found Love
@@ -172,8 +175,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
+release_year: 2011
+runtime: 357226
 ---
-
 Yellow diamonds in the light
 And we're standing side by side
 As your shadow crosses mine
@@ -213,6 +217,3 @@ We found love in a hopeless place
 We found love in a hopeless place
 We found love in a hopeless place
 We found love in a hopeless place
-
-
-

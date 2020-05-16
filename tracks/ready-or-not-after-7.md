@@ -1,8 +1,11 @@
 ---
+album: After 7
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:6AgDFWLbbAt2migXMbrhXT
 features: []
-genres: []
+first_released_as_single: false
 key: ready-or-not-after-7
 lyrics_url: https://genius.com/After-7-ready-or-not-lyrics
 name: Ready Or Not
@@ -91,6 +94,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1989
+runtime: 275826
 ---
 I'll give you the sun, the rain, the moon, the stars and the mountains
 I'll give you the world, and all that you wish for

@@ -1,8 +1,11 @@
 ---
+album: 'The Brothers: Isley'
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0QBZTXAeOK6YEWJt8AgheA
 features: []
-genres: []
+first_released_as_single: false
 key: i-turned-you-on-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-i-turned-you-on-lyrics
 name: I Turned You On
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 157373
 ---
 Hold it, baby, I turned you on
 Now I can't turn you off

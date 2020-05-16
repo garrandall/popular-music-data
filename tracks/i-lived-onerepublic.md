@@ -1,8 +1,11 @@
 ---
+album: Native
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:7D49Iig0avHre9RFSUMkd2
 features: []
-genres: []
+first_released_as_single: false
 key: i-lived-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/ilived.html
 name: I Lived
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2014
+runtime: 234546
 ---
-
 Hope when you take that jump, you don't fear the fall
 Hope when the water rises, you built a wall
 Hope when the crowd screams out, it's screaming your name
@@ -123,6 +127,3 @@ Oh, whoa, oh, oh, oh, oh, oh, oh
 I swear I lived
 Oh, whoa, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh
-
-
-

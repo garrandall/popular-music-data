@@ -1,8 +1,11 @@
 ---
+album: Cloud Nine
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:6fAADiK2jnjdm5QRI7hSYc
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-was-fab-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/whenwewasfab.html
 name: When We Was Fab
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1987
+runtime: 239853
 ---
-
 Back then long time ago when grass was green
 Woke up in a daze
 Arrived like strangers in the night
@@ -83,6 +87,3 @@ Fab - like this pullover you sent to me
 Fab
 And You Really Got A Hold On Me
 fab - long time ago when we was fab
-
-
-

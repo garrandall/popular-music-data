@@ -1,8 +1,11 @@
 ---
+album: "Chess Soul: A Decade Of Chicago\u2019s Finest"
 artists:
 - Jan Bradley
+external_ids:
+  spotify: spotify:track:32jTKWSBvO4A6dK0INCgdC
 features: []
-genres: []
+first_released_as_single: false
 key: mama-didn-t-lie-jan-bradley
 lyrics_url: https://genius.com/Jan-bradley-mama-didnt-lie-lyrics
 name: Mama Didn't Lie
@@ -63,6 +66,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1963
+runtime: 124866
 ---
 Mama didn't lie, she didn't lie
 Mama didn't lie, she didn't lie

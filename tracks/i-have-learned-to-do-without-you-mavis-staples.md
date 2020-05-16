@@ -1,8 +1,11 @@
 ---
+album: Only For The Lonely
 artists:
 - Mavis Staples
+external_ids:
+  spotify: spotify:track:5wfxLwBob2D32KO95kFMtx
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-learned-to-do-without-you-mavis-staples
 lyrics_url: https://www.azlyrics.com/lyrics/mavisstaples/ihavelearnedtodowithoutyou.html
 name: I Have Learned To Do Without You
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 254800
 ---
-
 You gave me my first taste of love
 You put in a groove and I could think of
 Were your sweet lips
@@ -84,6 +88,3 @@ Somehow I got over you, yeah
 Did something I didn't think I could do
 I have learned to do without you
 I'm doing just fine
-
-
-

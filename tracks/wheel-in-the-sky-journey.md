@@ -1,8 +1,11 @@
 ---
+album: Infinity
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:3NX1Q3ksss9JmwbovFbzBV
 features: []
-genres: []
+first_released_as_single: false
 key: wheel-in-the-sky-journey
 lyrics_url: https://genius.com/Journey-wheel-in-the-sky-lyrics
 name: Wheel In The Sky
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1975
+runtime: 312706
 ---
 Winter is here again, oh lord
 Haven't been home in a year or more

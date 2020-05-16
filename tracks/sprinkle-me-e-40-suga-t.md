@@ -1,9 +1,12 @@
 ---
+album: In A Major Way
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:6yMs0JLZO6bpjUT3fyA1bG
 features:
 - Suga T
-genres: []
+first_released_as_single: false
 key: sprinkle-me-e-40-suga-t
 lyrics_url: https://www.azlyrics.com/lyrics/e40/sprinkleme.html
 name: Sprinkle Me
@@ -60,9 +63,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 250733
 ---
-
-
 (burrrp, burp)
 Yeah, hocus pocus, skiggedy skay
 It ain't nuttin but me
@@ -155,6 +158,3 @@ Sick Wid It Records, Jive all the time
 It's Mob City, V-Town, it's Mob City
 It's Mob City V-Town niggas
 (mobbin through ya hood)
-
-
-

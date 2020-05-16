@@ -1,8 +1,11 @@
 ---
+album: Rise and Shine
 artists:
 - Randy Travis
+external_ids:
+  spotify: spotify:track:0riGx0wA6jMQsFmgdOUgcH
 features: []
-genres: []
+first_released_as_single: false
 key: three-wooden-crosses-randy-travis
 lyrics_url: https://www.azlyrics.com/lyrics/randytravis/threewoodencrosses.html
 name: Three Wooden Crosses
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 201240
 ---
-
 A farmer and a teacher, a hooker and a preacher,
 Ridin' on a midnight bus bound for Mexico.
 One's headed for vacation, one for higher education,
@@ -126,6 +130,3 @@ It's not what you take when you leave this world behind you,
 It's what you leave behind you when you go.
 
 There are three wooden crosses on the right side of the highway.
-
-
-

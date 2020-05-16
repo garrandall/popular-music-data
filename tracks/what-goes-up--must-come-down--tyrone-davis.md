@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:1BzFiD7UaCd0PIcs07dXUz
 features: []
-genres: []
+first_released_as_single: false
 key: what-goes-up--must-come-down--tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-what-goes-up-must-come-down-lyrics
 name: What Goes Up (Must Come Down)
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1974
+runtime: 215266
 ---
 I left you, oh Lord, have mercy
 Without saving a dime

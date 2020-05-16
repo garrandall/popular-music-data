@@ -1,8 +1,11 @@
 ---
+album: Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:1hFmFWgeQgj3LFkWnFUcA6
 features: []
-genres: []
+first_released_as_single: false
 key: god-knows-i-love-you-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/godknowsiloveyou.html
 name: God Knows I Love You
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 191355
 ---
-
 I remember when we were children playing in the fields, 
 I loved you truely even then and you know I always will. 
 Climbin' over creek banks down by the cotton gin. 
@@ -41,6 +45,3 @@ And I've heard you laugh when in my heart I knew you wanted to cry.
 And when the truth might have hurt me I've heard you tell a lie and that is why I love you like I do
 
 God knows I love you. God knows I do
-
-
-

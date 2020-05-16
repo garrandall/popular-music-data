@@ -1,8 +1,11 @@
 ---
+album: Heartbreak Station
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:4RTV6bpggP3qZeDfPThJms
 features: []
-genres: []
+first_released_as_single: false
 key: shelter-me-cinderella
 lyrics_url: https://www.azlyrics.com/lyrics/cinderella/shelterme.html
 name: Shelter Me
@@ -59,8 +62,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 287826
 ---
-
 Everybody needs a little place they can hide
 Somewhere to call their own
 Don't let nobody inside
@@ -95,4 +99,3 @@ For some it's a needle for some it's pill
 Some people read the Bible cause it's giving them a thrill
 You can spend your money before you get your pay
 With a toss of the dice you can piss it all away
-

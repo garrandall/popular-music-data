@@ -1,8 +1,11 @@
 ---
+album: Out Of Sight
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:7DSlXCe1TsCW3AWBgJ4YPp
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-sight-james-brown-and-his-orchestra
 lyrics_url: https://genius.com/James-brown-out-of-sight-lyrics
 name: Out Of Sight
@@ -47,6 +50,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 142200
 ---
 You got your high-heeled sneakers on
 Slip-in mules

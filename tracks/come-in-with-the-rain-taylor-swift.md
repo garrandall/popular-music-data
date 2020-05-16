@@ -1,8 +1,11 @@
 ---
+album: Fearless Platinum Edition
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4pl5zcqCv4vc3cB7M4MZ6f
 features: []
-genres: []
+first_released_as_single: false
 key: come-in-with-the-rain-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-come-in-with-the-rain-lyrics
 name: Come In With The Rain
@@ -11,6 +14,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2008
+runtime: 238106
 ---
 I could go back to every laugh
 But I don't wanna go there anymore

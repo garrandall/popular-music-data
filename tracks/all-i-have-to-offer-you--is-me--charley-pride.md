@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:1AoE6Ystx6PhWJjtR8kAyi
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-have-to-offer-you--is-me--charley-pride
 lyrics_url: https://genius.com/Charley-pride-all-i-have-to-offer-you-is-me-lyrics
 name: All I Have To Offer You (Is Me)
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 182000
 ---
 Before you take another step, there's something you should know
 About the years ahead and how they'll be

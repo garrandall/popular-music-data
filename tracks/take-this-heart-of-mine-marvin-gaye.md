@@ -1,8 +1,11 @@
 ---
+album: Moods Of Marvin Gaye
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:3BIJA1amR1UN8BKlPsJ0ag
 features: []
-genres: []
+first_released_as_single: false
 key: take-this-heart-of-mine-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-take-this-heart-of-mine-lyrics
 name: Take This Heart Of Mine
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 166893
 ---
 Oo, you say you're feeling bad cause
 The least thing makes you cry

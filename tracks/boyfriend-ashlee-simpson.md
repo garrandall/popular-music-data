@@ -1,8 +1,11 @@
 ---
+album: I Am Me
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:1f0XxoeFQWM4mR4NxHu6DE
 features: []
-genres: []
+first_released_as_single: false
 key: boyfriend-ashlee-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/ashleesimpson/boyfriend.html
 name: Boyfriend
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 179426
 ---
-
 Ha, Ha, Ha,
 Ha, Ha, Ha,
 
@@ -175,6 +179,3 @@ Whoa, whoa, whoa, ha,
 Whoa, I didn't steal your boyfriend,
 Whoa, whoa, whoa, ha,
 Whoa, I didn't steal your boyfriend
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Backstreet Boys
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:1nRwyxNsqCLeA17qR8Nfxx
 features: []
-genres: []
+first_released_as_single: false
 key: quit-playing-games--with-my-heart--backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-quit-playing-games-with-my-heart-lyrics
 name: Quit Playing Games (With My Heart)
@@ -179,6 +182,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
+release_year: 1996
+runtime: 233533
 ---
 Baby, oh
 

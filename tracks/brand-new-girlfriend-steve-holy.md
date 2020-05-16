@@ -1,8 +1,11 @@
 ---
+album: Brand New Girlfriend
 artists:
 - Steve Holy
+external_ids:
+  spotify: spotify:track:4mpUaApNea2QhQshM4xyr4
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-girlfriend-steve-holy
 lyrics_url: https://www.azlyrics.com/lyrics/steveholy/brandnewgirlfriend.html
 name: Brand New Girlfriend
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 220186
 ---
-
 She said, "I need sometime to find myself
 I need a little space to think
 And maybe we should start seeing other people
@@ -148,6 +152,3 @@ You know I feel just like a kid again
 I got a brand new girlfriend
 She makes me feel just like a kid again
 I gotta brand new girlfriend
-
-
-

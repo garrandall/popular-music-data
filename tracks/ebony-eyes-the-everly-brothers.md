@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:5cGZE6yM5i0ZlWut6wawsN
 features: []
-genres: []
+first_released_as_single: false
 key: ebony-eyes-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-ebony-eyes-lyrics
 name: Ebony Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 188093
 ---
 (Oooooooooo)
 On a weekend pass I wouldn't have had time

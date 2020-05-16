@@ -1,8 +1,11 @@
 ---
+album: Back to Bedlam
 artists:
 - James Blunt
+external_ids:
+  spotify: spotify:track:13yEuYLJYxPCLJR0KNOqpk
 features: []
-genres: []
+first_released_as_single: false
 key: high-james-blunt
 lyrics_url: https://genius.com/James-blunt-high-lyrics
 name: High
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-06-24'
+release_year: 2005
+runtime: 243280
 ---
 Beautiful dawn
 Lights up the shore for me

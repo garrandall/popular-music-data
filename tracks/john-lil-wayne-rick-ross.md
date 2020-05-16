@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:7HaggpJGAfEgH8wyMLOIPl
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: john-lil-wayne-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/johnifidietoday.html
 name: John
@@ -88,8 +91,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 286973
 ---
-
 Just saw an alien saucer approaching from the sky
 Radio contact has been attempted but cannot be established
 Instructions are to prepare for an attack by an unknown enemy
@@ -186,6 +190,3 @@ I call the plays, motherfucker huddle up
 
 I'm not a star, somebody lied, I got a chopper in the car
 I got a chopper in the car, I got a chopper in the car
-
-
-

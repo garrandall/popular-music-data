@@ -1,8 +1,11 @@
 ---
+album: I'll Stay Me
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:4xfezXafYzsy7G4KfXQ9G5
 features: []
-genres: []
+first_released_as_single: false
 key: country-man-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/countryman.html
 name: Country Man
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2007
+runtime: 190226
 ---
-
 You need hands, rough not soft
 To come and warm you up up in that cold hayloft
 Let me hold you, little darling, in my big strong arms
@@ -78,6 +82,3 @@ Hunting me a good ol' country girlfriend
 Why don't you come and join me in my new deer stand
 Hey, baby, I'm a country man
 Hey, baby, I'm a country man
-
-
-

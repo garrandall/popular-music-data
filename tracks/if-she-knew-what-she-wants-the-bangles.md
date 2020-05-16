@@ -1,8 +1,11 @@
 ---
+album: Different Light
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:4Qr3jHjvmFN5iTSR1H9pw4
 features: []
-genres: []
+first_released_as_single: false
 key: if-she-knew-what-she-wants-the-bangles
 lyrics_url: https://www.azlyrics.com/lyrics/bangles/ifsheknewwhatshewants.html
 name: If She Knew What She Wants
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 228600
 ---
-
 Oh
 
 If she knew what she wants
@@ -140,6 +144,3 @@ Giving it to her
 (But he can't see through her)
 Oh, giving it to her
 Giving it to her now
-
-
-

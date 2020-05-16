@@ -1,8 +1,11 @@
 ---
+album: Burn
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:0cHRuyr1YyvJXTCX5ZeqSO
 features: []
-genres: []
+first_released_as_single: false
 key: downtime-jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/downtime.html
 name: Downtime
@@ -67,8 +70,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
+release_year: 2000
+runtime: 224400
 ---
-
 I haven't been myself these days according to friends
 I tend to lose part of me when my heart's on the mend
 I'll be alright it's safe to say
@@ -98,6 +102,3 @@ I tell myself that everything will be just fine
 I'm just going through a little down-time
 
 I'm just going through a little down-time
-
-
-

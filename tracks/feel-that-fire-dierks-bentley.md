@@ -1,8 +1,11 @@
 ---
+album: Feel That Fire
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:0U7Q336Pth6J3mPy736fQq
 features: []
-genres: []
+first_released_as_single: false
 key: feel-that-fire-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/feelthatfire.html
 name: Feel That Fire
@@ -91,8 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 201506
 ---
-
 She wants her nails painted black
 She wants the toy in the Cracker Jack
 She wants to ride the bull at the rodeo
@@ -136,6 +140,3 @@ Feel that fire
 She wants her nails painted black
 She wants the toy in the Cracker Jack
 She wants to ride the bull at the rodeo
-
-
-

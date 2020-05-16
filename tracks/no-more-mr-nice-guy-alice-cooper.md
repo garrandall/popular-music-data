@@ -1,8 +1,11 @@
 ---
+album: Billion Dollar Babies (Deluxe Reissue)
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:5D2eCwqbHcqOnfHOCM6TnV
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-mr-nice-guy-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/nomoremrniceguylive.html
 name: No More Mr Nice Guy
@@ -55,10 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 187893
 ---
-
-
-
 I used to be such a sweet, sweet thing
 'Til they got a hold of me
 I'd open doors for little old ladies
@@ -104,6 +106,3 @@ No more mister nice guy
 No more mister clean
 No more mister nice guy
 He says you're sick, you're obscene
-
-
-

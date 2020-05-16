@@ -1,8 +1,11 @@
 ---
+album: When In Rome
 artists:
 - When In Rome
+external_ids:
+  spotify: spotify:track:48p5E25cFPanxuwCTmTpuL
 features: []
-genres: []
+first_released_as_single: false
 key: the-promise-when-in-rome
 lyrics_url: https://genius.com/When-in-rome-the-promise-lyrics
 name: The Promise
@@ -107,6 +110,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 220960
 ---
 If you need a friend
 Don't look to a stranger

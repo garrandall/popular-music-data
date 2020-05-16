@@ -1,8 +1,11 @@
 ---
+album: Why Pick On Me - Sometimes Good Guys Don't Wear White
 artists:
 - The Standells
+external_ids:
+  spotify: spotify:track:2RJPho1Ex5yhAm4tr76DLp
 features: []
-genres: []
+first_released_as_single: false
 key: why-pick-on-me-the-standells
 lyrics_url: https://genius.com/The-standells-why-pick-on-me-lyrics
 name: Why Pick On Me
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 189333
 ---
 Puzzled lips dipped in wine
 Out to get this heart of mine

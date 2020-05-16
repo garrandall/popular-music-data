@@ -1,8 +1,11 @@
 ---
+album: The Great Burrito Extortion Case
 artists:
 - Bowling For Soup
+external_ids:
+  spotify: spotify:track:1bhjMY5O0ZjB41OHcdRH0a
 features: []
-genres: []
+first_released_as_single: false
 key: high-school-never-ends-bowling-for-soup
 lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/highschoolneverends.html
 name: High School Never Ends
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2006
+runtime: 209040
 ---
-
 Four years you think for sure
 That's all you've got to endure
 All the total dicks
@@ -76,6 +80,3 @@ High school never ends
 High school never ends
 
 Here we go again
-
-
-

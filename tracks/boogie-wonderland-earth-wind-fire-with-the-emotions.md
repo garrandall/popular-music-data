@@ -1,9 +1,12 @@
 ---
+album: I Am
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:5hJKyyxtwrfJKKnLX31YG0
 features:
 - The Emotions
-genres: []
+first_released_as_single: false
 key: boogie-wonderland-earth-wind-fire-with-the-emotions
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-with-the-The-Emotions/Boogie-Wonderland
 name: Boogie Wonderland
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1968
+runtime: 286666
 ---
 Dance, Boogie Wonderland, hey, hey
 Dance, Boogie Wonderland

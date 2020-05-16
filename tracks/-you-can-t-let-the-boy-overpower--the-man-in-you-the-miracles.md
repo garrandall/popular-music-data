@@ -1,8 +1,11 @@
 ---
+album: The 35th Anniversary Collection
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:5pQdkHkwQfLMkUE5UaTN2A
 features: []
-genres: []
+first_released_as_single: false
 key: -you-can-t-let-the-boy-overpower--the-man-in-you-the-miracles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Miracles/You-Can-t-Let-the-Boy-Overpower-The-Man-in-You
 name: (You Can't Let The Boy Overpower) The Man In You
@@ -27,6 +30,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 175893
 ---
 No don't you know my daddy told me
 Told me right from the start

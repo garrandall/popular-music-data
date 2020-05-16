@@ -1,8 +1,11 @@
 ---
+album: That's How Heartaches Are Made
 artists:
 - Baby Washington
+external_ids:
+  spotify: spotify:track:0V0taT8CDOCW5sbjdiDc6r
 features: []
-genres: []
+first_released_as_single: false
 key: leave-me-alone-baby-washington
 lyrics_url: https://genius.com/Baby-washington-leave-me-alone-lyrics
 name: Leave Me Alone
@@ -47,6 +50,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 138733
 ---
 Leave me alone
 Read the sign upon my door

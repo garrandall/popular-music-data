@@ -1,8 +1,12 @@
 ---
+album: Burn
 artists:
-- Jo Dee Messina With Tim McGraw
-features: []
-genres: []
+- Jo Dee Messina
+external_ids:
+  spotify: spotify:track:1OnXz5v4hVdrNLJ9N4MqzL
+features:
+- Tim McGraw
+first_released_as_single: false
 key: bring-on-the-rain-jo-dee-messina-with-tim-mcgraw
 lyrics_url: https://www.musixmatch.com/lyrics/Jo-Dee-Messina-with-Tim-McGraw/Bring-On-the-Rain
 name: Bring On The Rain
@@ -87,6 +91,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 2000
+runtime: 240173
 ---
 Another day has almost come and gone
 Can't imagine what else could go wrong

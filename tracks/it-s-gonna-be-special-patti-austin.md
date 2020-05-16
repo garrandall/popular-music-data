@@ -1,8 +1,11 @@
 ---
+album: Patti Austin
 artists:
 - Patti Austin
+external_ids:
+  spotify: spotify:track:4lnCRePjuHHEo2YNyPcA7g
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-gonna-be-special-patti-austin
 lyrics_url: https://genius.com/Patti-austin-its-gonna-be-special-lyrics
 name: It's Gonna Be Special
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1984
+runtime: 259013
 ---
 I've seen the many shades of love in my life
 Until I met you no one shined so bright

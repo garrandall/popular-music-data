@@ -1,8 +1,11 @@
 ---
+album: The World Of Edmundo Ros
 artists:
 - Edmundo Ros
+external_ids:
+  spotify: spotify:track:3ih5sVZXb3JKyMDugkoMQf
 features: []
-genres: []
+first_released_as_single: false
 key: i-talk-to-the-trees-edmundo-ros-and-his-orchestra
 name: I Talk To The Trees
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-01-26'
+release_year: 1959
+runtime: 148080
 ---
 

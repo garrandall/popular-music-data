@@ -1,8 +1,11 @@
 ---
+album: 'A Little Bit Of Soap: The Complete Laurie Recordings'
 artists:
 - The Jarmels
+external_ids:
+  spotify: spotify:track:2Xi25G3RGqAweBWythuo6R
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-soap-the-jarmels
 lyrics_url: https://genius.com/The-jarmels-a-little-bit-of-soap-lyrics
 name: A Little Bit Of Soap
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 133813
 ---
 A little bit of soap
 Will wash away your lipstick on my face

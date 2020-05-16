@@ -1,8 +1,11 @@
 ---
+album: Della at Basin Street East (Live)
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:4fNvG4N7ibWlVkTpr5VVET
 features: []
-genres: []
+first_released_as_single: false
 key: and-now-della-reese
 lyrics_url: https://www.musixmatch.com/lyrics/Della-Reese/And-Now
 name: And Now
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 134253
 ---
 And now the pain begins
 The teardrops start

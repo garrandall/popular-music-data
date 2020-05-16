@@ -1,9 +1,12 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:2Y2q7PkD7lvuWr8YaZfWuv
 features:
 - Eve
-genres: []
+first_released_as_single: false
 key: rich-girl-gwen-stefani-eve
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/richgirl.html
 name: Rich Girl
@@ -116,9 +119,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2004
+runtime: 236213
 ---
-
-
 If I was a rich girl
 See, I'd have all the money in the world,
 If I was a wealthy girl
@@ -203,6 +206,3 @@ Impress me,
 My cash flow would never ever end
 'Cause I'd have all the money in the world,
 If I was a wealthy girl
-
-
-

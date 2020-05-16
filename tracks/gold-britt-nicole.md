@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Britt Nicole
+external_ids:
+  spotify: spotify:track:2fdd8W8eTym1gWO1dl1nxo
 features: []
-genres: []
+first_released_as_single: false
 key: gold-britt-nicole
 lyrics_url: https://www.azlyrics.com/lyrics/brittnicole/gold.html
 name: Gold
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 179333
 ---
-
 Oh, oh, oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
@@ -72,6 +76,3 @@ Your gold
 
 So don't be ashamed to wear your crown
 You're a king you're a queen inside and out
-
-
-

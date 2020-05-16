@@ -1,8 +1,11 @@
 ---
+album: Christmas In The Sand
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:4uk6cyuoE7LHFfkl5s6zzB
 features: []
-genres: []
+first_released_as_single: true
 key: mistletoe-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/mistletoe.html
 name: Mistletoe
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2007
+runtime: 234506
 ---
-
 Great 
 Fake plastic Mistletoe
 Wrap me in a great big bow
@@ -85,6 +89,3 @@ It's Christmas time again
 And all your friends, all your friends
 Are smiling
 It's Christmas time
-
-
-

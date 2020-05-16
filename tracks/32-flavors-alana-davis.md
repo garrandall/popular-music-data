@@ -1,8 +1,11 @@
 ---
+album: Blame It On Me
 artists:
 - Alana Davis
+external_ids:
+  spotify: spotify:track:3o5dmw1M6ugfLpva7yTyDr
 features: []
-genres: []
+first_released_as_single: false
 key: 32-flavors-alana-davis
 lyrics_url: https://genius.com/Alana-davis-32-flavors-lyrics
 name: 32 Flavors
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
+release_year: 1997
+runtime: 227306
 ---
 Squint your eyes and look closer
 I'm not between you and your ambition

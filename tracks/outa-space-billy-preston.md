@@ -1,8 +1,11 @@
 ---
+album: I Wrote A Simple Song
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:17KFO56mkVEKR0v8qOPlkU
 features: []
-genres: []
+first_released_as_single: false
 key: outa-space-billy-preston
 lyrics_url: https://genius.com/Billy-preston-outa-space-lyrics
 name: Outa-Space
@@ -75,5 +78,7 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1971
+runtime: 250866
 ---
 Instrumental

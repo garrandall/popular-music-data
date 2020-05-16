@@ -1,8 +1,11 @@
 ---
+album: Nightbirds
 artists:
 - Labelle
+external_ids:
+  spotify: spotify:track:3UIqbRjMfQ9Ta3ZpdeHeBZ
 features: []
-genres: []
+first_released_as_single: false
 key: what-can-i-do-for-you--labelle
 lyrics_url: https://genius.com/Labelle-what-can-i-do-for-you-lyrics
 name: What Can I Do For You?
@@ -31,6 +34,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1974
+runtime: 242760
 ---
 People want truth
 Or nothing at all

@@ -1,8 +1,11 @@
 ---
+album: Long After Dark
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5eMZ3EPIMGoWlrrVhxatdv
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-lucky-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/yougotlucky.html
 name: You Got Lucky
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1982
+runtime: 217960
 ---
 You better watch what you say
 You better watch what you do to me

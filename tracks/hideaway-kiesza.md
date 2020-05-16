@@ -1,8 +1,11 @@
 ---
+album: Sound Of A Woman
 artists:
 - Kiesza
+external_ids:
+  spotify: spotify:track:3yuiEzWCXNGIhwMyXzqF7B
 features: []
-genres: []
+first_released_as_single: true
 key: hideaway-kiesza
 lyrics_url: https://genius.com/Kiesza-hideaway-lyrics
 name: Hideaway
@@ -63,6 +66,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 237652
 ---
 Taking me higher than I've ever been before
 I'm holding it back, just want to shout out, give me more

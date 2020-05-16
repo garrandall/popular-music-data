@@ -1,9 +1,12 @@
 ---
+album: 5 * Stunna
 artists:
 - Birdman
+external_ids:
+  spotify: spotify:track:1kEp3Po9RUPm11N5ITOUWx
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: pop-bottles-birdman-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/birdman/popbottles.html
 name: Pop Bottles
@@ -88,9 +91,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 205133
 ---
-
-
 Chopper straight shots and then pop bottles, (yea)
 Flirt with the hood rats thin pop models (uh huh)
 Chopper straight shots and then pop bottles (yea)
@@ -149,4 +152,3 @@ All my cars, all the latest automatics,
 No lie, we don't even drive no asking,
 Uptown, we packing and we stacking,
 Young Money, Cash Money we the champions
-

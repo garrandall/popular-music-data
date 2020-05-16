@@ -1,8 +1,11 @@
 ---
+album: Just Like The First Time
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:4uSpCtFtrK65GoqJpQj6V6
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-loved-somebody-freddie-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/haveyoueverlovedsomebody.html
 name: Have You Ever Loved Somebody
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 277306
 ---
-
 Oh have you ever?
 Have you ever loved, loved, loved, loved, loved?
 
@@ -114,6 +118,3 @@ Girl, I wanna teach you, yeah, oh, yeah
 Let me show you, show you how to light the world
 Oh, yes I do
 I wanna teach you to love you all through the life
-
-
-

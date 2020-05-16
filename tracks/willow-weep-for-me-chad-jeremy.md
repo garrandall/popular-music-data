@@ -1,9 +1,12 @@
 ---
+album: A Summer Song
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:2jWmwKhTJIvruGqRq7BJLZ
 features: []
-genres: []
+first_released_as_single: false
 key: willow-weep-for-me-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-willow-weep-for-me-lyrics
 name: Willow Weep For Me
@@ -60,6 +63,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 155000
 ---
 Willow weep for me
 Willow weep for me

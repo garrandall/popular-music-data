@@ -1,8 +1,11 @@
 ---
+album: Down Here On The Ground
 artists:
 - Wes Montgomery
+external_ids:
+  spotify: spotify:track:5i1w40rvmhqMUIq7blW6du
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-on-my-mind-wes-montgomery
 name: Georgia On My Mind
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 165680
 ---
 

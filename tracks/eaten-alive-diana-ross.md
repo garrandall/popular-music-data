@@ -1,8 +1,11 @@
 ---
+album: Eaten Alive
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3E77yNurqaaRwvwMnLtzq3
 features: []
-genres: []
+first_released_as_single: false
 key: eaten-alive-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/eatenalive.html
 name: Eaten Alive
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1985
+runtime: 232826
 ---
-
 Animal stalking you at night
 I'm a sucker for someone
 And I got the prey in sight
@@ -117,6 +121,3 @@ Gotta do her, crawl all over me
 You can rip my shirt, drag me in the dirt
 I will be your slave, anything you say
 I don't ever wanna be, eaten alive
-
-
-

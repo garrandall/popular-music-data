@@ -1,8 +1,11 @@
 ---
+album: Blaque
 artists:
 - Blaque
+external_ids:
+  spotify: spotify:track:4ui7r4nqNUl4HmTiO00CVC
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-all-to-me-blaque
 lyrics_url: https://www.azlyrics.com/lyrics/blaque/bringitalltome.html
 name: Bring It All To Me
@@ -123,9 +126,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1995
+runtime: 225866
 ---
-
-
 There you are
 Looking as fine as can be
 In your fancy car
@@ -167,4 +170,3 @@ Cause it's you I need every day and night
 
 
 oh ho ho baby yeah
-

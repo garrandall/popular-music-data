@@ -1,8 +1,11 @@
 ---
+album: Arabian Nights
 artists:
 - The Ritchie Family
+external_ids:
+  spotify: spotify:track:79eNiy8GqOx646aVCNtPd1
 features: []
-genres: []
+first_released_as_single: false
 key: the-best-disco-in-town-the-ritchie-family
 lyrics_url: https://genius.com/The-ritchie-family-the-best-disco-in-town-lyrics
 name: The Best Disco In Town
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-01-08'
+release_year: 1976
+runtime: 401026
 ---
 It's the best disco in town, number one in disco sound
 It's the place where hip people meet, hey, hey

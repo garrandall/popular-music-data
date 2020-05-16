@@ -1,8 +1,11 @@
 ---
+album: Third Eye Blind
 artists:
 - Third Eye Blind
+external_ids:
+  spotify: spotify:track:3Uvx1TO0Kg5HgGPk58lHXv
 features: []
-genres: []
+first_released_as_single: false
 key: how-s-it-going-to-be-third-eye-blind
 lyrics_url: https://genius.com/Third-eye-blind-hows-it-going-to-be-lyrics
 name: How's It Going To Be
@@ -215,6 +218,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 253413
 ---
 I'm only pretty sure that I can't take anymore
 Before you take a swing

@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3VbGCXWRiouAq8VyMYN2MI
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-do-the-beatles
 lyrics_url: https://genius.com/The-beatles-love-me-do-lyrics
 name: Love Me Do
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1963
+runtime: 141693
 ---
 Love, love me do
 You know I love you

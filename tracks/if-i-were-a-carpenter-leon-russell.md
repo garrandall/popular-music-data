@@ -1,8 +1,11 @@
 ---
+album: Stop All That Jazz
 artists:
 - Leon Russell
+external_ids:
+  spotify: spotify:track:05Mxds8IJ9QZCbOZiLxhAt
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-a-carpenter-leon-russell
 lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/ifiwereacarpenter.html
 name: If I Were A Carpenter
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 231000
 ---
-
 If I was a carpenter 
 And you were a lady 
 Would you marry me anyway? 
@@ -106,6 +110,3 @@ Won't you take a chance on me?
 Won't you be my baby? 
 Won't you take a chance on me? 
 Won't you be my...
-
-
-

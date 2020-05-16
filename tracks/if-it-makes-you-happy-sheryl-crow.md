@@ -1,8 +1,11 @@
 ---
+album: Sheryl Crow
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:5XrfFo0JFOnWD9ZMNXGkQh
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-makes-you-happy-sheryl-crow
 lyrics_url: https://genius.com/Sheryl-crow-if-it-makes-you-happy-lyrics
 name: If It Makes You Happy
@@ -115,6 +118,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 323400
 ---
 I've been long, a long way from here
 Put on a poncho, played for mosquitos

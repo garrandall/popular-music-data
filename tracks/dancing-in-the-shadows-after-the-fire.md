@@ -1,8 +1,11 @@
 ---
+album: Der Kommissar
 artists:
 - After The Fire
+external_ids:
+  spotify: spotify:track:2y96ghbuKXMS1svvyJTwcU
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-shadows-after-the-fire
 lyrics_url: https://genius.com/After-the-fire-dancing-in-the-shadows-lyrics
 name: Dancing In The Shadows
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1982
+runtime: 193173
 ---
 Talking to a friend I turned around
 And saw a total stranger

@@ -1,8 +1,11 @@
 ---
+album: Portrait
 artists:
 - Portrait
+external_ids:
+  spotify: spotify:track:6BDzQttUdcszjA8Fxqo1zQ
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-go-again--portrait
 lyrics_url: https://genius.com/Portrait-r-b-here-we-go-again-lyrics
 name: Here We Go Again!
@@ -99,6 +102,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 260399
 ---
 (Chuck D: Here we go again)
 

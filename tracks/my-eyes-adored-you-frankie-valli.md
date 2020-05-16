@@ -1,8 +1,11 @@
 ---
+album: Closeup
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:2yDQVcj26tpi9IUJhw9xDs
 features: []
-genres: []
+first_released_as_single: false
 key: my-eyes-adored-you-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/myeyesadoredyou.html
 name: My Eyes Adored You
@@ -99,8 +102,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1974
+runtime: 212013
 ---
-
 My eyes adored you
 Though I never laid a hand on you
 My eyes adored you
@@ -158,6 +162,3 @@ So close, so close and yet so far
 My eyes adored you
 Though I never laid a hand on you
 My eyes adored you
-
-
-

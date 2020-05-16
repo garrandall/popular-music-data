@@ -1,8 +1,11 @@
 ---
+album: The Lonely Position Of Neutral
 artists:
 - TRUSTcompany
+external_ids:
+  spotify: spotify:track:76xddM2irVQCbuBoVbaElZ
 features: []
-genres: []
+first_released_as_single: false
 key: downfall-trustcompany
 lyrics_url: https://genius.com/Trustcompany-downfall-lyrics
 name: Downfall
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-11-09'
+release_year: 2002
+runtime: 191373
 ---
 Fear in me so deep, it gets the best of me
 In the fear I fall, here it comes, face to face with me

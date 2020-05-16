@@ -1,8 +1,11 @@
 ---
+album: Billion Dollar Babies (Deluxe Reissue)
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:6FOGRNfOgaubrZNc9MW19K
 features: []
-genres: []
+first_released_as_single: false
 key: billion-dollar-babies-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/billiondollarbabies.html
 name: Billion Dollar Babies
@@ -31,8 +34,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1973
+runtime: 223600
 ---
-
 Billion dollar baby
 Rubber little lady, slicker than a weasel
 Grimy as an alley
@@ -65,6 +69,3 @@ Million dollar baby
 Billion dollar baby
 Trillion dollar baby
 Zillion dollar baby
-
-
-

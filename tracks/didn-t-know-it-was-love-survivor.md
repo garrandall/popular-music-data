@@ -1,8 +1,11 @@
 ---
+album: Too Hot to Sleep
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:6h5w4ez470ZaXq6sD2FozJ
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-know-it-was-love-survivor
 lyrics_url: https://genius.com/Survivor-didnt-know-it-was-love-lyrics
 name: Didn't Know It Was Love
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 262800
 ---
 It felt so easy in the morning sun
 When love was in season I was on the run

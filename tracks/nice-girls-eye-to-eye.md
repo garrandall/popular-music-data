@@ -1,8 +1,11 @@
 ---
+album: Eye To Eye
 artists:
 - Eye To Eye
+external_ids:
+  spotify: spotify:track:48BEbAAmiRirVb3IODkM0L
 features: []
-genres: []
+first_released_as_single: false
 key: nice-girls-eye-to-eye
 lyrics_url: https://genius.com/Eye-to-eye-nice-girls-lyrics
 name: Nice Girls
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1982
+runtime: 310960
 ---
 Disappointed youth
 Where is all the flash

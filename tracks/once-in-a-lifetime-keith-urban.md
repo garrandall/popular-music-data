@@ -1,8 +1,11 @@
 ---
+album: Love, Pain & The Whole Crazy Thing
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:10TLpTjjLKcpBN6kayS0mI
 features: []
-genres: []
+first_released_as_single: false
 key: once-in-a-lifetime-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/onceinalifetime.html
 name: Once In A Lifetime
@@ -63,8 +66,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 353813
 ---
-
 ...Mm hm
 
 I can see it in your eyes
@@ -121,6 +125,3 @@ It's a long way down
 And it's a leap of faith
 But I'm never givin up
 Cuz I know we've got a once in a lifetime love.
-
-
-

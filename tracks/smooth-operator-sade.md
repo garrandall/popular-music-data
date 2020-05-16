@@ -1,8 +1,11 @@
 ---
+album: Diamond Life
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:3nj43eJ93sld7RHsIegCUI
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-operator-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/smoothoperator.html
 name: Smooth Operator
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1984
+runtime: 298893
 ---
-
 He's laughing with another girl
 And playing with another heart
 Placing high stakes, making hearts ache
@@ -134,6 +138,3 @@ Smooth operator, smooth operator
 Smooth operator, smooth operator
 Smooth operator, smooth operator
 Smooth operator, smooth operator
-
-
-

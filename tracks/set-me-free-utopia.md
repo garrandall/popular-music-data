@@ -1,8 +1,11 @@
 ---
+album: Adventures In Utopia
 artists:
 - Utopia
+external_ids:
+  spotify: spotify:track:6KzkrcfvAUWOrgn2oxVQMf
 features: []
-genres: []
+first_released_as_single: false
 key: set-me-free-utopia
 lyrics_url: https://genius.com/Utopia-set-me-free-lyrics
 name: Set Me Free
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1980
+runtime: 189040
 ---
 There ain't no reason why you let me wait
 Just give me up and I will go, let's set it straight

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0Hnps77fiSCKT2Pr4DWOZ5
 features: []
-genres: []
+first_released_as_single: false
 key: fly-glee-cast
 lyrics_url: https://genius.com/Glee-cast-fly-i-believe-i-can-fly-lyrics
 name: Fly
@@ -11,6 +14,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 213026
 ---
 Rachel:
 I came to win, to fight, to conquer, to thrive

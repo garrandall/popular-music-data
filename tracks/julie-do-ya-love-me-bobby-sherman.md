@@ -1,8 +1,11 @@
 ---
+album: With Love, Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:41Al942aUUeiSFlIsiWRa2
 features: []
-genres: []
+first_released_as_single: false
 key: julie-do-ya-love-me-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-julie-do-ya-love-me-lyrics
 name: Julie Do Ya Love Me
@@ -67,6 +70,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 172837
 ---
 Bein' alone at night makes me sad, girl
 Yeah, it brings me down all right

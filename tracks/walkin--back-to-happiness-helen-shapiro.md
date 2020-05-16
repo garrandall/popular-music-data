@@ -1,8 +1,11 @@
 ---
+album: Helen Shapiro
 artists:
 - Helen Shapiro
+external_ids:
+  spotify: spotify:track:3mNfU0psAm7h3s6Dn6i7SD
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--back-to-happiness-helen-shapiro
 lyrics_url: https://genius.com/Helen-shapiro-walkin-back-to-happiness-lyrics
 name: Walkin' Back To Happiness
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 151293
 ---
 Funny but it's true
 What lonliness can do

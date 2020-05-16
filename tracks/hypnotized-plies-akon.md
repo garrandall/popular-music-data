@@ -1,9 +1,12 @@
 ---
+album: The Real Testament
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:3LN41NUdHkyNqQhi9gExMm
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: hypnotized-plies-akon
 lyrics_url: https://www.azlyrics.com/lyrics/plies/hypnotized.html
 name: Hypnotized
@@ -100,9 +103,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-03-15'
+release_year: 2007
+runtime: 188493
 ---
-
-
 Hey what's happ'nin' homie? This ya lil' whoa Plies man.. I ran across
 a nice lil' baby the other day homie... Lil' mama so bad she had me
 hypnotized cuzz... couldn't even get my eyes off her.. I'mma tell you
@@ -147,4 +150,3 @@ Just stand in front of me and pose, you touch mine I touch yours
 To get her sprung is my goal, first time I seen her I froze
 I had to get her she know, she bucked it then she fold
 'Cause I'm too real and she knows, she want the goon and it shows
-

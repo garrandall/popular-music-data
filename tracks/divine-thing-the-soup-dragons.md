@@ -1,8 +1,11 @@
 ---
+album: Hotwired
 artists:
 - The Soup Dragons
+external_ids:
+  spotify: spotify:track:4VJYmTsXG9hAfWFBEJruRK
 features: []
-genres: []
+first_released_as_single: false
 key: divine-thing-the-soup-dragons
 lyrics_url: https://genius.com/The-soup-dragons-divine-thing-lyrics
 name: Divine Thing
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
+release_year: 1992
+runtime: 232173
 ---
 You Are the One Supreme Being
 Just Dressed to Kill

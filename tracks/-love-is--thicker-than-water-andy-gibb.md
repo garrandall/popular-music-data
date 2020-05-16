@@ -1,8 +1,11 @@
 ---
+album: Flowing Rivers
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:5WdF8jm3hBNi1t9qlqdjsE
 features: []
-genres: []
+first_released_as_single: false
 key: -love-is--thicker-than-water-andy-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/andygibb/loveisthickerthanwater.html
 name: (Love Is) Thicker Than Water
@@ -123,8 +126,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 255960
 ---
-
 Love is higher than a mountain
 Love is thicker than water
 You are this dreamer's only dream
@@ -161,6 +165,3 @@ Heaven's angel, devil's daughter
 
 La, la, la
 La, la, la, la, la
-
-
-

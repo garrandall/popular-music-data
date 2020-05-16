@@ -1,8 +1,11 @@
 ---
+album: Cynthia II
 artists:
 - Cynthia
+external_ids:
+  spotify: spotify:track:1BFoOSOqDVO5jJFlrIIkO1
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-to-make-up-cynthia
 lyrics_url: https://genius.com/Cynthia-break-up-to-make-up-lyrics
 name: Break Up To Make Up
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1991
+runtime: 237093
 ---
 Tell me what's wrong with you now
 Tell me why I

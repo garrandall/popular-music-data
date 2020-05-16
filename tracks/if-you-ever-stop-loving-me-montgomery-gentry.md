@@ -1,8 +1,11 @@
 ---
+album: You Do Your Thing
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:0NxsQjgHJyvDgjenc95aDq
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-ever-stop-loving-me-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/ifyoueverstoplovingme.html
 name: If You Ever Stop Loving Me
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 1999
+runtime: 203386
 ---
-
 My old man's backhand used to land,
 Hard on the side of my head.
 I just learned to stay out of his way.
@@ -138,6 +142,3 @@ If you ever stopped lovin' me.
 Baby, never stop lovin' me.
 
 Ah, just see, what your lovin' does to me.
-
-
-

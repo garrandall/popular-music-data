@@ -1,8 +1,11 @@
 ---
+album: It's Gonna Be Fine
 artists:
 - Glenn Yarbrough
+external_ids:
+  spotify: spotify:track:3e0CoSLzOHHtjyYYmNUKaz
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-gonna-be-fine-glenn-yarbrough
 name: It's Gonna Be Fine
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 131760
 ---
 

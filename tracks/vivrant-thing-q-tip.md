@@ -1,8 +1,11 @@
 ---
+album: 'Something From Nothing: The Art of Rap'
 artists:
 - Q-Tip
+external_ids:
+  spotify: spotify:track:1uQbeHF6znPkD99pDGLvRN
 features: []
-genres: []
+first_released_as_single: false
 key: vivrant-thing-q-tip
 lyrics_url: https://genius.com/Q-tip-vivrant-thing-lyrics
 name: Vivrant Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1999
+runtime: 190440
 ---
 Uh.. check it out now
 Uh.. no doubt now

@@ -1,8 +1,11 @@
 ---
+album: Rhapsody In White (Reissue)
 artists:
 - Love Unlimited Orchestra
+external_ids:
+  spotify: spotify:track:2eq5GNTVGQySK8ofHbTRtd
 features: []
-genres: []
+first_released_as_single: false
 key: rhapsody-in-white-love-unlimited-orchestra
 name: Rhapsody In White
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1974
+runtime: 236800
 ---
 

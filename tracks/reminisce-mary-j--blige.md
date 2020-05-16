@@ -1,8 +1,11 @@
 ---
+album: What's The 411?
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:0EWT5JnKOf6saRn4ASff3j
 features: []
-genres: []
+first_released_as_single: false
 key: reminisce-mary-j--blige
 lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/reminisce.html
 name: Reminisce
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-05-01'
+release_year: 1992
+runtime: 323133
 ---
-
 I can remember when we had, we had it all
 You and I, You and I
 You know, you know we had it all
@@ -148,6 +152,3 @@ Tonight we're gonna be more than friends
 Feelings right my, my. sweet baby, baby, baby
 I can see you standing there like an angel
 Oh boy, oh reminisce, reminisce on the love we had
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 24 Country Best
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:0kYqTzbLCdlEdAL3snnZHM
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-you-better-than-that-bobby-goldsboro
 name: I Know You Better Than That
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 167654
 ---
 

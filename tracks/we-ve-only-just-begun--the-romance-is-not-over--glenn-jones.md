@@ -1,8 +1,11 @@
 ---
+album: Glenn Jones
 artists:
 - Glenn Jones
+external_ids:
+  spotify: spotify:track:4MjiEXoUPAIpAG9EIPtH3c
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-only-just-begun--the-romance-is-not-over--glenn-jones
 lyrics_url: https://genius.com/Glenn-jones-weve-only-just-begun-the-romance-is-not-over-lyrics
 name: We've Only Just Begun (The Romance Is Not Over)
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
+release_year: 1987
+runtime: 357960
 ---
 We've only just begun, the romance is not over
 Gotta lot, a lot of love to give

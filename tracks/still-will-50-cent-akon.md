@@ -1,9 +1,12 @@
 ---
+album: Still Will
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:1EsiQ1n20lvCuCykstdWcc
 features:
 - Akon
-genres: []
+first_released_as_single: true
 key: still-will-50-cent-akon
 lyrics_url: https://www.musixmatch.com/lyrics/50-Cent-feat-Akon/Still-Will
 name: Still Will
@@ -12,6 +15,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-12-15'
+release_year: 2007
+runtime: 223813
 ---
 Oh, don't even look at me wrong
 When I come through the hood

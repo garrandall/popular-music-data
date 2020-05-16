@@ -1,8 +1,11 @@
 ---
+album: got LIVE if you want it!
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:0or66mTUdzoj6FiJmbZTw0
 features: []
-genres: []
+first_released_as_single: false
 key: 19th-nervous-breakdown-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-19th-nervous-breakdown-lyrics
 name: 19th Nervous Breakdown
@@ -47,6 +50,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 238480
 ---
 You're the kind of person
 You meet at certain dismal dull affairs

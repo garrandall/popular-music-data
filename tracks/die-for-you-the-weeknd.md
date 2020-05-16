@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2LBqCSwhJGcFQeTHMVGwy3
 features: []
-genres: []
+first_released_as_single: false
 key: die-for-you-the-weeknd
 lyrics_url: https://www.musixmatch.com/lyrics/The-Weeknd/Die-For-You
 name: Die For You
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 260253
 ---
 I'm findin' ways to articulate
 The feeling I'm goin' through

@@ -1,8 +1,11 @@
 ---
+album: Warrior
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:3U9cXipLFX77lc5F1EefnH
 features: []
-genres: []
+first_released_as_single: true
 key: c-mon-ke-ha
 lyrics_url: https://genius.com/Kesha-cmon-lyrics
 name: C'mon
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 214333
 ---
 Saw you leaning against that old record machine
 Saw the name of your band written on the marquee

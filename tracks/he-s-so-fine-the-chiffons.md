@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia (Original Motion Picture Soundtrack)
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:0IJGL3MYgZ4zskjhqNMUNW
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-so-fine-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/hessofine.html
 name: He's So Fine
@@ -67,8 +70,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 112785
 ---
-
 (Do-lang-do-lang-do-lang)
 (Do-lang-do-lang)
 He's so fine
@@ -143,6 +147,3 @@ So fine
 Oh, yeah
 (So fine)
 So fine
-
-
-

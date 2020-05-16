@@ -1,8 +1,11 @@
 ---
+album: Bottle Of Wine
 artists:
 - The Fireballs
+external_ids:
+  spotify: spotify:track:1MaNlzGKV2MSAxFYbfsX7n
 features: []
-genres: []
+first_released_as_single: false
 key: bottle-of-wine-the-fireballs
 lyrics_url: https://genius.com/The-fireballs-bottle-of-wine-lyrics
 name: Bottle Of Wine
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1967
+runtime: 132946
 ---
 Bottle of wine
 Fruit of the vine

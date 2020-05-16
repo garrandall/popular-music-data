@@ -1,8 +1,11 @@
 ---
+album: Soul Searchin'
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:0fMlhe66IZtHbCSe5EGBlX
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/truelove.html
 name: True Love
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-11-26'
+release_year: 1988
+runtime: 279693
 ---
-
 Out of the blue, out of the night
 You came along and you changed my life
 You got me feeling things, I swear I never felt before
@@ -107,6 +111,3 @@ She's my baby, she's my girl
 She changed my life, oh, she changed my world
 She's my buttercup, oh, fill me up
 Talkin' about love, talkin' about love, it's gotta be a true love
-
-
-

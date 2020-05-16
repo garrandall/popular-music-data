@@ -1,8 +1,11 @@
 ---
+album: T.E.V.I.N.
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:1qlsnDtzryr3yLuocJ00PY
 features: []
-genres: []
+first_released_as_single: false
 key: alone-with-you-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/alonewithyou.html
 name: Alone With You
@@ -51,9 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
+release_year: 1991
+runtime: 307826
 ---
-
-
 We Were Holding Hands
 In The Park
 We Had To Hurry Home Before It's Dark
@@ -90,4 +93,3 @@ I Tried To Impress You With My Tone
 I've Got To Be For Real
 If You're My Friend
 Or You'll Never Call Me Back Again
-

@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6CfrYuD3YRDYdYvH9jNtXY
 features:
 - Giggs
-genres: []
+first_released_as_single: false
 key: no-long-talk-drake-giggs
 lyrics_url: https://www.azlyrics.com/lyrics/drake/nolongtalk.html
 name: No Long Talk
@@ -16,8 +19,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 149568
 ---
-
 Really?
 Yeah (Six!)
 Yeah
@@ -78,6 +82,3 @@ You dun know, it's Hollowman Giggs
 Right now, just here with the big man Drizzy, you get me?
 More Life flex, you dun know
 OVO and SN1 to the world, brap
-
-
-

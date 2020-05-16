@@ -1,8 +1,11 @@
 ---
+album: The Two Of Us
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:2HVkxxDjTDslP60B5Ak2pE
 features: []
-genres: []
+first_released_as_single: false
 key: love-walked-in-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-love-walked-in-lyrics
 name: Love Walked In
@@ -47,6 +50,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 131506
 ---
 Love walked right in and drove the shadows away
 Love walked right in and brought my sunniest day

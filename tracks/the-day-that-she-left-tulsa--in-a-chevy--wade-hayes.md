@@ -1,8 +1,11 @@
 ---
+album: When The Wrong One Loves You Right
 artists:
 - Wade Hayes
+external_ids:
+  spotify: spotify:track:0QMmEcLfSWcfkuy5SS0IIj
 features: []
-genres: []
+first_released_as_single: false
 key: the-day-that-she-left-tulsa--in-a-chevy--wade-hayes
 lyrics_url: https://genius.com/Wade-hayes-the-day-that-she-left-tulsa-lyrics
 name: The Day That She Left Tulsa (In A Chevy)
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1998
+runtime: 213066
 ---
 We were half a mile high on the ferris wheel
 At our old county fair

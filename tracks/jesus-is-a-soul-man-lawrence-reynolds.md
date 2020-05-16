@@ -1,8 +1,11 @@
 ---
+album: Jesus Is A Soul Man
 artists:
 - Lawrence Reynolds
+external_ids:
+  spotify: spotify:track:2aJ0ZdaL40vOB9dlZ7ZhzL
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-is-a-soul-man-lawrence-reynolds
 lyrics_url: https://www.musixmatch.com/lyrics/Lawrence-Reynolds/Jesus-Is-a-Soul-Man
 name: Jesus Is A Soul Man
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 172440
 ---
 Jesus is a soul man,
 Jesus is a soul man,

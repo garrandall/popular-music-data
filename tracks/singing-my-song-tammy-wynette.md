@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:77X3Qgo1Kw2An8PneO7bXI
 features: []
-genres: []
+first_released_as_single: false
 key: singing-my-song-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/singingmysong.html
 name: Singing My Song
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1964
+runtime: 141093
 ---
-
 Here's a song I love to sing
 It's about the man that wears my ring
 And even though he's tempted, he knows
@@ -53,6 +57,3 @@ And when he's home
 I make sure he's never alone
 And that's why
 I keep singing my song
-
-
-

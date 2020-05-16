@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:75CKVuwjQLp5XjYNAUPsAj
 features: []
-genres: []
+first_released_as_single: false
 key: breakin--in-a-brand-new-broken-heart-connie-francis
 lyrics_url: https://www.musixmatch.com/lyrics/Connie-Francis/Breakin-in-a-Brand-New-Broken-Heart
 name: Breakin' In A Brand New Broken Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 156893
 ---
 If my friends should ask for me,
 Here at home is where I'll be

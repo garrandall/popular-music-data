@@ -1,8 +1,11 @@
 ---
+album: Back To Basics
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:0tz6cVT1n7oMjo0kvwa2TP
 features: []
-genres: []
+first_released_as_single: false
 key: sail-away-the-temptations
 lyrics_url: https://genius.com/The-temptations-sail-away-lyrics
 name: Sail Away
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1983
+runtime: 304933
 ---
 I don't know what your folks got against me, girl
 But I do know that I want you permanently in my world

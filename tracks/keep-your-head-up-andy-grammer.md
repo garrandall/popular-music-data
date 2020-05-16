@@ -1,8 +1,11 @@
 ---
+album: Andy Grammer
 artists:
 - Andy Grammer
+external_ids:
+  spotify: spotify:track:4oJm9y1MsU7l4pEaq40CTM
 features: []
-genres: []
+first_released_as_single: true
 key: keep-your-head-up-andy-grammer
 lyrics_url: https://www.azlyrics.com/lyrics/andygrammer/keepyourheadup.html
 name: Keep Your Head Up
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2010
+runtime: 190480
 ---
-
 I've been waiting on the sunset
 Bills on my mindset
 I can't deny they're getting high
@@ -169,6 +173,3 @@ And you can let your hair down, eh.
 And keep your head up, oh,
 And you can let your hair down.
 I said oh, no, no, no, no, no
-
-
-

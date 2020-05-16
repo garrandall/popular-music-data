@@ -1,8 +1,11 @@
 ---
+album: Every Little Thing
 artists:
 - Carly Pearce
+external_ids:
+  spotify: spotify:track:2wxfu24GQpEZQrjDJm5Ac1
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-carly-pearce
 lyrics_url: https://www.azlyrics.com/lyrics/carlypearce/everylittlething.html
 name: Every Little Thing
@@ -75,8 +78,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 180053
 ---
-
 The scent that you left on my pillow
 The sound of your heart beating with mine
 The look in your eyes like a window
@@ -113,6 +117,3 @@ I'm haunted by the memories of
 Every little thing
 The high, the hurt, the shine, the sting
 Every little thing
-
-
-

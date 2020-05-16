@@ -1,8 +1,11 @@
 ---
+album: Don't Mind
 artists:
 - Kent Jones
+external_ids:
+  spotify: spotify:track:27PmvZoffODNFW2p7ehZTQ
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-mind-kent-jones
 lyrics_url: https://genius.com/Kent-jones-dont-mind-lyrics
 name: Don't Mind
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 198236
 ---
 Hola, holana
 

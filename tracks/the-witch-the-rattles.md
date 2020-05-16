@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - The Rattles
+external_ids:
+  spotify: spotify:track:6OnJnkKKtshkmU4G2AwXTm
 features: []
-genres: []
+first_released_as_single: true
 key: the-witch-the-rattles
 lyrics_url: https://genius.com/The-rattles-the-witch-lyrics
 name: The Witch
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 30413
 ---
 Can't you see me runnin'
 I am really runnin'

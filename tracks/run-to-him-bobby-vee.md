@@ -1,8 +1,11 @@
 ---
+album: Take Good Care Of My Baby
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:6P5MvF4ehxos6y7tcxobBe
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-him-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/runtohim.html
 name: Run To Him
@@ -67,8 +70,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1961
+runtime: 135120
 ---
-
 If you've found another guy who
 Satisfies you more than I do
 Run to him
@@ -106,6 +110,3 @@ I'd be more than glad to love you
 Love you till your life is done
 But darling, if I'm not the one
 Then run to him
-
-
-

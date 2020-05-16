@@ -1,8 +1,11 @@
 ---
+album: Super Mann
 artists:
 - Herbie Mann
+external_ids:
+  spotify: spotify:track:4ekD43fBiRcAHkI0FlIxil
 features: []
-genres: []
+first_released_as_single: false
 key: superman-herbie-mann
 lyrics_url: https://genius.com/Herbie-mann-superman-lyrics
 name: Superman
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1978
+runtime: 334426
 ---
 (Spoken)
 Look, up in the sky! It's a bird!

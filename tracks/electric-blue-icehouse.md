@@ -1,8 +1,11 @@
 ---
+album: Man Of Colours
 artists:
 - Icehouse
+external_ids:
+  spotify: spotify:track:5aWvinQcbc1W1WdP0GQ6J1
 features: []
-genres: []
+first_released_as_single: false
 key: electric-blue-icehouse
 lyrics_url: https://www.azlyrics.com/lyrics/icehouse/electricblue.html
 name: Electric Blue
@@ -91,8 +94,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 263680
 ---
-
 If a boy had a chance, a chance with someone like you
 Are you gonna break his heart,
 Let him cry for the moon
@@ -165,6 +169,3 @@ Electric blue
 Electric blue
 
 Electric blue
-
-
-

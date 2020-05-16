@@ -1,8 +1,11 @@
 ---
+album: Jazz Impressions Of Black Orpheus
 artists:
 - Vince Guaraldi Trio
+external_ids:
+  spotify: spotify:track:4EIZrYaRa7nZ9HCaALHtyZ
 features: []
-genres: []
+first_released_as_single: false
 key: cast-your-fate-to-the-wind-vince-guaraldi-trio
 lyrics_url: https://genius.com/Vince-guaraldi-trio-cast-your-fate-to-the-wind-lyrics
 name: Cast Your Fate To The Wind
@@ -79,6 +82,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1962
+runtime: 186133
 ---
 A month of nights, a year of days
 Octobers drifting into Mays;

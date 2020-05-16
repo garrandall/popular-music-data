@@ -1,9 +1,12 @@
 ---
+album: Passion, Pain & Pleasure
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:51q0vXgCI2CW9x4K8SdfXS
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: unusual-trey-songz-drake
 lyrics_url: https://genius.com/Trey-songz-unusual-lyrics
 name: Unusual
@@ -52,6 +55,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
+release_year: 2010
+runtime: 212346
 ---
 Now I wouldn't be me if I ain't get a little nasty
 Na na-na na na na na na

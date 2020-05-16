@@ -1,8 +1,11 @@
 ---
+album: Mariah Carey
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:1hFtJ5rV3aAm58ErijHdFO
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-cry-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-i-dont-wanna-cry-lyrics
 name: I Don't Wanna Cry
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1990
+runtime: 288826
 ---
 Once again we sit in silence
 After all is said and done

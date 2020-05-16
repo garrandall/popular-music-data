@@ -1,8 +1,11 @@
 ---
+album: Walking With A Panther
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:3GwAKTo1XPfd0L7rQB1ZhZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-that-type-of-guy-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-im-that-type-of-guy-lyrics
 name: I'm That Type Of Guy
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1989
+runtime: 316000
 ---
 You're the type of guy that can't control your girl
 You try to buy her love with diamonds and pearls

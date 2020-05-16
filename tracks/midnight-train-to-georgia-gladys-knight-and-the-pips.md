@@ -1,8 +1,11 @@
 ---
+album: Imagination
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:7MF7QAodbGzNYav5ZfIhAY
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-train-to-georgia-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-midnight-train-to-georgia-lyrics
 name: Midnight Train To Georgia
@@ -83,6 +86,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 279333
 ---
 Mmm L.A
 Proved too much for the man

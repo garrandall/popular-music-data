@@ -1,8 +1,11 @@
 ---
+album: Mahvelous
 artists:
 - Billy Crystal
+external_ids:
+  spotify: spotify:track:53O9F3s7Dya1csh1Kz6BGP
 features: []
-genres: []
+first_released_as_single: false
 key: you-look-marvelous-billy-crystal
 lyrics_url: https://genius.com/Billy-crystal-you-look-marvelous-lyrics
 name: You Look Marvelous
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 264960
 ---
 Saludos, my darlings
 And you know who you are

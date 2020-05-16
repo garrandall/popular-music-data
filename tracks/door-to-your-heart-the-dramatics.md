@@ -1,8 +1,11 @@
 ---
+album: The Dells Vs. The Dramatics
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:02ioHapOkD8PioyqfFS1Em
 features: []
-genres: []
+first_released_as_single: false
 key: door-to-your-heart-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/doortoyourheart.html
 name: Door To Your Heart
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 346893
 ---
-
 Why don't you open the
 Door to your heart and let me in?
 
@@ -81,6 +85,3 @@ Why don't you open the
 Door to your heart and let me in?
 Why don't you open the
 Door to your heart and let me in?
-
-
-

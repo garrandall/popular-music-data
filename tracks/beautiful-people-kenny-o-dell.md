@@ -1,8 +1,11 @@
 ---
+album: Beautiful People
 artists:
 - Kenny O'Dell
+external_ids:
+  spotify: spotify:track:7qdKwbhXsyWOHekUw7xbqC
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-people-kenny-o-dell
 name: Beautiful People
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 142173
 ---
 

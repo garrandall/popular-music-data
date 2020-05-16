@@ -1,8 +1,11 @@
 ---
+album: Crowded House
 artists:
 - Crowded House
+external_ids:
+  spotify: spotify:track:0eDwzWuy2gf1RJzqWl0dkF
 features: []
-genres: []
+first_released_as_single: false
 key: something-so-strong-crowded-house
 lyrics_url: https://genius.com/Crowded-house-something-so-strong-lyrics
 name: Something So Strong
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1986
+runtime: 171573
 ---
 Love can make you weep
 Can make you run for cover

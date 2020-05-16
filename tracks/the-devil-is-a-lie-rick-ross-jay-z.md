@@ -1,9 +1,12 @@
 ---
+album: Mastermind
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:1FfxSgLHUkNCCLdZ7wrCTY
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: the-devil-is-a-lie-rick-ross-jay-z
 lyrics_url: https://genius.com/Rick-ross-the-devil-is-a-lie-lyrics
 name: The Devil Is A Lie
@@ -12,6 +15,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2014
+runtime: 310666
 ---
 Masterminds! We gon' get this forever
 You know whenever we link up, my nigga

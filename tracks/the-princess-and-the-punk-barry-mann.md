@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Barry Mann
+external_ids:
+  spotify: spotify:track:66YKPWXATVjrZ3DfohRd7b
 features: []
-genres: []
+first_released_as_single: false
 key: the-princess-and-the-punk-barry-mann
 name: The Princess And The Punk
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1975
+runtime: 257306
 ---
 

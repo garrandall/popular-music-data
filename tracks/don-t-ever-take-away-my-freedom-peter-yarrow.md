@@ -1,8 +1,11 @@
 ---
+album: The Solo Recordings
 artists:
 - Peter Yarrow
+external_ids:
+  spotify: spotify:track:36KNwRx1fpLhHthtq4W9ym
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ever-take-away-my-freedom-peter-yarrow
 lyrics_url: https://www.musixmatch.com/lyrics/Peter-Yarrow/Don-t-Ever-Take-Away-My-Freedom
 name: Don't Ever Take Away My Freedom
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 285186
 ---
 Three horses grazing out my window
 Brown, black and white they stand

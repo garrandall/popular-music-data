@@ -1,8 +1,11 @@
 ---
+album: I Miss My Friend
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:0qnoS5hMZMphvKWi0D2LQh
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-my-friend-darryl-worley
 lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/imissmyfriend.html
 name: I Miss My Friend
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2002
+runtime: 242927
 ---
-
 I miss the look of surrender in your eyes
 The way your soft brown hair would fall
 I miss the power of your kiss when we made love
@@ -131,6 +135,3 @@ I miss my friend
 Mmm
 I miss my friend
 Mmm
-
-
-

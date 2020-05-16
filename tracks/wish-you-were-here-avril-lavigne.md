@@ -1,8 +1,11 @@
 ---
+album: Goodbye Lullaby
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:5XHf9PBxxHmJFuiDkGNIOA
 features: []
-genres: []
+first_released_as_single: false
 key: wish-you-were-here-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/wishyouwerehere.html
 name: Wish You Were Here
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2011
+runtime: 225760
 ---
-
 I can be tough
 I can be strong
 But with you
@@ -120,6 +124,3 @@ Damn, damn, damn
 What I'd do to have you
 Near, near, near
 I wish you were here
-
-
-

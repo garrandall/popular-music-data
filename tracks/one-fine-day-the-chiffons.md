@@ -1,8 +1,11 @@
 ---
+album: The Chiffons Absolutely The Best!
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:6dhpNXe9oqxHqHcX6xklCH
 features: []
-genres: []
+first_released_as_single: false
 key: one-fine-day-the-chiffons
 lyrics_url: https://genius.com/Chiffons-one-fine-day-lyrics
 name: One Fine Day
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 128199
 ---
 One fine day you'll look at me
 And you will know our love was meant to be

@@ -1,8 +1,11 @@
 ---
+album: Greatest Songs
 artists:
 - Bill Anderson
+external_ids:
+  spotify: spotify:track:68FVTThRdUSwr9SLsGZsUk
 features: []
-genres: []
+first_released_as_single: false
 key: mama-sang-a-song-bill-anderson
 lyrics_url: https://genius.com/Bill-anderson-mama-sang-a-song-lyrics
 name: Mama Sang A Song
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 213973
 ---
 (God put a song in the heart of an angel and softly she sang it to me)
 I get to thinking lots of times about back when I was a lad

@@ -1,8 +1,11 @@
 ---
+album: 'So Fine: The Classic Old Town Recordings'
 artists:
 - The Fiestas
+external_ids:
+  spotify: spotify:track:5W9XEW4SzLULZ6nsQQpU3b
 features: []
-genres: []
+first_released_as_single: false
 key: broken-heart-the-fiestas
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fiestas/Broken-Heart
 name: Broken Heart
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 160386
 ---
 Don't build your hopes too high
 Don't fall for the look in her eye

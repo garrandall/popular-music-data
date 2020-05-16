@@ -1,9 +1,12 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:51B1RzOwX8ybRMb66Rhsmu
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: still-got-it-tyga-drake
 lyrics_url: https://genius.com/Tyga-still-got-it-lyrics
 name: Still Got It
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 224506
 ---
 I feel good
 Got some time off, Girl it's been so long

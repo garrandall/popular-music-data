@@ -1,8 +1,11 @@
 ---
+album: Party Doll
 artists:
 - Buddy Knox
+external_ids:
+  spotify: spotify:track:4dmHFU1lnFhn90jjE1ILfd
 features: []
-genres: []
+first_released_as_single: false
 key: lovey-dovey-buddy-knox
 lyrics_url: https://genius.com/Buddy-knox-lovey-dovey-lyrics
 name: Lovey Dovey
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1960
+runtime: 141773
 ---
 Bop Bop a chu de Bopa
 Bop Bop a chu de Bopa

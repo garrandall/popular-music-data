@@ -1,8 +1,11 @@
 ---
+album: Zebra
 artists:
 - Zebra
+external_ids:
+  spotify: spotify:track:7EucoxqiQUYeftPwee0PGR
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-behind-the-door--zebra
 lyrics_url: https://genius.com/Zebra-whos-behind-the-door-lyrics
 name: Who's Behind The Door?
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 316333
 ---
 We sailed away
 We walked two thousand miles and then we slipped away

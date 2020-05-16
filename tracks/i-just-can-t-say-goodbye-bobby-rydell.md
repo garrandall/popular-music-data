@@ -1,8 +1,11 @@
 ---
+album: 'Bobby Rydell: The Complete Capitol Recordings'
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:7cUhjPDUH3S6EgkgF2euQd
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-say-goodbye-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/I-Just-Can-t-Say-Goodbye
 name: I Just Can't Say Goodbye
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 171533
 ---
 I memorized the words
 I'm gonna say to you

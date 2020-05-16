@@ -1,8 +1,11 @@
 ---
+album: Whatcha See Is Whatcha Get
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:6ELgz6uURtYvKbjm1d4dFp
 features: []
-genres: []
+first_released_as_single: false
 key: hey-you--get-off-my-mountain-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/heyyougetoffmymountain.html
 name: Hey You! Get Off My Mountain
@@ -55,8 +58,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1971
+runtime: 212306
 ---
-
 Hey you, get off my mountain
 Hey you, get off my cloud
 Hey you, get off my mountain
@@ -97,6 +101,3 @@ Bring me down
 
 You're trying, you're trying
 You're trying, you're trying
-
-
-

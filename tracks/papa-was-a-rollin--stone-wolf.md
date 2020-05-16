@@ -1,8 +1,11 @@
 ---
+album: Wolf
 artists:
 - Wolf
+external_ids:
+  spotify: spotify:track:6fSIzqhp5WNaNd0pkwPJth
 features: []
-genres: []
+first_released_as_single: false
 key: papa-was-a-rollin--stone-wolf
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Wolfer/Papa-Was-a-Rollin-Stone
 name: Papa Was A Rollin' Stone
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-02-05'
+release_year: 1982
+runtime: 317800
 ---
 It was the third of September; that day I'll always remember,
 'Cause that was the day that my daddy died.

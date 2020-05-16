@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Ed Brown And The Browns
 artists:
 - The Browns
+external_ids:
+  spotify: spotify:track:1voKhn2sLjn3F7NgVIOB4u
 features: []
-genres: []
+first_released_as_single: false
 key: the-three-bells-the-browns
 lyrics_url: https://genius.com/The-browns-the-three-bells-les-trois-cloches-lyrics
 name: The Three Bells
@@ -75,6 +78,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 170533
 ---
 There's a village, hidden deep in the valley
 Among the pine trees, half forlorn

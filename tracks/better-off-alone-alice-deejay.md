@@ -1,8 +1,11 @@
 ---
+album: Better Off Alone (Laidback Luke Remix)
 artists:
 - Alice Deejay
+external_ids:
+  spotify: spotify:track:48gBfTRel9fajeev7tmLpo
 features: []
-genres: []
+first_released_as_single: true
 key: better-off-alone-alice-deejay
 lyrics_url: https://genius.com/Alice-deejay-better-off-alone-lyrics
 name: Better Off Alone
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 2000
+runtime: 215246
 ---
 Do you think you're better off alone?
 Do you think you're better off alone?

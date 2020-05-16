@@ -1,8 +1,11 @@
 ---
+album: Martha Reeeves
 artists:
 - Martha Reeves
+external_ids:
+  spotify: spotify:track:0ZfdsiSnP8mriYwpP2EohO
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love-martha-reeves
 name: Power Of Love
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1974
+runtime: 204133
 ---
 

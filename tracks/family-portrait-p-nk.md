@@ -1,8 +1,11 @@
 ---
+album: M!ssundaztood
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:6VD5vEK2wVfTG7q84pJ6EO
 features: []
-genres: []
+first_released_as_single: false
 key: family-portrait-p-nk
 lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/Family-Portrait
 name: Family Portrait
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2001
+runtime: 296960
 ---
 Uh, uh, some deep shit, uh, uh
 Ohh oh oh oh

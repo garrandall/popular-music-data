@@ -1,8 +1,11 @@
 ---
+album: Vintage Collections
 artists:
 - Tex Ritter
+external_ids:
+  spotify: spotify:track:5C285mitLVNBYDMjI50B89
 features: []
-genres: []
+first_released_as_single: false
 key: i-dreamed-of-a-hill-billy-heaven-tex-ritter
 lyrics_url: https://genius.com/Tex-ritter-i-dreamed-of-a-hillbilly-heaven-lyrics
 name: I Dreamed Of A Hill-Billy Heaven
@@ -55,6 +58,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 190573
 ---
 (Wah, wah, wah, waaahhhh)
 I dreamed I was there in hillbilly heaven
@@ -86,4 +91,3 @@ Roy Acuff, Eddy Arnold, Tennessee Ernie, Jimmy Dean, Andy Griffith, Roy Rogers, 
 Tex Ritter? Oh, well, that's when I woke up, and I'm sorry I did, because
 
 I dreamed I was there in hillbilly heaven
-

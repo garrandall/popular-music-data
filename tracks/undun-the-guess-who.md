@@ -1,8 +1,11 @@
 ---
+album: Canned Wheat
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:3zsWzIGaMYfB8V9dPx2nge
 features: []
-genres: []
+first_released_as_single: false
 key: undun-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/undun.html
 name: Undun
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 206306
 ---
-
 She's come undone
 She didn't know what she was headed for
 And when I found what she was headed for
@@ -114,6 +118,3 @@ She's come undone
 
 No, no-no-no-no-no, no
 Doe, doe, doe-doe
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Learn To Live
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:5JlH51YDYsGj2dyEJKKjcN
 features: []
-genres: []
+first_released_as_single: false
 key: alright-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/alright.html
 name: Alright
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2008
+runtime: 231920
 ---
-
 Alright, alright
 Yeah, it's alright, alright
 
@@ -145,6 +149,3 @@ And it's alright, alright, alright
 Yeah, I got all I need, yeah, I got all I need
 And it's alright by me, oh yeah
 It's alright by me, yeah, yeah, yeah
-
-
-

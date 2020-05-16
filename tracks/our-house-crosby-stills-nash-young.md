@@ -1,8 +1,11 @@
 ---
+album: Deja Vu
 artists:
 - Crosby, Stills, Nash & Young
+external_ids:
+  spotify: spotify:track:2hitsKa8SthKhRJBXUHbIv
 features: []
-genres: []
+first_released_as_single: false
 key: our-house-crosby-stills-nash-young
 lyrics_url: https://www.musixmatch.com/lyrics/Crosby-Stills-Nash-Young-feat-Young/Our-House
 name: Our House
@@ -43,6 +46,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 179760
 ---
 I'll light the fire
 You place the flowers in the vase

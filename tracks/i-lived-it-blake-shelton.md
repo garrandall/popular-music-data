@@ -1,8 +1,11 @@
 ---
+album: Texoma Shore
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:5slddJ629YcePvqD6Uyk8r
 features: []
-genres: []
+first_released_as_single: false
 key: i-lived-it-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-i-lived-it-lyrics
 name: I Lived It
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2017
+runtime: 219600
 ---
 Daddy drove the wheels off a flatbed Ford
 Flies found a hole in the old screen door

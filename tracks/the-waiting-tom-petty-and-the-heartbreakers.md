@@ -1,8 +1,11 @@
 ---
+album: Hard Promises
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:4ZA0EXmjnZIYguEMf0Mc88
 features: []
-genres: []
+first_released_as_single: false
 key: the-waiting-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-the-waiting-lyrics
 name: The Waiting
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-07-25'
+release_year: 1981
+runtime: 238493
 ---
 Oh baby, don't it feel like heaven right now?
 Don't it feel like something from a dream?

@@ -1,8 +1,11 @@
 ---
+album: Forever Burl Ives, Vol. 2
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:6r9eDOWuIHId6TAdOrZOGj
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-goes-on-and-on-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/truelovegoesonandon.html
 name: True Love Goes On And On
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 185391
 ---
-
 True love goes on and on
 My darling, I'll always love you
 
@@ -65,6 +69,3 @@ For true love goes on and on
 Our love will be ever new
 True love goes on and on
 My darling, I'll always love you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Promised Land
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3FyYXJlsGz4OqnqyfFLe2u
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-talk-in-your-sleep-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/ifyoutalkinyoursleep.html
 name: If You Talk In Your Sleep
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 148186
 ---
-
 I know you're a lonely woman and I love you
 But someone else is waiting and he owns you
 If he should ever wake up, make sure that your story is straight love
@@ -85,6 +89,3 @@ Forget where you came
 Don't mention my name
 Don't mention my name
 Forget where you came
-
-
-

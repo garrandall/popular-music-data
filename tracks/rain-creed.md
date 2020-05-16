@@ -1,8 +1,11 @@
 ---
+album: Cosmo's Factory
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:52M3rfFznswYdJv6Id7ucy
 features: []
-genres: []
+first_released_as_single: false
 key: rain-creed
 lyrics_url: https://genius.com/Creedence-clearwater-revival-have-you-ever-seen-the-rain-lyrics
 name: Rain
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 1969
+runtime: 147279
 ---
 Someone told me long ago
 There's a calm before the storm

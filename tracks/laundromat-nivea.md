@@ -1,8 +1,11 @@
 ---
+album: Nivea
 artists:
 - Nivea
+external_ids:
+  spotify: spotify:track:1kIzhTj2kFjlUAWoqFEJTi
 features: []
-genres: []
+first_released_as_single: false
 key: laundromat-nivea
 lyrics_url: https://www.azlyrics.com/lyrics/nivea/laundromat.html
 name: Laundromat
@@ -43,9 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 263413
 ---
-
-
 Baby, Who That Is?
 
 
@@ -194,6 +197,3 @@ None Of Your Lyin'
 You Got To Go Boy
 I'm Cleanin' My House Now
 Oh, I'm Headed To The Laundromat
-
-
-

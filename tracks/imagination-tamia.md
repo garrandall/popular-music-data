@@ -1,8 +1,11 @@
 ---
+album: Tamia
 artists:
 - Tamia
+external_ids:
+  spotify: spotify:track:5YszKTyljHKEzmWi5AR2Sk
 features: []
-genres: []
+first_released_as_single: false
 key: imagination-tamia
 lyrics_url: https://www.azlyrics.com/lyrics/tamia/imagination.html
 name: Imagination
@@ -87,9 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 213973
 ---
-
-
 See, ya'll wanna dance? (yeah yeah)
 Cuz I'mma make you dance (uh huh)
 All I want is for you to use your imagination (come on)
@@ -155,6 +158,3 @@ That keeps me lovin' you (imagination)
 And when you're in need
 And got nobody
 Imagination sets you free, free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'The Hunger Games: Catching Fire (Original Motion Picture Soundtrack)'
 artists:
 - Sia
+external_ids:
+  spotify: spotify:track:6x0ex5urwhqB3AYLREVRUd
 features: []
-genres: []
+first_released_as_single: true
 key: elastic-heart-sia
 lyrics_url: https://genius.com/Sia-elastic-heart-lyrics
 name: Elastic Heart
@@ -127,6 +130,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2013
+runtime: 257986
 ---
 And another one bites the dust
 Oh, why can I not conquer love?

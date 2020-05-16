@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:7aUntLt00Tgpawu1zrQvKd
 features: []
-genres: []
+first_released_as_single: false
 key: lazy-river-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/lazyriver.html
 name: Lazy River
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
+release_year: 1961
+runtime: 152319
 ---
-
 Up a lazy river
 By the old mill run
 Lazy river
@@ -105,6 +109,3 @@ Up a lazy river
 I ain't goin' your way
 Get outta my way
 Up a lazy river with me
-
-
-

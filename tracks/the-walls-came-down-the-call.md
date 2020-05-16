@@ -1,8 +1,11 @@
 ---
+album: Winning Combinations
 artists:
 - The Call
+external_ids:
+  spotify: spotify:track:2xbcoV4UdMoTcsH6vWAcZC
 features: []
-genres: []
+first_released_as_single: false
 key: the-walls-came-down-the-call
 lyrics_url: https://genius.com/The-call-the-walls-came-down-lyrics
 name: The Walls Came Down
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
+release_year: 1983
+runtime: 222306
 ---
 Well
 

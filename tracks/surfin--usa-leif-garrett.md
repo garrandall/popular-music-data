@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:5vJIqByEnZmFb9dyIgBzR1
 features: []
-genres: []
+first_released_as_single: false
 key: surfin--usa-leif-garrett
 lyrics_url: https://www.musixmatch.com/lyrics/Leif-Garrett/Surfin-USA
 name: Surfin' USA
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
+release_year: 1977
+runtime: 143066
 ---
 If everybody had an ocean
 Across the USA

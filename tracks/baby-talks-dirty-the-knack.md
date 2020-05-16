@@ -1,8 +1,11 @@
 ---
+album: But The Little Girls Understand
 artists:
 - The Knack
+external_ids:
+  spotify: spotify:track:1v64SrT0QJlpbrepnZOHPz
 features: []
-genres: []
+first_released_as_single: false
 key: baby-talks-dirty-the-knack
 lyrics_url: https://www.azlyrics.com/lyrics/knack/babytalksdirty.html
 name: Baby Talks Dirty
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1979
+runtime: 225560
 ---
-
 You know my baby talks dirty
 You know my baby she say hurt me hurt me
 Aw aw aw
@@ -83,6 +87,3 @@ When she say do it to it do it to it do it to it yeah
 Oh I got the whole control
 Oh she got the savage soul
 Oh it's only rock and roll
-
-
-

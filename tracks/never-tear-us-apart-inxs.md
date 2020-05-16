@@ -1,8 +1,11 @@
 ---
+album: Kick
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:1qQSRy9DjrGh3jtsSCU6B1
 features: []
-genres: []
+first_released_as_single: false
 key: never-tear-us-apart-inxs
 lyrics_url: https://genius.com/Inxs-never-tear-us-apart-lyrics
 name: Never Tear Us Apart
@@ -99,6 +102,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1987
+runtime: 185694
 ---
 Don't ask me
 What you know is true

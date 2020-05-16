@@ -1,9 +1,12 @@
 ---
+album: Moana
 artists:
 - Opetaia Foa'i
 - Lin-Manuel Miranda
+external_ids:
+  spotify: spotify:track:6YH2r9NyEJTjlRmKOCvxgJ
 features: []
-genres: []
+first_released_as_single: false
 key: we-know-the-way-opetaia-foa-i-lin-manuel-miranda
 lyrics_url: https://www.musixmatch.com/lyrics/Opetaia-Foa-i-feat-Lin-Manuel-Miranda-3/We-Know-the-Way-2
 name: We Know The Way
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2016
+runtime: 141413
 ---
 Tatou o tagata folau e vala'auina
 E le atua o le sami tele e o mai

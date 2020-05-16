@@ -1,8 +1,11 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:1gT5TGwbkkkUliNzHRIGi1
 features: []
-genres: []
+first_released_as_single: false
 key: 4-44-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/444.html
 name: '4:44'
@@ -15,9 +18,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 284493
 ---
-
-
 Do I find it so hard
 When I know in my heart
 I'm letting you down every day
@@ -84,7 +87,7 @@ I don't even know what I would do
 If they ain't look at me the same
 I would prob'ly die with all the shame
 "You did what with who?"
-What good is a mÃ©nage Ã  trois when you have a soulmate?
+What good is a ménage Ã  trois when you have a soulmate?
 "You risked that for Blue?"
 If I wasn't a superhero in your face
 My heart breaks for the day I have to explain my mistakes
@@ -94,6 +97,3 @@ For Blue's tooth, the tooth fairy didn't pay
 
 
 I'm never gonna treat you like I should
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Days Of Future Passed (Deluxe Version)
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:6L5BZEcZmD6RBJnimzlyKr
 features: []
-genres: []
+first_released_as_single: false
 key: nights-in-white-satin-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-nights-in-white-satin-lyrics
 name: Nights In White Satin
@@ -79,6 +82,8 @@ rankings:
   rank: 17
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1967
+runtime: 269106
 ---
 Nights in white satin, never reaching the end,
 Letters I've written, never meaning to send

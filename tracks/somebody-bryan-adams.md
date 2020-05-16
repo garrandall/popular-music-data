@@ -1,8 +1,11 @@
 ---
+album: Reckless
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:3KTxIOIZIE7UM6vwCX4Ofv
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/somebody.html
 name: Somebody
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1984
+runtime: 283386
 ---
-
 I bin lookin' for someone
 Between the fire and the flame
 We're all lookin' for somethin'
@@ -114,4 +118,3 @@ Another night another lesson learned
 It's the distance keeps us sane
 But when the silence leads to sorrow
 We do it all again - all again
-

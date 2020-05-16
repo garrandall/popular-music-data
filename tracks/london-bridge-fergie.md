@@ -1,8 +1,11 @@
 ---
+album: The Dutchess
 artists:
 - Fergie
+external_ids:
+  spotify: spotify:track:7jRoWfRlLnGYEIEn4t4kbq
 features: []
-genres: []
+first_released_as_single: false
 key: london-bridge-fergie
 lyrics_url: https://www.azlyrics.com/lyrics/fergie/londonbridge.html
 name: London Bridge
@@ -91,8 +94,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
+release_year: 2006
+runtime: 241306
 ---
-
 Oh shit, oh shit, oh shit
 Are you ready for this?
 Oh, shit!
@@ -174,6 +178,3 @@ Like London London London be going down like
 
 Shittin' all over the world
 Fuck you bitches!
-
-
-

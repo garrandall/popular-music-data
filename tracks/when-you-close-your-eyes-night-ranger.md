@@ -1,8 +1,11 @@
 ---
+album: Midnight Madness
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:0FoB9BAV7B2Kv6NxOFZtSO
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-close-your-eyes-night-ranger
 lyrics_url: https://www.azlyrics.com/lyrics/nightranger/whenyoucloseyoureyes.html
 name: When You Close Your Eyes
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1983
+runtime: 256506
 ---
-
 What do you do when it's falling apart
 And you knew it was gone from the very start
 Do you close your eyes and dream about me
@@ -122,6 +126,3 @@ When you close your eyes, do you dream about me
 
 When you close your eyes, do you dream about me
 When you go to sleep at night, do you dream about me
-
-
-

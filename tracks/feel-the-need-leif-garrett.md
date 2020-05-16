@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:4uNhv9Ca65H1LvFmgGQJxm
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-need-leif-garrett
 lyrics_url: https://www.musixmatch.com/lyrics/Leif-Garrett/Feel-the-Need
 name: Feel The Need
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 340600
 ---
 See how, I'm walkin'
 See how, I'm talkin'

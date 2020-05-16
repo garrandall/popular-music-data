@@ -1,8 +1,11 @@
 ---
+album: Release Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:0Si6MQzSdOyfWTy0LP5ojD
 features: []
-genres: []
+first_released_as_single: false
 key: release-me--and-let-me-love-again--engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/pleasereleasemeletmego.html
 name: Release Me (And Let Me Love Again)
@@ -63,8 +66,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 204413
 ---
-
 Please release me, let me go
 For I don't love you anymore
 To waste our lives would be a sin
@@ -85,6 +89,3 @@ You'd be a fool to cling to me
 To live a lie would bring us pain
 So release me and let me love again
 (Let me love, let me love)
-
-
-

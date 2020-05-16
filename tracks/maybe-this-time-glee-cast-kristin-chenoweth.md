@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6cUf9i28VLmBKCBTyiS4vT
 features:
 - Kristin Chenoweth
-genres: []
+first_released_as_single: false
 key: maybe-this-time-glee-cast-kristin-chenoweth
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/maybethistime.html
 name: Maybe This Time
@@ -12,8 +15,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 179506
 ---
-
 Maybe this time
 I'll be lucky
 Maybe this time
@@ -80,6 +84,3 @@ Maybe this time I'll win
 
 
 Win!
-
-
-

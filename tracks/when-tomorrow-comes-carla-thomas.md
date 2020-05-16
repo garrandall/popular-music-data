@@ -1,8 +1,11 @@
 ---
+album: The Queen Alone
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:2CjWC2vXetR3o0MWKBX4Kg
 features: []
-genres: []
+first_released_as_single: false
 key: when-tomorrow-comes-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-when-tomorrow-comes-lyrics
 name: When Tomorrow Comes
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 152173
 ---
 It's easy for a love to come and go
 Oh, yes, it is

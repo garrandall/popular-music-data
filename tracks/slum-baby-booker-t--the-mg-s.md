@@ -1,9 +1,12 @@
 ---
+album: The Best Of Booker T. & The MGs
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:1GA3OPsFnpgqJcjqaQd0Lx
 features: []
-genres: []
+first_released_as_single: false
 key: slum-baby-booker-t--the-mg-s
 name: Slum Baby
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 156400
 ---
 

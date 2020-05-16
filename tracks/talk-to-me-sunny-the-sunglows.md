@@ -1,9 +1,12 @@
 ---
+album: "Cari\xF1o Nuevo"
 artists:
 - Sunny
 - The Sunglows
+external_ids:
+  spotify: spotify:track:43Tf5c7fcBIvuuCSBODKkA
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-sunny-the-sunglows
 lyrics_url: https://genius.com/Sunny-and-the-sunglows-talk-to-me-lyrics
 name: Talk To Me
@@ -56,6 +59,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 165053
 ---
 Talk to me
 Talk to me

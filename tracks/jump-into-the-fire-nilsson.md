@@ -1,8 +1,11 @@
 ---
+album: Nilsson Schmilsson
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:3hgHrfMdtnLtH54HYTdNHF
 features: []
-genres: []
+first_released_as_single: false
 key: jump-into-the-fire-nilsson
 lyrics_url: https://genius.com/Nilsson-jump-into-the-fire-lyrics
 name: Jump Into The Fire
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1971
+runtime: 422106
 ---
 Jump into the Fire
 Harry Nilsson
@@ -55,4 +60,3 @@ Or I can break you down
 Whoa-o-o-o-
 Whoa-o-o-o-
 We can make each other happy (4X)
-

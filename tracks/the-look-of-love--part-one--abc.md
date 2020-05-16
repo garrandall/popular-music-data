@@ -1,8 +1,11 @@
 ---
+album: The Lexicon Of Love
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:6HvUtPLqkP0t6zd6YNdWby
 features: []
-genres: []
+first_released_as_single: false
 key: the-look-of-love--part-one--abc
 lyrics_url: https://genius.com/Abc-the-look-of-love-part-one-lyrics
 name: The Look Of Love (Part One)
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 209160
 ---
 When your world is full of strange arrangements
 And gravity won't pull you through

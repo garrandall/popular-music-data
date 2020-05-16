@@ -1,8 +1,11 @@
 ---
+album: Origins
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:2RSHsoi04658QL5xgQVov3
 features: []
-genres: []
+first_released_as_single: false
 key: bad-liar-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/badliar.html
 name: Bad Liar
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 260773
 ---
-
 Oh, hush, my dear, it's been a difficult year
 And terrors don't prey on innocent victims
 Trust me, darlin', trust me, darlin'
@@ -98,6 +102,3 @@ Now you know, you're free to go
 Oh-oh-oh
 Please believe me
 Please believe me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Almas Del Silencio
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:2VspVkHity8i4H9jammhhR
 features: []
-genres: []
+first_released_as_single: false
 key: tal-vez-ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-tal-vez-lyrics
 name: Tal Vez
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2003
+runtime: 279226
 ---
 Tal vez sera que esa historia ya tiene final
 No se porque hoy te siento tan distante de mí

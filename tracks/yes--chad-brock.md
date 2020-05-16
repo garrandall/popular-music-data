@@ -1,8 +1,11 @@
 ---
+album: Yes!
 artists:
 - Chad Brock
+external_ids:
+  spotify: spotify:track:1PrZOkFxJqTZAH8P3x87hW
 features: []
-genres: []
+first_released_as_single: false
 key: yes--chad-brock
 lyrics_url: https://www.musixmatch.com/lyrics/Chad-Brock/Yes
 name: Yes!
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 2000
+runtime: 206733
 ---
 She moved into my old apartment
 That's how we got this whole thing started

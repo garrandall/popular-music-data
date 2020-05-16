@@ -1,8 +1,11 @@
 ---
+album: Tribute to Billy Stewart and Marvin Gaye
 artists:
 - GQ
+external_ids:
+  spotify: spotify:track:5UDb1n4iXf1uuFIDlH1n8M
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-love-you-gq
 lyrics_url: https://genius.com/Gq-disco-group-i-do-love-you-lyrics
 name: I Do Love You
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1979
+runtime: 326200
 ---
 I do love you, oh
 But it's alright, alright, ah

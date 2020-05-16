@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:5nPq2L48Z8ZaBcC0mfDodm
 features: []
-genres: []
+first_released_as_single: false
 key: almost-persuaded-etta-james
 lyrics_url: https://genius.com/Etta-james-almost-persuaded-lyrics
 name: Almost Persuaded
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1969
+runtime: 201333
 ---
 Last night, all alone at a party
 I met a man with a drink in his hand

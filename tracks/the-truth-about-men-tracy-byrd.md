@@ -1,8 +1,11 @@
 ---
+album: The Truth About Men
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:12KkJDLatz644y0hYJtZJX
 features: []
-genres: []
+first_released_as_single: false
 key: the-truth-about-men-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/thetruthaboutmen.html
 name: The Truth About Men
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2003
+runtime: 178866
 ---
-
 We don't like to go out shopping,
 We don't care whats on sale,
 We just wanna sit with a bag full of chips
@@ -84,6 +88,3 @@ probably gonna happen sure it's gonna happen
 You know it's gonna happen again
 
 And thats the truth about men
-
-
-

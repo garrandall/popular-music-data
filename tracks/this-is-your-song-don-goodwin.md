@@ -1,8 +1,11 @@
 ---
+album: This Is Your Song (Re-Mastered)
 artists:
 - Don Goodwin
+external_ids:
+  spotify: spotify:track:4f2YqeGAggklftFrs5doVn
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-your-song-don-goodwin
 name: This Is Your Song
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 194768
 ---
 

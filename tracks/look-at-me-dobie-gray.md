@@ -1,8 +1,11 @@
 ---
+album: Dobie Gray Sings For 'In' Crowders that go 'Go Go'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:5a6KoWEzy9GengCXiGXTcq
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-me-dobie-gray
 lyrics_url: https://www.azlyrics.com/lyrics/dobiegray/lookatme.html
 name: Look At Me
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1963
+runtime: 158520
 ---
-
 Come on and look (look), look (look), look at me
 And tell me what (what) what you see
 I said look (look) look (look) look at me
@@ -47,6 +51,3 @@ You see a broken heart. My baby's about to set me free (she's gonna set him free
 
 I said look (look) look (look) look at me
 And tell me what (what) what you see
-
-
-

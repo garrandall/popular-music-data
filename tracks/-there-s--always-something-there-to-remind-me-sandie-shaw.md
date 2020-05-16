@@ -1,8 +1,11 @@
 ---
+album: Sandie
 artists:
 - Sandie Shaw
+external_ids:
+  spotify: spotify:track:4UMFglAuTDcDj6rbmIS6tW
 features: []
-genres: []
+first_released_as_single: false
 key: -there-s--always-something-there-to-remind-me-sandie-shaw
 lyrics_url: https://genius.com/Sandie-shaw-theres-always-something-there-to-remind-me-lyrics
 name: (There's) Always Something There To Remind Me
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 165720
 ---
 I walk along those city streets
 You used to walk along with me

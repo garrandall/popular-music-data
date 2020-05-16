@@ -1,8 +1,11 @@
 ---
+album: Ahmad
 artists:
 - Ahmad
+external_ids:
+  spotify: spotify:track:5gUVdjfPWoaKoRiEMHBX6P
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-the-day-ahmad
 lyrics_url: https://genius.com/Ahmad-back-in-the-day-lyrics
 name: Back In The Day
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1994
+runtime: 303373
 ---
 Back in the days when I was young I'm not a kid anymore
 But some days I sit and wish I was a kid again

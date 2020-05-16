@@ -1,8 +1,11 @@
 ---
+album: The World We Knew
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:13qzHYbEqzcq34eZzYsKIs
 features: []
-genres: []
+first_released_as_single: false
 key: this-town-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/thistown.html
 name: This Town
@@ -27,8 +30,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 182146
 ---
-
 This town is a lonely town
 Not the only town like-a this town
 This town is a make-you town
@@ -58,6 +62,3 @@ It's bound to be downtown
 
 This town, bye-bye
 Bye, bye, bye, bye, bye-bye
-
-
-

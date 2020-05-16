@@ -1,8 +1,11 @@
 ---
+album: Portrait In Music
 artists:
 - George Maharis
+external_ids:
+  spotify: spotify:track:4kW4TwGRdhAN3U8mp7BBmG
 features: []
-genres: []
+first_released_as_single: false
 key: baby-has-gone-bye-bye-george-maharis
 name: Baby Has Gone Bye Bye
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 174493
 ---
 

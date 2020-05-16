@@ -1,8 +1,11 @@
 ---
+album: The Roulette Years
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:6iWwn7eGXAjkCftYTLxPXc
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-so-much-love-all-around-me-the-three-degrees
 lyrics_url: https://genius.com/The-three-degrees-theres-so-much-love-all-around-me-lyrics
 name: There's So Much Love All Around Me
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1971
+runtime: 159626
 ---
 A long time ago, it seems
 That I was young and full of dreams, oh yeah

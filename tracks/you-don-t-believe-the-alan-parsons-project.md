@@ -1,8 +1,11 @@
 ---
+album: Ammonia Avenue
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:4XACvuLiIffPegSyRYyUr3
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-believe-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-you-dont-believe-lyrics
 name: You Don't Believe
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1977
+runtime: 265960
 ---
 My eyes with your vision
 My choice but always your decision

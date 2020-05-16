@@ -1,8 +1,11 @@
 ---
+album: I'm Nearly Famous
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:29YcYtqUNLWaYvGVGdYtZy
 features: []
-genres: []
+first_released_as_single: false
 key: devil-woman-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-devil-woman-lyrics
 name: Devil Woman
@@ -95,6 +98,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 217373
 ---
 I've had nothing but bad luck
 Since the day I saw the cat at my door

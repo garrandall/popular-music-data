@@ -1,8 +1,11 @@
 ---
+album: All Alone Am I
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:4tMnrDxy7Vmv7HyK3ZTO2w
 features: []
-genres: []
+first_released_as_single: false
 key: all-alone-am-i-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-all-alone-am-i-lyrics
 name: All Alone Am I
@@ -67,6 +70,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 166573
 ---
 All alone am I ever since your goodbye
 All alone with just a beat of my heart

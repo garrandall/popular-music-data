@@ -1,8 +1,11 @@
 ---
+album: Time Well Wasted
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3uJggzf2q1lCOl8EiQHFvN
 features: []
-genres: []
+first_released_as_single: false
 key: waitin--on-a-woman-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/waitinonawoman.html
 name: Waitin' On A Woman
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2005
+runtime: 272586
 ---
-
 Sittin' on a bench at West Town Mall 
 He sat down in his overalls and asked me
 You waitin' on a woman
@@ -132,6 +136,3 @@ Waitin' on a woman
 
 Honey, take your time, cause I don't mind
 Waitin' on a woman
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:5TNbU6SbJ79dFD6x3uo43S
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-give-up-petula-clark
 lyrics_url: https://genius.com/Petula-clark-dont-give-up-lyrics
 name: Don't Give Up
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 184560
 ---
 When love seems to get you down
 When you can't turn around and run

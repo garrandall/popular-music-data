@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:1tKxrKBYIIykuLvipSWfgy
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-to-me-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-do-it-to-me-lyrics
 name: Do It To Me
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-09-12'
+release_year: 1992
+runtime: 363333
 ---
 Girl, you're such a bad thing
 Standing there all alone

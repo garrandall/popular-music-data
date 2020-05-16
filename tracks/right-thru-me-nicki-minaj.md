@@ -1,8 +1,11 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:180jaPAbXwB4nvtieXteYf
 features: []
-genres: []
+first_released_as_single: false
 key: right-thru-me-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/rightthrume.html
 name: Right Thru Me
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 235773
 ---
-
 You see right through me
 How do you do that shit? 
 How do you 
@@ -161,7 +165,4 @@ How do you
 
 You see right through me
 How do you do that shit 
-How do you 
-
-
-
+How do you

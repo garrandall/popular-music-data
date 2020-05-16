@@ -1,8 +1,11 @@
 ---
+album: The Sweetest Days
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:0yPqId8XOGAnOz8a2Hu2B6
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-that-you-love-vanessa-williams
 lyrics_url: https://genius.com/Vanessa-williams-the-way-that-you-love-lyrics
 name: The Way That You Love
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1994
+runtime: 288624
 ---
 It's just the way that you love me
 (You know you drive me crazy)

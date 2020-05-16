@@ -1,9 +1,12 @@
 ---
+album: Ludaversal
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:60BVxPevV4Jr3Dj4M7Md0z
 features:
 - Miguel
-genres: []
+first_released_as_single: false
 key: good-lovin-ludacris-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/goodlovin.html
 name: Good Lovin
@@ -16,9 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2015
+runtime: 223440
 ---
-
-
 I keep dwellin' on the past, babe
 Know what I need, yeah
 
@@ -84,6 +87,3 @@ I need some real good lovin'
 Cause I'm troubled by the things that I see
 I need some real good lovin'
 Cause ain't nobody been around here lovin' on me
-
-
-

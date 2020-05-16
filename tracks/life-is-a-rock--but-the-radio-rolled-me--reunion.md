@@ -1,8 +1,11 @@
 ---
+album: Radio Hits Of the '70s
 artists:
 - Reunion
+external_ids:
+  spotify: spotify:track:0QhrOgpF2BaqHOLoLypBku
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-a-rock--but-the-radio-rolled-me--reunion
 lyrics_url: https://genius.com/Reunion-life-is-a-rock-but-the-radio-rolled-me-lyrics
 name: Life Is A Rock (But The Radio Rolled Me)
@@ -67,6 +70,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1972
+runtime: 206706
 ---
 B.B. Bumble and the Stingers, Mott the Hoople, Ray Charles Singers
 Lonnie Mack and twangin' Eddy, here's my ring we're goin' steady

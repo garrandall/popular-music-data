@@ -1,8 +1,11 @@
 ---
+album: Let the Little Girl Sing
 artists:
 - Billy Bland
+external_ids:
+  spotify: spotify:track:6Mgvv7pE0XeyFnTVYsabKp
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-little-girl-dance-billy-bland
 lyrics_url: https://genius.com/Billy-bland-let-the-little-girl-dance-lyrics
 name: Let The Little Girl Dance
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
+release_year: 1960
+runtime: 143333
 ---
 (Little wallflower on the shelf)
 (Standing by herself)

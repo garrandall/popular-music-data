@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4e1xJdnj2w9vj8YPdkeUJv
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-break-the-heart-that-loves-you-connie-francis
 lyrics_url: https://genius.com/Connie-francis-dont-break-the-heart-that-loves-you-lyrics
 name: Don't Break The Heart That Loves You
@@ -59,6 +62,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 182133
 ---
 (Don't break the heart that loves you so)
 

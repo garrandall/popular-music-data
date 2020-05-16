@@ -1,9 +1,12 @@
 ---
+album: Late Registration
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2cDpmdTWch4yBrTyl5Qmca
 features:
 - Adam Levine
-genres: []
+first_released_as_single: false
 key: heard--em-say-kanye-west-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/heardemsay.html
 name: Heard 'Em Say
@@ -72,8 +75,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-02-11'
+release_year: 2005
+runtime: 203733
 ---
-
 Wake up, Mr. West
 
 And I heard 'em say,
@@ -136,6 +140,3 @@ With every worthless word we get more far away,
 And nothing's ever promised tomorrow today,
 And nothing last forever but be honest babe,
 It hurts but it may be the only way
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: JACKBOYS
 artists:
 - JACKBOYS
+external_ids:
+  spotify: spotify:track:6gi6y1xwmVszDWkUqab1qw
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: out-west-jackboys-young-thug
 lyrics_url: https://genius.com/Genius-traductions-francaises-jackboys-out-west-ft-young-thug-traduction-francaise-lyrics
 name: OUT WEST
@@ -48,6 +51,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 157712
 ---
 Ouais
 Buddah bénisse cette instru

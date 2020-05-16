@@ -1,9 +1,12 @@
 ---
+album: Shock Value
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:6ucR4KfvsBFWCMVFDvyKKl
 features:
 - OneRepublic
-genres: []
+first_released_as_single: false
 key: apologize-timbaland-onerepublic
 lyrics_url: https://genius.com/Timbaland-apologize-lyrics
 name: Apologize
@@ -196,6 +199,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-07-05'
+release_year: 2007
+runtime: 184400
 ---
 I'm holding on your rope, got me ten feet off the ground
 And I'm hearing what you say, but I just can't make a sound

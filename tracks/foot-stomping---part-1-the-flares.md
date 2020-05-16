@@ -1,8 +1,11 @@
 ---
+album: Hard To Find Hits
 artists:
 - The Flares
+external_ids:
+  spotify: spotify:track:4MCpmOHRa5tlUo5EQaCjjJ
 features: []
-genres: []
+first_released_as_single: false
 key: foot-stomping---part-1-the-flares
 lyrics_url: https://www.musixmatch.com/lyrics/The-Flares/Foot-Stomping-Part-1
 name: Foot Stomping - Part 1
@@ -67,6 +70,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 136800
 ---
 Everybody young and old
 Learn how to rock and roll

@@ -1,9 +1,12 @@
 ---
+album: You Get What You Give
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:5qMEjHgdEgPnmedpBZ1SzO
 features:
 - Jimmy Buffett
-genres: []
+first_released_as_single: false
 key: knee-deep-zac-brown-band-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/kneedeep.html
 name: Knee Deep
@@ -88,8 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2010
+runtime: 203173
 ---
-
 Gonna put the world away for a minute
 Pretend I don't live in it
 Sunshine gonna wash my blues away
@@ -145,6 +149,3 @@ Grab a backpack and lawn chair
 You never know until you try
 When you lose yourself
 You find the key to paradise
-
-
-

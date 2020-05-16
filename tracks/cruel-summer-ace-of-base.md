@@ -1,8 +1,11 @@
 ---
+album: Flowers
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:1ntjFaRNVpC1V2cKekUnU5
 features: []
-genres: []
+first_released_as_single: false
 key: cruel-summer-ace-of-base
 lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/cruelsummer.html
 name: Cruel Summer
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 215360
 ---
-
 Dans la chaleur de la nuit qui s'enroule tout autour de moi
 Je marche seule sans savoir pourquoi tu n'es plus la
 Ca tourne dans ma tete

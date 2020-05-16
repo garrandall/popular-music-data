@@ -1,8 +1,11 @@
 ---
+album: Mighty Garvey!
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:1peVJH2dA6soU5cLVyM40Y
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-quinn--quinn-the-eskimo--manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-the-mighty-quinn-lyrics
 name: Mighty Quinn (Quinn The Eskimo)
@@ -51,9 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 173573
 ---
-
-
 Come all without, come all within
 You'll not see nothing like the Mighty Quinn
 Come all without, come all within

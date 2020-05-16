@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:4irCAgcUsSKAfWh0ATA0Yg
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-help-believing-b-j--thomas
 lyrics_url: https://genius.com/Bj-thomas-i-just-cant-help-believing-lyrics
 name: I Just Can't Help Believing
@@ -59,6 +62,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 276506
 ---
 I just can't help believing
 When she smiles up soft and gentle

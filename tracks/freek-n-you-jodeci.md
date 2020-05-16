@@ -1,8 +1,11 @@
 ---
+album: The Show, The After Party, The Hotel
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:43sNw9nvGYGLYnNiwI8oMZ
 features: []
-genres: []
+first_released_as_single: false
 key: freek-n-you-jodeci
 lyrics_url: https://genius.com/Jodeci-freekn-you-lyrics
 name: Freek'n You
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1995
+runtime: 379240
 ---
 I wanna freak you
 I wanna freak you

@@ -1,8 +1,11 @@
 ---
+album: The Sea Of Love
 artists:
 - The Adventures
+external_ids:
+  spotify: spotify:track:19iFBK8ehrmY1vhEymBlyf
 features: []
-genres: []
+first_released_as_single: false
 key: broken-land-the-adventures
 lyrics_url: https://genius.com/The-adventures-ni-broken-land-lyrics
 name: Broken Land
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1988
+runtime: 304159
 ---
 These rivers run too deep
 

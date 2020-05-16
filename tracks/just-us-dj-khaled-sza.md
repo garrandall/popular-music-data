@@ -1,9 +1,12 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:0MDimlSjIqH6zMGqpfJAew
 features:
 - SZA
-genres: []
+first_released_as_single: true
 key: just-us-dj-khaled-sza
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/justus.html
 name: Just Us
@@ -60,8 +63,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 221378
 ---
-
 (We The Best Music!)
 (Another one)
 (DJ Khaled!)
@@ -145,6 +149,3 @@ It's always, it's always us, it's always us
 It's just, uh, it's just us, it's just us
 (Another one)
 It's always, it's always us, it's always
-
-
-

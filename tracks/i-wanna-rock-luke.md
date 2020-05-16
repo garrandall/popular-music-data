@@ -1,8 +1,11 @@
 ---
+album: I Got Sumthin' On My Mind
 artists:
 - Luke
+external_ids:
+  spotify: spotify:track:1OobgUrxJ5AT8QShPR1VZF
 features: []
-genres: []
+first_released_as_single: true
 key: i-wanna-rock-luke
 lyrics_url: https://www.musixmatch.com/lyrics/Luke/I-Wanna-Rock
 name: I Wanna Rock
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
+release_year: 1992
+runtime: 281973
 ---
 Don't Stop Pop That Pussy, Let Me See You Doo Doo Brown,
 

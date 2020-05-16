@@ -1,8 +1,11 @@
 ---
+album: Juicy Fruit
 artists:
 - Mtume
+external_ids:
+  spotify: spotify:track:0VZaYVM92VL8dDakvdsS9E
 features: []
-genres: []
+first_released_as_single: false
 key: juicy-fruit-mtume
 lyrics_url: https://www.azlyrics.com/lyrics/mtume/juicyfruit.html
 name: Juicy Fruit
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1975
+runtime: 273733
 ---
-
 Yeah
 (I like it, oh, oh)
 (I like it, oh, oh)
@@ -130,6 +134,3 @@ Juicy fruit (Candy rain comin' down)
 Juicy (Turns me all around)
 Juicy fruit (I like it, I like it)
 Juicy
-
-
-

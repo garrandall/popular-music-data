@@ -1,8 +1,11 @@
 ---
+album: Dirty Dancing - Live In Concert
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:2PGrm6W3XEzc3udR5ZKHaB
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-eyes-eric-carmen
 lyrics_url: https://genius.com/Eric-carmen-hungry-eyes-lyrics
 name: Hungry Eyes
@@ -107,6 +110,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1979
+runtime: 247973
 ---
 I've been meaning to tell you
 I've got this feeling

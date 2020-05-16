@@ -1,8 +1,11 @@
 ---
+album: Trans
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:45LjGJSRet0G1z5hbFuiu5
 features: []
-genres: []
+first_released_as_single: false
 key: little-thing-called-love-neil-young
 lyrics_url: https://www.azlyrics.com/lyrics/neilyoung/littlethingcalledlove.html
 name: Little Thing Called Love
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 193173
 ---
-
 See somebody
 walkin' down the street
 Hangin' head
@@ -67,6 +71,3 @@ Only love brings you the blues.
 
 A little thing called love
 A little thing called love.
-
-
-

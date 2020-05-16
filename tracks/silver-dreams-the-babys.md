@@ -1,8 +1,11 @@
 ---
+album: Broken Heart
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:28U8YTfJnFUoogneWC2cbR
 features: []
-genres: []
+first_released_as_single: false
 key: silver-dreams-the-babys
 lyrics_url: https://www.azlyrics.com/lyrics/babys/silverdreams.html
 name: Silver Dreams
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
+release_year: 1977
+runtime: 181933
 ---
-
 For the last year
 I've been searching
 I needed something to believe
@@ -70,6 +74,3 @@ I lose myself dreaming silver dreams
 Silver dreams
 Silver dreams
 Ah...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Back Door Men
 artists:
 - The Shadows Of Knight
+external_ids:
+  spotify: spotify:track:3iaYk8k0fywS7hrgqaYoSy
 features: []
-genres: []
+first_released_as_single: false
 key: bad-little-woman-the-shadows-of-knight
 lyrics_url: https://genius.com/The-shadows-of-knight-bad-little-woman-lyrics
 name: Bad Little Woman
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
+release_year: 1966
+runtime: 157426
 ---
 You're a bad little woman
 You're a bad little woman

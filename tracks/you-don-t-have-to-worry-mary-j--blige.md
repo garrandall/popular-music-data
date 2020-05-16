@@ -1,8 +1,11 @@
 ---
+album: What's The 411?
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:5SpezzhEoGUpUgaRc7vMOm
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-worry-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-you-dont-have-to-worry-lyrics
 name: You Don't Have To Worry
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
+release_year: 1993
+runtime: 278573
 ---
 You don't have to worry, I won't waste your time, I'm satisfied
 You don't have to worry, I won't waste your time, I'm satisfied

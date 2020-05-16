@@ -1,8 +1,11 @@
 ---
+album: I Am Woman
 artists:
 - Jordin Sparks
+external_ids:
+  spotify: spotify:track:0vKuYHEs83maj9GNB8Y0Hp
 features: []
-genres: []
+first_released_as_single: true
 key: i-am-woman-jordin-sparks
 lyrics_url: https://www.azlyrics.com/lyrics/jordinsparks/iamwoman.html
 name: I Am Woman
@@ -11,9 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2011
+runtime: 210986
 ---
-
-
 I am (I am) woman (woman)
 I am (I am) woman (woman)
 I'm a woman
@@ -121,6 +124,3 @@ I'm a woman
 I'm a woman
 Yes I am
 Ain't nobody else can do it quite like, like we can
-
-
-

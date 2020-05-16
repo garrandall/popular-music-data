@@ -1,8 +1,11 @@
 ---
+album: Here We Come
 artists:
 - The Braids
+external_ids:
+  spotify: spotify:track:4N89hcar4uVosb2oM9mSOE
 features: []
-genres: []
+first_released_as_single: false
 key: bohemian-rhapsody-the-braids
 lyrics_url: https://www.musixmatch.com/lyrics/The-Braids/Bohemian-Rhapsody
 name: Bohemian Rhapsody
@@ -75,6 +78,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 237280
 ---
 Mama, just killed a man,
 Put a gun against his head,

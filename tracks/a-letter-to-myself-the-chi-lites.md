@@ -1,8 +1,11 @@
 ---
+album: A Letter To Myself
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:3URnRabOOq4nEVUrlmdzJ9
 features: []
-genres: []
+first_released_as_single: false
 key: a-letter-to-myself-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/alettertomyself.html
 name: A Letter To Myself
@@ -51,8 +54,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 338373
 ---
-
 (Write a letter, write another letter)
 (Write a letter, write another letter)
 (Write a letter)
@@ -113,6 +117,3 @@ I write another letter (write a letter) to myself (write another letter)
 (Write a letter, write another letter)
 Oh, I write another letter (write a letter) to myself (write a letter), mmm
 ...
-
-
-

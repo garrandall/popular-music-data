@@ -1,8 +1,11 @@
 ---
+album: BEASTMODE 2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:7MywASx2OFZngfoORjo1yy
 features: []
-genres: []
+first_released_as_single: false
 key: 31-days-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/31days.html
 name: 31 Days
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 240682
 ---
-
 Zaytoven
 Every now and then, you know what I'm sayin'
 Most of them, majority of the time
@@ -98,6 +102,3 @@ Money get made, bitches don't ever get saved
 Saint Laurent shades, cookin' up dope, gettin' paid
 Trying to get laid, she been with me 31 days
 She like bitches anyways, so we been on the same damn page
-
-
-

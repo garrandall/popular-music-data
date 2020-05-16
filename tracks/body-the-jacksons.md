@@ -1,8 +1,11 @@
 ---
+album: Destiny
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:7g4I3DeFlZLeqMjw0ONBqs
 features: []
-genres: []
+first_released_as_single: false
 key: body-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-body-lyrics
 name: Body
@@ -35,6 +38,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1978
+runtime: 479440
 ---
 Woo!
 Girl, I want your body

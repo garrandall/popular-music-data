@@ -1,8 +1,11 @@
 ---
+album: The Buoys
 artists:
 - The Buoys
+external_ids:
+  spotify: spotify:track:5kVFPD9CCQdFjd4cnTtHYB
 features: []
-genres: []
+first_released_as_single: false
 key: give-up-your-guns-the-buoys
 lyrics_url: https://genius.com/The-buoys-give-up-your-guns-lyrics
 name: Give Up Your Guns
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1971
+runtime: 254374
 ---
 When I woke up this morning
 I found myself alone

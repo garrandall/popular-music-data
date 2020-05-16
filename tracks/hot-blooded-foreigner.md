@@ -1,8 +1,11 @@
 ---
+album: Double Vision (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:6xMHglHoafdDFGXS6qfwSH
 features: []
-genres: []
+first_released_as_single: false
 key: hot-blooded-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/hotblooded.html
 name: Hot Blooded
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1978
+runtime: 268693
 ---
-
 Well, I'm hot blooded, check it and see
 I got a fever of a hundred and three
 Come on baby, do you do more than dance?
@@ -124,6 +128,3 @@ Hot blooded, I'm a little bit high
 Hot blooded, you're a little bit shy
 Hot blooded, you're making me sing
 Hot blooded, for your sweet sweet thing
-
-
-

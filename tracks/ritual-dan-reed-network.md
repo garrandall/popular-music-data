@@ -1,8 +1,11 @@
 ---
+album: Dan Reed Network
 artists:
 - Dan Reed Network
+external_ids:
+  spotify: spotify:track:5vurCJeYxIcssE4NgAfJXY
 features: []
-genres: []
+first_released_as_single: false
 key: ritual-dan-reed-network
 lyrics_url: https://genius.com/Dan-reed-network-ritual-lyrics
 name: Ritual
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1988
+runtime: 263973
 ---
 Baby I wan't, all the same things that you want
 Baby I need, all the same things you need

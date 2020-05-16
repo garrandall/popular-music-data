@@ -1,8 +1,11 @@
 ---
+album: Patches
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:5p9XZVYdGggT4EPjBdieq7
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-in-your-mind-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-its-all-in-your-mind-lyrics
 name: It's All In Your Mind
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 158733
 ---
 There's A Kind Of Hush All Over The World Tonight
 All over the world You can hear the sounds of lovers in love

@@ -1,8 +1,11 @@
 ---
+album: Title Of Record
 artists:
 - Filter
+external_ids:
+  spotify: spotify:track:2O2mr2gzBRtKGRiswqRyiN
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-picture-filter
 lyrics_url: https://genius.com/Filter-take-a-picture-lyrics
 name: Take A Picture
@@ -87,6 +90,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
+release_year: 1999
+runtime: 363800
 ---
 Awake on my airplane, awake on my airplane
 My skin is bare, my skin is theirs

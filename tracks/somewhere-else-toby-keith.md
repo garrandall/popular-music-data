@@ -1,8 +1,11 @@
 ---
+album: Bullets in the Gun
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:2dPORt0s6aC8IXaXBvjmDu
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-else-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/somewhereelse.html
 name: Somewhere Else
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2010
+runtime: 185986
 ---
-
 I walk downtown in my broke down shoes
 To the side street pub with the bar band blues
 Take a backseat at the front door table
@@ -98,6 +102,3 @@ Ah, somewhere else
 You might end up somewhere else
 Somewhere else
 Hey
-
-
-

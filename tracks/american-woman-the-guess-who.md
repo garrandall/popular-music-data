@@ -1,8 +1,11 @@
 ---
+album: American Woman
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:5r4RqhXlclyOBImN8I57R0
 features: []
-genres: []
+first_released_as_single: false
 key: american-woman-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-american-woman-lyrics
 name: American Woman
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 232693
 ---
 American woman gonna mess your mind
 American woman, she gonna mess your mind

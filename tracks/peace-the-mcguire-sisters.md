@@ -1,8 +1,11 @@
 ---
+album: Greetings From The McGuire Sisters
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:6UstiPwzJLaqOO5FOgyUNj
 features: []
-genres: []
+first_released_as_single: false
 key: peace-the-mcguire-sisters
 name: Peace
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1958
+runtime: 163226
 ---
 

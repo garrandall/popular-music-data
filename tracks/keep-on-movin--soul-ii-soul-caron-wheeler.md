@@ -1,9 +1,12 @@
 ---
+album: Club Classics Vol. One
 artists:
 - Soul II Soul
+external_ids:
+  spotify: spotify:track:18qEvJqGahKP4RzTdGt6jm
 features:
 - Caron Wheeler
-genres: []
+first_released_as_single: false
 key: keep-on-movin--soul-ii-soul-caron-wheeler
 lyrics_url: https://genius.com/Soul-ii-soul-keep-on-movin-lyrics
 name: Keep On Movin'
@@ -88,6 +91,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1989
+runtime: 216560
 ---
 Keep on moving
 Don't stop like the hands of time

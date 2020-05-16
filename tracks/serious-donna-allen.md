@@ -1,8 +1,12 @@
 ---
+album: Late Night Tales Presents Automatic Soul (Selected and Mixed by Groove Armada's
+  Tom Findlay)
 artists:
 - Donna Allen
+external_ids:
+  spotify: spotify:track:1MeTDprAANy4JqeIkxohn5
 features: []
-genres: []
+first_released_as_single: false
 key: serious-donna-allen
 lyrics_url: https://genius.com/Donna-allen-serious-lyrics
 name: Serious
@@ -79,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1987
+runtime: 332486
 ---
 Baby, tell me are you serious
 Hey, boy

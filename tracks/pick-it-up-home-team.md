@@ -1,8 +1,11 @@
 ---
+album: Via Satellite From Saturn
 artists:
 - Home Team
+external_ids:
+  spotify: spotify:track:7dULtQNWqIce9yU8cvJ5M4
 features: []
-genres: []
+first_released_as_single: true
 key: pick-it-up-home-team
 lyrics_url: https://www.musixmatch.com/lyrics/Home-Team/Pick-It-Up
 name: Pick It Up
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
+release_year: 1992
+runtime: 189346
 ---
 Im laughing at your shit.
 Cause you can't toss it.

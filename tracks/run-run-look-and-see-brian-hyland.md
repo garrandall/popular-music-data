@@ -1,8 +1,11 @@
 ---
+album: The Joker Went Wild / Run Run Look And See
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:46rJEodxZ0CezzTS5Uke32
 features: []
-genres: []
+first_released_as_single: false
 key: run-run-look-and-see-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-run-run-look-and-see-lyrics
 name: Run Run Look And See
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 160840
 ---
 Run, run, look and see
 Run, run, look and see

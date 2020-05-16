@@ -1,8 +1,11 @@
 ---
+album: Take A Back Road
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:7B6m8tHAYZsOKOKMU5SR2n
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-back-road-rodney-atkins
 lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/takeabackroad.html
 name: Take A Back Road
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 209426
 ---
-
 Sit in that six-lane backed up traffic
 Horns are honking, I've about had it
 I'm looking for an exit sign
@@ -167,6 +171,3 @@ Some old back road, get right with my soul
 Now all I gotta do is take some old back road
 To the shady spot where things get hot, girl
 Way down, way down, way down some old back road
-
-
-

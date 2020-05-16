@@ -1,8 +1,11 @@
 ---
+album: City Life
 artists:
 - The Blackbyrds
+external_ids:
+  spotify: spotify:track:2wQJgQwqZsWSTqFJxSFRIB
 features: []
-genres: []
+first_released_as_single: false
 key: rock-creek-park-the-blackbyrds
 lyrics_url: https://genius.com/The-blackbyrds-rock-creek-park-lyrics
 name: Rock Creek Park
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 275906
 ---
 (CHORUS)
 Doing it in the park

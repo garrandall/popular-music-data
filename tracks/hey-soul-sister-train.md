@@ -1,8 +1,11 @@
 ---
+album: Save Me, San Francisco
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:5yurebN0RERrhN2ejzhGYC
 features: []
-genres: []
+first_released_as_single: true
 key: hey-soul-sister-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/heysoulsister.html
 name: Hey Soul Sister
@@ -223,8 +226,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2009
+runtime: 220040
 ---
-
 Hey, hey, hey
 
 Your lipstick stains
@@ -296,6 +300,3 @@ I don't wanna miss
 A single thing you do tonight
 Hey, hey, hey, tonight
 Hey, hey, hey, tonight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Red River Blue
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:0gY2iq0xJPRoIB1PScKSw4
 features: []
-genres: []
+first_released_as_single: false
 key: honey-bee-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/honeybee.html
 name: Honey Bee
@@ -87,8 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2011
+runtime: 210720
 ---
-
 Girl, I been thinkin' 'bout us
 And you know I ain't good at this stuff
 These feelings pilin' up
@@ -151,6 +155,3 @@ You'll be my honeysuckle
 And I'll be your honey bee
 
 I'll be your honey bee
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Mack - Original Motion Picture Soundtrack
 artists:
 - Willie Hutch
+external_ids:
+  spotify: spotify:track:21dZ9u5pA1n7dfakGf3om9
 features: []
-genres: []
+first_released_as_single: false
 key: slick-willie-hutch
 lyrics_url: https://genius.com/Willie-hutch-slick-lyrics
 name: Slick
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 216133
 ---
 Doo, do do do loo do
 (Do do do loo do)

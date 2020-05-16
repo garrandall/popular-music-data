@@ -1,8 +1,11 @@
 ---
+album: 500 Miles Away From Home
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:44AauRai27QWKEx4dKn0oU
 features: []
-genres: []
+first_released_as_single: false
 key: 500-miles-away-from-home-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/500milesawayfromhome.html
 name: 500 Miles Away From Home
@@ -51,8 +54,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-12-14'
+release_year: 1963
+runtime: 162560
 ---
-
 I'm five hundred miles away from home.
 Teardrops fell on mama's note when I read the things she wrote
 She said, "We miss you son, we love you come on home."
@@ -79,6 +83,3 @@ Away from home, away from home
 Cold and tired and all alone
 Yes, I'm five hundred miles
 Away from home...
-
-
-

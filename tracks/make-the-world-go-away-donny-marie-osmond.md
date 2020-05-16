@@ -1,9 +1,12 @@
 ---
+album: Make The World Go Away
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:4VpYJUsh0gHlFwwl7dt3oF
 features: []
-genres: []
+first_released_as_single: false
 key: make-the-world-go-away-donny-marie-osmond
 lyrics_url: https://genius.com/Donny-and-marie-osmond-make-the-world-go-away-lyrics
 name: Make The World Go Away
@@ -32,6 +35,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1975
+runtime: 170026
 ---
 Make the world go away
 Get it up on my shoulders

@@ -1,8 +1,11 @@
 ---
+album: x
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:6Tb6jpTsEMuBnxYo2HuSiK
 features: []
-genres: []
+first_released_as_single: false
 key: afire-love-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/afirelove.html
 name: Afire Love
@@ -11,8 +14,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2013
+runtime: 314280
 ---
-
 Things were all good yesterday
 And then the devil took your memory
 And if you fell to your death today
@@ -92,7 +96,4 @@ My father and all of my family
 Rise from their seats to sing
 Hallelujah
 
-To the love, the love, the love, the love 
-
-
-
+To the love, the love, the love, the love

@@ -1,8 +1,11 @@
 ---
+album: 'Man On The Moon II: The Legend Of Mr. Rager'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:2GtaNlidzvK3hY78kCdsHa
 features: []
-genres: []
+first_released_as_single: false
 key: marijuana-kid-cudi
 lyrics_url: https://www.azlyrics.com/lyrics/kidcudi/marijuana.html
 name: Marijuana
@@ -11,9 +14,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 260200
 ---
-
-
 Pretty green bud
 All in my blunt
 Oh I need it
@@ -71,6 +74,3 @@ Never left me lonely
 It's gon' be ok
 Trust me, its gon' be ok
 Oh oh oh oh
-
-
-

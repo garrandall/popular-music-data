@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:7Cu71U9pwna6IxSUVftp2x
 features: []
-genres: []
+first_released_as_single: false
 key: motiv8-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/motiv8.html
 name: Motiv8
@@ -15,8 +18,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2018
+runtime: 133916
 ---
-
 You really wanna know who Superman is?
 Watch this, pow!
 I like him
@@ -92,6 +96,3 @@ I'm
 
 Get money
 Get money
-
-
-

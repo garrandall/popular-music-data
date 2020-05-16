@@ -1,8 +1,11 @@
 ---
+album: The Essential Joe Diffie
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:4DPzsRk88YdufGpE7cMWw5
 features: []
-genres: []
+first_released_as_single: false
 key: third-rock-from-the-sun-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/thirdrockfromthesun.html
 name: Third Rock From The Sun
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
+release_year: 1990
+runtime: 185960
 ---
-
 She walks into Smokey's
 one hip at a time
 Like a broken field runner
@@ -98,6 +102,3 @@ Welcome to the earth, third rock from the sun.
 Welcome to Earth third rock from the sun.
 Welcome to Earth third rock from the sun.
 Welcome to Earth third rock from the sun.
-
-
-

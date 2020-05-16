@@ -1,8 +1,11 @@
 ---
+album: Into The Light
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:10gSqWsX6e6pVplEG2ovYt
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-forget-you-gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-cant-forget-you-lyrics
 name: Can't Forget You
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1991
+runtime: 254173
 ---
 There's a part of me that's dying every time I hear your name
 There's a part of me that's trying to bring back your love again

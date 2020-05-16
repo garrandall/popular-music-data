@@ -1,8 +1,11 @@
 ---
+album: "Les Mis\xE9rables: The Motion Picture Soundtrack Deluxe"
 artists:
 - Samantha Barks
+external_ids:
+  spotify: spotify:track:6Jmk1iTfUs8YL2d620NcHB
 features: []
-genres: []
+first_released_as_single: false
 key: on-my-own-samantha-barks
 lyrics_url: https://genius.com/Samantha-barks-on-my-own-lyrics
 name: On My Own
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 191413
 ---
 On my own
 Pretending he's beside me

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Chubby Checker 1959-1963
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:74a9dgVrUnZfZewMWgs5xi
 features: []
-genres: []
+first_released_as_single: false
 key: good-good-lovin--chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/goodgoodlovin.html
 name: Good Good Lovin'
@@ -31,8 +34,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 144360
 ---
-
 Got somethin' for you darlin'
 That you never never had
 Well somethin' for you darlin'
@@ -80,6 +84,3 @@ Make me feel so bad
 Oh
 Good good lovin'
 A whole lotta lovin'
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: BRINGING BACK THE SUNSHINE
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:289hx4t6fH2BBe8p6cnXo1
 features: []
-genres: []
+first_released_as_single: false
 key: neon-light-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/neonlight.html
 name: Neon Light
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2014
+runtime: 221401
 ---
-
 Ever since you left me
 I've been ridin' 'round, cranking up a little country gold heartbreak
 Cried and dried these tears
@@ -133,6 +137,3 @@ There's a neon light at the end of the tunnel
 It ain't all that bright, but even though it's subtle
 It's got me feeling alright, go on and make it a double
 There's a neon light at the end of the tunnel, tunnel, tunnel
-
-
-

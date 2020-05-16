@@ -1,8 +1,11 @@
 ---
+album: Chronicle
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:2vmpgZfBe9ib3BuIbBTBcb
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-love-will-make-you-do-little-milton
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Milton/That-s-What-Love-Will-Make-You-Do
 name: That's What Love Will Make You Do
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 238760
 ---
 Oh, when I hear your name
 I start to shake inside, yes I do

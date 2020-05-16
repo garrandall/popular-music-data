@@ -1,8 +1,11 @@
 ---
+album: What's Bin Did and What's Bin Hid
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:6aXKbU2QGsOms8UT3eUOg1
 features: []
-genres: []
+first_released_as_single: false
 key: catch-the-wind-donovan
 lyrics_url: https://genius.com/Donovan-catch-the-wind-lyrics
 name: Catch The Wind
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 173813
 ---
 In the chilly hours and minutes of uncertainty
 I want to be in the warm heart of your loving mind

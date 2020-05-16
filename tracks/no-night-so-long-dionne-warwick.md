@@ -1,8 +1,11 @@
 ---
+album: No Night So Long (Expanded Version)
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:7631rjmouD1m3qa1SZQ2bg
 features: []
-genres: []
+first_released_as_single: false
 key: no-night-so-long-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/nonightsolong.html
 name: No Night So Long
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 207440
 ---
-
 An old friend told me that you just ran out of chances
 One too many dances down the narrow street of time
 Remember how we faced the world like two tramps shining
@@ -109,6 +113,3 @@ No night so long that you can't find the day
 No day so wrong that you can't find your way
 No night so long that you can't find the day
 No day so wrong that you can't find your way
-
-
-

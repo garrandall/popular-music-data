@@ -1,9 +1,12 @@
 ---
+album: Folk 'N Roll
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:0aZONv71HjoKut86G2ghVd
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-a-girl-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/ifoundagirl.html
 name: I Found A Girl
@@ -36,8 +39,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 145333
 ---
-
 I, I found a girl
 Anybody can see just by looking at me
 That I found a girl
@@ -67,6 +71,3 @@ But things are different now
 'Cause I, I found a girl
 Who coincidentally just happens to be
 In love with me
-
-
-

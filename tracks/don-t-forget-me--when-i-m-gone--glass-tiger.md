@@ -1,8 +1,11 @@
 ---
+album: The Thin Red Line
 artists:
 - Glass Tiger
+external_ids:
+  spotify: spotify:track:1cX89LkWJoJPS8uJFpqkIp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-me--when-i-m-gone--glass-tiger
 lyrics_url: https://genius.com/Glass-tiger-dont-forget-me-when-im-gone-lyrics
 name: Don't Forget Me (When I'm Gone)
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1986
+runtime: 248026
 ---
 You take my breath away
 Love thinks it's here to stay

@@ -1,8 +1,11 @@
 ---
+album: Bill Withers Live At Carnegie Hall
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:1ng0RBlhyonNTb9tIR7ocr
 features: []
-genres: []
+first_released_as_single: false
 key: let-us-love-bill-withers
 lyrics_url: https://www.azlyrics.com/lyrics/billwithers/letuslove.html
 name: Let Us Love
@@ -31,8 +34,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 319906
 ---
-
 On just an ordinary day, no reason, no reason for a fuss
 But even though, it isn't Christmas, let us love one another, let us love
 On just a day, just a day, no special name, no pretty presents, pretty presents to exchange
@@ -53,6 +57,3 @@ Let us love, let us love, hey now, let us help, help one another
 Love your neighbor, he's your brother, let us love, let us love
 Let us love, let us love, love one another, help your neighbor
 He's your brother, let us love one another, let us love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Resistance
 artists:
 - Big Mountain
+external_ids:
+  spotify: spotify:track:7Jivh0vTRGrCVOz55GDYJ4
 features: []
-genres: []
+first_released_as_single: false
 key: get-together-big-mountain
 lyrics_url: https://genius.com/Big-mountain-get-together-lyrics
 name: Get Together
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1994
+runtime: 303133
 ---
 You gotta get together...
 

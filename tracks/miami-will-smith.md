@@ -1,8 +1,11 @@
 ---
+album: Big Willie Style
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:0sCH15W3pKl8Pj62EWK53V
 features: []
-genres: []
+first_released_as_single: false
 key: miami-will-smith
 lyrics_url: https://genius.com/Will-smith-miami-lyrics
 name: Miami
@@ -91,6 +94,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1997
+runtime: 279666
 ---
 Yeah Yeah Yeah Yeah
 Miami, uh, uh

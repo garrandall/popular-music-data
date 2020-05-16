@@ -1,9 +1,12 @@
 ---
+album: The Mamas & The Papas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:1DPy2UtzfVPL7T1xSoTC17
 features: []
-genres: []
+first_released_as_single: false
 key: words-of-love-the-mamas-the-papas
 lyrics_url: https://genius.com/The-mamas-and-the-papas-words-of-love-lyrics
 name: Words Of Love
@@ -56,6 +59,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 135893
 ---
 Words of love, so soft and tender
 Won't win a girl's heart anymore

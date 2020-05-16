@@ -1,8 +1,11 @@
 ---
+album: Jesus Wept
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:0cjoYOTdvKUrEZVzsxsNOE
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-venus-p-m--dawn
 lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/downtownvenus.html
 name: Downtown Venus
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1995
+runtime: 213133
 ---
-
 I'm Downtown Venus, and I'm trying to be by myself...myself
 Habitual dreamers, and no one dreams enough to get me home
 I'm Downtown Venus, and they're trying to devine my self...my self (and they keep saying)
@@ -61,6 +65,3 @@ I'm Downtown Venus and I constantly remind myself...my self
 
 I could be into me but...I don't know what I'm like
 Yeah...I could be into me but...I don't know what I'm like...
-
-
-

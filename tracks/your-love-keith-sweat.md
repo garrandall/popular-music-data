@@ -1,8 +1,11 @@
 ---
+album: Make It Last Forever
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:7fvpQhtkRJOApCjNmSLehs
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-how-deep-is-your-love-lyrics
 name: Your Love
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1987
+runtime: 374106
 ---
 Is your love
 How deep is your love

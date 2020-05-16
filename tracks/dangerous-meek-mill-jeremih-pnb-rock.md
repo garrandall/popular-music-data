@@ -1,10 +1,13 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:17qpbhDjaNmvQ6qtHOnhMy
 features:
 - Jeremih
 - PnB Rock
-genres: []
+first_released_as_single: true
 key: dangerous-meek-mill-jeremih-pnb-rock
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/dangerous.html
 name: Dangerous
@@ -89,9 +92,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
+release_year: 2018
+runtime: 234589
 ---
-
-
 Right Now Sound
 Hitmaka!
 
@@ -154,7 +157,7 @@ Yeah, at first you curved me
 I let you slide then
 Yo hips so curvy, you let me slide in
 Oh, and it was over once I flipped you over
-Relation goal, when we come through just like BeyoncÃ©, Hova
+Relation goal, when we come through just like Beyoncé, Hova
 This that Hermes money, this ain't no Fashion Nova
 You said yo ex had you depressed and I'm just glad that's over
 'Cause now you rocking with a real one
@@ -206,6 +209,3 @@ Oh, no we ain't perfect, but we damn close
 Oh, you give me something I can't pay for
 
 That's what it's like loving you
-
-
-

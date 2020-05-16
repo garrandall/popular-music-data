@@ -1,9 +1,12 @@
 ---
+album: Art And Life
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:3j8EEMm9kbPLqByuaHmUmQ
 features:
 - Mya
-genres: []
+first_released_as_single: false
 key: girls-dem-sugar-beenie-man-mya
 lyrics_url: https://www.azlyrics.com/lyrics/beenieman/girlsdemsugar.html
 name: Girls Dem Sugar
@@ -68,8 +71,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 2000
+runtime: 257893
 ---
-
 Zagga zow, ziggy zow, zagga zow
 Anyhow, badman nah bow
 Zagga zow, ziggy zow, zagga zow
@@ -172,4 +176,3 @@ Angel (zagga zow zow) you're my life (yea)
 Angel, (Ohh I) I wanna be your wife (yea yea)
 Angel (Oh I), it maybe long (zagga zow zow)
 Angel (yea yea), you and I explore (say one time)
-

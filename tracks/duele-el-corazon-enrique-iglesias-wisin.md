@@ -1,9 +1,12 @@
 ---
+album: DUELE EL CORAZON
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:6YZdkObH88npeKrrkb8Ggf
 features:
 - Wisin
-genres: []
+first_released_as_single: true
 key: duele-el-corazon-enrique-iglesias-wisin
 lyrics_url: https://genius.com/Bely-basarte-duele-el-corazon-enrique-iglesias-lyrics
 name: Duele El Corazon
@@ -40,6 +43,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2016
+runtime: 200813
 ---
 Letra de "Duele El Corazón" de Enrique Iglesias ft. Wisin
 BELY BASARTE COVER

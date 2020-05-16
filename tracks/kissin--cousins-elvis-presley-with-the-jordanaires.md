@@ -1,9 +1,12 @@
 ---
+album: Elvis At The Movies
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:7edh8OtYc5f45mstsWWQ9y
 features: []
-genres: []
+first_released_as_single: false
 key: kissin--cousins-elvis-presley-with-the-jordanaires
 name: Kissin' Cousins
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1964
+runtime: 131746
 ---
 

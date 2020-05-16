@@ -1,8 +1,11 @@
 ---
+album: Bloodletting
 artists:
 - Concrete Blonde
+external_ids:
+  spotify: spotify:track:04UWtAIMwi67MG8uHwYqgK
 features: []
-genres: []
+first_released_as_single: false
 key: joey-concrete-blonde
 lyrics_url: https://www.azlyrics.com/lyrics/concreteblonde/joey.html
 name: Joey
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-01-05'
+release_year: 1990
+runtime: 248959
 ---
-
 Joey...
 Baby...
 Don't get crazy
@@ -140,6 +144,3 @@ Passed out on the floor...
 Oh...
 Joey, I'm not angry anymore
 Angry anymore, angry anymore
-
-
-

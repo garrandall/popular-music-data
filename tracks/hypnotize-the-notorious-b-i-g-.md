@@ -1,8 +1,11 @@
 ---
+album: Life After Death
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:7KwZNVEaqikRSBSpyhXK2j
 features: []
-genres: []
+first_released_as_single: false
 key: hypnotize-the-notorious-b-i-g-
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/hypnotize.html
 name: Hypnotize
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 229826
 ---
-
 Uh, uh, uh, c'mon
 
 Hah, sicker than your average
@@ -132,7 +136,7 @@ Bulletproof glass, tints if I want some ass
 Gonna blast, squeeze first, ask questions last
 That's how most of these so-called gangsters pass
 At last, a nigga rapping 'bout blunts and broads
-Tits and bras, mÃ©nage Ã  trois, sex in expensive cars
+Tits and bras, ménage Ã  trois, sex in expensive cars
 I still leave you on the pavement
 Condo paid for, no car payment
 At my arraignment, note for the plaintiff

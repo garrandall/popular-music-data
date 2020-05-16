@@ -1,8 +1,11 @@
 ---
+album: Elephant
 artists:
 - The White Stripes
+external_ids:
+  spotify: spotify:track:7i6r9KotUPQg3ozKKgEPIN
 features: []
-genres: []
+first_released_as_single: false
 key: seven-nation-army-the-white-stripes
 lyrics_url: https://genius.com/The-white-stripes-seven-nation-army-lyrics
 name: Seven Nation Army
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2003-10-04'
+release_year: 2003
+runtime: 231733
 ---
 I'm gonna fight 'em off
 A seven nation army couldn't hold me back

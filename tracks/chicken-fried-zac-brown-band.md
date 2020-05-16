@@ -1,8 +1,11 @@
 ---
+album: The Foundation
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:26N3xsGkQT9Bu39Ky8SoGQ
 features: []
-genres: []
+first_released_as_single: false
 key: chicken-fried-zac-brown-band
 lyrics_url: https://genius.com/Zac-brown-band-chicken-fried-lyrics
 name: Chicken Fried
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2005
+runtime: 238146
 ---
 You know I like my chicken fried
 Cold beer on a Friday night

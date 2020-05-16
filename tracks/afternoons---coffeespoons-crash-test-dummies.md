@@ -1,8 +1,11 @@
 ---
+album: God Shuffled His Feet
 artists:
 - Crash Test Dummies
+external_ids:
+  spotify: spotify:track:4EKnC5MewrepwnivRdTMCV
 features: []
-genres: []
+first_released_as_single: false
 key: afternoons---coffeespoons-crash-test-dummies
 lyrics_url: https://www.azlyrics.com/lyrics/crashtestdummies/afternoonsandcoffeespoons.html
 name: Afternoons & Coffeespoons
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-09-10'
+release_year: 1991
+runtime: 235706
 ---
-
 What is it that makes me just a little bit queasy?
 There's a breeze that makes my breathing not so easy
 I've had my lungs checked out with X-rays
@@ -84,6 +88,3 @@ Coffeespoons and T.S. Eliot
 Afternoons will be measured out
 Measured out, measured with
 Coffeespoons and T.S. Eliot
-
-
-

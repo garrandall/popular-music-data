@@ -1,8 +1,11 @@
 ---
+album: Last Night On Earth
 artists:
 - Rhythm Heritage
+external_ids:
+  spotify: spotify:track:6lLScAaYXs7dFKhntpeMaZ
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-rocky--gonna-fly-now--rhythm-heritage
 name: Theme From Rocky (gonna Fly Now)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1977
+runtime: 214733
 ---
 

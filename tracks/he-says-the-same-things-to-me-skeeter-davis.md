@@ -1,8 +1,11 @@
 ---
+album: Let Me Get Close To You (With Bonus Tracks)
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:3LKIsE8IqxmfQQ4i64adan
 features: []
-genres: []
+first_released_as_single: false
 key: he-says-the-same-things-to-me-skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-he-says-the-same-things-to-me-lyrics
 name: He Says The Same Things To Me
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1964
+runtime: 168493
 ---
 Shall I tell you what he said to you when he kissed you last night
 I could tell it sigh for sigh and here's the reason why

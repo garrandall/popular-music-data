@@ -1,8 +1,11 @@
 ---
+album: Man With A Memory
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:5vyVckEUyIogu3Fq7J3lBR
 features: []
-genres: []
+first_released_as_single: false
 key: the-impossible-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/theimpossible.html
 name: The Impossible
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
+release_year: 2002
+runtime: 245573
 ---
-
 My dad chased monsters from the dark,
 He checked underneath my bed.
 An' he could lift me with one arm,
@@ -146,6 +150,3 @@ Unbendable steel bends.
 If the fury of the wind is unstoppable,
 I've learned to never underestimate,
 The impossible
-
-
-

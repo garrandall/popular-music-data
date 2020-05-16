@@ -1,9 +1,12 @@
 ---
+album: The Rising Tied
 artists:
 - Fort Minor
+external_ids:
+  spotify: spotify:track:1OKn7FGIhPUgSL5UuI8MpW
 features:
 - Styles Of Beyond
-genres: []
+first_released_as_single: true
 key: remember-the-name-fort-minor-styles-of-beyond
 lyrics_url: https://www.azlyrics.com/lyrics/fortminor/rememberthename.html
 name: Remember The Name
@@ -32,8 +35,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2005
+runtime: 230493
 ---
-
 You ready?! Let's go
 Yeah, for those of you that want to know what we're all about
 It's like this y'all (c'mon!)
@@ -126,6 +130,3 @@ And a hundred percent reason to remember the name
 Yeah! Fort Minor
 M. Shinoda - Styles of Beyond
 Ryu! Takbir! Machine Shop
-
-
-

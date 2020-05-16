@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:2ikUwLex9wXpIOEgY45Wk7
 features: []
-genres: []
+first_released_as_single: false
 key: september-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/september.html
 name: September
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2006
+runtime: 243773
 ---
-
 How the time passed away? All the trouble that we gave
 And all those days we spent out by the lake
 Has it all gone to waste? All the promises we made
@@ -134,6 +138,3 @@ In the middle of September we'd still play out in the rain
 Nothing to lose but everything to gain
 Reflecting now on how things could've been
 It was worth it in the end
-
-
-

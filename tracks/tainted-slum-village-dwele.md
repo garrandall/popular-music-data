@@ -1,9 +1,12 @@
 ---
+album: Trinity (Past, Present And Future)
 artists:
 - Slum Village
+external_ids:
+  spotify: spotify:track:6tc2nHTmQjXQXo2ybeVZB7
 features:
 - Dwele
-genres: []
+first_released_as_single: false
 key: tainted-slum-village-dwele
 lyrics_url: https://www.azlyrics.com/lyrics/slumvillage/tainted.html
 name: Tainted
@@ -52,8 +55,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-09-28'
+release_year: 2002
+runtime: 266960
 ---
-
 Real love, true love (It feels good girl)
 Tainted love (It's so good girl) real love
 True love (It's alright baby) tainted love, real love, true love
@@ -127,6 +131,3 @@ Keep love from being tainted, being tainted
 Oh do you, be, alright
 ( Just sit y'all, Dwele, on more time y'all come on)
 If you, be, alright...
-
-
-

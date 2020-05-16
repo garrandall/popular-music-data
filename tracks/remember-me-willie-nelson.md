@@ -1,8 +1,11 @@
 ---
+album: Red Headed Stranger
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:0DSKbK2ns9Y1HLCP9IYLjf
 features: []
-genres: []
+first_released_as_single: false
 key: remember-me-willie-nelson
 lyrics_url: https://genius.com/Willie-nelson-remember-me-lyrics
 name: Remember Me
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1975
+runtime: 170800
 ---
 You told me once you were mine, alone, forever
 An' I was yours till the end of eternity

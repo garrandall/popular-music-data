@@ -1,8 +1,11 @@
 ---
+album: Str8 off Tha Streetz of Muthaphukkin Compton
 artists:
 - Eazy-E
+external_ids:
+  spotify: spotify:track:6ZZOVqeM7Cvpxjv9zqvFt5
 features: []
-genres: []
+first_released_as_single: false
 key: just-tah-let-u-know-eazy-e
 lyrics_url: https://www.azlyrics.com/lyrics/eazye/justtahletuknow.html
 name: Just Tah Let U Know
@@ -55,10 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 248866
 ---
-
-
-
 It's that man comin up from that land of tha C-P-T
 ("What's my motherfuckin name?" - Snoop) Eazy-E
 Comin thru with a big lick for '94
@@ -125,6 +127,3 @@ I'm just here tah let U niggas know
 You have your own freedom of choice
 So you do what the fuck you feel like doin
 Take it from me, that streetwise motherfucker named Eazy E
-
-
-

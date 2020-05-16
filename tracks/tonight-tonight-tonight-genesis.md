@@ -1,8 +1,11 @@
 ---
+album: Invisible Touch
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:3qmYlsTbC9CD9SGoVmaEDa
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-tonight-tonight-genesis
 lyrics_url: https://genius.com/Genesis-tonight-tonight-tonight-lyrics
 name: Tonight Tonight Tonight
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1986
+runtime: 530560
 ---
 I'm coming down
 Coming down like a monkey

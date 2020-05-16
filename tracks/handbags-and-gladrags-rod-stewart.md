@@ -1,8 +1,11 @@
 ---
+album: Unplugged....And Seated
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:7tJISdZShHU67syxPUcXXG
 features: []
-genres: []
+first_released_as_single: false
 key: handbags-and-gladrags-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/handbagsandgladrags.html
 name: Handbags And Gladrags
@@ -31,8 +34,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 266440
 ---
-
 Ever seen a blind man cross the road
 trying to make the other side
 Ever seen a young girl growing old
@@ -68,6 +72,3 @@ They told me you missed school today
 So I suggest you just throw them all away
 the handbags and the gladrags
 that your poor old Granddad had to sweat to buy ya
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Destiny Fulfilled
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:2Jkg4Y2O6RHgKAnlyCmlUq
 features: []
-genres: []
+first_released_as_single: false
 key: lose-my-breath-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-lose-my-breath-lyrics
 name: Lose My Breath
@@ -99,6 +102,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 1999
+runtime: 212613
 ---
 Hit me!
 

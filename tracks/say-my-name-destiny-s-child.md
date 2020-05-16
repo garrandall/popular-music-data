@@ -1,8 +1,11 @@
 ---
+album: The Writing's On The Wall
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:1clMUJKz5wDqXjq2qUKmJW
 features: []
-genres: []
+first_released_as_single: false
 key: say-my-name-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-say-my-name-lyrics
 name: Say My Name
@@ -135,6 +138,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 1995
+runtime: 249066
 ---
 Darkchild '99
 

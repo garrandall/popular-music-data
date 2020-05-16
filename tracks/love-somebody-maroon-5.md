@@ -1,8 +1,11 @@
 ---
+album: Overexposed
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:0HnaqUxvHP5LaWdmWwJpiS
 features: []
-genres: []
+first_released_as_single: false
 key: love-somebody-maroon-5
 lyrics_url: https://genius.com/Maroon-5-love-somebody-lyrics
 name: Love Somebody
@@ -91,6 +94,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2012
+runtime: 229813
 ---
 I know your insides are feeling so hollow
 And it's a hard pill for you to swallow, yeah

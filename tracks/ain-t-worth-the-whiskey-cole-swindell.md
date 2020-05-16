@@ -1,8 +1,11 @@
 ---
+album: Cole Swindell
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:3OZVqx1YsqDDkxQ6TnmHtn
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-worth-the-whiskey-cole-swindell
 lyrics_url: https://genius.com/Cole-swindell-aint-worth-the-whiskey-lyrics
 name: Ain't Worth The Whiskey
@@ -83,6 +86,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2014
+runtime: 191906
 ---
 I don't care that you done me wrong
 'Cause I've already moved on

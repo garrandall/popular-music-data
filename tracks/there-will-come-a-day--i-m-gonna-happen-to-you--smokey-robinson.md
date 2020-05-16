@@ -1,8 +1,11 @@
 ---
+album: Deep In My Soul
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:78zJoGXeRK6FAUEwHC9Lmt
 features: []
-genres: []
+first_released_as_single: false
 key: there-will-come-a-day--i-m-gonna-happen-to-you--smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-there-will-come-a-day-im-gonna-happen-to-you-lyrics
 name: There Will Come A Day (I'm Gonna Happen To You)
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1977
+runtime: 236573
 ---
 You may dismiss me as unimportant
 A guy who's only in the corner of your eye

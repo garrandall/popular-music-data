@@ -1,8 +1,11 @@
 ---
+album: Seasoned Veteran
 artists:
 - Richie Rich
+external_ids:
+  spotify: spotify:track:0kAJ94CyV1HNC13kqq0vvz
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-ride-richie-rich
 lyrics_url: https://genius.com/Richie-rich-lets-ride-lyrics
 name: Let's Ride
@@ -59,6 +62,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1997-02-22'
+release_year: 1996
+runtime: 275360
 ---
 Something about the West coast
 Shhh, don't tell nobody

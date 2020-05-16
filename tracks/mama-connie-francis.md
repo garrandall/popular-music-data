@@ -1,8 +1,11 @@
 ---
+album: Sings Italian Favorites
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5htJrzx9BOWrWWuTFRbehY
 features: []
-genres: []
+first_released_as_single: false
 key: mama-connie-francis
 lyrics_url: https://genius.com/Connie-francis-mama-lyrics
 name: Mama
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1959
+runtime: 237866
 ---
 When the evening shadows fall
 And the lovely day is through

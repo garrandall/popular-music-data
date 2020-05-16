@@ -1,8 +1,11 @@
 ---
+album: New Miserable Experience
 artists:
 - Gin Blossoms
+external_ids:
+  spotify: spotify:track:5WmDRnuGYo31xrWNDcYaps
 features: []
-genres: []
+first_released_as_single: false
 key: found-out-about-you-gin-blossoms
 lyrics_url: https://genius.com/Gin-blossoms-found-out-about-you-lyrics
 name: Found Out About You
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
+release_year: 1992
+runtime: 233400
 ---
 All last summer in case you don't recall
 I was yours and you were mine forget it all

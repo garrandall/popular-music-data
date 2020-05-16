@@ -1,8 +1,11 @@
 ---
+album: T.S.O.P. The Sound of Philadelphia (Live in Concert)
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:1ZI40a48FO8d3OTUfAdYwn
 features: []
-genres: []
+first_released_as_single: false
 key: gee-baby--i-m-sorry--the-three-degrees
 lyrics_url: https://www.musixmatch.com/lyrics/The-Three-Degrees/Gee-Baby-I-m-Sorry
 name: Gee Baby (I'm Sorry)
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 293906
 ---
 (Richard Barrett)
 

@@ -1,8 +1,11 @@
 ---
+album: Horrorscope
 artists:
 - Eve 6
+external_ids:
+  spotify: spotify:track:4tgeQrPu5xkrnwErym2JsJ
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-to-the-night-eve-6
 lyrics_url: https://www.azlyrics.com/lyrics/eve6/herestothenight.html
 name: Here's To The Night
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2000
+runtime: 249840
 ---
-
 So denied so I lied are you the now or never kind
 In a day and a day love I'm gonna be gone for good again
 Are you willing to be had are you cool with just tonight
@@ -117,6 +121,3 @@ Here's to the nights we felt alive
 Here's to the tears you knew you'd cry
 Here's to goodbye 
 Tomorrow's gonna come too soon
-
-
-

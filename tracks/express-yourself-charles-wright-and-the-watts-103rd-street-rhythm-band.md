@@ -1,8 +1,11 @@
 ---
+album: Express Yourself
 artists:
 - Charles Wright And The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:4pW3aTX3kAmOaPJfc9UM12
 features: []
-genres: []
+first_released_as_single: false
 key: express-yourself-charles-wright-and-the-watts-103rd-street-rhythm-band
 lyrics_url: https://genius.com/Charles-wright-and-the-watts-103rd-street-rhythm-band-express-yourself-lyrics
 name: Express Yourself
@@ -67,6 +70,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 233613
 ---
 Express Yourself!
 Express Yourself!

@@ -1,8 +1,11 @@
 ---
+album: The Other Ones
 artists:
 - The Other Ones
+external_ids:
+  spotify: spotify:track:0lgVysYyoieXsuGTrN704U
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-what-we-are-the-other-ones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Other-Ones/We-Are-What-We-Are
 name: We Are What We Are
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1986
+runtime: 265773
 ---
 The sun came pouring upon my face
 I heard the silence of empty space

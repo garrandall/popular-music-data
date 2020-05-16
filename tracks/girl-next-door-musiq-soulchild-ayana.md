@@ -1,9 +1,12 @@
 ---
+album: Aijuswanaseing
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:4lyjlRP5xoJKsMqwiz7558
 features:
 - Ayana
-genres: []
+first_released_as_single: false
 key: girl-next-door-musiq-soulchild-ayana
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/girlnextdoor.html
 name: Girl Next Door
@@ -40,8 +43,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 2000
+runtime: 286440
 ---
-
 Oh, hm, hm, hm, hm
 
 If I would've knew the girl next door
@@ -150,6 +154,3 @@ Would've been you
 I probably would've shared my grub
 Depending on how close we was
 By now we would be so in love
-
-
-

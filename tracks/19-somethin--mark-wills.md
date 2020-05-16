@@ -1,8 +1,11 @@
 ---
+album: Live At Billy Bob's Texas
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:0ElpjZyX8YBiXuYcDC1Ci9
 features: []
-genres: []
+first_released_as_single: false
 key: 19-somethin--mark-wills
 lyrics_url: https://www.azlyrics.com/lyrics/markwills/19somethin.html
 name: 19 Somethin'
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 200466
 ---
-
 Saw Star Wars at least eight times
 Had the Pac-Man pattern memorized
 And I've seen the stuff they put inside
@@ -144,6 +148,3 @@ I wouldn't trade those days for nothin'
 Oh it was nineteen eighty-something
 Nineteen seventy-something
 Oh, it was nineteen somethin'
-
-
-

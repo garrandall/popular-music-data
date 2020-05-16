@@ -1,8 +1,11 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3JWiDGQX2eTlFvKj3Yssj3
 features: []
-genres: []
+first_released_as_single: false
 key: closed-on-sunday-kanye-west
 lyrics_url: https://genius.com/Kanye-west-closed-on-sunday-lyrics
 name: Closed On Sunday
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 151873
 ---
 Closed on Sunday, you're my Chick-fil-A
 Closed on Sunday, you my Chick-fil-A

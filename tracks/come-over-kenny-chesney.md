@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Fishbowl
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:6BCrbWBpb8d6KWmEqZ41tr
 features: []
-genres: []
+first_released_as_single: false
 key: come-over-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-come-over-lyrics
 name: Come Over
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 248426
 ---
-
 I turn the TV off, to turn it on again
 Staring at the blades of the fan as it spins around
 Counting every crack, the clock is wide awake

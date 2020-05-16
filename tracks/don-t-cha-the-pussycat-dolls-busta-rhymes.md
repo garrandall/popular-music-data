@@ -1,9 +1,12 @@
 ---
+album: PCD
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:1gZ7i4qxXkHZb1r6eioaAP
 features:
 - Busta Rhymes
-genres: []
+first_released_as_single: false
 key: don-t-cha-the-pussycat-dolls-busta-rhymes
 lyrics_url: https://genius.com/The-pussycat-dolls-dont-cha-lyrics
 name: Don't Cha
@@ -168,6 +171,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 272080
 ---
 Ayo, what the fuck you think a record
 'Bout Pussycat Dolls featurin' Busta Rhymes is gon' sound like?

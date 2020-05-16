@@ -1,8 +1,11 @@
 ---
+album: Great Picks & New Traditions
 artists:
 - Roy Clark
+external_ids:
+  spotify: spotify:track:17d5xOklXOZ0dCGsqbr6Z7
 features: []
-genres: []
+first_released_as_single: false
 key: thank-god-and-greyhound-roy-clark
 lyrics_url: https://genius.com/Roy-clark-thank-god-and-greyhound-lyrics
 name: Thank God And Greyhound
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 155760
 ---
 I've made a small fortune and you squandered it all
 You shamed me till I feel about one inch tall

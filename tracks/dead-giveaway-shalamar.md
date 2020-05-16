@@ -1,8 +1,11 @@
 ---
+album: The Look
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:0iR5u87eNaxH9VQXQLQ7Db
 features: []
-genres: []
+first_released_as_single: false
 key: dead-giveaway-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/deadgiveaway.html
 name: Dead Giveaway
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 303680
 ---
-
 How long you gonna carry on
 This one on one charade
 Lets don't and then say we did
@@ -148,6 +152,3 @@ I'm finding out
 What you're all about.
 
 You're just a dead giveaway.
-
-
-

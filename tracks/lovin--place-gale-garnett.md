@@ -1,8 +1,11 @@
 ---
+album: Lovin' Place
 artists:
 - Gale Garnett
+external_ids:
+  spotify: spotify:track:5PRBOsNq3rc59vgLnX217G
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--place-gale-garnett
 lyrics_url: https://www.musixmatch.com/lyrics/Gale-Garnett/Lovin-Place
 name: Lovin' Place
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 174813
 ---
 Summer has come and gone
 You have gone too

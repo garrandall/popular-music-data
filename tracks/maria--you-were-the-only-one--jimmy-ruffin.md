@@ -1,8 +1,11 @@
 ---
+album: The Groove Governor
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:3TNN2pxq41DfN2xBcWpJ9L
 features: []
-genres: []
+first_released_as_single: false
 key: maria--you-were-the-only-one--jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-maria-you-were-the-only-one-lyrics
 name: Maria (You Were The Only One)
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 188208
 ---
 Maria hey hey eh eh hey Maria
 Maria don't you hear me calling Maria

@@ -1,8 +1,11 @@
 ---
+album: Food of Love
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:2Ugconvpew97ofQ71dfi8K
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-how-to-love-him-yvonne-elliman
 lyrics_url: https://genius.com/Yvonne-elliman-i-dont-know-how-to-love-him-lyrics
 name: I Don't Know How To Love Him
@@ -47,6 +50,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1971
+runtime: 237893
 ---
 I don't know how to love him
 What to do, how to move him

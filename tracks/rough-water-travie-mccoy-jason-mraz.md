@@ -1,9 +1,12 @@
 ---
+album: Rough Water
 artists:
 - Travie McCoy
+external_ids:
+  spotify: spotify:track:56z8UyE4foPVnSrER7lVR5
 features:
 - Jason Mraz
-genres: []
+first_released_as_single: true
 key: rough-water-travie-mccoy-jason-mraz
 lyrics_url: https://www.azlyrics.com/lyrics/traviemccoy/roughwater.html
 name: Rough Water
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 219659
 ---
-
-
 Hey oh, never let go of me, yo
 Hold tight, it's gonna get hard to breathe (hold tight, baby)
 And never, never let you drown (never),
@@ -118,6 +121,3 @@ Said, oh oh oh oh, oh
 I said oh oh oh oh,
 Said oh oh oh oh, oh
 C'mon
-
-
-

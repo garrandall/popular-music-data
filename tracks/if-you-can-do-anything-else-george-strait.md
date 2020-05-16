@@ -1,8 +1,11 @@
 ---
+album: George Strait
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1PmJcgLwG1wRC5qMdjogRD
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-can-do-anything-else-george-strait
 lyrics_url: https://www.musixmatch.com/lyrics/George-Strait/If-You-Can-Do-Anything-Else
 name: If You Can Do Anything Else
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-08-11'
+release_year: 2000
+runtime: 246666
 ---
 Would you like to live in Houston
 Where the cowboys come to town

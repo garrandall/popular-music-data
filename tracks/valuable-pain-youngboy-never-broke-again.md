@@ -1,8 +1,11 @@
 ---
+album: Realer
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:61Oo3DUJubecZQosjho6Pp
 features: []
-genres: []
+first_released_as_single: false
 key: valuable-pain-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-valuable-pain-lyrics
 name: Valuable Pain
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 169459
 ---
 Ayy, ayy, how you bangin' back there?
 (Say it, I'm in the studio right now, tell 'em what it is)

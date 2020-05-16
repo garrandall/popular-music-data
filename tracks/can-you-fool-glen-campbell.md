@@ -1,8 +1,11 @@
 ---
+album: Basic
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:3lkjkudbAuzNSuX32VUJIR
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-fool-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/canyoufool.html
 name: Can You Fool
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 190600
 ---
-
 Well you can take all of the money that you made and put it in the jar
 Drag out a map that will show you, is Heaven very far?
 You take all of the medicine you need 'til ya find out who you are
@@ -77,6 +81,3 @@ Still you can't figure why that man he got to be so cruel
 But ya just can't forget him, can you fool?
 No, you just can't forget her, can you fool?
 Aww, can you fool?
-
-
-

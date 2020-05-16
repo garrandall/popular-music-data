@@ -1,8 +1,11 @@
 ---
+album: Hit Maker!
 artists:
 - Burt Bacharach
+external_ids:
+  spotify: spotify:track:604A8K85jfVZuhf8tQVTrS
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-sunshine-burt-bacharach
 lyrics_url: https://genius.com/Burt-bacharach-saturday-sunshine-lyrics
 name: Saturday Sunshine
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 119453
 ---
 Friday rain always brings
 Saturday sunshine

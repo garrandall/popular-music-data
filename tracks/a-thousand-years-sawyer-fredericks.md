@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:1xbtFabmTCcxN0gozYj2AZ
 features: []
-genres: []
+first_released_as_single: false
 key: a-thousand-years-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/athousandyears.html
 name: A Thousand Years
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2015
+runtime: 169836
 ---
-
 Heart beats fast
 Colors and promises
 How to be brave?
@@ -49,6 +53,3 @@ I have loved you for a thousand years
 I'll love you for a thousand more
 
 One step closer
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Stupid Love
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:2kJu14V7hbZw3I4K8L8SXb
 features: []
-genres: []
+first_released_as_single: true
 key: stupid-love-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/stupidlove.html
 name: Stupid Love
@@ -15,8 +18,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 193530
 ---
-
 You're the one that I've been waiting for
 Gotta quit this crying
 Nobody's gonna heal me if I don't open the door
@@ -75,6 +79,3 @@ We got a stupid love, love
 I want your stupid love, love
 (Oh...)
 I want your stupid love, love
-
-
-

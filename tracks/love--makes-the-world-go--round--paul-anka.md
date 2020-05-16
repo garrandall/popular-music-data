@@ -1,8 +1,11 @@
 ---
+album: Goodnight My Love
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:60POG8q3enwJXhMROCrrxm
 features: []
-genres: []
+first_released_as_single: false
 key: love--makes-the-world-go--round--paul-anka
 lyrics_url: https://genius.com/Paul-anka-puppy-love-lyrics
 name: Love (Makes the World Go 'round)
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1963
+runtime: 198653
 ---
 And they called it puppy love
 Oh I guess they'll never know

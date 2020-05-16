@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:59HjlYCeBsxdI0fcm3zglw
 features: []
-genres: []
+first_released_as_single: false
 key: wildest-dreams-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/wildestdreams.html
 name: Wildest Dreams
@@ -115,8 +118,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2014
+runtime: 220440
 ---
-
 He said, "Let's get out of this town
 Drive out of the city, away from the crowds"
 I thought heaven can't help me now
@@ -186,6 +190,3 @@ Wildest dreams, ah-ha oh
 In your wildest dreams, ah-ha oh
 (Even if it's just in your wildest dreams) ah-ha
 In your wildest dreams, ah-ha
-
-
-

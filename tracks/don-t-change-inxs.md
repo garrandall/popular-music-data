@@ -1,8 +1,11 @@
 ---
+album: Shabooh Shoobah
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:6ck0CGe9BN9gW5oMmzbhs9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-change-inxs
 lyrics_url: https://genius.com/Inxs-dont-change-lyrics
 name: Don't Change
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1982
+runtime: 266026
 ---
 I'm standing here on the ground
 The sky above won't fall down

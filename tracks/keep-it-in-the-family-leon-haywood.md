@@ -1,8 +1,11 @@
 ---
+album: The Legacy
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:0JTNio1Klxb7fwUrj1ePlU
 features: []
-genres: []
+first_released_as_single: false
 key: keep-it-in-the-family-leon-haywood
 lyrics_url: https://genius.com/Leon-haywood-keep-it-in-the-family-lyrics
 name: Keep It In The Family
@@ -43,6 +46,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 210000
 ---
 Oh keep it in the family, baby
 If there's a problem in our home

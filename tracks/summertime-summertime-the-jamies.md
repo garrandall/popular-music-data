@@ -1,8 +1,11 @@
 ---
+album: Radio Hits Of the '50s
 artists:
 - The Jamies
+external_ids:
+  spotify: spotify:track:3tafcDpA8uGHDLzRd4ZKQY
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-summertime-the-jamies
 lyrics_url: https://www.musixmatch.com/lyrics/The-Jamies/Summertime-Summertime
 name: Summertime Summertime
@@ -83,6 +86,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1950
+runtime: 118413
 ---
 It's summertime summertime sum sum summertime
 Summertime summertime sum sum summertime

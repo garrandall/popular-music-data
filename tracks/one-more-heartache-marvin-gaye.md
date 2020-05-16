@@ -1,8 +1,11 @@
 ---
+album: Moods Of Marvin Gaye
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:2UcQMMM1fJl2iAsJZzn5VD
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-heartache-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/onemoreheartache.html
 name: One More Heartache
@@ -39,8 +42,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 160293
 ---
-
 One more heartache, I can't take it
 My heart is carryin' such a heavy load
 One more ache would break it
@@ -67,4 +71,3 @@ One more puff of air and that balloon has got to burst
 Ah (ah) ah (ah)
 I can't take it, I can't stand it
 No, honey, not another
-

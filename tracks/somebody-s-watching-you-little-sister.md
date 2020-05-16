@@ -1,8 +1,11 @@
 ---
+album: 'I''m Just Like You: Sly''s Stone Flower 1969-1970'
 artists:
 - Little Sister
+external_ids:
+  spotify: spotify:track:1NTUGz7kHyFndmHla1zM8h
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-watching-you-little-sister
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Sister/Somebody-s-Watching-You
 name: Somebody's Watching You
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 176693
 ---
 Pretty pretty pretty as a picture
 Witty witty witty as you can be

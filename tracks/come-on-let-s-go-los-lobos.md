@@ -1,8 +1,11 @@
 ---
+album: '...And A Time To Dance'
 artists:
 - Los Lobos
+external_ids:
+  spotify: spotify:track:5BQa5VLZTZKhN8ROxTAOLJ
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-let-s-go-los-lobos
 lyrics_url: https://www.azlyrics.com/lyrics/loslobos/comeonletsgo.html
 name: Come On Let's Go
@@ -63,8 +66,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1983
+runtime: 131520
 ---
-
 Well come on let's go, let's go, let's go
 Little darling
 And tell me that you'll never leave me
@@ -91,6 +95,3 @@ Come on let's go again and do it again
 Well let's go, let's go, let's go little sweetheart
 And tell me we'll always dance together
 Come on let's go and do it again
-
-
-

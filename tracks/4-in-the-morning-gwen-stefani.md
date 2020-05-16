@@ -1,8 +1,11 @@
 ---
+album: The Sweet Escape
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:64fSdRkaB7ksxI9suUGYmi
 features: []
-genres: []
+first_released_as_single: false
 key: 4-in-the-morning-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/4inthemorning.html
 name: 4 In The Morning
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2006
+runtime: 291106
 ---
-
 Waking up to find another day
 The moon got lost again last night
 But now the sun has finally had its say
@@ -143,6 +147,3 @@ Baby if we're gonna do it, come on do it right
 
 (Give you everything)
 (Give you all of me)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:3LV2CK8sJiYjg1bV1aHQop
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-a-kind--love-affair--the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/oneofakindloveaffair.html
 name: One Of A Kind (Love Affair)
@@ -67,8 +70,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 214146
 ---
-
 One of a kind love affair is
 The kind of love
 That you read about
@@ -137,6 +141,3 @@ Girl, you're on my mind
 
 One of a kind, one of a kind love affair is
 Makes me want to, want to be with you
-
-
-

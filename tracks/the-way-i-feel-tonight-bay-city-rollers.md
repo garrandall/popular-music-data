@@ -1,8 +1,11 @@
 ---
+album: It's A Game
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:4BondFZIyEASTuHQCdstAG
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-feel-tonight-bay-city-rollers
 lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/thewayifeeltonight.html
 name: The Way I Feel Tonight
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1974
+runtime: 233871
 ---
-
 Turn the music way down low
 Let me see you in the glow
 In the fire light you are shining
@@ -109,6 +113,3 @@ I love you
 
 Baby, I love you...
 Baby, I love you...
-
-
-

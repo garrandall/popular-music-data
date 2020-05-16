@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Being With Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:13Mzsb8VzRSZ5w3pM48cn6
 features: []
-genres: []
+first_released_as_single: true
 key: the-rubberband-man-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/therubberbandman.html
 name: The Rubberband Man
@@ -91,8 +94,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1976
+runtime: 213000
 ---
-
 Hand me down my walkin' cane, hand me down my hat
 Hurry now and don't be late 'cause we ain't got time to chat
 You and me, we're goin' out to catch the latest sounds
@@ -147,6 +151,3 @@ Rubberband, Rubberband Man
 Just move it, just move it, just move, move, move it, just
 Rubberband, Rubberband Man
 Get down, oh, get down, lover
-
-
-

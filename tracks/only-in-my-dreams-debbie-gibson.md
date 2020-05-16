@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:03i9ehMBCqbxKw7wwEycFZ
 features: []
-genres: []
+first_released_as_single: false
 key: only-in-my-dreams-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/onlyinmydreams.html
 name: Only In My Dreams
@@ -119,8 +122,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 233400
 ---
-
 Everytime I'm telling secrets
 I remember how it used to be
 And I realized how much I miss you
@@ -167,6 +171,3 @@ It was only in my dreams
 No, no, no, only in my dreams
 As real as it may seem
 It was only in my dreams
-
-
-

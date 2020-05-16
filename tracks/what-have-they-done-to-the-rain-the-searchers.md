@@ -1,8 +1,11 @@
 ---
+album: Needles & Pins
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:2zj9gFQKLE9PhSW5vZXfMp
 features: []
-genres: []
+first_released_as_single: false
 key: what-have-they-done-to-the-rain-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/whathavetheydonetotherain.html
 name: What Have They Done To The Rain
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1964
+runtime: 152320
 ---
 Just a little rain falling all around
 The grass lifts its head to the heavenly sound

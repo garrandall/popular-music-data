@@ -1,8 +1,11 @@
 ---
+album: Inner Secrets
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:262RLK33vXanGsKYN2Jxuf
 features: []
-genres: []
+first_released_as_single: false
 key: stormy-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/stormy.html
 name: Stormy
@@ -47,8 +50,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 285560
 ---
-
 You are the sunshine, baby, whenever you smile
 But I call you Stormy today
 All of a sudden that ol' rain is fallin' down
@@ -89,4 +93,3 @@ Stormy, come back to me Stormy
 Come on home! Stormy
 
 Bring back that sunny day
-

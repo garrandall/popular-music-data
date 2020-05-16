@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:7hXngqMDRqkAFrEIBy3ewq
 features: []
-genres: []
+first_released_as_single: false
 key: hickory-dick-and-doc-bobby-vee
 lyrics_url: https://genius.com/Bobby-vee-hickory-dick-and-doc-lyrics
 name: Hickory Dick And Doc
@@ -39,6 +42,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 148640
 ---
 Number one
 (Number one)

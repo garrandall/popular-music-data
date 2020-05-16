@@ -1,8 +1,11 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:5Mtt6tZSZA9cXTHGSGpyh0
 features: []
-genres: []
+first_released_as_single: false
 key: the-blacker-the-berry-kendrick-lamar
 lyrics_url: https://www.musixmatch.com/lyrics/Kendrick-Lamar/The-Blacker-The-Berry
 name: The Blacker The Berry
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 328826
 ---
 Everything black, I don't want black (They want us to bow)
 I want everything black, I ain't need black (Down to our knees)

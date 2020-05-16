@@ -1,8 +1,11 @@
 ---
+album: 'Complete & Unbelievable: The Otis Redding Dictionary of Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:1LIM0zOPitSNpUIU8H1BNQ
 features: []
-genres: []
+first_released_as_single: false
 key: fa-fa-fa-fa-fa--sad-song--otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/fafafafafasadsong.html
 name: Fa-Fa-Fa-Fa-Fa (Sad Song)
@@ -39,8 +42,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 166093
 ---
-
 Fa-fa-fa-fa-fa-fa-fa-fa-fa
 Fa-fa-fa-fa-fa-fa-fa-fa
 
@@ -88,6 +92,3 @@ One more time
 Fa-fa-fa-fa-fa-fa-fa-fa-fa
 Worried in mind, y'all
 Fa-fa-fa-fa-fa-fa
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heartlight
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:3dC25ffC9Zlr8UysO3qqW3
 features: []
-genres: []
+first_released_as_single: false
 key: heartlight-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/heartlight.html
 name: Heartlight
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 265906
 ---
-
 Come back again
 I want you to stay next time
 'Cause sometimes the world ain't kind
@@ -133,6 +137,3 @@ Gonna take a ride across the moon
 You and me
 Turn on your heartlight now
 Turn on your heartlight now
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:29s6QBRrKNZwkbdkRPWkjK
 features: []
-genres: []
+first_released_as_single: false
 key: shoot-your-shot-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shoot-your-shot-lyrics
 name: Shoot Your Shot
@@ -36,6 +39,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1965
+runtime: 181960
 ---
 I say, "yeah-yeah-yeah-yeah"
 Yeah-yeah, shoot your shot

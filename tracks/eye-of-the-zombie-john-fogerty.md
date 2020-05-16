@@ -1,8 +1,11 @@
 ---
+album: Eye Of The Zombie
 artists:
 - John Fogerty
+external_ids:
+  spotify: spotify:track:0tN6NhHgaAwAQy6NIdqgTW
 features: []
-genres: []
+first_released_as_single: false
 key: eye-of-the-zombie-john-fogerty
 lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/eyeofthezombie.html
 name: Eye Of The Zombie
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 275600
 ---
-
 Hoo! Oh!
 
 Shadows on the mountain, and the night begins to fall;
@@ -49,4 +53,3 @@ From out of nowhere he's there, flashing hideous teeth,
 Panic in the crowd, helter-skelter, we're brought to our knees.
 Back to the darkness, back on the mountain he stands,
 You can't fight a shadow, you can't kill a dead man.
-

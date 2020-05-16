@@ -1,8 +1,11 @@
 ---
+album: Prelude
 artists:
 - Deodato
+external_ids:
+  spotify: spotify:track:5Kmb8rhelfZAi0MD1llJvs
 features: []
-genres: []
+first_released_as_single: false
 key: also-sprach-zarathustra--2001--deodato
 lyrics_url: https://genius.com/Eumir-deodato-also-sprach-zarathustra-lyrics
 name: Also Sprach Zarathustra (2001)
@@ -55,6 +58,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1970
+runtime: 541826
 ---
 Rain was your birth
 Gathered deep

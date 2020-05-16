@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4t0OI7XrODjSkAu3bTPmWj
 features: []
-genres: []
+first_released_as_single: false
 key: fifteen-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/fifteen.html
 name: Fifteen
@@ -91,8 +94,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2008
+runtime: 294333
 ---
-
 You take a deep breath and you walk through the doors
 It's the morning of your very first day
 You say "Hi" to your friends you ain't seen in a while
@@ -150,6 +154,3 @@ La, la, la, la, la, la, la
 Your very first day
 Take a deep breath, girl
 Take a deep breath as you walk through the doors.
-
-
-

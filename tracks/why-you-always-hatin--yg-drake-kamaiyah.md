@@ -1,10 +1,13 @@
 ---
+album: Still Brazy
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:39hnH8WdPmNT3Q3yzwC9Rg
 features:
 - Drake
 - Kamaiyah
-genres: []
+first_released_as_single: false
 key: why-you-always-hatin--yg-drake-kamaiyah
 lyrics_url: https://www.azlyrics.com/lyrics/yg/whyyoualwayshatin.html
 name: Why You Always Hatin?
@@ -81,9 +84,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 196600
 ---
-
-
 All up in my face, you not from the clique
 Give me space, we might rob the shit
 Most hate it, baby they don't love the clique
@@ -181,6 +184,3 @@ Please tell me why you always hatin'
 Please, please tell me why you always hatin'
 Why you hatin'?
 Please tell me why you always hatin'
-
-
-

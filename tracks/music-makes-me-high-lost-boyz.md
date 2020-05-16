@@ -1,8 +1,11 @@
 ---
+album: Legal Drug Money
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:7MAUQy99aM2AutCLYPj2Cb
 features: []
-genres: []
+first_released_as_single: false
 key: music-makes-me-high-lost-boyz
 lyrics_url: https://genius.com/Lost-boyz-music-makes-me-high-lyrics
 name: Music Makes Me High
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 270973
 ---
 But I'm sayin kid
 It's only right to represent where I'm from

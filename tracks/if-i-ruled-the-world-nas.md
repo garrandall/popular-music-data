@@ -1,8 +1,11 @@
 ---
+album: It Was Written
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:5PQmSHzWnlgG4EBuIqjac2
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-ruled-the-world-nas
 lyrics_url: https://genius.com/Nas-if-i-ruled-the-world-09-lyrics
 name: If I Ruled The World
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 282373
 ---
 Oh ohoh! The struggles of life! (Life!)
 Oh, ohohoh da da da da da! (Everything I ever wanted)

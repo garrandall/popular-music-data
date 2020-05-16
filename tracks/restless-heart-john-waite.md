@@ -1,8 +1,11 @@
 ---
+album: No Brakes
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:1AUdiVjbhGgZ5hAKe5jA0N
 features: []
-genres: []
+first_released_as_single: false
 key: restless-heart-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/restlessheart.html
 name: Restless Heart
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 270586
 ---
-
 Three years come
 I'm still alone and you're so lonely
 I look in the mirror
@@ -99,6 +103,3 @@ you got a restless heart (in you)
 I know it (heart)
 But I'm just like you (in you)
 Just like you
-
-
-

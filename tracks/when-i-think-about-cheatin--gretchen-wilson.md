@@ -1,8 +1,11 @@
 ---
+album: Here For The Party
 artists:
 - Gretchen Wilson
+external_ids:
+  spotify: spotify:track:05jSCFSAfFqhrk3UiEvTDX
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-think-about-cheatin--gretchen-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/gretchenwilson/whenithinkaboutcheatin.html
 name: When I Think About Cheatin'
@@ -51,8 +54,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2004
+runtime: 249226
 ---
-
 I've never done anything
 That would ever bring a tear to your eye
 I've never crossed the line
@@ -80,8 +84,3 @@ Between the champaigne and the sound of whispers in my ear
 But it just took one two-step with someone and I was missing you
 He never had the chance cause I broke up the dance
 Before the song was through
-
-
-
-
-

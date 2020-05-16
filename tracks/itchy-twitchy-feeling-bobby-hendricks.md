@@ -1,8 +1,11 @@
 ---
+album: 'Rockin'' Reelin'' & Rollin'': 1950 to 1959'
 artists:
 - Bobby Hendricks
+external_ids:
+  spotify: spotify:track:1ACAXMTcplGnegRUxSsuTy
 features: []
-genres: []
+first_released_as_single: false
 key: itchy-twitchy-feeling-bobby-hendricks
 lyrics_url: https://genius.com/Bobby-hendricks-itchy-twitchy-feeling-lyrics
 name: Itchy Twitchy Feeling
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 149533
 ---
 Dih dih dih dih dih dih dih dih dip
 Dih dih dih dih dih dih dih dih dip

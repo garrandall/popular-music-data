@@ -1,9 +1,12 @@
 ---
+album: Kiss Of Death
 artists:
 - Jadakiss
+external_ids:
+  spotify: spotify:track:58LflM1owDAzQkYIL7ayCX
 features:
 - Anthony Hamilton
-genres: []
+first_released_as_single: false
 key: why--jadakiss-anthony-hamilton
 lyrics_url: https://genius.com/Jadakiss-why-anthony-hamilton-lyrics
 name: Why?
@@ -88,6 +91,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2004-11-27'
+release_year: 2004
+runtime: 240000
 ---
 Aha
 It's dat real

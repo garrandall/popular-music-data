@@ -1,8 +1,11 @@
 ---
+album: Song Painter
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:7LpiqSpEzC6q6eQ07NTgOj
 features: []
-genres: []
+first_released_as_single: false
 key: whoever-finds-this-i-love-you-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/whoeverfindsthisiloveyou.html
 name: Whoever Finds This I Love You
@@ -39,8 +42,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 270720
 ---
-
 On a quiet street in the city a little old man walks along
 Shuffling through the Autumn afternoon
 And the Autumn leaves reminded him another summer's come and gone
@@ -67,6 +71,3 @@ Whoever finds this, I love you!
 Whoever finds this, I need you!
 I don't even have no one to talk to
 So, whoever finds this, I love you!
-
-
-

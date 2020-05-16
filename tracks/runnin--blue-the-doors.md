@@ -1,8 +1,11 @@
 ---
+album: The Soft Parade
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:0y2Vz9T2PImD6YUdMq9Ebl
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--blue-the-doors
 lyrics_url: https://genius.com/The-doors-runnin-blue-lyrics
 name: Runnin' Blue
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 146026
 ---
 Poor Otis dead and gone
 Left me here to sing his song

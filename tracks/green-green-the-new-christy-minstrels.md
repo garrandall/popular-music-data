@@ -1,8 +1,11 @@
 ---
+album: Ramblin'
 artists:
 - The New Christy Minstrels
+external_ids:
+  spotify: spotify:track:62FgmkaAc47fWDWW24NGWK
 features: []
-genres: []
+first_released_as_single: false
 key: green-green-the-new-christy-minstrels
 lyrics_url: https://www.musixmatch.com/lyrics/The-New-Christy-Minstrels/Green-Green
 name: Green Green
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 127346
 ---
 (CHORUS)
 Green, green,

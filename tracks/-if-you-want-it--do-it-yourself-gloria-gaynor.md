@@ -1,8 +1,11 @@
 ---
+album: Experience
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:2wL4EYvM2jXsiYToaCm4yB
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-want-it--do-it-yourself-gloria-gaynor
 lyrics_url: https://www.azlyrics.com/lyrics/gloriagaynor/ifyouwantitdoityourself.html
 name: (If You Want It) Do It Yourself
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 356333
 ---
-
 Many years ago my dad said, 'Honey 
 Lady Luck may never come your way 
 If it's love you want not only money' 
@@ -66,6 +70,3 @@ You got to do it yourself, do-do-do, do it yourself
 
 Well, if you want it, go out and get it 
 You got to do it yourself, do-do-do, do it yourself
-
-
-

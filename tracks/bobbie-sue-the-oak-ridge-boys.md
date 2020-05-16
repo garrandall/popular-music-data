@@ -1,8 +1,11 @@
 ---
+album: Bobbie Sue
 artists:
 - The Oak Ridge Boys
+external_ids:
+  spotify: spotify:track:6QNIE5luylDUqPUL1rsist
 features: []
-genres: []
+first_released_as_single: false
 key: bobbie-sue-the-oak-ridge-boys
 lyrics_url: https://genius.com/The-oak-ridge-boys-bobbie-sue-lyrics
 name: Bobbie Sue
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1981
+runtime: 173866
 ---
 I heard about her from a friend of mine
 He said she lived across the county line

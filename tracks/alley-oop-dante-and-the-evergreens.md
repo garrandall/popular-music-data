@@ -1,8 +1,11 @@
 ---
+album: Jersey Bop - The Tri-State Sound Of Doo-Wop
 artists:
 - Dante and the Evergreens
+external_ids:
+  spotify: spotify:track:18ARvnm1orP4B2JMqIsVpt
 features: []
-genres: []
+first_released_as_single: false
 key: alley-oop-dante-and-the-evergreens
 lyrics_url: https://genius.com/Dante-and-the-evergreens-alley-oop-lyrics
 name: Alley-Oop
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 177333
 ---
 (Dallas Frazier)
 

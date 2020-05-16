@@ -1,8 +1,11 @@
 ---
+album: Knockin' Boots
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:6ERR6e7h6wCqGoz1TjiUJb
 features: []
-genres: []
+first_released_as_single: true
 key: knockin--boots-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/knockinboots.html
 name: Knockin' Boots
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 199382
 ---
-
 This truck needs a half tank
 These wheels need a two lane
 This radio needs three songs to play
@@ -159,6 +163,3 @@ Boots need knockin', knockin' boots
 
 Knockin' boots, me and you
 Oh, knockin' boots
-
-
-

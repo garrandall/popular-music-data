@@ -1,8 +1,11 @@
 ---
+album: Love Gun
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3Ms6wIwW1f3DVk563ucHP3
 features: []
-genres: []
+first_released_as_single: false
 key: christine-sixteen-kiss
 lyrics_url: https://www.azlyrics.com/lyrics/kiss/christinesixteen.html
 name: Christine Sixteen
@@ -55,8 +58,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 194466
 ---
-
 She's got me dizzy, she sees me through to the end
 She's got me in her hands and there's no use in pretending
 
@@ -90,6 +94,3 @@ Christine, yeah, yeah, yeah
 Christine, Christine, sixteen, sixteen, Christine, yeah, yeah
 Christine, Christine, sixteen, sixteen
 Christine, yeah, yeah, yeah
-
-
-

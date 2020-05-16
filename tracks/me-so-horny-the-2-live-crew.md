@@ -1,8 +1,11 @@
 ---
+album: As Nasty As They Wanna Be
 artists:
 - The 2 Live Crew
+external_ids:
+  spotify: spotify:track:3EgvmOhP3NQUHY7d6PDOUg
 features: []
-genres: []
+first_released_as_single: false
 key: me-so-horny-the-2-live-crew
 lyrics_url: https://genius.com/2-live-crew-me-so-horny-lyrics
 name: Me So Horny
@@ -127,6 +130,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1989
+runtime: 276466
 ---
 "What'll we get for 10 dollars?"
 "Every 'ting you want"

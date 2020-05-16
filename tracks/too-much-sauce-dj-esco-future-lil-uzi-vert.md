@@ -1,10 +1,13 @@
 ---
+album: Too Much Sauce
 artists:
 - DJ ESCO
+external_ids:
+  spotify: spotify:track:5oyUurs28XRagLa8lgm6V3
 features:
 - Future
 - Lil Uzi Vert
-genres: []
+first_released_as_single: true
 key: too-much-sauce-dj-esco-future-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/djesco/toomuchsauce.html
 name: Too Much Sauce
@@ -89,9 +92,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2016
+runtime: 223093
 ---
-
-
 DJ Esco, Lil Uzi Vert, Future
 That's too much sauce
 That's too much sauce
@@ -165,6 +168,3 @@ Got diamonds on all of my fingers, that's too much sauce
 
 Too much sauce, yeah, yeah
 Diamonds they look like Dasani
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Little Touch of Schmilsson in the Night
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:7pnp2WzJUuq2pm5oWQOpBm
 features: []
-genres: []
+first_released_as_single: false
 key: as-time-goes-by-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/astimegoesby.html
 name: As Time Goes By
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 204840
 ---
-
 You must remember this
 A kiss is still a kiss
 A sigh is just a sigh
@@ -47,6 +51,3 @@ It's still the same old story
 A fight for love and glory
 A case of do or die
 The world will always welcome lovers as time goes by
-
-
-

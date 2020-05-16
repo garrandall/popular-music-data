@@ -1,8 +1,11 @@
 ---
+album: Inside Out
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:2onNmw7lzEoDRXl46jDO5O
 features: []
-genres: []
+first_released_as_single: false
 key: i-would-ve-loved-you-anyway-trisha-yearwood
 lyrics_url: https://genius.com/Trisha-yearwood-i-wouldve-loved-you-anyway-lyrics
 name: I Would've Loved You Anyway
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
+release_year: 2001
+runtime: 221893
 ---
 If I'd a-known the way that this would end
 If I'd a-read the last page first

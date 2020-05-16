@@ -1,9 +1,12 @@
 ---
+album: A Love Letter To You 3
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:75lcPkAkUsKWHGBlGM476R
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: false
 key: 1400-trippie-redd-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/1400999freestyle.html
 name: '1400'
@@ -20,9 +23,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 175954
 ---
-
-
 Uh
 Lyft on a bitch, finna walk when they sniffin' a brick
 I fucked that bitch in the back with the Burberry on
@@ -111,6 +114,3 @@ Stopped taking Percs, my stomach burnin'
 May take a half when I hit it from the back
 I'ma beat the shit up like Ike-y Turner
 Check that bitch like she got Nike on her
-
-
-

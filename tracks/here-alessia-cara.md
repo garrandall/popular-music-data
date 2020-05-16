@@ -1,8 +1,11 @@
 ---
+album: Know-It-All
 artists:
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:1wYZZtamWTQAoj8B812uKQ
 features: []
-genres: []
+first_released_as_single: false
 key: here-alessia-cara
 lyrics_url: https://genius.com/Alessia-cara-here-lyrics
 name: Here
@@ -143,6 +146,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 199453
 ---
 I guess right now you've got the last laugh
 

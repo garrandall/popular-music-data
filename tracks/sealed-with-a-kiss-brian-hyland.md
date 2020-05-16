@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:6oM4ryXpuZmbFfBv2sEe7v
 features: []
-genres: []
+first_released_as_single: false
 key: sealed-with-a-kiss-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-sealed-with-a-kiss-lyrics
 name: Sealed With A Kiss
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 162160
 ---
 Intro
 

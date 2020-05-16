@@ -1,8 +1,11 @@
 ---
+album: Once Upon a Dream
 artists:
 - Enchantment
+external_ids:
+  spotify: spotify:track:51x3PIRdB4V2eNHesIXaxZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-you-that-i-need-enchantment
 lyrics_url: https://www.azlyrics.com/lyrics/jessepowell/theenchantmentmedleygloriaitsyouthatineed.html
 name: It's You That I Need
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1977
+runtime: 360493
 ---
-
 Gloria, my Gloria
 Things ain't been the same since you've been away yeah
 Gloria, my Gloria
@@ -117,7 +121,4 @@ Baby baby
 Baby baby it's you that I need 
 Baby baby
 
-Baby baby it's you that I need 
-
-
-
+Baby baby it's you that I need

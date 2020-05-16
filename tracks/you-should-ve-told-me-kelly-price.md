@@ -1,8 +1,11 @@
 ---
+album: Mirror Mirror
 artists:
 - Kelly Price
+external_ids:
+  spotify: spotify:track:6NwKYeHDcfEAKVYsUZy4Dx
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-ve-told-me-kelly-price
 lyrics_url: https://genius.com/Kelly-price-you-shouldve-told-me-lyrics
 name: You Should've Told Me
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 194760
 ---
 I wouldn't call in the midnight hour
 I wouldn't tuck you in and turn the nightlight out

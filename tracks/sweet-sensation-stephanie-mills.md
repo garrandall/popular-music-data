@@ -1,8 +1,11 @@
 ---
+album: The Best Of Stephanie Mills
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:0gH5b6yEORRSkqSh2TKmgG
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sensation-stephanie-mills
 lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/sweetsensation.html
 name: Sweet Sensation
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 383773
 ---
-
 Something strange came over me
 'Cause I never felt this way
 There's no place, I'd rather be
@@ -110,6 +114,3 @@ Love vibration
 
 You're a sweet
 You're a sweet
-
-
-

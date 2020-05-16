@@ -1,8 +1,12 @@
 ---
+album: 'Instant Karma: The Amnesty International Campaign To Save Darfur (Standard
+  Version)'
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:3piY5aMfwEEmXMV6I9kpoi
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-jack-johnson
 lyrics_url: https://genius.com/Jack-johnson-imagine-lyrics
 name: Imagine
@@ -15,6 +19,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2007
+runtime: 219080
 ---
 Imagine there's no heaven
 Its easy if you try

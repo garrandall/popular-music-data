@@ -1,8 +1,11 @@
 ---
+album: Free And Easy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:46OZwUIGXFDclUHJYjunOj
 features: []
-genres: []
+first_released_as_single: false
 key: angie-baby-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/angiebaby.html
 name: Angie Baby
@@ -75,8 +78,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 210693
 ---
-
 You live your life in the songs you hear
 On the rock and roll radio
 And when a young girl doesn't have any friends
@@ -142,6 +146,3 @@ Well, maybe (Angie baby, Angie baby)
 Well, maybe (Angie baby, Angie baby)
 (Angie baby, Angie baby)
 (Angie baby, Angie baby)
-
-
-

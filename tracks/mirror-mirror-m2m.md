@@ -1,8 +1,11 @@
 ---
+album: Shades Of Purple
 artists:
 - M2M
+external_ids:
+  spotify: spotify:track:2gX1J5hbHs1V7gkHsNglTv
 features: []
-genres: []
+first_released_as_single: false
 key: mirror-mirror-m2m
 lyrics_url: https://www.azlyrics.com/lyrics/m2m/mirrormirror.html
 name: Mirror Mirror
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 2000
+runtime: 200426
 ---
-
 Mirror mirror lie to me
 Show me what I wanna see
 Mirror mirror lie to me
@@ -136,6 +140,3 @@ Mirror mirror lie to me
 Mirror mirror lie to me
 Show me what I wanna see
 Mirror mirror lie to me
-
-
-

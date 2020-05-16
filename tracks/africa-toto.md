@@ -1,8 +1,11 @@
 ---
+album: Toto IV
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:2374M0fQpWi3dLnB54qaLX
 features: []
-genres: []
+first_released_as_single: false
 key: africa-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/africa.html
 name: Africa
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
+release_year: 1982
+runtime: 295893
 ---
-
 I hear the drums echoing tonight
 But she hears only whispers of some quiet conversation
 She's coming in twelve-thirty flight
@@ -131,6 +135,3 @@ I bless the rains down in Africa
 I bless the rains down in Africa
 I bless the rains down in Africa
 Gonna take some time to do the things we never had
-
-
-

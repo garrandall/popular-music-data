@@ -1,9 +1,12 @@
 ---
+album: Rule 3:36
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:1CP0DS790dxOfCXXp7WHDP
 features:
 - Lil' Mo
-genres: []
+first_released_as_single: false
 key: i-cry-ja-rule-lil--mo
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/icry.html
 name: I Cry
@@ -64,9 +67,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2001-08-04'
+release_year: 2000
+runtime: 317733
 ---
-
-
 When I cry, you cry
 We cry, together
 Said I cry, you cry
@@ -146,6 +149,3 @@ Ja cries, Mo cries
 We'll cry, together
 If he cry, I'll cry
 Then we'll cry, together
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: head or heart
 artists:
 - Christina Perri
+external_ids:
+  spotify: spotify:track:1zVhMuH7agsRe6XkljIY4U
 features: []
-genres: []
+first_released_as_single: true
 key: human-christina-perri
 lyrics_url: https://www.azlyrics.com/lyrics/christinaperri/human.html
 name: Human
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2013
+runtime: 250706
 ---
-
 I can hold my breath
 I can bite my tongue
 I can stay awake for days
@@ -145,6 +149,3 @@ And I crash and I break down
 Your words in my head, knives in my heart
 You build me up and then I fall apart
 'Cause I'm only human
-
-
-

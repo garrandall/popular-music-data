@@ -1,9 +1,12 @@
 ---
+album: Rufus Featuring Chaka Khan
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:0jWJErPlKX5o9tbcJk644S
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: dance-wit-me-rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-dance-wit-me-lyrics
 name: Dance Wit Me
@@ -40,6 +43,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1975
+runtime: 238480
 ---
 Dance wit me ev'rybody dance wit me
 Dance wit me ev'rybody dance wit me

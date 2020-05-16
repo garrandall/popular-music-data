@@ -1,8 +1,11 @@
 ---
+album: Coolin' at the Playground Ya Know!
 artists:
 - Another Bad Creation
+external_ids:
+  spotify: spotify:track:0e3dpXiKdTHRNXZHdfM2JM
 features: []
-genres: []
+first_released_as_single: false
 key: playground-another-bad-creation
 lyrics_url: https://genius.com/Another-bad-creation-playground-lyrics
 name: Playground
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1991
+runtime: 249836
 ---
 GA:
 Yeah, boy. Another ABC card

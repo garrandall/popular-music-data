@@ -1,8 +1,11 @@
 ---
+album: How I Feel
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:4XLPTrNMDa0irXp98Wre2A
 features: []
-genres: []
+first_released_as_single: false
 key: now-that-i-found-you-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/nowthatifoundyou.html
 name: Now That I Found You
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-08-15'
+release_year: 1998
+runtime: 217360
 ---
-
 How can I believe
 That my heart would find someone like you
 You see me, the real me
@@ -104,6 +108,3 @@ You hold me like a prayer, you touch me everywhere
 A lifetime just ain't enough to love you true
 Now that I found you
 Now that I found you
-
-
-

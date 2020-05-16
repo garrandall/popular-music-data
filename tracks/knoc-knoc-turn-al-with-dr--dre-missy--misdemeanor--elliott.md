@@ -1,9 +1,13 @@
 ---
+album: LA Confidential Presents Knoc-Turn'al
 artists:
-- Knoc-Turn'Al With Dr. Dre
+- Knoc-Turn'Al
+external_ids:
+  spotify: spotify:track:0EK24txkGSt51YBfVzN7qB
+features:
+- Dr. Dre
 - Missy Elliott
-features: []
-genres: []
+first_released_as_single: true
 key: knoc-knoc-turn-al-with-dr--dre-missy--misdemeanor--elliott
 name: Knoc
 rankings:
@@ -19,5 +23,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-03-23'
+release_year: 2002
+runtime: 250266
 ---
 

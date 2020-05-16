@@ -1,8 +1,11 @@
 ---
+album: Naturally
 artists:
 - J.J. Cale
+external_ids:
+  spotify: spotify:track:7FgjfoVQ6Wn1Nm53N5Upn8
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-mama-j-j--cale
 lyrics_url: https://www.azlyrics.com/lyrics/jjcale/crazymama.html
 name: Crazy Mama
@@ -63,8 +66,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1971
+runtime: 142866
 ---
-
 Crazy mama, where you been so long
 Crazy mama, where you been so long
 You've been hiding out, I know that's true
@@ -76,6 +80,3 @@ Standing on the corner, looking for you, baby
 Standing on the corner, looking for you, baby
 Lord mercy, I can not see, crazy mama coming back to me
 Crazy mama, where you been so long
-
-
-

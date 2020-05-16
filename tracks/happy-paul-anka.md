@@ -1,8 +1,11 @@
 ---
+album: Life Goes On
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4fw2iGFp7f43NKSJnw4YM7
 features: []
-genres: []
+first_released_as_single: false
 key: happy-paul-anka
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka-Neil-Sedaka/Happy-Birthday-Sweet-Sixteen
 name: Happy
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 148466
 ---
 Tra la-la-la-la la-la-la-la
 Happy birthday sweet-sixteen

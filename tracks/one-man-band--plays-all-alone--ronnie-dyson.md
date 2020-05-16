@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Ronnie Dyson
+external_ids:
+  spotify: spotify:track:6vZh25BRVYeEHQRGHEhJ7r
 features: []
-genres: []
+first_released_as_single: false
 key: one-man-band--plays-all-alone--ronnie-dyson
 lyrics_url: https://genius.com/Ronnie-dyson-one-man-band-plays-all-alone-lyrics
 name: One Man Band (Plays All Alone)
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1970
+runtime: 219560
 ---
 All my life I’ve been alone but I’ve never really cared
 Just a face inside a crowd a stranger everywhere

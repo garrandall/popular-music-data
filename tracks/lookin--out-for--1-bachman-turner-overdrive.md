@@ -1,8 +1,11 @@
 ---
+album: Head On
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:4WbssgiyaXQpri2KNcfROs
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--out-for--1-bachman-turner-overdrive
 lyrics_url: https://genius.com/Bachmanturner-overdrive-lookin-out-for-1-lyrics
 name: 'Lookin'' Out For #1'
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1975
+runtime: 319800
 ---
 Every day is an endless train
 You got to ride it to the end of the line

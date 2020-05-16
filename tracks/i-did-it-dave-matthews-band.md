@@ -1,8 +1,11 @@
 ---
+album: Everyday
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:4u1WFYkW7pFmFvyUqUKP16
 features: []
-genres: []
+first_released_as_single: false
 key: i-did-it-dave-matthews-band
 lyrics_url: https://genius.com/Dave-matthews-band-i-did-it-lyrics
 name: I Did It
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
+release_year: 2001
+runtime: 216293
 ---
 I'm mixing up a bunch of magic stuff
 A magic mushroom cloud of care

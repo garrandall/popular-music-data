@@ -1,8 +1,11 @@
 ---
+album: Lady Antebellum
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:2YVCkTYJpv5jelYrHYoEG8
 features: []
-genres: []
+first_released_as_single: false
 key: i-run-to-you-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/iruntoyou.html
 name: I Run To You
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2008
+runtime: 256013
 ---
-
 I run from hate
 I run from prejudice
 I run from pessimists
@@ -148,6 +152,3 @@ I run to you girl
 I always run to you
 Run to you
 Run to you
-
-
-

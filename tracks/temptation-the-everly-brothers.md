@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:0jjPYKq66QDiu9Ydl3Gumq
 features: []
-genres: []
+first_released_as_single: false
 key: temptation-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/temptation.html
 name: Temptation
@@ -31,8 +34,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 131733
 ---
-
 Yea, yea, yea yeah
 Yea, yea, yea yeah
 Yea, yea, yea yeah
@@ -69,6 +73,3 @@ Yea, yea, yea, yeah
 Yea, yea, yea, yeah
 Yea, yea, yea, yeah
 Yea, yea, yea, yeah
-
-
-

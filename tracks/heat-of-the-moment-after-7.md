@@ -1,8 +1,11 @@
 ---
+album: After 7
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:2Sf6ryueL9oJ1eDE2HfIvJ
 features: []
-genres: []
+first_released_as_single: false
 key: heat-of-the-moment-after-7
 lyrics_url: https://www.azlyrics.com/lyrics/after7/heatofthemoment.html
 name: Heat Of The Moment
@@ -127,8 +130,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
+release_year: 1989
+runtime: 267066
 ---
-
 L.A. Reid and Babyface
 
 There comes a time in every man's life
@@ -195,6 +199,3 @@ Baby I lost my head. Lost my mind
 Didn't know what to do
 In the heat of the moment
 Baby I fell in lust with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Columbia Singles
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:3EpSjjXvJ4hmSgcyIN2QRs
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-old-enough-mark-lindsay
 name: Are You Old Enough
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 124360
 ---
 

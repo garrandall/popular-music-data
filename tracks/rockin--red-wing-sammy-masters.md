@@ -1,8 +1,11 @@
 ---
+album: Wa-Chic-Ka-Nocka
 artists:
 - Sammy Masters
+external_ids:
+  spotify: spotify:track:7IdmCKWVx067DlkjXvZqdc
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--red-wing-sammy-masters
 lyrics_url: https://www.musixmatch.com/lyrics/Sammy-Masters/Rockin-Red-Wing
 name: Rockin' Red Wing
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 136133
 ---
 There once lived an Indian maid
 A teenage Indian maid

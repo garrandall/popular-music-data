@@ -1,8 +1,11 @@
 ---
+album: Mechanical Resonance
 artists:
 - Tesla
+external_ids:
+  spotify: spotify:track:5ihJU3sYiOaUhU5S4LRJBV
 features: []
-genres: []
+first_released_as_single: false
 key: little-suzi-tesla
 lyrics_url: https://www.azlyrics.com/lyrics/tesla/littlesuzi.html
 name: Little Suzi
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1986
+runtime: 297000
 ---
-
 Little Suzi's on the up, looking for a get-away
 Ruby tries to bring her down, she's lookin' for another way
 Little Suzi's on the up, headin' for the spotlights
@@ -58,6 +62,3 @@ Now she's on the up, little Suzi's on the up
 Heading for the spotlight, oh little Suzi
 Oh and the music makes her feel so hot, go little Suzi, yeah
 Ohh, yeah yeah, oh yeah
-
-
-

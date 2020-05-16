@@ -1,8 +1,11 @@
 ---
+album: Cynic's New Year
 artists:
 - Feather
+external_ids:
+  spotify: spotify:track:0uYFCsa9egCxn8HbIsnqk5
 features: []
-genres: []
+first_released_as_single: false
 key: friends-feather
 lyrics_url: https://www.musixmatch.com/lyrics/Brown-Feather-Sparrow-and-Friends/Een-Kind-Is-Ons-Geboren
 name: Friends
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 257320
 ---
 Een kind is ons geboren
 Een zoon is ons gegeven

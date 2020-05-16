@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:1J14ikyoFruMGssQTfKs0P
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-do-it-by-myself-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-i-cant-do-it-by-myself-lyrics
 name: I Can't Do It By Myself
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 147000
 ---
 I can't do it by myself
 I can't do it by myself

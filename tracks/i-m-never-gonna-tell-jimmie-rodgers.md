@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:62ihWPT7xQNLZBA6sHdM3Y
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-never-gonna-tell-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers-2/I-m-Never-Gonna-Tell
 name: I'm Never Gonna Tell
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 112893
 ---
 (Momma didn't know, Momma didn't know
 Nobody will ever know)

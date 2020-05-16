@@ -1,8 +1,11 @@
 ---
+album: After The Rain
 artists:
 - Nelson
+external_ids:
+  spotify: spotify:track:4nDjw5rDm2H7dIvEyrIABn
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-ever-nelson
 lyrics_url: https://genius.com/Nelson-more-than-ever-lyrics
 name: More Than Ever
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1990
+runtime: 208963
 ---
 Do I
 Do I love you baby

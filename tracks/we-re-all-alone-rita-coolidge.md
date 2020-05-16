@@ -1,8 +1,11 @@
 ---
+album: Anytime... Anywhere
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:2QDnRMFfnes9DUWc6HgixI
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-all-alone-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/wereallalone.html
 name: We're All Alone
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 220520
 ---
-
 Outside, the rain begins
 And it may never end
 So cry no more
@@ -133,6 +137,3 @@ Hold me dear
 
 All's forgotten now, my love
 We're all alone
-
-
-

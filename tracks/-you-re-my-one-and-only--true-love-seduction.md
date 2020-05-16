@@ -1,8 +1,11 @@
 ---
+album: Nothing Matters Without Love
 artists:
 - Seduction
+external_ids:
+  spotify: spotify:track:0symbiCfmFvJDJgR6y8gkf
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-my-one-and-only--true-love-seduction
 lyrics_url: https://genius.com/Seduction-youre-my-one-and-only-true-love-lyrics
 name: (You're My One And Only) True Love
@@ -91,6 +94,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 230266
 ---
 Ohhhh-oh, oh-oh, oh-oh, oh-oh
 Ohhhh-oh, oh-oh, oh-oh, oh-oh

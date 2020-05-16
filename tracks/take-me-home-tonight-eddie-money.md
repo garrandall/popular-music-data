@@ -1,8 +1,11 @@
 ---
+album: Can't Hold Back
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:63diy8Bzm0pHMAU37By2Nh
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-home-tonight-eddie-money
 lyrics_url: https://genius.com/Eddie-money-take-me-home-tonight-lyrics
 name: Take Me Home Tonight
@@ -99,6 +102,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1977
+runtime: 211466
 ---
 Ohhh.. Yeah..
 

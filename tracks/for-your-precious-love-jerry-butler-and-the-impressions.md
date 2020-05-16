@@ -1,8 +1,11 @@
 ---
+album: Curtis In Chicago - Recorded Live!
 artists:
 - Jerry Butler and The Impressions
+external_ids:
+  spotify: spotify:track:2UL1EwS6tfbNrdH805oyvi
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-precious-love-jerry-butler-and-the-impressions
 name: For Your Precious Love
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1958-09-01'
+release_year: 1958
+runtime: 251613
 ---
 

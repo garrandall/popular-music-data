@@ -1,8 +1,11 @@
 ---
+album: Music Box
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:1kMOJBmpfWD9fir6st9uqS
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-without-you-lyrics
 name: Without You
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
+release_year: 1993
+runtime: 213666
 ---
 No, I can't forget this evening
 Or your face as you were leaving

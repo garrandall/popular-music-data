@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:6VRwEqn7BvsN0dChfDrMAf
 features:
 - Tory Lanez
-genres: []
+first_released_as_single: false
 key: kika-6ix9ine-tory-lanez
 lyrics_url: https://genius.com/6ix9ine-kika-lyrics
 name: KIKA
@@ -32,6 +35,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 136031
 ---
 Bitch, we in the city on that hot shit
 Lookin' for a bitty on that thot shit

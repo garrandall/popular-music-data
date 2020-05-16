@@ -1,8 +1,11 @@
 ---
+album: A Fever You Can't Sweat Out
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:4bPQs0PHn4xbipzdPfn6du
 features: []
-genres: []
+first_released_as_single: false
 key: i-write-sins-not-tragedies-panic--at-the-disco
 lyrics_url: https://genius.com/Panic-at-the-disco-i-write-sins-not-tragedies-lyrics
 name: I Write Sins Not Tragedies
@@ -155,6 +158,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2005
+runtime: 187613
 ---
 Oh, well, imagine
 As I'm pacing the pews in a church corridor

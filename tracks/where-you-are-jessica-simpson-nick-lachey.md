@@ -1,9 +1,12 @@
 ---
+album: Sweet Kisses
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:5u5YZpr7Ccrgw2RnYNzwjl
 features:
 - Nick Lachey
-genres: []
+first_released_as_single: false
 key: where-you-are-jessica-simpson-nick-lachey
 lyrics_url: https://genius.com/Jessica-simpson-where-you-are-lyrics
 name: Where You Are
@@ -32,6 +35,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1999
+runtime: 271893
 ---
 Oh-oh, oh, oh-oh
 

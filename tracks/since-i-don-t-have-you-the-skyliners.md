@@ -1,8 +1,11 @@
 ---
+album: Since I Don't Have You
 artists:
 - The Skyliners
+external_ids:
+  spotify: spotify:track:5bR77Wpv0cRqCPKabwcvo9
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-don-t-have-you-the-skyliners
 lyrics_url: https://genius.com/The-skyliners-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 159663
 ---
 I don't have plans and schemes
 And I don't have hopes and dreams

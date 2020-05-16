@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:6aOY5n8nmsFZPSNQYDnDqc
 features: []
-genres: []
+first_released_as_single: false
 key: would-it-make-any-difference-to-you-etta-james
 lyrics_url: https://genius.com/Etta-james-would-it-make-any-difference-to-you-lyrics
 name: Would It Make Any Difference To You
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 158800
 ---
 If you read in the paper that I went away
 Would it make any difference to you?

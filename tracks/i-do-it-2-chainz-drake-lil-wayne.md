@@ -1,10 +1,13 @@
 ---
+album: 'B.O.A.T.S. II #METIME'
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:1DRRWz7CF55lysOeyCFEdh
 features:
 - Drake
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-do-it-2-chainz-drake-lil-wayne
 lyrics_url: https://genius.com/2-chainz-i-do-it-lyrics
 name: I Do It
@@ -13,6 +16,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 373693
 ---
 Thank God for the first nigga to start trapping
 Thank God for the first nigga to start rapping

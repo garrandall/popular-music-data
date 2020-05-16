@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:3CH8M5lB931faZDzjCTfVW
 features: []
-genres: []
+first_released_as_single: false
 key: on-broadway-the-drifters
 lyrics_url: https://genius.com/The-drifters-on-broadway-lyrics
 name: On Broadway
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 181213
 ---
 They say the neon lights are bright on Broadway (on Broadway)
 They say there's always magic in the air (on Broadway)

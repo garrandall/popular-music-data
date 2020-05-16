@@ -1,8 +1,11 @@
 ---
+album: Changed
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:5mCttXluvE0gaIArboAoFA
 features: []
-genres: []
+first_released_as_single: false
 key: come-wake-me-up-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-come-wake-me-up-lyrics
 name: Come Wake Me Up
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 263253
 ---
 I can usually drink you right off of my mind
 But I miss you tonight

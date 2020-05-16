@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:13e6f8t7RKXuxZ0JdaaJRG
 features: []
-genres: []
+first_released_as_single: false
 key: jorja-interlude-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/jorjainterlude.html
 name: Jorja Interlude
@@ -15,9 +18,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 107673
 ---
-
-
 These things'll fall down
 But you'll pick 'em up
 You're still here to touch the ground
@@ -62,6 +65,3 @@ I know, I know
 
 And more chune for your headtop
 So watch how you speak on my name, you know?
-
-
-

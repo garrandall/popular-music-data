@@ -1,9 +1,12 @@
 ---
+album: Blue Jays
 artists:
 - Justin Hayward
 - John Lodge
+external_ids:
+  spotify: spotify:track:1ppneH0uoQRhVcsIO1iuyt
 features: []
-genres: []
+first_released_as_single: false
 key: blue-guitar-justin-hayward-john-lodge
 lyrics_url: https://genius.com/Justin-hayward-and-john-lodge-blue-guitar-lyrics
 name: Blue Guitar
@@ -28,6 +31,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
+release_year: 1975
+runtime: 219826
 ---
 Blue guitar
 Fortune of my ways

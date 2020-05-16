@@ -1,8 +1,11 @@
 ---
+album: The Hurting
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:2JhIaeltCDCcp02K936tgx
 features: []
-genres: []
+first_released_as_single: false
 key: change-tears-for-fears
 lyrics_url: https://genius.com/Tears-for-fears-change-lyrics
 name: Change
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 254000
 ---
 You walked in to the room
 I just had to laugh

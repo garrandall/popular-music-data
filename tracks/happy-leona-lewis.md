@@ -1,8 +1,11 @@
 ---
+album: Echo
 artists:
 - Leona Lewis
+external_ids:
+  spotify: spotify:track:2DWO9x9rhszjJsabuPqp8P
 features: []
-genres: []
+first_released_as_single: false
 key: happy-leona-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/leonalewis/happy.html
 name: Happy
@@ -43,8 +46,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 242093
 ---
-
 Someone once told me
 That you have to choose
 What you win or lose
@@ -110,6 +114,3 @@ Oh, yeah, happy, oh, happy
 I just wanna be, oh
 I just wanna be happy
 Oh, happy
-
-
-

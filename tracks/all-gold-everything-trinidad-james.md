@@ -1,8 +1,11 @@
 ---
+album: Don't Be S.A.F.E.
 artists:
 - Trinidad James
+external_ids:
+  spotify: spotify:track:5LIND2nughPnfO4Y3scqIh
 features: []
-genres: []
+first_released_as_single: true
 key: all-gold-everything-trinidad-james
 lyrics_url: https://www.musixmatch.com/lyrics/Trinidad-James/All-Gold-Everything
 name: All Gold Everything
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2012
+runtime: 189120
 ---
 Yeah this shit Explainsound like 007 on N64 and shit
 Yeah, yeah, yeah, yeah, yeah, yeah

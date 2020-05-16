@@ -1,8 +1,11 @@
 ---
+album: Teenage Favorites
 artists:
 - Don French
+external_ids:
+  spotify: spotify:track:2MXDRWpiqLcOTTjFv5bY36
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-saturday-night-don-french
 lyrics_url: https://www.musixmatch.com/lyrics/Don-French/Lonely-Saturday-Night
 name: Lonely Saturday Night
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 164040
 ---
 Lonely Saturday night
 No place to go

@@ -1,8 +1,11 @@
 ---
+album: Definition Of A Band
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:5qR3pYQIC10S7aD2YBjgui
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-man-would-i-be-mint-condition
 lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/whatkindofmanwouldibe.html
 name: What Kind Of Man Would I Be
@@ -103,8 +106,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1996
+runtime: 264600
 ---
-
 You know
 We can't do this
 We just can't
@@ -151,6 +155,3 @@ But some how we've got to stay strong
 
 But what kind of man would I be oh can't be unfaithful
 Sorry baby
-
-
-

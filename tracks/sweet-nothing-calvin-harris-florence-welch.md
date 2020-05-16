@@ -1,9 +1,12 @@
 ---
+album: 18 Months
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:24LS4lQShWyixJ0ZrJXfJ5
 features:
 - Florence Welch
-genres: []
+first_released_as_single: false
 key: sweet-nothing-calvin-harris-florence-welch
 lyrics_url: https://www.musixmatch.com/lyrics/Calvin-Harris-Feat-Florence-Welch/Sweet-Nothing
 name: Sweet Nothing
@@ -116,6 +119,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-05-25'
+release_year: 2012
+runtime: 212560
 ---
 You took my heart, and you held it in your mouth
 And with a word all my love came rushing out

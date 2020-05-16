@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:3jBzwtoPVNr8GC5SfcwLB9
 features: []
-genres: []
+first_released_as_single: false
 key: deep-river-woman-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/deepriverwoman.html
 name: Deep River Woman
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
+release_year: 1986
+runtime: 276760
 ---
-
 Deep river woman
 Lord! I'm coming home to you
 Deep river woman
@@ -86,6 +90,3 @@ Lord! I'm coming home to you
 Deep river woman
 Lord! I know she's waiting
 Just anticipating all my love
-
-
-

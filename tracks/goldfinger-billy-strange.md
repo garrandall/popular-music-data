@@ -1,8 +1,11 @@
 ---
+album: 'Goldfinger: The Big Sound of Billy Strange, His Guitar & Orchestra'
 artists:
 - Billy Strange
+external_ids:
+  spotify: spotify:track:3Rw66IwIiHmMefQrKj6Ap9
 features: []
-genres: []
+first_released_as_single: false
 key: goldfinger-billy-strange
 name: Goldfinger
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 112684
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Chicago V
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:5XReXm8qV1ZCYfCmGQ1Yhd
 features: []
-genres: []
+first_released_as_single: false
 key: dialogue--part-i---ii--chicago
 lyrics_url: https://genius.com/Chicago-dialogue-part-i-and-ii-lyrics
 name: Dialogue (Part I & II)
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 181400
 ---
 Are you optimistic 'bout the way things are going?
 No, I never ever think of it at all

@@ -1,9 +1,12 @@
 ---
+album: Duophonic
 artists:
 - Charles
 - Eddie
+external_ids:
+  spotify: spotify:track:21MLFi0ISlqDBp7DQHPi7p
 features: []
-genres: []
+first_released_as_single: false
 key: would-i-lie-to-you--charles-eddie
 lyrics_url: https://genius.com/Charles-and-eddie-would-i-lie-to-you-lyrics
 name: Would I Lie To You?
@@ -112,6 +115,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 279600
 ---
 Nothing but love, baby
 Mm-mm-mm

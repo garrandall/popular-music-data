@@ -1,8 +1,11 @@
 ---
+album: Howzat
 artists:
 - Sherbet
+external_ids:
+  spotify: spotify:track:1rvvzcLXlcWhJHOzjoTrOV
 features: []
-genres: []
+first_released_as_single: false
 key: howzat-sherbet
 lyrics_url: https://genius.com/Sherbet-howzat-lyrics
 name: Howzat
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
+release_year: 1976
+runtime: 225560
 ---
 You told me I was the one
 

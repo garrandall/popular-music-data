@@ -1,8 +1,11 @@
 ---
+album: Remain in Light (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:38Ngied9rBORlAbLYNCl4k
 features: []
-genres: []
+first_released_as_single: false
 key: once-in-a-lifetime-talking-heads
 lyrics_url: https://www.azlyrics.com/lyrics/talkingheads/onceinalifetime.html
 name: Once In A Lifetime
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1980
+runtime: 259906
 ---
-
 And you may find yourself living in a shotgun shack
 And you may find yourself in another part of the world
 And you may find yourself behind the wheel of a large automobile
@@ -92,6 +96,3 @@ Same as it ever was, same as it ever was
 Same as it ever was, same as it ever was
 Once in a lifetime, let the water hold me down
 Letting the days go by
-
-
-

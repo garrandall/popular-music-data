@@ -1,8 +1,11 @@
 ---
+album: 20 Scottish Favourites
 artists:
 - Andy Stewart
+external_ids:
+  spotify: spotify:track:6dKl1rfY3GeGaPfKQnNrhQ
 features: []
-genres: []
+first_released_as_single: false
 key: a-scottish-soldier--green-hills-of-tyrol--andy-stewart
 lyrics_url: https://genius.com/Andy-stewart-a-scottish-soldier-lyrics
 name: A Scottish Soldier (Green Hills of Tyrol)
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 210106
 ---
 There was a soldier
 A Scottish soldier

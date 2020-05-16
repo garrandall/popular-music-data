@@ -1,8 +1,11 @@
 ---
+album: Mended
 artists:
 - Marc Anthony
+external_ids:
+  spotify: spotify:track:142z71E6iBRYh6ple2AMXi
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-you-marc-anthony
 lyrics_url: https://genius.com/Marc-anthony-ive-got-you-lyrics
 name: I've Got You
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2002
+runtime: 230200
 ---
 Baby when I think about you
 I don't need to think because I just know

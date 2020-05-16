@@ -1,9 +1,12 @@
 ---
+album: Bittersweet
 artists:
 - Blu Cantrell
+external_ids:
+  spotify: spotify:track:0q3lwFiwQYQynThTulLKGN
 features:
 - Sean Paul
-genres: []
+first_released_as_single: false
 key: breathe-blu-cantrell-sean-paul
 lyrics_url: https://genius.com/Blu-cantrell-breathe-instrumental-lyrics
 name: Breathe
@@ -88,6 +91,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 2003
+runtime: 228000
 ---
 So what's that supposed to be about baby?
 Ya'll free up your mind and stop acting crazy
@@ -96,63 +101,53 @@ Why you try pull that got me acting crazy
 
 What's that supposed to be about baby?
 Ya'll free up your mind and stop acting crazy
-Sean paul u'll give your the good loving daily
+Sean paul'll give you the good loving daily
 Now you try and pull that got me acting shady
 
-
-
 You say you love, say you love me
-But you’re never there for me, yeah, mmm...hm
-You 'll be crying, slowly dying
+But you’re never there for me, yeah
+You'll be crying, slowly dying
 When I decide to leave, oh, oh
 
 All we do is make up
 Then break up
-Why don 't we wake up
+Why don't we wake up
 And see
 
 When love hurts
-It won 't work
+It won't work
 Maybe we need some time alone
 We need to let it breathe
 
 Breathe
 Breathe
 Breathe
-
-
 
 So what's that supposed to be about baby?
 Ya'll free up your mind and stop acting crazy
 Reminisce about all the good times daily
 Why you try pull that got me acting crazy
 
-
-
-You 're only lonely when your homie
-Ain 't got a ride or no loot, yeah, uh-huh
+You're only lonely when your homie
+Ain't got a ride or no loot, yeah, uh-huh
 Then comes the drama
-Some other girl is claiming she 's going out with you
-
-Hm...hm
+Some other girl is claiming she's going out with you
 
 All we do is make up
 Then break up
-Why don 't we wake up
+Why don't we wake up
 And see
 
 When love hurts
-It won 't work
+It won't work
 Maybe we need some time alone
 We need to let it breathe
 
 Breathe
 Breathe
 Breathe
-Breathe (Uh...huh...)
 Breathe
-
-
+Breathe
 
 So what's that supposed to be about baby?
 Ya'll free up your mind and stop actin crazy
@@ -185,8 +180,6 @@ Ya'll free up your mind and stop acting crazy
 Reminisce about all the good times daily
 Why you try pull that got me acting shady shady baby baby
 
-
-
 Maybe we need some time alone
 So we can just breathe
 Let it breathe
@@ -198,4 +191,4 @@ Breathe
 Breathe
 Breathe
 Yeah yeah yeah yeah let it breathe yeah
-Oh oh time to breathe ya'll...
+Oh oh time to breathe ya'll

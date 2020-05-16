@@ -1,8 +1,11 @@
 ---
+album: Tracy Chapman
 artists:
 - Tracy Chapman
+external_ids:
+  spotify: spotify:track:2M9ro2krNb7nr7HSprkEgo
 features: []
-genres: []
+first_released_as_single: false
 key: fast-car-tracy-chapman
 lyrics_url: https://www.azlyrics.com/lyrics/tracychapman/fastcar.html
 name: Fast Car
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 296800
 ---
-
 You got a fast car
 I want a ticket to anywhere
 Maybe we make a deal
@@ -168,6 +172,3 @@ You got a fast car
 Is it fast enough so you can fly away?
 You gotta make a decision
 Leave tonight or live and die this way
-
-
-

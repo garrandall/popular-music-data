@@ -1,8 +1,11 @@
 ---
+album: Just Like The First Time
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:5YW9gEJbEdAYNM3IeWtduo
 features: []
-genres: []
+first_released_as_single: false
 key: jam-tonight-freddie-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/jamtonight.html
 name: Jam Tonight
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1986
+runtime: 272600
 ---
-
 Tell me why you came here
 Was it just to sit and stare?
 Wont you come go with me
@@ -127,6 +131,3 @@ I wanna jam, I wanna jam with you, yes I do
 I wanna jam, I wanna jam with you baby, yeah
 Yeah, girl, come on lets do it the way we love to do
 Lets jam the night away!
-
-
-

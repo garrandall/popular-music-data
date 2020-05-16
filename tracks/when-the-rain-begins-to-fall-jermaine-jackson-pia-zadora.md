@@ -1,9 +1,12 @@
 ---
+album: Jermaine Jackson
 artists:
 - Jermaine Jackson
 - Pia Zadora
+external_ids:
+  spotify: spotify:track:4BNgHaHriMcnpeR7qdkojU
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-rain-begins-to-fall-jermaine-jackson-pia-zadora
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/whentherainbeginstofall.html
 name: When The Rain Begins To Fall
@@ -52,8 +55,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1984
+runtime: 250000
 ---
-
 Like the sand can seep right through your fingers so can all your days
 As those days go by you'll have me there to help you find
 The way I feel with you I know it's got to last forever
@@ -106,6 +110,3 @@ And when the rain begins to fall
 I'll be the sunshine in your life
 You know that we can have it all
 And everything will be alright
-
-
-

@@ -1,9 +1,11 @@
 ---
+album: The Papas & The Mamas
 artists:
-- Mama Cass With The Mamas
-- The Papas
+- The Mamas and The Papas
+external_ids:
+  spotify: spotify:track:27hhIs2fp6w06N5zx4Eaa5
 features: []
-genres: []
+first_released_as_single: false
 key: dream-a-little-dream-of-me-mama-cass-with-the-mamas-the-papas
 name: Dream A Little Dream Of Me
 rankings:
@@ -51,5 +53,7 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 194426
 ---
 

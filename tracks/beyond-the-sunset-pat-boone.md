@@ -1,8 +1,11 @@
 ---
+album: I Remember Red - My Tribute To Red Foley
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:1BAoyWnjDtKYVnhoxClcAI
 features: []
-genres: []
+first_released_as_single: false
 key: beyond-the-sunset-pat-boone
 lyrics_url: https://genius.com/Pat-boone-beyond-the-sunset-lyrics
 name: Beyond The Sunset
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1959
+runtime: 175280
 ---
 Beyond the sunset
 Oh, blissful morning

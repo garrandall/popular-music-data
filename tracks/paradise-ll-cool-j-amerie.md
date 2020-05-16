@@ -1,9 +1,12 @@
 ---
+album: '10'
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:3QjU8pvlXBZZYFI98ocoCq
 features:
 - Amerie
-genres: []
+first_released_as_single: true
 key: paradise-ll-cool-j-amerie
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/paradise.html
 name: Paradise
@@ -68,11 +71,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 317373
 ---
-
-
-
- 10..
+10..
  Mm, MMM, mmm, mmm
 
 
@@ -168,4 +170,3 @@ If you need me, just call me
 Said if you want me, just be for reallll
 And if you like me, come and talk to me
 And if you want me, tell me how you feeelll
-

@@ -1,8 +1,11 @@
 ---
+album: 'MmmBop : The Collection'
 artists:
 - Hanson
+external_ids:
+  spotify: spotify:track:6pISWFsFAZRH7xU5vlIN5n
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-around-hanson
 lyrics_url: https://www.azlyrics.com/lyrics/hanson/thistimearound.html
 name: This Time Around
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
+release_year: 2000
+runtime: 257973
 ---
-
 It's getting colder in this ditch where I lie 
 I'm feeling older and I'm wondering why 
 I heard they told her it was tell and live or die 
@@ -78,6 +82,3 @@ Do you know why I die
 And we won't go down 
 And we won't go down 
 And we won't go down
-
-
-

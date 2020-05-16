@@ -1,8 +1,11 @@
 ---
+album: Never Say Never
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:5ZCv9I8mgChcYkSrLuLSTc
 features: []
-genres: []
+first_released_as_single: false
 key: almost-doesn-t-count-brandy
 lyrics_url: https://genius.com/Brandy-almost-doesnt-count-lyrics
 name: Almost Doesn't Count
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
+release_year: 1998
+runtime: 218466
 ---
 Almost made you love me, almost made you cry
 Almost made you happy, baby, didn't I, didn't I?

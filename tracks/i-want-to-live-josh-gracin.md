@@ -1,8 +1,11 @@
 ---
+album: Josh Gracin
 artists:
 - Josh Gracin
+external_ids:
+  spotify: spotify:track:01LgFdcK1vtxStxkTP4Lej
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-live-josh-gracin
 lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/iwanttolive.html
 name: I Want To Live
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-10-02'
+release_year: 2004
+runtime: 238893
 ---
-
 Sometimes I feel like I need
 To shake myself
 To wake myself
@@ -111,6 +115,3 @@ I want to take every
 Breath I can get
 I want to live
 Yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Take A Look
 artists:
 - Irma Thomas
+external_ids:
+  spotify: spotify:track:3qXCV5phLe1XCtYFk0Kkvg
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-my-guy-irma-thomas
 lyrics_url: https://genius.com/Irma-thomas-hes-my-guy-lyrics
 name: He's My Guy
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 159240
 ---
 He;s my guy
 I don't care what they say about him

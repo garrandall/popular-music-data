@@ -1,8 +1,11 @@
 ---
+album: Lee Andrews & the Hearts Meet the Flamingos Doo Wop, Vol. 2
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:1cHKiIaUfx8i9ULQO6Z6pj
 features: []
-genres: []
+first_released_as_single: false
 key: lovers-never-say-goodbye-the-flamingos
 lyrics_url: https://www.azlyrics.com/lyrics/flamingos/loversneversaygoodbye.html
 name: Lovers Never Say Goodbye
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 175360
 ---
-
 Please wait for me; for I shall return
 My love for you will forever burn
 Though we must part
@@ -68,6 +72,3 @@ Though we must part
 There's no reason to cry
 Just say so long
 Because lovers never say goodbye
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Simply Streisand
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:3K75GsqYHIPJkU29CLxLeR
 features: []
-genres: []
+first_released_as_single: false
 key: stout-hearted-men-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/stoutheartedmen.html
 name: Stout-Hearted Men
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 161826
 ---
-
 You have dreams, if you act
 They will come true
 To turn your dreams to a fact,
@@ -43,6 +47,3 @@ When stout-hearted men
 Can stick together man to man
 When stout-hearted men
 Can stick together man to man...
-
-
-

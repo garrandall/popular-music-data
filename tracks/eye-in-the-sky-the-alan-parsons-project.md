@@ -1,8 +1,11 @@
 ---
+album: Eye In The Sky
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:34qylmH6Yep56h1q2bz2mZ
 features: []
-genres: []
+first_released_as_single: false
 key: eye-in-the-sky-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-eye-in-the-sky-lyrics
 name: Eye In The Sky
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1977
+runtime: 276173
 ---
 Don't think sorry's easily said
 Don't try turning tables instead

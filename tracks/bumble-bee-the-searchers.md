@@ -1,8 +1,11 @@
 ---
+album: Needles & Pins
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:72QB8235EEpKdQAa5eImAm
 features: []
-genres: []
+first_released_as_single: false
 key: bumble-bee-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/bumblebee.html
 name: Bumble Bee
@@ -39,8 +42,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1964
+runtime: 132426
 ---
-
 I'm gonna have to put you down
 You've been treatin' me like a clown
 You know you've hurt me once before
@@ -82,6 +86,3 @@ I'm sorry baby it's the end
 
 Shoo-wee, you hurt me like a bee
 A bumble bee, an evil bumble bee
-
-
-

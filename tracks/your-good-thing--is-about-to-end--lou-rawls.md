@@ -1,8 +1,11 @@
 ---
+album: Legendary Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:79VLN3Akfbtadc8IYuygQd
 features: []
-genres: []
+first_released_as_single: false
 key: your-good-thing--is-about-to-end--lou-rawls
 lyrics_url: https://genius.com/Lou-rawls-your-good-thing-is-about-to-end-lyrics
 name: Your Good Thing (Is About To End)
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 173933
 ---
 I don't have to beg you to hold me
 'Cause somebody else will

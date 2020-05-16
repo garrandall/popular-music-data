@@ -1,8 +1,11 @@
 ---
+album: Love Letter
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:2pgHguv26ogxgeJ7L7ljnh
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-love-letter-bay-city-rollers
 name: Rock And Roll Love Letter
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1974
+runtime: 177133
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: A Gasssss
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:0oxchUPaHbWQbrJh2pn1Wx
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-see-my-love--for-you-growing--jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-do-you-see-my-love-for-you-growing-lyrics
 name: Do You See My Love (For You Growing)
@@ -48,6 +51,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1970
+runtime: 209440
 ---
 Oh, oh, woo
 

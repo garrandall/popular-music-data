@@ -1,9 +1,12 @@
 ---
+album: Full Speed
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:4pkZ5gasUzIcPHx6v7pmes
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: hotel-kid-ink-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kidink/hotel.html
 name: Hotel
@@ -12,9 +15,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2015
+runtime: 218880
 ---
-
-
 I said why you over there lookin' at me?
 While I'm with my girlfriend
 Why you over there lookin' at me and my girlfriend?
@@ -88,4 +91,3 @@ Now just bring it to me
 That fleek, that freak, no classy stuff
 Been pushin' up, don't pussy out
 Bitch, what you really on?
-

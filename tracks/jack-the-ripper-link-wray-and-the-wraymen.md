@@ -1,8 +1,11 @@
 ---
+album: The Swan Singles Collection
 artists:
 - Link Wray And The Wraymen
+external_ids:
+  spotify: spotify:track:6O5Uy3OvKyUsZ5cqon3em1
 features: []
-genres: []
+first_released_as_single: false
 key: jack-the-ripper-link-wray-and-the-wraymen
 name: Jack The Ripper
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 144666
 ---
 

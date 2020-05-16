@@ -1,8 +1,11 @@
 ---
+album: Trace Adkins "X"
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:1f5v94ss7GsUZfGPubuLPC
 features: []
-genres: []
+first_released_as_single: false
 key: marry-for-money-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/marryformoney.html
 name: Marry For Money
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2008
+runtime: 184480
 ---
-
 She was pretty
 She was smart
 She was witty
@@ -73,6 +77,3 @@ Mucho deniro
 Come over here you good lookin' thing, you
 There's your walker in the corner
 Ov'er ov'er
-
-
-

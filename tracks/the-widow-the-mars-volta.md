@@ -1,8 +1,11 @@
 ---
+album: Frances the Mute
 artists:
 - The Mars Volta
+external_ids:
+  spotify: spotify:track:5meJWQuHyHDsOjWF8AtSDe
 features: []
-genres: []
+first_released_as_single: false
 key: the-widow-the-mars-volta
 lyrics_url: https://genius.com/The-mars-volta-the-widow-lyrics
 name: The Widow
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2005
+runtime: 350880
 ---
 He's got fasting black lungs
 Made of clove splintered shards

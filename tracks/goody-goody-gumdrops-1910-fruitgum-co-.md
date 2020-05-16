@@ -1,8 +1,11 @@
 ---
+album: Goody Goody Gumdrops
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:1hpf6mtYUKfn1qkGr0Sukf
 features: []
-genres: []
+first_released_as_single: false
 key: goody-goody-gumdrops-1910-fruitgum-co-
 lyrics_url: https://genius.com/1910-fruitgum-company-goody-goody-gumdrops-lyrics
 name: Goody Goody Gumdrops
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 149320
 ---
 I'm gettin' weaker, weaker
 Every time I hear her name

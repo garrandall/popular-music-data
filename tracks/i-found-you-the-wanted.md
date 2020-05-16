@@ -1,8 +1,11 @@
 ---
+album: Word Of Mouth
 artists:
 - The Wanted
+external_ids:
+  spotify: spotify:track:42lvqlQlnLoYqLtDBLfvXx
 features: []
-genres: []
+first_released_as_single: true
 key: i-found-you-the-wanted
 lyrics_url: https://genius.com/The-wanted-i-found-you-lyrics
 name: I Found You
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2012
+runtime: 298653
 ---
 She wants me to come over
 I can tell her eyes don't lie

@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:3sVLNbaLQmG7796eBs3VsC
 features: []
-genres: []
+first_released_as_single: false
 key: touch-a-hand-make-a-friend-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-touch-a-hand-make-a-friend-lyrics
 name: Touch A Hand Make A Friend
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 205826
 ---
 Can't you feel it in your bones?
 Oh, a change is comin' on

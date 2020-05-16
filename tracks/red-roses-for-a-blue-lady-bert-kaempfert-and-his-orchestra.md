@@ -1,8 +1,11 @@
 ---
+album: Blue Midnight
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:4GXXOBUEpCr58TFHIkLrZ0
 features: []
-genres: []
+first_released_as_single: false
 key: red-roses-for-a-blue-lady-bert-kaempfert-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Bert-Kaempfert-and-His-Orchestra/Red-Roses-for-a-Blue-Lady
 name: Red Roses For A Blue Lady
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1964
+runtime: 139653
 ---
 I want some red roses for a blue lady
 Mister florist take my order please

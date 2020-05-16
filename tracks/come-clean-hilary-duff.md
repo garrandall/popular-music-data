@@ -1,8 +1,11 @@
 ---
+album: Metamorphosis
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:2TZ1apxMDlubCGMsOxcTbT
 features: []
-genres: []
+first_released_as_single: false
 key: come-clean-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/comeclean.html
 name: Come Clean
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
+release_year: 2003
+runtime: 214560
 ---
-
 Let's go back, back to the beginning
 Back to when the earth, the sun, the stars all aligned
 
@@ -103,6 +107,3 @@ Let the rain fall, let the rain fall, let the rain fall
 I'm coming clean
 
 Let's go back, back to the beginning
-
-
-

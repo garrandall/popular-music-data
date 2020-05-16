@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Donnie Iris'
 artists:
 - Donnie Iris
+external_ids:
+  spotify: spotify:track:5kOy9p5jcHe5j2LWgXbRgj
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-compute--donnie-iris
 lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/doyoucompute.html
 name: Do You Compute?
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 220466
 ---
-
 Do I have to say it?
 Don't you already know it?
 Do I have to spell it out?
@@ -66,4 +70,3 @@ Then you will feel the way I feel inside
 Now baby if you'll open up your eyes
 (Then you will feel)
 Then you will feel the way I feel inside
-

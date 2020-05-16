@@ -1,8 +1,11 @@
 ---
+album: Then Came The Night
 artists:
 - Tommy Shane Steiner
+external_ids:
+  spotify: spotify:track:4avs56frsTcnjwy2KlCQ5D
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-she-s-an-angel-tommy-shane-steiner
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Shane-Steiner/What-If-She-s-An-Angel
 name: What If She's An Angel
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 2002
+runtime: 215533
 ---
 (Brian Wayne)
 

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - Kenny Chandler
+external_ids:
+  spotify: spotify:track:3oMyOytWFz0Ydd0GSfpdcW
 features: []
-genres: []
+first_released_as_single: false
 key: heart-kenny-chandler
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Chandler/Heart
 name: Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 167173
 ---
 Oh heart, how are you beating?
 But her heart just ain't beating like you

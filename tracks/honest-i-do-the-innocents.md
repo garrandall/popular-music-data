@@ -1,8 +1,11 @@
 ---
+album: Classic Innocents
 artists:
 - The Innocents
+external_ids:
+  spotify: spotify:track:5h5TDGuPyfX48m2UWCkBYO
 features: []
-genres: []
+first_released_as_single: false
 key: honest-i-do-the-innocents
 lyrics_url: https://genius.com/The-innocents-honest-i-do-lyrics
 name: Honest I Do
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 152160
 ---
 I really love you
 Honest I do

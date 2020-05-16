@@ -1,9 +1,12 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:3F57PtOdqRpD6euFYqtKXX
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-lil-baby-gunna
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Baby-feat-Gunna/I-Am
 name: I Am
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 145059
 ---
 Cook that shit up, Quay
 Baby, huh

@@ -1,8 +1,11 @@
 ---
+album: Shelter
 artists:
 - The Brand New Heavies
+external_ids:
+  spotify: spotify:track:068tDQJmWOBZaHKJSuKgs2
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-the-brand-new-heavies
 lyrics_url: https://genius.com/The-brand-new-heavies-sometimes-lyrics
 name: Sometimes
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1995
+runtime: 251000
 ---
 (Gotta do right, cha gotta do right, ah sometimes)
 

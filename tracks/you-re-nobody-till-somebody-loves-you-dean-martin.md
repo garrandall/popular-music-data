@@ -1,8 +1,11 @@
 ---
+album: The Door Is Still Open to My Heart
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:39rNWwSP2nC2ryPLYT6VDt
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-nobody-till-somebody-loves-you-dean-martin
 lyrics_url: https://genius.com/Dean-martin-youre-nobody-till-somebody-loves-you-lyrics
 name: You're Nobody Till Somebody Loves You
@@ -43,6 +46,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 116533
 ---
 You're nobody til somebody loves you
 You're nobody til somebody cares

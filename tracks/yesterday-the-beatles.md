@@ -1,8 +1,11 @@
 ---
+album: Help!
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3BQHpFgAp4l80e1XslIjNI
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-the-beatles
 lyrics_url: https://genius.com/The-beatles-yesterday-lyrics
 name: Yesterday
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 125666
 ---
 Yesterday
 All my troubles seemed so far away

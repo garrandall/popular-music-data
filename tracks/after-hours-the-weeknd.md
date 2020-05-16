@@ -1,8 +1,11 @@
 ---
+album: After Hours
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2p8IUWQDrpjuFltbdgLOag
 features: []
-genres: []
+first_released_as_single: false
 key: after-hours-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-after-hours-lyrics
 name: After Hours
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 361026
 ---
 Thought I almost died in my dream again (Baby, almost died)
 Fightin' for my life, I couldn't breathe again

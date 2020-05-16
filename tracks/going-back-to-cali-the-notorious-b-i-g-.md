@@ -1,8 +1,11 @@
 ---
+album: Life After Death
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:53duuSwaLOZuIrELvZXqLH
 features: []
-genres: []
+first_released_as_single: false
 key: going-back-to-cali-the-notorious-b-i-g-
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/goingbacktocali.html
 name: Going Back To Cali
@@ -83,11 +86,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
+release_year: 1997
+runtime: 307426
 ---
-
-
-
- Yo!
+Yo!
  Yo Big wake up wake up baby
  Mmm, yo...
  Yo Big wake yo' ass up c'mon
@@ -182,4 +184,3 @@ Fuck your plan, is it to rock the Tri-State?
 Almost gold, 5 G's at show gate
 Or do you wanna see about seven digits
 Fuck hoes exquisite, Cali, great place to visit
-

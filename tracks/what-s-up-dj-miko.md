@@ -1,8 +1,11 @@
 ---
+album: What's Up
 artists:
 - DJ Miko
+external_ids:
+  spotify: spotify:track:0qvGO5VUXCsPebFruNYakB
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-up-dj-miko
 lyrics_url: https://genius.com/Dj-miko-whats-up-lyrics
 name: What's Up
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1994-10-29'
+release_year: 1994
+runtime: 213124
 ---
 Hey-ey-ey
 Hey-ey-ey

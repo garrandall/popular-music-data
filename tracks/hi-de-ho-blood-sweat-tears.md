@@ -1,10 +1,13 @@
 ---
+album: Blood, Sweat And Tears 3
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:26BpoFfXMCt0iX4daD6U9O
 features: []
-genres: []
+first_released_as_single: false
 key: hi-de-ho-blood-sweat-tears
 lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/hideho.html
 name: Hi-De-Ho
@@ -41,8 +44,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 263800
 ---
-
 Hi De Ho
 Hi De Hi
 Gonna Get me
@@ -85,6 +89,3 @@ Hi de hi
 Gonna get me a piece of the sky
 Gonna get me some of that old sweet roll
 Singin' hi de hi de hi de hi de hoooo
-
-
-

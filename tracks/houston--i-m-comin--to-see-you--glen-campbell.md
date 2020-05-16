@@ -1,8 +1,11 @@
 ---
+album: Houston (Comin' To See You)
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:6JxpwwqnYykrRr2uxTqLso
 features: []
-genres: []
+first_released_as_single: false
 key: houston--i-m-comin--to-see-you--glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-houston-lyrics
 name: Houston (I'm Comin' To See You)
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1974
+runtime: 200906
 ---
 Home is where I'm goin'
 No matter how long it takes

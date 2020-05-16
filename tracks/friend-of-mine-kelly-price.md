@@ -1,8 +1,11 @@
 ---
+album: Soul Of A Woman
 artists:
 - Kelly Price
+external_ids:
+  spotify: spotify:track:35irxCsC8QXJ1IN0eioD3H
 features: []
-genres: []
+first_released_as_single: false
 key: friend-of-mine-kelly-price
 lyrics_url: https://genius.com/Kelly-price-friend-of-mine-lyrics
 name: Friend Of Mine
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 377506
 ---
 She was a friend of mine
 She left with my man

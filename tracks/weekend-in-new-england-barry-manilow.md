@@ -1,8 +1,11 @@
 ---
+album: This One's For You
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:0kJN4zXuwYKp6k9UDvjSrM
 features: []
-genres: []
+first_released_as_single: false
 key: weekend-in-new-england-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/weekendinnewengland.html
 name: Weekend In New England
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1973
+runtime: 224826
 ---
-
 Last night I wave goodbye
 Now its seems years
 I'm back in the city
@@ -118,4 +122,3 @@ All the love that I have
 With you there's a heaven
 So earth ain't so bad
 And tell me
-

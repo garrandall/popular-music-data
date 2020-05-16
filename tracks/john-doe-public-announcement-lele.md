@@ -1,9 +1,12 @@
 ---
+album: Don't Hold Back
 artists:
 - Public Announcement
+external_ids:
+  spotify: spotify:track:2seY1Vy7jidW4bxk98n2eh
 features:
 - LeLe
-genres: []
+first_released_as_single: false
 key: john-doe-public-announcement-lele
 lyrics_url: https://genius.com/Public-announcement-john-doe-lyrics
 name: John Doe
@@ -20,6 +23,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 2001
+runtime: 263200
 ---
 It's the middle of the day
 And we both have thrown a fit

@@ -1,10 +1,13 @@
 ---
+album: At What Cost
 artists:
 - GoldLink
+external_ids:
+  spotify: spotify:track:2bny2DFOobTwAvhkT8wH98
 features:
 - Brent Faiyaz
 - Shy Glizzy
-genres: []
+first_released_as_single: true
 key: crew-goldlink-brent-faiyaz-shy-glizzy
 lyrics_url: https://genius.com/Goldlink-crew-lyrics
 name: Crew
@@ -93,6 +96,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2016
+runtime: 177413
 ---
 She see money all around me
 I look like I'm the man, yeah

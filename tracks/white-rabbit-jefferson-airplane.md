@@ -1,8 +1,11 @@
 ---
+album: Surrealistic Pillow
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:4vpeKl0vMGdAXpZiQB2Dtd
 features: []
-genres: []
+first_released_as_single: false
 key: white-rabbit-jefferson-airplane
 lyrics_url: https://genius.com/Jefferson-airplane-white-rabbit-lyrics
 name: White Rabbit
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 150640
 ---
 One pill makes you larger
 And one pill makes you small

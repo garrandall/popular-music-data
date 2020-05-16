@@ -1,8 +1,11 @@
 ---
+album: Primitive Love
 artists:
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:0KxTWgl64TNOQXiGFJYc6t
 features: []
-genres: []
+first_released_as_single: false
 key: conga-miami-sound-machine
 lyrics_url: https://genius.com/Miami-sound-machine-conga-lyrics
 name: Conga
@@ -115,6 +118,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1984
+runtime: 252933
 ---
 Come on, shake your body, baby, do the conga
 I know you can't control yourself any longer

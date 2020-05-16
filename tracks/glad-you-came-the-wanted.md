@@ -1,8 +1,11 @@
 ---
+album: The Wanted
 artists:
 - The Wanted
+external_ids:
+  spotify: spotify:track:6pZowwAC1A7qNLTp2g3ON4
 features: []
-genres: []
+first_released_as_single: true
 key: glad-you-came-the-wanted
 lyrics_url: https://genius.com/The-wanted-glad-you-came-lyrics
 name: Glad You Came
@@ -155,6 +158,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2011
+runtime: 185426
 ---
 The sun goes down, the stars come out
 And all that counts is here and now

@@ -1,8 +1,11 @@
 ---
+album: Speak Her Name (Expanded)
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:6Ig6lCjiVhxkoKGtsDDOkB
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-an-uphill-climb-to-the-bottom-walter-jackson
 lyrics_url: https://genius.com/Walter-jackson-its-an-uphill-climb-to-the-bottom-lyrics
 name: It's An Uphill Climb To The Bottom
@@ -27,6 +30,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 168720
 ---
 You've been in love with her
 And went away and broke your heart

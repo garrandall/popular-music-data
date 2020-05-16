@@ -1,8 +1,11 @@
 ---
+album: Sons of the Beaches
 artists:
 - Flash Cadillac And The Continental Kids
+external_ids:
+  spotify: spotify:track:3u8LC5s7uQNWrGkUz1WqDL
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-rock---roll-flash-cadillac-and-the-continental-kids
 name: Good Times Rock & Roll
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1975
+runtime: 170760
 ---
 

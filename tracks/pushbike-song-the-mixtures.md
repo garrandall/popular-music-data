@@ -1,8 +1,11 @@
 ---
+album: In the Summertime
 artists:
 - The Mixtures
+external_ids:
+  spotify: spotify:track:5dEXK48tQLwSLC1MvXGOnF
 features: []
-genres: []
+first_released_as_single: false
 key: pushbike-song-the-mixtures
 lyrics_url: https://genius.com/The-mixtures-pushbike-song-lyrics
 name: Pushbike Song
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1970
+runtime: 150933
 ---
 Riding along my pushbike honey
 When I noticed you

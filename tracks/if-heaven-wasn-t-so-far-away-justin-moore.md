@@ -1,8 +1,11 @@
 ---
+album: Outlaws Like Me
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:0aW7CSfoMBKBzLE7VerHyn
 features: []
-genres: []
+first_released_as_single: false
 key: if-heaven-wasn-t-so-far-away-justin-moore
 lyrics_url: https://genius.com/Justin-moore-if-heaven-wasnt-so-far-away-lyrics
 name: If Heaven Wasn't So Far Away
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 223280
 ---
 Every day I drive to work across Flint River Bridge
 A hundred yards from the spot

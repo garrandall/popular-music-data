@@ -1,8 +1,11 @@
 ---
+album: Born Free
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:39fUc1PFMJdOUJrSWrPuYp
 features: []
-genres: []
+first_released_as_single: false
 key: music-to-watch-girls-by-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/musictowatchgirlsby.html
 name: Music To Watch Girls By
@@ -39,8 +42,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 156080
 ---
-
 The boys watch the girls while the girls watch the boys who watch the girls go by
 Eye to eye, they solemnly convene to make the scene
 Which is the name of the game, watch a guy watch a dame on any street in town
@@ -66,6 +70,3 @@ The boys watch the girls while the girls watch the boys who watch the girls go b
 Eye to eye, they solemnly convene to make the scene
 
 La, la, la, la
-
-
-

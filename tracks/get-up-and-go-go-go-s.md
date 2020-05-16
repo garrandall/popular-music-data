@@ -1,8 +1,11 @@
 ---
+album: Vacation
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:6zUoJHJBbT3puQiLHG69EC
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-and-go-go-go-s
 lyrics_url: https://genius.com/The-go-gos-get-up-and-go-lyrics
 name: Get Up And Go
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 198933
 ---
 Hey!
 Hey!

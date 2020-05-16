@@ -1,8 +1,11 @@
 ---
+album: The Girl Don't Care
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:1ISybrLH5DRrVuumnudpfm
 features: []
-genres: []
+first_released_as_single: false
 key: girl-don-t-care-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-girl-dont-care-lyrics
 name: Girl Don't Care
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 168333
 ---
 I know it hurts
 It truly, truly hurts

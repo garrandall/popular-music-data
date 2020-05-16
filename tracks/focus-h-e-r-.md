@@ -1,8 +1,11 @@
 ---
+album: H.E.R.
 artists:
 - H.E.R.
+external_ids:
+  spotify: spotify:track:3tZs3nVjySLbL320lP4mvs
 features: []
-genres: []
+first_released_as_single: false
 key: focus-h-e-r-
 lyrics_url: https://genius.com/Her-focus-lyrics
 name: Focus
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 200133
 ---
 Me (Me, me, me)
 Can you focus on me? (Me, me)

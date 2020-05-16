@@ -1,8 +1,11 @@
 ---
+album: Everything Is 4
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5mbbmUHv85jTc8ZSedvr0s
 features: []
-genres: []
+first_released_as_single: true
 key: want-to-want-me-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-want-to-want-me-lyrics
 name: Want To Want Me
@@ -147,6 +150,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-11-21'
+release_year: 2015
+runtime: 6040
 ---
 Derulo
 

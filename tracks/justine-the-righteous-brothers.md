@@ -1,8 +1,11 @@
 ---
+album: 'The Righteous Brothers: Live on the Sunset Strip'
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:7ioRohIFzjwgvfanfnxsmJ
 features: []
-genres: []
+first_released_as_single: false
 key: justine-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/justine.html
 name: Justine
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 132133
 ---
-
 Justine
 
 Justine, Justine
@@ -80,6 +84,3 @@ Justine, Justine
 You like to ball in the mornin'
 And stay out late at night
 Hey
-
-
-

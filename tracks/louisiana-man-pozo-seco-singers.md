@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:1qr4063nTkNEjc78KpjXlN
 features: []
-genres: []
+first_released_as_single: false
 key: louisiana-man-pozo-seco-singers
 lyrics_url: https://www.musixmatch.com/lyrics/Pozo-Seco-Singers/Louisiana-Man
 name: Louisiana Man
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1965
+runtime: 139920
 ---
 Louisiana Man
 

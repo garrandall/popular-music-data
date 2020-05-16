@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4vqoRCLuNYACHsvZieX0fR
 features: []
-genres: []
+first_released_as_single: false
 key: hit-me-with-your-best-shot-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/hitmewithyourbestshotonewayoranother.html
 name: Hit Me With Your Best Shot
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 151946
 ---
-
 Hit Me With Your Best Shot!
 Why Don't You Hit Me With Your Best Shot!
 
@@ -91,6 +95,3 @@ Fire Away!
 (I'm gonna get ya', get ya', get ya', get ya')
 
 Hit Me With Your Best Shot!
-
-
-

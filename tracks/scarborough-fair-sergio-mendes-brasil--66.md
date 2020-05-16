@@ -1,9 +1,12 @@
 ---
+album: Fool On The Hill
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:17nxEBDoWqZ3QgORFK30Wt
 features: []
-genres: []
+first_released_as_single: false
 key: scarborough-fair-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-scarborough-fair-lyrics
 name: Scarborough Fair
@@ -44,6 +47,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 198866
 ---
 Are you goin' to Scarborough Fair?
 Parsley, sage, rosemary and thyme

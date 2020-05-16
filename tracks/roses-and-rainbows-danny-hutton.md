@@ -1,8 +1,11 @@
 ---
+album: "Celebrate: The Three Dog Night Story, 1965\u20131975"
 artists:
 - Danny Hutton
+external_ids:
+  spotify: spotify:track:0D2HP0imuFLuROJEMp7M0P
 features: []
-genres: []
+first_released_as_single: false
 key: roses-and-rainbows-danny-hutton
 lyrics_url: https://www.musixmatch.com/lyrics/Danny-Hutton/Roses-and-Rainbows
 name: Roses And Rainbows
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 131424
 ---
 If I were a king
 I'd give up everything

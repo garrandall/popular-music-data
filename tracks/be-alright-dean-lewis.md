@@ -1,8 +1,11 @@
 ---
+album: A Place We Knew
 artists:
 - Dean Lewis
+external_ids:
+  spotify: spotify:track:3EPXxR3ImUwfayaurPi3cm
 features: []
-genres: []
+first_released_as_single: true
 key: be-alright-dean-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/deanlewis/bealright.html
 name: Be Alright
@@ -123,8 +126,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 196373
 ---
-
 I look up from the ground to see your sad and teary eyes
 You look away from me
 And I see there's something you're trying to hide, and I
@@ -187,6 +191,3 @@ It'll be alright
 It'll be alright
 It'll be alright
 It'll be alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Chris Jamison
+external_ids:
+  spotify: spotify:track:2KxZrZ6vNQpcmPccx9zAyk
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-was-your-man-chris-jamison
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Jamison/When-I-Was-Your-Man-The-Voice-Performance
 name: When I Was Your Man
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 185500
 ---
 Same bed but it feels just a little bit bigger now
 Our song on the radio but it don't sound the same

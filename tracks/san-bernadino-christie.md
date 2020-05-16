@@ -1,8 +1,11 @@
 ---
+album: Christie
 artists:
 - Christie
+external_ids:
+  spotify: spotify:track:540WTz5u2qGGwwfK0tPRRh
 features: []
-genres: []
+first_released_as_single: false
 key: san-bernadino-christie
 lyrics_url: https://genius.com/Christie-san-bernadino-lyrics
 name: San Bernadino
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 193226
 ---
 I've been all around this great big world
 To Paris and to Rome

@@ -1,8 +1,11 @@
 ---
+album: The Genius Of Ray Charles
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:2htH7r8oqqEwp3BB6oh2cU
 features: []
-genres: []
+first_released_as_single: false
 key: come-rain-or-come-shine-ray-charles
 lyrics_url: https://www.azlyrics.com/lyrics/raycharles/comerainorcomeshine.html
 name: Come Rain Or Come Shine
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1959
+runtime: 222733
 ---
-
 I'm gonna love you, like nobody's loved you
 Come rain or come shine
 High as a mountain, deep as a river
@@ -41,6 +45,3 @@ The days may be cloudy or sunny
 We're in or out of the money
 But I'm with you always
 I'm with you rain or shine
-
-
-

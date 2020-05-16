@@ -1,10 +1,13 @@
 ---
+album: Emerson Lake & Powell
 artists:
 - Emerson
 - Lake
 - Powell
+external_ids:
+  spotify: spotify:track:2q85IdU5CwM6eXfE9BpPMV
 features: []
-genres: []
+first_released_as_single: false
 key: touch-and-go-emerson-lake-powell
 lyrics_url: https://genius.com/Emerson-lake-and-powell-touch-and-go-lyrics
 name: Touch And Go
@@ -41,6 +44,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 218824
 ---
 Man in the street nowhere to sleep
 No time for nothing no Patek Phillipe

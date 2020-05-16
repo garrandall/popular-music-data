@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:0lq36lKPgMhMlkBPBJCknw
 features: []
-genres: []
+first_released_as_single: false
 key: dance-by-the-light-of-the-moon-the-olympics
 lyrics_url: https://genius.com/The-olympics-dance-by-the-light-of-the-moon-lyrics
 name: Dance By The Light Of The Moon
@@ -51,15 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 132293
 ---
-Dance By The Light of The Moon
-The Olympics
-(Jimmy Eaton, Clif Goldsmith, Mickey Leader, Terry Shand, Fred Smith)
-& Alexander M. Courage, Public Domain Share PD
-Arvee Records # 5020
-Pop Chart #47 Dec 5, 1960
-
-Intro:
 Dance! Dance! Dance! Dance!
 
 Ask your mom and your daddy
@@ -124,11 +121,8 @@ We gonna dance
 A-by the light
 (By the light, of the silvery moon)
 
-FADES-
 C'mon now, sugar (yeah)
 A-by the light of they moon
 A-by the light, by the light, of the silvery moon
 We gonna dance
 (Yeah)
-
-~

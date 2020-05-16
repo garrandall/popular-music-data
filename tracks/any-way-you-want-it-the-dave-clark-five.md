@@ -1,8 +1,11 @@
 ---
+album: Coast to Coast
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:6UEa75MpFun3egYz0MTsf0
 features: []
-genres: []
+first_released_as_single: false
 key: any-way-you-want-it-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-any-way-you-want-it-lyrics
 name: Any Way You Want It
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 149733
 ---
 Any way you want it
 You can call me any day, hey, hey, hey

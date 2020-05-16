@@ -1,8 +1,11 @@
 ---
+album: In Your Eyes
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:1ltblJ3wUdRVaqomV6CE1f
 features: []
-genres: []
+first_released_as_single: false
 key: inside-love--so-personal--george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/insidelovesopersonal.html
 name: Inside Love (so Personal)
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1983
+runtime: 314351
 ---
-
 Using our private life
 We plan for the quiet night
 'Round whispers and lover's sighs
@@ -131,6 +135,3 @@ Inside love
 Inside love
 (Living in that love)
 Inside love
-
-
-

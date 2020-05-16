@@ -1,8 +1,11 @@
 ---
+album: True Confessions
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:5uDWIr8Nr8uSgDlPX3XfeY
 features: []
-genres: []
+first_released_as_single: false
 key: a-trick-of-the-night-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/atrickofthenight.html
 name: A Trick Of The Night
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 278175
 ---
-
 When the day is over 
 And the work is done 
 Well it's a different story 
@@ -105,6 +109,3 @@ And the streets you thought
 Would all be paved with gold 
 But when the wind cuts through 
 You'd even try to sell your soul
-
-
-

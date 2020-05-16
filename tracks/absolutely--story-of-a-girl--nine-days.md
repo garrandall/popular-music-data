@@ -1,8 +1,11 @@
 ---
+album: The Madding Crowd
 artists:
 - Nine Days
+external_ids:
+  spotify: spotify:track:3mNecsYFb6LQg7822DPXCP
 features: []
-genres: []
+first_released_as_single: false
 key: absolutely--story-of-a-girl--nine-days
 lyrics_url: https://genius.com/Nine-days-absolutely-story-of-a-girl-lyrics
 name: Absolutely (Story Of A Girl)
@@ -115,6 +118,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
+release_year: 2000
+runtime: 189333
 ---
 This is the story of a girl
 Who cried a river and drowned the whole world

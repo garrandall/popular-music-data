@@ -1,8 +1,11 @@
 ---
+album: 'Frank Guida Presents: Jimmy Soul "If You Wanna Be Happy"'
 artists:
 - Jimmy Soul
+external_ids:
+  spotify: spotify:track:7D97JnBT73FWUh9KmRvP9M
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-wanna-be-happy-jimmy-soul
 lyrics_url: https://genius.com/Jimmy-soul-if-you-wanna-be-happy-lyrics
 name: If You Wanna Be Happy
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 143000
 ---
 If you wanna be happy for the rest of your life
 Never make a pretty woman your wife

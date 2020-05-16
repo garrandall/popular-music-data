@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Ray Anthony
+external_ids:
+  spotify: spotify:track:1DeMOqqJ5lFegnaWTWFCQG
 features: []
-genres: []
+first_released_as_single: false
 key: peter-gunn-ray-anthony-and-his-orchestra
 lyrics_url: https://genius.com/Ray-anthony-peter-gunn-twist-tequila-with-a-twist-medley-instrumental-lyrics
 name: Peter Gunn
@@ -75,5 +78,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1959
+runtime: 111293
 ---
 Instrumental

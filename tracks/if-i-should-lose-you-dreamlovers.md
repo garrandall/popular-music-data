@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Dreamlovers - The Heritage Years Plus...
 artists:
 - Dreamlovers
+external_ids:
+  spotify: spotify:track:3HcYP0UHeSiRaPbhsXT0bd
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-should-lose-you-dreamlovers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dreamlovers/If-I-Should-Lose-You
 name: If I Should Lose You
@@ -27,6 +30,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 148360
 ---
 If I should lose you
 My friends will laugh and say

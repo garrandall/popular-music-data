@@ -1,8 +1,11 @@
 ---
+album: Brother, Brother, Brother
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:4jsiIeVm7ZcCJRpq8opfMa
 features: []
-genres: []
+first_released_as_single: false
 key: pop-that-thang-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/popthatthang.html
 name: Pop That Thang
@@ -67,8 +70,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 172760
 ---
-
 Pop that thang
 Bang, bang, bang
 Pop that thang
@@ -124,6 +128,3 @@ Pop it, pop it, pop it
 Come on and pop it
 Pop it, pop it, pop it
 Come on and pop it
-
-
-

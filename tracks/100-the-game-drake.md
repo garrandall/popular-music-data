@@ -1,9 +1,12 @@
 ---
+album: The Documentary 2
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:5kiRbzj2CIBeIN4tCyJ8bC
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: 100-the-game-drake
 lyrics_url: https://genius.com/Genius-turkce-ceviri-the-game-ft-drake-100-turkce-ceviri-turkish-translation-lyrics
 name: '100'
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 334360
 ---
 (Johnny Juliano)
 (Cardo got wings)

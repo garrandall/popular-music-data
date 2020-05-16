@@ -1,8 +1,11 @@
 ---
+album: '13'
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:0YdJ3yAYvRaply6HihA4TE
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-commodores
 lyrics_url: https://genius.com/Commodores-only-you-lyrics
 name: Only You
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 299637
 ---
 When was the last time I said I love you?
 I find it hard to say

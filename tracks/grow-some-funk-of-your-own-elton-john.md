@@ -1,8 +1,11 @@
 ---
+album: Rock Of The Westies
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5vDVKusu4o1ZnIVduamQUW
 features: []
-genres: []
+first_released_as_single: false
 key: grow-some-funk-of-your-own-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/growsomefunkofyourown.html
 name: Grow Some Funk Of Your Own
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 287533
 ---
-
 Yeah I looked at my watch and it said a quarter to five
 The headlines screamed that I was still alive
 I couldn't understand it
@@ -81,6 +85,3 @@ Well I looked for support from the rest of my friends
 For their vanishing trick they get ten out of ten
 I knelt to pray
 Just to see if he would comprehend
-
-
-

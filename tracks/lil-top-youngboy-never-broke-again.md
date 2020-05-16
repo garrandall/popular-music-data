@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:1aMokXl3uKDvCh4BBcjFOA
 features: []
-genres: []
+first_released_as_single: false
 key: lil-top-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-lil-top-lyrics
 name: Lil Top
@@ -15,6 +18,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 185745
 ---
 (Khris James, what the fuck?)
 (Goddamn, BJ with another one)

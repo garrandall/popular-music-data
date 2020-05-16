@@ -1,8 +1,11 @@
 ---
+album: Love And Rockets
 artists:
 - Love And Rockets
+external_ids:
+  spotify: spotify:track:5alYxQFRX81yaY2GixZcNj
 features: []
-genres: []
+first_released_as_single: false
 key: no-big-deal-love-and-rockets
 lyrics_url: https://genius.com/Love-and-rockets-no-big-deal-lyrics
 name: No Big Deal
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 296120
 ---
 You set me up again
 You make me lose my friends

@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Harpers Bizarre
+external_ids:
+  spotify: spotify:track:0Yi33sItO0TVjIiD5hCrGe
 features: []
-genres: []
+first_released_as_single: false
 key: chattanooga-choo-choo-harpers-bizarre
 lyrics_url: https://www.musixmatch.com/lyrics/Harpers-Bizarre/Chattanooga-Choo-Choo
 name: Chattanooga Choo Choo
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 154839
 ---
 Pardon me, boy
 Is that the Chattanooga choo choo?

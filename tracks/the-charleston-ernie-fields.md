@@ -1,8 +1,11 @@
 ---
+album: Best of Ernie Fields Orchestra
 artists:
 - Ernie Fields
+external_ids:
+  spotify: spotify:track:0SAlafSCRsl5R4yHrPPYZk
 features: []
-genres: []
+first_released_as_single: false
 key: the-charleston-ernie-fields
 name: The Charleston
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 136413
 ---
 

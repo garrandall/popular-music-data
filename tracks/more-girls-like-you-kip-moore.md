@@ -1,8 +1,11 @@
 ---
+album: SLOWHEART
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:652TbPOlgjqs0SMvPL2exL
 features: []
-genres: []
+first_released_as_single: false
 key: more-girls-like-you-kip-moore
 lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/moregirlslikeyou.html
 name: More Girls Like You
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
+release_year: 2017
+runtime: 154320
 ---
-
 Well, I've been living like a wild old mustang
 Out in Montana fields
 Might've earned me a bad reputation
@@ -106,6 +110,3 @@ Yeah
 
 More girls like you
 Yeah
-
-
-

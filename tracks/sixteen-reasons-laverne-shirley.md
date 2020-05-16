@@ -1,9 +1,12 @@
 ---
+album: Laverne & Shirley Sing
 artists:
 - Laverne
 - Shirley
+external_ids:
+  spotify: spotify:track:1UtPgMObM33TO8RDFijCNQ
 features: []
-genres: []
+first_released_as_single: false
 key: sixteen-reasons-laverne-shirley
 name: Sixteen Reasons
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1976
+runtime: 138346
 ---
 

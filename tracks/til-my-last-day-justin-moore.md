@@ -1,8 +1,11 @@
 ---
+album: Outlaws Like Me
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:3mHAyclWdtFASQuobdnDf8
 features: []
-genres: []
+first_released_as_single: false
 key: til-my-last-day-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/tilmylastday.html
 name: Til My Last Day
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2011
+runtime: 234026
 ---
-
 People say I'm just a rough boy
 I ain't no good for you girl
 It's a dead end street, tryin' to love me
@@ -129,6 +133,3 @@ All the way up, til they lay me down
 Six feet under the cold hard ground
 Til my last day, I'll be lovin' you
 Oh babe, til my last day
-
-
-

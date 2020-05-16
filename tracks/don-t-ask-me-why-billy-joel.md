@@ -1,8 +1,11 @@
 ---
+album: Glass Houses
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:6g4vHtdGqD5eEgpf7nKISk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ask-me-why-billy-joel
 lyrics_url: https://genius.com/Billy-joel-dont-ask-me-why-lyrics
 name: Don't Ask Me Why
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 177360
 ---
 All the waiters in your grand cafe
 Leave their tables when you blink

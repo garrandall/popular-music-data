@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:64X95znHIdY7utYTjhdDBr
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-dancing-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-keep-on-dancing-lyrics
 name: Keep On Dancing
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 152293
 ---
 Keep on dancing
 Til your feet get sore

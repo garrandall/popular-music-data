@@ -1,8 +1,11 @@
 ---
+album: Rhinoceros
 artists:
 - Rhinoceros
+external_ids:
+  spotify: spotify:track:1OC7vbblA5EzgCZgzuy7GC
 features: []
-genres: []
+first_released_as_single: false
 key: apricot-brandy-rhinoceros
 lyrics_url: https://genius.com/Rhinoceros-apricot-brandy-lyrics
 name: Apricot Brandy
@@ -47,5 +50,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 118440
 ---
 (Instrumental)

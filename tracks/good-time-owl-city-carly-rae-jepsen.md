@@ -1,9 +1,12 @@
 ---
+album: The Midsummer Station
 artists:
 - Owl City
 - Carly Rae Jepsen
+external_ids:
+  spotify: spotify:track:1kPpge9JDLpcj15qgrPbYX
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-owl-city-carly-rae-jepsen
 lyrics_url: https://genius.com/Owl-city-and-carly-rae-jepsen-good-time-lyrics
 name: Good Time
@@ -104,6 +107,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 205933
 ---
 Hm-mmm-mmm
 Whoa-oh-oh-oh

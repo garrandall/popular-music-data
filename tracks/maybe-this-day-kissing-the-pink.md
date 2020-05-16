@@ -1,8 +1,11 @@
 ---
+album: Naked
 artists:
 - Kissing The Pink
+external_ids:
+  spotify: spotify:track:1qF2o9DGXKIlKPvEJA5xCN
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-this-day-kissing-the-pink
 lyrics_url: https://genius.com/Kissing-the-pink-maybe-this-day-lyrics
 name: Maybe This Day
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 217920
 ---
 Maybe this day will be the happy day, when all my hopes will turn out right
 

@@ -1,8 +1,11 @@
 ---
+album: 'Beaches: Original Soundtrack Recording'
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:2Pxqs0WmxxHTV5QaTdmt3Q
 features: []
-genres: []
+first_released_as_single: false
 key: wind-beneath-my-wings-bette-midler
 lyrics_url: https://genius.com/Bette-midler-wind-beneath-my-wings-lyrics
 name: Wind Beneath My Wings
@@ -123,6 +126,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1988
+runtime: 293853
 ---
 Oh, oh, oh, oh
 

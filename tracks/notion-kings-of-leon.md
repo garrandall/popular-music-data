@@ -1,8 +1,11 @@
 ---
+album: Only By The Night
 artists:
 - Kings Of Leon
+external_ids:
+  spotify: spotify:track:40e9kU9Wd4vbedqSA7Io4n
 features: []
-genres: []
+first_released_as_single: false
 key: notion-kings-of-leon
 lyrics_url: https://www.azlyrics.com/lyrics/kingsofleon/notion.html
 name: Notion
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2008
+runtime: 180840
 ---
-
 I got a notion that says it doesn't feel right
 Got the answer in your story today
 You gave me a sign that didn't feel right
@@ -32,6 +36,3 @@ I just wanted to know if I could go home
 
 So don't knock it, don't knock it, you been there before
 So don't knock it, don't knock it, you been there before
-
-
-

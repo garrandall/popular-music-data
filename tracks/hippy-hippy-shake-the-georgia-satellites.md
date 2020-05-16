@@ -1,8 +1,11 @@
 ---
+album: Keep Your Hands to Yourself - The Greatest Hits
 artists:
 - The Georgia Satellites
+external_ids:
+  spotify: spotify:track:7rO8GtwhpUYahCyLE85aV9
 features: []
-genres: []
+first_released_as_single: false
 key: hippy-hippy-shake-the-georgia-satellites
 lyrics_url: https://www.azlyrics.com/lyrics/georgiasatellites/hippyhippyshake.html
 name: Hippy Hippy Shake
@@ -63,8 +66,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1984
+runtime: 105880
 ---
-
 For goodness sakes
 I got the hippy hippy shakes
 yeah I got the shakes
@@ -93,6 +97,3 @@ oh it's in the bag
 the hippy hippy shake
 the hippy hippy shake
 the hippy hippy shake
-
-
-

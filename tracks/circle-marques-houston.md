@@ -1,8 +1,11 @@
 ---
+album: Veteran
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:4awnQTwynhz0j6Rk2ZwM6A
 features: []
-genres: []
+first_released_as_single: false
 key: circle-marques-houston
 lyrics_url: https://www.azlyrics.com/lyrics/marqueshouston/circle.html
 name: Circle
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-04-14'
+release_year: 2007
+runtime: 245026
 ---
-
 Yeah
 You know it's funny. Seems every time I try to forget about you, my feelings pull you back in
 You know, 'cause I got somebody else and you got somebody else, but you and I both know, what it really is, but still
@@ -131,6 +135,3 @@ Can somebody help me?
 (can somebody help me?)
 Help me get out of this circle
 Get out of this circle
-
-
-

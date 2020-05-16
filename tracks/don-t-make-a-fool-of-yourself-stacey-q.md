@@ -1,8 +1,11 @@
 ---
+album: Hard Machine
 artists:
 - Stacey Q
+external_ids:
+  spotify: spotify:track:1dCatT06gfaBkMgBu0NZNz
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-a-fool-of-yourself-stacey-q
 lyrics_url: https://genius.com/Stacey-q-dont-make-a-fool-of-yourself-lyrics
 name: Don't Make A Fool Of Yourself
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1988
+runtime: 251640
 ---
 Wait a minute, baby
 If you're walking out the door

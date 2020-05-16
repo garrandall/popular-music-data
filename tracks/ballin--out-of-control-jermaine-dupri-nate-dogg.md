@@ -1,9 +1,12 @@
 ---
+album: Instructions (Explicit Version)
 artists:
 - Jermaine Dupri
+external_ids:
+  spotify: spotify:track:65EZ286Mq5YZDPm1PF0JC5
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: ballin--out-of-control-jermaine-dupri-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/jermaineduprijd/ballinoutofcontrol.html
 name: Ballin' Out Of Control
@@ -28,9 +31,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-11-24'
+release_year: 2001
+runtime: 188026
 ---
-
-
 Chiti-chiti-bang-bang
 Down with JD (That's me)
 Rollin wit'cha nigga Nate D
@@ -120,6 +123,3 @@ Down with JD
 Still makin tight-ass beats
 I'm rollin in my brome, I stay sweet
 Ain't nobody ballin like me...
-
-
-

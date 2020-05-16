@@ -1,8 +1,11 @@
 ---
+album: Gordon
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:2Eky0Rjbrv0YmNy3wrMtSM
 features: []
-genres: []
+first_released_as_single: false
 key: brian-wilson-barenaked-ladies
 lyrics_url: https://genius.com/Barenaked-ladies-brian-wilson-lyrics
 name: Brian Wilson
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
+release_year: 1992
+runtime: 287773
 ---
 Drove downtown in the rain
 Nine-thirty on a Tuesday night

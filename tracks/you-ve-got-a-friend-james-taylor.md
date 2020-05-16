@@ -1,8 +1,11 @@
 ---
+album: Mud Slide Slim and the Blue Horizon
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:56GWDoIxmRo8MvcLHy9LeT
 features: []
-genres: []
+first_released_as_single: true
 key: you-ve-got-a-friend-james-taylor
 lyrics_url: https://genius.com/James-taylor-youve-got-a-friend-lyrics
 name: You've Got A Friend
@@ -63,6 +66,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 254615
 ---
 When you're down and troubled
 And you need a helping hand

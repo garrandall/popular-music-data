@@ -1,8 +1,11 @@
 ---
+album: Sings the Hits....
 artists:
 - Little Eva
+external_ids:
+  spotify: spotify:track:3b1nGsmn6T36FKpQtGB3ns
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-hands-off-my-baby-little-eva
 lyrics_url: https://www.azlyrics.com/lyrics/littleeva/keepyourhandsoffmybaby.html
 name: Keep Your Hands Off My Baby
@@ -55,8 +58,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 150666
 ---
-
 We've been friends for oh, so long
 I let you share what's mine
 But when you mess with the boy I love
@@ -91,4 +95,3 @@ He's mine (baby)
 Yay, yay, yeah, he's mine
 (Keep your hands off my)
 You better watch yourself, now (baby)
-

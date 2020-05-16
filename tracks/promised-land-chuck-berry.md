@@ -1,8 +1,11 @@
 ---
+album: St. Louis To Liverpool
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:2lDArps4owX3Q6rOIA4Osp
 features: []
-genres: []
+first_released_as_single: false
 key: promised-land-chuck-berry
 lyrics_url: https://www.musixmatch.com/lyrics/Chuck-Berry/Promised-Land
 name: Promised Land
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 143306
 ---
 I left my home in Norfolk, Virginia
 California on my mind

@@ -1,8 +1,11 @@
 ---
+album: Boys Like Girls
 artists:
 - Boys Like Girls
+external_ids:
+  spotify: spotify:track:56Tl3UgyZTqfZtvFNS31wm
 features: []
-genres: []
+first_released_as_single: false
 key: the-great-escape-boys-like-girls
 lyrics_url: https://genius.com/Boys-like-girls-the-great-escape-lyrics
 name: The Great Escape
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2006
+runtime: 206520
 ---
 Paper bags and plastic hearts
 All are belongings in shopping carts

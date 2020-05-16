@@ -1,8 +1,11 @@
 ---
+album: Slowhand 35th Anniversary (Super Deluxe)
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:6zC0mpGYwbNTpk9SKwh08f
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-tonight-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/wonderfultonight108887.html
 name: Wonderful Tonight
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1977
+runtime: 225026
 ---
-
 It's late in the evening; she's wondering what clothes to wear
 She puts on her make-up and brushes her long blonde hair
 And then she asks me, "Do I look all right?"
@@ -98,6 +102,3 @@ So I give her the car keys and she helps me to bed
 And then I tell her, as I turn out the light
 I say, "My darling, you were wonderful tonight
 Oh my darling, you were wonderful tonight"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ashanti
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:6zMUIb4uce1CzpbjR3vMdN
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-ashanti
 lyrics_url: https://genius.com/Ashanti-foolish-lyrics
 name: Foolish
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 227386
 ---
 Murder Inc
 Ashanti

@@ -1,8 +1,11 @@
 ---
+album: Tongues And Tails
 artists:
 - Sophie B. Hawkins
+external_ids:
+  spotify: spotify:track:7kmfQ2QHwGqRCxVHDv5mzo
 features: []
-genres: []
+first_released_as_single: false
 key: damn-i-wish-i-was-your-lover-sophie-b--hawkins
 lyrics_url: https://genius.com/Sophie-b-hawkins-damn-i-wish-i-was-your-lover-lyrics
 name: Damn I Wish I Was Your Lover
@@ -91,6 +94,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
+release_year: 1992
+runtime: 323266
 ---
 That old dog has chained you up all right
 Give you everything you need

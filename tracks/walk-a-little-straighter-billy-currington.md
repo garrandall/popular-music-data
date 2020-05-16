@@ -1,8 +1,11 @@
 ---
+album: Billy Currington
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:2LUYGE3JUk4LIIobqI0jpr
 features: []
-genres: []
+first_released_as_single: false
 key: walk-a-little-straighter-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/walkalittlestraighter.html
 name: Walk A Little Straighter
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-11-29'
+release_year: 2003
+runtime: 223733
 ---
-
 I remember looking up 
 To look up to him 
 And I remember most the time 
@@ -121,6 +125,3 @@ You're leading me
 
 Yeah walk a little straighter daddy 
 You're leading me
-
-
-

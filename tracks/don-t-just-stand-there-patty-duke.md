@@ -1,8 +1,11 @@
 ---
+album: Don't Just Stand There
 artists:
 - Patty Duke
+external_ids:
+  spotify: spotify:track:5takJXnMRsp38BWcPr5a2z
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-just-stand-there-patty-duke
 lyrics_url: https://genius.com/Patty-duke-dont-just-stand-there-lyrics
 name: Don't Just Stand There
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 158760
 ---
 Please don't just stand there
 

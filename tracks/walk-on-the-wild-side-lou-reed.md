@@ -1,8 +1,11 @@
 ---
+album: Transformer
 artists:
 - Lou Reed
+external_ids:
+  spotify: spotify:track:5p3JunprHCxClJjOmcLV8G
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-the-wild-side-lou-reed
 lyrics_url: https://genius.com/Lou-reed-walk-on-the-wild-side-lyrics
 name: Walk On The Wild Side
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
+release_year: 1972
+runtime: 254173
 ---
 Holly came from Miami, Fla
 Hitchhiked her way across the U.S.A

@@ -1,8 +1,11 @@
 ---
+album: The Blues Brothers Original Motion Picture Soundtrack
 artists:
 - Blues Brothers
+external_ids:
+  spotify: spotify:track:53p1SzTC0sBH9HAPD8MOOu
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-some-lovin--blues-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/bluesbrothers/gimmesomelovin.html
 name: Gimme Some Lovin'
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 187693
 ---
-
 Hey!
 
 Well my temperature's rising and my feet on the floor
@@ -98,6 +102,3 @@ Gimme some lovin' (Gimme some lovin')
 Gimme some lovin' (Gimme gimme some lovin')
 Gimme some lovin'
 Everyday
-
-
-

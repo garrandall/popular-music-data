@@ -1,8 +1,11 @@
 ---
+album: J.E. Heartbreak
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:1y324SlIgSQ1CogQBci8mz
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-married-jagged-edge
 lyrics_url: https://genius.com/Jagged-edge-lets-get-married-lyrics
 name: Let's Get Married
@@ -103,6 +106,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 1995
+runtime: 263200
 ---
 See, first of all
 I know these so-called players wouldn't tell you this

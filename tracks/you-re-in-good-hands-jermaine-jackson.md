@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits And Rare Classics
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:23qWYARjjCtwErHELfC4HV
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-in-good-hands-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-youre-in-good-hands-lyrics
 name: You're In Good Hands
@@ -27,6 +30,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 198466
 ---
 Oh, look at you
 I hate to see you cry

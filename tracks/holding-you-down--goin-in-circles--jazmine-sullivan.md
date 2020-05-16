@@ -1,8 +1,11 @@
 ---
+album: Love Me Back
 artists:
 - Jazmine Sullivan
+external_ids:
+  spotify: spotify:track:2tmfz2Dsp6j2PXxyImIKL7
 features: []
-genres: []
+first_released_as_single: true
 key: holding-you-down--goin-in-circles--jazmine-sullivan
 lyrics_url: https://www.azlyrics.com/lyrics/jazminesullivan/holdingyoudowngoinincircles.html
 name: Holding You Down (Goin In Circles)
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 217306
 ---
-
 Why can't I find somebody else
 When I know
 Know that you're doing wrong
@@ -121,6 +125,3 @@ But what I can I say
 But I wanna go
 I wanna go
 But I keep coming back
-
-
-

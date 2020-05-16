@@ -1,8 +1,11 @@
 ---
+album: Other Voices
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:0YqhqbLNpfQetrwuLaVTiK
 features: []
-genres: []
+first_released_as_single: false
 key: oh-girl-paul-young
 lyrics_url: https://genius.com/Paul-young-oh-girl-lyrics
 name: Oh Girl
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1990
+runtime: 216373
 ---
 Oh, girl
 I'd be in trouble

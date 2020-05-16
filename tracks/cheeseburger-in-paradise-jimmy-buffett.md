@@ -1,8 +1,11 @@
 ---
+album: Son Of A Son Of A Sailor
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:6VeZ970uI0Yi6sjBgyFBrp
 features: []
-genres: []
+first_released_as_single: false
 key: cheeseburger-in-paradise-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/cheeseburgerinparadise.html
 name: Cheeseburger In Paradise
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1978
+runtime: 176093
 ---
-
 Tried to amend my carnivorous habits
 Made it nearly seventy days
 Losin' weight without speed
@@ -100,6 +104,3 @@ I like mine with lettuce and tomato
 Heinz 57 and French fried potatoes
 Big kosher pickle and a cold draft beer
 Well, good god almighty, which way do I steer?
-
-
-

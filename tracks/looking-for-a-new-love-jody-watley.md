@@ -1,8 +1,11 @@
 ---
+album: Jody Watley
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:64M7vSptOdMCuHwYzKuplj
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-a-new-love-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/lookingforanewlove.html
 name: Looking For A New Love
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1987
+runtime: 307840
 ---
-
 Hasta la vista, baby
 
 You gave me love, you did me wrong
@@ -161,6 +165,3 @@ I'm looking for a new love baby, a new love
 I'm looking for a new love baby, a new love
 I'm looking for a new love baby, a new love
 Hasta la vista, baby
-
-
-

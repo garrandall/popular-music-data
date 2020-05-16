@@ -1,8 +1,11 @@
 ---
+album: 'You Don''t Have To Be A Baby To Cry: The Complete Caravelles 1963-1968'
 artists:
 - The Caravelles
+external_ids:
+  spotify: spotify:track:1X1wWToIWDxbbV5WGN23D8
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-be-a-baby-to-cry-the-caravelles
 lyrics_url: https://genius.com/The-caravelles-you-dont-have-to-be-a-baby-to-cry-lyrics
 name: You Don't Have To Be A Baby To Cry
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 121266
 ---
 You don't have to be a ba-a-aby to cry
 All you need is for love to go wrong

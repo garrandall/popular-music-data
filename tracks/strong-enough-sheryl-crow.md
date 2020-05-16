@@ -1,8 +1,11 @@
 ---
+album: Tuesday Night Music Club
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:25IRjWUZ60n7KXxcB4DiX9
 features: []
-genres: []
+first_released_as_single: false
 key: strong-enough-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/strongenough.html
 name: Strong Enough
@@ -111,8 +114,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
+release_year: 1993
+runtime: 189826
 ---
-
 God, I feel like hell tonight
 Tears of rage I cannot fight
 I'd be the last to help you understand
@@ -146,6 +150,3 @@ Lie to me
 I promise I'll believe
 Lie to me
 But please don't leave
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Busted Stuff
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:5EjZXJ4nVpw7uI6eso1SFS
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-you-going-dave-matthews-band
 lyrics_url: https://genius.com/Dave-matthews-band-where-are-you-going-lyrics
 name: Where Are You Going
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2002
+runtime: 231866
 ---
 Where are you going? With your long face
 Pulling down, Don't hide away

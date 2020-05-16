@@ -1,8 +1,11 @@
 ---
+album: I Say, I Say, I Say
 artists:
 - Erasure
+external_ids:
+  spotify: spotify:track:05aJGOuSDQTFyfzcGQrDUO
 features: []
-genres: []
+first_released_as_single: false
 key: always-erasure
 lyrics_url: https://genius.com/Erasure-always-lyrics
 name: Always
@@ -99,6 +102,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1992
+runtime: 241413
 ---
 Open your eyes I see
 Your eyes are open

@@ -1,8 +1,11 @@
 ---
+album: Unbreakable Smile
 artists:
 - Tori Kelly
+external_ids:
+  spotify: spotify:track:160hN2OsDXnmgExwtG7cvD
 features: []
-genres: []
+first_released_as_single: true
 key: hollow-tori-kelly
 lyrics_url: https://www.azlyrics.com/lyrics/torikelly/hollow.html
 name: Hollow
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2015
+runtime: 210606
 ---
-
 I don't wanna be the last man standing
 I don't wanna be the lonely one
 Picking petals when the party's over
@@ -103,6 +107,3 @@ Yeah, I'm hollow, oh, oh, oh
 Yeah, I'm hollow, oh, oh, oh (oh yeah)
 'Cause I'm hollow (I'm hollow)
 Yeah, I'm hollow, oh, oh, oh
-
-
-

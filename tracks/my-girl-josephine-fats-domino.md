@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:0CIc4SaHV9RaQvXscSlVFH
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-josephine-fats-domino
 lyrics_url: https://genius.com/Fats-domino-my-girl-josephine-lyrics
 name: My Girl Josephine
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 124906
 ---
 Hello Josephine
 How do you do

@@ -1,8 +1,11 @@
 ---
+album: Manna
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:2RLqPvuMgzmupnU0epyuG8
 features: []
-genres: []
+first_released_as_single: false
 key: let-your-love-go-bread
 lyrics_url: https://genius.com/Bread-let-your-love-go-lyrics
 name: Let Your Love Go
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 145573
 ---
 There's a reason
 For the life that you live

@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:5foJJKZXkVdAp5XBYPR5Uw
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-for-you-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-my-love-for-you-lyrics
 name: My Love For You
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 187160
 ---
 My love for you
 Is deep and endless as the sea

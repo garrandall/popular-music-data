@@ -1,8 +1,11 @@
 ---
+album: Piano Rock N' Soul Essentials '58-'62
 artists:
 - Bobby Peterson Quintet
+external_ids:
+  spotify: spotify:track:6SmuLGVnbZnT4ONQRxUdyk
 features: []
-genres: []
+first_released_as_single: false
 key: the-hunch-bobby-peterson-quintet
 name: The Hunch
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 162066
 ---
 

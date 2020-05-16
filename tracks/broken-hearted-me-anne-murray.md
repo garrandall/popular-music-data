@@ -1,8 +1,11 @@
 ---
+album: I'll Always Love You
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:07Cs882pDSCuggekDdmw4K
 features: []
-genres: []
+first_released_as_single: false
 key: broken-hearted-me-anne-murray
 lyrics_url: https://genius.com/Anne-murray-a-broken-hearted-me-lyrics
 name: Broken Hearted Me
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 238066
 ---
 Every now and then I cry
 Every night

@@ -1,8 +1,11 @@
 ---
+album: Time & Charges
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:1MiJfOXSXATS1cEEZA1wgj
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-mercy-the-buckinghams
 lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/mercymercymercy.html
 name: Mercy Mercy Mercy
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 167266
 ---
-
 My baby, she may not a-look
 Like one of those bunnies out of the playboy club
 But she got somethin' much greater than gold
@@ -100,6 +104,3 @@ There is no girl in the whole world
 That can love me like you do
 Baby, yeah, feel yeah, it's alright
 Mercy, mercy, mercy
-
-
-

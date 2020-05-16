@@ -1,8 +1,11 @@
 ---
+album: Secrets
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:4xjGqrxavGBW8RldcCDBA8
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-me-some-him-toni-braxton
 lyrics_url: https://genius.com/Toni-braxton-i-love-me-some-him-lyrics
 name: I Love Me Some Him
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1996
+runtime: 306933
 ---
 I love me some him
 I'll never love this way again

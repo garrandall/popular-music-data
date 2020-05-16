@@ -1,8 +1,11 @@
 ---
+album: Get Lucky
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:35k31HZI4z9PbBOioaI4dZ
 features: []
-genres: []
+first_released_as_single: false
 key: working-for-the-weekend-loverboy
 lyrics_url: https://genius.com/Loverboy-working-for-the-weekend-lyrics
 name: Working For The Weekend
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 221000
 ---
 Everyone's watching to see what you will do
 Everyone's looking at you, oh

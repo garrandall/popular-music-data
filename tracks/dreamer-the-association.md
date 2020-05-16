@@ -1,8 +1,11 @@
 ---
+album: 'Just The Right Sound: The Association Anthology'
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:3B1ucMkGp1QMSFhP4m8f51
 features: []
-genres: []
+first_released_as_single: false
 key: dreamer-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/dreamer.html
 name: Dreamer
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1981
+runtime: 213333
 ---
-
 Can't believe you got that attitude
 You've been so cold and rude
 Baby, when you're gonna give it up
@@ -64,6 +68,3 @@ Dreamer, dreamer
 
 Dreamer, dreamer
 Dreamer, dreamer
-
-
-

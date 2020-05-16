@@ -1,8 +1,11 @@
 ---
+album: Where We All Belong
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:1zkH4jYyALcnAbeyYkK2XT
 features: []
-genres: []
+first_released_as_single: false
 key: this-ol--cowboy-the-marshall-tucker-band
 lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/thisolcowboy.html
 name: This Ol' Cowboy
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 404960
 ---
-
 Well I'm sittin' down in San Anton'
 Waiting on an eight o'clock train
 My woman left me here last night
@@ -69,6 +73,3 @@ Cause this ain't gonna be the first time
 This ol' cowboy spent the night alone
 No this ain't gonna be the first time
 This ol' cowboy spent the night alone
-
-
-

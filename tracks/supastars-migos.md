@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:7yt6eiZQCkVFEzwGp4Pbor
 features: []
-genres: []
+first_released_as_single: false
 key: supastars-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/supastars.html
 name: Supastars
@@ -11,9 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 293137
 ---
-
-
 (Honorable C.N.O.T.E.)
 Yeah, yeah
 (Buddha Bless this beat)
@@ -136,6 +139,3 @@ Thinkin' 'bout postin' her on the 'Gram, and delete her (delete it!)
 Whole gang in the field, we don't do bleachers (uh)
 Thinkin' 'bout postin' her on the 'Gram, and delete her (delete it!)
 Whole gang in the field, we don't do bleachers (uh)
-
-
-

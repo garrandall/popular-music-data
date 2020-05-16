@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:36EjGAZQMh8QFx7gdESSgr
 features: []
-genres: []
+first_released_as_single: false
 key: keep-holding-on-glee-cast
 lyrics_url: https://genius.com/Glee-cast-keep-holding-on-annotated
 name: Keep Holding On
@@ -11,6 +14,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 244333
 ---
 Ah, ah, ah-ah-ah
 Ah, ah, ah-ah-ah

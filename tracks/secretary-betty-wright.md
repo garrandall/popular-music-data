@@ -1,8 +1,11 @@
 ---
+album: 'The Essentials: Betty Wright'
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:1n7WmfoozVGuudTIecGZbW
 features: []
-genres: []
+first_released_as_single: false
 key: secretary-betty-wright
 lyrics_url: https://www.azlyrics.com/lyrics/bettywright/secretary.html
 name: Secretary
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 173973
 ---
-
 It's very ordinary for the secretary
 To take a man away from his wife
 Girls, we make it necessary
@@ -93,6 +97,3 @@ Or you'll make it necessary
 
 'Cause life can be so merry
 Just like the secretary
-
-
-

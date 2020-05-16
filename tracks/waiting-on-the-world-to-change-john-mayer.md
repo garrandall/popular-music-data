@@ -1,8 +1,11 @@
 ---
+album: Continuum
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:5imShWWzwqfAJ9gXFpGAQh
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-on-the-world-to-change-john-mayer
 lyrics_url: https://genius.com/John-mayer-waiting-on-the-world-to-change-lyrics
 name: Waiting On The World To Change
@@ -167,6 +170,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 201173
 ---
 Me and all my friends
 We're all misunderstood

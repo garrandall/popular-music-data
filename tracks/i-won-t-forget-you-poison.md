@@ -1,8 +1,11 @@
 ---
+album: Look What The Cat Dragged In - 20th Anniversary Edition
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:6WmVgLj2htklkU3SZOsItg
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-forget-you-poison
 lyrics_url: https://genius.com/Poison-i-wont-forget-you-lyrics
 name: I Won't Forget You
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1986
+runtime: 214373
 ---
 Late at night, I close my eyes
 And think of how things could have been

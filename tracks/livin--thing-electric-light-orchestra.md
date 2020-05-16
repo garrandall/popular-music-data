@@ -1,8 +1,11 @@
 ---
+album: A New World Record
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:3w3VZnXyhur0zHLgBNTQeF
 features: []
-genres: []
+first_released_as_single: false
 key: livin--thing-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/livinthing.html
 name: Livin' Thing
@@ -79,8 +82,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1972
+runtime: 213826
 ---
-
 Sailin' away on the crest of a wave
 It's like magic
 Oh, rollin' and riding and slipping and sliding
@@ -136,6 +140,3 @@ What a terrible thing to lose
 It's a living thing
 It's a terrible thing to lose
 It's a given thing...
-
-
-

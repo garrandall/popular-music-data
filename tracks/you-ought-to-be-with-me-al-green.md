@@ -1,8 +1,11 @@
 ---
+album: Call Me
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:0abCAdQ235vfucv4zXeSbG
 features: []
-genres: []
+first_released_as_single: false
 key: you-ought-to-be-with-me-al-green
 lyrics_url: https://genius.com/Al-green-you-ought-to-be-with-me-lyrics
 name: You Ought To Be With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 199066
 ---
 Sit right down and talk to me
 About how you want to be

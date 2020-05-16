@@ -1,8 +1,11 @@
 ---
+album: '3.0'
 artists:
 - Marc Anthony
+external_ids:
+  spotify: spotify:track:3QHMxEOAGD51PDlbFPHLyJ
 features: []
-genres: []
+first_released_as_single: false
 key: vivir-mi-vida-marc-anthony
 lyrics_url: https://genius.com/Marc-anthony-vivir-mi-vida-lyrics
 name: Vivir Mi Vida
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 252346
 ---
 Voy a reír, voy a bailar
 Vivir mi vida la la la la

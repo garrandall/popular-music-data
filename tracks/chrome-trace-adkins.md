@@ -1,8 +1,11 @@
 ---
+album: Chrome
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:3XxhDmIQ8utTiLokcA7iFL
 features: []
-genres: []
+first_released_as_single: false
 key: chrome-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/chrome.html
 name: Chrome
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2001
+runtime: 202826
 ---
-
 Chrome, She can see herself In the shiny grill and the 
 Wire wheels of a red Chevelle with four on the floor and the top down 
 Chrome, zippin' by on an Electra Glide 
@@ -60,6 +64,3 @@ Her favorite color is ..Chrome
 Her favorite color is...chrome 
 That girl is all about chrome 
 She sure loves chrome
-
-
-

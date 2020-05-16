@@ -1,8 +1,11 @@
 ---
+album: The Essential Johnny Nash
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:6Kwy65sUR6AHoUb65xPxf3
 features: []
-genres: []
+first_released_as_single: false
 key: my-merry-go-round-johnny-nash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/mymerrygoround.html
 name: My Merry-go-round
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 250626
 ---
-
 We used to laugh and play
 All of the live long day
 Open fields and open skies
@@ -64,6 +68,3 @@ Gather around me on my merry go round
 Gather around me on my merry go round
 Gather around me on my merry go round
 Gather around me on my merry go round
-
-
-

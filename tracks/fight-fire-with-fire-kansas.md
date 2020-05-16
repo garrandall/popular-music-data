@@ -1,8 +1,11 @@
 ---
+album: Drastic Measures
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:4PiWXxej5FGglx78Ua9aqs
 features: []
-genres: []
+first_released_as_single: false
 key: fight-fire-with-fire-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/fightfirewithfire.html
 name: Fight Fire With Fire
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 220000
 ---
-
 There's a hole in the wall
 With a light shining in
 And it's letting me know to get up
@@ -68,6 +72,3 @@ And you know I'll fight fire with fire
 Oh I'm burning inside and my heart is a-cryin'
 Fire with fire
 'Cause I'm never gonna lose this flamin' desire
-
-
-

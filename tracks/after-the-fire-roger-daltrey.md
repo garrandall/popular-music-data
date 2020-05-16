@@ -1,8 +1,11 @@
 ---
+album: Under A Raging Moon
 artists:
 - Roger Daltrey
+external_ids:
+  spotify: spotify:track:5WegjOIvnpNoX6uHtc8zyl
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-fire-roger-daltrey
 lyrics_url: https://genius.com/Roger-daltrey-after-the-fire-lyrics
 name: After The Fire
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
+release_year: 1985
+runtime: 276066
 ---
 After the fire, the fire still burns
 The heart grows older

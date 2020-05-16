@@ -1,9 +1,12 @@
 ---
+album: The Girl From Chickasaw County - The Complete Capitol Masters
 artists:
 - Bobbie Gentry
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:6JDQKHBVdPYcEuHdBR9ieQ
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-have-to-do-is-dream-bobbie-gentry-glen-campbell
 lyrics_url: https://genius.com/Bobbie-gentry-and-glen-campbell-all-i-have-to-do-is-dream-lyrics
 name: All I Have To Do Is Dream
@@ -48,6 +51,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1970
+runtime: 155306
 ---
 Dream
 Dream, dream, dream

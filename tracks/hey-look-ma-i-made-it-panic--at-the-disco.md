@@ -1,8 +1,11 @@
 ---
+album: Pray for the Wicked
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:22oEJW6r2rMb9z4IntfyEa
 features: []
-genres: []
+first_released_as_single: false
 key: hey-look-ma-i-made-it-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/heylookmaimadeit.html
 name: Hey Look Ma I Made It
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2018
+runtime: 169666
 ---
-
 All my life been hustling and tonight is my appraisal
 'Cause I'm a hooker selling songs and my pimp's a record label
 This world is full of demons, stocks, and bonds, and bible traders
@@ -147,6 +151,3 @@ I said hey look Ma, I made it
 (Mama best believe it) Hey look Ma, I made it
 (Think I must be dreamin')
 Hey look Ma, I made it
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Distant Shores
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:54KvNfslBjcL7CquoByiIx
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-she-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-you-are-she-lyrics
 name: You Are She
@@ -24,6 +27,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 158840
 ---
 Clyde-Stuart
 

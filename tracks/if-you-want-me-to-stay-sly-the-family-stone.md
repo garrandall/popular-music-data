@@ -1,9 +1,12 @@
 ---
+album: Fresh
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:2BydLQAh7CUIFvSEqAMc4x
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-want-me-to-stay-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/ifyouwantmetostay.html
 name: If You Want Me To Stay
@@ -76,8 +79,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 180493
 ---
-
 If you want me to stay,
 I'll be around today,
 to be available for you to see.
@@ -118,6 +122,3 @@ I wish I could,
 I get this message over to you now.
 
 ah, yeah...
-
-
-

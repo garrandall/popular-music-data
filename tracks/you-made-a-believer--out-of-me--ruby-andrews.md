@@ -1,8 +1,11 @@
 ---
+album: Casanova
 artists:
 - Ruby Andrews
+external_ids:
+  spotify: spotify:track:4osZZATIyErv2ema2MjP7l
 features: []
-genres: []
+first_released_as_single: false
 key: you-made-a-believer--out-of-me--ruby-andrews
 lyrics_url: https://genius.com/Ruby-andrews-you-made-a-believer-out-of-me-lyrics
 name: You Made A Believer (Out Of Me)
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 160934
 ---
 Now that I know
 What it is, boy

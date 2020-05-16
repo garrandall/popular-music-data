@@ -1,8 +1,11 @@
 ---
+album: Learning to Crawl
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:0jd7dO9tw7BhW8zqKVgLY8
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-pretenders
 lyrics_url: https://genius.com/Pretenders-show-me-lyrics
 name: Show Me
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1984
+runtime: 253893
 ---
 Show me the meaning of the word
 Show me the meaning of the word

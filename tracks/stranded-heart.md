@@ -1,8 +1,11 @@
 ---
+album: Brigade
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:5KwYd278TmyAkLs686tsyw
 features: []
-genres: []
+first_released_as_single: false
 key: stranded-heart
 lyrics_url: https://genius.com/Heart-stranded-lyrics
 name: Stranded
@@ -95,6 +98,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
+release_year: 1990
+runtime: 238826
 ---
 Standing here helpless
 Where do I go

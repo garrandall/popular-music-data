@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:3DqzSyHtpCUIRBu7n5koBN
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-s-girl-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-jimmys-girl-lyrics
 name: Jimmy's Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 164960
 ---
 Jimmy's girl Jimmy's girl
 Wish that I were holding Jimmy's girl

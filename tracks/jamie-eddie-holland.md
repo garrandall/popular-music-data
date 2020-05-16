@@ -1,8 +1,11 @@
 ---
+album: Eddie Holland
 artists:
 - Eddie Holland
+external_ids:
+  spotify: spotify:track:6VOJTcrzaFo9IDo4acFbjP
 features: []
-genres: []
+first_released_as_single: false
 key: jamie-eddie-holland
 lyrics_url: https://genius.com/Eddie-holland-jamie-lyrics
 name: Jamie
@@ -59,6 +62,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
+release_year: 1962
+runtime: 145106
 ---
 Shh, listen, my friends while I tell you
 About a girl that's so divine

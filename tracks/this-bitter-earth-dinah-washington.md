@@ -1,8 +1,11 @@
 ---
+album: Unforgettable
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:3MCimW1NfKKOkdqDzNsOXA
 features: []
-genres: []
+first_released_as_single: false
 key: this-bitter-earth-dinah-washington
 lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/thisbitterearth.html
 name: This Bitter Earth
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 150666
 ---
-
 This bitter earth
 Well, what a fruit it bears
 What good is love
@@ -84,6 +88,3 @@ But while a voice within me cries
 I'm sure someone may answer my call
 And this bitter earth
 Oh may not, oh, be so bitter after all
-
-
-

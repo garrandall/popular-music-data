@@ -1,8 +1,11 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:0srwKuJPH8yBzzFUJMBQM2
 features: []
-genres: []
+first_released_as_single: false
 key: rack-city-tyga
 lyrics_url: https://genius.com/Tyga-rack-city-lyrics
 name: Rack City
@@ -107,6 +110,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2011
+runtime: 203200
 ---
 Rack rack city, bitch
 Rack rack rack city, bitch

@@ -1,8 +1,11 @@
 ---
+album: Country Strong (Original Motion Picture Soundtrack)
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:6FwllUvOjG6gWbEoXWZYRk
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-stronger-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/alittlebitstronger.html
 name: A Little Bit Stronger
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2010
+runtime: 303280
 ---
-
 Woke up late today,
 And I still feel the sting of the pain.
 But I brushed my teeth anyway,
@@ -161,6 +165,3 @@ I get a little bit stronger.
 Just a little bit stronger.
 A little bit, a little bit, a little bit stronger.
 Get a little bit stronger.
-
-
-

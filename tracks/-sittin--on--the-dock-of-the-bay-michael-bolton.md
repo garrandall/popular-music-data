@@ -1,8 +1,11 @@
 ---
+album: The Hunger
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:5RvWIpUcE7gR2HX42dIPrK
 features: []
-genres: []
+first_released_as_single: false
 key: -sittin--on--the-dock-of-the-bay-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/sittinonthedockofthebay.html
 name: (Sittin' On) The Dock Of The Bay
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1987
+runtime: 231226
 ---
-
 Sittin' in the mornin' sun
 I'll be sittin' when the evenin' comes
 Watchin' the ships roll in
@@ -106,6 +110,3 @@ I'm just gonna sit, on the dock of the bay
 Watchin' the tide roll away
 Sittin' on the dock of the bay
 Wastin' time
-
-
-

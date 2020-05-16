@@ -1,8 +1,11 @@
 ---
+album: Nine Lives
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:1oBTw7IkWnEUxiestsAD1V
 features: []
-genres: []
+first_released_as_single: false
 key: falling-in-love--is-hard-on-the-knees--aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/fallinginloveishardontheknees.html
 name: Falling In Love (Is Hard On The Knees)
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1997
+runtime: 205800
 ---
-
 You're so bad you're so bad you're so
 You're so bad you're so bad
 
@@ -150,6 +154,3 @@ But there ain't no guarantees
 I'm major in love
 But in all minor keys
 'Cause falling in love is so hard on the knees
-
-
-

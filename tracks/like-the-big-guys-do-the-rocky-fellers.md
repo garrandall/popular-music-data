@@ -1,8 +1,11 @@
 ---
+album: Look At Killer Joe Go!
 artists:
 - The Rocky Fellers
+external_ids:
+  spotify: spotify:track:3opOPdwYUPhQ7EU5Dt3CvN
 features: []
-genres: []
+first_released_as_single: false
 key: like-the-big-guys-do-the-rocky-fellers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rocky-Fellers/Like-the-Big-Guys-Do
 name: Like The Big Guys Do
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1963
+runtime: 134506
 ---
 Like the big guys do
 I wanna do it

@@ -1,9 +1,12 @@
 ---
+album: Hyperion
 artists:
 - Gesaffelstein
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2vXKRlJBXyOcvZYTdNeckS
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-the-fire-gesaffelstein-the-weeknd
 lyrics_url: https://genius.com/Gesaffelstein-and-the-weeknd-lost-in-the-fire-lyrics
 name: Lost In The Fire
@@ -32,6 +35,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2019
+runtime: 202093
 ---
 I wanna fuck you slow with the lights on (Lights on, lights on, lights on)
 You're the only one I've got my sights on (Sights on, sights on, sights on)

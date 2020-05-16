@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:0s6e7ZafqOAUBDoQYGmxrc
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-step-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/everylittlestep.html
 name: Every Little Step
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
+release_year: 1988
+runtime: 237240
 ---
-
 Good Lovin'...
 Ow! Yeah!
 
@@ -150,6 +154,3 @@ Every little step (Every little...every little step I take)
 
 Girl...good lovin'...
 Good lovin'...
-
-
-

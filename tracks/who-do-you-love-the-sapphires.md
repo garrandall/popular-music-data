@@ -1,8 +1,11 @@
 ---
+album: Best Of The Sapphires
 artists:
 - The Sapphires
+external_ids:
+  spotify: spotify:track:2SjoBa5enf5kgsckNQgIop
 features: []
-genres: []
+first_released_as_single: true
 key: who-do-you-love-the-sapphires
 lyrics_url: https://genius.com/The-sapphires-who-do-you-love-lyrics
 name: Who Do You Love
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 156933
 ---
 Who do you love?
 I wanna know, I wanna know

@@ -1,8 +1,11 @@
 ---
+album: Beautiful Loser
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:6KGv5DEe1uzWSGFBhyEZ5u
 features: []
-genres: []
+first_released_as_single: false
 key: katmandu-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/katmandu119361.html
 name: Katmandu
@@ -51,8 +54,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-10-18'
+release_year: 1975
+runtime: 367653
 ---
-
 I think I'm goin' to Katmandu,
 That's really really where I'm going to
 If I ever get out of here
@@ -128,6 +132,3 @@ Katmandu
 Katmandu
 Katmandu
 Katmandu
-
-
-

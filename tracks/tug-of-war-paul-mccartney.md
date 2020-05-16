@@ -1,8 +1,11 @@
 ---
+album: Tug Of War
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:5zWre4bc1WWXaKpmaZguPd
 features: []
-genres: []
+first_released_as_single: false
 key: tug-of-war-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/tugofwar.html
 name: Tug Of War
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 263280
 ---
-
 It's A Tug Of War
 What With One Thing And Another
 It's A Tug Of War
@@ -99,6 +103,3 @@ In A Tug Of War
 
 Pushing Pushing, Pulling Pulling
 Pushing And Pulling
-
-
-

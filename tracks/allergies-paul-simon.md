@@ -1,8 +1,11 @@
 ---
+album: Hearts And Bones
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:6N9HB9cU7Vkjhy6L45RTNF
 features: []
-genres: []
+first_released_as_single: false
 key: allergies-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/allergies.html
 name: Allergies
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1983
+runtime: 279080
 ---
-
 Maladies
 Melodies
 Allergies to dust and grain
@@ -92,6 +96,3 @@ Allergies to dust and grain
 Maladies
 Remedies
 Still these allergies remain
-
-
-

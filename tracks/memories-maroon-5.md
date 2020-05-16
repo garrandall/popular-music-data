@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 73
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:2b8fOow8UzyDFAE27YhOZM
 features: []
-genres: []
+first_released_as_single: true
 key: memories-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/memories.html
 name: Memories
@@ -107,8 +110,9 @@ rankings:
   rank: 13
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 189486
 ---
-
 Here's to the ones that we got
 Cheers to the wish you were here but you're not
 'Cause the drinks bring back all the memories
@@ -182,6 +186,3 @@ Memories bring back, memories bring back you
 Yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah, no, no
 Memories bring back, memories bring back you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Orbison Way
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:01gHdCKj7RNQYFq4ED9YFN
 features: []
-genres: []
+first_released_as_single: false
 key: crawling-back-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/crawlingback.html
 name: Crawling Back
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 194680
 ---
-
 Only you and no one else
 Can keep me crawling back
 You know I can't help myself
@@ -64,6 +68,3 @@ Whenever you might need me
 I will come crawling back
 Wherever you will lead me
 I will come crawling back
-
-
-

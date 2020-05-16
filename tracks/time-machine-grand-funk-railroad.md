@@ -1,8 +1,11 @@
 ---
+album: Bosnia
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:3xZDgIPX9t1W0JmaRVphiT
 features: []
-genres: []
+first_released_as_single: false
 key: time-machine-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/timemachine.html
 name: Time Machine
@@ -51,8 +54,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 208747
 ---
-
 Well, hey there baby, do you want to make the scene?
 I said, hey there baby, do you want to make the scene?
 Aw, well, come on over baby, step into my time machine
@@ -73,6 +77,3 @@ But we ain't gonna come back, till there ain't no doubt
 Now don't it get good to you? Do you know what I mean?
 Said, don't it get good to you? Don't you know what I mean?
 Well, come on over baby, jump into my time machine
-
-
-

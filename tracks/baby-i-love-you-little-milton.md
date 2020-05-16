@@ -1,8 +1,11 @@
 ---
+album: Rockin' The Blues
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:6CCAm8iR861CCBuC8XZwAG
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-you-little-milton
 lyrics_url: https://genius.com/Little-milton-baby-i-love-you-lyrics
 name: Baby I Love You
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 164400
 ---
 Baby, I love you, yes I do
 Baby, I love you, yes I do

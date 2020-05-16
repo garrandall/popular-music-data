@@ -1,8 +1,11 @@
 ---
+album: Dr. John's Gumbo
 artists:
 - Dr. John
+external_ids:
+  spotify: spotify:track:1vhlVbHnbKJPD7pqCC0cE7
 features: []
-genres: []
+first_released_as_single: false
 key: iko-iko-dr--john
 lyrics_url: https://www.azlyrics.com/lyrics/drjohn/ikoiko.html
 name: Iko Iko
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 248560
 ---
-
 Hey now (hey now)
 Hey now (hey now)
 Iko iko un day
@@ -84,6 +88,3 @@ Hey now (hey now)
 Iko iko un day
 Jockomo feeno ah na nay
 Jockomo feena nay
-
-
-

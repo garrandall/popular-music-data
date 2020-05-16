@@ -1,8 +1,11 @@
 ---
+album: Stampede
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:7llKPF9kvwmwiwyX6Vm0FX
 features: []
-genres: []
+first_released_as_single: false
 key: i-cheat-the-hangman-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/icheatthehangman.html
 name: I Cheat The Hangman
@@ -23,8 +26,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 396866
 ---
-
 The days grow short, the nights are gone
 Since you were here, I can't go on
 I cried for you, to no avail
@@ -41,6 +45,3 @@ The love you spend you cannot reap
 The glow of love will then shine
 Lighted windows stare at the lonely stranger there returning home
 Only lighted windows stare at the lonely stranger there returning home
-
-
-

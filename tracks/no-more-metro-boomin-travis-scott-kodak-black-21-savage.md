@@ -1,11 +1,14 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:42k9e2hgl98IdgkXLg4pxs
 features:
 - Travis Scott
 - Kodak Black
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: no-more-metro-boomin-travis-scott-kodak-black-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/nomore.html
 name: No More
@@ -14,9 +17,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 265120
 ---
-
-
 You know, the comedown, we really feeling soothing
 The comeup got 'em all oozing
 Took a one way to take it out of Houston
@@ -102,6 +105,3 @@ I'm taking the shit and I'm here to tell you
 I'm here to keep rap the fucking same
 He's trying to save it, I'm not
 You'll all be heroes
-
-
-

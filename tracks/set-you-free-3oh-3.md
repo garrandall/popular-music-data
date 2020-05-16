@@ -1,8 +1,11 @@
 ---
+album: Set You Free
 artists:
 - 3OH!3
+external_ids:
+  spotify: spotify:track:6aIlQ4EVeyKzGS4lS6GNLY
 features: []
-genres: []
+first_released_as_single: true
 key: set-you-free-3oh-3
 lyrics_url: https://www.azlyrics.com/lyrics/3oh3/setyoufree.html
 name: Set You Free
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2011
+runtime: 204188
 ---
-
 Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me,
@@ -95,6 +99,3 @@ The walls were closing in on me (closing in)
 But I don't live in there no more (no more)
 
 Whoa, Whoa, Whoa, Whoa
-
-
-

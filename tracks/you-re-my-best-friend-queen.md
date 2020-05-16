@@ -1,8 +1,11 @@
 ---
+album: A Night At The Opera (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:4OKf7CcYuw5H2HptkcKxcP
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-best-friend-queen
 lyrics_url: https://genius.com/Queen-youre-my-best-friend-lyrics
 name: You're My Best Friend
@@ -71,6 +74,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1975
+runtime: 170800
 ---
 Oh, you make me live
 Whatever this world can give to me

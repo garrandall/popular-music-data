@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7LSAtbMWcyKWjIrFOroPhz
 features:
 - Gwyneth Paltrow
-genres: []
+first_released_as_single: false
 key: landslide-glee-cast-gwyneth-paltrow
 lyrics_url: https://genius.com/Glee-cast-landslide-lyrics
 name: Landslide
@@ -16,6 +19,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2011
+runtime: 226760
 ---
 I took my love and I took it down
 I climbed a mountain and I turned around

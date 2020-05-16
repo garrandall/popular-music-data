@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5lFDtgWsjRJu8fPOAyJIAK
 features: []
-genres: []
+first_released_as_single: true
 key: back-to-back-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Drake/Back-To-Back
 name: Back To Back
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 170637
 ---
 Oh man, oh man, oh man
 

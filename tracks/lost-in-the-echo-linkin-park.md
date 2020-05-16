@@ -1,8 +1,11 @@
 ---
+album: LIVING THINGS
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:2oNYsdCasRRlz1shXFAz7D
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-the-echo-linkin-park
 lyrics_url: https://genius.com/Linkin-park-lost-in-the-echo-lyrics
 name: Lost In The Echo
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
+release_year: 2012
+runtime: 205120
 ---
 Yeah, yo
 

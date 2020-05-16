@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 5 Collection (The Voice Performance)
 artists:
 - Tessanne Chin
 - Adam Levine
+external_ids:
+  spotify: spotify:track:6D9XBfUFCpnVN2tSP2bETW
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-tessanne-chin-adam-levine
 lyrics_url: https://www.musixmatch.com/lyrics/Tessanne-Chin-feat-Adam-Levine/Let-It-Be
 name: Let It Be
@@ -12,6 +15,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2014-01-04'
+release_year: 2014
+runtime: 216378
 ---
 When I find myself in times of trouble
 Mother Mary comes to me

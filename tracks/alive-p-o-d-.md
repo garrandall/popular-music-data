@@ -1,8 +1,11 @@
 ---
+album: Satellite (U.S. Version WEA Distribution)
 artists:
 - P.O.D.
+external_ids:
+  spotify: spotify:track:1X4Ntw6Lbaa1ACgilCqMpr
 features: []
-genres: []
+first_released_as_single: false
 key: alive-p-o-d-
 lyrics_url: https://genius.com/Pod-alive-lyrics
 name: Alive
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
+release_year: 2001
+runtime: 205026
 ---
 Every day is a new day
 I'm thankful for every breath I take

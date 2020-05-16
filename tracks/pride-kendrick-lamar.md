@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:2RxBL0SXqHHCy70WF4i3Se
 features: []
-genres: []
+first_released_as_single: false
 key: pride-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-pride-lyrics
 name: Pride
@@ -15,6 +18,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 275253
 ---
 Love's gonna get you killed
 But pride’s gonna be the death of you and you and me

@@ -1,8 +1,11 @@
 ---
+album: Black & White
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:3fvDLsiTHPQNgzuMd3Mpb5
 features: []
-genres: []
+first_released_as_single: false
 key: slow-hand-the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-slow-hand-lyrics
 name: Slow Hand
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-11-07'
+release_year: 1981
+runtime: 231960
 ---
 As the midnight moon, was driftin' through
 The lazy sway of the trees

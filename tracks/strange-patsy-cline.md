@@ -1,8 +1,11 @@
 ---
+album: Sentimentally Yours
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:7jGrvXXwpmNgJVnz7QS7df
 features: []
-genres: []
+first_released_as_single: false
 key: strange-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/strange.html
 name: Strange
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1962
+runtime: 135506
 ---
-
 Strange how you stopped loving me
 How you stopped needing me
 When she came along
@@ -47,6 +51,3 @@ Oh, what a funny thing
 I still care for you
 Oh, how strange
 How strange, how strange, how strange...
-
-
-

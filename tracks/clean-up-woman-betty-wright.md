@@ -1,8 +1,11 @@
 ---
+album: I Love The Way You Love
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:6uqTETWok9npbL4c9cuLVh
 features: []
-genres: []
+first_released_as_single: false
 key: clean-up-woman-betty-wright
 lyrics_url: https://genius.com/Betty-wright-clean-up-woman-lyrics
 name: Clean Up Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 169533
 ---
 A clean up woman is a woman who
 Gets all the love we girls leave behind

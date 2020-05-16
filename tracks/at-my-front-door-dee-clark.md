@@ -1,8 +1,11 @@
 ---
+album: Rain Drops
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:4VfHt3eRQcXo50kWdtdcXV
 features: []
-genres: []
+first_released_as_single: false
 key: at-my-front-door-dee-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Dee-Clark/At-My-Front-Door
 name: At My Front Door
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 160537
 ---
 Knock, knock, knock, knock
 Knock, knock, knock, knock

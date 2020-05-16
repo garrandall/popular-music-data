@@ -1,8 +1,11 @@
 ---
+album: Raise!
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:7a1GJ9rwneQhq9Srhq6mHD
 features: []
-genres: []
+first_released_as_single: false
 key: wanna-be-with-you-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-wanna-be-with-you-lyrics
 name: Wanna Be With You
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
+release_year: 1981
+runtime: 280506
 ---
 Yesterday seems like so long ago
 This space I'm in, reminds me so

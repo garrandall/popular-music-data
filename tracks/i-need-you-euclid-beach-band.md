@@ -1,8 +1,11 @@
 ---
+album: Euclid Beach Band
 artists:
 - Euclid Beach Band
+external_ids:
+  spotify: spotify:track:4FNeVWrfrDyluFTDnAqVbi
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-euclid-beach-band
 lyrics_url: https://www.musixmatch.com/lyrics/The-Euclid-Beach-Band/I-Need-You
 name: I Need You
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-04-28'
+release_year: 1979
+runtime: 225306
 ---
 Well, I tried to write a special song
 A love song just for you

@@ -1,8 +1,11 @@
 ---
+album: Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:0JM3X9sJ7bdF9pfnlQCgAZ
 features: []
-genres: []
+first_released_as_single: false
 key: abraham-martin-and-john-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/abrahammartinandjohn.html
 name: Abraham Martin And John
@@ -63,8 +66,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 200440
 ---
-
 Anybody here seen my old friend Abraham?
 Can you tell me where he's gone?
 He freed lotta people but it seems the good they die young
@@ -89,6 +93,3 @@ Anybody here seen my old friend Bobby?
 Can you tell me where he's gone?
 I thought I saw him walkin' up over the hill
 With Abraham, Martin, and John
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: BTR
 artists:
 - Big Time Rush
+external_ids:
+  spotify: spotify:track:1rKBOL9kJfX1Y4C3QaOvRH
 features: []
-genres: []
+first_released_as_single: false
 key: boyfriend-big-time-rush
 lyrics_url: https://www.azlyrics.com/lyrics/bigtimerush/boyfriend.html
 name: Boyfriend
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2010
+runtime: 201040
 ---
-
 Your boy boy b-b-boy-b-b-boyfriend
 Your boy boy b-b-boy-b-b-boyfriend
 Your boy boy b-b-boy-b-b-boyfriend
@@ -144,6 +148,3 @@ Your boy boy b-b-boy-b-b-boyfriend
 Your boy boy b-b-boy-b-b-boyfriend
 
 All I really want is to be your...
-
-
-

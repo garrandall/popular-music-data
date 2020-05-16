@@ -1,8 +1,11 @@
 ---
+album: Back To Avalon
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:1sCgHtOZFYWNbZ51xUOQaS
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-fool--theme-from--caddyshack-ii---kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-nobodys-fool-lyrics
 name: Nobody's Fool (Theme From "Caddyshack II")
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1988
+runtime: 257733
 ---
 I know you think
 I'm no match for you, baby

@@ -1,8 +1,11 @@
 ---
+album: Fanmail
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:0BUoLE4o9eVahDHvTqak67
 features: []
-genres: []
+first_released_as_single: false
 key: unpretty-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/unpretty.html
 name: Unpretty
@@ -135,8 +138,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
+release_year: 1999
+runtime: 278066
 ---
-
 I wish I could tie you up in my shoes
 Make you feel unpretty too
 I was told I was beautiful
@@ -224,6 +228,3 @@ You can buy all the make up
 That M.A.C. can make, but if
 You can't look inside you
 Be in the position that make me feel so
-
-
-

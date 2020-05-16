@@ -1,8 +1,11 @@
 ---
+album: Montevallo
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:1drWXUvyjHDnZHNSvXBOGN
 features: []
-genres: []
+first_released_as_single: true
 key: leave-the-night-on-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/leavethenighton.html
 name: Leave The Night On
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 192973
 ---
-
 They roll the sidewalks in this town
 All up after the sun goes down
 They say nothin' good happens here
@@ -147,6 +151,3 @@ We can leave the night on
 
 Buzzin' like a streetlight
 We can leave 'em on tonight
-
-
-

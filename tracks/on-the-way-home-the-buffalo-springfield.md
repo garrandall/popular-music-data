@@ -1,8 +1,11 @@
 ---
+album: Last Time Around
 artists:
 - The Buffalo Springfield
+external_ids:
+  spotify: spotify:track:10W7CN0zC8FwRa66JDxpay
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-way-home-the-buffalo-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/buffalospringfield/onthewayhome.html
 name: On The Way Home
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 150000
 ---
-
 When the dream came
 I held my breath with my eyes closed
 I went insane
@@ -38,6 +42,3 @@ Because I love you, can you see me now
 Though we rush ahead to save our time
 We are only what we feel
 And I love you, can you feel it now
-
-
-

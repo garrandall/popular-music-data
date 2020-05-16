@@ -1,8 +1,11 @@
 ---
+album: Firecracker
 artists:
 - Lisa Loeb
+external_ids:
+  spotify: spotify:track:213nuIc0gDT2ZzmPF4PwSo
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-forget-about-it-lisa-loeb
 lyrics_url: https://genius.com/Lisa-loeb-lets-forget-about-it-lyrics
 name: Let's Forget About It
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
+release_year: 1997
+runtime: 165866
 ---
 I told you I was sorry
 I told you I was wrong

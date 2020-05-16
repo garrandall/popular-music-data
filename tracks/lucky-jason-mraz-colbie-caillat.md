@@ -1,9 +1,12 @@
 ---
+album: We Sing. We Dance. We Steal Things.
 artists:
 - Jason Mraz
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:0IktbUcnAGrvD03AWnz3Q8
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-jason-mraz-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmraz/lucky.html
 name: Lucky
@@ -88,9 +91,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2009-06-06'
+release_year: 2008
+runtime: 191360
 ---
-
-
 Do you hear me, I'm talking to you
 Across the water across the deep blue ocean
 Under the open sky, oh my, baby I'm trying
@@ -145,6 +148,3 @@ Lucky to be coming home someday
 
 Oh oh oh oh oh oh oh oh
 Oh oh oh oh oh oh oh oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Night Has A Thousand Eyes
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:4ZQyzfQ8lmicx974FvzR7l
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/My-Girl-Hey-Girl
 name: My Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1963
+runtime: 131760
 ---
 I've got sunshine on a cloudy day
 And when it's cold outside

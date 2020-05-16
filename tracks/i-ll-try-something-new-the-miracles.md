@@ -1,8 +1,11 @@
 ---
+album: I'll Try Something New
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:21m543vxwOjEI0ZaxBxptB
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-try-something-new-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/illtrysomethingnew.html
 name: I'll Try Something New
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 158346
 ---
-
 I will build you a castle with a tower so high
 It reaches the moon
 I'll gather melodies from birdies that fly
@@ -87,6 +91,3 @@ Oh, well if at first I don't succeed
 Try again is what I'll do
 Always trying something else
 Always trying something that's new
-
-
-

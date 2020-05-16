@@ -1,8 +1,11 @@
 ---
+album: Barefoot Blue Jean Night
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:3ts6xK5GzfMAAriT9AIBmP
 features: []
-genres: []
+first_released_as_single: false
 key: barefoot-blue-jean-night-jake-owen
 lyrics_url: https://genius.com/Jake-owen-barefoot-blue-jean-night-lyrics
 name: Barefoot Blue Jean Night
@@ -103,6 +106,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 167426
 ---
 A full moon shining bright
 Edge of the water; we were feeling alright

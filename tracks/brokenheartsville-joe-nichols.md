@@ -1,8 +1,11 @@
 ---
+album: Man With A Memory
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:0WB48shl2wAH4KqyQkQ8nJ
 features: []
-genres: []
+first_released_as_single: false
 key: brokenheartsville-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/brokenheartsville.html
 name: Brokenheartsville
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
+release_year: 2002
+runtime: 230360
 ---
-
 He wore that cowboy hat to cover up his horns.
 Sweet-talkin' forked tongue had a temptin' charm.
 Before I turned around, that girl was gone.
@@ -125,6 +129,3 @@ I think the devil drives a Coupe de Ville.
 I watched 'em drive away over the hill,
 Not against her will, and I've got time to kill,
 Down in Brokenheartsville.
-
-
-

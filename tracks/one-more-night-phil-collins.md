@@ -1,8 +1,11 @@
 ---
+album: No Jacket Required
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:6fkvIT9KFKxO8poBeKfaEf
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-night-phil-collins
 lyrics_url: https://genius.com/Phil-collins-one-more-night-lyrics
 name: One More Night
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-06-08'
+release_year: 1985
+runtime: 288973
 ---
 One more night, one more night
 One more night

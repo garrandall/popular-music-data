@@ -1,8 +1,11 @@
 ---
+album: Seasons Change
 artists:
 - Scotty McCreery
+external_ids:
+  spotify: spotify:track:74CEfiZthUGX5yUNNUM4bj
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-it-scotty-mccreery
 lyrics_url: https://genius.com/Scotty-mccreery-this-is-it-lyrics
 name: This Is It
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 230973
 ---
 Way up in the mountains, four thousand feet high
 There's a trail through the trees to a cliff where Carolina meets the sky

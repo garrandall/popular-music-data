@@ -1,8 +1,11 @@
 ---
+album: What Is Soul?
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:0nGFjSLODdvEj7npKMU8GG
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-my-love-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-goodnight-my-love-lyrics
 name: Goodnight My Love
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1966
+runtime: 158000
 ---
 Goodnight, my love
 Pleasant dreams

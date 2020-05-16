@@ -1,8 +1,11 @@
 ---
+album: Rock and Pop Oldies Mix, Vol. 1
 artists:
 - Spencer and Spencer
+external_ids:
+  spotify: spotify:track:2s4tB1ozVz1dRxBvipVDe1
 features: []
-genres: []
+first_released_as_single: false
 key: russian-band-stand-spencer-spencer-with-the-sonia-pryor-choir
 lyrics_url: https://www.musixmatch.com/lyrics/Spencer-Spencer-with-the-Sonia-Pryor-Choir/Russian-Band-Stand
 name: Russian Band Stand
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 107066
 ---
 Welcome to Russian Band Stand
 Dis is your host, Nikita Clarkchev

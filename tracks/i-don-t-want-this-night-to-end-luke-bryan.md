@@ -1,8 +1,11 @@
 ---
+album: Tailgates & Tanlines
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:1hsvGdqzYUSb2s19xKp1wX
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-this-night-to-end-luke-bryan
 lyrics_url: https://www.musixmatch.com/lyrics/Luke-Bryan/I-Don-t-Want-This-Night-to-End
 name: I Don't Want This Night To End
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2011
+runtime: 219973
 ---
 Girl, I know I don't know you
 But your pretty little eyes so blue

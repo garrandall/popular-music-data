@@ -1,8 +1,11 @@
 ---
+album: Title - Track by Track Commentary
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:2qXHIXbH9PoqtmafkeiIvn
 features: []
-genres: []
+first_released_as_single: false
 key: dear-future-husband-meghan-trainor
 lyrics_url: https://www.azlyrics.com/lyrics/meghantrainor/dearfuturehusband.html
 name: Dear Future Husband
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2014
+runtime: 27746
 ---
-
 Dear future husband
 Here's a few things
 You need to know if you wanna be
@@ -182,6 +186,3 @@ Tell me I'm beautiful each and every night
 That's right!
 
 Future husband, better love me right
-
-
-

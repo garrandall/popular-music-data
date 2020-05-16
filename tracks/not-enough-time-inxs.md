@@ -1,8 +1,11 @@
 ---
+album: Welcome To Wherever You Are
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:4nwgKaHg9TJahiSSmt3X1x
 features: []
-genres: []
+first_released_as_single: false
 key: not-enough-time-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/notenoughtime.html
 name: Not Enough Time
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
+release_year: 1992
+runtime: 250653
 ---
-
 And I was lost for words
 In your arms
 Attempting to make sense
@@ -115,6 +119,3 @@ That I want for you
 Not enough time for every kiss
 And every touch and all the nights
 I wanna be inside you
-
-
-

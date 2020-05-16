@@ -1,8 +1,11 @@
 ---
+album: Phil Vassar
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:1TFui640dnG5YInNTqY4SX
 features: []
-genres: []
+first_released_as_single: false
 key: six-pack-summer-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/sixpacksummer.html
 name: Six-Pack Summer
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 2000
+runtime: 218160
 ---
-
 Winter sure was cold and miserable
 Cooped up, shut down, baby it was pitiful
 Anyhow, it's over now
@@ -77,6 +81,3 @@ Just to relax and let the six-pack summer roll
 
 Slow and steady, I'm so ready
 Uh, oh another six-pack summer
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Autoamerican
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:165NAtd2DRPKNQ6EVY0VG9
 features: []
-genres: []
+first_released_as_single: true
 key: the-tide-is-high-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/thetideishigh.html
 name: The Tide Is High
@@ -111,8 +114,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1980
+runtime: 233893
 ---
-
 The tide is high but I'm holding on
 I'm gonna be your number one
 I'm not the kind of girl who gives up just like that
@@ -169,6 +173,3 @@ I'm gonna be your number one
 The tide is high but I'm holding on
 I'm gonna be your number one
 Your number one
-
-
-

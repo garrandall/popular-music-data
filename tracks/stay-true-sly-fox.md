@@ -1,8 +1,11 @@
 ---
+album: Let's Go All The Way
 artists:
 - Sly Fox
+external_ids:
+  spotify: spotify:track:0T7TJkVoXGRUfVBpAOpgxH
 features: []
-genres: []
+first_released_as_single: false
 key: stay-true-sly-fox
 lyrics_url: https://genius.com/Sly-fox-us-duo-stay-true-lyrics
 name: Stay True
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
+release_year: 1985
+runtime: 221933
 ---
 I'm gonna love you, my baby
 Gonna do it your way

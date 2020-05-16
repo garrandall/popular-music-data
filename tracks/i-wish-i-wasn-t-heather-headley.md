@@ -1,8 +1,11 @@
 ---
+album: This Is Who I Am
 artists:
 - Heather Headley
+external_ids:
+  spotify: spotify:track:4xVTo97ZBwlT8ai9Wj8zw4
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-i-wasn-t-heather-headley
 lyrics_url: https://www.musixmatch.com/lyrics/Heather-Headley/I-Wish-I-Wasn-t
 name: I Wish I Wasn't
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 2002
+runtime: 255466
 ---
 I'm home alone again
 And you're out, hanging with your friends

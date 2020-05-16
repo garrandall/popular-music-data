@@ -1,8 +1,11 @@
 ---
+album: Chicago II
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:7GqIDx2QVGOpd4r1fZaUUW
 features: []
-genres: []
+first_released_as_single: false
 key: 25-or-6-to-4-chicago
 lyrics_url: https://genius.com/Chicago-25-or-6-to-4-lyrics
 name: 25 Or 6 To 4
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1970
+runtime: 289800
 ---
 Waiting for the break of day
 Searching for something to say
@@ -95,16 +100,12 @@ Giving up I close my eyes
 Sitting cross-legged on the floor
 Twenty five or six to four
 
-
 Staring blindly into space
 Getting up to splash my face
 Wanting just to stay awake
 Wondering how much I can take
 Should I try to do some more?
 Twenty five or six to four
-
-{Instrumental}
-
 
 Feeling like I ought to sleep
 Spinning room is sinking deep

@@ -1,8 +1,11 @@
 ---
+album: 'Project: Funk Da World'
 artists:
 - Craig Mack
+external_ids:
+  spotify: spotify:track:3sog6rNg0KoftO7ltWoNjf
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-craig-mack
 lyrics_url: https://genius.com/Craig-mack-get-down-lyrics
 name: Get Down
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
+release_year: 1994
+runtime: 266866
 ---
 And bass up the track a little bit
 'Cause I wanna hear that "boompsh, boompsh"

@@ -1,8 +1,11 @@
 ---
+album: In Square Circle
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:2lnQcP5hr4RKR63TFvnI4k
 features: []
-genres: []
+first_released_as_single: false
 key: overjoyed-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/overjoyed.html
 name: Overjoyed
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1985
+runtime: 222586
 ---
-
 Over time, I've been building my castle of love
 Just for two, though you never knew you were my reason
 I've gone much too far for you now to say
@@ -99,6 +103,3 @@ All true love needs is a chance
 And maybe with a chance you will find
 You too like I
 Overjoyed, over loved, over you, over you
-
-
-

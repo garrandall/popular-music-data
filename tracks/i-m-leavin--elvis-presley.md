@@ -1,8 +1,11 @@
 ---
+album: Elvis Now
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5PBlU7JLNW2UoA3Dpwyyhg
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-leavin--elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-im-leavin-lyrics
 name: I'm Leavin'
@@ -43,6 +46,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 229426
 ---
 La la la la la la la la la la la la la
 La la la la la la la la la la la la la

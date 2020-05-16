@@ -1,8 +1,11 @@
 ---
+album: Silk Degrees
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:290g7LaS5icnIywogzldul
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-boz-scaggs
 lyrics_url: https://genius.com/Boz-scaggs-its-over-lyrics
 name: It's Over
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1976
+runtime: 169760
 ---
 Best of friends
 Never part

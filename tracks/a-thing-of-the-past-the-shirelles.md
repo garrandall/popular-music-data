@@ -1,8 +1,11 @@
 ---
+album: Baby It's You
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:1Q0Loi5bfwSpaUwlue7mHr
 features: []
-genres: []
+first_released_as_single: false
 key: a-thing-of-the-past-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-a-thing-of-the-past-lyrics
 name: A Thing Of The Past
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 159293
 ---
 Our love's becoming a thing of the past
 Your kisses taste like it's goodbye

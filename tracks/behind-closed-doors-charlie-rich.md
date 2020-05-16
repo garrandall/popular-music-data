@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:6d7Jz2np6jtNaZv1DiWfJs
 features: []
-genres: []
+first_released_as_single: false
 key: behind-closed-doors-charlie-rich
 lyrics_url: https://genius.com/Charlie-rich-behind-closed-doors-lyrics
 name: Behind Closed Doors
@@ -83,6 +86,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1970
+runtime: 174666
 ---
 My baby makes me proud
 Lord, don't she make me proud

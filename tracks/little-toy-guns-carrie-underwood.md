@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: Decade #1- Stories Behind the Songs'
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:1RD0WzCJcMpIZPgVVS0VLj
 features: []
-genres: []
+first_released_as_single: false
 key: little-toy-guns-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/littletoyguns.html
 name: Little Toy Guns
@@ -79,8 +82,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2014
+runtime: 33746
 ---
-
 In between the coats in the closet
 She held on to that heart-shaped locket
 Staring at a family, flawless
@@ -146,6 +150,3 @@ And just a bang, bang rolling off your tongue
 Toy guns
 
 Oh, like little toy guns
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Saraya
 artists:
 - Saraya
+external_ids:
+  spotify: spotify:track:0vFOxSmQ2DvSlqeicQFGZO
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-the-bullet-saraya
 lyrics_url: https://genius.com/Saraya-back-to-the-bullet-lyrics
 name: Back To The Bullet
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-01-06'
+release_year: 1989
+runtime: 229840
 ---
 Lately I find myself driving past your house
 Past the bar we used to go, whoa

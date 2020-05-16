@@ -1,9 +1,12 @@
 ---
+album: TIM
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:0n2nEtLP3OzDdi12ziIekx
 features:
 - Aloe Blacc
-genres: []
+first_released_as_single: true
 key: sos-avicii-aloe-blacc
 lyrics_url: https://www.azlyrics.com/lyrics/avicii/sos.html
 name: SOS
@@ -24,8 +27,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 157202
 ---
-
 Can you hear me, S.O.S.?
 Help me put my mind to rest
 Two times clean again, I'm actin' low
@@ -58,6 +62,3 @@ We could be more than just part-time lovers
 
 Can you hear me, S.O.S.?
 Help me put my mind to rest
-
-
-

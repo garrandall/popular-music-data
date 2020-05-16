@@ -1,8 +1,11 @@
 ---
+album: Fight Dirty
 artists:
 - Charlie
+external_ids:
+  spotify: spotify:track:5doSujt2ivzuGZAan5tLTn
 features: []
-genres: []
+first_released_as_single: false
 key: killer-cut-charlie
 lyrics_url: https://genius.com/Charlie-killer-cut-lyrics
 name: Killer Cut
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 369866
 ---
 Thomas
 

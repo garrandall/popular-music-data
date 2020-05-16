@@ -1,8 +1,11 @@
 ---
+album: Pull Up To The Bumper
 artists:
 - Patra
+external_ids:
+  spotify: spotify:track:1xPj2SJktHQZxzHB3YQZc9
 features: []
-genres: []
+first_released_as_single: false
 key: pull-up-to-the-bumper-patra
 lyrics_url: https://genius.com/Patra-pull-up-to-the-bumper-lyrics
 name: Pull Up To The Bumper
@@ -47,6 +50,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 250760
 ---
 Ay so
 Hahaha

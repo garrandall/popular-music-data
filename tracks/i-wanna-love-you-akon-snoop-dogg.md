@@ -1,9 +1,12 @@
 ---
+album: Konvicted
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:4xAk8Lw82G3YoVSOdVAsBx
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: i-wanna-love-you-akon-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/akon/iwannaloveyou.html
 name: I Wanna Love You
@@ -124,9 +127,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 247066
 ---
-
-
 Konvict, Konvict Music, and you know we up front
 
 I see you winding and grinding up on that pole
@@ -213,6 +216,3 @@ I see you winding and grinding up on that pole
 I know you see me lookin' at you and you already know
 I wanna fuck you, you already know
 I wanna fuck you, you already know, girl
-
-
-

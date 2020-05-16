@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:4MLsmNm5YZdmZnq1bdRThg
 features: []
-genres: []
+first_released_as_single: false
 key: jamie-ray-parker-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/rayparkerjr/jamie.html
 name: Jamie
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 257066
 ---
-
 Jamie used to be my girl
 She used to be my girl
 It's hard to imagine her
@@ -142,6 +146,3 @@ Watch who you're laying with Jamie
 Jamie Jamie Jamie
 She used to be my girl
 She used to be my girl Jamie Jamie
-
-
-

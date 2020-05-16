@@ -1,8 +1,11 @@
 ---
+album: Tapestry
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:1oC4vE7vSN259qX8VpQjGU
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-too-late-carole-king
 lyrics_url: https://genius.com/Carole-king-its-too-late-lyrics
 name: It's Too Late
@@ -75,6 +78,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
+release_year: 1968
+runtime: 233506
 ---
 Stayed in bed all morning just to pass the time
 There's something wrong here, there can be no denying

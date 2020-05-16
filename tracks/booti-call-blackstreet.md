@@ -1,8 +1,11 @@
 ---
+album: Blackstreet
 artists:
 - BLACKstreet
+external_ids:
+  spotify: spotify:track:7ABJ2azouB9EwEYzL9Tljt
 features: []
-genres: []
+first_released_as_single: false
 key: booti-call-blackstreet
 lyrics_url: https://www.azlyrics.com/lyrics/blackstreet/booticall.html
 name: Booti Call
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
+release_year: 1994
+runtime: 266493
 ---
-
 It's just a bootie call
 
 Hey baby, turn around
@@ -203,6 +207,3 @@ Nothing but the dog in me
 
 Bow wow wow
 Yippy yo yippee ay, hey
-
-
-

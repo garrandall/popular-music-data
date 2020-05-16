@@ -1,8 +1,11 @@
 ---
+album: Freedom Means
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:5KrmHRzG3clUKzMhASBw0t
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-we-had--stays-on-my-mind--the-dells
 lyrics_url: https://genius.com/The-dells-the-love-we-had-stays-on-my-mind-lyrics
 name: The Love We Had (Stays On My Mind)
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 290480
 ---
 Lately babe, I've been thinkin'
 How good it was when you were here

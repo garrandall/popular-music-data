@@ -1,8 +1,11 @@
 ---
+album: Action Speaks Louder Than Words
 artists:
 - Chocolate Milk
+external_ids:
+  spotify: spotify:track:2vMMyG4iw5OppGOh23kXIe
 features: []
-genres: []
+first_released_as_single: false
 key: action-speaks-louder-than-words-chocolate-milk
 lyrics_url: https://genius.com/Chocolate-milk-action-speaks-louder-than-words-lyrics
 name: Action Speaks Louder Than Words
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 211186
 ---
 Action speaks louder than words
 Action speaks louder than words

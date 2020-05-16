@@ -1,8 +1,11 @@
 ---
+album: Gaucho
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:1tjK9HhmpEfk0ijyIKsoUk
 features: []
-genres: []
+first_released_as_single: false
 key: hey-nineteen-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/heynineteen.html
 name: Hey Nineteen
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1980
+runtime: 307400
 ---
-
 Way back when
 In Sixty-seven
 I was the dandy
@@ -133,6 +137,3 @@ Make tonight a wonderful thing
 
 No we can't dance together
 No we can't talk at all
-
-
-

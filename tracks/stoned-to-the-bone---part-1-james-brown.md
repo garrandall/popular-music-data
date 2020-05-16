@@ -1,8 +1,11 @@
 ---
+album: Star Time
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3tC8AwTtSolYgKZfEKPpy3
 features: []
-genres: []
+first_released_as_single: false
 key: stoned-to-the-bone---part-1-james-brown
 lyrics_url: https://genius.com/James-brown-stoned-to-the-bone-part-1-lyrics
 name: Stoned To The Bone - Part 1
@@ -51,6 +54,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 208066
 ---
 Oh oh oohohoh
 

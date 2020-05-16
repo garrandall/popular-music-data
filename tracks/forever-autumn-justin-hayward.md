@@ -1,8 +1,11 @@
 ---
+album: Jeff Wayne's Musical Version of The War Of The Worlds
 artists:
 - Justin Hayward
+external_ids:
+  spotify: spotify:track:3iVAVxb9pKPO9xN1bErEPj
 features: []
-genres: []
+first_released_as_single: false
 key: forever-autumn-justin-hayward
 lyrics_url: https://genius.com/Justin-hayward-forever-autumn-lyrics
 name: Forever Autumn
@@ -59,6 +62,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 209306
 ---
 The summer sun is fading as the year grows old
 And darker days are drawing near

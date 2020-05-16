@@ -1,8 +1,11 @@
 ---
+album: Unlimited!
 artists:
 - Roger
+external_ids:
+  spotify: spotify:track:0qHAsRsQ2aeTxaKiYJtrJR
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-be-your-man-roger
 lyrics_url: https://genius.com/Roger-troutman-i-want-to-be-your-man-lyrics
 name: I Want To Be Your Man
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1978
+runtime: 243040
 ---
 Hey lady
 Let me tell you why I

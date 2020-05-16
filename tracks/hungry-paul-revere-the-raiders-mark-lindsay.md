@@ -1,10 +1,13 @@
 ---
+album: The Spirit of '67
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:4z4Yncn9OTayQdaln0tvXF
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: hungry-paul-revere-the-raiders-mark-lindsay
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Hungry
 name: Hungry
@@ -53,6 +56,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 178866
 ---
 Girl you got this need to know what I'm all about
 There's something that you dig you can't figure out

@@ -1,9 +1,12 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:7r6aR2f57resC5r93LwMfK
 features:
 - Fred Hammond
-genres: []
+first_released_as_single: false
 key: hands-on-kanye-west-fred-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/handson.html
 name: Hands On
@@ -12,9 +15,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 203174
 ---
-
-
 Hand 'em
 Hands up high, hands on, hands on
 Hands on, hands up
@@ -94,6 +97,3 @@ Hands up high, hands on, hands on
 Hands on, hands up
 In your face, the reason
 Hands on, yeah, hands on
-
-
-

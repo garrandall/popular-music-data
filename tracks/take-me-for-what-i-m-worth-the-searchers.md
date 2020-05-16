@@ -1,8 +1,11 @@
 ---
+album: The Definitive Pye Collection
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:1GJXmWqzjcPdGsLtVUjtdY
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-for-what-i-m-worth-the-searchers
 lyrics_url: https://genius.com/The-searchers-take-me-for-what-im-worth-lyrics
 name: Take Me For What I'm Worth
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 161466
 ---
 Don't try and understand me, you never could do that
 Ah, and in the end you'd wind up being hurt

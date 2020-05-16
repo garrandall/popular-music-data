@@ -1,8 +1,11 @@
 ---
+album: Electric Youth
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:3Xf2sQ8QKjl9b7MY2UsmvR
 features: []
-genres: []
+first_released_as_single: false
 key: we-could-be-together-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/wecouldbetogether.html
 name: We Could Be Together
@@ -31,9 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1989
+runtime: 332826
 ---
-
-
 If I were an only child
 I would be a lonely child
 but baby we've got nothing to lose
@@ -127,6 +130,3 @@ for a while
 
 Don't you know that we could be together
 for a while.
-
-
-

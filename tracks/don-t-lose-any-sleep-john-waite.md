@@ -1,8 +1,11 @@
 ---
+album: Rover's Return
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:4QyU0TsIhQbSBuiTjqMUFO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-lose-any-sleep-john-waite
 lyrics_url: https://genius.com/John-waite-dont-lose-any-sleep-lyrics
 name: Don't Lose Any Sleep
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 227960
 ---
 You tell me to be strong
 You tell me to be strong

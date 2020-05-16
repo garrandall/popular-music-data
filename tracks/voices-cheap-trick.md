@@ -1,8 +1,11 @@
 ---
+album: Dream Police
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:0yo37dpNxQusFLQ7tUzGjf
 features: []
-genres: []
+first_released_as_single: false
 key: voices-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/voices.html
 name: Voices
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1977
+runtime: 262440
 ---
-
 You didn't know what you were looking for
 Till you heard the voices in your ear
 
@@ -110,6 +114,3 @@ You didn't know what you were looking for
 Till you heard the voices in your ear
 You didn't know what you were looking for
 Till you heard the voices in your ear
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Take You Home
 artists:
 - Angie Martinez
+external_ids:
+  spotify: spotify:track:76HwNiaQIPdiKkPr9rIblr
 features:
 - Kelis
-genres: []
+first_released_as_single: true
 key: take-you-home-angie-martinez-kelis
 lyrics_url: https://genius.com/Angie-martinez-take-you-home-lyrics
 name: Take You Home
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-02-22'
+release_year: 2003
+runtime: 233226
 ---
 Yea... wooo!
 Uh, the animals are here

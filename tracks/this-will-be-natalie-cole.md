@@ -1,8 +1,11 @@
 ---
+album: Inseparable
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:0PDCewmZCp0P5s00bptcdd
 features: []
-genres: []
+first_released_as_single: false
 key: this-will-be-natalie-cole
 lyrics_url: https://genius.com/Natalie-cole-this-will-be-lyrics
 name: This Will Be
@@ -75,6 +78,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
+release_year: 1975
+runtime: 171960
 ---
 This will be an everlasting love
 This will be the one I've waited for

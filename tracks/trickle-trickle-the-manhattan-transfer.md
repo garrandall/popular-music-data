@@ -1,8 +1,11 @@
 ---
+album: Extensions
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:7iKNdHwoCTlyI596AMupzd
 features: []
-genres: []
+first_released_as_single: false
 key: trickle-trickle-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/trickletrickle.html
 name: Trickle Trickle
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1979
+runtime: 142400
 ---
-
 Trickle, trickle, splash, splash
 Tell me how long will this rain last
 The rain keeps droppin', there ain't no stoppin'
@@ -84,6 +88,3 @@ Just got to see my sweet gum drop
 She's there waitin' and I'm hesitatin'
 Tell me how long will this rain last
 Tell me how long will it last
-
-
-

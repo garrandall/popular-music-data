@@ -1,8 +1,11 @@
 ---
+album: Shadows
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:1jR04vkP2lDFGUHJCRh2Iv
 features: []
-genres: []
+first_released_as_single: false
 key: baby-step-back-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/babystepback.html
 name: Baby Step Back
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1982
+runtime: 238040
 ---
-
 Now it looks to me like the same old place,
 in the sky it looks like rain.
 The same old town with the same old streets,
@@ -81,6 +85,3 @@ Baby walk back, baby walk back,
 either walk on or walk back.
 Baby step back, baby step back,
 either step up or step back.
-
-
-

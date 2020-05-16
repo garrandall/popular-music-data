@@ -1,8 +1,11 @@
 ---
+album: Stronger Than Pride
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:5DUX5YEV66m0ft9SF0Zxyu
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/paradise.html
 name: Paradise
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
+release_year: 1988
+runtime: 242240
 ---
-
 I'd wash the sand off the shore
 Give you the world if it was mine
 Blow you right to my door
@@ -118,6 +122,3 @@ Wanna share my life
 
 Oh what a life
 Like paradise
-
-
-

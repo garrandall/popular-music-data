@@ -1,11 +1,14 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6HSqyfGnsHYw9MmIpa9zlZ
 features:
 - Kanye West
 - Lil Wayne
 - Eminem
-genres: []
+first_released_as_single: false
 key: forever-drake-kanye-west-lil-wayne-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/drake/forever.html
 name: Forever
@@ -106,9 +109,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2009
+runtime: 357346
 ---
-
-
 It may not mean nothing to y'all
 But understand nothing was done for me
 So I don't plan on stopping at all
@@ -247,6 +250,3 @@ I'm shutting shit down in the mall
 And telling every girl she the one for me
 And I ain't even planning to call
 I want this shit forever, man ever, man ever, man
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Seal IV
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:0kTmUKhDT7aEYWmNCaEGay
 features: []
-genres: []
+first_released_as_single: true
 key: love-s-divine-seal
 lyrics_url: https://genius.com/Seal-loves-divine-lyrics
 name: Love's Divine
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
+release_year: 2003
+runtime: 273999
 ---
 Then the rainstorm came over me
 And I felt my spirit break

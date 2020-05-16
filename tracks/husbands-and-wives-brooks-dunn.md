@@ -1,9 +1,12 @@
 ---
+album: If You See Her
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:2IcchxGB08zRECuSYqA0V9
 features: []
-genres: []
+first_released_as_single: false
 key: husbands-and-wives-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/husbandsandwives.html
 name: Husbands And Wives
@@ -44,8 +47,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 190293
 ---
-
 Two broken hearts lonely looking houses
 Where nobody lives
 Two people each having so much pride inside
@@ -72,6 +76,3 @@ Of the number of husbands and wives
 
 It's my belief pride is the chief cause in the decline
 Of the number of husbands and wives
-
-
-

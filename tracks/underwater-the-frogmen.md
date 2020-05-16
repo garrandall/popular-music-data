@@ -1,8 +1,11 @@
 ---
+album: 'Rumble In Malibu: The Surfers Soundtrack'
 artists:
 - The Frogmen
+external_ids:
+  spotify: spotify:track:15RAM0eY6ILldKcnI3jywF
 features: []
-genres: []
+first_released_as_single: false
 key: underwater-the-frogmen
 name: Underwater
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 125920
 ---
 

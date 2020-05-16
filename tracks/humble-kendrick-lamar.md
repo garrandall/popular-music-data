@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:131OLY5J8XyfGuSjXRiTRM
 features: []
-genres: []
+first_released_as_single: false
 key: humble-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/humble.html
 name: Humble
@@ -155,9 +158,10 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 177000
 ---
-
- Wicked or weakness, you gotta see this, waaaaay (yeah, yeah!)
+Wicked or weakness, you gotta see this, waaaaay (yeah, yeah!)
  Nobody pray for me, it been that day for me, waaaaay (yeah, yeah!)
 
 Aye, I remember syrup sandwiches and crime allowances
@@ -232,6 +236,3 @@ Be humble (bitch)
 (Hol' up lil bitch) be humble
 (Hol' up bitch) sit down
 (Hol' up, hol' up, hol' up, hol' up)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: John The Wolfking Of L.A.
 artists:
 - John Phillips
+external_ids:
+  spotify: spotify:track:2mnqEWtD6FQgYhim7oN5y3
 features: []
-genres: []
+first_released_as_single: false
 key: mississippi-john-phillips
 lyrics_url: https://genius.com/John-phillips-mississippi-lyrics
 name: Mississippi
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 214440
 ---
 Hit it, Hal
 

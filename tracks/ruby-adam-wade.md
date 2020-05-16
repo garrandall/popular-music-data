@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:60wx08uTQwhTvGlmuCKicL
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-adam-wade
 lyrics_url: https://genius.com/Adam-wade-ruby-lyrics
 name: Ruby
@@ -39,6 +42,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 186266
 ---
 (Ruby, Ruby, Ruby, Ruby)
 

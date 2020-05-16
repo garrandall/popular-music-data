@@ -1,8 +1,11 @@
 ---
+album: Jessie James
 artists:
 - Jessie James
+external_ids:
+  spotify: spotify:track:6yrU8Dn9x8KcAftMIODkyP
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-jessie-james
 lyrics_url: https://genius.com/Jessie-james-decker-wanted-lyrics
 name: Wanted
@@ -55,6 +58,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2009
+runtime: 184546
 ---
 I wanna lie on my bed
 And do nothing (And do nothing)

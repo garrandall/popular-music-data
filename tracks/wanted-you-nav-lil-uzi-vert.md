@@ -1,9 +1,12 @@
 ---
+album: RECKLESS
 artists:
 - NAV
+external_ids:
+  spotify: spotify:track:790MhTXPFrYkrqCKvpg4t1
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: true
 key: wanted-you-nav-lil-uzi-vert
 lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-nav-wanted-you-feat-lil-uzi-vert-deutsche-ubersetzung-lyrics
 name: Wanted You
@@ -36,6 +39,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
+release_year: 2017
+runtime: 228080
 ---
 Wo bist du?
 Bei mir zuhause

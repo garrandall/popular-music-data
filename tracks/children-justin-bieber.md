@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:7sK3nu6yk8urQ44ouEB7Au
 features: []
-genres: []
+first_released_as_single: false
 key: children-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-children-lyrics
 name: Children
@@ -11,6 +14,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 223333
 ---
 What about the children?
 Look at all the children we can change

@@ -1,8 +1,11 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:5CJlnx9uYPijYk71oZUxjP
 features: []
-genres: []
+first_released_as_single: true
 key: moonlight-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/moonlight.html
 name: Moonlight
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2011
+runtime: 180062
 ---
-
 Yeah, got Lil Cos up here with me
 Yeah, yeah
 
@@ -72,6 +76,3 @@ Fuck is we makin'?
 'Cause their grass is greener
 'Cause they always rakin' in mo'
 Nah, nah, nah...
-
-
-

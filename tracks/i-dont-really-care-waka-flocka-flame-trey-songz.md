@@ -1,9 +1,12 @@
 ---
+album: 'Triple F Life: Friends, Fans & Family (Deluxe Version)'
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:5bK4oJXvHUqwI0ZpLtrnOl
 features:
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: i-dont-really-care-waka-flocka-flame-trey-songz
 lyrics_url: https://genius.com/Waka-flocka-flame-i-dont-really-care-lyrics
 name: I Dont Really Care
@@ -12,6 +15,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2012
+runtime: 235786
 ---
 Throwin' money in the air like I don't really care
 And I'm standin' on the chair like I don't really care

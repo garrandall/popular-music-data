@@ -1,9 +1,12 @@
 ---
+album: Jesus Christ Superstar
 artists:
 - Murray Head
+external_ids:
+  spotify: spotify:track:1D1p0w1Hcpjoi8rf75tnpe
 features:
 - The Trinidad Singers
-genres: []
+first_released_as_single: false
 key: superstar-murray-head-with-the-trinidad-singers
 lyrics_url: https://www.musixmatch.com/lyrics/Murray-Head-The-Trinidad-Singers/Superstar
 name: Superstar
@@ -132,6 +135,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1970
+runtime: 255831
 ---
 Every time I look at you
 I don't understand

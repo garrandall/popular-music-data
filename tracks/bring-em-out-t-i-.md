@@ -1,8 +1,11 @@
 ---
+album: Urban Legend
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:3CcvahnsiArpTHYQEWV2Au
 features: []
-genres: []
+first_released_as_single: false
 key: bring-em-out-t-i-
 lyrics_url: https://genius.com/Ti-bring-em-out-lyrics
 name: Bring Em Out
@@ -91,6 +94,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 2004
+runtime: 216706
 ---
 (Bring 'em out, Its hard to yell when the barrels in ya mouth) Swizzie!
 (Bring 'em out, bring 'em out) Aye!
@@ -165,5 +170,3 @@ Hands... In Da... Air... Now!
 Hands... In Da... Air... Now!
 Hands hands in the in the air air now!
 Hands... In Da... Air... Now!
-
-

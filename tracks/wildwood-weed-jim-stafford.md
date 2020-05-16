@@ -1,8 +1,11 @@
 ---
+album: Jim Stafford
 artists:
 - Jim Stafford
+external_ids:
+  spotify: spotify:track:2XqB7lzRMX6EFWY8HD4nZl
 features: []
-genres: []
+first_released_as_single: false
 key: wildwood-weed-jim-stafford
 lyrics_url: https://genius.com/Jim-stafford-wildwood-weed-lyrics
 name: Wildwood Weed
@@ -63,6 +66,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 160840
 ---
 The name of this song is the Wildwood Flower
 Now the Wildwood Flower is an old country classic

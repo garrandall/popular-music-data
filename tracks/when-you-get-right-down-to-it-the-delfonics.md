@@ -1,8 +1,11 @@
 ---
+album: The Delfonics
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:3JpDpIUafzYIM1fXRPCjWX
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-get-right-down-to-it-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-when-you-get-right-down-to-it-lyrics
 name: When You Get Right Down To It
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 168600
 ---
 When you get right down to it
 Isn't this moment what

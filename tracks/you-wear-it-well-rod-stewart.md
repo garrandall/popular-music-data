@@ -1,8 +1,11 @@
 ---
+album: Never A Dull Moment
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:08BSHFPXmclm8AYat5hXM7
 features: []
-genres: []
+first_released_as_single: false
 key: you-wear-it-well-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/youwearitwell.html
 name: You Wear It Well
@@ -47,8 +50,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 262960
 ---
-
 I had nothing to do on this hot afternoon
 but to settle down and write you a line
 I've been meaning to phone you but from Minnesota
@@ -91,6 +95,3 @@ Now I'm eatin' my heart out tryin' to get back to you
 
 After all the years I hope it's the same address
 Since you've been gone it's hard to carry on
-
-
-

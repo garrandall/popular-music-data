@@ -1,8 +1,11 @@
 ---
+album: So So Def Bass All-Stars Vol. II
 artists:
 - Corina
+external_ids:
+  spotify: spotify:track:1ByonnOdo6ngt0WzyOSxij
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-summertime-corina
 lyrics_url: https://www.musixmatch.com/lyrics/Corina/Summertime-Summertime
 name: Summertime Summertime
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 225533
 ---
 Take me away, llevame contigo
 I wanna play, querio jugar a la playa, en la tierra

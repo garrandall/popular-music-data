@@ -1,8 +1,11 @@
 ---
+album: Nobody Does It Better
 artists:
 - Gina Thompson
+external_ids:
+  spotify: spotify:track:1I8SqBOR5G5UFR9BJfZYmu
 features: []
-genres: []
+first_released_as_single: false
 key: the-things-that-you-do-gina-thompson
 lyrics_url: https://genius.com/Gina-thompson-the-things-that-you-do-lyrics
 name: The Things That You Do
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 273626
 ---
 It's the things that you do
 That makes me keep running to you

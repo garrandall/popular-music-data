@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:4dJ5dViPmuNPxOnxbwY1dr
 features: []
-genres: []
+first_released_as_single: false
 key: anything-goes-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/anythinggoes.html
 name: Anything Goes
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2008
+runtime: 184173
 ---
-
 Normally this time of night, you wouldn't find me here
 I'd be reaching for a good night kiss instead of one more beer
 I'd never take a second look at the blond across the bar
@@ -49,6 +53,3 @@ But anything goes, when everything's gone
 You aint around to give a damn whether I do right or wrong
 So bring it on, anything goes, when everything's gone
 Anything goes, anything goes, when everything's gone
-
-
-

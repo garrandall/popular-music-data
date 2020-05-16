@@ -1,8 +1,11 @@
 ---
+album: Guilty (Soundtrack)
 artists:
 - Hedgehoppers Anonymous
+external_ids:
+  spotify: spotify:track:4hCS2oXEcCRyY0zUIryCJd
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-good-news-week-hedgehoppers-anonymous
 lyrics_url: https://genius.com/Hedgehoppers-anonymous-its-good-news-week-lyrics
 name: It's Good News Week
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 126827
 ---
 It's good news week
 Someone's dropped a bomb somewhere

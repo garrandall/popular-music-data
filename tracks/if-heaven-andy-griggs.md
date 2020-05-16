@@ -1,8 +1,11 @@
 ---
+album: This I Gotta See
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:6nTeQGE4xXarl892zLDSuq
 features: []
-genres: []
+first_released_as_single: false
 key: if-heaven-andy-griggs
 lyrics_url: https://genius.com/Andy-griggs-if-heaven-lyrics
 name: If Heaven
@@ -71,6 +74,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-05-28'
+release_year: 2004
+runtime: 210973
 ---
 If heaven was an hour, it would be twilight
 When the fireflies start their dancin' on the lawn

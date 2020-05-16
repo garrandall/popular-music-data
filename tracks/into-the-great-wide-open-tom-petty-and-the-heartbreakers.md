@@ -1,8 +1,11 @@
 ---
+album: Into The Great Wide Open
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:63xBnyUVKIupzjHno4wFs3
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-great-wide-open-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/intothegreatwideopen.html
 name: Into The Great Wide Open
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1991
+runtime: 223333
 ---
-
 Eddie waited til he finished high school
 He went to Hollywood, got a tattoo
 He met a girl out there with a tattoo too
@@ -54,4 +58,3 @@ His leather jacket had chains that would jingle
 They both met movie stars, partied and mingled
 Their A&R man said, "I don't hear a single."
 The future was wide open
-

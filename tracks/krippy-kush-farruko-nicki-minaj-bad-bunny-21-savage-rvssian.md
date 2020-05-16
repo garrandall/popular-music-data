@@ -1,12 +1,15 @@
 ---
+album: Krippy Kush
 artists:
 - Farruko
 - Nicki Minaj
 - Bad Bunny
 - 21 Savage
 - Rvssian
+external_ids:
+  spotify: spotify:track:4EyIi7mtTzIqbErZZUUsRi
 features: []
-genres: []
+first_released_as_single: true
 key: krippy-kush-farruko-nicki-minaj-bad-bunny-21-savage-rvssian
 lyrics_url: https://www.azlyrics.com/lyrics/farruko/krippykushremix.html
 name: Krippy Kush
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-01-27'
+release_year: 2017
+runtime: 236965
 ---
 Hola
 Me llamo Onika

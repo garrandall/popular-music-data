@@ -1,8 +1,11 @@
 ---
+album: Everybody Loves Somebody
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:5I9sHwLDX28tLtzVgKLtpr
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-somebody-dean-martin
 lyrics_url: https://genius.com/Dean-martin-everybody-loves-somebody-lyrics
 name: Everybody Loves Somebody
@@ -67,6 +70,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 164546
 ---
 Everybody loves somebody sometime
 Everybody falls in love somehow

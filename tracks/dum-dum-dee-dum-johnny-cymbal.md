@@ -1,8 +1,11 @@
 ---
+album: Mr. Bass Man - The Best Of
 artists:
 - Johnny Cymbal
+external_ids:
+  spotify: spotify:track:3Z7V4IkrhEKYp1MTK3wwuB
 features: []
-genres: []
+first_released_as_single: false
 key: dum-dum-dee-dum-johnny-cymbal
 lyrics_url: https://genius.com/Johnny-cymbal-dum-dum-dee-dum-lyrics
 name: Dum Dum Dee Dum
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1963-08-24'
+release_year: 1963
+runtime: 127493
 ---
 Dum dum dee dum dum dum dee dum dum
 Dum dum dee dum dum dum dee dum dum

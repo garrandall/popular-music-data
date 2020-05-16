@@ -1,8 +1,11 @@
 ---
+album: Rough out There
 artists:
 - Carl Douglas
+external_ids:
+  spotify: spotify:track:40NRm1ZLvZpUSCUXAGGZ8J
 features: []
-genres: []
+first_released_as_single: false
 key: kung-fu-fighting-carl-douglas
 lyrics_url: https://genius.com/Carl-douglas-kung-fu-fighting-lyrics
 name: Kung Fu Fighting
@@ -79,6 +82,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 197693
 ---
 Everybody was kung-fu fighting
 Those kicks were fast as lightning

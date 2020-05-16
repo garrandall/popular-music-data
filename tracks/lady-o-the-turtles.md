@@ -1,8 +1,11 @@
 ---
+album: Turtle Soup
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:6GgIHJV1DDTpYQLUa47Tlc
 features: []
-genres: []
+first_released_as_single: false
 key: lady-o-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/ladyo.html
 name: Lady-O
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 173773
 ---
-
 While you sit and seek
 A crescent moon is laying at your feet
 With hope that's made of sand
@@ -50,6 +54,3 @@ From needing you but from the start
 My heart just rolled and flowed
 I've seen where it goes
 Still somehow my love for you grows, Lady-O
-
-
-

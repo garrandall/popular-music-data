@@ -1,8 +1,11 @@
 ---
+album: It Must Be Him
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:4ti7Us7isw8IRrVONcmKUA
 features: []
-genres: []
+first_released_as_single: false
 key: the-lesson-vikki-carr
 lyrics_url: https://genius.com/Vikki-carr-the-lesson-lyrics
 name: The Lesson
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 151826
 ---
 The lesson
 Vikki Carr

@@ -1,8 +1,11 @@
 ---
+album: GO Music From The Motion Picture
 artists:
 - Len
+external_ids:
+  spotify: spotify:track:2GRnDQCkcN6BoujfUgywOW
 features: []
-genres: []
+first_released_as_single: false
 key: steal-my-sunshine-len
 lyrics_url: https://www.azlyrics.com/lyrics/lenka/stealmysunshine.html
 name: Steal My Sunshine
@@ -107,8 +110,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
+release_year: 1999
+runtime: 248466
 ---
-
 I was lying on the grass
 On Sunday morning of last week
 Indulging in my self-defeats
@@ -169,6 +173,3 @@ My sunshine
 
 If you steal my sunshine
 If you steal my sunshine
-
-
-

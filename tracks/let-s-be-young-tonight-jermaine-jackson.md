@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits And Rare Classics
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3L771lNX9w6XecLLgyG47Q
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-be-young-tonight-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/letsbeyoungtonight.html
 name: Let's Be Young Tonight
@@ -59,8 +62,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
+release_year: 1976
+runtime: 307293
 ---
-
 Oh, baby, let's be young tonight
 Let's go dancing in the party lights
 I'll go and shine my shoes, you get your blue dress out
@@ -157,6 +161,3 @@ Yeah
 
 Come on now, baby, let's be young tonight
 I wanna dance in the party lights
-
-
-

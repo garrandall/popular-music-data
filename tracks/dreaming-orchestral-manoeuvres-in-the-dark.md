@@ -1,8 +1,11 @@
 ---
+album: Souvenir
 artists:
 - Orchestral Manoeuvres In The Dark
+external_ids:
+  spotify: spotify:track:6IaYWVDGyEMo7erXpWUCBm
 features: []
-genres: []
+first_released_as_single: false
 key: dreaming-orchestral-manoeuvres-in-the-dark
 lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-dreaming-lyrics
 name: Dreaming
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1988
+runtime: 237958
 ---
 If you were born in heaven girl
 I'd understand so well

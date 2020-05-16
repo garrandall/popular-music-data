@@ -1,8 +1,11 @@
 ---
+album: Solid Rock
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:2VvYoMWMtfX4IRKzcoWegb
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-look-around-the-temptations
 lyrics_url: https://genius.com/The-temptations-take-a-look-around-lyrics
 name: Take A Look Around
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 163960
 ---
 Feather in your cap if you catch a robber
 Dirt in your face if your scheme falls through

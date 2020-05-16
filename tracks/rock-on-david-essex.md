@@ -1,8 +1,11 @@
 ---
+album: Rock On
 artists:
 - David Essex
+external_ids:
+  spotify: spotify:track:0uPIwcT6OdJ5BAJdYkxVp9
 features: []
-genres: []
+first_released_as_single: false
 key: rock-on-david-essex
 lyrics_url: https://genius.com/David-essex-rock-on-lyrics
 name: Rock On
@@ -107,6 +110,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1973
+runtime: 203917
 ---
 Hey kid, rock and roll
 Rock on, oh, my soul

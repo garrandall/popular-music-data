@@ -1,9 +1,12 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:60SdxE8apGAxMiRrpbmLY0
 features:
 - Joyner Lucas
-genres: []
+first_released_as_single: false
 key: lucky-you-eminem-joyner-lucas
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/luckyyou.html
 name: Lucky You
@@ -64,9 +67,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 244679
 ---
-
-
 Whoa, Joyner, Joyner, yeah, yeah, yeah
 
 Yeah, I done did a lot of things in my day, I admit it
@@ -199,6 +202,3 @@ Y'all gotta move
 Give me some room, give me some room, give me the juice
 Hop out the coupe, hop out the coupe, hop out and shoot
 Y'all gotta move, y'all gotta move, give me the juice
-
-
-

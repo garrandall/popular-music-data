@@ -1,8 +1,11 @@
 ---
+album: Lawyers in Love
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:2CzYQ2ktwSMGnA5ypH2a8w
 features: []
-genres: []
+first_released_as_single: false
 key: tender-is-the-night-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/tenderisthenight.html
 name: Tender Is The Night
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 293000
 ---
-
 Between the darkness on the street
 And the houses filling up with light
 Between the stillness in my heart
@@ -135,6 +139,3 @@ Tender is the night
 When you hold your baby tight
 
 Tender, tender tender...
-
-
-

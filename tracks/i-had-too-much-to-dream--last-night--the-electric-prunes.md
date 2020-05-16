@@ -1,8 +1,11 @@
 ---
+album: I Had Too Much To Dream (Last Night)
 artists:
 - The Electric Prunes
+external_ids:
+  spotify: spotify:track:5YgCmkSdGukXqK3fJlX4pQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-had-too-much-to-dream--last-night--the-electric-prunes
 lyrics_url: https://genius.com/The-electric-prunes-i-had-too-much-to-dream-last-night-lyrics
 name: I Had Too Much To Dream (Last Night)
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1966
+runtime: 178266
 ---
 Last night your shadow fell upon my lonely room
 I touched your golden hair and tasted your perfume

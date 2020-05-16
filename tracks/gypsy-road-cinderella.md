@@ -1,8 +1,11 @@
 ---
+album: Long Cold Winter
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:2F8Glc7r4mHHSCEegD4Ju1
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-road-cinderella
 lyrics_url: https://www.azlyrics.com/lyrics/cinderella/gypsyroad.html
 name: Gypsy Road
@@ -35,8 +38,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1988
+runtime: 235733
 ---
-
 I used to be now I'm not what you see, Lord I try
 And now it seems all those dreams have come true, but they're passing me by
 Some fast talkin' mama for a dollar put a smile on my face
@@ -84,6 +88,3 @@ My gypsy road
 My gypsy road
 My gypsy road
 My gypsy road
-
-
-

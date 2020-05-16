@@ -1,9 +1,12 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0m1KYWlT6LhFRBDVq9UNx4
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: hyfr--hell-ya-f-----g-right--drake-lil-wayne
 lyrics_url: https://genius.com/Genius-traductions-francaises-drake-hyfr-ft-lil-wayne-traduction-francaise-lyrics
 name: HYFR (Hell Ya F*****g Right)
@@ -88,6 +91,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2011
+runtime: 206626
 ---
 Gotta do what I gotta do
 

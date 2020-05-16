@@ -1,8 +1,11 @@
 ---
+album: Twelve Best
 artists:
 - Rockets
+external_ids:
+  spotify: spotify:track:30TIB8wI5s59V5Cpu3wPeC
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-sleep-rockets
 lyrics_url: https://genius.com/Rockets-detroit-cant-sleep-lyrics
 name: Can't Sleep
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1978
+runtime: 175884
 ---
 Mmm
 Mmm

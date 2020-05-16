@@ -1,9 +1,12 @@
 ---
+album: Chixtape 5
 artists:
 - Tory Lanez
+external_ids:
+  spotify: spotify:track:0BpYTh0O2ut5wvt0QtDGt4
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: beauty-in-the-benz-tory-lanez-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/torylanez/beautyinthebenz.html
 name: Beauty In The Benz
@@ -12,9 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 237452
 ---
-
-
 Keep it real this how I'm coming in it from the jump
 You're so beautiful, I kiss and hit it from the front
 Take you everywhere with me 'cause I love to stunt
@@ -80,6 +83,3 @@ Pretty Rick when I hit it, hella spectacular
 
 Beautiful, oh oh oh oh
 Said you're beautiful, oh oh oh, yeah
-
-
-

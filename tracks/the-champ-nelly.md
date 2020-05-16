@@ -1,8 +1,11 @@
 ---
+album: The Champ
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:59qnU7ACYRFKQ2O35D5Onb
 features: []
-genres: []
+first_released_as_single: true
 key: the-champ-nelly
 lyrics_url: https://genius.com/Nelly-the-champ-lyrics
 name: The Champ
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2011
+runtime: 189000
 ---
 Ever since I was a kid I’ve been dreaming about this
 First day of practice I was thinking about this

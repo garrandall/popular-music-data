@@ -1,8 +1,11 @@
 ---
+album: Easy
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:7tmxs6OLPktPdNVrJgKWEN
 features: []
-genres: []
+first_released_as_single: false
 key: face-it-girl-it-s-over-nancy-wilson
 lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Wilson/Face-It-Girl-It-s-Over
 name: Face It Girl It's Over
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
+release_year: 1968
+runtime: 156572
 ---
 When you look into his eyes
 And he turns away

@@ -1,8 +1,11 @@
 ---
+album: Keep On Smilin'
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:6sHrxsewgTMPs2Di4x636C
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-smilin--wet-willie
 lyrics_url: https://genius.com/Wet-willie-keep-on-smilin-lyrics
 name: Keep On Smilin'
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 237333
 ---
 Well, you say you've got the blues
 You've got holes in both your shoes, yeah

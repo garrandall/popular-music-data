@@ -1,8 +1,11 @@
 ---
+album: 5 By 5
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:4dBCML7S8IBIhXitgI9ViR
 features: []
-genres: []
+first_released_as_single: false
 key: nineteen-days-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/nineteendays.html
 name: Nineteen Days
@@ -31,8 +34,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 110434
 ---
-
 In nineteen days
 In nineteen days
 
@@ -58,6 +62,3 @@ Movin' on home, I hope I find you waiting there
 In nineteen days
 In nineteen days
 In nineteen days
-
-
-

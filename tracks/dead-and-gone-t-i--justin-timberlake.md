@@ -1,9 +1,12 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:7IhsLJMqdxoo7YAZjaSMru
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: dead-and-gone-t-i--justin-timberlake
 lyrics_url: https://genius.com/Ti-dead-and-gone-lyrics
 name: Dead And Gone
@@ -124,6 +127,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2008
+runtime: 299746
 ---
 Ayy, let me kick it to you right quick, man
 Not on some gangsta shit, man, on some real shit

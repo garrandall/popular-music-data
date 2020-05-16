@@ -1,8 +1,11 @@
 ---
+album: The Cover Girls Greatest Hits
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:6AvLZXuzTc2kNs2Bywlswm
 features: []
-genres: []
+first_released_as_single: false
 key: inside-outside-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-inside-outside-lyrics
 name: Inside Outside
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1988
+runtime: 358333
 ---
 Inside, outside
 Inside, outside

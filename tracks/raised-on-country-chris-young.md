@@ -1,8 +1,11 @@
 ---
+album: Raised on Country
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:6voi5xnLs9JKmWG2oLmgDU
 features: []
-genres: []
+first_released_as_single: true
 key: raised-on-country-chris-young
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/raisedoncountry.html
 name: Raised On Country
@@ -59,8 +62,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 175594
 ---
-
 Got a little southern drawl in my talk
 Little pickup truck on my highway
 Got a little boot stomp in my walk
@@ -108,6 +112,3 @@ Yeah, I was raised on country
 (Raised on country music)
 Raised on country
 (Raised on country music)
-
-
-

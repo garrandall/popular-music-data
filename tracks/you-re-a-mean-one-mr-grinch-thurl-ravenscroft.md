@@ -1,8 +1,11 @@
 ---
+album: How The Grinch Stole Christmas
 artists:
 - Thurl Ravenscroft
+external_ids:
+  spotify: spotify:track:4qP2V09IpTct5A1ZSnr1zh
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-mean-one-mr-grinch-thurl-ravenscroft
 lyrics_url: https://genius.com/Thurl-ravenscroft-youre-a-mean-one-mr-grinch-lyrics
 name: You're A Mean One Mr Grinch
@@ -11,6 +14,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1966
+runtime: 315706
 ---
 You're a mean one, Mr. Grinch
 You really are a heel

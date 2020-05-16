@@ -1,8 +1,11 @@
 ---
+album: What's Going On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:5env0VE4xNW0NX6YnUxxfh
 features: []
-genres: []
+first_released_as_single: false
 key: inner-city-blues--make-me-wanna-holler--marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-inner-city-blues-make-me-wanna-holler-lyrics
 name: Inner City Blues (Make Me Wanna Holler)
@@ -43,6 +46,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 327960
 ---
 Rockets, moon shots
 Spend it on the have-not's

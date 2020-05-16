@@ -1,8 +1,11 @@
 ---
+album: Making Music
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:5wBB0bSW7UOPUqma2gi9TZ
 features: []
-genres: []
+first_released_as_single: false
 key: make-love-to-your-mind-bill-withers
 lyrics_url: https://www.azlyrics.com/lyrics/billwithers/makelovetoyourmind.html
 name: Make Love To Your Mind
@@ -39,8 +42,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 383680
 ---
-
 I love the story in your love song
 Buildin' them castles in your mind
 You come down here lookin' for a feelin'
@@ -58,6 +62,3 @@ I'm just too tired of feeling guilty
 I don't wanna be unkind
 But before I make love to your body
 I wanna make love to your mind
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Starting Now
 artists:
 - Chuck Wicks
+external_ids:
+  spotify: spotify:track:0Pvbr31U9bjdvUUNGNFnQJ
 features: []
-genres: []
+first_released_as_single: true
 key: stealing-cinderella-chuck-wicks
 lyrics_url: https://www.azlyrics.com/lyrics/chuckwicks/stealingcinderella.html
 name: Stealing Cinderella
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2007
+runtime: 242733
 ---
-
 I came to see her dad for a sit down man to man
 Wasn't any secret, I'd be asking for her hand
 I guess that's why he left me waiting in the living room by myself
@@ -130,6 +134,3 @@ Dancin' with her dad, lookin' up at him
 If he gives me a hard time
 I can't blame the fellow
 I'm the one who's stealing Cinderella
-
-
-

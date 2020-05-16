@@ -1,9 +1,12 @@
 ---
+album: My Life II...The Journey Continues (Act 1)
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:2w9K8zyrxcAwRKRti0BvFa
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: mr-wrong-mary-j--blige-drake
 lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/mrwrong.html
 name: Mr Wrong
@@ -44,9 +47,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 241853
 ---
-
-
 Turn the lights on
 Don't it seem like, like I'm always there when it matters
 But missing most of the other time, a terrible pattern
@@ -117,6 +120,3 @@ I love my Mr. Wrong
 Mr. Wrong
 
 Turn the light off
-
-
-

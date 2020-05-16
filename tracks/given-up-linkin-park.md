@@ -1,8 +1,11 @@
 ---
+album: Minutes to Midnight
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:1fLlRApgzxWweF1JTf8yM5
 features: []
-genres: []
+first_released_as_single: false
 key: given-up-linkin-park
 lyrics_url: https://genius.com/Linkin-park-given-up-lyrics
 name: Given Up
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2007
+runtime: 189293
 ---
 Waking in sweat again
 Another day's been laid to waste, in my disgrace

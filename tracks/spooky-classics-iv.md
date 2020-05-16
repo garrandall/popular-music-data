@@ -1,8 +1,11 @@
 ---
+album: Spooky
 artists:
 - Classics IV
+external_ids:
+  spotify: spotify:track:7zd2lGi4kXdzpGXlLUHLPM
 features: []
-genres: []
+first_released_as_single: false
 key: spooky-classics-iv
 lyrics_url: https://www.azlyrics.com/lyrics/classicsiv/spooky.html
 name: Spooky
@@ -67,8 +70,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1967
+runtime: 174573
 ---
-
 In the cool of the evenin'
 When everything is gettin' kind of groovy
 I call you up and ask you if you'd like to
@@ -106,6 +110,3 @@ Oh, yeah, yeah, I said spooky
 Yeah, yeah
 Oh spooky, spooky
 I said spooky
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The James Bond Theme/Walk, Don't Run '64
 artists:
 - Billy Strange
+external_ids:
+  spotify: spotify:track:4JNM9O0MEDPO24ETNSq4zs
 features: []
-genres: []
+first_released_as_single: false
 key: the-james-bond-theme-billy-strange
 name: The James Bond Theme
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 117373
 ---
 

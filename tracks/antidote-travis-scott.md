@@ -1,8 +1,11 @@
 ---
+album: Rodeo
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:1wHZx0LgzFHyeIZkUydNXq
 features: []
-genres: []
+first_released_as_single: false
 key: antidote-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/antidote.html
 name: Antidote
@@ -111,8 +114,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 262693
 ---
-
 Don't you open up that window
 Don't you let out that antidote
 Poppin' pills is all we know
@@ -193,6 +197,3 @@ Don't go through the front door (Through the back!)
 It's lowkey at the night show
 So don't you open up that window
 Don't you let out that antidote
-
-
-

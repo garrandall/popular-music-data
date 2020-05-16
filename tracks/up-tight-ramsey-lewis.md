@@ -1,8 +1,11 @@
 ---
+album: Wade In The Water
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:02PSTB9Cu6AQccSrMZKuKo
 features: []
-genres: []
+first_released_as_single: false
 key: up-tight-ramsey-lewis
 lyrics_url: https://www.musixmatch.com/lyrics/Ramsey-Lewis/Uptight-Everything-s-Alright
 name: Up Tight
@@ -27,6 +30,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 349266
 ---
 Baby, everything is all right, uptight, out of sight
 Baby, everything is all right, uptight, out of sight

@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:3FQWctzZxGRaIbzX6YDNPB
 features: []
-genres: []
+first_released_as_single: false
 key: take-these-chains-from-my-heart-ray-charles
 lyrics_url: https://genius.com/Ray-charles-take-these-chains-from-my-heart-lyrics
 name: Take These Chains From My Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 176586
 ---
 (Take these chains from my heart and set me free)
 

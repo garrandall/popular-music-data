@@ -1,8 +1,11 @@
 ---
+album: The Best Of Leon Haywood
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:2krg5rJxl3xcz96HBosta7
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-push-it-don-t-force-it-leon-haywood
 lyrics_url: https://genius.com/Leon-haywood-dont-push-it-dont-force-it-lyrics
 name: Don't Push It Don't Force It
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 326640
 ---
 I'm ready, I'm ready now
 I want you now

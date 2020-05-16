@@ -1,8 +1,11 @@
 ---
+album: Mystery Train (Original Soundtrack Album)
 artists:
 - Bar-Kays
+external_ids:
+  spotify: spotify:track:134o5xEQNC5kRUSRna6SDY
 features: []
-genres: []
+first_released_as_single: false
 key: soul-finger-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-soul-finger-lyrics
 name: Soul Finger
@@ -67,6 +70,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 142706
 ---
 Soulfinger!
 Soulfinger!

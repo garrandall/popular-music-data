@@ -1,8 +1,11 @@
 ---
+album: Characters
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:57cWjbPx6Wxt92omcmrRxu
 features: []
-genres: []
+first_released_as_single: false
 key: you-will-know-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-you-will-know-lyrics
 name: You Will Know
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1987
+runtime: 300266
 ---
 Lonely one of young so brokenhearted
 Traveling down the rigid road of life

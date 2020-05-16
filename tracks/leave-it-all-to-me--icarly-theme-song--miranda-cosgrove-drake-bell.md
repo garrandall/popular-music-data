@@ -1,9 +1,12 @@
 ---
+album: iCarly - Music From and Inspired by the Hit TV Show
 artists:
 - Miranda Cosgrove
+external_ids:
+  spotify: spotify:track:7CMIy0uwXyeBv2MvaEUJM1
 features:
 - Drake Bell
-genres: []
+first_released_as_single: true
 key: leave-it-all-to-me--icarly-theme-song--miranda-cosgrove-drake-bell
 lyrics_url: https://genius.com/Miranda-cosgrove-leave-it-all-to-me-billboard-remix-lyrics
 name: Leave It All To Me (iCarly Theme Song)
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 2007
+runtime: 158413
 ---
 I know you see
 Somehow the world will change for me

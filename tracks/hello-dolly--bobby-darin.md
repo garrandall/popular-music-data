@@ -1,8 +1,11 @@
 ---
+album: Wild, Cool & Swingin'
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:35lZh7zStToQmjuBCkMCkW
 features: []
-genres: []
+first_released_as_single: false
 key: hello-dolly--bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/hellodolly.html
 name: Hello Dolly!
@@ -19,8 +22,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1965
+runtime: 195960
 ---
-
 Hello, Dolly
 Well, hello, Dolly
 It's so nice to have you back where you belong
@@ -80,6 +84,3 @@ Promise you'll never go away
 Dolly will never go away...again
 
 Look out, old Dolly is back!
-
-
-

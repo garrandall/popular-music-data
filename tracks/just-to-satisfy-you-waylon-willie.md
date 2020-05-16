@@ -1,9 +1,12 @@
 ---
+album: Black On Black
 artists:
 - Waylon
 - Willie
+external_ids:
+  spotify: spotify:track:2aRaNcTqICfwz9hvqaxr3Z
 features: []
-genres: []
+first_released_as_single: false
 key: just-to-satisfy-you-waylon-willie
 lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/justtosatisfyyou224626.html
 name: Just To Satisfy You
@@ -44,8 +47,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1982
+runtime: 169623
 ---
-
 Someone's gonna get hurt before you're through
 Someone's gonna pay for the things you do
 How many hearts must break how many it's gonna take
@@ -80,6 +84,3 @@ Just to satisfy you.
 Just to satisfy you.
 Satisfy you.
 Just to satisfy you...
-
-
-

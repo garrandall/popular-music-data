@@ -1,8 +1,11 @@
 ---
+album: True Colors
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:1X6EeS5co8x5QOqh6S247o
 features: []
-genres: []
+first_released_as_single: false
 key: change-of-heart-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/changeofheart.html
 name: Change Of Heart
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1983
+runtime: 263333
 ---
-
 Here I am
 Just like I said I would be
 I'm your friend
@@ -110,6 +114,3 @@ If it's truth that you're looking to find
 It is nowhere outside of your mind
 I bide my time
 Waiting for your change of heart...
-
-
-

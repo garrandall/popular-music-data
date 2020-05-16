@@ -1,11 +1,14 @@
 ---
+album: Pretty Girls Like Trap Music
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:1eyNH4gwmKLFM2ezok8bQW
 features:
 - Ty Dolla $ign
 - Trey Songz
 - Jhene Aiko
-genres: []
+first_released_as_single: false
 key: it-s-a-vibe-2-chainz-ty-dolla--ign-trey-songz-jhene-aiko
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/itsavibe.html
 name: It's A Vibe
@@ -90,9 +93,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 210506
 ---
-
-
 Yeah, hahaha
 Yeah, oh
 Yah
@@ -184,6 +187,3 @@ It's a vibe
 That's a vibe
 Oh it's a vibe, yeah, yeah
 It's a vibe, yeah, yeah, yeah
-
-
-

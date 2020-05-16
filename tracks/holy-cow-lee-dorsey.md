@@ -1,8 +1,11 @@
 ---
+album: The New Lee Dorsey
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:58smfvnOg9Wn7koHxsvJ8V
 features: []
-genres: []
+first_released_as_single: false
 key: holy-cow-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-holy-cow-lyrics
 name: Holy Cow
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 151293
 ---
 I can't weep and I can't eat
 Since you walked out on me

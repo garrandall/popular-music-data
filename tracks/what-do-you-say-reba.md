@@ -1,8 +1,11 @@
 ---
+album: So Good Together
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:5hc4uC9JxovPgPF3xRHUEV
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-you-say-reba
 lyrics_url: https://genius.com/Reba-mcentire-what-do-you-say-lyrics
 name: What Do You Say
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1999
+runtime: 209933
 ---
 Stuck at a red light outside an adult bookstore
 His son said, "Daddy, what are all those X's for?"

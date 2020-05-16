@@ -1,8 +1,11 @@
 ---
+album: First
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:3rV26AtASfi84VwGBtYNgC
 features: []
-genres: []
+first_released_as_single: false
 key: clouds-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/suitecloudsrain.html
 name: Clouds
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 535440
 ---
-
 See the clouds adrift so far below
 Everchanging as they come and go
 Makes me wonder why I'm up so high
@@ -81,6 +85,3 @@ Before I reach the end of you someway
 
 So the next time raindrops fall
 If it makes you climb the walls just think of green
-
-
-

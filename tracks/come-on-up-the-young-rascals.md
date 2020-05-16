@@ -1,8 +1,11 @@
 ---
+album: Collections
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:71uRtl6Ta8VBosRqG6N6cx
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-up-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-come-on-up-lyrics
 name: Come On Up
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 166133
 ---
 Don't you here the music... (baby)
 Don't it feel good... (baby)

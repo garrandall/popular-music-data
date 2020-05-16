@@ -1,8 +1,11 @@
 ---
+album: Low (2017 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:1vP2JEXRsGrFbwOZ0foOQ5
 features: []
-genres: []
+first_released_as_single: false
 key: sound-and-vision-david-bowie
 lyrics_url: https://www.musixmatch.com/lyrics/David-Bowie/Sound-and-Vision-2013
 name: Sound And Vision
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 184381
 ---
 Ah
 Ah

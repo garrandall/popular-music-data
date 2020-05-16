@@ -1,9 +1,12 @@
 ---
+album: Time Out For Smokey Robinson & The Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7x5vC0sqmXpmTrgnuDMXmc
 features: []
-genres: []
+first_released_as_single: false
 key: abraham-martin-and-john-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-abraham-martin-and-john-lyrics
 name: Abraham Martin And John
@@ -32,6 +35,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 180066
 ---
 Has anybody here seen my old friend Abraham
 Can you tell me where he's gone?

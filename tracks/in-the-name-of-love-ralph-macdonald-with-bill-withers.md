@@ -1,7 +1,8 @@
 ---
 artists:
-- Ralph MacDonald With Bill Withers
-features: []
+- Ralph MacDonald
+features:
+- Bill Withers
 genres: []
 key: in-the-name-of-love-ralph-macdonald-with-bill-withers
 name: In The Name Of Love

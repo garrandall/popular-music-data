@@ -1,8 +1,11 @@
 ---
+album: Drums Along the Mohawk
 artists:
 - Jean Beauvoir
+external_ids:
+  spotify: spotify:track:5ZF6C6EdmJnOmisRh0nlbU
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-heat-jean-beauvoir
 lyrics_url: https://genius.com/Jean-beauvoir-feel-the-heat-lyrics
 name: Feel The Heat
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1986
+runtime: 243466
 ---
 All along, we knew it wasn't right
 We were standing sound, losing sight

@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:1KZ3F1gyR2tuGZFKWBsYuJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-lonely-man-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/alonelyman.html
 name: A Lonely Man
@@ -27,8 +30,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 372640
 ---
-
 Ah-ah-ah...
 Doo-doo-doo-doo, you better let me tell ya
 Ah-ah-ah...
@@ -115,6 +119,3 @@ Hey, hey, got to, got to, oh, I got to, I just to go on
 (I've got to go, I've got go)
 I'm so lonely (hey), I gotta go (oh)
 I'm so lonely
-
-
-

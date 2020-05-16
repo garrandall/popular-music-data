@@ -1,8 +1,11 @@
 ---
+album: Buddy Jewell
 artists:
 - Buddy Jewell
+external_ids:
+  spotify: spotify:track:0tuEEuDijBNJxcLSIrMNsU
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-southern-comfort-buddy-jewell
 lyrics_url: https://genius.com/Buddy-jewell-sweet-southern-comfort-lyrics
 name: Sweet Southern Comfort
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2003
+runtime: 212906
 ---
 Misty sunrise in my hometown
 Rows of cotton about knee high

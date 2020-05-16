@@ -1,9 +1,12 @@
 ---
+album: Restless Heart
 artists:
 - Southside Johnny
 - The Asbury Jukes
+external_ids:
+  spotify: spotify:track:4HGWP2dsoxExDmWTz02sT8
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-anxious-southside-johnny-the-asbury-jukes
 lyrics_url: https://genius.com/Southside-johnny-and-the-asbury-jukes-im-so-anxious-lyrics
 name: I'm So Anxious
@@ -24,6 +27,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 182106
 ---
 (B. Rush)
 

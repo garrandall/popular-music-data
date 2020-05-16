@@ -1,8 +1,11 @@
 ---
+album: Play It Loud
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:7ktlRGfo8wQaruyZD8xCii
 features: []
-genres: []
+first_released_as_single: false
 key: laredo-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/laredo.html
 name: Laredo
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
+release_year: 2000
+runtime: 230063
 ---
-
 You've always been a friend of mine
 And that's the way we'll be 'til the day I die
 It's good to know you're on my side
@@ -104,6 +108,3 @@ So get her back to the day we met
 'Cause that's as far as she needs to get
 But please don't let her go
 Oh Laredo
-
-
-

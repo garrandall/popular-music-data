@@ -1,8 +1,11 @@
 ---
+album: The Best Of Grand Theft Audio
 artists:
 - Teairra Mari
+external_ids:
+  spotify: spotify:track:3Lc0iAe3FFmXGrPDF3viVc
 features: []
-genres: []
+first_released_as_single: false
 key: make-her-feel-good-teairra-mari
 lyrics_url: https://genius.com/Teairra-mari-make-her-feel-good-lyrics
 name: Make Her Feel Good
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 289699
 ---
 Go stars, go stars, go stars, go stars...
 And the R. O. C. Niggas, yeah, introducing (uh huh) newest appasition, to the R (the star) rocka fella ya, young Chris' to the rock, Teairra Mari

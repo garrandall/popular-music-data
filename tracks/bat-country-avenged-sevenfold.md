@@ -1,8 +1,11 @@
 ---
+album: City of Evil
 artists:
 - Avenged Sevenfold
+external_ids:
+  spotify: spotify:track:3sHH7lklbfpcraDDvYnjo7
 features: []
-genres: []
+first_released_as_single: false
 key: bat-country-avenged-sevenfold
 lyrics_url: https://genius.com/Avenged-sevenfold-bat-country-lyrics
 name: Bat Country
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 311813
 ---
 He who makes a beast out of himself
 Gets rid of the pain of being a man

@@ -1,8 +1,11 @@
 ---
+album: The American Dream
 artists:
 - Mike Jones
+external_ids:
+  spotify: spotify:track:3LU66Soe9kT5saRxI4wTj6
 features: []
-genres: []
+first_released_as_single: false
 key: mr-jones-mike-jones
 lyrics_url: https://genius.com/Mike-jones-mr-jones-lyrics
 name: Mr Jones
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2007
+runtime: 238946
 ---
 You can ride all day long
 Another Myke Diesel production (Mike Jones)

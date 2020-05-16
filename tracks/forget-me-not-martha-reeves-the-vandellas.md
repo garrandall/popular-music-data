@@ -1,9 +1,12 @@
 ---
+album: Ridin' High
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3zaIEaOgbhjUvxft0hdde0
 features: []
-genres: []
+first_released_as_single: false
 key: forget-me-not-martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-forget-me-not-lyrics
 name: Forget Me Not
@@ -20,6 +23,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 177813
 ---
 Now we kiss goodbye
 You'll be off to war, the battle's on

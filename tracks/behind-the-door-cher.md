@@ -1,8 +1,11 @@
 ---
+album: With Love, Cher
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:1VOa4gAfFLXF18Fda5SnwJ
 features: []
-genres: []
+first_released_as_single: false
 key: behind-the-door-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/behindthedoor.html
 name: Behind The Door
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 222946
 ---
-
 Behind the door of every house,
 In every street, in every town
 A story is unfolding
@@ -44,6 +48,3 @@ The prayers take off ascending
 All filled of love to the one above
 Asking for asking for asking for asking for
 A happy ending a happy ending a happy ending
-
-
-

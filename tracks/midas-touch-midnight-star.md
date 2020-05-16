@@ -1,8 +1,11 @@
 ---
+album: Headlines
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:3EbZ5BPfyt1txbgIOsJNcS
 features: []
-genres: []
+first_released_as_single: false
 key: midas-touch-midnight-star
 lyrics_url: https://genius.com/Midnight-star-midas-touch-lyrics
 name: Midas Touch
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1986
+runtime: 296893
 ---
 The Midas touch, touch, touch, touch
 

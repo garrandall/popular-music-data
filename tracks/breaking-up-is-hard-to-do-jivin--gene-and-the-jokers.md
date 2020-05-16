@@ -1,8 +1,11 @@
 ---
+album: 'Rubber Biscuit: Essential ''50s Hits'
 artists:
 - Jivin' Gene And The Jokers
+external_ids:
+  spotify: spotify:track:7nycDVxNZ3HLuiuUzuSmFO
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-up-is-hard-to-do-jivin--gene-and-the-jokers
 name: Breaking Up Is Hard To Do
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 149653
 ---
 

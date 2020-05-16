@@ -1,8 +1,11 @@
 ---
+album: Waking Up The Neighbours
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:44fxmBDtpasWTQHxvwBEoY
 features: []
-genres: []
+first_released_as_single: false
 key: there-will-never-be-another-tonight-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/therewillneverbeanothertonight.html
 name: There Will Never Be Another Tonight
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 280133
 ---
-
 Put on your best dress darling
 Can't you see the time is right
 There will never be another tonight
@@ -120,6 +124,3 @@ Others they're looking for inner light
 Me I'm just having the time of my life
 I'm headin' out, to check it out
 Check it out!
-
-
-

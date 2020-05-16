@@ -1,8 +1,11 @@
 ---
+album: 'Tommy James And The Shondells: Anthology'
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:7H6URjJKkBh6fE2Xvw4eMM
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-the-blue-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/outoftheblue.html
 name: Out Of The Blue
@@ -31,8 +34,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 146360
 ---
-
 I was so downhearted, baby, till I met with you.
 Oh, you took me, took me, out of the blue.
 You shook me, shook me, out of the blue.
@@ -63,6 +67,3 @@ You shook me, shook me, out of the blue.
 Out of the blue, baby, you took me out of the blue
 Out of the blue, baby, you shook me out of the blue
 repeat until fade out
-
-
-

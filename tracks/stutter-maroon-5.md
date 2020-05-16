@@ -1,8 +1,11 @@
 ---
+album: Hands All Over
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:7zmJyZL3DfYBBYbY8Rve6W
 features: []
-genres: []
+first_released_as_single: false
 key: stutter-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/stutter.html
 name: Stutter
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 196920
 ---
-
 I really, I really, whoa
 I really need to know
 I really, I really, whoa
@@ -90,6 +94,3 @@ Cause it feels so good
 You make me stutter
 You make me stutter
 You make me stutter
-
-
-

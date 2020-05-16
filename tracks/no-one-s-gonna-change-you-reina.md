@@ -1,8 +1,11 @@
 ---
+album: No One's Gonna Change You
 artists:
 - Reina
+external_ids:
+  spotify: spotify:track:3MRX02BbSV4zUYt7WAPNos
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-s-gonna-change-you-reina
 lyrics_url: https://genius.com/Reina-no-ones-gonna-change-you-lyrics
 name: No One's Gonna Change You
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
+release_year: 2003
+runtime: 257693
 ---
 From the day we met
 I knew you were the one

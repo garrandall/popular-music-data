@@ -1,8 +1,11 @@
 ---
+album: It Ain't Easy
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:5TdGMnyETHJU5RdjFFbVRR
 features: []
-genres: []
+first_released_as_single: false
 key: out-in-the-country-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-out-in-the-country-lyrics
 name: Out In The Country
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 189400
 ---
 Whenever I need to leave it all behind
 Or feel the need to get away

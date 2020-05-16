@@ -1,8 +1,11 @@
 ---
+album: 9 To 5 And Odd Jobs
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:5DnMZlZpDSQxoYhW9e7XFu
 features: []
-genres: []
+first_released_as_single: false
 key: but-you-know-i-love-you-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-but-you-know-i-love-you-lyrics
 name: But You Know I Love You
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1980
+runtime: 196600
 ---
 When the morning sun streaks across my room
 And I'm wakin' up from another dream of you

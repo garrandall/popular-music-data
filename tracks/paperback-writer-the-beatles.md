@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3OtsmzTZs50ahEnHKVvozC
 features: []
-genres: []
+first_released_as_single: false
 key: paperback-writer-the-beatles
 lyrics_url: https://genius.com/The-beatles-paperback-writer-lyrics
 name: Paperback Writer
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 139186
 ---
 Paperback writer (writer, writer)
 

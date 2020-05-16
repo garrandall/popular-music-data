@@ -1,8 +1,11 @@
 ---
+album: Torquay / Campusology
 artists:
 - The Fireballs
+external_ids:
+  spotify: spotify:track:5318051wgbbSHrw7MLOWgs
 features: []
-genres: []
+first_released_as_single: false
 key: quite-a-party-the-fireballs
 name: Quite A Party
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 111453
 ---
 

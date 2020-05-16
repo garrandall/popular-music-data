@@ -1,8 +1,11 @@
 ---
+album: Mad Dogs & Englishmen (Live At The Fillmore East/1970/Reissue)
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:1xD3wZJSJEczE0WOVUhIkE
 features: []
-genres: []
+first_released_as_single: false
 key: cry-me-a-river-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/crymeariver.html
 name: Cry Me A River
@@ -43,8 +46,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 240933
 ---
-
 I keep on runnin' baby
 I keep on runnin'
 But I just can't hide
@@ -85,6 +89,3 @@ Wash my blues all away
 Cry me a river
 Girl you is my riverboat
 Take me away
-
-
-

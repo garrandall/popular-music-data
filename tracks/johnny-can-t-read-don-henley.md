@@ -1,8 +1,11 @@
 ---
+album: I Can't Stand Still
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:7JDoIqP6hQaSeuRGGRzEsG
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-can-t-read-don-henley
 lyrics_url: https://genius.com/Don-henley-johnny-cant-read-lyrics
 name: Johnny Can't Read
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1982
+runtime: 213786
 ---
 Football, baseball, basketball games
 Drinkin' beer, kickin' ass and takin' down names

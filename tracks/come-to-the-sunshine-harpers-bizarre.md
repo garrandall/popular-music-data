@@ -1,8 +1,11 @@
 ---
+album: Feelin' Groovy
 artists:
 - Harpers Bizarre
+external_ids:
+  spotify: spotify:track:1boB4tIIwdefeoQVHNG5Jl
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-the-sunshine-harpers-bizarre
 lyrics_url: https://genius.com/Harpers-bizarre-come-to-the-sunshine-lyrics
 name: Come To The Sunshine
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 153626
 ---
 Come to the sunshine
 Hang your ups and downs you come to the sunshine

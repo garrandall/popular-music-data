@@ -1,8 +1,11 @@
 ---
+album: Infidels
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:2KVrZKnaDbu9Ik9aMHe8J3
 features: []
-genres: []
+first_released_as_single: false
 key: sweetheart-like-you-bob-dylan
 lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/sweetheartlikeyou.html
 name: Sweetheart Like You
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
+release_year: 1983
+runtime: 273666
 ---
-
 Well the pressure's down, the boss ain't here
 He gone North, for a while
 They say that vanity got the best of him
@@ -93,6 +97,3 @@ Steal a lot and they make you king
 There's only one step down from here, baby
 It's called the land of permanent bliss
 What's a sweetheart like you doing in a dump like this ?
-
-
-

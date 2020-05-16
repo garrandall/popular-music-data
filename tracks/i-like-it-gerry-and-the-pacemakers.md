@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:2fdSWm3CHTz5ljdESiV2hT
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-i-like-it-lyrics
 name: I Like It
@@ -43,6 +46,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 135866
 ---
 I like it, I like it
 I like the way you run your fingers through my hair

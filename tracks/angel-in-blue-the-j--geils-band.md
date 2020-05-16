@@ -1,8 +1,11 @@
 ---
+album: Freeze Frame
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:5FszLVGCUOW03jp9vaCNbr
 features: []
-genres: []
+first_released_as_single: false
 key: angel-in-blue-the-j--geils-band
 lyrics_url: https://genius.com/The-j-geils-band-angel-in-blue-lyrics
 name: Angel In Blue
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1981
+runtime: 291640
 ---
 We met in a bar
 Out on Chesapeake Bay

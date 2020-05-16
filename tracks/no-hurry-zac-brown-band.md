@@ -1,8 +1,11 @@
 ---
+album: You Get What You Give
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:22CP126Lk8HEfaAylS7zkG
 features: []
-genres: []
+first_released_as_single: false
 key: no-hurry-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/nohurry.html
 name: No Hurry
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
+release_year: 2010
+runtime: 226226
 ---
-
 You know my old car needs washing 
 And the front yard needs a trim 
 And the telephone keeps ringing 
@@ -117,6 +121,3 @@ Can wait till tomorrow
 Cause I ain't in no hurry 
 Ain't in no hurry 
 Ain't in no hurry today
-
-
-

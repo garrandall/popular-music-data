@@ -1,8 +1,11 @@
 ---
+album: The Delta Sweete
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:4l4CZeKh4CkbVi9FlMRSkr
 features: []
-genres: []
+first_released_as_single: false
 key: louisiana-man-bobbie-gentry
 lyrics_url: https://genius.com/Bobbie-gentry-louisiana-man-lyrics
 name: Louisiana Man
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1968
+runtime: 159613
 ---
 At first Mom and Poppa called their little girl, Lady
 They raised her on the banks of a river bed

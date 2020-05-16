@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:76N7FdzCI9OsiUnzJVLY2m
 features: []
-genres: []
+first_released_as_single: false
 key: rumour-has-it-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/rumourhasit.html
 name: Rumour Has It
@@ -115,8 +118,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2012-06-30'
+release_year: 2011
+runtime: 221426
 ---
-
 Oh oh oohohoh
 
 She, she ain't real
@@ -190,6 +194,3 @@ But rumour has it (rumour)
 But rumour has it (rumour)
 
 But rumour has it he's the one I'm leaving you for
-
-
-

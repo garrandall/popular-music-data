@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4PbqykT8fgzYNjFANtHjle
 features: []
-genres: []
+first_released_as_single: false
 key: hit-record-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Hit-Record
 name: Hit Record
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 159026
 ---
 People always ask me
 How do make a hit record

@@ -1,8 +1,11 @@
 ---
+album: Black
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:5CG9Ps5ynNjpKJHmwc95pa
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-on-a-beach-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/somewhereonabeach.html
 name: Somewhere On A Beach
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2016
+runtime: 197120
 ---
-
 Bet you think I'm sitting at home. No.
 Bet you think that I'm all alone. No.
 Bet you think I'm missing you and wishing you would call my phone,
@@ -142,6 +146,3 @@ I'm getting sun, getting some, and I ain't slept in a week
 Yeah, I'm somewhere on a beach.
 
 Yeah, I'm somewhere on a beach.
-
-
-

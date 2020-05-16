@@ -1,8 +1,11 @@
 ---
+album: Stars Dance (Bonus Track Version)
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:2OsEJFTfzfjG4oC92cuP2c
 features: []
-genres: []
+first_released_as_single: false
 key: slow-down-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/slowdown.html
 name: Slow Down
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2014-01-04'
+release_year: 2013
+runtime: 210293
 ---
-
 Now that I have captured your attention
 I wanna steal ya for a rhythm intervention
 Mr. TSA*, I'm ready for inspection
@@ -170,4 +174,3 @@ How do I do it?
 I-i-it's the cataracts
 
 (ha, ha, ha, ha)
-

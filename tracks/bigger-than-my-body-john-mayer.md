@@ -1,8 +1,11 @@
 ---
+album: Heavier Things
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:0Jh9EBGN205Yc7JN2zZ2f1
 features: []
-genres: []
+first_released_as_single: false
 key: bigger-than-my-body-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/biggerthanmybody.html
 name: Bigger Than My Body
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
+release_year: 2003
+runtime: 265960
 ---
-
 This is a call to the color-blind
 This is an IOU
 I'm stranded behind a horizon line
@@ -146,6 +150,3 @@ Someday I'll be so damn much more
 Cause I'm bigger than my body 
 I'm bigger than my body
 I'm bigger than my body now
-
-
-

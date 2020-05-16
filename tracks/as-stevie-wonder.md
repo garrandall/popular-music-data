@@ -1,8 +1,11 @@
 ---
+album: Up-Tight
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7BzG6Y4pibRHZzqTo9dgTv
 features: []
-genres: []
+first_released_as_single: false
 key: as-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-as-lyrics
 name: As
@@ -63,6 +66,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1966
+runtime: 168333
 ---
 As around the sun the earth knows she's revolving
 And the rosebuds know to bloom in early May

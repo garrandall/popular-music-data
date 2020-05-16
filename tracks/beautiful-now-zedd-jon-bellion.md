@@ -1,9 +1,12 @@
 ---
+album: True Colors
 artists:
 - Zedd
+external_ids:
+  spotify: spotify:track:2ISSQPb9LHHiV6ng2NXosL
 features:
 - Jon Bellion
-genres: []
+first_released_as_single: false
 key: beautiful-now-zedd-jon-bellion
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/beautifulnow.html
 name: Beautiful Now
@@ -64,8 +67,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 218293
 ---
-
 I see what you're wearing, there's nothing beneath it
 Forgive me for staring, forgive me for breathing
 We might not know why, we might not know how
@@ -119,6 +123,3 @@ We're beautiful now
 We're beautiful now
 We're beautiful now
 We're beautiful
-
-
-

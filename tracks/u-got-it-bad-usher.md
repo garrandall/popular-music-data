@@ -1,8 +1,11 @@
 ---
+album: '8701'
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:7J41dYQolQJEtj3UmKLu5r
 features: []
-genres: []
+first_released_as_single: false
 key: u-got-it-bad-usher
 lyrics_url: https://genius.com/Usher-u-got-it-bad-lyrics
 name: U Got It Bad
@@ -135,6 +138,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 2001
+runtime: 247840
 ---
 Oh-oh
 No, no, no, no

@@ -1,8 +1,11 @@
 ---
+album: We Are The '80s
 artists:
 - A Flock Of Seagulls
+external_ids:
+  spotify: spotify:track:41TpvOhSCOJOHuOUggy9sv
 features: []
-genres: []
+first_released_as_single: false
 key: wishing--if-i-had-a-photograph-of-you--a-flock-of-seagulls
 lyrics_url: https://genius.com/A-flock-of-seagulls-wishing-lcd-remix-lyrics
 name: Wishing (If I Had A Photograph Of You)
@@ -63,6 +66,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1981
+runtime: 330426
 ---
 It's not the way you look
 It's not the way that you smile

@@ -1,8 +1,11 @@
 ---
+album: Heavy Nova
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:4TnV6aJGIDTNVLqBTyYFNB
 features: []
-genres: []
+first_released_as_single: false
 key: early-in-the-morning-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/earlyinthemorning.html
 name: Early In The Morning
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1988
+runtime: 281693
 ---
-
 Oh, I bet
 You were a virgin
 'Til you let me
@@ -124,6 +128,3 @@ Find me another lover
 Now I gotta get up
 Early in the morning
 Find me another lover
-
-
-

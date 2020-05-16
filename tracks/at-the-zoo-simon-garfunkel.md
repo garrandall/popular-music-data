@@ -1,8 +1,11 @@
 ---
+album: Bookends
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:0b1NUCAYfEOuPx9nELBBfX
 features: []
-genres: []
+first_released_as_single: false
 key: at-the-zoo-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/atthezoo.html
 name: At The Zoo
@@ -43,8 +46,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 142293
 ---
-
 Someone told me it's all happening at the zoo.
 I do believe it, I do believe it's true.
 It's a light and tumble journey
@@ -67,6 +71,3 @@ Pigeons plot in secrecy
 And hamsters turn on frequently.
 What a gas you got to come and see
 At the zoo.
-
-
-

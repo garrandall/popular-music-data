@@ -1,8 +1,11 @@
 ---
+album: The Plan
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:0cvsbBp7UHWRT1nPtwqrz2
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-in-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-let-me-in-lyrics
 name: Let Me In
@@ -47,6 +50,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 219173
 ---
 Loving you could be so easy
 Loving you could make me warm

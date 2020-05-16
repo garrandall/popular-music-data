@@ -1,8 +1,11 @@
 ---
+album: Forever Now
 artists:
 - Psychedelic Furs
+external_ids:
+  spotify: spotify:track:4dk40nfaQav6b4ZsJ9OYUo
 features: []
-genres: []
+first_released_as_single: false
 key: love-my-way-psychedelic-furs
 lyrics_url: https://genius.com/The-psychedelic-furs-love-my-way-lyrics
 name: Love My Way
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 213973
 ---
 There's an army on the dance floor
 It's a fashion with a gun, my love

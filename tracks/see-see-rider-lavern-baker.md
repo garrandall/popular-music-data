@@ -1,8 +1,11 @@
 ---
+album: See See Rider
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:0HsYttDxOv3neiw3L0wimY
 features: []
-genres: []
+first_released_as_single: false
 key: see-see-rider-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-see-see-rider-lyrics
 name: See See Rider
@@ -51,6 +54,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 149093
 ---
 Well See, See See Rider
 Just see what you have a-done

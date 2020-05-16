@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:2RMnvrnOpvcrznNG2I3DYc
 features: []
-genres: []
+first_released_as_single: false
 key: miss-you-aaliyah
 lyrics_url: https://genius.com/Aaliyah-miss-you-lyrics
 name: Miss You
@@ -127,6 +130,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2002
+runtime: 240800
 ---
 It's been too long and I'm lost without you
 What am I gonna do?

@@ -1,8 +1,11 @@
 ---
+album: Celebration (Bonus Track Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6G7PVlifniapyhDCmWS2VM
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-for-you-madonna
 lyrics_url: https://genius.com/Madonna-crazy-for-you-lyrics
 name: Crazy For You
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 225626
 ---
 Swaying room as the music starts
 Strangers making the most of the dark

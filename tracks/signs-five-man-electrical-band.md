@@ -1,8 +1,11 @@
 ---
+album: 'Class Reunion ''71: Greatest Hits Of 1971'
 artists:
 - Five Man Electrical Band
+external_ids:
+  spotify: spotify:track:2HvrMTzyHBRCeNyoMJfvHP
 features: []
-genres: []
+first_released_as_single: false
 key: signs-five-man-electrical-band
 lyrics_url: https://genius.com/Five-man-electrical-band-signs-lyrics
 name: Signs
@@ -79,6 +82,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 185400
 ---
 And the sign said "Long-haired freaky people
 Need not apply"

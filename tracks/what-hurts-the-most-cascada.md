@@ -1,8 +1,11 @@
 ---
+album: Perfect Day
 artists:
 - Cascada
+external_ids:
+  spotify: spotify:track:3OW3uDpM7mgLe3xU6EYX5q
 features: []
-genres: []
+first_released_as_single: false
 key: what-hurts-the-most-cascada
 lyrics_url: https://www.azlyrics.com/lyrics/cascada/whathurtsthemost.html
 name: What Hurts The Most
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-04-26'
+release_year: 2007
+runtime: 219706
 ---
-
 I can take the rain on the roof of this empty house, that don't bother me
 I can take a few tears now and then and just let them out
 I'm not afraid to cry
@@ -98,4 +102,3 @@ I'm not afraid to cry
 Every once in a while even though goin on with you gone still upsets me
 There are days
 Every now and again I pretend I'm OK but that's not what gets me
-

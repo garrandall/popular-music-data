@@ -1,8 +1,11 @@
 ---
+album: Return Of The Red Barron
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:495H4Urq81O9juThGEPALc
 features: []
-genres: []
+first_released_as_single: false
 key: wednesday-the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/anywednesday.html
 name: Wednesday
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 131066
 ---
-
 Every time I call on you
 It seems positively true
 That you've been out with someone that was new
@@ -52,6 +56,3 @@ For you
 Any Wednesday
 Any Wednesday
 Any Wednesday
-
-
-

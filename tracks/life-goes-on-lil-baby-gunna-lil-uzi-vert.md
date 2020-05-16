@@ -1,10 +1,13 @@
 ---
+album: Harder Than Ever
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2bSk87AVkCIIC3Bcligq1z
 features:
 - Gunna
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: life-goes-on-lil-baby-gunna-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-baby-life-goes-on-lyrics
 name: Life Goes On
@@ -33,6 +36,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 247054
 ---
 Cook that shit up, Quay
 

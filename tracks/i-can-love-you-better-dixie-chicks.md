@@ -1,8 +1,11 @@
 ---
+album: Wide Open Spaces
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:2VBSOgBcnLHkfat8P2VGvf
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-love-you-better-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-i-can-love-you-better-lyrics
 name: I Can Love You Better
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1998
+runtime: 233915
 ---
 She's got you wrapped up in her satin and lace
 Tied around her little finger

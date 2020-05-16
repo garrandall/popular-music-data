@@ -1,8 +1,11 @@
 ---
+album: Pity for the Lonely
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:1IK4TS8V64ffob0fHpBOZz
 features: []
-genres: []
+first_released_as_single: false
 key: my-honey-and-me-luther-ingram
 lyrics_url: https://www.musixmatch.com/lyrics/Luther-Ingram/My-Honey-And-Me
 name: My Honey And Me
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1966
+runtime: 201893
 ---
 Oh, my honey and me
 Hold us together

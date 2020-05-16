@@ -1,8 +1,11 @@
 ---
+album: The Man I Want To Be
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:5zMRkxgFscsPItPsMy4ItS
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-i-want-to-be-chris-young
 lyrics_url: https://genius.com/Chris-young-the-man-i-want-to-be-lyrics
 name: The Man I Want To Be
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-07-31'
+release_year: 2009
+runtime: 207213
 ---
 God, I'm down here on my knees
 Cause it's the last place left to fall

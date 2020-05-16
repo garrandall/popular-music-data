@@ -1,8 +1,11 @@
 ---
+album: Big Bad John and Other Fabulous Songs and Tales
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:6n62djVy02BEe7ZyAbbMbZ
 features: []
-genres: []
+first_released_as_single: false
 key: to-a-sleeping-beauty-jimmy-dean
 lyrics_url: https://genius.com/Jimmy-dean-to-a-sleeping-beauty-lyrics
 name: To A Sleeping Beauty
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1961
+runtime: 314960
 ---
 Dear daughter I tiptoed to your room tonight
 And I looked down at you smiling in your sleep

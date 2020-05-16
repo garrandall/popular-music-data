@@ -1,8 +1,11 @@
 ---
+album: Pictures At Eleven
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:0wAOWZk7n7UGc6LiJmqR2W
 features: []
-genres: []
+first_released_as_single: false
 key: pledge-pin-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/pledgepin.html
 name: Pledge Pin
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1982
+runtime: 242106
 ---
-
 Watch them go 'cause one by one they rise to fall
 Hearts in tow, it's just a game - she's only having fun
 She laughs and turns away surprised
@@ -46,6 +50,3 @@ Free to choose but not to win - you're just too late
 Your show is at an end - now you're the victim of your game
 Through your fingers watch them slip
 Familiar rules just hit and miss for the one who never shows
-
-
-

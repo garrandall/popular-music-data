@@ -1,8 +1,11 @@
 ---
+album: The Hit Singles 1950-1960
 artists:
 - Guy Mitchell
+external_ids:
+  spotify: spotify:track:1h3IWntF2SMKv8cvrPgl91
 features: []
-genres: []
+first_released_as_single: false
 key: the-same-old-me-guy-mitchell
 lyrics_url: https://www.musixmatch.com/lyrics/Guy-Mitchell/The-Same-Old-Me
 name: The Same Old Me
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1960
+runtime: 146414
 ---
 With the same two arms still missin' you
 And the same old heart still bein' true

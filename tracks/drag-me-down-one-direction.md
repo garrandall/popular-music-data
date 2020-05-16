@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:70OTIpw8x8UXUsuCHW9i1i
 features: []
-genres: []
+first_released_as_single: true
 key: drag-me-down-one-direction
 lyrics_url: https://genius.com/One-direction-drag-me-down-lyrics
 name: Drag Me Down
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 192106
 ---
 I've got fire for a heart, I'm not scared of the dark
 You've never seen it look so easy

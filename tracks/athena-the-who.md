@@ -1,8 +1,11 @@
 ---
+album: It's Hard
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:255k7GWdOau9yOsewX85lg
 features: []
-genres: []
+first_released_as_single: false
 key: athena-the-who
 lyrics_url: https://www.azlyrics.com/lyrics/who/athena.html
 name: Athena
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1982
+runtime: 227600
 ---
-
 Athena, I had no idea how much I'd need her
 In peaceful times I hold her close and I feed her
 My heart starts palpitating when I think my guess was wrong
@@ -122,6 +126,3 @@ Just one word from her and my troubles are long gone
 But I get along
 She's just a girl, she's a bomb
 She's just a girl, she's a bomb
-
-
-

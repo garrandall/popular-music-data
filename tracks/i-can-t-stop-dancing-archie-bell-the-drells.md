@@ -1,9 +1,12 @@
 ---
+album: I Can't Stop Dancing
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:3evKZi4dI9Nw7Hit26XFN9
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-dancing-archie-bell-the-drells
 lyrics_url: https://genius.com/Archie-bell-and-the-drells-i-cant-stop-dancing-annotated
 name: I Can't Stop Dancing
@@ -48,6 +51,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 141373
 ---
 (Oh, no, I just can't stop)
 I just can't stop dancin'

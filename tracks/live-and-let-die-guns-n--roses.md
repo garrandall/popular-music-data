@@ -1,8 +1,11 @@
 ---
+album: Use Your Illusion I
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:0rFWuqFgHAfuzE8uSB9TWR
 features: []
-genres: []
+first_released_as_single: false
 key: live-and-let-die-guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/liveandletdie.html
 name: Live And Let Die
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 182733
 ---
-
 When you were young
 and your heart was an open book
 You used to say live and let live
@@ -99,6 +103,3 @@ in which we live in
 Makes you give in and cry
 Say live and let die
 Live and let die
-
-
-

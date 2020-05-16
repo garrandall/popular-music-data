@@ -1,8 +1,11 @@
 ---
+album: The Awakening (Cosmic Force)
 artists:
 - The Mystic Moods
+external_ids:
+  spotify: spotify:track:2n57bbhDsRMvUdUtuqIYxN
 features: []
-genres: []
+first_released_as_single: false
 key: cosmic-sea-the-mystic-moods
 lyrics_url: https://genius.com/The-mystic-moods-cosmic-sea-lyrics
 name: Cosmic Sea
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 183106
 ---
 Before the sun, the moon, the earth
 Before the stars or comets roaming free

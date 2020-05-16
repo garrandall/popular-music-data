@@ -1,8 +1,11 @@
 ---
+album: Platinum
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:4sl4UWqzHSG7riBKdralwy
 features: []
-genres: []
+first_released_as_single: false
 key: little-red-wagon-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/littleredwagon.html
 name: Little Red Wagon
@@ -51,8 +54,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2014
+runtime: 204386
 ---
-
 You only love me for my big sun glasses
 And my Tony Lama's
 And my Dodge Dart classic
@@ -101,6 +105,3 @@ No you can't step to this backyard swagger
 You know it ain't my fault when I'm walkin' jaws droppin' like
 Oh ah, oh, ah
 Oh, yeah. Ah. Oh. Ah!
-
-
-

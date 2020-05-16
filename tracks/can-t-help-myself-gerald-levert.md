@@ -1,8 +1,11 @@
 ---
+album: Groove On
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:36YYX5u0EFbAwwhA2YXZxd
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-myself-gerald-levert
 lyrics_url: https://genius.com/Gerald-levert-cant-help-myself-lyrics
 name: Can't Help Myself
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
+release_year: 1994
+runtime: 323680
 ---
 There comes a time in a man's life
 When he's tired of the games messing around

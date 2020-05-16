@@ -1,9 +1,12 @@
 ---
+album: White Nights
 artists:
 - Phil Collins
 - Marilyn Martin
+external_ids:
+  spotify: spotify:track:1PFc4zxEdyKyiUrSRnQEvM
 features: []
-genres: []
+first_released_as_single: false
 key: separate-lives-phil-collins-and-marilyn-martin
 lyrics_url: https://www.musixmatch.com/lyrics/Phil-Collins-and-Marilyn-Martin/Separate-Lives-2
 name: Separate Lives
@@ -92,6 +95,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1985
+runtime: 247346
 ---
 You called me from the room in your hotel
 All full of romance for someone that you've met

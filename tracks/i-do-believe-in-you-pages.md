@@ -1,8 +1,11 @@
 ---
+album: Future Street
 artists:
 - Pages
+external_ids:
+  spotify: spotify:track:7ls1Cc1QuQXkiYKq67oPqa
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-believe-in-you-pages
 lyrics_url: https://genius.com/Pages-i-do-believe-in-you-lyrics
 name: I Do Believe In You
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 242786
 ---
 They tried to catch us dancin' on the line
 They say we took it way too far this time

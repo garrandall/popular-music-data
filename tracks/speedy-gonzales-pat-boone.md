@@ -1,8 +1,11 @@
 ---
+album: Greatest Rock-N-Roll Songs
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:3TmnUIbelFiDzrhZqavHU0
 features: []
-genres: []
+first_released_as_single: false
 key: speedy-gonzales-pat-boone
 lyrics_url: https://genius.com/Pat-boone-speedy-gonzales-lyrics
 name: Speedy Gonzales
@@ -59,6 +62,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 153093
 ---
 It was a moonlit night in Old Mexico
 I walked alone between some old adobe haciendas

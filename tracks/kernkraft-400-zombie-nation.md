@@ -1,8 +1,11 @@
 ---
+album: Leichenschmaus
 artists:
 - Zombie Nation
+external_ids:
+  spotify: spotify:track:7C7BY0Ady2WePUN427nF7L
 features: []
-genres: []
+first_released_as_single: true
 key: kernkraft-400-zombie-nation
 lyrics_url: https://genius.com/Zombie-nation-kernkraft-400-lyrics
 name: Kernkraft 400
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
+release_year: 1999
+runtime: 285613
 ---
 Zombie
 Zombie

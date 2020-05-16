@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:6vsb1bU8oW7iqtjH2GeEaS
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-woman-the-beatles
 lyrics_url: https://genius.com/The-beatles-shes-a-woman-lyrics
 name: She's A Woman
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 182880
 ---
 My love don't give me presents
 I know that she's no peasant

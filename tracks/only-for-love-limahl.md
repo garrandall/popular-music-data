@@ -1,8 +1,11 @@
 ---
+album: Don't Suppose
 artists:
 - Limahl
+external_ids:
+  spotify: spotify:track:2NMJnsWsN3VYK1viWxiFJq
 features: []
-genres: []
+first_released_as_single: false
 key: only-for-love-limahl
 lyrics_url: https://www.azlyrics.com/lyrics/limahl/onlyforlove.html
 name: Only For Love
@@ -35,8 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 236426
 ---
-
 If that' s your problem don't let it show.
 You will find it self deceiving love can be unsure.
 Keep a level head maintain your pride.
@@ -61,4 +65,3 @@ And especially as she moves in close.
 When she moves that move there's no suppose.
 You'll find you're hunting when you'se apart.
 But when you give your heart its.
-

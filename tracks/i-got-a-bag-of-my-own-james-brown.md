@@ -1,8 +1,11 @@
 ---
+album: Get On The Good Foot
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4Ygdko0OT3nDtxYUPYXEHC
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-bag-of-my-own-james-brown
 lyrics_url: https://genius.com/James-brown-i-got-a-bag-of-my-own-lyrics
 name: I Got A Bag Of My Own
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 210960
 ---
 I got a bag of my own
 

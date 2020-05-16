@@ -1,8 +1,11 @@
 ---
+album: Legal Drug Money
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:71mNLAZsr1frFhpCa3JI8G
 features: []
-genres: []
+first_released_as_single: false
 key: renee-lost-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/lostboyz/renee.html
 name: Renee
@@ -79,9 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1996
+runtime: 293866
 ---
-
-
 Now here's a tune about this shawty named renee
 That I met one day
 On my way back from John Jay
@@ -199,4 +202,3 @@ I'm pouring beer out for my shorty who ain't here
 I'm from the ghetto
 So listen
 This is how I shed my tears
-

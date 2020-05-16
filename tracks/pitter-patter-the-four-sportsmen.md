@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The Four Sportsmen
+external_ids:
+  spotify: spotify:track:1JCgRCGu6iAFQa9GdmqvuT
 features: []
-genres: []
+first_released_as_single: false
 key: pitter-patter-the-four-sportsmen
 name: Pitter-Patter
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 136546
 ---
 

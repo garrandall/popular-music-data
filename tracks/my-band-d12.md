@@ -1,8 +1,11 @@
 ---
+album: D-12 World
 artists:
 - D12
+external_ids:
+  spotify: spotify:track:4XHQyvbrBsQaaBUW1VvmsL
 features: []
-genres: []
+first_released_as_single: false
 key: my-band-d12
 lyrics_url: https://genius.com/D12-my-band-lyrics
 name: My Band
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 2004
+runtime: 298773
 ---
 I don't know, dude
 I think everybody's all jealous and shit

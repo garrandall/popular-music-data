@@ -1,10 +1,13 @@
 ---
+album: Coloring Book
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:0v9Wz8o0BT8DU38R4ddjeH
 features:
 - Lil Wayne
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: no-problem-chance-the-rapper-lil-wayne-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/chancetherapper/noproblem.html
 name: No Problem
@@ -113,9 +116,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 304606
 ---
-
-
 You don't want zero problems, big fella!
 Yep!
 
@@ -236,6 +239,3 @@ You don't want no problems, want no problems with me
 You don't want no problems, want no problems with me
 Say so, got problems, say so
 They be like, "There he go! "
-
-
-

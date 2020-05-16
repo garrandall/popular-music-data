@@ -1,8 +1,11 @@
 ---
+album: Essential Soul
 artists:
 - Joe Hinton
+external_ids:
+  spotify: spotify:track:5lZ3sezVWHTpmdVbHyMDBT
 features: []
-genres: []
+first_released_as_single: false
 key: funny--how-time-slips-away--joe-hinton
 lyrics_url: https://genius.com/Joe-hinton-funny-lyrics
 name: Funny (How Time Slips Away)
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 186106
 ---
 Well, hello there
 My, it's been a long, long time

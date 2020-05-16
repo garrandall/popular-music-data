@@ -1,8 +1,11 @@
 ---
+album: Achtung Baby
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:50JK22El2PTIzZBU2liLDI
 features: []
-genres: []
+first_released_as_single: false
 key: mysterious-ways-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/mysteriousways.html
 name: Mysterious Ways
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 243586
 ---
-
 Johnny take a walk with your sister the moon
 Let her pale light in to fill up your room
 You've been living underground
@@ -145,6 +149,3 @@ Spirit moves in mysterious ways
 She moves with it
 She moves with it
 Lift my days, light up my nights
-
-
-

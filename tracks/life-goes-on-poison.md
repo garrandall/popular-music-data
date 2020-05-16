@@ -1,8 +1,11 @@
 ---
+album: Flesh & Blood
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:2OWKsyrgUINadOG21dR0Fh
 features: []
-genres: []
+first_released_as_single: false
 key: life-goes-on-poison
 lyrics_url: https://genius.com/Poison-life-goes-on-lyrics
 name: Life Goes On
@@ -59,6 +62,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
+release_year: 1990
+runtime: 287533
 ---
 I've felt this before
 Now I feel it again

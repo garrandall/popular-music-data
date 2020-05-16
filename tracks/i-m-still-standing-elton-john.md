@@ -1,8 +1,11 @@
 ---
+album: Too Low For Zero
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1jDJFeK9x3OZboIAHsY9k2
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-standing-elton-john
 lyrics_url: https://genius.com/Elton-john-im-still-standing-lyrics
 name: I'm Still Standing
@@ -71,6 +74,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1983
+runtime: 183440
 ---
 You could never know what it's like
 Your blood, like winter, freezes just like ice

@@ -1,9 +1,12 @@
 ---
+album: Boomtown
 artists:
 - David
 - David
+external_ids:
+  spotify: spotify:track:5UqVGRsDTAwBMTnCyscEdT
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-so-easy-david-david
 lyrics_url: https://genius.com/David-and-david-aint-so-easy-lyrics
 name: Ain't So Easy
@@ -52,6 +55,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 290493
 ---
 We can stay
 Or we can move along

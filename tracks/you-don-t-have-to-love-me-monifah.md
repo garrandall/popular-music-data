@@ -1,8 +1,11 @@
 ---
+album: Moods...Moments
 artists:
 - Monifah
+external_ids:
+  spotify: spotify:track:1FHmZ3jNK06PgJhvZjdtMD
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-love-me-monifah
 lyrics_url: https://genius.com/Monifah-you-dont-have-to-love-me-lyrics
 name: You Don't Have To Love Me
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
+release_year: 1996
+runtime: 275533
 ---
 You don't have to love me (you don't have to love me)
 You don't have to want me (anymore)

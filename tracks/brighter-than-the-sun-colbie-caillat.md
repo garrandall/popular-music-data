@@ -1,8 +1,11 @@
 ---
+album: All Of You
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:5YTtTbqxUzJHD3CpbNHerP
 features: []
-genres: []
+first_released_as_single: false
 key: brighter-than-the-sun-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/brighterthanthesun.html
 name: Brighter Than The Sun
@@ -107,8 +110,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 231213
 ---
-
 Stop me on the corner
 I swear you hit me like a vision
 I, I, I wasn't expecting
@@ -204,6 +208,3 @@ Oh, this is how it starts
 Lightning strikes the heart
 It goes off like a gun
 Brighter than the sun
-
-
-

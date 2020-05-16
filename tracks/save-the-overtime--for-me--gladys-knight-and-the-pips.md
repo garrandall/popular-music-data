@@ -1,8 +1,11 @@
 ---
+album: Arnold Schwarzenegger's Total Body Workout
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6BCAk9RARJHfB1EhCLMx9a
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-overtime--for-me--gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-save-the-overtime-for-me-lyrics
 name: Save The Overtime (For Me)
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1981
+runtime: 338600
 ---
 Darling, don't stay too long
 Pretty baby

@@ -1,8 +1,11 @@
 ---
+album: Pretty Girls Everywhere
 artists:
 - Eugene Church
+external_ids:
+  spotify: spotify:track:3u1CKRwWC9CURCOKVYfo17
 features: []
-genres: []
+first_released_as_single: false
 key: miami-eugene-church
 name: Miami
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 168880
 ---
 

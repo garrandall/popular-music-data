@@ -1,8 +1,11 @@
 ---
+album: Twistin' the Night Away
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:5zAagqWhlO0yzzMxIrJXIR
 features: []
-genres: []
+first_released_as_single: false
 key: twistin--the-night-away-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-twistin-the-night-away-lyrics
 name: Twistin' The Night Away
@@ -67,6 +70,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1960
+runtime: 164186
 ---
 Let me tell you about a place
 Somewhere up a New York way

@@ -1,8 +1,11 @@
 ---
+album: La Bamba
 artists:
 - Los Lobos
+external_ids:
+  spotify: spotify:track:1LeDn7zwuFLzqbqNiZ53an
 features: []
-genres: []
+first_released_as_single: false
 key: la-bamba-los-lobos
 lyrics_url: https://www.azlyrics.com/lyrics/loslobos/labamba.html
 name: La Bamba
@@ -91,10 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 174200
 ---
-
-
-
 Para bailar la bamba
 Para bailar la bamba
 Se necesita una poca de gracia
@@ -172,6 +174,3 @@ Bamba, bamba
 Bamba, bamba
 Bamba, bamba
 Bamba, bamba
-
-
-

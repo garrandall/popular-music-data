@@ -1,8 +1,11 @@
 ---
+album: Storm Front
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:1u7kQUb3lQcpHaYRfia13A
 features: []
-genres: []
+first_released_as_single: false
 key: and-so-it-goes-billy-joel
 lyrics_url: https://genius.com/Billy-joel-and-so-it-goes-lyrics
 name: And So It Goes
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-01-05'
+release_year: 1989
+runtime: 217573
 ---
 In every heart there is a room
 A sanctuary safe and strong

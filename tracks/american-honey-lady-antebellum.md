@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:4xInIiKipU1mtUogJ3ZdYr
 features: []
-genres: []
+first_released_as_single: false
 key: american-honey-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/americanhoney.html
 name: American Honey
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 224866
 ---
-
 She grew up on the side of the road
 Where the church bells ring
 And strong love grows
@@ -142,6 +146,3 @@ And American honey
 And American honey
 
 Oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lou Monte's Golden Hits
 artists:
 - Lou Monte
+external_ids:
+  spotify: spotify:track:4YZzhEfuPRYSAYXLWR2tWH
 features: []
-genres: []
+first_released_as_single: false
 key: pepino-the-italian-mouse-lou-monte
 lyrics_url: https://genius.com/Lou-monte-pepino-the-italian-mouse-lyrics
 name: Pepino The Italian Mouse
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 161320
 ---
 Pepino, oh, you little mouse, oh, won't you go away
 Find yourself another house to run around and play

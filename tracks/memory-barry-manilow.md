@@ -1,8 +1,11 @@
 ---
+album: Here Comes the Night
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:4LFupxeZbeHHdd5FQ2OFpr
 features: []
-genres: []
+first_released_as_single: false
 key: memory-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/memory.html
 name: Memory
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1973
+runtime: 296573
 ---
-
 Midnight,
 Not a sound from the pavement
 Has the moon lost her memory
@@ -104,6 +108,3 @@ All alone in the moonlight
 I can smile at the old days It was beautiful then
 I remember the time I knew what happiness was
 Let the memory live again
-
-
-

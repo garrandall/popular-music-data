@@ -1,8 +1,11 @@
 ---
+album: World Beat
 artists:
 - Kaoma
+external_ids:
+  spotify: spotify:track:2VpdG2QLhVv6qAPdDt9Ipr
 features: []
-genres: []
+first_released_as_single: false
 key: lambada-kaoma
 lyrics_url: https://genius.com/Kaoma-lambada-lyrics
 name: Lambada
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1989
+runtime: 208840
 ---
 Chorando se foi quem um dia só me fez chorar
 Chorando se foi quem um dia só me fez chorar

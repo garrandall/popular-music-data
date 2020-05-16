@@ -1,9 +1,12 @@
 ---
+album: Oscar's Winners
 artists:
 - Oscar Toney
 - Jr.
+external_ids:
+  spotify: spotify:track:4BQVBVTok2VEEv5qyiOB3G
 features: []
-genres: []
+first_released_as_single: false
 key: without-love--there-is-nothing--oscar-toney-jr-
 name: Without Love (There Is Nothing)
 rankings:
@@ -19,5 +22,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1968
+runtime: 225733
 ---
 

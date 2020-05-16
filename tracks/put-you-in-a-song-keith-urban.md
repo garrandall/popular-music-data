@@ -1,8 +1,11 @@
 ---
+album: Get Closer (Deluxe Version)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:7bkgRHkiyRO1vWzG1hTicD
 features: []
-genres: []
+first_released_as_single: false
 key: put-you-in-a-song-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/putyouinasong.html
 name: Put You In A Song
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2010
+runtime: 220386
 ---
-
 Well here you come again and you're lookin' so fine
 You don't notice me but it's alright
 I'm just a guy who wishes that I could be your man someday
@@ -132,6 +136,3 @@ If I could put you in a
 Let me put you in a song
 Let me put you in a song
 Oh a pretty little song about you baby
-
-
-

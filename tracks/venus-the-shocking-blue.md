@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Shocking Blue (Part One - The A Sides)
 artists:
 - The Shocking Blue
+external_ids:
+  spotify: spotify:track:5xjfkVdgqRPLhsgAcnlxnw
 features: []
-genres: []
+first_released_as_single: true
 key: venus-the-shocking-blue
 lyrics_url: https://www.azlyrics.com/lyrics/shockingblue/venus.html
 name: Venus
@@ -63,8 +66,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1969
+runtime: 181706
 ---
-
 A goddess on a mountain top
 Was burning like a silver flame
 The summit of beauty and love
@@ -101,6 +105,3 @@ At your desire
 Well, I'm your Venus
 I'm your fire
 At your desire
-
-
-

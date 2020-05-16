@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:2yfhsX7xD0WM40a09zkOp8
 features: []
-genres: []
+first_released_as_single: false
 key: 24-dino
 lyrics_url: https://www.musixmatch.com/lyrics/Dino/24-7
 name: '24'
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1989
+runtime: 260893
 ---
 I like the way that you give me all your love each day
 I like the way that you tell me everything's okay

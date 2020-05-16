@@ -1,8 +1,11 @@
 ---
+album: In 3-D
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:7uwJC9ngTvHYBtk1DH0aBr
 features: []
-genres: []
+first_released_as_single: false
 key: eat-it--weird-al--yankovic
 lyrics_url: https://genius.com/Weird-al-yankovic-eat-it-lyrics
 name: Eat It
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1984
+runtime: 201600
 ---
 How come you're always such a fussy young man
 Don't want no Cap'n Crunch, don't want no Raisin Bran

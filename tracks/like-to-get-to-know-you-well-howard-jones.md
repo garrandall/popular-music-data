@@ -1,8 +1,11 @@
 ---
+album: The 12" Album
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:772bRUFcpRAkccmYZqtvW0
 features: []
-genres: []
+first_released_as_single: false
 key: like-to-get-to-know-you-well-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/liketogettoknowyouwell.html
 name: Like To Get To Know You Well
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1984
+runtime: 456133
 ---
-
 Like to get to know you well
 Like to get to know you well
 Like to get to know you well
@@ -134,6 +138,3 @@ Like to get to know you well
 Like to get to know you well
 So we can be one
 We can be one together
-
-
-

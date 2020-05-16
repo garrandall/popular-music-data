@@ -1,8 +1,11 @@
 ---
+album: What I Do
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:6PoRzdAtZdyxgMWO7Q4Vh1
 features: []
-genres: []
+first_released_as_single: false
 key: monday-morning-church-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/mondaymorningchurch.html
 name: Monday Morning Church
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 1991
+runtime: 201026
 ---
-
 You left your Bible on the dresser
 So I put it in the drawer
 'Cause I can't seem to talk to God without yelling anymore
@@ -109,6 +113,3 @@ I don't have a prayer
 
 You left your Bible on the dresser
 So I put it in the drawer
-
-
-

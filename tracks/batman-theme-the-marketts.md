@@ -1,8 +1,11 @@
 ---
+album: Twilight City
 artists:
 - The Marketts
+external_ids:
+  spotify: spotify:track:7naB784XT1UQQY87SVWytQ
 features: []
-genres: []
+first_released_as_single: false
 key: batman-theme-the-marketts
 lyrics_url: https://genius.com/The-marketts-batman-theme-lyrics
 name: Batman Theme
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 140840
 ---
 Batman, Batman, Batman
 Batman, Batman, Batman, Batman

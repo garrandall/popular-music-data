@@ -1,8 +1,11 @@
 ---
+album: Montevallo
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:6kz5q7mFTf7MWTHS4reTpr
 features: []
-genres: []
+first_released_as_single: true
 key: house-party-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/houseparty.html
 name: House Party
@@ -87,15 +90,16 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
+release_year: 2014
+runtime: 190240
 ---
-
 You're on the couch,
 Blowing up my phone
 You don't want to come out,
 But you don't want to be alone
 
 It don't take but two
-To have a little soirÃ©e
+To have a little soirée
 If you're in the mood
 Sit tight right where you are, babe
 
@@ -150,6 +154,3 @@ If you're gonna be a homebody
 We're gonna have a house party
 If you wanna be a homebody
 We're gonna have a house party
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: New Kind Of Feeling
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:15nleBypXxYBFnrbMDE2Qc
 features: []
-genres: []
+first_released_as_single: false
 key: shadows-in-the-moonlight-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/shadowsinthemoonlight.html
 name: Shadows In The Moonlight
@@ -55,9 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1979
+runtime: 209733
 ---
-
-
 We'll be shadows in the moonlight, darlin' I'll meet you at midnight
 Hand and hand we'll go, dancin' through the Milky Way
 And we'll find a little hide a way where we can love the whole night away
@@ -76,8 +79,3 @@ Do you want me to think
 Just bring your love for me
 You'll be glad you came
 Just wait and see
-
-
-
-
-

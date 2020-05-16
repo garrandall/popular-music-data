@@ -1,8 +1,11 @@
 ---
+album: Just can't get enough
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:058ylOfaHNINMqM4rdW2ey
 features: []
-genres: []
+first_released_as_single: true
 key: just-can-t-get-enough-the-black-eyed-peas
 lyrics_url: https://genius.com/The-black-eyed-peas-just-cant-get-enough-lyrics
 name: Just Can't Get Enough
@@ -131,6 +134,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 222981
 ---
 Boy, I think about it every night and day
 I'm addicted, wanna jam inside your love

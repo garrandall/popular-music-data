@@ -1,9 +1,12 @@
 ---
+album: 2U
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:762UXiwEHYY97VL45sAUPR
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: true
 key: 2u-david-guetta-justin-bieber
 lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-david-guetta-2u-feat-justin-bieber-deutsche-ubersetzung-lyrics
 name: 2U
@@ -52,6 +55,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 194906
 ---
 Keine Grenze in der Luft, die ich nicht für dich überquere
 Kein Anzahl von Tränen in meinen Augen, die ich nicht für dich weine

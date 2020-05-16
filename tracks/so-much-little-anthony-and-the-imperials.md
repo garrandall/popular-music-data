@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:1Nxna0WbUflDIIe42bUkH9
 features: []
-genres: []
+first_released_as_single: false
 key: so-much-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-so-much-lyrics
 name: So Much
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 144106
 ---
 Oh, oo...
 

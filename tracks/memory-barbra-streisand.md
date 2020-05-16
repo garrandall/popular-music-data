@@ -1,8 +1,11 @@
 ---
+album: Guilty
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:14Rvfne9NkJwt90achhtfA
 features: []
-genres: []
+first_released_as_single: false
 key: memory-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/memory.html
 name: Memory
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1980
+runtime: 451760
 ---
-
 Midnight
 Not a sound from the pavement
 Has the moon lost her memory
@@ -82,6 +86,3 @@ Of my days in the sun
 If you'll touch me
 You'll understand what happiness is
 Look, a new day has begun...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Biggest Ragga Dancehall Anthems 2004
 artists:
 - T.O.K.
+external_ids:
+  spotify: spotify:track:4ex9m6RWw8PcfAZEaktdBL
 features: []
-genres: []
+first_released_as_single: false
 key: gal-yuh-ah-lead-t-o-k-
 lyrics_url: https://genius.com/Tok-gal-yuh-ah-lead-lyrics
 name: Gal Yuh Ah Lead
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
+release_year: 2004
+runtime: 212800
 ---
 Gal you a lead...(HEY)...yes indeed...(HEY)
 There gonna lead...(HEY)...(HEY)...(HEY)

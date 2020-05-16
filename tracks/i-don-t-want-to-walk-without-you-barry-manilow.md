@@ -1,8 +1,11 @@
 ---
+album: One Voice
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:783VelMcY8oo752ZAHdDvG
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-walk-without-you-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-i-dont-want-to-walk-without-you-lyrics
 name: I Don't Want To Walk Without You
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1973
+runtime: 236200
 ---
 Da da da da da
 Da da da da da

@@ -1,8 +1,11 @@
 ---
+album: Broadside Ballads, Vol. 2
 artists:
 - Pete Seeger
+external_ids:
+  spotify: spotify:track:7yjmGZW7uVoYLzOfOLr3zo
 features: []
-genres: []
+first_released_as_single: false
 key: little-boxes-pete-seeger
 lyrics_url: https://genius.com/Pete-seeger-little-boxes-lyrics
 name: Little Boxes
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1961
+runtime: 111266
 ---
 Little boxes on the hillside
 Little boxes made of ticky tacky

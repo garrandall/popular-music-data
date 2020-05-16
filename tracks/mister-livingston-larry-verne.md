@@ -1,8 +1,11 @@
 ---
+album: Larry Verne's Greatest Hits
 artists:
 - Larry Verne
+external_ids:
+  spotify: spotify:track:56sLff28MkjfCsS4dSsp6v
 features: []
-genres: []
+first_released_as_single: false
 key: mister-livingston-larry-verne
 lyrics_url: https://genius.com/Larry-verne-mister-livingston-lyrics
 name: Mister Livingston
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 233506
 ---
 (Through the steaming jungle
 Searching night and day

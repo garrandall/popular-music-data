@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:42pmQg0i1TUr67IxScVBg7
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: let-it-fly-lil-wayne-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/letitfly.html
 name: Let It Fly
@@ -16,9 +19,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 186872
 ---
-
-
 Fly
 Let it fly
 Let it fly like the birds in the sky
@@ -88,6 +91,3 @@ Take the T off Tunechi and look at it as the crucifix, bitch
 C5, best rapper alive
 Yeah, yeah, yeah, yeah
 Let it fly
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 31 Minutes to Takeoff
 artists:
 - Mike Posner
+external_ids:
+  spotify: spotify:track:6jg5SRvdGxvJ0DzNV0UqEK
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-mike-posner
 lyrics_url: https://genius.com/Mike-posner-please-dont-go-lyrics
 name: Please Don't Go
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 196813
 ---
 Let's run away from these lies
 Back to yesterday, safe tonight

@@ -1,8 +1,11 @@
 ---
+album: Spirit In The Sky
 artists:
 - Norman Greenbaum
+external_ids:
+  spotify: spotify:track:0jvN7eQJJt4nxQzgQfZ1SP
 features: []
-genres: []
+first_released_as_single: false
 key: spirit-in-the-sky-norman-greenbaum
 lyrics_url: https://genius.com/Norman-greenbaum-spirit-in-the-sky-lyrics
 name: Spirit In The Sky
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1969
+runtime: 242893
 ---
 When I die and they lay me to rest
 Gonna go to the place that's the best

@@ -1,8 +1,11 @@
 ---
+album: Post Card
 artists:
 - Mary Hopkin
+external_ids:
+  spotify: spotify:track:0U1FiwpqJQXiD0BZ6qMMnx
 features: []
-genres: []
+first_released_as_single: true
 key: goodbye-mary-hopkin
 lyrics_url: https://genius.com/Mary-hopkin-goodbye-lyrics
 name: Goodbye
@@ -43,6 +46,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1968
+runtime: 140554
 ---
 Please don't wake me up too late, tomorrow comes
 And I will not be late

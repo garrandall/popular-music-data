@@ -1,8 +1,11 @@
 ---
+album: Good Girl Gone Bad
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4QdX6pmNnJ5cleufWQIr5D
 features: []
-genres: []
+first_released_as_single: false
 key: shut-up-and-drive-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/shutupanddrive.html
 name: Shut Up And Drive
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2007
+runtime: 212280
 ---
-
 I've been looking for a driver who is qualified
 So if you think that you're the one step into my ride
 I'm a fine-tuned supersonic speed machine
@@ -168,6 +172,3 @@ Now shut up and drive
 
 Shut up and drive
 (drive, drive, drive)
-
-
-

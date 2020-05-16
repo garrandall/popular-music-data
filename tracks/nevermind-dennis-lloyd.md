@@ -1,8 +1,11 @@
 ---
+album: Nevermind (Wankelmut Remixes)
 artists:
 - Dennis Lloyd
+external_ids:
+  spotify: spotify:track:1CNCmckkTkCoJ8FsuwwL7t
 features: []
-genres: []
+first_released_as_single: true
 key: nevermind-dennis-lloyd
 lyrics_url: https://www.azlyrics.com/lyrics/dennislloyd/nevermind.html
 name: Nevermind
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2017
+runtime: 181142
 ---
-
 Alright, I'm ready now, ready now
 I ain't gonna, I ain't gonna fall back down now
 Alright, I'll take it on, take it on me
@@ -104,6 +108,3 @@ And you tell your friends
 And they hold your hands
 Baby, nevermind, nevermind
 Nevermind, nevermind
-
-
-

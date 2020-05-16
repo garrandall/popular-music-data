@@ -1,8 +1,11 @@
 ---
+album: Satin Soul - Chilled 70's & 80's Classics
 artists:
 - The Persuaders
+external_ids:
+  spotify: spotify:track:5xN2d0IpBPSNKkahF4vnXU
 features: []
-genres: []
+first_released_as_single: false
 key: best-thing-that-ever-happened-to-me-the-persuaders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Persuaders/Best-Thing-That-Ever-Happened-to-Me
 name: Best Thing That Ever Happened To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1974
+runtime: 294999
 ---
 I've had my share of life's ups and downs
 But fate's been kind, the downs have been few

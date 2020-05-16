@@ -1,8 +1,11 @@
 ---
+album: Return To Zero
 artists:
 - RTZ
+external_ids:
+  spotify: spotify:track:3WPPoxtp863Y3NdyjuT5Vj
 features: []
-genres: []
+first_released_as_single: false
 key: all-you-ve-got-rtz
 lyrics_url: https://www.musixmatch.com/lyrics/RTZ/All-You-ve-Got
 name: All You've Got
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1991
+runtime: 244266
 ---
 Well I heard things took a turn for you
 And now you don't know what to do

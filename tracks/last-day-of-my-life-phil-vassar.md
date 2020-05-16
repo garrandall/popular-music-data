@@ -1,8 +1,11 @@
 ---
+album: The Hits Live on Broadway
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:2t0o16TerppEdd4ialgfKu
 features: []
-genres: []
+first_released_as_single: false
 key: last-day-of-my-life-phil-vassar
 lyrics_url: https://www.musixmatch.com/lyrics/Phil-Vassar/Last-Day-of-My-Life
 name: Last Day Of My Life
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-08-12'
+release_year: 2000
+runtime: 249066
 ---
 I just left Bobby's house:
 The service was today.

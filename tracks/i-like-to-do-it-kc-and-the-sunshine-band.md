@@ -1,8 +1,11 @@
 ---
+album: KC & The Sunshine Band - Part 3...And More
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:6dlN9j7vKMsMfHA5iSS7sV
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-to-do-it-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/iliketodoit.html
 name: I Like To Do It
@@ -55,8 +58,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 175933
 ---
-
 I baby I
 I like to do it
 With you
@@ -99,6 +103,3 @@ I like to do it with you
 I like to do it with you
 I like to do it with you
 I like to do it with you...
-
-
-

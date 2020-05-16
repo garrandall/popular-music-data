@@ -1,8 +1,11 @@
 ---
+album: Crying
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:6sbj89WozjblBMa5u41orw
 features: []
-genres: []
+first_released_as_single: false
 key: running-scared-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-running-scared-lyrics
 name: Running Scared
@@ -75,6 +78,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1961
+runtime: 132040
 ---
 Just runnin' scared each place we go
 So afraid that he might show

@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:3RpQtTk76Yn4q0Ug0TDLRi
 features: []
-genres: []
+first_released_as_single: false
 key: the-eyes-of-a-new-york-woman-b-j--thomas
 lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/theeyesofanewyorkwoman.html
 name: The Eyes Of A New York Woman
@@ -63,49 +66,47 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 181266
 ---
-
-I'll be in New York City 
-When the lights shine bright tonight 
-Where my woman waits for me 
-Arms that hold me tenderly 
-Lips as sweet as honeycomb 
-Love that waits for me alone 
-Deep in the eyes of a New York woman 
-
-The eyes of a New York woman 
-Are eyes that can hold a man 
-She swept me off of my feet 
-Made my world seem so complete 
-I'll never have to look for more 
-I found what I've been lookin' for 
+I'll be in New York City
+When the lights shine bright tonight
+Where my woman waits for me
+Arms that hold me tenderly
+Lips as sweet as honeycomb
+Love that waits for me alone
 Deep in the eyes of a New York woman
 
-Thought I wasn't ready 
-For the tie that binds 
-But I lost my heart to her 
-When her eyes met mine 
-
-Now I see her differently 
-I've got to make her mine 
-
-So I'll make my home Fun City 
-And let the lights shine bright on me 
-East side cafÃ©s, West side plays 
-Uptown, downtown, I'll be there 
-I'll never have to look for more 
-I found what I've been lookin' for 
-Deep in the eyes of a New York woman 
-
-The eyes of a New York woman 
-Are eyes that can hold a man 
-She swept me off of my feet 
-Made my world seem so complete 
-I'll never have to look for more 
-I found what I've been lookin' for 
-Deep in the eyes of a New York woman 
-
+The eyes of a New York woman
+Are eyes that can hold a man
+She swept me off of my feet
+Made my world seem so complete
+I'll never have to look for more
+I found what I've been lookin' for
 Deep in the eyes of a New York woman
 
+Thought I wasn't ready
+For the tie that binds
+But I lost my heart to her
+When her eyes met mine
 
+Now I see her differently
+I've got to make her mine
 
+So I'll make my home Fun City
+And let the lights shine bright on me
+East side cafés, West side plays
+Uptown, downtown, I'll be there
+I'll never have to look for more
+I found what I've been lookin' for
+Deep in the eyes of a New York woman
+
+The eyes of a New York woman
+Are eyes that can hold a man
+She swept me off of my feet
+Made my world seem so complete
+I'll never have to look for more
+I found what I've been lookin' for
+Deep in the eyes of a New York woman
+
+Deep in the eyes of a New York woman

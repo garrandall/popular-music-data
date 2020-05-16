@@ -1,8 +1,11 @@
 ---
+album: A Young Man's Fancy
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:3Id8znxIUtTYNhZsak8Unb
 features: []
-genres: []
+first_released_as_single: false
 key: cindy-s-birthday-johnny-crawford
 lyrics_url: https://genius.com/Johnny-crawford-cindys-birthday-lyrics
 name: Cindy's Birthday
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 128453
 ---
 No time for the movie show, TV, or the radio
 Gotta write a symphony, end it with some poetry

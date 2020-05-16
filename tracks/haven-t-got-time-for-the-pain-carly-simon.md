@@ -1,8 +1,11 @@
 ---
+album: Hotcakes
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:3m4dGRZLyjctHWKJtwXFKN
 features: []
-genres: []
+first_released_as_single: false
 key: haven-t-got-time-for-the-pain-carly-simon
 lyrics_url: https://genius.com/Carly-simon-havent-got-time-for-the-pain-lyrics
 name: Haven't Got Time For The Pain
@@ -55,6 +58,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1974
+runtime: 234093
 ---
 All those crazy nights when I cried myself to sleep
 Now melodrama never makes me weep anymore

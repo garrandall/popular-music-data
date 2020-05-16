@@ -1,8 +1,11 @@
 ---
+album: The Present
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:0GhAc4Q5FIRaq3qLV0NsWY
 features: []
-genres: []
+first_released_as_single: false
 key: blue-world-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-blue-world-lyrics
 name: Blue World
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
+release_year: 1983
+runtime: 319146
 ---
 Heart and soul took control
 Took control of me

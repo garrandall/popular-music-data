@@ -1,8 +1,11 @@
 ---
+album: The Dimension Dolls
 artists:
 - Little Eva
+external_ids:
+  spotify: spotify:track:1hClDWPgajpLIFjLOkFuau
 features: []
-genres: []
+first_released_as_single: false
 key: the-loco-motion-little-eva
 lyrics_url: https://genius.com/Little-eva-the-loco-motion-lyrics
 name: The Loco-Motion
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 148626
 ---
 Everybody is doin' a brand new dance, now
 (Come on baby, do the Loco-motion)

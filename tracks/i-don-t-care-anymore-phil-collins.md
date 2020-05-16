@@ -1,8 +1,11 @@
 ---
+album: Hello, I Must Be Going!
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:24IdPCimVnJJDRuB5YSDiS
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-care-anymore-phil-collins
 lyrics_url: https://genius.com/Phil-collins-i-dont-care-anymore-lyrics
 name: I Don't Care Anymore
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1982
+runtime: 305706
 ---
 Well you can tell everyone I'm a down disgrace
 Drag my name all over the place

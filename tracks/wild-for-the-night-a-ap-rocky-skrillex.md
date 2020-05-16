@@ -1,9 +1,12 @@
 ---
+album: LONG.LIVE.A$AP (Deluxe Version)
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:2rzBvHM9h36Tpdj7Jdajka
 features:
 - Skrillex
-genres: []
+first_released_as_single: false
 key: wild-for-the-night-a-ap-rocky-skrillex
 lyrics_url: https://genius.com/A-ap-rocky-wild-for-the-night-lyrics
 name: Wild For The Night
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
+release_year: 2013
+runtime: 212640
 ---
 Wake up feeling blessed up, pistol on that dresser
 Ain't afraid to show it, I'll expose it if I dress up

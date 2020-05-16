@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:0Q7Jp3aCwfYnSnbMDoXWyR
 features: []
-genres: []
+first_released_as_single: false
 key: from-this-moment-on-shania-twain
 lyrics_url: https://genius.com/Shania-twain-from-this-moment-on-lyrics
 name: From This Moment On
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1997
+runtime: 281533
 ---
 I do swear that I'll always be there
 I'd give anything and everything and I will always care

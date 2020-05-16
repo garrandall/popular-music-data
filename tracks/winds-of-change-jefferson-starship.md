@@ -1,8 +1,11 @@
 ---
+album: Winds Of Change
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:5LHCFZ5WpuN4Isb8hwGzbU
 features: []
-genres: []
+first_released_as_single: false
 key: winds-of-change-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/windsofchange.html
 name: Winds Of Change
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 232480
 ---
-
 Walk softly through the desert sands 
 Careful where you tread 
 Underfoot are the visions lost 
@@ -86,6 +90,3 @@ Hang on - It's starting again
 Hang on - There's no shelter from the wind 
 Hang on - Like a fire from the sky 
 Winds of change are blowing by
-
-
-

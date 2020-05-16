@@ -1,8 +1,11 @@
 ---
+album: State of Confusion
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:10OTiDM51wV8bfWGCxY6xw
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-to-dance-the-kinks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kinks/Don-t-Forget-to-Dance
 name: Don't Forget To Dance
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 278213
 ---
 You look out of your window,
 Into the night.

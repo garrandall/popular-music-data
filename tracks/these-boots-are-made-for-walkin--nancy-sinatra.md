@@ -1,8 +1,11 @@
 ---
+album: Boots
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:2nwCO1PqpvyoFIvq3Vrj8N
 features: []
-genres: []
+first_released_as_single: false
 key: these-boots-are-made-for-walkin--nancy-sinatra
 lyrics_url: https://genius.com/Nancy-sinatra-these-boots-are-made-for-walkin-lyrics
 name: These Boots Are Made For Walkin'
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 166008
 ---
 You keep saying you got something for me
 Something you call love, but confess

@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:5hXd2WtIKO74SubHzjkTHW
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-it-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-this-is-it-lyrics
 name: This Is It
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1965
+runtime: 185386
 ---
 Well, this is it
 That day is here

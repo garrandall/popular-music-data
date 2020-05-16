@@ -1,9 +1,12 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:3HVWdVOQ0ZA45FuZGSfvns
 features: []
-genres: []
+first_released_as_single: true
 key: i-don-t-care-ed-sheeran-justin-bieber
 lyrics_url: https://genius.com/Ed-sheeran-and-justin-bieber-i-dont-care-lyrics
 name: I Don't Care
@@ -164,6 +167,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 219946
 ---
 I'm at a party I don't wanna be at
 And I don't ever wear a suit and tie, yeah

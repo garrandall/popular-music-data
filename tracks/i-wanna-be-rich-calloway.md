@@ -1,8 +1,11 @@
 ---
+album: All the Way
 artists:
 - Calloway
+external_ids:
+  spotify: spotify:track:5bqNu0YfNOZpgl34bcJiFQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-rich-calloway
 lyrics_url: https://genius.com/Calloway-i-wanna-be-rich-lyrics
 name: I Wanna Be Rich
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
+release_year: 1989
+runtime: 304200
 ---
 Imagine
 Cash cold, that's what I need

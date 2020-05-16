@@ -1,9 +1,12 @@
 ---
+album: Sticks & Stones
 artists:
 - Cher Lloyd
+external_ids:
+  spotify: spotify:track:6D0QtayzCNVKoIZ8IX2npw
 features:
 - Becky G
-genres: []
+first_released_as_single: false
 key: oath-cher-lloyd-becky-g
 lyrics_url: https://www.azlyrics.com/lyrics/cherlloyd/oath.html
 name: Oath
@@ -16,8 +19,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2013-01-12'
+release_year: 2012
+runtime: 218506
 ---
-
 Yo, my best friend, best friend 'til the very end
 Cause best friends, best friends don't have to pretend
 You need a hand, and I'm right there right beside you
@@ -88,6 +92,3 @@ Wherever you go, just always remember
 You're never alone, we're birds of a feather
 And we'll never change, no matter the weather
 Oh oh, this is my oath to you
-
-
-

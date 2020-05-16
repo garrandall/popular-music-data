@@ -1,9 +1,12 @@
 ---
+album: Best HOTEL-Gentle
 artists:
 - Calvin Harris
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:7ef4DlsgrMEH11cDZd32M6
 features: []
-genres: []
+first_released_as_single: true
 key: one-kiss-calvin-harris-dua-lipa
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/onekiss.html
 name: One Kiss
@@ -92,8 +95,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 214846
 ---
-
 One kiss is all it takes
 Fallin' in love with me
 Possibilities
@@ -177,6 +181,3 @@ Darling
 One
 One
 Darling
-
-
-

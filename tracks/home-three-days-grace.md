@@ -1,8 +1,11 @@
 ---
+album: Three Days Grace
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:11RUCSAgpexhJSMmcuO4h2
 features: []
-genres: []
+first_released_as_single: false
 key: home-three-days-grace
 lyrics_url: https://genius.com/Three-days-grace-home-lyrics
 name: Home
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2003
+runtime: 260680
 ---
 I'll be coming home, just to be alone
 'Cause I know you're not there

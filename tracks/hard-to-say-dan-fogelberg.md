@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:0lFIys9PvdEJqTWsS7Ac9y
 features: []
-genres: []
+first_released_as_single: false
 key: hard-to-say-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/hardtosay.html
 name: Hard To Say
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-01-02'
+release_year: 1979
+runtime: 237040
 ---
-
 Lucky at love, well maybe so
 There's still a lot of things you'll never know
 Like why each time the sky begins to snow, you cry
@@ -120,6 +124,3 @@ There's still a lot of things you'll never know
 Like why each time the sky begins to snow, you cry
 Well, you cry
 Oh, you still have to cry
-
-
-

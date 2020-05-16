@@ -1,8 +1,11 @@
 ---
+album: Gitarzan
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:2iLZCpKCC5M6VyrWdLM0jA
 features: []
-genres: []
+first_released_as_single: false
 key: freddie-feelgood--and-his-funky-little-five-piece-band--ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/freddiefeelgood.html
 name: Freddie Feelgood (And His Funky Little Five Piece Band)
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 169426
 ---
-
 Well they got a tight little unit you know they're the most
 Famous all over from coast to coast
 A-really layin' down the sound as much as you can stand (yeah, yeah)
@@ -46,4 +50,3 @@ It's the kind with a down-home beat that you can understand
 I'm talkin' 'bout Freddie Feelgood and his Funky Little Five Piece Band
 Whoa yeah
 Ah, work out now!
-

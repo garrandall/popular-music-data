@@ -1,8 +1,11 @@
 ---
+album: Slip Of The Tongue
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:5QkAAXiq4WSvfxAcgcCpOk
 features: []
-genres: []
+first_released_as_single: false
 key: now-you-re-gone-whitesnake
 lyrics_url: https://genius.com/Whitesnake-now-youre-gone-lyrics
 name: Now You're Gone
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 246133
 ---
 Now you're gone
 I can feel my heart is breaking

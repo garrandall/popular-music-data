@@ -1,8 +1,11 @@
 ---
+album: Change Everything
 artists:
 - Del Amitri
+external_ids:
+  spotify: spotify:track:5R5uHoaeNY1MN3yRzc2q1Q
 features: []
-genres: []
+first_released_as_single: false
 key: always-the-last-to-know-del-amitri
 lyrics_url: https://www.azlyrics.com/lyrics/delamitri/alwaysthelasttoknow.html
 name: Always The Last To Know
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1992
+runtime: 262840
 ---
-
 So you're in love with someone else
 Someone who burns within your soul
 And it looks like I am the last to know
@@ -126,6 +130,3 @@ Oh, Oh, Oh.
 Don't let me be the last to know
 
 No, No, No, No, No, No, No, No, No, No, No, No, No, No.
-
-
-

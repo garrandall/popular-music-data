@@ -1,8 +1,11 @@
 ---
+album: Business Never Personal
 artists:
 - EPMD
+external_ids:
+  spotify: spotify:track:5JKSty49E9iv1Tj6lfx68n
 features: []
-genres: []
+first_released_as_single: false
 key: crossover-epmd
 lyrics_url: https://www.azlyrics.com/lyrics/epmd/crossover.html
 name: Crossover
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1992
+runtime: 228760
 ---
-
 Whatever you want
 Whatever you need
 I wanna do it for you, I do
@@ -189,6 +193,3 @@ Crossover
 Whatever you want
 Whatever you need
 I wanna do it for you, I do
-
-
-

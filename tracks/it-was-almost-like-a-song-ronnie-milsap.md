@@ -1,8 +1,11 @@
 ---
+album: It Was Almost Like A Song
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:5fO4iEznH83cwSHZLFz2lQ
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-almost-like-a-song-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/itwasalmostlikeasong.html
 name: It Was Almost Like A Song
@@ -95,8 +98,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 219520
 ---
-
 Once in every life... someone comes along,
 And you came to me... it was almost like a song.
 
@@ -113,6 +117,3 @@ And it's almost like a song... but it's much too sad to write.
 Now my broken heart... cries for you each night,
 And it's almost like a song... but it's much to sad to write...
 Much too sad to write.
-
-
-

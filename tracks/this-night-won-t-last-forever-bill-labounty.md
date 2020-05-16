@@ -1,8 +1,11 @@
 ---
+album: This Night Won't Last Forever
 artists:
 - Bill LaBounty
+external_ids:
+  spotify: spotify:track:3KH39R9cO3ZWN6hqRbTKM3
 features: []
-genres: []
+first_released_as_single: false
 key: this-night-won-t-last-forever-bill-labounty
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-LaBounty/This-Night-Won-t-Last-Forever
 name: This Night Won't Last Forever
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 265640
 ---
 Everybody likes a celebration
 Happy music and conversation

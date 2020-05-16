@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Detroit Emeralds
+external_ids:
+  spotify: spotify:track:1rltlGCDM3Y9Gx7Xp1tlIF
 features: []
-genres: []
+first_released_as_single: true
 key: feel-the-need-detroit-emeralds
 lyrics_url: https://genius.com/Detroit-emeralds-feel-the-need-in-me-lyrics
 name: Feel The Need
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1971
+runtime: 198629
 ---
 See how I'm walkin', see how I'm talkin'
 Notice everything in me

@@ -1,8 +1,11 @@
 ---
+album: Detroit Soul, The Motorcity Years, Vol. 2
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:2btTYDipfCG9XnYdLUnR27
 features: []
-genres: []
+first_released_as_single: false
 key: love-hangover-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-love-hangover-lyrics
 name: Love Hangover
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1976
+runtime: 282666
 ---
 If there's a cure for this
 I don't want it, I don't want it

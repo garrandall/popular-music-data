@@ -1,8 +1,11 @@
 ---
+album: Elisa Fiorillo
 artists:
 - Elisa Fiorillo
+external_ids:
+  spotify: spotify:track:7cje1GTEFByjRcpdeyN3Xq
 features: []
-genres: []
+first_released_as_single: false
 key: forgive-me-for-dreaming-elisa-fiorillo
 lyrics_url: https://genius.com/Elisa-fiorillo-forgive-me-for-dreaming-lyrics
 name: Forgive Me For Dreaming
@@ -55,6 +58,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1987
+runtime: 278173
 ---
 Don't know what to say
 Cause it's been so long since

@@ -1,8 +1,11 @@
 ---
+album: Dead Enz Kidz Doin' Lifetime Bidz
 artists:
 - Young Black Teenagers
+external_ids:
+  spotify: spotify:track:1tqpUCOGNVjUOKvOqxChRb
 features: []
-genres: []
+first_released_as_single: false
 key: tap-the-bottle-young-black-teenagers
 lyrics_url: https://genius.com/Young-black-teenagers-tap-the-bottle-lyrics
 name: Tap The Bottle
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
+release_year: 1993
+runtime: 240106
 ---
-
 Tap the bottle and twist the cap
 Tap the bottle and twist the cap
 Tap the bottle and twist the cap

@@ -1,8 +1,12 @@
 ---
+album: Think!
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:3yEJaav55jS4ZVImqiJP6r
+features:
+- The Famous Flames
+first_released_as_single: false
 key: bewildered-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-bewildered-lyrics
 name: Bewildered
@@ -39,6 +43,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1960
+runtime: 146933
 ---
 Bewildered, lost in a dream
 In the love I need why did we part

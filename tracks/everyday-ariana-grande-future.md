@@ -1,9 +1,12 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:6yL2kTsdVwYnGwPkKGtMd5
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: everyday-ariana-grande-future
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/everyday.html
 name: Everyday
@@ -36,9 +39,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2016
+runtime: 194840
 ---
-
-
 Anytime I'm alone, I can't help thinking about you
 All I want, all I need, all I see, is just me and you
 
@@ -129,6 +132,3 @@ Give it to me, to me
 (She got me on it...)
 Oh, he give it to me everyday
 (She got me on it...)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '50,000,000 Elvis Fans Can''t Be Wrong: Elvis'' Gold Records, Vol. 2'
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3nwxwYSwdFvyLngepyPxOZ
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-elvis-presley
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley/One-Night-of-Sin
 name: One Night
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1958
+runtime: 152186
 ---
 One night of sin, yeah
 Is what I'm now paying for

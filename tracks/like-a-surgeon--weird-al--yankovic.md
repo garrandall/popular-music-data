@@ -1,8 +1,11 @@
 ---
+album: Dare To Be Stupid
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:4D876G8FLaVEJk4pHKXFbG
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-surgeon--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/likeasurgeon.html
 name: Like A Surgeon
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 212760
 ---
-
 I finally made it through med school
 Somehow I made it through
 I'm just an intern
@@ -91,6 +95,3 @@ Oh oh, oh oh, woe, oh
 Oh baby, yah
 I can hear your heartbeat
 For the very last time
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Dirt Bag
 artists:
 - Blueface
 - Rich The Kid
+external_ids:
+  spotify: spotify:track:4hanO6Du5J7QEguNHYZHmw
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-blueface-rich-the-kid
 lyrics_url: https://www.azlyrics.com/lyrics/blueface/daddy.html
 name: Daddy
@@ -24,9 +27,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 151146
 ---
-
-
 Blueface, baby
 Yeah, aight
 (CÃ¡llate, Mike Crook)
@@ -93,6 +96,3 @@ She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
-
-
-

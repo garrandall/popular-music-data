@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:0G71WvIkF2K6HViJeFvOcM
 features: []
-genres: []
+first_released_as_single: false
 key: see-you-again-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-see-you-again-lyrics
 name: See You Again
@@ -115,6 +118,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2007
+runtime: 190453
 ---
 I got my sights set on you and I'm ready to aim
 I have a heart that will never be tamed

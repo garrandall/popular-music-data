@@ -1,8 +1,11 @@
 ---
+album: Sticks And Stones
 artists:
 - New Found Glory
+external_ids:
+  spotify: spotify:track:4pImG3RdbaGfanzQOTFgyr
 features: []
-genres: []
+first_released_as_single: false
 key: my-friends-over-you-new-found-glory
 lyrics_url: https://genius.com/New-found-glory-my-friends-over-you-lyrics
 name: My Friends Over You
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 220200
 ---
 I’m drunk off your kiss
 For another night in a row

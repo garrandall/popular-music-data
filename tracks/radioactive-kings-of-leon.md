@@ -1,8 +1,11 @@
 ---
+album: Come Around Sundown
 artists:
 - Kings Of Leon
+external_ids:
+  spotify: spotify:track:60CirPlTOEWOUBus7HxV3B
 features: []
-genres: []
+first_released_as_single: false
 key: radioactive-kings-of-leon
 lyrics_url: https://www.azlyrics.com/lyrics/kingsofleon/radioactive.html
 name: Radioactive
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 206186
 ---
-
 When the roll is called up yonder
 I hope you see me there
 
@@ -53,6 +57,3 @@ Just drink the water, where you came from, where you came from
 
 And when they clash and come together, and start rising
 Just drink the water, where you came from, where you came from
-
-
-

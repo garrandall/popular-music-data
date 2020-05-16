@@ -1,8 +1,11 @@
 ---
+album: Bow Down
 artists:
 - Westside Connection
+external_ids:
+  spotify: spotify:track:2vytyWClpsahqcL6NibSE3
 features: []
-genres: []
+first_released_as_single: false
 key: gangstas-make-the-world-go-round-westside-connection
 lyrics_url: https://www.azlyrics.com/lyrics/westsideconnection/gangstasmaketheworldgoround.html
 name: Gangstas Make The World Go Round
@@ -87,9 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-07-19'
+release_year: 1996
+runtime: 272834
 ---
-
-
 Iam gettin dizzy as the world keeps spinnin like a frisbie
 Gangsta's and girls make the world twirl
 No hesitation I can run a nation from incarceration
@@ -183,7 +186,3 @@ Gangsta
 FOE LIFE NIGGA
 
 Gangstas make the world go round
-
-
-
-

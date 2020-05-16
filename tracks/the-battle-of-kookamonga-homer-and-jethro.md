@@ -1,8 +1,11 @@
 ---
+album: 'America''s Song Butchers: The Weird World Of Homer & Jethro'
 artists:
 - Homer And Jethro
+external_ids:
+  spotify: spotify:track:3Y6AJkWgRvCS5rLQsZtUkR
 features: []
-genres: []
+first_released_as_single: false
 key: the-battle-of-kookamonga-homer-and-jethro
 lyrics_url: https://genius.com/Homer-and-jethro-the-battle-of-kookamonga-lyrics
 name: The Battle Of Kookamonga
@@ -47,6 +50,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 157693
 ---
 In nineteen and fifty-nine we took a little hike
 With our scout master down to Lake Oneeganite

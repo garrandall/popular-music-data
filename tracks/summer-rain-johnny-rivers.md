@@ -1,8 +1,11 @@
 ---
+album: Realization
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:1yfHCiyxfm3XlKpFj5zsJU
 features: []
-genres: []
+first_released_as_single: false
 key: summer-rain-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/summerrain.html
 name: Summer Rain
@@ -47,8 +50,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 232426
 ---
-
 Summer rain taps at my window
 West wind soft as a sweet dream
 My love warm as the sunshine
@@ -82,6 +86,3 @@ North wind blowin' like thunder
 Our love's burnin' like fire
 And she's here by me, yeah, she's here with me
 Let tomorrow be
-
-
-

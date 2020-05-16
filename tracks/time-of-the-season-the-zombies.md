@@ -1,8 +1,11 @@
 ---
+album: Odessey and Oracle
 artists:
 - The Zombies
+external_ids:
+  spotify: spotify:track:6im4Ks6SWUqwTGp7Cft1e7
 features: []
-genres: []
+first_released_as_single: true
 key: time-of-the-season-the-zombies
 lyrics_url: https://genius.com/The-zombies-time-of-the-season-lyrics
 name: Time Of The Season
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1967
+runtime: 214026
 ---
 ​​
 

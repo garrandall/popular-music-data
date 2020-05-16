@@ -1,8 +1,11 @@
 ---
+album: Happy Popcorn
 artists:
 - Gabriel And The Angels
+external_ids:
+  spotify: spotify:track:2b0Krnn7gdbfPq5cCT7EBH
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-life--that-s-tough--gabriel-and-the-angels
 name: That's Life (That's Tough)
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 152653
 ---
 

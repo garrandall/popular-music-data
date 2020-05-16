@@ -1,8 +1,11 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:6v2eEC9Nr9POe5xPUm8361
 features: []
-genres: []
+first_released_as_single: false
 key: blunt-blowin-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/bluntblowin.html
 name: Blunt Blowin
@@ -31,8 +34,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 312960
 ---
-
 I'mma put my shades on
 
 I live it up like these are my last days
@@ -144,6 +148,3 @@ Young mula, baby
 Bitch I've been gone too long
 True or false, right or wrong
 Hello Weezy, welcome home
-
-
-

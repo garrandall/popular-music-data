@@ -1,8 +1,11 @@
 ---
+album: El Chicano "Live"
 artists:
 - El Chicano
+external_ids:
+  spotify: spotify:track:0hg46jdDJpzTlHq8vcPmWo
 features: []
-genres: []
+first_released_as_single: false
 key: brown-eyed-girl-el-chicano
 lyrics_url: https://genius.com/El-chicano-brown-eyed-girl-lyrics
 name: Brown Eyed Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 313469
 ---
 Hey where did we go
 Days when the rains came?

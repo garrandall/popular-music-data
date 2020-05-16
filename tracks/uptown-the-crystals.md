@@ -1,8 +1,11 @@
 ---
+album: The Crystals
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:2MWrqGpjzyGeaXOVgAGuNx
 features: []
-genres: []
+first_released_as_single: false
 key: uptown-the-crystals
 lyrics_url: https://genius.com/The-crystals-uptown-lyrics
 name: Uptown
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 143680
 ---
 He gets up each morning and he goes downtown
 Where everyone's his boss and he's lost in an angry land

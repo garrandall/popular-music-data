@@ -1,8 +1,11 @@
 ---
+album: Aqualung
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:2it4DH8fqcCkSTCmqY5gzk
 features: []
-genres: []
+first_released_as_single: false
 key: hymn-43-jethro-tull
 lyrics_url: https://genius.com/Jethro-tull-hymn-43-lyrics
 name: Hymn 43
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 196680
 ---
 Oh Father high in heaven
 Smile down upon your son, hey-hey

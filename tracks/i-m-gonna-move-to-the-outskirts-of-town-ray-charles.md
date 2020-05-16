@@ -1,8 +1,11 @@
 ---
+album: Ray Charles Forever
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:6Kb7YCmwoFGzbAXBSUWNTv
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-move-to-the-outskirts-of-town-ray-charles
 lyrics_url: https://genius.com/Ray-charles-im-gonna-move-to-the-outskirts-of-town-lyrics
 name: I'm Gonna Move To The Outskirts Of Town
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 222946
 ---
 I'm going to move, baby
 Way out on the outskirts of town

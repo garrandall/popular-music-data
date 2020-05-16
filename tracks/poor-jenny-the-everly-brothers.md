@@ -1,8 +1,11 @@
 ---
+album: THE EVERLY BROTHERS
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:3uZ7BbLUa5rc8XQ2v7JdqF
 features: []
-genres: []
+first_released_as_single: false
 key: poor-jenny-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-poor-jenny-lyrics
 name: Poor Jenny
@@ -55,6 +58,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 134133
 ---
 I took my little Jenny to a party last night
 At ten o'clock it ended in a heckuva fight

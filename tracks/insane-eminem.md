@@ -1,8 +1,11 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6x1stxDsnh4ZlEft29uhlR
 features: []
-genres: []
+first_released_as_single: false
 key: insane-eminem
 lyrics_url: https://genius.com/Eminem-insane-lyrics
 name: Insane
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-06-06'
+release_year: 2009
+runtime: 181360
 ---
 I was born with a dick in my brain, yeah, fucked in the head
 My stepfather said that I sucked in the bed

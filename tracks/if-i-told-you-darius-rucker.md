@@ -1,8 +1,11 @@
 ---
+album: When Was The Last Time
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:4Az17HfqonKSWNsaLgTBeK
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-told-you-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/ifitoldyou.html
 name: If I Told You
@@ -51,8 +54,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 212320
 ---
-
 What if I told you about my little nothing town
 The two room house where I came from
 The man that I got my name from
@@ -113,6 +117,3 @@ Please
 Could you love me anyway?
 Could you love me anyway? (Oh)
 Could you love me anyway?
-
-
-

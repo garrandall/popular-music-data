@@ -1,8 +1,11 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3U21A07gAloCc4P7J8rxcn
 features: []
-genres: []
+first_released_as_single: false
 key: all-mine-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West/All-Mine
 name: All Mine
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 145506
 ---
 Yeah, you supermodel thick
 Damn, that ass bustin' out the bottom

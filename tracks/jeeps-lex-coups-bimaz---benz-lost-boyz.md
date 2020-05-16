@@ -1,8 +1,11 @@
 ---
+album: Legal Drug Money
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:02nH7HXbs3i9kdWef9or8E
 features: []
-genres: []
+first_released_as_single: false
 key: jeeps-lex-coups-bimaz---benz-lost-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/lostboyz/jeepslexcoupsbimazbenz.html
 name: Jeeps Lex Coups Bimaz & Benz
@@ -51,9 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
+release_year: 1995
+runtime: 272466
 ---
-
-
 Yeah
 LB fam finally up in this piece
 Got my mans that put me on, you know what I'm sayin
@@ -148,6 +151,3 @@ well let me tell you something man you can't do me nadda
 
 Now if you listen to my album, you see we only deal
 wit the real deal street life
-
-
-

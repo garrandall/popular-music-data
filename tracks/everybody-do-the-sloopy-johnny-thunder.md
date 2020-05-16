@@ -1,8 +1,11 @@
 ---
+album: Loop De Loop
 artists:
 - Johnny Thunder
+external_ids:
+  spotify: spotify:track:5HSr7hDQL4B2UpzcoNaABc
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-do-the-sloopy-johnny-thunder
 name: Everybody Do The Sloopy
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 165407
 ---
 

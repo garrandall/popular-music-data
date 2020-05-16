@@ -1,8 +1,11 @@
 ---
+album: Bill Black's Combo
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:2QjX4ski2BvfkHyT2sszyB
 features: []
-genres: []
+first_released_as_single: false
 key: smokie---part-2-bill-black-s-combo
 name: Smokie - Part 2
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 142733
 ---
 

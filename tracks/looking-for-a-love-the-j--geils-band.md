@@ -1,8 +1,11 @@
 ---
+album: The Morning After
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:3dbNcwx4bS1ocNheiMWl8M
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-a-love-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/lookingforalove.html
 name: Looking For A Love
@@ -47,8 +50,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1971
+runtime: 223866
 ---
-
 Somebody help me
 Somebody help me now
 Somebody help me now
@@ -141,6 +145,3 @@ She's nowhere in sight
 
 I'm looking, I'm looking
 I'm looking, I'm looking...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pain To Kill
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:56sAXFMfTagQGl5KOxvdxt
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-do-it-all-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/iwannadoitall.html
 name: I Wanna Do It All
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2003
+runtime: 173333
 ---
-
 I'm sitting in traffic
 For the 5th year in a row
 Wasting my time
@@ -156,6 +160,3 @@ Without paying Paul
 I wanna do it all
 I wanna do it all
 I wanna do it all
-
-
-

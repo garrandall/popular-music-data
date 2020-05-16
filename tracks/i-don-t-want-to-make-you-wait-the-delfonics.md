@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits (Re-Recorded Versions)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:4rkaHrn9km42iXvanYA0nm
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-make-you-wait-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-i-dont-want-to-make-you-wait-lyrics
 name: I Don't Want To Make You Wait
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 196573
 ---
 Baby, baby, baby, baby, baby, baby
 

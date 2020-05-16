@@ -1,8 +1,11 @@
 ---
+album: Bookends
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:4Yx0JDYEtisZE7EMFda6Mr
 features: []
-genres: []
+first_released_as_single: false
 key: fakin--it-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/fakinit.html
 name: Fakin' It
@@ -39,8 +42,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 197773
 ---
-
 When she goes, she's gone
 If she stays, she stays here
 The girl does what she wants to do,
@@ -76,6 +80,3 @@ I know I'm fakin'n it
 I'm not really makin' it
 This feeling of fakin' it
 I still haven't shaken it.
-
-
-

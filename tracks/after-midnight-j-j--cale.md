@@ -1,8 +1,11 @@
 ---
+album: Naturally
 artists:
 - J.J. Cale
+external_ids:
+  spotify: spotify:track:1PC5GV3OaoXx5em8ttQOMI
 features: []
-genres: []
+first_released_as_single: false
 key: after-midnight-j-j--cale
 lyrics_url: https://www.azlyrics.com/lyrics/jjcale/aftermidnight.html
 name: After Midnight
@@ -51,8 +54,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1971
+runtime: 143693
 ---
-
 After midnight, we're gonna let it all hang out
 After midnight, we're gonna chug-a-lug and shout
 We're gonna cause talk and suspicion
@@ -66,6 +70,3 @@ Give an exhibition
 Find out what it is all about
 After midnight, we're gonna let it all hang out
 After midnight, we're gonna let it all hang out
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Today My Way
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:2i9J9GlgOvcvaPBIQTmsaV
 features: []
-genres: []
+first_released_as_single: false
 key: gentle-on-my-mind-patti-page
 lyrics_url: https://genius.com/Patti-page-gentle-on-my-mind-lyrics
 name: Gentle On My Mind
@@ -71,6 +74,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1967
+runtime: 154880
 ---
 It's knowin' that your door is always open
 And your path is free to walk

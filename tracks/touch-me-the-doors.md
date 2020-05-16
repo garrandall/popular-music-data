@@ -1,8 +1,11 @@
 ---
+album: The Soft Parade
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:4BVE5tIIpYabZcYCbephNW
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-the-doors
 lyrics_url: https://genius.com/The-doors-touch-me-lyrics
 name: Touch Me
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1968
+runtime: 190253
 ---
 Yeah! Come on, come on, come on, come on
 Now touch me, babe

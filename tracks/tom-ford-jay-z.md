@@ -1,8 +1,11 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:1PNGJBI1Lx0h8QCpkHKZLU
 features: []
-genres: []
+first_released_as_single: false
 key: tom-ford-jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/JAY-Z/Tom-Ford
 name: Tom Ford
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 189013
 ---
 Clap for a nigga with his rapping ass
 Blow a stack for your niggas with your trapping ass

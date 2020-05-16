@@ -1,8 +1,11 @@
 ---
+album: A Star Is Born
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1nFZeR1l3FAXnkYPbrBtGV
 features: []
-genres: []
+first_released_as_single: false
 key: evergreen--love-theme-from--a-star-is-born---barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/evergreenlovethemefromastarisborn.html
 name: Evergreen (Love Theme From "A Star Is Born")
@@ -107,8 +110,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1972
+runtime: 184800
 ---
-
 Love soft as an easy chair
 Love fresh as the morning air
 One love that is shared by two
@@ -127,6 +131,3 @@ Two lights that shine as one Morning glory and midnight sun
 Time... we've learned to sail above
 Time... won't change the meaning of one love
 Ageless and ever evergreen...
-
-
-

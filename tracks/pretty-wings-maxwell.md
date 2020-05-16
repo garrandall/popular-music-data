@@ -1,8 +1,11 @@
 ---
+album: BLACKsummers'night (2009)
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:22NLm3IIR9NLG0cUYtmHMW
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-wings-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/prettywings.html
 name: Pretty Wings
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 310520
 ---
-
 Time will bring the real end of our trial
 One day there'll be no remnants
 No trace, no residual feelings within ya
@@ -171,6 +175,3 @@ Pretty wings, your pretty wings
 Your pretty wings, your pretty wings
 Pretty wings, your pretty wings
 Your pretty wings, your pretty wings around...
-
-
-

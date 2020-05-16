@@ -1,8 +1,11 @@
 ---
+album: An Introduction to the Moody Blues
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:78T0oXh2vcKkZheUh26Soc
 features: []
-genres: []
+first_released_as_single: false
 key: from-the-bottom-of-my-heart--i-love-you--the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/fromthebottomofmyheart.html
 name: From The Bottom Of My Heart (I Love You)
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1960
+runtime: 205493
 ---
-
 I can't be with you anymore
 In love with you
 You gotta realise, baby
@@ -74,6 +78,3 @@ From the bottom of my heart
 I really do
 Oh, I really do love you
 I really do love you, babe
-
-
-

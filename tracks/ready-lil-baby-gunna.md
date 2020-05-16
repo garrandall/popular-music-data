@@ -1,9 +1,12 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:4F6yN5FsFW10Ucx7cLCzBh
 features:
 - Gunna
-genres: []
+first_released_as_single: false
 key: ready-lil-baby-gunna
 lyrics_url: https://genius.com/Lil-baby-ready-lyrics
 name: Ready
@@ -12,6 +15,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 213287
 ---
 Metro Boomin want some more, nigga
 

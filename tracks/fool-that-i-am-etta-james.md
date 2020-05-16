@@ -1,8 +1,11 @@
 ---
+album: The Second Time Around
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:5RC6D893kdyFTbbXq9G3qZ
 features: []
-genres: []
+first_released_as_single: false
 key: fool-that-i-am-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/foolthatiam.html
 name: Fool That I Am
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 177200
 ---
-
 Fool that I am,
 For falling in love with you.
 And a, fool that I am,
@@ -56,6 +60,3 @@ But I still care, but I still care,
 And oh, fool that I am.
 Oh, but I still care,
 Fool that I am.
-
-
-

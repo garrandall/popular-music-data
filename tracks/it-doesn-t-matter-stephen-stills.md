@@ -1,8 +1,11 @@
 ---
+album: Manassas
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:09ZMRtmz0YQnX7X91IY7Ph
 features: []
-genres: []
+first_released_as_single: false
 key: it-doesn-t-matter-stephen-stills
 lyrics_url: https://genius.com/Stephen-stills-it-doesnt-matter-lyrics
 name: It Doesn't Matter
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 150533
 ---
 (does it? No. Thank you, I was beginning to worry)
 Fallin' and spinnin'

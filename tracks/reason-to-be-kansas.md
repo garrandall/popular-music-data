@@ -1,8 +1,11 @@
 ---
+album: Monolith
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:0cdnDV5i2jYR6VrZh6se4t
 features: []
-genres: []
+first_released_as_single: false
 key: reason-to-be-kansas
 lyrics_url: https://genius.com/Kansas-reason-to-be-lyrics
 name: Reason To Be
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 230960
 ---
 So long, someone is waiting
 I got places to go, I got things to see

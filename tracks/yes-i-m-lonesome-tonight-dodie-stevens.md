@@ -1,8 +1,11 @@
 ---
+album: Pink Shoe Laces
 artists:
 - Dodie Stevens
+external_ids:
+  spotify: spotify:track:3xDafKq6lG6TJ5m0cUBgtt
 features: []
-genres: []
+first_released_as_single: false
 key: yes-i-m-lonesome-tonight-dodie-stevens
 lyrics_url: https://www.musixmatch.com/lyrics/Dodie-Stevens/Yes-I-m-Lonesome-Tonight
 name: Yes I'm Lonesome Tonight
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1961
+runtime: 214200
 ---
 Yes I'm lonesome tonight
 And I miss you tonight

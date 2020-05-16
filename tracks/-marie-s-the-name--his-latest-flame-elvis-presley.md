@@ -1,8 +1,11 @@
 ---
+album: Elvis' Golden Records, Vol. 3
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1V3fmmv2zif98hsqvTsRyk
 features: []
-genres: []
+first_released_as_single: false
 key: -marie-s-the-name--his-latest-flame-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-maries-the-name-of-his-latest-flame-lyrics
 name: (Marie's The Name) His Latest Flame
@@ -51,6 +54,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 127653
 ---
 A very old friend came by today
 Because he was telling everyone in town

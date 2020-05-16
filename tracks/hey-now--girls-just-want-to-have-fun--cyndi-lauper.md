@@ -1,8 +1,11 @@
 ---
+album: Twelve Deadly Cyns...And Then Some
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:6roQwIuTgi0hhUkMy3UqW6
 features: []
-genres: []
+first_released_as_single: false
 key: hey-now--girls-just-want-to-have-fun--cyndi-lauper
 lyrics_url: https://genius.com/Cyndi-lauper-hey-now-girls-just-want-to-have-fun-lyrics
 name: Hey Now (Girls Just Want To Have Fun)
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1983
+runtime: 232906
 ---
 Hey now, hey now
 What's the matter with you?

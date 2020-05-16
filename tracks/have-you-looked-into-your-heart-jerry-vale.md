@@ -1,8 +1,11 @@
 ---
+album: Have You Looked into Your Heart
 artists:
 - Jerry Vale
+external_ids:
+  spotify: spotify:track:0XciURyiZCzHBHJGUxvMbX
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-looked-into-your-heart-jerry-vale
 lyrics_url: https://genius.com/Jerry-vale-have-you-looked-into-your-heart-lyrics
 name: Have You Looked Into Your Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 141320
 ---
 Have you looked into your heart?
 Did you find a memory or two?

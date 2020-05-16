@@ -1,8 +1,11 @@
 ---
+album: Eargasm
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:3dUw31o21M3OtNdykKZZpR
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-gettin--it-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-somebodys-gettin-it-lyrics
 name: Somebody's Gettin' It
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1976
+runtime: 240693
 ---
 (CHORUS)
 Somebody's getting it

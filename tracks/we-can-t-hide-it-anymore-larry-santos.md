@@ -1,8 +1,11 @@
 ---
+album: You Are Everything I Need
 artists:
 - Larry Santos
+external_ids:
+  spotify: spotify:track:4VZoS4UevQIXbvEENjJYDA
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-t-hide-it-anymore-larry-santos
 lyrics_url: https://genius.com/Larry-santos-we-cant-hide-it-anymore-lyrics
 name: We Can't Hide It Anymore
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1976
+runtime: 227992
 ---
 Yesterday when he came here
 Willie's eyes swept the floor

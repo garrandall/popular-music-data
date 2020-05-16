@@ -1,8 +1,11 @@
 ---
+album: Simple Times
 artists:
 - Joshua Radin
+external_ids:
+  spotify: spotify:track:0FdQ98kOrGCnheoeZWayZm
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-be-with-you-joshua-radin
 lyrics_url: https://genius.com/Joshua-radin-id-rather-be-with-you-lyrics
 name: I'd Rather Be With You
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 169213
 ---
 Sitting here, on this lonely dock
 Watch the rain play on the ocean top

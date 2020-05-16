@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:3diYN6fXuA6T5KM7TQ4IGj
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-me-but-you-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-everybody-loves-me-but-you-lyrics
 name: Everybody Loves Me But You
@@ -51,6 +54,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 150333
 ---
 Why did I listen to my friends
 When they told me what to do

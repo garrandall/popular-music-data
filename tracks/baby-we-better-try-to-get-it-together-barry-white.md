@@ -1,8 +1,11 @@
 ---
+album: Let The Music Play
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:1JUjt5q1mlm7DvvkaFpkEh
 features: []
-genres: []
+first_released_as_single: false
 key: baby-we-better-try-to-get-it-together-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/babywebettertrytogetittogether.html
 name: Baby We Better Try To Get It Together
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 265506
 ---
-
 (We better try)
 (Try to get ourselves together, baby)
 Oh, we, oh, we better try
@@ -75,6 +79,3 @@ We, oh, we better try
 (Try to get ourselves, baby)
 
 (We better try)
-
-
-

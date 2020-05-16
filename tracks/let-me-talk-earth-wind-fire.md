@@ -1,8 +1,11 @@
 ---
+album: Faces
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:6AQaJAyJ0k9KYF511bN9Dz
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-talk-earth-wind-fire
 name: Let Me Talk
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 248520
 ---
 

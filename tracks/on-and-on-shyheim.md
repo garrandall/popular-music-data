@@ -1,8 +1,11 @@
 ---
+album: Shyheim A.K.A. The Rugged Child
 artists:
 - Shyheim
+external_ids:
+  spotify: spotify:track:4O1XkgGbmhqKjTDCgH3T6j
 features: []
-genres: []
+first_released_as_single: true
 key: on-and-on-shyheim
 lyrics_url: https://genius.com/Shyheim-on-and-on-lyrics
 name: On And On
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
+release_year: 1993
+runtime: 231828
 ---
 Nowadays you gots’ ta walk the street and watch your back
 Cause brothers with the gats don't be knowin’ how to act

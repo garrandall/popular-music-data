@@ -1,8 +1,11 @@
 ---
+album: Fine Young Cannibals
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:4fFxkU9C7prSviiYtvlV8V
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-come-home-fine-young-cannibals
 lyrics_url: https://www.azlyrics.com/lyrics/fineyoungcannibals/johnnycomehome.html
 name: Johnny Come Home
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 211506
 ---
-
 Nobody knows the trouble you feel 
 Nobody cares, the feeling is real 
 
@@ -61,6 +65,3 @@ That I must get drunk every night
 Johnny (Johnny), we're sorry, won't you come on home 
 We worry, won't you come on home 
 Johnny, won't you come on home
-
-
-

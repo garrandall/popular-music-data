@@ -1,8 +1,11 @@
 ---
+album: Howard Tate's Reaction
 artists:
 - Howard Tate
+external_ids:
+  spotify: spotify:track:2tTUK0qsOsb9cAwQYziM1j
 features: []
-genres: []
+first_released_as_single: false
 key: my-soul-s-got-a-hole-in-it-howard-tate
 lyrics_url: https://genius.com/Howard-tate-my-souls-got-a-hole-in-it-lyrics
 name: My Soul's Got A Hole In It
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1969
+runtime: 168673
 ---
 My soul's got a hole in it
 My soul's got a hole in it

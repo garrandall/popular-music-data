@@ -1,8 +1,11 @@
 ---
+album: The Other Ones
 artists:
 - The Other Ones
+external_ids:
+  spotify: spotify:track:6BOr4LUEiAeg0xUtsgZ6Ri
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-the-other-ones
 lyrics_url: https://genius.com/The-other-ones-holiday-lyrics
 name: Holiday
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1986
+runtime: 213800
 ---
 Another holiday
 

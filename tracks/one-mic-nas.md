@@ -1,8 +1,11 @@
 ---
+album: Stillmatic
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:6MMuI4k4Vs5ghtDH5i2hBg
 features: []
-genres: []
+first_released_as_single: false
 key: one-mic-nas
 lyrics_url: https://genius.com/Nas-one-mic-lyrics
 name: One Mic
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 2001
+runtime: 268666
 ---
 One time, yeah, yeah
 

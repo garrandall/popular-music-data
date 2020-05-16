@@ -1,8 +1,11 @@
 ---
+album: That's the Way It Is
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:195wLfy0aWZ1HVttIGy4S9
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-lost-you-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-ive-lost-you-lyrics
 name: I've Lost You
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 220946
 ---
 Lying by your side I watch you sleeping
 And in your face the sweetness of a child

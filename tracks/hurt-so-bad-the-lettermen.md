@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:63ab3tF9sxQl9zXqnDI5Yk
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-so-bad-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-hurt-so-bad-lyrics
 name: Hurt So Bad
@@ -91,6 +94,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 139923
 ---
 I know you
 Don't know what I'm going through

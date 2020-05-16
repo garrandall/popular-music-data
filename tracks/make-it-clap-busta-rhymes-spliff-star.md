@@ -1,9 +1,12 @@
 ---
+album: It Ain't Safe No More. . .
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:6NM525U7IB4Zhpn8d921uX
 features:
 - Spliff Star
-genres: []
+first_released_as_single: false
 key: make-it-clap-busta-rhymes-spliff-star
 lyrics_url: https://genius.com/Busta-rhymes-make-it-clap-lyrics
 name: Make It Clap
@@ -88,6 +91,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 243040
 ---
 Just make it clap, just make it clap
 Ay yo we 'bout to take everybody from every street

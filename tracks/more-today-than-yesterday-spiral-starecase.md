@@ -1,8 +1,11 @@
 ---
+album: More Today Than Yesterday
 artists:
 - Spiral Starecase
+external_ids:
+  spotify: spotify:track:1tpqEIXSdWdT3Z9G1VjyIZ
 features: []
-genres: []
+first_released_as_single: false
 key: more-today-than-yesterday-spiral-starecase
 lyrics_url: https://genius.com/Spiral-starecase-more-today-than-yesterday-lyrics
 name: More Today Than Yesterday
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 169466
 ---
 I don't remember what day it was
 I didn't notice what time it was

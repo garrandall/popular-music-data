@@ -1,8 +1,11 @@
 ---
+album: Soul Provider
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:0It9ukDSdv0VJGBmKA2MGO
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-back-on-my-feet-again-michael-bolton
 lyrics_url: https://genius.com/Michael-bolton-when-im-back-on-my-feet-again-lyrics
 name: When I'm Back On My Feet Again
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1987
+runtime: 227493
 ---
 Gonna break these chains around me
 Gonna learn to fly again

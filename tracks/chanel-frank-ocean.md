@@ -1,8 +1,11 @@
 ---
+album: Chanel
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:6Nle9hKrkL1wQpwNfEkxjh
 features: []
-genres: []
+first_released_as_single: true
 key: chanel-frank-ocean
 lyrics_url: https://genius.com/Frank-ocean-chanel-lyrics
 name: Chanel
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 210285
 ---
 My guy pretty like a girl
 And he got fight stories to tell

@@ -1,8 +1,11 @@
 ---
+album: My Everything
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:7xoUc6faLbCqZO6fQEYprd
 features: []
-genres: []
+first_released_as_single: false
 key: one-last-time-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-one-last-time-lyrics
 name: One Last Time
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2014
+runtime: 197266
 ---
 I was a liar, I gave in to the fire
 I know I should've fought it, at least I'm being honest

@@ -1,8 +1,12 @@
 ---
+album: Roberta Flack Featuring Donny Hathaway
 artists:
-- Roberta Flack With Donny Hathaway
-features: []
-genres: []
+- Roberta Flack
+external_ids:
+  spotify: spotify:track:4JDKXsnHOb8Cmff5jBCTSQ
+features:
+- Donny Hathaway
+first_released_as_single: false
 key: back-together-again-roberta-flack-with-donny-hathaway
 lyrics_url: https://www.musixmatch.com/lyrics/Roberta-Flack-with-Donny-Hathaway/Back-Together-Again
 name: Back Together Again
@@ -39,6 +43,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1980
+runtime: 588293
 ---
 Seems we've weathered
 Hard times we've been through

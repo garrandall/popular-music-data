@@ -1,9 +1,12 @@
 ---
+album: Kenny Rogers & The First Edition
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:43qxBP58fsVuxLMfQzgD82
 features: []
-genres: []
+first_released_as_single: false
 key: heed-the-call-kenny-rogers-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-heed-the-call-lyrics
 name: Heed The Call
@@ -48,6 +51,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 202360
 ---
 Have you been listening, (Listen to the music)
 Have you been sleeping (The sermon's in the music)

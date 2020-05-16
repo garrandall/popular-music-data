@@ -1,8 +1,11 @@
 ---
+album: Back Into Your System
 artists:
 - Saliva
+external_ids:
+  spotify: spotify:track:7kpa6MWRrPaF3b6C0DgioK
 features: []
-genres: []
+first_released_as_single: false
 key: always-saliva
 lyrics_url: https://genius.com/Saliva-always-lyrics
 name: Always
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 231200
 ---
 I hear a voice say, "Don't be so blind"
 It's telling me all these things

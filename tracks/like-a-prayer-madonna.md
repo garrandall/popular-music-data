@@ -1,8 +1,11 @@
 ---
+album: Like a Prayer
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2v7ywbUzCgcVohHaKUcacV
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-prayer-madonna
 lyrics_url: https://genius.com/Madonna-like-a-prayer-lyrics
 name: Like A Prayer
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1989
+runtime: 340866
 ---
 Life is a mystery
 Everyone must stand alone

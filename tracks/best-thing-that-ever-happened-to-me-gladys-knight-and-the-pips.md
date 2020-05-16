@@ -1,8 +1,11 @@
 ---
+album: Imagination
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0bYwN4LqZYLfs9ZEHPXjBC
 features: []
-genres: []
+first_released_as_single: false
 key: best-thing-that-ever-happened-to-me-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-best-thing-that-ever-happened-to-me-lyrics
 name: Best Thing That Ever Happened To Me
@@ -75,6 +78,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 224986
 ---
 I've had my share of life's ups and downs
 But fate's been kind, the downs have been few

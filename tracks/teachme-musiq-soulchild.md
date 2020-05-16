@@ -1,8 +1,11 @@
 ---
+album: Luvanmusiq
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:0ODFPypnJLE6hKgahiuSzn
 features: []
-genres: []
+first_released_as_single: false
 key: teachme-musiq-soulchild
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/teachme.html
 name: teachme
@@ -87,9 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2007-10-06'
+release_year: 2007
+runtime: 260017
 ---
-
-
 I was told the true definition of a man was to never cry
 Work till you tired (yeah) got to provide (yeah)
 Always be the rock for my fam, protect them by all means
@@ -144,6 +147,3 @@ Baby show me where to start
 
 Girl just teach me how to love you better
 You know I wanna love you better girl
-
-
-

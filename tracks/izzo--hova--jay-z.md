@@ -1,8 +1,11 @@
 ---
+album: The Blueprint (Explicit Version)
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:4h5KBcltGefua73AUPYps7
 features: []
-genres: []
+first_released_as_single: false
 key: izzo--hova--jay-z
 lyrics_url: https://genius.com/Jay-z-izzo-hova-lyrics
 name: Izzo (HOVA)
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 240626
 ---
 "Ladies and gentlemen
 Let's put our hands together for this dynasty!

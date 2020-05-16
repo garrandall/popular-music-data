@@ -1,10 +1,13 @@
 ---
+album: Peace Is The Mission (Extended)
 artists:
 - Major Lazer
 - DJ Snake
+external_ids:
+  spotify: spotify:track:5kISWfzPFTvhb7eUs35nMW
 features:
 - MO
-genres: []
+first_released_as_single: true
 key: lean-on-major-lazer-dj-snake-mo
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/leanon.html
 name: Lean On
@@ -201,8 +204,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 230698
 ---
-
 Do you recall, not long ago
 We would walk on the sidewalk
 Innocent, remember?
@@ -248,6 +252,3 @@ Blow a kiss, fire a gun
 We need someone to lean on
 Blow a kiss, fire a gun
 All we need is somebody to lean on
-
-
-

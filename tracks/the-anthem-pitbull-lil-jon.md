@@ -1,9 +1,12 @@
 ---
+album: The Boatlift - Clean
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:6TVhP2a7ESba4pR5ePflRw
 features:
 - Lil Jon
-genres: []
+first_released_as_single: false
 key: the-anthem-pitbull-lil-jon
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/theanthem.html
 name: The Anthem
@@ -80,8 +83,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2007
+runtime: 245000
 ---
-
 Everybody knows this right here
 Your mother, your father, yous sister, your brother
 Abuela y abuelo, everybody sing along!
@@ -157,6 +161,3 @@ Yo te doy lo tuyo
 Ahora, dame lo mio (let's go now)
 Yo te doy lo tuyo
 Ahora, dame lo mio (hey hey hey, lets go ladies)
-
-
-

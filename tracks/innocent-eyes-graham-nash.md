@@ -1,8 +1,11 @@
 ---
+album: Innocent Eyes
 artists:
 - Graham Nash
+external_ids:
+  spotify: spotify:track:5yEjgqVZ3Yy2neTvxt2xbR
 features: []
-genres: []
+first_released_as_single: false
 key: innocent-eyes-graham-nash
 lyrics_url: https://genius.com/Graham-nash-innocent-eyes-lyrics
 name: Innocent Eyes
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1986
+runtime: 190306
 ---
 With your innocent eyes
 You’ve been telling me lies

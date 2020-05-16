@@ -1,9 +1,12 @@
 ---
+album: Girl Code
 artists:
 - City Girls
+external_ids:
+  spotify: spotify:track:0RRm4OS5ymfZryXBuj0G2m
 features:
 - Cardi B
-genres: []
+first_released_as_single: false
 key: twerk-city-girls-cardi-b
 lyrics_url: https://genius.com/City-girls-twerk-lyrics
 name: Twerk
@@ -60,6 +63,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2018
+runtime: 166476
 ---
 (I want a slim, fine woman with some twerk with her)
 Throw that, twerk that

@@ -1,8 +1,11 @@
 ---
+album: Anthology-Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:4q7sSG5Ki7S9DqrjPztywV
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-made-me-so-very-happy-lou-rawls
 lyrics_url: https://genius.com/Lou-rawls-youve-made-me-so-very-happy-single-lyrics
 name: You've Made Me So Very Happy
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 267333
 ---
 I lost at love before
 Got mad and closed the door

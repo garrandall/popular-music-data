@@ -1,8 +1,11 @@
 ---
+album: Cycles
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:0Sc8AsDTBeZFWg8K9tMARE
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-my-way-lyrics
 name: My Way
@@ -39,6 +42,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1968
+runtime: 187360
 ---
 And now, the end is near
 And so I face the final curtain

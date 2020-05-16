@@ -1,8 +1,11 @@
 ---
+album: Shake It Up (Expanded)
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:3ZBzJbqwV2gQUAe4ofghOo
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-up-the-cars
 lyrics_url: https://www.musixmatch.com/lyrics/The-New-Cars/Shake-It-Up
 name: Shake It Up
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1981
+runtime: 211960
 ---
 Uh well, dance all night play all day
 Don't let nothin' get in the way

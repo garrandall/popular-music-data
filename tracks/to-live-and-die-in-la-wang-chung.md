@@ -1,8 +1,11 @@
 ---
+album: Orchesography
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:4cbpEvCR6ZVQXGbvZBmdAg
 features: []
-genres: []
+first_released_as_single: false
 key: to-live-and-die-in-la-wang-chung
 lyrics_url: https://www.azlyrics.com/lyrics/wangchung/toliveanddieinla.html
 name: To Live And Die In LA
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 293000
 ---
-
 In the heat of the day
 Every time you go away
 I have to piece my life together
@@ -145,6 +149,3 @@ I can't get away
 To live and die in LA
 I can't get away
 To live and die in LA
-
-
-

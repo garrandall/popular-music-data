@@ -1,8 +1,11 @@
 ---
+album: Forgotten About 90's
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:2gYnjDEz020IZvYcyTLWck
 features: []
-genres: []
+first_released_as_single: false
 key: fly-like-an-eagle-seal
 lyrics_url: https://www.azlyrics.com/lyrics/seal/flylikeaneagle.html
 name: Fly Like An Eagle
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1996
+runtime: 253773
 ---
-
 Yeah, think I
 better get up
 Doo...doo...du du ... Yeah
@@ -140,6 +144,3 @@ fly...
 Fly... like an ea...gle... I'm gonna fly...
 Fly... like an ea...gle... I'm gonna fly...
 Fly... like an ea...gle... I'm gonna fly...
-
-
-

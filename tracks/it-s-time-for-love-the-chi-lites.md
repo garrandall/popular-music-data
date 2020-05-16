@@ -1,8 +1,11 @@
 ---
+album: Half A Love
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:5A4YPbnEUhzvFBlAisdmxQ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-time-for-love-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/itstimeforlove.html
 name: It's Time For Love
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 307533
 ---
-
 Showed that I loved you
 When you gave me your heart
 I love you too much
@@ -67,6 +71,3 @@ It's time for love
 
 Baby, it's time, time for love
 Oh, it's time, time for love...
-
-
-

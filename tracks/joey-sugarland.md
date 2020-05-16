@@ -1,8 +1,11 @@
 ---
+album: Love On The Inside
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:504M3WFELlSIxDi3cf1RTL
 features: []
-genres: []
+first_released_as_single: false
 key: joey-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/joey.html
 name: Joey
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2008
+runtime: 242120
 ---
-
 What if I said yes
 What if I'd gone out that night
 What if you'd turned left
@@ -59,6 +63,3 @@ Joey I'm so sorry
 Oohhhohh can you hear me
 Joey I'm so...
 Joey I'm so... sorry
-
-
-

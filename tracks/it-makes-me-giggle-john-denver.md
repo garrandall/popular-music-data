@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:5l5Rm50ZlfOQl5mzVeTlLd
 features: []
-genres: []
+first_released_as_single: false
 key: it-makes-me-giggle-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/itmakesmegiggle.html
 name: It Makes Me Giggle
@@ -23,8 +26,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 195560
 ---
-
 It makes me giggle, it makes me giggle, just having my baby around me.
 It makes me giggle, sometimes I wiggle cause I'm so glad she found me.
 Sometimes I wake up feeling crabby, she gives me love as sweet as candy.
@@ -41,6 +45,3 @@ I like to see you with a smile on your face, I'd like to give one to the whole h
 and then I'd giggle, we could all giggle, now wiggle for me.
 
 If I ever felt better I can't seem to recall, it just blows me away to be part of it all.
-
-
-

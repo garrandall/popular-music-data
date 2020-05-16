@@ -1,9 +1,12 @@
 ---
+album: 'Doo Wop: Coast to Coast'
 artists:
 - Ron Holden
+external_ids:
+  spotify: spotify:track:0IvcQmV6zIlTyJXwIkcM8a
 features:
 - The Thunderbirds
-genres: []
+first_released_as_single: false
 key: love-you-so-ron-holden-with-the-thunderbirds
 name: Love You So
 rankings:
@@ -83,5 +86,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 207080
 ---
 

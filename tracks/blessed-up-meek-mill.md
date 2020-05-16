@@ -1,8 +1,11 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:4EzcqYiyNYW5pDalk71R7A
 features: []
-genres: []
+first_released_as_single: false
 key: blessed-up-meek-mill
 lyrics_url: https://genius.com/Meek-mill-blessed-up-lyrics
 name: Blessed Up
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 198132
 ---
 You already know who you are
 You ain't trying to impress nobody

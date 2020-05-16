@@ -1,9 +1,12 @@
 ---
+album: Funkytown
 artists:
 - Lipps
 - Inc.
+external_ids:
+  spotify: spotify:track:1qPNqO3m9NIjvhIVc5ex6y
 features: []
-genres: []
+first_released_as_single: false
 key: funkytown-lipps-inc-
 lyrics_url: https://www.azlyrics.com/lyrics/lippsinc/funkytown.html
 name: Funkytown
@@ -100,8 +103,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 469240
 ---
-
 Gotta make a move to a town that's right for me
 Town to keep me movin', keep me groovin' with some energy
 
@@ -165,6 +169,3 @@ I wanna go to Funkytown
 I wanna go to Funkytown
 I wanna go to Funkytown
 I wanna go to Funkytown
-
-
-

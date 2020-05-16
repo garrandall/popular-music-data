@@ -1,8 +1,11 @@
 ---
+album: Big Time
 artists:
 - Little Texas
+external_ids:
+  spotify: spotify:track:6Q5cuQizxkCzc2rgqElSaS
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-little-texas
 lyrics_url: https://genius.com/Little-texas-my-love-lyrics
 name: My Love
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
+release_year: 1983
+runtime: 245706
 ---
 Get on your mark, get set
 Ready or not here I come

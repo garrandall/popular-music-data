@@ -1,8 +1,11 @@
 ---
+album: Tailgates & Tanlines
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:0mlItNVGE6ssg8x4LUo7g4
 features: []
-genres: []
+first_released_as_single: false
 key: drunk-on-you-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-drunk-on-you-lyrics
 name: Drunk On You
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-08-25'
+release_year: 2011
+runtime: 213546
 ---
 Cottonwood fallin' like snow in July
 Sunset, riverside, four wheel drivesiIn a tail light circle

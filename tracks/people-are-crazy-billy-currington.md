@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Everything
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:5JnLiuMgRAWoHYOhatFP3s
 features: []
-genres: []
+first_released_as_single: false
 key: people-are-crazy-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/peoplearecrazy.html
 name: People Are Crazy
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2008
+runtime: 231360
 ---
-
 This old man and me
 Were at the bar and we
 Were having us some beers
@@ -144,6 +148,3 @@ God is great, beer is good
 And people are crazy
 God is great, beer is good
 And people are crazy
-
-
-

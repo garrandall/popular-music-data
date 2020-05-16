@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:5zEOctjZVWt0HgB82S1tEq
 features: []
-genres: []
+first_released_as_single: false
 key: i-hear-trumpets-blow-the-tokens
 lyrics_url: https://www.azlyrics.com/lyrics/tokens/iheartrumpetsblow.html
 name: I Hear Trumpets Blow
@@ -39,8 +42,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 151560
 ---
-
 I am not of royalty
 I'm an ordinary guy
 From a little family
@@ -67,6 +71,3 @@ So I pray that it will last
 At least a hundred years or so
 And I know it's not impossible
 When I hear trumpets blow
-
-
-

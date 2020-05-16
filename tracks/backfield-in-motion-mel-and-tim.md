@@ -1,8 +1,11 @@
 ---
+album: Good Guys Only Win in the Movies
 artists:
 - Mel And Tim
+external_ids:
+  spotify: spotify:track:6rCVaWvrLlPNiIIhR2N6p2
 features: []
-genres: []
+first_released_as_single: false
 key: backfield-in-motion-mel-and-tim
 lyrics_url: https://genius.com/Mel-and-tim-backfield-in-motion-lyrics
 name: Backfield In Motion
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 154560
 ---
 Backfield in motion, yeah
 I'm gonna have to penalize you

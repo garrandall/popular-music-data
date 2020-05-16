@@ -1,8 +1,11 @@
 ---
+album: Essential Masters
 artists:
 - Jimmy Jones
+external_ids:
+  spotify: spotify:track:19iQlNWcpDJfvUWY25shbs
 features: []
-genres: []
+first_released_as_single: false
 key: handy-man-jimmy-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Jones-2/Handy-Man
 name: Handy Man
@@ -79,6 +82,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1959
+runtime: 126560
 ---
 Come, come, come
 Yeah, yeah, yeah

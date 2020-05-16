@@ -1,8 +1,11 @@
 ---
+album: Complete Releases 1955-62
 artists:
 - The Cleftones
+external_ids:
+  spotify: spotify:track:2Vb4lcajzhzi3FXn4s4FEv
 features: []
-genres: []
+first_released_as_single: false
 key: lover-come-back-to-me-the-cleftones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cleftones/Lover-Come-Back-to-Me
 name: Lover Come Back To Me
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1962
+runtime: 127893
 ---
 You went away
 I let you

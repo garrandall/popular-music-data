@@ -1,8 +1,11 @@
 ---
+album: Reveal
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:32kmXl5F8I3XDVKNfwwM4J
 features: []
-genres: []
+first_released_as_single: false
 key: imitation-of-life-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/imitationoflife.html
 name: Imitation Of Life
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-06-23'
+release_year: 2001
+runtime: 236626
 ---
-
 Charades, pop skill
 Water hyacinth, named by a poet
 Imitation of life
@@ -74,6 +78,3 @@ C'mon, c'mon on no one can see you cry
 That sugar cane that tasted good
 That's who you are, that's what you could
 C'mon, c'mon on no one can see you cry
-
-
-

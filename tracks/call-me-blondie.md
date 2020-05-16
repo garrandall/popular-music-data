@@ -1,8 +1,11 @@
 ---
+album: Autoamerican
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:12lKM9xMB5DnfpCIr0JSN9
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-blondie
 lyrics_url: https://genius.com/Blondie-call-me-lyrics
 name: Call Me
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1980
+runtime: 489826
 ---
 ​
 

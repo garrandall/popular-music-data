@@ -1,8 +1,11 @@
 ---
+album: Dance Naked
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:58rOG3IdxaUdoTXQEqFtHD
 features: []
-genres: []
+first_released_as_single: false
 key: dance-naked-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/dancenaked.html
 name: Dance Naked
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1994
+runtime: 180426
 ---
-
 I want you to dance naked
 So I can see you
 I'd like to get to know you
@@ -117,6 +121,3 @@ Spin it round and round and round
 Spin it round and round
 Spin it round and round and round
 I want you to dance naked
-
-
-

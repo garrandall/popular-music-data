@@ -1,8 +1,11 @@
 ---
+album: Rarities
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:6EclIlaDBBDzQPUYLJpDXr
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-your-arms-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Stranger-In-Your-Arms
 name: Stranger In Your Arms
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1964
+runtime: 140560
 ---
 It's only been a week or two
 But things have really changed

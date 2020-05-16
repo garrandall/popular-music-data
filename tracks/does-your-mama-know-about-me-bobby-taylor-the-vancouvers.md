@@ -1,9 +1,12 @@
 ---
+album: Bobby Taylor & The Vancouvers
 artists:
 - Bobby Taylor
 - The Vancouvers
+external_ids:
+  spotify: spotify:track:0oD2qdgeiFZK4Nw9mENHIW
 features: []
-genres: []
+first_released_as_single: false
 key: does-your-mama-know-about-me-bobby-taylor-the-vancouvers
 lyrics_url: https://genius.com/Bobby-taylor-and-the-vancouvers-does-your-mama-know-about-me-lyrics
 name: Does Your Mama Know About Me
@@ -48,6 +51,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 175240
 ---
 Does your mama know about me?
 Does she know just what I am?

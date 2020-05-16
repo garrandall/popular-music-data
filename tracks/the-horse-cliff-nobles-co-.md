@@ -1,9 +1,12 @@
 ---
+album: Old 'N Golden
 artists:
 - Cliff Nobles
 - Co.
+external_ids:
+  spotify: spotify:track:017jXBIfvDW8YhUoJ9uSeB
 features: []
-genres: []
+first_released_as_single: false
 key: the-horse-cliff-nobles-co-
 name: The Horse
 rankings:
@@ -63,5 +66,7 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1967
+runtime: 146066
 ---
 

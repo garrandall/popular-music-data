@@ -1,8 +1,11 @@
 ---
+album: Let There Be Eve...Ruff Ryders' First Lady
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:5nPB8aQhLxlxrqvRvr3NrO
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-man-eve
 lyrics_url: https://genius.com/Eve-gotta-man-lyrics
 name: Gotta Man
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-01-01'
+release_year: 1999
+runtime: 264893
 ---
 I got a boyfriend now *laughs*
 C'mon, uh, uh, uh, yo, yo

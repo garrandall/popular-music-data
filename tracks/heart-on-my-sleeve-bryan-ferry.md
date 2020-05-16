@@ -1,8 +1,11 @@
 ---
+album: Let's Stick Together (Remastered 1999)
 artists:
 - Bryan Ferry
+external_ids:
+  spotify: spotify:track:16vD6QTOb97PWexndXrblr
 features: []
-genres: []
+first_released_as_single: false
 key: heart-on-my-sleeve-bryan-ferry
 lyrics_url: https://www.azlyrics.com/lyrics/bryanferry/heartonmysleeve.html
 name: Heart On My Sleeve
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 208106
 ---
-
 I wear my heart on my sleeve
 I'm not afraid
 Say what I mean
@@ -58,6 +62,3 @@ Don't you sigh
 Maybe you're not alone
 I wear my heart on my sleeve
 wear my heart on my sleeve
-
-
-

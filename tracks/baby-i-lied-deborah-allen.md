@@ -1,8 +1,11 @@
 ---
+album: The Best Of Deborah Allen
 artists:
 - Deborah Allen
+external_ids:
+  spotify: spotify:track:5KqGrafc3paz7bNPju5Ne9
 features: []
-genres: []
+first_released_as_single: true
 key: baby-i-lied-deborah-allen
 lyrics_url: https://genius.com/Deborah-allen-baby-i-lied-lyrics
 name: Baby I Lied
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 250120
 ---
 Did I say I wouldn't be hurt if our love just didn't work?
 Did I say that I'd be okay if you said good-bye?

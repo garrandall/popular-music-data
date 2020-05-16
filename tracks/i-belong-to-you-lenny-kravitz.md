@@ -1,8 +1,11 @@
 ---
+album: '5'
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:2zee8Zcesqwnnwliw2Jy8M
 features: []
-genres: []
+first_released_as_single: false
 key: i-belong-to-you-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/ibelongtoyou.html
 name: I Belong To You
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-05-20'
+release_year: 1998
+runtime: 257733
 ---
-
 You are the flame in my heart 
 You light my way in the dark 
 You are the ultimate star 
@@ -108,6 +112,3 @@ You belong to me too
 You make my life complete 
 You make my life complete 
 You make me feel so sweet
-
-
-

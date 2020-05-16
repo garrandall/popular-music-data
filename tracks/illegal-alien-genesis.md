@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:3luK0EopBKssq6nOSlQFpe
 features: []
-genres: []
+first_released_as_single: false
 key: illegal-alien-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/illegalalien.html
 name: Illegal Alien
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 316880
 ---
-
 Got out of bed, wasn't feeling too good
 With my wallet and my passport, a new pair of shoes
 The sun is shining so I head for the park,
@@ -100,6 +104,3 @@ It's no fun being an illegal alien, I tell ya
 It's no fun being an illegal alien, no no no
 It's no fun (not bloody much fun) being an illegal alien,
 It's no fun being an illegal alien, and that's what I am.
-
-
-

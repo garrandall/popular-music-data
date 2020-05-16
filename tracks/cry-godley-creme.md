@@ -1,9 +1,12 @@
 ---
+album: 'Cry: The Very Best Of'
 artists:
 - Godley
 - Creme
+external_ids:
+  spotify: spotify:track:3XfCNac1soQxgfNen0D0dN
 features: []
-genres: []
+first_released_as_single: false
 key: cry-godley-creme
 lyrics_url: https://genius.com/Godley-and-creme-cry-lyrics
 name: Cry
@@ -76,6 +79,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 236533
 ---
 You don't know how to ease my pain
 You don't know

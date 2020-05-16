@@ -1,8 +1,11 @@
 ---
+album: Cafe Bleu
 artists:
 - The Style Council
+external_ids:
+  spotify: spotify:track:0Njh4xmjFcX3f8TO1ocdlb
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-best-thing-the-style-council
 lyrics_url: https://genius.com/The-style-council-youre-the-best-thing-lyrics
 name: You're The Best Thing
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1984
+runtime: 340626
 ---
 I could be discontent and chase the rainbow's end
 I might win much more but lose all that is mine

@@ -1,8 +1,11 @@
 ---
+album: Frozen 2
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:421eObjg0DTm2qajJl5OJm
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-unknown-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/intotheunknown.html
 name: Into The Unknown
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2019
+runtime: 189132
 ---
-
 Oh oh, oh oh oh
 Oh oh, oh oh oh, oh oh
 Into the unknown
@@ -81,6 +85,3 @@ Don't leave me alone
 How do I follow you
 Into the unknown?
 Whoo!
-
-
-

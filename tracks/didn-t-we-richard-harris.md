@@ -1,8 +1,11 @@
 ---
+album: A Tramp Shining
 artists:
 - Richard Harris
+external_ids:
+  spotify: spotify:track:536gfzVYZkxywv1knXbVSx
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-we-richard-harris
 lyrics_url: https://genius.com/Richard-harris-didnt-we-lyrics
 name: Didn't We
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1968
+runtime: 176800
 ---
 Here I am, a tramp shining
 A brand new clown

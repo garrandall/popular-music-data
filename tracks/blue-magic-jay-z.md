@@ -1,8 +1,11 @@
 ---
+album: American Gangster
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:3yUv8XrvQWRoZ69JNVGb4G
 features: []
-genres: []
+first_released_as_single: true
 key: blue-magic-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/bluemagic.html
 name: Blue Magic
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 250360
 ---
-
 Roc-a-fella records
 The imperial Skateboard P
 Great Hova
@@ -99,4 +103,3 @@ Turn one into two like a Siamese
 Twin when it end, I'm a stand as a man never dying on my knees
 Last of a dying breed, so let the champagne pop
 I partied for a while now I'm back to the block
-

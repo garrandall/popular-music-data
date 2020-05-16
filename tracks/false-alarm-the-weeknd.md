@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:32lgtADX2cB9I4KFs1Y1py
 features: []
-genres: []
+first_released_as_single: false
 key: false-alarm-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/falsealarm.html
 name: False Alarm
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 220306
 ---
-
 Bathroom stalls for the powder nose (she loves)
 High heel shoes with the open toes (she loves)
 She's got a good time wrapped in gold (she loves)
@@ -86,6 +90,3 @@ False alarm (hey, hey, hey, hey, hey)
 False alarm (hey, hey, hey, hey)
 False alarm (hey, hey, hey, hey)
 False alarm (hey, hey, hey, hey, hey)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Breaking Hearts
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:7lt7Ln4T1msZFAOyuLvs1I
 features: []
-genres: []
+first_released_as_single: false
 key: in-neon-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/inneon.html
 name: In Neon
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1984
+runtime: 259200
 ---
-
 Lipstick and lashes, the traces of stardom
 Lit up on a billboard so everyone sees them in neon
 Behind the counter she stares out the window
@@ -89,6 +93,3 @@ For a shot at the title, she'd slip into something
 She'd smoulder like ashes if it meant she might wind up in neon
 
 In neon
-
-
-

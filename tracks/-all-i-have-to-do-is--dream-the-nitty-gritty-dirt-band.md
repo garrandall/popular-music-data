@@ -1,8 +1,11 @@
 ---
+album: Jealousy 81'
 artists:
 - The Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:7ILQ07YqqVC14aI4JPGpUT
 features: []
-genres: []
+first_released_as_single: false
 key: -all-i-have-to-do-is--dream-the-nitty-gritty-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/allihavetodoisdream.html
 name: (All I Have To Do Is) Dream
@@ -31,8 +34,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 203373
 ---
-
 When I want you in my arms
 When I want you and all your charms
 Whenever I want you
@@ -71,6 +75,3 @@ I love you so, and that is why
 Whenever I want you
 All I have to do is dream
 Dream, dream, dream
-
-
-

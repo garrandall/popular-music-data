@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - The Kinleys
+external_ids:
+  spotify: spotify:track:1J2q9vOL8xL1MQXFazHB8y
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-out-there-watching-the-kinleys
 lyrics_url: https://genius.com/Kinleys-somebodys-out-there-watching-lyrics
 name: Somebody's Out There Watching
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
+release_year: 1998
+runtime: 215640
 ---
 Hope, everybody needs hope
 Some kind of peace of mind

@@ -1,8 +1,11 @@
 ---
+album: The Capitol Collector's Series
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:4adwiDSem8c2jgiy66Bcsv
 features: []
-genres: []
+first_released_as_single: false
 key: the-tijuana-jail-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-the-tijuana-jail-lyrics
 name: The Tijuana Jail
@@ -59,6 +62,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 170906
 ---
 We went one day about a month ago (ha ha ha) to have a little fun (ah ha) in Mexico
 We ended up in a gambling spot (ha ha ha) where the liquor flowed and the dice were hot

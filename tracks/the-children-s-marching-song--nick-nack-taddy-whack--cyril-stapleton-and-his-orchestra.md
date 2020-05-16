@@ -1,8 +1,11 @@
 ---
+album: The Lost Singles Collection - Instrumental Collection
 artists:
 - Cyril Stapleton
+external_ids:
+  spotify: spotify:track:7wzeRKZbTLmZJ7Rzy5lqhU
 features: []
-genres: []
+first_released_as_single: false
 key: the-children-s-marching-song--nick-nack-taddy-whack--cyril-stapleton-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Cyril-Stapleton/The-Children-s-Marching-Song-Nick-Nack-Paddy-Whack
 name: The Children's Marching Song (Nick Nack Taddy Whack)
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 141493
 ---
 This old man he played one
 He played nick nack on my drum

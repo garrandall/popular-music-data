@@ -1,8 +1,11 @@
 ---
+album: Screaming For Vengeance Special 30th Anniversary Edition
 artists:
 - Judas Priest
+external_ids:
+  spotify: spotify:track:4f3RDq9nYPBeR1yMSgnmBm
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-another-thing-comin--judas-priest
 lyrics_url: https://genius.com/Judas-priest-youve-got-another-thing-comin-lyrics
 name: You've Got Another Thing Comin'
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1982
+runtime: 310080
 ---
 One life I'm gonna live it up
 I'm takin' flight I said I'll never get enough

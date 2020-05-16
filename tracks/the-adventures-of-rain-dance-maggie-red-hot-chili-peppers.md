@@ -1,8 +1,11 @@
 ---
+album: I'm with You
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:0PgNhIg5n0UAOBVn43b8b6
 features: []
-genres: []
+first_released_as_single: false
 key: the-adventures-of-rain-dance-maggie-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/theadventuresofraindancemaggie.html
 name: The Adventures Of Rain Dance Maggie
@@ -75,9 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 282400
 ---
-
-
 Lip stick junkie
 Debunked the all in one, she
 Came back wearing a smile
@@ -155,6 +158,3 @@ It's in the song girl
 'Bye 'bye girl
 'Bye 'bye girl
 'Bye 'bye
-
-
-

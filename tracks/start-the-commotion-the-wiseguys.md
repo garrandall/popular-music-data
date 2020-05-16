@@ -1,8 +1,11 @@
 ---
+album: The Antidote
 artists:
 - The Wiseguys
+external_ids:
+  spotify: spotify:track:2it2YsXFBmWjupDuLpEryn
 features: []
-genres: []
+first_released_as_single: false
 key: start-the-commotion-the-wiseguys
 lyrics_url: https://genius.com/Wise-guys-start-the-commotion-lyrics
 name: Start The Commotion
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 1998
+runtime: 351640
 ---
 Fire it up baby, get up, get up
 Get up, get up, get up, get up

@@ -1,8 +1,11 @@
 ---
+album: Lukas Graham
 artists:
 - Lukas Graham
+external_ids:
+  spotify: spotify:track:5ArQzSBevAdXTxRY6Ulhbq
 features: []
-genres: []
+first_released_as_single: false
 key: mama-said-lukas-graham
 lyrics_url: https://www.azlyrics.com/lyrics/lukasgraham/mamasaid.html
 name: Mama Said
@@ -51,8 +54,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 206902
 ---
-
 Remember asking both my mom and dad
 Why we never travelled to exotic lands
 We only ever really visit friends
@@ -118,6 +122,3 @@ Ba-da-da, ba-da-da da-da,
 Ba-da-da, ba-da-da da-da,
 Ba-da-da, ba-da-da da-da
 When mama said that it was okay
-
-
-

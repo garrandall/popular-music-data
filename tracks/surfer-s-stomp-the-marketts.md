@@ -1,8 +1,11 @@
 ---
+album: 'Rock Masters: Surfer''s Stomp'
 artists:
 - The Marketts
+external_ids:
+  spotify: spotify:track:2uScGUi8WUPMiPBoM2fRAC
 features: []
-genres: []
+first_released_as_single: false
 key: surfer-s-stomp-the-marketts
 name: Surfer's Stomp
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 199560
 ---
 

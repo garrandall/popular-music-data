@@ -1,8 +1,11 @@
 ---
+album: You're Never Alone with a Schizophrenic (Deluxe Version)
 artists:
 - Ian Hunter
+external_ids:
+  spotify: spotify:track:6m5tCUsLSRhut76IH8Kqc7
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-night-ian-hunter
 lyrics_url: https://genius.com/Ian-hunter-just-another-night-lyrics
 name: Just Another Night
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1979
+runtime: 276293
 ---
 (Ian Hunter/Mick Ronson)
 

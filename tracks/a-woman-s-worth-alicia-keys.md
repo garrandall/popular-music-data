@@ -1,8 +1,11 @@
 ---
+album: Songs In A Minor
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:1NRorokmYEtr1koWybvaE4
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-s-worth-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/awomansworth.html
 name: A Woman's Worth
@@ -87,8 +90,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 303333
 ---
-
 You could buy me diamonds
 You could buy me pearls
 Take me on a cruise around the world
@@ -144,8 +148,3 @@ Cause a real man knows a real woman when he sees her
 And a real woman knows a real man ain't afraid to please her
 And a real woman knows a real man always comes first
 And a real man just can't deny a woman's worth
-
-
-
-
-

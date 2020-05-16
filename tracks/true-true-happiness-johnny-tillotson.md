@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:6LXc01rA2krxGoQeJcEZut
 features: []
-genres: []
+first_released_as_single: false
 key: true-true-happiness-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-true-true-happiness-lyrics
 name: True True Happiness
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 153200
 ---
 True true happiness will folow
 True true happiness will folow if you'll only follow

@@ -1,8 +1,11 @@
 ---
+album: Chuck Berry In London
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:6b27e8J1dUre0H9xBM9rvs
 features: []
-genres: []
+first_released_as_single: false
 key: dear-dad-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/deardad.html
 name: Dear Dad
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 109466
 ---
-
 Dear Dad, don't get mad,
 What I'm asking for
 Is by the next semester
@@ -78,6 +82,3 @@ Just something that won't worry us
 To keep it on the road.
 Sincerely, your beloved son,
 Henry Junior Ford.
-
-
-

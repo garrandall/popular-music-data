@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Maureen McGovern
+external_ids:
+  spotify: spotify:track:6i9b14YXyWIMiQg26IWYA5
 features: []
-genres: []
+first_released_as_single: false
 key: different-worlds-maureen-mcgovern
 lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/differentworlds.html
 name: Different Worlds
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1979
+runtime: 138760
 ---
-
 Let the time flow
 Let the love grow
 Let the rain shower
@@ -99,6 +103,3 @@ Ah, ah
 
 Love it seeks, love it finds
 Love it conquers, love it binds
-
-
-

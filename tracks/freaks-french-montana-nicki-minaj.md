@@ -1,9 +1,12 @@
 ---
+album: Excuse My French
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:29r4I5RTxDR440DkqhbD9s
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: freaks-french-montana-nicki-minaj
 lyrics_url: https://genius.com/French-montana-freaks-lyrics
 name: Freaks
@@ -36,6 +39,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2013
+runtime: 181920
 ---
 Ha Ha Ha Ha Ha Ha! MONTANA!
 

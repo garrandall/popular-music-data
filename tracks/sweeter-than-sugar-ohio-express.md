@@ -1,8 +1,11 @@
 ---
+album: Mercy
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:3fsqhPb02AQE9en814V8So
 features: []
-genres: []
+first_released_as_single: false
 key: sweeter-than-sugar-ohio-express
 lyrics_url: https://genius.com/Ohio-express-sweeter-than-sugar-lyrics
 name: Sweeter Than Sugar
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 125253
 ---
 Baby, you're hotter
 Than a bowl of soup

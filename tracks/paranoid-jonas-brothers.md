@@ -1,8 +1,11 @@
 ---
+album: Lines, Vines and Trying Times
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:6mDpUEYNqfdDQ0OWfjLIhX
 features: []
-genres: []
+first_released_as_single: false
 key: paranoid-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/paranoid.html
 name: Paranoid
@@ -35,8 +38,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 2009
+runtime: 218266
 ---
-
 I make the most of all this stress
 I try to live without regrets
 But I'm about to break a sweat
@@ -108,6 +112,3 @@ I must be paranoid
 (Must be paranoid)
 I never thought it would come to this
 I'm paranoid
-
-
-

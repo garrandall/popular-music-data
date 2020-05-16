@@ -1,8 +1,11 @@
 ---
+album: Rocky
 artists:
 - Austin Roberts
+external_ids:
+  spotify: spotify:track:3MOS4dRmZAIOpz3Vm817TO
 features: []
-genres: []
+first_released_as_single: false
 key: rocky-austin-roberts
 lyrics_url: https://genius.com/Austin-roberts-rocky-lyrics
 name: Rocky
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 222013
 ---
 Alone until my eighteenth year, we met four springs ago
 She was shy and had a fear of things she did not know

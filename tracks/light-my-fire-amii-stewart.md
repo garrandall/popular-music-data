@@ -1,8 +1,11 @@
 ---
+album: Knock On Wood
 artists:
 - Amii Stewart
+external_ids:
+  spotify: spotify:track:4ExpY4nlO9Yj6Oc2gwDXCx
 features: []
-genres: []
+first_released_as_single: false
 key: light-my-fire-amii-stewart
 lyrics_url: https://genius.com/Amii-stewart-light-my-fire-137-disco-heaven-lyrics
 name: Light My Fire
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 235906
 ---
 You know that it would be untrue
 You know that I would be a liar

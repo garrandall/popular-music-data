@@ -1,8 +1,11 @@
 ---
+album: Mel Carter Live! In Hollywood
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:5XPwkZ7vNxeidpNLAkwtFp
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-thrill-me-kiss-me-mel-carter
 lyrics_url: https://genius.com/Mel-carter-hold-me-thrill-me-kiss-me-lyrics
 name: Hold Me Thrill Me Kiss Me
@@ -67,6 +70,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 149533
 ---
 Hold me, hold me
 And never let me go until you've told me, told me

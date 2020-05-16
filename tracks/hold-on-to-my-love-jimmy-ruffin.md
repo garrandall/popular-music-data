@@ -1,8 +1,11 @@
 ---
+album: The Essential Jimmy Ruffin (Re-record)
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:50EhKCYqaBahqfY3onbamS
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-to-my-love-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-hold-on-to-my-love-lyrics
 name: Hold On To My Love
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1980
+runtime: 247213
 ---
 Today you came by to tell me you are leaving me
 And to say that the love

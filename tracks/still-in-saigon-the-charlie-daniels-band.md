@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:04JxDXEJRDypv0mT9mxEHC
 features: []
-genres: []
+first_released_as_single: false
 key: still-in-saigon-the-charlie-daniels-band
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/stillinsaigon.html
 name: Still In Saigon
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
+release_year: 1973
+runtime: 231373
 ---
-
 Got on a plane in 'Frisco
 And got off in Vietnam
 I walked into a different world
@@ -121,6 +125,3 @@ I am still in Saigon
 I am still in Saigon
 Yes, I'm still in Saigon
 In my mind
-
-
-

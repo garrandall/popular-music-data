@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:5h6Qp3p6zRIdA0uhkHJQ03
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-won-t-be-there-adam-wade
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/Tonight-I-Won-t-Be-There
 name: Tonight I Won't Be There
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 169706
 ---
 Don't look for me to be waiting
 At the booth we always shared

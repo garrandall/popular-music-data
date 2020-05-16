@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Pajama Party
+external_ids:
+  spotify: spotify:track:35KlZnhF7iZWxv3Y90AV5Q
 features: []
-genres: []
+first_released_as_single: false
 key: yo-no-se-pajama-party
 lyrics_url: https://genius.com/Pajama-party-yo-no-se-lyrics
 name: Yo No Se
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 323133
 ---
 When you dance that way
 When you dance that way

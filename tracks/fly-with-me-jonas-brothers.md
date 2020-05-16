@@ -1,8 +1,11 @@
 ---
+album: Lines, Vines and Trying Times
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:1uCnwV9ABsYkNJmrpQOR1H
 features: []
-genres: []
+first_released_as_single: false
 key: fly-with-me-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/flywithme.html
 name: Fly With Me
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2009
+runtime: 234146
 ---
-
 If time were still
 The sun would never never find us
 We could light up
@@ -66,6 +70,3 @@ Peter Pan and Wendy turned out fine
 So won't you fly
 Fly
 Fly with me?
-
-
-

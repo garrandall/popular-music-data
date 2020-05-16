@@ -1,8 +1,11 @@
 ---
+album: Nice 'n' Easy
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:5Z7bkW3dsu8jLdv3dEGxly
 features: []
-genres: []
+first_released_as_single: false
 key: nice--n--easy-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/niceneasy.html
 name: Nice 'N' Easy
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 165760
 ---
-
 Let's take it nice and easy
 It's gonna be so easy
 For us to fall in love
@@ -63,6 +67,3 @@ Like the man says one more time
 Nice and easy does it
 Nice and easy does it
 Nice and easy does it every time
-
-
-

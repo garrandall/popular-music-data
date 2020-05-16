@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2GA3eap88cOrNirTW6McSN
 features: []
-genres: []
+first_released_as_single: false
 key: for-good-glee-cast
 lyrics_url: https://genius.com/Glee-cast-for-good-lyrics
 name: For Good
@@ -11,6 +14,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 303826
 ---
 Rachel:
 I'm limited

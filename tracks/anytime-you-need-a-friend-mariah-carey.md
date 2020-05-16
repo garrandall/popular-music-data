@@ -1,8 +1,11 @@
 ---
+album: Music Box
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0S8xKy1efKy3LvR53qe3Cq
 features: []
-genres: []
+first_released_as_single: false
 key: anytime-you-need-a-friend-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/anytimeyouneedafriend.html
 name: Anytime You Need A Friend
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1993
+runtime: 265466
 ---
-
 If you're lonely
 And need a friend
 And troubles seem like
@@ -128,4 +132,3 @@ Take me into your heart
 I'll be there forever baby
 I won't let go
 I'll never let go
-

@@ -1,8 +1,11 @@
 ---
+album: Nivea
 artists:
 - Nivea
+external_ids:
+  spotify: spotify:track:6Jvx6HCj3wxWWIs90YqWXj
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-mess-with-the-radio-nivea
 lyrics_url: https://genius.com/Nivea-dont-mess-with-the-radio-lyrics
 name: Don't Mess With The Radio
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-09-01'
+release_year: 2001
+runtime: 236853
 ---
 One
 Don't mess with the radio

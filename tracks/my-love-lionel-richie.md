@@ -1,8 +1,11 @@
 ---
+album: Lionel Richie
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:6l9fOwFZ2pZzGUAVnPM76l
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-my-love-lyrics
 name: My Love
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1982
+runtime: 244973
 ---
 I've been through so many changes in my life woman
 It's a wonder I ain't lost my mind

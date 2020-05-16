@@ -1,8 +1,11 @@
 ---
+album: Van Halen
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:5TBtYY6MvppYOpDBsQwzi6
 features: []
-genres: []
+first_released_as_single: true
 key: runnin--with-the-devil-van-halen
 lyrics_url: https://genius.com/Van-halen-runnin-with-the-devil-lyrics
 name: Runnin' With The Devil
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1978
+runtime: 216133
 ---
 Yeah, yeah, yeah
 Ah, yeah

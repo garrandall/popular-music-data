@@ -1,8 +1,11 @@
 ---
+album: Boys Like Girls
 artists:
 - Boys Like Girls
+external_ids:
+  spotify: spotify:track:1uVll3x5QBjHNEwU6ENwTy
 features: []
-genres: []
+first_released_as_single: false
 key: hero-boys-like-girls
 lyrics_url: https://genius.com/Boys-like-girls-hero-heroine-lyrics
 name: Hero
@@ -75,6 +78,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2006
+runtime: 232240
 ---
 It's too late baby, there's no turning around
 I got my hands in my pocket and my head in a cloud

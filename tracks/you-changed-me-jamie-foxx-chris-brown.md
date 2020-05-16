@@ -1,9 +1,12 @@
 ---
+album: 'Hollywood: A Story of a Dozen Roses (Deluxe Version)'
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:4G9Z4FZyAGHxveWj3sTNLx
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: you-changed-me-jamie-foxx-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamiefoxx/youchangedme.html
 name: You Changed Me
@@ -16,9 +19,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2015
+runtime: 242960
 ---
-
-
 Don't talk to me, I'm geek
 Don't talk to me, I'm serious baby
 Ohh, you don't even know
@@ -102,6 +105,3 @@ I had really gave up on this shit, you know
 Finally met a girl that do for me though
 It's crazy, it's like a dream
 I think I got me one
-
-
-

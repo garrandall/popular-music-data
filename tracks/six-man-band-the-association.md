@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:0egyPTge6rsBOWIgDlsSz7
 features: []
-genres: []
+first_released_as_single: false
 key: six-man-band-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/sixmanband.html
 name: Six Man Band
@@ -31,8 +34,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 132800
 ---
-
 Well, I'm a day at a time
 I'm a day at a time
 Well, I'm a seeker and knower
@@ -57,6 +61,3 @@ I'm a traveling man
 Yes, I'm a traveling man
 Well, I'm a comer and a goer
 In a six man band
-
-
-

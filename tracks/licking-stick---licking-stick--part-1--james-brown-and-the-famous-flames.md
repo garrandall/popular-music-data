@@ -1,8 +1,12 @@
 ---
+album: Say It Loud - I'm Black And I'm Proud
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:5SUq4LjsJjYSGq9IIjEiBP
+features:
+- The Famous Flames
+first_released_as_single: false
 key: licking-stick---licking-stick--part-1--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-licking-stick-licking-stick-part-2-lyrics
 name: Licking Stick - Licking Stick (Part 1)
@@ -39,6 +43,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 172466
 ---
 Bobby, I like the way this sound (Yeah!)
 Wanna try it one more time? (One more time!)

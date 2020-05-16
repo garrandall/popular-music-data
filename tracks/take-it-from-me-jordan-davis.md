@@ -1,8 +1,11 @@
 ---
+album: Home State
 artists:
 - Jordan Davis
+external_ids:
+  spotify: spotify:track:7JK0nPw98vJmgEElMUfg5v
 features: []
-genres: []
+first_released_as_single: true
 key: take-it-from-me-jordan-davis
 lyrics_url: https://www.azlyrics.com/lyrics/jordandavis/takeitfromme.html
 name: Take It From Me
@@ -59,8 +62,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2017
+runtime: 174254
 ---
-
 I think me and you should blow this off
 So much for the after-party, let's tell everybody we got lost
 I think me and you should do our own thing
@@ -116,6 +120,3 @@ What I got to give you can have for free
 Just take it from me
 
 Oh, just take it from me
-
-
-

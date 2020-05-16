@@ -1,8 +1,11 @@
 ---
+album: Let Your Dim Light Shine
 artists:
 - Soul Asylum
+external_ids:
+  spotify: spotify:track:5gbOQ4O6UpR322Xa8Gl0R0
 features: []
-genres: []
+first_released_as_single: true
 key: promises-broken-soul-asylum
 lyrics_url: https://www.azlyrics.com/lyrics/soulasylum/promisesbroken.html
 name: Promises Broken
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 194400
 ---
-
 Streets are filled broken glass
 You get buried by the past
 Give me just a little taste
@@ -70,6 +74,3 @@ It's alright
 And as I watch you walk away
 Hope a part of you will stay
 It's alright
-
-
-

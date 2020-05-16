@@ -1,8 +1,11 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:3UKpM8G5Py5oKFafPTGg75
 features: []
-genres: []
+first_released_as_single: false
 key: moves-big-sean
 lyrics_url: https://genius.com/Big-sean-moves-lyrics
 name: Moves
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
+release_year: 2017
+runtime: 142906
 ---
 Yeah
 Sex game had her ass blowing me up (brrr)

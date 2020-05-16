@@ -1,8 +1,11 @@
 ---
+album: Fame and Fortune
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:6VyLVj44FexZAn1aVZBKkt
 features: []
-genres: []
+first_released_as_single: false
 key: this-love-bad-company
 lyrics_url: https://genius.com/Bad-company-this-love-lyrics
 name: This Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1986
+runtime: 246573
 ---
 I know you're not just a pretty face, you've got style, you've got grace
 But I do need to know you a little more

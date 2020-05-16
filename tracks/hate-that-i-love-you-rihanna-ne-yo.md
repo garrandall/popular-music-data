@@ -1,9 +1,12 @@
 ---
+album: Good Girl Gone Bad
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:669Zz4glMcFwFl1BRltkXP
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: hate-that-i-love-you-rihanna-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/hatethatiloveyou.html
 name: Hate That I Love You
@@ -112,9 +115,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
+release_year: 2007
+runtime: 219000
 ---
-
-
 That's how much I love you
 That's how much I need you
 And I can't stand you
@@ -196,6 +199,3 @@ But I just can't let you go
 And I hate that I love you so
 
 And I hate that I love you so, so
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Ko Ko Mo (I Love You So) / Poco-Loco
 artists:
 - Gene
 - Eunice
+external_ids:
+  spotify: spotify:track:05pRf6asirSMhug1hEQmc9
 features: []
-genres: []
+first_released_as_single: true
 key: poco-loco-gene-eunice
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Eunice/Poco-Loco
 name: Poco-Loco
@@ -60,6 +63,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 107226
 ---
 In the beginning
 Of this world

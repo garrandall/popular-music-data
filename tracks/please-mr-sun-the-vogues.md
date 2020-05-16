@@ -1,8 +1,11 @@
 ---
+album: You're The One
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:4pdGpywu9L5PpTsCoyFKcm
 features: []
-genres: []
+first_released_as_single: false
 key: please-mr-sun-the-vogues
 lyrics_url: https://www.azlyrics.com/lyrics/vogues/pleasemrsun.html
 name: Please Mr Sun
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 138920
 ---
-
 Talk to her please Mr. Sun
 Speak to her Mr. Rainbow
 And take her under
@@ -72,6 +76,3 @@ Please Mr. Sun
 Please Mr. Sun
 (Talk to her)
 Mr. Sun
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Other Woman
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:7ubq5fqmcPhfg1Q8s3HbbA
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-woman-ray-parker-jr-
 lyrics_url: https://genius.com/Ray-parker-jr-the-other-woman-lyrics
 name: The Other Woman
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1982
+runtime: 247960
 ---
 Oh yeah
 I'm in love with the other woman

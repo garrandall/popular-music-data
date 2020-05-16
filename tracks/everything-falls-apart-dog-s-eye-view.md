@@ -1,8 +1,11 @@
 ---
+album: Happy Nowhere
 artists:
 - dog's eye view
+external_ids:
+  spotify: spotify:track:4l1W5SkH8EJJ9RQEq6UFMW
 features: []
-genres: []
+first_released_as_single: false
 key: everything-falls-apart-dog-s-eye-view
 lyrics_url: https://genius.com/Dogs-eye-view-everything-falls-apart-lyrics
 name: Everything Falls Apart
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
+release_year: 1995
+runtime: 234133
 ---
 Don't look now
 Things just got worse

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:2wY8TkRMnTNSVhSDJnFHTg
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-smile-gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-just-one-smile-lyrics
 name: Just One Smile
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 164040
 ---
 Can't I cry? A little bit
 There's nobody to notice it

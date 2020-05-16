@@ -1,8 +1,11 @@
 ---
+album: It Feels So Good (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:7ntbygnntLmceg6aYl0nT4
 features: []
-genres: []
+first_released_as_single: false
 key: we-never-danced-to-a-love-song-the-manhattans
 lyrics_url: https://www.azlyrics.com/lyrics/manhattans/weneverdancedtoalovesong.html
 name: We Never Danced To A Love Song
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1973
+runtime: 258933
 ---
-
 Come on, baby, let's sit down
 We've been dancing all night long
 Come on, baby (come on, baby)
@@ -64,6 +68,3 @@ You know I wanna feel your body next to mine
 I wanna dance to a love song (love song, love song)
 You got to dance, dance, dance, dance
 Come on, come on an dance with me...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live at the Nags Head 1983
 artists:
 - The Nashville Teens
+external_ids:
+  spotify: spotify:track:31ivuiF6QnKMJBscB3tRmM
 features: []
-genres: []
+first_released_as_single: false
 key: find-my-way-back-home-the-nashville-teens
 lyrics_url: https://genius.com/The-nashville-teens-find-my-way-back-home-lyrics
 name: Find My Way Back Home
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 143693
 ---
 Yeah, yeah
 Yeah, yeah

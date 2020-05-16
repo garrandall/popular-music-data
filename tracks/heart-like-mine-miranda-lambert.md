@@ -1,8 +1,11 @@
 ---
+album: Revolution
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:4EDeBzhZMcHEx7A8IcDiaL
 features: []
-genres: []
+first_released_as_single: false
 key: heart-like-mine-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-heart-like-mine-lyrics
 name: Heart Like Mine
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2009
+runtime: 177866
 ---
 I ain't the kind you take home to mama
 I ain't the kind to wear no ring

@@ -1,8 +1,11 @@
 ---
+album: Someone To Love Me
 artists:
 - Jomanda
+external_ids:
+  spotify: spotify:track:6p8i9A3hkXzgk5DMcJyEWg
 features: []
-genres: []
+first_released_as_single: false
 key: got-a-love-for-you-jomanda
 lyrics_url: https://genius.com/Jomanda-got-a-love-for-you-lyrics
 name: Got A Love For You
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1990
+runtime: 454960
 ---
 First day we met, my heart stood still
 I never had a man like you, and I doubt I ever will

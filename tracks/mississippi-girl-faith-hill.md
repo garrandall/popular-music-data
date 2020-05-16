@@ -1,8 +1,11 @@
 ---
+album: Fireflies (U.S. Release)
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:79YeQbd1p7MsuT7wHQLRYY
 features: []
-genres: []
+first_released_as_single: false
 key: mississippi-girl-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/mississippigirl.html
 name: Mississippi Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2005
+runtime: 232706
 ---
-
 Well it's a long way from Star, Mississippi
 To the big stage I'm singing on tonight
 And sometimes the butterflies still get me
@@ -138,6 +142,3 @@ yeah yeah
 oh oh
 
 Mississippi girl
-
-
-

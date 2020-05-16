@@ -1,8 +1,11 @@
 ---
+album: You're the One
 artists:
 - RAab
+external_ids:
+  spotify: spotify:track:4HKMlBeb76AeBAnUwTNGoB
 features: []
-genres: []
+first_released_as_single: false
 key: foreplay-raab
 lyrics_url: https://www.musixmatch.com/lyrics/Raab/Foreplay
 name: Foreplay
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1993
+runtime: 308360
 ---
 Girl take my hand it will lead to romance Please don't you worry girl I will please you
 I won't tease you because I'll do anything for you

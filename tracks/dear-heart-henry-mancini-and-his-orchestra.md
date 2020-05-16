@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:4fN5IsyicR57yhMxuMeyqN
 features: []
-genres: []
+first_released_as_single: false
 key: dear-heart-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-dear-heart-lyrics
 name: Dear Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1958
+runtime: 162453
 ---
 Dear heart, wish you were here
 To warm this night

@@ -1,8 +1,11 @@
 ---
+album: Quiet Fire
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:6n5647DTsQSR4llhBAqoUr
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-still-love-me-tomorrow-roberta-flack
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/willyoustilllovemetomorrow.html
 name: Will You Still Love Me Tomorrow
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 247226
 ---
-
 Tonight you're mine, completely
 You give your soul so sweetly
 Tonight the light of love is in your eyes
@@ -50,6 +54,3 @@ So tell me now and I won't ask again
 Will you still love me tomorrow
 Will you still love me tomorrow
 Will you still love me tomorrow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '8Tracks, Vol. 1: Good Shit'
 artists:
 - Walker Hayes
+external_ids:
+  spotify: spotify:track:7Iuj4iq4IiXfSr13bTeKsf
 features: []
-genres: []
+first_released_as_single: false
 key: you-broke-up-with-me-walker-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/walkerhayes/youbrokeupwithme.html
 name: You Broke Up With Me
@@ -83,8 +86,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2016
+runtime: 203986
 ---
-
 Well, I got some Coke in my bourbon
 Surfin' the room like Swazye
 No, I ain't drunk, I'm amazing
@@ -142,6 +146,3 @@ Yeah, what can I say, babe, you broke up with me
 You broke up with me
 Yeah, what can I say, babe?
 You broke up with me
-
-
-

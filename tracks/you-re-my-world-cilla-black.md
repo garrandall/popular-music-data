@@ -1,8 +1,11 @@
 ---
+album: Cilla
 artists:
 - Cilla Black
+external_ids:
+  spotify: spotify:track:0CW6cZFJ9RWNK4CUXY1i5y
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-world-cilla-black
 lyrics_url: https://genius.com/Glen-campbell-youre-my-world-cilla-black-lyrics
 name: You're My World
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 179720
 ---
 You're my world, you're every breath I take
 You're my world, you're every move I make

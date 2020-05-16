@@ -1,9 +1,12 @@
 ---
+album: 'Dirty Dancing: Anniversary Edition'
 artists:
 - Patrick Swayze
+external_ids:
+  spotify: spotify:track:63Nvv3yXMosxHpQzNsNBOp
 features:
 - Wendy Fraser
-genres: []
+first_released_as_single: false
 key: she-s-like-the-wind-patrick-swayze-wendy-fraser
 lyrics_url: https://genius.com/Patrick-swayze-shes-like-the-wind-lyrics
 name: She's Like The Wind
@@ -92,6 +95,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1979
+runtime: 231546
 ---
 She's like the wind
 Through my tree

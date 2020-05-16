@@ -1,8 +1,11 @@
 ---
+album: Blonde
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:19YKaevk2bce4odJkP5L22
 features: []
-genres: []
+first_released_as_single: false
 key: nikes-frank-ocean
 lyrics_url: https://genius.com/Frank-ocean-nikes-lyrics
 name: Nikes
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2016
+runtime: 314075
 ---
 These bitches want Nikes
 They looking for a check

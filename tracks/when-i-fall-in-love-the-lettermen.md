@@ -1,8 +1,11 @@
 ---
+album: A Song For Young Love
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:1gMMY095TNREZ8ZZYsfM5L
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-fall-in-love-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-when-i-fall-in-love-lyrics
 name: When I Fall In Love
@@ -63,6 +66,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1961
+runtime: 148360
 ---
 When I fall in love it will be forever
 Or I'll never fall in love

@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:514dJooiPZvtIHrpYSDgK6
 features: []
-genres: []
+first_released_as_single: false
 key: a-letter-from-betty-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/aletterfrombetty.html
 name: A Letter From Betty
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 150240
 ---
-
 I got a letter from the mailman yesterday
 It came from Betty and was postmarked far away
 I felt so good until I looked inside
@@ -56,6 +60,3 @@ Whoa, oh, oh, oh
 This letter from Betty means goodbye
 Whoa, oh, oh, oh
 This letter from Betty means goodbye
-
-
-

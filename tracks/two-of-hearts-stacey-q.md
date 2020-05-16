@@ -1,8 +1,11 @@
 ---
+album: Better Than Heaven
 artists:
 - Stacey Q
+external_ids:
+  spotify: spotify:track:2dURQIBrw3XcHyVZlfdpC1
 features: []
-genres: []
+first_released_as_single: false
 key: two-of-hearts-stacey-q
 lyrics_url: https://genius.com/Stacey-q-two-of-hearts-lyrics
 name: Two Of Hearts
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 237533
 ---
 I-I-I-I-I-I need, I need you
 I-I-I-I-I-I need, I need you

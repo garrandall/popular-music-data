@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:68SdVs07a9rhEHTYCKYTO2
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-sand-in-my-shoes-the-drifters
 lyrics_url: https://genius.com/The-drifters-ive-got-sand-in-my-shoes-lyrics
 name: I've Got Sand In My Shoes
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 170506
 ---
 Oh, the boardwalk's deserted
 There's nobody down by the shore

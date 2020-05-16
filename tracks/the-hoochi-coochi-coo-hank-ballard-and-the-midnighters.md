@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:7aAAzR5gXOmNQGZzMibieV
 features: []
-genres: []
+first_released_as_single: true
 key: the-hoochi-coochi-coo-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-hoochi-coochi-coo-lyrics
 name: The Hoochi Coochi Coo
@@ -51,6 +54,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1960
+runtime: 163680
 ---
 Hey, mama, you better talk to Sue
 She's doing the hoochi coochi coo

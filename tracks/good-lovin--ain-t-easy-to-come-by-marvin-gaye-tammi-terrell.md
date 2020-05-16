@@ -1,9 +1,12 @@
 ---
+album: Easy
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:1NVRTyKvOlh4xleqqvUW2D
 features: []
-genres: []
+first_released_as_single: false
 key: good-lovin--ain-t-easy-to-come-by-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-good-lovin-aint-easy-to-come-by-lyrics
 name: Good Lovin' Ain't Easy To Come By
@@ -36,6 +39,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1969
+runtime: 150093
 ---
 Good lovin' ain't easy
 Good lovin' ain't easy

@@ -1,8 +1,11 @@
 ---
+album: '30 Greatest Hits: Portrait of a Legend 1951-1964'
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2ib1IMnHzjMtB7k6WkMcGv
 features: []
-genres: []
+first_released_as_single: false
 key: sad-mood-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/sadmood.html
 name: Sad Mood
@@ -39,8 +42,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 160533
 ---
-
 I'm in a sad mood tonight
 Oh I'm in a sad mood
 I'm in a sad mood tonight
@@ -74,6 +78,3 @@ Oh my baby done gone away and left me
 My baby done gone yeah
 My baby done gone away and left me
 My baby done gone...
-
-
-

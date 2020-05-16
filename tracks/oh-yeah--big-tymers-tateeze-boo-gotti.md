@@ -1,11 +1,14 @@
 ---
+album: Hood Rich
 artists:
 - Big Tymers
+external_ids:
+  spotify: spotify:track:7dIxSCWRKv3FXM04FD5ELw
 features:
 - Tateeze
 - Boo
 - Gotti
-genres: []
+first_released_as_single: false
 key: oh-yeah--big-tymers-tateeze-boo-gotti
 lyrics_url: https://genius.com/Big-tymers-oh-yeah-lyrics
 name: Oh Yeah!
@@ -82,6 +85,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
+release_year: 2002
+runtime: 279680
 ---
 Yeah, mmm hm
 This one goes out to all the pretty young ladies out there

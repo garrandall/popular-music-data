@@ -1,8 +1,11 @@
 ---
+album: Elliott Yamin
 artists:
 - Elliott Yamin
+external_ids:
+  spotify: spotify:track:0U969xYNlAyfzi8P1TaO7u
 features: []
-genres: []
+first_released_as_single: false
 key: wait-for-you-elliott-yamin
 lyrics_url: https://genius.com/Elliott-yamin-wait-for-you-lyrics
 name: Wait For You
@@ -127,6 +130,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2007
+runtime: 261320
 ---
 I never felt nothing in the world like this before
 Now I'm missing you, and I'm wishing you would come back through my door

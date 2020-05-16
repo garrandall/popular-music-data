@@ -1,8 +1,11 @@
 ---
+album: 'If I Ruled The World: Songs For The Jet Set'
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:6AjznBCgVaYESh8UHsHpDz
 features: []
-genres: []
+first_released_as_single: false
 key: fly-me-to-the-moon--in-other-words--tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/flymetothemooninotherwords.html
 name: Fly Me To The Moon (In Other Words)
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 249666
 ---
-
 Poets often use many words
 To say a simple thing
 It takes thought and time and rhyme
@@ -51,6 +55,3 @@ In other words
 Please be true
 In other words
 I love you..
-
-
-

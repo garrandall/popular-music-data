@@ -1,8 +1,11 @@
 ---
+album: Illadelph Halflife
 artists:
 - The Roots
+external_ids:
+  spotify: spotify:track:1B53Y95tPd4ah4FExO0egE
 features: []
-genres: []
+first_released_as_single: false
 key: what-they-do-the-roots
 lyrics_url: https://genius.com/The-roots-what-they-do-lyrics
 name: What They Do
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-04-19'
+release_year: 1996
+runtime: 357200
 ---
 Never do what they do, what they do, what they do
 Never do what they do, what they do, what they do

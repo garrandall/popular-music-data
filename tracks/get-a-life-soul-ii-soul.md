@@ -1,8 +1,11 @@
 ---
+album: Volume II - 1990 A New Decade
 artists:
 - Soul II Soul
+external_ids:
+  spotify: spotify:track:5HRaxiZNh5CDACzSSYleHx
 features: []
-genres: []
+first_released_as_single: false
 key: get-a-life-soul-ii-soul
 lyrics_url: https://genius.com/Soul-ii-soul-get-a-life-lyrics
 name: Get A Life
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1990
+runtime: 224173
 ---
 This thing called life
 Know what's the meaning of the line

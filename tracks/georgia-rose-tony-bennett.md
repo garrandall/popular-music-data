@@ -1,8 +1,11 @@
 ---
+album: A Time For Love
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:7KP3jPXSIjB2xx6UifWQ2V
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-rose-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/georgiarose.html
 name: Georgia Rose
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 176826
 ---
 Georgia Rose
 Georgia Rose

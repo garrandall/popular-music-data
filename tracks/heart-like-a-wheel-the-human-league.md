@@ -1,8 +1,11 @@
 ---
+album: Romantic?
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:4zeqOfeL07KKFiDU8OxCVH
 features: []
-genres: []
+first_released_as_single: false
 key: heart-like-a-wheel-the-human-league
 lyrics_url: https://www.azlyrics.com/lyrics/humanleague/heartlikeawheel.html
 name: Heart Like A Wheel
@@ -51,8 +54,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 270173
 ---
-
 Calling up the promised land
 Johnny Seven's coming over the sea
 He's taking your time
@@ -118,6 +122,3 @@ From anything that's real
 Heart like a wheel
 Driving the world
 Is gonna be a steal
-
-
-

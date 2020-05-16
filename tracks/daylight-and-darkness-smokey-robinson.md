@@ -1,8 +1,11 @@
 ---
+album: Love Breeze
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:5aHNXJOzXAEp2TT7KLTKly
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-and-darkness-smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-daylight-and-darkness-lyrics
 name: Daylight And Darkness
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1978
+runtime: 240480
 ---
 Midnight sun, shining through my darkest night
 Noonday shadow, blocking out my morning light

@@ -1,8 +1,11 @@
 ---
+album: Movin' With Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:0hBpAXaXrE3G0eSqHK7OIV
 features: []
-genres: []
+first_released_as_single: false
 key: drummer-man-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/drummerman.html
 name: Drummer Man
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 200533
 ---
-
 Hush, hush, little baby, don't you cry
 Hush, hush, little baby, don't you cry
 Daddy works in a rock and roll band
@@ -61,6 +65,3 @@ Oh, Lord, it's tough to be living with a dream
 Of a Drummer Man
 Child it's tough but your Daddy is a dream
 Of a Drummer Man
-
-
-

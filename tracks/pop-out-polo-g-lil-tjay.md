@@ -1,9 +1,12 @@
 ---
+album: Die A Legend
 artists:
 - Polo G
+external_ids:
+  spotify: spotify:track:6uFn47ACjqYkc0jADwEdj1
 features:
 - Lil Tjay
-genres: []
+first_released_as_single: false
 key: pop-out-polo-g-lil-tjay
 lyrics_url: https://www.azlyrics.com/lyrics/polog/popout.html
 name: Pop Out
@@ -116,8 +119,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 166560
 ---
-
 JD On Tha Track
 Iceberg want a bag, bitch
 
@@ -177,6 +181,3 @@ We come from poverty man we ain't have a thing
 It's a lot of animosity, but they won't say my name
 Them killers rock with me, lil' nigga don't get banged
 'Cause they'll do the job for me while I hop on a plane
-
-
-

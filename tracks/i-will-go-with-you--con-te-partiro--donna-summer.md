@@ -1,8 +1,11 @@
 ---
+album: VH1 Presents Live & More Encore!
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:433m5xRcVM3jFm3IuijkKs
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-go-with-you--con-te-partiro--donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/iwillgowithyoucontepartiro.html
 name: I Will Go With You (Con Te Partiro)
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
+release_year: 1999
+runtime: 247933
 ---
-
 Stranded alone on a sea of emotion
 You found me
 Your love was a light
@@ -111,6 +115,3 @@ I'll go where you lead me
 Forever true
 In my...
 Heart!
-
-
-

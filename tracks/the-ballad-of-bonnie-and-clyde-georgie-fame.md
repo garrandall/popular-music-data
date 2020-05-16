@@ -1,8 +1,11 @@
 ---
+album: The Third Face Of Fame
 artists:
 - Georgie Fame
+external_ids:
+  spotify: spotify:track:6FV89verKsYAt5xS05ktHG
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-bonnie-and-clyde-georgie-fame
 lyrics_url: https://genius.com/Georgie-fame-the-ballad-of-bonnie-and-clyde-lyrics
 name: The Ballad Of Bonnie And Clyde
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1962
+runtime: 188893
 ---
 Bonnie and Clyde were pretty looking people
 But I can tell you, people

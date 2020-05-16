@@ -1,8 +1,11 @@
 ---
+album: Mellow Yellow
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:7weLWbJdUz7ZQR4ZJX6l59
 features: []
-genres: []
+first_released_as_single: false
 key: mellow-yellow-donovan
 lyrics_url: https://genius.com/Donovan-mellow-yellow-lyrics
 name: Mellow Yellow
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1964
+runtime: 220693
 ---
 I'm just mad about Saffron
 Saffron's mad about me

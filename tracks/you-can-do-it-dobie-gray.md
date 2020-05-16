@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Dobie Gray'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:1SmrpzsAmn6l7mFQt6qgsP
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-do-it-dobie-gray
 lyrics_url: https://www.azlyrics.com/lyrics/dobiegray/youcandoit.html
 name: You Can Do It
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1978
+runtime: 253200
 ---
-
 Take your shoes off, let your hair down
 Time for you to get away
 Don't you worry 'bout tomorrow
@@ -107,6 +111,3 @@ You can do it to your hearts delight
 If you can do it with your imagination
 Then you can do it in real life
 Yeah, do it
-
-
-

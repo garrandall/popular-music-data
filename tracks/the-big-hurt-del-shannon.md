@@ -1,8 +1,11 @@
 ---
+album: Jukebox Favorites
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:18F1Hhz5HmbFoCVLM0D2fW
 features: []
-genres: []
+first_released_as_single: false
 key: the-big-hurt-del-shannon
 lyrics_url: https://www.musixmatch.com/lyrics/Del-Shannon/The-Big-Hurt
 name: The Big Hurt
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 141357
 ---
 Now it begins
 Now that you're gone

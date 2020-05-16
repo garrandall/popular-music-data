@@ -1,9 +1,12 @@
 ---
+album: '#willpower'
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:01TuObJVd7owWchVRuQbQw
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: false
 key: -thatpower-will-i-am-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/william/thatpower.html
 name: '#thatPOWER'
@@ -72,8 +75,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 279506
 ---
-
 And oh, I'm alive, I'm alive, I'm alive
 And oh, I can fly, I can fly, I can fly
 And oh, I'm alive, I'm alive, I'm alive
@@ -148,6 +152,3 @@ Power, power, power
 And I'm loving every second, minute, hour, bigger, better, stronger power
 
 And I'm loving every second, minute, hour, bigger, better, stronger power
-
-
-

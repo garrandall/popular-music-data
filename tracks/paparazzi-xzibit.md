@@ -1,8 +1,11 @@
 ---
+album: At The Speed Of Life
 artists:
 - Xzibit
+external_ids:
+  spotify: spotify:track:3xv229qX6gFRYgplFCTKBl
 features: []
-genres: []
+first_released_as_single: false
 key: paparazzi-xzibit
 lyrics_url: https://www.azlyrics.com/lyrics/xzibit/paparazzi.html
 name: Paparazzi
@@ -31,10 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1996
+runtime: 236306
 ---
-
-
-
 1996, the Disfunctional member of the Alkohaliks family
 It's XZIBIT, Bring it live, one time, like this
 
@@ -122,4 +124,3 @@ keep it all in perspective
 Carbon Copies gettin caught up in the Paparazzi
 
 Once again it's the liquidation crew and I return for you
-

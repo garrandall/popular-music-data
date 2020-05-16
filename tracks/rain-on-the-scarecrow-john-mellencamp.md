@@ -1,8 +1,11 @@
 ---
+album: Scarecrow
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:24iUpyUeGv6AoikfxpRofO
 features: []
-genres: []
+first_released_as_single: false
 key: rain-on-the-scarecrow-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/rainonthescarecrow.html
 name: Rain On The Scarecrow
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
+release_year: 1985
+runtime: 226226
 ---
-
 Scarecrow on a wooden cross
 Blackbird in the barn
 Four hundred empty acres that used to be my farm
@@ -116,6 +120,3 @@ Rain on the scarecrow
 Blood on the plow
 Rain on the scarecrow
 Blood on the plow
-
-
-

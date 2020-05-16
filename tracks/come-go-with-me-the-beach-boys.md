@@ -1,8 +1,11 @@
 ---
+album: M.I.U. Album
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:5lj8BrBcR12k3PZTHvK5mW
 features: []
-genres: []
+first_released_as_single: false
 key: come-go-with-me-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-come-go-with-me-lyrics
 name: Come Go With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1978
+runtime: 128506
 ---
 Dom dom dom dom dom
 Dom be dooby

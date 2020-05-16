@@ -1,8 +1,11 @@
 ---
+album: The Love Album
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:0Mx6Q5XnT84BLk3e4ITJGC
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-sincere-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-are-you-sincere-lyrics
 name: Are You Sincere
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 207333
 ---
 Are you sincere when you say "I love you?"
 Are you sincere when you say "I'll be true?"

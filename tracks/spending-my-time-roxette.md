@@ -1,8 +1,11 @@
 ---
+album: Joyride (Deluxe Version)
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:47PQWnMc01EmIH0PD2UuGb
 features: []
-genres: []
+first_released_as_single: false
 key: spending-my-time-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/spendingmytime.html
 name: Spending My Time
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 275666
 ---
-
 What's the time?
 Seems it's already morning
 I see the sky
@@ -158,6 +162,3 @@ I'm spending my time, my time, my time
 Best to be without you honey, honey
 
 Spending my time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Sound of Madness
 artists:
 - Shinedown
+external_ids:
+  spotify: spotify:track:1LkMC92Zc21awBWSHWZeGp
 features: []
-genres: []
+first_released_as_single: false
 key: the-crow---the-butterfly-shinedown
 lyrics_url: https://www.azlyrics.com/lyrics/shinedown/thecrowandthebutterfly.html
 name: The Crow & The Butterfly
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2008
+runtime: 253600
 ---
-
 I painted your room at
 Midnight, so I'd know
 Yesterday was over
@@ -56,6 +60,3 @@ I never thought you'd slip away
 I guess I was just a little too late
 
 Just a little too late
-
-
-

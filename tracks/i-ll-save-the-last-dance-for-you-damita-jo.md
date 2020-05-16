@@ -1,8 +1,11 @@
 ---
+album: I'll Save The Last Dance For You
 artists:
 - Damita Jo
+external_ids:
+  spotify: spotify:track:0sBJrZ8Vf2QZmr4owALLcZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-save-the-last-dance-for-you-damita-jo
 lyrics_url: https://genius.com/Damita-jo-ill-save-the-last-dance-for-you-lyrics
 name: I'll Save The Last Dance For You
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1960
+runtime: 135266
 ---
 If I dance every dance with the guys who give me the eye
 And let 'em hold me tight

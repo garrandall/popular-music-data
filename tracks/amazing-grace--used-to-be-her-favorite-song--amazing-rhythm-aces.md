@@ -1,8 +1,11 @@
 ---
+album: Stacked Deck
 artists:
 - Amazing Rhythm Aces
+external_ids:
+  spotify: spotify:track:64CfPPB80psgNKm37oBrDb
 features: []
-genres: []
+first_released_as_single: false
 key: amazing-grace--used-to-be-her-favorite-song--amazing-rhythm-aces
 lyrics_url: https://genius.com/Amazing-rhythm-aces-amazing-grace-used-to-be-her-favorite-song-lyrics
 name: Amazing Grace (used To Be Her Favorite Song)
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 197346
 ---
 Amazing Grace, used to be her favorite song
 Lord where's my good girl gone?

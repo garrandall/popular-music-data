@@ -1,9 +1,12 @@
 ---
+album: Dance To The Music
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:1MQWtVcs0PKsY4PA6ZvLiy
 features: []
-genres: []
+first_released_as_single: false
 key: dance-to-the-music-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/dancetothemusic.html
 name: Dance To The Music
@@ -68,9 +71,10 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 179426
 ---
-
- Get up and dance to the music!
+Get up and dance to the music!
 Get on up and dance to the fonky music!
 Dum-dumm du-du-du-du-du-dum-dumm
 Du-du-du-du-du-dum-dumm - du-du-du-du-du-dum-dumm
@@ -101,6 +105,3 @@ Ah, yeah!
 Dum-dumm du-du-du-du-du-dum-dumm
 Du-du-du-du-du-dum-dumm - du-du-du-du-du-dum-dumm
  Dance to the Music, Dance to the Music
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Completion Backward Principle
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:5rJTpBaGWvTaszsNDpAsG5
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-want-to-wait-anymore-the-tubes
 lyrics_url: https://genius.com/The-tubes-dont-want-to-wait-anymore-lyrics
 name: Don't Want To Wait Anymore
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 258333
 ---
 We, could be the last two on earth
 To start a new world

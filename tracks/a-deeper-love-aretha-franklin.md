@@ -1,8 +1,11 @@
 ---
+album: Essential - Soul Love
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3ml48CDQleGqnYDg6d32yZ
 features: []
-genres: []
+first_released_as_single: false
 key: a-deeper-love-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/adeeperlove.html
 name: A Deeper Love
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1994
+runtime: 275826
 ---
-
 (Pride) a deeper love
 (Pride) a deeper love
 (Pride) a deeper love
@@ -145,6 +149,3 @@ The (pride) strength to survive
 The (pride) strength to survive
 (Pride) ow ow ow ow ow ow (a deeper love)
 (Woah woah woah woah) oh
-
-
-

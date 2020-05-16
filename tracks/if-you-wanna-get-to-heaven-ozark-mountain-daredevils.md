@@ -1,8 +1,11 @@
 ---
+album: Ozark Mountain Daredevils
 artists:
 - Ozark Mountain Daredevils
+external_ids:
+  spotify: spotify:track:2CFtB64mDu2XCFjvGJhc9k
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-wanna-get-to-heaven-ozark-mountain-daredevils
 lyrics_url: https://genius.com/Ozark-mountain-daredevils-if-you-wanna-get-to-heaven-lyrics
 name: If You Wanna Get To Heaven
@@ -71,9 +74,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
+release_year: 1973
+runtime: 184466
 ---
-
-
 I never read it in a book
 I never saw it on a show
 But I heard it in the alley

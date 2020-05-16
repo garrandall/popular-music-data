@@ -1,10 +1,13 @@
 ---
+album: Major Lazer Essentials
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:1Z4mU85p8mg7cLqdWxooXk
 features:
 - PARTYNEXTDOOR
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: run-up-major-lazer-partynextdoor-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/runup.html
 name: Run Up
@@ -13,9 +16,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2017
+runtime: 205128
 ---
-
-
 Barbie
 
 
@@ -107,6 +110,3 @@ I'ma run up on you
 I'ma run up on you
 I'ma run up on you
 I'ma run up on you
-
-
-

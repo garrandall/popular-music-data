@@ -1,8 +1,11 @@
 ---
+album: A Tramp Shining
 artists:
 - Richard Harris
+external_ids:
+  spotify: spotify:track:5DBEFajBEaHgbbwe7oN0KP
 features: []
-genres: []
+first_released_as_single: false
 key: macarthur-park-richard-harris
 lyrics_url: https://genius.com/Richard-harris-macarthur-park-lyrics
 name: MacArthur Park
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 450106
 ---
 Spring was never waiting for us, girl
 It ran one step ahead

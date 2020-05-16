@@ -1,8 +1,11 @@
 ---
+album: The Best Of Mac Davis
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:1P7yXlWH1VjAlu8x1cawmb
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-add--all-the-love-in-the-world-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/ifyouaddalltheloveintheworld.html
 name: (if You Add) All The Love In The World
@@ -23,8 +26,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1975
+runtime: 213106
 ---
-
 If you add all the love in the world
 Take away the hate and the pain
 There'll still be some love left over
@@ -72,6 +76,3 @@ And that's what gives us hope
 If you add all the love in the world
 Take away the hate and the pain
 There'll still be some love left over
-
-
-

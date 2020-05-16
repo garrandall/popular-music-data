@@ -1,8 +1,11 @@
 ---
+album: Showcase
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:3zpj9dvJABiyMrmLCPw6i8
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/crazy.html
 name: Crazy
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1961
+runtime: 164573
 ---
-
 Crazy
 I'm crazy for feeling so lonely
 I'm crazy
@@ -79,6 +83,3 @@ For thinking that my love could hold you
 I'm crazy for trying
 And crazy for crying
 And I'm crazy for loving you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heart and Soul
 artists:
 - Johnny Adams
+external_ids:
+  spotify: spotify:track:2yTmmNuGgUIfSwx9BouWuP
 features: []
-genres: []
+first_released_as_single: false
 key: reconsider-me-johnny-adams
 lyrics_url: https://genius.com/Johnny-adams-reconsider-me-lyrics
 name: Reconsider Me
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 235431
 ---
 Hello baby, yes it's really me
 After the wrong I've done

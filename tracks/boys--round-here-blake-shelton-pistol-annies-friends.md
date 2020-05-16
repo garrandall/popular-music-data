@@ -1,10 +1,13 @@
 ---
+album: Based on a True Story...
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:39FwE8edwuyiaa4PrGBkP7
 features:
 - Pistol Annies
 - Friends
-genres: []
+first_released_as_single: false
 key: boys--round-here-blake-shelton-pistol-annies-friends
 lyrics_url: https://www.musixmatch.com/lyrics/Blake-Shelton-feat-Pistol-Annies-Friends/Boys-Round-Here
 name: Boys 'round Here
@@ -93,6 +96,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2013
+runtime: 288760
 ---
 Well the boys 'round here don't listen to The Beatles
 Run ole Bocephus through a jukebox needle

@@ -1,8 +1,11 @@
 ---
+album: Let's Think About Living - The Best Of Bob Luman
 artists:
 - Bob Luman
+external_ids:
+  spotify: spotify:track:2KwHEWuvd2JCWVK0oQyLkf
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-think-about-living-bob-luman
 lyrics_url: https://genius.com/Bob-luman-lets-think-about-living-lyrics
 name: Let's Think About Living
@@ -63,6 +66,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 128800
 ---
 In every other song that I've heard lately
 Some fellow gets shot

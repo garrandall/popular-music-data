@@ -1,8 +1,11 @@
 ---
+album: Dirty Dancing - Live In Concert
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:0PB2slkv8soQdhmeOmCh4P
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-lose-control-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/makemelosecontrol.html
 name: Make Me Lose Control
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1988
+runtime: 361333
 ---
-
 I run a comb through my hair and step out in the street
 And the city's the color of green when the noon sun appears, oh yeah
 Jennifer's got her daddy's car, she's playin' "Uptown" on the stereo
@@ -140,4 +144,3 @@ Baby, baby
 Turn the radio up for that sweet sound
 Hold me close, never let me go
 Keep this feelin' alive, make me lose control
-

@@ -1,8 +1,11 @@
 ---
+album: Follow Me...
 artists:
 - Crispian St. Peters
+external_ids:
+  spotify: spotify:track:7ufnFt3fA9Ut2K0DILUZ34
 features: []
-genres: []
+first_released_as_single: false
 key: the-pied-piper-crispian-st--peters
 lyrics_url: https://genius.com/Crispian-st-peters-the-pied-piper-lyrics
 name: The Pied Piper
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 151666
 ---
 You!
 With your masquerading

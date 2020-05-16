@@ -1,9 +1,12 @@
 ---
+album: Lessons In Love
 artists:
 - Lloyd
+external_ids:
+  spotify: spotify:track:6fju5NbZznZRZDfP7mpZ56
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: girls-around-the-world-lloyd-lil-wayne
 lyrics_url: https://genius.com/Lloyd-girls-around-the-world-lyrics
 name: Girls Around The World
@@ -64,6 +67,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2008
+runtime: 229800
 ---
 + (Lloyd)
 "All around the world, girls, all around the world

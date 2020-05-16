@@ -1,8 +1,11 @@
 ---
+album: Congratulations I'm Sorry
 artists:
 - Gin Blossoms
+external_ids:
+  spotify: spotify:track:5f2wSctNJlAOUAaRxQAcoM
 features: []
-genres: []
+first_released_as_single: true
 key: follow-you-down-gin-blossoms
 lyrics_url: https://genius.com/Gin-blossoms-follow-you-down-lyrics
 name: Follow You Down
@@ -191,6 +194,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1996-12-21'
+release_year: 1996
+runtime: 227706
 ---
 Did you see the sky, I think it means that we've been lost
 Maybe one less time is all we need

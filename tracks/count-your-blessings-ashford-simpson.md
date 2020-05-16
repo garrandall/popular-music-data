@@ -1,9 +1,12 @@
 ---
+album: Real Love
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:0lAEegWyK8nrX6rZW8YnT8
 features: []
-genres: []
+first_released_as_single: false
 key: count-your-blessings-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-count-your-blessings-lyrics
 name: Count Your Blessings
@@ -24,6 +27,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 286600
 ---
 Chorus 1:
 I had to learn, learn a lesson

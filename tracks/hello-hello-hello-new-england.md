@@ -1,8 +1,11 @@
 ---
+album: New England
 artists:
 - New England
+external_ids:
+  spotify: spotify:track:2rPOxYsjva5XKuKM4s3Y5Y
 features: []
-genres: []
+first_released_as_single: false
 key: hello-hello-hello-new-england
 name: Hello Hello Hello
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 216866
 ---
 

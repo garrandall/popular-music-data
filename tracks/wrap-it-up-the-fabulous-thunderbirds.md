@@ -1,8 +1,11 @@
 ---
+album: Tuff Enuff
 artists:
 - The Fabulous Thunderbirds
+external_ids:
+  spotify: spotify:track:5dK6iw7TomKeooRXgNGAMM
 features: []
-genres: []
+first_released_as_single: false
 key: wrap-it-up-the-fabulous-thunderbirds
 lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/wrapitup.html
 name: Wrap It Up
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 162333
 ---
-
 I've been watching you for days, now baby
 I just love your sexy ways, now baby
 You know my love will never stop, now baby
@@ -85,6 +89,3 @@ Wrap it up, I'll take it
 Wrap, wrap
 Wrap, wrap, wrap
 Wrap it up, I'll take it...
-
-
-

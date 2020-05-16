@@ -1,9 +1,12 @@
 ---
+album: The Beautiful & Damned
 artists:
 - G-Eazy
 - Halsey
+external_ids:
+  spotify: spotify:track:5k38wzpLb15YgncyWdTZE4
 features: []
-genres: []
+first_released_as_single: false
 key: him---i-g-eazy-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/himi.html
 name: Him & I
@@ -88,9 +91,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2017
+runtime: 268866
 ---
-
-
 Cross my heart, hope to die
 To my lover I'd never lie
 He said, "Be true," I swear, "I'll try."
@@ -211,6 +214,3 @@ Him and I
 In the end, it's him and I
 Him and I
 In the end, it's him and I
-
-
-

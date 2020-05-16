@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker / Super Hits
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:7MLwJApVQ7DJkuslbcK7d9
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-that-turned-my-mama-on-tanya-tucker
 lyrics_url: https://www.azlyrics.com/lyrics/tanyatucker/themanthatturnedmymamaon.html
 name: The Man That Turned My Mama On
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1972
+runtime: 174093
 ---
-
 I wish I'd known the man a little better that turned my mama on
 He must have been a heck of a man
 'Cause mama was a lady don't you now
@@ -87,6 +91,3 @@ He must have been a heck of a man
 I wish I'd known the man a little better that turned my mama on
 He must have been a heck of a man
 'Cause mama was a lady don't you know
-
-
-

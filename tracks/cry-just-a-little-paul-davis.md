@@ -1,8 +1,11 @@
 ---
+album: Paul Davis (1980)
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:4ZAspsY77fIpbXi642FJO5
 features: []
-genres: []
+first_released_as_single: false
 key: cry-just-a-little-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/cryjustalittle.html
 name: Cry Just A Little
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 240173
 ---
-
 Do your dreams ever take you back when love was new
 Does your heart ever long for those days when love was true
 Seems like that magic of yesterday has just slipped away
@@ -59,6 +63,3 @@ Yes I'll always love you, I'll always love you
 Cry just a little, die just a little
 I'll always love you
 Cry just a little, die just a little
-
-
-

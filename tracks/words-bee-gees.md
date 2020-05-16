@@ -1,8 +1,11 @@
 ---
+album: Horizontal (Deluxe Version)
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:07PIhdmyYIw8dMeDMsx9FU
 features: []
-genres: []
+first_released_as_single: false
 key: words-bee-gees
 lyrics_url: https://genius.com/Bee-gees-words-lyrics
 name: Words
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 198453
 ---
 Smile an everlasting smile
 A smile can bring you near to me

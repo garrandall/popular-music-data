@@ -1,8 +1,11 @@
 ---
+album: Brand New
 artists:
 - Ben Rector
+external_ids:
+  spotify: spotify:track:3IpG4SvqxHmbZslvDSIIZP
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-ben-rector
 lyrics_url: https://www.azlyrics.com/lyrics/benrector/brandnew.html
 name: Brand New
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2015
+runtime: 243933
 ---
-
 I feel like new sunglasses, like a brand new pair of jeans
 I feel like taking chances, I feel a lot like seventeen
 
@@ -67,6 +71,3 @@ Brand new, yeah, yeah, yeah
 And I feel brand new
 I feel brand new
 I feel brand new
-
-
-

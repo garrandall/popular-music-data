@@ -1,8 +1,11 @@
 ---
+album: King Of Hearts
 artists:
 - Lloyd
+external_ids:
+  spotify: spotify:track:0npGoOENjn7vVvIMmvWekQ
 features: []
-genres: []
+first_released_as_single: false
 key: lay-it-down-lloyd
 lyrics_url: https://genius.com/Lloyd-lay-it-down-lyrics
 name: Lay It Down
@@ -83,6 +86,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2010
+runtime: 240106
 ---
 Lay your head on my pillow
 Lay your head on my pillow

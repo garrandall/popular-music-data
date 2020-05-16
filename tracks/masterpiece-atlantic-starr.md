@@ -1,8 +1,11 @@
 ---
+album: Love Crazy
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:2sm3HfTCt3O6R6qUc5f6xb
 features: []
-genres: []
+first_released_as_single: false
 key: masterpiece-atlantic-starr
 lyrics_url: https://www.azlyrics.com/lyrics/atlanticstarr/masterpiece.html
 name: Masterpiece
@@ -87,8 +90,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1991
+runtime: 295346
 ---
-
 A simple touch of your hand,
 And everything is right.
 The gentle way you look at me,
@@ -145,6 +149,3 @@ My love
 is real inside our hearts
 Let it be forever
 never let it end)
-
-
-

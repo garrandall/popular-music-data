@@ -1,8 +1,11 @@
 ---
+album: "Chess Soul: A Decade Of Chicago\u2019s Finest"
 artists:
 - Jackie Ross
+external_ids:
+  spotify: spotify:track:6tVN4XTLCTPCOx2Xk7PHf0
 features: []
-genres: []
+first_released_as_single: false
 key: selfish-one-jackie-ross
 lyrics_url: https://genius.com/Jackie-ross-selfish-one-lyrics
 name: Selfish One
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 200200
 ---
 Selfish one why keep your love to yourself
 Oh oh yeah

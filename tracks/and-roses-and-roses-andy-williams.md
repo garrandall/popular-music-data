@@ -1,8 +1,11 @@
 ---
+album: The Essential Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:7JlfynwCeJtbqXB0brcDcS
 features: []
-genres: []
+first_released_as_single: false
 key: and-roses-and-roses-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/androsesandroses.html
 name: And Roses And Roses
@@ -35,8 +38,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 143933
 ---
-
 Every day I sent another present
 Just to let her know how very much I care
 I wrote a little love note with each present
@@ -61,6 +65,3 @@ Roses and roses and roses of love
 (Roses and roses and roses and roses of love)
 
 Roses and roses and roses and roses of love
-
-
-

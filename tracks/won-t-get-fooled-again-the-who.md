@@ -1,8 +1,11 @@
 ---
+album: Who's Next
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:1W1GpfPujmgp2vQqcpUhtU
 features: []
-genres: []
+first_released_as_single: false
 key: won-t-get-fooled-again-the-who
 lyrics_url: https://genius.com/The-who-wont-get-fooled-again-lyrics
 name: Won't Get Fooled Again
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 513000
 ---
 We'll be fighting in the streets
 With our children at our feet

@@ -1,8 +1,11 @@
 ---
+album: Sittin' On Top Of The World
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:5es9FeUsKa8P8bB5iuN2co
 features: []
-genres: []
+first_released_as_single: false
 key: looking-through-your-eyes-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/lookingthroughyoureyes.html
 name: Looking Through Your Eyes
@@ -103,8 +106,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1998
+runtime: 245466
 ---
-
 Look at the sky
 Tell me what do you see
 Just close your eyes
@@ -142,4 +146,3 @@ And there are some things we don't know
 Sometimes a heart just needs to go
 And there is so much I'll remember
 Underneath the open sky with you forever
-

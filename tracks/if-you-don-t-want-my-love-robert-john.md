@@ -1,8 +1,11 @@
 ---
+album: If You Don't Want My Love
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:4VAAQHZOKUnkRNWKKtS224
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-don-t-want-my-love-robert-john
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/If-You-Don-t-Want-My-Love
 name: If You Don't Want My Love
@@ -55,6 +58,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 139546
 ---
 I know you have reservations
 And you're just along for the ride

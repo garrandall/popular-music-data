@@ -1,8 +1,11 @@
 ---
+album: On a New Street / Hold On
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:6esgfPo6iBBIwJizvQubp1
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-falling-in-love-with-you-little-anthony-and-the-imperials
 name: I'm Falling In Love With You
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
+release_year: 1974
+runtime: 234013
 ---
 

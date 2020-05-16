@@ -1,8 +1,11 @@
 ---
+album: Muthabanjo
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1pTK1biHkcKmig7U2efMMX
 features: []
-genres: []
+first_released_as_single: false
 key: phenomenal-eminem
 lyrics_url: https://genius.com/Eminem-phenomenal-lyrics
 name: Phenomenal
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2006
+runtime: 232333
 ---
 I am phenomenal
 With every ounce of my blood

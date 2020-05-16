@@ -1,8 +1,11 @@
 ---
+album: Street Angel
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:3FmNXP5tWfjZAImUxzns74
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-love-will-change-your-mind-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/maybelovewillchangeyourmind.html
 name: Maybe Love Will Change Your Mind
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1994
+runtime: 259066
 ---
-
 I'm beside myself...
 Cause I don't know... and you won't tell
 Your distant world has somehow pulled me in
@@ -103,6 +107,3 @@ This time... Maybe love...
 Maybe love...
 Well you want me to be there with you
 Well there's nothing more I'd rather do...
-
-
-

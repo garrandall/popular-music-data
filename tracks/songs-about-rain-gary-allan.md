@@ -1,8 +1,11 @@
 ---
+album: See If I Care
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:0PD211kSLtAZ76OSHtMOnJ
 features: []
-genres: []
+first_released_as_single: false
 key: songs-about-rain-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/songsaboutrain.html
 name: Songs About Rain
@@ -47,8 +50,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 265800
 ---
-
 Well this town has closed down way too early,
 And there's nothing to do,
 So I'm driving around in circles,
@@ -86,6 +90,3 @@ And there's no two the same,
 Oh how I wish I could blame all these songs about rain,
 All these songs about rain,
 Songs about rain...
-
-
-

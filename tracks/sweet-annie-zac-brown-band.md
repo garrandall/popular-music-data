@@ -1,8 +1,11 @@
 ---
+album: Uncaged
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:6Te1vrlCz4DdCeONagkT6j
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-annie-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/sweetannie.html
 name: Sweet Annie
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
+release_year: 2012
+runtime: 278693
 ---
-
 I been burning bright
 For so long I can't remember
 Pretty girls and late night bars seem to be my line of work
@@ -128,6 +132,3 @@ And my bark will lose its bite
 But don't give up on me
 
 Sweet Annie.
-
-
-

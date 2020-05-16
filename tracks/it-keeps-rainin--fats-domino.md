@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5HWQEMf27wOTGRD8Q8pihz
 features: []
-genres: []
+first_released_as_single: false
 key: it-keeps-rainin--fats-domino
 lyrics_url: https://genius.com/Fats-domino-it-keeps-rainin-lyrics
 name: It Keeps Rainin'
@@ -51,6 +54,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 168440
 ---
 It keep rainin' an rainin'
 Tears from my eyes

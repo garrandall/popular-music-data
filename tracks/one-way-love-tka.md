@@ -1,8 +1,11 @@
 ---
+album: Scars of Love
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:7niZtO67QF2y4UysyGA7U6
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-love-tka
 lyrics_url: https://genius.com/Tka-one-way-love-lyrics
 name: One Way Love
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1986
+runtime: 317266
 ---
 One way love
 Thought we had something

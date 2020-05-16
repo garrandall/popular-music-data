@@ -1,8 +1,11 @@
 ---
+album: Oogum Boogum
 artists:
 - Brenton Wood
+external_ids:
+  spotify: spotify:track:1h4XVjt26ZCDKmeEoHxT07
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-little-sign-brenton-wood
 lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/gimmelittlesign.html
 name: Gimme Little Sign
@@ -67,8 +70,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 141329
 ---
-
 If you do want me, gimme little sugar
 If you don't want me, don't lead me on girl
 But if you need me, show me that you love me
@@ -118,6 +122,3 @@ Just gimme some kind of sign girl
 Oh my baby
 To show that you're mine girl
 Oh yeah...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4NAmRvqSITAAzKWnC8yRq3
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: everything-has-changed-taylor-swift-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/everythinghaschanged.html
 name: Everything Has Changed
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2012
+runtime: 243933
 ---
-
-
 All I knew this morning when I woke
 Is I know something now, know something now I didn't before
 And all I've seen since eighteen hours ago
@@ -163,6 +166,3 @@ All I know is pouring rain and everything has changed
 All I know is a new found grace
 All my days I'll know your face
 All I know since yesterday is everything has changed
-
-
-

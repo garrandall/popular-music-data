@@ -1,8 +1,11 @@
 ---
+album: Out Of Crank
 artists:
 - Keith
+external_ids:
+  spotify: spotify:track:6BuOJEMm9bnlf6WCwRW9PS
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-savin--time-keith
 name: Daylight Savin' Time
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 173360
 ---
 

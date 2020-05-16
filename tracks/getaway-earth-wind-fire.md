@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:67J6NR2Tdl0h2epWHcCBBN
 features: []
-genres: []
+first_released_as_single: false
 key: getaway-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/getaway.html
 name: Getaway
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 227080
 ---
-
 So you say you tried
 But you just can't find the pleasure
 People around you givin' you pressure
@@ -119,6 +123,3 @@ So come, take me by the hand,
 We'll leave this troubled land
 I know we can, I know we can, I know we can, I know we can
 Getaway
-
-
-

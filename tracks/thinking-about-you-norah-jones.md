@@ -1,8 +1,11 @@
 ---
+album: Not Too Late
 artists:
 - Norah Jones
+external_ids:
+  spotify: spotify:track:0suRVpl5fIZVm7PuROSRsQ
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-about-you-norah-jones
 lyrics_url: https://www.azlyrics.com/lyrics/norahjones/thinkingaboutyou.html
 name: Thinking About You
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2007
+runtime: 197280
 ---
-
 Yesterday I saw the sun shinin',
 And the leaves were fallin' down softly,
 My cold hands needed a warm, warm touch,
@@ -35,6 +39,3 @@ Could you smile a little smile for me?
 I'll be thinkin' about you,
 I'll be thinkin' about you,
 I'll be thinkin' about you.
-
-
-

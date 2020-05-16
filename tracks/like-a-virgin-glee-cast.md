@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Power Of Madonna'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7FUNGlYkniRH0qhSHWU5HK
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-virgin-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/likeavirgin.html
 name: Like A Virgin
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2010
+runtime: 195093
 ---
-
 I made it through the wilderness
 Somehow I made it through
 I didn't know how lost I was
@@ -77,6 +81,3 @@ Oh, oh, oh, oh, oh, oh, oh, oh, oh (yeah)
 Oh baby
 oh
 Like a virgin
-
-
-

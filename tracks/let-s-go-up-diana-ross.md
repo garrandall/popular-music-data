@@ -1,8 +1,11 @@
 ---
+album: Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:0cP6MyvBwQwYnGqNAS3lkf
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-up-diana-ross
 lyrics_url: https://genius.com/Diana-ross-lets-go-up-lyrics
 name: Let's Go Up
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 242373
 ---
 Comin' back on
 Comin' back strong

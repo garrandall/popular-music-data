@@ -1,11 +1,14 @@
 ---
+album: The Heist
 artists:
 - Macklemore
 - Ryan Lewis
+external_ids:
+  spotify: spotify:track:3TKt9EoDMmKvNYpk1e6GkI
 features:
 - ScHoolboy Q
 - Hollis
-genres: []
+first_released_as_single: false
 key: white-walls-macklemore-ryan-lewis-schoolboy-q-hollis
 lyrics_url: https://genius.com/Macklemore-and-ryan-lewis-white-walls-lyrics
 name: White Walls
@@ -98,6 +101,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2012
+runtime: 220319
 ---
 I wanna be free
 I wanna just live

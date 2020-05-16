@@ -1,8 +1,11 @@
 ---
+album: Stoney End
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:5P04XSoLl5FT2Ma5xbgjle
 features: []
-genres: []
+first_released_as_single: false
 key: stoney-end-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/stoneyend.html
 name: Stoney End
@@ -79,8 +82,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 177373
 ---
-
 I was born from love
 And my poor mother worked the mines
 I was raised on the Good Book Jesus
@@ -117,6 +121,3 @@ Down the stoney end
 Mama let me start all over
 Cradle me, mama, cradle me again
 Going down the stoney end...
-
-
-

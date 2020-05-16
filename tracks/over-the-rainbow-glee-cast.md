@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Journey To Regionals'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4ScByt6H4vaiTlXS8dNQOc
 features: []
-genres: []
+first_released_as_single: true
 key: over-the-rainbow-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/overtherainbow.html
 name: Over The Rainbow
@@ -11,8 +14,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 151920
 ---
-
 Somewhere over the rainbow
 Way up high,
 There's a land that I dreamed of
@@ -34,6 +38,3 @@ Somewhere over the rainbow
 Bluebirds fly.
 Birds fly over the rainbow.
 Why then, oh, why can't I?
-
-
-

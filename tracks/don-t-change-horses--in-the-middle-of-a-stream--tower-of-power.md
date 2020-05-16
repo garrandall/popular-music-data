@@ -1,8 +1,11 @@
 ---
+album: Back To Oakland
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:4XcPdyk6cHl4c1er0KLTHr
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-change-horses--in-the-middle-of-a-stream--tower-of-power
 lyrics_url: https://genius.com/Tower-of-power-dont-change-horses-lyrics
 name: Don't Change Horses (In The Middle Of A Stream)
@@ -47,6 +50,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 284000
 ---
 Five long years
 We have been together

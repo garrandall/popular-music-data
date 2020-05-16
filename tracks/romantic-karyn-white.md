@@ -1,8 +1,11 @@
 ---
+album: Ritual Of Love
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:1eDCizNe4EQMj7okkjIeXo
 features: []
-genres: []
+first_released_as_single: false
 key: romantic-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/romantic.html
 name: Romantic
@@ -87,8 +90,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
+release_year: 1991
+runtime: 247160
 ---
-
 Oh
 Baby, baby, baby
 I wanna get romantic
@@ -180,6 +184,3 @@ It's time to get romantic
 (Do everything romantic now)
 Light a candle
 It's time to get romantic
-
-
-

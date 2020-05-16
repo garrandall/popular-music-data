@@ -1,8 +1,11 @@
 ---
+album: Archive Series, Vol. 1
 artists:
 - Phil Seymour
+external_ids:
+  spotify: spotify:track:0uDbaQ0mUscJhYV2dn7bNm
 features: []
-genres: []
+first_released_as_single: false
 key: precious-to-me-phil-seymour
 lyrics_url: https://genius.com/Phil-seymour-precious-to-me-lyrics
 name: Precious To Me
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1981
+runtime: 171160
 ---
 Baby, baby, don't you leave me here to make it alone
 'Cause I don't think that I could take it for a day on my own

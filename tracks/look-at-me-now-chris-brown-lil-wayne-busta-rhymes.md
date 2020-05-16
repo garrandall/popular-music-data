@@ -1,10 +1,13 @@
 ---
+album: Karaoke The Best Collection
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:5jnqxVcu7SionCcCS3FXw2
 features:
 - Lil Wayne
 - Busta Rhymes
-genres: []
+first_released_as_single: false
 key: look-at-me-now-chris-brown-lil-wayne-busta-rhymes
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/lookatmenow.html
 name: Look At Me Now
@@ -117,9 +120,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 219719
 ---
-
-
 I don't see how you can hate from outside of the club
 You can't even get in
 Hah-aha, leggo
@@ -177,7 +180,7 @@ Then I gotta blow, and then I gotta show that any little thing a nigga think tha
 'Cause it doesn't matter, 'cause I'm gonna dadadada
 Then I'm gonna murder every thing and anything a badaboom a badabing
 I gotta do a lot of things, to make it clearer to a couple niggas
-That I always win and then I gotta get it again, and again, and then again 
+That I always win and then I gotta get it again, and again, and then again
 And I be doing it to death and now I move a little foul
 A nigga better call a ref, and everybody knows my style
 And niggas know that I'm the best when it come to doing this
@@ -210,7 +213,7 @@ I never gave a fuck about a hater, got money on my radar
 Dress like a skater, got a big house, came with an elevator
 You niggas ain't eatin', fuck it, tell a waiter
 Marley said, "Shoot 'em," and I said, "OK"
-If you want that bullshit then I'm like "OlÃ©"
+If you want that bullshit then I'm like "Olé"
 I don't care what you say, so don't even speak
 Your girlfriend a freak like Cirque Du Soleil
 That's word to my flag, and my flag red
@@ -237,6 +240,3 @@ Yeah, I'm fresher than a motherfucker
 Okay, okay
 Is that right?
 I'm fresher than a motherfucker
-
-
-

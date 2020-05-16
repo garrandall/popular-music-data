@@ -1,8 +1,11 @@
 ---
+album: Irresistible
 artists:
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:6NiQpEbDmrjTV5y1uUPdAE
 features: []
-genres: []
+first_released_as_single: false
 key: this-old-heart-of-mine--is-weak-for-you--tammi-terrell
 lyrics_url: https://genius.com/Tammi-terrell-this-old-heart-of-mine-is-weak-for-you-lyrics
 name: This Old Heart Of Mine (Is Weak For You)
@@ -23,6 +26,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1968
+runtime: 147440
 ---
 Oh, this old heart of mine
 Been broke a thousand times

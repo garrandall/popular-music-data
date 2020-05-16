@@ -1,8 +1,11 @@
 ---
+album: Moonshine in the Trunk
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:0U6uTxVPeoXFcxlXMIWgAR
 features: []
-genres: []
+first_released_as_single: false
 key: river-bank-brad-paisley
 lyrics_url: https://www.musixmatch.com/lyrics/Brad-Paisley/River-Bank
 name: River Bank
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
+release_year: 2014
+runtime: 179800
 ---
 Well, I won two dollars on a scratch-off ticket
 So I went back to the counter and I bought two more with it

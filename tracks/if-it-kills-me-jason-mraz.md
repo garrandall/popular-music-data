@@ -1,8 +1,11 @@
 ---
+album: We Sing. We Dance. We Steal Things.
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:5wfiaGgyuQcW2hvDy2NB5J
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-kills-me-jason-mraz
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmraz/ifitkillsme.html
 name: If It Kills Me
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2008
+runtime: 273653
 ---
-
 Hello, tell me you know
 Yeah, you figured me out
 Something gave it away
@@ -69,6 +73,3 @@ Yeah, the feeling inside keeps building
 I'll find a way to you if it kills me
 If it kills me
 It might kill me
-
-
-

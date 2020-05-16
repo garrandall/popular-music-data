@@ -1,8 +1,11 @@
 ---
+album: Echoes, Silence, Patience & Grace
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:7x8dCjCr0x6x2lXKujYD34
 features: []
-genres: []
+first_released_as_single: false
 key: the-pretender-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/thepretender.html
 name: The Pretender
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 269373
 ---
-
 Keep you in the dark
 You know they all pretend
 Keep you in the dark
@@ -150,6 +154,3 @@ What if I say I will never surrender?
 So who are you?
 Yeah, who are you?
 Yeah, who are you?
-
-
-

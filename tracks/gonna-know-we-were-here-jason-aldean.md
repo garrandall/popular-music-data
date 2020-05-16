@@ -1,8 +1,11 @@
 ---
+album: Old Boots, New Dirt
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:0mMR63GfhjpxT02rIdq5Mz
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-know-we-were-here-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/gonnaknowwewerehere.html
 name: Gonna Know We Were Here
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
+release_year: 2014
+runtime: 224066
 ---
-
 You got the gas, I got the matches
 We gonna turn this town to ashes
 Cause they ain't never seen nothing like us
@@ -127,6 +131,3 @@ Yeah, we may not be around in 20 years
 No, we may not be around in 20 years
 But they're sure gonna know we were here
 Yeah, they're sure gonna know we were here
-
-
-

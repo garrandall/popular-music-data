@@ -1,8 +1,11 @@
 ---
+album: Disintegration
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:1tuwC1Ob5vnYZhvg3zyzJg
 features: []
-genres: []
+first_released_as_single: false
 key: pictures-of-you-the-cure
 lyrics_url: https://genius.com/The-cure-pictures-of-you-lyrics
 name: Pictures Of You
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 448466
 ---
 I've been looking so long at these pictures of you
 That I almost believe that they're real

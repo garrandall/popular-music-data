@@ -1,8 +1,11 @@
 ---
+album: Information Society
 artists:
 - Information Society
+external_ids:
+  spotify: spotify:track:4Pz3KlItCsn0TJEmXlIvh0
 features: []
-genres: []
+first_released_as_single: true
 key: what-s-on-your-mind--pure-energy--information-society
 lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/whatsonyourmindpureenergy.html
 name: What's On Your Mind (Pure Energy)
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1988
+runtime: 216466
 ---
-
 It's worked so far, but we're not out yet
 
 I wanna know
@@ -180,6 +184,3 @@ There are some things you can't hide
 I wanna know
 What you're feeling
 Tell me what's on your mind
-
-
-

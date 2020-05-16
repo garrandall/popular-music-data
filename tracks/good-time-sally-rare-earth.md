@@ -1,8 +1,11 @@
 ---
+album: Willie Remembers
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:5N5J0zq5FSKHhtvDdSJsWw
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-sally-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/goodtimesally.html
 name: Good Time Sally
@@ -39,8 +42,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 174960
 ---
-
 When I first came to the city
 I had a twenty dollar bill in my jeans
 And I thought that I must be in heaven
@@ -90,6 +94,3 @@ Sally, talking 'bout Sally, yeah
 Sally was a good time
 Sally was a good time
 Sally was a good time girl
-
-
-

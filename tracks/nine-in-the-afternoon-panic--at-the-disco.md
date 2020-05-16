@@ -1,8 +1,11 @@
 ---
+album: Pretty. Odd.
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:1S30kHvkkdMkcuCTGSgS41
 features: []
-genres: []
+first_released_as_single: false
 key: nine-in-the-afternoon-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/nineintheafternoon.html
 name: Nine In The Afternoon
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2008
+runtime: 191560
 ---
-
 Back to the street where we began
 Feeling as good as lovers can, you know
 Yeah we're feeling so good
@@ -145,6 +149,3 @@ You could 'cause you can so you do
 We're feeling so good
 Just the way that we do
 When it's nine in the afternoon
-
-
-

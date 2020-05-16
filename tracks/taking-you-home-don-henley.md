@@ -1,8 +1,11 @@
 ---
+album: Inside Job
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:114ZIcx0S3gJkZmT3wmGte
 features: []
-genres: []
+first_released_as_single: false
 key: taking-you-home-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/takingyouhome.html
 name: Taking You Home
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
+release_year: 2000
+runtime: 331666
 ---
-
 I had a good life
 Before you came
 I had my friends and my freedom
@@ -128,6 +132,3 @@ Is like nothing I have ever known
 Take my hand, love
 I'm taking you home
 I'm taking you home
-
-
-

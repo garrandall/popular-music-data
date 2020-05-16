@@ -1,8 +1,11 @@
 ---
+album: The Freeze / Gonna Get A Little Kissin' Tonight
 artists:
 - Tony And Joe
+external_ids:
+  spotify: spotify:track:2vUIsEYJV4lgN4MNDW58by
 features: []
-genres: []
+first_released_as_single: true
 key: the-freeze-tony-and-joe
 name: The Freeze
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 136720
 ---
 

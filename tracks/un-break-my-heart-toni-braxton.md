@@ -1,8 +1,11 @@
 ---
+album: Secrets
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:5Ihd9HrPvOADyVoonH9ZjB
 features: []
-genres: []
+first_released_as_single: false
 key: un-break-my-heart-toni-braxton
 lyrics_url: https://genius.com/Toni-braxton-un-break-my-heart-lyrics
 name: Un-Break My Heart
@@ -175,6 +178,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1996
+runtime: 270333
 ---
 Don't leave me in all this pain
 Don't leave me out in the rain

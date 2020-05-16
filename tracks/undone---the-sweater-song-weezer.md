@@ -1,8 +1,11 @@
 ---
+album: Weezer
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:5WhtlIoxoZrMmuaWWEQhwV
 features: []
-genres: []
+first_released_as_single: false
 key: undone---the-sweater-song-weezer
 lyrics_url: https://www.azlyrics.com/lyrics/weezer/undonethesweatersong.html
 name: Undone - The Sweater Song
@@ -71,9 +74,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-01-14'
+release_year: 1994
+runtime: 305533
 ---
-
- Hey brah, how we doin' man?
+Hey brah, how we doin' man?
  All right
  It's been a while man, life's so rad!
 This band's my favorite man, don't ya love 'em?
@@ -138,6 +142,3 @@ Hold this thread as I walk away (as I walk away)
 Watch me unravel, I'll soon be naked
 Lying on the floor (lying on the floor)
 I've come undone)
-
-
-

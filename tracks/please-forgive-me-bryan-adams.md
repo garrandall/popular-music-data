@@ -1,8 +1,11 @@
 ---
+album: Pavarotti & Friends 2
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:3zeYaTbwJTPMfcLiYJsFfV
 features: []
-genres: []
+first_released_as_single: false
 key: please-forgive-me-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-please-forgive-me-lyrics
 name: Please Forgive Me
@@ -119,6 +122,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
+release_year: 1993
+runtime: 391333
 ---
 Still feels like our first night together
 Feels like the first kiss and it's gettin' better baby

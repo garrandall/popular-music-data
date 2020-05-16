@@ -1,8 +1,11 @@
 ---
+album: Live 1983-1989
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:5Zzs9O9QlPgWkfhoaR2J0H
 features: []
-genres: []
+first_released_as_single: false
 key: sex-crime--nineteen-eighty-four--eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/sexcrimenineteeneightyfour.html
 name: Sex Crime (Nineteen Eighty-Four)
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 227066
 ---
-
 Sex crime, crime
 Can I take this for granted
 With your eyes over me?
@@ -55,6 +59,3 @@ Nineteen eighty four
 Nineteen eighty four
 Nineteen eighty four
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Take Time To Know Her
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:6P3f52I3Ja7utFv2id0ek3
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-left-field-percy-sledge
 lyrics_url: https://genius.com/Percy-sledge-out-of-left-field-lyrics
 name: Out Of Left Field
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 212480
 ---
 When least expected
 Fate stumbles in

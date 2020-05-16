@@ -1,8 +1,11 @@
 ---
+album: Pure Smokey
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:7MGYZex8zrUbyWm1jUNAHS
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-i-am-smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-i-am-i-am-lyrics
 name: I Am I Am
@@ -43,6 +46,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 232133
 ---
 I am, I am
 

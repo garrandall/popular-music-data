@@ -1,8 +1,11 @@
 ---
+album: Britney Jean (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:0DOgMeHlNponAEqczZoxX0
 features: []
-genres: []
+first_released_as_single: false
 key: perfume-britney-spears
 lyrics_url: https://genius.com/Britney-spears-perfume-lyrics
 name: Perfume
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 239973
 ---
 Do I imagine it, or do I see your stare?
 Is there still longing there?

@@ -1,8 +1,11 @@
 ---
+album: Celtic Collection, the Next Thirty Years
 artists:
 - The Rovers
+external_ids:
+  spotify: spotify:track:34rPV3KmDBuh3qsGxJs4Lw
 features: []
-genres: []
+first_released_as_single: false
 key: wasn-t-that-a-party-the-rovers
 lyrics_url: https://genius.com/The-irish-rovers-wasnt-that-a-party-lyrics
 name: Wasn't That A Party
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1981
+runtime: 223800
 ---
 Could've been the whiskey
 Might've been the gin

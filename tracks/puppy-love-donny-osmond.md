@@ -1,8 +1,11 @@
 ---
+album: Portrait Of Donny
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:7HWH4kGaHR3ZwKNFPT4dSW
 features: []
-genres: []
+first_released_as_single: false
 key: puppy-love-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/puppylove.html
 name: Puppy Love
@@ -55,8 +58,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 184973
 ---
-
 And they called it puppy love
 Oh I guess they'll never know
 How a young heart really feels
@@ -88,6 +92,3 @@ This is not a puppy love
 Not a puppy love
 (This is not a puppy love)
 (This is not a puppy love)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Cycles
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:7785ghT4ZHFYUyniLySfRl
 features: []
-genres: []
+first_released_as_single: false
 key: need-a-little-taste-of-love-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/needalittletasteoflove.html
 name: Need A Little Taste Of Love
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
+release_year: 1989
+runtime: 245413
 ---
-
 Hey mister, walkin' with the blues
 Hey sister, payin' heavy dues
 Havin' troubles, and it ain't so hard to find
@@ -65,6 +69,3 @@ Within the body, but it's in the soul
 If you wanna be loved, then let somebody hear it
 Might as well face the facts, no need to be holdin' back
 Need a little taste of love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nightflight to Venus
 artists:
 - Boney M
+external_ids:
+  spotify: spotify:track:5RxFKwABZAQn3itsGPetjL
 features: []
-genres: []
+first_released_as_single: false
 key: mary-s-boy-child-boney-m
 lyrics_url: https://genius.com/Boney-m-marys-boy-child-oh-my-lord-lyrics
 name: Mary's Boy Child
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 342373
 ---
 Mary's boy child Jesus Christ
 Was born on Christmas day

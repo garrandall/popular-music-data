@@ -1,8 +1,11 @@
 ---
+album: The Best of Bobby Day
 artists:
 - Bobby Day
+external_ids:
+  spotify: spotify:track:2BwkHsfZX0s8QsIaJgINar
 features: []
-genres: []
+first_released_as_single: false
 key: the-bluebird-the-buzzard---the-oriole-bobby-day
 lyrics_url: https://genius.com/Bobby-day-the-bluebird-the-buzzard-and-the-oriole-lyrics
 name: The Bluebird The Buzzard & The Oriole
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1958
+runtime: 147106
 ---
 Now, listen, all you birds
 I'm an eagle

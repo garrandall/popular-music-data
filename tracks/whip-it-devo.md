@@ -1,8 +1,11 @@
 ---
+album: Freedom Of Choice
 artists:
 - Devo
+external_ids:
+  spotify: spotify:track:4sscDOZCkbLSlDqcCgUJnX
 features: []
-genres: []
+first_released_as_single: false
 key: whip-it-devo
 lyrics_url: https://genius.com/Devo-whip-it-lyrics
 name: Whip It
@@ -107,6 +110,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1980
+runtime: 161133
 ---
 Crack that whip
 Give the past a slip

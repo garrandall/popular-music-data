@@ -1,8 +1,11 @@
 ---
+album: Sound Loaded
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:1uPrIHgYztXSkkcts9jet8
 features: []
-genres: []
+first_released_as_single: false
 key: she-bangs-ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-she-bangs-lyrics
 name: She Bangs
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 280626
 ---
 Talk to me, tell me your name
 You blow me off like it's all the same

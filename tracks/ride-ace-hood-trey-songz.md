@@ -1,9 +1,12 @@
 ---
+album: DJ Khaled Presents Ace Hood Gutta
 artists:
 - Ace Hood
+external_ids:
+  spotify: spotify:track:53zJNZS5D9gcQW2Ru0Aypy
 features:
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: ride-ace-hood-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/acehood/ride.html
 name: Ride
@@ -12,9 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2008
+runtime: 264600
 ---
-
-
 Chea
 Ace Hood
 See mama, all I want you to do is hold it down for me
@@ -111,6 +114,3 @@ And if you ride or die we gon make it out this hood
 Yea yea yea
 We gon make it out
 We gon make it out this hood
-
-
-

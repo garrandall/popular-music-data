@@ -1,9 +1,12 @@
 ---
+album: Stoney
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:3a1lNhkSLSkpJE4MSHpDu9
 features:
 - Quavo
-genres: []
+first_released_as_single: false
 key: congratulations-post-malone-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/congratulations.html
 name: Congratulations
@@ -208,8 +211,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
+release_year: 2016
+runtime: 220293
 ---
-
 Mm-mmm
 Yah, yah
 Mm-mmm
@@ -291,6 +295,3 @@ Hey, hey, hey, hey
 Hey, hey, hey, hey
 Hey, hey, hey, hey
 Hey, hey, hey, hey
-
-
-

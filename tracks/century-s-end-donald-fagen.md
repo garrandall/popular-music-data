@@ -1,8 +1,11 @@
 ---
+album: Bright Lights, Big City (Original Motion Picture Soundtrack)
 artists:
 - Donald Fagen
+external_ids:
+  spotify: spotify:track:4NuZlTuOceFzSJiPkTeiq5
 features: []
-genres: []
+first_released_as_single: false
 key: century-s-end-donald-fagen
 lyrics_url: https://genius.com/Donald-fagen-centurys-end-lyrics
 name: Century's End
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1988
+runtime: 331400
 ---
 Those trucks in the street is it really Monday
 Time to find some trouble again

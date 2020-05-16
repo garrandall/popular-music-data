@@ -1,8 +1,11 @@
 ---
+album: The Capitol Top Ten Hits Vol. 2
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:27rnu200jk1s0OIpVd4Pvl
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-be-with-you-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Born-to-Be-With-You
 name: Born To Be With You
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 155786
 ---
 By your side, satisfied
 Through and through

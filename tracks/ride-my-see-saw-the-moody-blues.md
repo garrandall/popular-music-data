@@ -1,8 +1,11 @@
 ---
+album: In Search Of The Lost Chord
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:6tMNYGXJ1L6wjbSkAXWyHh
 features: []
-genres: []
+first_released_as_single: false
 key: ride-my-see-saw-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/ridemyseesaw.html
 name: Ride My See-Saw
@@ -27,8 +30,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 219226
 ---
-
 Ride, ride my see-saw,
 Take this place
 On this trip
@@ -80,6 +84,3 @@ It's for free.
 Ride, my see-saw.
 Ride, ride, ride, my see-saw.
 Ride, my see-saw
-
-
-

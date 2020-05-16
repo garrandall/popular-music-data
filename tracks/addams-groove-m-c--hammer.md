@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:46jqxETXUwgLRsoMGuwFLa
 features: []
-genres: []
+first_released_as_single: false
 key: addams-groove-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-addams-groove-lyrics
 name: Addams Groove
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1991
+runtime: 239040
 ---
 They do what they wanna do, say what they wanna say
 Live how they wanna live, play how they wanna play

@@ -1,8 +1,11 @@
 ---
+album: Inside
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:2Up5Gs5EJeAPeR3Ce5Aspi
 features: []
-genres: []
+first_released_as_single: false
 key: he-got-you-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/hegotyou.html
 name: He Got You
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 211533
 ---
-
 He got the sunshine, I got the rain
 He got your loving, I got the pain
 He got a lifetime of love to see him through
@@ -63,6 +67,3 @@ I got the mem'ries, he got you.
 He got you baby, he got you
 He got you baby, baby, baby
 He got you, he got you baby, oh...
-
-
-

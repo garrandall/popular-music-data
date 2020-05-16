@@ -1,8 +1,11 @@
 ---
+album: Cold Spring Harbor
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3Ie2eLOIj2IhKnzPwXrLbJ
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-got-a-way-billy-joel
 lyrics_url: https://genius.com/Billy-joel-shes-got-a-way-lyrics
 name: She's Got A Way
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-02-20'
+release_year: 1971
+runtime: 169226
 ---
 She's got a way about her
 I don't know what it is

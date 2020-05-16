@@ -1,12 +1,15 @@
 ---
+album: Ghetto D 10th Anniversary
 artists:
 - Master P
+external_ids:
+  spotify: spotify:track:28JpsyZlA4ochxwxMMJGWt
 features:
 - Fiend
 - Silkk The Shocker
 - Mia X
 - Mystikal
-genres: []
+first_released_as_single: false
 key: make-em--say-uhh--master-p-fiend-silkk-the-shocker-mia-x-mystikal
 lyrics_url: https://www.azlyrics.com/lyrics/masterp/makeemsayuhh.html
 name: Make Em' Say Uhh!
@@ -119,10 +122,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 302506
 ---
-
-
-
 No Limit Studios, whassup?
 Who dis is? Who dis is?
 Nigga, this Rappin 4-Tay, who is this?
@@ -230,4 +232,3 @@ Ain't no salary cap, on top of my dollars
 I roll with nothin, but them No Limit riders
 I gets down nigga, I hold my tank up high
 Watch how many bitches get wild, na-nah na-nah
-

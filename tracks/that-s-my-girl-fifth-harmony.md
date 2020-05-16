@@ -1,8 +1,11 @@
 ---
+album: 7/27
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:2ACOWPLUe4A4KuQ5ioD2od
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-my-girl-fifth-harmony
 lyrics_url: https://genius.com/Fifth-harmony-thats-my-girl-lyrics
 name: That's My Girl
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 204013
 ---
 That's my girl
 

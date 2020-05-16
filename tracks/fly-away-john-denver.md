@@ -1,8 +1,11 @@
 ---
+album: Aerie
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:4dX9XJYS7hVCbLFhNF0Rgd
 features: []
-genres: []
+first_released_as_single: false
 key: fly-away-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/flyaway.html
 name: Fly Away
@@ -55,8 +58,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1971
+runtime: 223280
 ---
-
 All of her days have gone soft and cloudy, all of her dreams have gone dry.
 All of her nights have gone sad and shady, She's getting ready to fly.
 Fly away, fly away, fly away.
@@ -78,6 +82,3 @@ All of her nights have gone sad and shady, She's getting ready to fly.
 Fly away, fly away, fly away, fly away.
 
 Where are my days, where are my nights? Where is the Spring? I wanna fly, I wanna fly:
-
-
-

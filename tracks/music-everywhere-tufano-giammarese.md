@@ -1,9 +1,12 @@
 ---
+album: Tufano & Giammarese
 artists:
 - Tufano
 - Giammarese
+external_ids:
+  spotify: spotify:track:16RNb8fJP089DHGzXYZs6t
 features: []
-genres: []
+first_released_as_single: false
 key: music-everywhere-tufano-giammarese
 lyrics_url: https://genius.com/Tufano-and-giammarese-music-everywhere-lyrics
 name: Music Everywhere
@@ -40,6 +43,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1973
+runtime: 218586
 ---
 Music everywhere
 Music fills the air

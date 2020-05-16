@@ -1,9 +1,12 @@
 ---
+album: Guerilla City
 artists:
 - Guerilla Black
+external_ids:
+  spotify: spotify:track:4dE56AhNEZC6nESs78HsQ3
 features:
 - Mario Winans
-genres: []
+first_released_as_single: false
 key: you-re-the-one-guerilla-black-mario-winans
 lyrics_url: https://genius.com/Guerilla-black-youre-the-one-mario-winans-lyrics
 name: You're The One
@@ -52,6 +55,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 218440
 ---
 Oh yeah, oh yeah, oh baby
 Oh, oh, oh, oh, oh baby, oh yeah

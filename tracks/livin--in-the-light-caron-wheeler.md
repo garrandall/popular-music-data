@@ -1,8 +1,11 @@
 ---
+album: UK Blak
 artists:
 - Caron Wheeler
+external_ids:
+  spotify: spotify:track:4X2yjCMHbAvCGLH4IJ2WGy
 features: []
-genres: []
+first_released_as_single: false
 key: livin--in-the-light-caron-wheeler
 lyrics_url: https://genius.com/Caron-wheeler-livin-in-the-light-lyrics
 name: Livin' In The Light
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 275026
 ---
 (Had to survive, livin' in the light
 Have to stay alive, livin' in the light

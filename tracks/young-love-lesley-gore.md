@@ -1,8 +1,11 @@
 ---
+album: Lesley Gore Sings Of Mixed-Up Hearts
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:5IxQJishYQCtZdikvXQhJS
 features: []
-genres: []
+first_released_as_single: false
 key: young-love-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/younglove.html
 name: Young Love
@@ -31,8 +34,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1963
+runtime: 137000
 ---
-
 Young love, first love
 Filled with true devotion
 
@@ -58,6 +62,3 @@ Filled with true devotion
 Young love, our love
 We share with deep emotion
 Young love, first love
-
-
-

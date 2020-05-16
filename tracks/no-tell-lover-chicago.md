@@ -1,8 +1,11 @@
 ---
+album: Hot Streets
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0GoT8Ro3hwpyFZfPmg0Wk7
 features: []
-genres: []
+first_released_as_single: false
 key: no-tell-lover-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/notelllover.html
 name: No Tell Lover
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 228391
 ---
-
 Pretty smile lovely face and a warm breeze now I need you lady
 You're my no tell lover
 Every night in a different place I'll meet you tender lady
@@ -100,6 +104,3 @@ I want her
 I can't leave her
 I won't live without her
 She's my no tell lover
-
-
-

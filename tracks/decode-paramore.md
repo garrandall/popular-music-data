@@ -1,8 +1,11 @@
 ---
+album: Paramore
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:174K2zrSw7xBscjr3d01sH
 features: []
-genres: []
+first_released_as_single: false
 key: decode-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/decode.html
 name: Decode
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2008
+runtime: 255640
 ---
-
 How can I decide what's right
 When you're clouding up my mind?
 I can't win your losing fight all the time
@@ -116,6 +120,3 @@ Oh there is something
 I see in you
 It might kill me
 I want it to be true
-
-
-

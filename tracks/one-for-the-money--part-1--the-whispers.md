@@ -1,8 +1,11 @@
 ---
+album: 'The Whispers: Greatest Hits'
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:79iJ6iYGJLjuMID7K2B4nP
 features: []
-genres: []
+first_released_as_single: false
 key: one-for-the-money--part-1--the-whispers
 lyrics_url: https://genius.com/The-whispers-one-for-the-money-lyrics
 name: One For The Money (part 1)
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 315800
 ---
 Get on down
 Heartbeat

@@ -1,8 +1,11 @@
 ---
+album: The Whispers Live From Las Vegas (CD
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:7oQ1wkBmYSBEC2x7U08dvn
 features: []
-genres: []
+first_released_as_single: false
 key: and-the-beat-goes-on-the-whispers
 lyrics_url: https://genius.com/The-whispers-and-the-beat-goes-on-lyrics
 name: And The Beat Goes On
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 454253
 ---
 And the beat goes on
 Just like my love everlasting

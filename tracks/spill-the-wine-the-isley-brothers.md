@@ -1,8 +1,11 @@
 ---
+album: Givin' It Back
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:1J5Yx8bxAfq0hrg7ORcFjH
 features: []
-genres: []
+first_released_as_single: false
 key: spill-the-wine-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/spillthewine.html
 name: Spill The Wine
@@ -31,8 +34,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 394453
 ---
-
 I was once out strolling,
 One hot summer day.
 When I thought I'd lay,
@@ -133,6 +137,3 @@ Take that pearl.
 
 Come on and spill it...
 Come on and spill it...
-
-
-

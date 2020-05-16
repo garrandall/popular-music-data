@@ -1,8 +1,11 @@
 ---
+album: Defying Gravity
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:4DyKZmONpoggnn3piyjad2
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-a-girl-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/kissagirl.html
 name: Kiss A Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 226733
 ---
-
 To kiss and tell, it's just not my style.
 But the night is young, and it's been awhile and she broke my heart, broke it right in two,
 and it took some time but I'm feelin' like I'm finally ready to find, find somebody new
@@ -126,8 +130,3 @@ I wanna hold her tight
 Maybe make a little magic baby
 Don't wanna go too far just to take it slow
 But no one should be lonely, I shouldn't be lonely
-
-
-
-
-

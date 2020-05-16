@@ -1,8 +1,11 @@
 ---
+album: Wish You Were Here
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:3P1TjNk8f1rzBGvrgXyJXB
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-in-love-mark-wills
 lyrics_url: https://genius.com/Mark-wills-shes-in-love-lyrics
 name: She's In Love
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
+release_year: 1998
+runtime: 284240
 ---
 Third of June she said goodbye
 I watched her walk into the night

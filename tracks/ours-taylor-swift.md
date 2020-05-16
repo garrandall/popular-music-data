@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1EQn3Uc5AyUXoiPLeyCrrg
 features: []
-genres: []
+first_released_as_single: false
 key: ours-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-ours-lyrics
 name: Ours
@@ -87,6 +90,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2010
+runtime: 237920
 ---
 Elevator buttons and morning air
 Strangers' silence makes me want to take the stairs

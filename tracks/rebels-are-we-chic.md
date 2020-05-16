@@ -1,8 +1,11 @@
 ---
+album: Real People
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:3pXaFW1a69Yaj8tMDlifbK
 features: []
-genres: []
+first_released_as_single: false
 key: rebels-are-we-chic
 lyrics_url: https://www.azlyrics.com/lyrics/chic/rebelsarewe.html
 name: Rebels Are We
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 295013
 ---
-
 We are the rebels, baby
 Rebels are we
 We want to be free
@@ -134,6 +138,3 @@ My baby and me
 
 Nevertheless
 Rebels are we
-
-
-

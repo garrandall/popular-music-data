@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:1Xf8TOaGT3KlORRABQH4Mh
 features: []
-genres: []
+first_released_as_single: false
 key: the-wedding-cake-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/theweddingcake.html
 name: The Wedding Cake
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 154920
 ---
-
 Don't be troubled 'bout me 'cause I'm tired
 From workin' 'round the house
 When day is done
@@ -58,6 +62,3 @@ Yes, for all who will partake
 It all comes with the wedding cake
 Yes, for all who will partake
 It all comes with the wedding cake
-
-
-

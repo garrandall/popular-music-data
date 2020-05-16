@@ -1,9 +1,12 @@
 ---
+album: Never Say Never - The Remixes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:7IUl5c6u18rzmyQOblj10T
 features:
 - Usher
-genres: []
+first_released_as_single: false
 key: somebody-to-love-justin-bieber-usher
 lyrics_url: https://genius.com/Justin-bieber-somebody-to-love-remix-lyrics
 name: Somebody To Love
@@ -80,6 +83,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2010
+runtime: 220160
 ---
 For you, I'd write a symphony
 I'd tell the violin, it's time to sink or swim

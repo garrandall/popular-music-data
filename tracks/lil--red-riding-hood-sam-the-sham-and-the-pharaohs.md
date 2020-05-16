@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:398sjRZ8XC0jZj2MJCoRcZ
 features: []
-genres: []
+first_released_as_single: false
 key: lil--red-riding-hood-sam-the-sham-and-the-pharaohs
 lyrics_url: https://www.azlyrics.com/lyrics/samtheshamandthepharaohs/lilredridinghood.html
 name: Lil' Red Riding Hood
@@ -63,8 +66,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 168240
 ---
-
 Owooo!
 Who's that I see walkin' in these woods?
 Why, it's Little Red Riding Hood
@@ -113,6 +117,3 @@ Little Red Riding Hood
 You sure are looking good
 You're everything that a big bad wolf could want
 Owooo! I mean baa! Baa?
-
-
-

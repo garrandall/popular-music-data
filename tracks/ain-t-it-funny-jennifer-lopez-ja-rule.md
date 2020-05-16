@@ -1,9 +1,12 @@
 ---
+album: J To Tha L-O! The Remixes
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:5ahFyKndeg1hqfmNumL3WF
 features:
 - Ja Rule
-genres: []
+first_released_as_single: false
 key: ain-t-it-funny-jennifer-lopez-ja-rule
 lyrics_url: https://genius.com/Jennifer-lopez-aint-it-funny-murder-remix-lyrics
 name: Ain't It Funny
@@ -116,6 +119,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
+release_year: 2001
+runtime: 229800
 ---
 Murda Inc, haha
 

@@ -1,8 +1,11 @@
 ---
+album: On Stage
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3tmhMsfPA0lW5tgNUXEhUO
 features: []
-genres: []
+first_released_as_single: false
 key: the-wonder-of-you-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-the-wonder-of-you-lyrics
 name: The Wonder Of You
@@ -55,6 +58,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 154706
 ---
 When no one else can understand me
 When everything I do is wrong

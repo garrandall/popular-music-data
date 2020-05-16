@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:4ZUk5HJJDAb0nepzGubbpJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-i-m-gonna-make-it-joe-tex
 lyrics_url: https://genius.com/Joe-tex-i-believe-im-gonna-make-it-lyrics
 name: I Believe I'm Gonna Make It
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1965
+runtime: 184373
 ---
 When I got your letter baby
 I was in a foxhole on my knees

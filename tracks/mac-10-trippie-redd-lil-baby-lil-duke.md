@@ -1,10 +1,13 @@
 ---
+album: '!'
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:4e34Qq2lkp92egwgjacVcT
 features:
 - Lil Baby
 - Lil Duke
-genres: []
+first_released_as_single: true
 key: mac-10-trippie-redd-lil-baby-lil-duke
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/mac10.html
 name: Mac 10
@@ -17,8 +20,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 127741
 ---
-
 Imma hop out with that MAC-10 (Imma hop out with that)
 Pussy get shot for that cappin' (Cap)
 Pussy get popped by that action (Pussy get popped by that)
@@ -79,6 +83,3 @@ Slime is my blood on that slatt shit (Slatt)
 Bitch not my blood on my black shit (Black shit)
 I'm from 8 hunnids block where we whack shit
 If I want it, I take it, we snatch shit
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Capitol Collector's Series
 artists:
 - Tommy Sands And The Raiders
+external_ids:
+  spotify: spotify:track:1bns9KycboRCz7VqkAbMTU
 features: []
-genres: []
+first_released_as_single: false
 key: blue-ribbon-baby-tommy-sands-and-the-raiders
 name: Blue Ribbon Baby
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
+release_year: 1958
+runtime: 106466
 ---
 

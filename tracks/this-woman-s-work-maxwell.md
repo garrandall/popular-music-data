@@ -1,8 +1,11 @@
 ---
+album: MTV Unplugged
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:5aZsRVl7V7Wn8GKYCtqtkf
 features: []
-genres: []
+first_released_as_single: false
 key: this-woman-s-work-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/thiswomanswork.html
 name: This Woman's Work
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
+release_year: 1997
+runtime: 265760
 ---
-
 Pray God you can cope
 I'll stand outside
 This woman's work
@@ -121,6 +125,3 @@ All the things that you needed from me
 All the things I should've given but I didn't
 
 Oh, darling, make it go away, just make it go away
-
-
-

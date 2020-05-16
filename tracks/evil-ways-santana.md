@@ -1,8 +1,11 @@
 ---
+album: Santana
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:5tmrnhMxx39jnu3kjopMdP
 features: []
-genres: []
+first_released_as_single: false
 key: evil-ways-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/evilways.html
 name: Evil Ways
@@ -59,8 +62,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1969
+runtime: 238266
 ---
-
 You've got to change your evil ways... baby
 Before I stop loving you
 You've got to change... baby

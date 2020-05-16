@@ -1,8 +1,11 @@
 ---
+album: Smashes, Crashes And Near Misses
 artists:
 - The Records
+external_ids:
+  spotify: spotify:track:2RdSvcrsyPCSsmVb2JsLUN
 features: []
-genres: []
+first_released_as_single: false
 key: starry-eyes-the-records
 lyrics_url: https://genius.com/The-records-band-starry-eyes-lyrics
 name: Starry Eyes
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
+release_year: 1979
+runtime: 263560
 ---
 While you were off in France
 We were stranded in the British Isles

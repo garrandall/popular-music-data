@@ -1,9 +1,12 @@
 ---
+album: The Rebirth
 artists:
 - Bobby V
+external_ids:
+  spotify: spotify:track:6ytE3JHnQvay3rBvbe6ylx
 features:
 - Yung Joc
-genres: []
+first_released_as_single: true
 key: beep-bobby-v-yung-joc
 lyrics_url: https://genius.com/Bobby-v-beep-lyrics
 name: Beep
@@ -56,6 +59,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2009-04-04'
+release_year: 2008
+runtime: 254053
 ---
 Shorty been eyein' me
 She lookin' like she thinkin' 'bout tryin' me

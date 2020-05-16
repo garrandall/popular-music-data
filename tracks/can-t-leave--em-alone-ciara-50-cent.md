@@ -1,9 +1,12 @@
 ---
+album: The Evolution
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:78CTv7ypHvXQlEjXYst2n9
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: can-t-leave--em-alone-ciara-50-cent
 lyrics_url: https://genius.com/Ciara-cant-leave-em-alone-lyrics
 name: Can't Leave 'Em Alone
@@ -60,6 +63,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-10-27'
+release_year: 2006
+runtime: 244760
 ---
 50 Cent
 Ciara

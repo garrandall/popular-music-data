@@ -1,9 +1,12 @@
 ---
+album: Stranger In Town
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:2QhqWCo5oODaEJUs2iwysz
 features: []
-genres: []
+first_released_as_single: false
 key: feel-like-a-number-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Feel-Like-a-Number
 name: Feel Like A Number
@@ -40,6 +43,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1978
+runtime: 224706
 ---
 I take my card and I stand in line
 To make a buck I work overtime

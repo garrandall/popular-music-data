@@ -1,8 +1,11 @@
 ---
+album: She's So Unusual
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:3pZ6IidptZPqGxEJIdrXiR
 features: []
-genres: []
+first_released_as_single: false
 key: money-changes-everything-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/moneychangeseverything.html
 name: Money Changes Everything
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1983
+runtime: 303000
 ---
-
 She said I'm sorry baby I'm leaving you tonight
 I found someone new he's waitin' in the car outside
 Ah honey how could you do it
@@ -102,6 +106,3 @@ It's all in the past now
 Money changes everything
 Money changes everything
 Money changes everything
-
-
-

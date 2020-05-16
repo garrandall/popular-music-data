@@ -1,8 +1,11 @@
 ---
+album: 360 Degrees of Billy Paul
 artists:
 - Billy Paul
+external_ids:
+  spotify: spotify:track:2s6HmYJ9Uh32W6wQWIu1Zy
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-mrs-jones-billy-paul
 lyrics_url: https://genius.com/Billy-paul-me-and-mrs-jones-lyrics
 name: Me And Mrs Jones
@@ -71,6 +74,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 285266
 ---
 Me and Mrs Jones
 We got a thing going on

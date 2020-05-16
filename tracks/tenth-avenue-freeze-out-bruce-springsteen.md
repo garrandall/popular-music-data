@@ -1,8 +1,11 @@
 ---
+album: Born To Run
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:4Gmdm6oRVwJgsM8gYnwRoE
 features: []
-genres: []
+first_released_as_single: false
 key: tenth-avenue-freeze-out-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/tenthavenuefreezeout.html
 name: Tenth Avenue Freeze-out
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 190466
 ---
-
 Teardrops on the city
 Bad Scooter searching for his groove
 Seem like the whole world walking pretty
@@ -52,6 +56,3 @@ I'm gonna sit back right easy and laugh
 When Scooter and the Big Man bust this city in half
 With the Tenth Avenue freeze-out
 Tenth Avenue freeze-out
-
-
-

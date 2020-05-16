@@ -1,8 +1,11 @@
 ---
+album: Violation
 artists:
 - Starz
+external_ids:
+  spotify: spotify:track:6LZVAsCB1OEjue9kjZwdyl
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-baby-starz
 lyrics_url: https://www.musixmatch.com/lyrics/Starz/Cherry-Baby
 name: Cherry Baby
@@ -47,6 +50,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
+release_year: 1977
+runtime: 227586
 ---
 I've been trying for a long, long time
 Just to capture you inside a rhyme

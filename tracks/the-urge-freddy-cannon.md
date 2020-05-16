@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:73oiwy38aGnjZxlsYcpC6G
 features: []
-genres: []
+first_released_as_single: false
 key: the-urge-freddy-cannon
 lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/The-Urge
 name: The Urge
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1960
+runtime: 184066
 ---
 (Yeah, yeah)
 (Yeah, yeah)

@@ -1,8 +1,11 @@
 ---
+album: Honesty
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:7kuZ5XTWm18LWFJ1CdijJV
 features: []
-genres: []
+first_released_as_single: false
 key: honesty--write-me-a-list--rodney-atkins
 lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/honesty.html
 name: Honesty (Write Me A List)
@@ -83,8 +86,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 255386
 ---
-
 He said: "Just think it over, and write me a list,
 "So we can figure out what we both deserve."
 She hardly could believe it, that their love had come to this:
@@ -120,6 +124,3 @@ An' she said: "Everything on that list in your hand,
 
 "Honesty, sincerity, just like it used to be.
 "The way life was when you were in love with me."
-
-
-

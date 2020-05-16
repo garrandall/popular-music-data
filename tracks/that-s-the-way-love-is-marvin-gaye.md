@@ -1,8 +1,11 @@
 ---
+album: M.P.G.
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:51ePCpO1xUeHYhvgT67YPX
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-love-is-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-thats-the-way-love-is-lyrics
 name: That's The Way Love Is
@@ -55,6 +58,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 222173
 ---
 Ah baby
 After many tears fall from your eyes

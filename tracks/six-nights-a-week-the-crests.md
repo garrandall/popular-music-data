@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Crests
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:1WDdq0S2dVvkZ9gGqkO3fE
 features: []
-genres: []
+first_released_as_single: false
 key: six-nights-a-week-the-crests
 lyrics_url: https://genius.com/The-crests-six-nights-a-week-lyrics
 name: Six Nights A Week
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 173680
 ---
 Well six nights a week I long for you
 And then on Saturday night

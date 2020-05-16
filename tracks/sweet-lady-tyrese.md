@@ -1,8 +1,11 @@
 ---
+album: Tyrese
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:7IfMp1Z6cRji7YlND8i4Ku
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-lady-tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/tyrese/sweetlady.html
 name: Sweet Lady
@@ -107,8 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1998
+runtime: 228080
 ---
-
 Sweet lady would you be my
 sweet love for a lifetime
 I'll be there when you need me
@@ -162,4 +166,3 @@ just say you'll give it to me
 don't wanna hear the maybe's
 and I will give you all my heart
 if you say you'll be my baby
-

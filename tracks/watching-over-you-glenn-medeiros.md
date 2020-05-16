@@ -1,8 +1,11 @@
 ---
+album: Nothing's Gonna Change My Love For You
 artists:
 - Glenn Medeiros
+external_ids:
+  spotify: spotify:track:2b7FWqcerJ2w0RVzbR426l
 features: []
-genres: []
+first_released_as_single: false
 key: watching-over-you-glenn-medeiros
 lyrics_url: https://genius.com/Glenn-medeiros-watching-over-you-lyrics
 name: Watching Over You
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1986
+runtime: 252400
 ---
 Now that you're far away
 I can see everything so clear

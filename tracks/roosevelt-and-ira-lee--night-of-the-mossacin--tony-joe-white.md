@@ -1,8 +1,11 @@
 ---
+album: Continued
 artists:
 - Tony Joe White
+external_ids:
+  spotify: spotify:track:03GK9GntBVDFf3SIff2ZBr
 features: []
-genres: []
+first_released_as_single: false
 key: roosevelt-and-ira-lee--night-of-the-mossacin--tony-joe-white
 lyrics_url: https://genius.com/Tony-joe-white-roosevelt-and-ira-lee-lyrics
 name: Roosevelt And Ira Lee (Night of the Mossacin)
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 183573
 ---
 This is about two cats
 They're sittin' down by a river in the swamps

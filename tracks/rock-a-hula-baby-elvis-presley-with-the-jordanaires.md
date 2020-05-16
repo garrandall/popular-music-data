@@ -1,9 +1,12 @@
 ---
+album: Elvis 2nd To None
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:3Nq9U2BalSgbhDSYmzdrrM
 features: []
-genres: []
+first_released_as_single: false
 key: rock-a-hula-baby-elvis-presley-with-the-jordanaires
 name: Rock-A-Hula Baby
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1961
+runtime: 118826
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Sybil's Greatest Hits
 artists:
 - Sybil
+external_ids:
+  spotify: spotify:track:2QXeYzNsXgtI4YLeyr42aj
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-over-sybil
 lyrics_url: https://genius.com/Sybil-dont-make-me-over-lyrics
 name: Don't Make Me Over
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-02-24'
+release_year: 1989
+runtime: 243426
 ---
 I need you
 I need You

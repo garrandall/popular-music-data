@@ -1,8 +1,11 @@
 ---
+album: Corina
 artists:
 - Corina
+external_ids:
+  spotify: spotify:track:7cdOGkp8CWe8tP81ZONNtf
 features: []
-genres: []
+first_released_as_single: false
 key: whispers-corina
 lyrics_url: https://genius.com/Corina-whispers-lyrics
 name: Whispers
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
+release_year: 1991
+runtime: 287893
 ---
 There was a love
 Once upon a time

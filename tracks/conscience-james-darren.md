@@ -1,8 +1,11 @@
 ---
+album: Teen-Age Triangle
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:4U6I4CX15zcKLDSCgc0Eab
 features: []
-genres: []
+first_released_as_single: false
 key: conscience-james-darren
 lyrics_url: https://genius.com/James-darren-conscience-lyrics
 name: Conscience
@@ -47,6 +50,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 153266
 ---
 I got a date tonight with such a sweet little innocent thing
 I'll sweep 'er off her feet before she knows what's a-happening

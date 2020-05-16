@@ -1,9 +1,12 @@
 ---
+album: MONTANA
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:04MLEeAMuV9IlHEsD8vF6A
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: no-stylist-french-montana-drake
 lyrics_url: https://genius.com/French-montana-no-stylist-lyrics
 name: No Stylist
@@ -88,6 +91,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 192172
 ---
 Oh
 Yeah, louder

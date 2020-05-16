@@ -1,8 +1,11 @@
 ---
+album: 'Be Altitude: Respect Yourself'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:46JKtJ4Ws9VgtUVxFjcDlQ
 features: []
-genres: []
+first_released_as_single: false
 key: respect-yourself-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/respectyourself.html
 name: Respect Yourself
@@ -63,8 +66,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 296866
 ---
-
 If you disrespect anybody
 That you run in to
 How in the world do you think
@@ -110,6 +114,3 @@ If you don't respect yourself
 Ain't nobody gonna give a good cahoot, na na na na
 Respect yourself, respect yourself
 Respect yourself, respect yourself
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:1ZemPoaj7LBj1RAQrb89EC
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it-on-me-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/blameitonme.html
 name: Blame It On Me
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 261800
 ---
-
 I used to say I was free
 Now all these people wanna keep on taking pieces of me
 They take away everything, had everything that I needed
@@ -80,6 +84,3 @@ It's not my fault, it's not my fault, it's not my fault
 It's not my fault, it's not my fault, it's not my fault
 Blame it on me, yeah
 It's not my fault, it's not my fault, it's not my fault
-
-
-

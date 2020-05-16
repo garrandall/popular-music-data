@@ -1,8 +1,11 @@
 ---
+album: Bridge Over Troubled Water
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:76TZCvJ8GitQ2FA1q5dKu0
 features: []
-genres: []
+first_released_as_single: false
 key: the-boxer-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/theboxer.html
 name: The Boxer
@@ -47,8 +50,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 308520
 ---
-
 I am just a poor boy
 Though my story's seldom told
 I have squandered my resistance
@@ -95,6 +99,3 @@ In his anger and his shame
 But the fighter still remains
 
 Lie-la-lie...
-
-
-

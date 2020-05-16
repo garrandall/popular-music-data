@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:4qfgfiULHmM4z07KoLvSQv
 features: []
-genres: []
+first_released_as_single: false
 key: heads-carolina-tails-california-danielle-bradbery
 lyrics_url: https://www.musixmatch.com/lyrics/Danielle-Bradbery/Heads-Carolina-Tails-California-The-Voice-Performance
 name: Heads Carolina Tails California
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2013
+runtime: 194666
 ---
 Baby, what do you say, we just get lost
 Leave this one horse town like two rebels without a cause

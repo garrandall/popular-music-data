@@ -1,8 +1,11 @@
 ---
+album: Jackie
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:6xSsJNkReuJzerqcIlBzBi
 features: []
-genres: []
+first_released_as_single: true
 key: i-bet-ciara
 lyrics_url: https://genius.com/Ciara-i-bet-lyrics
 name: I Bet
@@ -63,6 +66,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2015
+runtime: 287850
 ---
 Na-na, na-na
 Na-na, na-na

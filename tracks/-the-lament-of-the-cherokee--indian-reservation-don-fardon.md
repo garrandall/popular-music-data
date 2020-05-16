@@ -1,8 +1,11 @@
 ---
+album: Don Fardon
 artists:
 - Don Fardon
+external_ids:
+  spotify: spotify:track:04RM7D5FZzFahr4L6QOuW6
 features: []
-genres: []
+first_released_as_single: false
 key: -the-lament-of-the-cherokee--indian-reservation-don-fardon
 lyrics_url: https://www.musixmatch.com/lyrics/Don-Fardon/Indian-Reservation
 name: (The Lament Of The Cherokee) Indian Reservation
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 201200
 ---
 They took the whole Indian nation
 

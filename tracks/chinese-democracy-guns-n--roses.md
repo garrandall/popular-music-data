@@ -1,8 +1,11 @@
 ---
+album: Chinese Democracy
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:0zoK1L5JxJbyk7T2nw367B
 features: []
-genres: []
+first_released_as_single: false
 key: chinese-democracy-guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/chinesedemocracy.html
 name: Chinese Democracy
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2008
+runtime: 283213
 ---
-
 It don't really matter
 Gonna find out for yourself
 No it don't really matter
@@ -69,6 +73,3 @@ Now you're keeping your own kind in hell
 When your Great Wall rocks blame yourself
 When their arms reach out for your help
 And you're out of time
-
-
-

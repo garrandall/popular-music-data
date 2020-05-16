@@ -1,8 +1,11 @@
 ---
+album: For Once In My Life (Live)
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:3IYLCkUYa4cEFrnY6GLRD3
 features: []
-genres: []
+first_released_as_single: false
 key: with-pen-in-hand-vikki-carr
 lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/With-Pen-in-Hand
 name: With Pen In Hand
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 257293
 ---
 With pen in hand you sign your name
 Today I find I'll be on that train

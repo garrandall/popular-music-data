@@ -1,8 +1,11 @@
 ---
+album: Signs Of Life
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:12c1PXyghlSuNVO9GZi0DH
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-tonite-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/rockmetonite.html
 name: Rock Me Tonite
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 297266
 ---
-
 I'm rockin' tonite--I'm walkin' on air
 Gonna find me some trouble--gonna grab my share
 I want ya tonite--I want ya with me
@@ -118,6 +122,3 @@ You find a chance and heave it all away
 
 Take me in your arms--roll me through the night
 Take me to your heart--rock me tonite
-
-
-

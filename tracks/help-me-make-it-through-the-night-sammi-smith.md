@@ -1,8 +1,11 @@
 ---
+album: 'Super Hits: 1971'
 artists:
 - Sammi Smith
+external_ids:
+  spotify: spotify:track:2XWmbwp9FBAaFcSE9BLQzc
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-make-it-through-the-night-sammi-smith
 lyrics_url: https://genius.com/Sammi-smith-help-me-make-it-through-the-night-lyrics
 name: Help Me Make It Through The Night
@@ -71,6 +74,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 155533
 ---
 Take the ribbon from my hair
 Shake it loose and let it fall

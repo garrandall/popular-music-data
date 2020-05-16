@@ -1,8 +1,11 @@
 ---
+album: Clyde
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:1o9TFdTwyGHEjBkuKdIHlA
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-ve-been-gone-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-since-youve-been-gone-lyrics
 name: Since You've Been Gone
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 146693
 ---
 Early in the mornin, before the crack on dawn
 I'm sitting here thinking, oh why was I born?

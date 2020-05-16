@@ -1,8 +1,11 @@
 ---
+album: Little Town Flirt
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:3HTrH00YRZZWJ8C6cb12ea
 features: []
-genres: []
+first_released_as_single: false
 key: little-town-flirt-del-shannon
 lyrics_url: https://genius.com/Del-shannon-little-town-flirt-lyrics
 name: Little Town Flirt
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1962
+runtime: 169200
 ---
 Here she comes, that little town flirt
 You're falling for her and your gonna get hurt

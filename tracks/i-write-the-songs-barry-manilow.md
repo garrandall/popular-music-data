@@ -1,8 +1,11 @@
 ---
+album: Tryin' To Get The Feeling
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:5EivNTMRx1SONrAJgQ9d17
 features: []
-genres: []
+first_released_as_single: false
 key: i-write-the-songs-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-i-write-the-songs-lyrics
 name: I Write The Songs
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1973
+runtime: 234173
 ---
 I've been alive forever
 And I wrote the very first song

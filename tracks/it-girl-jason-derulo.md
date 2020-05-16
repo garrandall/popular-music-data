@@ -1,8 +1,11 @@
 ---
+album: Future History
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:2giHiZTf7a3UKkYvENgavP
 features: []
-genres: []
+first_released_as_single: true
 key: it-girl-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-it-girl-lyrics
 name: It Girl
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2011
+runtime: 192200
 ---
 Oh yeah
 Oh yeah

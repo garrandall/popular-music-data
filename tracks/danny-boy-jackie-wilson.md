@@ -1,8 +1,11 @@
 ---
+album: He's So Fine
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0wPrGTS1SJkpMj4WTi6sbG
 features: []
-genres: []
+first_released_as_single: false
 key: danny-boy-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/dannyboy.html
 name: Danny Boy
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1958
+runtime: 211960
 ---
-
 Oh Danny boy, the pipes, the pipes are calling
 From glen to glen and down the mountainside
 The summer's gone and all the roses falling
@@ -48,6 +52,3 @@ Oh Danny boy, oh Danny boy, I love you so
 
 Oh Danny boy, oh Danny boy, I love you so
 Oh Danny boy, oh Danny boy, I love you so
-
-
-

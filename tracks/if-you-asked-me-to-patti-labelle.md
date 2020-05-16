@@ -1,8 +1,11 @@
 ---
+album: Be Yourself
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:2BvBND9pWHh0EDUgcEdXfy
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-asked-me-to-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/ifyouaskedmeto.html
 name: If You Asked Me To
@@ -27,8 +30,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1989
+runtime: 239826
 ---
-
 Used to be that I believed in something,
 Used to be that I believed in love,
 It's been a long time since I've had that feelin',
@@ -71,6 +75,3 @@ If you asked me to,
 I'll give my life,
 All you gotta do is ask me to,
 If you asked me to.
-
-
-

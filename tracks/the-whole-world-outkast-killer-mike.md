@@ -1,9 +1,12 @@
 ---
+album: Big Boi & Dre Present...OutKast
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:074v54tSEWLbq3Hu5wf6uh
 features:
 - Killer Mike
-genres: []
+first_released_as_single: false
 key: the-whole-world-outkast-killer-mike
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/thewholeworld.html
 name: The Whole World
@@ -88,9 +91,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2001
+runtime: 295346
 ---
-
-
 Okay, here we go
 
 
@@ -170,4 +173,3 @@ Pursuing all that's pursuable
 Doing God's willing all things that are doable
 The only liable limitation is yourself
 Dre set it on the right and I'll set it on the left, cause
-

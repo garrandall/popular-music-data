@@ -1,8 +1,11 @@
 ---
+album: Soul Train
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6n3wdICu6YQ211ZnJx0eiH
 features: []
-genres: []
+first_released_as_single: false
 key: the-house-that-jack-built-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/thehousethatjackbuilt.html
 name: The House That Jack Built
@@ -43,8 +46,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 139920
 ---
-
 This is the house that Jack built, y'all
 Remember this house!
 
@@ -102,6 +106,3 @@ He wanted to use me
 
 I didn't understand
 I said, I want my upright man
-
-
-

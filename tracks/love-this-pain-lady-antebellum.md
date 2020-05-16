@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:5WGQT9EYapix3MpDKFMwDN
 features: []
-genres: []
+first_released_as_single: false
 key: love-this-pain-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/lovethispain.html
 name: Love This Pain
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
+release_year: 2010
+runtime: 183653
 ---
-
 She's no good for me
 I know that she's a wild flower
 She's got a restlessness
@@ -53,6 +57,3 @@ It's like I love this pain
 Oh yeah, it's like I love this pain
 I can't walk away, oh no
 It's like I love this pain
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Breakthrough
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:4gGYiGsxhPYpsGIttWLwlT
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-as-i-am-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-take-me-as-i-am-lyrics
 name: Take Me As I Am
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2005
+runtime: 237493
 ---
 She's been down and out
 She's been wrote about

@@ -1,8 +1,11 @@
 ---
+album: Here You Come Again
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:6H7nDglS6xWpRidbhMwI2L
 features: []
-genres: []
+first_released_as_single: false
 key: here-you-come-again-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-here-you-come-again-lyrics
 name: Here You Come Again
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 179491
 ---
 Here you come again
 Just when I'd begun to get myself together

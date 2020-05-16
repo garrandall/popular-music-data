@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:7EsjkelQuoUlJXEw7SeVV4
 features: []
-genres: []
+first_released_as_single: false
 key: black-or-white-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-black-or-white-lyrics
 name: Black Or White
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 254933
 ---
 Hey!
 What?

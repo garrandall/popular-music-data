@@ -1,8 +1,11 @@
 ---
+album: Another Minute
 artists:
 - Cause And Effect
+external_ids:
+  spotify: spotify:track:6GKaYgABRoeO8ZofVq7zS2
 features: []
-genres: []
+first_released_as_single: false
 key: another-minute-cause-and-effect
 lyrics_url: https://genius.com/Cause-and-effect-another-minute-lyrics
 name: Another Minute
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-08-22'
+release_year: 1991
+runtime: 215440
 ---
 Let's not wait another minute
 

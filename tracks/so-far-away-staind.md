@@ -1,8 +1,11 @@
 ---
+album: 14 Shades of Grey
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:6FOpPA0a80RuBqqgDozvja
 features: []
-genres: []
+first_released_as_single: false
 key: so-far-away-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/sofaraway.html
 name: So Far Away
@@ -119,8 +122,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 243573
 ---
-
 This is my life
 It's not what it was before
 All these feelings I've shared
@@ -185,6 +189,3 @@ And I feel like I can face the day
 And I can forgive
 And I'm not ashamed
 To be the person that I am today
-
-
-

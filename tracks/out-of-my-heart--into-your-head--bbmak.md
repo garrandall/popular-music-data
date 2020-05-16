@@ -1,8 +1,11 @@
 ---
+album: Into Your Head
 artists:
 - BBMak
+external_ids:
+  spotify: spotify:track:3i18dmoH6qfcfFG7ctRlFL
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-my-heart--into-your-head--bbmak
 lyrics_url: https://genius.com/Bbmak-out-of-my-heart-lyrics
 name: Out Of My Heart (Into Your Head)
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2002
+runtime: 243786
 ---
 I feel fine
 Now the rain has gone and the sun has come to shine

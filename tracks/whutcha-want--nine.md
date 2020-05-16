@@ -1,8 +1,11 @@
 ---
+album: Nine Livez
 artists:
 - Nine
+external_ids:
+  spotify: spotify:track:7vl0JjpJNnAHCREOnBKOkW
 features: []
-genres: []
+first_released_as_single: false
 key: whutcha-want--nine
 lyrics_url: https://genius.com/Nine-whutcha-want-lyrics
 name: Whutcha Want?
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
+release_year: 1990
+runtime: 272160
 ---
 I gets banned if I do gets banned if I don't
 So sometimes I will and sometimes I won't

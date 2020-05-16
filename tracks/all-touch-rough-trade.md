@@ -1,8 +1,11 @@
 ---
+album: For Those Who Think Young
 artists:
 - Rough Trade
+external_ids:
+  spotify: spotify:track:2weRgumdjR4weGfvmjS1v3
 features: []
-genres: []
+first_released_as_single: false
 key: all-touch-rough-trade
 lyrics_url: https://genius.com/Rough-trade-all-touch-lyrics
 name: All Touch
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1981
+runtime: 212666
 ---
 I pushed her tense face away from me
 I pushed her tense face away from me

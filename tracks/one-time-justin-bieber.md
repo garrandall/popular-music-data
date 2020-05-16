@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6eDApnV9Jdb1nYahOlbbUh
 features: []
-genres: []
+first_released_as_single: false
 key: one-time-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-one-time-lyrics
 name: One Time
@@ -107,6 +110,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
+release_year: 2009
+runtime: 215866
 ---
 Me plus you
 I'ma tell you one time

@@ -1,8 +1,11 @@
 ---
+album: Connected
 artists:
 - Stereo MC's
+external_ids:
+  spotify: spotify:track:5t09SnxOR2AelOghumKkXO
 features: []
-genres: []
+first_released_as_single: false
 key: connected-stereo-mc-s
 lyrics_url: https://genius.com/Stereo-mcs-connected-lyrics
 name: Connected
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1992
+runtime: 314133
 ---
 Ah ah ah ah
 Ah ah ah ah

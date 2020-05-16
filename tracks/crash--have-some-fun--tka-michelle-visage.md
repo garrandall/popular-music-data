@@ -1,9 +1,12 @@
 ---
+album: Louder Than Love
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:7JtpBIyiJW0PZbkSzKWICz
 features:
 - Michelle Visage
-genres: []
+first_released_as_single: false
 key: crash--have-some-fun--tka-michelle-visage
 lyrics_url: https://genius.com/Tka-crash-have-some-fun-lyrics
 name: Crash (Have Some Fun)
@@ -36,6 +39,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 257493
 ---
 Crash, here I go, watch the flash
 Light as it shines, bright in the night

@@ -1,8 +1,11 @@
 ---
+album: Suitable For Framing
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:29k9SMi3bZi1lhbGBLcpwI
 features: []
-genres: []
+first_released_as_single: false
 key: eli-s-coming-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/eliscoming.html
 name: Eli's Coming
@@ -63,8 +66,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 161853
 ---
-
 Eli's comin'
 Eli's comin' (Eli's a-comin')
 Well, you better hide your heart
@@ -118,6 +122,3 @@ Lord, I said no-no, no-no, no-no
 (Hide it) You got to
 (Hide it) Oh, my
 (Hide it) Oh-oh-oh-oh-oh-oh-oh
-
-
-

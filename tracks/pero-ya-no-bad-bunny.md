@@ -1,8 +1,11 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:75pQqzwgCjUOSSy5CpmAjy
 features: []
-genres: []
+first_released_as_single: false
 key: pero-ya-no-bad-bunny
 lyrics_url: https://genius.com/Bad-bunny-pero-ya-no-lyrics
 name: Pero Ya No
@@ -11,6 +14,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 160638
 ---
 Yeh-yeh-yeh-yeh-yeh-yeh-yeh-yeh-eh
 ¡Ju! Okey, ey, ey

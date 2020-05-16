@@ -1,8 +1,11 @@
 ---
+album: 'You Don''t Have To Be A Baby To Cry: The Complete Caravelles 1963-1968'
 artists:
 - The Caravelles
+external_ids:
+  spotify: spotify:track:21VxoynyT854WQSMCNyOOS
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-been-lonely--have-you-ever-been-blue--the-caravelles
 lyrics_url: https://genius.com/The-caravelles-have-you-ever-been-lonely-lyrics
 name: Have You Ever Been Lonely (Have You Ever Been Blue)
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1963
+runtime: 107826
 ---
 You got me lonely, lonely
 Lonely, lonely, lonely again

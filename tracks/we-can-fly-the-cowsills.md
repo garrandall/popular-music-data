@@ -1,8 +1,11 @@
 ---
+album: We Can Fly
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:4mf07kgBgBt4nChjn5M9SE
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-fly-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-we-can-fly-lyrics
 name: We Can Fly
@@ -43,6 +46,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1967
+runtime: 135160
 ---
 Cowsill-Duboff-Kornfield
 

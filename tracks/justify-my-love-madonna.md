@@ -1,8 +1,11 @@
 ---
+album: Celebration (Bonus Track Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6NBGabiAuQklrfkufcOqlN
 features: []
-genres: []
+first_released_as_single: false
 key: justify-my-love-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/justifymylove.html
 name: Justify My Love
@@ -71,8 +74,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 302840
 ---
-
 I want to kiss you in Paris
 I want to hold your hand in Rome
 I want to run naked in a rainstorm
@@ -125,6 +129,3 @@ Waiting, to justify my love
 Praying, to justify
 To justify my love
 I'm open, to justify my love
-
-
-

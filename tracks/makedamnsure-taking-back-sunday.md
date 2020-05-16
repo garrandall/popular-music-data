@@ -1,8 +1,11 @@
 ---
+album: Louder Now
 artists:
 - Taking Back Sunday
+external_ids:
+  spotify: spotify:track:6fx1fKIs5e0pBL5FpdC7RB
 features: []
-genres: []
+first_released_as_single: false
 key: makedamnsure-taking-back-sunday
 lyrics_url: https://www.azlyrics.com/lyrics/takingbacksunday/makedamnsure.html
 name: MakeDamnSure
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2006
+runtime: 208280
 ---
-
 You've got this new head filled up with smoke
 I've got my veins all tangled close
 To the jukebox bars you frequent
@@ -138,6 +142,3 @@ I'm gonna make damn sure
 I just wanna break you down so badly
 I just wanna break you down so badly (damn sure)
 In the worst way (worst way)
-
-
-

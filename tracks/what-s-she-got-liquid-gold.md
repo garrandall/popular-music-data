@@ -1,8 +1,11 @@
 ---
+album: What's She Got? / Coming Down
 artists:
 - Liquid Gold
+external_ids:
+  spotify: spotify:track:4iwO2oecYXgqYq1osIYJaE
 features: []
-genres: []
+first_released_as_single: true
 key: what-s-she-got-liquid-gold
 lyrics_url: https://genius.com/Liquid-gold-whats-she-got-lyrics
 name: What's She Got
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 227001
 ---
 Wait, wait, wait a little longer
 You  might just hcange your mind

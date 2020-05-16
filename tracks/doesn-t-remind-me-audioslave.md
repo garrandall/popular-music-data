@@ -1,8 +1,11 @@
 ---
+album: Out of Exile
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:0o995gJCGebaza0LWybToU
 features: []
-genres: []
+first_released_as_single: false
 key: doesn-t-remind-me-audioslave
 lyrics_url: https://genius.com/Audioslave-doesnt-remind-me-lyrics
 name: Doesn't Remind Me
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2005
+runtime: 255000
 ---
 I walk the streets of Japan 'til I get lost
 'Cause it doesn't remind me of anything

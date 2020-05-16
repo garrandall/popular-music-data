@@ -1,8 +1,11 @@
 ---
+album: Bridge Over Troubled Water
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:6l8EbYRtQMgKOyc1gcDHF9
 features: []
-genres: []
+first_released_as_single: false
 key: bridge-over-troubled-water-simon-garfunkel
 lyrics_url: https://genius.com/Simon-and-garfunkel-bridge-over-troubled-water-lyrics
 name: Bridge Over Troubled Water
@@ -63,6 +66,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 293120
 ---
 When you're weary
 Feeling small

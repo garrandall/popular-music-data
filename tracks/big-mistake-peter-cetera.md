@@ -1,8 +1,11 @@
 ---
+album: Solitude / Solitaire
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:4xP9idy2nfJTJMnba8LY55
 features: []
-genres: []
+first_released_as_single: false
 key: big-mistake-peter-cetera
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/bigmistake.html
 name: Big Mistake
@@ -31,8 +34,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 342560
 ---
-
 Keeps them all waiting
 They're standing in line
 He never has to worry about being alone
@@ -96,6 +100,3 @@ In the morning when you find him gone
 In the morning when you know you're wrong
 In the morning when you find him gone
 In the morning you'll be so alone, so alone
-
-
-

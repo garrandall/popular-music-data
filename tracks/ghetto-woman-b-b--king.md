@@ -1,8 +1,11 @@
 ---
+album: In London
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3XEQc61AX64t3X4dQvtU2s
 features: []
-genres: []
+first_released_as_single: false
 key: ghetto-woman-b-b--king
 lyrics_url: https://genius.com/Bb-king-ghetto-woman-lyrics
 name: Ghetto Woman
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 313840
 ---
 She's a ghetto woman, waitin for her man to come home
 Oh poor ghetto woman waitin for her man to come home

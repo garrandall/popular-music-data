@@ -1,8 +1,11 @@
 ---
+album: Get Born
 artists:
 - Jet
+external_ids:
+  spotify: spotify:track:0ZSmRnXnP5fdANtVlCok1g
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-you-ve-done-jet
 lyrics_url: https://genius.com/Jet-band-look-what-youve-done-lyrics
 name: Look What You've Done
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2003
+runtime: 230880
 ---
 Take my photo off the wall
 If it just won’t sing for you

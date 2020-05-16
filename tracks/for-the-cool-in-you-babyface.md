@@ -1,8 +1,11 @@
 ---
+album: For The Cool In You
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:6kn5z6hltWF6C9rItSvAzA
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-cool-in-you-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/forthecoolinyou.html
 name: For The Cool In You
@@ -43,8 +46,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 293733
 ---
-
 Here we go round and round and round
 And back and forth you know
 Everybody goes through it sometime
@@ -88,4 +92,3 @@ Never once did I want you to hurt inside
 I wanna thank you for the chill in you
 Especially for you being so cool
 This is for the cool in you
-

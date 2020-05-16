@@ -1,8 +1,11 @@
 ---
+album: 'The Brothers: Isley'
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:48jb06DQ2W3Qik0Bz0Ziqz
 features: []
-genres: []
+first_released_as_single: false
 key: was-it-good-to-you-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-was-it-good-to-you-lyrics
 name: Was It Good To You
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 163160
 ---
 How did it feel to be out there on your own
 I  want to know

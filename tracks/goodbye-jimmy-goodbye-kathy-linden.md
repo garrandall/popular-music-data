@@ -1,8 +1,11 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Kathy Linden
+external_ids:
+  spotify: spotify:track:6HuqSvbR87hXHx8OfZuPPn
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-jimmy-goodbye-kathy-linden
 lyrics_url: https://genius.com/Kathy-linden-goodbye-jimmy-goodbye-lyrics
 name: Goodbye Jimmy Goodbye
@@ -63,6 +66,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
+release_year: 1959
+runtime: 156573
 ---
 Goodbye, Jimmy, goodbye
 Goodbye, Jimmy, goodbye

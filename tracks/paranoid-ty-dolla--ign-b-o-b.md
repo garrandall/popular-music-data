@@ -1,9 +1,12 @@
 ---
+album: Beach House EP
 artists:
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:0Yp3wCUpjrG7NWWPDpmQXm
 features:
 - B.o.B
-genres: []
+first_released_as_single: true
 key: paranoid-ty-dolla--ign-b-o-b
 name: Paranoid
 rankings:
@@ -87,5 +90,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2014
+runtime: 216520
 ---
 

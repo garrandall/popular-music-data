@@ -1,8 +1,11 @@
 ---
+album: The Curly Shuffle
 artists:
 - Jump 'n The Saddle
+external_ids:
+  spotify: spotify:track:5Pijq9ImAu5xweS1lxAKwK
 features: []
-genres: []
+first_released_as_single: true
 key: the-curly-shuffle-jump--n-the-saddle
 lyrics_url: https://genius.com/Jump-n-the-saddle-band-the-curly-shuffle-lyrics
 name: The Curly Shuffle
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 174706
 ---
 When me and my friends go out on the town
 We can't sit still, we can't sit down

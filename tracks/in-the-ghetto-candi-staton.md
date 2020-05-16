@@ -1,8 +1,11 @@
 ---
+album: Candi Staton - The Album
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:2lPjKBqv1xQL5VUHiQnf3j
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-ghetto-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/intheghetto.html
 name: In The Ghetto
@@ -51,8 +54,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 167413
 ---
-
 As the snow flies
 On a cold and gray Chicago morn
 A poor little baby child is born
@@ -106,6 +110,3 @@ On a cold and grey Chicago morn
 Another little baby child is born
 In the ghetto (in the ghetto)
 And his mama cries (in the ghetto)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Funky Divas
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:539OFwg53sCwJAxQ1gV7qX
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-love-you-en-vogue
 lyrics_url: https://genius.com/En-vogue-love-dont-love-you-lyrics
 name: Love Don't Love You
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 238173
 ---
 Love don't love you, love don't care
 Love don't love you, love don't care

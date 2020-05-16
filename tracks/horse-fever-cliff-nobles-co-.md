@@ -1,9 +1,12 @@
 ---
+album: Old 'N Golden
 artists:
 - Cliff Nobles
 - Co.
+external_ids:
+  spotify: spotify:track:4HYkhGuqnHbEGn7YQwJ9Td
 features: []
-genres: []
+first_released_as_single: false
 key: horse-fever-cliff-nobles-co-
 name: Horse Fever
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1967
+runtime: 175320
 ---
 

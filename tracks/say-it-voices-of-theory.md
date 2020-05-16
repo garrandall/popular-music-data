@@ -1,8 +1,11 @@
 ---
+album: Voices Of Theory
 artists:
 - Voices Of Theory
+external_ids:
+  spotify: spotify:track:5919i3Sp9U2IE5m7hhlgSw
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-voices-of-theory
 lyrics_url: https://genius.com/Voices-of-theory-say-it-lyrics
 name: Say It
@@ -131,6 +134,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
+release_year: 1998
+runtime: 269466
 ---
 Am I giving enough
 Is it all it should be

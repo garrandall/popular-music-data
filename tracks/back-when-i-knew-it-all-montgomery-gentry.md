@@ -1,8 +1,11 @@
 ---
+album: Back When I Knew It All
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:4aKIULILV02RuEwcsi4esM
 features: []
-genres: []
+first_released_as_single: false
 key: back-when-i-knew-it-all-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/backwheniknewitall.html
 name: Back When I Knew It All
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 1999
+runtime: 238053
 ---
-
 At the ripe old age of nineteen
 I bought a short bed pick up chicks machine
 Life ran on beer and gasoline
@@ -113,4 +117,3 @@ Br... I've done some growing up
 And I'm still growing up
 So I know I'll never be as smart as I once was
 That was back...
-

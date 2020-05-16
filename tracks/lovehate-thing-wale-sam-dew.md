@@ -1,9 +1,12 @@
 ---
+album: The Gifted
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:1fnNGhUpiLyrN9ZjrNSnt9
 features:
 - Sam Dew
-genres: []
+first_released_as_single: true
 key: lovehate-thing-wale-sam-dew
 lyrics_url: https://genius.com/Wale-lovehate-thing-lyrics
 name: LoveHate Thing
@@ -40,6 +43,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
+release_year: 2013
+runtime: 266676
 ---
 Shout out to Marvin Gaye
 Love you then they hate you

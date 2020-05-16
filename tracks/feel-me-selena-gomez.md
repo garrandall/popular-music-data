@@ -1,8 +1,11 @@
 ---
+album: Rare
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:6XXYdF6pJR1K3wKvuxmu7n
 features: []
-genres: []
+first_released_as_single: true
 key: feel-me-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-feel-me-lyrics
 name: Feel Me
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 226002
 ---
 No one love you like I love ya
 Never cheat, never lie

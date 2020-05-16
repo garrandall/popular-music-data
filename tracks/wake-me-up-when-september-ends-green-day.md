@@ -1,8 +1,11 @@
 ---
+album: American Idiot
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:3ZffCQKLFLUvYM59XKLbVm
 features: []
-genres: []
+first_released_as_single: false
 key: wake-me-up-when-september-ends-green-day
 lyrics_url: https://genius.com/Green-day-wake-me-up-when-september-ends-lyrics
 name: Wake Me Up When September Ends
@@ -115,6 +118,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2004
+runtime: 285653
 ---
 Summer has come and passed, the innocent can never last
 Wake me up when September ends

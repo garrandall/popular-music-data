@@ -1,8 +1,11 @@
 ---
+album: Talking Back To The Night
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:6NOhpnSTnZy1tvVRHMwvMj
 features: []
-genres: []
+first_released_as_single: false
 key: still-in-the-game-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/stillinthegame.html
 name: Still In The Game
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 290840
 ---
-
 Here's to gamblers
 Who hold to the game
 Through the hard times
@@ -83,6 +87,3 @@ From a world they're trying to find
 
 Here's to never letting go
 Though sometimes it does get lonely
-
-
-

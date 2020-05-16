@@ -1,8 +1,11 @@
 ---
+album: Steelheart
 artists:
 - Steelheart
+external_ids:
+  spotify: spotify:track:2GeCfHlX5hfFKcy1aICNwR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-let-you-go-steelheart
 lyrics_url: https://genius.com/Steelheart-ill-never-let-you-go-lyrics
 name: I'll Never Let You Go
@@ -115,6 +118,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1991
+runtime: 306560
 ---
 Angel eyes, you have angel eyes, such a smile that lights up my life
 You're a dream come true, now I'm holding you

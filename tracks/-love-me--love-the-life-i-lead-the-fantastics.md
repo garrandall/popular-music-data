@@ -1,8 +1,11 @@
 ---
+album: The Fantastics
 artists:
 - The Fantastics
+external_ids:
+  spotify: spotify:track:7pgKdLyCfjnrBLXJfbFLzg
 features: []
-genres: []
+first_released_as_single: false
 key: -love-me--love-the-life-i-lead-the-fantastics
 name: (Love Me) Love The Life I Lead
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 186521
 ---
 

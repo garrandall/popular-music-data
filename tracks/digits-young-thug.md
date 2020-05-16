@@ -1,8 +1,11 @@
 ---
+album: Slime Season 3
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:4cg1yakyRSIOjxKM2I7J1q
 features: []
-genres: []
+first_released_as_single: false
 key: digits-young-thug
 lyrics_url: https://genius.com/Young-thug-digits-lyrics
 name: Digits
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2016
+runtime: 176386
 ---
 Thugger! YSL for life
 We ran up the digits, we ran up the money

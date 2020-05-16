@@ -1,8 +1,11 @@
 ---
+album: Forever Doo Wop Vol. 2
 artists:
 - Scott English
+external_ids:
+  spotify: spotify:track:5K7fgoKh1TIIm55Ypl3Tq7
 features: []
-genres: []
+first_released_as_single: false
 key: high-on-a-hill-scott-english
 lyrics_url: https://genius.com/Scott-english-high-on-a-hill-lyrics
 name: High On A Hill
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1964
+runtime: 161610
 ---
 Oh oh..
 

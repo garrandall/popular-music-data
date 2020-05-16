@@ -1,8 +1,11 @@
 ---
+album: Music Box Dancer
 artists:
 - Frank Mills
+external_ids:
+  spotify: spotify:track:4zvcdfyrGUGgJRsgiCJlVX
 features: []
-genres: []
+first_released_as_single: false
 key: music-box-dancer-frank-mills
 name: Music Box Dancer
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1978
+runtime: 192360
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Let's Make Sure We Kiss Goodbye
 artists:
 - Vince Gill
+external_ids:
+  spotify: spotify:track:5cZoGjEO92OA1Navo4iY8X
 features: []
-genres: []
+first_released_as_single: false
 key: feels-like-love-vince-gill
 lyrics_url: https://www.azlyrics.com/lyrics/vincegill/feelslikelove.html
 name: Feels Like Love
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 255773
 ---
-
 Look what my heart has gotten into
 The sweetest gift I ever knew
 It's even better than my favorite shoes
@@ -111,4 +115,3 @@ Looks like my heart has become
 The safest place for us to run
 I'll be here for you when the day is done
 Looks like my heart has found someone
-

@@ -1,8 +1,11 @@
 ---
+album: Big Whiskey and the GrooGrux King
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:4ZOoV2Ofzm5gnM3rVl9q7d
 features: []
-genres: []
+first_released_as_single: false
 key: funny-the-way-it-is-dave-matthews-band
 lyrics_url: https://www.azlyrics.com/lyrics/davematthewsband/funnythewayitis.html
 name: Funny The Way It Is
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2009
+runtime: 266626
 ---
-
 Lying in the park on a beautiful day
 Sunshine in the grass and the children play
 Sirens passing, fire engine red
@@ -88,6 +92,3 @@ Standing on a bridge, watch the water passing underneath
 It must have been much harder when there was no bridge, just water
 Now the world is small, compared to how it used to be
 With mountains and oceans and winters and rivers and stars
-
-
-

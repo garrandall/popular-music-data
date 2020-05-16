@@ -1,8 +1,11 @@
 ---
+album: Play Deep
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:0LfsNAL2XRUP2eU5SGD399
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-the-outfield
 lyrics_url: https://genius.com/The-outfield-your-love-lyrics
 name: Your Love
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
+release_year: 1981
+runtime: 220666
 ---
 Josie's on a vacation far away
 Come around and talk it over

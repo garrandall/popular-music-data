@@ -1,9 +1,12 @@
 ---
+album: Complete United Artists Singles
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:4S4CZX1QAdADmcnikhSEw0
 features: []
-genres: []
+first_released_as_single: false
 key: some-enchanted-evening-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/someenchantedevening.html
 name: Some Enchanted Evening
@@ -48,8 +51,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1964
+runtime: 137133
 ---
-
 (Once you have found her never let her go)
 (Once you have found her never let her go)
 
@@ -82,6 +86,3 @@ You may dream all alone
 (Once you have found her never let her go)
 (Once you have found her never let her go)
 Never let her go
-
-
-

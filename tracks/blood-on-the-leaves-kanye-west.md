@@ -1,8 +1,11 @@
 ---
+album: Yeezus
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:42GcjriRK6srwHkfbkBqVl
 features: []
-genres: []
+first_released_as_single: false
 key: blood-on-the-leaves-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/bloodontheleaves.html
 name: Blood On The Leaves
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 359800
 ---
-
 Strange fruit hanging from the poplar trees
 Blood on the leaves
 
@@ -158,6 +162,3 @@ Blood on the leaves
 Breeze breeze
 Blood on the leaves
 Breeze breeze
-
-
-

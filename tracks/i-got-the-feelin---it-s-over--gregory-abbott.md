@@ -1,8 +1,11 @@
 ---
+album: Shake You Down
 artists:
 - Gregory Abbott
+external_ids:
+  spotify: spotify:track:1OGlYu1tdtIf0cJaSydRav
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-the-feelin---it-s-over--gregory-abbott
 lyrics_url: https://www.azlyrics.com/lyrics/gregoryabbott/igotthefeelinitsover.html
 name: I Got The Feelin' (It's Over)
@@ -51,8 +54,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
+release_year: 1986
+runtime: 250040
 ---
-
 Hey hey, hey... hm
 
 Sometimes I feel you're in love with me, baby
@@ -100,6 +104,3 @@ I got the feeling it's over (oh...)
 (I got the feeling, really, really got the feeling)
 The funny feeling that it's over now (because you love me, girl)
 I got the feeling it's over (I got the feeling, really, really got the feeling)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: There's More Where That Came From
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:6dWGSm15Vj6m7qLKEO85ZN
 features: []
-genres: []
+first_released_as_single: false
 key: i-may-hate-myself-in-the-morning-lee-ann-womack
 lyrics_url: https://www.azlyrics.com/lyrics/leeannwomack/imayhatemyselfinthemorning.html
 name: I May Hate Myself In The Morning
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2005
+runtime: 272866
 ---
-
 Ain't it just like one of us
 To pick up the phone and call after a couple drinks
 Say how ya been I've been wondering if maybe you've been thinking 'bout me
@@ -88,6 +92,3 @@ In lonely late night calls like this that we try to find
 I may hate myself in the morning but I'm gonna love you tonight
 
 I may hate myself in the morning but I'm gonna love you tonight
-
-
-

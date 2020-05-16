@@ -1,8 +1,11 @@
 ---
+album: Don't Play That Song
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:09PCAeQqR8JUnyFi61kPqd
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-play-that-song--you-lied--ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-dont-play-that-song-you-lied-lyrics
 name: Don't Play That Song (You Lied)
@@ -55,6 +58,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 174293
 ---
 Don't play it no more
 Don't play it no more

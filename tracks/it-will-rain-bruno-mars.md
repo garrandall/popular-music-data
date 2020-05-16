@@ -1,8 +1,11 @@
 ---
+album: It Will Rain
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:0uC3pqopvnHXC3cmBm8B37
 features: []
-genres: []
+first_released_as_single: true
 key: it-will-rain-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-it-will-rain-lyrics
 name: It Will Rain
@@ -123,6 +126,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2011
+runtime: 254641
 ---
 If you ever leave me, baby
 Leave some morphine at my door

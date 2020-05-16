@@ -1,8 +1,11 @@
 ---
+album: Face the Music
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:1aToFg7P0WtfsMU7rDTB4P
 features: []
-genres: []
+first_released_as_single: false
 key: strange-magic-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/strangemagic.html
 name: Strange Magic
@@ -63,8 +66,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1972
+runtime: 269333
 ---
-
 You're sailing softly through the sun
 in a broken stone age dawn.
 You fly so high.
@@ -115,6 +119,3 @@ got a strange magic,
 you know I got a strange magic,
 yeah, I got a strange magic,
 oo-o-o-oo, strange magic. (fade)
-
-
-

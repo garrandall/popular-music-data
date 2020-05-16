@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - The Diamonds
+external_ids:
+  spotify: spotify:track:7kdOUm6bKlA8eC4iQHbijq
 features: []
-genres: []
+first_released_as_single: false
 key: walking-along-the-diamonds
 lyrics_url: https://genius.com/The-diamonds-walking-along-lyrics
 name: Walking Along
@@ -55,6 +58,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1958
+runtime: 141400
 ---
 The Diamonds
 Miscellaneous

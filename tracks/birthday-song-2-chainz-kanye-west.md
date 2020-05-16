@@ -1,9 +1,12 @@
 ---
+album: Based On A T.R.U. Story
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:5qkWTBmDmZjogwIvbKtJQv
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: birthday-song-2-chainz-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/birthdaysong.html
 name: Birthday Song
@@ -88,9 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
+release_year: 2012
+runtime: 306600
 ---
-
-
 Yeah
 Birthday, it's your birthday
 If I die bury me inside the Louis store
@@ -138,7 +141,7 @@ Ah, Yeezy Yeezy how you doing huh?
 It's my birthday, I deserve to be greedy huh?
 She holding out, she ain't givin' to the needy huh?
 You go downstairs and fall asleep with the T.V on
-Ya'll been together ten years, you deserve a mÃ©nage
+Ya'll been together ten years, you deserve a ménage
 'Specially if you put that BMW in the garage
 'Specially if you paid a couple payments on her mamma crib
 Went to her niece's graduation, man, I hate those kids!
@@ -193,6 +196,3 @@ And it's your birthday, baby
 You deserve a coupe today
 (You in first place, you in first place)
 (Bad bitch contest you in first place!)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music Music Music
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:545TmKBYJTxxwPRkmZAS9h
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-up-is-hard-to-do-the-happenings
 lyrics_url: https://www.musixmatch.com/lyrics/The-Happenings/Breaking-Up-Is-Hard-to-Do
 name: Breaking Up Is Hard To Do
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 146666
 ---
 Breaking up is hard to do...
 

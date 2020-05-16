@@ -1,9 +1,12 @@
 ---
+album: Hood Hop
 artists:
 - J-Kwon
+external_ids:
+  spotify: spotify:track:1HL2ABD6kUaXAJ9lBhIY4K
 features:
 - Sadiyyah
-genres: []
+first_released_as_single: false
 key: you---me-j-kwon-sadiyyah
 lyrics_url: https://www.azlyrics.com/lyrics/jkwon/youme.html
 name: You & Me
@@ -36,9 +39,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-10-30'
+release_year: 2004
+runtime: 263733
 ---
-
-
 I mean, I just need to talk to you right now
 Yeah,,yeah, where I begin
 Right, yeah, yeah
@@ -122,6 +125,3 @@ Come see me and come tell me that ya know
 It's been a long time traveling
 Though you was supposed to be here
 So uh, ya family can't say I'm wrong
-
-
-

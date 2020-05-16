@@ -1,9 +1,12 @@
 ---
+album: Frozen
 artists:
 - Kristen Bell
 - Idina Menzel
+external_ids:
+  spotify: spotify:track:70b5Sq3ePOu3Gqg0hjlOtR
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-first-time-in-forever-kristen-bell-idina-menzel
 lyrics_url: https://genius.com/Kristen-bell-and-idina-menzel-for-the-first-time-in-forever-lyrics
 name: For The First Time In Forever
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2013
+runtime: 225080
 ---
 The window is open, so's that door
 I didn't know they did that anymore

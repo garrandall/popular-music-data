@@ -1,8 +1,11 @@
 ---
+album: Alf / Raindancing
 artists:
 - Alison Moyet
+external_ids:
+  spotify: spotify:track:6vYYt9fTorwdo6sxoceMQC
 features: []
-genres: []
+first_released_as_single: false
 key: invisible-alison-moyet
 lyrics_url: https://www.azlyrics.com/lyrics/alisonmoyet/invisible.html
 name: Invisible
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1984
+runtime: 238040
 ---
-
 You've got me so confused and there's word I could use
 But I'm afraid to say them.
 I feel I've been had and I'm boiling mad
@@ -122,6 +126,3 @@ I keep hanging on knowing I can't win
 'Cause it's too hard start over again.
 Invisible - I feel like I'm invisible...
 Invisible just like my love.
-
-
-

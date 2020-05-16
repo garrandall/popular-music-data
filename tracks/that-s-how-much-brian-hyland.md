@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:3GsZ363BCLrRYTl5GKcShC
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-much-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/That-s-How-Much
 name: That's How Much
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 135133
 ---
 That's how much
 Uh huh, uh huh, uh huh

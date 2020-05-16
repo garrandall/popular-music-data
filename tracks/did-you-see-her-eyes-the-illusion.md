@@ -1,8 +1,11 @@
 ---
+album: "The \u201860s: A Decade of Hits"
 artists:
 - The Illusion
+external_ids:
+  spotify: spotify:track:51FxZGyKMFp2NvCuHezWip
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-see-her-eyes-the-illusion
 lyrics_url: https://www.musixmatch.com/lyrics/The-Illusion-2/Did-You-See-Her-Eyes
 name: Did You See Her Eyes
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 180800
 ---
 Hey, hey now
 

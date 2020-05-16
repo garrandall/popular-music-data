@@ -1,8 +1,11 @@
 ---
+album: Just a Game
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:0d2j2cgwLjzhYsnm4TMxEE
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-triumph
 lyrics_url: https://genius.com/Triumph-hold-on-lyrics
 name: Hold On
@@ -63,6 +66,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1979
+runtime: 365866
 ---
 Music holds the secret, to know it can make you whole
 It's not just a game of notes, it's the sounds inside your soul

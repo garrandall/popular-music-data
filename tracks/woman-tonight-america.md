@@ -1,8 +1,11 @@
 ---
+album: Hearts (US Internet Release)
 artists:
 - America
+external_ids:
+  spotify: spotify:track:4lTEyMw4bb25M6VIBsoIBt
 features: []
-genres: []
+first_released_as_single: false
 key: woman-tonight-america
 lyrics_url: https://genius.com/America-woman-tonight-lyrics
 name: Woman Tonight
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
+release_year: 1972
+runtime: 142360
 ---
 Oh, hold me tight
 Won't you be my woman tonight?

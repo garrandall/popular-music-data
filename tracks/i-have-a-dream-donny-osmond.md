@@ -1,8 +1,11 @@
 ---
+album: Donny
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:0SnnvHhh65zxdEU0wHhPZr
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-a-dream-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/ihaveadream.html
 name: I Have A Dream
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1974
+runtime: 204173
 ---
-
 I have a dream that someday
 We'll all walk hand in hand
 I have a dream that someday
@@ -78,6 +82,3 @@ It'll all be better
 If we get it together and dream
 It'll all be better
 If we get it together and dream
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Funeral
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1bRO28yzxgO3y3UmNR29TZ
 features:
 - Big Sean
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: i-do-it-lil-wayne-big-sean-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/idoit.html
 name: I Do It
@@ -17,8 +20,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2020
+runtime: 184440
 ---
-
 Phew, phew, yeah
 If you weigh me down then I gotta remove you
 If you in my way, then I gotta go through you (Don, don)
@@ -104,6 +108,3 @@ Catch a body like Ray Lewis (Yeah)
 If you weigh me down then I gotta remove you
 If you in my way, then I gotta go through you
 Funeral
-
-
-

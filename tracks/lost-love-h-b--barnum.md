@@ -1,8 +1,11 @@
 ---
+album: Johnny Otis Presents Eldo Records Featuring Image of a Girl
 artists:
 - H.B. Barnum
+external_ids:
+  spotify: spotify:track:4589nABTUr7L5Y0N9nTeDo
 features: []
-genres: []
+first_released_as_single: false
 key: lost-love-h-b--barnum
 name: Lost Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1961
+runtime: 145186
 ---
 

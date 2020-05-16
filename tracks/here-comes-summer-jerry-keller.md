@@ -1,8 +1,11 @@
 ---
+album: Time Has a Way
 artists:
 - Jerry Keller
+external_ids:
+  spotify: spotify:track:0tqAQ61DUvNOIvcnSiYut4
 features: []
-genres: []
+first_released_as_single: true
 key: here-comes-summer-jerry-keller
 lyrics_url: https://genius.com/Jerry-keller-here-comes-summer-lyrics
 name: Here Comes Summer
@@ -59,6 +62,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 129066
 ---
 Here comes summer
 School is out, oh happy days

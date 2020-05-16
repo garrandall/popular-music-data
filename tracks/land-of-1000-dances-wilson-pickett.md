@@ -1,8 +1,11 @@
 ---
+album: The Exciting Wilson Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:76ICmoJ4PcoMWoooaTxnQs
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-1000-dances-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/landof1000dances.html
 name: Land Of 1000 Dances
@@ -51,8 +54,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 146973
 ---
-
 One, two, three
 One, two, three
 Ow! Uh! Alright! Uh!
@@ -113,6 +117,3 @@ Ohh, help me!
 Ohh, help me!
 Ohh, help me!
 Ohh, help me!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Word Up
 artists:
 - Cameo
+external_ids:
+  spotify: spotify:track:2m9oEvjYdhuF3KATDbYgWB
 features: []
-genres: []
+first_released_as_single: false
 key: back-and-forth-cameo
 lyrics_url: https://www.azlyrics.com/lyrics/cameo/backandforth.html
 name: Back And Forth
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1986
+runtime: 392266
 ---
-
 There's a special kind of person
 sometimes she's not all she seems
 you only see what she wants you to see
@@ -77,7 +81,4 @@ Back & forth
 Love has no guarantee's
 It'll always really be
 
-Back & forth 
-
-
-
+Back & forth

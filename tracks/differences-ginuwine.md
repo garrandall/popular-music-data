@@ -1,8 +1,11 @@
 ---
+album: The Life
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:0Uyh92tLyb9JawG8lmWCzJ
 features: []
-genres: []
+first_released_as_single: false
 key: differences-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/differences.html
 name: Differences
@@ -127,8 +130,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2002-02-16'
+release_year: 2001
+runtime: 265533
 ---
-
 Oh, hey...
 Oh, yeah, oh, yeah
 To you
@@ -228,6 +232,3 @@ no sight (Come on)
 
 My whole life has changed (Oh...whoa...whoa...whoa...)
 Since you came in, I knew back then
-
-
-

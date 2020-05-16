@@ -1,8 +1,11 @@
 ---
+album: Paradise Theatre
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:4hWUOIDHda9XOb1zDchftP
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-time-on-my-hands-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/toomuchtimeonmyhands.html
 name: Too Much Time On My Hands
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-07-25'
+release_year: 1981
+runtime: 271266
 ---
-
 Sitting on this barstool talking like a damn fool
 Got the twelve o'clock news blues
 And I've given up hope for the afternoon soaps
@@ -137,6 +141,3 @@ Too much time on my hands
 Too much time on my hands
 (Too much time on my hands)
 (Too much time on my)
-
-
-

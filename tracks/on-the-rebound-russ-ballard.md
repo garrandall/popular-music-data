@@ -1,8 +1,11 @@
 ---
+album: Barnet Dogs
 artists:
 - Russ Ballard
+external_ids:
+  spotify: spotify:track:3wlWZtKaqzgLUe8dfHUQuq
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-rebound-russ-ballard
 lyrics_url: https://genius.com/Russ-ballard-on-the-rebound-lyrics
 name: On The Rebound
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1980
+runtime: 189146
 ---
 That's how you fell for me
 That's how you changed my life

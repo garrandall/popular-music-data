@@ -1,8 +1,11 @@
 ---
+album: Eye Of The Tiger
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:4aomZX0dG4qvU3saaxJu2f
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-that-really-matters-survivor
 lyrics_url: https://genius.com/Survivor-the-one-that-really-matters-lyrics
 name: The One That Really Matters
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 208426
 ---
 I know your mind like the back of my hand
 A race that I ran before

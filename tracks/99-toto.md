@@ -1,8 +1,11 @@
 ---
+album: Hydra
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:2R3E4xKmy7lyieBKONkIMT
 features: []
-genres: []
+first_released_as_single: false
 key: 99-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/99.html
 name: '99'
@@ -75,8 +78,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1979
+runtime: 316053
 ---
-
 99
 I've been waiting so long
 Oh 99
@@ -125,6 +129,3 @@ I don't want to hurt you anymore
 I never knew it would work out
 No one to blame
 You know I love you 99
-
-
-

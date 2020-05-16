@@ -1,8 +1,11 @@
 ---
+album: Evolution (G010001122177S)
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:3N8NK1UuDAIJnSEognAOXP
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-you-say-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/whateveryousay.html
 name: Whatever You Say
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1997
+runtime: 270293
 ---
-
 You think I'm always makin'
 Something out of nothin'
 You're sayin' everything's okay
@@ -131,6 +135,3 @@ Right now depends on
 Whatever you say
 Whatever you say
 Whatever you say
-
-
-

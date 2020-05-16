@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Vault
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:4nY2Uw06RrmvkETDo3bxQ8
 features: []
-genres: []
+first_released_as_single: false
 key: swingtown-the-steve-miller-band
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/swingtown.html
 name: Swingtown
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1977
+runtime: 205706
 ---
-
 Ooo oh
 Ooo oh
 Come on and dance, come on and dance
@@ -92,6 +96,3 @@ We may not get another chance
 You know the night is fallin'
 And the music's callin'
 And we've got to get down to Swingtown
-
-
-

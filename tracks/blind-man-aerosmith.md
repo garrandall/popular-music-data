@@ -1,8 +1,11 @@
 ---
+album: Big Ones
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:0sjPYRacvarCBduZaKdbJW
 features: []
-genres: []
+first_released_as_single: false
 key: blind-man-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/blindman.html
 name: Blind Man
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1994
+runtime: 240533
 ---
-
 I took a course in Hallelujah 
 I went to night school for de blues 
 I took some stuff they said would cool ya...hea ha 
@@ -117,6 +121,3 @@ Because a here come the sun
 Ain't no surprise 
 Ain't no doubt about it 
 Gonna open up my eyes
-
-
-

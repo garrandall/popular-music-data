@@ -1,9 +1,12 @@
 ---
+album: Live at the Fillmore East October 4th & 5th 1968
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:10Nqh92Ljw3qdrT1H3JdWd
 features: []
-genres: []
+first_released_as_single: false
 key: life-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/life.html
 name: Life
@@ -20,9 +23,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
+release_year: 1968
+runtime: 551893
 ---
-
-
 Life, Life
 Past the clouds
 You don't have to come down
@@ -64,6 +67,3 @@ If you're lovin' you can't be sad no more
 Life, Life
 Tell it like it is
 You don't have to die before you live
-
-
-

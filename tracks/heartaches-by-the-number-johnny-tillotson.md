@@ -1,8 +1,11 @@
 ---
+album: That's My Style
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:0MU9aeHB4uKciIIBCVhIoU
 features: []
-genres: []
+first_released_as_single: false
 key: heartaches-by-the-number-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-heartaches-by-the-number-lyrics
 name: Heartaches By The Number
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 160883
 ---
 I've got heartaches by the number when you left me
 I never knew that I could hurt this way

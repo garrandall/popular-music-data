@@ -1,10 +1,13 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:4TlNpP0LK0pRMGD9I8SXMy
 features:
 - The Imperials Quartet
-genres: []
+first_released_as_single: false
 key: indescribably-blue-elvis-presley-with-the-jordanaires-and-the-imperials-quartet
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Imperials-Quartet-The-Jordanaires/Indescribably-Blue-Take-1-2
 name: Indescribably Blue
@@ -41,6 +44,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 167466
 ---
 Our friends all ask me
 The last time I saw you

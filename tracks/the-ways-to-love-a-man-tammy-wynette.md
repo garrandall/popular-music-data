@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:6AJWc1UVYDxGmOKSHKIeCC
 features: []
-genres: []
+first_released_as_single: false
 key: the-ways-to-love-a-man-tammy-wynette
 lyrics_url: https://genius.com/Tammy-wynette-the-ways-to-love-a-man-lyrics
 name: The Ways To Love A Man
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1964
+runtime: 146240
 ---
 There are so many ways to love a man and so many things to understand
 And if there ever comes a time you decide to change your mind

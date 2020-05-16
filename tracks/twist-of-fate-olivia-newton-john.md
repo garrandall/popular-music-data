@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of Olivia Newton-John'
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:533BzrB9TWzWH27T9Ra7Um
 features: []
-genres: []
+first_released_as_single: false
 key: twist-of-fate-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/twistoffate.html
 name: Twist Of Fate
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 218226
 ---
-
 Do we deserve a second chance?
 How did we fall into this circumstance?
 We weren't so straight and narrow
@@ -111,6 +115,3 @@ Life doesn't mean a thing
 Without the love you bring
 Love is what we've found
 The second time around
-
-
-

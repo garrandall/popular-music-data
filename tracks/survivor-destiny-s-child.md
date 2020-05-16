@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:3pib07er1KcERP4jiNNFzt
 features: []
-genres: []
+first_released_as_single: false
 key: survivor-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-survivor-lyrics
 name: Survivor
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2001-07-28'
+release_year: 1999
+runtime: 229053
 ---
 Now that you're out of my life, I'm so much better
 You thought that I'd be weak without you, but I'm stronger

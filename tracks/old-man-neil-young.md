@@ -1,8 +1,11 @@
 ---
+album: Harvest
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:16XeptMdlJTWWeIrwEAOvv
 features: []
-genres: []
+first_released_as_single: false
 key: old-man-neil-young
 lyrics_url: https://genius.com/Neil-young-old-man-lyrics
 name: Old Man
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 202146
 ---
 Old man, look at my life
 I'm a lot like you were

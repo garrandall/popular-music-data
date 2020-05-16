@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Eugene Wilde
+external_ids:
+  spotify: spotify:track:4Zna7j433FFLEXpnLnLmlc
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-get-you-home-tonight-eugene-wilde
 lyrics_url: https://genius.com/Eugene-wilde-gotta-get-you-home-tonight-lyrics
 name: Gotta Get You Home Tonight
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
+release_year: 1985
+runtime: 314104
 ---
 Oh baby
 Gotta get you home with me tonight
@@ -113,8 +118,6 @@ Oh lady
 Gotta get you home with me tonight
 Oh lady
 I gotta get you home with me tonight
-
-(instrumental break)
 
 Oh lady
 Gotta get you home with me tonight

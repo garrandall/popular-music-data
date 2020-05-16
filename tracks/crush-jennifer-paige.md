@@ -1,8 +1,11 @@
 ---
+album: Jennifer Paige
 artists:
 - Jennifer Paige
+external_ids:
+  spotify: spotify:track:6YXWauQKn5nQVhcC4KVplQ
 features: []
-genres: []
+first_released_as_single: false
 key: crush-jennifer-paige
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferpaige/crush.html
 name: Crush
@@ -107,8 +110,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
+release_year: 1998
+runtime: 199960
 ---
-
 Ah crush ah
 
 See you blowin' me a kiss it doesn't take a scientist
@@ -161,6 +165,3 @@ Sha la la la, sha la la la
 Not like I faint every time we touch
 It's just some little thing
 Not like everything I do
-
-
-

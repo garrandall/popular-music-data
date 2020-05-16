@@ -1,8 +1,11 @@
 ---
+album: The Essential Melissa Manchester - The Arista Years
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:0hujWZt6bmQJawM9PQWVHR
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-girls-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/prettygirls.html
 name: Pretty Girls
@@ -47,8 +50,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 233080
 ---
-
 He's triggered by the rise of their suburban eyes
 He likes to stroke the curls of pretty baby girls
 And he will never make it on the hit parade, oh no
@@ -86,6 +90,3 @@ Look good on you, look good on you
 Pretty girls, so pretty girls
 Look good on you, yeah good on you, yeah
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Once Over Lightly
 artists:
 - Hank Locklin
+external_ids:
+  spotify: spotify:track:2GWPJ8ftfi03qExRFqncG7
 features: []
-genres: []
+first_released_as_single: false
 key: please-help-me-i-m-falling-hank-locklin
 lyrics_url: https://www.musixmatch.com/lyrics/Hank-Locklin/Please-Help-Me-I-m-Falling-1960
 name: Please Help Me I'm Falling
@@ -95,6 +98,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 77506
 ---
 Please help me, I'm falling
 In love with you

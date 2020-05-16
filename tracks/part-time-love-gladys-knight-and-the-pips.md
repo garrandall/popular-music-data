@@ -1,8 +1,11 @@
 ---
+album: 2nd Anniversary
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:7mLycCjH8XrLU6KxhsyGnH
 features: []
-genres: []
+first_released_as_single: false
 key: part-time-love-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-part-time-love-lyrics
 name: Part Time Love
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 151706
 ---
 I need somebody
 Who's consistent with me

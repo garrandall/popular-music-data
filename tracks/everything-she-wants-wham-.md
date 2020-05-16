@@ -1,8 +1,11 @@
 ---
+album: Make It Big
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:5hXEcqQhEjfZdbIZLO8mf2
 features: []
-genres: []
+first_released_as_single: false
 key: everything-she-wants-wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/everythingshewants.html
 name: Everything She Wants
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1984
+runtime: 302693
 ---
-
 Oh yeah
 Work
 
@@ -145,6 +149,3 @@ Somebody tell me, won't you tell me?
 Why I do the things that I do?
 Give you money
 All to give you money
-
-
-

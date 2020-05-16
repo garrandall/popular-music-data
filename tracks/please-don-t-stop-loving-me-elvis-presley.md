@@ -1,8 +1,11 @@
 ---
+album: Frankie & Johnny
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0LPktZB3MiZ5QGrOpzTION
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-stop-loving-me-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-please-dont-stop-loving-me-lyrics
 name: Please Don't Stop Loving Me
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 123106
 ---
 Please don't stop loving me
 You were born just to be in my arms

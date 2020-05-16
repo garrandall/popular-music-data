@@ -1,8 +1,11 @@
 ---
+album: Soul Sisters Tribute to Soul Brothers
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:7fBJUr0gptVUnAu6cv0N6m
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-bring-it-home-to-you-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-ill-bring-it-home-to-you-lyrics
 name: I'll Bring It Home To You
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 185599
 ---
 Darling, you've made me
 Change my mind

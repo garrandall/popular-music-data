@@ -1,8 +1,11 @@
 ---
+album: Stayin' Alive
 artists:
 - N-Trance
+external_ids:
+  spotify: spotify:track:7pcjhiKODADooP7IFPgetr
 features: []
-genres: []
+first_released_as_single: true
 key: stayin--alive-n-trance
 lyrics_url: https://genius.com/N-trance-stayin-alive-lyrics
 name: Stayin' Alive
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1995
+runtime: 245906
 ---
 Now who got the fever for the flav'
 Who can dig da way that I flex on a track

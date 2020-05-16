@@ -1,8 +1,11 @@
 ---
+album: September Song
 artists:
 - Jimmy Durante
+external_ids:
+  spotify: spotify:track:1h5qxFrlCMsH9JXj6hiYRi
 features: []
-genres: []
+first_released_as_single: false
 key: september-song-jimmy-durante
 lyrics_url: https://www.azlyrics.com/lyrics/jimmydurante/septembersong.html
 name: September Song
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 189800
 ---
-
 When I was a young man, caught in the girls
 I played me a waiting game
 If a maid refused me with tossin curls
@@ -63,6 +67,3 @@ Oh, the days dwindle down, to a precious few
 September. November
 And these few precious days, I'll spend with you
 These precious days, I'll spend with you
-
-
-

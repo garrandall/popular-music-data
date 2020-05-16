@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:5qiWQq9tPjMDNpd1knSoZ0
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-life-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/This-Is-the-Life
 name: This Is The Life
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 177253
 ---
 Take the world
 Shakin', stirrin'

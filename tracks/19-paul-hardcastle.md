@@ -1,8 +1,11 @@
 ---
+album: Paul Hardcastle
 artists:
 - Paul Hardcastle
+external_ids:
+  spotify: spotify:track:3zXfqoNsa6A4AO4AF028Ux
 features: []
-genres: []
+first_released_as_single: false
 key: 19-paul-hardcastle
 lyrics_url: https://genius.com/Paul-hardcastle-19-lyrics
 name: '19'
@@ -63,6 +66,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 428666
 ---
 In 1965, Vietnam seemed like
 Just another foreign war

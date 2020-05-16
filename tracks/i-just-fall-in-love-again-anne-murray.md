@@ -1,8 +1,11 @@
 ---
+album: New Kind Of Feeling
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:6aBiU9lFd3BhtggI7aeqBI
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-fall-in-love-again-anne-murray
 lyrics_url: https://genius.com/Anne-murray-i-just-fall-in-love-again-lyrics
 name: I Just Fall In Love Again
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1979
+runtime: 171640
 ---
 Dreaming, I must be dreaming
 Or am I really lying here with you?

@@ -1,8 +1,11 @@
 ---
+album: Between Two Fires
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:7zNSXBz9STIk5qpnKKsul9
 features: []
-genres: []
+first_released_as_single: false
 key: some-people-paul-young
 lyrics_url: https://genius.com/Paul-young-some-people-lyrics
 name: Some People
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 306200
 ---
 Some people
 They know how to play the game of love

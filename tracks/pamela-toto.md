@@ -1,8 +1,11 @@
 ---
+album: The Seventh One
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:3LFdvM7nIV8t02zyhYLvJo
 features: []
-genres: []
+first_released_as_single: false
 key: pamela-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/pamela.html
 name: Pamela
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1988
+runtime: 309533
 ---
-
 Side by side
 I'll be yours forever
 Yes I will
@@ -151,6 +155,3 @@ I still love you yes I do
 And you know it little Pamela
 Come on
 Oh little Pamela
-
-
-

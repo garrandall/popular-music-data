@@ -1,8 +1,11 @@
 ---
+album: Bad English
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:3QSTtQVvKHDM7zPgtkgYrR
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-is-a-4-letter-word-bad-english
 lyrics_url: https://www.azlyrics.com/lyrics/badenglish/heavenisa4letterword.html
 name: Heaven Is A 4 Letter Word
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 285333
 ---
-
 There's a rumor here
 And it's going round
 Can you hear it on the street
@@ -120,6 +124,3 @@ Hey
 Hey girl
 Haven't you heard
 Heaven is a four letter word
-
-
-

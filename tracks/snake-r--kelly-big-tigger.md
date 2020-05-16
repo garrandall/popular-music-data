@@ -1,9 +1,12 @@
 ---
+album: Chocolate Factory
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:3XhCHPfPDafMQx014Sblfy
 features:
 - Big Tigger
-genres: []
+first_released_as_single: false
 key: snake-r--kelly-big-tigger
 lyrics_url: https://genius.com/R-kelly-snake-feat-big-tigger-lyrics
 name: Snake
@@ -76,6 +79,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2003
+runtime: 291866
 ---
 I wanna see you move your body like a snake yeah
 Eh yo can y'all hear me out there aiight, now this is what I wanna see

@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:0itraFFnX7Yynlf8fHdgyr
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-donna-summer
 lyrics_url: https://genius.com/Donna-summer-i-love-you-lyrics
 name: I Love You
@@ -51,6 +54,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1977
+runtime: 282160
 ---
 Well he searched and searched for nights and days
 Till he found the one he loved

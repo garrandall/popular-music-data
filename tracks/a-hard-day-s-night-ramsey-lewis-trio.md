@@ -1,8 +1,11 @@
 ---
+album: Hang On Ramsey!
 artists:
 - Ramsey Lewis Trio
+external_ids:
+  spotify: spotify:track:5qoXJYckZrMKlcfmJaQoiZ
 features: []
-genres: []
+first_released_as_single: false
 key: a-hard-day-s-night-ramsey-lewis-trio
 lyrics_url: https://genius.com/The-ramsey-lewis-trio-a-hard-days-night-lyrics
 name: A Hard Day's Night
@@ -31,6 +34,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1966
+runtime: 297333
 ---
 RAMSEY LEWIS TRIO
 It's been a hard day's night, and I been working like a dog

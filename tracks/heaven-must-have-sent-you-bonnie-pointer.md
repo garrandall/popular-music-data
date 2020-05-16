@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA, The Motown Collection 1972-1992
 artists:
 - Bonnie Pointer
+external_ids:
+  spotify: spotify:track:4KBLF8z7Hv7RIHjetaTCfD
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-must-have-sent-you-bonnie-pointer
 lyrics_url: https://genius.com/Bonnie-pointer-heaven-must-have-sent-you-lyrics
 name: Heaven Must Have Sent You
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 214066
 ---
 I've cried through many endless nights
 Just holding my pillow tight

@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Billy Preston'
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:6BDWITl9HpvfD0Kacsmcu3
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-never-gonna-say-goodbye-billy-preston
 lyrics_url: https://genius.com/Billy-preston-im-never-gonna-say-goodbye-lyrics
 name: I'm Never Gonna Say Goodbye
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 221826
 ---
 Somebody lied to me
 It just can't be, you can't be gone forever

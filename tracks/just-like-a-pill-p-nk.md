@@ -1,8 +1,11 @@
 ---
+album: M!ssundaztood
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:1BpV8IGf4XsRRJf4Xuui9q
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-a-pill-p-nk
 lyrics_url: https://genius.com/P-nk-just-like-a-pill-lyrics
 name: Just Like A Pill
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
+release_year: 2001
+runtime: 236600
 ---
 I'm lying here on the floor where you left me
 I think I took too much

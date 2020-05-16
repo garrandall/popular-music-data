@@ -1,8 +1,11 @@
 ---
+album: The Power Station
 artists:
 - The Power Station
+external_ids:
+  spotify: spotify:track:0UjMFyICQ7k78DX90KhATi
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-on--bang-a-gong--the-power-station
 lyrics_url: https://www.azlyrics.com/lyrics/powerstation/getitonbangagong.html
 name: Get It On (Bang A Gong)
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1985
+runtime: 329973
 ---
-
 Well, you're dirty and sweet
 Clad in black, don't look back
 And I love you
@@ -140,6 +144,3 @@ Bang a gong, get it on
 Get it on
 Bang a gong, get it on
 Get it on
-
-
-

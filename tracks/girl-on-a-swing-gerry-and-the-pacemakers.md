@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:0YCyGSu1LAH8MjyqJiS1Zo
 features: []
-genres: []
+first_released_as_single: false
 key: girl-on-a-swing-gerry-and-the-pacemakers
 lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/girlonaswing.html
 name: Girl On A Swing
@@ -43,8 +46,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 127666
 ---
-
 I stand out of sight
 And watch as the light from the sun
 Shines through her hair
@@ -72,6 +76,3 @@ Take all the hate from the world that we're in
 Girl on a swing, swing high
 Girl on a swing, swing low
 And you can cast all your troubles to the wind
-
-
-

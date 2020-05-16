@@ -1,8 +1,11 @@
 ---
+album: The Last Day of Winter
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ
 features: []
-genres: []
+first_released_as_single: true
 key: more-usher
 lyrics_url: https://genius.com/Usher-more-lyrics
 name: More
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2010
+runtime: 219986
 ---
 Watch me as I dance under the spotlight
 Listen to the people screaming out more, more

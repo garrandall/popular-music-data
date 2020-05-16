@@ -1,8 +1,11 @@
 ---
+album: Wild Thing / Turns You On
 artists:
 - Fancy
+external_ids:
+  spotify: spotify:track:2xFv9Znfm7KeEQbC8ZBxNI
 features: []
-genres: []
+first_released_as_single: false
 key: wild-thing-fancy
 lyrics_url: https://genius.com/Fancy-wild-thing-lyrics
 name: Wild Thing
@@ -75,6 +78,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1972
+runtime: 177440
 ---
 Wild thing
 You make my heart sing
@@ -88,7 +93,7 @@ Wild thing
 You make my heart sing
 You make everything groovy
 Wild thing
------- instrumental break ------
+
 Wild thing, I think you move me
 But I wanna know for sure
 So c'mon and hold me tight
@@ -99,5 +104,4 @@ You make everything groovy
 Wild thing
 Wild thing
 C'mon, c'mon, wild thing
-Shake it, shake it, wild thing 
-----------------------------------
+Shake it, shake it, wild thing

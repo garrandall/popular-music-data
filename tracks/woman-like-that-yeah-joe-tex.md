@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0xv72Mvr6QvsjOYbzbLetG
 features: []
-genres: []
+first_released_as_single: false
 key: woman-like-that-yeah-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/Woman-Like-That-Yeah
 name: Woman Like That Yeah
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1965
+runtime: 194920
 ---
 Man give a woman plenty of lovin'
 Woman like that, yeah

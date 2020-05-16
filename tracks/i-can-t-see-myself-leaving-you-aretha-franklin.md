@@ -1,8 +1,11 @@
 ---
+album: Aretha Now
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0MsJNBcfNoIcf868I2MOHo
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-see-myself-leaving-you-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-i-cant-see-myself-leaving-you-lyrics
 name: I Can't See Myself Leaving You
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1968
+runtime: 181466
 ---
 You've been running around
 This I know, yeah

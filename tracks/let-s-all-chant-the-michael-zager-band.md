@@ -1,8 +1,11 @@
 ---
+album: Let's All Chant
 artists:
 - The Michael Zager Band
+external_ids:
+  spotify: spotify:track:2xGMzDlPnmPHD8HUYOy4Lw
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-all-chant-the-michael-zager-band
 lyrics_url: https://www.musixmatch.com/lyrics/The-Michael-Zager-Band/Let-s-All-Chant-1
 name: Let's All Chant
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1977
+runtime: 184453
 ---
 (Oh oh)
 (Oh oh)

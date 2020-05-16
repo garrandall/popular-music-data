@@ -1,8 +1,11 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:469RmLzEsicj8VSn9aIuKV
 features: []
-genres: []
+first_released_as_single: false
 key: cool-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/cool.html
 name: Cool
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2004
+runtime: 189333
 ---
-
 It's hard to remember how it felt before
 Now I found the love of my life
 Passes things get more comfortable
@@ -129,6 +133,3 @@ I know we're cool
 I know we're cool
 C-cool
 Yeah, I know we're cool
-
-
-

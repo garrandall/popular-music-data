@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:657T90Nnp6WpwhZ8oyBCiU
 features: []
-genres: []
+first_released_as_single: false
 key: -welcome--new-lovers-pat-boone
 lyrics_url: https://www.musixmatch.com/lyrics/Pat-Boone/Welcome-New-Lovers
 name: (Welcome) New Lovers
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 135735
 ---
 (Welcome one, welcome two, welcome every one of you)
 

@@ -1,8 +1,11 @@
 ---
+album: DNCE
 artists:
 - DNCE
+external_ids:
+  spotify: spotify:track:7ciLq0Cip0yxiz6KANrOUq
 features: []
-genres: []
+first_released_as_single: false
 key: toothbrush-dnce
 lyrics_url: https://www.azlyrics.com/lyrics/dnce/toothbrush.html
 name: Toothbrush
@@ -47,8 +50,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 231813
 ---
-
 Baby you don't have to rush
 You could leave a toothbrush
 At my place
@@ -132,6 +136,3 @@ So baby you don't have to rush
 You could leave a toothbrush
 At my place
 At my place
-
-
-

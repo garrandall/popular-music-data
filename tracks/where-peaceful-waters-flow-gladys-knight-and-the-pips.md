@@ -1,8 +1,11 @@
 ---
+album: Imagination
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:171QpKcPDUCJCzooUdRlSd
 features: []
-genres: []
+first_released_as_single: false
 key: where-peaceful-waters-flow-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-where-peaceful-waters-flow-lyrics
 name: Where Peaceful Waters Flow
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1973
+runtime: 265520
 ---
 (Come and walk with me)
 (We can go where peaceful waters flow)

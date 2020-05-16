@@ -1,10 +1,13 @@
 ---
+album: Cold Water
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:7zsXy7vlHdItvUSH8EwQss
 features:
 - Justin Bieber
 - MO
-genres: []
+first_released_as_single: true
 key: cold-water-major-lazer-justin-bieber-mo
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/coldwater.html
 name: Cold Water
@@ -117,9 +120,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 185360
 ---
-
-
 Everybody gets high sometimes, you know
 What else can we do when we're feeling low?
 So take a deep breath and let it go
@@ -171,6 +174,3 @@ I'll be your lifeline tonight
 
 I won't let go
 I won't let go
-
-
-

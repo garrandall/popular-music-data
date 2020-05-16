@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Vanessa Hudgens
+external_ids:
+  spotify: spotify:track:0occ3Gxp6ZV5DUmJNuEsQB
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-to-me-vanessa-hudgens
 lyrics_url: https://genius.com/Vanessa-hudgens-come-back-to-me-lyrics
 name: Come Back To Me
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 166866
 ---
 Haha! Y'all need to get ready to hear
 The unbelievable, indescribable Vanessa Hudgens

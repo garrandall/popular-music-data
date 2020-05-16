@@ -1,8 +1,11 @@
 ---
+album: Talk It Over In The Morning
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:6JEaGHRZAHbu4tqZv45es3
 features: []
-genres: []
+first_released_as_single: false
 key: cotton-jenny-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/cottonjenny.html
 name: Cotton Jenny
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1971
+runtime: 179040
 ---
-
 There's a house on a hill
 By a worn down weathered old mill
 In a valley below where the river winds
@@ -64,6 +68,3 @@ Wheels go round
 Love go round
 Love go round
 Love go round
-
-
-

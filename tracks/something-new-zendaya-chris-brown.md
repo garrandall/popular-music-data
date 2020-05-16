@@ -1,9 +1,12 @@
 ---
+album: Something New
 artists:
 - Zendaya
+external_ids:
+  spotify: spotify:track:1z15fhSgN6U2k4gqA1Zu4j
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: something-new-zendaya-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/zendaya/somethingnew.html
 name: Something New
@@ -20,9 +23,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2016
+runtime: 212906
 ---
-
-
 I wanna try something, all night
 I wanna try something, all night
 
@@ -98,6 +101,3 @@ I like that new new boy I like that new
 Wanna try
 Gimme that new new boy, gimme that new
 All night
-
-
-

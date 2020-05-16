@@ -1,8 +1,11 @@
 ---
+album: 5-10-15-20 (25-30 Years of Love)
 artists:
 - The Presidents
+external_ids:
+  spotify: spotify:track:3sTZxpxVDrgHCq8W1JB6UN
 features: []
-genres: []
+first_released_as_single: false
 key: triangle-of-love--hey-diddle-diddle--the-presidents
 name: Triangle Of Love (Hey Diddle Diddle)
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 201960
 ---
 

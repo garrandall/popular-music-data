@@ -1,8 +1,11 @@
 ---
+album: Edge Of The Century
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:1kwvV2LoPN0S7d66WeyTdY
 features: []
-genres: []
+first_released_as_single: false
 key: love-at-first-sight-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/loveatfirstsight.html
 name: Love At First Sight
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
+release_year: 1990
+runtime: 276440
 ---
-
 Driving past your house again
 I feel the same way I did then
 I get weak, just thinking about you
@@ -126,6 +130,3 @@ No, not to someone like me
 Love at first sight
 So rare, and so exciting
 I only hope this love we found can last
-
-
-

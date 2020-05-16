@@ -1,9 +1,12 @@
 ---
+album: Patty Smyth's Greatest Hits Featuring Scandal
 artists:
 - Scandal
+external_ids:
+  spotify: spotify:track:4BXCYOULbCWEQCkft8AWMc
 features:
 - Patty Smyth
-genres: []
+first_released_as_single: false
 key: beat-of-a-heart-scandal-patty-smyth
 lyrics_url: https://www.musixmatch.com/lyrics/Scandal/Beat-of-a-Heart
 name: Beat Of A Heart
@@ -64,6 +67,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1982
+runtime: 285600
 ---
 The heat of the sun
 Was a little too much today

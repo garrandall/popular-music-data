@@ -1,8 +1,11 @@
 ---
+album: 'My Best Friend''s Wedding: Music From The Motion Picture'
 artists:
 - Diana King
+external_ids:
+  spotify: spotify:track:78p99Q15FoPg9WPT6ix7BG
 features: []
-genres: []
+first_released_as_single: false
 key: i-say-a-little-prayer-diana-king
 lyrics_url: https://www.azlyrics.com/lyrics/dianaking/isayalittleprayer.html
 name: I Say A Little Prayer
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1991
+runtime: 207400
 ---
-
 From the moment I wake up
 Before I put on my makeup
 I say a little prayer for you..
@@ -113,4 +117,3 @@ I say a lil prayer for you...
 My darling believe me
 For me there is no one but you
 Say you love me too...
-

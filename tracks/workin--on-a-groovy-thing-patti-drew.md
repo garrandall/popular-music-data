@@ -1,8 +1,11 @@
 ---
+album: Workin' On A Groovy Thing....The Best Of
 artists:
 - Patti Drew
+external_ids:
+  spotify: spotify:track:0r5aPIQ3H9knqQT6qyW4Zy
 features: []
-genres: []
+first_released_as_single: false
 key: workin--on-a-groovy-thing-patti-drew
 lyrics_url: https://genius.com/Patti-drew-workin-on-a-groovy-thing-lyrics
 name: Workin' On A Groovy Thing
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 191773
 ---
 When I saw you, I knew
 That I was gonna love you

@@ -1,8 +1,11 @@
 ---
+album: In A Special Way
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:5dOAshdEVLDMjHBnlMrX12
 features: []
-genres: []
+first_released_as_single: false
 key: time-will-reveal-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/debarge/timewillreveal.html
 name: Time Will Reveal
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 259493
 ---
-
 What can I do
 To make you feel secure
 Remove all your doubts
@@ -154,6 +158,3 @@ But this time love's for real
 In time, it will reveal
 The special love that's deep inside of us
 Will all reveal in time, oh
-
-
-

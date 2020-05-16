@@ -1,8 +1,11 @@
 ---
+album: Sinners Like Me
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:44uPR8hTkZmXh40uIx30WK
 features: []
-genres: []
+first_released_as_single: false
 key: how--bout-you-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/howboutyou.html
 name: How 'Bout You
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-08-12'
+release_year: 2006
+runtime: 230880
 ---
-
 I know where I come from:
 How 'bout you?
 I don't need baggy clothes,
@@ -82,6 +86,3 @@ An' how 'bout you?
 Do you feel the way I do?
 'Cause, man, I know where I come from:
 How 'bout you?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Paul Davis
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:3QJXZeq40m3aJvJAHT2JsZ
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-woogie-man-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/boogiewoogieman.html
 name: Boogie Woogie Man
@@ -43,8 +46,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 147200
 ---
-
 Get yourself a crew cut
 Your hair's too long
 I hear it over and over
@@ -123,6 +127,3 @@ All night long
 
 I hear it over and over
 And over and over again
-
-
-

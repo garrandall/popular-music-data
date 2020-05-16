@@ -1,9 +1,12 @@
 ---
+album: War & Peace Vol. 1 (The War Disc)
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:1Lol4oIE5ruatEyhzu7Mw9
 features:
 - Mr. Short Khop
-genres: []
+first_released_as_single: false
 key: pushin--weight-ice-cube-mr--short-khop
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/pushinweight.html
 name: Pushin' Weight
@@ -84,9 +87,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 274600
 ---
-
-
 Yeah, yeah
 Blaze one for the nation
 Brrrrr
@@ -206,6 +209,3 @@ You ain't changin nothin
 I been doin this, I been doin this
 Ask about me
 Ask about me
-
-
-

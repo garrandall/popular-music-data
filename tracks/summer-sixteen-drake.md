@@ -1,8 +1,11 @@
 ---
+album: Summer Sixteen
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:17Q87zeXgsAi9iQQbMu9v0
 features: []
-genres: []
+first_released_as_single: true
 key: summer-sixteen-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/summersixteen.html
 name: Summer Sixteen
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-05-21'
+release_year: 2016
+runtime: 202450
 ---
-
 Look, looking, looking
 Looking, looking, looking
 Looking, looking
@@ -177,6 +181,3 @@ All repping one thing
 Looking for re
 
 They don't want us to have a bigger pool than Kanye
-
-
-

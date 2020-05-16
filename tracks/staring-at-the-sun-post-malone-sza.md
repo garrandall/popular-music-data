@@ -1,9 +1,12 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:5KE9b4x7Zj2A8XtbkqhqTe
 features:
 - SZA
-genres: []
+first_released_as_single: false
 key: staring-at-the-sun-post-malone-sza
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/staringatthesun.html
 name: Staring At The Sun
@@ -16,8 +19,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 168280
 ---
-
 Wait
 I know you got a lot of shit you like to say
 (To say, to say)
@@ -65,6 +69,3 @@ Blinded by the thought of us, so
 Give me a chance I will fuck up again
 I warned you in advance
 But you just keep on staring at the Sun
-
-
-

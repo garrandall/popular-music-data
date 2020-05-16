@@ -1,8 +1,11 @@
 ---
+album: Harold Melvin & The Blue Notes
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:0ahp2FHiAEuv9PCoPFuGLQ
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-don-t-know-me-by-now-harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-if-you-dont-know-me-by-now-lyrics
 name: If You Don't Know Me By Now
@@ -75,6 +78,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 205906
 ---
 If you don't know me by now
 You will never, never, never know me

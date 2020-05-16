@@ -1,8 +1,11 @@
 ---
+album: 'The Art of War: World War 1'
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:4fupWy6EgMEsEGFXh7vCc9
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-teach-the-world-bone-thugs-n-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/bonethugsnharmony/ificouldteachtheworld.html
 name: If I Could Teach The World
@@ -87,8 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 264226
 ---
-
 Why do I stay high
 
 
@@ -175,6 +179,3 @@ How must I say this, if we can no more murder
 
 
 Why do I stay high
-
-
-

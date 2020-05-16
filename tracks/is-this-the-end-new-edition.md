@@ -1,8 +1,11 @@
 ---
+album: Candy Girl
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:7oQu8H2QfZCUaj5t1aOMRG
 features: []
-genres: []
+first_released_as_single: false
 key: is-this-the-end-new-edition
 lyrics_url: https://genius.com/New-edition-is-this-the-end-lyrics
 name: Is This The End
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 251400
 ---
 Is this the end?
 Are you my friend?

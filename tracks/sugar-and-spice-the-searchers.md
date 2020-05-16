@@ -1,8 +1,11 @@
 ---
+album: Sugar And Spice
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:6WZZPoX7a0893aaXaZRkYa
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-and-spice-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/sugarandspice.html
 name: Sugar And Spice
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1963
+runtime: 136720
 ---
-
 Sugar and spice and all things nice
 Kisses sweeter than wine
 Sugar and spice and all things nice
@@ -77,6 +81,3 @@ Sugar and spice and all things nice
 Kisses sweeter than wine
 Sugar and spice and all things nice
 You know that little girl is mine
-
-
-

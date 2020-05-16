@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:4uVpzY6FHmcevXKGEunbxM
 features: []
-genres: []
+first_released_as_single: false
 key: anything-that-s-part-of-you-elvis-presley-with-the-jordanaires
 name: Anything That's Part Of You
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 127880
 ---
 

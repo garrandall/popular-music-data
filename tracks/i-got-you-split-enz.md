@@ -1,8 +1,11 @@
 ---
+album: True Colours
 artists:
 - Split Enz
+external_ids:
+  spotify: spotify:track:3KOPorZiKeW6gFeIViqMoq
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-split-enz
 lyrics_url: https://genius.com/Split-enz-i-got-you-lyrics
 name: I Got You
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 209466
 ---
 I got you
 And that's all I want

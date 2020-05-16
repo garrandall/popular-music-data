@@ -1,8 +1,11 @@
 ---
+album: Bananarama
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:6xdYHNW7gFz9Fm8wSarUMK
 features: []
-genres: []
+first_released_as_single: false
 key: the-wild-life-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/thewildlife.html
 name: The Wild Life
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
+release_year: 1984
+runtime: 234250
 ---
-
 What your mother don't know 
 She won't mind 
 Her good advice was a waste of time 
@@ -95,6 +99,3 @@ Jump in the fire you're gonna get burned
 You might lose your way 
 When you come out to play 
 The wild life
-
-
-

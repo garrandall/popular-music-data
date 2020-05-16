@@ -1,8 +1,11 @@
 ---
+album: Sister Hazel
 artists:
 - Sister Hazel
+external_ids:
+  spotify: spotify:track:5mgKBsby9XWPPfH0h3EJWd
 features: []
-genres: []
+first_released_as_single: false
 key: all-for-you-sister-hazel
 lyrics_url: https://genius.com/Sister-hazel-all-for-you-lyrics
 name: All For You
@@ -171,6 +174,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
+release_year: 1994
+runtime: 203440
 ---
 Finally I figured out
 But it took a long long time

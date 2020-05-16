@@ -1,9 +1,12 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:1bM50INir8voAkVoKuvEUI
 features:
 - will.i.am
-genres: []
+first_released_as_single: false
 key: omg-usher-will-i-am
 lyrics_url: https://genius.com/Usher-omg-lyrics
 name: OMG
@@ -128,6 +131,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 269493
 ---
 Oh my gosh
 Baby let me

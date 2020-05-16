@@ -1,8 +1,11 @@
 ---
+album: Meet Danny Wilson
 artists:
 - Danny Wilson
+external_ids:
+  spotify: spotify:track:6G3afsR0udhKnAU0Tut25j
 features: []
-genres: []
+first_released_as_single: false
 key: mary-s-prayer-danny-wilson
 lyrics_url: https://genius.com/Danny-wilson-marys-prayer-lyrics
 name: Mary's Prayer
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 234466
 ---
 Everything is wonderful
 Being here is heavenly

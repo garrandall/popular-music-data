@@ -1,8 +1,11 @@
 ---
+album: In The Jungle, Babe/Express Yourself
 artists:
 - Charles Wright And The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:5tMuapLvDtmai49KiqXKnu
 features: []
-genres: []
+first_released_as_single: true
 key: love-land-charles-wright-and-the-watts-103rd-street-rhythm-band
 lyrics_url: https://genius.com/Charles-wright-and-the-watts-103rd-street-rhythm-band-love-land-lyrics
 name: Love Land
@@ -75,6 +78,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 186973
 ---
 I Have heard all about Love Land
 And all of its little charms

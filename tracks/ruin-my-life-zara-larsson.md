@@ -1,8 +1,11 @@
 ---
+album: Ruin My Life
 artists:
 - Zara Larsson
+external_ids:
+  spotify: spotify:track:5Fyjxarrx6ZFrZ2DHte8Z5
 features: []
-genres: []
+first_released_as_single: true
 key: ruin-my-life-zara-larsson
 lyrics_url: https://www.azlyrics.com/lyrics/zaralarsson/ruinmylife.html
 name: Ruin My Life
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2018
+runtime: 190931
 ---
-
 I miss you pushing me close to the edge
 I miss you
 I wish I knew what I had when I left
@@ -114,6 +118,3 @@ I want you to bring it all on
 If you make it all wrong, then I'll make it all right, yeah
 I want you to ruin my life
 You to ruin my life, you to ruin my life
-
-
-

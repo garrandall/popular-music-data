@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4OS659tAdsaKZbDVbYo8QX
 features: []
-genres: []
+first_released_as_single: true
 key: photograph-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/photograph.html
 name: Photograph
@@ -139,8 +142,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 258920
 ---
-
 Look at this photograph
 Every time I do it makes me laugh
 How did our eyes get so red?
@@ -227,6 +231,3 @@ Goodbye, goodbye.
 Look at this photograph
 Every time I do it makes me laugh
 Every time I do it makes me...
-
-
-

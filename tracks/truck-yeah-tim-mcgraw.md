@@ -1,8 +1,11 @@
 ---
+album: Two Lanes Of Freedom (Accelerated Deluxe)
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:3crxySebCike4UZq4SvzxT
 features: []
-genres: []
+first_released_as_single: true
 key: truck-yeah-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/truckyeah.html
 name: Truck Yeah
@@ -71,8 +74,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 208400
 ---
-
 Got Lil' Wayne pumpin' on my iPod
 Thumpin' on the subs in the back of my crew cab
 Redneck rockin' like a rockstar
@@ -124,6 +128,3 @@ We can love it on up yeah
 And if you think this life I love is a little too country
 You're right on the money
 Truck Yeah!
-
-
-

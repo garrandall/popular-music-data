@@ -1,8 +1,11 @@
 ---
+album: Brown & Proud
 artists:
 - Lighter Shade Of Brown
+external_ids:
+  spotify: spotify:track:0RqjLvqgoncsPR3ahEPQES
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-sunday-afternoon-lighter-shade-of-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Lighter-Shade-of-Brown/On-a-Sunday-Afternoon
 name: On A Sunday Afternoon
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
+release_year: 1990
+runtime: 227440
 ---
 Hi this is Huggy Boy
 This is going out to all the homies on a Sunday afternoon

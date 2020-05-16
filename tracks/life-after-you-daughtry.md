@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:70NGpcNvhI2hqonWNAETIu
 features: []
-genres: []
+first_released_as_single: false
 key: life-after-you-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/lifeafteryou.html
 name: Life After You
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2006
+runtime: 207213
 ---
-
 Ten miles from town and I just broke down
 Spittin' out smoke on the side of the road
 I'm out here alone just tryin' to get home
@@ -129,6 +133,3 @@ As long as I'm laughing with you
 I'm thinkin' that all that still matters is love ever after
 After the life we've been through
 'Cause I know there's no life after you
-
-
-

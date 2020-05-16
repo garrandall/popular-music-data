@@ -1,8 +1,11 @@
 ---
+album: Ricky Martin
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:4uVn9Cfhp9UKBvZpKYv9HU
 features: []
-genres: []
+first_released_as_single: false
 key: livin--la-vida-loca-ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-livin-la-vida-loca-lyrics
 name: Livin' La Vida Loca
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
+release_year: 1997
+runtime: 222693
 ---
 She's into superstitions
 Black cats and voodoo dolls

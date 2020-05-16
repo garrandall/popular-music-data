@@ -1,8 +1,11 @@
 ---
+album: The Korgis Kollection
 artists:
 - The Korgis
+external_ids:
+  spotify: spotify:track:2PxyiPwogw6C9yu1jRgFiA
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-got-to-learn-sometime-the-korgis
 lyrics_url: https://genius.com/The-korgis-everybodys-got-to-learn-sometime-lyrics
 name: Everybody's Got To Learn Sometime
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1978
+runtime: 251946
 ---
 Change your heart
 Look around you

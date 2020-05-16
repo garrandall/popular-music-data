@@ -1,8 +1,11 @@
 ---
+album: Hummin' Comin' At 'Cha
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:2CG9mGkKC6IQE5lEjDioEi
 features: []
-genres: []
+first_released_as_single: false
 key: just-kickin--it-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/justkickinit.html
 name: Just Kickin' It
@@ -91,9 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1993
+runtime: 204173
 ---
-
-
 Every man wants a woman,
 Where him and her can just go hang.
 Just the two of them along, kick back,
@@ -119,4 +122,3 @@ Every man wants a woman,
 That ain't good for just laying on her back.
 :And I'm that kind of woman,
 :So before me and my man get in the sack...
-

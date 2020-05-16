@@ -1,8 +1,11 @@
 ---
+album: 'Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll'
 artists:
 - The Knockouts
+external_ids:
+  spotify: spotify:track:58rE0XBpWlcupuTU2nso8j
 features: []
-genres: []
+first_released_as_single: false
 key: darling-lorraine-the-knockouts
 lyrics_url: https://www.musixmatch.com/lyrics/The-Knockouts/Darling-Lorraine
 name: Darling Lorraine
@@ -51,6 +54,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1959
+runtime: 121443
 ---
 You are an angel, angel divine
 You're sent from heaven

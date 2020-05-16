@@ -1,8 +1,11 @@
 ---
+album: Back Home Again
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:4J0DbyODwZJcmIAiTSJfMF
 features: []
-genres: []
+first_released_as_single: false
 key: annie-s-song-john-denver
 lyrics_url: https://genius.com/John-denver-annies-song-lyrics
 name: ANNIE's SONG
@@ -75,6 +78,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 180693
 ---
 You fill up my senses, like a night in a forest
 Like the mountains in springtime, like a walk in the rain

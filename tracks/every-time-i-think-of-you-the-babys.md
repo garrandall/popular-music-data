@@ -1,8 +1,11 @@
 ---
+album: Head First
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:76fFzThA0KjAea2BdVlHnD
 features: []
-genres: []
+first_released_as_single: false
 key: every-time-i-think-of-you-the-babys
 lyrics_url: https://www.azlyrics.com/lyrics/babys/everytimeithinkofyou.html
 name: Every Time I Think Of You
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 239160
 ---
-
 Every time I think of you
 It always turns out good
 Every time I've held you
@@ -138,6 +142,3 @@ Every time I think of you
 
 Every time I think of you
 Every time I think of you
-
-
-

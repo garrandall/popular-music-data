@@ -1,8 +1,11 @@
 ---
+album: "Bob Lind Live at the Luna Star Caf\xE9"
 artists:
 - Bob Lind
+external_ids:
+  spotify: spotify:track:226EXK5tPVsqaZ2y9RACR0
 features: []
-genres: []
+first_released_as_single: false
 key: elusive-butterfly-bob-lind
 lyrics_url: https://genius.com/Bob-lind-elusive-butterfly-lyrics
 name: Elusive Butterfly
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 168533
 ---
 You might wake up some mornin'
 To the sound of something moving past your window in the wind

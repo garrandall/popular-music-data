@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 12 Collection (The Voice Performance)
 artists:
 - Lauren Duski
+external_ids:
+  spotify: spotify:track:6cl1vl6OU6RLr1C56wOn21
 features: []
-genres: []
+first_released_as_single: false
 key: ghost-in-this-house-lauren-duski
 lyrics_url: https://www.musixmatch.com/lyrics/Lauren-Duski/Ghost-In-This-House-The-Voice-Performance
 name: Ghost In This House
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2017
+runtime: 212757
 ---
 I don't pick up the mail
 I don't pick up the phone

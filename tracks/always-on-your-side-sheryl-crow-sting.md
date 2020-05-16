@@ -1,9 +1,12 @@
 ---
+album: Wildflower
 artists:
 - Sheryl Crow
 - Sting
+external_ids:
+  spotify: spotify:track:551CrOP9ukqlWblvMHysY1
 features: []
-genres: []
+first_released_as_single: false
 key: always-on-your-side-sheryl-crow-sting
 lyrics_url: https://genius.com/Sheryl-crow-always-on-your-side-duet-version-lyrics
 name: Always On Your Side
@@ -40,6 +43,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-05-06'
+release_year: 2005
+runtime: 250400
 ---
 My yesterdays are all boxed up and neatly put away
 But every now and then you come to mind

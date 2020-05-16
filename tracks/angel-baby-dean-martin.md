@@ -1,8 +1,11 @@
 ---
+album: This Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:5DX3P3b7kv8266XyuA7fsS
 features: []
-genres: []
+first_released_as_single: false
 key: angel-baby-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/angelbaby.html
 name: Angel Baby
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 166160
 ---
-
 (Angel baby you're mine forever)
 (Angel baby, you angel baby you)
 Who is the dream who starts me dreaming
@@ -61,6 +65,3 @@ Just for the chance to love and live for
 You, angel baby, you
 (Angel baby) you're mine forever
 (Angel baby) you, angel baby, you
-
-
-

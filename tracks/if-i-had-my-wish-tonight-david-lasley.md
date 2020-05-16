@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - David Lasley
+external_ids:
+  spotify: spotify:track:3ZT5jBMOxzs1bS0kxmKVp2
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-my-wish-tonight-david-lasley
 lyrics_url: https://genius.com/David-lasley-if-i-had-my-wish-tonight-lyrics
 name: If I Had My Wish Tonight
@@ -47,6 +50,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1982
+runtime: 213240
 ---
 IF I HAD MY WISH TONIGHT
 David Lasley

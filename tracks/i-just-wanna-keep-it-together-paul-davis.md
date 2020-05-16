@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Of Paul Davis
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:7h8CFUgH4f1KudtL7sH1gY
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-keep-it-together-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/ijustwannakeepittogether.html
 name: I Just Wanna Keep It Together
@@ -43,8 +46,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 149800
 ---
-
 I don't know when it started
 Just how long it's been
 Where it began
@@ -100,6 +104,3 @@ Forever and ever and ever
 I just wanna keep it
 Keep it together
 Forever and ever and ever
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Shade Business
 artists:
 - PMD
+external_ids:
+  spotify: spotify:track:3INCVdWWp592seTppJDWN1
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-it-cummin--pmd
 lyrics_url: https://genius.com/Pmd-i-saw-it-cummin-lyrics
 name: I Saw It Cummin'
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
+release_year: 1994
+runtime: 242226
 ---
 Check Check It Out Check it Out
 Check Check It Out Check it Out

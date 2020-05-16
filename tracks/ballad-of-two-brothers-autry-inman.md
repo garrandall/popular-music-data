@@ -1,8 +1,11 @@
 ---
+album: Ballad of Two Brothers
 artists:
 - Autry Inman
+external_ids:
+  spotify: spotify:track:4DPTB97GjKGuA9zBp1FhuV
 features: []
-genres: []
+first_released_as_single: false
 key: ballad-of-two-brothers-autry-inman
 lyrics_url: https://genius.com/Autry-inman-ballad-of-two-brothers-lyrics
 name: Ballad Of Two Brothers
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 211240
 ---
 Somewhere in Vietnam, September first
 Dear, Mom and Dad

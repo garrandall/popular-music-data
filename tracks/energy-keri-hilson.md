@@ -1,8 +1,11 @@
 ---
+album: In A Perfect World...
 artists:
 - Keri Hilson
+external_ids:
+  spotify: spotify:track:3Y9NEDVSMiXepn0qzro5w9
 features: []
-genres: []
+first_released_as_single: true
 key: energy-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/kerihilson/energy.html
 name: Energy
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 209893
 ---
-
 I wish I could rip out a page of my memory
 Cause I put too much energy in him and me
 Can't wait till I get through this phase
@@ -91,6 +95,3 @@ This love is taking all of my energy
 You're killing me
 You're taking all of me yeah, oh
 This love is taking all of my energy
-
-
-

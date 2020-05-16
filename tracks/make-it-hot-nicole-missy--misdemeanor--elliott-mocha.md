@@ -1,10 +1,13 @@
 ---
+album: Make It Hot
 artists:
 - Nicole
+external_ids:
+  spotify: spotify:track:74nsOZqzZzyvFVvBy12I7Y
 features:
 - Missy Elliott
 - Mocha
-genres: []
+first_released_as_single: false
 key: make-it-hot-nicole-missy--misdemeanor--elliott-mocha
 lyrics_url: https://genius.com/Nicole-wray-make-it-hot-lyrics
 name: Make It Hot
@@ -101,6 +104,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 267093
 ---
 But uh anyway
 You could catch me any day

@@ -1,8 +1,11 @@
 ---
+album: This Fire
 artists:
 - Paula Cole
+external_ids:
+  spotify: spotify:track:2ck13qfgRZ1msyEJlDqzvk
 features: []
-genres: []
+first_released_as_single: false
 key: where-have-all-the-cowboys-gone--paula-cole
 lyrics_url: https://www.azlyrics.com/lyrics/paulacole/wherehaveallthecowboysgone.html
 name: Where Have All The Cowboys Gone?
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1996
+runtime: 263653
 ---
-
 One two three four
 
 Oh you get me ready
@@ -150,6 +154,3 @@ Where have all the cowboys gone
 Where have all the cowboys gone
 
 Where have all the cowboys gone
-
-
-

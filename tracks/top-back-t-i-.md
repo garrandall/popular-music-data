@@ -1,8 +1,11 @@
 ---
+album: King
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:3FDd00T6qfho8j2HSZEfWp
 features: []
-genres: []
+first_released_as_single: false
 key: top-back-t-i-
 lyrics_url: https://genius.com/Ti-top-back-lyrics
 name: Top Back
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 282413
 ---
 Crème de la crème, homie, top shelf you know
 I like my beat down low, down low, down low, down low

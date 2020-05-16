@@ -1,8 +1,11 @@
 ---
+album: Henry Lee Summer
 artists:
 - Henry Lee Summer
+external_ids:
+  spotify: spotify:track:6WoN3Qbw1FfayeJy09rFzR
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-i-had-a-girl-henry-lee-summer
 lyrics_url: https://genius.com/Henry-lee-summer-i-wish-i-had-a-girl-lyrics
 name: I Wish I Had A Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1988
+runtime: 264426
 ---
 Wooow, hey
 Mmm mmm mmm mmm

@@ -1,8 +1,11 @@
 ---
+album: Freddie (Original)
 artists:
 - Charlene
+external_ids:
+  spotify: spotify:track:1FRMp3MAn0jHAHbCA1Sxyw
 features: []
-genres: []
+first_released_as_single: true
 key: freddie-charlene
 name: Freddie
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1977
+runtime: 252029
 ---
 

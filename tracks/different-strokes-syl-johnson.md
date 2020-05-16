@@ -1,8 +1,11 @@
 ---
+album: Dresses Too Short
 artists:
 - Syl Johnson
+external_ids:
+  spotify: spotify:track:3AXs4whfA4nqfWeXYkunTK
 features: []
-genres: []
+first_released_as_single: false
 key: different-strokes-syl-johnson
 lyrics_url: https://genius.com/Syl-johnson-different-strokes-lyrics
 name: Different Strokes
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 139666
 ---
 Baby you're laughin'
 But I'll be around for a while yeah, yeah, yeah

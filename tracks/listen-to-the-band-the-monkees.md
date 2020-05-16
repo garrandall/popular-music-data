@@ -1,8 +1,11 @@
 ---
+album: 'The Monkees Present: Micky, David & Michael'
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:5UShvaWUhwbohqyzHZX6i2
 features: []
-genres: []
+first_released_as_single: false
 key: listen-to-the-band-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/listentotheband.html
 name: Listen To The Band
@@ -39,8 +42,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 161399
 ---
-
 Hey, hey, mercy woman plays a song and no one listens,
 I need help I'm falling again.
 
@@ -73,6 +77,3 @@ Tell us we can live without her
 Now that we have listened to the band.
 
 Listen to the band!
-
-
-

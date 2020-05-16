@@ -1,8 +1,11 @@
 ---
+album: Le Roi Est Mort, Vive Le Roi!
 artists:
 - Enigma
+external_ids:
+  spotify: spotify:track:2Zdd1LBFZaiKq5e5k2W2eW
 features: []
-genres: []
+first_released_as_single: false
 key: beyond-the-invisible-enigma
 lyrics_url: https://www.azlyrics.com/lyrics/enigma/beyondtheinvisible.html
 name: Beyond The Invisible
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
+release_year: 1996
+runtime: 300026
 ---
-
 I look into the mirror
 See myself, I'm over me
 I need space for my desires
@@ -50,6 +54,3 @@ behold the Holy City is a desert:
 Sion is mad a desert:
 Jerusalem is desolate:
 the house of your holiness and glory
-
-
-

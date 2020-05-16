@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:3333YXdcyths5CB8v28dZj
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-wait-awhile-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/letswaitawhile.html
 name: Let's Wait Awhile
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1986
+runtime: 277400
 ---
-
 There's something I want to tell you
 There's something I think that you should know
 It's not that I shouldn't really love you
@@ -151,6 +155,3 @@ La da lee de da da de de de, da da da da la da da
 La da lee de da da de de de
 
 I promise, I'll be worth the wait
-
-
-

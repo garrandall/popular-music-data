@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2fkeWbM6iqTw7oGHTYm2lw
 features:
 - Sampha
-genres: []
+first_released_as_single: false
 key: 4422-drake-sampha
 lyrics_url: https://www.azlyrics.com/lyrics/drake/4422.html
 name: '4422'
@@ -16,8 +19,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 186293
 ---
-
 I'm runnin', but can't run away
 You say you changed
 But you never change up
@@ -56,6 +60,3 @@ Outer space, Pearly Gates
 I'm runnin', but can't run away
 You say you changed
 But you never change up
-
-
-

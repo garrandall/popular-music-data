@@ -1,8 +1,11 @@
 ---
+album: Uncle Charlie And His Dog Teddy
 artists:
 - Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:69ixEGatllReEVQUVpOMxG
 features: []
-genres: []
+first_released_as_single: false
 key: some-of-shelly-s-blues-nitty-gritty-dirt-band
 lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-some-of-shellys-blues-lyrics
 name: Some Of Shelly's Blues
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 191889
 ---
 Tell me
 Just one more time the reason why you must leave

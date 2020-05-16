@@ -1,9 +1,12 @@
 ---
+album: In My Mind
 artists:
 - Pharrell
+external_ids:
+  spotify: spotify:track:5AwyOxnUiXlmFLKsQJyzzG
 features:
 - Gwen Stefani
-genres: []
+first_released_as_single: true
 key: can-i-have-it-like-that-pharrell-gwen-stefani
 lyrics_url: https://genius.com/Pharrell-williams-can-i-have-it-like-that-lyrics
 name: Can I Have It Like That
@@ -40,6 +43,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-12-24'
+release_year: 2005
+runtime: 237746
 ---
 Ladies and Gentlemen
 Yes, Sir... let's do it

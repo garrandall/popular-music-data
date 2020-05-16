@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Performances
 artists:
 - Kenny Nolan
+external_ids:
+  spotify: spotify:track:5U7BnxhqyhVJJH3xb4Mbya
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-grown-deep-kenny-nolan
 lyrics_url: https://genius.com/Kenny-nolan-loves-grown-deep-lyrics
 name: Love's Grown Deep
@@ -79,6 +82,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1976
+runtime: 239426
 ---
 I love you, so much
 Somewhere back in time

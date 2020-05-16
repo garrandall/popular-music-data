@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:2lFFiNm0XtgJ6wkdncTB4k
 features: []
-genres: []
+first_released_as_single: false
 key: drive-the-cars
 lyrics_url: https://genius.com/The-cars-drive-lyrics
 name: Drive
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 234332
 ---
 Who's gonna tell you when
 It's too late?

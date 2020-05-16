@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:5sUTy0TDw5JCwQr8TCWcG3
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-let-s-go-let-s-go-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-lets-go-lets-go-lets-go-lyrics
 name: Let's Go Let's Go Let's Go
@@ -71,18 +74,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 149053
 ---
-Let's Go, Let's Go, Let's Go 2: 24 Trk 12
-(Hank Ballard)
-Hank Ballard And The Midnighters
-Sonny Wood, Henry Booth
-Charles Sutton & Alonzo Tucker
-Pop Chart #6 Year: Sept. 19, 1960
-King Federal Records single 5400
-Album: Hank Ballard & The Midnighters 1953 -1962
-
-(guitar)
-
 There's a thrill upon the hill
 Let's go, let's a-go, let's go
 There's a thrill upon the hill
@@ -109,8 +103,6 @@ Let's go, let's a-go, let's go
 
 Let's go!
 
-(sax & instrumental)
-
 Eee-yeah!
 Everybody's gonna be there
 My friends and yours from everywhere
@@ -124,7 +116,3 @@ Let's go, let's a-go, let's go
 
 There's a thrill upon the hill
 A-let's go, let's a-go, let's go
-
-Fades-
-
-~

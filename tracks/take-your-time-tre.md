@@ -1,8 +1,11 @@
 ---
+album: 'From Barrelhouse To Broadway: The Musical Odyssey Of Joe Jordan'
 artists:
 - Tre
+external_ids:
+  spotify: spotify:track:43t04c7dmMf1yK0M8R9z5E
 features: []
-genres: []
+first_released_as_single: false
 key: take-your-time-tre
 lyrics_url: https://genius.com/Tre-mo-thugs-take-your-time-lyrics
 name: Take Your Time
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-04-19'
+release_year: 1997
+runtime: 261160
 ---
 The word "love" is a hell of a word to be sayin'
 You don't know how to use it with caution

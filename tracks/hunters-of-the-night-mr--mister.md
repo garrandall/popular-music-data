@@ -1,8 +1,11 @@
 ---
+album: I Wear The Face
 artists:
 - Mr. Mister
+external_ids:
+  spotify: spotify:track:04ePIeMAhtRjpeq3CCwyh5
 features: []
-genres: []
+first_released_as_single: false
 key: hunters-of-the-night-mr--mister
 lyrics_url: https://www.azlyrics.com/lyrics/mrmister/huntersofthenight.html
 name: Hunters Of The Night
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
+release_year: 1984
+runtime: 310093
 ---
-
 He's a lean and hungry hunter, on the street tonight the fire's bright
 She's in his sights
 She's a lonely little dancer, out to find a daring new romance
@@ -75,6 +79,3 @@ We're all hunters, we're hunters of the night
 Ohhh-oh, we're all hunters of the night
 Ohhh-oh, we're all hunters of the night
 Ohhh, we hunt the night, we hunt the night, we hunt the night...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: You Can Tune a Piano, But You Can't Tuna Fish
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:16x9viSmRS3PII71Pdeowc
 features: []
-genres: []
+first_released_as_single: false
 key: roll-with-the-changes-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/rollwiththechanges.html
 name: Roll With The Changes
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 335826
 ---
-
 As soon as you are able
 Woman I am willing
 To make the break that we
@@ -82,6 +86,3 @@ I'll be here when you are ready
 To roll with the changes
 
 Roll with the changes
-
-
-

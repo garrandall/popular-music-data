@@ -1,8 +1,11 @@
 ---
+album: Ladies Of The Eighties
 artists:
 - A Taste Of Honey
+external_ids:
+  spotify: spotify:track:7Jy1RGzK7IRbZG0yq3oKSu
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-try-something-new-a-taste-of-honey
 lyrics_url: https://genius.com/A-taste-of-honey-ill-try-something-new-lyrics
 name: I'll Try Something New
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1982
+runtime: 255666
 ---
 I will build you a castle with a tower so high
 It reaches the moon

@@ -1,8 +1,11 @@
 ---
+album: Trini
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:1QA87heeDbPCXNanBmZOla
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-comin--home-cindy-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-im-comin-home-cindy-lyrics
 name: I'm Comin' Home Cindy
@@ -35,6 +38,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 141626
 ---
 Oh, I've had girls a'plenty
 Out in the evening breeze

@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Love
 artists:
 - The Reflections
+external_ids:
+  spotify: spotify:track:7iSG8g8HVyGz8pgMD5cG6B
 features: []
-genres: []
+first_released_as_single: false
 key: -just-like--romeo---juliet-the-reflections
 lyrics_url: https://www.musixmatch.com/lyrics/The-Reflections/Just-Like-Romeo-Juliet
 name: (Just Like) Romeo & Juliet
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 127893
 ---
 (Oh oh oop)
 

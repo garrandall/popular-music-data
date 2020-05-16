@@ -1,8 +1,11 @@
 ---
+album: Let's Dance
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:7Dy1LOaEeuYOEe5k17T3Rh
 features: []
-genres: []
+first_released_as_single: true
 key: china-girl-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/chinagirl.html
 name: China Girl
@@ -79,8 +82,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 257000
 ---
-
 Little China girl
 Little China girl
 
@@ -137,6 +141,3 @@ Little China girl
 Little China girl
 Little China girl
 Little China girl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: How Does That Grab You?
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:7F1MfYFvrXgywSQdmxCkZR
 features: []
-genres: []
+first_released_as_single: false
 key: lightning-s-girl-nancy-sinatra
 lyrics_url: https://genius.com/Nancy-sinatra-lightnings-girl-lyrics
 name: Lightning's Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1966
+runtime: 176053
 ---
 I've told you that I'm Lightning's girl
 But you keep hanging 'round

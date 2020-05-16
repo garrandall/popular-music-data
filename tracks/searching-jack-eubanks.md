@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - Jack Eubanks
+external_ids:
+  spotify: spotify:track:4DL21qfPuB0c5ZNr0ZkDrm
 features: []
-genres: []
+first_released_as_single: false
 key: searching-jack-eubanks
 name: Searching
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 155600
 ---
 

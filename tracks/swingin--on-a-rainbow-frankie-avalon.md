@@ -1,8 +1,11 @@
 ---
+album: Secret Love (Shellac Memories)
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0O2PaO87zwuXez3C2pm0qd
 features: []
-genres: []
+first_released_as_single: false
 key: swingin--on-a-rainbow-frankie-avalon
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/Swingin-on-a-Rainbow
 name: Swingin' On A Rainbow
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 112967
 ---
 You've got me swinging on a rainbow
 Walking around in the rain

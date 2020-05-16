@@ -1,8 +1,11 @@
 ---
+album: Ice Cream Castle
 artists:
 - The Time
+external_ids:
+  spotify: spotify:track:7o8UELQiECaSiVBztJTRij
 features: []
-genres: []
+first_released_as_single: false
 key: the-bird-the-time
 lyrics_url: https://genius.com/The-time-the-bird-lyrics
 name: The Bird
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 464333
 ---
 Hold on, hold on, why y'all beatin' on shit, what's that mean?
 Hold up, do y'all wanna learn a new dance?

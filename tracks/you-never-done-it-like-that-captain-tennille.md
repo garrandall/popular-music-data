@@ -1,9 +1,12 @@
 ---
+album: Dream
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:1tVtuTj5UXk4o3lpdpiF72
 features: []
-genres: []
+first_released_as_single: false
 key: you-never-done-it-like-that-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/youneverdoneitlikethat.html
 name: You Never Done It Like That
@@ -96,8 +99,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 201800
 ---
-
 You're so terrific, mmm
 You never done it like that
 You never been this way before
@@ -175,6 +179,3 @@ Oh, what you do
 Oh, what you do
 You never done it
 You never, ever done it like that
-
-
-

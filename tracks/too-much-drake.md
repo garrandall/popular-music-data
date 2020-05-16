@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6UgxOrbHWJeqHvh0ost7Aa
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-drake
 lyrics_url: https://genius.com/Drake-too-much-lyrics
 name: Too Much
@@ -11,6 +14,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 261853
 ---
 Don't think about it too much, too much, too much, too much
 There's no need for us to rush it through

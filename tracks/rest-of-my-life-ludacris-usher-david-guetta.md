@@ -1,10 +1,13 @@
 ---
+album: Rest Of My Life
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:6SLUwdeias7fn6qVq6LcgP
 features:
 - Usher
 - David Guetta
-genres: []
+first_released_as_single: true
 key: rest-of-my-life-ludacris-usher-david-guetta
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/restofmylife.html
 name: Rest Of My Life
@@ -49,8 +52,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2012
+runtime: 232026
 ---
-
 If you live for something
 You're not
 Alone, my friend
@@ -129,6 +133,3 @@ For the rest of my life
 For the rest of my life
 
 For the rest of my life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Do It ('Til You're Satisfied)
 artists:
 - B.T. Express
+external_ids:
+  spotify: spotify:track:7aUA2QLuPtuaBgnxLSAbnZ
 features: []
-genres: []
+first_released_as_single: false
 key: express-b-t--express
 lyrics_url: https://genius.com/Bt-express-do-it-til-youre-satisfied-lyrics
 name: Express
@@ -67,6 +70,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1974
+runtime: 308013
 ---
 Oooooo
 Go on and do it

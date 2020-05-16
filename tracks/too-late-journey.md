@@ -1,8 +1,11 @@
 ---
+album: Evolution
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:1QtlwqyGML94qmNNpxbRUI
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-journey
 lyrics_url: https://genius.com/Journey-too-late-lyrics
 name: Too Late
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1975
+runtime: 177533
 ---
 See the stop-light turning red
 Don't you listen to what it's said

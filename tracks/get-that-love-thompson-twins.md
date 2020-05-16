@@ -1,8 +1,11 @@
 ---
+album: Close to the Bone
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:2znXzyrkyhNt23aryO0olS
 features: []
-genres: []
+first_released_as_single: false
 key: get-that-love-thompson-twins
 lyrics_url: https://genius.com/Thompson-twins-get-that-love-lyrics
 name: Get That Love
@@ -51,6 +54,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1987
+runtime: 240226
 ---
 I gave up on lovin'
 A long long time ago

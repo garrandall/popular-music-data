@@ -1,8 +1,11 @@
 ---
+album: The Sweetest Hits of The Marmalade
 artists:
 - The Marmalade
+external_ids:
+  spotify: spotify:track:0Ys5uo85dWe87oycGCjsea
 features: []
-genres: []
+first_released_as_single: false
 key: rainbow-the-marmalade
 lyrics_url: https://www.azlyrics.com/lyrics/marmalade/rainbow.html
 name: Rainbow
@@ -39,8 +42,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 201026
 ---
-
 Rainbow
 Look me up look me down
 Rainbow
@@ -75,6 +79,3 @@ Come on home, keep me warm
 And love me till the new day's born
 And I pray, you will stay
 For ever in my eyes
-
-
-

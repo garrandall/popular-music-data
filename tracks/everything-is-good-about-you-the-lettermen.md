@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:1YiY2Y9efmHPEKMv6S9ewR
 features: []
-genres: []
+first_released_as_single: false
 key: everything-is-good-about-you-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-everything-is-good-about-you-lyrics
 name: Everything Is Good About You
@@ -35,6 +38,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1971
+runtime: 184960
 ---
 So sweet you are
 Like a shining star

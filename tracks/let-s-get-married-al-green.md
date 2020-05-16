@@ -1,8 +1,11 @@
 ---
+album: Livin' for You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:6w2H4XYwk9EhvPdmx95jEI
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-married-al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/letsgetmarried.html
 name: Let's Get Married
@@ -51,8 +54,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 334373
 ---
-
 Sitting here
 Wasting my time for you
 And I'm not too crazy about the idea
@@ -105,6 +109,3 @@ You don't believe me
 Let's get married today
 I found out I didn't, I don't love nobody anyway
 Let's get married today
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rally 'Round!
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:5YTFX7i07vI2WpeCgnxMSb
 features: []
-genres: []
+first_released_as_single: false
 key: blue-water-line-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-blue-water-line-lyrics
 name: Blue Water Line
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1960
+runtime: 170400
 ---
 The City Council met last night, the vote was four to three
 To tear the home town depot down and build a factory

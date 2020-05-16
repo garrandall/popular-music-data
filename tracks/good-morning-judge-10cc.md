@@ -1,8 +1,11 @@
 ---
+album: Deceptive Bends
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:1fMGRxKRtIKNyaMMGrzInM
 features: []
-genres: []
+first_released_as_single: false
 key: good-morning-judge-10cc
 lyrics_url: https://www.azlyrics.com/lyrics/10cc/goodmorningjudge.html
 name: Good Morning Judge
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 174666
 ---
-
 Well good morning Judge, how are you today
 I'm in trouble, please put me away
 A pretty thing took a shine to me
@@ -73,6 +77,3 @@ I'm so happy I don't wanna be free
 So happy I don't wanna be free
 So happy I don't wanna be free
 So happy I don't wanna be free
-
-
-

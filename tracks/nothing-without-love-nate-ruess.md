@@ -1,8 +1,11 @@
 ---
+album: Grand Romantic
 artists:
 - Nate Ruess
+external_ids:
+  spotify: spotify:track:6B32P7G34pxwtJl0e6d4GH
 features: []
-genres: []
+first_released_as_single: true
 key: nothing-without-love-nate-ruess
 lyrics_url: https://genius.com/Nate-ruess-nothing-without-love-lyrics
 name: Nothing Without Love
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2015
+runtime: 258843
 ---
 I am nothing without love
 I’m but a ship stuck in the sand

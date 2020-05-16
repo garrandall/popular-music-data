@@ -1,9 +1,12 @@
 ---
+album: Forever
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:79rKHltKL1T8rS98lOv3yF
 features: []
-genres: []
+first_released_as_single: false
 key: stone-love-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/stonelove.html
 name: Stone Love
@@ -80,8 +83,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1986
+runtime: 275040
 ---
-
 Girl, the first time we met, it took me by surprise
 Ooo girl, you walked into my life with those street corner blues
 You were living in the fast lane, much to my surprise, baby
@@ -135,6 +139,3 @@ La la la, stone love, stone love
 La la la la la, stone love
 (It's about me and you, stone love)
 La la la, stone love, stone love
-
-
-

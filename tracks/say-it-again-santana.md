@@ -1,8 +1,11 @@
 ---
+album: Beyond Appearances
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:7yXb6dInm0pKwtxMLFhRIP
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-again-santana
 lyrics_url: https://genius.com/Santana-say-it-again-lyrics
 name: Say It Again
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1985
+runtime: 209000
 ---
 It gives me such a thrill
 When you tell me 'bout the way

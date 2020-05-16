@@ -1,8 +1,11 @@
 ---
+album: Sexy Versus
 artists:
 - Al B. Sure!
+external_ids:
+  spotify: spotify:track:6oPnKLqVBDI0SoAzxoMlKN
 features: []
-genres: []
+first_released_as_single: false
 key: right-now-al-b--sure-
 lyrics_url: https://genius.com/Al-b-sure-right-now-lyrics
 name: Right Now
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-01-09'
+release_year: 1992
+runtime: 354960
 ---
 Ah, yeah, mm hm
 Can you feel it, baby

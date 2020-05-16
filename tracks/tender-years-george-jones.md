@@ -1,8 +1,11 @@
 ---
+album: Tender Years
 artists:
 - George Jones
+external_ids:
+  spotify: spotify:track:3idJKBT0Y6Uaf8ktw2T6rO
 features: []
-genres: []
+first_released_as_single: false
 key: tender-years-george-jones
 lyrics_url: https://genius.com/George-jones-tender-years-lyrics
 name: Tender Years
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 149506
 ---
 You keep saying you love him
 I believe that it's true

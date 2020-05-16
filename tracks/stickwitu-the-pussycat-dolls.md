@@ -1,8 +1,11 @@
 ---
+album: PCD
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:4NjR63Up0uMkQBlKvlZd1l
 features: []
-genres: []
+first_released_as_single: false
 key: stickwitu-the-pussycat-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/pussycatdolls/stickwitu.html
 name: Stickwitu
@@ -111,8 +114,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 207506
 ---
-
 I don't wanna go another day
 So I'm telling you exactly what is on my mind
 Seems like everybody's breaking up
@@ -183,6 +187,3 @@ You know how to appreciate me
 I must stick with you, my baby
 Nobody ever made me feel this way
 I must stick with you
-
-
-

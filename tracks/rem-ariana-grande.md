@@ -1,8 +1,11 @@
 ---
+album: Casablanca Nights Vol. 2
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:3MZZOUmI3UwgWdMQXAmaY0
 features: []
-genres: []
+first_released_as_single: false
 key: rem-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-rem-lyrics
 name: REM
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2014
+runtime: 204693
 ---
 Last night, boy, I met you, yeah
 When I was asleep ('Sleep)

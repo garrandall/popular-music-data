@@ -1,8 +1,11 @@
 ---
+album: Hot In The Shade
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:2o4u19nlQWOGg5mLanT7Pg
 features: []
-genres: []
+first_released_as_single: false
 key: forever-kiss
 lyrics_url: https://genius.com/Kiss-forever-lyrics
 name: Forever
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1989
+runtime: 232640
 ---
 I got to tell you what I'm feeling inside, I could lie to myself, but it's true
 There's no denying when I look in your eyes, girl I'm out of my head over you

@@ -1,8 +1,11 @@
 ---
+album: III
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:3xcHU7fOKHN4K6Tjs1cZtL
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-wait-for-you-joe-nichols
 lyrics_url: https://genius.com/Joe-nichols-ill-wait-for-you-lyrics
 name: I'll Wait For You
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2005
+runtime: 247320
 ---
 The snow in Montana was three feet high
 The lady at the counter said: There ain't no flights

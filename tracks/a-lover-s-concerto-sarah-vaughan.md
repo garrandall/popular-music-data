@@ -1,8 +1,11 @@
 ---
+album: Pop Artistry
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:5n4Pz0tBeKQkZj5CubLHK6
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-concerto-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-a-lovers-concerto-lyrics
 name: A Lover's Concerto
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 168200
 ---
 How gentle is the rain
 That falls softly on the meadow?

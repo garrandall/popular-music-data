@@ -1,8 +1,11 @@
 ---
+album: The Reason Why
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:0f73zOCdBx6ZPdiBjwN1AP
 features: []
-genres: []
+first_released_as_single: false
 key: little-white-church-little-big-town
 lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/littlewhitechurch.html
 name: Little White Church
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 186224
 ---
-
 You've been singing, that same old song
 Far too long, far too long
 Say you'll buy me a shiny ring
@@ -131,6 +135,3 @@ Take me down to the little white church, take me down
 Take me down, take me down to the little white church
 Take me down, take me down, take me down, take me down to the little white church
 Take me down to the little white church, take me down to the little white church
-
-
-

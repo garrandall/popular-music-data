@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:22dRKJcBDChqqVlMtJSGtS
 features: []
-genres: []
+first_released_as_single: false
 key: two-steps-behind-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/twostepsbehindacousticversion.html
 name: Two Steps Behind
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1992
+runtime: 251668
 ---
-
 Walk away if you want to
 it's ok, if you need to
 you can run, but you can never hide
@@ -132,6 +136,3 @@ yeah, baby
 two steps behind
 oh, sugar
 two steps behind
-
-
-

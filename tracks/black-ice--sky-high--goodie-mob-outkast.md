@@ -1,9 +1,12 @@
 ---
+album: Still Standing
 artists:
 - Goodie Mob
+external_ids:
+  spotify: spotify:track:0Uu8BPsWQGZk5AiRN3uBwn
 features:
 - Outkast
-genres: []
+first_released_as_single: false
 key: black-ice--sky-high--goodie-mob-outkast
 lyrics_url: https://genius.com/Goodie-mob-black-ice-goodie-mob-version-lyrics
 name: Black Ice (Sky High)
@@ -68,6 +71,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1998
+runtime: 205106
 ---
 And we gon' creep in
 We gon' hit all the hemispheres

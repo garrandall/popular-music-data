@@ -1,8 +1,11 @@
 ---
+album: The Girl Don't Care
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:7BiRyVxIimvgnlmZg4vSi9
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-hurt-me-no-more-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-you-cant-hurt-me-no-more-lyrics
 name: You Can't Hurt Me No More
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 157986
 ---
 (No, no)
 You can't hurt me no more

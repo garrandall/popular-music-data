@@ -1,8 +1,11 @@
 ---
+album: The Eminem Show
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3CpoeW0cZSDzIRv5z34F87
 features: []
-genres: []
+first_released_as_single: false
 key: sing-for-the-moment-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/singforthemoment.html
 name: Sing For The Moment
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2002
+runtime: 339546
 ---
-
 These ideas are nightmares to white parents
 Whose worst fear is a child with dyed hair and who likes earrings
 Like whatever they say has no bearing, it's so scary in a house that allows no swearing
@@ -163,6 +167,3 @@ Sing with me (Sing!), sing for the year (Sing it!)
 Sing for the laughter and sing for the tear (Come on!)
 Sing it with me, it's just for today
 Maybe tomorrow the good Lord will take you away
-
-
-

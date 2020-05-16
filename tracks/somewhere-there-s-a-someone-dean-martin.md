@@ -1,8 +1,11 @@
 ---
+album: Somewhere There's a Someone
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:6o6SjSnjl1uFjvAMDhmZ3H
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-there-s-a-someone-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/somewheretheresasomeone.html
 name: Somewhere There's A Someone
@@ -39,8 +42,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 134253
 ---
-
 Somewhere there's a someone for everyone
 Somewhere there's a someone for me
 Though I may be lonely now
@@ -59,6 +63,3 @@ And I'll search my whole life through
 Until I find a love that's true
 For I know somewhere there's a someone for me
 For I know somewhere there's a someone for me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:6u4pOi5Y2GGchhzMAqnAPo
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-over-to-my-place-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/comeonovertomyplace.html
 name: Come On Over To My Place
@@ -27,8 +30,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 147520
 ---
-
 Little girl, you look so lonesome
 I see you are feeling blue
 Ain't no use in staying in home
@@ -74,6 +78,3 @@ Oh, baby, won't you come on over tonight
 
 Yeah, yeah, yeah, yeah
 Come on over to my place
-
-
-

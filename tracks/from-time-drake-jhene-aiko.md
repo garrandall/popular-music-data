@@ -1,9 +1,12 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0GaBIpyHvytM1UBYmqXu08
 features:
 - Jhene Aiko
-genres: []
+first_released_as_single: false
 key: from-time-drake-jhene-aiko
 lyrics_url: https://www.azlyrics.com/lyrics/drake/fromtime.html
 name: From Time
@@ -16,9 +19,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 322160
 ---
-
-
 What's up? Been a minute since we kicked it
 You've been caught up with them bitches
 I don't get it, you're a star love
@@ -106,6 +109,3 @@ Been have up the ting them from time, G
 So I don't know what's wrong with these
 Little wasteman out here eh?
 Y'all need to know yourself.
-
-
-

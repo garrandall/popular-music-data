@@ -1,8 +1,11 @@
 ---
+album: Switch
 artists:
 - Switch
+external_ids:
+  spotify: spotify:track:0494ywXn6Z7SbcmHJKxOFJ
 features: []
-genres: []
+first_released_as_single: false
 key: there-ll-never-be-switch
 lyrics_url: https://genius.com/Switch-r-b-band-therell-never-be-lyrics
 name: There'll Never Be
@@ -59,6 +62,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 323866
 ---
 Since we are lyin' here ah
 For the first time, you and I

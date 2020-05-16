@@ -1,8 +1,11 @@
 ---
+album: Make It Last Forever
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:2Iw5Rd1IGACxv2CPUZguiG
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-her-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-i-want-her-lyrics
 name: I Want Her
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1987
+runtime: 360106
 ---
 Seen you last night, saw you standing there
 And couldn't picture the color of your hair

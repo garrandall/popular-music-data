@@ -1,8 +1,11 @@
 ---
+album: Can't Fight Fate
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:3hK26G5cYhJ9KjcUy1aBRk
 features: []
-genres: []
+first_released_as_single: false
 key: with-every-beat-of-my-heart-taylor-dayne
 lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/witheverybeatofmyheart.html
 name: With Every Beat Of My Heart
@@ -79,8 +82,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 262480
 ---
-
 I keep getting closer
 To the love I know
 I'm ready and willing
@@ -116,6 +120,3 @@ I feel you moving closer to me, oh
 With every beat of my heart
 Baby I know it's becoming reality
 With every beat
-
-
-

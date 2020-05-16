@@ -1,8 +1,11 @@
 ---
+album: I Am Woman
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:3l2hbXdvmaH3tUd3qWLKgm
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-woman-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-i-am-woman-lyrics
 name: I Am Woman
@@ -95,6 +98,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 205880
 ---
 I am woman, hear me roar
 In numbers too big to ignore

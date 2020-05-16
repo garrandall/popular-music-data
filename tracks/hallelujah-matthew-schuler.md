@@ -1,8 +1,11 @@
 ---
+album: Hallelujah (The Voice Performance)
 artists:
 - Matthew Schuler
+external_ids:
+  spotify: spotify:track:31BJMDDbKD12ei9mxddZzf
 features: []
-genres: []
+first_released_as_single: true
 key: hallelujah-matthew-schuler
 lyrics_url: https://genius.com/Matthew-schuler-hallelujah-the-voice-performance-lyrics
 name: Hallelujah
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 240335
 ---
 I've heard there was a secret chord
 That David played, and it pleased the Lord

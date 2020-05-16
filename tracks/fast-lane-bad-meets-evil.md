@@ -1,8 +1,11 @@
 ---
+album: 'Hell: The Sequel'
 artists:
 - Bad Meets Evil
+external_ids:
+  spotify: spotify:track:2c5Isyd07hWsl7AQia2Dig
 features: []
-genres: []
+first_released_as_single: false
 key: fast-lane-bad-meets-evil
 lyrics_url: https://genius.com/Bad-meets-evil-fast-lane-lyrics
 name: Fast Lane
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2011
+runtime: 249560
 ---
 Uh, first verse, uh, I'm armed 'til I'm on an island
 My life's ridin' on the autobahn on autopilot

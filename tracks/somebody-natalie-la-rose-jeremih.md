@@ -1,9 +1,12 @@
 ---
+album: Somebody
 artists:
 - Natalie La Rose
+external_ids:
+  spotify: spotify:track:7ioiB40H9xKs04QtIso2I3
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: somebody-natalie-la-rose-jeremih
 lyrics_url: https://genius.com/Natalie-la-rose-somebody-lyrics
 name: Somebody
@@ -112,6 +115,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2014
+runtime: 189906
 ---
 Come on
 Natalie La Rose

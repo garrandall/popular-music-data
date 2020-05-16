@@ -1,8 +1,11 @@
 ---
+album: "Everything\u2019s Coming Up Love"
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:2GY61PRJ8vxOY6b6YVHqWJ
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-coming-up-love-david-ruffin
 lyrics_url: https://genius.com/David-ruffin-everythings-coming-up-love-lyrics
 name: Everything's Coming Up Love
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 295893
 ---
 Love is a flower that blooms in the spring time
 Beneath the light of the moon in the spring time

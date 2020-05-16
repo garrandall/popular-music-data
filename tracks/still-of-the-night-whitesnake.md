@@ -1,8 +1,11 @@
 ---
+album: Whitesnake
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:40GS2O35HIqhOVCFZZTfFF
 features: []
-genres: []
+first_released_as_single: false
 key: still-of-the-night-whitesnake
 lyrics_url: https://genius.com/Whitesnake-still-of-the-night-lyrics
 name: Still Of The Night
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1987
+runtime: 397768
 ---
 In the still of the night, I hear the wolf howl, honey
 Sniffing around your door

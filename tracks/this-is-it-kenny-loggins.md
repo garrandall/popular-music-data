@@ -1,8 +1,11 @@
 ---
+album: Keep The Fire
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:0YO8KsprTrEUEvJevpI7Na
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-it-kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-this-is-it-lyrics
 name: This Is It
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 236733
 ---
 There've been times in my life
 I've been wondering why

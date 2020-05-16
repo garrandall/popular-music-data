@@ -1,8 +1,11 @@
 ---
+album: New Adventures In Hi-Fi
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:7aYzsNdBnwgHtB5QftgYRW
 features: []
-genres: []
+first_released_as_single: false
 key: bittersweet-me-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/bittersweetme.html
 name: Bittersweet Me
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
+release_year: 1996
+runtime: 245760
 ---
-
 I move across, innocence lost
 All flashing pulsar
 I move across the earth in my new pattern shirt
@@ -123,6 +127,3 @@ I couldn't taste it
 I'm tired and naked
 I don't know what I'm hungry for
 I don't know what I want anymore
-
-
-

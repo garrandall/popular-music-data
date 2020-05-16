@@ -1,8 +1,11 @@
 ---
+album: Hawaii Tattoo
 artists:
 - The Waikikis
+external_ids:
+  spotify: spotify:track:1c7WzSI6IkYquh2mtyLczg
 features: []
-genres: []
+first_released_as_single: false
 key: hawaii-tattoo-the-waikikis
 name: Hawaii Tattoo
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 142863
 ---
 

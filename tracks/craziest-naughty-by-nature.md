@@ -1,8 +1,11 @@
 ---
+album: Poverty's Paradise
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:0cp5pot8fu3asOCB5FBRYp
 features: []
-genres: []
+first_released_as_single: false
 key: craziest-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-craziest-lyrics
 name: Craziest
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1995
+runtime: 248160
 ---
 My thoughts are thundering, tumbling
 Sons of bitches, switches, from yelling to mumbling

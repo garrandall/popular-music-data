@@ -1,9 +1,12 @@
 ---
+album: Rainbow
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:5DkHYNiEqDnyKHW5r1Esj6
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: crybaby-mariah-carey-snoop-dogg
 lyrics_url: https://genius.com/Mariah-carey-crybaby-lyrics
 name: Crybaby
@@ -36,6 +39,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 1999
+runtime: 319106
 ---
 Yo, what's that?
 What you crying for?

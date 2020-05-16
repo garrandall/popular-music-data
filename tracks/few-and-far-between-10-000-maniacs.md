@@ -1,8 +1,11 @@
 ---
+album: Our Time In Eden
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:5KqINh56tApMe4LDMfLwOp
 features: []
-genres: []
+first_released_as_single: false
 key: few-and-far-between-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-few-and-far-between-lyrics
 name: Few And Far Between
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
+release_year: 1992
+runtime: 194373
 ---
 Times are far between, and few I bet, when we can look upon our lives without regret
 Of all the things I have done, you think I'm proud of everyone without exception?

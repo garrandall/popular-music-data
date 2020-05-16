@@ -1,9 +1,12 @@
 ---
+album: 'The Best: Loggins & Messina Sittin'' In Again'
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:5eVLAs7AyOYMKuluTuWRuv
 features: []
-genres: []
+first_released_as_single: false
 key: watching-the-river-run-loggins-messina
 lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/watchingtheriverrun.html
 name: Watching The River Run
@@ -32,8 +35,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1971
+runtime: 206346
 ---
-
 If you've been thinking you're all that you've got
 Then don't feel alone anymore
 When we're together, then you've got alot
@@ -64,6 +68,3 @@ Leaving them one by one
 And we have just begun watching the river run
 Listening and learning and yearning
 Run, river, run
-
-
-

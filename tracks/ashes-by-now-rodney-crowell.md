@@ -1,8 +1,11 @@
 ---
+album: But What Will The Neighbors Think
 artists:
 - Rodney Crowell
+external_ids:
+  spotify: spotify:track:2mjWmnL96EV93C517TNG0v
 features: []
-genres: []
+first_released_as_single: false
 key: ashes-by-now-rodney-crowell
 lyrics_url: https://genius.com/Rodney-crowell-ashes-by-now-lyrics
 name: Ashes By Now
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 251466
 ---
 This morning is Monday
 Where are you now?

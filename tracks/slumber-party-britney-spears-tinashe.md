@@ -1,9 +1,12 @@
 ---
+album: Glory (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2i9q8CteBmpslOJeQdMGqA
 features:
 - Tinashe
-genres: []
+first_released_as_single: false
 key: slumber-party-britney-spears-tinashe
 lyrics_url: https://genius.com/Britney-spears-slumber-party-remix-lyrics
 name: Slumber Party
@@ -12,6 +15,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 213534
 ---
 I think I see confetti from this potion
 Pillow fights and feathers, overdosin'

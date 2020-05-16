@@ -1,8 +1,11 @@
 ---
+album: Toys In The Attic
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:5SZ6zX4rOrEQferfFC2MfP
 features: []
-genres: []
+first_released_as_single: false
 key: walk-this-way-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/walkthisway.html
 name: Walk This Way
@@ -75,8 +78,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1975
+runtime: 220400
 ---
-
 Backstroke lover
 Always hidin' 'neath the covers
 'Til I talked to your daddy, he say
@@ -146,6 +150,3 @@ She told me to
 "Walk this way, talk this way"
 Just gimme a kiss
 Like this
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Crossroads
 artists:
 - Tracy Chapman
+external_ids:
+  spotify: spotify:track:4rxamav7i2lJexbuAxcvfe
 features: []
-genres: []
+first_released_as_single: false
 key: crossroads-tracy-chapman
 lyrics_url: https://www.azlyrics.com/lyrics/tracychapman/crossroads.html
 name: Crossroads
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 251493
 ---
-
 All you folks think you own my life
 But you never made any sacrifice
 Demons they are on my trail
@@ -56,6 +60,3 @@ All you folks think you run my life
 Say I should be willing to compromise
 I say all you demons go back to hell
 I'll save my soul save myself
-
-
-

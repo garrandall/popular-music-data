@@ -1,8 +1,11 @@
 ---
+album: Over The Rainbow
 artists:
 - Nocera
+external_ids:
+  spotify: spotify:track:2FMUT6igT823mEuPOuKfQ9
 features: []
-genres: []
+first_released_as_single: true
 key: summertime-summertime-nocera
 lyrics_url: https://genius.com/Nocera-summertime-summertime-lyrics
 name: Summertime Summertime
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 195853
 ---
 Take me
 Take me to the water

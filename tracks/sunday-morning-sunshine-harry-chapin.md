@@ -1,8 +1,11 @@
 ---
+album: Sniper & Other Love Songs
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:0gQhD5ZFzVqOhyDmj8trIJ
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-morning-sunshine-harry-chapin
 lyrics_url: https://www.azlyrics.com/lyrics/harrychapin/sundaymorningsunshine.html
 name: Sunday Morning Sunshine
@@ -31,8 +34,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 231373
 ---
-
 I came into town with a knapsack on my shoulder
 And a pocket full of stories that I just had to tell
 You know I've knocked around a bit
@@ -76,6 +80,3 @@ You brought your Sunday morning sunshine
 Here into my Monday morning rain
 You taught me happiness just one time
 It keeps on coming back again
-
-
-

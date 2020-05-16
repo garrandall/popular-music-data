@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:17xAjxyUW68z2BJ5tOQBee
 features: []
-genres: []
+first_released_as_single: false
 key: breakaway-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/breakaway.html
 name: Breakaway
@@ -191,8 +194,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2004
+runtime: 238920
 ---
-
 Grew up in a small town
 And when the rain would fall down
 I'd just stare out my window
@@ -259,6 +263,3 @@ I gotta take a risk
 Take a chance
 Make a change
 And breakaway, breakaway, breakaway
-
-
-

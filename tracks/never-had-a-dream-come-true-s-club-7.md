@@ -1,8 +1,11 @@
 ---
+album: '7'
 artists:
 - S Club 7
+external_ids:
+  spotify: spotify:track:1rzssdgfZiGs7VAMsYN9SF
 features: []
-genres: []
+first_released_as_single: false
 key: never-had-a-dream-come-true-s-club-7
 lyrics_url: https://www.azlyrics.com/lyrics/sclub7/neverhadadreamcometrue.html
 name: Never Had A Dream Come True
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 2000
+runtime: 240640
 ---
-
 Everybody's got something they had to leave behind
 One regret from yesterday that just seems to grow with time
 There's no use looking back or wondering
@@ -138,6 +142,3 @@ You're the one I think about each day
 And I know no matter where life takes me to
 A part of me will always be
 A part of me will always be with you
-
-
-

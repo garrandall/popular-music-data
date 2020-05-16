@@ -1,8 +1,11 @@
 ---
+album: Summertime Dream
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:536L9C0N7vhYdibCJx3cI2
 features: []
-genres: []
+first_released_as_single: false
 key: the-wreck-of-the-edmund-fitzgerald-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/thewreckoftheedmundfitzgerald.html
 name: The Wreck Of The Edmund Fitzgerald
@@ -91,8 +94,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 389280
 ---
-
 The legend lives on from the Chippewa on down
 Of the big lake they call Gitche Gumee
 The lake, it is said, never gives up her dead
@@ -158,6 +162,3 @@ The legend lives on from the Chippewa on down
 Of the big lake they call Gitche Gumee
 Superior, they said, never gives up her dead
 When the gales of November come early
-
-
-

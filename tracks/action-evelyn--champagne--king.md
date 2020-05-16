@@ -1,8 +1,11 @@
 ---
+album: Face to Face
 artists:
 - Evelyn "Champagne" King
+external_ids:
+  spotify: spotify:track:3GlOYivaaIJmlaxIG4rT5k
 features: []
-genres: []
+first_released_as_single: false
 key: action-evelyn--champagne--king
 lyrics_url: https://www.azlyrics.com/lyrics/evelynchampagneking/action.html
 name: Action
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 350520
 ---
-
 You make many promises, and they sound so sweet
 Talk like yours will knock most any girl right off her feet
 When will you deliver, words can't warm my night
@@ -118,6 +122,3 @@ Action
 Tell me what you're all about
 
 Action, action, action, action, action, action, action, act
-
-
-

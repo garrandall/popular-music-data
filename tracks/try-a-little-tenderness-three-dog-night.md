@@ -1,8 +1,11 @@
 ---
+album: One
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:67oOdBLHlnB581fWDvHWLY
 features: []
-genres: []
+first_released_as_single: false
 key: try-a-little-tenderness-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-try-a-little-tenderness-lyrics
 name: Try A Little Tenderness
@@ -55,6 +58,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1968
+runtime: 247333
 ---
 Oh, she may be weary
 Young girls they do get weary

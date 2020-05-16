@@ -1,8 +1,11 @@
 ---
+album: Gimme Dat Ding!
 artists:
 - The Pipkins
+external_ids:
+  spotify: spotify:track:0SolModrdnbWok9RG9JlEK
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-dat-ding-the-pipkins
 lyrics_url: https://genius.com/The-pipkins-gimme-dat-ding-lyrics
 name: Gimme Dat Ding
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1970
+runtime: 134106
 ---
 That's right, that's right, I'm sad and blue
 'Cause I can't do the boogaloo

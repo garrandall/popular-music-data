@@ -1,8 +1,11 @@
 ---
+album: 'World Of Dance: New Wave The 80''s'
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:0DjLGmYDrUd63vM3an0kig
 features: []
-genres: []
+first_released_as_single: false
 key: obsession-animotion
 lyrics_url: https://www.azlyrics.com/lyrics/animotion/obsession.html
 name: Obsession
@@ -103,8 +106,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1985
+runtime: 334413
 ---
-
 You are an obsession (You are an obsession)
 I cannot (I cannot sleep) sleep
 I am a possession (I am your possession)
@@ -191,6 +195,3 @@ Who do you want me to be
 To make you sleep with me?
 
 You are an obsession
-
-
-

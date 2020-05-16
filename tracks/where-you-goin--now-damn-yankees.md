@@ -1,8 +1,11 @@
 ---
+album: Don't Tread
 artists:
 - Damn Yankees
+external_ids:
+  spotify: spotify:track:3jaRUUaJUvS57h1DyVzUUX
 features: []
-genres: []
+first_released_as_single: false
 key: where-you-goin--now-damn-yankees
 lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/whereyougoinnow.html
 name: Where You Goin' Now
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
+release_year: 1992
+runtime: 279846
 ---
-
 There's a face in the mirror
 And you close your eyes
 Much easier to turn away
@@ -156,6 +160,3 @@ Where you going now?
 When you get to the top of the hill
 Gonna be there yes I will
 Gonna be there yes I will
-
-
-

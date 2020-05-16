@@ -1,8 +1,11 @@
 ---
+album: The Fragile
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:44sz0rNbTA687rs9CYi0IN
 features: []
-genres: []
+first_released_as_single: false
 key: the-day-the-world-went-away-nine-inch-nails
 lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/thedaytheworldwentaway.html
 name: The Day The World Went Away
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
+release_year: 1999
+runtime: 273666
 ---
-
 I'd listen to the words he'd say
 but in his voice I heard decay
 the plastic face forced to portray
@@ -37,6 +41,3 @@ there is a place that still remains
 it eats the fear it eats the pain
 the sweetest price he'll have to pay
 the day the whole world went away
-
-
-

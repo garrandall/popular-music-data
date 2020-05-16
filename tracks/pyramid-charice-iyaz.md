@@ -1,9 +1,12 @@
 ---
+album: Charice
 artists:
 - Charice
+external_ids:
+  spotify: spotify:track:7Bs3eQv2Z0ZQaAWaBK9N1X
 features:
 - Iyaz
-genres: []
+first_released_as_single: false
 key: pyramid-charice-iyaz
 lyrics_url: https://www.azlyrics.com/lyrics/charice/pyramid.html
 name: Pyramid
@@ -16,9 +19,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2010
+runtime: 235946
 ---
-
-
 Shawty's love is like a pyramid (oh)
 We stand together till the very end (eh oh)
 There'll never be another love for sure (oh)
@@ -86,6 +89,3 @@ Pyramid, pyramid, pyramid
 
 
 Pyramid
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Breakfast In America
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:2ib1XXpFOyZOxomaL7c3NP
 features: []
-genres: []
+first_released_as_single: true
 key: the-logical-song-supertramp
 lyrics_url: https://genius.com/Supertramp-the-logical-song-lyrics
 name: The Logical Song
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1979
+runtime: 249731
 ---
 When I was young, it seemed that life was so wonderful
 A miracle, oh, it was beautiful, magical

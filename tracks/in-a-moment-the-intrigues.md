@@ -1,8 +1,11 @@
 ---
+album: In a Moment
 artists:
 - The Intrigues
+external_ids:
+  spotify: spotify:track:029711BlHKszqkSd9GaNI6
 features: []
-genres: []
+first_released_as_single: true
 key: in-a-moment-the-intrigues
 lyrics_url: https://www.musixmatch.com/lyrics/The-Intrigues/In-a-Moment
 name: In A Moment
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 168961
 ---
 In a moment
 In a moment I can see

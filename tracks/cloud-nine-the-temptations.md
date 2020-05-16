@@ -1,8 +1,11 @@
 ---
+album: Cloud Nine
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:1A8gqfrso63AC4XVW6DTTw
 features: []
-genres: []
+first_released_as_single: false
 key: cloud-nine-the-temptations
 lyrics_url: https://genius.com/The-temptations-cloud-nine-lyrics
 name: Cloud Nine
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 211693
 ---
 A-who, who, awho, who...
 

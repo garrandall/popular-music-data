@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:44dXHaRDw8PXSX8cYbBe3T
 features: []
-genres: []
+first_released_as_single: false
 key: adam-and-eve-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/adamandeve.html
 name: Adam And Eve
@@ -15,8 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 133600
 ---
-
 In the garden of Eden, a long time ago
 yeah, there was a story I'm sure you will know
 I'm sure you remember, I know you believe
@@ -38,6 +42,3 @@ I'm sure you remember, I'm sure you believe
 the story of Adam and Eve
 
 In the garden of Eden, a long time ago, such a story
-
-
-

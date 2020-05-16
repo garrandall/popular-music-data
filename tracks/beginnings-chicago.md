@@ -1,8 +1,11 @@
 ---
+album: Chicago Transit Authority (50th Anniversary Remix)
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:5mRORS1vOFZhCGZOOTjtJ2
 features: []
-genres: []
+first_released_as_single: false
 key: beginnings-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/beginnings.html
 name: Beginnings
@@ -59,8 +62,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1969
+runtime: 474320
 ---
-
 When I'm with you, it doesn't matter where we are,
 Or what we're doing. I'm with you, that's all that matters.
 Time passes much too quickly when we're together laughing.
@@ -79,6 +83,3 @@ Only the beginning. Only just the start.
 I've got to get you into my life.
 Got to get you next to me.
 Only the beginning. Only just the start.
-
-
-

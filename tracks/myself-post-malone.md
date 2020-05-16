@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:2cvOfKHOHgwQlLiuLKP2xR
 features: []
-genres: []
+first_released_as_single: false
 key: myself-post-malone
 lyrics_url: https://genius.com/Post-malone-myself-lyrics
 name: Myself
@@ -11,6 +14,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 158120
 ---
 (I wish I could've been there myself)
 

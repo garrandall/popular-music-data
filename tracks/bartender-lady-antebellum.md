@@ -1,8 +1,11 @@
 ---
+album: '747'
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:6dXK0YFIOZoFSgalrLpJzY
 features: []
-genres: []
+first_released_as_single: true
 key: bartender-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/bartender.html
 name: Bartender
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2014
+runtime: 198034
 ---
-
 8 o'clock on Friday night I'm still at home
 All my girls just keep on blowing up my phone
 Saying come on he ain't worth the pain
@@ -153,6 +157,3 @@ Till the party and music and the truth collide
 Bring it till his memory fades away
 Hey bartender
 Hey bartender
-
-
-

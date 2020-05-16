@@ -1,8 +1,11 @@
 ---
+album: Wade In The Water
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:6vcFm8JoP3Jc14pP1CxuBF
 features: []
-genres: []
+first_released_as_single: false
 key: day-tripper-ramsey-lewis
 lyrics_url: https://genius.com/Ramsey-lewis-day-tripper-lyrics
 name: Day Tripper
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 191440
 ---
 Got a good reason
 For taking the easy way out

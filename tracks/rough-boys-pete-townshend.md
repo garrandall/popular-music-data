@@ -1,8 +1,11 @@
 ---
+album: Empty Glass
 artists:
 - Pete Townshend
+external_ids:
+  spotify: spotify:track:5007Hz1InbSg4my3DCdCM3
 features: []
-genres: []
+first_released_as_single: false
 key: rough-boys-pete-townshend
 lyrics_url: https://www.azlyrics.com/lyrics/petetownshend/roughboys.html
 name: Rough Boys
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 243520
 ---
-
 Tough boys
 Running the streets
 Come a little closer
@@ -88,6 +92,3 @@ Come over here
 I wanna bite and kiss you
 
 I wanna see what I can find
-
-
-

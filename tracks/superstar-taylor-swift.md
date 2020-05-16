@@ -1,8 +1,11 @@
 ---
+album: Fearless Platinum Edition
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:14Bljc3pOOG0xQX3wqhLN9
 features: []
-genres: []
+first_released_as_single: false
 key: superstar-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/superstar.html
 name: Superstar
@@ -11,8 +14,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2008
+runtime: 261453
 ---
-
 This is wrong but I can't help but feel like
 There ain't nothing more right babe
 Misty morning comes again and I can't
@@ -54,6 +58,3 @@ I'm no one special, just another
 Wide eyed girl who's desperately in love with you
 Give me a photograph to hang on my wall, superstar
 Sweet, sweet superstar, superstar
-
-
-

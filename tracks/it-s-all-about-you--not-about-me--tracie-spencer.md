@@ -1,8 +1,11 @@
 ---
+album: Tracie
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:22vuK9Gpwap7C2hH2GmYIi
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-about-you--not-about-me--tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-its-all-about-you-lyrics
 name: It's All About You (Not About Me)
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-11-06'
+release_year: 1999
+runtime: 254573
 ---
 When we first met
 Stole my heart away

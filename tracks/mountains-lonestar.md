@@ -1,8 +1,11 @@
 ---
+album: Mountains
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:4Xr4oYC2FytxvwJOMkFULu
 features: []
-genres: []
+first_released_as_single: false
 key: mountains-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/mountains.html
 name: Mountains
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
+release_year: 1995
+runtime: 234653
 ---
-
 Lucinda Jones, working at IHOP
 Ten years worth of bacon, eggs and tears
 She's waited on every creed and color
@@ -106,6 +110,3 @@ Yeah, the good Lord gave us mountains
 (The good Lord gave us mountains)
 So we could learn how to climb
 Yeah, oh
-
-
-

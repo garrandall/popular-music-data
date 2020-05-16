@@ -1,8 +1,11 @@
 ---
+album: Half & Half
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:0w2Be52VfBfbXlb1STmYAK
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-i-ll-never-know--angels-never-fly-this-low--frankie-valli
 lyrics_url: https://genius.com/Frankie-valli-the-girl-ill-never-know-angels-never-fly-this-low-lyrics
 name: The Girl I'll Never Know (Angels Never Fly This Low)
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 221386
 ---
 I hear the sound of music
 Your favorite kind of music

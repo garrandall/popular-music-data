@@ -1,8 +1,11 @@
 ---
+album: Renaissance
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:08nohZpJ0bDCLMtpFAb65M
 features: []
-genres: []
+first_released_as_single: false
 key: angel-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/angel.html
 name: Angel
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-09-01'
+release_year: 2000
+runtime: 255133
 ---
-
 I just want to tell you all the things you are
 And all the things you mean to me
 You've been with me forever
@@ -126,6 +130,3 @@ You're my angel, miracle, you're all I need tonight
 Give me shelter from the rain
 You breathe life in me again
 You're my angel, my miracle, you're all I need to know, tonight
-
-
-

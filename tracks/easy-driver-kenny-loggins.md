@@ -1,8 +1,11 @@
 ---
+album: Nightwatch
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:300dPmE0dv1urytTusm16j
 features: []
-genres: []
+first_released_as_single: false
 key: easy-driver-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/easydriver.html
 name: Easy Driver
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 213506
 ---
-
 Easy driver, she's a wicked rider
 She's smooth and she's skinny and she's probably mean
 Easy driver, pull up beside her, roll down the window on this fine machine
@@ -67,6 +71,3 @@ She's smooth and she's skinny and she's probably mean
 Easy driver, get on up beside her, roll down the window on this fine machine
 Easy driver, oh oh oh oh, easy driver, easy driver, easy driver (easy driver)
 Easy driver, easy driver, easy driver, easy driver
-
-
-

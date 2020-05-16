@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:2Y90nL1ohB4sgYELDs7uNx
 features: []
-genres: []
+first_released_as_single: false
 key: glory-days-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/glorydays.html
 name: Glory Days
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1984
+runtime: 254733
 ---
-
 I had a friend was a big baseball player
 Back in high school
 He could throw that speedball by you
@@ -124,6 +128,3 @@ Glory days, glory days
 Well they'll pass you by
 Glory days in the wink of a young girl's eye
 Glory days, glory days
-
-
-

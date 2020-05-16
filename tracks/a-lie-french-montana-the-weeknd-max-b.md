@@ -1,10 +1,13 @@
 ---
+album: Jungle Rules
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:1vVNlXi8gf8tZ7OhnEs4VE
 features:
 - The Weeknd
 - Max B
-genres: []
+first_released_as_single: false
 key: a-lie-french-montana-the-weeknd-max-b
 lyrics_url: https://www.azlyrics.com/lyrics/frenchmontana/alie.html
 name: A Lie
@@ -13,9 +16,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 226790
 ---
-
-
 Uh, ball star shit
 (Coke Boy, baby)
 Thought I'd have a little fun with it
@@ -121,6 +124,3 @@ A lie, a lie, a lie, a lie (that's a lie)
 A lie, a lie, a lie, a lie (skrrt, skrrt)
 All of my homies gonna shine (gonna shine)
 You fuckin' with us, that's a lie (yeah)
-
-
-

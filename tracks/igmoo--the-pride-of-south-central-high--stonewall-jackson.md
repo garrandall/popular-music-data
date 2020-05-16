@@ -1,8 +1,11 @@
 ---
+album: The Complete Releases 1957-62
 artists:
 - Stonewall Jackson
+external_ids:
+  spotify: spotify:track:3vgwWfpt867TBo8zUZLQKm
 features: []
-genres: []
+first_released_as_single: false
 key: igmoo--the-pride-of-south-central-high--stonewall-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Stonewall-Jackson/Igmoo-The-Pride-Of-South-Central-High
 name: Igmoo (The Pride Of South Central High)
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 136400
 ---
 Two four six eight!
 Who do we appreciate!

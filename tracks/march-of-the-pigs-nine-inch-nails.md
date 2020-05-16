@@ -1,8 +1,11 @@
 ---
+album: The Downward Spiral
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:59FwEQpuagQZQVP71h9OIq
 features: []
-genres: []
+first_released_as_single: false
 key: march-of-the-pigs-nine-inch-nails
 lyrics_url: https://genius.com/Nine-inch-nails-march-of-the-pigs-lyrics
 name: March Of The Pigs
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
+release_year: 1994
+runtime: 178640
 ---
 Step right up, march, push
 Crawl right up on your knees

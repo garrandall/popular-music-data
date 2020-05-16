@@ -1,9 +1,12 @@
 ---
+album: Sweet Talker (Deluxe Version)
 artists:
 - Jessie J
+external_ids:
+  spotify: spotify:track:2f8FHYOkBjxnNxBWXWBpsG
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: burnin--up-jessie-j-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/burninup.html
 name: Burnin' Up
@@ -32,8 +35,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2014
+runtime: 220546
 ---
-
 Walking through the fire, Please don't let me go.
 Take me to the river, I need you to know
 I'm burnin' up, come put me out, come and put me out
@@ -107,6 +111,3 @@ I'm burning up, come put me out, come and put me out
 I'm burning up, come put me out, come and put me out
 I'm burning up, come put me out, come and put me out
 Oh
-
-
-

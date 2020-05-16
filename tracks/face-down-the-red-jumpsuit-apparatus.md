@@ -1,8 +1,11 @@
 ---
+album: Don't You Fake It
 artists:
 - The Red Jumpsuit Apparatus
+external_ids:
+  spotify: spotify:track:4wzjNqjKAKDU82e8uMhzmr
 features: []
-genres: []
+first_released_as_single: false
 key: face-down-the-red-jumpsuit-apparatus
 lyrics_url: https://genius.com/The-red-jumpsuit-apparatus-face-down-lyrics
 name: Face Down
@@ -179,6 +182,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
+release_year: 2006
+runtime: 192000
 ---
 Hey, girl, you know you drive me crazy
 One look puts the rhythm in my hand

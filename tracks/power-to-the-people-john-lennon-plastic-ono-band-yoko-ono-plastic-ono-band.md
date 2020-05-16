@@ -1,9 +1,12 @@
 ---
+album: Imagine (The Ultimate Collection)
 artists:
 - John Lennon
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:3hUKQpucve6jX4QkJITrWl
 features: []
-genres: []
+first_released_as_single: false
 key: power-to-the-people-john-lennon-plastic-ono-band-yoko-ono-plastic-ono-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-and-the-Plastic-Ono-Band-2/Power-to-the-People
 name: Power To The People
@@ -44,6 +47,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 206426
 ---
 Power to the people
 Power to the people

@@ -1,8 +1,11 @@
 ---
+album: Little Girl
 artists:
 - Syndicate Of Sound
+external_ids:
+  spotify: spotify:track:31VnXPM48QGMyUmVnVtCAj
 features: []
-genres: []
+first_released_as_single: false
 key: rumors-syndicate-of-sound
 lyrics_url: https://www.musixmatch.com/lyrics/The-Syndicate-of-Sound/Rumors
 name: Rumors
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 126866
 ---
 Keep hearing rumors 'bout you baby
 Don't know if they're true

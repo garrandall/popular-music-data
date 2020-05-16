@@ -1,8 +1,11 @@
 ---
+album: 'Pair Of Fives: Roberta Flack / Dionne Warwick'
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4g94t2vgwZ5Dk8hvnbx2pg
 features: []
-genres: []
+first_released_as_single: false
 key: message-to-michael-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/messagetomichael.html
 name: Message To Michael
@@ -55,8 +58,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 188880
 ---
-
 Spread your wings for New Orleans
 Kentucky bluebird, fly away
 And take a message to Michael
@@ -92,6 +96,3 @@ Fly away, Kentucky bluebird
 Fly away, Kentucky bluebird
 Fly away
 Fly away
-
-
-

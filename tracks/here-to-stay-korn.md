@@ -1,8 +1,11 @@
 ---
+album: Untouchables
 artists:
 - Korn
+external_ids:
+  spotify: spotify:track:2jvkeKqQtH5msyrRsG014N
 features: []
-genres: []
+first_released_as_single: true
 key: here-to-stay-korn
 lyrics_url: https://www.azlyrics.com/lyrics/korn/heretostay.html
 name: Here To Stay
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2002
+runtime: 222613
 ---
-
 This time, taking it away
 I've got a problem, with me getting in the way,
 Not by design
@@ -108,7 +112,4 @@ For once inside awaking.
 I'm done, I'm not a whore.
 You've taken everything and, oh, I cannot give anymore.
 
-Give anymore 
-
-
-
+Give anymore

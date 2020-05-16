@@ -1,8 +1,11 @@
 ---
+album: Live At The Royal Albert Hall
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:4UolfBGFer7I2ldSh4GMZi
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-see-is-you-dusty-springfield
 lyrics_url: https://www.musixmatch.com/lyrics/Dusty-Springfield/All-I-See-Is-You
 name: All I See Is You
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 203360
 ---
 I tried so hard
 All summer through

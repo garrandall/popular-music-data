@@ -1,9 +1,12 @@
 ---
+album: Philadelphia Freeway
 artists:
 - Freeway
+external_ids:
+  spotify: spotify:track:3dSsqTvkWZLQ7V4y4ftFgV
 features:
 - Peedi Crakk
-genres: []
+first_released_as_single: false
 key: flipside-freeway-peedi-crakk
 lyrics_url: https://www.azlyrics.com/lyrics/freeway/flipside.html
 name: Flipside
@@ -20,9 +23,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2003
+runtime: 236706
 ---
-
-
 WHOOOOOOOOOO! Now clap for me mami, OH!
 Just clap for me mami, JUST BLAZE!
 OK, and Free, OK, yeah (?)
@@ -101,8 +104,3 @@ Bad bitches get scooped like Haagan Daas
 And put on the team shoot, put on the Bean bitch
 Lean bitch, shoot at they entourage
 Hit up the team camp, pull on your jeans bitch
-
-
-
-
-

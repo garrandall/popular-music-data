@@ -1,8 +1,11 @@
 ---
+album: Yes It's You Lady
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:0jY8jCudLSQApvfLYf0lJc
 features: []
-genres: []
+first_released_as_single: false
 key: old-fashioned-love-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/oldfashionedlove.html
 name: Old Fashioned Love
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
+release_year: 1982
+runtime: 194506
 ---
-
 (Old fashioned love, old fashioned love)
 
 Strollin' down the lane at midnight
@@ -103,6 +107,3 @@ Old, old fashioned love
 You and me, baby
 Old, old fashioned love, yeah
 Gotta be true to each other...
-
-
-

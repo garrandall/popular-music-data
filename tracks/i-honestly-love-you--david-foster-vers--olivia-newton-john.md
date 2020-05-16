@@ -1,8 +1,11 @@
 ---
+album: Back With A Heart
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:2kCIwSz0JoYQPrT4Ykr1MZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-honestly-love-you--david-foster-vers--olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-i-honestly-love-you-lyrics
 name: I Honestly Love You (David Foster Vers)
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-08-15'
+release_year: 1998
+runtime: 246146
 ---
 Maybe I hang around here
 A little more than I should

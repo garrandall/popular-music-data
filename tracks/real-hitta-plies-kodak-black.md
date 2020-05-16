@@ -1,9 +1,12 @@
 ---
+album: Real Hitta
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:1fnRwgZLgAYMM1dVL1oqwG
 features:
 - Kodak Black
-genres: []
+first_released_as_single: true
 key: real-hitta-plies-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/plies/realhitta.html
 name: Real Hitta
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2017
+runtime: 231673
 ---
-
-
 Yea
 Baby I'm a certified smacker
 Plies, Kodak
@@ -99,6 +102,3 @@ Yea, I just wanna know
 
 
 Have you ever made love to a real hitta
-
-
-

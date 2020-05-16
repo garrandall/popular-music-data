@@ -1,8 +1,11 @@
 ---
+album: Shine
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:4jK1VQQGDnNOLfyVXCxGsR
 features: []
-genres: []
+first_released_as_single: true
 key: my-pyt-wale
 lyrics_url: https://www.azlyrics.com/lyrics/wale/mypyt.html
 name: My PYT
@@ -67,9 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-10-08'
+release_year: 2016
+runtime: 235652
 ---
-
-
 She a couple couple, couple years younger
 But she badder than a motherfucker
 Ass fatter than a motherfucker
@@ -193,6 +196,3 @@ Hold up whats up what your name
 I shoulda ask the verse before don't throw shade
 Alotta girls do too much for that fame
 But I can get to know you just from your page
-
-
-

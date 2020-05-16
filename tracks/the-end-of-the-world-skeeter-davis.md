@@ -1,8 +1,11 @@
 ---
+album: maryfrances
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:4pyFN5IFfVGytJ35UOCg5g
 features: []
-genres: []
+first_released_as_single: false
 key: the-end-of-the-world-skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-the-end-of-the-world-lyrics
 name: The End Of The World
@@ -75,6 +78,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 185426
 ---
 Why does the sun go on shining?
 Why does the sea rush to shore?

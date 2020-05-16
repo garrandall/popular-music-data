@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles - Vol. 12A: 1972'
 artists:
 - The Courtship
+external_ids:
+  spotify: spotify:track:4gzES3x6ce11Pq3fEdIRhs
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-same-old-love-the-courtship
 lyrics_url: https://genius.com/The-courtship-soul-its-the-same-old-love-lyrics
 name: It's The Same Old Love
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 192733
 ---
 I don't bring you flowers every day
 Say 'I love you' in the usual way

@@ -1,8 +1,11 @@
 ---
+album: 9 To 5 And Odd Jobs
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:4w3tQBXhn5345eUXDGBWZG
 features: []
-genres: []
+first_released_as_single: false
 key: 9-to-5-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-9-to-5-lyrics
 name: 9 To 5
@@ -111,6 +114,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1980
+runtime: 162466
 ---
 Tumble outta bed and stumble to the kitchen
 Pour myself a cup of ambition

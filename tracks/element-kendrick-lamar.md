@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:6BTxDn5BER35DoctsROx46
 features: []
-genres: []
+first_released_as_single: false
 key: element-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/element.html
 name: Element
@@ -51,9 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 208733
 ---
-
-
 New Kung Fu Kenny
 Ain't nobody prayin' for me
 Y'all know what happens on Earth stays on Earth
@@ -142,6 +145,3 @@ If I gotta go hard on a bitch, I'mma make it look sexy
 I pull up, hop out, air out, made it look sexy
 They won't take me out my element
 Nah, take me out my element
-
-
-

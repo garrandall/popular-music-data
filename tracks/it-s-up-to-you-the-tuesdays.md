@@ -1,8 +1,11 @@
 ---
+album: The Tuesdays
 artists:
 - The Tuesdays
+external_ids:
+  spotify: spotify:track:2GiDrPB8WOj32sZeEmY249
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-up-to-you-the-tuesdays
 lyrics_url: https://genius.com/The-tuesdays-its-up-to-you-lyrics
 name: It's Up To You
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
+release_year: 1998
+runtime: 268693
 ---
 I know we never meant to fall
 But the moment that my eyes met yours

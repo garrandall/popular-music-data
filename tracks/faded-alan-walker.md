@@ -1,8 +1,11 @@
 ---
+album: Different World
 artists:
 - Alan Walker
+external_ids:
+  spotify: spotify:track:7gHs73wELdeycvS48JfIos
 features: []
-genres: []
+first_released_as_single: true
 key: faded-alan-walker
 lyrics_url: https://www.azlyrics.com/lyrics/alanwalker/faded.html
 name: Faded
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2015
+runtime: 212626
 ---
-
 You were the shadow to my light
 Did you feel us?
 Another star
@@ -93,6 +97,3 @@ I'm faded
 So lost, I'm faded
 I'm faded
 So lost, I'm faded
-
-
-

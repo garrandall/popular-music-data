@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3hNUYt4dMM9RhcWmty8oKF
 features: []
-genres: []
+first_released_as_single: false
 key: day-tripper-the-beatles
 lyrics_url: https://genius.com/The-beatles-day-tripper-lyrics
 name: Day Tripper
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 169613
 ---
 Got a good reason
 For taking the easy way out

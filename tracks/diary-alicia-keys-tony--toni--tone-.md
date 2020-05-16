@@ -1,9 +1,12 @@
 ---
+album: The Diary Of Alicia Keys
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:5dxHF4lrDimKqnI3GaZUmC
 features:
 - Tony! Toni! Tone!
-genres: []
+first_released_as_single: false
 key: diary-alicia-keys-tony--toni--tone-
 lyrics_url: https://www.musixmatch.com/lyrics/Alicia-Keys-feat-Tony-Toni-Ton%C3%A9-Jermaine-Paul/Diary
 name: Diary
@@ -120,6 +123,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
+release_year: 2003
+runtime: 284160
 ---
 Lay your head on my pillow
 Here you can be yourself

@@ -1,8 +1,11 @@
 ---
+album: Asleep In The Bread Aisle
 artists:
 - Asher Roth
+external_ids:
+  spotify: spotify:track:1akgiRM3mN2nxu2AX6ACCW
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-college-asher-roth
 lyrics_url: https://genius.com/Asher-roth-i-love-college-lyrics
 name: I Love College
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2009
+runtime: 241933
 ---
 “Cause I ain't going out like a sucka, no way”
 I'm nice right now man

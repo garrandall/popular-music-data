@@ -1,8 +1,11 @@
 ---
+album: Step By Step
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:2NhQEQYqoarBnlJHFJaxUH
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-where-to-start-eddie-rabbitt
 lyrics_url: https://genius.com/Eddie-rabbitt-i-dont-know-where-to-start-lyrics
 name: I Don't Know Where To Start
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
+release_year: 1981
+runtime: 206200
 ---
 I stopped by to look around
 For things I left behind

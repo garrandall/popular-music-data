@@ -1,8 +1,11 @@
 ---
+album: Lovehate
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:3wkNK8tJZ2stygNJm8RCRD
 features: []
-genres: []
+first_released_as_single: false
 key: i-luv-your-girl-the-dream
 lyrics_url: https://genius.com/The-dream-i-luv-your-girl-lyrics
 name: I Luv Your Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2007
+runtime: 267866
 ---
 Mmm mmm
 The American Dream, mmm mmm

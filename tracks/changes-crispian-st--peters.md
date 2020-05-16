@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - Crispian St. Peters
+external_ids:
+  spotify: spotify:track:7rh95hfK1OEgDL6gD3nqVw
 features: []
-genres: []
+first_released_as_single: false
 key: changes-crispian-st--peters
 lyrics_url: https://genius.com/Crispian-st-peters-changes-lyrics
 name: Changes
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 163840
 ---
 Sit by my side
 Come as close as the air

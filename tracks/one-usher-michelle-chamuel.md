@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Usher
 - Michelle Chamuel
+external_ids:
+  spotify: spotify:track:0HDTXfQl4ZAqkRpvsLHnlu
 features: []
-genres: []
+first_released_as_single: false
 key: one-usher-michelle-chamuel
 lyrics_url: https://www.musixmatch.com/lyrics/Usher-Michelle-Chamuel/One-The-Voice-Performance
 name: One
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 207746
 ---
 Is it getting better?
 Or do you feel the same?

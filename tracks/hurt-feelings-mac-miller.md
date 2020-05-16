@@ -1,8 +1,11 @@
 ---
+album: Swimming
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:5p7GiBZNL1afJJDUrOA6C8
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-feelings-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/hurtfeelings.html
 name: Hurt Feelings
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 245640
 ---
-
 I'm always sayin' I won't change but I ain't the same
 Everything is different, I can't complain
 You don't know what you missin'
@@ -82,6 +86,3 @@ Shame on you
 
 Hurt
 Feelings
-
-
-

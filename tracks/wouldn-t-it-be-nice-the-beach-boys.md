@@ -1,8 +1,11 @@
 ---
+album: Pet Sounds (Original Mono & Stereo Mix Versions)
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:2Gy7qnDwt8Z3MNxqat4CsK
 features: []
-genres: []
+first_released_as_single: false
 key: wouldn-t-it-be-nice-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-wouldnt-it-be-nice-lyrics
 name: Wouldn't It Be Nice
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 153205
 ---
 Wouldn't it be nice if we were older?
 Then we wouldn't have to wait so long

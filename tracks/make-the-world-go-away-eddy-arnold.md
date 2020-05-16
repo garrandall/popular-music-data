@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:6drEsDrLJEeRJwGwgPgmJU
 features: []
-genres: []
+first_released_as_single: false
 key: make-the-world-go-away-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/maketheworldgoaway.html
 name: Make The World Go Away
@@ -63,8 +66,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 161533
 ---
-
 Make the world go away and get it off my shoulder
 Say the things you used to say and make the world go away
 
@@ -81,6 +85,3 @@ Make the world go away and get it off my shoulder
 Say the things you used to say and make the world go away
 
 Say the things you used to say and make the world go away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Animalize
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1brpdmqkx3kSxyqzqXfW7J
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-s-on-fire-kiss
 lyrics_url: https://www.musixmatch.com/lyrics/Kiss-2/Heaven-s-On-Fire-1
 name: Heaven's On fire
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 201400
 ---
 I look at you and my blood boils hot
 I feel my temperature rise

@@ -1,8 +1,11 @@
 ---
+album: Sandie
 artists:
 - Sandie Shaw
+external_ids:
+  spotify: spotify:track:7lp8E6HI5aeWhS0uP5TI4u
 features: []
-genres: []
+first_released_as_single: false
 key: long-live-love-sandie-shaw
 lyrics_url: https://genius.com/Sandie-shaw-long-live-love-lyrics
 name: Long Live Love
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 160680
 ---
 Venus must have heard my plea
 She has sent someone along for me

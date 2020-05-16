@@ -1,9 +1,12 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:6n4U3TlzUGhdSFbUUhTvLP
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: walk-it-talk-it-migos-drake
 lyrics_url: https://genius.com/Migos-walk-it-talk-it-lyrics
 name: Walk It Talk It
@@ -96,6 +99,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 276147
 ---
 Yeah, yeah (Deko)
 Woah, hold on (OG Parker)

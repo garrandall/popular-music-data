@@ -1,8 +1,11 @@
 ---
+album: Tell Him
 artists:
 - The Exciters
+external_ids:
+  spotify: spotify:track:3XYBPq4BVWwRMc0vsmDMxg
 features: []
-genres: []
+first_released_as_single: false
 key: do-wah-diddy-the-exciters
 lyrics_url: https://genius.com/The-exciters-do-wah-diddy-diddy-lyrics
 name: Do-Wah-Diddy
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1964
+runtime: 148800
 ---
 There he was just a-walkin' down the street, singin' "Do wah diddy diddy dum diddy do"
 Snappin' her fingers and shufflin' her feet, singin' "Do wah diddy diddy dum diddy do"

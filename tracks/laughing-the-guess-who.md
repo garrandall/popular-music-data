@@ -1,8 +1,11 @@
 ---
+album: Canned Wheat
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:4KhuernnobE4BzS0P1Viz8
 features: []
-genres: []
+first_released_as_single: false
 key: laughing-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-laughing-lyrics
 name: Laughing
@@ -51,6 +54,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 158040
 ---
 I should laugh, but I cry
 Because your love has passed me by

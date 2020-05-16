@@ -1,8 +1,11 @@
 ---
+album: Picture Book (Expanded)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:1yg7fwwYmx9DQ2TdXUmfpJ
 features: []
-genres: []
+first_released_as_single: false
 key: holding-back-the-years-simply-red
 lyrics_url: https://genius.com/Simply-red-holding-back-the-years-lyrics
 name: Holding Back The Years
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
+release_year: 1985
+runtime: 269840
 ---
 Holding back the years
 Thinking of the fear I've had so long

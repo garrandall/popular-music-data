@@ -1,8 +1,11 @@
 ---
+album: The Man
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:5vzvMmlXXAyF4KGlwiKD0T
 features: []
-genres: []
+first_released_as_single: false
 key: your-sweetness-is-my-weakness-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/yoursweetnessismyweakness.html
 name: Your Sweetness Is My Weakness
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1978
+runtime: 490800
 ---
-
 Oh, girl, you know like I know, uh-huh
 What your lovin, girl, has done for me
 Like a Mona Lisa hangin on a wall, uh-huh
@@ -74,6 +78,3 @@ Sweetness is my weakness, yeah (Uh-huh), yeah (Uh-huh)
 Sweetness is my weakness, yeah (Oh), yeah (Oh)
 Sweetness is my weakness, yeah, yeah
 Sweetness is my weakness
-
-
-

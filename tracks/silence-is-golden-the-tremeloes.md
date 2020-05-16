@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - The Tremeloes
+external_ids:
+  spotify: spotify:track:0tY6WuVkmCth6YHl8xKrew
 features: []
-genres: []
+first_released_as_single: false
 key: silence-is-golden-the-tremeloes
 lyrics_url: https://genius.com/The-tremeloes-silence-is-golden-lyrics
 name: Silence Is Golden
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 190933
 ---
 Oh don't it hurt deep inside
 To see someone do something to her

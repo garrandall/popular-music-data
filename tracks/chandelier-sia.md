@@ -1,8 +1,11 @@
 ---
+album: 1000 Forms Of Fear (Deluxe Version)
 artists:
 - Sia
+external_ids:
+  spotify: spotify:track:6dWrvmUw835xslfJoAVpSB
 features: []
-genres: []
+first_released_as_single: true
 key: chandelier-sia
 lyrics_url: https://www.azlyrics.com/lyrics/sia/chandelier.html
 name: Chandelier
@@ -191,8 +194,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2014
+runtime: 386733
 ---
-
 Party girls don't get hurt
 Can't feel anything, when will I learn
 I push it down, push it down
@@ -263,6 +267,3 @@ On for tonight, on for tonight
 'Cause I'm just holding on for tonight
 Oh, I'm just holding on for tonight
 On for tonight, on for tonight
-
-
-

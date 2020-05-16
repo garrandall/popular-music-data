@@ -1,8 +1,11 @@
 ---
+album: Once Bitten
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:0u6toDywZABXlUBq76iPKW
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-great-white
 lyrics_url: https://genius.com/Great-white-rock-me-lyrics
 name: Rock Me
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 439000
 ---
 Sweet little baby, you don't have to go
 Little baby, tell me you won't go

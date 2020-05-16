@@ -1,8 +1,11 @@
 ---
+album: After Hours
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:0VjIjW4GlUZAMYd2vXMi3b
 features: []
-genres: []
+first_released_as_single: false
 key: blinding-lights-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/blindinglights.html
 name: Blinding Lights
@@ -67,8 +70,9 @@ rankings:
   rank: 4
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 200040
 ---
-
 Yeah
 
 I've been tryna call
@@ -113,6 +117,3 @@ Hey, hey, hey
 
 I said, oh I'm blinded by the lights
 No, I can't sleep until I feel your touch
-
-
-

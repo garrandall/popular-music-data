@@ -1,9 +1,12 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:0ConttVd0Ebk3dLNquOmh0
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: moment-4-life-nicki-minaj-drake
 lyrics_url: https://genius.com/Nicki-minaj-moment-4-life-lyrics
 name: Moment 4 Life
@@ -100,6 +103,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2010
+runtime: 279306
 ---
 I fly with the stars in the sky
 I am no longer trying to survive

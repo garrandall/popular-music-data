@@ -1,8 +1,11 @@
 ---
+album: Startin' Fires
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:3Cx80FTRbREp010QgSBqWU
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-gonna-lyrics
 name: Gonna
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 2008
+runtime: 197266
 ---
 I'm gonna take you for a date
 Take you for a ride

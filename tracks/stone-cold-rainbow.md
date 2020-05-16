@@ -1,8 +1,11 @@
 ---
+album: Straight Between The Eyes
 artists:
 - Rainbow
+external_ids:
+  spotify: spotify:track:7HXYoe65kmrPrJR1r0DGtW
 features: []
-genres: []
+first_released_as_single: false
 key: stone-cold-rainbow
 lyrics_url: https://genius.com/Rainbow-stone-cold-lyrics
 name: Stone Cold
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1982
+runtime: 317306
 ---
 Every night I have the same old dream
 'Bout you and me and what's in between

@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:0iuInH8NHuc20aYbqEQZrG
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-baby-again-dean-martin
 lyrics_url: https://genius.com/Dean-martin-nobodys-baby-again-lyrics
 name: Nobody's Baby Again
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 146386
 ---
 People used to call me nobody's baby
 Up until I met you

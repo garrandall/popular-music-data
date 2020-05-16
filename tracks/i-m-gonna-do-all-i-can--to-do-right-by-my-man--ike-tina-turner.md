@@ -1,9 +1,12 @@
 ---
+album: The Minit Records Story
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4LqDu95Axe6beauAfDeIpn
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-do-all-i-can--to-do-right-by-my-man--ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-im-gonna-do-all-i-can-to-do-right-by-my-man-lyrics
 name: I'm Gonna Do All I Can (To Do Right By My Man)
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 146533
 ---
 He may never be
 A Big man in this world...

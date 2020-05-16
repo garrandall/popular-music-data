@@ -1,8 +1,11 @@
 ---
+album: Spiceworld
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:5qGwqO0lkbBXw4xNfzT7SF
 features: []
-genres: []
+first_released_as_single: false
 key: spice-up-your-life-spice-girls
 lyrics_url: https://www.musixmatch.com/lyrics/Spice-Girls/Spice-Up-Your-Life
 name: Spice Up Your Life
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
+release_year: 1997
+runtime: 173666
 ---
 La, la, la, la, la, la, la, la
 La, la, la, la, la, la

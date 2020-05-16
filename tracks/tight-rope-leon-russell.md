@@ -1,8 +1,11 @@
 ---
+album: Carney
 artists:
 - Leon Russell
+external_ids:
+  spotify: spotify:track:6f5bVwzW72D5M8lZzH8Csg
 features: []
-genres: []
+first_released_as_single: false
 key: tight-rope-leon-russell
 lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/tightrope.html
 name: Tight Rope
@@ -55,8 +58,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 181000
 ---
-
 I'm up on the tightwire
 one side's ice and one is fire
 its a circus game with you and me
@@ -92,6 +96,3 @@ really gets to get to me
 I'm up on the tightwire
 flanked by life and the funeral pyre
 putting on a show for you to see
-
-
-

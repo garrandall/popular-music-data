@@ -1,7 +1,11 @@
 ---
+album: I Think We're Alone Now
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:3AXDLGI5TIYi72JcYFvNpv
 features: []
+first_released_as_single: false
 genres: []
 key: i-think-we-re-alone-now-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-i-think-were-alone-now-lyrics
@@ -75,6 +79,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 130320
 ---
 "Children, behave"
 That's what they say when we're together

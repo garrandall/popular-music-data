@@ -1,8 +1,11 @@
 ---
+album: Trench
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:5HeKOKc4phmLn8e4I7EkzD
 features: []
-genres: []
+first_released_as_single: false
 key: my-blood-twenty-one-pilots
 lyrics_url: https://genius.com/Twenty-one-pilots-my-blood-lyrics
 name: My Blood
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 229120
 ---
 When everyone you thought you knew
 Deserts your fight, I'll go with you

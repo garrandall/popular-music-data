@@ -1,8 +1,11 @@
 ---
+album: Rain Drops
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:0mHeCqDhYLvvP3lH8qWIWC
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-looking-good-dee-clark
 lyrics_url: https://genius.com/Dee-clark-youre-looking-good-lyrics
 name: You're Looking Good
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 124946
 ---
 Little girl, where did you come from?
 Don't you know
@@ -76,7 +81,7 @@ Hey!
 
 Two an two is four
 One an one is two
-Ev'ryone's got their eyes on you
+Everyone's got their eyes on you
 
 Look at those measurements
 Man alive!
@@ -86,11 +91,7 @@ An I want this understood
 You're lookin' go-oo-ood
 You're lookin' good
 
-FADES-
-
 You're lookin'
 Go-oo-oo
 Ooo-oo-oh
 Oh-oo
-
-~

@@ -1,8 +1,11 @@
 ---
+album: Journeyman
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:2cu4KvdykqkUOUsHu3NiTD
 features: []
-genres: []
+first_released_as_single: false
 key: pretending-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/pretending.html
 name: Pretending
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 283280
 ---
-
 How many times must we tell the tale?
 How many times must we fall?
 Living in lost memory
@@ -85,4 +89,3 @@ Don't be pretending about how you feel
 Don't be pretending that your love is real
 Don't be pretending about how you feel
 Don't be pretending that your love is real
-

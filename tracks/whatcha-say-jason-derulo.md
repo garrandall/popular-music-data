@@ -1,8 +1,11 @@
 ---
+album: Jason Derulo
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:7Gn8a54Rr9x32ANk51ec8b
 features: []
-genres: []
+first_released_as_single: false
 key: whatcha-say-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/whatchasay.html
 name: Whatcha Say
@@ -135,8 +138,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2009
+runtime: 235600
 ---
-
 Wha- wha- what did she say?
 Mmm, whatcha say
 Mmm, that you only meant well?
@@ -237,6 +241,3 @@ Mmm, that you only meant well?
 Well, of course you did
 Mmm, whatcha say (whatcha say)
 Wha- wha- wha- wha- what did she say?
-
-
-

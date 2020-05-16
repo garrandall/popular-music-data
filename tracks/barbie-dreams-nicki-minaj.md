@@ -1,8 +1,11 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:7rCuk593ndV0VFgVERGMWb
 features: []
-genres: []
+first_released_as_single: false
 key: barbie-dreams-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/barbiedreams.html
 name: Barbie Dreams
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 279866
 ---
-
 Uh
 R.I.P. to B.I.G
 Classic shit
@@ -92,7 +96,7 @@ Had to cancel DJ Khaled, boy, we ain't speaking
 Ain't no fat nigga telling me what he ain't eating
 YG and The Game with the hammer yelling, "Gang, gang"
 This ain't what I meant when I said a gang bang
-Tekashi want a mÃ©nage, I said tre-way
+Tekashi want a ménage, I said tre-way
 Curved him and went the Kim and Kanye way
 Em, cop the Barbie Dreamhouse then you can play the part
 I ain't tryna bust it open in the trailer park
@@ -151,6 +155,3 @@ Shoutout to my Jews, l'chaim, Rick Rubin
 Big fat titties, yes, they be protrudin'
 I be like, fuck 'em, fuck 'em, bring the lube in
 I be like fuck 'em, fuck 'em, bring the lube in
-
-
-

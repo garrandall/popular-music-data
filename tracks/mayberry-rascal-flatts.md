@@ -1,8 +1,11 @@
 ---
+album: Melt
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:04rZkq3ihHmGNfKPgBiTX1
 features: []
-genres: []
+first_released_as_single: false
 key: mayberry-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-mayberry-lyrics
 name: Mayberry
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2002
+runtime: 272986
 ---
 Na na
 (I miss Mayberry)

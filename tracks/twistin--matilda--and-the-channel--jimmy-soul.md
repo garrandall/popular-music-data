@@ -1,8 +1,11 @@
 ---
+album: 'Frank Guida Presents: Jimmy Soul "If You Wanna Be Happy"'
 artists:
 - Jimmy Soul
+external_ids:
+  spotify: spotify:track:6Pi8qqxac8KYv7QyEfgHUm
 features: []
-genres: []
+first_released_as_single: false
 key: twistin--matilda--and-the-channel--jimmy-soul
 lyrics_url: https://genius.com/Jimmy-soul-twistin-matilda-and-the-channel-lyrics
 name: Twistin' Matilda (and the channel)
@@ -63,6 +66,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 177293
 ---
 Oh lord, I say
 

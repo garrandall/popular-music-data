@@ -1,8 +1,11 @@
 ---
+album: Long Cold Winter
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:5EicljVZKVOo2LZHREtWmQ
 features: []
-genres: []
+first_released_as_single: false
 key: coming-home-cinderella
 lyrics_url: https://genius.com/Cinderella-coming-home-lyrics
 name: Coming Home
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1988
+runtime: 295066
 ---
 I took a walk down a road
 It's the road I was meant to stay

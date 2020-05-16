@@ -1,9 +1,12 @@
 ---
+album: 'Sam & Dave: Studio 102 Essentials'
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:47bDqW4ZFJybnMwF9wkSZi
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-find-another-way--of-doing-it--sam-dave
 lyrics_url: https://genius.com/Sam-and-dave-cant-you-find-another-way-of-doing-it-lyrics
 name: Can't You Find Another Way (Of Doing It)
@@ -32,6 +35,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 146253
 ---
 You hurt me when you told me you will never be mine
 Soon the day will roll around when I'll see you my last time

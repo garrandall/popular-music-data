@@ -1,8 +1,11 @@
 ---
+album: Presenting Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:5Lz211Gzal8o89LTYMbOGR
 features: []
-genres: []
+first_released_as_single: false
 key: this-empty-place-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/thisemptyplace.html
 name: This Empty Place
@@ -27,8 +30,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 171680
 ---
-
 There's an empty place beside me
 When I'm walkin' down the street
 That's the place where you used to walk
@@ -67,6 +71,3 @@ Come back, come back, come back to me
 Come back and fill my empty arms
 I need your lovin' darling
 Your lips are lovin' darling
-
-
-

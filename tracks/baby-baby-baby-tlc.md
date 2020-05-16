@@ -1,8 +1,11 @@
 ---
+album: Ooooooohhh... On The TLC Tip
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:1zTuB57LYZa7xu7KUH8kF0
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-baby-tlc
 lyrics_url: https://genius.com/Tlc-baby-baby-baby-lyrics
 name: Baby-Baby-Baby
@@ -139,6 +142,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 315040
 ---
 Now you want my love, well that's alright
 Well it will be there for you, morning, noon and night

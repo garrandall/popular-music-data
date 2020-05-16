@@ -1,8 +1,11 @@
 ---
+album: '''Live'' Bullet'
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:0e9YaZqnRi3QYSMUIdcarE
 features: []
-genres: []
+first_released_as_single: false
 key: get-out-of-denver-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/getoutofdenver.html
 name: Get Out Of Denver
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 320240
 ---
-
 I still remember it was autumn and the moon was shinin'
 Our 60 Cadillac was roarin' through Nebraska whinin'
 Doin' 120 man the fields was bendin' over
@@ -74,6 +78,3 @@ Ah better better go go go go
 Cause you look just like a commie
 And you might just be a member better
 Get out of Denver better go!
-
-
-

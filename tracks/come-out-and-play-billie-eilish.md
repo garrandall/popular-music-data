@@ -1,8 +1,11 @@
 ---
+album: come out and play
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:7wC5eZcFS1Q1BsQ35DU6H4
 features: []
-genres: []
+first_released_as_single: true
 key: come-out-and-play-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/comeoutandplay.html
 name: Come Out And Play
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 210375
 ---
-
 Wake up and smell the coffee
 Is your cup half full or empty?
 When we talk, you say it softly
@@ -45,6 +49,3 @@ Don't hide, don't hide
 Too shy to say but I hope you stay
 Don't hide away
 Come out and play
-
-
-

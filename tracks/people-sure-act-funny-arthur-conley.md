@@ -1,8 +1,11 @@
 ---
+album: Soul Directions
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:1h9pYichpN1sdLDNjgpzK5
 features: []
-genres: []
+first_released_as_single: false
 key: people-sure-act-funny-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-people-sure-act-funny-lyrics
 name: People Sure Act Funny
@@ -27,6 +30,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 131093
 ---
 People sure act funny
 When the get a little money

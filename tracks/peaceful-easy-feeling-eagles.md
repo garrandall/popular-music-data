@@ -1,8 +1,11 @@
 ---
+album: Eagles
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:40h65HAR8COEoqkMwUUQHu
 features: []
-genres: []
+first_released_as_single: false
 key: peaceful-easy-feeling-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/peacefuleasyfeeling.html
 name: Peaceful Easy Feeling
@@ -55,8 +58,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
+release_year: 1972
+runtime: 257962
 ---
-
 I like the way your sparkling earrings lay
 Against your skin so brown.
 And I wanna sleep with you in the desert tonight
@@ -85,6 +89,3 @@ And I know you won't let me down
 'Cause I'm already standing
 I'm already standing
 Yes, I'm already standing on the ground
-
-
-

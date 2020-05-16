@@ -1,8 +1,11 @@
 ---
+album: 'Behaviour: Further Listening 1990 - 1991'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:14RWSCy9Ec9UvApW0JqjQ0
 features: []
-genres: []
+first_released_as_single: false
 key: so-hard-pet-shop-boys
 lyrics_url: https://genius.com/Pet-shop-boys-so-hard-lyrics
 name: So Hard
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 238386
 ---
 I double-cross you
 And you get mysterious mail

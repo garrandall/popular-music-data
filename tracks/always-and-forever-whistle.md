@@ -1,8 +1,11 @@
 ---
+album: Always And Forever
 artists:
 - Whistle
+external_ids:
+  spotify: spotify:track:4c8YJShoSaDCIOMgp36BM6
 features: []
-genres: []
+first_released_as_single: false
 key: always-and-forever-whistle
 lyrics_url: https://genius.com/Whistle-always-and-forever-lyrics
 name: Always And Forever
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
+release_year: 1990
+runtime: 284066
 ---
 And every day
 Love me your own special way

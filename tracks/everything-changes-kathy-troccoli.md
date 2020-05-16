@@ -1,8 +1,11 @@
 ---
+album: The Kathy Troccoli Collection 30 Years / Songs
 artists:
 - Kathy Troccoli
+external_ids:
+  spotify: spotify:track:7rJXvz9zXQr9YYdYzeXe7U
 features: []
-genres: []
+first_released_as_single: false
 key: everything-changes-kathy-troccoli
 lyrics_url: https://genius.com/Kathy-troccoli-everything-changes-lyrics
 name: Everything Changes
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1992
+runtime: 262200
 ---
 Well, you came in my life like a ray of light
 Shining through the clouds in my heart

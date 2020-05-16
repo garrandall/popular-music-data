@@ -1,8 +1,11 @@
 ---
+album: Part II
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:1Jhm8RRMQSTYX9ZaOMeUk8
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-you-d-stay-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-i-wish-youd-stay-lyrics
 name: I Wish You'd Stay
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2001
+runtime: 377866
 ---
 I talked to my sister in Memphis
 And I told her you were moving to town

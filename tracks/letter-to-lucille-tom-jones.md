@@ -1,8 +1,11 @@
 ---
+album: The Body And Soul Of Tom Jones
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:1LXepKneS4UyV2BKka2PuB
 features: []
-genres: []
+first_released_as_single: false
 key: letter-to-lucille-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/lettertolucille.html
 name: Letter To Lucille
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 182373
 ---
-
 Somebody, please, if somebody will
 Let them take a letter to my girl, Lucille
 Let them tell her, Lord, how I'm missing her still
@@ -90,6 +94,3 @@ Oh, somebody, please, if somebody will
 Let them take a letter to my girl, Lucille
 Let them tell her, Lord, how I'm missing her still
 I think about her constantly...
-
-
-

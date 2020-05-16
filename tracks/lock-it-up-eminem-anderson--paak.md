@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1qwMkkRiD5jqLeUUjfgblh
 features:
 - Anderson .Paak
-genres: []
+first_released_as_single: false
 key: lock-it-up-eminem-anderson--paak
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/lockitup.html
 name: Lock It Up
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 170226
 ---
-
-
 Yeah, like that
 Okay, yeah
 
@@ -92,6 +95,3 @@ You almost got me (Stop it, stop it)
 I had to reach back, back, and lock it, yeah (Lock it, lock it)
 You almost (Stop it), you almost (Stop it), you almost (Stop it), I got it (I got it)
 You almost (Stop it), you almost (Stop it), you almost (Stop it), I got it (I got it)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bill Black's Combo
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:4bdSSSoJc2uYgQlb6kR1gx
 features: []
-genres: []
+first_released_as_single: false
 key: josephine-bill-black-s-combo
 lyrics_url: https://genius.com/Bill-blacks-combo-josephine-lyrics
 name: Josephine
@@ -47,6 +50,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 153266
 ---
 There never was a gal I could love, like I love my Josephine
 She's a flirt, she's a scamp, she's the vampiest vamp I've ever seen

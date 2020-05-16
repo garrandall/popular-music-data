@@ -1,8 +1,11 @@
 ---
+album: My Farewell To Elvis
 artists:
 - Merle Haggard
+external_ids:
+  spotify: spotify:track:5uHLdR7JKTW6zg2a8VxRsS
 features: []
-genres: []
+first_released_as_single: false
 key: from-graceland-to-the-promised-land-merle-haggard
 lyrics_url: https://www.azlyrics.com/lyrics/merlehaggard/fromgracelandtothepromisedland.html
 name: From Graceland To The Promised Land
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
+release_year: 1977
+runtime: 151933
 ---
-
 Ladies and gentlemen, my farewell to Elvis.
 
 From the sun years of the fifties and the birth of rock and roll
@@ -71,6 +75,3 @@ It's a long way from Memphis to that mansion in the sky
 But he kept his faith in Jesus all along
 It's a long way from Graceland across Jordan to the Promised Land
 But he kept his favorite Jesus all along...
-
-
-

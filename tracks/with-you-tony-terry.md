@@ -1,8 +1,11 @@
 ---
+album: Tony Terry
 artists:
 - Tony Terry
+external_ids:
+  spotify: spotify:track:7mEDSxaIxvSmDuAaMKsK5x
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-tony-terry
 lyrics_url: https://genius.com/Tony-terry-with-you-lyrics
 name: With You
@@ -99,6 +102,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1972
+runtime: 305826
 ---
 Yeah, just like that
 Ah-ha-ha-ha

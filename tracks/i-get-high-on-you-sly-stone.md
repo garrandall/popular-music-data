@@ -1,8 +1,11 @@
 ---
+album: High On You
 artists:
 - Sly Stone
+external_ids:
+  spotify: spotify:track:2H5dTs26Xz9CFC7cV9DcRW
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-high-on-you-sly-stone
 lyrics_url: https://genius.com/Sly-stone-i-get-high-on-you-lyrics
 name: I Get High On You
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 192373
 ---
 When push comes to a shoving
 I'd rather make some lovin'

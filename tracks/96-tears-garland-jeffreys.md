@@ -1,8 +1,11 @@
 ---
+album: Escape Artist
 artists:
 - Garland Jeffreys
+external_ids:
+  spotify: spotify:track:6au8o0VvJ8jM8o13ys3Jqg
 features: []
-genres: []
+first_released_as_single: false
 key: 96-tears-garland-jeffreys
 lyrics_url: https://www.musixmatch.com/lyrics/Garland-Jeffreys/96-Tears
 name: 96 Tears
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1981
+runtime: 185573
 ---
 Too many teardrops
 For one heart to be crying

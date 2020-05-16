@@ -1,8 +1,11 @@
 ---
+album: The Cover Girls Greatest Hits
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:12HzZWHr55uVHoru6V0qgW
 features: []
-genres: []
+first_released_as_single: false
 key: funk-boutique-the-cover-girls
 lyrics_url: https://www.azlyrics.com/lyrics/covergirls/funkboutique.html
 name: Funk Boutique
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1991
+runtime: 403000
 ---
-
 Come on down
 To the funk boutique
 Try on a groove
@@ -138,6 +142,3 @@ Come on down
 To the funk boutique
 Try on a groove
 With a funky rhythm
-
-
-

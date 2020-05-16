@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - The Bermudas
+external_ids:
+  spotify: spotify:track:19vAXrgQcaajfnBkaZutF9
 features: []
-genres: []
+first_released_as_single: true
 key: donnie-the-bermudas
 name: Donnie
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 131346
 ---
 

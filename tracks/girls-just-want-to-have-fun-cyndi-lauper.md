@@ -1,8 +1,11 @@
 ---
+album: She's So Unusual
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:3H2vnO2eOL3JUN0VIfif0G
 features: []
-genres: []
+first_released_as_single: false
 key: girls-just-want-to-have-fun-cyndi-lauper
 lyrics_url: https://genius.com/Cyndi-lauper-girls-just-want-to-have-fun-lyrics
 name: Girls Just Want To Have Fun
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1981
+runtime: 233720
 ---
 I come home in the morning light
 My mother says, "When you gonna live your life right?"

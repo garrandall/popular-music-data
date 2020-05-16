@@ -1,8 +1,11 @@
 ---
+album: Nastradamus
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:5IUceLAshLX0OSTAdSLcPv
 features: []
-genres: []
+first_released_as_single: false
 key: nastradamus-nas
 lyrics_url: https://www.azlyrics.com/lyrics/nas/nastradamus.html
 name: NAStradamus
@@ -31,9 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-01-01'
+release_year: 1999
+runtime: 251933
 ---
-
-
 Uh, 2000 G
 
 Yo, I need an encore y'all, you should welcome me back
@@ -117,6 +120,3 @@ M-O-B-B Deep
 Zaire
 Jungle
 Raise hope
-
-
-

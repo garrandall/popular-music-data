@@ -1,8 +1,11 @@
 ---
+album: FishscaleBlow
 artists:
 - Boss
+external_ids:
+  spotify: spotify:track:6PZ4laM20qkvIrgji3NLsK
 features: []
-genres: []
+first_released_as_single: false
 key: deeper-boss
 lyrics_url: https://www.musixmatch.com/lyrics/Boss/Deeper
 name: Deeper
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
+release_year: 1993
+runtime: 241560
 ---
 (Feat. Papa Juggy)
 
@@ -117,7 +122,7 @@ Cause I'm a hard bitch (So why don't you just soften up?)
 I try to be cool but I get caught up when I go to clubs, straight up
 I don't even trust myself (yo, you can trust me)
 Fuck I know? (I'm just like you)
-Riiiiiiight, that's deep
+Right, that's deep
 
 Deeper and deeper
 Deeper and deeper

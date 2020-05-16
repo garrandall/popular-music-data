@@ -1,8 +1,11 @@
 ---
+album: Everybody Loves A Nut
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:47QwkqwlMoFi9XFB7YX81q
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-nut-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/everybodylovesanut.html
 name: Everybody Loves A Nut
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 123693
 ---
-
 Everybody loves a nut the whole world loves a weirdo
 Brains are in a rut but everybody loves a nut
 
@@ -41,6 +45,3 @@ And she said he'd get out of my queendom and he said yes ma'm
 
 (Everybody loves a nut...)
 Everybody loves a nut...)
-
-
-

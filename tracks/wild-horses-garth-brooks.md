@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Tribute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:1xgxGavDQDaavD60cBEv27
 features: []
-genres: []
+first_released_as_single: false
 key: wild-horses-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/wildhorses.html
 name: Wild Horses
@@ -63,8 +66,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
+release_year: 2000
+runtime: 196093
 ---
-
 From a phone booth in Cheyenne 
 I made a promise to Diane 
 No more rodeos 
@@ -96,6 +100,3 @@ And I'll lose more than I'm gonna win someday
 Wild horses just stay wild 
 And her heart is all I break 
 Wild horses keep draggin' me away
-
-
-

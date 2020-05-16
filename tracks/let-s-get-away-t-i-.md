@@ -1,8 +1,11 @@
 ---
+album: Trap Muzik
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:7pjl3P3jnqdItN1beCrJS1
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-away-t-i-
 lyrics_url: https://genius.com/Ti-lets-get-away-lyrics
 name: Let's Get Away
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
+release_year: 2003
+runtime: 278720
 ---
 (T.I.)
  Hey, let's get away and get a room on the other side of town

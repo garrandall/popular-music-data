@@ -1,8 +1,11 @@
 ---
+album: FOUR
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:6AzCBeiDuUXGXjznBufswB
 features: []
-genres: []
+first_released_as_single: false
 key: stockholm-syndrome-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/stockholmsyndrome.html
 name: Stockholm Syndrome
@@ -11,9 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 214720
 ---
-
-
 Who's that shadow holding me hostage?
 I've been here for days
 Who's this whisper telling me that I'm never gonna get away?
@@ -65,6 +68,3 @@ Oh, baby, I'll never leave if you keep holding me this way, oh o-oh
 Oh, baby, look what you've done to me
 Oh, baby, you've got me tied down
 Oh, baby, I'll never leave if you keep holding me this way, oh o-oh
-
-
-

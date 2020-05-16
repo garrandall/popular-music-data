@@ -1,8 +1,11 @@
 ---
+album: On Top
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:4lFgJ8ZMAu8npJbNp2TpB8
 features: []
-genres: []
+first_released_as_single: false
 key: loving-you-is-sweeter-than-ever-four-tops
 lyrics_url: https://genius.com/The-four-tops-loving-you-is-sweeter-than-ever-lyrics
 name: Loving You Is Sweeter Than Ever
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 170426
 ---
 I remember yet before we met
 When every night and day I had to live the life of a lonely one

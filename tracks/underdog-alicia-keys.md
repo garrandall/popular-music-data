@@ -1,8 +1,11 @@
 ---
+album: Underdog
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:3FGiFUJRRp5RGikVrs6kig
 features: []
-genres: []
+first_released_as_single: true
 key: underdog-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/underdog.html
 name: Underdog
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 208207
 ---
-
 She was walking in the street, looked up and noticed
 He was nameless, he was homeless
 She asked him his name and told him what hers was
@@ -68,6 +72,3 @@ This goes out to the underdog
 Keep on keeping at what you love
 You'll find that someday soon enough
 You will rise up, rise up, yeah
-
-
-

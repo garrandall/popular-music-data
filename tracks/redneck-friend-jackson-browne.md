@@ -1,8 +1,11 @@
 ---
+album: Solo Acoustic Volume 2
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:0Idxq1IPvjjctgd7lRxSBh
 features: []
-genres: []
+first_released_as_single: false
 key: redneck-friend-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/redneckfriend.html
 name: Redneck Friend
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1973
+runtime: 271013
 ---
-
 Pretty little one
 How has it all begun?
 They're teaching you how to walk
@@ -90,6 +94,3 @@ And then we'll run but you'll think we're flyin'
 Now honey don't just stand there
 Lookin' like this dream will never end
 Honey let me introduce you to my redneck friend
-
-
-

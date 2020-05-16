@@ -1,8 +1,11 @@
 ---
+album: Poetica
 artists:
 - iio
+external_ids:
+  spotify: spotify:track:6mR1e9CKGaiORBr2KM7PjK
 features: []
-genres: []
+first_released_as_single: true
 key: rapture--tastes-so-sweet--iio
 lyrics_url: https://www.azlyrics.com/lyrics/iio/rapture.html
 name: Rapture (Tastes So Sweet)
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
+release_year: 2002
+runtime: 194960
 ---
-
 La
 La la la la la la
 La la la la la la
@@ -143,6 +147,3 @@ La la la la la la
 
 (La la la la la la)
 (La la la la la la)
-
-
-

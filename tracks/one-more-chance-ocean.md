@@ -1,8 +1,11 @@
 ---
+album: Give Tomorrow's Children One More Chance
 artists:
 - Ocean
+external_ids:
+  spotify: spotify:track:1G1GrHWPRWjmDV36J1BQE1
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-chance-ocean
 lyrics_url: https://genius.com/Ocean-one-more-chance-lyrics
 name: One More Chance
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 197333
 ---
 Don't deny your people
 One more chance

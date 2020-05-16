@@ -1,8 +1,11 @@
 ---
+album: The Johnny Cash Show
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:5KF3zQP0cqLklYnF6riogg
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-morning-coming-down-johnny-cash
 name: Sunday Morning Coming Down
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1970
+runtime: 247906
 ---
 

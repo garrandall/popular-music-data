@@ -1,8 +1,11 @@
 ---
+album: Mirage
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:41tJM6A0L02Rw6JSS5iThp
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-store-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/loveinstore.html
 name: Love In Store
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 195026
 ---
-
 All I know is the way that I feel
 Whenever you're around
 You've got a way of lifting me up
@@ -98,6 +102,3 @@ Oh darlin'
 Never take your love away
 Beggin' you, baby
 Never take your love away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:1TRBNskaco4d6OQ9uVY7rz
 features: []
-genres: []
+first_released_as_single: false
 key: ginger-bread-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-ginger-bread-lyrics
 name: Ginger Bread
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 123653
 ---
 You're full of sugar you're full of spice
 You're kinda naughty but you're naughty and nice say-

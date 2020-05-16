@@ -1,8 +1,11 @@
 ---
+album: Every Time You Touch Me (I Get High)
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:3ydvQ1vczAWHdXA5h9yToW
 features: []
-genres: []
+first_released_as_single: false
 key: every-time-you-touch-me--i-get-high--charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/everytimeyoutouchmeigethigh.html
 name: Every Time You Touch Me (I Get High)
@@ -55,8 +58,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1973
+runtime: 181733
 ---
-
 Every time you touch me I get high
 And every time you're near me I can fly
 High above the clouds and rain way above the hurt and pain
@@ -73,6 +77,3 @@ When your fingers touch my skin that's when I start to live again
 Cause without your love I'd lay right down and die
 
 Every time you touch me I get high
-
-
-

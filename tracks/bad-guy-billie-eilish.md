@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:2Fxmhks0bxGSBdJ92vM42m
 features: []
-genres: []
+first_released_as_single: false
 key: bad-guy-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/badguy.html
 name: Bad Guy
@@ -203,8 +206,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 194087
 ---
-
 White shirt now red, my bloody nose
 Sleeping, you're on your tippy toes
 Creeping around like no one knows
@@ -264,6 +268,3 @@ I'm a bad guy
 I'm, I'm a bad guy
 Bad guy, bad guy
 I'm a bad guy
-
-
-

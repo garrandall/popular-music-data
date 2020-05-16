@@ -1,8 +1,11 @@
 ---
+album: Our Danish Collection
 artists:
 - The Swinging Blue Jeans
+external_ids:
+  spotify: spotify:track:4LddAerqROEdlx1GF1bcVd
 features: []
-genres: []
+first_released_as_single: false
 key: hippy-hippy-shake-the-swinging-blue-jeans
 lyrics_url: https://genius.com/Swinging-blue-jeans-hippy-hippy-shake-lyrics
 name: Hippy Hippy Shake
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 106066
 ---
 For goodness sake
 I got the hippy hippy shakes

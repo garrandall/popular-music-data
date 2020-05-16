@@ -1,10 +1,13 @@
 ---
+album: Freedom
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:5264rU21ndum3CYYaSGUUm
 features:
 - Lil Wayne
 - Young Jeezy
-genres: []
+first_released_as_single: false
 key: i-m-so-paid-akon-lil-wayne-young-jeezy
 lyrics_url: https://genius.com/Akon-im-so-paid-lyrics
 name: I'm So Paid
@@ -89,6 +92,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 263640
 ---
 Rubbing' on that Italian leather
 Then Konvict jeans on!

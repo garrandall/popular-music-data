@@ -1,8 +1,11 @@
 ---
+album: Who's That Girl Soundtrack
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3G0NNqwQ1sqRpySr6soHlH
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-that-girl-madonna
 lyrics_url: https://genius.com/Madonna-whos-that-girl-lyrics
 name: Who's That Girl
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
+release_year: 1987
+runtime: 239173
 ---
 Who's that girl?
 Who's that girl?

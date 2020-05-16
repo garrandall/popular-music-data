@@ -1,8 +1,11 @@
 ---
+album: About To Get Real
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:6WCqjXvMxAN2yP4dzeoyhF
 features: []
-genres: []
+first_released_as_single: false
 key: baby-be-my-love-song-easton-corbin
 lyrics_url: https://genius.com/Easton-corbin-baby-be-my-love-song-lyrics
 name: Baby Be My Love Song
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-08-08'
+release_year: 2015
+runtime: 199746
 ---
 So here we are, here all alone
 The band quit playing, everyone went home

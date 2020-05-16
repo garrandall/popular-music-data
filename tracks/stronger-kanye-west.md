@@ -1,8 +1,11 @@
 ---
+album: Graduation
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:0Nlb2F9h5XS7Vn4oejbpEu
 features: []
-genres: []
+first_released_as_single: true
 key: stronger-kanye-west
 lyrics_url: https://genius.com/Kanye-west-stronger-lyrics
 name: Stronger
@@ -115,6 +118,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 276440
 ---
 Work it, make it, do it, makes us
 Harder, better, faster, stronger

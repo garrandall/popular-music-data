@@ -1,8 +1,11 @@
 ---
+album: Comfort Me
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:53HP1YlOvzYkImudH6FN6K
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-s-love-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-a-womans-love-lyrics
 name: A Woman's Love
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 174639
 ---
 When I ask you where you've been
 Don't get angry

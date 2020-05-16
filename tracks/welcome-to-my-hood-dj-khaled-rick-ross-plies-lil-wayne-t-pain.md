@@ -1,12 +1,15 @@
 ---
+album: We The Best Forever
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:3V8zitLu3UTaYmflW0iCco
 features:
 - Rick Ross
 - Plies
 - Lil Wayne
 - T-Pain
-genres: []
+first_released_as_single: false
 key: welcome-to-my-hood-dj-khaled-rick-ross-plies-lil-wayne-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/welcometomyhood.html
 name: Welcome To My Hood
@@ -39,9 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2011
+runtime: 250373
 ---
-
-
 Welcome to my hood
 (Where the hood at)
 (Where the hood at)
@@ -106,4 +109,3 @@ Young Money, Cash Money, blood bitch, I'm red hot
 I don't see nobody, see nobody like a head shot
 All that bullshit is for the birds, throw some bread out
 Got it sewn up, check the thread count
-

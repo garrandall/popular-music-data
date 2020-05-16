@@ -1,9 +1,12 @@
 ---
+album: The Greatest Dance Album In The World
 artists:
 - Clivilles
 - Cole
+external_ids:
+  spotify: spotify:track:0apolr7ovVwvk8qMIIK0u5
 features: []
-genres: []
+first_released_as_single: false
 key: a-deeper-love-clivilles-cole
 lyrics_url: https://genius.com/Clivilles-and-cole-a-deeper-love-lyrics
 name: A Deeper Love
@@ -76,6 +79,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1992
+runtime: 257773
 ---
 Pride
 Pride

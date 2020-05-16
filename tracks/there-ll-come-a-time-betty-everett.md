@@ -1,8 +1,11 @@
 ---
+album: There'll Come A Time
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:7AJrMscLkjpQ2p5XlWwFwO
 features: []
-genres: []
+first_released_as_single: false
 key: there-ll-come-a-time-betty-everett
 lyrics_url: https://genius.com/Betty-everett-therell-come-a-time-lyrics
 name: There'll Come A Time
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 165400
 ---
 There'll come a time in every girl's life
 She'll have to cry

@@ -1,8 +1,11 @@
 ---
+album: Mental Floss For The Globe / Hollywood Live 1990
 artists:
 - Urban Dance Squad
+external_ids:
+  spotify: spotify:track:6XqSaqfQCbHMtODYIcIMlD
 features: []
-genres: []
+first_released_as_single: false
 key: deeper-shade-of-soul-urban-dance-squad
 lyrics_url: https://genius.com/Urban-dance-squad-deeper-shade-of-soul-lyrics
 name: Deeper Shade Of Soul
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
+release_year: 1990
+runtime: 272266
 ---
 Mellow... that's my style
 
@@ -114,4 +119,3 @@ Again, music's got to do with only feeling
 It's not where you're from, it's 'can' they yield in
 The stuff that we rock and what we're giving
 A piece of the mind connects with rhythm
-

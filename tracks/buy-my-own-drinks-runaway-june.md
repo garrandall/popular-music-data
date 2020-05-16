@@ -1,8 +1,11 @@
 ---
+album: Blue Roses
 artists:
 - Runaway June
+external_ids:
+  spotify: spotify:track:3WBY2lhKzkxaG5bNscQrOG
 features: []
-genres: []
+first_released_as_single: false
 key: buy-my-own-drinks-runaway-june
 lyrics_url: https://www.azlyrics.com/lyrics/runawayjune/buymyowndrinks.html
 name: Buy My Own Drinks
@@ -27,8 +30,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 206293
 ---
-
 Well since we been done
 I've been trying to un-fall apart
 And I've been thinking that some neon lights
@@ -94,6 +98,3 @@ I can drop my own change in the jukebox
 (Tonight, tonight, tonight)
 I can dance all by myself
 (Tonight, tonight, tonight)
-
-
-

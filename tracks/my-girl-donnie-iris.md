@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Donnie Iris'
 artists:
 - Donnie Iris
+external_ids:
+  spotify: spotify:track:0CWpjV8YpFB4QTY8ZviQqU
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-donnie-iris
 lyrics_url: https://genius.com/Donnie-iris-my-girl-lyrics
 name: My Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 236200
 ---
 Hey I'm a lucky guy
 I got her by my side

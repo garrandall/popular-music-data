@@ -1,8 +1,11 @@
 ---
+album: Carolina
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:2uZhNjlUQ9mnt0rS7hcAgF
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-a-little-smoke-eric-church
 lyrics_url: https://genius.com/Eric-church-smoke-a-little-smoke-lyrics
 name: Smoke A Little Smoke
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2009
+runtime: 191333
 ---
 Turn the quiet up, turn the noise down
 Let this ol' world just spin around

@@ -1,8 +1,11 @@
 ---
+album: Holiday
 artists:
 - America
+external_ids:
+  spotify: spotify:track:6JWlRd8ZFnXhCzg0mi3N5V
 features: []
-genres: []
+first_released_as_single: false
 key: tin-man-america
 lyrics_url: https://www.azlyrics.com/lyrics/america/tinman.html
 name: Tin Man
@@ -79,8 +82,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
+release_year: 1972
+runtime: 209866
 ---
-
 Sometimes late when things are real
 And people share the gift of gab between themselves
 Some are quick to take the bait
@@ -114,6 +118,3 @@ And Cause never was the reason for the evening
 Or the tropic of Sir Galahad
 
 So please believe in me
-
-
-

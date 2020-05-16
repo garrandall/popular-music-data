@@ -1,8 +1,11 @@
 ---
+album: Raised On Radio
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:5Wn0NrZ0V4bejHxvmrUP2q
 features: []
-genres: []
+first_released_as_single: false
 key: be-good-to-yourself-journey
 lyrics_url: https://genius.com/Journey-be-good-to-yourself-lyrics
 name: Be Good To Yourself
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1975
+runtime: 232266
 ---
 Running out of self-control
 Getting close to an overload

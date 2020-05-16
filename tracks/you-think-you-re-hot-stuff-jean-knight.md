@@ -1,8 +1,11 @@
 ---
+album: Mr. Big Stuff
 artists:
 - Jean Knight
+external_ids:
+  spotify: spotify:track:1UeKZLsI9eKHtNKd6bvbjO
 features: []
-genres: []
+first_released_as_single: false
 key: you-think-you-re-hot-stuff-jean-knight
 lyrics_url: https://genius.com/Jean-knight-you-think-youre-hot-stuff-lyrics
 name: You Think You're Hot Stuff
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 149306
 ---
 (You think you're hot stuff)
 (But in my book, you're not hot enough)

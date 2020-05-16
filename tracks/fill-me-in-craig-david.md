@@ -1,8 +1,11 @@
 ---
+album: Born to Do It
 artists:
 - Craig David
+external_ids:
+  spotify: spotify:track:0mycjnOIAohKSr6vm7x3Rm
 features: []
-genres: []
+first_released_as_single: false
 key: fill-me-in-craig-david
 lyrics_url: https://www.azlyrics.com/lyrics/craigdavid/fillmein.html
 name: Fill Me In
@@ -115,8 +118,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 256746
 ---
-
 (All right)
 (Come on)
 (Can you fill me in?)
@@ -209,6 +213,3 @@ Midnight return Jacuzzi turned on
 Can you fill me in?
 
 (Can you fill me in?)
-
-
-

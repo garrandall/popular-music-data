@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:7pa2J8FSpn0Jg0FLKj9NV1
 features: []
-genres: []
+first_released_as_single: false
 key: shine-on-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/shineon.html
 name: Shine On
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2015
+runtime: 191605
 ---
-
 Knocked me off of my feet
 But I think it's time for me to start walking again,
 Stop running away from me.
@@ -40,6 +44,3 @@ There is work to be done in the dark before dawn.
 Shine on, shine on.
 There is work to be done
 So you you've got to shine on
-
-
-

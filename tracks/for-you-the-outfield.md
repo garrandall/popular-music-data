@@ -1,8 +1,11 @@
 ---
+album: Diamond Days
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:57OfvZ1HFFTWQltTgdyj6N
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-the-outfield
 lyrics_url: https://genius.com/The-outfield-for-you-lyrics
 name: For You
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 267280
 ---
 I'm so sad - feeling blue
 Since you left - I've been missing you

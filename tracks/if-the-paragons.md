@@ -1,8 +1,11 @@
 ---
+album: The Best of the Paragons
 artists:
 - The Paragons
+external_ids:
+  spotify: spotify:track:3TX4LYL1VNKAfASr9rUP02
 features: []
-genres: []
+first_released_as_single: false
 key: if-the-paragons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Paragons/If-1
 name: If
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 155240
 ---
 If they made me a king
 I'd be but a slave to you

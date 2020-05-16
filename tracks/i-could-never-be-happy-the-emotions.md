@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975'
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:2sulLPGU6wXhkfCLIskJPK
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-never-be-happy-the-emotions
 lyrics_url: https://genius.com/The-emotions-i-could-never-be-happy-lyrics
 name: I Could Never Be Happy
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1972
+runtime: 210026
 ---
 Yeah, hey
 Ah, mmm

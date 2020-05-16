@@ -1,8 +1,11 @@
 ---
+album: The Other Woman
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:7wp8G05aq7DsPrRZ5R2VZO
 features: []
-genres: []
+first_released_as_single: false
 key: bad-boy-ray-parker-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/rayparkerjr/badboy.html
 name: Bad Boy
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 252240
 ---
-
 I've been a Bad Boy 
 Now I wanna come back home 
 I've been a Bad Boy 
@@ -110,6 +114,3 @@ Spank me, whoop me, let me come back home
 I'll take out the trash 
 Spank me, whoop me, let me come back home 
 I'll take out the trash
-
-
-

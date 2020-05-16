@@ -1,8 +1,11 @@
 ---
+album: "F\xF3rmula Vol. 1"
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:1sQrCwV8vvtYLqa0KQlwE9
 features: []
-genres: []
+first_released_as_single: false
 key: you-romeo-santos
 lyrics_url: https://genius.com/Romeo-santos-you-lyrics
 name: You
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 248813
 ---
 Ow ow ow uh ow ow you
 Ow ow ow uh ow ow you

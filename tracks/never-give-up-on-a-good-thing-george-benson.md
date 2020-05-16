@@ -1,8 +1,11 @@
 ---
+album: US Dancefloor Hits from the 80's
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:29Nw8U4t69QQbaHh2TcRvv
 features: []
-genres: []
+first_released_as_single: false
 key: never-give-up-on-a-good-thing-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/nevergiveuponagoodthing.html
 name: Never Give Up On A Good Thing
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1981
+runtime: 244933
 ---
-
 Never give up on a good thing
 Remember what makes you happy (Whoa, whoa)
 Never give up on a good thing
@@ -111,6 +115,3 @@ If love is what you got, you've got a lot
 Never give up on a good thing (Oh, he's all you need)
 Remember what makes you happy (Whoa, oh)
 Never give up on a good thing
-
-
-

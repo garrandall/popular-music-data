@@ -1,9 +1,12 @@
 ---
+album: Fantasy Ride
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:0upQ8bgqXGhFsBgvchxbGm
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: true
 key: love-sex-magic-ciara-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/ciara/lovesexmagic.html
 name: Love Sex Magic
@@ -56,8 +59,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2009
+runtime: 220040
 ---
-
 1, 2, 3, go
 Ciara
 Sex
@@ -158,6 +162,3 @@ Get it girl
 I bet that I can make you believe in love and sex and magic
 I see you on the floor
 Get it girl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Yours
 artists:
 - Russell Dickerson
+external_ids:
+  spotify: spotify:track:5PBx0zFfehUMyv5H4YXVAU
 features: []
-genres: []
+first_released_as_single: false
 key: blue-tacoma-russell-dickerson
 lyrics_url: https://www.azlyrics.com/lyrics/russelldickerson/bluetacoma.html
 name: Blue Tacoma
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
+release_year: 2017
+runtime: 212066
 ---
-
 Blue Tacoma, California
 Rays of gold are shining on ya
 
@@ -150,6 +154,3 @@ It's always right here, always right here, oh oh
 Blue Tacoma, California
 Rays of gold are shining on ya
 Oh, if heaven is anywhere
-
-
-

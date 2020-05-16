@@ -1,8 +1,11 @@
 ---
+album: The Garden
 artists:
 - Merril Bainbridge
+external_ids:
+  spotify: spotify:track:2YEgbPleCGhJ3rQoCSWZRB
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-water-merril-bainbridge
 lyrics_url: https://genius.com/Merril-bainbridge-under-the-water-lyrics
 name: Under The Water
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-04-26'
+release_year: 1995
+runtime: 253266
 ---
 I get confused
 When I'm tired

@@ -1,8 +1,11 @@
 ---
+album: Natural Thing
 artists:
 - Tanya Blount
+external_ids:
+  spotify: spotify:track:7lVEDSLP9MIhViYNV0oVtb
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-rain-tanya-blount
 lyrics_url: https://genius.com/Tanya-blount-through-the-rain-lyrics
 name: Through The Rain
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 310493
 ---
 I'm not looking for a fantasy
 All I want is reality and you

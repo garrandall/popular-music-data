@@ -1,8 +1,11 @@
 ---
+album: Soul/R&B Covers of Timeless Pop Classics
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:22bA5fQMVqBAQMDjP7Z3nO
 features: []
-genres: []
+first_released_as_single: false
 key: memories-are-made-of-this-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/memoriesaremadeofthis.html
 name: Memories Are Made Of This
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 150506
 ---
-
 Take one fresh and tender kiss
 (Sweet sweet, the memories you gave to me, yeah)
 Add one stolen night of bliss
@@ -79,6 +83,3 @@ Oh, memories are made of this
 (Sweet sweet, the memories you gave to me, yeah)
 Memories are made of this
 (How sweet, the memories you gave to me, oh)
-
-
-

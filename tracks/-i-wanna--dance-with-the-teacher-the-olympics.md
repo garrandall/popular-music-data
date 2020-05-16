@@ -1,8 +1,11 @@
 ---
+album: The Olympics Meet the Marathons Doo Wop
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:3rHQ8LI3Rrw2hy7H4FtbFw
 features: []
-genres: []
+first_released_as_single: false
 key: -i-wanna--dance-with-the-teacher-the-olympics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/I-Wanna-Dance-with-the-Teacher
 name: (I Wanna) Dance With The Teacher
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 107317
 ---
 Ding dong, ding dong
 

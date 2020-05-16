@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Again - 20 Twist & Limbo Hits
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:5ElpKIIJkl1J1kMW1vPqrd
 features: []
-genres: []
+first_released_as_single: false
 key: popeye--the-hitchhiker--chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/popeyethehitchhiker.html
 name: Popeye (The Hitchhiker)
@@ -59,8 +62,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 151146
 ---
-
 Hitchhike
 Hitchhike
 Popeye
@@ -133,6 +137,3 @@ That's how the popeye dance is done
 Fly
 Hey
 Popeye
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heartbreaker
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:2YWcbd9rhUmVFQAEidtfxK
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreaker-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/heartbreaker.html
 name: Heartbreaker
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 214600
 ---
-
 Here I sit all alone, thinkin' 'bout what I should have known
 You made me think that I could need you
 You weaved your magic spell and I believed you
@@ -80,6 +84,3 @@ Heartbreaker, wish that I had seen that love was blind
 Sweet little love maker, takin' my heart and leave me behind
 Heartbreaker couldn't you be
 Just a little more kind to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Survivor Greatest Hits
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:44Cb1jflzEeBEsyAsXyatC
 features: []
-genres: []
+first_released_as_single: false
 key: the-moment-of-truth-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/themomentoftruth.html
 name: The Moment Of Truth
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1984
+runtime: 226093
 ---
-
 When you're alone you ask yourself
 What are you searching for
 Deep in the night a dream is born
@@ -81,6 +85,3 @@ This is the time
 Waited forever, it's now or it's never
 Nothing can stop you now
 ...
-
-
-

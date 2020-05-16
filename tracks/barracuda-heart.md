@@ -1,8 +1,11 @@
 ---
+album: Charlie's Angels - Music From The Motion Picture
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:3JPQMboCQRWDJPAYJu1Nbg
 features: []
-genres: []
+first_released_as_single: false
 key: barracuda-heart
 lyrics_url: https://genius.com/Heart-barracuda-lyrics
 name: Barracuda
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1976
+runtime: 262333
 ---
 So this ain't the end, I saw you again today
 I had to turn my heart away

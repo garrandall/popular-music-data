@@ -1,9 +1,12 @@
 ---
+album: B.A.R.S. The Barry Adrian Reese Story
 artists:
 - Cassidy
+external_ids:
+  spotify: spotify:track:1ksleezIr9hz61v7TFNYE1
 features:
 - Swizz Beatz
-genres: []
+first_released_as_single: true
 key: my-drink-n--my-2-step-cassidy-swizz-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/cassidy/mydrinknmy2step.html
 name: My Drink N' My 2 Step
@@ -88,9 +91,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 194013
 ---
-
-
 On... on... on...
 HEYYYYYY~!
 
@@ -143,4 +146,3 @@ I done sweat, I done bled, shed a couple of tears
 I ain't stressin, it's a blessin that the hustler here
 Let's celebrate a toast, put your cup in the air
 YEAH~!
-

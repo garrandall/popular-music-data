@@ -1,9 +1,12 @@
 ---
+album: Ridin' High
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:3oBDHEINmsaU8t7hDWrOSr
 features: []
-genres: []
+first_released_as_single: false
 key: i-promise-to-wait-my-love-martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-i-promise-to-wait-my-love-lyrics
 name: I Promise To Wait My Love
@@ -36,6 +39,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 126720
 ---
 I promise to wait, my love, right here 'til you return
 With a love that's weak and a heart that sadly yearns

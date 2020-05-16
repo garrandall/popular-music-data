@@ -1,9 +1,12 @@
 ---
+album: Super Saucy
 artists:
 - Baby Bash
+external_ids:
+  spotify: spotify:track:3VBLBcal4M8BP8XV3l8QDD
 features:
 - Akon
-genres: []
+first_released_as_single: true
 key: baby-i-m-back-baby-bash-akon
 lyrics_url: https://www.azlyrics.com/lyrics/babybash/babyimback.html
 name: Baby I'm Back
@@ -108,9 +111,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
+release_year: 2004
+runtime: 221160
 ---
-
-
 Hoooo
 Yeah
 Said everything that you want me to I'll do it
@@ -150,4 +153,3 @@ You don't have to look no farther, you hotter then a fire starter
 
 I was gone for a minute, (oh)
 Now I'm back let me hit it (oh)
-

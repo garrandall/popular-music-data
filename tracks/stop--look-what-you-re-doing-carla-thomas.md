@@ -1,8 +1,11 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:1jYt67ObwzHEKaa8DxrnV2
 features: []
-genres: []
+first_released_as_single: false
 key: stop--look-what-you-re-doing-carla-thomas
 lyrics_url: https://www.musixmatch.com/lyrics/Carla-Thomas/Stop-Look-What-You-re-Doing
 name: Stop! Look What You're Doing
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 152799
 ---
 Stop, look what you're doing to me
 Oh, stop, stop it, baby

@@ -1,8 +1,11 @@
 ---
+album: Beautiful Soul
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:3bcVpuuWgAUQZri3FgpfNX
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-no-you-jesse-mccartney
 lyrics_url: https://genius.com/Jesse-mccartney-shes-no-you-lyrics
 name: She's No You
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2004
+runtime: 213960
 ---
 They got a lotta girls who know they got it going on
 But nothing's ever a comparison to you

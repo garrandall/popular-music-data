@@ -1,8 +1,11 @@
 ---
+album: The Candymen
 artists:
 - The Candymen
+external_ids:
+  spotify: spotify:track:69C6Doeyve2lM0afZ92n87
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-pines-the-candymen
 lyrics_url: https://www.musixmatch.com/lyrics/The-Candymen/Georgia-Pines
 name: Georgia Pines
@@ -27,6 +30,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 146893
 ---
 The trees grow tall
 Where I come from

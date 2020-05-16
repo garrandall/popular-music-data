@@ -1,8 +1,11 @@
 ---
+album: When I Dream
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:4JqusF4byBFBfcv43ZPyjc
 features: []
-genres: []
+first_released_as_single: false
 key: talking-in-your-sleep-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/talkinginyoursleep.html
 name: Talking In Your Sleep
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 174520
 ---
-
 Three o'clock in the morning
 And it looks like it's going to be another sleepless night
 I've been listening to your dreams and getting very low
@@ -115,6 +119,3 @@ You used to love me
 Talking in your sleep with loving on your mind
 
 You've been talking in your sleep
-
-
-

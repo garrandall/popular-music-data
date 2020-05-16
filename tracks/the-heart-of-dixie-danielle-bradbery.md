@@ -1,8 +1,11 @@
 ---
+album: Danielle Bradbery
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:5FgLLtrDU4Ex2ezB9anpH5
 features: []
-genres: []
+first_released_as_single: false
 key: the-heart-of-dixie-danielle-bradbery
 lyrics_url: https://www.azlyrics.com/lyrics/daniellebradbery/theheartofdixie.html
 name: The Heart Of Dixie
@@ -59,8 +62,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 209453
 ---
-
 She had a dead-end job at the National Bank
 And a deadbeat husband who always drank
 So when he didn't come home
@@ -100,6 +104,3 @@ The heart of Dixie
 O-o-oh
 The heart of Dixie
 O-o-oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:6z20A8AyJBdvydu4SMEcqy
 features: []
-genres: []
+first_released_as_single: false
 key: purple-haze-dion
 lyrics_url: https://genius.com/Dion-purple-haze-lyrics
 name: Purple Haze
@@ -23,6 +26,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1969
+runtime: 153160
 ---
 Purple haze
 Running through my brain

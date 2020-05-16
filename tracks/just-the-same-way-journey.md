@@ -1,8 +1,11 @@
 ---
+album: Evolution
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:3kpQhzAj0oPt1TGqQ2CJtu
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-same-way-journey
 lyrics_url: https://genius.com/Journey-just-the-same-way-lyrics
 name: Just The Same Way
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-05-26'
+release_year: 1975
+runtime: 197706
 ---
 Yesterday was a good day
 It's after midnight and I've got you on my mind

@@ -1,8 +1,11 @@
 ---
+album: Dig Your Roots
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:31x4wWBghN7f5PiEZUmcAW
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/smooth.html
 name: Smooth
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2016
+runtime: 170200
 ---
-
 Smooth
 Like a Tennessee Walker
 Just a walking on the water
@@ -95,6 +99,3 @@ Girl, you're so smooth
 Smooth, smooth
 (You so smooth)
 Smooth
-
-
-

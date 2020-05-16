@@ -1,8 +1,11 @@
 ---
+album: Heaven On Earth
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:1MD7WO5Oh8tbXcuYE05s9o
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-free-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/ifeelfree.html
 name: I Feel Free
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
+release_year: 1987
+runtime: 289400
 ---
-
 Mmm
 Mmm
 Mmm
@@ -64,6 +68,3 @@ Mmm
 Mmm
 I feel free
 I feel free
-
-
-

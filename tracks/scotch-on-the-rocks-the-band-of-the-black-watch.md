@@ -1,8 +1,11 @@
 ---
+album: Scotch on the Rocks
 artists:
 - The Band Of The Black Watch
+external_ids:
+  spotify: spotify:track:2hCz7D24Sajjsfspg1PMJx
 features: []
-genres: []
+first_released_as_single: false
 key: scotch-on-the-rocks-the-band-of-the-black-watch
 name: Scotch On The Rocks
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1976
+runtime: 165735
 ---
 

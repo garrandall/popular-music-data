@@ -1,8 +1,11 @@
 ---
+album: The Complete Atlantic Albums
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:53AzqGDlUTHQX2nHPrcX9n
 features: []
-genres: []
+first_released_as_single: false
 key: all-night-with-me-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/allnightwithme.html
 name: All Night With Me
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-05-01'
+release_year: 1982
+runtime: 232106
 ---
-
 I wish I knew what you were thinkin' 
 Sometimes with you it's hard to tell 
 You lay beside me without speakin' 
@@ -67,7 +71,4 @@ Does it feel good, do you feel like stayin' all night with me?
 Does it feel good, does it feel right? 
 Why don't you stay all night with me? 
 Does it feel good, do you feel like stayin' all night with me? 
-Does it feel ... 
-
-
-
+Does it feel ...

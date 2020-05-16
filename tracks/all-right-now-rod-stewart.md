@@ -1,8 +1,11 @@
 ---
+album: Camouflage
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3rQF4Tjg8S3qtwaX4ZOcIU
 features: []
-genres: []
+first_released_as_single: false
 key: all-right-now-rod-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/Rod-Stewart/All-Right-Now
 name: All Right Now
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 282266
 ---
 There she stood in the street
 Smiling from her head to her feet

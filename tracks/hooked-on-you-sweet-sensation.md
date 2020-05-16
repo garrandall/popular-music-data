@@ -1,8 +1,11 @@
 ---
+album: Take It While It's Hot
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:10YVwkKPhlLgivLOM54IyH
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-you-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/hookedonyou.html
 name: Hooked On You
@@ -119,8 +122,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1987
+runtime: 310960
 ---
-
 I can't explain what I'm going through
 Wish I could find the right words to say
 Losing control and it's over you
@@ -167,6 +171,3 @@ Your the one who's touch I need, the one I need to hold
 Could it be that this time love has taken all control
 I'm hooked on you, your the one I need to hold
 What can I do, it's over you
-
-
-

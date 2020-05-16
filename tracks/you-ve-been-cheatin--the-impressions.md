@@ -1,8 +1,12 @@
 ---
+album: 'People Get Ready: The Best Of The Impressions Featuring Curtis Mayfield 1961
+  - 1968'
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:4mkkncTtp9mVQneL3Q3x1W
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-been-cheatin--the-impressions
 lyrics_url: https://genius.com/The-impressions-youve-been-cheatin-lyrics
 name: You've Been Cheatin'
@@ -43,6 +47,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 151160
 ---
 I'm tryin hard to forget
 That you've been cheatin'

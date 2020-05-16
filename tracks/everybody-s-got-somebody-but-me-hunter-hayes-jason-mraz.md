@@ -1,9 +1,12 @@
 ---
+album: Hunter Hayes (Encore)
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:0spRhrdp5a0qHBzcYwtFIX
 features:
 - Jason Mraz
-genres: []
+first_released_as_single: false
 key: everybody-s-got-somebody-but-me-hunter-hayes-jason-mraz
 lyrics_url: https://genius.com/Hunter-hayes-everybodys-got-somebody-but-me-encore-lyrics
 name: Everybody's Got Somebody But Me
@@ -44,6 +47,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2011
+runtime: 159346
 ---
 I wish the couple on the corner would just get a room
 Seems like everyone around me's on their honeymoon

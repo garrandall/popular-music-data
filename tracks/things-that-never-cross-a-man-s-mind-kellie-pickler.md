@@ -1,8 +1,11 @@
 ---
+album: Small Town Girl
 artists:
 - Kellie Pickler
+external_ids:
+  spotify: spotify:track:2KvHHiBqpPUlgbKqCJ7Ip4
 features: []
-genres: []
+first_released_as_single: false
 key: things-that-never-cross-a-man-s-mind-kellie-pickler
 lyrics_url: https://www.azlyrics.com/lyrics/kelliepickler/thingsthatnevercrossamansmind.html
 name: Things That Never Cross A Man's Mind
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2006
+runtime: 189533
 ---
-
 I need to go shopping
 These shoes are all wrong
 Just look in my closet
@@ -65,6 +69,3 @@ These curtains clash with the carpet
 The color scheme is a crime
 Things that never cross a man's mind
 Things that never cross a man's mind
-
-
-

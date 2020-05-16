@@ -1,9 +1,12 @@
 ---
+album: Dry Your Eyes
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:2R6qMi1MtsrbJYJF6108Lj
 features: []
-genres: []
+first_released_as_single: false
 key: dry-your-eyes-brenda-the-tabulations
 lyrics_url: https://genius.com/Brenda-and-the-tabulations-dry-your-eyes-lyrics
 name: Dry Your Eyes
@@ -52,6 +55,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 164133
 ---
 Dry your eyes, there's no need to cry
 I am so sorry but bye, bye, so long

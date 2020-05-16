@@ -1,8 +1,11 @@
 ---
+album: Rubber Soul
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:19QXdPRZFHI5kNK3tN8Mh7
 features: []
-genres: []
+first_released_as_single: false
 key: what-goes-on-the-beatles
 lyrics_url: https://genius.com/The-beatles-what-goes-on-lyrics
 name: What Goes On
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1965
+runtime: 168573
 ---
 What goes on in your heart?
 What goes on in your mind?

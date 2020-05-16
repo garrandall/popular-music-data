@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds
 artists:
 - Johnny Preston
+external_ids:
+  spotify: spotify:track:24yDQWnPh85du5UBWTGIKL
 features: []
-genres: []
+first_released_as_single: false
 key: cradle-of-love-johnny-preston
 lyrics_url: https://www.azlyrics.com/lyrics/johnnypreston/cradleoflove.html
 name: Cradle Of Love
@@ -67,8 +70,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1960
+runtime: 140200
 ---
-
 Well rock-a-bye baby in the tree top
 When the wind blows the cradle will rock
 So rock-a-bye baby in the tree top
@@ -103,6 +107,3 @@ Well rock-a-bye baby in the tree top
 When the wind blows the cradle will rock
 So rock-a-bye baby in the tree top
 When the wind blows
-
-
-

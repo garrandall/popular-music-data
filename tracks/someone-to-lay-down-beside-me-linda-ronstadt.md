@@ -1,8 +1,11 @@
 ---
+album: Hasten Down The Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:7AytIlBjToyyDDcVM2r79I
 features: []
-genres: []
+first_released_as_single: false
 key: someone-to-lay-down-beside-me-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/someonetolaydownbesideme.html
 name: Someone To Lay Down Beside Me
@@ -51,8 +54,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 268466
 ---
-
 There's somebody waiting alone in the street
 For someone to walk up and greet
 Here you are all alone in the city
@@ -88,6 +92,3 @@ Is someone to lay down beside you
 And even though it's not real
 Just someone to lay down beside you
 You just can't ask for more
-
-
-

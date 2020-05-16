@@ -1,8 +1,11 @@
 ---
+album: 24K Magic
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:6b8Be6ljOzmkOmFslEb23P
 features: []
-genres: []
+first_released_as_single: false
 key: 24k-magic-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/brunomars/24kmagic.html
 name: 24K Magic
@@ -171,8 +174,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2016
+runtime: 225983
 ---
-
 Tonight
 I just want to take you higher
 Throw your hands up in the sky
@@ -269,6 +273,3 @@ Head to toe so player
 Uh, look out
 
 (24 karat magic, magic, magic)
-
-
-

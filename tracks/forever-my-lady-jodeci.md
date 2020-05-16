@@ -1,8 +1,11 @@
 ---
+album: Forever My Lady
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:2pY99npaZKTVAyw2DhV9Bo
 features: []
-genres: []
+first_released_as_single: false
 key: forever-my-lady-jodeci
 lyrics_url: https://www.azlyrics.com/lyrics/jodeci/forevermylady.html
 name: Forever My Lady
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 320360
 ---
-
 Forever, forever, forever
 So you're having my baby
 And it means so much to me
@@ -170,8 +174,3 @@ Woo oh
 Said I pray every night, baby
 Forever my lady
 And every day of the week
-
-
-
-
-

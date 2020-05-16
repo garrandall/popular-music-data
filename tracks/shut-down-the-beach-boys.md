@@ -1,8 +1,11 @@
 ---
+album: Surfin' USA
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:3jZLwNteBDlGhgOCEgnuF2
 features: []
-genres: []
+first_released_as_single: false
 key: shut-down-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-shut-down-lyrics
 name: Shut Down
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 111200
 ---
 Tach it up, tach it up
 Buddy going to shut you down

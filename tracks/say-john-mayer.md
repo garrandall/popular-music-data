@@ -1,8 +1,11 @@
 ---
+album: Battle Studies
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:6wZI4mdT8JwXgkGURnBQiq
 features: []
-genres: []
+first_released_as_single: true
 key: say-john-mayer
 lyrics_url: https://genius.com/John-mayer-say-lyrics
 name: Say
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-08-02'
+release_year: 2006
+runtime: 230213
 ---
 Take all of your wasted honor
 Every little past frustration

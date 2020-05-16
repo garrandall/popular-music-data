@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton's Barn & Grill
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:7kWeSMXLxUHHOkFxsS0vhP
 features: []
-genres: []
+first_released_as_single: false
 key: some-beach-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/somebeach.html
 name: Some Beach
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 204826
 ---
-
 Driving down the interstate
 Running thirty minutes late
 Singing Margaritaville and minding my own
@@ -134,6 +138,3 @@ In the salty evening air
 On some beach
 Somewhere
 On some beach, somewhere
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: X&Y
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:4wzt5Rrk3W98pHXAqutuJw
 features: []
-genres: []
+first_released_as_single: false
 key: talk-coldplay
 lyrics_url: https://genius.com/Coldplay-talk-lyrics
 name: Talk
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 311291
 ---
 Oh, brother I can't, I can't get through
 I’ve been trying hard to reach you 'cause I don’t know what to do

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7qekEQyGFRim7qNhxzkaLo
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-glee-cast
 lyrics_url: https://genius.com/Glee-cast-somewhere-lyrics
 name: Somewhere
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 184653
 ---
 There's a place for us
 Somewhere a place for us

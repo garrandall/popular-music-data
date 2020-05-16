@@ -1,8 +1,11 @@
 ---
+album: Honkytonkville
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1hQhVRvc0E4ip1tall6Ey7
 features: []
-genres: []
+first_released_as_single: false
 key: desperately-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/desperately.html
 name: Desperately
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2003
+runtime: 247533
 ---
-
 Every night it's the same
 I hear you callin' my name
 You're lyin' next to me
@@ -112,6 +116,3 @@ I still love you desperately
 I still love you
 I still want you
 I still love you desperately
-
-
-

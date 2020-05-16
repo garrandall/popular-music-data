@@ -1,8 +1,11 @@
 ---
+album: Barry Manilow II
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:6iXQrhhgBisdfvS34EMTZ3
 features: []
-genres: []
+first_released_as_single: false
 key: mandy-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/mandy.html
 name: Mandy
@@ -71,8 +74,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1974
+runtime: 213333
 ---
-
 I remember all my life
 Raining down as cold as ice
 Shadows of a man
@@ -119,6 +123,3 @@ You came and you gave without taking
 But I sent you away oh, Mandy
 You kissed me and stopped me from shaking
 And I need you
-
-
-

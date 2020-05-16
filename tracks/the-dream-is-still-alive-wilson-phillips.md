@@ -1,8 +1,11 @@
 ---
+album: Wilson Phillips
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:70Xbo0Sqj5ed67EqZz1W5Z
 features: []
-genres: []
+first_released_as_single: false
 key: the-dream-is-still-alive-wilson-phillips
 lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Phillips/The-Dream-Is-Still-Alive
 name: The Dream Is Still Alive
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1990
+runtime: 248800
 ---
 Not so long ago we were so in phase
 You and I could never forget the days

@@ -1,8 +1,11 @@
 ---
+album: Songs For Silverman
 artists:
 - Ben Folds
+external_ids:
+  spotify: spotify:track:1k36eNFEmnB4Rsg5H9RClf
 features: []
-genres: []
+first_released_as_single: false
 key: landed-ben-folds
 lyrics_url: https://www.azlyrics.com/lyrics/benfolds/landed.html
 name: Landed
@@ -15,8 +18,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 1995
+runtime: 243893
 ---
-
 We'd hit the bottom,
 I thought it was my fault
 And in a way I guess it was
@@ -68,6 +72,3 @@ Now I'll answer for myself
 
 Come pick me up,
 ...I've landed
-
-
-

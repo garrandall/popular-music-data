@@ -1,8 +1,11 @@
 ---
+album: All In The Name Of Love
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:2iyncuXGDQGQJA7Q0cZ2Rl
 features: []
-genres: []
+first_released_as_single: false
 key: one-lover-at-a-time-atlantic-starr
 lyrics_url: https://www.azlyrics.com/lyrics/atlanticstarr/oneloveratatime.html
 name: One Lover At A Time
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 241106
 ---
-
 Can't believe this mess I'm in
 Don't know if I'm coming or going
 Got my heart spread too thin
@@ -136,6 +140,3 @@ One lover
 Just one lover
 One lover
 Hoo, hoo, hoo...
-
-
-

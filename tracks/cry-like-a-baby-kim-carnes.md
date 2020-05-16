@@ -1,8 +1,11 @@
 ---
+album: Essential
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:4uZ8jVhrqyk5eSTao8rcki
 features: []
-genres: []
+first_released_as_single: false
 key: cry-like-a-baby-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/crylikeababy.html
 name: Cry Like A Baby
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 184866
 ---
-
 When I think about the good love you gave me
 I cry like a baby
 Livin' without you is drivin' me crazy
@@ -63,6 +67,3 @@ When I think about the good love you gave me
 I cry like a baby
 Livin' without you is drivin' me crazy
 I cry like a baby
-
-
-

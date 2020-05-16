@@ -1,8 +1,11 @@
 ---
+album: Hobo's Lullaby (Remastered 2004)
 artists:
 - Arlo Guthrie
+external_ids:
+  spotify: spotify:track:0P6TTXbSLGrSoTNMz5kvB7
 features: []
-genres: []
+first_released_as_single: false
 key: the-city-of-new-orleans-arlo-guthrie
 lyrics_url: https://www.musixmatch.com/lyrics/Arlo-Guthrie/The-City-Of-New-Orleans
 name: The City Of New Orleans
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 274506
 ---
 Riding on the City of New Orleans
 Illinois Central, Monday morning rail

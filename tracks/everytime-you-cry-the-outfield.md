@@ -1,8 +1,11 @@
 ---
+album: Play Deep
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:1omQ1J8VS5LEppM0mZiimI
 features: []
-genres: []
+first_released_as_single: false
 key: everytime-you-cry-the-outfield
 lyrics_url: https://www.azlyrics.com/lyrics/outfield/everytimeyoucry.html
 name: Everytime You Cry
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1985
+runtime: 268866
 ---
-
 I'm not the one to tell you what clothes to wear
 I'm not the one who talks about your hair
 I'm not the one to show you how I feel inside
@@ -72,4 +76,3 @@ In a world where you think there's no one but you
 
 But everytime you need someone to dry your eyes
 You call my name and know that I'll be there
-

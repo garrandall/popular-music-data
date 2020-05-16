@@ -1,8 +1,11 @@
 ---
+album: What Makes You Country
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5w3NgfV8v1nNZFLUBlGHIL
 features: []
-genres: []
+first_released_as_single: false
 key: light-it-up-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-light-it-up-lyrics
 name: Light It Up
@@ -83,6 +86,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
+release_year: 2017
+runtime: 177305
 ---
 I open my eyes, reach for the phone
 Not a word from you baby

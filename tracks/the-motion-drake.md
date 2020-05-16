@@ -1,8 +1,11 @@
 ---
+album: Care Package
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0Tacxc5lDJ8LwiO1pWNSl8
 features: []
-genres: []
+first_released_as_single: false
 key: the-motion-drake
 lyrics_url: https://genius.com/Drake-the-motion-lyrics
 name: The Motion
@@ -11,6 +14,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 240956
 ---
 It's not me and you, it's not me it's you
 You're reckless and you know it, they don't love you like I do

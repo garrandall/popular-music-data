@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - A Taste Of Honey
+external_ids:
+  spotify: spotify:track:3FD0RyHoYObYJkBIDGra4W
 features: []
-genres: []
+first_released_as_single: false
 key: sukiyaki-a-taste-of-honey
 lyrics_url: https://genius.com/A-taste-of-honey-sukiyaki-lyrics
 name: Sukiyaki
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
+release_year: 1981
+runtime: 223200
 ---
 It's all because of you I'm feelin' sad and blue
 You went away, now my life is just a rainy day

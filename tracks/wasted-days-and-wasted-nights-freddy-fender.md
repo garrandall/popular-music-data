@@ -1,8 +1,11 @@
 ---
+album: Before The Next Teardrop Falls
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:3xPer22ZLDCRQtb6Z03ykt
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-days-and-wasted-nights-freddy-fender
 lyrics_url: https://genius.com/Freddy-fender-wasted-days-and-wasted-nights-lyrics
 name: Wasted Days And Wasted Nights
@@ -83,6 +86,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 171761
 ---
 Wasted days and wasted nights
 I have left for you behind

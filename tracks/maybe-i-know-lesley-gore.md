@@ -1,8 +1,11 @@
 ---
+album: Girl Talk
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:4GTSIdVIP1zCCqXnHPewrZ
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-i-know-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/maybeiknow.html
 name: Maybe I Know
@@ -47,8 +50,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 154000
 ---
-
 Maybe I know that he's been a-cheatin'
 Maybe I know that he's been untrue
 But what can I do?
@@ -91,6 +95,3 @@ But what can I do?
 Oh, maybe I know that he's been a-cheatin'
 Maybe I know that he's been untrue
 But what can I do?
-
-
-

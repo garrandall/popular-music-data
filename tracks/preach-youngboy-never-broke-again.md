@@ -1,8 +1,11 @@
 ---
+album: Until Death Call My Name
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:7nIrsUCMZOM2WzkvvCFnzG
 features: []
-genres: []
+first_released_as_single: false
 key: preach-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-preach-lyrics
 name: Preach
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 236070
 ---
 DJ Swift on the track
 I turned the preacher daughter bad, I think I'm a devil

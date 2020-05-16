@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:0gVewNePZUtvwDmXcojZ2i
 features: []
-genres: []
+first_released_as_single: false
 key: good-combination-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/goodcombination.html
 name: Good Combination
@@ -32,8 +35,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 176466
 ---
-
 Baby don't you worry
 When things ain't going right
 Don't be in a hurry
@@ -70,6 +74,3 @@ Yeah (We got a good combination)
 Yeah (We got a good combination)
 Yeah (We got a good combination)
 Yeah (We got a good combination)
-
-
-

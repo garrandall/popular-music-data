@@ -1,8 +1,11 @@
 ---
+album: The Innocents
 artists:
 - Erasure
+external_ids:
+  spotify: spotify:track:2RVQIq7bLi4Eu6xHPyQ46t
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-respect-erasure
 lyrics_url: https://www.azlyrics.com/lyrics/erasure/alittlerespect.html
 name: A Little Respect
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1988
+runtime: 213373
 ---
-
 I try to discover
 A little something to make me sweeter
 Oh baby refrain from breaking my heart
@@ -125,6 +129,3 @@ Oh baby please give a little respect to me
 
 Soul, I hear you calling
 Oh baby please give a little respect to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'One More Time: Rarely Heard Hits'
 artists:
 - Rod Lauren
+external_ids:
+  spotify: spotify:track:6izmQUGcOH6W8A7Z30qygh
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-a-girl-rod-lauren
 lyrics_url: https://www.musixmatch.com/lyrics/Rod-Lauren/If-I-Had-a-Girl
 name: If I Had A Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 130946
 ---
 All my love
 All my heart I would give to her

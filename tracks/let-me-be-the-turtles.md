@@ -1,8 +1,11 @@
 ---
+album: It Ain't Me Babe
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:4pDsbYWw02n8TBfSSJINHH
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-the-turtles
 lyrics_url: https://genius.com/The-turtles-let-me-be-lyrics
 name: Let Me Be
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 143266
 ---
 Please don't mistake me or try to make me
 A shadow of anybody else

@@ -1,8 +1,11 @@
 ---
+album: 'Man On The Moon II: The Legend Of Mr. Rager'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:393MDhe62s8hbH8ETrlxe5
 features: []
-genres: []
+first_released_as_single: false
 key: mr-rager-kid-cudi
 lyrics_url: https://www.azlyrics.com/lyrics/kidcudi/mrrager.html
 name: Mr Rager
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 294226
 ---
-
 I'm off on a adventure
 Yeah.. We're good. This is dedicated to all the kids like me
 I'm on my way to Heaven
@@ -95,6 +99,3 @@ I'm on my way to Heaven
 Hey! Mr. Rager!
 Hey! Mr. Rager! 
 Hey!
-
-
-

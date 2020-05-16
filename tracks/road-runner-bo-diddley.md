@@ -1,8 +1,11 @@
 ---
+album: In The Spotlight
 artists:
 - Bo Diddley
+external_ids:
+  spotify: spotify:track:1miwQNADgNEBikbUBful7z
 features: []
-genres: []
+first_released_as_single: false
 key: road-runner-bo-diddley
 lyrics_url: https://genius.com/Bo-diddley-road-runner-lyrics
 name: Road Runner
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1960
+runtime: 167866
 ---
 I'm a road runner, honey
 Beep, beep

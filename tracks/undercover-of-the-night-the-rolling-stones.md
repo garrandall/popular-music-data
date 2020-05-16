@@ -1,8 +1,11 @@
 ---
+album: Undercover
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:08rR0CdyUAzJy3053xCPPG
 features: []
-genres: []
+first_released_as_single: false
 key: undercover-of-the-night-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/undercoverofthenight.html
 name: Undercover Of The Night
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
+release_year: 1983
+runtime: 272493
 ---
-
 Hear the screams of Center 42
 Loud enough to bust your brains out
 The opposition's tongue is cut in two
@@ -122,6 +126,3 @@ Undercover of the night
 Undercover
 Undercover
 Undercover of the night
-
-
-

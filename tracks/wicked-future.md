@@ -1,8 +1,11 @@
 ---
+album: Lines In My Face
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:6idUSoVREzMUmw7QgnskQ6
 features: []
-genres: []
+first_released_as_single: false
 key: wicked-future
 lyrics_url: https://genius.com/Future-wicked-lyrics
 name: Wicked
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2004
+runtime: 311093
 ---
 (DJ Esco Moe City the coolest DJ on the muthafuckin' planet)
 Wicked tunes, you know what I'm sayin'?

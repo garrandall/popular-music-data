@@ -1,8 +1,11 @@
 ---
+album: More Songs By Ricky
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:3pgX5P1o8shSvetqWoMkcT
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-afraid-ricky-nelson
 lyrics_url: https://genius.com/Ricky-nelson-im-not-afraid-lyrics
 name: I'm Not Afraid
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 157735
 ---
 Love, they say, is serious
 It's not a child's game

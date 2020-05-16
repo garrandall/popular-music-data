@@ -1,8 +1,11 @@
 ---
+album: Play It Loud
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:1Jsy4H3jKEwriFniuoC2gj
 features: []
-genres: []
+first_released_as_single: false
 key: i-breathe-in-i-breathe-out-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/ibreatheinibreatheout.html
 name: I Breathe In I Breathe Out
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-06-22'
+release_year: 2000
+runtime: 244600
 ---
-
 Lately I've been runnin'
 Into our old friends
 And somewhere in the small talk
@@ -127,6 +131,3 @@ We were meant to be
 Girl, there's no doubt
 And if it takes the rest of my life
 For you to figure it out
-
-
-

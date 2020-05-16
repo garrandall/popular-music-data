@@ -1,8 +1,11 @@
 ---
+album: Promises And Lies
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:3mDoAC8R1miOQ6Ld1NkAYH
 features: []
-genres: []
+first_released_as_single: false
 key: higher-ground-ub40
 lyrics_url: https://www.azlyrics.com/lyrics/ub40/higherground.html
 name: Higher Ground
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1993
+runtime: 261240
 ---
-
 Moon and stars sit way up high
 Earth and trees beneath them lie
 The wind blows fragrant lullaby
@@ -116,6 +120,3 @@ And every hour of everyday I'm learning more
 The more I learn, the less I know about before
 The less I know, the more I want to look around
 Digging deep for clues on higher ground...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Love & Life
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:1tWgwttq1I2RlcJFN1dfNh
 features:
 - Eve
-genres: []
+first_released_as_single: false
 key: not-today-mary-j--blige-eve
 lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/nottoday.html
 name: Not Today
@@ -48,8 +51,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2003
+runtime: 253866
 ---
-
 This is another one of those heartbreak hotel joints for the ladies
 
 Why won't u grow up & be a man someday
@@ -119,6 +123,3 @@ Promises you told me every day
 That you made you never ever kept
 By me I really want to believe
 But not today, not today, not today, not today
-
-
-

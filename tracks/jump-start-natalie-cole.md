@@ -1,8 +1,11 @@
 ---
+album: Everlasting
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:6gpHe5yD5LPEutwHgKFoIN
 features: []
-genres: []
+first_released_as_single: false
 key: jump-start-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/jumpstart.html
 name: Jump Start
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 388266
 ---
-
 Alright Paul, oh, oh, oh
 Uh, oh, uh, oh, oh, oh
 Hey, hey, oh, yeah
@@ -183,6 +187,3 @@ It's time we started groovin'
 (Jump start my heart)
 Hey, hey, hey, yeah
 (Charge me up when I'm runnin' down)
-
-
-

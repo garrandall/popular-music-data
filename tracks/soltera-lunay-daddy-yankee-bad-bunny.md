@@ -1,10 +1,13 @@
 ---
+album: "\xC9pico"
 artists:
 - Lunay
 - Daddy Yankee
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:1c0hsvHLELX6y8qymnpLKL
 features: []
-genres: []
+first_released_as_single: true
 key: soltera-lunay-daddy-yankee-bad-bunny
 lyrics_url: https://genius.com/Lunay-daddy-yankee-and-bad-bunny-soltera-remix-lyrics
 name: Soltera
@@ -77,6 +80,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 266086
 ---
 Épico
 Salte 'el medio, ¿okay?

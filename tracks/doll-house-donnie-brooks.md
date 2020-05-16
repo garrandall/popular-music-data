@@ -1,8 +1,11 @@
 ---
+album: The Best of Donnie Brooks
 artists:
 - Donnie Brooks
+external_ids:
+  spotify: spotify:track:3vRungYE0xsnnSc9e3EH2x
 features: []
-genres: []
+first_released_as_single: false
 key: doll-house-donnie-brooks
 lyrics_url: https://genius.com/Donnie-brooks-doll-house-lyrics
 name: Doll House
@@ -47,6 +50,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 144200
 ---
 Got a hammer, nail and a hunka wood
 I'll build a doll house

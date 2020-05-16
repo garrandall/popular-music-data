@@ -1,8 +1,11 @@
 ---
+album: Get Down
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:3ZKa6xbt9UXDgK833ugwuv
 features: []
-genres: []
+first_released_as_single: false
 key: music-in-my-bones-joe-simon
 name: Music In My Bones
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 311533
 ---
 

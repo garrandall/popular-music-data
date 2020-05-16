@@ -1,8 +1,11 @@
 ---
+album: Let The Music Play
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:45KgggFPYu2rrtOA1uigri
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-music-play-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/letthemusicplay.html
 name: Let The Music Play
@@ -43,8 +46,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1975
+runtime: 375426
 ---
-
 One ticket, please
 Lord have mercy, everybody's there
 Hey, what's goin' on man, yeah
@@ -94,6 +98,3 @@ Just until I feel this misery is gone
 Movin', kickin', groovin', keep the music strong
 Let it play on, let it play on, let it play on
 Please, let it play on, let it play on
-
-
-

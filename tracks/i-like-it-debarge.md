@@ -1,8 +1,11 @@
 ---
+album: All This Love
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:1c5KZhtOAOH7eFOlBekNhS
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-debarge
 lyrics_url: https://www.musixmatch.com/lyrics/DeBarge/I-Like-It
 name: I Like It
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1982
+runtime: 279400
 ---
 I've been thinkin'
 'Bout you for quite a while

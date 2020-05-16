@@ -1,8 +1,11 @@
 ---
+album: Traces Of My Lipstick
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:6Zyk31Yyk7AUU1TTJn7plb
 features: []
-genres: []
+first_released_as_single: false
 key: the-arms-of-the-one-who-loves-you-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/thearmsoftheonewholovesyou.html
 name: The Arms Of The One Who Loves You
@@ -87,9 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-09-12'
+release_year: 1998
+runtime: 260426
 ---
-
-
 I know you're going,
 I can't make you stay.
 I can only let you know I love you any way.
@@ -126,4 +129,3 @@ Inside my heart.
 And if you should ever change your mind,
 You can come back any time,
 And when you do...
-

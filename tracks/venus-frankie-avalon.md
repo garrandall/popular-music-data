@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0DDkW8j34M5hvxj79uGmK7
 features: []
-genres: []
+first_released_as_single: false
 key: venus-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-venus-lyrics
 name: Venus
@@ -119,6 +122,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1959
+runtime: 143493
 ---
 Hey, Venus!
 Oh, Venus!

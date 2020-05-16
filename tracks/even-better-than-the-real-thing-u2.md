@@ -1,8 +1,11 @@
 ---
+album: Achtung Baby
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:4bK2vKMdkS0rNhbzRqAZe0
 features: []
-genres: []
+first_released_as_single: false
 key: even-better-than-the-real-thing-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/evenbetterthantherealthing.html
 name: Even Better Than The Real Thing
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1991
+runtime: 221373
 ---
-
 Give me one more chance
 And you'll be satisfied
 Give me two more chances
@@ -119,6 +123,3 @@ You're the real thing
 Even better than the real thing
 Even better than the real thing
 Even better than the real thing
-
-
-

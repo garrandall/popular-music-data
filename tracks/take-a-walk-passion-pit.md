@@ -1,8 +1,11 @@
 ---
+album: Gossamer
 artists:
 - Passion Pit
+external_ids:
+  spotify: spotify:track:4Sfa7hdVkqlM8UW5LsSY3F
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-walk-passion-pit
 lyrics_url: https://www.azlyrics.com/lyrics/passionpit/takeawalk.html
 name: Take A Walk
@@ -95,8 +98,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 264493
 ---
-
 All these kinds of places
 Make it seem like it's been ages
 And tomorrow some new building will scrape the sky
@@ -170,6 +174,3 @@ Take a walk, take a walk, take a walk
 I take a walk
 Take a walk, take a walk, take a walk
 Take a walk, take a walk, take a walk
-
-
-

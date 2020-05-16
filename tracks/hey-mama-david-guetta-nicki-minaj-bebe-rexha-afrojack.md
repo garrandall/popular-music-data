@@ -1,11 +1,14 @@
 ---
+album: Listen
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:5b2bu6yyATC1zMXDGScJ2d
 features:
 - Nicki Minaj
 - Bebe Rexha
 - Afrojack
-genres: []
+first_released_as_single: false
 key: hey-mama-david-guetta-nicki-minaj-bebe-rexha-afrojack
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/heymama.html
 name: Hey Mama
@@ -106,8 +109,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-09-19'
+release_year: 2014
+runtime: 192560
 ---
-
 Be my woman, girl, I'll be your man
 Be my woman, girl, I'll be your man
 
@@ -192,6 +196,3 @@ Like, hey ma ma, mama, hey ma, mama
 
 Be my woman, girl, I'll be your man
 Be my woman, girl, I'll be your man
-
-
-

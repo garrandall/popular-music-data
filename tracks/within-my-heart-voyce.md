@@ -1,8 +1,11 @@
 ---
+album: Fever Freestyle Flashbacks
 artists:
 - Voyce
+external_ids:
+  spotify: spotify:track:6lPgMNWnPPmbw20W0o6BqO
 features: []
-genres: []
+first_released_as_single: false
 key: within-my-heart-voyce
 lyrics_url: https://www.musixmatch.com/lyrics/Voyce/Within-My-Heart
 name: Within My Heart
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
+release_year: 1991
+runtime: 60426
 ---
 When I look into your eyes
 It's hard to realize

@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:31F83eeeh5Sz6g616t13DW
 features: []
-genres: []
+first_released_as_single: false
 key: reminder-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-reminder-lyrics
 name: Reminder
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2016
+runtime: 218880
 ---
 Record man play my song on the radio
 You too busy tryna find that blue-eyed soul

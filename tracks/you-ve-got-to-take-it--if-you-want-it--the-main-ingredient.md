@@ -1,8 +1,11 @@
 ---
+album: Bitter Sweet
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:4azKYNnn4RHQuQNuPF8OeB
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-to-take-it--if-you-want-it--the-main-ingredient
 lyrics_url: https://www.musixmatch.com/lyrics/The-Main-Ingredient/You-ve-Got-To-Take-It-If-You-Want-It
 name: You've Got To Take It (If You Want It)
@@ -43,6 +46,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 208386
 ---
 Hey baby,
 Come over here and sit down and let me? To you for a minute.

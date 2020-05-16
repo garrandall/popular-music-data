@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
 - Young Thug
+external_ids:
+  spotify: spotify:track:5ixKkLQSriCQakDWbdW8qD
 features: []
-genres: []
+first_released_as_single: false
 key: we-should-lil-baby-young-thug
 lyrics_url: https://genius.com/Lil-baby-and-young-thug-we-should-lyrics
 name: We Should
@@ -12,6 +15,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 176539
 ---
 Shit, nigga just goddamn snatched one of his daughters, now she trippin'
 You tellin' me, nigga, that ain't burn out now? What's up? (Wheezy outta here)

@@ -1,8 +1,11 @@
 ---
+album: Involved
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:2JLRZNgv6KLyAN2Poceauu
 features: []
-genres: []
+first_released_as_single: false
 key: funky-music-sho-nuff-turns-me-on-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/funkymusicshonuffturnsmeon.html
 name: Funky Music Sho Nuff Turns Me On
@@ -31,8 +34,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
+release_year: 1971
+runtime: 189466
 ---
-
 I like the sound of funky music
 Let me hear you sing it
 (I like the sound of funky music) I like it
@@ -76,6 +80,3 @@ Everybody sing it with me
 Boom boom boom
 Like a river turns me
 Boom boom boom
-
-
-

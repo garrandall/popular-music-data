@@ -1,8 +1,11 @@
 ---
+album: Live At The Bohemian Caverns
 artists:
 - Ramsey Lewis Trio
+external_ids:
+  spotify: spotify:track:4EuFMPZc9DLVC2Rwg8hXPK
 features: []
-genres: []
+first_released_as_single: false
 key: something-you-got-ramsey-lewis-trio
 name: Something You Got
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 218893
 ---
 

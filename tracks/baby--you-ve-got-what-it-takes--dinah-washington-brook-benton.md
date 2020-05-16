@@ -1,9 +1,12 @@
 ---
+album: The Two Of Us
 artists:
 - Dinah Washington
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0DICNd5XQ1og9UeYzxoNFV
 features: []
-genres: []
+first_released_as_single: false
 key: baby--you-ve-got-what-it-takes--dinah-washington-brook-benton
 lyrics_url: https://genius.com/Dinah-washington-and-brook-benton-baby-youve-got-what-it-takes-lyrics
 name: Baby (You've Got What It Takes)
@@ -68,6 +71,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 165760
 ---
 Well now, it takes more than a robin to make the winter go
 And it takes two lips of fire to melt away the snow

@@ -1,9 +1,12 @@
 ---
+album: Camp Rock
 artists:
 - Demi Lovato
 - Joe Jonas
+external_ids:
+  spotify: spotify:track:5pomCBdsTZSDCFHH8BAUQe
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-me-demi-lovato-joe-jonas
 lyrics_url: https://genius.com/Demi-lovato-and-joe-jonas-this-is-me-lyrics
 name: This Is Me
@@ -36,6 +39,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2008
+runtime: 189173
 ---
 I've always been the kind of girl
 That hid my face

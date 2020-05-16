@@ -1,9 +1,12 @@
 ---
+album: To Be Continued...
 artists:
 - Elton John
 - Kiki Dee
+external_ids:
+  spotify: spotify:track:5pKJtX4wBeby9qIfFhyOJj
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-breaking-my-heart-elton-john-kiki-dee
 lyrics_url: https://genius.com/Elton-john-dont-go-breaking-my-heart-lyrics
 name: Don't Go Breaking My Heart
@@ -88,6 +91,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
+release_year: 1976
+runtime: 271133
 ---
 Don't go breaking my heart
 I couldn't if I tried

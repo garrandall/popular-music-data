@@ -1,8 +1,11 @@
 ---
+album: The Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:7rrPu2pv3mEw0gNP1Juwcd
 features: []
-genres: []
+first_released_as_single: false
 key: aiming-at-your-heart-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/aimingatyourheart.html
 name: Aiming At Your Heart
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 360640
 ---
-
 Tell me how you been
 Well, it's so good to be seein' you again
 Lady, you're so fine
@@ -60,6 +64,3 @@ Aimin' at your heart, aimin'
 Aimin' at your heart
 
 Aimin' at your heart
-
-
-

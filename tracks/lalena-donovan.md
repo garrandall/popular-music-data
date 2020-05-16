@@ -1,8 +1,11 @@
 ---
+album: Donovan, Greatest Hits
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:0FhwFjv6cZB61uunFTferl
 features: []
-genres: []
+first_released_as_single: false
 key: lalena-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/lalena.html
 name: Lalena
@@ -31,8 +34,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1964
+runtime: 175106
 ---
-
 When the sun goes to bed
 That's the time you raise your head
 That's your lot in life, Lalena
@@ -63,6 +67,3 @@ That's your lot in life, Lalena
 I can't blame ya
 No, no, no, Lalena
 Oh, Lalena
-
-
-

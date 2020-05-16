@@ -1,8 +1,11 @@
 ---
+album: "Don\u2019t Stop Movin\u2019"
 artists:
 - Livin' Joy
+external_ids:
+  spotify: spotify:track:5cIU5GZBbyMfgfXGcoQVYc
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-movin--livin--joy
 lyrics_url: https://genius.com/Livin-joy-dont-stop-movin-lyrics
 name: Don't Stop Movin'
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1997
+runtime: 215226
 ---
 Oh yeah
 

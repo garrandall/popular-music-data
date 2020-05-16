@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:1lKhJ27yVZuGOnLVfbHeA8
 features: []
-genres: []
+first_released_as_single: false
 key: on-campus-dickie-goodman
 name: On Campus
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 139120
 ---
 

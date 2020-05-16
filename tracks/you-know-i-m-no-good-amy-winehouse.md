@@ -1,8 +1,11 @@
 ---
+album: More Fish
 artists:
 - Amy Winehouse
+external_ids:
+  spotify: spotify:track:27y3abN1Y0uS0YpCsDhSI8
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-i-m-no-good-amy-winehouse
 lyrics_url: https://genius.com/Amy-winehouse-you-know-im-no-good-lyrics
 name: You Know I'm No Good
@@ -59,6 +62,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 2006
+runtime: 263640
 ---
 Meet you downstairs, in the bar and hurt
 Your rolled up sleeves and your skull t-shirt

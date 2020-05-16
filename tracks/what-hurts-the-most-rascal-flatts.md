@@ -1,8 +1,11 @@
 ---
+album: Me And My Gang
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:4bVuIlGQBMWS7vIhcx8Ae4
 features: []
-genres: []
+first_released_as_single: false
 key: what-hurts-the-most-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-what-hurts-the-most-lyrics
 name: What Hurts The Most
@@ -211,6 +214,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 214106
 ---
 I can take the rain on the roof of this empty house
 That don’t bother me

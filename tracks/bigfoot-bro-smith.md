@@ -1,8 +1,11 @@
 ---
+album: Bigfoot
 artists:
 - Bro Smith
+external_ids:
+  spotify: spotify:track:4qilrOVLZQpYNhcFrDHtwP
 features: []
-genres: []
+first_released_as_single: true
 key: bigfoot-bro-smith
 name: Bigfoot
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1976
+runtime: 182126
 ---
 

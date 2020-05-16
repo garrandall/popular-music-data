@@ -1,9 +1,12 @@
 ---
+album: Body
 artists:
 - Loud Luxury
+external_ids:
+  spotify: spotify:track:21RzyxY3EFaxVy6K4RqaU9
 features:
 - Brando
-genres: []
+first_released_as_single: true
 key: body-loud-luxury-brando
 lyrics_url: https://www.azlyrics.com/lyrics/loudluxury/bodyonmy.html
 name: Body
@@ -40,8 +43,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2017
+runtime: 163216
 ---
-
 Everybody knows I'm live
 (Candela)
 Everybody knows I'm fire
@@ -126,6 +130,3 @@ I want that crew love, that cool love, get naked mama
 Tu papi chulo, bien duro, te lo quiere dar
 I want that crew love, that cool love, get naked mama
 Tu papi chulo, bien duro, te lo quiere dar
-
-
-

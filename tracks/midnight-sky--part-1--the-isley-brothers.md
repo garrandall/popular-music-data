@@ -1,8 +1,11 @@
 ---
+album: Live It Up
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:7xeo4YFZArhtIzByzzGy5E
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-sky--part-1--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-midnight-sky-pt-1-and-2-lyrics
 name: Midnight Sky (Part 1)
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 416240
 ---
 Midnight Sky the moon is a quarter
 Layin' low and south of the border

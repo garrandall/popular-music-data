@@ -1,8 +1,11 @@
 ---
+album: Crazy Nights
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:6gP6XG7ZAJEoF80LuXeoEN
 features: []
-genres: []
+first_released_as_single: false
 key: you-walked-in-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/youwalkedin.html
 name: You Walked In
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
+release_year: 1997
+runtime: 271706
 ---
-
 Everybody's talkin' 'bout the supermodel world
 Cindy, Naomi and that whole bunch of girls
 Redheads, brunettes and blondes with blue eyes
@@ -84,6 +88,3 @@ When you walk by baby oh my my
 When you come around, my jaw hits the ground
 When you shake your thing I jump outta my skin
 When you cross the floor I scream "more baby more"
-
-
-

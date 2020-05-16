@@ -1,8 +1,11 @@
 ---
+album: A Matter of Indulgence
 artists:
 - Damien
+external_ids:
+  spotify: spotify:track:2sI79laBd5JFtPXafdpb26
 features: []
-genres: []
+first_released_as_single: false
 key: soldier-damien
 lyrics_url: https://www.azlyrics.com/lyrics/damienrice/lonelysoldier.html
 name: Soldier
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 1995
+runtime: 273626
 ---
-
 Lonely soldier go home
 Lonely, but never alone
 Good eyes see nothing to shoot
@@ -51,6 +55,3 @@ Lonely soldier go home
 Lonely, but never alone
 Good eyes see nothing to shoot
 Good feet feel good given up good boots
-
-
-

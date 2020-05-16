@@ -1,8 +1,11 @@
 ---
+album: Sophisticated Soul
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:7Grasr4pBC3hqSADz8K7hW
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-youre-the-one-lyrics
 name: You're The One
@@ -31,6 +34,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 153120
 ---
 A closet full of glad rags
 All tucked away in a bed that's swank

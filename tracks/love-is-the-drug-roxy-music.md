@@ -1,8 +1,11 @@
 ---
+album: Siren
 artists:
 - Roxy Music
+external_ids:
+  spotify: spotify:track:3wtMkvedoWMQ3XTKv7tqcZ
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-the-drug-roxy-music
 lyrics_url: https://genius.com/Roxy-music-love-is-the-drug-lyrics
 name: Love Is The Drug
@@ -63,6 +66,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1975
+runtime: 251333
 ---
 T'ain't no big thing, to wait for the bell to ring
 T'ain't no big thing, the toll of the bell

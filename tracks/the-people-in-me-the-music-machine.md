@@ -1,8 +1,11 @@
 ---
+album: (Turn On) The Music Machine
 artists:
 - The Music Machine
+external_ids:
+  spotify: spotify:track:54AA6STW67N4g9bimijomc
 features: []
-genres: []
+first_released_as_single: false
 key: the-people-in-me-the-music-machine
 lyrics_url: https://genius.com/The-music-machine-the-people-in-me-lyrics
 name: The People In Me
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 180626
 ---
 Hey, Halright
 

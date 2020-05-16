@@ -1,8 +1,11 @@
 ---
+album: Romantic 80's
 artists:
 - Bill Champlin
+external_ids:
+  spotify: spotify:track:3zqo2IMDoKIZJ85ocDjbuz
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-tonight-bill-champlin
 lyrics_url: https://genius.com/Bill-champlin-tonight-tonight-lyrics
 name: Tonight Tonight
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1981
+runtime: 227360
 ---
 Love lost her way again
 I stayed at home

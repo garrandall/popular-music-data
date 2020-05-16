@@ -1,8 +1,11 @@
 ---
+album: Blow Up
 artists:
 - The Smithereens
+external_ids:
+  spotify: spotify:track:1ek0Z7yy6WxDfaVuyvvuPK
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-passion-the-smithereens
 lyrics_url: https://www.azlyrics.com/lyrics/smithereens/toomuchpassion.html
 name: Too Much Passion
@@ -63,8 +66,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
+release_year: 1991
+runtime: 275733
 ---
-
 When I kiss your lips I just don't want to behave
 My passion runs deeper and, girl, I'm not afraid
 To bare my heart and soul and let it tumble all out
@@ -109,6 +113,3 @@ Too much passion is not enough
 Too much passion is not enough
 Too much passion is not enough
 Too much passion...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: To Be True
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:6uEwDCmUAcvdp5R0uH0X6o
 features: []
-genres: []
+first_released_as_single: false
 key: bad-luck--part-1--harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-bad-luck-lyrics
 name: Bad Luck (Part 1)
@@ -75,6 +78,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1972
+runtime: 384373
 ---
 Uh
 Woo

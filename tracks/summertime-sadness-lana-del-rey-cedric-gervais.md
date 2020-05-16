@@ -1,9 +1,12 @@
 ---
+album: Summertime Sadness  (Cedric Gervais Remix)
 artists:
 - Lana Del Rey
 - Cedric Gervais
+external_ids:
+  spotify: spotify:track:6PUIzlqotEmPuBfjbwYWOB
 features: []
-genres: []
+first_released_as_single: true
 key: summertime-sadness-lana-del-rey-cedric-gervais
 lyrics_url: https://genius.com/Lana-del-rey-summertime-sadness-cedric-gervais-remix-lyrics
 name: Summertime Sadness
@@ -100,6 +103,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 214912
 ---
 I got my red dress on tonight
 Dancin' in the dark in the pale moonlight

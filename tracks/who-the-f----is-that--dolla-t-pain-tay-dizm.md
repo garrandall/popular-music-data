@@ -1,10 +1,13 @@
 ---
+album: Who The F*** Is That?
 artists:
 - Dolla
+external_ids:
+  spotify: spotify:track:6HBHc95Ry9rw8L4zrAI1JF
 features:
 - T-Pain
 - Tay Dizm
-genres: []
+first_released_as_single: true
 key: who-the-f----is-that--dolla-t-pain-tay-dizm
 lyrics_url: https://genius.com/Dolla-who-the-f-is-that-main-version-explicit-lyrics
 name: Who The F*** Is That?
@@ -25,6 +28,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2008
+runtime: 250626
 ---
 I hit the club with a mug so mean
 Got them niggas like who the fuck is that?

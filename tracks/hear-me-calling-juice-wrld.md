@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:13ZyrkCDmRz5xY3seuAWYk
 features: []
-genres: []
+first_released_as_single: false
 key: hear-me-calling-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/hearmecalling.html
 name: Hear Me Calling
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 189977
 ---
-
 Ring! Do you hear me callin'?
 (Purps On The Beat)
 Me no want no drama
@@ -114,6 +118,3 @@ Ring, do you hear me calling?
 Me no want no drama
 Ring, do you hear me calling?
 Me no want no drama
-
-
-

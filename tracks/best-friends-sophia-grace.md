@@ -1,8 +1,11 @@
 ---
+album: Hollywood - EP
 artists:
 - Sophia Grace
+external_ids:
+  spotify: spotify:track:4NlGlCrbZQiqE2ETOfVZYv
 features: []
-genres: []
+first_released_as_single: true
 key: best-friends-sophia-grace
 lyrics_url: https://www.azlyrics.com/lyrics/sophiagrace/bestfriends.html
 name: Best Friends
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2015
+runtime: 232928
 ---
-
 Who's my number one girl?
 Who's my number one girl?
 
@@ -82,6 +86,3 @@ You're my best friend for life
 
 It's my number one girl
 It's my number one girl
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Trouble
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:35OAIuKURvEk833rn5Su0T
 features:
 - Styles P.
-genres: []
+first_released_as_single: false
 key: locked-up-akon-styles-p-
 lyrics_url: https://genius.com/Akon-locked-up-remix-lyrics
 name: Locked Up
@@ -116,6 +119,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-12-11'
+release_year: 2004
+runtime: 247880
 ---
 Locked up, they won't let me out
 And I had a long day in court, shit stress me out

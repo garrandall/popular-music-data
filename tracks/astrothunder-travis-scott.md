@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:4MXhiYIRDMGAuvZc5IFTwC
 features: []
-genres: []
+first_released_as_single: false
 key: astrothunder-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/astrothunder.html
 name: Astrothunder
@@ -11,8 +14,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 142969
 ---
-
 Yeah
 
 Seem like the life I feel
@@ -41,6 +45,3 @@ Feels like the life I need a little distant, yeah
 Feels like
 Feels like the life I need, yeah
 Feels like the life I need a little distant, yeah (yeah, yeah)
-
-
-

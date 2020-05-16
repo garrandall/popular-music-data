@@ -1,8 +1,11 @@
 ---
+album: Voices Carry
 artists:
 - '''Til Tuesday'
+external_ids:
+  spotify: spotify:track:2vyGjYndW7bP9Zn4a3yp85
 features: []
-genres: []
+first_released_as_single: false
 key: voices-carry--til-tuesday
 lyrics_url: https://genius.com/Til-tuesday-voices-carry-lyrics
 name: Voices Carry
@@ -91,6 +94,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1981
+runtime: 259906
 ---
 I'm in the dark, I'd like to read his mind
 But I'm frightened of the things I might find

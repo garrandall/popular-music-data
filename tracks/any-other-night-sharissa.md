@@ -1,8 +1,11 @@
 ---
+album: No Half Steppin'
 artists:
 - Sharissa
+external_ids:
+  spotify: spotify:track:41NDb9MBo9kItuWAwFk5cs
 features: []
-genres: []
+first_released_as_single: false
 key: any-other-night-sharissa
 lyrics_url: https://www.azlyrics.com/lyrics/sharissa/anyothernight.html
 name: Any Other Night
@@ -63,9 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
+release_year: 2002
+runtime: 227416
 ---
-
-
 Any other night, you woulda been somewhere with your freinds
 Any other night, you'd a had things to do (oh
 Any other night, I woulda been home alone, in my bed
@@ -112,6 +115,3 @@ And any other night, woulda been your night
 Boy you picked the wrong time..
 Boy you picked the wrong time..
 Boy you picked the wrong time...
-
-
-

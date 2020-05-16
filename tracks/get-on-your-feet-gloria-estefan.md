@@ -1,8 +1,11 @@
 ---
+album: Cuts Both Ways
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:2nq4zHzbdMgtlOkejrVsiS
 features: []
-genres: []
+first_released_as_single: false
 key: get-on-your-feet-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/getonyourfeet.html
 name: Get On Your Feet
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1984
+runtime: 218786
 ---
-
 You say I know it's a waste of time
 There's no use trying
 So scared that life's gonna pass you by
@@ -113,6 +117,3 @@ Get on your feet
 Don't stop before it's over
 Get on your feet
 The weight is off your shoulder
-
-
-

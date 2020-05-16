@@ -1,8 +1,11 @@
 ---
+album: High Country Snows
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:22yC2cBx4eYNtqyCEMhwUT
 features: []
-genres: []
+first_released_as_single: false
 key: go-down-easy-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/godowneasy.html
 name: Go Down Easy
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1985
+runtime: 233000
 ---
-
 Linda lost a lover
 In the early part of autumn
 And she moved out to the country
@@ -72,6 +76,3 @@ And it's hard to go down easy
 And it's hard to keep from cryin'
 And it's hard to lose a lover
 In the early part of autumn
-
-
-

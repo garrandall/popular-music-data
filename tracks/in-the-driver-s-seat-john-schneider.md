@@ -1,8 +1,11 @@
 ---
+album: The Dukes Of Hazzard
 artists:
 - John Schneider
+external_ids:
+  spotify: spotify:track:6jJi8OXF5qaFdysB6sjWIT
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-driver-s-seat-john-schneider
 lyrics_url: https://genius.com/John-schneider-in-the-drivers-seat-lyrics
 name: In The Driver's Seat
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1978
+runtime: 162293
 ---
 In The Driver s Seat
 

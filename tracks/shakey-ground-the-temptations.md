@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:1ELKkbWqtKRwvdCBGvETBp
 features: []
-genres: []
+first_released_as_single: false
 key: shakey-ground-the-temptations
 lyrics_url: https://genius.com/The-temptations-shakey-ground-lyrics
 name: Shakey Ground
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 241600
 ---
 Lady Luck and four leaf clovers
 Won't ease this hurt I feel all over

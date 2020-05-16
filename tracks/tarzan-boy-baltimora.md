@@ -1,8 +1,11 @@
 ---
+album: Living In The Background
 artists:
 - Baltimora
+external_ids:
+  spotify: spotify:track:273uCXd7NPrInaiNqtkOrA
 features: []
-genres: []
+first_released_as_single: false
 key: tarzan-boy-baltimora
 lyrics_url: https://www.azlyrics.com/lyrics/baltimora/tarzanboy.html
 name: Tarzan Boy
@@ -159,8 +162,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
+release_year: 1985
+runtime: 378946
 ---
-
 Oh oh oh oh oh oh oh oh oh oh...
 
 Jungle life, I'm far away from nowhere
@@ -212,6 +216,3 @@ Night to night, night to night
 Gimme the other, gimme the other world
 
 Oh oh oh oh oh oh oh oh oh oh oh...
-
-
-

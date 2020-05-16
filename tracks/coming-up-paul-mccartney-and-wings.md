@@ -1,6 +1,6 @@
 ---
 artists:
-- Paul McCartney And Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: coming-up-paul-mccartney-and-wings

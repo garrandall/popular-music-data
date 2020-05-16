@@ -1,8 +1,11 @@
 ---
+album: King Solomon
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:50m9Xk60n4ENk9xWIME6eG
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-on-home-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-baby-come-on-home-lyrics
 name: Baby Come On Home
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1966
+runtime: 195933
 ---
 Paroles de la chanson Baby, Come On Home :
 When your baby

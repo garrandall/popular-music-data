@@ -1,8 +1,11 @@
 ---
+album: Virtuoso
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:6Cicy8ygTDklsXtAYh61hW
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-things--your-man-won-t-do--joe
 lyrics_url: https://genius.com/Joe-all-the-things-your-man-wont-do-lyrics
 name: All The Things (Your Man Won't Do)
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
+release_year: 1974
+runtime: 238733
 ---
 Hey, love
 You say you need someone to be there for you

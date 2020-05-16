@@ -1,8 +1,11 @@
 ---
+album: Hemingway's Whiskey
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:13zhyZhlM0VzUpEW8aShcp
 features: []
-genres: []
+first_released_as_single: false
 key: live-a-little-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/livealittle.html
 name: Live A Little
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2010
+runtime: 219106
 ---
-
 Stressed out, running late, racing down the interstate
 Spilled hot coffee, down the front of my jeans
 It's work, work, pay the rent, money and my time's spent
@@ -97,6 +101,3 @@ I need to live a little, have some fun
 Take some time, waste it on number one
 Take the girl, get a map and pick any old dot
 Live a little, we need to live a little, love a lot
-
-
-

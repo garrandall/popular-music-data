@@ -1,8 +1,11 @@
 ---
+album: I've Made It
 artists:
 - The Bell Notes
+external_ids:
+  spotify: spotify:track:1GNMCMwvE7NygRTZJAPMVb
 features: []
-genres: []
+first_released_as_single: false
 key: old-spanish-town-the-bell-notes
 name: Old Spanish Town
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1899
+runtime: 140333
 ---
 

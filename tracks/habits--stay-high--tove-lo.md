@@ -1,8 +1,11 @@
 ---
+album: Queen Of The Clouds
 artists:
 - Tove Lo
+external_ids:
+  spotify: spotify:track:14OxJlLdcHNpgsm4DRwDOB
 features: []
-genres: []
+first_released_as_single: false
 key: habits--stay-high--tove-lo
 lyrics_url: https://genius.com/Bely-basarte-habits-tove-lo-lyrics
 name: Habits (Stay High)
@@ -163,6 +166,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2014
+runtime: 209160
 ---
 Letra de "Habits" de Tove Lo
 BELY BASARTE COVER

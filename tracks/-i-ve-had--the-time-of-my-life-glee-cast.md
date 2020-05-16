@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1wYDz3NuqlGxPnQDX8OuV6
 features: []
-genres: []
+first_released_as_single: false
 key: -i-ve-had--the-time-of-my-life-glee-cast
 lyrics_url: https://genius.com/Glee-cast-ive-had-the-time-of-my-life-lyrics
 name: (I've Had) The Time Of My Life
@@ -11,6 +14,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 277560
 ---
 Now I've had the time of my life
 No, I've never felt like this before

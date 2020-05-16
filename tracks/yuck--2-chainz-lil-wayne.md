@@ -1,9 +1,12 @@
 ---
+album: Based On A T.R.U. Story
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:0332p5aiaQ6vyomilcGSy4
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: yuck--2-chainz-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/yuck.html
 name: Yuck!
@@ -12,9 +15,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2012
+runtime: 287573
 ---
-
-
 Yuck Daddy! Yuck!
 Yuck Daddy! Yuck!
 
@@ -92,6 +95,3 @@ Two big chain, one big chopper
 Two big chain, one big chopper
 Two big chain, one big chopper
 Two big chain, one big chopper, bitch
-
-
-

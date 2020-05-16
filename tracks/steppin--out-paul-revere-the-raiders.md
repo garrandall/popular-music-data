@@ -1,9 +1,12 @@
 ---
+album: Just Like Us!
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:0sgqluWxdj8AyeBym6639f
 features: []
-genres: []
+first_released_as_single: false
 key: steppin--out-paul-revere-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/steppinout.html
 name: Steppin' Out
@@ -44,8 +47,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 151960
 ---
-
 Yeah!
 Well, I had to leave town because of Uncle Sam's deal, ha ha ha yeah
 Well, I guess my good lovin' done lost its appeal
@@ -74,6 +78,3 @@ I'll be checkin' with all your friends if you've been steppin' out on me
 Better tell me the truth honey; have you been steppin' out on me?
 Yeah I'm gonna check; no more stuff or I'll be steppin' out on you
 (more talk, fading out)
-
-
-

@@ -1,12 +1,15 @@
 ---
+album: Tha Last Meal
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:0YHI5hydPPth6J5UOzdLDX
 features:
 - Master P
 - Nate Dogg
 - Butch Cassidy
 - Tha Eastsidaz
-genres: []
+first_released_as_single: false
 key: lay-low-snoop-dogg-master-p-nate-dogg-butch-cassidy-tha-eastsidaz
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/laylow.html
 name: Lay Low
@@ -87,11 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-07-28'
+release_year: 2000
+runtime: 223000
 ---
-
-
-
-
 Ay ay Snoop whattup? This your nigga Dre
 Ay man I was thinkin I ain't said shit on your whole motherfuckin album
 So check it out, put this on there:
@@ -170,4 +171,3 @@ I keeps it real-ah, cause I'm all about my scrilla
 The ladies love me cause I'm a million dolla hitta
 It's, No Limit til I D-I-E
 C-P-3, or Richmond, Cali's where I be
-

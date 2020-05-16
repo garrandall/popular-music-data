@@ -1,10 +1,13 @@
 ---
+album: Blood, Sweat & Tears
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:2ey0dRQ93XQMdMlSgsfSAd
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-made-me-so-very-happy-blood-sweat-tears
 lyrics_url: https://genius.com/Blood-sweat-and-tears-youve-made-me-so-very-happy-lyrics
 name: You've Made Me So Very Happy
@@ -61,6 +64,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1959
+runtime: 208426
 ---
 I lost at love before
 Got mad and closed the door

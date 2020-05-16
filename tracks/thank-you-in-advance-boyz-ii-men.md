@@ -1,8 +1,11 @@
 ---
+album: Nathan Michael Shawn Wanya
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:1qLDXxbJK1VLwS9jArwWnC
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-in-advance-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-thank-you-in-advance-lyrics
 name: Thank You In Advance
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 251306
 ---
 Excuse me, I know we just met
 But may I have this dance?

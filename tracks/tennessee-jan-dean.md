@@ -1,9 +1,12 @@
 ---
+album: Popsicle
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:3OzKUN4YyysVJj1JXz1bxd
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/tennessee.html
 name: Tennessee
@@ -36,8 +39,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 127866
 ---
-
 Sweeter than the birds that go in the trees
 That's what she meant to me
 Sweeter than the wine and she looked so fine
@@ -57,6 +61,3 @@ I felt so grand when she took my hand
 And said, 'Come, go with me'
 Held me tight on a moonlit night
 Someplace in Tennessee
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Here's To Future Days
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:4HUUznT2TRY6FDmxt85N2g
 features: []
-genres: []
+first_released_as_single: false
 key: lay-your-hands-on-me-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/layyourhandsonme.html
 name: Lay Your Hands On Me
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 260973
 ---
-
 This old life seemed much too long
 With little point in going on
 I couldn't think of what to say
@@ -152,6 +156,3 @@ Oh, lay your hands on me
 Oh, lay your hands
 Oh, lay your hands on me
 Oh, lay your hands
-
-
-

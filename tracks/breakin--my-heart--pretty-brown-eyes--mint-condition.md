@@ -1,8 +1,11 @@
 ---
+album: Meant To Be Mint
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:18sytW2s53Of6NVudQyUlH
 features: []
-genres: []
+first_released_as_single: false
 key: breakin--my-heart--pretty-brown-eyes--mint-condition
 lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/breakinmyheartprettybrowneyes.html
 name: Breakin' My Heart (Pretty Brown Eyes)
@@ -103,9 +106,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1991
+runtime: 356960
 ---
-
-
 Pretty...
 Brown...
 Eyes...
@@ -162,4 +165,3 @@ Here comes my darling
 Here comes romance
 Here comes my love
 And please honey will you dance
-

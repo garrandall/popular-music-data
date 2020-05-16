@@ -1,8 +1,11 @@
 ---
+album: Heartless
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:2ckMlwtwPdQk3pjz128CI6
 features: []
-genres: []
+first_released_as_single: true
 key: heartless-the-fray
 lyrics_url: https://www.azlyrics.com/lyrics/fray/heartless.html
 name: Heartless
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2009
+runtime: 254826
 ---
-
 In the night I hear 'em talk, the coldest story ever told
 Somewhere far along this road he lost his soul
 To a woman so heartless
@@ -85,6 +89,3 @@ Somewhere far along this road he lost his soul
 To a woman so heartless
 How could you be so heartless?
 How could you be so heartless?
-
-
-

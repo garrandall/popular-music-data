@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:6iYfqBPKnJHQ7mx7o36Jxv
 features: []
-genres: []
+first_released_as_single: false
 key: who-am-i-petula-clark
 lyrics_url: https://genius.com/Petula-clark-who-am-i-lyrics
 name: Who Am I
@@ -35,6 +38,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 139373
 ---
 The buildings reach up to the sky
 The traffic thunders on the busy street

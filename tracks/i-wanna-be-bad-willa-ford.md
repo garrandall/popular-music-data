@@ -1,8 +1,11 @@
 ---
+album: Willa Was Here
 artists:
 - Willa Ford
+external_ids:
+  spotify: spotify:track:4HtkJvWjjeFKR8Me27oBBk
 features: []
-genres: []
+first_released_as_single: true
 key: i-wanna-be-bad-willa-ford
 lyrics_url: https://genius.com/Willa-ford-i-wanna-be-bad-lyrics
 name: I Wanna Be Bad
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2001
+runtime: 183560
 ---
 Oh, I, I, I
 

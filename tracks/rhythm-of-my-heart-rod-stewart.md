@@ -1,8 +1,11 @@
 ---
+album: Vagabond Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6pceknxOgA22HKs99yPEm1
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-my-heart-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/rhythmofmyheart.html
 name: Rhythm Of My Heart
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1991
+runtime: 254866
 ---
-
 Across the street the river runs
 Down in the gutter life is slipping away
 Let me still exist in another place
@@ -134,6 +138,3 @@ with the words "I love you" rolling off my tongue
 Never will I roam for I know my place is home
 where the ocean meets the sky
 I'll be sailing
-
-
-

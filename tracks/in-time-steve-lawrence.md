@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:7kkuwIR1DLPZiGVbUTR3ge
 features: []
-genres: []
+first_released_as_single: false
 key: in-time-steve-lawrence
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence/Just-in-Time
 name: In Time
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 185245
 ---
 Just in time
 I found you just in time

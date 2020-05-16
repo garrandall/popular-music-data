@@ -1,8 +1,11 @@
 ---
+album: Bye Bye Baby
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:71lpLuoVGv1e9M8i0OkjnY
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-take-a-chance-mary-wells
 lyrics_url: https://genius.com/Mary-wells-i-dont-want-to-take-a-chance-lyrics
 name: I Don't Want To Take A Chance
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 170106
 ---
 You say you love me
 And I believe you do

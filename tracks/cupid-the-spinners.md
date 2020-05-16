@@ -1,8 +1,11 @@
 ---
+album: Love Trippin'
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:2TOaW7Hwpt4AYeQUFQ5sJp
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/cupidivelovedyouforalongtime.html
 name: Cupid
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 334160
 ---
-
 (Cupid)
 Cupid draw back your bow
 (And let)
@@ -185,6 +189,3 @@ Cupid
 Cupid
 (Cupid)
 Cupid
-
-
-

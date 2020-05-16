@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:2G634xynj7ev8r5c0sAL3T
 features: []
-genres: []
+first_released_as_single: false
 key: tip-it-on-back-dierks-bentley
 lyrics_url: https://genius.com/Dierks-bentley-tip-it-on-back-lyrics
 name: Tip It On Back
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-03-23'
+release_year: 2012
+runtime: 206520
 ---
 I see main street closing
 Miles of “for sale” signs

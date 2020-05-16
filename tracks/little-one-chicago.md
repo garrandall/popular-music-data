@@ -1,8 +1,11 @@
 ---
+album: Chicago XI
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:4wCP6OGRdfBKbC33W2KFzD
 features: []
-genres: []
+first_released_as_single: false
 key: little-one-chicago
 lyrics_url: https://genius.com/Chicago-little-one-lyrics
 name: Little One
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1977
+runtime: 339866
 ---
 Little one it's so nice to have you near me
 To feel once again the love you bring here

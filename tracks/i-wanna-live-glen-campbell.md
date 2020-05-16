@@ -1,8 +1,11 @@
 ---
+album: Hey Little One
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:3x5gO8I85rlmfsbXBQuU5y
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-live-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iwannalive.html
 name: I Wanna Live
@@ -55,8 +58,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 164013
 ---
-
 Flowers have blooms the ocean has waves the sky has clouds people have babes
 I wanna live till I get old I wanna watch all of this grow
 I wanna live live and let live I want all the love this life has to give
@@ -66,6 +70,3 @@ Rover is big Tabby is small Betty is short Jimmy is tall
 They wanna live live and let live they want all the love this life has to give
 They wanna smile and be friendly with you they wanna live and let you live some too
 We wanna live what want you
-
-
-

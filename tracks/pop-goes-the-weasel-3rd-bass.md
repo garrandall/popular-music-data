@@ -1,8 +1,11 @@
 ---
+album: Derelicts Of Dialect
 artists:
 - 3rd Bass
+external_ids:
+  spotify: spotify:track:74RgttZ78DSIF26veMyvs0
 features: []
-genres: []
+first_released_as_single: false
 key: pop-goes-the-weasel-3rd-bass
 lyrics_url: https://genius.com/3rd-bass-pop-goes-the-weasel-lyrics
 name: Pop Goes The Weasel
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
+release_year: 1991
+runtime: 235626
 ---
 Antoine, Antoine's got something here
 Ro-roll that window

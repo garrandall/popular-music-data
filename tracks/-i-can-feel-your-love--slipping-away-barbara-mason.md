@@ -1,8 +1,11 @@
 ---
+album: 'Cooler Than Ice: Arctic Records and the Rise of Philly Soul'
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:7tf10BYZc7tqY5k9e0mkBZ
 features: []
-genres: []
+first_released_as_single: false
 key: -i-can-feel-your-love--slipping-away-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-i-can-feel-your-love-slipping-away-lyrics
 name: (I Can Feel Your Love) Slipping Away
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 199626
 ---
 You no longer have
 The look of love in your eye

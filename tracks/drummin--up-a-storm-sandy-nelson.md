@@ -1,8 +1,11 @@
 ---
+album: Drummin' Up A Storm
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:1M1dfIMTeh5b0UHqhNeCsA
 features: []
-genres: []
+first_released_as_single: false
 key: drummin--up-a-storm-sandy-nelson
 name: Drummin' Up A Storm
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 140400
 ---
 

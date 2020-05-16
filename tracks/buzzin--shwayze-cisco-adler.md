@@ -1,9 +1,12 @@
 ---
+album: Shwayze
 artists:
 - Shwayze
+external_ids:
+  spotify: spotify:track:3wQaW4rEZe7AaDrlrX4eDy
 features:
 - Cisco Adler
-genres: []
+first_released_as_single: false
 key: buzzin--shwayze-cisco-adler
 name: Buzzin'
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2008
+runtime: 212280
 ---
 

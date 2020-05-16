@@ -1,8 +1,11 @@
 ---
+album: Betta Listen
 artists:
 - Laurnea
+external_ids:
+  spotify: spotify:track:6KM9ByrlBNzGhPOPBb91S6
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-let-go-laurnea
 lyrics_url: https://genius.com/Laurnea-cant-let-go-lyrics
 name: Can't Let Go
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 243706
 ---
 In the middle of the night
 I tried to cry myself to sleep but I

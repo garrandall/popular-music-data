@@ -1,8 +1,11 @@
 ---
+album: R & B Megahits Of The 1950's - Volume 3
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:398Q0gLfmsjJ5GFx9W2q5Y
 features: []
-genres: []
+first_released_as_single: false
 key: western-movies-the-olympics
 lyrics_url: https://genius.com/The-olympics-western-movies-lyrics
 name: Western Movies
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 140504
 ---
 To save my soul I can't get a date
 Baby's got it tuned on channel eight

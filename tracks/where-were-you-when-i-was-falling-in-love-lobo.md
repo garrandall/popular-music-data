@@ -1,8 +1,11 @@
 ---
+album: Best Of Lobo
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:3MQ5a1M0JVIYwJeLLErDPc
 features: []
-genres: []
+first_released_as_single: false
 key: where-were-you-when-i-was-falling-in-love-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/wherewereyouwheniwasfallinginlove.html
 name: Where Were You When I Was Falling In Love
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 199266
 ---
-
 When your eyes met mine
 I knew that I had better play it cool
 I'm doing my best trying to resist
@@ -107,6 +111,3 @@ Is get up and leave without knowing your name
 It might have been something special baby
 Something only people in love could understand
 Like this ring on my hand
-
-
-

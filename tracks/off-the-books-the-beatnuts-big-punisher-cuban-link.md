@@ -1,10 +1,13 @@
 ---
+album: The Spot (Remix EP)
 artists:
 - The Beatnuts
+external_ids:
+  spotify: spotify:track:3d8H3Bss2udtIrJclq2CwY
 features:
 - Big Punisher
 - Cuban Link
-genres: []
+first_released_as_single: true
 key: off-the-books-the-beatnuts-big-punisher-cuban-link
 lyrics_url: https://genius.com/The-beatnuts-off-the-books-lyrics
 name: Off The Books
@@ -21,6 +24,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1997
+runtime: 182816
 ---
 ("Yooouuu better watch your step!")
 ("Yooouuu better watch your step!")

@@ -1,11 +1,14 @@
 ---
+album: Suffering From Success
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:04a1HkNH7LFsG5mEiLN7vl
 features:
 - Drake
 - Rick Ross
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: no-new-friends--sftb-remix--dj-khaled-drake-rick-ross-lil-wayne
 lyrics_url: https://genius.com/No-new-friends-no-new-friends-tribute-to-dj-khaled-drake-rick-ross-and-lil-wayne-lyrics
 name: No New Friends (SFTB Remix)
@@ -86,6 +89,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 308333
 ---
 (Another one) Yeah I stay down with my day one niggas and we in the club screaming
 No new friends, no new friends, no new friends, no, no new (DJ Khaled!)

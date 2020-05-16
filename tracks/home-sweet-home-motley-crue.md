@@ -1,8 +1,11 @@
 ---
+album: Home Sweet Home
 artists:
 - Motley Crue
+external_ids:
+  spotify: spotify:track:2D8z35to04Uv18QupYEYFH
 features: []
-genres: []
+first_released_as_single: true
 key: home-sweet-home-motley-crue
 lyrics_url: https://www.azlyrics.com/lyrics/motleycrue/homesweethome.html
 name: Home Sweet Home
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1985
+runtime: 284583
 ---
-
 You know I'm a dreamer
 But my heart's of gold
 I had to run away high
@@ -155,6 +159,3 @@ Yeah!
 I'm on my way
 Just set me free
 Home sweet home...
-
-
-

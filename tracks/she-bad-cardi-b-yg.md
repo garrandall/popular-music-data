@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
 - YG
+external_ids:
+  spotify: spotify:track:3SlD4gViqtUorGzHiPrK9d
 features: []
-genres: []
+first_released_as_single: false
 key: she-bad-cardi-b-yg
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/shebad.html
 name: She Bad
@@ -16,9 +19,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 230952
 ---
-
-
 4Hunnid!
 Mustard on the beat ho
 
@@ -114,6 +117,3 @@ Birkin bag, she in the bag, she drip, she swag
 Never mad, she glad, Louis bag, she in the bag
 She bad, she bad, she bad, she bad
 She bad, she bad, she bad, she bad
-
-
-

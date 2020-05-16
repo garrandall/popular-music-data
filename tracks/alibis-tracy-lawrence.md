@@ -1,8 +1,11 @@
 ---
+album: Alibis
 artists:
 - Tracy Lawrence
+external_ids:
+  spotify: spotify:track:1Mew3ipJFmRpSj83LRyxod
 features: []
-genres: []
+first_released_as_single: false
 key: alibis-tracy-lawrence
 lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/alibis.html
 name: Alibis
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 182960
 ---
-
 She knows every move that a man could make
 She knows every trick in the book
 She knows how to give, and she knows how to take
@@ -78,6 +82,3 @@ But boy you can bet, if a move can be made, she knows how to make...
 Her own alibis and lying eyes, and all the best lines, Lord knows she heard em all
 She's been cheated on, and pushed around, and left alone, Lord knows what I put her through
 But boy you can bet, if a move can be made, she knows how to make one on you
-
-
-

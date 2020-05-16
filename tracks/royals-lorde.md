@@ -1,8 +1,11 @@
 ---
+album: Pure Heroine (Extended)
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:7BFI9QZPQKgYuR2HhDgwbG
 features: []
-genres: []
+first_released_as_single: false
 key: royals-lorde
 lyrics_url: https://genius.com/Lorde-royals-lyrics
 name: Royals
@@ -183,6 +186,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2013
+runtime: 190185
 ---
 I've never seen a diamond in the flesh
 I cut my teeth on wedding rings in the movies

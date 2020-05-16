@@ -1,8 +1,11 @@
 ---
+album: Enjoy Records Story
 artists:
 - King Curtis And The Noble Knights
+external_ids:
+  spotify: spotify:track:1wkwJJz2zGDPZoXsxok4qG
 features: []
-genres: []
+first_released_as_single: false
 key: soul-twist-king-curtis-and-the-noble-knights
 name: Soul Twist
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-06-02'
+release_year: 1962
+runtime: 169160
 ---
 

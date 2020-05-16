@@ -1,8 +1,11 @@
 ---
+album: American Tour
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:4IQ0Qa0xJ5ZgbzZ2jyrxC0
 features: []
-genres: []
+first_released_as_single: false
 key: because-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/because.html
 name: Because
@@ -47,8 +50,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 142425
 ---
-
 It's right that I should care about you,
 And try to make you happy when you're blue.
 It's right, it's right to feel the way I do.
@@ -69,6 +73,3 @@ Give me, give me a chance to be near you.
 Because, because, I love you.
 
 Because, because, I love you...
-
-
-

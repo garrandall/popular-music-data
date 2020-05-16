@@ -1,8 +1,11 @@
 ---
+album: They Only Come Out At Night
 artists:
 - Edgar Winter Group
+external_ids:
+  spotify: spotify:track:4DhbiXEuV7JxSR0wuqetTa
 features: []
-genres: []
+first_released_as_single: false
 key: free-ride-edgar-winter-group
 lyrics_url: https://genius.com/The-edgar-winter-group-free-ride-lyrics
 name: Free Ride
@@ -67,6 +70,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1972
+runtime: 187173
 ---
 The mountain is high, the valley is low
 And you're confused on which way to go

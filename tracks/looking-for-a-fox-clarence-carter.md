@@ -1,8 +1,11 @@
 ---
+album: This Is Clarence Carter
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:3DXYb1QKSQn6XmClVorPqN
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-a-fox-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-looking-for-a-fox-lyrics
 name: Looking For A Fox
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 136919
 ---
 I'm all alone and fancy free
 But that ain't the way I wanna be

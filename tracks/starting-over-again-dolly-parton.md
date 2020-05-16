@@ -1,8 +1,11 @@
 ---
+album: Dolly Dolly Dolly
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:7p35PhODte3meRvTgiVmrI
 features: []
-genres: []
+first_released_as_single: false
 key: starting-over-again-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/startingoveragain.html
 name: Starting Over Again
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1980
+runtime: 238253
 ---
-
 Momma moved out
 Daddy sold the house
 They split up the money
@@ -99,6 +103,3 @@ And all the king's horses
 And all the king's men
 Could never put mommy and daddy back together
 Back together, again
-
-
-

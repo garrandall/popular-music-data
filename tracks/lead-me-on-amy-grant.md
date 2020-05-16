@@ -1,8 +1,11 @@
 ---
+album: Lead Me On
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:0viCxBdQvd5WE4M1lXzv7u
 features: []
-genres: []
+first_released_as_single: false
 key: lead-me-on-amy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/amygrant/leadmeon.html
 name: Lead Me On
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1988
+runtime: 336386
 ---
-
 Shoulder to the wheel
 For someone else's selfish gain
 Here there is no choosing
@@ -57,4 +61,3 @@ Man hurts man
 Time and time, time again
 And we drown in the wake of our power
 Somebody tell me why
-

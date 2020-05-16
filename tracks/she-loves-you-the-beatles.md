@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0qsS2A3hwicJCLtcaR6JRQ
 features: []
-genres: []
+first_released_as_single: false
 key: she-loves-you-the-beatles
 lyrics_url: https://genius.com/The-beatles-she-loves-you-lyrics
 name: She Loves You
@@ -67,6 +70,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1964
+runtime: 142653
 ---
 She loves you, yeah, yeah, yeah
 She loves you, yeah, yeah, yeah

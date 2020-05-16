@@ -1,8 +1,11 @@
 ---
+album: The Final Countdown
 artists:
 - Europe
+external_ids:
+  spotify: spotify:track:2APniDd8uCMZMdG95f0yMw
 features: []
-genres: []
+first_released_as_single: false
 key: rock-the-night-europe
 lyrics_url: https://genius.com/Europe-rock-the-night-lyrics
 name: Rock The Night
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1965
+runtime: 243866
 ---
 I've gone through changes
 I've gone through pain

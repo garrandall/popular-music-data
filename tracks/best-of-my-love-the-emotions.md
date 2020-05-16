@@ -1,8 +1,11 @@
 ---
+album: Rejoice
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:2M2WJ7gBlcKNxdhyfPp9zY
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-my-love-the-emotions
 lyrics_url: https://genius.com/The-emotions-best-of-my-love-lyrics
 name: Best Of My Love
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 220560
 ---
 Doesn't take much to make me happy
 And make me smile with glee

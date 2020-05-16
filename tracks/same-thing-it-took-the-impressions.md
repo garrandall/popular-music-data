@@ -1,8 +1,11 @@
 ---
+album: First Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:18HPfnQYWzC3ZCtfKsHk5Z
 features: []
-genres: []
+first_released_as_single: false
 key: same-thing-it-took-the-impressions
 lyrics_url: https://genius.com/The-impressions-same-thing-it-took-lyrics
 name: Same Thing It Took
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 300786
 ---
 The reason a lot of people's romances don't last
 Is that they tend to forget so fast

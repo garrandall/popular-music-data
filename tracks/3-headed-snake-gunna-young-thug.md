@@ -1,9 +1,12 @@
 ---
+album: Drip or Drown 2
 artists:
 - Gunna
+external_ids:
+  spotify: spotify:track:00KHO2JiZtp4PkftOaDubH
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: 3-headed-snake-gunna-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/gunna/3headedsnake.html
 name: 3 Headed Snake
@@ -12,9 +15,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 241995
 ---
-
-
 Aimin' at a date, aimin' at a Wraith, aimin' at a gate, mmh
 Aimin' at a date, aimin' at a Wraith, aimin' at a gate, mmh
 Aimin' at a date, aimin' at a Wraith, aimin' at a gate, mmh
@@ -170,6 +173,3 @@ Aimin' at a Wraith, aimin' at a gate, mmh (Aimin' at a gate)
 Aimin' at a Wraith, aimin' at a gate (Aimin' at a gate, mmh)
 (Aimin' at a date, aimin' at a Wraith, aimin' at a gate, mmh
 Aimin' at a date, aimin' at a Wraith, aimin' at a gate)
-
-
-

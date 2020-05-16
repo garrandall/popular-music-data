@@ -1,8 +1,11 @@
 ---
+album: The World From The Side Of The Moon
 artists:
 - Phillip Phillips
+external_ids:
+  spotify: spotify:track:4rsW3WCZBGwhHfJWuHRwyT
 features: []
-genres: []
+first_released_as_single: false
 key: home-phillip-phillips
 lyrics_url: https://genius.com/Phillip-phillips-home-lyrics
 name: Home
@@ -167,6 +170,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2012
+runtime: 210173
 ---
 Hold on, to me as we go
 As we roll down this unfamiliar road

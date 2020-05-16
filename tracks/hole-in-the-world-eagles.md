@@ -1,8 +1,11 @@
 ---
+album: The Very Best of the Eagles
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:2nSdYrRGhnfbncKCtgFWK7
 features: []
-genres: []
+first_released_as_single: false
 key: hole-in-the-world-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/holeintheworld.html
 name: Hole In The World
@@ -63,9 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 256973
 ---
-
-
 There's a hole in the world tonight.
 There's a Cloud of fear and sorrow.
 There's a hole in the world tonight.
@@ -92,4 +95,3 @@ There's a hole in the world tonight.
 There's a Cloud of fear and sorrow.
 There's a hole in the world tonight.
 Don't let there be a hole in the world tomorrow.
-

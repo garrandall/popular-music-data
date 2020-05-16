@@ -1,8 +1,11 @@
 ---
+album: Hold It!
 artists:
 - Willie Mitchell
+external_ids:
+  spotify: spotify:track:1dYDIWo3LKxziC1a3stxwv
 features: []
-genres: []
+first_released_as_single: false
 key: 20-75-willie-mitchell
 name: 20-75
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 131493
 ---
 

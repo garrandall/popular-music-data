@@ -1,8 +1,11 @@
 ---
+album: Country Greats
 artists:
 - Billie Jo Spears
+external_ids:
+  spotify: spotify:track:7mTBUlWPquXPQzDg8yGLlJ
 features: []
-genres: []
+first_released_as_single: false
 key: blanket-on-the-ground-billie-jo-spears
 lyrics_url: https://genius.com/Billie-jo-spears-blanket-on-the-ground-lyrics
 name: Blanket On The Ground
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1975
+runtime: 215360
 ---
 Come and look out through the window
 That big old moon is shining down

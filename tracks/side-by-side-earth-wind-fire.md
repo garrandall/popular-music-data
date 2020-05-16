@@ -1,8 +1,11 @@
 ---
+album: Powerlight
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:1nv7USeo1Y4gqQRqD7PsPI
 features: []
-genres: []
+first_released_as_single: false
 key: side-by-side-earth-wind-fire
 name: Side By Side
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
+release_year: 1982
+runtime: 356226
 ---
 

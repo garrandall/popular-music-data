@@ -1,8 +1,11 @@
 ---
+album: Stand Up
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:6jKbv1yqblenbWxO38p4HZ
 features: []
-genres: []
+first_released_as_single: false
 key: american-baby-dave-matthews-band
 lyrics_url: https://genius.com/Dave-matthews-band-american-baby-lyrics
 name: American Baby
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2005
+runtime: 266520
 ---
 If these walls came crumbling down
 Fell so hard to make us lose our faith

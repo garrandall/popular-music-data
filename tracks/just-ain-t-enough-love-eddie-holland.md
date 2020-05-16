@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 4: 1964'
 artists:
 - Eddie Holland
+external_ids:
+  spotify: spotify:track:0AsLUbhdZkGn5ZIN3X81n2
 features: []
-genres: []
+first_released_as_single: false
 key: just-ain-t-enough-love-eddie-holland
 lyrics_url: https://genius.com/Eddie-holland-just-aint-enough-love-lyrics
 name: Just Ain't Enough Love
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 146613
 ---
 Oh, just ain't enough love
 Oh, just ain't enough love

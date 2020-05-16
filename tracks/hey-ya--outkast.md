@@ -1,8 +1,11 @@
 ---
+album: Speakerboxxx/The Love Below
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:2PpruBYCo4H7WOBJ7Q2EwM
 features: []
-genres: []
+first_released_as_single: false
 key: hey-ya--outkast
 lyrics_url: https://genius.com/Outkast-hey-ya-lyrics
 name: Hey Ya!
@@ -135,6 +138,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
+release_year: 2003
+runtime: 235213
 ---
 1, 2, 3, uh!
 

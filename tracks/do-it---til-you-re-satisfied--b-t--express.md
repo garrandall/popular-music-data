@@ -1,8 +1,11 @@
 ---
+album: Do It ('Til You're Satisfied)
 artists:
 - B.T. Express
+external_ids:
+  spotify: spotify:track:4lnQfs7AmQm6dqCaNMDJLr
 features: []
-genres: []
+first_released_as_single: false
 key: do-it---til-you-re-satisfied--b-t--express
 lyrics_url: https://genius.com/Bt-express-cant-stop-groovin-now-wanna-do-it-some-more-lyrics
 name: Do It ('til You're Satisfied)
@@ -79,6 +82,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 353986
 ---
 Can't stop groovin' right now
 Wanna do it some more

@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:0hHIZokssqdnmkkf3g3QUt
 features: []
-genres: []
+first_released_as_single: false
 key: a-beautiful-story-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/abeautifulstory.html
 name: A Beautiful Story
@@ -28,8 +31,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 172800
 ---
-
 What's your name is it Jane
 Would you mind sitting next to a silly old fool?
 It's just I tired of wasting my hours
@@ -55,4 +59,3 @@ Watching birds chasing bees
 Little boys scraping knees
 Even my tears have all dried
 Can I sit by your side?
-

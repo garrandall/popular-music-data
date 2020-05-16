@@ -1,9 +1,12 @@
 ---
+album: Here I Stand
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:6IxgSqNIsjp3n2lrnRRhUX
 features:
 - Young Jeezy
-genres: []
+first_released_as_single: true
 key: love-in-this-club-usher-young-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/usher/loveinthisclub.html
 name: Love In This Club
@@ -108,8 +111,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2008
+runtime: 261546
 ---
-
 I gotta do it for the ladies.
 And I gotta keep it hood.
 Where we at Polo
@@ -204,6 +208,3 @@ In this club
 In this club
 
 I wanna make love in this club.
-
-
-

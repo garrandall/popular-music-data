@@ -1,9 +1,12 @@
 ---
+album: Ghetto Heisman
 artists:
 - WC
+external_ids:
+  spotify: spotify:track:5a251qN4R86hro8UZGuO4E
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: the-streets-wc-nate-dogg
 lyrics_url: https://genius.com/Wc-the-streets-lyrics
 name: The Streets
@@ -60,6 +63,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
+release_year: 2002
+runtime: 227866
 ---
 Yea
 Turn the music up a little bit

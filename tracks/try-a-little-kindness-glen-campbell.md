@@ -1,8 +1,11 @@
 ---
+album: Try A Little Kindness
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:2VYF84ZzEofEYYg0cCxETc
 features: []
-genres: []
+first_released_as_single: false
 key: try-a-little-kindness-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/tryalittlekindness.html
 name: Try A Little Kindness
@@ -51,8 +54,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 146293
 ---
-
 If you see your brother standing by the road
 With a heavy load from the seeds he sowed
 And if you see your sister falling by the way
@@ -66,6 +70,3 @@ Don't walk around the down and out lend a helping hand instead of doubt
 And the kindness that you show every day will help someone along their way
 You've got to try a little kindness...
 You've got to try a little kindness...
-
-
-

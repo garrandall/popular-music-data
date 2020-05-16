@@ -1,8 +1,11 @@
 ---
+album: 'Frank Sinatra: The Complete Capitol Singles Collection'
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:7lTpgbvsCct5aGapyNKSWp
 features: []
-genres: []
+first_released_as_single: false
 key: mr-success-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-mr-success-lyrics
 name: Mr Success
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 162760
 ---
 When I walk through a jam, no one knows who I am
 Put your head on my chest, and I am Mr. Success
@@ -62,7 +67,7 @@ He had appointments to keep, people to meet
 And it took thirty hours to make him a day
 Not for me, not what I wanna be
 Just your head on my chest, and I'm Mr. Success
-(instrumental)
+
 Why, I once knew a worrying man, he was a hurrying man
 With never a second to play
 He had appointments to keep, lots of people to meet

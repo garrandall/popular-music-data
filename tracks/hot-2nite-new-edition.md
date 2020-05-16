@@ -1,8 +1,11 @@
 ---
+album: Bad Boy 20th Anniversary Box Set Edition
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:5CQRazABqSKJL9iokIcQrG
 features: []
-genres: []
+first_released_as_single: false
 key: hot-2nite-new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/hot2nite.html
 name: Hot 2Nite
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 203760
 ---
-
 Ohhh (yeah)
 All right
 Hey
@@ -140,6 +144,3 @@ Can you say oh (oh) baby (all right) (yeah)
 (hey) NE keep it hot for y'all
 Can you say oh (oh) baby (all right) (yeah)
 (hey) NE keep it hot for y'all
-
-
-

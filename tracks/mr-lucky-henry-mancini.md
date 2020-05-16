@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0plxbPQf0Y4KQT0wFAFN95
 features: []
-genres: []
+first_released_as_single: false
 key: mr-lucky-henry-mancini
 lyrics_url: https://genius.com/Henry-mancini-mr-lucky-lyrics
 name: Mr Lucky
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
+release_year: 1958
+runtime: 132333
 ---
 They call us lucky
 You and I

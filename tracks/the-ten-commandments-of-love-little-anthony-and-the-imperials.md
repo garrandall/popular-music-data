@@ -1,8 +1,11 @@
 ---
+album: The Best Of Little Anthony & The Imperials
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:36lRShqCywAnd6sWppukGi
 features: []
-genres: []
+first_released_as_single: false
 key: the-ten-commandments-of-love-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-the-ten-commandments-of-love-lyrics
 name: The Ten Commandments Of Love
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1969
+runtime: 185173
 ---
 Thou shalt never love another
 And stand by me all the while

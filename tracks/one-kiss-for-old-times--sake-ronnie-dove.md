@@ -1,8 +1,11 @@
 ---
+album: The Complete Original Chart Hits 1964-1969
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:70EUOJoFKWuzPCyHl6l6nL
 features: []
-genres: []
+first_released_as_single: false
 key: one-kiss-for-old-times--sake-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-one-kiss-for-old-times-sake-lyrics
 name: One Kiss For Old Times' Sake
@@ -51,6 +54,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 181680
 ---
 CHORUS
 One kiss for old times' sake

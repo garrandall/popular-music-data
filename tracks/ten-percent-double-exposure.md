@@ -1,8 +1,11 @@
 ---
+album: Ten Percent
 artists:
 - Double Exposure
+external_ids:
+  spotify: spotify:track:5jO0FBTRp7T9B6bbSEM00O
 features: []
-genres: []
+first_released_as_single: false
 key: ten-percent-double-exposure
 lyrics_url: https://genius.com/Double-exposure-ten-percent-lyrics
 name: Ten Percent
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1975
+runtime: 585160
 ---
 Ten percent of something
 (Ten percent of that something)

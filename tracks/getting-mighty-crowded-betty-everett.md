@@ -1,8 +1,11 @@
 ---
+album: No Place To Hide
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:4RKq9jsLBxvCGGhe0l1gUF
 features: []
-genres: []
+first_released_as_single: false
 key: getting-mighty-crowded-betty-everett
 lyrics_url: https://genius.com/Betty-everett-getting-mighty-crowded-lyrics
 name: Getting Mighty Crowded
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 130219
 ---
 I'm packing up my memories
 And I'm gonna move

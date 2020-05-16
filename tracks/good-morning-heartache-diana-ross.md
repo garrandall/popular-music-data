@@ -1,8 +1,11 @@
 ---
+album: Lady Sings The Blues
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3jE3WBIYBQDseLfQKc5wyW
 features: []
-genres: []
+first_released_as_single: false
 key: good-morning-heartache-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/goodmorningheartache.html
 name: Good Morning Heartache
@@ -59,8 +62,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 141133
 ---
-
 Goodmorning heartache
 You all gloomy sight
 Goodmorning heartache
@@ -91,6 +95,3 @@ Might as well get used to you
 Hangin' around
 Goodmorning heartache
 Sit down
-
-
-

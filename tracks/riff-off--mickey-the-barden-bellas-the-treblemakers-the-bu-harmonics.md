@@ -1,10 +1,13 @@
 ---
+album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
 artists:
 - The Barden Bellas
 - The Treblemakers
 - The BU Harmonics
+external_ids:
+  spotify: spotify:track:0phwM5a6TdLBDl0F9bk5fl
 features: []
-genres: []
+first_released_as_single: false
 key: riff-off--mickey-the-barden-bellas-the-treblemakers-the-bu-harmonics
 lyrics_url: https://genius.com/The-barden-bellas-riff-off-lyrics
 name: Riff Off
@@ -29,6 +32,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2013
+runtime: 224266
 ---
 Oh Mickey, you're so fine
 You're so fine you blow my mind

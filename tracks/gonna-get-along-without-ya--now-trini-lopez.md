@@ -1,8 +1,11 @@
 ---
+album: In London
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:3MedejWo5Q7hYLR6epEDTp
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-get-along-without-ya--now-trini-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Trini-Lopez/Gonna-Get-Along-Without-Ya-Now
 name: Gonna Get Along Without Ya' Now
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1967
+runtime: 114613
 ---
 Got along without you before I met you
 Gonna get along without you now

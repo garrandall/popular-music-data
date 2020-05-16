@@ -1,8 +1,11 @@
 ---
+album: Dedicated To The One I Love
 artists:
 - The Temprees
+external_ids:
+  spotify: spotify:track:2KJPhXldVJumvIV0j3u2Z7
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-to-the-one-i-love-the-temprees
 lyrics_url: https://genius.com/The-temprees-dedicated-to-the-one-i-love-lyrics
 name: Dedicated To The One I Love
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 218360
 ---
 While I'm away from you (oh Baby)
 I know it's hard for you (oh Baby)

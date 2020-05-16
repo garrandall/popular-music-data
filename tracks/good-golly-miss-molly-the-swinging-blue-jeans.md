@@ -1,8 +1,11 @@
 ---
+album: In Concert
 artists:
 - The Swinging Blue Jeans
+external_ids:
+  spotify: spotify:track:5Yi1Fh3yymr9lwFYFCjtk0
 features: []
-genres: []
+first_released_as_single: false
 key: good-golly-miss-molly-the-swinging-blue-jeans
 lyrics_url: https://genius.com/Swinging-blue-jeans-good-golly-miss-molly-lyrics
 name: Good Golly Miss Molly
@@ -35,6 +38,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 125106
 ---
 Good golly Miss Molly
 Yeah you sure like to ball

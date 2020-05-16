@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1BxfuPKGuaTgP7aM0Bbdwr
 features: []
-genres: []
+first_released_as_single: false
 key: cruel-summer-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/cruelsummer.html
 name: Cruel Summer
@@ -15,8 +18,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 178426
 ---
-
 (Yeah, yeah, yeah, yeah)
 
 Fever dream high in the quiet of the night
@@ -88,6 +92,3 @@ Every night that summer just to seal my fate (Oh)
 And I scream, "For whatever it's worth
 I love you, ain't that the worst thing you ever heard?"
 (Yeah, yeah, yeah, yeah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Naked Eyes
 artists:
 - Naked Eyes
+external_ids:
+  spotify: spotify:track:3ZXcjz3A5vNsR5dA1e6ITl
 features: []
-genres: []
+first_released_as_single: false
 key: always-something-there-to-remind-me-naked-eyes
 lyrics_url: https://www.azlyrics.com/lyrics/nakedeyes/alwayssomethingtheretoremindme.html
 name: Always Something There To Remind Me
@@ -95,8 +98,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 219373
 ---
-
 I walk along the city streets you used to walk along with me
 And every step I take reminds me of just how
 We used to be
@@ -141,6 +145,3 @@ Always something there to remind me
 Always something there to remind me
 Always something there to remind me
 Always something there to remind me
-
-
-

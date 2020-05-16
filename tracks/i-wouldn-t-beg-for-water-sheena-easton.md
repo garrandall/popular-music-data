@@ -1,8 +1,11 @@
 ---
+album: Madness, Money and Music
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:13kBGVdTv0Ww7tI6hk8ZM4
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-beg-for-water-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-i-wouldnt-beg-for-water-lyrics
 name: I Wouldn't Beg For Water
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1982
+runtime: 256120
 ---
 I make friends, I make enemies, it doesn't matter all that much to me
 I'm not the kind who deals behind the scenes

@@ -1,8 +1,11 @@
 ---
+album: Engelbert Humperdinck
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:4FAywsbEO4l37Q2ckZBszQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-better-man-engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-im-a-better-man-lyrics
 name: I'm A Better Man
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 169773
 ---
 If I could catch a star before it touched the ground
 I'd place it in a box, tie ribbons all around

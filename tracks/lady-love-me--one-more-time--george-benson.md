@@ -1,8 +1,11 @@
 ---
+album: In Your Eyes
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:52QRIheaefNCUA4HdEGpAo
 features: []
-genres: []
+first_released_as_single: false
 key: lady-love-me--one-more-time--george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/ladylovemeonemoretime.html
 name: Lady Love Me (One More Time)
@@ -59,8 +62,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 240140
 ---
-
 Oh...oh...oh...
 Oh...oh...oh...oh...oh...
 
@@ -118,6 +122,3 @@ Lady, love me (Love me, lady, now you're mine)
 
 Let me love you one more time
 Feel your heartbeat close to mine
-
-
-

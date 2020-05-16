@@ -1,8 +1,11 @@
 ---
+album: Coast to Coast
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:4SKybaVsHrSxfU6f8W6KT3
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-knows-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-everybody-knows-lyrics
 name: Everybody Knows
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1965
+runtime: 101160
 ---
 Wish they hadn't seen you walk away
 And heard me beg you "Stay, please stay"

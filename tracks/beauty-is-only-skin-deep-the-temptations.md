@@ -1,8 +1,11 @@
 ---
+album: Temptations Live!
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:2dgY3pGCCogoYnODTs9mXn
 features: []
-genres: []
+first_released_as_single: false
 key: beauty-is-only-skin-deep-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/beautyisonlyskindeep.html
 name: Beauty Is Only Skin Deep
@@ -55,8 +58,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 143906
 ---
-
 So in love, sad as could be
 'Cause a pretty face got the best of me.
 Suddenly, you came into my life
@@ -104,6 +108,3 @@ Don't judge a book by it's cover. (Oh yeah)
 She may be fine on the outside (Oh yeah)
 But so untrue on the inside. (Oh yeah)
 Ooo
-
-
-

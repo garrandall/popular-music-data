@@ -1,9 +1,12 @@
 ---
+album: home
 artists:
 - gnash
+external_ids:
+  spotify: spotify:track:3gY3fTkff4VmZ2XfvU6N4l
 features:
 - Johnny Yukon
-genres: []
+first_released_as_single: true
 key: home-gnash-johnny-yukon
 lyrics_url: https://www.azlyrics.com/lyrics/gnash/home.html
 name: Home
@@ -12,9 +15,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 216047
 ---
-
-
 Doesn't matter where we are
 We are never far apart, no
 Doesn't matter where we go
@@ -83,6 +86,3 @@ Oh-oh-oh-oh-oh-oh-oh, oh, oh
 Oh-oh-oh-oh-oh-oh-oh
 When I'm with you I am home
 Yeah, I am home
-
-
-

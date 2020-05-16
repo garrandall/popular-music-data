@@ -1,8 +1,11 @@
 ---
+album: The One That You Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:2aQ9yUp14YVKsOKuCDnBJn
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/sweetdreams.html
 name: Sweet Dreams
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1981
+runtime: 322426
 ---
-
 This is the time when you need a friend
 You just need someone near
 I'm not looking forward to the night I will spend
@@ -126,6 +130,3 @@ Close your eyes I want to ride the skies
 In my sweet dreams
 Close your eyes I want to see you tonight
 In my sweet dreams
-
-
-

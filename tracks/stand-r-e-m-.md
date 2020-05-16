@@ -1,8 +1,11 @@
 ---
+album: Green
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:22UhQSbYimuCnvI0Y07gFX
 features: []
-genres: []
+first_released_as_single: false
 key: stand-r-e-m-
 lyrics_url: https://genius.com/Rem-stand-lyrics
 name: Stand
@@ -83,6 +86,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1988
+runtime: 192960
 ---
 Stand in the place where you live
 Now face north

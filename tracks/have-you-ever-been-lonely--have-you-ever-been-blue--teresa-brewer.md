@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:7d5DaXxZVLC2aww0lDSQOs
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-been-lonely--have-you-ever-been-blue--teresa-brewer
 lyrics_url: https://genius.com/Teresa-brewer-have-you-ever-been-lonely-have-you-ever-been-blue-lyrics
 name: Have You Ever Been Lonely (Have You Ever Been Blue)
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 136560
 ---
 Have you ever been lonely
 Have you ever been blue

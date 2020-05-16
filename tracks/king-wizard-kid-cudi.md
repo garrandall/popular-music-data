@@ -1,8 +1,11 @@
 ---
+album: Indicud
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:4bFOo0IbTRXQBXNWEpGxXX
 features: []
-genres: []
+first_released_as_single: false
 key: king-wizard-kid-cudi
 lyrics_url: https://genius.com/Kid-cudi-king-wizard-lyrics
 name: King Wizard
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-01-12'
+release_year: 2013
+runtime: 256240
 ---
 It's just me and my niggas
 And my family

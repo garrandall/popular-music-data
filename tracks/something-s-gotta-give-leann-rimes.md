@@ -1,8 +1,11 @@
 ---
+album: This Woman
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:3Sg82C7qlmgQH9lyovH6AS
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-gotta-give-leann-rimes
 lyrics_url: https://www.musixmatch.com/lyrics/LeAnn-Rimes/Something-s-Gotta-Give
 name: Something's Gotta Give
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2005
+runtime: 236840
 ---
 Jenny got a job, a cat named Jake
 31 candles on her birthday cake

@@ -1,8 +1,11 @@
 ---
+album: What's Going On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:2s3CzHjvFC6ihLNBtkaiOI
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-me--the-ecology--marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-mercy-mercy-me-the-ecology-lyrics
 name: Mercy Mercy Me (The Ecology)
@@ -55,6 +58,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 194626
 ---
 Mercy, mercy me
 Things ain't what they used to be, no no

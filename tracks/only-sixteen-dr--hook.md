@@ -1,8 +1,11 @@
 ---
+album: Bankrupt
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:41hirbtJ1ShR5wGZcrnu4p
 features: []
-genres: []
+first_released_as_single: false
 key: only-sixteen-dr--hook
 lyrics_url: https://www.azlyrics.com/lyrics/drhook/onlysixteen.html
 name: Only Sixteen
@@ -95,8 +98,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1975
+runtime: 167400
 ---
-
 She was only sixteen, only sixteen
 But I loved her so
 But she was too young to fall in love
@@ -131,6 +135,3 @@ And I was too young to know
 Yes, she was too young to fall in love
 And I, I was too young
 I was much too young to know
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Cole Swindell
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:0Utg7sirTPqrs6Cx0FbriQ
 features: []
-genres: []
+first_released_as_single: false
 key: chillin--it-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/chillinit.html
 name: Chillin' It
@@ -87,8 +90,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 196746
 ---
-
 I got my shades on, top back
 Rolling with the music jacked
 One on the wheel, one around you baby
@@ -154,6 +158,3 @@ Long as I'm rocking with you, girl
 You know I'm cool with just chillin' it
 
 Yeah, I love rocking with you when, girl, we're just chilling it
-
-
-

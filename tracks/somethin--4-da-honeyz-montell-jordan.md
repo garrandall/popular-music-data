@@ -1,8 +1,11 @@
 ---
+album: This Is How We Do It
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:0qr7aS1xeJEgpA4OVHOHcz
 features: []
-genres: []
+first_released_as_single: false
 key: somethin--4-da-honeyz-montell-jordan
 lyrics_url: https://www.azlyrics.com/lyrics/montelljordan/somethin4dahoneyz.html
 name: Somethin' 4 Da Honeyz
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
+release_year: 1995
+runtime: 276106
 ---
-
 Oh yeah, coming right back at cha,
 with a different type of swing
 You know, you better ask somebody
@@ -127,4 +131,3 @@ And you tell two friends and she'll tell two
 and so on and so on
 Another number 1 hit so get your roll on
 yeah, yeah, yeah, yeah
-

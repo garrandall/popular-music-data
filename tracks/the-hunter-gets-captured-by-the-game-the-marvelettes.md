@@ -1,8 +1,11 @@
 ---
+album: The Marvelettes
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:5NqYo7el2XVOHXkMSrS9jH
 features: []
-genres: []
+first_released_as_single: false
 key: the-hunter-gets-captured-by-the-game-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/thehuntergetscapturedbythegame.html
 name: The Hunter Gets Captured By The Game
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 170946
 ---
-
 Every day things change
 And the world puts on a new face
 Certain things rearrange
@@ -89,6 +93,3 @@ Anytime the hunter...
 Gets captured by the game
 
 Oh yeah, oh yeah!
-
-
-

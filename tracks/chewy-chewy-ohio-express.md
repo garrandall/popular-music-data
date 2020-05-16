@@ -1,8 +1,11 @@
 ---
+album: Chewy, Chewy
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:1CgEzRUP0Y6XkdOM3CSygW
 features: []
-genres: []
+first_released_as_single: false
 key: chewy-chewy-ohio-express
 lyrics_url: https://genius.com/Ohio-express-chewy-chewy-lyrics
 name: Chewy Chewy
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 164226
 ---
 Chewy, Chewy, Chewy...
 Always got a mouthful of such sweet things to say

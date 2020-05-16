@@ -1,8 +1,11 @@
 ---
+album: We Can't Go Wrong
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:6HoFcVqhRM3JXfByq0t5go
 features: []
-genres: []
+first_released_as_single: false
 key: all-that-glitters-isn-t-gold-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-all-that-glitters-isnt-gold-lyrics
 name: All That Glitters Isn't Gold
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1989
+runtime: 350040
 ---
 Yesterday, I met a boy so fine
 Right away I knew

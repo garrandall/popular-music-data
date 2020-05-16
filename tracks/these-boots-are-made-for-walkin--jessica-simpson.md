@@ -1,8 +1,11 @@
 ---
+album: The Dukes Of Hazzard (Music From The Motion Picture)
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:073XJnVOC3V2S8WPe3m0hn
 features: []
-genres: []
+first_released_as_single: false
 key: these-boots-are-made-for-walkin--jessica-simpson
 lyrics_url: https://genius.com/Jessica-simpson-these-boots-are-made-for-walkin-music-video-version-lyrics
 name: These Boots Are Made For Walkin'
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 1999
+runtime: 238773
 ---
 Are you ready boots?
 Start walkin'

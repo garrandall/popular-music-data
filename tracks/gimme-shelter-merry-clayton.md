@@ -1,8 +1,11 @@
 ---
+album: Gimme Shelter - Single
 artists:
 - Merry Clayton
+external_ids:
+  spotify: spotify:track:18pKL8sfoGnOtzyPL9Glnl
 features: []
-genres: []
+first_released_as_single: true
 key: gimme-shelter-merry-clayton
 lyrics_url: https://genius.com/Merry-clayton-gimme-shelter-lyrics
 name: Gimme Shelter
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 284000
 ---
 Oh, the storm is threatnin'
 My very life today

@@ -1,8 +1,11 @@
 ---
+album: Tell Me This Is a Dream (Expanded Version)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:5iJ3TFsnziFusTvu8hM9pL
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-this-is-a-dream-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-tell-me-this-is-a-dream-lyrics
 name: Tell Me This Is A Dream
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 213413
 ---
 You're the same old girl
 That lived across the street

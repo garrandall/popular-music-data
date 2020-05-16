@@ -1,8 +1,11 @@
 ---
+album: Torn
 artists:
 - LeToya
+external_ids:
+  spotify: spotify:track:6GPiKalxD23rJirHKJm00X
 features: []
-genres: []
+first_released_as_single: true
 key: torn-letoya
 lyrics_url: https://www.azlyrics.com/lyrics/letoya/torn.html
 name: Torn
@@ -87,9 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2006
+runtime: 249253
 ---
-
-
 A part of me wants to leave you alone.
 A part of me wants for you to come home.
 A part of me says I'm living a lie.
@@ -180,6 +183,3 @@ Cuz I really wanna be with you.
 But something's telling me I should leave you alone.
 Leave you alone.
 Leave you alone.
-
-
-

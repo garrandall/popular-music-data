@@ -1,8 +1,11 @@
 ---
+album: De Rock 'n Roll Methode 23
 artists:
 - The Royaltones
+external_ids:
+  spotify: spotify:track:1WVRUZn53ozgLLJF2CKp3y
 features: []
-genres: []
+first_released_as_single: false
 key: poor-boy-the-royaltones
 name: Poor Boy
 rankings:
@@ -74,5 +77,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 134066
 ---
 

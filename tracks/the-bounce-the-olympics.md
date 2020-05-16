@@ -1,8 +1,11 @@
 ---
+album: Hard to Find Hits of Rock n Roll
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:3YWK8Kep1yDx4tLVCw2FO4
 features: []
-genres: []
+first_released_as_single: false
 key: the-bounce-the-olympics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/The-Bounce
 name: The Bounce
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1960
+runtime: 153268
 ---
 Well you know there's a dance
 Goin around

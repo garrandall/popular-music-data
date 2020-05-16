@@ -1,9 +1,12 @@
 ---
+album: The Bigger Artist
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:2vaMWMPMgsWX4fwJiKmdWm
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: undefeated-a-boogie-wit-da-hoodie-21-savage
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-undefeated-lyrics
 name: Undefeated
@@ -12,6 +15,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2017
+runtime: 174012
 ---
 M-M-M-Murda
 Yeah, yeah

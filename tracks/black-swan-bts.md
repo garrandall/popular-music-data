@@ -1,8 +1,11 @@
 ---
+album: 'MAP OF THE SOUL : 7'
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:24NuEDgyRIljwSyY0lsr7b
 features: []
-genres: []
+first_released_as_single: true
 key: black-swan-bts
 lyrics_url: https://genius.com/Bts-black-swan-lyrics
 name: Black Swan
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 198260
 ---
 Do your thang
 Do your thang with me now

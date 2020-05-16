@@ -1,8 +1,11 @@
 ---
+album: Super Best
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:67JIfYdnRNXSSP1uPRmE2j
 features: []
-genres: []
+first_released_as_single: false
 key: lollipops-and-roses-jack-jones
 lyrics_url: https://genius.com/Jack-jones-lollipops-and-roses-lyrics
 name: Lollipops And Roses
@@ -39,6 +42,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 246093
 ---
 Tell her you care each time you speak
 Make it her birthday each day of the week

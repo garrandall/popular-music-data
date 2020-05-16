@@ -1,8 +1,11 @@
 ---
+album: Sybil's Greatest Hits
 artists:
 - Sybil
+external_ids:
+  spotify: spotify:track:2FDIwfqSI44hVE9D6RmLQQ
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-by-sybil
 lyrics_url: https://genius.com/Sybil-walk-on-by-lyrics
 name: Walk On By
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1990
+runtime: 247266
 ---
 If you see me walking down the street
 And I start to cry

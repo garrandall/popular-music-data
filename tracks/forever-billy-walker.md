@@ -1,8 +1,11 @@
 ---
+album: Thank You for Calling
 artists:
 - Billy Walker
+external_ids:
+  spotify: spotify:track:7k4NbqPxbYm25E7FUJHKGU
 features: []
-genres: []
+first_released_as_single: false
 key: forever-billy-walker
 lyrics_url: https://genius.com/Billy-walker-forever-lyrics
 name: Forever
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1960
+runtime: 156680
 ---
 Hold me kiss me whisper to me
 Our love will go on forever

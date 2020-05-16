@@ -1,8 +1,11 @@
 ---
+album: 'Cole World: The Sideline Story'
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:2wAJTrFhCnQyNSD3oUgTZO
 features: []
-genres: []
+first_released_as_single: false
 key: work-out-j--cole
 lyrics_url: https://genius.com/J-cole-work-out-lyrics
 name: Work Out
@@ -119,6 +122,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 235320
 ---
 I want to see you work out for me, work out for me
 

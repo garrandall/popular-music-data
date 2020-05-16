@@ -1,8 +1,11 @@
 ---
+album: True Stories And Other Dreams
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:4LVvGp41cEWfIsTcWUqHQS
 features: []
-genres: []
+first_released_as_single: false
 key: cook-with-honey-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/cookwithhoney.html
 name: Cook With Honey
@@ -51,8 +54,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 211266
 ---
-
 Muffin warm and basket brown
 Smiling faces gathered round our dinner table
 Close together, hand in hand
@@ -101,6 +105,3 @@ To sweeten up the night
 We always cook with honey
 Tell me, how's your appetite
 For some sweet love
-
-
-

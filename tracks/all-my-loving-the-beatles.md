@@ -1,8 +1,11 @@
 ---
+album: With The Beatles
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:4joiWvli4qJVEW6qZV2i2J
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-loving-the-beatles
 lyrics_url: https://genius.com/The-beatles-all-my-loving-lyrics
 name: All My Loving
@@ -31,6 +34,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1963
+runtime: 127853
 ---
 Close your eyes and I'll kiss you
 Tomorrow I'll miss you

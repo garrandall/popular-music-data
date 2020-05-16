@@ -1,8 +1,11 @@
 ---
+album: World Falling Down
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:14P3TuBacyUO3Pyjg7xOpw
 features: []
-genres: []
+first_released_as_single: false
 key: even-a-fool-can-see-peter-cetera
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/evenafoolcansee.html
 name: Even A Fool Can See
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1992
+runtime: 271400
 ---
-
 One big happy family
 Together the rest of our lives
 As far as our friends were concerned
@@ -121,6 +125,3 @@ Even a fool like me
 Woo oo I'm alright
 Even a fool can see
 Whoa oo oo oo
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:3rsOs39rDAYxIOrDTHAgR9
 features:
 - Chris Brown
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: play-no-games-big-sean-chris-brown-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/playnogames.html
 name: Play No Games
@@ -65,8 +68,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2015
+runtime: 216653
 ---
-
 OK, I won't deny it
 Half the time you send a text, yep, you know I'm not replying
 Just to let you know, I'm not one of them niggas you be dodging
@@ -124,4 +128,3 @@ Yeah, yeah
 It's true
 Got some things I wanna do to you, baby
 Oh
-

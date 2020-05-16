@@ -1,8 +1,11 @@
 ---
+album: Complete Epic Hits
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:46fOHZwOf0JwZ3CwVbaKMP
 features: []
-genres: []
+first_released_as_single: true
 key: baby-i-m-yours-jody-miller
 lyrics_url: https://genius.com/Jody-miller-baby-im-yours-lyrics
 name: Baby I'm Yours
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 194266
 ---
 Baby I'm yours and I'll be yours until the stars fall from the sky
 Yours until the rivers all run dry in other words until I die

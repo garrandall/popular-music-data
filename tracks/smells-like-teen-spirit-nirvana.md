@@ -1,8 +1,11 @@
 ---
+album: Nevermind
 artists:
 - Nirvana
+external_ids:
+  spotify: spotify:track:5ghIJDpPoe3CfHMGu71E6T
 features: []
-genres: []
+first_released_as_single: false
 key: smells-like-teen-spirit-nirvana
 lyrics_url: https://www.azlyrics.com/lyrics/nirvana/smellsliketeenspirit.html
 name: Smells Like Teen Spirit
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1991
+runtime: 301920
 ---
-
 Load up on guns, bring your friends
 It's fun to lose and to pretend
 She's over bored and self assured
@@ -142,7 +146,4 @@ An albino
 A mosquito
 My libido
 
-A denial! 
-
-
-
+A denial!

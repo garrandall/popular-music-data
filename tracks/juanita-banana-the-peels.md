@@ -1,8 +1,11 @@
 ---
+album: Juanita Banana
 artists:
 - The Peels
+external_ids:
+  spotify: spotify:track:4aHueicFyTxORTrQFEV9mn
 features: []
-genres: []
+first_released_as_single: true
 key: juanita-banana-the-peels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Peels/Juanita-Banana
 name: Juanita Banana
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 154411
 ---
 In a little quiet town
 Just south of the Mexican border

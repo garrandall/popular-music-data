@@ -1,8 +1,11 @@
 ---
+album: The Mad, Mad, Mad, Mad, Mad Lads
 artists:
 - The Mad Lads
+external_ids:
+  spotify: spotify:track:24ii20TY56BcHgep8j278F
 features: []
-genres: []
+first_released_as_single: false
 key: by-the-time-i-get-to-phoenix-the-mad-lads
 lyrics_url: https://genius.com/The-mad-lads-by-the-time-i-get-to-phoenix-lyrics
 name: By The Time I Get To Phoenix
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 173000
 ---
 (It seems so far)
 

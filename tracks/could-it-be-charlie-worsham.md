@@ -1,8 +1,11 @@
 ---
+album: Rubberband
 artists:
 - Charlie Worsham
+external_ids:
+  spotify: spotify:track:6fRKgExSY24i2whGdAJUnM
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-charlie-worsham
 lyrics_url: https://www.azlyrics.com/lyrics/charlieworsham/coulditbe.html
 name: Could It Be
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 204880
 ---
-
 I'm finally holding
 What I've been hoping for
 
@@ -78,6 +82,3 @@ Is this love
 Or could it be
 Is this love
 Or could it be
-
-
-

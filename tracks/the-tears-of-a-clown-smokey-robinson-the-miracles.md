@@ -1,9 +1,12 @@
 ---
+album: Make It Happen
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:4Dq749x2QP6OXTURJ9GGY8
 features: []
-genres: []
+first_released_as_single: false
 key: the-tears-of-a-clown-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/thetearsofaclown.html
 name: The Tears Of A Clown
@@ -72,8 +75,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1967
+runtime: 181800
 ---
-
 Oh yeah, yeah, yeah
 
 Now if there's a smile on my face
@@ -128,6 +132,3 @@ Don't let this smile I wear
 Make you think that I don't care
 Really, I'm sad
 Hurtin' so bad
-
-
-

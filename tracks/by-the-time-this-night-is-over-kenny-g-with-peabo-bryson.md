@@ -1,8 +1,12 @@
 ---
+album: The Essential Kenny G
 artists:
-- Kenny G With Peabo Bryson
-features: []
-genres: []
+- Kenny G
+external_ids:
+  spotify: spotify:track:49ENHEMqkWU476q4H5fapz
+features:
+- Peabo Bryson
+first_released_as_single: false
 key: by-the-time-this-night-is-over-kenny-g-with-peabo-bryson
 name: By The Time This Night Is Over
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1986
+runtime: 262066
 ---
 

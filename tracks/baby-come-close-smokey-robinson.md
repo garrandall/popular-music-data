@@ -1,8 +1,11 @@
 ---
+album: Smokey
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:4tDg7rp5r68lSWur2uRT5t
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-close-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/babycomeclose.html
 name: Baby Come Close
@@ -71,8 +74,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 297866
 ---
-
 Turn the lights down low
 Baby, come close
 Put your hand in mine
@@ -113,6 +117,3 @@ Oh, so warm, so warm
 So warm
 So warm, so warm
 So warm
-
-
-

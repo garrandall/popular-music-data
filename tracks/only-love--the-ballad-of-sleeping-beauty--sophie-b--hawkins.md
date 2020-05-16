@@ -1,8 +1,11 @@
 ---
+album: The Best Of Sophie B. Hawkins
 artists:
 - Sophie B. Hawkins
+external_ids:
+  spotify: spotify:track:0JVeSuoJzA8O8zbkZmZMPT
 features: []
-genres: []
+first_released_as_single: false
 key: only-love--the-ballad-of-sleeping-beauty--sophie-b--hawkins
 lyrics_url: https://www.azlyrics.com/lyrics/sophiebhawkins/theballadofsleepingbeautyonlylove.html
 name: Only Love (The Ballad Of Sleeping Beauty)
@@ -51,9 +54,10 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1996
+runtime: 302693
 ---
-
- Sophie, it's time...
+Sophie, it's time...
 Ahaaa
 
 You don't know why I'm crazy
@@ -114,6 +118,3 @@ Only love can purify
 Only love can conquer fear
 Only love can testify
 Only love can make a miracle of life
-
-
-

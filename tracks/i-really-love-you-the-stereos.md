@@ -1,8 +1,11 @@
 ---
+album: The Soul of R&B
 artists:
 - The Stereos
+external_ids:
+  spotify: spotify:track:6RATNusyYnf5rTQHsxdoVT
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-love-you-the-stereos
 lyrics_url: https://genius.com/The-stereos-doo-wop-group-i-really-love-you-lyrics
 name: I Really Love You
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 138186
 ---
 Yeah, you, I really, really love you
 Nobody else will do

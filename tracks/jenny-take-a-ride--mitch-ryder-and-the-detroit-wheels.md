@@ -1,8 +1,11 @@
 ---
+album: Take A Ride
 artists:
 - Mitch Ryder And The Detroit Wheels
+external_ids:
+  spotify: spotify:track:3zpvKmAkd0IZgiC6haBNqy
 features: []
-genres: []
+first_released_as_single: false
 key: jenny-take-a-ride--mitch-ryder-and-the-detroit-wheels
 lyrics_url: https://genius.com/Mitch-ryder-and-the-detroit-wheels-jenny-take-a-ride-lyrics
 name: Jenny Take A Ride!
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1965
+runtime: 204000
 ---
 Oh see, C. C. Rider
 I said see, what you have done now

@@ -1,9 +1,12 @@
 ---
+album: Right on the Tip of My Tongue
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:6yKzsFf8DEh2erPlsYEEKK
 features: []
-genres: []
+first_released_as_single: false
 key: and-my-heart-sang--tra-la-la--brenda-the-tabulations
 name: And My Heart Sang (Tra La La)
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 191533
 ---
 

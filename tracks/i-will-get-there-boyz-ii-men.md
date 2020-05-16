@@ -1,8 +1,11 @@
 ---
+album: The Prince of Egypt
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:7kSnTetIKAJZpKV2kEBHsv
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-get-there-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-i-will-get-there-lyrics
 name: I Will Get There
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
+release_year: 1998
+runtime: 260839
 ---
 Oh, hey
 Yeah

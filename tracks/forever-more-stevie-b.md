@@ -1,8 +1,11 @@
 ---
+album: Best Of Stevie B
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:3CY9CNkOtizuMrMAXMB7Mp
 features: []
-genres: []
+first_released_as_single: false
 key: forever-more-stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/forevermore.html
 name: Forever More
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1991
+runtime: 252693
 ---
-
 Je t'aime toujours, mon amour
 
 Yeah, yeah, yeah
@@ -97,6 +101,3 @@ Let me love you, girl, forever more (Forever more, forever more, baby)
 I love you, baby
 Let me love you, girl, forever more (I'll do anything for you, baby, yeah)
 I love you, baby
-
-
-

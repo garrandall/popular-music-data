@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:4tTTwVxeUthDX37BUw1plJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-roller-skate-in-a-buffalo-herd-roger-miller
 lyrics_url: https://genius.com/Roger-miller-you-cant-rollerskate-in-a-buffalo-herd-lyrics
 name: You Can't Roller Skate In A Buffalo Herd
@@ -31,6 +34,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1965
+runtime: 114066
 ---
 Ya can't roller skate in a buffalo herd
 Ya can't roller skate in a buffalo herd

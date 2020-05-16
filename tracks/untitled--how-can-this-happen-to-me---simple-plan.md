@@ -1,8 +1,11 @@
 ---
+album: Still Not Getting Any
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:3eRLKD1Lgc2OrYGxRxX62s
 features: []
-genres: []
+first_released_as_single: false
 key: untitled--how-can-this-happen-to-me---simple-plan
 lyrics_url: https://www.azlyrics.com/lyrics/simpleplan/untitled.html
 name: Untitled (How Can This Happen To Me?)
@@ -71,8 +74,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
+release_year: 2004
+runtime: 239813
 ---
-
 I open my eyes
 I try to see but I'm blinded by the white light
 I can't remember how
@@ -119,6 +123,3 @@ As I'm fading away
 I'm sick of this life
 I just wanna scream
 How could this happen to me?
-
-
-

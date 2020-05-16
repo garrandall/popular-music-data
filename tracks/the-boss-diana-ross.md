@@ -1,8 +1,11 @@
 ---
+album: The Boss
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:5kfQK1Vb1mKSwzVn32Tarj
 features: []
-genres: []
+first_released_as_single: false
 key: the-boss-diana-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/No-One-Gets-the-Prize-The-Boss
 name: The Boss
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 241333
 ---
 No one, no one gets the prize
 

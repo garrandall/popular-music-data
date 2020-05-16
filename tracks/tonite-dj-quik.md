@@ -1,8 +1,11 @@
 ---
+album: Quik Is The Name
 artists:
 - DJ Quik
+external_ids:
+  spotify: spotify:track:2kIaUo30RcEEnMBUvJqse3
 features: []
-genres: []
+first_released_as_single: false
 key: tonite-dj-quik
 lyrics_url: https://www.azlyrics.com/lyrics/djquik/tonite.html
 name: Tonite
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1990
+runtime: 323066
 ---
-
 Here we go
 
 Yo, a day in the life of a player named Quik
@@ -160,6 +164,3 @@ Tonight is the nite (and on that motherfuckin note, I'm outta here)
 (tonite)
 
 We out (what about peace?) Fuck peace nigga, give me another brew
-
-
-

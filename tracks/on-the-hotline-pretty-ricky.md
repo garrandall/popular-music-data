@@ -1,8 +1,11 @@
 ---
+album: Late Night Special
 artists:
 - Pretty Ricky
+external_ids:
+  spotify: spotify:track:1zyqZONW985Cs4osz9wlsu
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-hotline-pretty-ricky
 lyrics_url: https://www.azlyrics.com/lyrics/prettyricky/onthehotline.html
 name: On The Hotline
@@ -83,9 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2007
+runtime: 242586
 ---
-
-
 It's 5 in the mornin'
 And I'm up havin' phone sex with you, you (so horny, so horny)
 And now I'm on the hotline
@@ -132,4 +135,3 @@ Kiss you in you mouth and your hips on my cheeks
 Straight action on the carpet, rug burns on my knees
 Now you're on the phone like damn I made a mess
 Got my hands in my pants, man, I love phone sex
-

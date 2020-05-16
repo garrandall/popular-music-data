@@ -1,8 +1,11 @@
 ---
+album: You Mean the World to Me
 artists:
 - David Houston
+external_ids:
+  spotify: spotify:track:1FEPm43R9PtGIFnCHqZc6R
 features: []
-genres: []
+first_released_as_single: false
 key: you-mean-the-world-to-me-david-houston
 lyrics_url: https://genius.com/David-houston-you-mean-the-world-to-me-lyrics
 name: You Mean The World To Me
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 135773
 ---
 Daylight comes and bluebirds sing and outside the grass is green
 But I don't care if sun shines or it rains

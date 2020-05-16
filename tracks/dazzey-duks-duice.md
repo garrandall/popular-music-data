@@ -1,8 +1,11 @@
 ---
+album: Dazzey Duks
 artists:
 - Duice
+external_ids:
+  spotify: spotify:track:26yQYGCXD9ypPW8eeXa1gx
 features: []
-genres: []
+first_released_as_single: true
 key: dazzey-duks-duice
 lyrics_url: https://genius.com/Duice-dazzey-duks-daisy-dukes-lyrics
 name: Dazzey Duks
@@ -167,6 +170,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1992
+runtime: 244866
 ---
 Come on, baby
 Kick them Daisies

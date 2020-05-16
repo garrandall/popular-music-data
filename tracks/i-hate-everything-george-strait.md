@@ -1,8 +1,11 @@
 ---
+album: 50 Number Ones
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:6r4LyNgkR7DmwgKj8Hbe6r
 features: []
-genres: []
+first_released_as_single: false
 key: i-hate-everything-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/ihateeverything.html
 name: I Hate Everything
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
+release_year: 2004
+runtime: 235426
 ---
-
 He was sitting there beside me throwing doubles down
 When he ordered up his third one he looked around
 Then he looked at me, said I do believe I'll have one more
@@ -118,6 +122,3 @@ Red and yellow, purple, blue and green, I hate everything
 So I pulled out my phone and I called my house
 I said babe I'm comin' home, we're gonna work this out
 I paid for his drinks and I told him thanks, thanks for everything
-
-
-

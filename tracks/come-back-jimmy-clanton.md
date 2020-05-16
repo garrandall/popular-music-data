@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:5fHylZH1UdG2v7kCNMWe7W
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-jimmy-clanton
 name: Come Back
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 172199
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: It's Now Winters Day
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:5joYslHVGqiQe70cLwsXSw
 features: []
-genres: []
+first_released_as_single: false
 key: sing-along-with-me-tommy-roe
 lyrics_url: https://genius.com/Tommy-roe-sing-along-with-me-lyrics
 name: Sing Along With Me
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 168426
 ---
 Sing along with me
 And you will see

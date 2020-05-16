@@ -1,9 +1,12 @@
 ---
+album: 'Young World: The Future'
 artists:
 - Lil' Zane
+external_ids:
+  spotify: spotify:track:4x6kZErnzSn7TET3CmFvn5
 features:
 - '112'
-genres: []
+first_released_as_single: false
 key: callin--me-lil--zane-112
 lyrics_url: https://www.azlyrics.com/lyrics/lilzane/callinme.html
 name: Callin' Me
@@ -60,8 +63,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
+release_year: 2000
+runtime: 227466
 ---
-
 I live the life of a celebrity
 A made nigga way bigger than them other cats you love to see
 
@@ -146,4 +150,3 @@ Showing love to the southside all the players outside
 And we gon' spend G's tonight
 Hotel's on me shit's free tonight
 C'mon!
-

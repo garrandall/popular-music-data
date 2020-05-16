@@ -1,8 +1,11 @@
 ---
+album: Winners
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:0RG7C6pVHVPChgVVXsB3aC
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-thing-the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/brothersjohnson/therealthing.html
 name: The Real Thing
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 235733
 ---
-
 So glad we've got a good thing
 You know you make my heart sing
 You are the real thing
@@ -97,6 +101,3 @@ You are the real thing
 You know you make my heart sing
 
 So glad we've got a good thing
-
-
-

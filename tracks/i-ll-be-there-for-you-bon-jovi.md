@@ -1,8 +1,11 @@
 ---
+album: New Jersey
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:07HqIg8BnB1lJElnw2ZiSR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-for-you-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-ill-be-there-for-you-lyrics
 name: I'll Be There For You
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1988
+runtime: 346586
 ---
 I guess this time you're really leavin'
 I heard your suitcase say goodbye

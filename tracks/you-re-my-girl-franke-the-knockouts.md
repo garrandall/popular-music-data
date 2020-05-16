@@ -1,9 +1,12 @@
 ---
+album: Franke & The Knockouts
 artists:
 - Franke
 - The Knockouts
+external_ids:
+  spotify: spotify:track:1qF0eBvJ6zKPZ8d3mUwncm
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-girl-franke-the-knockouts
 lyrics_url: https://genius.com/Franke-and-the-knockouts-youre-my-girl-lyrics
 name: You're My Girl
@@ -60,6 +63,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1981
+runtime: 182933
 ---
 You said you wanna showdown
 But did I take your love too right?

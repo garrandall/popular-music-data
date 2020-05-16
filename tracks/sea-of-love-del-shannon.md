@@ -1,8 +1,11 @@
 ---
+album: Drop Down and Get Me
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:47kGTGQkauQkMvEV3oWVjd
 features: []
-genres: []
+first_released_as_single: false
 key: sea-of-love-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/seaoflove.html
 name: Sea Of Love
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1981
+runtime: 154133
 ---
-
 Come with me, my love
 To the sea, the sea of love
 I want to tell you oh how much I love you
@@ -82,6 +86,3 @@ Love
 Do you remember when we met?
 That's the day I knew you were my pet
 I want to tell you oh how much I love you
-
-
-

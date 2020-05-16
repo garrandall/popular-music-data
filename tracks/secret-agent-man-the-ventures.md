@@ -1,8 +1,11 @@
 ---
+album: The Ventures
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:1ktbWc33IVFlkwbNOv28Sv
 features: []
-genres: []
+first_released_as_single: false
 key: secret-agent-man-the-ventures
 lyrics_url: https://genius.com/The-ventures-secret-agent-man-lyrics
 name: Secret Agent Man
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 125013
 ---
 There's a man who leads a life of danger
 To everyone he meets he stays a stranger

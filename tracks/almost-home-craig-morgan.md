@@ -1,8 +1,11 @@
 ---
+album: I Love It
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:6FW9MTGMjR5A6q2o7PLuuz
 features: []
-genres: []
+first_released_as_single: false
 key: almost-home-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/almosthome.html
 name: Almost Home
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
+release_year: 2003
+runtime: 289000
 ---
-
 He had plastic bags wrapped 'round his shoes
 He was covered with the evening news
 Had a pair of old wool socks on his hands
@@ -124,6 +128,3 @@ Cause I was almost home (almost home)
 
 Man I wish you'd just left me alone
 I was almost home
-
-
-

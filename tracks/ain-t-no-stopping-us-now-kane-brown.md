@@ -1,8 +1,11 @@
 ---
+album: Kane Brown
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:2I5ao7JannZZMlweLTz0hO
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-stopping-us-now-kane-brown
 lyrics_url: https://genius.com/Kane-brown-aint-no-stopping-us-now-lyrics
 name: Ain't No Stopping Us Now
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-07-09'
+release_year: 2016
+runtime: 182720
 ---
 We'll be road-tripping
 Rolling with the top down

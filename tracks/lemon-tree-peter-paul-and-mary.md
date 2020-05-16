@@ -1,8 +1,11 @@
 ---
+album: Peter, Paul And Mary
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:5oHUNjvZtKrCAj5AdkUl3N
 features: []
-genres: []
+first_released_as_single: false
 key: lemon-tree-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/lemontree.html
 name: Lemon Tree
@@ -39,8 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 175733
 ---
-
 When I was just a lad of ten, my father said to me,
 "Come here and take a lesson from the lovely lemon tree."
 "Don't put your faith in love, my boy", my father said to me,
@@ -70,6 +74,3 @@ Lemon tree very pretty and the lemon flower is sweet
 but the fruit of the poor lemon is impossible to eat.
 Lemon tree very pretty and the lemon flower is sweet
 but the fruit of the poor lemon is impossible to eat.
-
-
-

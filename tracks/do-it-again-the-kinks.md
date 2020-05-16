@@ -1,8 +1,11 @@
 ---
+album: Word of Mouth
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:20tiyvXaJMmnLCnStJY3s5
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-again-the-kinks
 lyrics_url: https://genius.com/The-kinks-do-it-again-lyrics
 name: Do It Again
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1984
+runtime: 248760
 ---
 Standing in the middle of nowhere
 Wondering how to begin

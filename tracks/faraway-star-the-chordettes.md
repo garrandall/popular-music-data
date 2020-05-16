@@ -1,8 +1,11 @@
 ---
+album: 25 All-Time Greatest Recordings
 artists:
 - The Chordettes
+external_ids:
+  spotify: spotify:track:5XzeShKdI0MMb0HSBwRVsE
 features: []
-genres: []
+first_released_as_single: false
 key: faraway-star-the-chordettes
 lyrics_url: https://genius.com/The-chordettes-faraway-star-lyrics
 name: Faraway Star
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 140245
 ---
 Star light, star bright
 First star I see tonight

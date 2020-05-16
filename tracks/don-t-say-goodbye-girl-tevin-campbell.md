@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tevin Campbell
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:2rVXKUyHxMoWk7vTyOcYIH
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-goodbye-girl-tevin-campbell
 lyrics_url: https://genius.com/Tevin-campbell-dont-say-goodbye-girl-lyrics
 name: Don't Say Goodbye Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1994
+runtime: 270651
 ---
 Baby, don't stand there in the doorway
 With all your bags ready to go

@@ -1,8 +1,11 @@
 ---
+album: The Long Run
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:2bzgKuK3pVez40qUvo8sYr
 features: []
-genres: []
+first_released_as_single: false
 key: heartache-tonight-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/heartachetonight.html
 name: Heartache Tonight
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 265678
 ---
-
 Somebody's gonna hurt someone 
 before the night is through 
 Somebody's gonna come undone. 
@@ -126,6 +130,3 @@ but either way, there's gonna be a
 heartache tonight, a heartache tonight I know. 
 There'll be a heartache tonight 
 a heartache tonight I know.
-
-
-

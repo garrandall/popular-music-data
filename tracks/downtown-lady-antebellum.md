@@ -1,8 +1,11 @@
 ---
+album: Golden
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:4kY7rYtE4OQkJNq22OIYRI
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/downtown.html
 name: Downtown
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 195866
 ---
-
 Well, all the parties on the streets are talking, store front mannequins sleeping in lights.
 We used to smoke while we were jaywalking like it was your birthday every other saturday night.
 Knew The bands so we never payed our cover.
@@ -128,6 +132,3 @@ Ohhh anymore.
 Yeah I don't know why you don't take me downtown,
 I don't know why you don't take me downtown anymore.
 I just don't get it
-
-
-

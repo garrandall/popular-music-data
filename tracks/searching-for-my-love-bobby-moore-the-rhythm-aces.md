@@ -1,9 +1,12 @@
 ---
+album: "Chess Soul: A Decade Of Chicago\u2019s Finest"
 artists:
 - Bobby Moore
 - The Rhythm Aces
+external_ids:
+  spotify: spotify:track:0Q25xKgIaiT5JTDCT0qMea
 features: []
-genres: []
+first_released_as_single: false
 key: searching-for-my-love-bobby-moore-the-rhythm-aces
 lyrics_url: https://genius.com/Bobby-moore-and-the-rhythm-aces-searching-for-my-love-lyrics
 name: Searching For My Love
@@ -48,6 +51,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 152693
 ---
 Searching, searching for my baby
 Yes, I am

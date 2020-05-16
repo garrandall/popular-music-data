@@ -1,8 +1,11 @@
 ---
+album: Love
 artists:
 - Barbara George
+external_ids:
+  spotify: spotify:track:2MiG8lbFuM3ti33lNYLijB
 features: []
-genres: []
+first_released_as_single: false
 key: you-talk-about-love-barbara-george
 lyrics_url: https://genius.com/Barbara-george-you-talk-about-love-lyrics
 name: You Talk About Love
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 161000
 ---
 You know everybody talk about love
 But baby, here's what love's done to me

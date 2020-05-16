@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Livin'
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:43OvQi0oJuPBFGiPxIoPC5
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-craig-morgan
 lyrics_url: https://genius.com/Craig-morgan-i-got-you-lyrics
 name: I Got You
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-06-24'
+release_year: 2005
+runtime: 233653
 ---
 I've had big dreams come true and I believe in
 Angels although I can't see them

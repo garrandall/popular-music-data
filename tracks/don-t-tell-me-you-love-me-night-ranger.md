@@ -1,8 +1,11 @@
 ---
+album: Dawn Patrol
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:6E6uwOhAEHSzSvDewOBEvF
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-you-love-me-night-ranger
 lyrics_url: https://genius.com/Night-ranger-dont-tell-me-you-love-me-lyrics
 name: Don't Tell Me You Love Me
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
+release_year: 1982
+runtime: 262826
 ---
 It ain't the way you move
 It ain't the way that you move me

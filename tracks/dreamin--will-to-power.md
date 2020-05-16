@@ -1,8 +1,11 @@
 ---
+album: Will To Power
 artists:
 - Will To Power
+external_ids:
+  spotify: spotify:track:1OvAWyKGAXJKp0mhLQkiPi
 features: []
-genres: []
+first_released_as_single: true
 key: dreamin--will-to-power
 lyrics_url: https://genius.com/Will-to-power-dreamin-lyrics
 name: Dreamin'
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 459467
 ---
 Tell me that I'm dreamin'
 I'm dreamin'

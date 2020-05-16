@@ -1,9 +1,12 @@
 ---
+album: Witness
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:36DHSYPiIIf1Pl0irqyebq
 features:
 - Skip Marley
-genres: []
+first_released_as_single: true
 key: chained-to-the-rhythm-katy-perry-skip-marley
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/chainedtotherhythm.html
 name: Chained To The Rhythm
@@ -68,9 +71,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2017
+runtime: 342005
 ---
-
-
 Are we crazy?
 Living our lives through a lens
 Trapped in our white picket fence
@@ -167,6 +170,3 @@ It goes on and on and on
 It goes on and on and on
 It goes on and on and on
 'Cause we're all chained to the rhythm
-
-
-

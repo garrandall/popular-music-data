@@ -1,8 +1,11 @@
 ---
+album: Chinese Wall
 artists:
 - Philip Bailey
+external_ids:
+  spotify: spotify:track:0PXHA9nXcu4UOJFXvye9LE
 features: []
-genres: []
+first_released_as_single: false
 key: walking-on-the-chinese-wall-philip-bailey
 lyrics_url: https://genius.com/Philip-bailey-walking-on-the-chinese-wall-lyrics
 name: Walking On The Chinese Wall
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-06-22'
+release_year: 1984
+runtime: 308773
 ---
 Walking on a Chinese
 Walking on a Chinese Wall

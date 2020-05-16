@@ -1,8 +1,11 @@
 ---
+album: The Introduction of Marcus Cooper
 artists:
 - Pleasure P
+external_ids:
+  spotify: spotify:track:5klW2KKu4GaHWfTR01ywrj
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-wrong-pleasure-p
 lyrics_url: https://genius.com/Pleasure-p-did-you-wrong-lyrics
 name: Did You Wrong
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2008
+runtime: 259000
 ---
 You know, I want you all to just sit back and think for a second
 You know what I mean?

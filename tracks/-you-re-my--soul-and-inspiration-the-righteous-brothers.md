@@ -1,8 +1,11 @@
 ---
+album: Reunion
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:5ZHOiRqKOzgFMfMAu8cwzp
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-my--soul-and-inspiration-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-youre-my-soul-and-inspiration-lyrics
 name: (You're My) Soul And Inspiration
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 201253
 ---
 Girl, I can't let you do this
 Let you walk away

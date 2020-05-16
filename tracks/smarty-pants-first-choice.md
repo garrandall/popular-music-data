@@ -1,8 +1,11 @@
 ---
+album: 'Back to Back: First Choice & The Three Degrees'
 artists:
 - First Choice
+external_ids:
+  spotify: spotify:track:7jOeQEqejuqKe0bLK13qRb
 features: []
-genres: []
+first_released_as_single: false
 key: smarty-pants-first-choice
 lyrics_url: https://genius.com/First-choice-smarty-pants-lyrics
 name: Smarty Pants
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 164093
 ---
 By the way
 My name is Smarty Pants

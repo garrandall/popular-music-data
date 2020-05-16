@@ -1,8 +1,11 @@
 ---
+album: Hit or Miss
 artists:
 - Jacob Sartorius
+external_ids:
+  spotify: spotify:track:6iaJUPHLONFJ02RTeaMuy8
 features: []
-genres: []
+first_released_as_single: true
 key: hit-or-miss-jacob-sartorius
 lyrics_url: https://www.azlyrics.com/lyrics/jacobsartorius/hitormiss.html
 name: Hit Or Miss
@@ -15,8 +18,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 237983
 ---
-
 I heard that life gets hard when you're older
 And the fun stuff's just for kids
 But what I realize as I grow up
@@ -103,6 +107,3 @@ Let's not worry about tomo, mo mo, nah-nah, nah-nah
 We all good, baby, we alright
 So let's not worry about tomo, mo mo, nah-nah, nah-nah
 We all good, baby, we alright
-
-
-

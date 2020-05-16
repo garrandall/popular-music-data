@@ -1,8 +1,11 @@
 ---
+album: Jordin Sparks
 artists:
 - Jordin Sparks
+external_ids:
+  spotify: spotify:track:0eIfBjs1pMiRNkbngEATQi
 features: []
-genres: []
+first_released_as_single: true
 key: tattoo-jordin-sparks
 lyrics_url: https://www.azlyrics.com/lyrics/jordinsparks/tattoo.html
 name: Tattoo
@@ -131,8 +134,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2007
+runtime: 232920
 ---
-
 Oh, oh, oh
 
 No matter what you say about love
@@ -197,6 +201,3 @@ Marks everything I do
 
 Just like a tattoo
 I'll always have you
-
-
-

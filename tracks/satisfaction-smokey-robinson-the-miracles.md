@@ -1,9 +1,12 @@
 ---
+album: One Dozen Roses
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7iXCJtJKyLeMGFoS4oNM4r
 features: []
-genres: []
+first_released_as_single: false
 key: satisfaction-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/satisfaction.html
 name: Satisfaction
@@ -44,8 +47,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 207026
 ---
-
 Satisfaction,
 That means,
 Different strokes for different folks,
@@ -105,6 +109,3 @@ Oh, but having a baby with me, baby,
 Is satisfaction enough for me.
 Oh, and holding him tightly by me, mightily,
 That's satisfaction enough for me.
-
-
-

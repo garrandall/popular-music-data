@@ -1,8 +1,11 @@
 ---
+album: Remember Me
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:24ZSD6XuCJY9EeEBOlKmoW
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-dreams-to-remember-otis-redding
 lyrics_url: https://genius.com/Otis-redding-ive-got-dreams-to-remember-lyrics
 name: I've Got Dreams To Remember
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 195866
 ---
 I've got dreams, dreams to remember
 I've got dreams, dreams to remember

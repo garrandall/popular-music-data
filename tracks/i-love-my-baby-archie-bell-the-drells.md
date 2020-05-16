@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:0QvePm7qtDWIL7Lbfeorba
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-my-baby-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/I-Love-My-Baby
 name: I Love My Baby
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
+release_year: 1969
+runtime: 160213
 ---
 Oh, I love my baby
 I said I love, love

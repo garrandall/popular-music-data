@@ -1,8 +1,11 @@
 ---
+album: 'Highway Music: Stuck In Traffic'
 artists:
 - DJ Luke Nasty
+external_ids:
+  spotify: spotify:track:7KLB6Jptw9wyQXkSLiO8qh
 features: []
-genres: []
+first_released_as_single: true
 key: might-be-dj-luke-nasty
 lyrics_url: https://genius.com/Dj-luke-nasty-might-be-lyrics
 name: Might Be
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 210703
 ---
 Wait
 3, aye

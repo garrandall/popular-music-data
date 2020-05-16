@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:66MibHybwVbdo65IOZIj97
 features: []
-genres: []
+first_released_as_single: false
 key: hello-goodbye-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/hellogoodbye.html
 name: Hello Goodbye
@@ -11,8 +14,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2010
+runtime: 209386
 ---
-
 You say yes, I say no.
 You say stop and I say go go go
 Oh no
@@ -68,6 +72,3 @@ Hela heba helloa (hello hello)
 Hello
 
 Hela heba helloa
-
-
-

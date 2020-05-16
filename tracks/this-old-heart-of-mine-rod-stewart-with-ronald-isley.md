@@ -1,8 +1,12 @@
 ---
+album: 'Storyteller - The Complete Anthology: 1964 - 1990'
 artists:
-- Rod Stewart With Ronald Isley
-features: []
-genres: []
+- Rod Stewart
+external_ids:
+  spotify: spotify:track:1JJNgkcjMOBk8py4nUmxTw
+features:
+- Ronald Isley
+first_released_as_single: false
 key: this-old-heart-of-mine-rod-stewart-with-ronald-isley
 lyrics_url: https://www.musixmatch.com/lyrics/Rod-Stewart-with-Ronald-Isley/This-Old-Heart-of-Mine
 name: This Old Heart Of Mine
@@ -71,6 +75,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1989
+runtime: 251840
 ---
 This old heart of mine been broke a thousand times
 Each time you break away I feel you're gone to stay

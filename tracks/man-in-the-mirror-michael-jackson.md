@@ -1,8 +1,11 @@
 ---
+album: Bad 25th Anniversary
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:1kiNatIrwDusOZfR29W0LJ
 features: []
-genres: []
+first_released_as_single: false
 key: man-in-the-mirror-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-man-in-the-mirror-lyrics
 name: Man In The Mirror
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1987
+runtime: 318680
 ---
 I'm gonna make a change
 For once in my life

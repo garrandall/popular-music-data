@@ -1,8 +1,11 @@
 ---
+album: Hard At Play
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2n5xm7IwwgvtSSBCcQexKW
 features: []
-genres: []
+first_released_as_single: false
 key: couple-days-off-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/coupledaysoff.html
 name: Couple Days Off
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
+release_year: 1991
+runtime: 296840
 ---
-
 I like my job and I don't mind the work
 But eleven out of twelve is bound to hurt
 The pay's pretty good and the benefits are fine
@@ -105,6 +109,3 @@ I'm a total loss
 All I want is a couple days off
 
 Can't wait for the weekend
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Introducing The Hardline According To Terence Trent D'Arby
 artists:
 - Terence Trent D'Arby
+external_ids:
+  spotify: spotify:track:7fPSzZmr3N0hO50JgVIFk4
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-let-me-stay-terence-trent-d-arby
 lyrics_url: https://genius.com/Terence-trent-darby-if-you-let-me-stay-lyrics
 name: If You Let Me Stay
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 193933
 ---
 Sweetheart listen
 I know the last few pages

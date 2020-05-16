@@ -1,8 +1,11 @@
 ---
+album: Then & Now
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:7fc4ZrV4Jqeg2UD0xBu2BR
 features: []
-genres: []
+first_released_as_single: false
 key: days-like-these-asia
 lyrics_url: https://genius.com/Asia-days-like-these-lyrics
 name: Days Like These
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1990
+runtime: 244626
 ---
 The sun was shining
 The sky was crying

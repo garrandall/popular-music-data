@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:2ZHxl0iAc5mwJFX6Y5TvRU
 features: []
-genres: []
+first_released_as_single: false
 key: -the-man-who-shot--liberty-valance-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/themanwhoshotlibertyvalance.html
 name: (The Man Who Shot) Liberty Valance
@@ -59,8 +62,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 178440
 ---
-
 When Liberty Valance rode to town, the womenfolk would hide, they'd hide
 When Liberty Valance walked around, the men would step aside
 'Cause the point of a gun was the only law that Liberty understood
@@ -94,6 +98,3 @@ He was the bravest of them all
 The man who shot Liberty Valance
 He shot Liberty Valance
 He was the bravest of them all
-
-
-

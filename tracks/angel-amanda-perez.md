@@ -1,8 +1,11 @@
 ---
+album: Where You At?
 artists:
 - Amanda Perez
+external_ids:
+  spotify: spotify:track:7DSfv2r0Km90N97qlRTxou
 features: []
-genres: []
+first_released_as_single: false
 key: angel-amanda-perez
 lyrics_url: https://genius.com/Amanda-perez-angel-lyrics
 name: Angel
@@ -87,6 +90,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2003-06-14'
+release_year: 2002
+runtime: 217626
 ---
 It's been five months since you went away
 You left without a word and nothing to say (Nothing to say)

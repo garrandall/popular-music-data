@@ -1,8 +1,11 @@
 ---
+album: Night Lights Harmony
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:4Sowlz6VbqNHviVzXqA3Bt
 features: []
-genres: []
+first_released_as_single: false
 key: we-all-gotta-stick-together-four-tops
 lyrics_url: https://genius.com/The-four-tops-we-all-gotta-stick-together-lyrics
 name: We All Gotta Stick Together
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 289533
 ---
 I know you're getting tired of hearing the same old song
 People talking about what's right and what's wrong

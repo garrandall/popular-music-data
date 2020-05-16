@@ -1,8 +1,11 @@
 ---
+album: The Chimes Meet the Videls
 artists:
 - The Chimes
+external_ids:
+  spotify: spotify:track:73UNWjUVZUBoF097z9Jd7J
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-the-mood-for-love-the-chimes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chimes-2/I-m-in-the-Mood-for-Love
 name: I'm In The Mood For Love
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 149293
 ---
 I'm in the mood for love
 Simply because you're near me

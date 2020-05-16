@@ -1,9 +1,12 @@
 ---
+album: The Sound of Revenge
 artists:
 - Chamillionaire
+external_ids:
+  spotify: spotify:track:3kZoay4ANo86ehb6s4RwS9
 features:
 - Krayzie Bone
-genres: []
+first_released_as_single: false
 key: ridin--chamillionaire-krayzie-bone
 lyrics_url: https://www.azlyrics.com/lyrics/chamillionaire/ridin.html
 name: Ridin'
@@ -132,8 +135,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2005
+runtime: 303053
 ---
-
 They see me rolling
 They hating
 Patrolling they trying to catch me riding dirty
@@ -270,6 +274,3 @@ Tryna catch me riding dirty
 Tryna catch me riding dirty
 Tryna catch me riding dirty
 Tryna catch me riding dirty
-
-
-

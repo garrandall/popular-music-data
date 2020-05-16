@@ -1,8 +1,11 @@
 ---
+album: Brother, Brother, Brother
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:1b7tZPt3S2UN6OrPUBqGCp
 features: []
-genres: []
+first_released_as_single: false
 key: work-to-do-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-work-to-do-lyrics
 name: Work To Do
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 192600
 ---
 I'm taking care of business, woman, can't you see?
 I gotta make it for you, and I've gotta make it for me

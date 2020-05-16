@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:2XYSkO6GWk1ZpINrFBsLWc
 features: []
-genres: []
+first_released_as_single: false
 key: my-balloon-s-going-up-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/My-Balloon-s-Going-Up
 name: My Balloon's Going Up
@@ -24,6 +27,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 147666
 ---
 My balloon is going up
 (My balloon is going up)

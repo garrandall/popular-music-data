@@ -1,8 +1,11 @@
 ---
+album: The Music City Sessions
 artists:
 - Jeannie C. Riley
+external_ids:
+  spotify: spotify:track:6NgwWs3PMzcuIZc0YdvNWc
 features: []
-genres: []
+first_released_as_single: false
 key: harper-valley-pta-jeannie-c--riley
 lyrics_url: https://genius.com/Jeannie-c-riley-harper-valley-pta-lyrics
 name: Harper Valley PTA
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 200293
 ---
 I wanna tell you all the story 'bout
 A Harper Valley widowed wife

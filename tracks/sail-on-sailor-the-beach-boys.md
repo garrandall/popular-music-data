@@ -1,8 +1,11 @@
 ---
+album: Holland
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:3U4hSjTlK6WU0wORlAne9H
 features: []
-genres: []
+first_released_as_single: false
 key: sail-on-sailor-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/sailonsailor.html
 name: Sail On Sailor
@@ -75,8 +78,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1973
+runtime: 202426
 ---
-
 I sailed an ocean, unsettled ocean
 Through restful waters and deep commotion
 Often frightened, unenlightened
@@ -117,6 +121,3 @@ Sail on, sail on sailor
 Sail on, sail on sailor
 Sail on, sail on sailor
 Sail on, sail on sailor
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Angst In My Pants
 artists:
 - Sparks
+external_ids:
+  spotify: spotify:track:0uYHPE82I75F5W9RdwjzNC
 features: []
-genres: []
+first_released_as_single: false
 key: i-predict-sparks
 lyrics_url: https://genius.com/Sparks-i-predict-lyrics
 name: I Predict
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 173826
 ---
 You're gonna take a walk in the rain
 And you're gonna get wet

@@ -1,8 +1,11 @@
 ---
+album: Don't Look Any Further
 artists:
 - Dennis Edwards
+external_ids:
+  spotify: spotify:track:3GiSgsFwPp8zY7yTGsRlyR
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-look-any-further-dennis-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Dennis-Edwards/Don-t-Look-Any-Further
 name: Don't Look Any Further
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1984
+runtime: 242213
 ---
 Whoa, oh, well, well, well, well, well
 Oh, hm

@@ -1,8 +1,11 @@
 ---
+album: Free Ride
 artists:
 - Marshall Hain
+external_ids:
+  spotify: spotify:track:4MVhYm4LCenxBIZKrT5CAc
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-city-marshall-hain
 lyrics_url: https://genius.com/Marshall-hain-dancing-in-the-city-lyrics
 name: Dancing In The City
@@ -51,6 +54,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 226866
 ---
 If you're a stranger here
 And you need some action

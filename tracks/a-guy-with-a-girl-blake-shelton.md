@@ -1,8 +1,11 @@
 ---
+album: If I'm Honest
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:5sjIhQzNljMVrDklI91ezp
 features: []
-genres: []
+first_released_as_single: false
 key: a-guy-with-a-girl-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/aguywithagirl.html
 name: A Guy With A Girl
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2016
+runtime: 189466
 ---
-
 Sometimes I'm the guy with the boys kicking it back
 Or the guy with the guitar singing on a country track
 I might be the guy with an ice cold can, stirring up dust on some old farmland
@@ -124,6 +128,3 @@ I'm always the guy with the girl
 I don't mind it, baby
 I don't mind it, baby
 I'm always the guy with the girl
-
-
-

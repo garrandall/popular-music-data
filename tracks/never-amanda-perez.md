@@ -1,8 +1,11 @@
 ---
+album: Where You At?
 artists:
 - Amanda Perez
+external_ids:
+  spotify: spotify:track:19WTOQ2OoZ0uszOVt42xgE
 features: []
-genres: []
+first_released_as_single: false
 key: never-amanda-perez
 lyrics_url: https://genius.com/Amanda-perez-never-lyrics
 name: Never
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
+release_year: 2002
+runtime: 253506
 ---
 (yea, OoOo OoOo OoOo)
 

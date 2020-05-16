@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:6JFxSMuYrxOh4gaFNw1SCD
 features: []
-genres: []
+first_released_as_single: false
 key: the-coldest-days-of-my-life--part-1--the-chi-lites
 lyrics_url: https://genius.com/The-chi-lites-the-coldest-days-of-my-life-lyrics
 name: The Coldest Days Of My Life (Part 1)
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 260813
 ---
 I remember, oh yeah
 The signs of springtime

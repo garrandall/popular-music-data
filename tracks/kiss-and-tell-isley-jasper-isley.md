@@ -1,10 +1,13 @@
 ---
+album: Broadway's Closer to Sunset Blvd (Bonus Track Version)
 artists:
 - Isley
 - Jasper
 - Isley
+external_ids:
+  spotify: spotify:track:2XCoaanXA2TOejaVA34nS6
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-and-tell-isley-jasper-isley
 lyrics_url: https://genius.com/Isley-jasper-isley-kiss-and-tell-lyrics
 name: Kiss and Tell
@@ -37,6 +40,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
+release_year: 1984
+runtime: 329853
 ---
 Tell a story, make it sound provocative
 Just a little more spice to a secret that you'll give

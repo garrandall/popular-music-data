@@ -1,8 +1,11 @@
 ---
+album: Keep Moving
 artists:
 - Madness
+external_ids:
+  spotify: spotify:track:2ziChABXLmMgIhGoqoPCGp
 features: []
-genres: []
+first_released_as_single: false
 key: the-sun-and-the-rain-madness
 lyrics_url: https://genius.com/Madness-the-sun-and-the-rain-lyrics
 name: The Sun And The Rain
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1984
+runtime: 198506
 ---
 It's raining again
 I'm hearing its pitter patter down

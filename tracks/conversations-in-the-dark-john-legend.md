@@ -1,8 +1,11 @@
 ---
+album: Conversations in the Dark
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:6TYlDTa9AQDvjqwbxlvFyI
 features: []
-genres: []
+first_released_as_single: true
 key: conversations-in-the-dark-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/conversationsinthedark.html
 name: Conversations In The Dark
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2020
+runtime: 237426
 ---
-
 Talk
 Let's have conversations in the dark
 World asleep and I'm awake with you
@@ -75,6 +79,3 @@ And your love is all you owe me
 And I won't break your heart
 
 I won't break your heart
-
-
-

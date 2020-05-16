@@ -1,9 +1,12 @@
 ---
+album: Won't Be Late
 artists:
 - Swae Lee
+external_ids:
+  spotify: spotify:track:2sqsNXfN0HtgDEgaHXiUTa
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: won-t-be-late-swae-lee-drake
 lyrics_url: https://genius.com/Swae-lee-wont-be-late-lyrics
 name: Won't Be Late
@@ -12,6 +15,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 218709
 ---
 EarDrummers
 

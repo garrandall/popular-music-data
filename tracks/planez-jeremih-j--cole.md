@@ -1,9 +1,12 @@
 ---
+album: 'Late Nights: The Album'
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:08zJpaUQVi9FrKv2e32Bah
 features:
 - J. Cole
-genres: []
+first_released_as_single: false
 key: planez-jeremih-j--cole
 lyrics_url: https://genius.com/Jeremih-planez-lyrics
 name: Planez
@@ -88,6 +91,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 240320
 ---
 This one goes out to all sides worldwide
 Let that playa-ass nigga Thumpy be your guide

@@ -1,8 +1,11 @@
 ---
+album: Pop's Crooners
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:0pK0pVV6JhVDwUJqneoi2V
 features: []
-genres: []
+first_released_as_single: true
 key: proud-johnny-crawford
 lyrics_url: https://genius.com/Johnny-crawford-proud-lyrics
 name: Proud
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 138666
 ---
 We had a quarrel the other day
 And I just let you walk away

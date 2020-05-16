@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6UjfByV1lDLW0SOVQA4NAi
 features: []
-genres: []
+first_released_as_single: false
 key: gyalchester-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/gyalchester.html
 name: Gyalchester
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-07-01'
+release_year: 2017
+runtime: 189229
 ---
-
 HermÃ¨s link, ice-blue mink
 Tat on my ribs like I do not know what permanent is
 They want me gone, wait for the kicker
@@ -99,6 +103,3 @@ Tat on my ribs like I do not know what permanent is
 They want me gone, wait for the kicker
 Bury me now and I only get bigger
 That's word to my nigga
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Noel
 artists:
 - Noel
+external_ids:
+  spotify: spotify:track:1L1qK9Wq5jkYSmYSayuKRv
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-child-noel
 lyrics_url: https://genius.com/Noel-like-a-child-lyrics
 name: Like A Child
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1988
+runtime: 320640
 ---
 Hey girl, you got me walking in the dark
 I've got a feeling that my heart is just your game

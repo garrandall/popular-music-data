@@ -1,8 +1,11 @@
 ---
+album: Tonight
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:2vafeA2kp9ldDJTfm21uVA
 features: []
-genres: []
+first_released_as_single: true
 key: tonight-david-bowie
 lyrics_url: https://genius.com/David-bowie-the-stars-are-out-tonight-lyrics
 name: Tonight
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1984
+runtime: 225440
 ---
 Stars are never sleeping
 Dead ones and the living

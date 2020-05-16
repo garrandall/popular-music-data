@@ -1,8 +1,11 @@
 ---
+album: The Raw & The Cooked
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:4d6eqRtpDX7tydHJGDZUBQ
 features: []
-genres: []
+first_released_as_single: false
 key: she-drives-me-crazy-fine-young-cannibals
 lyrics_url: https://www.musixmatch.com/lyrics/Fine-Young-Cannibals/She-Drives-Me-Crazy
 name: She Drives Me Crazy
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1988
+runtime: 215773
 ---
 I can't stop
 The way I feel

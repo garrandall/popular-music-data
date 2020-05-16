@@ -1,8 +1,11 @@
 ---
+album: Bad Girls
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:27vdeVlzt3VEc82hK39T8B
 features: []
-genres: []
+first_released_as_single: false
 key: dim-all-the-lights-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/dimallthelights.html
 name: Dim All The Lights
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 280800
 ---
-
 Dim all the lights sweet darling
 Cause tonight it's all the way
 Turn up the old victrola
@@ -149,6 +153,3 @@ Turn up the old victrola
 Gonna dance the night away, hey baby
 Dim all the lights sweet darlin'
 Dim all the lights sweet honey...
-
-
-

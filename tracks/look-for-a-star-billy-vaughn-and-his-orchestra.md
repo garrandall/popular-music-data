@@ -1,8 +1,11 @@
 ---
+album: World Music Vol. 8
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:5G6cz5hVvncr4ZyUHmnaYr
 features: []
-genres: []
+first_released_as_single: false
 key: look-for-a-star-billy-vaughn-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vaughn/Look-for-a-Star
 name: Look For A Star
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 131800
 ---
 When life doesn't seem worth the living
 And you don't really care who you are

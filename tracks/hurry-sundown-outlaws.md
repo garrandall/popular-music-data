@@ -1,8 +1,11 @@
 ---
+album: Hurry Sundown
 artists:
 - Outlaws
+external_ids:
+  spotify: spotify:track:5iAngQMc9tl0iYqruDVEGC
 features: []
-genres: []
+first_released_as_single: false
 key: hurry-sundown-outlaws
 lyrics_url: https://www.azlyrics.com/lyrics/outlaws/hurrysundown.html
 name: Hurry Sundown
@@ -27,8 +30,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 245533
 ---
-
 Gypsies danced around the campfire, shook their tambourines
 They were waiting for the ghost of an outlaw, Sundown was his name
 As the midnight hour grew closer and the sky began to fall
@@ -64,6 +68,3 @@ Oh, hurry Sundown
 Oh, hurry Sundown
 Oh, hurry Sundown
 Oh, hurry Sundown
-
-
-

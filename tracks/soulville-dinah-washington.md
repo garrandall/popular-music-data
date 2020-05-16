@@ -1,8 +1,11 @@
 ---
+album: The Complete Roulette Collection
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:4lQ73vQO71CmNZVYZWPOm1
 features: []
-genres: []
+first_released_as_single: false
 key: soulville-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-soulville-lyrics
 name: Soulville
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1942
+runtime: 145706
 ---
 Come on and
 Show me the way

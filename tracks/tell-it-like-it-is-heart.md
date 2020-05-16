@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:2F1tiSvwwzEpMyEEfVGyaA
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-like-it-is-heart
 lyrics_url: https://genius.com/Heart-tell-it-like-it-is-lyrics
 name: Tell It Like It Is
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1980
+runtime: 269706
 ---
 If you want something to play with
 Go and find yourself a toy

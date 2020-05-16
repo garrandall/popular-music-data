@@ -1,8 +1,11 @@
 ---
+album: If I Ever Fall In Love
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:3xSu3S8v206qwhob9N2LGJ
 features: []
-genres: []
+first_released_as_single: false
 key: yours-shai
 lyrics_url: https://genius.com/Shai-baby-im-yours-lyrics
 name: Yours
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1992
+runtime: 274666
 ---
 Understand, girl
 That my heart is in your hands

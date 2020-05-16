@@ -1,10 +1,13 @@
 ---
+album: Teflon Don
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:5W7xC99N2Zzfh69r7I7zWK
 features:
 - Drake
 - Chrisette Michele
-genres: []
+first_released_as_single: false
 key: aston-martin-music-rick-ross-drake-chrisette-michele
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/astonmartinmusic.html
 name: Aston Martin Music
@@ -89,12 +92,13 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2010
+runtime: 270626
 ---
-
 Let's pull the two-seater out, baby
 It's wherever you wanna go
 Jessy
-RosÃ©
+Rosé
 
 
 Riding to the music this is how we do it all night (all night)
@@ -115,7 +119,7 @@ When I'm alone in my room sometimes I stare at the wall
 Automatic weapons on the floor but who can you call?
 My down bitch one who live by the code
 Put this music shit aside get it in on the road
-A lot of quiet time pink bottles of RosÃ©
+A lot of quiet time pink bottles of Rosé
 Exotic red bottoms whole body glittered in gold
 Following fundamentals and following in a rental
 I love a nasty girl whose swallow is on the menu
@@ -221,6 +225,3 @@ I just needed time to do what I had to do
 Caught in the life I can't let it go
 Whether that's right I will never know
 But here goes nothing.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Long Hard Climb
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:53RGKUb4zvhHaDCmjgUrIP
 features: []
-genres: []
+first_released_as_single: false
 key: delta-dawn-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/deltadawn.html
 name: Delta Dawn
@@ -87,8 +90,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 190506
 ---
-
 Delta Dawn, what's that flower you have on?
 Could it be a faded rose from days gone by?
 And did I hear you say he was a-meeting you here today
@@ -123,6 +127,3 @@ Delta Dawn, what's that flower you have on?
 Could it be a faded rose from days gone by?
 And did I hear you say he was a-meeting you here today
 To take you to his mansion in the sky?
-
-
-

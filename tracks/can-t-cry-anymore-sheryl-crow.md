@@ -1,8 +1,11 @@
 ---
+album: Tuesday Night Music Club
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:2gLvsQQ2mA1HeRF30Epg3E
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-cry-anymore-sheryl-crow
 lyrics_url: https://genius.com/Sheryl-crow-cant-cry-anymore-lyrics
 name: Can't Cry Anymore
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1993
+runtime: 221840
 ---
 Took your car
 Drove to Texas

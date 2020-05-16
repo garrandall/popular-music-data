@@ -1,8 +1,11 @@
 ---
+album: It Was Almost Like A Song
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:4sxet9Zdu2Z9hdhAKbjlNI
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-difference-you-ve-made-in-my-life-ronnie-milsap
 lyrics_url: https://genius.com/Ronnie-milsap-what-a-difference-youve-made-in-my-life-lyrics
 name: What A Difference You've Made In My Life
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1977
+runtime: 241080
 ---
 What a difference you've made in my life
 What a difference you've made in my life

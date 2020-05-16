@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - The Swon Brothers
+external_ids:
+  spotify: spotify:track:33HsGrbLFuVLg18e1zJ1Gc
 features: []
-genres: []
+first_released_as_single: false
 key: turn-the-page-the-swon-brothers
 lyrics_url: https://genius.com/The-swon-brothers-turn-the-page-lyrics
 name: Turn The Page
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 217453
 ---
 On a long and lonesome highway, east of Omaha
 You can listen to the engine moanin' out his one note song

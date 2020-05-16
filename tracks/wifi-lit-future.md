@@ -1,8 +1,11 @@
 ---
+album: BEASTMODE 2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:6WlxcZKpEV6Bwe9InoVhMp
 features: []
-genres: []
+first_released_as_single: false
 key: wifi-lit-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/wifilit.html
 name: Wifi Lit
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 176630
 ---
-
 Woah, woah, woah
 
 Gone in the sky, over 20, 000
@@ -86,6 +90,3 @@ JB, know I mean
 , I got you
 You hear me
 Let's go!
-
-
-

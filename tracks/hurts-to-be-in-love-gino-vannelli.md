@@ -1,8 +1,11 @@
 ---
+album: Black Cars (Bonus Track Version)
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:2dbkfUrtHshSSXviUVFxn1
 features: []
-genres: []
+first_released_as_single: false
 key: hurts-to-be-in-love-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/hurtstobeinlove.html
 name: Hurts To Be In Love
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
+release_year: 1985
+runtime: 221640
 ---
-
 More and more
 Your kiss is like a half opened door
 I can't get in
@@ -85,6 +89,3 @@ I tell you it hurts to be in love
 It hurts
 Baby it hurts
 It hurts
-
-
-

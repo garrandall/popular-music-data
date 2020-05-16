@@ -1,8 +1,11 @@
 ---
+album: No More Games/The Remix Album
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:2m6RaRxDV9FGr7jDXVJora
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-it--the-right-stuff--new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-you-got-it-the-right-stuff-lyrics
 name: You Got It (The Right Stuff)
@@ -111,6 +114,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1986
+runtime: 249066
 ---
 The right stuff
 The right stuff

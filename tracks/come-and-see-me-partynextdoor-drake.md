@@ -1,9 +1,12 @@
 ---
+album: PARTYNEXTDOOR 3 (P3)
 artists:
 - PARTYNEXTDOOR
+external_ids:
+  spotify: spotify:track:3dBveK0fmnxbiXXgAX6lau
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: come-and-see-me-partynextdoor-drake
 lyrics_url: https://www.azlyrics.com/lyrics/partynextdoor/comeandseeme.html
 name: Come And See Me
@@ -104,9 +107,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 235477
 ---
-
-
 Doesn't make sense now
 Shit just got real, things are gettin' intense now
 I hear you talkin' 'bout "we" a lot, oh, you speak French now?
@@ -165,6 +168,3 @@ You don't ever come to me, you don't ever come to me"
 All she hit me with is, "Come and see me for once
 Come and see me for once
 You don't ever come to me, you don't ever come to me"
-
-
-

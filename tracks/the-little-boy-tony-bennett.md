@@ -1,8 +1,11 @@
 ---
+album: The Many Moods Of Tony
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:4RpzG7AtTknnq1yGNSmo3w
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-boy-tony-bennett
 name: The Little Boy
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 144400
 ---
 

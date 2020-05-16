@@ -1,8 +1,11 @@
 ---
+album: Live at Royal Albert Hall 1971
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:6I9Xt4AlsHnW5YGjbtBinf
 features: []
-genres: []
+first_released_as_single: false
 key: you-ain-t-going-nowhere-the-byrds
 lyrics_url: https://www.musixmatch.com/lyrics/The-Byrds/You-Ain-t-Going-Nowhere
 name: You Ain't Going Nowhere
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 155000
 ---
 Clouds so swift
 Rain won't lift

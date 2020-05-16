@@ -1,8 +1,11 @@
 ---
+album: Don't Tread
 artists:
 - Damn Yankees
+external_ids:
+  spotify: spotify:track:0K8zdeJUa5K8Ky6Udkweo8
 features: []
-genres: []
+first_released_as_single: false
 key: silence-is-broken-damn-yankees
 lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/silenceisbroken.html
 name: Silence Is Broken
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
+release_year: 1992
+runtime: 302160
 ---
-
 Never again
 You say the words and let
 The sunshine in again
@@ -107,6 +111,3 @@ The truth has been spoken
 And with every word you say
 You blow away
 The scene of another crime
-
-
-

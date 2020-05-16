@@ -1,8 +1,11 @@
 ---
+album: Faithful
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:1zA373GE8G4BOhIaBUga1x
 features: []
-genres: []
+first_released_as_single: false
 key: good-vibrations-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/goodvibrations.html
 name: Good Vibrations
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
+release_year: 1976
+runtime: 224266
 ---
-
 I love the colorful clothes she wears
 And the way the sunlight plays upon her hair
 I hear the sound of a gentle word
@@ -64,6 +68,3 @@ Oh my my, what elation
 
 Got to keep those loving good vibrations
 Happening with her
-
-
-

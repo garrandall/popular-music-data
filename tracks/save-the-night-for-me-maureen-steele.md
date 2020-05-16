@@ -1,8 +1,11 @@
 ---
+album: Nature of the Beast
 artists:
 - Maureen Steele
+external_ids:
+  spotify: spotify:track:02kLsFtDarrR3xZldeerbL
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-night-for-me-maureen-steele
 lyrics_url: https://genius.com/Maureen-steele-save-the-night-for-me-lyrics
 name: Save The Night For Me
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1985
+runtime: 203530
 ---
 No one ever told me
 Love could hurt like this

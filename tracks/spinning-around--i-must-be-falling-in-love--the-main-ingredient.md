@@ -1,8 +1,11 @@
 ---
+album: Tasteful Soul
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:3QVDARn7y6a1k4ujsOxLLP
 features: []
-genres: []
+first_released_as_single: false
 key: spinning-around--i-must-be-falling-in-love--the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-spinning-around-i-must-be-falling-in-love-lyrics
 name: Spinning Around (I Must Be Falling In Love)
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1970
+runtime: 189866
 ---
 I'm spinning around and around oh
 I'm walking on cloud nine

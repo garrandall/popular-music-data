@@ -1,8 +1,11 @@
 ---
+album: Spanky's Greatest Hit(s)
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:4h8bpmpsaaDWLsgHktJn5v
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-rain-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-yesterdays-rain-lyrics
 name: Yesterday's Rain
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 201186
 ---
 Yesterday's rain
 Brings tomorrow's pain

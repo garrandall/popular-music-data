@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:5ekabwI9PFHbfc0hz6n1xi
 features: []
-genres: []
+first_released_as_single: false
 key: ding-a-ling-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-ding-a-ling-lyrics
 name: Ding-A-Ling
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 148600
 ---
 Ding dong, ding dong, ding
 I call you ding-a-ling, ya, ya

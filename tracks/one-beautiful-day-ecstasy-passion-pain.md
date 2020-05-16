@@ -1,10 +1,13 @@
 ---
+album: Ecstasy, Passion & Pain
 artists:
 - Ecstasy
 - Passion
 - Pain
+external_ids:
+  spotify: spotify:track:5HiRhIhcurYvHXXLHOYhb5
 features: []
-genres: []
+first_released_as_single: false
 key: one-beautiful-day-ecstasy-passion-pain
 name: One Beautiful Day
 rankings:
@@ -32,5 +35,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1975
+runtime: 177213
 ---
 

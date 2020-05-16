@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:5Py8zRKGkZvgHniVVtvNCN
 features: []
-genres: []
+first_released_as_single: false
 key: all-around-me-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-all-around-me-lyrics
 name: All Around Me
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 136906
 ---
 Not sure what I was doing before ya
 I quit tryna figure it out

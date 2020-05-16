@@ -1,8 +1,11 @@
 ---
+album: Marques Houston
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:08fhbfRSg7eEH0IZT7pB6a
 features: []
-genres: []
+first_released_as_single: false
 key: that-girl-marques-houston
 lyrics_url: https://genius.com/Marques-houston-that-girl-lyrics
 name: That Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2003
+runtime: 215960
 ---
 Yow, can I talk to you for a minute?
 Look, all I did was look

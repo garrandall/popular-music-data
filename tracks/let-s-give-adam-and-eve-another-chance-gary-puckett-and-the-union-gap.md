@@ -1,8 +1,11 @@
 ---
+album: Looking Glass (A Collection)
 artists:
 - Gary Puckett And The Union Gap
+external_ids:
+  spotify: spotify:track:2RXN9XJzT2TN2HyYxWnZSb
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-give-adam-and-eve-another-chance-gary-puckett-and-the-union-gap
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-lets-give-adam-and-eve-another-chance-lyrics
 name: Let's Give Adam And Eve Another Chance
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1968
+runtime: 166533
 ---
 He raised His hand and said, "They'll need a place to stand"
 And created what we now call the land

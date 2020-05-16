@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:2a5MicMFbm5eco5ctrNgCd
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-knows-the-grass-roots
 lyrics_url: https://genius.com/The-grass-roots-heaven-knows-lyrics
 name: Heaven Knows
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1969
+runtime: 144493
 ---
 With a song in my heart
 And a chance to be yours forever

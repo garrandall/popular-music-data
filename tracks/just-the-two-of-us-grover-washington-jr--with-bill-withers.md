@@ -1,9 +1,12 @@
 ---
+album: Anthology
 artists:
 - Grover Washington
 - Jr. With Bill Withers
+external_ids:
+  spotify: spotify:track:7Lk83uozmGWre1q8eyOOUP
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-two-of-us-grover-washington-jr--with-bill-withers
 lyrics_url: https://genius.com/Grover-washington-jr-just-the-two-of-us-lyrics
 name: Just The Two Of Us
@@ -104,6 +107,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-07-25'
+release_year: 1979
+runtime: 237106
 ---
 I see the crystal raindrops fall
 And the beauty of it all

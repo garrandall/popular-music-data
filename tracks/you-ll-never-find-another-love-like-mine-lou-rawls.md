@@ -1,8 +1,11 @@
 ---
+album: All Things In Time
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:2VVL5PtnPSHZnFeuWt6vS1
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-never-find-another-love-like-mine-lou-rawls
 lyrics_url: https://genius.com/Lou-rawls-youll-never-find-another-love-like-mine-lyrics
 name: You'll Never Find Another Love Like Mine
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1972
+runtime: 266346
 ---
 You'll never find, as long as you live
 Someone who loves you tender like I do

@@ -1,8 +1,11 @@
 ---
+album: Put A Little Love In Your Heart
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:6unQdpXM9KmL3ukin3WNUj
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-so-nice-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-its-so-nice-lyrics
 name: It's So Nice
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1969
+runtime: 153053
 ---
 It's so nice coming home to you
 My heart belongs

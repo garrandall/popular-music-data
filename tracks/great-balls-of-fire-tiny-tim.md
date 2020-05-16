@@ -1,8 +1,11 @@
 ---
+album: Live In Chicago
 artists:
 - Tiny Tim
+external_ids:
+  spotify: spotify:track:5iDx7i7zr3NeRaJ2Np7GLF
 features: []
-genres: []
+first_released_as_single: false
 key: great-balls-of-fire-tiny-tim
 lyrics_url: https://www.musixmatch.com/lyrics/Tiny-Tim/Great-Balls-of-Fire
 name: Great Balls Of Fire
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1969
+runtime: 110880
 ---
 You shake my nerves
 And you rattle my brain

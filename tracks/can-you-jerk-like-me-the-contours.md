@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of The Contours'
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:2HwrXACzxpTTFRbYVtOoyg
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-jerk-like-me-the-contours
 lyrics_url: https://www.azlyrics.com/lyrics/contours/canyoujerklikeme.html
 name: Can You Jerk Like Me
@@ -35,8 +38,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 149293
 ---
-
 (Oh, yeah) come on, children
 (Oh, yeah) hey
 
@@ -101,6 +105,3 @@ Come on, children
 Hey, baby
 (Can you Jerk like me)
 Come on, children now
-
-
-

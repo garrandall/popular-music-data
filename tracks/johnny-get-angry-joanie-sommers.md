@@ -1,8 +1,11 @@
 ---
+album: Johnny Get Angry
 artists:
 - Joanie Sommers
+external_ids:
+  spotify: spotify:track:1eBR9MdLUnRJRoNa3cpC92
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-get-angry-joanie-sommers
 lyrics_url: https://genius.com/Joanie-sommers-johnny-get-angry-lyrics
 name: Johnny Get Angry
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1962-08-25'
+release_year: 1962
+runtime: 156560
 ---
 Johnny I said we were through
 Just to see what you would do

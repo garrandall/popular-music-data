@@ -1,9 +1,12 @@
 ---
+album: Look At Us
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:17odnqwMkLKh7ayb8ZEmBD
 features: []
-genres: []
+first_released_as_single: false
 key: just-you-sonny-cher
 lyrics_url: https://genius.com/Sonny-and-cher-just-you-lyrics
 name: Just You
@@ -44,6 +47,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 211773
 ---
 With his big brown eyes he came my way
 I didn't know then what he had to say

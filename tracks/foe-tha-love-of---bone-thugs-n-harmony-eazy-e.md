@@ -1,9 +1,12 @@
 ---
+album: Creepin on Ah Come Up
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:1muLq1kBLWIT3pmNC2xl0g
 features:
 - Eazy-E
-genres: []
+first_released_as_single: false
 key: foe-tha-love-of---bone-thugs-n-harmony-eazy-e
 lyrics_url: https://www.azlyrics.com/lyrics/bonethugsnharmony/foethaloveof.html
 name: Foe Tha Love Of $
@@ -64,8 +67,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
+release_year: 1994
+runtime: 272440
 ---
-
 For the love of money
 Gotta make that money, man
 It's still the same now
@@ -219,6 +223,3 @@ Yeah, Bone in the motherfuckin' house for the nine-quats nigga
 Yeah, rollin' with Ruthless in this bitch
 My nigga Layzie Bone, Bizzy Bone, Wish Bone, And Flesh-n-Bone
 And I'm that nigga, Krayzie Bone, in the motherfuckin' house
-
-
-

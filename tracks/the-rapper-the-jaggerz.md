@@ -1,8 +1,11 @@
 ---
+album: We Went to Different Schools Together
 artists:
 - The Jaggerz
+external_ids:
+  spotify: spotify:track:0s1PceKn7sF0Pc8bsnDN1t
 features: []
-genres: []
+first_released_as_single: false
 key: the-rapper-the-jaggerz
 lyrics_url: https://genius.com/The-jaggerz-the-rapper-lyrics
 name: The Rapper
@@ -59,6 +62,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 162693
 ---
 Hey girl, I betcha
 There's someone out to get ya

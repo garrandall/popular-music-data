@@ -1,8 +1,11 @@
 ---
+album: Romantic World of Eddy Arnold
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:5WJ5ZhQl4nKmhXUFj6QZd4
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/itsover.html
 name: It's Over
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 182800
 ---
 If time were not a moving thing and I could make it stay this hour
 The love we share will always be there'd be no coming day

@@ -1,8 +1,11 @@
 ---
+album: Zen X Four
 artists:
 - Bush
+external_ids:
+  spotify: spotify:track:3ZoAB9gq2RGW5KdHnRvH75
 features: []
-genres: []
+first_released_as_single: false
 key: glycerine-bush
 lyrics_url: https://www.azlyrics.com/lyrics/bush/glycerine.html
 name: Glycerine
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
+release_year: 1996
+runtime: 212893
 ---
-
 It must be your skin I'm sinking in
 It must be for real 'cause now I can feel
 And I didn't mind
@@ -161,6 +165,3 @@ Glycerine
 
 Glycerine
 Glycerine
-
-
-

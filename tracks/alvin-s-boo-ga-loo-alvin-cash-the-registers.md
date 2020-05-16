@@ -1,9 +1,12 @@
 ---
+album: Windy City Workout
 artists:
 - Alvin Cash
 - The Registers
+external_ids:
+  spotify: spotify:track:2N1T9jGtCOcyE34fAdgPQC
 features: []
-genres: []
+first_released_as_single: false
 key: alvin-s-boo-ga-loo-alvin-cash-the-registers
 lyrics_url: https://www.musixmatch.com/lyrics/Alvin-Cash-The-Registers/Alvin-s-Boogaloo
 name: Alvin's Boo-Ga-Loo
@@ -32,6 +35,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 156816
 ---
 Alvin's got a boo-ga-loo, baby
 Oh wee

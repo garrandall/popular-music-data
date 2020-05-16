@@ -1,9 +1,12 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:6FtfXi8p0dycbfSFKKvyWj
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: to-the-max-dj-khaled-drake
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/tothemax.html
 name: To The Max
@@ -24,9 +27,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 193901
 ---
-
-
 Get 'em right, get 'em right...
 Another one
 Get 'em right, get 'em right...
@@ -78,6 +81,3 @@ Watch how you speak on my name, you know?
 Get 'em right, get 'em right...
 DJ Khaled!
 Another one...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The New Seekers
 artists:
 - The New Seekers
+external_ids:
+  spotify: spotify:track:2s8W12UGN0EC19m6iQWK2H
 features: []
-genres: []
+first_released_as_single: false
 key: circles-the-new-seekers
 lyrics_url: https://genius.com/The-new-seekers-circles-lyrics
 name: Circles
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1972
+runtime: 286160
 ---
 All my life's a circle
 Sunrise and sundown

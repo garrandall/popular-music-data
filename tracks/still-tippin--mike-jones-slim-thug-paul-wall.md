@@ -1,10 +1,13 @@
 ---
+album: Who Is Mike Jones?
 artists:
 - Mike Jones
+external_ids:
+  spotify: spotify:track:59rtiYOPgMEDf3yPEfU2la
 features:
 - Slim Thug
 - Paul Wall
-genres: []
+first_released_as_single: false
 key: still-tippin--mike-jones-slim-thug-paul-wall
 lyrics_url: https://www.azlyrics.com/lyrics/mikejones/stilltippin.html
 name: Still Tippin'
@@ -61,9 +64,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2005
+runtime: 271053
 ---
-
-
 Still Tippin' on four fours, wrapped in four vogues
 Tippin' on four fours, wrapped in four vogues
 Tippin' on four fours wrapped in four vogues
@@ -131,4 +134,3 @@ I got the internet going nuts
 But T. Farris got my back so now I'm holding my nuts
 It's Paul Wall baby what you know bout me
 I'm on that five nine Southle baby holla at me
-

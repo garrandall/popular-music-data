@@ -1,10 +1,13 @@
 ---
+album: Willennium
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:5AMvBCtX2rspUdoeJ9IsPN
 features:
 - Dru Hill
 - Kool Mo Dee
-genres: []
+first_released_as_single: false
 key: wild-wild-west-will-smith-dru-hill-kool-mo-dee
 lyrics_url: https://genius.com/Dru-hillwill-smithkool-mo-dee-wild-wild-west-album-version-no-intro-lyrics
 name: Wild Wild West
@@ -77,6 +80,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1999
+runtime: 268453
 ---
 Wild Wild West, Jim West, desperado, rough rider
 No you don't want nada

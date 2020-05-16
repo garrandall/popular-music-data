@@ -1,8 +1,11 @@
 ---
+album: HEARTBEAT
 artists:
 - Don Johnson
+external_ids:
+  spotify: spotify:track:5FMGNsThycGCsbAVwbWpah
 features: []
-genres: []
+first_released_as_single: false
 key: heartache-away-don-johnson
 lyrics_url: https://genius.com/Don-johnson-heartache-away-lyrics
 name: Heartache Away
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 290400
 ---
 I'm back on the street
 Baby, I'm downbeat

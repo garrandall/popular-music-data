@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: Jack Jones'
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:7nYBMEtMVLMAJQMpaQHULU
 features: []
-genres: []
+first_released_as_single: false
 key: a-day-in-the-life-of-a-fool-jack-jones
 lyrics_url: https://genius.com/Jack-jones-a-day-in-the-life-of-a-fool-lyrics
 name: A Day In The Life Of A Fool
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 141800
 ---
 A day in the life of a fool
 A sad and a long lonely day

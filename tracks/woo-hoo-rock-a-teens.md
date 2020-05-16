@@ -1,8 +1,11 @@
 ---
+album: Pecker
 artists:
 - Rock-A-Teens
+external_ids:
+  spotify: spotify:track:0WzNOvVsACcCQXr8XJXSkG
 features: []
-genres: []
+first_released_as_single: false
 key: woo-hoo-rock-a-teens
 lyrics_url: https://genius.com/The-rockateens-woo-hoo-lyrics
 name: Woo-Hoo
@@ -55,6 +58,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 129586
 ---
 Woo Hoo, Woo Hoo Hoo (vocalization)
 Spoken: yeahhhh!

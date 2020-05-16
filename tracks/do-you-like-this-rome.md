@@ -1,8 +1,11 @@
 ---
+album: Rome
 artists:
 - Rome
+external_ids:
+  spotify: spotify:track:5XpcWuM4N62zYnCRgyziAu
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-like-this-rome
 lyrics_url: https://genius.com/Rome-r-b-do-you-like-this-lyrics
 name: Do You Like This
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
+release_year: 1997
+runtime: 292160
 ---
 Ohhh
 Yes you are

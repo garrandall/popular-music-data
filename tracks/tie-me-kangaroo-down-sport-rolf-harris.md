@@ -1,8 +1,11 @@
 ---
+album: The Best Of Rolf Harris
 artists:
 - Rolf Harris
+external_ids:
+  spotify: spotify:track:7teHkhuaqXUFq2tyZ8YO4G
 features: []
-genres: []
+first_released_as_single: false
 key: tie-me-kangaroo-down-sport-rolf-harris
 lyrics_url: https://genius.com/Rolf-harris-tie-me-kangaroo-down-sport-lyrics
 name: Tie Me Kangaroo Down Sport
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 162533
 ---
 There's an old Australian stockman lying, dying
 He gets himself up onto one elbow and he turns to his mates

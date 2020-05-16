@@ -1,8 +1,11 @@
 ---
+album: Listen Like Thieves
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:4EsEfzagJPOdu15YRmptIi
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/thistime.html
 name: This Time
@@ -31,8 +34,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1985
+runtime: 189933
 ---
-
 I will believe you
 If you say it's true
 Girl you know I need you more than any
@@ -55,6 +59,3 @@ You know I can forget
 We have fought before
 I've seen inside your heart
 And I know it's breaking
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Spice
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:1yTQ39my3MoNROlFw3RDNy
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-ll-be-there-spice-girls
 lyrics_url: https://genius.com/Spice-girls-say-youll-be-there-lyrics
 name: Say You'll Be There
@@ -91,6 +94,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1996
+runtime: 235973
 ---
 Ah, say you'll be there
 I'm giving you everything

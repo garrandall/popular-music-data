@@ -1,8 +1,11 @@
 ---
+album: Nibiru
 artists:
 - Ozuna
+external_ids:
+  spotify: spotify:track:3xEozpt8pAptvpH69iJhOw
 features: []
-genres: []
+first_released_as_single: false
 key: amor-genuino-ozuna
 lyrics_url: https://genius.com/Ozuna-amor-genuino-lyrics
 name: Amor Genuino
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 178160
 ---
 (Oh, oh; Hydro; Ozuna; oh, oh)
 

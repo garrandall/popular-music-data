@@ -1,8 +1,11 @@
 ---
+album: Heartbreaker
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:5D2K89gGQA9fzWUlwxtHow
 features: []
-genres: []
+first_released_as_single: false
 key: take-the-short-way-home-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/taketheshortwayhome.html
 name: Take The Short Way Home
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1982
+runtime: 233906
 ---
-
 Take the short way home
 
 You've been makin' up your mind
@@ -138,6 +142,3 @@ In this world of evil
 I can't keep you to myself
 
 Take the short way home
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Descendants (Original TV Movie Soundtrack)
 artists:
 - Dove Cameron
+external_ids:
+  spotify: spotify:track:1mRBJdpIgc3jZH8C3cN2WV
 features: []
-genres: []
+first_released_as_single: false
 key: if-only-dove-cameron
 lyrics_url: https://www.azlyrics.com/lyrics/dovecameron/ifonly.html
 name: If Only
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-08-29'
+release_year: 2015
+runtime: 229813
 ---
-
 A million thoughts in my head
 Should I let my heart keep listening?
 Cause up 'til now I've walked the line
@@ -66,6 +70,3 @@ If only, yeah
 If only, yeah
 If only, if only
 If only
-
-
-

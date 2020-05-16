@@ -1,8 +1,11 @@
 ---
+album: Cracked Rear View
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:1N0UflnZhn7xOkrN2l8zxx
 features: []
-genres: []
+first_released_as_single: false
 key: time-hootie-the-blowfish
 lyrics_url: https://genius.com/Hootie-and-the-blowfish-time-lyrics
 name: Time
@@ -111,6 +114,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1994
+runtime: 296840
 ---
 Time, why you punish me?
 Like a wave crashing into the shore

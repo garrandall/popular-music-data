@@ -1,8 +1,11 @@
 ---
+album: Always Never The Same
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:6WLe7a3YFhYYLn9elhytsJ
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-you-say-to-that-george-strait
 lyrics_url: https://genius.com/George-strait-what-do-you-say-to-that-lyrics
 name: What Do You Say To That
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1999
+runtime: 180066
 ---
 You're like the warm sunshine, I think of you all the time
 I've fallen for you and that's a fact, what do you say to that

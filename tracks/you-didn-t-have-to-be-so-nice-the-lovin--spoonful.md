@@ -1,8 +1,11 @@
 ---
+album: Daydream
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:3GNPDi8igS9svIk2KRsdwN
 features: []
-genres: []
+first_released_as_single: false
 key: you-didn-t-have-to-be-so-nice-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-you-didnt-have-to-be-so-nice-lyrics
 name: You Didn't Have To Be So Nice
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 146640
 ---
 You didn't have to be so nice
 I would have liked you anyway

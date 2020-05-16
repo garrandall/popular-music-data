@@ -1,8 +1,11 @@
 ---
+album: Ultra
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:7oIX36R9I0GIOX6O5gHaEf
 features: []
-genres: []
+first_released_as_single: true
 key: home-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/home.html
 name: Home
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
+release_year: 1997
+runtime: 346040
 ---
-
 Here is a song
 From the wrong side of town
 Where I'm bound
@@ -71,6 +75,3 @@ For showing me home
 For singing these tears
 Finally I've found
 That I belong here
-
-
-

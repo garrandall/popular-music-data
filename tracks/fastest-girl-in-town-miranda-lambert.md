@@ -1,8 +1,11 @@
 ---
+album: Four The Record
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:6sXK2Fq7Ibi3SN6qYyQgIG
 features: []
-genres: []
+first_released_as_single: false
 key: fastest-girl-in-town-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-fastest-girl-in-town-lyrics
 name: Fastest Girl In Town
@@ -83,6 +86,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2011
+runtime: 197600
 ---
 You’ve got the bullets
 I got the gun

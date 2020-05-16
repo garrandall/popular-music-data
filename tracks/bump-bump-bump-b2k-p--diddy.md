@@ -1,9 +1,12 @@
 ---
+album: 90's Groove, Vol.1
 artists:
 - B2K
 - P. Diddy
+external_ids:
+  spotify: spotify:track:1FKiaHYTYW2SVeDiwqnhMB
 features: []
-genres: []
+first_released_as_single: false
 key: bump-bump-bump-b2k-p--diddy
 lyrics_url: https://www.azlyrics.com/lyrics/b2k/bumpbumpbump.html
 name: Bump Bump Bump
@@ -96,9 +99,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 1997
+runtime: 277773
 ---
-
-
 We sending this out to all the ladies all over the world
 All the ladies all over the world
 All my sexy mamas come on
@@ -239,6 +242,3 @@ Lets go
 And another one
 
 Its pandamonium baby
-
-
-

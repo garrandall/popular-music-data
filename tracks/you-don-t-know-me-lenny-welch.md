@@ -1,8 +1,11 @@
 ---
+album: Since I Fell for You
 artists:
 - Lenny Welch
+external_ids:
+  spotify: spotify:track:2WImCreHsqAJzgmy5qbNxa
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-me-lenny-welch
 lyrics_url: https://www.musixmatch.com/lyrics/Lenny-Welch/You-Don-t-Know-Me
 name: You Don't Know Me
@@ -59,6 +62,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 166626
 ---
 You give your hand to me
 And then you say hello

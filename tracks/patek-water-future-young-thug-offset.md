@@ -1,10 +1,13 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
 - Young Thug
+external_ids:
+  spotify: spotify:track:7r6LNJT2LqpLpEyZQJPygt
 features:
 - Offset
-genres: []
+first_released_as_single: false
 key: patek-water-future-young-thug-offset
 lyrics_url: https://www.azlyrics.com/lyrics/future/patekwater.html
 name: Patek Water
@@ -25,9 +28,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 189480
 ---
-
-
 Go back to what we been through
 We don't wanna go back to what we been through
 Southside
@@ -99,6 +102,3 @@ We don't wanna go back to what we been through
 We just wanna go snatch a nigga's sunroof
 We don't wanna go back to what we been through
 We don't wanna go back, don't go back
-
-
-

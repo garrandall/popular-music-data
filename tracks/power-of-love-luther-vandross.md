@@ -1,8 +1,11 @@
 ---
+album: Power Of Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:6ep87j7rt6j8Fok55N9NOs
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/poweroflovelovepower.html
 name: Power Of Love
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1991
+runtime: 402413
 ---
-
 When I say goodbye it is never for long
 'Cause I know our love still lives on
 It will be again exactly like it was
@@ -137,6 +141,3 @@ So glad we've found it, now there's no way around it
 Just let the feeling sweep you off your feet
 
 You've got to believe in love
-
-
-

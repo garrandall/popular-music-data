@@ -1,8 +1,11 @@
 ---
+album: 18 Til I Die
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:6a5Gi94rOk6cpK5NDk1s1x
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-really-loved-a-woman--bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-have-you-ever-really-loved-a-woman-lyrics
 name: Have You Ever Really Loved A Woman?
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1995
+runtime: 293173
 ---
 To really love a woman
 To understand her - You gotta know her deep inside

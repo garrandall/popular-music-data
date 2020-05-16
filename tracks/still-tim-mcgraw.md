@@ -1,8 +1,11 @@
 ---
+album: Southern Voice
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:6xZ3fQFc5MtlUofBqtsUgA
 features: []
-genres: []
+first_released_as_single: false
 key: still-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-still-lyrics
 name: Still
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 224146
 ---
 There's a place I like to go
 Where I can here the cotton grow

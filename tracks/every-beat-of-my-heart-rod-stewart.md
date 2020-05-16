@@ -1,8 +1,11 @@
 ---
+album: Every Beat of My Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:7AFYQ5pNtS4I98PvFXkvid
 features: []
-genres: []
+first_released_as_single: false
 key: every-beat-of-my-heart-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/everybeatofmyheart.html
 name: Every Beat Of My Heart
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-01-03'
+release_year: 1986
+runtime: 318533
 ---
-
 Through these misty eyes
 I see lonely skies
 Lonely road to Babylon
@@ -73,7 +77,3 @@ Cheer a while the Emerald Isle
 And to the northern lights
 And the swirling pipes
 How they make a grown man cry
-
-
-
-

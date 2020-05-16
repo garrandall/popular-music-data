@@ -1,8 +1,11 @@
 ---
+album: Characters
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:05vHkcYBbTgZ1mmRlzjKd0
 features: []
-genres: []
+first_released_as_single: false
 key: skeletons-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/skeletons.html
 name: Skeletons
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
+release_year: 1987
+runtime: 324573
 ---
-
 Skeletons in your closet
 Itchin' to come outside
 Messin' with your conscience
@@ -154,6 +158,3 @@ You're gettin' ready to lie
 They're gettin' ready to spy
 Somebody' s been put on the hot seat
 And you're gettin' ready to fry
-
-
-

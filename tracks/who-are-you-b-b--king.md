@@ -1,8 +1,11 @@
 ---
+album: To Know You Is To Love You
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:5knDBY73wojaUs7PfL9wX8
 features: []
-genres: []
+first_released_as_single: false
 key: who-are-you-b-b--king
 lyrics_url: https://genius.com/Bb-king-who-are-you-lyrics
 name: Who Are You
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1973
+runtime: 236640
 ---
 We've met before
 In the same room of my imagination

@@ -1,8 +1,11 @@
 ---
+album: '8701'
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5PCJldueshnwqQVjS16543
 features: []
-genres: []
+first_released_as_single: false
 key: u-don-t-have-to-call-usher
 lyrics_url: https://genius.com/Usher-u-dont-have-to-call-lyrics
 name: U Don't Have To Call
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-08-03'
+release_year: 2001
+runtime: 269400
 ---
 Yo, after tonight...
 Don't leave your girl around me, true playa for real

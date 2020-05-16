@@ -1,8 +1,11 @@
 ---
+album: Keyed Up
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:1nB1e9M5IQ51aITRslHa3P
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-my-house-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/strangerinmyhouse.html
 name: Stranger In My House
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 251706
 ---
-
 There's a silence here between us
 I've never heard before
 And I can't find the love
@@ -116,6 +120,3 @@ Stranger in my house
 Somebody here trying to take her away
 Stranger in my house
 Somebody here trying to take her away from me
-
-
-

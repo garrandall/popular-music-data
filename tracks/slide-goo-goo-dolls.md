@@ -1,8 +1,11 @@
 ---
+album: Dizzy up the Girl
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:0nnwn7LWHCAu09jfuH1xTA
 features: []
-genres: []
+first_released_as_single: false
 key: slide-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/slide.html
 name: Slide
@@ -147,8 +150,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
+release_year: 1998
+runtime: 212066
 ---
-
 Could you whisper in my ear
 The things you wanna feel
 I'd give you anythin'
@@ -214,6 +218,3 @@ Yeah, slide between the sheets of all them beds you never knew
 Why don't you slide into my room
 Just slide into my room
 Oh, we'll run away, run away, run away
-
-
-

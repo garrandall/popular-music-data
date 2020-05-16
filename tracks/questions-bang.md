@@ -1,8 +1,11 @@
 ---
+album: Bang
 artists:
 - Bang
+external_ids:
+  spotify: spotify:track:7i5sRkZOapRitdiOA9et3O
 features: []
-genres: []
+first_released_as_single: false
 key: questions-bang
 lyrics_url: https://genius.com/Bang-questions-lyrics
 name: Questions
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 227120
 ---
 Have you ever felt the night
 Felt the wind around you

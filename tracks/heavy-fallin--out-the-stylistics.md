@@ -1,8 +1,11 @@
 ---
+album: Stylistics Live In Norfolk
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:7N3Cng5VEGSnL43J7MtBet
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-fallin--out-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/heavyfallinout.html
 name: Heavy Fallin' Out
@@ -51,8 +54,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 316360
 ---
-
 Breakin' up can really break you down, my love
 Shake you up and turn your world around, my love
 Lots of things in life, it's true, you can do without
@@ -153,6 +157,3 @@ Heavy fallin' out
 Heavy fallin' out
 Heavy fallin' out
 Heavy fallin' out
-
-
-

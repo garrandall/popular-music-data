@@ -1,8 +1,11 @@
 ---
+album: Soul Provider
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:3eHI3hhpJIdhuKVG7EIEjo
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-we-be-lovers-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/howcanwebelovers.html
 name: How Can We Be Lovers
@@ -79,9 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
+release_year: 1987
+runtime: 234893
 ---
-
-
 How can we be lovers if we can't be friends
 How can we start over when the fighting never ends
 Baby, how can we make love if we can't make amends
@@ -109,4 +112,3 @@ Whoa, whoa, gotta stop this love from dying
 Baby, love is tough but we can take it
 Baby, times are rough but we can make it
 We can work it out
-

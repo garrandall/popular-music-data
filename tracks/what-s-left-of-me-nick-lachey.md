@@ -1,8 +1,11 @@
 ---
+album: What's Left Of Me
 artists:
 - Nick Lachey
+external_ids:
+  spotify: spotify:track:1bPqAXwNiVcM6zjJU1Z4Cd
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-left-of-me-nick-lachey
 lyrics_url: https://www.azlyrics.com/lyrics/nicklachey/whatsleftofme.html
 name: What's Left Of Me
@@ -107,8 +110,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2006
+runtime: 244666
 ---
-
 Watch my life,
 Pass me by,
 In the rear view mirror
@@ -165,6 +169,3 @@ Just running in circles in my mind
 Will you take what's left
 Will you take what's left
 Will you take what's left of me?
-
-
-

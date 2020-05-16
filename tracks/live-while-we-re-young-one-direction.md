@@ -1,8 +1,11 @@
 ---
+album: 'Take Me Home: Yearbook Edition'
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:6xzQyj2RwNB839HTJNFC75
 features: []
-genres: []
+first_released_as_single: true
 key: live-while-we-re-young-one-direction
 lyrics_url: https://genius.com/One-direction-live-while-were-young-lyrics
 name: Live While We're Young
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2012
+runtime: 198946
 ---
 Hey girl, I'm waiting on you, I'm waiting on you
 Come on and let me sneak you out

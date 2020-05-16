@@ -1,8 +1,11 @@
 ---
+album: 'Hits Singles: Collectors Series'
 artists:
 - The Duprees
+external_ids:
+  spotify: spotify:track:6E9EAew6zHWxbg5pq4vGB6
 features: []
-genres: []
+first_released_as_single: false
 key: you-belong-to-me-the-duprees
 lyrics_url: https://genius.com/The-duprees-you-belong-to-me-lyrics
 name: You Belong To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 170124
 ---
 See the pyramids along the Nile
 Watch the sun rise on a tropic isle

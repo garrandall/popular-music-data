@@ -1,9 +1,12 @@
 ---
+album: Through the Storm
 artists:
 - Aretha Franklin
 - Elton John
+external_ids:
+  spotify: spotify:track:2xTzFWaVvNzmz1JXbhOt64
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-storm-aretha-franklin-elton-john
 lyrics_url: https://genius.com/Aretha-franklin-and-elton-john-through-the-storm-lyrics
 name: Through The Storm
@@ -52,6 +55,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1989
+runtime: 261254
 ---
 In this world it's hard
 You know

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The American Breed
 artists:
 - The American Breed
+external_ids:
+  spotify: spotify:track:3iKdFWpI7JMOwMKm4ziYD9
 features: []
-genres: []
+first_released_as_single: false
 key: ready-willing-and-able-the-american-breed
 lyrics_url: https://genius.com/The-american-breed-ready-willing-and-able-lyrics
 name: Ready Willing and Able
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 149840
 ---
 Right now, you're hung up on someone
 Who really don't need you

@@ -1,10 +1,13 @@
 ---
+album: I'm A Fool
 artists:
 - Dino
 - Desi
 - Billy
+external_ids:
+  spotify: spotify:track:54eajp10qPgjUCiD2Ds9jk
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-fool-dino-desi-billy
 lyrics_url: https://genius.com/Dino-desi-and-billy-im-a-fool-lyrics
 name: I'm A Fool
@@ -57,6 +60,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 169666
 ---
 You know where I can be found
 Don't you know I'll be waiting

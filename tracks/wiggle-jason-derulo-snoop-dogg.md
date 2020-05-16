@@ -1,9 +1,12 @@
 ---
+album: Talk Dirty
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:2sLwPnIP3CUVmIuHranJZU
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: wiggle-jason-derulo-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/wiggle.html
 name: Wiggle
@@ -92,8 +95,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2013
+runtime: 193295
 ---
-
 Hey, yo, Jason
 Say somethin' to her
 Holla at her
@@ -193,6 +197,3 @@ No hands baby, make it clap, clap, clap
 (Like swing)
 
 Damn, baby, you got a bright future behind you
-
-
-

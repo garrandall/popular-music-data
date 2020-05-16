@@ -1,8 +1,11 @@
 ---
+album: Cross My Heart
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:3Qeex7BpDbgTX6SFRYfucN
 features: []
-genres: []
+first_released_as_single: false
 key: how-nice-it-is-billy-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Stewart/How-Nice-It-Is
 name: How Nice It Is
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 189226
 ---
 How nice it is to be back home
 How nice it is to have

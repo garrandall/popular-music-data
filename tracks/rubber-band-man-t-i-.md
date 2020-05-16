@@ -1,8 +1,11 @@
 ---
+album: Trap Muzik
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:5Rkbnhwkb6oiqq1HQcXirN
 features: []
-genres: []
+first_released_as_single: false
 key: rubber-band-man-t-i-
 lyrics_url: https://genius.com/Ti-rubber-band-man-lyrics
 name: Rubber Band Man
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
+release_year: 2003
+runtime: 347506
 ---
 (Ay, who I be?)
 Rubberband man, wild as the Taliban

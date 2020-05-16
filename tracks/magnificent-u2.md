@@ -1,8 +1,11 @@
 ---
+album: No Line On The Horizon
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:47z5v7hkOTuvb82F0FWALC
 features: []
-genres: []
+first_released_as_single: false
 key: magnificent-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/magnificent.html
 name: Magnificent
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2009
+runtime: 324013
 ---
-
 Magnificent
 Oh, oh, Magnificent
 
@@ -36,6 +40,3 @@ And only love, only love can leave such a scar
 
 Just a fire, till we die, you and I will magnify
 Oh magnificent, magnificent
-
-
-

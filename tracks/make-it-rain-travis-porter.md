@@ -1,8 +1,11 @@
 ---
+album: From Day 1
 artists:
 - Travis Porter
+external_ids:
+  spotify: spotify:track:6QgFh2tGdfllis9P4POJ68
 features: []
-genres: []
+first_released_as_single: true
 key: make-it-rain-travis-porter
 lyrics_url: https://www.azlyrics.com/lyrics/travisporter/makeitrain.html
 name: Make It Rain
@@ -31,9 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2010
+runtime: 240047
 ---
-
-
 You wanna see some ass
 I wanna see sum cash
 Keep dem dollars comin
@@ -152,6 +155,3 @@ Make it rain trick
  I'm I'm make it rain bitch
 Make it rain trick
  I'm I'm make it rain bitch
-
-
-

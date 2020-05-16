@@ -1,8 +1,11 @@
 ---
+album: Hell On Heels
 artists:
 - Pistol Annies
+external_ids:
+  spotify: spotify:track:0sgnJ5LFjEy2IuQ99NEZ1C
 features: []
-genres: []
+first_released_as_single: false
 key: hell-on-heels-pistol-annies
 lyrics_url: https://www.azlyrics.com/lyrics/pistolannies/hellonheels.html
 name: Hell On Heels
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
+release_year: 2011
+runtime: 194386
 ---
-
 I'm hell on heels
 Say what you will
 I've done made the devil a deal
@@ -60,6 +64,3 @@ He made me pretty
 He made me smart
 I'm gonna break me a million hearts
 I'm hell on heels, Sugar Daddy I'm comin' for you!
-
-
-

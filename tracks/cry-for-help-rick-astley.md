@@ -1,8 +1,11 @@
 ---
+album: Free
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:46L7QPDXvEPoTLCHZwmZms
 features: []
-genres: []
+first_released_as_single: false
 key: cry-for-help-rick-astley
 lyrics_url: https://www.azlyrics.com/lyrics/rickastley/cryforhelp.html
 name: Cry For Help
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1991
+runtime: 291800
 ---
-
 She's taken my time
 Convinced me she's fine
 But when she leaves
@@ -175,6 +179,3 @@ Cry for help is all I need
 Put your trust in me
 All I need is a cry for help
 My love is gonna set you free
-
-
-

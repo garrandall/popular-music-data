@@ -1,8 +1,11 @@
 ---
+album: Eye Candy
 artists:
 - Mis-Teeq
+external_ids:
+  spotify: spotify:track:3fptXQbkawHJNXANV2y0t5
 features: []
-genres: []
+first_released_as_single: false
 key: scandalous-mis-teeq
 lyrics_url: https://www.azlyrics.com/lyrics/misteeq/scandalous.html
 name: Scandalous
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-09-04'
+release_year: 2003
+runtime: 238560
 ---
-
 So, so, so scandalous
 
 You're dangerous
@@ -180,6 +184,3 @@ You know you wanna sing with us (baby)
 That's why you know you should be scared of us (baby)
 You know you wanna sing with us (baby)
 That's why you know you should be scared of us (baby)
-
-
-

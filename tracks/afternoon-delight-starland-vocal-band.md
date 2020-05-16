@@ -1,8 +1,11 @@
 ---
+album: Starland Vocal Band
 artists:
 - Starland Vocal Band
+external_ids:
+  spotify: spotify:track:3uLk0uQ4zMS26h89Of8XOD
 features: []
-genres: []
+first_released_as_single: false
 key: afternoon-delight-starland-vocal-band
 lyrics_url: https://www.azlyrics.com/lyrics/starlandvocalband/afternoondelight.html
 name: Afternoon Delight
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1976
+runtime: 193040
 ---
-
 Gonna find my baby, gonna hold her tight
 Gonna grab some afternoon delight
 My motto's always been "When it's right, it's right"
@@ -130,6 +134,3 @@ Afternoon delight
 Afternoon delight
 Afternoon delight
 Afternoon delight
-
-
-

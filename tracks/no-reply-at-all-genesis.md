@@ -1,8 +1,11 @@
 ---
+album: Abacab
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0aeUuMypcIbr5y2oQUKyBV
 features: []
-genres: []
+first_released_as_single: false
 key: no-reply-at-all-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/noreplyatall.html
 name: No Reply At All
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1981
+runtime: 273786
 ---
-
 Talk to me, you never talk to me.
 Oh, it seems that I can speak.
 But I can hear my voice shouting out.
@@ -134,6 +138,3 @@ No reply at all.
 
 Is anybody listening - oh oh,
 No reply at all...
-
-
-

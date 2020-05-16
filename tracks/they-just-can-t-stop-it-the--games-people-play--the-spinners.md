@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:6IBPzyh7XTASQswD0coJN7
 features: []
-genres: []
+first_released_as_single: false
 key: they-just-can-t-stop-it-the--games-people-play--the-spinners
 lyrics_url: https://www.musixmatch.com/lyrics/The-Spinners/They-Just-Can-t-Stop-It-the-Games-People-Play
 name: They Just Can't Stop It the (Games People Play)
@@ -79,6 +82,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 210465
 ---
 Can't get no rest
 Don't know how I work all day

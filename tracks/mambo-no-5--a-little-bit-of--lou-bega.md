@@ -1,8 +1,11 @@
 ---
+album: A Little Bit of Mambo
 artists:
 - Lou Bega
+external_ids:
+  spotify: spotify:track:3l8WwsQTLPysuRph7WIRYq
 features: []
-genres: []
+first_released_as_single: true
 key: mambo-no-5--a-little-bit-of--lou-bega
 lyrics_url: https://www.azlyrics.com/lyrics/loubega/mambono5.html
 name: Mambo No 5 (A Little Bit Of)
@@ -95,8 +98,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
+release_year: 1999
+runtime: 220293
 ---
-
 Ladies and gentlemen
 This is Mambo No. 5!
 
@@ -162,6 +166,3 @@ Cause you can't run, you can't hide
 You and me gonna touch the sky
 
 Mambo No. 5!
-
-
-

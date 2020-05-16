@@ -1,8 +1,11 @@
 ---
+album: Berry Is On Top
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:2QfiRTz5Yc8DdShCxG1tB2
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-b-goode-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-johnny-b-goode-lyrics
 name: Johnny B Goode
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 161560
 ---
 Deep down in Louisiana close to New Orleans
 Way back up in the woods among the evergreens

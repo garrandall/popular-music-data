@@ -1,8 +1,11 @@
 ---
+album: Mad Season
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:6fA7akEuTUL3dW1V0GELaZ
 features: []
-genres: []
+first_released_as_single: false
 key: bent-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-bent-lyrics
 name: Bent
@@ -163,6 +166,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 256133
 ---
 And if I fall along the way
 Pick me up and dust me off

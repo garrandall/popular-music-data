@@ -1,8 +1,11 @@
 ---
+album: Chupacabra
 artists:
 - Imani Coppola
+external_ids:
+  spotify: spotify:track:0PLNwtb6dQ99PQSilE7Z1e
 features: []
-genres: []
+first_released_as_single: true
 key: legend-of-a-cowgirl-imani-coppola
 lyrics_url: https://genius.com/Imani-coppola-legend-of-a-cowgirl-lyrics
 name: Legend Of A Cowgirl
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 225000
 ---
 I'm gonna drink my whiskey
 I'm gonna have my man

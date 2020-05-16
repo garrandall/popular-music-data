@@ -1,8 +1,11 @@
 ---
+album: School's Out
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:5Z8EDau8uNcP1E8JvmfkZe
 features: []
-genres: []
+first_released_as_single: false
 key: school-s-out-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-schools-out-lyrics
 name: School's Out
@@ -59,6 +62,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 210106
 ---
 Well we got no choice
 All the girls and boys

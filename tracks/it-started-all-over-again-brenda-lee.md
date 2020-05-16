@@ -1,8 +1,11 @@
 ---
+album: Golden Star Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:1FZacDmA471Cvqo6hSu2DK
 features: []
-genres: []
+first_released_as_single: false
 key: it-started-all-over-again-brenda-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Brenda-Lee/It-Started-All-Over-Again
 name: It Started All Over Again
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 142200
 ---
 It started all over again
 The moment I looked in your eyes

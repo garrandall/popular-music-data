@@ -1,8 +1,11 @@
 ---
+album: This Island
 artists:
 - Eurogliders
+external_ids:
+  spotify: spotify:track:3XgQfK1XehwHvEtjvyoZB9
 features: []
-genres: []
+first_released_as_single: false
 key: heaven--must-be-there--eurogliders
 lyrics_url: https://genius.com/Eurogliders-heaven-must-be-there-lyrics
 name: Heaven (Must Be There)
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 226040
 ---
 Oh! OhI want to find a better place
 Oh! OhI'm searching for a better place

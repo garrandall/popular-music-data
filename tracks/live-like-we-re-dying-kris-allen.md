@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Kris Allen
+external_ids:
+  spotify: spotify:track:15VO1CoRHlpOgIOwzSu6gW
 features: []
-genres: []
+first_released_as_single: false
 key: live-like-we-re-dying-kris-allen
 lyrics_url: https://www.azlyrics.com/lyrics/krisallen/livelikeweredying.html
 name: Live Like We're Dying
@@ -123,8 +126,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2003
+runtime: 212293
 ---
-
 Sometimes we fall down, can't get back up
 We're hiding behind skin that's too tough
 How come we don't say "I love you" enough
@@ -200,6 +204,3 @@ Turn it all around or to throw it all away
 We gotta tell them that we love them
 While we got the chance to say
 Gotta live like we're dying.
-
-
-

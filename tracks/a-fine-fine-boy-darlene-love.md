@@ -1,8 +1,11 @@
 ---
+album: Songs of Love - The Best of Darlene Love
 artists:
 - Darlene Love
+external_ids:
+  spotify: spotify:track:2Xh25mq7BHjv2G8sEJWwgJ
 features: []
-genres: []
+first_released_as_single: true
 key: a-fine-fine-boy-darlene-love
 lyrics_url: https://www.azlyrics.com/lyrics/darlenelove/afinefineboy.html
 name: A Fine Fine Boy
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 165720
 ---
-
 My boy
 I got so much love in my heart for him
 That I really don't feel like me when he's not around
@@ -75,4 +79,3 @@ He's a fine, fine, super fine boy
 
 Fine, fine boy
 Fine, fine boy
-

@@ -1,8 +1,11 @@
 ---
+album: R. Kelly
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:6JR2utS6oY0U6OVDmIHiqV
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-sleep-baby--if-i--r--kelly
 lyrics_url: https://genius.com/R-kelly-i-cant-sleep-baby-remix-lyrics
 name: I Can't Sleep Baby (If I)
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1995
+runtime: 330720
 ---
 Baby I'm sorry
 Can't you find a way to somehow forgive me

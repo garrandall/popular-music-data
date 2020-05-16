@@ -1,8 +1,11 @@
 ---
+album: 'Paul Young & The Royal Family: Live at Rockpalast (Live, Essen, 1985)'
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:4M3LuCtpGc9lElVcKgPTYK
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-tear-your-playhouse-down-paul-young
 lyrics_url: https://genius.com/Paul-young-im-gonna-tear-your-playhouse-down-lyrics
 name: I'm Gonna Tear Your Playhouse Down
@@ -63,6 +66,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
+release_year: 1985
+runtime: 323680
 ---
 You think you've got it all set up
 You think you've got the perfect plan

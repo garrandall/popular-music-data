@@ -1,8 +1,11 @@
 ---
+album: The Wonderful World of the 60's - 100 Hit Songs
 artists:
 - The New Vaudeville Band
+external_ids:
+  spotify: spotify:track:1wWb26fEoKrmu2hmIJaTOz
 features: []
-genres: []
+first_released_as_single: false
 key: winchester-cathedral-the-new-vaudeville-band
 lyrics_url: https://genius.com/The-new-vaudeville-band-winchester-cathedral-lyrics
 name: Winchester Cathedral
@@ -67,9 +70,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 129253
 ---
-
-
 Winchester Cathedral
 You're bringing me down
 You stood and you watched as

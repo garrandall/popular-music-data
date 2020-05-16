@@ -1,8 +1,11 @@
 ---
+album: Catch Me Now
 artists:
 - Laura Enea
+external_ids:
+  spotify: spotify:track:5pXSl4ksQ4GuiZxytIx4ZO
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-last-time-laura-enea
 lyrics_url: https://genius.com/Laura-enea-this-is-the-last-time-lyrics
 name: This Is The Last Time
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1992
+runtime: 259133
 ---
 I was such a fool
 Hopelessy in love with you

@@ -1,8 +1,11 @@
 ---
+album: Lost In The Ozone
 artists:
 - Commander Cody
+external_ids:
+  spotify: spotify:track:5sqdEzoOUhwsDdMNSNL6t8
 features: []
-genres: []
+first_released_as_single: false
 key: beat-me-daddy-eight-to-the-bar-commander-cody
 lyrics_url: https://genius.com/Commander-cody-and-his-lost-planet-airmen-beat-me-daddy-eight-to-the-bar-lyrics
 name: Beat Me Daddy Eight To The Bar
@@ -35,9 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1971
+runtime: 312600
 ---
-Prince-Raye-Sheehy
-
 In a little honky-tonky village in Texas
 There's a guy who plays the best piano by far
 He can play piano any way that you like it
@@ -65,8 +68,6 @@ And we all know
 That when he plays he puts them all in a trance
 The cats all holler "Hooray"
 You'll hear them say, "Beat me Daddy, eight to the bar"
-
------ instrumental break -----
 
 In a little honky-tonky village in Texas
 There's a guy who plays the best piano by far

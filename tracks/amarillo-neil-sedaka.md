@@ -1,8 +1,11 @@
 ---
+album: The Show Goes On (Live At The Royal Albert Hall, London/2006)
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:0YdTTdHzXAGHHo6W3ZDYPm
 features: []
-genres: []
+first_released_as_single: false
 key: amarillo-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/isthisthewaytoamarillo.html
 name: Amarillo
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
+release_year: 1977
+runtime: 303306
 ---
-
 When the day is dawning
 On a Texas Sunday morning,
 How I long to be there
@@ -68,6 +72,3 @@ And it keeps me going
 Through the wind and rain.
 
 Is this the way to Amarillo?...
-
-
-

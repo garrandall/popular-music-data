@@ -1,8 +1,11 @@
 ---
+album: 'Little Junior Parker: Mr. Blues'
 artists:
 - Junior Parker
+external_ids:
+  spotify: spotify:track:5oLY2gz4HnKTcXxKkaGrsa
 features: []
-genres: []
+first_released_as_single: false
 key: driving-wheel-junior-parker
 lyrics_url: https://genius.com/Junior-parker-driving-wheel-lyrics
 name: Driving Wheel
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 160773
 ---
 My baby don't have to worry, she don't have to rob and steal
 My baby don't have to worry, she don't have to rob and steal

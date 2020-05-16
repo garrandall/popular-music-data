@@ -1,8 +1,11 @@
 ---
+album: Keep Your Eye On Me
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:1Xh1mNgvOolZ2TCFERLdnJ
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-eye-on-me-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-keep-your-eye-on-me-annotated
 name: Keep Your Eye On Me
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
+release_year: 1987
+runtime: 312320
 ---
 Keep your eye on me
 Keep your eye on me

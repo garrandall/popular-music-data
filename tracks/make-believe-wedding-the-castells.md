@@ -1,8 +1,11 @@
 ---
+album: So This Is Love
 artists:
 - The Castells
+external_ids:
+  spotify: spotify:track:6f7xPdoHFLJ8HnnhPINELD
 features: []
-genres: []
+first_released_as_single: false
 key: make-believe-wedding-the-castells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Castells/Make-Believe-Wedding
 name: Make Believe Wedding
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
+release_year: 1961
+runtime: 139133
 ---
 With this wing, I thee wed
 We pledged our love

@@ -1,8 +1,11 @@
 ---
+album: Native
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:5BJSZocnCeSNeYMj3iVqM7
 features: []
-genres: []
+first_released_as_single: false
 key: love-runs-out-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/loverunsout.html
 name: Love Runs Out
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2014
+runtime: 224226
 ---
-
 I'll be your light, your match, your burning sun,
 I'll be the bright, in black that's makin' you run.
 And we'll feel alright, and we'll feel alright,
@@ -150,6 +154,3 @@ And we'll feel alright, and we'll feel alright,
 And we'll start a fire, and we'll shut it down,
 'Til the love runs out, 'til the love runs out.
 'Til the love runs out.
-
-
-

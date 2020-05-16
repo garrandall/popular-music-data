@@ -1,8 +1,11 @@
 ---
+album: Something In The Night
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:2oA9wvH78XfGAAQ98hvEb5
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-mine-tonight-pure-prairie-league
 lyrics_url: https://genius.com/Pure-prairie-league-youre-mine-tonight-lyrics
 name: You're Mine Tonight
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-08-22'
+release_year: 1981
+runtime: 211706
 ---
 (Rafe Van Hoye)
 

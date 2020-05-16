@@ -1,8 +1,11 @@
 ---
+album: Gee Baby (I'm Sorry) (The Complete Swan Recordings)
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:4gjUJOXFg70Uuq12EAC53R
 features: []
-genres: []
+first_released_as_single: false
 key: look-in-my-eyes-the-three-degrees
 lyrics_url: https://genius.com/The-three-degrees-look-in-my-eyes-lyrics
 name: Look In My Eyes
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1966
+runtime: 157773
 ---
 Look in my eyes
 And tell me you love, love, love me

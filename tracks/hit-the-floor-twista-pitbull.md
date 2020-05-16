@@ -1,9 +1,12 @@
 ---
+album: The Day After
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:1I3lkLBglo5SepC1MMnvbM
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: hit-the-floor-twista-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/twista/hitthefloor.html
 name: Hit The Floor
@@ -32,9 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
+release_year: 2005
+runtime: 217466
 ---
-
-
 Yea we gon' take it from the bottom to the windy city
 Miami's finest, Chi Town's finest
 Pitbull, Twista
@@ -128,8 +131,3 @@ Cause we known to get the heaters burnin like hot sauce
 Its all because I gave them baby mamas dick on the low
 I tell em
 GET DOWN HIT DA FLO
-
-
-
-
-

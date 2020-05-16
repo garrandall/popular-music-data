@@ -1,8 +1,11 @@
 ---
+album: Todd
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:0tiBROmRVHxKAtgI8Hg9Sa
 features: []
-genres: []
+first_released_as_single: false
 key: a-dream-goes-on-forever-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/adreamgoesonforever.html
 name: A Dream Goes On Forever
@@ -31,8 +34,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-05-11'
+release_year: 1974
+runtime: 145160
 ---
-
 A million old soldiers will fade away
 But a dream goes on forever
 I'm left standing here, Ive got nothing to say
@@ -59,6 +63,3 @@ How much I love you you'll never know
 'Till you join me within my dream
 How much I love you you'll never know
 'Till you join me within my dream
-
-
-

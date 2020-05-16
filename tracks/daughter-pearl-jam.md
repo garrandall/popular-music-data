@@ -1,8 +1,11 @@
 ---
+album: Vs.
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:53eJFr4Mfbw5PXJ01K6cFw
 features: []
-genres: []
+first_released_as_single: false
 key: daughter-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/daughter.html
 name: Daughter
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1993
+runtime: 234333
 ---
-
 You guys ready...
 Alone... listless... breakfast table in an otherwise empty room
 Young girl... violins (ence)... center of her own attention
@@ -44,6 +48,3 @@ Don't call me...
 The shades go down
 The shades go down
 The shades go, go, go...
-
-
-

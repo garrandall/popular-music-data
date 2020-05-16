@@ -1,8 +1,11 @@
 ---
+album: Just Like The First Time
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:58OEc1sLFqQFP14PqV9AEz
 features: []
-genres: []
+first_released_as_single: false
 key: tasty-love-freddie-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/tastylove.html
 name: Tasty Love
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1986
+runtime: 268493
 ---
-
 Ohh girl the way you do me in the morning
 Ohh girl the way you love me all night long
 Work my love around and make it all come down
@@ -124,6 +128,3 @@ Girl you driving me crazy yes you are
 You know the love you give is tasty
 
 Girl you drive me crazy you know all the love you give to me is tasty yeah yeah yeah yeah...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:0SqqAgdovOE24BzxIClpjw
 features: []
-genres: []
+first_released_as_single: false
 key: yo-perreo-sola-bad-bunny
 lyrics_url: https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
 name: Yo Perreo Sola
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 172127
 ---
 Ante' tú me pichaba' (Tú me pichaba')
 Ahora yo picheo (Hm, nah)

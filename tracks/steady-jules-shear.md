@@ -1,8 +1,11 @@
 ---
+album: The Eternal Return
 artists:
 - Jules Shear
+external_ids:
+  spotify: spotify:track:4u1pVvajrzB9k7nTxadENv
 features: []
-genres: []
+first_released_as_single: false
 key: steady-jules-shear
 lyrics_url: https://www.musixmatch.com/lyrics/Jules-Shear/Steady
 name: Steady
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 212200
 ---
 Friends they call me
 On the phone

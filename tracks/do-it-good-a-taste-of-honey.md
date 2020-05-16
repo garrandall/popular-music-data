@@ -1,8 +1,11 @@
 ---
+album: Another Taste
 artists:
 - A Taste Of Honey
+external_ids:
+  spotify: spotify:track:0w3IWqkcPG7HXxYqWoItv3
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-good-a-taste-of-honey
 lyrics_url: https://genius.com/A-taste-of-honey-do-it-good-lyrics
 name: Do It Good
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1979
+runtime: 342826
 ---
 Come on and get down while you can
 Close your eyes and feel the vibe of the music

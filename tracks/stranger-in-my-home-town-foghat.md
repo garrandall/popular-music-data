@@ -1,8 +1,11 @@
 ---
+album: Tight Shoes
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:2dfmQ9f5RUCVNN0iJylblw
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-my-home-town-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/strangerinmyhometown.html
 name: Stranger In My Home Town
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 264066
 ---
-
 Who's that stranger walking out in the cold?
 Standing on the corner with his Kodachrome roll?
 He may be a psychopath, he's acting so strange,
@@ -64,6 +68,3 @@ Stranger in my home town, whoo! Stranger in my home town. I'm just a stranger.
 
 
 I'm a stranger, a stranger - I'm a stranger, a stranger
-
-
-

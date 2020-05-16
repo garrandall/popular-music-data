@@ -1,8 +1,11 @@
 ---
+album: Vanguard Visionaries
 artists:
 - The Rooftop Singers
+external_ids:
+  spotify: spotify:track:4rRAeUeSe6amiwupfXE2Cs
 features: []
-genres: []
+first_released_as_single: false
 key: tom-cat-the-rooftop-singers
 lyrics_url: https://genius.com/The-rooftop-singers-tom-cat-lyrics
 name: Tom Cat
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 128973
 ---
 Spoken:
 I've got an old Tom Cat

@@ -1,8 +1,11 @@
 ---
+album: Simon Sings
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:72msvCncNvSbSTW8XDKv9I
 features: []
-genres: []
+first_released_as_single: false
 key: misty-blue-joe-simon
 lyrics_url: https://genius.com/Joe-simon-misty-blue-lyrics
 name: Misty Blue
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1969
+runtime: 190093
 ---
 Oh, it's been such a long, long time
 Looks like I'd get you off of my mind

@@ -1,8 +1,11 @@
 ---
+album: Makin' Love And Music
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:6v9UOHsr45DOHTV5ktvNRc
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-in-dr--hook
 lyrics_url: https://genius.com/Dr-hook-walk-right-in-lyrics
 name: Walk Right In
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 185760
 ---
 Walk right in, sit right down, baby let your hair hang down
 Walk right in, sit right down, baby let your hair hang down

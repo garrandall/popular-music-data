@@ -1,9 +1,12 @@
 ---
+album: Michael
 artists:
 - Michael Jackson
 - Akon
+external_ids:
+  spotify: spotify:track:0pCyoA5o2uxUwIovECCziF
 features: []
-genres: []
+first_released_as_single: false
 key: hold-my-hand-michael-jackson-akon
 lyrics_url: https://genius.com/Michael-jackson-hold-my-hand-lyrics
 name: Hold My Hand
@@ -44,6 +47,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2010
+runtime: 212226
 ---
 Akon and MJ, oh yeah, yeah
 

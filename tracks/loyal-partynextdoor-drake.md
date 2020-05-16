@@ -1,9 +1,12 @@
 ---
+album: PARTYMOBILE
 artists:
 - PARTYNEXTDOOR
+external_ids:
+  spotify: spotify:track:5bvnqVuq7UFl0txSlHpsfS
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: loyal-partynextdoor-drake
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-partynextdoor-loyal-ft-drake-traduccion-al-espanol-lyrics
 name: Loyal
@@ -16,6 +19,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 197973
 ---
 La verdad, eres una estrella en mi cabeza
 Tú, no necesitas empezar una guerra con mis amigos

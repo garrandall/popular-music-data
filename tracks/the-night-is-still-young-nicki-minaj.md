@@ -1,8 +1,11 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:4bBrKDo8rchikwZOtmXbIH
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-is-still-young-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/thenightisstillyoung.html
 name: The Night Is Still Young
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2014
+runtime: 227560
 ---
-
 Yo, ayo tonight is the night that I'ma get twisted
 Myx Moscato and vodka, I'ma mix it
 Roll that spaceship, we about to get lifted
@@ -154,6 +158,3 @@ So are we
 (And watch the world pass us by)
 (How dare we sit quietly)
 (And watch the world pass us by)
-
-
-

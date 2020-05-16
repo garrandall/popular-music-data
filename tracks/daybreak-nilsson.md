@@ -1,8 +1,11 @@
 ---
+album: Sessions 1967-1975 - Rarities from The RCA Albums Collection
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:5mMh6dnwTcRHx7FyRma785
 features: []
-genres: []
+first_released_as_single: false
 key: daybreak-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/daybreak.html
 name: Daybreak
@@ -43,8 +46,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1974
+runtime: 176960
 ---
-
 Here comes the daylight
 It's makin' me sad
 Here comes the sunlight
@@ -92,6 +96,3 @@ In the moon's glimpse
 Now all that'll save me
 Is a total eclipse
 Oh no, oh no, oh no, oh no...
-
-
-

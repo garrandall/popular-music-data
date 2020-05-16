@@ -1,9 +1,12 @@
 ---
+album: Still Got Time
 artists:
 - Zayn
+external_ids:
+  spotify: spotify:track:000xQL6tZNLJzIrtIgxqSl
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: true
 key: still-got-time-zayn-partynextdoor
 lyrics_url: https://www.azlyrics.com/lyrics/zaynmalik/stillgottime.html
 name: Still Got Time
@@ -20,9 +23,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 188490
 ---
-
-
 Just stop lookin' for love
 Girl, you know you still got time
 Girl, you know you still got time
@@ -124,6 +127,3 @@ You still got time
 Girl, you know you still got time
 
 Girl, you know you still got...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Johnny Get Angry
 artists:
 - Joanie Sommers
+external_ids:
+  spotify: spotify:track:44MxIMFP4dQocMoUsAXfox
 features: []
-genres: []
+first_released_as_single: false
 key: one-boy-joanie-sommers
 lyrics_url: https://genius.com/Joanie-sommers-one-boy-lyrics
 name: One Boy
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 123826
 ---
 One boy, one special boy
 One boy to go with, to talk with and walk with

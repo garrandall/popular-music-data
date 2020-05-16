@@ -1,8 +1,11 @@
 ---
+album: Feeling Good
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:4IRvk64Ru0tTxyJsFfCNXs
 features: []
-genres: []
+first_released_as_single: false
 key: feelings-walter-jackson
 name: Feelings
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 290813
 ---
 

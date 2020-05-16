@@ -1,8 +1,11 @@
 ---
+album: Friday (Original Motion Picture Soundtrack)
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:7jIujRjK5JKNrMCcAvYUTN
 features: []
-genres: []
+first_released_as_single: false
 key: keep-their-heads-ringin--dr--dre
 lyrics_url: https://genius.com/Dr-dre-keep-their-heads-ringin-lyrics
 name: Keep Their Heads Ringin'
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1995
+runtime: 305573
 ---
 Yeah, what up, this is Dr. Dre
 The party's goin' on

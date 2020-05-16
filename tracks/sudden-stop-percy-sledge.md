@@ -1,8 +1,11 @@
 ---
+album: Take Time To Know Her
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:4GJg3unHR5AZs82m1zcfSf
 features: []
-genres: []
+first_released_as_single: false
 key: sudden-stop-percy-sledge
 lyrics_url: https://genius.com/Percy-sledge-sudden-stop-lyrics
 name: Sudden Stop
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 168866
 ---
 Walkin' out
 Didn't talk it out

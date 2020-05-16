@@ -1,8 +1,11 @@
 ---
+album: "Die Stimme f\xFCr Millionen"
 artists:
 - Roger Whittaker
+external_ids:
+  spotify: spotify:track:01jLqKX1qayCCGtOe1Gtzp
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-farewell-roger-whittaker
 lyrics_url: https://genius.com/Roger-whittaker-the-last-farewell-lyrics
 name: The Last Farewell
@@ -67,6 +70,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1975
+runtime: 211866
 ---
 There's a ship lies rigged and ready in the harbor
 Tomorrow for old England she sails

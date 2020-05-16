@@ -1,8 +1,11 @@
 ---
+album: Words & Music
 artists:
 - Leslie Pearl
+external_ids:
+  spotify: spotify:track:4pnmJnh44ctJgEFVi39nxY
 features: []
-genres: []
+first_released_as_single: false
 key: if-the-love-fits-wear-it-leslie-pearl
 lyrics_url: https://genius.com/Leslie-pearl-if-the-love-fits-wear-it-lyrics
 name: If The Love Fits Wear It
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
+release_year: 1982
+runtime: 218732
 ---
 You say you're not sure about love
 If this thing we got together is real

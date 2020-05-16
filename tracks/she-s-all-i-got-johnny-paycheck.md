@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Johnny Paycheck
+external_ids:
+  spotify: spotify:track:0Beb3aFUCO4I1pXXexHq7l
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-all-i-got-johnny-paycheck
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Paycheck/She-s-All-I-Got
 name: She's All I Got
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 170295
 ---
 Well I say friend, don't take her she's all I've got
 Please don't take her love away from me

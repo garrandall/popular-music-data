@@ -1,8 +1,11 @@
 ---
+album: Voices Carry
 artists:
 - '''Til Tuesday'
+external_ids:
+  spotify: spotify:track:6cKVs98HYwa4yNqx8I6lFT
 features: []
-genres: []
+first_released_as_single: false
 key: looking-over-my-shoulder--til-tuesday
 lyrics_url: https://www.azlyrics.com/lyrics/tiltuesday/lookingovermyshoulder.html
 name: Looking Over My Shoulder
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1985
+runtime: 257079
 ---
-
 If I'm calling you out of the blue
 It's because it's never-ending
 And if I'm dragging out pictures of you
@@ -38,6 +42,3 @@ And if I'm looking over my shoulder
 It's just because I hope you'll be there
 And if I'm looking older and older
 It's because I know I haven't a prayer
-
-
-

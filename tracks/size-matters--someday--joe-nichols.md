@@ -1,8 +1,11 @@
 ---
+album: III
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:5mu4ibyXLz3JDA7p5a0kAf
 features: []
-genres: []
+first_released_as_single: false
 key: size-matters--someday--joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/sizematterssomeday.html
 name: Size Matters (Someday)
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2005
+runtime: 171906
 ---
-
 Someday she wants a big ol' house
 Sittin' on a big ol' hill
 And a mile long tree lined driveway
@@ -106,6 +110,3 @@ He'll fill her world with laughter
 Size matters, size matters
 
 Size matters
-
-
-

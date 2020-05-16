@@ -1,8 +1,11 @@
 ---
+album: Columbia Singles
 artists:
 - Susan Christie
+external_ids:
+  spotify: spotify:track:20pBmwc1zxmKoesxYnS9FT
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-onions-susan-christie
 lyrics_url: https://genius.com/Susan-christie-i-love-onions-lyrics
 name: I Love Onions
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 153586
 ---
 I don't like snails, or toads, or frogs
 Or strange things living under logs

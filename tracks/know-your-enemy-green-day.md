@@ -1,8 +1,11 @@
 ---
+album: 21st Century Breakdown
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:0MFqTwRcuY8Ds66WXPDt9r
 features: []
-genres: []
+first_released_as_single: true
 key: know-your-enemy-green-day
 lyrics_url: https://genius.com/Green-day-know-your-enemy-lyrics
 name: Know Your Enemy
@@ -67,6 +70,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 190986
 ---
 Do you know the enemy?
 Do you know your enemy?

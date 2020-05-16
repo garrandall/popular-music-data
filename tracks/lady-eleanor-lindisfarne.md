@@ -1,8 +1,11 @@
 ---
+album: Nicely Out Of Tune
 artists:
 - Lindisfarne
+external_ids:
+  spotify: spotify:track:7Aw5qOxD2UV27vqgyg89C4
 features: []
-genres: []
+first_released_as_single: false
 key: lady-eleanor-lindisfarne
 lyrics_url: https://genius.com/Lindisfarne-lady-eleanor-lyrics
 name: Lady Eleanor
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1970
+runtime: 255426
 ---
 Banshee playing magician sitting lotus on the floor
 Belly dancing beauty with a power driven saw

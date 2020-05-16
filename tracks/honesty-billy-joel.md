@@ -1,8 +1,11 @@
 ---
+album: 52nd Street
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:34E0Higz6fFVXlbVsn6TIW
 features: []
-genres: []
+first_released_as_single: false
 key: honesty-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/honesty.html
 name: Honesty
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1978
+runtime: 233506
 ---
-
 If you search for tenderness
 It isn't hard to find
 You can have the love you need to live
@@ -96,6 +100,3 @@ Honesty is such a lonely word
 Everyone is so untrue
 Honesty is hardly ever heard
 And mostly what I need from you
-
-
-

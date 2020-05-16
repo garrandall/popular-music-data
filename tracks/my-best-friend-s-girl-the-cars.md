@@ -1,8 +1,11 @@
 ---
+album: The Cars
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:1SRkKyJ2JjMZgyDWC30zKv
 features: []
-genres: []
+first_released_as_single: false
 key: my-best-friend-s-girl-the-cars
 lyrics_url: https://genius.com/The-cars-my-best-friends-girl-lyrics
 name: My Best Friend's Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 223253
 ---
 You're always dancing down the street
 With your suede blue eyes

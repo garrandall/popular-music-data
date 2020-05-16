@@ -1,8 +1,11 @@
 ---
+album: Live In New York!
 artists:
 - The Cleftones
+external_ids:
+  spotify: spotify:track:1xVTrDT8ryK6YnbJOB6MbY
 features: []
-genres: []
+first_released_as_single: false
 key: for-sentimental-reasons-the-cleftones
 lyrics_url: https://genius.com/The-cleftones-for-sentimental-reasons-stereo-lyrics
 name: For Sentimental Reasons
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 156000
 ---
 I love you for sentimental reasons
 I hope you do believe me
@@ -48,8 +53,6 @@ Whenever you are in sight
 I love you for sentimental reasons
 I hope you do believe me
 I've given you my heart
-
-Instrumental interlude
 
 I love you for sentimental reasons
 I hope you do believe me

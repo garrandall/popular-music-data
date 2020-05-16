@@ -1,8 +1,11 @@
 ---
+album: Johnny Gill
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:7a35kVTnsXzlplOrxOIN9W
 features: []
-genres: []
+first_released_as_single: false
 key: fairweather-friend-johnny-gill
 lyrics_url: https://www.azlyrics.com/lyrics/johnnygill/fairweatherfriend.html
 name: Fairweather Friend
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
+release_year: 1990
+runtime: 276426
 ---
-
 You need a love that will not change
 You want a lover to remain
 Forever yours
@@ -165,6 +169,3 @@ I won't be no fairweather friend
 I'll be there till the end
 Even through stormy weather
 Time and time again
-
-
-

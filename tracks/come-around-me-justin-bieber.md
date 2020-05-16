@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2o9LAypwGH4ctV0i9boo6d
 features: []
-genres: []
+first_released_as_single: false
 key: come-around-me-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-come-around-me-lyrics
 name: Come Around Me
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 200773
 ---
 When you come around me
 Treat me like you miss me

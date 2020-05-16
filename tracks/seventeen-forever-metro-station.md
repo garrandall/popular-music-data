@@ -1,8 +1,11 @@
 ---
+album: Metro Station
 artists:
 - Metro Station
+external_ids:
+  spotify: spotify:track:1v0E30pA3wOBXuDxfsyOPa
 features: []
-genres: []
+first_released_as_single: false
 key: seventeen-forever-metro-station
 lyrics_url: https://www.azlyrics.com/lyrics/metrostation/seventeenforever.html
 name: Seventeen Forever
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2007
+runtime: 174133
 ---
-
 You were young, and so am I
 And this is wrong, but who am I to judge?
 I feel like heaven when we touch
@@ -55,4 +59,3 @@ Will you remember me?
 You ask me as I leave
 Remember what I said?
 Oh how could I, oh how could I forget?
-

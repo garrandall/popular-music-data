@@ -1,8 +1,11 @@
 ---
+album: Leap Of Faith
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:2NKAzlbQGnm0gY5o1vFx7H
 features: []
-genres: []
+first_released_as_single: false
 key: conviction-of-the-heart-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/convictionoftheheart.html
 name: Conviction Of The Heart
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 411266
 ---
-
 Where are the dreams that we once had?
 This is the time to bring them back.
 What were the promises caught on the tips of our tongues?
@@ -90,6 +94,3 @@ You've heard it hundreds of times
 You say your aware, believe, and you care, but...
 Do you care enough
 To talk with Conviction of the Heart?
-
-
-

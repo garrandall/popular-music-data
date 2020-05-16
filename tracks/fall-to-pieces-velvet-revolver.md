@@ -1,8 +1,11 @@
 ---
+album: Contraband
 artists:
 - Velvet Revolver
+external_ids:
+  spotify: spotify:track:2amzrvbxYiq8AxGntIiw5V
 features: []
-genres: []
+first_released_as_single: false
 key: fall-to-pieces-velvet-revolver
 lyrics_url: https://genius.com/Velvet-revolver-fall-to-pieces-lyrics
 name: Fall To Pieces
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 271240
 ---
 It's been a long year
 Since you've been gone

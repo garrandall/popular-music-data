@@ -1,8 +1,12 @@
 ---
+album: High Priority
 artists:
-- Cherrelle With Alexander O'Neal
-features: []
-genres: []
+- Cherrelle
+external_ids:
+  spotify: spotify:track:0qBkrd11RB2N7mp8BZTAPv
+features:
+- Alexander O'Neal
+first_released_as_single: false
 key: saturday-love-cherrelle-with-alexander-o-neal
 lyrics_url: https://www.musixmatch.com/lyrics/Cherrelle-with-Alexander-O-Neal/Saturday-Love
 name: Saturday Love
@@ -75,6 +79,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1975
+runtime: 521333
 ---
 It's been a long time
 I didn't ever think I was

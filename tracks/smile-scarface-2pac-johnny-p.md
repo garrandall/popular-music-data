@@ -1,10 +1,13 @@
 ---
+album: Greatest Hits
 artists:
 - Scarface
+external_ids:
+  spotify: spotify:track:2wxO3ZydJTZRi4Bbc02q7i
 features:
 - 2Pac
 - Johnny P
-genres: []
+first_released_as_single: false
 key: smile-scarface-2pac-johnny-p
 lyrics_url: https://www.azlyrics.com/lyrics/scarface/smile.html
 name: Smile
@@ -85,10 +88,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
+release_year: 1997
+runtime: 300600
 ---
-
-
-
 There's gon' be some stuff you gon' see
 that's gon' make it hard to smile in the future.
 But through whatever you see,
@@ -125,11 +127,11 @@ Just smile for me now
 
 
 
-Smiiiiiile for me , won't you smile (smile for me now)
-Just smiiiile (smile), smile for me
+Smile for me , won't you smile (smile for me now)
+Just smile (smile), smile for me
 (What cha lookin' all sad for, nigga you black, smile for me now)
-Smiiiiiile for me (nigga you ain't got nothin' to be worried about)
-Won't you smile (no doubt, smile for me now) just smiiiiile
+Smile for me (nigga you ain't got nothin' to be worried about)
+Won't you smile (no doubt, smile for me now) just smile
 (And the next generation)
 
 
@@ -191,6 +193,3 @@ Smile
 (All ya need to do is smile)
 (Woooo smile for me)
 (Come on smile for me)
-
-
-

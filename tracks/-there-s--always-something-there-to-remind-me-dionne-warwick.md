@@ -1,8 +1,11 @@
 ---
+album: The Windows Of The World
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0qlyxOj68o45dH4ILAekvD
 features: []
-genres: []
+first_released_as_single: false
 key: -there-s--always-something-there-to-remind-me-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/theresalwayssomethingtheretoremindme.html
 name: (There's) Always Something There To Remind Me
@@ -27,8 +30,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1967
+runtime: 181613
 ---
-
 I walk along those city streets
 You used to walk along with me
 And every step I take recalls
@@ -76,6 +80,3 @@ When, there, is
 Always something there to remind me
 Always something there to remind me
 Always something there to remind me
-
-
-

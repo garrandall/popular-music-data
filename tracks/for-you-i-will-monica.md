@@ -1,8 +1,11 @@
 ---
+album: The Boy Is Mine
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:2b29qJRy4asbQNFjPO96XC
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-i-will-monica
 lyrics_url: https://genius.com/Monica-for-you-i-will-lyrics
 name: For You I Will
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-10-18'
+release_year: 1997
+runtime: 294866
 ---
 When you're feeling lost in the night
 When you feel your world just ain't right

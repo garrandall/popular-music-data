@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1958-62
 artists:
 - Annette With The Afterbeats
+external_ids:
+  spotify: spotify:track:21Nzz76MRfWKUOsSjYaT47
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-became-of-age-annette-with-the-afterbeats
 name: My Heart Became Of Age
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 142133
 ---
 

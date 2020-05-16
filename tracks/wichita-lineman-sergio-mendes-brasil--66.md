@@ -1,9 +1,12 @@
 ---
+album: Ye-Me-Le
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:3yzrseLtvbNpgyxlLOrX6a
 features: []
-genres: []
+first_released_as_single: false
 key: wichita-lineman-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-wichita-lineman-lyrics
 name: Wichita Lineman
@@ -16,6 +19,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 167466
 ---
 He is a lineman for the county
 And he drives the mainroad

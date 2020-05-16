@@ -1,8 +1,11 @@
 ---
+album: Real Fine Place
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:6O2lo7245XfRbIfpL5yRLJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-real-fine-place-to-start-sara-evans
 lyrics_url: https://www.musixmatch.com/lyrics/Sara-Evans/A-Real-Fine-Place-to-Start-2
 name: A Real Fine Place To Start
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
+release_year: 2005
+runtime: 238733
 ---
 I'm gonna do it darlin'
 I could waste time tryin' to figure it out
@@ -121,7 +126,7 @@ Figurin' out what love really means
 Baby givin' you my heart
 Is a real fine place to start
 Right here, right now's the perfect spot, the perfect time
-The perfect moment when your skin is next to miiiine
+The perfect moment when your skin is next to mine
 
 Yaa yaa yaa yaa
 Holdin' you close, chasin' that moon

@@ -1,8 +1,11 @@
 ---
+album: Tea for Two Cha Cha
 artists:
 - The Tommy Dorsey Orchestra
+external_ids:
+  spotify: spotify:track:3QWUoUlkbCJPAD0YhLjtLS
 features: []
-genres: []
+first_released_as_single: false
 key: tea-for-two-cha-cha-the-tommy-dorsey-orchestra
 lyrics_url: https://genius.com/Tommy-dorsey-orchestra-tea-for-two-cha-cha-lyrics
 name: Tea For Two Cha Cha
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1958
+runtime: 175217
 ---
 I don't care if the sun don't shine
 I get my loving in the evening time when I'm

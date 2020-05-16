@@ -1,8 +1,11 @@
 ---
+album: Working Class Dog
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:5RsUlxLto4NZbhJpqJbHfN
 features: []
-genres: []
+first_released_as_single: false
 key: jessie-s-girl-rick-springfield
 lyrics_url: https://genius.com/Rick-springfield-jessies-girl-lyrics
 name: Jessie's Girl
@@ -135,6 +138,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1981
+runtime: 194120
 ---
 Jessie is a friend
 Yeah, I know, he's been a good friend of mine

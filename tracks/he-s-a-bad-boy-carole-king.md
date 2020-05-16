@@ -1,8 +1,11 @@
 ---
+album: The Dimension Dolls
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:4RS55pu55qblr1lzHAaKY2
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-a-bad-boy-carole-king
 lyrics_url: https://genius.com/Carole-king-hes-a-bad-boy-lyrics
 name: He's A Bad Boy
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 144746
 ---
 HE'S A BAD BOY
 WRITERS GERRY GOFFIN, CAROLE KING

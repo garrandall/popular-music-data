@@ -1,8 +1,11 @@
 ---
+album: Everlasting
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:1YpNDG1DnNadlZzR8kAXqF
 features: []
-genres: []
+first_released_as_single: false
 key: pink-cadillac-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/pinkcadillac.html
 name: Pink Cadillac
@@ -75,8 +78,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1987
+runtime: 268666
 ---
-
 You may think I'm fooling
 For the foolish things I do
 You may wonder how come I love you
@@ -142,6 +146,3 @@ Spending all my money on a Saturday night
 Honey, I just wonder what you do there
 In the back of your pink Cadillac
 You know the one I mean, Le Car
-
-
-

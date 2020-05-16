@@ -1,8 +1,11 @@
 ---
+album: Brian McKnight
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:3l9OCOG3Vt6c2lxeMyGSIY
 features: []
-genres: []
+first_released_as_single: false
 key: one-last-cry-brian-mcknight
 lyrics_url: https://genius.com/Brian-mcknight-one-last-cry-lyrics
 name: One Last Cry
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1992
+runtime: 295357
 ---
 My shattered dreams and broken heart
 Are mending on the shelf

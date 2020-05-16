@@ -1,8 +1,11 @@
 ---
+album: Arnold Schwarzenegger's Total Body Workout
 artists:
 - The Weather Girls
+external_ids:
+  spotify: spotify:track:2GA88QBxxSanY1gCCjhVVo
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-raining-men-the-weather-girls
 lyrics_url: https://genius.com/The-weather-girls-its-raining-men-lyrics
 name: It's Raining Men
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1981
+runtime: 171200
 ---
 Hi! Hi! We're your weather girls
 (Uh huh)

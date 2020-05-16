@@ -1,9 +1,12 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:6Qoz2jJBYLpY9bXGvqxoGM
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: thought-i-knew-you-nicki-minaj-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/thoughtiknewyou.html
 name: Thought I Knew You
@@ -12,9 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 198280
 ---
-
-
 I-I-I-I thought I knew you
 Ha-ha-ha I guess I didn't
 I-I-I-I thought I knew you
@@ -81,6 +84,3 @@ Presidents-dents presidents
 Presidents-dents presidents
 Presidents-dents presidents
 ...
-
-
-

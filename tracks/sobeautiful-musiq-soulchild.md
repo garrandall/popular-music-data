@@ -1,8 +1,11 @@
 ---
+album: onmyradio
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:2PN3gbuBn5WBEwrEJH3xiu
 features: []
-genres: []
+first_released_as_single: false
 key: sobeautiful-musiq-soulchild
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/sobeautiful.html
 name: sobeautiful
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2008
+runtime: 291133
 ---
-
 You're my baby,
 My lover, my lady
 All night
@@ -88,6 +92,3 @@ Baby don't you know
 You're so beautiful (beautiful, beautiful)
 Baby don't you know
 You're so beautiful
-
-
-

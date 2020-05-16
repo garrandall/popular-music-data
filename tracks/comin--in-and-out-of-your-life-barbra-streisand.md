@@ -1,8 +1,11 @@
 ---
+album: Memories
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1ewTd6py4ifeRxoFH0HXlu
 features: []
-genres: []
+first_released_as_single: false
 key: comin--in-and-out-of-your-life-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/comininandoutofyourlife.html
 name: Comin' In And Out Of Your Life
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1981
+runtime: 248666
 ---
-
 I still can remember
 The last time I cried
 I was holding you and loving you
@@ -120,6 +124,3 @@ I don't need to touch you
 To feel you, it's so real with you
 I can't get you out of my mind
 But I can remember...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Contact
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:4LDPtuYOuAFtM6LBoRN0So
 features: []
-genres: []
+first_released_as_single: false
 key: dare-me-the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-dare-me-lyrics
 name: Dare Me
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 259120
 ---
 I've got a chip on my shoulder
 With your name on it

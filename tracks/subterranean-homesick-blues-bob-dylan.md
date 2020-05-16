@@ -1,8 +1,11 @@
 ---
+album: Bringing It All Back Home
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:49LQybWAQVmVFwtUHDDUnB
 features: []
-genres: []
+first_released_as_single: false
 key: subterranean-homesick-blues-bob-dylan
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Dylan/Subterranean-Homesick-Blues
 name: Subterranean Homesick Blues
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 157840
 ---
 Johnny's in the basement mixin' up the medicine
 I'm on the pavement, look'in about the government

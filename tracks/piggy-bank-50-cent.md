@@ -1,8 +1,11 @@
 ---
+album: The Massacre
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:2rlcCS6vJSTrRMjsmVkoFY
 features: []
-genres: []
+first_released_as_single: false
 key: piggy-bank-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/piggybank.html
 name: Piggy Bank
@@ -11,9 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2005
+runtime: 255173
 ---
-
-
 Clickity clank clickity clank
 The money goes into my piggy bank
 
@@ -104,6 +107,3 @@ Yayo get mobs niggas on the phone
 And tell the niggas I said grip up
 niggas got a green light on these monkies
 Hahahaha
-
-
-

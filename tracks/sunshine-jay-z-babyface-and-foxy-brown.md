@@ -2,7 +2,8 @@
 artists:
 - Jay-Z
 features:
-- Babyface And Foxy Brown
+- Babyface
+- Foxy Brown
 genres: []
 key: sunshine-jay-z-babyface-and-foxy-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/sunshine.html

@@ -1,8 +1,11 @@
 ---
+album: Solid Gold Guitar
 artists:
 - Al Caiola
+external_ids:
+  spotify: spotify:track:767e0zOS40DH7zy1WgHKsg
 features: []
-genres: []
+first_released_as_single: false
 key: the-magnificent-seven-al-caiola-and-his-orchestra
 name: The Magnificent Seven
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 115706
 ---
 

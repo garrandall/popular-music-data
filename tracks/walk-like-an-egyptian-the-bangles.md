@@ -1,8 +1,11 @@
 ---
+album: Different Light
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:5L6HNuXN71bfeuKXYtRasF
 features: []
-genres: []
+first_released_as_single: false
 key: walk-like-an-egyptian-the-bangles
 lyrics_url: https://genius.com/The-bangles-walk-like-an-egyptian-lyrics
 name: Walk Like An Egyptian
@@ -99,6 +102,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 203226
 ---
 All the old paintings on the tomb
 They do the sand dance, don't you know?

@@ -1,8 +1,11 @@
 ---
+album: Shut Down
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:5L0L3RyON6g8avnI20uubN
 features: []
-genres: []
+first_released_as_single: false
 key: fun-fun-fun-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-fun-fun-fun-lyrics
 name: Fun Fun Fun
@@ -51,6 +54,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 138906
 ---
 Well, she got her daddy's car
 And she cruised to the hamburger stand, now

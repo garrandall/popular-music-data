@@ -1,8 +1,11 @@
 ---
+album: Trash
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:7gyPlFaDFvqeRmQWgZ5JwM
 features: []
-genres: []
+first_released_as_single: true
 key: only-my-heart-talkin--alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/onlymyhearttalkin.html
 name: Only My Heart Talkin'
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1989
+runtime: 236160
 ---
-
 Anybody's dream can fall apart
 Anybody's mask can break
 Couldn't tell you how I wanted you
@@ -59,6 +63,3 @@ Don't you go and run away
 Come on and help me, baby
 Just a little help, baby
 Oh, my little baby
-
-
-

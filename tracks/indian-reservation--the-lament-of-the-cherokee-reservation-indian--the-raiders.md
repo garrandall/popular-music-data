@@ -1,8 +1,11 @@
 ---
+album: Indian Reservation
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:3mDOHVY9MWZOTODSNF5GBj
 features: []
-genres: []
+first_released_as_single: false
 key: indian-reservation--the-lament-of-the-cherokee-reservation-indian--the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/indianreservationthelamentofthecherokeereservationindian.html
 name: Indian Reservation (The Lament Of The Cherokee Reservation Indian)
@@ -95,8 +98,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 171933
 ---
-
 They took the whole Cherokee nation
 Put us on this reservation
 Took away our ways of life
@@ -126,6 +130,3 @@ But maybe someday when we've learned
 Cherokee nation will return
 Will return, will return
 Will return, will return
-
-
-

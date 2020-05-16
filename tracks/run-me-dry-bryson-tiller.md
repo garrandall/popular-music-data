@@ -1,8 +1,11 @@
 ---
+album: True to Self
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:5GG3knKdxKWrNboRijxeKF
 features: []
-genres: []
+first_released_as_single: false
 key: run-me-dry-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/brysontiller/runmedry.html
 name: Run Me Dry
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 169266
 ---
-
 I think she love me, 'cause I got the check on me
 Wan' spend the day and flex on me
 Put a curse and hex on me
@@ -77,6 +81,3 @@ Drop down, pick it up up up
 Swing it around, I'ma go go go
 Drop that, down I'ma pick it up up up
 Swing it around, I'ma go go go
-
-
-

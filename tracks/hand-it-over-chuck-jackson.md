@@ -1,8 +1,11 @@
 ---
+album: The Best Of/20th Century Masters
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:6pNzVVFcbpK1V9hSNxx5in
 features: []
-genres: []
+first_released_as_single: false
 key: hand-it-over-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-hand-it-over-lyrics
 name: Hand It Over
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 141800
 ---
 Oh, will you let me have all
 Of your loving and affection, yeah

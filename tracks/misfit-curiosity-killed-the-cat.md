@@ -1,8 +1,11 @@
 ---
+album: Very Best
 artists:
 - Curiosity Killed The Cat
+external_ids:
+  spotify: spotify:track:7a650uDexobOHVrUD1Crgf
 features: []
-genres: []
+first_released_as_single: false
 key: misfit-curiosity-killed-the-cat
 lyrics_url: https://www.azlyrics.com/lyrics/curiositykilledthecat/misfit.html
 name: Misfit
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
+release_year: 1987
+runtime: 241160
 ---
-
 Sensitive child
 Keep running wild
 In a confined space
@@ -123,6 +127,3 @@ Too fat, too thin, you lose or you win
 This may come as some surprise
 Too tall, too short, too loose or too taut
 There'll be a bind for every kind...
-
-
-

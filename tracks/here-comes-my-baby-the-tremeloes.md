@@ -1,8 +1,11 @@
 ---
+album: Even The Bad Times Are Good
 artists:
 - The Tremeloes
+external_ids:
+  spotify: spotify:track:4jKq3767lb2mWKCvas6E7Z
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-my-baby-the-tremeloes
 lyrics_url: https://genius.com/The-tremeloes-here-comes-my-baby-lyrics
 name: Here Comes My Baby
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 184106
 ---
 In the midnight moonlight
 I'll be walking a long and lonely mile

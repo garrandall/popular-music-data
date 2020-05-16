@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:44VtvmaLIBH2atC4XIKxto
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-my-girl-the-turtles
 lyrics_url: https://genius.com/The-turtles-shes-my-girl-lyrics
 name: She's My Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 157333
 ---
 Mornin', mornin' glory
 If you'd like to know where was I last night

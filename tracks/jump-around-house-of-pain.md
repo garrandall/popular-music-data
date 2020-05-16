@@ -1,8 +1,11 @@
 ---
+album: House of Pain (Fine Malt Lyrics)
 artists:
 - House Of Pain
+external_ids:
+  spotify: spotify:track:3TZwjdclvWt7iPJUnMpgcs
 features: []
-genres: []
+first_released_as_single: false
 key: jump-around-house-of-pain
 lyrics_url: https://genius.com/House-of-pain-jump-around-lyrics
 name: Jump Around
@@ -127,6 +130,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 214946
 ---
 Pack it up, pack it in, let me begin
 I came to win, battle me, that's a sin

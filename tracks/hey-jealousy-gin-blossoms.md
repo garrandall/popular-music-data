@@ -1,8 +1,11 @@
 ---
+album: New Miserable Experience
 artists:
 - Gin Blossoms
+external_ids:
+  spotify: spotify:track:4o7ZPI2fmEi3piRe0Hrfpy
 features: []
-genres: []
+first_released_as_single: false
 key: hey-jealousy-gin-blossoms
 lyrics_url: https://genius.com/Gin-blossoms-hey-jealousy-lyrics
 name: Hey Jealousy
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1992
+runtime: 236626
 ---
 Tell me do you think it'd be all right
 If I could just crash here tonight

@@ -1,8 +1,11 @@
 ---
+album: 'Whitney Houston Live: Her Greatest Performances'
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:3F7ZB57jdi0ElIc8K8UiIt
 features: []
-genres: []
+first_released_as_single: true
 key: the-star-spangled-banner-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/thestarspangledbanner.html
 name: The Star Spangled Banner
@@ -115,8 +118,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-01-12'
+release_year: 1991
+runtime: 134533
 ---
-
 Oh, say can you see, by the dawn's early light,
 What so proudly we hailed at the twilight's last gleaming?
 Whose broad stripes and bright stars, through the perilous fight,
@@ -152,6 +156,3 @@ Then conquer we must, for our cause it is just,
 And this be our motto: "In God is our trust."
 And the star-spangled banner forever shall wave
 O'er the land of the free and the home of the brave!
-
-
-

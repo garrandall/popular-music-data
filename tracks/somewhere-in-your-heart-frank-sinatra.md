@@ -1,8 +1,11 @@
 ---
+album: "Sinatra \u201965"
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:4rB2bQq7cxr4lpveycGy0R
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-in-your-heart-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/somewhereinyourheart.html
 name: Somewhere In Your Heart
@@ -47,8 +50,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 147533
 ---
-
 Somewhere in your heart, try to find a place for me
 Somewhere in your heart, I won't care where it might be
 One little corner may not mean so much to you
@@ -63,6 +67,3 @@ Won't you find a place for me, somewhere in your heart?
 (Though they're only dreams), someday they may all come true
 Is it so much to ask for such a tiny part?
 Won't you find a place for me, somewhere in your heart?
-
-
-

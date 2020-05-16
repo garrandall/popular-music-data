@@ -1,9 +1,12 @@
 ---
+album: Nevada Fighter
 artists:
 - Michael Nesmith
 - The First National Band
+external_ids:
+  spotify: spotify:track:28JEhR1X2fGnLCfx6cMs0w
 features: []
-genres: []
+first_released_as_single: false
 key: nevada-fighter-michael-nesmith-the-first-national-band
 lyrics_url: https://genius.com/Michael-nesmith-nevada-fighter-lyrics
 name: Nevada Fighter
@@ -24,6 +27,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 187373
 ---
 Facing left, facing right
 Saves the rest, Nevada fights

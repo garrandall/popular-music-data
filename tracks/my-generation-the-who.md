@@ -1,8 +1,11 @@
 ---
+album: My Generation
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:4u9f8hqstB7iITDJNzKhQx
 features: []
-genres: []
+first_released_as_single: false
 key: my-generation-the-who
 lyrics_url: https://genius.com/The-who-my-generation-lyrics
 name: My Generation
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 198706
 ---
 People try to put us d-down (Talkin' 'bout my generation)
 Just because we get around (Talkin' 'bout my generation)

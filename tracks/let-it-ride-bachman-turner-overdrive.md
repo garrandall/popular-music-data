@@ -1,8 +1,11 @@
 ---
+album: Bachman-Turner Overdrive II
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:3UQA4UTVqcI0VtSQ38nlq1
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-ride-bachman-turner-overdrive
 lyrics_url: https://genius.com/Bachmanturner-overdrive-let-it-ride-lyrics
 name: Let It Ride
@@ -67,6 +70,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1973
+runtime: 267066
 ---
 {Intro}
 

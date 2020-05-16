@@ -1,8 +1,11 @@
 ---
+album: All We Got Iz Us
 artists:
 - Onyx
+external_ids:
+  spotify: spotify:track:6M3NkhWYtJSZ3kKzDRBR5x
 features: []
-genres: []
+first_released_as_single: false
 key: last-dayz-onyx
 lyrics_url: https://www.azlyrics.com/lyrics/onyx/lastdayz.html
 name: Last Dayz
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
+release_year: 1995
+runtime: 236760
 ---
-
 South suicide Queens...all niggas
 gather up all your arms
 and get ready for this new world order
@@ -165,6 +169,3 @@ we never giving a shit
 cause we living in it
 official nas mother fuckers don't give a shit
 word up
-
-
-

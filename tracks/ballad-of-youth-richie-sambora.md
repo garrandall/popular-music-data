@@ -1,8 +1,11 @@
 ---
+album: Stranger In This Town
 artists:
 - Richie Sambora
+external_ids:
+  spotify: spotify:track:7CDR0u4CqgZUWvRDt7TvGy
 features: []
-genres: []
+first_released_as_single: false
 key: ballad-of-youth-richie-sambora
 lyrics_url: https://www.azlyrics.com/lyrics/richiesambora/balladofyouth.html
 name: Ballad Of Youth
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 232840
 ---
-
 Growing up today
 There's many mountains you must climb
 You're not the only one
@@ -91,6 +95,3 @@ Cause when tomorrow comes
 It's all just yesterday's news
 
 All just yesterday news
-
-
-

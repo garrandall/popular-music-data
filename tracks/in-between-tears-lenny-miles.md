@@ -1,8 +1,11 @@
 ---
+album: Rare Soul Authentic Vinyl Editions
 artists:
 - Lenny Miles
+external_ids:
+  spotify: spotify:track:15jedQZra2UBjZcd78gQu5
 features: []
-genres: []
+first_released_as_single: false
 key: in-between-tears-lenny-miles
 name: In Between Tears
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 138053
 ---
 

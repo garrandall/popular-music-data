@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:6Xj6WksWmPX147s4FwNOXq
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-your-love-chic
 lyrics_url: https://genius.com/Chic-i-want-your-love-lyrics
 name: I Want Your Love
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1977
+runtime: 413586
 ---
 I want your love, I want your love
 I want your love, I want your love

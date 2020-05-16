@@ -1,8 +1,11 @@
 ---
+album: Steelheart
 artists:
 - Steelheart
+external_ids:
+  spotify: spotify:track:2fvObZjCzCF57MKmn1ePPO
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-gone--lady--steelheart
 lyrics_url: https://genius.com/Steelheart-shes-gone-lyrics
 name: She's Gone (Lady)
@@ -39,6 +42,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 392400
 ---
 She's gone
 Out of my life

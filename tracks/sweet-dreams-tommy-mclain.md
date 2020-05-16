@@ -1,8 +1,11 @@
 ---
+album: The Essential Collection
 artists:
 - Tommy McLain
+external_ids:
+  spotify: spotify:track:5YGBKg0eAyeE8iUpOXE8OO
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams-tommy-mclain
 lyrics_url: https://genius.com/Tommy-mclain-sweet-dreams-lyrics
 name: Sweet Dreams
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 203591
 ---
 Sweet, sweet dreams of you
 Every night I go through

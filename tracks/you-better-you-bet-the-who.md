@@ -1,8 +1,11 @@
 ---
+album: Face Dances
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:58RWYT5MGo8e4Y3WAZHh9g
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-you-bet-the-who
 lyrics_url: https://genius.com/The-who-you-better-you-bet-lyrics
 name: You Better You Bet
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1981
+runtime: 337066
 ---
 You better you better you bet, oh
 You better you better you bet, oh

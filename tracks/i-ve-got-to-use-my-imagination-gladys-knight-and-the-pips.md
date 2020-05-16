@@ -1,8 +1,11 @@
 ---
+album: Imagination
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:5r3q5qzU1LoxfORgwuvLCa
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-to-use-my-imagination-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-ive-got-to-use-my-imagination-lyrics
 name: I've Got To Use My Imagination
@@ -71,6 +74,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1973
+runtime: 210480
 ---
 I've really got to use
 My imagination

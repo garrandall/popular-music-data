@@ -1,8 +1,11 @@
 ---
+album: Rascal Flatts
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:0DAVCurdi9ZqkVUKIuikzm
 features: []
-genres: []
+first_released_as_single: false
 key: prayin--for-daylight-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/prayinfordaylight.html
 name: Prayin' For Daylight
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
+release_year: 2000
+runtime: 215600
 ---
-
 I don't want to spend another lonely night
 oo
 
@@ -128,6 +132,3 @@ Prayin' for daylight
 I don't want to spend another lonely night
 I don't want to spend another lonely night
 Prayin' for daylight
-
-
-

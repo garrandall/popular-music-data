@@ -1,8 +1,11 @@
 ---
+album: Go All the Way
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:6DVOThiin61bmeIwf6fzGx
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-goodnight--it-s-time-for-love---parts-1---2--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-dont-say-goodnight-its-time-for-love-parts-1-and-2-lyrics
 name: Don't Say Goodnight (It's Time For Love) (Parts 1 & 2)
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 345120
 ---
 I wanna love you, yeah, yeah
 Over and over again

@@ -1,8 +1,11 @@
 ---
+album: Make The Difference
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:0Q7aNolyWuEFAk53EGql50
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-love-me-lyrics
 name: Love Me
@@ -67,6 +70,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1990
+runtime: 303800
 ---
 Didn’t know if I could make it
 I tried to hold out

@@ -1,8 +1,11 @@
 ---
+album: The Great Fortunes
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:3t0a0k5wxLEafGOrpEePe7
 features: []
-genres: []
+first_released_as_single: false
 key: here-it-comes-again-the-fortunes
 lyrics_url: https://genius.com/The-fortunes-uk-group-here-it-comes-again-lyrics
 name: Here It Comes Again
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 190506
 ---
 When I see that girl go walking by
 I know a boy shouldn't cry

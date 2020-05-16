@@ -1,8 +1,11 @@
 ---
+album: Sunshine & Whiskey - Commentary
 artists:
 - Frankie Ballard
+external_ids:
+  spotify: spotify:track:5IjPuUmRdGbK5ZD63f7JpR
 features: []
-genres: []
+first_released_as_single: false
 key: young---crazy-frankie-ballard
 lyrics_url: https://www.azlyrics.com/lyrics/frankieballard/youngcrazy.html
 name: Young & Crazy
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-09-19'
+release_year: 2014
+runtime: 11706
 ---
-
 One day, I'll slow and lay down,
 Spend my weekends in a swing out on the wraparound.
 Oh but these days, I'm on a mission
@@ -109,6 +113,3 @@ If I ain't ever young and crazy?
 Young and crazy.
 Young, young and crazy.
 Young and crazy.
-
-
-

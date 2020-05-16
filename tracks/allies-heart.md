@@ -1,8 +1,11 @@
 ---
+album: Passionworks
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:3PlH7VdGsXd225ciH0ZWOg
 features: []
-genres: []
+first_released_as_single: false
 key: allies-heart
 lyrics_url: https://genius.com/Heart-allies-lyrics
 name: Allies
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 281426
 ---
 In troubled times
 It's hard to get straight answers

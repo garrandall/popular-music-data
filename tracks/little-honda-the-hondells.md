@@ -1,8 +1,11 @@
 ---
+album: Go Little Honda
 artists:
 - The Hondells
+external_ids:
+  spotify: spotify:track:1cGSH1k0A1WtCzpvdW5zuN
 features: []
-genres: []
+first_released_as_single: false
 key: little-honda-the-hondells
 lyrics_url: https://genius.com/Hondells-little-honda-lyrics
 name: Little Honda
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 125066
 ---
 The Hondells
 Miscellaneous

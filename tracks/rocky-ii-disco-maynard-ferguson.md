@@ -1,8 +1,11 @@
 ---
+album: Maynard Ferguson (Bonus Track Version)
 artists:
 - Maynard Ferguson
+external_ids:
+  spotify: spotify:track:3e9nvLDmd8fjjIOhg8SnVf
 features: []
-genres: []
+first_released_as_single: false
 key: rocky-ii-disco-maynard-ferguson
 name: Rocky II Disco
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1979
+runtime: 432533
 ---
 

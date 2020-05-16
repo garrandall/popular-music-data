@@ -1,8 +1,11 @@
 ---
+album: Patches
 artists:
 - CL
+external_ids:
+  spotify: spotify:track:15F4bGHoQrlwmbBGTAfcu3
 features: []
-genres: []
+first_released_as_single: false
 key: lifted-cl
 lyrics_url: https://www.azlyrics.com/lyrics/cl/lifted.html
 name: LIFTED
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-10-22'
+release_year: 1970
+runtime: 159040
 ---
-
 Hey, you, get off my cloud
 You don't know me, and you don't know my style
 Gettin' lifted, never coming down
@@ -81,6 +85,3 @@ I got myself a 40
 I got myself a shorty
 And I'm about to go get lifted
 Yes I'm about to go get lifted
-
-
-

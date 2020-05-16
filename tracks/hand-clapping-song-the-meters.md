@@ -1,8 +1,11 @@
 ---
+album: Struttin'
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:3COOd5xqfP3VUeTZtUKcvD
 features: []
-genres: []
+first_released_as_single: false
 key: hand-clapping-song-the-meters
 lyrics_url: https://www.azlyrics.com/lyrics/meters/handclappingsong.html
 name: Hand Clapping Song
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 176626
 ---
-
 Clap your hands now, people clap now
 Clap your hands now, people clap your hands
 Clap your hands now, people clap now
@@ -57,6 +61,3 @@ Clap your hands now, people clap your hands
 Clap your hands now, people clap now
 Clap your hands now, people clap your hands
 Clap your hands now, people clap now
-
-
-

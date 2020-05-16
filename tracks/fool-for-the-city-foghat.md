@@ -1,8 +1,11 @@
 ---
+album: Fool For The City
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:2SUg1AhsYsHUz4xzNlMnBQ
 features: []
-genres: []
+first_released_as_single: false
 key: fool-for-the-city-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/foolforthecity.html
 name: Fool For The City
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1975
+runtime: 271853
 ---
-
 Goin' to the city, got you on my mind,
 Country sure is pretty, I'll leave it all behind,
 This is my decision, I'm comin' home to stay this time.
@@ -70,6 +74,3 @@ I ain't no country boy, woo! (Fool for the city) (Fool for the city)
 Woo! (Fool for the city) (Fool for the city)
 A Fool for the city (Fool for the city) (Fool for the city)
 Whoo! (Fool for the city) (Fool for the city)
-
-
-

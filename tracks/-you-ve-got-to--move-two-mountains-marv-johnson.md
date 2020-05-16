@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:0DpHNzahddr6xXNG4qYXeD
 features: []
-genres: []
+first_released_as_single: false
 key: -you-ve-got-to--move-two-mountains-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-move-two-mountains-lyrics
 name: (You've Got To) Move Two Mountains
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 165933
 ---
 Some time ago I told you that I needed you
 It hurt me so when you said I don't mess with you

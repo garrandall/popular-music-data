@@ -1,9 +1,12 @@
 ---
+album: Black Market
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:6adehXz8vMUmXWJhEIdE6e
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: sorry-rick-ross-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/sorry.html
 name: Sorry
@@ -12,9 +15,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 330506
 ---
-
-
 What is this?
 Maybach Music
 I like this Maybach Music
@@ -96,6 +99,3 @@ I'm sorry, oh I'm sorry don't make it right
 
 
 I apologize, we're not perfect, I'm not perfect
-
-
-

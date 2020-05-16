@@ -1,9 +1,12 @@
 ---
+album: The Elephant In The Room
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:05YlrhaVCl39LCnvekFVPe
 features:
 - J. Holiday
-genres: []
+first_released_as_single: false
 key: i-won-t-tell-fat-joe-j--holiday
 lyrics_url: https://genius.com/Fat-joe-i-wont-tell-lyrics
 name: I Won't Tell
@@ -72,6 +75,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2008
+runtime: 229626
 ---
 Baby, you can keep a secret {*laughing*} Coca
 Krills mania - ayy, AYY!
@@ -101,7 +106,7 @@ If you don't want me to
 Cause I got a thing for you
 I'll do anything for ya (girl anything for ya)
 Baby I (I) won't (won't) tell (tell)
-I'll never do bad to youuuuu
+I'll never do bad to you
 Cause baby you got it, and you got me
 I got a thing for ya
 

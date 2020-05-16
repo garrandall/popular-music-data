@@ -1,9 +1,12 @@
 ---
+album: Double Dynamite
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:18ZKvlUB15UeMBqBl7jHkL
 features: []
-genres: []
+first_released_as_single: false
 key: when-something-is-wrong-with-my-baby-sam-dave
 lyrics_url: https://genius.com/Sam-and-dave-when-something-is-wrong-with-my-baby-lyrics
 name: When Something Is Wrong With My Baby
@@ -40,6 +43,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1966
+runtime: 197026
 ---
 When something is wrong with my baby
 Something is wrong with me

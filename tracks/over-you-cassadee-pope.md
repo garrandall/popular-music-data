@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:2Z79EukuDc4ii39XeYaRi5
 features: []
-genres: []
+first_released_as_single: false
 key: over-you-cassadee-pope
 lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/overyou.html
 name: Over You
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
+release_year: 2012
+runtime: 216506
 ---
-
 Weather man said it's gonna snow
 By now I should be used to the cold
 Mid-February shouldn't be so scary
@@ -50,6 +54,3 @@ I miss you
 They say I'll be OK
 But I'm not going to ever get over you
 Ever get over you
-
-
-

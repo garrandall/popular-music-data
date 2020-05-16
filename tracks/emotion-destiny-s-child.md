@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:0hpK5pxNOOMjdXWvvmFMzU
 features: []
-genres: []
+first_released_as_single: false
 key: emotion-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-emotion-lyrics
 name: Emotion
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
+release_year: 1999
+runtime: 235866
 ---
 Uh, yeah
 

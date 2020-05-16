@@ -1,8 +1,11 @@
 ---
+album: Rewind
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:5S5rw0WLVCAux5B5bWCehK
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-the-sound-of-that-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/ilikethesoundofthat.html
 name: I Like The Sound Of That
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
+release_year: 2014
+runtime: 209280
 ---
-
 I love hearing that shower turn on
 Bet there's nothing but a towel on you
 You sing along with some Timberlake bumpin'
@@ -146,6 +150,3 @@ Yes I do
 Ohhh oh oh
 I like the sound, I like the sound of that
 Ohhh
-
-
-

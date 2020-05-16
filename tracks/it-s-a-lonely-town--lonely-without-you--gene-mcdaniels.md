@@ -1,8 +1,11 @@
 ---
+album: Best Of Gene McDaniels
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:5GwXHovc5VzV5k4IJdQySi
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-lonely-town--lonely-without-you--gene-mcdaniels
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-McDaniels/It-s-a-Lonely-Town-Lonely-Without-You
 name: It's A Lonely Town (Lonely Without You)
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 160533
 ---
 The streets are crowded, people are everywhere.
 The sounds of laughter and music fill the air.

@@ -1,8 +1,11 @@
 ---
+album: Yo Frankie
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:59pDN7GbnAgrMNHk5Cb7ua
 features: []
-genres: []
+first_released_as_single: false
 key: and-the-night-stood-still-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/andthenightstoodstill.html
 name: And The Night Stood Still
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1989
+runtime: 270306
 ---
-
 Do you remember, oh the night that we first met
 The moment I looked in your eyes I never will forget
 Do you remember oh the time that we first kissed
@@ -90,6 +94,3 @@ And like a breeze we moved cool and slow
 To the rhythm of the radio
 And I reached out for you and held you close
 And the night stood still
-
-
-

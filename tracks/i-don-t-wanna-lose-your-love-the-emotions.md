@@ -1,8 +1,11 @@
 ---
+album: Flowers (Bonus Track Version)
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:4XRIJv9wuuVilF6ohFeaVK
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-lose-your-love-the-emotions
 lyrics_url: https://genius.com/The-emotions-i-dont-wanna-lose-your-love-lyrics
 name: I Don't Wanna Lose Your Love
@@ -55,6 +58,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 241933
 ---
 Dinner's ready
 And the wine is chilled

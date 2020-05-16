@@ -1,9 +1,12 @@
 ---
+album: Bonafide
 artists:
 - Jon B.
+external_ids:
+  spotify: spotify:track:4mKbb9uvBMlVvOUv8fdBt8
 features:
 - Babyface
-genres: []
+first_released_as_single: false
 key: someone-to-love-jon-b--babyface
 lyrics_url: https://www.azlyrics.com/lyrics/jonb/someonetolove.html
 name: Someone To Love
@@ -128,8 +131,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
+release_year: 1995
+runtime: 272360
 ---
-
 Don't even like to think about it
 I don't know what I would do without it
 I only know I live and breathe for your love
@@ -185,6 +189,3 @@ Someone to love
 Someone to trust
 Someone to hold
 Oh someone to know
-
-
-

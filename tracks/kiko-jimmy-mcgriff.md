@@ -1,8 +1,11 @@
 ---
+album: At The Organ
 artists:
 - Jimmy McGriff
+external_ids:
+  spotify: spotify:track:0ryQlPz1nO3MFn4N7ij4pO
 features: []
-genres: []
+first_released_as_single: false
 key: kiko-jimmy-mcgriff
 name: Kiko
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 208933
 ---
 

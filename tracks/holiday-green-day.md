@@ -1,8 +1,11 @@
 ---
+album: Warning
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:02COSjkOwyoMNW30Tge9Gu
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-green-day
 lyrics_url: https://genius.com/Green-day-holiday-lyrics
 name: Holiday
@@ -135,6 +138,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
+release_year: 2000
+runtime: 215293
 ---
 Say hey! Cha
 

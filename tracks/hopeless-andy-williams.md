@@ -1,8 +1,11 @@
 ---
+album: The Essential Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:0r3dzk4ewWIFyZKeZA0Hog
 features: []
-genres: []
+first_released_as_single: false
 key: hopeless-andy-williams
 lyrics_url: https://genius.com/Andy-williams-hopeless-lyrics
 name: Hopeless
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 157840
 ---
 This is hopeless
 Yes, it's so hopeless

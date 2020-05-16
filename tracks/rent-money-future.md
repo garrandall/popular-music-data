@@ -1,8 +1,11 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3lZLOKdlD1AqbEGQpWEKQE
 features: []
-genres: []
+first_released_as_single: false
 key: rent-money-future
 lyrics_url: https://genius.com/Future-rent-money-lyrics
 name: Rent Money
@@ -11,6 +14,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2017
+runtime: 225706
 ---
 Super!
 They go crazy, yeah

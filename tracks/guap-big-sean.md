@@ -1,8 +1,11 @@
 ---
+album: Hall Of Fame
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:7G0PgkkbavF7Rh4zNrUxH0
 features: []
-genres: []
+first_released_as_single: false
 key: guap-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/guap.html
 name: Guap
@@ -55,9 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 271653
 ---
-
-
 God, oh, God
 I've been working all God damn year, I just got my check
 I'm 'bout to spend it all on me, I'm worth it ya
@@ -157,6 +160,3 @@ This to all of my enemies that seeing me gettin' guap right now
 Seeing me gettin' guap right now, hell yeah, I won't stop right now
 Seeing me gettin' guap right now, hell nah, I won't stop right now
 Hell nah, I won't stop right now, seeing me gettin' guap right now
-
-
-

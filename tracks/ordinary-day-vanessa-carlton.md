@@ -1,8 +1,11 @@
 ---
+album: Be Not Nobody
 artists:
 - Vanessa Carlton
+external_ids:
+  spotify: spotify:track:6kcEeXcDca8oe9dlvYeGmI
 features: []
-genres: []
+first_released_as_single: false
 key: ordinary-day-vanessa-carlton
 lyrics_url: https://www.azlyrics.com/lyrics/vanessacarlton/ordinaryday.html
 name: Ordinary Day
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
+release_year: 2002
+runtime: 238440
 ---
-
 Just a day
 Just an ordinary day
 Just trying to get by
@@ -137,6 +141,3 @@ Just trying to get by
 Just a boy
 Just an ordinary boy
 But he was looking to the sky
-
-
-

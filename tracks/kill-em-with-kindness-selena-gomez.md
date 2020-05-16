@@ -1,8 +1,11 @@
 ---
+album: Revival
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:1QNoKVgA758HFLu3TW2q7R
 features: []
-genres: []
+first_released_as_single: false
 key: kill-em-with-kindness-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-kill-em-with-kindness-lyrics
 name: Kill Em With Kindness
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-09-24'
+release_year: 2015
+runtime: 217906
 ---
 The world can be a nasty place
 You know it, I know it, yeah

@@ -1,8 +1,11 @@
 ---
+album: Where Did Our Love Go
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:69RH84na5iUNwrwxpgjC5j
 features: []
-genres: []
+first_released_as_single: false
 key: where-did-our-love-go-the-supremes
 lyrics_url: https://genius.com/The-supremes-where-did-our-love-go-lyrics
 name: Where Did Our Love Go
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 153333
 ---
 Baby, baby
 Baby don't leave me

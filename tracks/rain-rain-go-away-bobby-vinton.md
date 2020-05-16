@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Vinton
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:14Z9qaMDQqlwWyhEzKwhDZ
 features: []
-genres: []
+first_released_as_single: false
 key: rain-rain-go-away-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/rainraingoaway.html
 name: Rain Rain Go Away
@@ -51,8 +54,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
+release_year: 1962
+runtime: 176693
 ---
-
 I can still remember 
 When you moved in next door 
 I brought you some choc'late 
@@ -94,6 +98,3 @@ Rain rain go away
 Tomorrow is her wedding day 
 Rain rain go away 
 Bring my love a sunny day
-
-
-

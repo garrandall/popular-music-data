@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee Sings Your Favorites
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:7BjfhLDrFRE6omVIMzY8Fq
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-met-you-baby-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Since-I-Met-You-Baby
 name: Since I Met You Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
+release_year: 1960
+runtime: 141840
 ---
 Since I met you baby
 My whole life has changed

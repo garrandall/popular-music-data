@@ -1,8 +1,11 @@
 ---
+album: Mad Love
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:1AjxpCAne6mI0XztUceFPO
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-let-go-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-i-cant-let-go-lyrics
 name: I Can't Let Go
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1980
+runtime: 159600
 ---
 Oh, I tried and I tried
 But I can't say good-bye

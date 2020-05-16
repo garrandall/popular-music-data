@@ -1,8 +1,11 @@
 ---
+album: 'Take Me Home: Yearbook Edition'
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:7kSLdGdXLey7pzLsWpdg1h
 features: []
-genres: []
+first_released_as_single: false
 key: little-things-one-direction
 lyrics_url: https://genius.com/One-direction-little-things-lyrics
 name: Little Things
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 219640
 ---
 Your hand fits in mine like it's made just for me
 But bear this in mind it was meant to be

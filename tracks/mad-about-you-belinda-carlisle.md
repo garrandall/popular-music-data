@@ -1,8 +1,11 @@
 ---
+album: Belinda
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:3XGDOjfpQfZ3Bxu1um26HI
 features: []
-genres: []
+first_released_as_single: false
 key: mad-about-you-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/madaboutyou.html
 name: Mad About You
@@ -91,8 +94,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-10-04'
+release_year: 1986
+runtime: 218226
 ---
-
 I'm mad about you
 You're mad about me babe
 Couple of fools run wild aren't we
@@ -111,6 +115,3 @@ Touches the touched part of me like I can't believe
 Pushing the night into the daytime
 Watching the sky's first light
 While the city sleeps
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music Box
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:4FCb4CUbFCMNRkI6lYc1zI
 features: []
-genres: []
+first_released_as_single: false
 key: hero-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/hero.html
 name: Hero
@@ -127,8 +130,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1993
+runtime: 257733
 ---
-
 There's a hero
 If you look inside your heart
 You don't have to be afraid
@@ -184,6 +188,3 @@ And you'll finally see the truth
 That a hero lies in you
 That a hero lies in you
 That a hero lies in you
-
-
-

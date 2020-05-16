@@ -1,8 +1,11 @@
 ---
+album: The Black Album
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:3IrkbGQCoEPAkzJ0Tkv8nm
 features: []
-genres: []
+first_released_as_single: false
 key: dirt-off-your-shoulder-jay-z
 lyrics_url: https://genius.com/Jay-z-dirt-off-your-shoulder-lyrics
 name: Dirt Off Your Shoulder
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 2003
+runtime: 245173
 ---
 You're now tuned into the muh'fuckin' greatest (Jigga)
 Turn the music up in the headphones (Jigga)

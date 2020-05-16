@@ -1,8 +1,11 @@
 ---
+album: The Many Facets Of Roger
 artists:
 - Roger
+external_ids:
+  spotify: spotify:track:30FVT0PXZGSNdoTRU0kEsR
 features: []
-genres: []
+first_released_as_single: false
 key: i-heard-it-through-the-grapevine--part-1--roger
 lyrics_url: https://genius.com/Roger-troutman-i-heard-it-through-the-grapevine-lyrics
 name: I Heard It Through The Grapevine (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1981
+runtime: 650800
 ---
 Grapevine
 (Grapevine)

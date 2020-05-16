@@ -1,8 +1,11 @@
 ---
+album: Echoes Down the Hall - 16 Original Doo Wop Classics
 artists:
 - Mello-Kings
+external_ids:
+  spotify: spotify:track:26wmGxioyrF7sqMGrEpaSj
 features: []
-genres: []
+first_released_as_single: false
 key: tonite-tonite-mello-kings
 lyrics_url: https://genius.com/The-mello-kings-tonite-tonite-lyrics
 name: Tonite Tonite
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1961
+runtime: 151666
 ---
 Tonight, tonight, while I'm holding you so near
 Tonight, tonight, what I'd give if I could hear

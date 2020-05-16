@@ -1,9 +1,12 @@
 ---
+album: R.
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:4UDQEazTqhCICqssWtMZEO
 features:
 - Keith Murray
-genres: []
+first_released_as_single: false
 key: home-alone-r--kelly-keith-murray
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/homealone.html
 name: Home Alone
@@ -72,9 +75,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
+release_year: 1996
+runtime: 299560
 ---
-
-
 It's gonna be a party y'all
 Keith Murray rock vibes, verse you with Universal
 Where no one come, combine with R. Kelly and prove it can be done
@@ -137,4 +140,3 @@ A reason to celebrate
 Now that we got the money, oh yeah
 We dance the night away
 Nothing but the hands up
-

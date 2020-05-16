@@ -1,8 +1,11 @@
 ---
+album: Gee Whiz
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:68IngNKFxLJQZvTyzYIKIg
 features: []
-genres: []
+first_released_as_single: false
 key: gee-whiz--look-at-his-eyes--carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-gee-whiz-lyrics
 name: Gee Whiz (Look At His Eyes)
@@ -63,6 +66,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 141840
 ---
 Gee whiz
 Look at his eyes

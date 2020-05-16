@@ -1,8 +1,11 @@
 ---
+album: Prisoner In Disguise
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:785Zx8MzinYPVssPaktKoG
 features: []
-genres: []
+first_released_as_single: false
 key: tracks-of-my-tears-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/tracksofmytears.html
 name: Tracks Of My Tears
@@ -59,8 +62,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 193773
 ---
-
 People say I'm the life of the party
 'Cause I tell a joke or two
 Although I might be laughing loud and hearty
@@ -99,6 +103,3 @@ If you look closer it's easy to trace
 The tracks of my tears
 
 Ohohoohhoh
-
-
-

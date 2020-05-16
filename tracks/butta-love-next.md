@@ -1,8 +1,11 @@
 ---
+album: Rated Next
 artists:
 - Next
+external_ids:
+  spotify: spotify:track:6Zh0c0CYsSUGo0a5cucoTC
 features: []
-genres: []
+first_released_as_single: true
 key: butta-love-next
 lyrics_url: https://www.azlyrics.com/lyrics/next/buttalove.html
 name: Butta Love
@@ -99,8 +102,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 265240
 ---
-
 Hsss ugh
 I gotta be real wit' you, baby
 Just gotta let you know
@@ -181,6 +185,3 @@ Baby, you're so right, you're locked tight
 You've got that butta love, oh
 
 I want it, I need it
-
-
-

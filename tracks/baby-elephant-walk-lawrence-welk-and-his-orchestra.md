@@ -1,8 +1,11 @@
 ---
+album: My Best
 artists:
 - Lawrence Welk
+external_ids:
+  spotify: spotify:track:2aVKSDryQrf1OCwm5GzjQL
 features: []
-genres: []
+first_released_as_single: false
 key: baby-elephant-walk-lawrence-welk-and-his-orchestra
 name: Baby Elephant Walk
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 123880
 ---
 

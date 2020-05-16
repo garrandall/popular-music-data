@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:5jsxE1nDuRrEgN9gmbWWYS
 features: []
-genres: []
+first_released_as_single: false
 key: playboy-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/playboy.html
 name: Playboy
@@ -67,8 +70,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1962
+runtime: 164840
 ---
-
 Watch out, oh girls, you know we've got to
 Watch out, girls, you know we've got to
 Watch out, here comes that playboy
@@ -121,6 +125,3 @@ Watch for the playboy, he's bringin' you false joy
 Watch out, here comes that playboy
 Watch out, here comes that playboy
 Watch out, here comes that playboy
-
-
-

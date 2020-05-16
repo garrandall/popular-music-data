@@ -1,8 +1,11 @@
 ---
+album: "No\xEBl"
 artists:
 - Josh Groban
+external_ids:
+  spotify: spotify:track:14hZV4pCPf024A59yc9r1o
 features: []
-genres: []
+first_released_as_single: true
 key: i-ll-be-home-for-christmas-josh-groban
 lyrics_url: https://genius.com/Josh-groban-ill-be-home-for-christmas-lyrics
 name: I'll Be Home For Christmas
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-12-30'
+release_year: 2006
+runtime: 145773
 ---
 I'm dreaming tonight of a place I love
 Even more than I usually do

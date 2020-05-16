@@ -1,9 +1,12 @@
 ---
+album: Shaman
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:41IShViF79gmulEkIHAjcb
 features:
 - Michelle Branch
-genres: []
+first_released_as_single: false
 key: the-game-of-love-santana-michelle-branch
 lyrics_url: https://www.azlyrics.com/lyrics/santana/thegameoflove.html
 name: The Game Of Love
@@ -156,8 +159,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-06-14'
+release_year: 2002
+runtime: 254466
 ---
-
 Tell me just what you want me to be
 One kiss and boom you're the only one for me
 So please tell me why don't you come around no more
@@ -204,6 +208,3 @@ Roll me
 Control me
 Please hold me
 (make me feel good, yeah)
-
-
-

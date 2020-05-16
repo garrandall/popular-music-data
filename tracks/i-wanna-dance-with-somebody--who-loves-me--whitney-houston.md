@@ -1,8 +1,11 @@
 ---
+album: Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:2tUBqZG2AbRi7Q0BIrVrEj
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-dance-with-somebody--who-loves-me--whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-i-wanna-dance-with-somebody-who-loves-me-lyrics
 name: I Wanna Dance With Somebody (Who Loves Me)
@@ -87,6 +90,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 1987
+runtime: 291293
 ---
 Huh
 Yeah

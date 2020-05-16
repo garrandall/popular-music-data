@@ -1,8 +1,11 @@
 ---
+album: The Sky's The Limit
 artists:
 - BlackHawk
+external_ids:
+  spotify: spotify:track:5iYhLXMXR4r335x9MrTvRE
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-have-it-blackhawk
 lyrics_url: https://www.azlyrics.com/lyrics/blackhawk/thereyouhaveit.html
 name: There You Have It
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 192266
 ---
-
 You're the kind of woman, I've been dreaming of.
 But I never thought I could ever say it good enough to win your love
 You probably think I'm foolish you probably tell me so
@@ -107,6 +111,3 @@ Oh yah yah yah
 There I've done it.
 There I've said it.
 There you have it.
-
-
-

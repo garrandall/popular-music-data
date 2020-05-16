@@ -1,8 +1,11 @@
 ---
+album: Bad Girls
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:0bIPqZYXyiRkOeqOkpOT0R
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-radio-donna-summer
 lyrics_url: https://genius.com/Donna-summer-on-the-radio-lyrics
 name: On The Radio
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1979
+runtime: 454906
 ---
 Someone found a letter you wrote me on the radio
 And they told the world just how you felt

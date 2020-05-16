@@ -1,8 +1,11 @@
 ---
+album: Stone Soul
 artists:
 - Mongo Santamaria
+external_ids:
+  spotify: spotify:track:7CRJV0qUMAxftqySiPazpK
 features: []
-genres: []
+first_released_as_single: false
 key: cloud-nine-mongo-santamaria
 lyrics_url: https://genius.com/Mongo-santamaria-cloud-nine-lyrics
 name: Cloud Nine
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1964
+runtime: 344960
 ---
 Childhood part of my life, it wasn't very pretty
 You see, I was born and raised in the slums of the city

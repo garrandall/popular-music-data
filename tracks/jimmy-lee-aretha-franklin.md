@@ -1,8 +1,11 @@
 ---
+album: Aretha
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0GEfl6B48wOuHouzXeq6Cf
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-lee-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/jimmylee.html
 name: Jimmy Lee
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 346986
 ---
-
 All this time
 I couldn't shake your memory
 And I never knew the
@@ -179,6 +183,3 @@ Won't you please explain to me
 Why you left me, oh, behind you
 
 Jimmy Lee, this one's for me...
-
-
-

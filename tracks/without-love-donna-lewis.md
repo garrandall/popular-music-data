@@ -1,8 +1,11 @@
 ---
+album: Now In A Minute
 artists:
 - Donna Lewis
+external_ids:
+  spotify: spotify:track:4qb9W8qLJLt1hisMYnJP3u
 features: []
-genres: []
+first_released_as_single: false
 key: without-love-donna-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/donnalewis/withoutlove.html
 name: Without Love
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 222440
 ---
-
 Think of me like I think about you 
 Give me a sign, show me you care 
 Am I so far away in your thoughts not there
@@ -101,6 +105,3 @@ I mean nothing, I mean nothing, I mean nothing, nothing to you
 And I'm broken, and I'm broken, broken in two
 I mean nothing
 Yeah
-
-
-

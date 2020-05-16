@@ -1,8 +1,11 @@
 ---
+album: Hell
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4inILczGN25SEhyqS6qhJ2
 features: []
-genres: []
+first_released_as_single: false
 key: my-thang-james-brown
 lyrics_url: https://genius.com/James-brown-my-thang-lyrics
 name: My Thang
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 259760
 ---
 Tell us about it
 Brand new funk

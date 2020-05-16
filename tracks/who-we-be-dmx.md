@@ -1,8 +1,11 @@
 ---
+album: The Great Depression
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:1RbnH7qjUyWJWh8kjFIYNw
 features: []
-genres: []
+first_released_as_single: false
 key: who-we-be-dmx
 lyrics_url: https://genius.com/Dmx-who-we-be-lyrics
 name: Who We Be
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-12-29'
+release_year: 2001
+runtime: 287866
 ---
 Uhh, yeah, another one of those (this is for my nigga Q)
 Down to earth joints (rest in peace baby - you know how we roll)

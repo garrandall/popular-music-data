@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:0wacMQp7uVCSV7WVipU1yK
 features: []
-genres: []
+first_released_as_single: false
 key: wake-me-shake-me-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/wakemeshakeme.html
 name: Wake Me Shake Me
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 153600
 ---
-
 Why don't you wake me, shake me?
 Don't let me sleep too late
 Gotta get up in the morning
@@ -104,6 +108,3 @@ Gotta get up in the morning time
 About a quarter to eight
 
 Why don't you wake me, shake me?
-
-
-

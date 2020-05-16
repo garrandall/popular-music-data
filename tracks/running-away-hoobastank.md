@@ -1,8 +1,11 @@
 ---
+album: Hoobastank
 artists:
 - Hoobastank
+external_ids:
+  spotify: spotify:track:658FEXDknBDQDPBNN9Mhy6
 features: []
-genres: []
+first_released_as_single: false
 key: running-away-hoobastank
 lyrics_url: https://www.azlyrics.com/lyrics/hoobastank/runningaway.html
 name: Running Away
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
+release_year: 2001
+runtime: 178440
 ---
-
 I don't want you to give it all up
 And leave your own life collecting dust
 And I don't want you to feel sorry for me
@@ -124,6 +128,3 @@ Why are you running away?
 So why are you running away?
 ...To make you admit you're afraid...
 Why are you running away?
-
-
-

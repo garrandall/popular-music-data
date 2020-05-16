@@ -1,8 +1,11 @@
 ---
+album: Light Grenades
 artists:
 - Incubus
+external_ids:
+  spotify: spotify:track:0uLhNT7UIH3nZCCDZd3OBl
 features: []
-genres: []
+first_released_as_single: false
 key: anna-molly-incubus
 lyrics_url: https://www.azlyrics.com/lyrics/incubus/annamolly.html
 name: Anna-Molly
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 225880
 ---
-
 A cloud hangs over this city by the sea,
 I watch the ships pass and wonder if she might be,
 Out there and sober as a well for loneliness,
@@ -81,6 +85,3 @@ Anna-Molly, Anna-Molly, Anna-Molly,
 I'm calling your name up into the air.
 Not one of the others could ever compare!
 Anna-Molly, Anna-Molly!
-
-
-

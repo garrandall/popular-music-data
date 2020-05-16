@@ -1,8 +1,11 @@
 ---
+album: That's a Rack
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:4pCEIQ6wBVuaJdER5bALtO
 features: []
-genres: []
+first_released_as_single: true
 key: that-s-a-rack-lil-uzi-vert
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Uzi-Vert/That-s-A-Rack
 name: That's A Rack
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 236571
 ---
 Yeah-ah
 Oogie Mane he killed it

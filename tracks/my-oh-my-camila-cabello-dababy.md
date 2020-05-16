@@ -1,9 +1,12 @@
 ---
+album: Romance
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:3yOlyBJuViE2YSGn3nVE1K
 features:
 - DaBaby
-genres: []
+first_released_as_single: false
 key: my-oh-my-camila-cabello-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/myohmy.html
 name: My Oh My
@@ -64,8 +67,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 170746
 ---
-
 They say he likes a good time
 (My oh my)
 He comes alive at midnight
@@ -137,6 +141,3 @@ My mama doesn't trust him
 (My oh my)
 He's only here for one thing but
 (So am I)
-
-
-

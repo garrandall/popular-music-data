@@ -1,8 +1,11 @@
 ---
+album: Tell Me You Love Me
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:1MKZaAEx8RrzoQjHhVuvgs
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-you-love-me-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-tell-me-you-love-me-lyrics
 name: Tell Me You Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2017
+runtime: 236986
 ---
 Oh no, here we go again
 Fighting over what I said

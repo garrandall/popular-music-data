@@ -1,8 +1,11 @@
 ---
+album: All Things Must Pass
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:76TpWFiK5YCgw1hy26DWZp
 features: []
-genres: []
+first_released_as_single: false
 key: what-is-life-george-harrison
 lyrics_url: https://genius.com/George-harrison-what-is-life-lyrics
 name: What Is Life
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1970
+runtime: 264413
 ---
 What I feel, I can't say
 But my love is there for you anytime of day

@@ -1,9 +1,12 @@
 ---
+album: Friends In Love
 artists:
 - Dionne Warwick
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:3az3Jlf5EBhvSO1LMsZ7Qm
 features: []
-genres: []
+first_released_as_single: false
 key: friends-in-love-dionne-warwick-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/friendsinlove.html
 name: Friends In Love
@@ -60,8 +63,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1982
+runtime: 242346
 ---
-
 Sometimes, lonely nights turn into sunny days
 I never thought I'd feel this way, I never knew 
 That you and I were meant to be in love
@@ -105,6 +109,3 @@ Hoping that we always will be friends in love
 Strong when we're together
 Darling now we've got forever and a day
 Don't you go away
-
-
-

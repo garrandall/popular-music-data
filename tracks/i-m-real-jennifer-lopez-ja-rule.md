@@ -1,9 +1,12 @@
 ---
+album: J.Lo
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:6MLsahMK3VvH9NUwXOktdS
 features:
 - Ja Rule
-genres: []
+first_released_as_single: false
 key: i-m-real-jennifer-lopez-ja-rule
 lyrics_url: https://genius.com/Jennifer-lopez-im-real-murder-remix-lyrics
 name: I'm Real
@@ -132,6 +135,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2001
+runtime: 262133
 ---
 (Murder Inc)
 What's my motherfuckin' name?!

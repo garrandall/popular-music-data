@@ -1,8 +1,11 @@
 ---
+album: Dreaming a Dream
 artists:
 - Crown Heights Affair
+external_ids:
+  spotify: spotify:track:3IL7UsFy1kyfhGUeAdwVis
 features: []
-genres: []
+first_released_as_single: false
 key: every-beat-of-my-heart-crown-heights-affair
 lyrics_url: https://genius.com/Crown-heights-affair-every-beat-of-my-heart-lyrics
 name: Every Beat Of My Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
+release_year: 1975
+runtime: 338200
 ---
 See girls every day
 (I see girls every day)

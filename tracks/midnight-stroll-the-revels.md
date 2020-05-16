@@ -1,8 +1,11 @@
 ---
+album: Zany Novelty Hits of the '60s
 artists:
 - The Revels
+external_ids:
+  spotify: spotify:track:2MkXSbklgK620KwWluHUb6
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-stroll-the-revels
 lyrics_url: https://genius.com/The-revels-midnight-stroll-lyrics
 name: Midnight Stroll
@@ -47,6 +50,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 156120
 ---
 Just got off from work
 It was awful late

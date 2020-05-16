@@ -1,8 +1,11 @@
 ---
+album: Exodus To Jazz
 artists:
 - Eddie Harris
+external_ids:
+  spotify: spotify:track:508ngYYluO4BMCcHzQSIGU
 features: []
-genres: []
+first_released_as_single: false
 key: exodus-eddie-harris
 name: Exodus
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 403423
 ---
 

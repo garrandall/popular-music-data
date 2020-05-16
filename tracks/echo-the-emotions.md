@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop Doo-Wop Doo-Wop All Night Long
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:5tp6LCB0eozHSqGT6LQgn9
 features: []
-genres: []
+first_released_as_single: false
 key: echo-the-emotions
 lyrics_url: https://genius.com/The-emotions-echo-lyrics
 name: Echo
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 156266
 ---
 Echo, echo, echo
 Echo, echo, echo

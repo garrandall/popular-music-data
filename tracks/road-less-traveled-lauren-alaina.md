@@ -1,8 +1,11 @@
 ---
+album: Road Less Traveled
 artists:
 - Lauren Alaina
+external_ids:
+  spotify: spotify:track:4nxgA1nvXvTkmsBY0vJV57
 features: []
-genres: []
+first_released_as_single: false
 key: road-less-traveled-lauren-alaina
 lyrics_url: https://www.azlyrics.com/lyrics/laurenalaina/roadlesstraveled.html
 name: Road Less Traveled
@@ -55,8 +58,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 216266
 ---
-
 Why do you keep on staring?
 That mirror, mirror, it ain't fair at all (mm-mm)
 Dress sizes can't define, don't let the world decide what's beautiful
@@ -116,6 +120,3 @@ Don't be afraid, take the road less traveled on
 
 Traveled on
 Take the road less traveled on
-
-
-

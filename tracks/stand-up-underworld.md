@@ -1,8 +1,11 @@
 ---
+album: Change The Weather
 artists:
 - Underworld
+external_ids:
+  spotify: spotify:track:4oXG2N3ITq1U6BE2R8wAvF
 features: []
-genres: []
+first_released_as_single: false
 key: stand-up-underworld
 lyrics_url: https://genius.com/Underworld-stand-up-lyrics
 name: Stand Up
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 231195
 ---
 What d'you see when you look at me?
 You got somethin' you need to say

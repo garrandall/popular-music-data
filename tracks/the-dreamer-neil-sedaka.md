@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:01ti2HFHInilWhcII7oyeX
 features: []
-genres: []
+first_released_as_single: false
 key: the-dreamer-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/thedreamer.html
 name: The Dreamer
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 190200
 ---
-
 The dreamer
 Silly dreamer
 They all call me
@@ -67,6 +71,3 @@ They were wrong about you
 Wrong to doubt you
 Darling, we'll show them
 How dreams come true
-
-
-

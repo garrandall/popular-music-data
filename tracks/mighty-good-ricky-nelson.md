@@ -1,8 +1,11 @@
 ---
+album: It's Up To You
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:6Gwqyk0JyoMo0oVHwX7eKG
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-good-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/mightygood.html
 name: Mighty Good
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 140866
 ---
-
 Now when I see you walking by with a wiggle walk
 You know you look mighty good oowee
 And baby you can talk the kind of talk
@@ -86,6 +90,3 @@ And when you set my lips on fire
 It feels mighty good to me
 Awww it feels mighty good to me
 You know it feels mighty good to me
-
-
-

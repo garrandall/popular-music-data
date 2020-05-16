@@ -1,8 +1,11 @@
 ---
+album: The Best of Super Rare Soul
 artists:
 - Theola Kilgore
+external_ids:
+  spotify: spotify:track:24HkOeTvVDvIsFLpqBYIrQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-of-my-man-theola-kilgore
 lyrics_url: https://www.musixmatch.com/lyrics/Theola-Kilgore/The-Love-of-My-Man
 name: The Love Of My Man
@@ -55,6 +58,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
+release_year: 1963
+runtime: 197239
 ---
 The love of my man
 Keeps me safe and warm

@@ -1,8 +1,11 @@
 ---
+album: Passion, Pain & Pleasure
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5rX60GiR64Epgri9Ubjzg9
 features: []
-genres: []
+first_released_as_single: false
 key: love-faces-trey-songz
 lyrics_url: https://genius.com/Trey-songz-love-faces-lyrics
 name: Love Faces
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2010
+runtime: 243800
 ---
 When I met you woman
 I couldn't help but notice a face so beautiful

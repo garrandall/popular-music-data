@@ -1,8 +1,11 @@
 ---
+album: The Sign
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:4SYMibQ93bfzOk6uzkF0dO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-turn-around-ace-of-base
 lyrics_url: https://genius.com/Ace-of-base-dont-turn-around-lyrics
 name: Don't Turn Around
@@ -131,6 +134,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
+release_year: 1993
+runtime: 230186
 ---
 I will survive
 Without you

@@ -1,8 +1,11 @@
 ---
+album: Fuel for the Fire
 artists:
 - Naked Eyes
+external_ids:
+  spotify: spotify:track:1Y1f545iaGofOJo4qya2e5
 features: []
-genres: []
+first_released_as_single: false
 key: -what--in-the-name-of-love-naked-eyes
 lyrics_url: https://genius.com/Naked-eyes-what-in-the-name-of-love-lyrics
 name: (what) In The Name Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
+release_year: 1984
+runtime: 267066
 ---
 As I watch you close the door
 With nothing to say

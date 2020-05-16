@@ -1,8 +1,11 @@
 ---
+album: Cosmic Hallelujah
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2flWhcGYxQHhb1EeeU2dOL
 features: []
-genres: []
+first_released_as_single: false
 key: bar-at-the-end-of-the-world-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/barattheendoftheworld.html
 name: Bar At The End Of The World
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 207306
 ---
-
 There's a trail of smoke comin' out of a bottle
 If you look real close, you can see it right there
 A little tin roof bar down a path you have to follow
@@ -59,6 +63,3 @@ It's like nowhere else
 You've ever been, we'll write your name on a dollar bill
 Put it on a wall it'll still be there
 Next time we come back girl, to the bar at the end of the world
-
-
-

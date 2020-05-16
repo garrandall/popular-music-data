@@ -1,9 +1,12 @@
 ---
+album: SEX AND LOVE
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:4jMu6QYon1JEikcdTJ1TzR
 features:
 - Marco Antonio Solis
-genres: []
+first_released_as_single: false
 key: el-perdedor-enrique-iglesias-marco-antonio-solis
 lyrics_url: https://genius.com/Enrique-iglesias-el-perdedor-lyrics
 name: El Perdedor
@@ -12,6 +15,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-02-08'
+release_year: 2014
+runtime: 191426
 ---
 Qué más quieres de mí
 Si el pasado está a prueba de tu amor

@@ -1,8 +1,11 @@
 ---
+album: Where It's At
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:4whYDpJ5XVQpmvecbEHP5Q
 features: []
-genres: []
+first_released_as_single: false
 key: where-it-s-at--yep-yep--dustin-lynch
 lyrics_url: https://genius.com/Dustin-lynch-where-its-at-lyrics
 name: Where It's At (Yep Yep)
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2014
+runtime: 204186
 ---
 It ain’t in a high rise looking for a good time shutting down the city lights
 It ain’t in the water floating like a bobber soaking up that hot sunshine

@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:43zdsphuZLzwA9k4DJhU0I
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-party-s-over-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-when-the-partys-over-lyrics
 name: When The Party's Over
@@ -135,6 +138,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2018
+runtime: 196077
 ---
 Don't you know I'm no good for you?
 I've learned to lose you, can't afford to

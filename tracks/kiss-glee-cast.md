@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5XFuLM95OKDDVScEtaaHSn
 features: []
-genres: []
+first_released_as_single: true
 key: kiss-glee-cast
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast-feat-Gwyneth-Paltrow/Kiss
 name: Kiss
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2009
+runtime: 180720
 ---
 You don't have to be beautiful
 To turn me on

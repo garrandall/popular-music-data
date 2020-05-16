@@ -1,8 +1,11 @@
 ---
+album: The Incomparable Sarah Vaughan
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:3gzhQlD1IF79PVRh3Lh8dk
 features: []
-genres: []
+first_released_as_single: true
 key: serenata-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-serenata-lyrics
 name: Serenata
@@ -31,6 +34,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 161026
 ---
 Tonight while all the world is still
 Fly sweet song over the highest hill

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tevin Campbell
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:6a5jHgwqYMk9wlYJYfs3c9
 features: []
-genres: []
+first_released_as_single: false
 key: can-we-talk-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/canwetalk.html
 name: Can We Talk
@@ -111,8 +114,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 284586
 ---
-
 Last night I, I saw you standing, and I started, started pretending
 I knew you and you knew me too.And just like a roni you were
 Too shy, but you weren't the only cause so was I.
@@ -143,6 +147,3 @@ See I wanna know I wanna know I wanna know your name. Now can we talk for a minu
 Come on and talk to me baby come on baby come on baby, yeah I said can we talk for a minute
 Come on and talk to me baby. See I wanna know you better tell me your name baby.
 I said talk to me for a minute come on and talk to me baby.
-
-
-

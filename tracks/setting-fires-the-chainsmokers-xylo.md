@@ -1,9 +1,12 @@
 ---
+album: Collage EP
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:2PC9Tl8SWVO2yhDDtJcrAi
 features:
 - XYLO
-genres: []
+first_released_as_single: true
 key: setting-fires-the-chainsmokers-xylo
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/settingfires.html
 name: Setting Fires
@@ -16,8 +19,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 247426
 ---
-
 Down to my last match fire I'll touch just to feel
 Why's it easier to burn than it is to heal?
 
@@ -80,6 +84,3 @@ I can't
 I can't
 I can't go on and on
 Setting fires to keep you warm
-
-
-

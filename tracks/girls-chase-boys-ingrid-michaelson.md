@@ -1,8 +1,11 @@
 ---
+album: Lights Out
 artists:
 - Ingrid Michaelson
+external_ids:
+  spotify: spotify:track:3tInTDUq8wdIMw5ftohmqJ
 features: []
-genres: []
+first_released_as_single: false
 key: girls-chase-boys-ingrid-michaelson
 lyrics_url: https://www.azlyrics.com/lyrics/ingridmichaelson/girlschaseboys.html
 name: Girls Chase Boys
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
+release_year: 2014
+runtime: 221413
 ---
-
 All the broken hearts in the world still beat
 Let's not make it harder than it has to be
 Ohh, it's all the same thing
@@ -144,6 +148,3 @@ Girls chase boys chase girls
 
 Ohh, it's all the same thing
 Girls chase boys chase girls
-
-
-

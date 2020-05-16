@@ -1,8 +1,11 @@
 ---
+album: Songbird
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:0XoMHUBsG7MSfdtDezfoYG
 features: []
-genres: []
+first_released_as_single: false
 key: songbird-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/songbird.html
 name: Songbird
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1972
+runtime: 224426
 ---
-
 Songbird sings from the heart
 Each word can tear you apart
 I sing - you sing along
@@ -78,6 +82,3 @@ I'm all alone now
 Where is my songbird,
 Where is my songbird,
 Who sings his song for me?
-
-
-

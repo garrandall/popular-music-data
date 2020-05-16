@@ -1,8 +1,11 @@
 ---
+album: The Man I Want To Be
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:5pemEFax3jfocz4FGHa3UC
 features: []
-genres: []
+first_released_as_single: false
 key: voices-chris-young
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/voices.html
 name: Voices
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2009
+runtime: 186106
 ---
-
 You could say I'm a little bit crazy
 You could call me insane
 Walkin' 'round with all these whispers
@@ -141,6 +145,3 @@ But don't ever cross that line"
 Yeah, I hear voices all the time
 Yeah, I hear voices all the time
 All the time
-
-
-

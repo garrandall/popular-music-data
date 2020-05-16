@@ -1,8 +1,11 @@
 ---
+album: Ginuwine... The Bachelor
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:7yF8csvYp76QhMbrweAwUQ
 features: []
-genres: []
+first_released_as_single: true
 key: pony-ginuwine
 lyrics_url: https://genius.com/Ginuwine-pony-lyrics
 name: Pony
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 320466
 ---
 I'm just a bachelor
 I'm looking for a partner

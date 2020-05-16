@@ -1,8 +1,11 @@
 ---
+album: 'California Sunshine Girl: Rare Mercury Singles 1965-1966'
 artists:
 - The Hondells
+external_ids:
+  spotify: spotify:track:3e3gnYm9b4hoRaLwEQPQJd
 features: []
-genres: []
+first_released_as_single: false
 key: younger-girl-the-hondells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Hondells/Younger-Girl
 name: Younger Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 196533
 ---
 She's one of those girls who
 Seems to come in the spring

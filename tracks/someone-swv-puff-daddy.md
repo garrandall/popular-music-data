@@ -1,9 +1,12 @@
 ---
+album: Release Some Tension
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:68scrpEYQeO5B0OqAr2w9h
 features:
 - Puff Daddy
-genres: []
+first_released_as_single: false
 key: someone-swv-puff-daddy
 lyrics_url: https://www.azlyrics.com/lyrics/swv/someone.html
 name: Someone
@@ -88,9 +91,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1997
+runtime: 246266
 ---
-
-
 Lookin' at my Rollie, it's about that time
 For SWV to drop a jam on mine
 Playa's talk the talk but they can't walk it
@@ -163,6 +166,3 @@ Come on
 
 Repeat 2
 Repeat 1
-
-
-

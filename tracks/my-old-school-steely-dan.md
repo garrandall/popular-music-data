@@ -1,8 +1,11 @@
 ---
+album: Countdown To Ecstasy
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:2TNJMzB30nuEpww7EOx75L
 features: []
-genres: []
+first_released_as_single: false
 key: my-old-school-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/myoldschool.html
 name: My Old School
@@ -43,8 +46,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 344906
 ---
-
 I remember the thirty-five sweet goodbyes
 When you put me on the Wolverine
 Up to Annandale
@@ -88,4 +92,3 @@ Well I hear the whistle but I can't go
 I'm gonna take her down to Mexico
 She said oh no
 Guadalajara won't do
-

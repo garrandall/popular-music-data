@@ -1,9 +1,12 @@
 ---
+album: 'A Good Thing Lost: 1968-1973'
 artists:
 - The Poppy Family
+external_ids:
+  spotify: spotify:track:6TtWuzlHNTvtnpO0pI83MU
 features:
 - Susan Jacks
-genres: []
+first_released_as_single: false
 key: which-way-you-goin--billy--the-poppy-family-susan-jacks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Poppy-Family-feat-Terry-Jacks-Susan-Jacks/Which-Way-You-Goin-Billy
 name: Which Way You Goin' Billy?
@@ -76,6 +79,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 203426
 ---
 Which way you goin', Billy?
 Can I go too?

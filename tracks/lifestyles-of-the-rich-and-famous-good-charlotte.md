@@ -1,8 +1,11 @@
 ---
+album: The Young and The Hopeless
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:2g2a5kDeZexbUTD8abcvm6
 features: []
-genres: []
+first_released_as_single: false
 key: lifestyles-of-the-rich-and-famous-good-charlotte
 lyrics_url: https://genius.com/Good-charlotte-good-charlotte-lifestyles-of-the-rich-and-famous-lyrics
 name: Lifestyles Of The Rich And Famous
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 190173
 ---
 Always see it on TV
 Or read it in magazines

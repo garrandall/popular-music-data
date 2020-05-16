@@ -1,9 +1,12 @@
 ---
+album: Title
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:2YlZnw2ikdb837oKMKjBkW
 features:
 - John Legend
-genres: []
+first_released_as_single: false
 key: like-i-m-gonna-lose-you-meghan-trainor-john-legend
 lyrics_url: https://genius.com/Meghan-trainor-like-im-gonna-lose-you-lyrics
 name: Like I'm Gonna Lose You
@@ -164,6 +167,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 225053
 ---
 I found myself dreaming in silver and gold
 Like a scene from a movie that every broken heart knows

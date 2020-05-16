@@ -1,8 +1,11 @@
 ---
+album: Ice Cream Castle
 artists:
 - The Time
+external_ids:
+  spotify: spotify:track:0QUpBXTOdB4JJyTGFN6dH1
 features: []
-genres: []
+first_released_as_single: false
 key: jungle-love-the-time
 lyrics_url: https://genius.com/The-time-jungle-love-lyrics
 name: Jungle Love
@@ -107,6 +110,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1984
+runtime: 333360
 ---
 I, I've been watching you
 I think I wanna know ya (know ya)

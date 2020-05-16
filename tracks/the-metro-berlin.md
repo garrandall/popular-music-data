@@ -1,8 +1,11 @@
 ---
+album: Pleasure Victim
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:3Mp0s4jN8X7J74Qt6sgDXl
 features: []
-genres: []
+first_released_as_single: false
 key: the-metro-berlin
 lyrics_url: https://genius.com/Berlin-the-metro-lyrics
 name: The Metro
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1982
+runtime: 251200
 ---
 I'm alone
 Sitting with my empty glass

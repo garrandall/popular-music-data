@@ -1,9 +1,12 @@
 ---
+album: Shining Down
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:0hkRONsyMGzkhJGc56L5v0
 features:
 - Matthew Santos
-genres: []
+first_released_as_single: true
 key: shining-down-lupe-fiasco-matthew-santos
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/shiningdown.html
 name: Shining Down
@@ -12,9 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-07-25'
+release_year: 2009
+runtime: 274106
 ---
-
-
 Look up in the sky 
 
 You thought I was down
@@ -103,7 +106,4 @@ Just look up in the sky
 See that I'm everywhere everywhere
 Shining down on you
 
-Shining down on you 
-
-
-
+Shining down on you

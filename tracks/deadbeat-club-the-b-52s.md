@@ -1,8 +1,11 @@
 ---
+album: Cosmic Thing
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:73bJ24XyBd3cRlsyG91F07
 features: []
-genres: []
+first_released_as_single: false
 key: deadbeat-club-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/deadbeatclub.html
 name: Deadbeat Club
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
+release_year: 1989
+runtime: 296000
 ---
-
 "Huh, get a job!"
 "What for?"
 "I'm trying to think..."
@@ -96,6 +100,3 @@ We're the deadbeat club
 
 Oh no! Here they come
 The members of the deadbeat club
-
-
-

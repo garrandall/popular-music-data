@@ -1,9 +1,12 @@
 ---
+album: Solid
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:4sr4NdrPfds9Qfors9UkiO
 features: []
-genres: []
+first_released_as_single: false
 key: solid-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-solid-lyrics
 name: Solid
@@ -104,6 +107,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1984
+runtime: 312000
 ---
 And for love's sake
 Each mistake

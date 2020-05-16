@@ -1,8 +1,11 @@
 ---
+album: When Love Finds You
 artists:
 - Vince Gill
+external_ids:
+  spotify: spotify:track:3PHLZ5wmtyZha1pp2405OT
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-you-come-around-vince-gill
 lyrics_url: https://www.azlyrics.com/lyrics/vincegill/wheneveryoucomearound.html
 name: Whenever You Come Around
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1994
+runtime: 259160
 ---
-
 The face of an angel, pretty eyes that shine
 I lie awake at night wishing you were mine
 I'm standing here holding the biggest heartache in town
@@ -71,6 +75,3 @@ Whenever you come around
 And when you smile that smile the whole world turns upside down
 Whenever you come around
 Whenever you come around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:4wJ4qfeh1qj9TRW4kqRF42
 features: []
-genres: []
+first_released_as_single: false
 key: chug-a-lug-roger-miller
 lyrics_url: https://genius.com/Roger-miller-chug-a-lug-lyrics
 name: Chug-A-Lug
@@ -59,6 +62,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 123066
 ---
 Chug-a-lug, chug-a-lug
 Make you want to holler hi-de-ho

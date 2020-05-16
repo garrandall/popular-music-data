@@ -1,8 +1,11 @@
 ---
+album: Ricky Sings Again
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:5fWoxLPLPaJUy3Iostzl1C
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-late-ricky-nelson
 lyrics_url: https://genius.com/Ricky-nelson-its-late-lyrics
 name: It's Late
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 119666
 ---
 It's late
 (It's late)

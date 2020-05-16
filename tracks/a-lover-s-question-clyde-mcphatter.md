@@ -1,8 +1,11 @@
 ---
+album: Clyde
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:5j6qqF57wgU1UTF9JC8vaa
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-question-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-a-lovers-question-lyrics
 name: A Lover's Question
@@ -103,6 +106,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1958
+runtime: 150240
 ---
 Does she love me, with all her heart
 Should I worry, when we're apart

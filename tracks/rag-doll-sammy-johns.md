@@ -1,8 +1,11 @@
 ---
+album: Sammy Johns
 artists:
 - Sammy Johns
+external_ids:
+  spotify: spotify:track:1bGDR1bqufFa4j7EZHyCLZ
 features: []
-genres: []
+first_released_as_single: false
 key: rag-doll-sammy-johns
 lyrics_url: https://www.azlyrics.com/lyrics/sammyjohns/ragdoll.html
 name: Rag Doll
@@ -39,8 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1973
+runtime: 202173
 ---
-
 She walks in the field
 That's just across the way
 Picks all the flowers
@@ -80,6 +84,3 @@ And bring back the rag doll to me
 
 La, la, la, la, la, la, la, la, la, la
 La, la, la, la, la, la, la, la, la
-
-
-

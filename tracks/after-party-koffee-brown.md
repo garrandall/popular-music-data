@@ -1,8 +1,11 @@
 ---
+album: Mars/Venus
 artists:
 - Koffee Brown
+external_ids:
+  spotify: spotify:track:2VgRBzWsYYeOsMH66MTbxY
 features: []
-genres: []
+first_released_as_single: false
 key: after-party-koffee-brown
 lyrics_url: https://www.azlyrics.com/lyrics/koffeebrown/afterparty.html
 name: After Party
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 2001
+runtime: 214560
 ---
-
 And you don't stop, keep keep it on
 keep it on, keep keep it on
 you don't stop, keep keep it on
@@ -151,8 +155,3 @@ sweet baby come with me
 cause I wanna do you right
 don't hold back, baby where you at
 cause I wanna get inside
-
-
-
-
-

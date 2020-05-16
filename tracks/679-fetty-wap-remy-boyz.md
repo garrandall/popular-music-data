@@ -1,9 +1,12 @@
 ---
+album: '679'
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:5NQbUaeTEOGdD6hHcre0dZ
 features:
 - Remy Boyz
-genres: []
+first_released_as_single: true
 key: 679-fetty-wap-remy-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/fettywap/679-monty.html
 name: '679'
@@ -168,9 +171,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 196693
 ---
-
-
 Yeah baby, 17
 (Remy Boyz lifestyle)
 Ay, ay look
@@ -227,6 +230,3 @@ And baby I'm Zoovier
 ZooWap, Monty
 Zoowap, Monty
 Yeah baby, Remy Boyz
-
-
-

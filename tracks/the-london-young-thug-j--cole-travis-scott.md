@@ -1,10 +1,13 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
 - J. Cole
 - Travis Scott
+external_ids:
+  spotify: spotify:track:7DcvwMAiqKJQD1rrdfxSDx
 features: []
-genres: []
+first_released_as_single: true
 key: the-london-young-thug-j--cole-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/thelondon.html
 name: The London
@@ -89,9 +92,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 200106
 ---
-
-
 Yeah, yeah, yeah
 Oh, oh
 Woah!
@@ -183,6 +186,3 @@ I might, see you one time,
 Get down, might
 See this whole town, every time, I (Woah, woah, won't play, I)
 Yeah, they know what's up (Woah, won't play)
-
-
-

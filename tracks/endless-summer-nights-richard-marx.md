@@ -1,8 +1,11 @@
 ---
+album: Richard Marx
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:2iXH35MhsqO5Ry8a7iptpJ
 features: []
-genres: []
+first_released_as_single: false
 key: endless-summer-nights-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/endlesssummernights.html
 name: Endless Summer Nights
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1987
+runtime: 270693
 ---
-
 Summer came and left without a warning
 All at once I looked and you were gone
 And now you're looking back at me
@@ -128,4 +132,3 @@ So please don't run away from what we have together
 It's only you and me tonight
 So let's stay lost in flight
 Oh, won't you please surrender
-

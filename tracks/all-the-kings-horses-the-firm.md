@@ -1,8 +1,11 @@
 ---
+album: Mean Business
 artists:
 - The Firm
+external_ids:
+  spotify: spotify:track:1W9DHhVwvAjXxuBKIegw0L
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-kings-horses-the-firm
 lyrics_url: https://genius.com/The-firm-rock-band-all-the-kings-horses-lyrics
 name: All The Kings Horses
@@ -39,6 +42,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1986
+runtime: 198466
 ---
 They say our love was never meant to be
 That time would make it just a memory

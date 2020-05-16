@@ -1,8 +1,11 @@
 ---
+album: Rock and Pop Oldies Mix, Vol. 1
 artists:
 - Wilmer And The Dukes
+external_ids:
+  spotify: spotify:track:6bxUQ1ydrmWr3Km6DQQZ5a
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-one-more-chance-wilmer-and-the-dukes
 name: Give Me One More Chance
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 137866
 ---
 

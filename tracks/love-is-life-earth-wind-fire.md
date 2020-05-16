@@ -1,8 +1,11 @@
 ---
+album: Earth, Wind & Fire
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2Xz3YbSjZqWdPWcSucfCVB
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-life-earth-wind-fire
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-feat-Wind-Fire/Love-Is-Life
 name: Love Is Life
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 312093
 ---
 So I'm in love without a dime
 So I'm in love, gonna sing it shy

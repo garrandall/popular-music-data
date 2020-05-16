@@ -1,8 +1,11 @@
 ---
+album: Sings His Best Hits For Capitol Records
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:56JtUrzUcjQPNRgtCD6Am0
 features: []
-genres: []
+first_released_as_single: false
 key: smoky-mountain-rain-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/smokymountainrain.html
 name: Smoky Mountain Rain
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1980
+runtime: 237333
 ---
-
 I thumb my way from L.A. back to Knoxville.
 I found out those bright lights ain't where I belong.
 From a phone booth in the rain I called to tell her, I've had a change of dreams I'm coming home.
@@ -112,6 +116,3 @@ I'll keep on calling her name.
 Smoky Mountain rain, I'll keep on searching
 I can't go on hurting this way.
 She's somewhere in the Smoky Mountain rain.
-
-
-

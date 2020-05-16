@@ -1,8 +1,11 @@
 ---
+album: Backstage
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:5rrgQarTyKBgl2u8lSn1cS
 features: []
-genres: []
+first_released_as_single: false
 key: believe-cher
 lyrics_url: https://genius.com/Cher-believe-lyrics
 name: Believe
@@ -131,6 +134,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
+release_year: 1968
+runtime: 159133
 ---
 After love, after love
 After love, after love

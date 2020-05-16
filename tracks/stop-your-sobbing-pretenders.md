@@ -1,8 +1,11 @@
 ---
+album: Pretenders
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:6pZ8rAXwqJSRPDBvPPINvi
 features: []
-genres: []
+first_released_as_single: false
 key: stop-your-sobbing-pretenders
 lyrics_url: https://www.azlyrics.com/lyrics/pretenders/stopyoursobbing.html
 name: Stop Your Sobbing
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 158053
 ---
-
 It is time for you to stop all of your sobbing
 Yes it's time for you to stop all of your sobbing oh oh oh
 There's one thing you gotta do
@@ -54,6 +58,3 @@ And there's one thing you gotta know
 To make me want you so
 Gotta stop sobbing now
 Yeah yeah stop it stop it
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Hate It Or Love It
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:6MKfKc1XHcvn3EofKJocxE
 features:
 - Amerie
-genres: []
+first_released_as_single: false
 key: fly-like-me-chingy-amerie
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/flylikeme.html
 name: Fly Like Me
@@ -16,8 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 2007
+runtime: 225840
 ---
-
 Now you done been around the world,
 And you'd seen alot of girls,
 But, you ain't neva seen a girl look so fly like,
@@ -104,6 +108,3 @@ And you partied, and have hugs,
 And sum girls sho you love,
 But, you ain't never seen a girl look so fly like me
 Baby, But chu never had a girl look so fly like me.
-
-
-

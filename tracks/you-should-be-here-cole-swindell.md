@@ -1,8 +1,11 @@
 ---
+album: You Should Be Here
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:63thx7OANplv4I4BQsanHk
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-be-here-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/youshouldbehere.html
 name: You Should Be Here
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2016
+runtime: 190173
 ---
-
 It's perfect outside. It's like God let me dial up the weather.
 Got the whole crew here, I ain't seen some of them in forever.
 It's one of those never-forget-it-better-stop-and-take-it-in kinda scenes.
@@ -122,6 +126,3 @@ Yeah, this is one of those moments that's got your name written all over it
 And you know that if I had just one wish it'd be that you didn't have to miss this.
 Aw you should be here.
 You should be here.
-
-
-

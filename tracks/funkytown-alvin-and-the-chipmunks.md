@@ -1,8 +1,11 @@
 ---
+album: Alvin And The Chipmunks (Original Motion Picture Soundtrack)
 artists:
 - Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:7AZWUtaMrz5MzfAW3Fy0aj
 features: []
-genres: []
+first_released_as_single: false
 key: funkytown-alvin-and-the-chipmunks
 lyrics_url: https://www.azlyrics.com/lyrics/alvinandthechipmunks/funkytown.html
 name: Funkytown
@@ -15,9 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2007
+runtime: 214053
 ---
-
-
 Gotta make a move to a town that's right for me,
 Town to get me movin'
 Keep me groovin' with some energy
@@ -78,7 +81,4 @@ come on party people it's time to go!
 oh, oh, yeah
 
 Won't you take me to,
-Funkytown? 
-
-
-
+Funkytown?

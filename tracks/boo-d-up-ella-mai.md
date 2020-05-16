@@ -1,8 +1,11 @@
 ---
+album: Ella Mai
 artists:
 - Ella Mai
+external_ids:
+  spotify: spotify:track:0At2qAoaVjIwWNAqrscXli
 features: []
-genres: []
+first_released_as_single: true
 key: boo-d-up-ella-mai
 lyrics_url: https://genius.com/Ella-mai-bood-up-lyrics
 name: Boo'd Up
@@ -147,6 +150,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2017
+runtime: 256063
 ---
 Yeah yeah, yeah yeah
 

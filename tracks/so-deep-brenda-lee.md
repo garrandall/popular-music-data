@@ -1,8 +1,11 @@
 ---
+album: Golden Star Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:2ZKoeiRGJUgdx79sllP39d
 features: []
-genres: []
+first_released_as_single: false
 key: so-deep-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-so-deep-lyrics
 name: So Deep
@@ -23,6 +26,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1962
+runtime: 129493
 ---
 I use to be so happy, now I'm sad
 You wrecked a good love and now your glad

@@ -1,9 +1,12 @@
 ---
+album: Stay
 artists:
 - Zedd
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:6uBhi9gBXWjanegOb2Phh0
 features: []
-genres: []
+first_released_as_single: true
 key: stay-zedd-alessia-cara
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/stay.html
 name: Stay
@@ -132,8 +135,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2017
+runtime: 210090
 ---
-
 Waiting for the time to pass you by
 Hope the winds of change will change your mind
 I could give a thousand reasons why
@@ -190,6 +194,3 @@ Your hands on mine
 The clock is ticking, so stay
 All you have to do is stay
 Stay
-
-
-

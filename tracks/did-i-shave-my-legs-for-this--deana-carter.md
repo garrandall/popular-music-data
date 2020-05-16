@@ -1,8 +1,11 @@
 ---
+album: Did I Shave My Legs For This?
 artists:
 - Deana Carter
+external_ids:
+  spotify: spotify:track:3rlU8GywVlHOd09sfzOLx8
 features: []
-genres: []
+first_released_as_single: false
 key: did-i-shave-my-legs-for-this--deana-carter
 lyrics_url: https://www.azlyrics.com/lyrics/deanacarter/didishavemylegsforthis.html
 name: Did I Shave My Legs For This?
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-01-17'
+release_year: 1996
+runtime: 192773
 ---
-
 Flowers and wine
 is what I thought I would find,
 when I came home from working tonight.
@@ -69,6 +73,3 @@ As I head for the door,
 I turn around to be sure,
 did I shave my legs for this?
 Darling, did I shave my legs for this?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Anthology 1
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3OUpVpFeNx5jeInhHqiNfs
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-she-sweet-the-beatles
 lyrics_url: https://genius.com/The-beatles-aint-she-sweet-lyrics
 name: Ain't She Sweet
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1964
+runtime: 133346
 ---
 Oh ain't she sweet?
 Well see her walking down that street

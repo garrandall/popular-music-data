@@ -1,8 +1,11 @@
 ---
+album: The Dream Of The Blue Turtles
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:5Xhqe9xu6bKRSqLj1mS1SB
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-love-somebody-set-them-free-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/ifyoulovesomebodysetthemfree.html
 name: If You Love Somebody Set Them Free
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-10-05'
+release_year: 1985
+runtime: 256226
 ---
-
 Free, free, set them free
 Free, free, set them free
 Free, free, set them free
@@ -143,6 +147,3 @@ Set them free
 Set them free
 Set them free
 Set them free
-
-
-

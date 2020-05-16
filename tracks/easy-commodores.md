@@ -1,8 +1,11 @@
 ---
+album: Commodores
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:1JQ6Xm1JrvHfvAqhl5pwaA
 features: []
-genres: []
+first_released_as_single: false
 key: easy-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/easy.html
 name: Easy
@@ -95,8 +98,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1977
+runtime: 256426
 ---
-
 Know it sounds funny
 But I just can't stand the pain
 Girl, I'm leaving you tomorrow
@@ -137,6 +141,3 @@ Because I'm easy
 Easy like Sunday morning
 Because I'm easy
 Easy like Sunday morning
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Only Four You
 artists:
 - Mary Jane Girls
+external_ids:
+  spotify: spotify:track:11vItFXykyMe5BNKmItbo2
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-house-mary-jane-girls
 lyrics_url: https://genius.com/Mary-jane-girls-in-my-house-lyrics
 name: In My House
@@ -95,6 +98,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1985
+runtime: 302200
 ---
 Boy, you can just believe
 I'm the only girl in your life

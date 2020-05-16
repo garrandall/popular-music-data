@@ -1,8 +1,11 @@
 ---
+album: Songs In The Key Of Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4pNiE4LCVV74vfIBaUHm1b
 features: []
-genres: []
+first_released_as_single: false
 key: sir-duke-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/sirduke.html
 name: Sir Duke
@@ -75,8 +78,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1977-07-23'
+release_year: 1976
+runtime: 232760
 ---
-
 Music is a world within itself
 With a language we all understand
 With an equal opportunity
@@ -124,6 +128,3 @@ Can't you feel it all over
 Come on let's feel it all over people
 You can feel it all over
 Everybody - all over people
-
-
-

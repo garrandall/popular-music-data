@@ -1,9 +1,12 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:5CRHxhQOzuj5iPASXodlmm
 features:
 - Zacari
-genres: []
+first_released_as_single: false
 key: love-kendrick-lamar-zacari
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/love.html
 name: Love
@@ -168,9 +171,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 213400
 ---
-
-
 Damn, love or lust
 Damn, all of us
 
@@ -269,6 +272,3 @@ Just love me, just love me, just love me
 Love me
 (I wanna be with you)
 Love me, just love me
-
-
-

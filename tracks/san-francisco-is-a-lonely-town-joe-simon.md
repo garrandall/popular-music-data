@@ -1,8 +1,11 @@
 ---
+album: Better Than Ever
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:4NFYE4QV6wn8SO9DOFnVe0
 features: []
-genres: []
+first_released_as_single: false
 key: san-francisco-is-a-lonely-town-joe-simon
 name: San Francisco Is A Lonely Town
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 199253
 ---
 

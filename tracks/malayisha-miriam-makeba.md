@@ -1,8 +1,11 @@
 ---
+album: Live in Tokyo
 artists:
 - Miriam Makeba
+external_ids:
+  spotify: spotify:track:0NTDwtz4DvAizJ5cM80s6f
 features: []
-genres: []
+first_released_as_single: false
 key: malayisha-miriam-makeba
 lyrics_url: https://www.musixmatch.com/lyrics/Miriam-Makeba/Malayisha
 name: Malayisha
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1968
+runtime: 119173
 ---
 Oh, ba ba ba,
 Oh ba ba ba

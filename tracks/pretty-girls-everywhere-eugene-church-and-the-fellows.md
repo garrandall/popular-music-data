@@ -1,8 +1,11 @@
 ---
+album: Rhythm & Blues Lost Classics
 artists:
 - Eugene Church and The Fellows
+external_ids:
+  spotify: spotify:track:6nPZeggZRnNTMPbcEnrZml
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-girls-everywhere-eugene-church-and-the-fellows
 lyrics_url: https://www.musixmatch.com/lyrics/Eugene-Church-And-The-Fellows/Pretty-Girls-Everywhere
 name: Pretty Girls Everywhere
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1958
+runtime: 174600
 ---
 (Alvino99)
 Ev'rywhere I go
@@ -170,4 +175,4 @@ Pretty, pretty, pretty, girls
 (Yeah-yeah)
 Pretty girls around the world
 (Yeah-yeah)
-FADES-
+

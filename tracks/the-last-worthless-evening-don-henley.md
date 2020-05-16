@@ -1,8 +1,11 @@
 ---
+album: The End Of The Innocence
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:5xFXOthzXYku3MvAlc5EKg
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-worthless-evening-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/thelastworthlessevening.html
 name: The Last Worthless Evening
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1989
+runtime: 362466
 ---
-
 I know you broke up with him
 And your heart's still on the shelf
 It's been over two years for me
@@ -148,6 +152,3 @@ To love again
 This is the last worthless evening
 That you'll have to spend 'cause it won't be long
 'Til your little heart is on the mend
-
-
-

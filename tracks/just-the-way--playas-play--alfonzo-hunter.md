@@ -1,8 +1,11 @@
 ---
+album: Blacka Da Berry
 artists:
 - Alfonzo Hunter
+external_ids:
+  spotify: spotify:track:4eMGevfobDTaWfr3TLbkFm
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-way--playas-play--alfonzo-hunter
 lyrics_url: https://genius.com/Alfonzo-hunter-just-the-way-lyrics
 name: Just The Way (Playas Play)
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-12-21'
+release_year: 1996
+runtime: 235906
 ---
 Just the way playas play)
 (Every day, all day)

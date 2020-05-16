@@ -1,8 +1,11 @@
 ---
+album: The Preacher's Wife
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4w0cBvy6wMmV8iA60cTYXl
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-is-calling-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/myheartiscalling.html
 name: My Heart Is Calling
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
+release_year: 1996
+runtime: 254573
 ---
-
 Who would've thought of it
 That I might feel like this
 Some kind of wonderful
@@ -85,6 +89,3 @@ God knows I'm falling for you
 Is is in your smile, boy
 Is it touch, baby
 I don't know why
-
-
-

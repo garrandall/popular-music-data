@@ -1,8 +1,11 @@
 ---
+album: Crush
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:577MNC3o3L0lNIzx9abqOk
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-for-loving-me-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/thankyouforlovingme.html
 name: Thank You For Loving Me
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
+release_year: 2000
+runtime: 308933
 ---
-
 It's hard for me to say the things
 I wanna say sometimes
 There's no one here but you and me
@@ -109,6 +113,3 @@ Thank you for loving me
 Thank you for loving me
 Thank you for loving me
 Oh, for loving me
-
-
-

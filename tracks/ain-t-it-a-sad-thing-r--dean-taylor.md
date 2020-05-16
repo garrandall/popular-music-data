@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 11A: 1971'
 artists:
 - R. Dean Taylor
+external_ids:
+  spotify: spotify:track:3aQf3GpxbiJWA0VgH3ayKU
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-a-sad-thing-r--dean-taylor
 lyrics_url: https://genius.com/R-dean-taylor-aint-it-a-sad-thing-lyrics
 name: Ain't It A Sad Thing
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1971
+runtime: 148026
 ---
 Big brown tin can
 Lying in the black sand

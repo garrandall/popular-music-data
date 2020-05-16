@@ -1,8 +1,11 @@
 ---
+album: We Are The '80s
 artists:
 - A Flock Of Seagulls
+external_ids:
+  spotify: spotify:track:7zSAI7Ae6DPVepN8MksKVZ
 features: []
-genres: []
+first_released_as_single: false
 key: space-age-love-song-a-flock-of-seagulls
 lyrics_url: https://genius.com/A-flock-of-seagulls-space-age-love-song-lyrics
 name: Space Age Love Song
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1981
+runtime: 226693
 ---
 I saw your eyes
 And you made me smile

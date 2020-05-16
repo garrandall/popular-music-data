@@ -1,8 +1,11 @@
 ---
+album: Travelin' on Foreign Grounds
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:4ZWZg89wm8JRIOgN4Fzsld
 features: []
-genres: []
+first_released_as_single: false
 key: worried-guy-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-worried-guy-lyrics
 name: Worried Guy
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 150200
 ---
 When my friends say that you're a run-around
 I laugh at all and I tell them

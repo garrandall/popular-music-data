@@ -1,8 +1,11 @@
 ---
+album: One Man Band Man
 artists:
 - Swizz Beatz
+external_ids:
+  spotify: spotify:track:0Oux2XyL6trzST0xiFmoCK
 features: []
-genres: []
+first_released_as_single: true
 key: money-in-the-bank-swizz-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/swizzbeatz/moneyinthebank.html
 name: Money In The Bank
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-10-06'
+release_year: 2007
+runtime: 192200
 ---
-
 It's showtime!
 
 She ain't got no money in the bank
@@ -97,6 +101,3 @@ I'm lookin' at her like I ain't tryin' to save that girl (no sir!)
 I ain't tryin' to save that girl (no sir!)
 I ain't tryin' to save that girl
 She got her hand open like I'm finna pay that girl
-
-
-

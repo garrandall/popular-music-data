@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:3cKM7UXBZmgjEgEBTkaIlU
 features: []
-genres: []
+first_released_as_single: false
 key: strong-one-direction
 lyrics_url: https://genius.com/One-direction-strong-lyrics
 name: Strong
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 184373
 ---
 My hands, your hands, tied up like two ships
 Drifting, weightless, waves try to break it

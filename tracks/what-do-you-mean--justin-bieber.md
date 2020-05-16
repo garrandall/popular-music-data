@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4B0JvthVoAAuygILe3n4Bs
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-you-mean--justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-what-do-you-mean-lyrics
 name: What Do You Mean?
@@ -131,6 +134,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 205680
 ---
 What do you mean? Oh, oh
 When you nod your head yes, but you wanna say no

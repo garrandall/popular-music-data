@@ -1,9 +1,12 @@
 ---
+album: O.N.I.F.C.
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:0g6mKqhGtUIEoLSmV8ozi8
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: remember-you-wiz-khalifa-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/rememberyou.html
 name: Remember You
@@ -72,9 +75,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-03-23'
+release_year: 2012
+runtime: 289600
 ---
-
-
 She's about to earn some bragging rights
 I'm 'bout to give it up like I've been holding back all night
 Girl, take pride in what you wanna do
@@ -88,7 +91,7 @@ And he's TG and I'm XO
 I'm only here for one night
 Then I'mma be your memory
 Say it in my ear, so I can hear what you say to me
-I got cups full of that RosÃ©
+I got cups full of that Rosé
 Smoke anything that's passed to me
 Don't worry 'bout my voice
 I won't need it for what I'm about to do to you
@@ -175,6 +178,3 @@ Make me remember you like you remember me
 Used to you
 Through with you
 Memory, remember you
-
-
-

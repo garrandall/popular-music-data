@@ -1,8 +1,11 @@
 ---
+album: Let The Good Times Roll & (Feel So Good)
 artists:
 - Bunny Sigler
+external_ids:
+  spotify: spotify:track:3T8Ixv0Ayl7M8GlhYBmtFR
 features: []
-genres: []
+first_released_as_single: false
 key: lovey-dovey-bunny-sigler
 lyrics_url: https://www.musixmatch.com/lyrics/Bunny-Sigler/Lovey-Dovey-You-re-So-Fine
 name: Lovey Dovey
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 171160
 ---
 Well, you're the sweetest thing
 That I have ever seen

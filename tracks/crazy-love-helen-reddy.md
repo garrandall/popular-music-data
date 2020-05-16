@@ -1,8 +1,11 @@
 ---
+album: I Don't Know How To Love Him
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:5cmLnVrBnYoFBJlCWv9VH1
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-love-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/crazylove.html
 name: Crazy Love
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 195520
 ---
-
 I can hear his heart beat for a thousand miles
 And the heavens open every time he smiles
 And when I come to him, that's where I belong
@@ -77,6 +81,3 @@ He gives me love, love, love, love, crazy love
 He gives me love, love, love, love, crazy love
 He gives me love, love, love, love, crazy love
 (Love, love, love, crazy love)
-
-
-

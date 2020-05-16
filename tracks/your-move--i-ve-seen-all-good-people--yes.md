@@ -1,8 +1,11 @@
 ---
+album: The Yes Album
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:5pAD2spCbUJDrxXWS1TZUw
 features: []
-genres: []
+first_released_as_single: false
 key: your-move--i-ve-seen-all-good-people--yes
 lyrics_url: https://genius.com/Yes-your-move-lyrics
 name: Your Move (I've Seen All Good People)
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 175026
 ---
 I've seen all good people turn their heads each day
 So satisfied I'm on my way

@@ -1,8 +1,11 @@
 ---
+album: Dignity
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:7DjTfU6kIcoXaAO02f5EOz
 features: []
-genres: []
+first_released_as_single: false
 key: with-love-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/withlove.html
 name: With Love
@@ -43,8 +46,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2007
+runtime: 181000
 ---
-
 I don't mind you telling me
 What's been on your mind lately
 I don't mind you speaking up
@@ -112,6 +116,3 @@ Just do it with love
 
 Just do it with love love love love
 Just do it with love
-
-
-

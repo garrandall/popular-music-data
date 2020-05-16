@@ -1,8 +1,11 @@
 ---
+album: Can't Fight Fate
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:4hbXvRJfgctBgz7PVBtWQu
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-your-shelter-taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-ill-be-your-shelter-lyrics
 name: I'll Be Your Shelter
@@ -79,6 +82,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1989
+runtime: 283040
 ---
 When there's clouds hangin' in your sky
 And they're just not lettin' any light in

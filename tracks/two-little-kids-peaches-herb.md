@@ -1,9 +1,12 @@
 ---
+album: Golden Duets (With Bonus Tracks)
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:4Dg7GWSmOXvuVAuoh4TizB
 features: []
-genres: []
+first_released_as_single: false
 key: two-little-kids-peaches-herb
 name: Two Little Kids
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1966
+runtime: 167740
 ---
 

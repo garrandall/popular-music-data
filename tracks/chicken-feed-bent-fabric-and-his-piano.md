@@ -1,8 +1,11 @@
 ---
+album: 100 Go'e
 artists:
 - Bent Fabric
+external_ids:
+  spotify: spotify:track:6s7coadGxGLWTqC3J3I1Gg
 features: []
-genres: []
+first_released_as_single: false
 key: chicken-feed-bent-fabric-and-his-piano
 name: Chicken Feed
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1963
+runtime: 127746
 ---
 

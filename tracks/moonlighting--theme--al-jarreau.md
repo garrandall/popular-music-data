@@ -1,8 +1,11 @@
 ---
+album: We're In This Love Together
 artists:
 - Al Jarreau
+external_ids:
+  spotify: spotify:track:6RnEe2AkQIicLcRvwuGUmI
 features: []
-genres: []
+first_released_as_single: false
 key: moonlighting--theme--al-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/moonlightingtheme.html
 name: Moonlighting (Theme)
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1987
+runtime: 183973
 ---
-
 Some walk by night
 Some fly by day
 Nothing could change you
@@ -90,6 +94,3 @@ We'll fly by day
 Moonlighting strangers
 Who just met on the way
 Who just met on the way
-
-
-

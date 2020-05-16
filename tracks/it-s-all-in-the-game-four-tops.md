@@ -1,8 +1,11 @@
 ---
+album: Still Waters Run Deep
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:2r3oMDiiTwssuXfIHDJ0cq
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-in-the-game-four-tops
 lyrics_url: https://genius.com/The-four-tops-its-all-in-the-game-lyrics
 name: It's All In The Game
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 163960
 ---
 Many a tear has to fall
 But it's all in the game

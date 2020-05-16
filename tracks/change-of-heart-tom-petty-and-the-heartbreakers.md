@@ -1,8 +1,11 @@
 ---
+album: Long After Dark
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:0jVm8tMbpsDN7goNU6NyzL
 features: []
-genres: []
+first_released_as_single: false
 key: change-of-heart-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-change-of-heart-lyrics
 name: Change Of Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 198800
 ---
 Well I fought for you
 I fought too hard
@@ -79,4 +84,3 @@ It gets me down
 Looks like we finally found the turning point
 Looks like it's time for me to kiss it goodbye
 Kiss it goodbye
-

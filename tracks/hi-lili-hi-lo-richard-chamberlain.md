@@ -1,8 +1,11 @@
 ---
+album: Richard Chamberlain Sings (TV's Dr. Kildare)
 artists:
 - Richard Chamberlain
+external_ids:
+  spotify: spotify:track:5jPBmIFbjnERaWeickvTkS
 features: []
-genres: []
+first_released_as_single: false
 key: hi-lili-hi-lo-richard-chamberlain
 name: Hi-Lili Hi-Lo
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1962
+runtime: 161266
 ---
 

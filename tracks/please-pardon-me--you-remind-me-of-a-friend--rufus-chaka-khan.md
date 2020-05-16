@@ -1,9 +1,12 @@
 ---
+album: Rufusized
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:1iFeX1db8QxNimp5LIlqRY
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: please-pardon-me--you-remind-me-of-a-friend--rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-please-pardon-me-you-remind-me-of-a-friend-lyrics
 name: Please Pardon Me (You Remind Me Of A Friend)
@@ -32,6 +35,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1974
+runtime: 179666
 ---
 Please pardon me, but I'm longing to speak
 I hope you don't mind my staring

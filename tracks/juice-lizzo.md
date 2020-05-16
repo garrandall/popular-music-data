@@ -1,8 +1,11 @@
 ---
+album: Cuz I Love You (Super Deluxe)
 artists:
 - Lizzo
+external_ids:
+  spotify: spotify:track:0CuAvao3uDcSN73qWNJ2OQ
 features: []
-genres: []
+first_released_as_single: true
 key: juice-lizzo
 lyrics_url: https://www.azlyrics.com/lyrics/lizzo/juice.html
 name: Juice
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 157129
 ---
-
 Mirror, mirror on the wall
 Don't say it 'cause I know I'm cute (Oh, baby)
 Louis down to my drawers
@@ -95,6 +99,3 @@ Blame it on my juice, blame it, blame it on my juice
 Ya-ya-ee (Ya-ya-ee), ya-ya-ee, ya-ya-ee, ya-ya-ee
 Blame it on my juice, blame it, blame it on my juice
 (Blame it on it, yeah)
-
-
-

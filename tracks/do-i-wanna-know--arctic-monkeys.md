@@ -1,8 +1,11 @@
 ---
+album: AM
 artists:
 - Arctic Monkeys
+external_ids:
+  spotify: spotify:track:7xmwLmkoWpghkq8jyEhtbx
 features: []
-genres: []
+first_released_as_single: true
 key: do-i-wanna-know--arctic-monkeys
 lyrics_url: https://genius.com/Arctic-monkeys-do-i-wanna-know-lyrics
 name: Do I Wanna Know?
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
+release_year: 2013
+runtime: 273424
 ---
 Have you got colour in your cheeks?
 Do you ever get that fear that you can't shift the type

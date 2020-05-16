@@ -1,8 +1,11 @@
 ---
+album: ..It's Too Late to Stop Now...Volumes II, III & IV (Live)
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:1A7hIo1C8jacIQ5ZiCjc8g
 features: []
-genres: []
+first_released_as_single: false
 key: wild-night-van-morrison
 lyrics_url: https://genius.com/Van-morrison-wild-night-lyrics
 name: Wild Night
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 213600
 ---
 As you brush your shoes, stand before the mirror
 And you comb your hair, grab your coat and hat

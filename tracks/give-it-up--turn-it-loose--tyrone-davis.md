@@ -1,8 +1,11 @@
 ---
+album: Love and Touch (Expanded)
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:711LK8KpaM6x6NM6mVDssL
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up--turn-it-loose--tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-give-it-up-turn-it-loose-lyrics
 name: Give It Up (turn It Loose)
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1976
+runtime: 259533
 ---
 You better turn it loose
 You better turn it loose

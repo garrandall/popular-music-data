@@ -1,8 +1,11 @@
 ---
+album: Harmony
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:2fbDw64s1LI4QF2C3LSEUM
 features: []
-genres: []
+first_released_as_single: false
 key: the-family-of-man-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-the-family-of-man-lyrics
 name: The Family Of Man
@@ -43,6 +46,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1971
+runtime: 214800
 ---
 This tired city was somebody's dream
 Billboard horizons as black as they seem

@@ -1,8 +1,11 @@
 ---
+album: Hot Buttered Soul
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:0hWXOGE9h1ECCpWOnDWLbV
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-by-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/walkonby.html
 name: Walk On By
@@ -55,8 +58,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 720453
 ---
-
 If you see me walking down the street
 And I start to cry each time we meet
 Walk on by, walk on by
@@ -92,6 +96,3 @@ When you said goodbye
 Walk on by don't stop
 And walk on by don't stop
 And walk by don't stop
-
-
-

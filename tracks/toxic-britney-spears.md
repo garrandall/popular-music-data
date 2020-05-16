@@ -1,8 +1,11 @@
 ---
+album: In The Zone
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:6I9VzXrHxO9rA9A5euc8Ak
 features: []
-genres: []
+first_released_as_single: false
 key: toxic-britney-spears
 lyrics_url: https://genius.com/Britney-spears-toxic-lyrics
 name: Toxic
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
+release_year: 2003
+runtime: 198800
 ---
 Baby, can't you see I'm calling?
 A guy like you should wear a warning

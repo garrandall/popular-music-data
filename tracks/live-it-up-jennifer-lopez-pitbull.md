@@ -1,9 +1,12 @@
 ---
+album: Live It Up
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:2FHdoPa5aWaAmjuf362KJ0
 features:
 - Pitbull
-genres: []
+first_released_as_single: true
 key: live-it-up-jennifer-lopez-pitbull
 lyrics_url: https://genius.com/Jennifer-lopez-live-it-up-lyrics
 name: Live It Up
@@ -32,6 +35,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 243786
 ---
 From the streets of Miami, to presenting at the GRAMMYs
 Con el amulet de Jennifer, maybe now you understand me

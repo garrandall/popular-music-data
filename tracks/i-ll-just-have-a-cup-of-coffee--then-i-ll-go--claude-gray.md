@@ -1,8 +1,11 @@
 ---
+album: Best Of The Best
 artists:
 - Claude Gray
+external_ids:
+  spotify: spotify:track:22t5Efyx3X7ZjrjfjC8xMb
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-just-have-a-cup-of-coffee--then-i-ll-go--claude-gray
 lyrics_url: https://genius.com/Claude-gray-ill-just-have-a-cup-of-coffee-lyrics
 name: I'll Just Have A Cup Of Coffee (Then I'll Go)
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 131986
 ---
 I'll just have a cup of coffee then I'll go
 Thought that I'd just drop by and let you know

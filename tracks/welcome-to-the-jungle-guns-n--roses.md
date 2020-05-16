@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:0G21yYKMZoHa30cYVi1iA8
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-the-jungle-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-welcome-to-the-jungle-lyrics
 name: Welcome To The Jungle
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1987
+runtime: 273480
 ---
 Oh my god...
 Jump!

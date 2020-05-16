@@ -1,8 +1,11 @@
 ---
+album: Crash
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:52xgsCqCg1q51cP8ZV4Dv5
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-your-loving-the-human-league
 lyrics_url: https://www.azlyrics.com/lyrics/humanleague/ineedyourloving.html
 name: I Need Your Loving
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
+release_year: 1986
+runtime: 223253
 ---
-
 I need your loving
 I need your kissing, baby
 I need your loving
@@ -143,6 +147,3 @@ I've been missing
 I need your loving
 I need your love
 I need your kissing, baby
-
-
-

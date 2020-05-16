@@ -1,8 +1,11 @@
 ---
+album: Friend Or Foe
 artists:
 - Adam Ant
+external_ids:
+  spotify: spotify:track:5fI6VuWtMLlgYt58nbre01
 features: []
-genres: []
+first_released_as_single: false
 key: goody-two-shoes-adam-ant
 lyrics_url: https://www.azlyrics.com/lyrics/adamant/goodytwoshoes.html
 name: Goody Two Shoes
@@ -91,8 +94,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1979
+runtime: 208640
 ---
-
 With the heartbreak open
 So much you can't hide
 Put on a little makeup, makeup
@@ -168,6 +172,3 @@ Must be something inside
 Don't drink, don't smoke, what do you do?
 Subtle innuendos follow
 Must be something inside
-
-
-

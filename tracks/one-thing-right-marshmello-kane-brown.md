@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Marshmello
 - Kane Brown
+external_ids:
+  spotify: spotify:track:4hPpVbbakQNv8YTHYaOJP4
 features: []
-genres: []
+first_released_as_single: true
 key: one-thing-right-marshmello-kane-brown
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/onethingright.html
 name: One Thing Right
@@ -100,8 +103,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 181823
 ---
-
 I've cheated and I've lied
 I've broke down and I've cried
 I've got nothing to hide no more
@@ -175,6 +179,3 @@ I've been at the wrong place at the wrong time
 Chasin' all the wrong things most of my life
 Been every kinda lost that you can't find
 But I got one thing right (I got one thing right)
-
-
-

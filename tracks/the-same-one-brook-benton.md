@@ -1,8 +1,11 @@
 ---
+album: Hotel Happiness
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2A6eB0MRf93bbqGHv2Sq3M
 features: []
-genres: []
+first_released_as_single: false
 key: the-same-one-brook-benton
 lyrics_url: https://genius.com/Brook-benton-the-same-one-lyrics
 name: The Same One
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 135726
 ---
 The same one you said you needed
 The same one who needed you

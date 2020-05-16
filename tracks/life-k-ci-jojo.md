@@ -1,9 +1,12 @@
 ---
+album: Love Always
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:5GorFaKkP2mLREQvhSblIg
 features: []
-genres: []
+first_released_as_single: false
 key: life-k-ci-jojo
 lyrics_url: https://genius.com/K-ci-and-jojo-life-lyrics
 name: Life
@@ -76,6 +79,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1997
+runtime: 331240
 ---
 Just like a birdie, I just want to fly free (so high, so high)
 And own a piece of land, somewhere, somewhere off in a country Oh, oh, yeah, listen

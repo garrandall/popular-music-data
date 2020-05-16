@@ -1,10 +1,13 @@
 ---
+album: Dreams Worth More Than Money
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0hy1SOTEn9ifXTzOwnCwEr
 features:
 - Chris Brown
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: all-eyes-on-you-meek-mill-chris-brown-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/alleyesonyou.html
 name: All Eyes On You
@@ -89,9 +92,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2015-11-21'
+release_year: 2015
+runtime: 223973
 ---
-
-
 Yeah, baby, is you drunk, is you had enough?
 Are you here lookin' for love? Oh
 Got the club goin' crazy
@@ -174,6 +177,3 @@ She was the baddest (He was the realest)
 We was the flyest (We was the illest)
 I was the realest (I was the baddest)
 We was the flyest, up in the buildin'
-
-
-

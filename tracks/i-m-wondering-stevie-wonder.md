@@ -1,8 +1,11 @@
 ---
+album: At The Close Of A Century
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7t1oNMPLp0hgNfNUufIITV
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-wondering-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-im-wondering-lyrics
 name: I'm Wondering
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 173360
 ---
 Jimmy was your sweetie pie
 Your precious one

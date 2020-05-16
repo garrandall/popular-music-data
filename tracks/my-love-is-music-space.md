@@ -1,8 +1,11 @@
 ---
+album: Just Blue
 artists:
 - Space
+external_ids:
+  spotify: spotify:track:41Gu4TUd7jdj9MWGG9uYnI
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-is-music-space
 lyrics_url: https://genius.com/Didier-marouani-and-space-my-love-is-music-lyrics
 name: My Love Is Music
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1978
+runtime: 404466
 ---
 Dance, do you wanna see me dance
 I'm dancing my life away

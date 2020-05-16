@@ -1,9 +1,12 @@
 ---
+album: Purple Lamborghini (with Rick Ross)
 artists:
 - Skrillex
 - Rick Ross
+external_ids:
+  spotify: spotify:track:6JyuJFedEvPmdWQW0PkbGJ
 features: []
-genres: []
+first_released_as_single: true
 key: purple-lamborghini-skrillex-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/skrillex/purplelamborghini.html
 name: Purple Lamborghini
@@ -48,8 +51,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 215510
 ---
-
 Biggest boss and I been the trillest
 I'm a bigger problem when I click with Skrillex
 Murder on my mind, it's time to pray to God
@@ -113,6 +117,3 @@ Quinzel
 Real hip
 Forgive me for my wrongs, I have just begun
 Rozay
-
-
-

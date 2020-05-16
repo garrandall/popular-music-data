@@ -1,8 +1,11 @@
 ---
+album: The Sopwith Camel
 artists:
 - The Sopwith "Camel"
+external_ids:
+  spotify: spotify:track:3yPs4CVosecdJ7falhCUCI
 features: []
-genres: []
+first_released_as_single: false
 key: hello-hello-the-sopwith--camel-
 lyrics_url: https://genius.com/The-sopwith-camel-hello-hello-lyrics
 name: Hello Hello
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1966
+runtime: 154813
 ---
 The Sopwith Camel
 Miscellaneous

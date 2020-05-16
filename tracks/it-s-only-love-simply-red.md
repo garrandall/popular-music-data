@@ -1,8 +1,11 @@
 ---
+album: A New Flame (Expanded)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:6i1uWZYWabNHq2wQnoca58
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-love-simply-red
 lyrics_url: https://genius.com/Simply-red-its-only-love-lyrics
 name: It's Only Love
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1989
+runtime: 298573
 ---
 It's only love
 It's only love

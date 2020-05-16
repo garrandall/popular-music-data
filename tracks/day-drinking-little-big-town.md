@@ -1,8 +1,11 @@
 ---
+album: Pain Killer
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:1pxXqJZBrCREdC0s4Xs6Xz
 features: []
-genres: []
+first_released_as_single: false
 key: day-drinking-little-big-town
 lyrics_url: https://genius.com/Little-big-town-day-drinking-lyrics
 name: Day Drinking
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2014
+runtime: 178840
 ---
 Everybody's always waiting on Friday
 Watching that clock and sitting on go

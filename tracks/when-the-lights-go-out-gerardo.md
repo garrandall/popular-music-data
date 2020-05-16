@@ -1,8 +1,11 @@
 ---
+album: Mo' Ritmo
 artists:
 - Gerardo
+external_ids:
+  spotify: spotify:track:6KYw0mdNPgSBn3UWJt7o4u
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-lights-go-out-gerardo
 lyrics_url: https://genius.com/Gerardo-when-the-lights-go-out-lyrics
 name: When The Lights Go Out
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1991
+runtime: 244866
 ---
 You wanna step to me
 I know you wanna do me

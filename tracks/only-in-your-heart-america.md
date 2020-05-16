@@ -1,8 +1,11 @@
 ---
+album: Homecoming
 artists:
 - America
+external_ids:
+  spotify: spotify:track:1Wlzkd8MudkGiUL3l7u7Rl
 features: []
-genres: []
+first_released_as_single: false
 key: only-in-your-heart-america
 lyrics_url: https://genius.com/America-only-in-your-heart-lyrics
 name: Only In Your Heart
@@ -27,6 +30,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1972
+runtime: 197000
 ---
 Mary, have you seen better days?
 And will you find different ways?

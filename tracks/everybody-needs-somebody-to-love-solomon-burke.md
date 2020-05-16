@@ -1,8 +1,11 @@
 ---
+album: The Last Great Concert
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:4NL8D4RQsC6ux6eI3m3Lg5
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-needs-somebody-to-love-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-everybody-needs-somebody-to-love-lyrics
 name: Everybody Needs Somebody To Love
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 166186
 ---
 I'm so happy to be here tonight
 So glad to be here in your wonderful city

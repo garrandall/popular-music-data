@@ -1,8 +1,11 @@
 ---
+album: Sex and the Single Man
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:0SxVvaHRlMkBLDlDrGFXt9
 features: []
-genres: []
+first_released_as_single: false
 key: girls-are-more-fun-ray-parker-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/rayparkerjr/girlsaremorefun.html
 name: Girls Are More Fun
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 289320
 ---
-
 Girls are more fun, oh, oh
 Girls are more fun
 The party ain't begun
@@ -156,6 +160,3 @@ You know the girls are more fun
 Girls are more fun
 Girls are more fun
 Girls are more fun
-
-
-

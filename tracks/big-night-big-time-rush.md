@@ -1,8 +1,11 @@
 ---
+album: BTR
 artists:
 - Big Time Rush
+external_ids:
+  spotify: spotify:track:3mTyzSoSqh6KJj9p88WHaY
 features: []
-genres: []
+first_released_as_single: false
 key: big-night-big-time-rush
 lyrics_url: https://genius.com/Big-time-rush-big-night-lyrics
 name: Big Night
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 196133
 ---
 Oh, oh (Oh, oh, oh-oh)
 It's gonna be a big night (Oh, oh, oh-oh)

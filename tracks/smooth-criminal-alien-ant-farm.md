@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Alien Ant Farm
+external_ids:
+  spotify: spotify:track:5z6xHjCZr7a7AIcy8sPBKy
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-criminal-alien-ant-farm
 lyrics_url: https://genius.com/Alien-ant-farm-smooth-criminal-lyrics
 name: Smooth Criminal
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-01-05'
+release_year: 2001
+runtime: 209266
 ---
 (Oh no)
 

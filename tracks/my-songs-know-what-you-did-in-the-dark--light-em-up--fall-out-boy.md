@@ -1,8 +1,11 @@
 ---
+album: Save Rock And Roll
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:7s0lDK7y3XLmI7tcsRAbW0
 features: []
-genres: []
+first_released_as_single: false
 key: my-songs-know-what-you-did-in-the-dark--light-em-up--fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-my-songs-know-what-you-did-in-the-dark-demo-lyrics
 name: My Songs Know What You Did In The Dark (Light Em Up)
@@ -111,6 +114,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2013
+runtime: 186826
 ---
 We sold our souls in dark hotel rooms
 We slip tongues and lie like "I will see you soon"'s

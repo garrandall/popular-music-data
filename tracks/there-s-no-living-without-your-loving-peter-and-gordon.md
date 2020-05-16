@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:56aCFmwTdm1me0suarfiWn
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-no-living-without-your-loving-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-theres-no-living-without-your-loving-lyrics
 name: There's No Living Without Your Loving
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 181640
 ---
 If I can't love you
 'Til the day I die

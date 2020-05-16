@@ -1,8 +1,11 @@
 ---
+album: As Long As She Needs Me
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:0wTfrDYntTLsYJ37t3UxkH
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-she-needs-me-sammy-davis-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/sammydavisjr/aslongassheneedsme.html
 name: As Long As She Needs Me
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1963
+runtime: 184226
 ---
-
 As long as she needs me
 I know where I must be
 I'll cling on steadfastly
@@ -72,6 +76,3 @@ I won't betray her trust
 Though people tell me I must
 I've gotta stay true just
 As long as she needs me
-
-
-

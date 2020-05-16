@@ -1,9 +1,12 @@
 ---
+album: While We Wait
 artists:
 - Kehlani
+external_ids:
+  spotify: spotify:track:3vGLMTQTOHxbqst9sqnWmT
 features:
 - Ty Dolla $ign
-genres: []
+first_released_as_single: true
 key: nights-like-this-kehlani-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/kehlani/nightslikethis.html
 name: Nights Like This
@@ -44,9 +47,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
+release_year: 2019
+runtime: 194516
 ---
-
-
 You act like you need remindin'
 Tryna do it over, bring it back and rewind it
 But all that glitters isn't gold, I was blinded
@@ -112,6 +115,3 @@ You gon' get my hopes high, girl
 You gon' get my hopes high, girl
 Just gon' tell me more lies, girl
 Just gon' get my hopes high, girl
-
-
-

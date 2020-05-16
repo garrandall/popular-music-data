@@ -1,8 +1,11 @@
 ---
+album: Never Run Never Hide
 artists:
 - Benny Mardones
+external_ids:
+  spotify: spotify:track:0rhyBUAgNXwdyvGVXSrLzc
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-night-benny-mardones
 lyrics_url: https://genius.com/Benny-mardones-into-the-night-lyrics
 name: Into The Night
@@ -155,6 +158,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1980
+runtime: 271800
 ---
 She's just sixteen years old
 Leave her alone, they say

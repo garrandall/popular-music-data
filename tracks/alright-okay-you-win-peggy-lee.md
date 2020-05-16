@@ -1,8 +1,11 @@
 ---
+album: Things Are Swingin'
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:1m8WU15D9BGbtsgNE4XWuJ
 features: []
-genres: []
+first_released_as_single: false
 key: alright-okay-you-win-peggy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/peggylee/alrightokayyouwin.html
 name: Alright Okay You Win
@@ -31,8 +34,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1959
+runtime: 173840
 ---
-
 Well alright, okay, you win.
 I'm in love with you.
 Well alright, okay, you win.
@@ -70,6 +74,3 @@ Well alright, okay, you win.
 Baby, one thing more:
 If you're gonna be my man,
 Sweet baby, take me by the hand.
-
-
-

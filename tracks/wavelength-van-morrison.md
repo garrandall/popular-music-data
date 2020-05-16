@@ -1,8 +1,11 @@
 ---
+album: Wavelength
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:6KrMDGTp9CtkMLKyftDUTD
 features: []
-genres: []
+first_released_as_single: false
 key: wavelength-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/wavelength.html
 name: Wavelength
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 346986
 ---
-
 This is a song about your wavelength
 And my wavelength, baby
 You turn me on
@@ -116,6 +120,3 @@ When you get me on
 Get me on your wavelength
 Ya radio, ya radio, ya radio
 Ya radio, ya radio, ya radio
-
-
-

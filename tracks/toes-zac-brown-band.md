@@ -1,8 +1,11 @@
 ---
+album: The Foundation
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:2Esf7NTKQNCPE4G17QvVCs
 features: []
-genres: []
+first_released_as_single: false
 key: toes-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/toes.html
 name: Toes
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2008
+runtime: 262773
 ---
-
 I got my toes in the water, ass in the sand
 Not a worry in the world, a cold beer in my hand
 Life is good today. Life is good today.
@@ -156,6 +160,3 @@ I put my ass in a lawn chair, toes in the clay
 
 Not a worry in the world, a PBR on the way
 Life is good today. Life is good today.
-
-
-

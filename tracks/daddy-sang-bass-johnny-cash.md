@@ -1,8 +1,11 @@
 ---
+album: At San Quentin
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:1wZ4iJHOvEiugfX2h8xgQN
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-sang-bass-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/daddysangbass.html
 name: Daddy Sang Bass
@@ -47,8 +50,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 162626
 ---
-
 I remember when I was a lad,
 times were hard and things were bad.
 But there's a silver lining behind every cloud.
@@ -93,6 +97,3 @@ Mama sang tenor.
 Me and little brother would join right in there.
 In the sky, Lord, in the sky.
 In the sky, Lord, in the sky.
-
-
-

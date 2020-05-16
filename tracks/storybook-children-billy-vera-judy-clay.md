@@ -1,9 +1,12 @@
 ---
+album: Storybook Children
 artists:
 - Billy Vera
 - Judy Clay
+external_ids:
+  spotify: spotify:track:2BS8TsYnXlFwyzCO0IAywv
 features: []
-genres: []
+first_released_as_single: false
 key: storybook-children-billy-vera-judy-clay
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vera-Judy-Clay/Storybook-Children
 name: Storybook Children
@@ -44,6 +47,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1967
+runtime: 184453
 ---
 You've got your world
 And I've got mine

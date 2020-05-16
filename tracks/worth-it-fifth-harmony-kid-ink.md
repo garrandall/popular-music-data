@@ -1,9 +1,12 @@
 ---
+album: Reflection
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:41Fflg7qHiVOD6dEPvsCzO
 features:
 - Kid Ink
-genres: []
+first_released_as_single: false
 key: worth-it-fifth-harmony-kid-ink
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/worthit.html
 name: Worth It
@@ -152,9 +155,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 224573
 ---
-
-
 Give it to me, I'm worth it
 Baby, I'm worth it
 Uh huh I'm worth it
@@ -264,6 +267,3 @@ Uh huh I'm worth it
 Gimme gimme I'm worth it
 
 Give it to me, I'm worth it
-
-
-

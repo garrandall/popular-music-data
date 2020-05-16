@@ -1,8 +1,11 @@
 ---
+album: Rock and Roll For Kids
 artists:
 - The Genies
+external_ids:
+  spotify: spotify:track:7c5sGERNs4BcLNC34wKb4n
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-that-knocking-the-genies
 lyrics_url: https://www.musixmatch.com/lyrics/The-Genies/Who-s-That-Knocking
 name: Who's That Knocking
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 137920
 ---
 Input by alvino99
 

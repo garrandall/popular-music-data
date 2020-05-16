@@ -1,9 +1,12 @@
 ---
+album: 18 Months
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:05SBRd4fXgn8FX7bf8BCAE
 features:
 - Ellie Goulding
-genres: []
+first_released_as_single: false
 key: i-need-your-love-calvin-harris-ellie-goulding
 lyrics_url: https://genius.com/Calvin-harris-and-ellie-goulding-a-kinda-cover-by-youtuber-the-kawaii-duo-i-need-your-love-lyrics
 name: I Need Your Love
@@ -108,6 +111,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2012
+runtime: 234506
 ---
 I need your love
 I need your time

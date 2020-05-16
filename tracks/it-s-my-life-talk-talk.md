@@ -1,8 +1,11 @@
 ---
+album: It's My Life
 artists:
 - Talk Talk
+external_ids:
+  spotify: spotify:track:4jhsuQCUCJKA5f0bXb6XdJ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-life-talk-talk
 lyrics_url: https://genius.com/Talk-talk-its-my-life-lyrics
 name: It's My Life
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1984
+runtime: 232400
 ---
 Funny how I find myself in love with you
 If I could buy my reasoning I'd pay to lose

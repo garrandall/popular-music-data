@@ -1,9 +1,12 @@
 ---
+album: Tails
 artists:
 - Lisa Loeb
 - Nine Stories
+external_ids:
+  spotify: spotify:track:5dtGANbAShCkQZK0FU1xw8
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-wednesday-lisa-loeb-nine-stories
 lyrics_url: https://genius.com/Lisa-loeb-and-nine-stories-waiting-for-wednesday-lyrics
 name: Waiting For Wednesday
@@ -28,6 +31,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-08-17'
+release_year: 1995
+runtime: 188640
 ---
 Waiting for Wednesday
 My stomach doesn't hurt enough

@@ -1,8 +1,11 @@
 ---
+album: Stone Blue
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:6JWoLQAvw6LIMGOgEReYVM
 features: []
-genres: []
+first_released_as_single: false
 key: stone-blue-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/stoneblue.html
 name: Stone Blue
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 337960
 ---
-
 Wind tearin' through the backstreet, I hear the rhythm of my heart beat,
 Rain blowin' to my face, I'm tired of being in the wrong place.
 
@@ -99,6 +103,3 @@ You gotta help me through - you gotta help me through,
 You gotta help me through - you gotta help me through.
 When I was stone blue, when I was stone blue,
 Gotta help me through, help me through...
-
-
-

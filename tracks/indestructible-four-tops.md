@@ -1,8 +1,11 @@
 ---
+album: Indestructible
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7CWSuqxO78yfJXOsFaep67
 features: []
-genres: []
+first_released_as_single: false
 key: indestructible-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/indestructible.html
 name: Indestructible
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 270893
 ---
-
 We are friends, we are brothers
 Always there lookin' out for each other
 In a world where so many dreams are broken apart
@@ -104,6 +108,3 @@ So strong we can generate
 A wall of solid love
 Nothing can penetrate
 We're indestructible
-
-
-

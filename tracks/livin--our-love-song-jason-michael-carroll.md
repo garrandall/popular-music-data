@@ -1,8 +1,11 @@
 ---
+album: Waitin' In The Country
 artists:
 - Jason Michael Carroll
+external_ids:
+  spotify: spotify:track:5NhZkLMccDVhxocmVHDu4G
 features: []
-genres: []
+first_released_as_single: false
 key: livin--our-love-song-jason-michael-carroll
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmichaelcarroll/livinourlovesong.html
 name: Livin' Our Love Song
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 2007
+runtime: 231466
 ---
-
 Baby, when I look at you
 With your hair falling down in your baby blues
 Standing there across the room
@@ -109,4 +113,3 @@ Everything I want is everything that you are
 Just wanna lay you down, say I love you
 Without a sound
 I think you know what I'm talkin' about
-

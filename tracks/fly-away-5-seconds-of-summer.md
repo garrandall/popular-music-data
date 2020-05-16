@@ -1,8 +1,11 @@
 ---
+album: Sounds Good Feels Good
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:4KpbopdresVvdhe0qUTmj6
 features: []
-genres: []
+first_released_as_single: false
 key: fly-away-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/flyaway.html
 name: Fly Away
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2015
+runtime: 212601
 ---
-
 Counting down these seconds
 Jumping off these fences
 Find another place to start again
@@ -75,6 +79,3 @@ Fly away tonight
 
 (Fly away tonight)
 (Fly away tonight)
-
-
-

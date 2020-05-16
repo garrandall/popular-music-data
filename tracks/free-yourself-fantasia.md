@@ -1,8 +1,11 @@
 ---
+album: Free Yourself
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:7ANroj1yWw0YEGcLf7HO3Q
 features: []
-genres: []
+first_released_as_single: false
 key: free-yourself-fantasia
 lyrics_url: https://www.azlyrics.com/lyrics/fantasiabarrino/freeyourself.html
 name: Free Yourself
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2005-09-10'
+release_year: 2004
+runtime: 257426
 ---
-
 Baby you don't pay me no mind
 You act like you don't love me no more
 Maybe you need space or some time
@@ -124,6 +128,3 @@ You play games if you don't want me don't talk to me
 Hey go ahead and free yourself
 Baby if you don't want me don't talk to me I'll be alright go ahead to someone else
 Yeah yeah...
-
-
-

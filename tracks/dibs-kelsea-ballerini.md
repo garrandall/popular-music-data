@@ -1,8 +1,11 @@
 ---
+album: The First Time
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:6FWrlXo99QRmPtOeUSWDjv
 features: []
-genres: []
+first_released_as_single: false
 key: dibs-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/dibs.html
 name: Dibs
@@ -75,8 +78,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2015
+runtime: 183946
 ---
-
 I know everybody wants you
 That ain't no secret
 Hey baby what's your status?
@@ -150,6 +154,3 @@ I'm calling dibs on your lips, on your kiss on your time, boy
 I'm just trynna make you mine, boy
 Oh
 Dibs
-
-
-

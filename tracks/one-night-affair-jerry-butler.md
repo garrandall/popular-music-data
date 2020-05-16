@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:5zFGrYqXJXCOhnmElK3EI4
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-affair-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/One-Night-Affair
 name: One Night Affair
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 174533
 ---
 Oh I'll never let you under my skin
 Baby, I just could not stand, um, hum

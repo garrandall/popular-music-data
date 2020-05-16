@@ -1,8 +1,11 @@
 ---
+album: Turnstiles
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3YNFRvI0WnbvFdxUCQiKjR
 features: []
-genres: []
+first_released_as_single: false
 key: say-goodbye-to-hollywood-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/saygoodbyetohollywood.html
 name: Say Goodbye To Hollywood
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1976
+runtime: 276333
 ---
-
 Bobby's drivin' through the city tonight
 Through the lights in a hot new rent-a-car
 He joins the lovers in his heavy machine
@@ -122,6 +126,3 @@ Say goodbye to Hollywood
 Say goodbye my baby
 Say goobye to Hollywood
 Say goodbye my baby
-
-
-

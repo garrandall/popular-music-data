@@ -1,8 +1,11 @@
 ---
+album: 5ive
 artists:
 - Five
+external_ids:
+  spotify: spotify:track:37giHQffMdB94OqVy4ZBd8
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-lights-go-out-five
 lyrics_url: https://www.musixmatch.com/lyrics/Five/When-The-Lights-Go-Out
 name: When The Lights Go Out
@@ -111,6 +114,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 249600
 ---
 Yeah
 I like that

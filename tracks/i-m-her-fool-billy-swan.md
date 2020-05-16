@@ -1,8 +1,11 @@
 ---
+album: I Can Help
 artists:
 - Billy Swan
+external_ids:
+  spotify: spotify:track:5S6NVwNASMTWotVQ8edvSK
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-her-fool-billy-swan
 lyrics_url: https://genius.com/Billy-swan-im-her-fool-lyrics
 name: I'm Her Fool
@@ -23,6 +26,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 181986
 ---
 She tells me all the time that she loves me
 She even poured the wine at the same

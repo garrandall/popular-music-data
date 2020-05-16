@@ -1,9 +1,12 @@
 ---
+album: Project Baby 2
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:0wWUb62EkSLAfY8Rnf5aeV
 features:
 - XXXTENTACION
-genres: []
+first_released_as_single: false
 key: roll-in-peace-kodak-black-xxxtentacion
 lyrics_url: https://genius.com/Artz-smoke-in-peace-roll-in-peace-reject-remix-kodak-black-xxxtentacion-lyrics
 name: Roll In Peace
@@ -112,6 +115,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-02-24'
+release_year: 2017
+runtime: 213367
 ---
 I can't even smoke in peace
 I can't even go to sleep

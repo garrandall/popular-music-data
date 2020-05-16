@@ -1,9 +1,12 @@
 ---
+album: 'Global Warming: Meltdown (Deluxe Version)'
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:3Tu7uWBecS6GsLsL8UONKn
 features:
 - TJR
-genres: []
+first_released_as_single: false
 key: don-t-stop-the-party-pitbull-tjr
 lyrics_url: https://genius.com/Pitbull-dont-stop-the-party-lyrics
 name: Don't Stop The Party
@@ -88,6 +91,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 206120
 ---
 You don't get them girls loose, loose (TJR!)
 You don't get the world loose, loose

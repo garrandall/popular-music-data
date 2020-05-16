@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:66qlqxhEMpSHOzjRK4il0b
 features: []
-genres: []
+first_released_as_single: true
 key: castle-on-the-hill-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-castle-on-the-hill-lyrics
 name: Castle On The Hill
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 261153
 ---
 When I was six years old I broke my leg
 I was running from my brother and his friends

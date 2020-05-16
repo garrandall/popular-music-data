@@ -1,8 +1,11 @@
 ---
+album: Remington
 artists:
 - Granger Smith
+external_ids:
+  spotify: spotify:track:6naYpFIKihKbGg6lGxpveI
 features: []
-genres: []
+first_released_as_single: false
 key: backroad-song-granger-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Granger-Smith/Backroad-Song
 name: Backroad Song
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 236786
 ---
 Barbwire fence carving out a hillside, cutting holes in the midday sun, like a postcard framed in a windshield covered in dust.
 I love the rythmn of an old gray black top, 33's just whistling bye, steer the wheel one handed on a two lane hugging that line.

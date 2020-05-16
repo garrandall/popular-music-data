@@ -1,8 +1,11 @@
 ---
+album: New Frontier
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:0iSDA5x3Szznzb7JkM4dZN
 features: []
-genres: []
+first_released_as_single: false
 key: greenback-dollar-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-greenback-dollar-1990-digital-remaster-lyrics
 name: Greenback Dollar
@@ -51,6 +54,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1962
+runtime: 172200
 ---
 Some people say I'm a no-'count
 Others say I'm no good

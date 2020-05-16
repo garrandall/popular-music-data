@@ -1,8 +1,11 @@
 ---
+album: 199 Quad (w/ Bonus Dvd)
 artists:
 - 69 Boyz
+external_ids:
+  spotify: spotify:track:0SAIjVOwxVnO1l9HGvLuOU
 features: []
-genres: []
+first_released_as_single: false
 key: tootsee-roll-69-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/69boyz/tootseeroll.html
 name: Tootsee Roll
@@ -159,8 +162,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
+release_year: 1994
+runtime: 261360
 ---
-
 The butterfly? Uh-uh, that's old!
 Let me see the Tootsee Roll!
 
@@ -232,4 +236,3 @@ Dip, baby, dip!
 I feel a whoop comin' on, a whoop comin' on
 Whoop!
 Just roll!
-

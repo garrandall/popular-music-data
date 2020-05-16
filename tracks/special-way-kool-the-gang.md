@@ -1,9 +1,12 @@
 ---
+album: Forever
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:0i74hCilU2AmXjYSbr2N6B
 features: []
-genres: []
+first_released_as_single: false
 key: special-way-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-special-way-lyrics
 name: Special Way
@@ -64,6 +67,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1986
+runtime: 327800
 ---
 Here we are
 Back in love again this time unlike before

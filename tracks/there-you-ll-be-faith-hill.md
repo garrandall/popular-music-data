@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:1s2khOWzC99udpUaPICLJI
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-ll-be-faith-hill
 lyrics_url: https://genius.com/Faith-hill-there-youll-be-lyrics
 name: There You'll Be
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2001-10-06'
+release_year: 2001
+runtime: 220840
 ---
 When I think back on these times
 And the dreams we left behind

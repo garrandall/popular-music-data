@@ -1,8 +1,11 @@
 ---
+album: Push
 artists:
 - Bros
+external_ids:
+  spotify: spotify:track:5165YVSgUjNbqKhC3D0xBc
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-be-famous--bros
 lyrics_url: https://genius.com/Bros-when-will-i-be-famous-lyrics
 name: When Will I Be Famous?
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 241986
 ---
 When will I, will I be famous?
 

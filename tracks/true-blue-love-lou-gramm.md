@@ -1,8 +1,11 @@
 ---
+album: Long Hard Look
 artists:
 - Lou Gramm
+external_ids:
+  spotify: spotify:track:0QUZYtRJ7dGe8fY9iuHd5E
 features: []
-genres: []
+first_released_as_single: false
 key: true-blue-love-lou-gramm
 lyrics_url: https://www.azlyrics.com/lyrics/lougramm/truebluelove.html
 name: True Blue Love
@@ -51,8 +54,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 298546
 ---
-
 Had enough of my yesterdays
 Can't go back to mistakes that I've made
 Had enough of my dark side
@@ -112,6 +116,3 @@ Oh, baby, I'll give you true blue love
 Oh yeah, only tenderness
 Don't turn away
 Don't turn away true blue love
-
-
-

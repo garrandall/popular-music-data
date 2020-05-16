@@ -1,8 +1,11 @@
 ---
+album: Caught In The Act
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:2hOQ3flrf2nTvig69dcfG4
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-shelter-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/gimmeshelter.html
 name: Gimme Shelter
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 420333
 ---
-
 Oooo, oo, oo.
 Oooo, oo, oo.
 
@@ -71,4 +75,3 @@ War children, it's just a shot away, it's just a shot away.
 Love sister, it's just a kiss away, it's just a kiss away.
 War children, it's just a shot away, it's just a shot away.
 Love sister, it's just a kiss away, it's just a kiss away.
-

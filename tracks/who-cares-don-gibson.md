@@ -1,8 +1,11 @@
 ---
+album: 18 Greatest Hits
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:3MZ0XH9mGWzsW5nsxfEdw7
 features: []
-genres: []
+first_released_as_single: false
 key: who-cares-don-gibson
 lyrics_url: https://genius.com/Don-gibson-who-cares-lyrics
 name: Who Cares
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1959
+runtime: 150600
 ---
 I walked down this ol' lonely street
 And no one seems to wanna speak

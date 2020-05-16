@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:042nXqZgkM5vrwLdpyHZn8
 features: []
-genres: []
+first_released_as_single: false
 key: uproar-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/uproar.html
 name: Uproar
@@ -87,9 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2018
+runtime: 194184
 ---
-
-
 Y'all know his name
 Ayo Mac
 Ladies and gentlemen, C5 (Oh) 
@@ -166,6 +169,3 @@ What the fuck though? Where the love go?
 Five, four, three, two, I let one go
 Bow, get the fuck though, I don't bluff, bro
 Aimin' at your head like a buffalo
-
-
-

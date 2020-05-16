@@ -1,8 +1,11 @@
 ---
+album: Libra Scale
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:2Q99zPXVqCPN5RaZawvJWZ
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-monster-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/neyo/beautifulmonster.html
 name: Beautiful Monster
@@ -43,8 +46,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2010
+runtime: 251573
 ---
-
 All my life
 And the hereafter
 I've never seen
@@ -119,6 +123,3 @@ No I don't mind
 (Said I don't mind I don't I don't mind...) No I don't mind
 (I don't mind I don't I don't mind...) No I don't mind
 (I don't mind I don't I don't mind... Oooo...) No I don't mind
-
-
-

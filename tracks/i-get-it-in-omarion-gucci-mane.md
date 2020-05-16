@@ -1,9 +1,12 @@
 ---
+album: Ollusion
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:2E6gb0Ngrvun6CUAUkvZPI
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: i-get-it-in-omarion-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/omarion/igetitin.html
 name: I Get It In
@@ -36,8 +39,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
+release_year: 2009
+runtime: 187533
 ---
-
 I done cut the braids, low cut, got my grown on
 Had a sister label, Young Money, Money, long, long
 I be so L.A. got my Chucks and my Locs on
@@ -99,6 +103,3 @@ I get it in, I get up in the game
 I get it in, I get it in
 I get it in, I get up in the thing
 Get it
-
-
-

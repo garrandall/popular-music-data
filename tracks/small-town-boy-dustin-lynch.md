@@ -1,8 +1,11 @@
 ---
+album: Current Mood
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:2YMhrXQYKkm4kXLcXKKd5z
 features: []
-genres: []
+first_released_as_single: false
 key: small-town-boy-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/smalltownboy.html
 name: Small Town Boy
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2017
+runtime: 205733
 ---
-
 I'm a dirt road
 In the headlights
 I'm a mama's boy
@@ -160,6 +164,3 @@ Or be anywhere she wants to be
 She loves a small town boy like me
 She loves a small town boy like me
 Yeah, she loves a small town boy like me
-
-
-

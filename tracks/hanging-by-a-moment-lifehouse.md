@@ -1,8 +1,11 @@
 ---
+album: No Name Face
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:0wqOReZDnrefefEsrIGeR4
 features: []
-genres: []
+first_released_as_single: false
 key: hanging-by-a-moment-lifehouse
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/hangingbyamoment.html
 name: Hanging By A Moment
@@ -223,8 +226,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-02-16'
+release_year: 2000
+runtime: 216066
 ---
-
 Desperate for changing, starving for truth
 I'm closer to where I started, I'm chasing after you
 
@@ -267,6 +271,3 @@ Just hanging by a moment
 Just hanging by a moment
 I'm hanging by a moment
 Just hanging by a moment here with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lover Please/The Complete MGM & Mercury Singles
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:6xAKCAHwaAvw9rlwAv3lkD
 features: []
-genres: []
+first_released_as_single: false
 key: lover-please-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-lover-please-lyrics
 name: Lover Please
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-06-02'
+release_year: 1962
+runtime: 116240
 ---
 Lover please, please come back
 Don't take a train comin' down the track

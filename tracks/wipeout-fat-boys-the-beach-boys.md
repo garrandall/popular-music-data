@@ -1,9 +1,12 @@
 ---
+album: The Best Of The Fat Boys
 artists:
 - Fat Boys
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:2hbqpl9NuHijbBHEImyl9Y
 features: []
-genres: []
+first_released_as_single: false
 key: wipeout-fat-boys-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/fatboys/wipeout.html
 name: Wipeout
@@ -84,8 +87,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 241255
 ---
-
 Heheheheheheee Wipe out
 
 Wiping out wipe out
@@ -175,6 +179,3 @@ Hey watch out
 Here we go here go
 Wah wah wah
 Wiping out wipe out
-
-
-

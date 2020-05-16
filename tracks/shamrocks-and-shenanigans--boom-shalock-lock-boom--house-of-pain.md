@@ -1,8 +1,11 @@
 ---
+album: House of Pain (Fine Malt Lyrics)
 artists:
 - House Of Pain
+external_ids:
+  spotify: spotify:track:1FBxSnAunQPxop3eTeOmE4
 features: []
-genres: []
+first_released_as_single: false
 key: shamrocks-and-shenanigans--boom-shalock-lock-boom--house-of-pain
 lyrics_url: https://genius.com/House-of-pain-shamrocks-and-shenanigans-lyrics
 name: Shamrocks And Shenanigans (Boom Shalock Lock Boom)
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 219106
 ---
 I kicks the flavor, like Stephen King writes horror
 If I was a Jew then I'd light a Menorah

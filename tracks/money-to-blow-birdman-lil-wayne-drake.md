@@ -1,10 +1,13 @@
 ---
+album: Pricele$$
 artists:
 - Birdman
+external_ids:
+  spotify: spotify:track:4gaz3uvhKgO078XcdzyPsl
 features:
 - Lil Wayne
 - Drake
-genres: []
+first_released_as_single: false
 key: money-to-blow-birdman-lil-wayne-drake
 lyrics_url: https://www.azlyrics.com/lyrics/birdman/moneytoblow.html
 name: Money To Blow
@@ -89,9 +92,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2009
+runtime: 258586
 ---
-
-
 Coming to you live 
 from the city of
 HoustalantaVegas
@@ -175,6 +178,3 @@ Gettin' it in,
 letting these bills fall all over your skin
 I got money to blooow ooow ooow oow ooow oow
 I got money to blooow ooow ooow oow ooow oow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: More of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:7dvtNWoHd3ioEBmIl0s3In
 features: []
-genres: []
+first_released_as_single: false
 key: -i-m-not-your--steppin--stone-the-monkees
 lyrics_url: https://genius.com/The-monkees-im-not-your-steppin-stone-lyrics
 name: (I'm Not Your) Steppin' Stone
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 146533
 ---
 I, I, I, I, I'm not your steppin' stone
 I, I, I, I, I'm not your steppin' stone

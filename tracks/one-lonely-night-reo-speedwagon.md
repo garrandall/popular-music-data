@@ -1,8 +1,11 @@
 ---
+album: Wheels Are Turnin'
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:00IIRIjBvLdF3iYN85baVx
 features: []
-genres: []
+first_released_as_single: false
 key: one-lonely-night-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/onelonelynight.html
 name: One Lonely Night
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1984
+runtime: 201466
 ---
-
 You and your baby had some words today
 Til not another word was left to say
 I see that grin boy
@@ -95,6 +99,3 @@ But how much longer can this night go on boy
 Oh she's such a good find
 Have you gone and lost your mind
 You should know she's one of a kind
-
-
-

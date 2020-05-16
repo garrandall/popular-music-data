@@ -1,8 +1,11 @@
 ---
+album: Back to Back - Atlantic Starr & The Jets
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:6EAlodKHBI1HxpSozNegwv
 features: []
-genres: []
+first_released_as_single: false
 key: rocket-2-u-the-jets
 lyrics_url: https://www.azlyrics.com/lyrics/jets/rocket2u.html
 name: Rocket 2 U
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 258093
 ---
-
 Baby, baby, when you called me on the phone today
 You sounded frantic when you said "Come over, right away"
 Oh, baby, baby, won't you say what's on your mind?
@@ -158,6 +162,3 @@ Baby, I can rocket 2 u
 Honey, the only thing I can do
 Baby, I can rocket all night
 One thing I know I can do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dreaming a Dream
 artists:
 - Crown Heights Affair
+external_ids:
+  spotify: spotify:track:6JyXQagD6KonHr8DrIBWcA
 features: []
-genres: []
+first_released_as_single: false
 key: dreaming-a-dream-crown-heights-affair
 name: Dreaming A Dream
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 426493
 ---
 

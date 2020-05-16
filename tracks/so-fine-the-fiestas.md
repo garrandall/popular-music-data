@@ -1,8 +1,11 @@
 ---
+album: 'So Fine: The Classic Old Town Recordings'
 artists:
 - The Fiestas
+external_ids:
+  spotify: spotify:track:3qcKv2nZyk9ZfmABJniose
 features: []
-genres: []
+first_released_as_single: false
 key: so-fine-the-fiestas
 lyrics_url: https://genius.com/The-fiestas-so-fine-lyrics
 name: So Fine
@@ -71,6 +74,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1959
+runtime: 140400
 ---
 So fine, so fine, so fine, yeah
 My baby's so doggone fine

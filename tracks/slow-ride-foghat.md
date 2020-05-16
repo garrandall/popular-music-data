@@ -1,8 +1,11 @@
 ---
+album: Fool For The City
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:4MYb7NWLwXNDB7bYs3HeX8
 features: []
-genres: []
+first_released_as_single: true
 key: slow-ride-foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/slowride.html
 name: Slow Ride
@@ -75,8 +78,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 232533
 ---
-
 Woo!
 
 Slow ride, take it easy
@@ -151,6 +155,3 @@ You know the rhythm is right
 Woah, come all night
 
 Slow ride!
-
-
-

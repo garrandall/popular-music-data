@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:4gowy3WT6D1yhMLgRBlf9C
 features: []
-genres: []
+first_released_as_single: false
 key: change-locations-drake-future
 lyrics_url: https://genius.com/Drake-and-future-change-locations-lyrics
 name: Change Locations
@@ -20,6 +23,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
+release_year: 2015
+runtime: 220862
 ---
 Yeah, know how nights like this go
 OVOFBG

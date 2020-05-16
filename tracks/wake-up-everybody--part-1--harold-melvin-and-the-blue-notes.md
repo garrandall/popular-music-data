@@ -1,8 +1,11 @@
 ---
+album: Total Soul Classics - Wake Up Everybody
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:2NMbpeb1VI7GyeJQMJZF2I
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-everybody--part-1--harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-wake-up-everybody-lyrics
 name: Wake Up Everybody (Part 1)
@@ -75,6 +78,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1972
+runtime: 452733
 ---
 Wake up, everybody
 No more sleepin' in bed

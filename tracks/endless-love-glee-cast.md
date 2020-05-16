@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:12SUwAYy47C6lpCbBOxoEk
 features: []
-genres: []
+first_released_as_single: false
 key: endless-love-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/endlesslove.html
 name: Endless Love
@@ -11,9 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 262826
 ---
-
-
 My love,
 There's only you in my life
 the only thing that's right
@@ -132,6 +135,3 @@ My love, my love
 
 
 My endless love
-
-
-

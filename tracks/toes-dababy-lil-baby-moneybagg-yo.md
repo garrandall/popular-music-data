@@ -1,10 +1,13 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:2FvD20Z8aoWIePi7PoN8sG
 features:
 - Lil Baby
 - Moneybagg Yo
-genres: []
+first_released_as_single: false
 key: toes-dababy-lil-baby-moneybagg-yo
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/toes.html
 name: TOES
@@ -61,8 +64,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 136366
 ---
-
 My heart so cold I think I'm done with ice
 Say if I leave her she gone die
 Well bitch, you done with life
@@ -157,6 +161,3 @@ How I look having all these hoes?
 When I crack a smile, white gold
 Yeah I'm talking diamonds, froze
 Came from the bottom, toes
-
-
-

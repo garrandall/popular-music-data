@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:1PLumDk0ve3yc1VCj7GJWs
 features: []
-genres: []
+first_released_as_single: false
 key: alice-in-wonderland-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/aliceinwonderland.html
 name: Alice In Wonderland
@@ -47,8 +50,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1963
+runtime: 152760
 ---
-
 Alice, pretty little Alice, pretty little Alice in Wonderland.
 
 Alice in wonderland, won't you take me by the hand,
@@ -68,6 +72,3 @@ Take me by the hand, tell me you understand,
 Alice, Alice in wonderland
 
 Oh Alice, pretty little Alice, pretty little Alice in wonderland.
-
-
-

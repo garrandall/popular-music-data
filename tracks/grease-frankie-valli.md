@@ -1,8 +1,11 @@
 ---
+album: Frankie Valli...Is The Word
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:5Vrczz39CvlD3OGCa6utoA
 features: []
-genres: []
+first_released_as_single: false
 key: grease-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/grease.html
 name: Grease
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1978
+runtime: 207306
 ---
-
 I solve my problems and I see the light
 We got a lovin' thing, we gotta feed it right
 There ain't no danger we can go too far
@@ -148,6 +152,3 @@ Now, grease is the way we are feeling
 
 Grease is the word
 Is the word...
-
-
-

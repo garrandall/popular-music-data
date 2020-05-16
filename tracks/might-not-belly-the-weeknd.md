@@ -1,9 +1,12 @@
 ---
+album: Up For Days
 artists:
 - Belly
+external_ids:
+  spotify: spotify:track:5e9aFSdnkQUrm5y8Dhw0qN
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: might-not-belly-the-weeknd
 lyrics_url: https://genius.com/Belly-might-not-lyrics
 name: Might Not
@@ -76,6 +79,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2015
+runtime: 224213
 ---
 Yeah
 Oh yeah, oh yeah

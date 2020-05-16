@@ -1,9 +1,12 @@
 ---
+album: Everybody Looking
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:5DojM4lV8gYsk7XfwG0nHa
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: p-----print-gucci-mane-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Kanye-West-2/P-Print
 name: P**** Print
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-08-13'
+release_year: 2016
+runtime: 215373
 ---
 Wizop, Yeezy Mane
 (Mike Will Made It)

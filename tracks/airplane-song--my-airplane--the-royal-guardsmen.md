@@ -1,8 +1,11 @@
 ---
+album: Snoopy And His Friends The Royal Guardsmen
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:4R6n8nSg5yIaiy9ltdKV0p
 features: []
-genres: []
+first_released_as_single: false
 key: airplane-song--my-airplane--the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/airplanesongmyairplane.html
 name: Airplane Song (My Airplane)
@@ -31,8 +34,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 164253
 ---
-
 I can go for miles in my airplane
 Have a lot of smiles in my airplane
 I can go up - I can get down
@@ -72,6 +76,3 @@ We can go up - We can go down
 But the way we're going now
 We won't get off the ground
 In my airplane
-
-
-

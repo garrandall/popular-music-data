@@ -1,8 +1,11 @@
 ---
+album: Play On
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:6OqdF0vHI9xkqswI7EK0cD
 features: []
-genres: []
+first_released_as_single: false
 key: cowboy-casanova-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/cowboycasanova.html
 name: Cowboy Casanova
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2009
+runtime: 236786
 ---
-
 You better take it from me, that boy is like a disease
 You're running, you're trying, you're trying to hide
 And you're wondering why you can't get free
@@ -149,6 +153,3 @@ You better run for your life
 
 Oh you better run for your life
 Oh you better run for your life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: City Nights
 artists:
 - Tierra
+external_ids:
+  spotify: spotify:track:7jWg5HSLtuVKVelBitie3J
 features: []
-genres: []
+first_released_as_single: false
 key: memories-tierra
 lyrics_url: https://genius.com/Tierra-memories-lyrics
 name: Memories
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1980
+runtime: 244186
 ---
 Memories
 Precious memories

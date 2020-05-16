@@ -1,9 +1,12 @@
 ---
+album: Suit
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:4win5PsAMPKGmyO2Dh3Ehg
 features:
 - Tim McGraw
-genres: []
+first_released_as_single: true
 key: over-and-over-nelly-tim-mcgraw
 lyrics_url: https://genius.com/Nelly-over-and-over-lyrics
 name: Over And Over
@@ -104,6 +107,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2004
+runtime: 254706
 ---
 Uh, uh-uh-uh
 Uh, uh-uh-uh

@@ -1,8 +1,11 @@
 ---
+album: Something's Gotta Give
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:7HYfzp6GC2miSBlyhCj0aI
 features: []
-genres: []
+first_released_as_single: false
 key: just-because-the-mcguire-sisters
 lyrics_url: https://www.musixmatch.com/lyrics/The-McGuire-Sisters/Just-Because
 name: Just Because
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 176491
 ---
 Well-now just because you think you're so pretty,
 Just because your Mama thinks you're hot (you're not!)

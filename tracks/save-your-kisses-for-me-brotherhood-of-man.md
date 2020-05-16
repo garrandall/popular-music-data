@@ -1,8 +1,11 @@
 ---
+album: 'Pop Masters: Angelo'
 artists:
 - Brotherhood Of Man
+external_ids:
+  spotify: spotify:track:0E19RAvUkhjMM0rdICkidE
 features: []
-genres: []
+first_released_as_single: false
 key: save-your-kisses-for-me-brotherhood-of-man
 lyrics_url: https://genius.com/Brotherhood-of-man-save-your-kisses-for-me-lyrics
 name: Save Your Kisses For Me
@@ -51,6 +54,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1976
+runtime: 184733
 ---
 Though it hurts to go away, it's impossible to stay
 But there's one thing I must say before I go

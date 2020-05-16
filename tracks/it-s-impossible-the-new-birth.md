@@ -1,8 +1,11 @@
 ---
+album: Ain't No Big Thing, But It's Growing
 artists:
 - The New Birth
+external_ids:
+  spotify: spotify:track:7iCZATttKhRMYYiDdC7u6Q
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-impossible-the-new-birth
 lyrics_url: https://genius.com/New-birth-its-impossible-lyrics
 name: It's Impossible
@@ -43,6 +46,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 228560
 ---
 Impossible, oh impossible
 

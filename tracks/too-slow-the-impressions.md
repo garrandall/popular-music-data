@@ -1,8 +1,11 @@
 ---
+album: Ridin' High
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:7KYm266nz6EmqxfQpLUYdE
 features: []
-genres: []
+first_released_as_single: false
 key: too-slow-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/tooslow.html
 name: Too Slow
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 166706
 ---
-
 You're too slow
 Woman, you're too slow
 Ain't got much time
@@ -57,6 +61,3 @@ You're too slow!
 You're too slow
 You're too slow!
 You're too slow
-
-
-

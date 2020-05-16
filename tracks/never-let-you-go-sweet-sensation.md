@@ -1,8 +1,11 @@
 ---
+album: Take It While It's Hot
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:01qoKBIhSo3AlowvoiKPqH
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-you-go-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/neverletyougo.html
 name: Never Let You Go
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1988
+runtime: 368333
 ---
-
 All night, I'll never let you go
 
 I'll never let you go
@@ -106,6 +110,3 @@ I'll keep you on my heart (Never let you go)
 Until the end of time
 I'll hold you tight all night
 I'll never let you go
-
-
-

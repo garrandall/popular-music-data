@@ -1,9 +1,12 @@
 ---
+album: Shockadelica
 artists:
 - Jesse Johnson
+external_ids:
+  spotify: spotify:track:4lLlcw6MrW2tDwybsuu5wu
 features:
 - Sly Stone
-genres: []
+first_released_as_single: false
 key: crazay-jesse-johnson-sly-stone
 lyrics_url: https://genius.com/Jesse-johnson-crazay-lyrics
 name: Crazay
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 241893
 ---
 I think I wanna feel ya
 I just wanna thrill ya

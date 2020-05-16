@@ -1,8 +1,11 @@
 ---
+album: If You Could Read My Mind
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:57ct8jKi6trntXiRV0NnXi
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-could-read-my-mind-gordon-lightfoot
 lyrics_url: https://genius.com/Gordon-lightfoot-if-you-could-read-my-mind-lyrics
 name: If You Could Read My Mind
@@ -67,6 +70,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1970
+runtime: 228840
 ---
 If you could read my mind love
 What a tale my thoughts could tell

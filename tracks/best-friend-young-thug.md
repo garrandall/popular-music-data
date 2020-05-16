@@ -1,8 +1,11 @@
 ---
+album: Best Friend
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:33JcUj9qQDayKswunZP9ar
 features: []
-genres: []
+first_released_as_single: true
 key: best-friend-young-thug
 lyrics_url: https://genius.com/Young-thug-best-friend-lyrics
 name: Best Friend
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 213000
 ---
 Ricky Racks, I see you!
 Thugger!

@@ -1,8 +1,11 @@
 ---
+album: The Dream Weaver
 artists:
 - Gary Wright
+external_ids:
+  spotify: spotify:track:5vVuiXoHyRGxJeCaHUpgae
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-alive-gary-wright
 lyrics_url: https://genius.com/Gary-wright-love-is-alive-lyrics
 name: Love Is Alive
@@ -115,6 +118,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1975
+runtime: 230106
 ---
 Well, I think it's time to get ready
 To realize just what I have found

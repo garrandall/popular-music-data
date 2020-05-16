@@ -1,8 +1,11 @@
 ---
+album: Who I Am
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:5cAGsX0EzCqKuQr7nui6T7
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-from-love-david-ruffin
 lyrics_url: https://genius.com/David-ruffin-walk-away-from-love-lyrics
 name: Walk Away From Love
@@ -67,6 +70,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
+release_year: 1975
+runtime: 328920
 ---
 (I'm gonna walk away from love
 Gonna walk away, gonna walk away

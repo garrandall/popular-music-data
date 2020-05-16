@@ -1,8 +1,11 @@
 ---
+album: Blackout
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5rCyOrQQiGVYCpQAwOC94v
 features: []
-genres: []
+first_released_as_single: true
 key: gimme-more-britney-spears
 lyrics_url: https://genius.com/Britney-spears-gimme-more-lyrics
 name: Gimme More
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2007
+runtime: 200693
 ---
 It's Britney, bitch
 I see you

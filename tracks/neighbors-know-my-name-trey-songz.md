@@ -1,8 +1,11 @@
 ---
+album: Ready
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:6jvvpPJQJy5rMOEkLlADl6
 features: []
-genres: []
+first_released_as_single: false
 key: neighbors-know-my-name-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/treysongz/neighborsknowmyname.html
 name: Neighbors Know My Name
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2009
+runtime: 186306
 ---
-
 Soon as we get started making love going hard
 I hear a knock, knock, knocking on the wall
 And as soon as I go deep getting it in, then again
@@ -152,6 +156,3 @@ The way you scream my name, whoa
 Girl, the love we make
 Gone keep on banging on the wall, but nothing's gonna change
 I bet the neighbors know my name
-
-
-

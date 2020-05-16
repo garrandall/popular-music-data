@@ -1,8 +1,11 @@
 ---
+album: My Baby Loves Lovin'
 artists:
 - White Plains
+external_ids:
+  spotify: spotify:track:6NuCtsa6TSG1yDshvFGTeD
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--you-baby-white-plains
 lyrics_url: https://genius.com/White-plains-lovin-you-baby-lyrics
 name: Lovin' You Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 189760
 ---
 I've got to have my piece of heaven some day soon
 Or else I'm gonna die

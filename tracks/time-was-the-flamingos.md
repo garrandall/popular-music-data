@@ -1,8 +1,11 @@
 ---
+album: Flamingo Serenade
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:6DvxDtsae2rrcFQbtPiWP7
 features: []
-genres: []
+first_released_as_single: false
 key: time-was-the-flamingos
 lyrics_url: https://www.musixmatch.com/lyrics/The-Flamingos/Time-Was
 name: Time Was
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1959
+runtime: 159973
 ---
 Oh...
 Time was, time was

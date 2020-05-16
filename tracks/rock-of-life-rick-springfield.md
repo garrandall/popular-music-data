@@ -1,8 +1,11 @@
 ---
+album: Rock of Life
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:4WRCPiKpdwa3wiq613sB8Q
 features: []
-genres: []
+first_released_as_single: false
 key: rock-of-life-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/rockoflife.html
 name: Rock Of Life
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1981
+runtime: 231720
 ---
-
 (I feel the big beat...)
 (Rock Of Life...)
 
@@ -117,6 +121,3 @@ Big beat talk to me
 Hey! Whoo!
 I feel the back beat, the Rock Of Life
 Waking up blind with the house on fire
-
-
-

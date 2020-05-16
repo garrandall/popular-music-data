@@ -1,8 +1,11 @@
 ---
+album: One Voice
 artists:
 - Billy Gilman
+external_ids:
+  spotify: spotify:track:3ZdA3QuqHqOJdsczRwT1hg
 features: []
-genres: []
+first_released_as_single: false
 key: one-voice-billy-gilman
 lyrics_url: https://www.azlyrics.com/lyrics/billygilman/onevoice.html
 name: One Voice
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
+release_year: 2000
+runtime: 249840
 ---
-
 Some kids have and some kids don't
 And some of us are wondering why.
 and mom won't watch the news at night
@@ -120,6 +124,3 @@ A thousand prayers, a million words
 But one voice was heard
 One voice was heard
 One voice was heard
-
-
-

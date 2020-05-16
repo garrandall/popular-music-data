@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:499iOZxvZrkYGh0sHffvbZ
 features: []
-genres: []
+first_released_as_single: false
 key: fell-in-love-on-monday-fats-domino
 lyrics_url: https://genius.com/Fats-domino-fell-in-love-on-monday-lyrics
 name: Fell In Love On Monday
@@ -31,6 +34,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 119306
 ---
 Yes, I fell in love last Monday
 With a girl I met last Sunday

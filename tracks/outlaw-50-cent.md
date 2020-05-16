@@ -1,8 +1,11 @@
 ---
+album: Outlaw
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:75Mf2hYXJI5pVV0qDYUBoj
 features: []
-genres: []
+first_released_as_single: true
 key: outlaw-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/outlaw.html
 name: Outlaw
@@ -11,9 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2011
+runtime: 195906
 ---
-
-
 Outlaw, we lawless
 We ballin out nigga regardless
 Everything VVS we flawless
@@ -94,6 +97,3 @@ Outlaw yea yea we lawless
 We ballin out yea regardless
 VVS yea yea we flawless
 You do what you gotta do, we do what we wanna do
-
-
-

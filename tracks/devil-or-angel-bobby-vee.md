@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee Sings Your Favorites
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:5JL4jmmogEql62ljHdlYP6
 features: []
-genres: []
+first_released_as_single: false
 key: devil-or-angel-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/devilorangel.html
 name: Devil Or Angel
@@ -83,8 +86,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 141200
 ---
-
 Devil or angel, I can't make up my mind
 Which one you are I'd like to wake up and find
 Devil or angel dear, whichever you are
@@ -109,6 +113,3 @@ Devil or angel please say you'll be mine
 Love me or leave, I've made up my mind
 Devil or angel dear, whichever you are
 I love you, I love you, I love you
-
-
-

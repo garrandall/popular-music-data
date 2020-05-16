@@ -1,8 +1,11 @@
 ---
+album: Outlaw
 artists:
 - War
+external_ids:
+  spotify: spotify:track:4wH9KmntncCz9k0ExA7kfV
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-the-power-war
 lyrics_url: https://genius.com/War-you-got-the-power-lyrics
 name: You Got The Power
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1982
+runtime: 342933
 ---
 You got the power
 To keep my fire a-burnin'

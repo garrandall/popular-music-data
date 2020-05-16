@@ -1,8 +1,11 @@
 ---
+album: There's No Me Without You
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:3yFHQnqW0t9lzvmtmyfSMO
 features: []
-genres: []
+first_released_as_single: false
 key: you-d-better-believe-it-the-manhattans
 lyrics_url: https://www.musixmatch.com/lyrics/The-Manhattans/You-d-Better-Believe-It
 name: You'd Better Believe It
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 269986
 ---
 (You'd better believe it)
 (You'd better believe it)

@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:0DEtwowgBnK2VBkmKA0249
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-think-of-you-leif-garrett
 lyrics_url: https://genius.com/Leif-garrett-when-i-think-of-you-lyrics
 name: When I Think Of You
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 183533
 ---
 When I think of you
 I think of sunny days in June

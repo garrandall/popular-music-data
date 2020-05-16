@@ -1,8 +1,11 @@
 ---
+album: Jackson 5 - Dell Bundle (100 Track Dell Bundle)
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3Xfth33bqpO4557vvCNJMG
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-s-home-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-daddys-home-lyrics
 name: Daddy's Home
@@ -79,6 +82,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 183440
 ---
 You're my love, you're my angel
 You're the girl of my dreams

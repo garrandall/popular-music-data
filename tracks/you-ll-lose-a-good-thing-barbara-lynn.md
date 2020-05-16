@@ -1,8 +1,11 @@
 ---
+album: You'll Lose A Good Thing
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:5CEREcGR5WaLt40YzTQ62e
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-lose-a-good-thing-barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-youll-lose-a-good-thing-lyrics
 name: You'll Lose A Good Thing
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 159866
 ---
 If you should lose me,oh yeah,you'll lose a good thing
 If you should lose me, oh yeah,you'll lose a good thing

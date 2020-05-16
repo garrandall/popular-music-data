@@ -1,8 +1,11 @@
 ---
+album: 'Hi-Five: Naughty By Nature'
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:4e4RmTn1CMCz5Dgq1aPyxe
 features: []
-genres: []
+first_released_as_single: true
 key: mourn-you-til-i-join-you-naughty-by-nature
 lyrics_url: https://www.azlyrics.com/lyrics/naughtybynature/mournyoutilijoinyou.html
 name: Mourn You Til I Join You
@@ -55,9 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1997
+runtime: 316760
 ---
-
-
 It's gonna be alright, you gotta believe dat
 
 
@@ -164,6 +167,3 @@ I'm a mourn you til I join you
 
 we'll mourn - that's what we'll do
 we'll mourn - till we're with you
-
-
-

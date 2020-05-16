@@ -1,8 +1,11 @@
 ---
+album: California Sun - the Best of the Rivieras
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:5FRbCNMJX9Xe6FUnVaa7mS
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-have-a-party-the-rivieras
 lyrics_url: https://genius.com/The-rivieras-lets-have-a-party-lyrics
 name: Let's Have A Party
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1963
+runtime: 152733
 ---
 Some people like to rock, some people like to roll
 A-movin' and a-groovin' gonna satisfy the soul, let's have a party

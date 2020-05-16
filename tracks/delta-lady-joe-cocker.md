@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker!
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:0gHjMu0zgdBA0GcaA6B6x0
 features: []
-genres: []
+first_released_as_single: false
 key: delta-lady-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-delta-lady-lyrics
 name: Delta Lady
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 170160
 ---
 Woman of the country now I've found you
 Longing in your soft and fertile delta

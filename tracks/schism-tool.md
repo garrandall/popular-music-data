@@ -1,8 +1,11 @@
 ---
+album: Lateralus
 artists:
 - Tool
+external_ids:
+  spotify: spotify:track:55mJleti2WfWEFNFcBduhc
 features: []
-genres: []
+first_released_as_single: false
 key: schism-tool
 lyrics_url: https://www.azlyrics.com/lyrics/tool/schism.html
 name: Schism
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
+release_year: 2001
+runtime: 403533
 ---
-
 I know the pieces fit 'cause I watched them fall away
 Mildewed and smoldering. Fundamental differing
 Pure intention juxtaposed will set two lovers souls in motion
@@ -118,7 +122,4 @@ Sense of compassion
 Between supposed lovers
 Between supposed lovers
 
-I know the pieces fit 
-
-
-
+I know the pieces fit

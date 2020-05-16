@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Michelle Chamuel
+external_ids:
+  spotify: spotify:track:0eRdvRqJTPGZmdFftzF6Sx
 features: []
-genres: []
+first_released_as_single: false
 key: why-michelle-chamuel
 lyrics_url: https://www.musixmatch.com/lyrics/Michelle-Chamuel/Why-The-Voice-Performance
 name: Why
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 196586
 ---
 How many times do I have to try to tell you
 That I'm sorry for the things I've done

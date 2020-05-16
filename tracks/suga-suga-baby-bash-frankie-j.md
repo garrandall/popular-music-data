@@ -1,9 +1,12 @@
 ---
+album: Tha Smokin' Nephew
 artists:
 - Baby Bash
+external_ids:
+  spotify: spotify:track:6Nq5lE0CeOAAAqN4qhkbZU
 features:
 - Frankie J
-genres: []
+first_released_as_single: false
 key: suga-suga-baby-bash-frankie-j
 lyrics_url: https://www.azlyrics.com/lyrics/babybash/sugasuga.html
 name: Suga Suga
@@ -140,8 +143,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2003
+runtime: 239026
 ---
-
 So tight, so fly
 You got me lifted, you got me lifted
 
@@ -231,6 +235,3 @@ So high like I'm a star
 So high like I'm a star
 
 Azucar
-
-
-

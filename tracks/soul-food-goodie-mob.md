@@ -1,8 +1,11 @@
 ---
+album: Soul Food
 artists:
 - Goodie Mob
+external_ids:
+  spotify: spotify:track:4BkpaYdsex8kQ4JkrpnMuO
 features: []
-genres: []
+first_released_as_single: false
 key: soul-food-goodie-mob
 lyrics_url: https://genius.com/Goodie-mob-soul-food-lyrics
 name: Soul Food
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-05-25'
+release_year: 1995
+runtime: 236560
 ---
 My old boy from the point
 But I'm from Southwest and every

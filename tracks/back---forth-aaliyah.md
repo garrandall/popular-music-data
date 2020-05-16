@@ -1,8 +1,11 @@
 ---
+album: Age Ain't Nothing But A Number
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:0XziEtx67IFtP4QLlExaVc
 features: []
-genres: []
+first_released_as_single: true
 key: back---forth-aaliyah
 lyrics_url: https://genius.com/Aaliyah-back-and-forth-lyrics
 name: Back & Forth
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1994
+runtime: 223666
 ---
 (Let me see you go back)
 Move, it's the L-I-Y-A-H

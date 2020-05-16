@@ -1,8 +1,11 @@
 ---
+album: Abraxas
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:4YMQXzscifAREG0a7KNGhB
 features: []
-genres: []
+first_released_as_single: false
 key: black-magic-woman-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/blackmagicwoman.html
 name: Black Magic Woman
@@ -59,8 +62,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1969
+runtime: 196466
 ---
-
 Got a black magic woman
 Got a black magic woman
 
@@ -84,6 +88,3 @@ Yes you got your spell on me baby
 Turning my heart into stone
 I need you so bad - magic woman
 I can't leave you alone
-
-
-

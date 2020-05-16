@@ -1,9 +1,12 @@
 ---
+album: Comin' to Your City
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:2X0aeFJXJZpeK2nSWvypiI
 features: []
-genres: []
+first_released_as_single: false
 key: 8th-of-november-big-rich
 lyrics_url: https://www.azlyrics.com/lyrics/bigrich/8thofnovember.html
 name: 8th Of November
@@ -16,8 +19,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2005
+runtime: 298240
 ---
-
 Said goodbye to his momma as he left South Dakota
 To fight for the red, white and blue
 He was 19 and green with a new M-16
@@ -60,6 +64,3 @@ Said goodbye to his momma as he left South Dakota
 TO fight for the red, white and blue
 He was nineteen and green with a new M-16
 Just doing what he had to do
-
-
-

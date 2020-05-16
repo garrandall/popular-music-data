@@ -1,8 +1,11 @@
 ---
+album: This Love Is Real
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:2t8RBRBA4Zp6aKwLk6ZT7Y
 features: []
-genres: []
+first_released_as_single: false
 key: let-this-be-a-letter--to-my-baby--jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-let-this-be-a-letter-to-my-baby-lyrics
 name: Let This Be A Letter (To My Baby)
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 188333
 ---
 Hard to determine
 What's wrong and what's right

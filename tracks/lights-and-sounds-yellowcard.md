@@ -1,8 +1,11 @@
 ---
+album: Lights And Sounds
 artists:
 - Yellowcard
+external_ids:
+  spotify: spotify:track:4XOZaPYeMn9hcbpyS90NnD
 features: []
-genres: []
+first_released_as_single: false
 key: lights-and-sounds-yellowcard
 lyrics_url: https://genius.com/Yellowcard-lights-and-sounds-lyrics
 name: Lights And Sounds
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2006
+runtime: 208186
 ---
 Hello you, how was the rest?
 You made it through but nevertheless

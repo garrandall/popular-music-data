@@ -1,8 +1,11 @@
 ---
+album: Better Than Heaven
 artists:
 - Stacey Q
+external_ids:
+  spotify: spotify:track:2xPbEhd1ilXNzIYUYEBUuL
 features: []
-genres: []
+first_released_as_single: false
 key: we-connect-stacey-q
 lyrics_url: https://genius.com/Stacey-q-we-connect-lyrics
 name: We Connect
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 252240
 ---
 We connect
 When we're together it's so perfect

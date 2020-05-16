@@ -1,8 +1,11 @@
 ---
+album: Cry Like A Baby
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:6e5dOtgCiKkITJxtWSuLBE
 features: []
-genres: []
+first_released_as_single: false
 key: cry-like-a-baby-the-box-tops
 lyrics_url: https://genius.com/The-box-tops-cry-like-a-baby-lyrics
 name: Cry Like A Baby
@@ -67,6 +70,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 152400
 ---
 When I think about the good love you gave me
 I cry like a baby

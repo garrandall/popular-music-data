@@ -1,8 +1,11 @@
 ---
+album: Symphonic Hits
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:44rgrupkXz3sZ7TkWHiccI
 features: []
-genres: []
+first_released_as_single: false
 key: two-divided-by-love-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/twodividedbylove.html
 name: Two Divided By Love
@@ -51,8 +54,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 155933
 ---
-
 Two divided by love
 Can only be one
 And one is a lonely number
@@ -111,6 +115,3 @@ And one is a lonely number
 Two divided by love
 Can only be sad
 Can only hurt one another
-
-
-

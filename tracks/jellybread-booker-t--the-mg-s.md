@@ -1,9 +1,12 @@
 ---
+album: Time Is Tight
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:4mnTsJuNT4esYmnHqGMxJd
 features: []
-genres: []
+first_released_as_single: false
 key: jellybread-booker-t--the-mg-s
 name: Jellybread
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 147266
 ---
 

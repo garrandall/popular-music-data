@@ -1,10 +1,13 @@
 ---
+album: New Blood
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:6rbpg1oy48WtUaF6nEhh9K
 features: []
-genres: []
+first_released_as_single: false
 key: so-long-dixie-blood-sweat-tears
 lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/solongdixie.html
 name: So Long Dixie
@@ -53,8 +56,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
+release_year: 1972
+runtime: 266440
 ---
-
 Lazy moon
 Magnolia bloom perfume
 And Dixie would receive
@@ -95,6 +99,3 @@ Oh, you sure had style
 Recalling times we've had
 With all your good and bad
 I'm glad I had you for awhile
-
-
-

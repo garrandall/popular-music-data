@@ -1,8 +1,11 @@
 ---
+album: Tears And Laughter
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:6JS0rmZ0iRaX97cV85GJVg
 features: []
-genres: []
+first_released_as_single: false
 key: tears-and-laughter-dinah-washington
 lyrics_url: https://www.musixmatch.com/lyrics/Dinah-Washington/Tears-and-Laughter
 name: Tears And Laughter
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 172000
 ---
 No one's gonna come alone
 And line your palms with gold

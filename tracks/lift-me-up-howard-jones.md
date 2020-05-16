@@ -1,8 +1,11 @@
 ---
+album: In The Running
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:0Jz5Clply8Ggx8gi9yyKJP
 features: []
-genres: []
+first_released_as_single: false
 key: lift-me-up-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/liftmeup.html
 name: Lift Me Up
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
+release_year: 1992
+runtime: 218613
 ---
-
 I've got your picture in the palm of my hand
 And I'm squeezin' it I'm teasin' it
 I'd follow you to the edge of this land
@@ -120,6 +124,3 @@ I'm waiting for your love
 And when you can see
 The changes I've made in me
 Well I'm waitin' for, you know I'm waitin' for your love
-
-
-

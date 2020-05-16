@@ -1,8 +1,11 @@
 ---
+album: Who Let The Dogs Out
 artists:
 - Baha Men
+external_ids:
+  spotify: spotify:track:1H5tvpoApNDxvxDexoaAUo
 features: []
-genres: []
+first_released_as_single: false
 key: who-let-the-dogs-out-baha-men
 lyrics_url: https://genius.com/Baha-men-who-let-the-dogs-out-lyrics
 name: Who Let The Dogs Out
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 2000
+runtime: 198400
 ---
 For one zillion dollas
 The question is:

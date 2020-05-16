@@ -1,8 +1,11 @@
 ---
+album: 'New Amerykah Part Two: Return Of The Ankh'
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:74HYrIbnpc2xKCTenv5qKM
 features: []
-genres: []
+first_released_as_single: false
 key: window-seat-erykah-badu
 lyrics_url: https://www.azlyrics.com/lyrics/erykahbadu/windowseat.html
 name: Window Seat
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2010
+runtime: 289720
 ---
-
 So, presently
 I'm standing here right now
 You're so demanding
@@ -98,6 +102,3 @@ A look around and a safe touch down
 
 I just need a chance to fly
 A chance to cry and a long bye-bye
-
-
-

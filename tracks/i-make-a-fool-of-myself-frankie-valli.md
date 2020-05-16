@@ -1,8 +1,11 @@
 ---
+album: 'Jersey Beat: The Music Of Frankie Valli and The Four Seasons'
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:2lBuql0mYYMfC83ppuQEnE
 features: []
-genres: []
+first_released_as_single: false
 key: i-make-a-fool-of-myself-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/imakeafoolofmyself.html
 name: I Make A Fool Of Myself
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 219906
 ---
-
 When I'm away from you
 I know what to say and do
 But every time you're near
@@ -87,6 +91,3 @@ How could you care
 Little girl, you're unaware
 Of the love I have to share
 Inside me dying, oh, I'm crying
-
-
-

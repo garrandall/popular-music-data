@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:3xrOBEXb6HLFIJtzpz2Mhx
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-saved-the-best-for-last-kenny-g
 lyrics_url: https://genius.com/Kenny-g-weve-saved-the-best-for-last-lyrics
 name: We've Saved The Best For Last
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1986
+runtime: 258640
 ---
 Now that we are older
 Our hearts have all grown up

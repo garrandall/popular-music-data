@@ -1,8 +1,11 @@
 ---
+album: Stars And Stripes Forever
 artists:
 - The Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:7oW5GdgUXfkf3nw09aLdh4
 features: []
-genres: []
+first_released_as_single: false
 key: battle-of-new-orleans-the-nitty-gritty-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/battleofneworleans.html
 name: Battle Of New Orleans
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 179973
 ---
-
 In 1814 we took a little trip,
 Along with colonel jackson down the mighty mississip.
 We took a little bacon and we took a little beans,
@@ -64,6 +68,3 @@ We fired our guns and the british kept a comin',
 There wasn't 'bout as many as there was awhile ago.
 We fired once more and they began to runnin'
 On down the mississippi to the gulf of mexico.
-
-
-

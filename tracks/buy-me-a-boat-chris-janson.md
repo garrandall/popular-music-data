@@ -1,8 +1,11 @@
 ---
+album: Buy Me A Boat
 artists:
 - Chris Janson
+external_ids:
+  spotify: spotify:track:6y35xDJFzpy1FIa6qCMA59
 features: []
-genres: []
+first_released_as_single: true
 key: buy-me-a-boat-chris-janson
 lyrics_url: https://genius.com/Chris-janson-buy-me-a-boat-lyrics
 name: Buy Me A Boat
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 179077
 ---
 I ain’t rich, but I damn sure wanna be
 Working like a dog all day, ain’t working for me

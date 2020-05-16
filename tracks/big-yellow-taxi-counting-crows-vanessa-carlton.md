@@ -1,9 +1,12 @@
 ---
+album: Hard Candy
 artists:
 - Counting Crows
+external_ids:
+  spotify: spotify:track:4O4dhPrjcw7GSLNafNydmb
 features:
 - Vanessa Carlton
-genres: []
+first_released_as_single: false
 key: big-yellow-taxi-counting-crows-vanessa-carlton
 lyrics_url: https://www.azlyrics.com/lyrics/countingcrows/bigyellowtaxi.html
 name: Big Yellow Taxi
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2002
+runtime: 225573
 ---
-
-
 They paved paradise and put up a parking lot
 With a pink hotel, a boutique, and a swingin' hot spot
 Don't it always seem to go
@@ -172,6 +175,3 @@ why do you want me?
 
 Cos' you're givin it all away,
 Hey, paved paradise to put up a parking lot
-
-
-

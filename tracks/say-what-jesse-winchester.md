@@ -1,8 +1,11 @@
 ---
+album: Talk Memphis
 artists:
 - Jesse Winchester
+external_ids:
+  spotify: spotify:track:4Z9LuixhJtBO8aAr4f5OjH
 features: []
-genres: []
+first_released_as_single: false
 key: say-what-jesse-winchester
 lyrics_url: https://genius.com/Jesse-winchester-say-what-lyrics
 name: Say What
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
+release_year: 1972
+runtime: 190360
 ---
 Winchester
 

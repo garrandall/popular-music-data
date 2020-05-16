@@ -1,8 +1,11 @@
 ---
+album: Frantic Romantic
 artists:
 - Jermaine Stewart
+external_ids:
+  spotify: spotify:track:4LbFrIQwutqVBkw8qnfFrR
 features: []
-genres: []
+first_released_as_single: false
 key: the-word-is-out-jermaine-stewart
 lyrics_url: https://genius.com/Jermaine-stewart-the-word-is-out-lyrics
 name: The Word Is Out
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1985
+runtime: 215560
 ---
 You had to be the one to say it
 You couldn't keep it our secret, oh, no

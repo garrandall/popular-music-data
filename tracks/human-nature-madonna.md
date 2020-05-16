@@ -1,8 +1,11 @@
 ---
+album: Bedtime Stories
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4Cna7QxOOTNnylVHLtShCi
 features: []
-genres: []
+first_released_as_single: false
 key: human-nature-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/humannature.html
 name: Human Nature
@@ -67,9 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-09-30'
+release_year: 1994
+runtime: 293933
 ---
-
-
 Express yourself, don't repress yourself
 
 
@@ -132,6 +135,3 @@ Express yourself, don't repress yourself
 (I'm just like you)
 (Why should I be?)
 (Deal with it)
-
-
-

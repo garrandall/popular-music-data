@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits (Ten Years And Change 1979-1991)
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:1dkzeMx16NJNbLx0uF0EUz
 features: []
-genres: []
+first_released_as_single: false
 key: good-heart-starship
 lyrics_url: https://genius.com/Starship-good-heart-lyrics
 name: Good Heart
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
+release_year: 1991
+runtime: 262600
 ---
 Oh...
 (Give a good heart, give a good heart

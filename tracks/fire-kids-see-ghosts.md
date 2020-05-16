@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:7oHkit3F3vimtsBbnZkU0G
 features: []
-genres: []
+first_released_as_single: false
 key: fire-kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-fire-lyrics
 name: Fire
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 140526
 ---
 I love all your shit talkin', I love all your shit talkin’
 You ain't got nothin' better to... do with yourself?

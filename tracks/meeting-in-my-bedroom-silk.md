@@ -1,8 +1,11 @@
 ---
+album: Tonight
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:3Ypnlj9KYSif4Elk7EeHgt
 features: []
-genres: []
+first_released_as_single: false
 key: meeting-in-my-bedroom-silk
 lyrics_url: https://www.azlyrics.com/lyrics/silk/meetinginmybedroom.html
 name: Meeting In My Bedroom
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
+release_year: 1999
+runtime: 306093
 ---
-
 Silk
 2 G
 2,000 watts
@@ -126,6 +130,3 @@ There's a , there's a
 There's a meeting in my
 There's a meeting in my bedroom
 There's a meeting in my bedroom
-
-
-

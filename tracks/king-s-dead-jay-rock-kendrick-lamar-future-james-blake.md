@@ -1,11 +1,14 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - Jay Rock
 - Kendrick Lamar
 - Future
 - James Blake
+external_ids:
+  spotify: spotify:track:51rXHuKN8Loc4sUlKPODgH
 features: []
-genres: []
+first_released_as_single: true
 key: king-s-dead-jay-rock-kendrick-lamar-future-james-blake
 lyrics_url: https://www.azlyrics.com/lyrics/jayrock/kingsdead.html
 name: King's Dead
@@ -90,8 +93,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 229670
 ---
-
 Miss me with that bullshit (bullshit)
 You ain't really wild, you a tourist (a tourist)
 I be blackin' out with the purist (the purist)
@@ -124,7 +128,7 @@ I gotta go get it, I gotta go get it
 My name gon' hold up, my team gon' hold up
 My name gon' hold up, my team gon' hold up
 My shots gon' fire, my team gon' roll up
-MÃ©nage Ã  Trois, my queen gon' roll up
+Ménage Ã  Trois, my queen gon' roll up
 I hope y'all ready, you know I'm ready
 I rain all day, you know, confetti
 I gotta go get it, I gotta go get it
@@ -200,6 +204,3 @@ All hail King Killmonger
 Red light, green light, red light, green light
 Red light, green light, they like, we like
 Fast cars
-
-
-

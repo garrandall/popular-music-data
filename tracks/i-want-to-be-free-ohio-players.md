@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:0rGjPb0uTPQZKZxh7ouIPg
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-be-free-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/iwanttobefree.html
 name: I Want To Be Free
@@ -35,8 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 409400
 ---
-
 One day child, I won't have to listen to your lies
 On that day, I'll be able to make up my own mind
 You know, I think I done finally realized
@@ -93,6 +97,3 @@ I want to be free!
 I want to be free!
 I want to be free!
 I want to be free!
-
-
-

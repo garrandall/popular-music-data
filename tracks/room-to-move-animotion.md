@@ -1,8 +1,11 @@
 ---
+album: 'Obsession: The Best Of Animotion'
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:42B6mMkWVI3sU7f14JTYJn
 features: []
-genres: []
+first_released_as_single: false
 key: room-to-move-animotion
 lyrics_url: https://genius.com/Animotion-room-to-move-lyrics
 name: Room To Move
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1989
+runtime: 276800
 ---
 I know it seems like I'm a million miles away
 At times you feel like you don't even know me

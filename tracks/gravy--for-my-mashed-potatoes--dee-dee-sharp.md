@@ -1,8 +1,11 @@
 ---
+album: It's Mashed Potato Time/Do The Bird
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:2ZxzsmJ093WPTBbsoCf6CN
 features: []
-genres: []
+first_released_as_single: false
 key: gravy--for-my-mashed-potatoes--dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-gravy-lyrics
 name: Gravy (For My Mashed Potatoes)
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 128093
 ---
 Come on baby I need gravy
 Give me, give me

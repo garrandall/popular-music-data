@@ -1,8 +1,11 @@
 ---
+album: The Look Of Love
 artists:
 - Claudine Longet
+external_ids:
+  spotify: spotify:track:0R3flkZBGrHE1n7hHGNwLU
 features: []
-genres: []
+first_released_as_single: false
 key: good-day-sunshine-claudine-longet
 lyrics_url: https://www.musixmatch.com/lyrics/Claudine-Longet/Good-Day-Sunshine
 name: Good Day Sunshine
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 127466
 ---
 Good day sunshine
 Good day sunshine

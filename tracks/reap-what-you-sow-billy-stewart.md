@@ -1,8 +1,11 @@
 ---
+album: I Do Love You
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:7myTdRyhIv2sfdYxlBhlqi
 features: []
-genres: []
+first_released_as_single: false
 key: reap-what-you-sow-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-reap-what-you-sow-lyrics
 name: Reap What You Sow
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 138226
 ---
 Over and over
 I tell you that I love you

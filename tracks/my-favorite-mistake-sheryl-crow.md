@@ -1,8 +1,11 @@
 ---
+album: The Globe Sessions
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:1LAW7bK2NUJfrnmy2KRCs3
 features: []
-genres: []
+first_released_as_single: false
 key: my-favorite-mistake-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/myfavoritemistake.html
 name: My Favorite Mistake
@@ -47,8 +50,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1999-02-06'
+release_year: 1998
+runtime: 245093
 ---
-
 I woke up and called this morning
 The tone of your voice was a warning
 That you don't care for me anymore
@@ -98,6 +102,3 @@ Did it ever make you cry?
 You're my favorite mistake
 You're my favorite mistake
 You're my favorite mistake
-
-
-

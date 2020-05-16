@@ -1,8 +1,12 @@
 ---
+album: Solitude / Solitaire
 artists:
-- Peter Cetera With Amy Grant
-features: []
-genres: []
+- Peter Cetera
+external_ids:
+  spotify: spotify:track:7zSDDsIlks515d0tZGM64x
+features:
+- Amy Grant
+first_released_as_single: false
 key: the-next-time-i-fall-peter-cetera-with-amy-grant
 lyrics_url: https://www.musixmatch.com/lyrics/Peter-Cetera-with-Amy-Grant-2/The-Next-Time-I-Fall-With-Amy-Grant-2
 name: The Next Time I Fall
@@ -91,6 +95,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 225973
 ---
 Love like a road that never ends
 How it leads me back again

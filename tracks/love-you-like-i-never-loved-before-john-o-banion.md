@@ -1,8 +1,11 @@
 ---
+album: John O'Banion
 artists:
 - John O'Banion
+external_ids:
+  spotify: spotify:track:4jSwgxNp8EmMIdyPHEEKlb
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-like-i-never-loved-before-john-o-banion
 lyrics_url: https://genius.com/John-obanion-love-you-like-i-never-loved-before-lyrics
 name: Love You Like I Never Loved Before
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 202826
 ---
 Heard a promise in the wind
 Then I saw you walkin' in

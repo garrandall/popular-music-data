@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:7hW7DZ42AY4suLWXymcnXe
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-i-know-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-nobody-i-know-lyrics
 name: Nobody I Know
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1964
+runtime: 150453
 ---
 Nobody I know could love me more than you
 You can give me so much love it seems untrue
@@ -51,7 +56,7 @@ And then when you've heard him see if you agree
 Nobody I know could love you more than me
 
 Ev'rywhere I go the sun comes shining through
-Ev'ryone I know is sure it shines for you
+Everyone I know is sure it shines for you
 Even in my dreams I look into your eyes
 Suddenly it seems I've found a paradise
 Ev'rywhere I go the sun comes shining through

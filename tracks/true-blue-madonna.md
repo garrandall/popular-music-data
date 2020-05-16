@@ -1,8 +1,11 @@
 ---
+album: True Blue (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:7azOuDeJGbxt5mvq3GQHXp
 features: []
-genres: []
+first_released_as_single: false
 key: true-blue-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/trueblue.html
 name: True Blue
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 258226
 ---
-
 I've had other guys
 I've looked into their eyes
 But I never knew love before
@@ -120,4 +124,3 @@ Those words whispered in your ear, I said
 
 True love, oh baby, true love, oh baby
 True love, oh baby, true love it's
-

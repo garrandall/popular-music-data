@@ -1,9 +1,12 @@
 ---
+album: Yours Truly
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:06EL94D0TA27Ik0Ke5usbj
 features:
 - Mac Miller
-genres: []
+first_released_as_single: false
 key: the-way-ariana-grande-mac-miller
 lyrics_url: http://www.songlyrics.com/ariana-grande/the-way-feat-mac-miller-lyrics/
 name: The Way
@@ -112,6 +115,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 227026
 ---
 What we gotta do right here is go back, back to the top.
 

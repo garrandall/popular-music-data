@@ -1,8 +1,11 @@
 ---
+album: So I Can Love You / Untouched
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:4fcEcpfE7N9sDR7TReFtC0
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-how-the-emotions
 lyrics_url: https://genius.com/The-emotions-show-me-how-lyrics
 name: Show Me How
@@ -63,6 +66,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1969
+runtime: 199240
 ---
 I'm just a young girl
 Dying to learn the ways of love

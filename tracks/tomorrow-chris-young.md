@@ -1,8 +1,11 @@
 ---
+album: Neon
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:1qjl8UJtWTHrk4SFpwftSN
 features: []
-genres: []
+first_released_as_single: false
 key: tomorrow-chris-young
 lyrics_url: https://genius.com/Chris-young-tomorrow-lyrics
 name: Tomorrow
@@ -91,6 +94,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
+release_year: 2011
+runtime: 220173
 ---
 Tomorrow I'm gonna leave here
 I'm gonna let you go and walk away

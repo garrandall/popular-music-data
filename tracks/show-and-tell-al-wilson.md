@@ -1,8 +1,11 @@
 ---
+album: 'Show and Tell: The Best of Al Wilson'
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:2vhW1OmaZDYi63Da9d8R5o
 features: []
-genres: []
+first_released_as_single: false
 key: show-and-tell-al-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/alwilson/showandtell.html
 name: Show And Tell
@@ -95,8 +98,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1973
+runtime: 207986
 ---
-
 These are the eyes
 That never knew how to smile
 Till you came into my life (do-do-do-do-do)
@@ -157,6 +161,3 @@ When I wanna say "Oh, I love you"
 Girl, so show me and tell me
 That you feel the same way too
 Say you do, baby, baby
-
-
-

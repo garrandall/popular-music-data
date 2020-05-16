@@ -1,8 +1,11 @@
 ---
+album: Testify
 artists:
 - M People
+external_ids:
+  spotify: spotify:track:0o3Y8ts3F8rqGTLaEYfJI0
 features: []
-genres: []
+first_released_as_single: false
 key: moving-on-up-m-people
 lyrics_url: https://genius.com/M-people-moving-on-up-lyrics
 name: Moving On Up
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1992
+runtime: 540066
 ---
 You've done me wrong
 Your time is up

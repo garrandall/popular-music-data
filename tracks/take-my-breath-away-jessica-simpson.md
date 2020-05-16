@@ -1,8 +1,11 @@
 ---
+album: In This Skin
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:5AnaRE7h0l8VrmyIX2nonQ
 features: []
-genres: []
+first_released_as_single: false
 key: take-my-breath-away-jessica-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/takemybreathaway.html
 name: Take My Breath Away
@@ -71,8 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 1999
+runtime: 195173
 ---
-
 Watching every motion
 In my foolish lover's game
 On this endless ocean
@@ -121,6 +125,3 @@ My love
 
 Take my breath away
 Take my breath away
-
-
-

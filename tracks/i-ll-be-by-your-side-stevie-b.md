@@ -1,8 +1,11 @@
 ---
+album: Best Of Love Songs
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:2vLqcLdmxc5CPQSYplqU2s
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-by-your-side-stevie-b
 lyrics_url: https://genius.com/Stevie-b-ill-be-by-your-side-lyrics
 name: I'll Be By Your Side
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
+release_year: 1991
+runtime: 300306
 ---
 When you look inside yourself
 You will discover you'll learn to appreciate the only one

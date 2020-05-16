@@ -1,8 +1,11 @@
 ---
+album: Jarreau
 artists:
 - Jarreau
+external_ids:
+  spotify: spotify:track:4TxBGpTxrNvRNhF39Dl3NQ
 features: []
-genres: []
+first_released_as_single: false
 key: mornin--jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/mornin.html
 name: Mornin'
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1983
+runtime: 258399
 ---
-
 Mornin' Mister Radio
 Mornin' little Cheerios
 Mornin' sister oriole
@@ -121,6 +125,3 @@ Mornin' little Cheerios
 Wake up, Mister Radio
 Need I tell you everything right is just doing fine
 Woo, in my mind
-
-
-

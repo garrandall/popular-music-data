@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA - The Motown Singles Collection 1959-1971
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:5BMtnsOLq8xCdWsV1SMJ3L
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-mess-with-bill-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/dontmesswithbill.html
 name: Don't Mess With Bill
@@ -55,8 +58,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 169373
 ---
-
 Don't mess with Bill
 (No, no, no, no)
 Don't mess with Bill
@@ -117,6 +121,3 @@ I say it one more time
 Hey, yeah, yeah, yeah
 (Don't mess with Bill)
 Hey, yeah, yeah, yeah
-
-
-

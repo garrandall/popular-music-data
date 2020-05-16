@@ -1,8 +1,11 @@
 ---
+album: In the Sea
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:1XnjzpOTkGrYrLKerBlwAZ
 features: []
-genres: []
+first_released_as_single: false
 key: pirate-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/pirate.html
 name: Pirate
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1977
+runtime: 308853
 ---
-
 He'll sail on with the summer wind
 That blows on this same day
 Everybody calls him Pirate
@@ -65,6 +69,3 @@ I know the sea won't let you go
 Pirate, my love will only chain you down
 So just know how much I love you
 And then turn that ship around
-
-
-

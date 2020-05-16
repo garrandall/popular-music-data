@@ -1,8 +1,11 @@
 ---
+album: Winner Takes All
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:4mJfDc1mot6O8NvPbXaTgq
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-disco-night--rock-don-t-stop--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-its-a-disco-night-lyrics
 name: It's A Disco Night (Rock Don't Stop)
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 315880
 ---
 Baby, the place is rockin'
 It's a disco night

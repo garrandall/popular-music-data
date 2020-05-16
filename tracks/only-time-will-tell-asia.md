@@ -1,8 +1,11 @@
 ---
+album: Asia
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:49NDegc7RQyvq6mhAs06p6
 features: []
-genres: []
+first_released_as_single: false
 key: only-time-will-tell-asia
 lyrics_url: https://genius.com/Asia-only-time-will-tell-lyrics
 name: Only Time Will Tell
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 285000
 ---
 You're leaving now
 It's in your eyes

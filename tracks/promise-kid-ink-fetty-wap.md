@@ -1,9 +1,12 @@
 ---
+album: Summer In The Winter
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:5IZc3KIVFhjzJ0L2kiXzUl
 features:
 - Fetty Wap
-genres: []
+first_released_as_single: false
 key: promise-kid-ink-fetty-wap
 lyrics_url: https://www.azlyrics.com/lyrics/kidink/promise.html
 name: Promise
@@ -64,8 +67,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2015
+runtime: 224240
 ---
-
 Mustard on the beat, ho!
 
 
@@ -170,6 +174,3 @@ I promise to be great
 Kid Ink
 Always, uh
 You straight
-
-
-

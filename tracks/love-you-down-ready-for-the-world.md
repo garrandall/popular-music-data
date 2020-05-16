@@ -1,8 +1,11 @@
 ---
+album: Long Time Coming
 artists:
 - Ready For The World
+external_ids:
+  spotify: spotify:track:6F0pF9du4C3BFDS0Lu52Mn
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-down-ready-for-the-world
 lyrics_url: https://genius.com/Ready-for-the-world-love-you-down-lyrics
 name: Love You Down
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 391066
 ---
 It never really mattered too much to me
 That you were just too damned old for me

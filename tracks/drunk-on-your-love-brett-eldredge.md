@@ -1,8 +1,11 @@
 ---
+album: Illinois
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:1jNNHFZmRGXZFHlil5uhei
 features: []
-genres: []
+first_released_as_single: false
 key: drunk-on-your-love-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/drunkonyourlove.html
 name: Drunk On Your Love
@@ -67,8 +70,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 173960
 ---
-
 The second she walked through the door, I caught a buzz
 One taste from your lips knocked me out just like a drug
 The rest of the night's kind of blurry
@@ -104,6 +108,3 @@ On your love
 On your love, on your love
 On your love, get drunk on your love, yeah
 I'm so drunk
-
-
-

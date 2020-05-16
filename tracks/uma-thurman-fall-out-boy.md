@@ -1,8 +1,11 @@
 ---
+album: American Beauty/American Psycho
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:5PUawWFG1oIS2NwEcyHaCr
 features: []
-genres: []
+first_released_as_single: false
 key: uma-thurman-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-uma-thurman-lyrics
 name: Uma Thurman
@@ -115,6 +118,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 211573
 ---
 I can move mountains
 I can work a miracle, work a miracle

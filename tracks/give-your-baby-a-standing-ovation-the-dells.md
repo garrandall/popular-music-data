@@ -1,8 +1,11 @@
 ---
+album: The Dells Live
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:7mkFiUIcxHizYRGFlFuORL
 features: []
-genres: []
+first_released_as_single: false
 key: give-your-baby-a-standing-ovation-the-dells
 lyrics_url: https://genius.com/The-dells-give-your-baby-a-standing-ovation-lyrics
 name: Give Your Baby A Standing Ovation
@@ -71,6 +74,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 274573
 ---
 Thank you very much
 Ladies and gentlemen

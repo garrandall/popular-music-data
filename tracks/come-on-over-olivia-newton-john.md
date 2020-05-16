@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:0VgxFK56BpxbZRPmmB00aR
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-over-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/comeonover.html
 name: Come On Over
@@ -55,8 +58,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 221573
 ---
-
 If my life gets like a jigsaw
 With the pieces out of place
 Come on over
@@ -94,6 +98,3 @@ So bring your love around
 If you think
 If you think I need you
 Come on over
-
-
-

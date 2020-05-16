@@ -1,8 +1,11 @@
 ---
+album: The Essential Joe Diffie
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:3dSUY34vmIYWJn0M6oZ3BD
 features: []
-genres: []
+first_released_as_single: false
 key: pickup-man-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/pickupman.html
 name: Pickup Man
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
+release_year: 1990
+runtime: 216173
 ---
-
 Well, I got my first truck when I was three
 Drove a hundred thousand miles on my knees
 Hauled marbles and rocks and thought twice before 
@@ -74,6 +78,3 @@ You know, if it weren't for trucks we wouldn't have tailgates
 I met all my wives in traffic jams
 There's just something women like about a pickup man
 Yeah, there's something women like about a pickup man
-
-
-

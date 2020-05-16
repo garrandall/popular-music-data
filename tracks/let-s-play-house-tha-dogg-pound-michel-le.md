@@ -1,9 +1,12 @@
 ---
+album: Doggy Bag
 artists:
 - Tha Dogg Pound
+external_ids:
+  spotify: spotify:track:72dGR173qzIBT1qOUQn52F
 features:
 - Michel'le
-genres: []
+first_released_as_single: false
 key: let-s-play-house-tha-dogg-pound-michel-le
 lyrics_url: https://genius.com/Tha-dogg-pound-lets-play-house-lyrics
 name: Let's Play House
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
+release_year: 1996
+runtime: 328746
 ---
 That's right
 Some of that shit you just can't fuck with

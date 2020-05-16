@@ -1,8 +1,11 @@
 ---
+album: Urban Legend
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:172Ck9s5X4oHmGAbjdoRmf
 features: []
-genres: []
+first_released_as_single: false
 key: asap-t-i-
 lyrics_url: https://genius.com/Ti-asap-lyrics
 name: ASAP
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
+release_year: 2004
+runtime: 284413
 ---
 I'm on my grind, Grand Hustle
 Got the mind and the muscle

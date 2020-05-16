@@ -1,8 +1,11 @@
 ---
+album: Full Moon Fever
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:5tVA6TkbaAH9QMITTQRrNv
 features: []
-genres: []
+first_released_as_single: false
 key: free-fallin--tom-petty
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/freefallin.html
 name: Free Fallin'
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1989
+runtime: 256000
 ---
-
 She's a good girl, loves her mama
 Loves Jesus and America too
 She's a good girl, who's crazy 'bout Elvis
@@ -139,6 +143,3 @@ Free fallin' (Free fallin', now I'm free fallin', now I'm)
 Now I'm free (Free fallin', now I'm free fallin', now I'm)
 Oh, free fallin' (Free fallin', now I'm free fallin', now I'm)
 (Free fallin', now I'm free fallin', now I'm) Free fallin'
-
-
-

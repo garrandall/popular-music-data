@@ -1,8 +1,11 @@
 ---
+album: Weekend In LA
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:0iI2fbR06lKJE6wSYmYQch
 features: []
-genres: []
+first_released_as_single: false
 key: on-broadway-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/onbroadway.html
 name: On Broadway
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
+release_year: 1978
+runtime: 606693
 ---
-
 They say the neon lights are bright on broadway
 They say there's always magic in the air
 But when you're walkin' down that street
@@ -100,6 +104,3 @@ But they're dead wrong, I know they are
 And I won't quit till I'm a star on Broadway
 
 I won't quit till I'm a star on Broadway
-
-
-

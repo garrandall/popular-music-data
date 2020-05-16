@@ -1,8 +1,11 @@
 ---
+album: Stardust
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:4n9hM5KoxpcZK2u71MLpHN
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-on-my-mind-willie-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/willienelson/georgiaonmymind223005.html
 name: Georgia On My Mind
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1975
+runtime: 259693
 ---
-
 Georgia, Georgia, the whole day through
 An' just an old sweet song keeps Georgia on my mind
 
@@ -55,4 +59,3 @@ On my mind, on my mind
 On my mind, on my mind
 On my mind, on my mind
 On my mind
-

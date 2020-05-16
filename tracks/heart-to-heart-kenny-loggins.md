@@ -1,8 +1,11 @@
 ---
+album: High Adventure
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:2KaA0Tgl3RmQLzcvLEtzLH
 features: []
-genres: []
+first_released_as_single: false
 key: heart-to-heart-kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-heart-to-heart-lyrics
 name: Heart To Heart
@@ -75,6 +78,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
+release_year: 1982
+runtime: 322333
 ---
 You ain't crazy
 I ain't gonna lie anymore

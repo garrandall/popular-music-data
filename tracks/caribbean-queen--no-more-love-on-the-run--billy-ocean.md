@@ -1,8 +1,11 @@
 ---
+album: Suddenly
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:3pfJpM4ZrTAoFVi0uSnybS
 features: []
-genres: []
+first_released_as_single: false
 key: caribbean-queen--no-more-love-on-the-run--billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/caribbeanqueennomoreloveontherun.html
 name: Caribbean Queen (No More Love On The Run)
@@ -111,8 +114,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 494093
 ---
-
 She dashed by me in painted on jeans
 And all the heads turned because she was the queen
 In the blink of an eye I knew her number and her name yeah
@@ -155,6 +159,3 @@ No more love on the run
 
 She's the queen
 My Caribbean queen...
-
-
-

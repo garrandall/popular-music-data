@@ -1,8 +1,11 @@
 ---
+album: Steps In Time
 artists:
 - King
+external_ids:
+  spotify: spotify:track:3oGcHyoXwBMIAXkgIzLoQn
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-pride-king
 lyrics_url: https://genius.com/Paul-king-love-and-pride-lyrics
 name: Love And Pride
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1984
+runtime: 201386
 ---
 That's what my heart yearns for now
 Love and pride

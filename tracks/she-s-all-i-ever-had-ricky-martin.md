@@ -1,8 +1,11 @@
 ---
+album: Ricky Martin
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:4Bza6algEDbY8yrm8qMeg7
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-all-i-ever-had-ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-shes-all-i-ever-had-lyrics
 name: She's All I Ever Had
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1999
+runtime: 295333
 ---
 Here I am
 Broken wings

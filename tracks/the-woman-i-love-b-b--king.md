@@ -1,8 +1,11 @@
 ---
+album: B.B. King Wails
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3I7PM0ArfQPsLWpk4auNGx
 features: []
-genres: []
+first_released_as_single: false
 key: the-woman-i-love-b-b--king
 lyrics_url: https://www.musixmatch.com/lyrics/B-B-King/The-Woman-I-Love
 name: The Woman I Love
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1958
+runtime: 184213
 ---
 Well, it feels alright
 An' everything is really okay

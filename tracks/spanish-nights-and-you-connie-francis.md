@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2oWu4i4rYXIs37J1X3epmn
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-nights-and-you-connie-francis
 lyrics_url: https://genius.com/Connie-francis-spanish-nights-and-you-lyrics
 name: Spanish Nights And You
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 143720
 ---
 I remember Spanish nights and you
 Soft guitars that sang of love so new

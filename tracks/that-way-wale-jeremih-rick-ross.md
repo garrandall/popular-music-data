@@ -1,10 +1,13 @@
 ---
+album: Ambition
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:0B6rNAbgEDG13mZ82mh10K
 features:
 - Jeremih
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: that-way-wale-jeremih-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/wale/thatway.html
 name: That Way
@@ -81,9 +84,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2011
+runtime: 269266
 ---
-
-
 I apologize I don't recollect your name
 (Oh, baby I don't know your name)
 But lemme tell you that them heels really compliment your frame
@@ -150,6 +153,3 @@ I apologize I don't recollect your name
 But lemme tell you that them heels really complement your frame
 Girl lemme get them ohaahs then I gotta catch my plane
 Say ya miss me and ya wishing for some private time girl how could we get that way?
-
-
-

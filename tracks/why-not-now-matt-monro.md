@@ -1,8 +1,11 @@
 ---
+album: British Pop Before Merseybeat
 artists:
 - Matt Monro
+external_ids:
+  spotify: spotify:track:1P5sNuT9dK4DHuMxPMYjuP
 features: []
-genres: []
+first_released_as_single: false
 key: why-not-now-matt-monro
 lyrics_url: https://genius.com/Matt-monro-why-not-now-lyrics
 name: Why Not Now
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 147000
 ---
 Please love me tonight
 For it's clear, very clear

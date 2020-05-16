@@ -1,9 +1,12 @@
 ---
+album: Nick Cannon
 artists:
 - Nick Cannon
+external_ids:
+  spotify: spotify:track:1T1ZUKX4X87tVLaBGjwFv4
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: gigolo-nick-cannon-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/nickcannon/gigolo.html
 name: Gigolo
@@ -88,9 +91,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2003
+runtime: 237840
 ---
-
-
 Oh, oh, oh, oh, oh (Oh, uh, haha)
 Oh, oh, oh, oh, oh (Kels!)
 (We in the club singing this for money, ha!)
@@ -159,4 +162,3 @@ Initiated first move, shorty that was all you
 I'm NOT tryna be ya man, pimp bones in my body
 Rock them body-hotty, rock them, like ladi-dadi
 Me and Kels on ducati's, wanna see you drop it shawty, oh weee
-

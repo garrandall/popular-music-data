@@ -1,8 +1,11 @@
 ---
+album: Silver Bird
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:5ZV1ZPGSSOkdRG60uTtEmX
 features: []
-genres: []
+first_released_as_single: false
 key: silver-bird-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-silver-bird-lyrics
 name: Silver Bird
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 183986
 ---
 Silver Bird
 Mark Lindsay

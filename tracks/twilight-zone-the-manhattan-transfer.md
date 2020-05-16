@@ -1,8 +1,11 @@
 ---
+album: Extensions
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:1dXYwIIbdDaW5tKFZUeuPb
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-zone-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/twilightzonetwilighttone.html
 name: Twilight Zone
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1979
+runtime: 366373
 ---
-
 With a key, you unlock a door to imagination
 Beyond it is another dimension
 A dimension of sight
@@ -113,6 +117,3 @@ Now he resides and plays trombone
 In the mystic unknown zone
 
 Hearin' the twilight...
-
-
-

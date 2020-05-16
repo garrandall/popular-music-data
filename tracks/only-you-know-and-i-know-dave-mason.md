@@ -1,8 +1,11 @@
 ---
+album: Alone Together
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:06EC7hRN3OrBkIPTyTvp5Q
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-know-and-i-know-dave-mason
 lyrics_url: https://genius.com/Dave-mason-only-you-know-and-i-know-lyrics
 name: Only You Know And I Know
@@ -47,6 +50,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 247160
 ---
 Only you know and I know
 All the lovin' we've got to show

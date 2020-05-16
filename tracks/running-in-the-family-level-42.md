@@ -1,8 +1,11 @@
 ---
+album: Running In The Family
 artists:
 - Level 42
+external_ids:
+  spotify: spotify:track:5vTKn6MszumvJHpobYCcEq
 features: []
-genres: []
+first_released_as_single: false
 key: running-in-the-family-level-42
 lyrics_url: https://www.azlyrics.com/lyrics/level42/runninginthefamily.html
 name: Running In The Family
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
+release_year: 1987
+runtime: 374386
 ---
-
 Our dad would send us to our room
 He'd be the voice of doom
 He said that we would thank him later
@@ -98,6 +102,3 @@ Running in the family
 And we all have our daddy's eyes
 Looking back, it's so bizarre, whoa yeah
 Running in the family
-
-
-

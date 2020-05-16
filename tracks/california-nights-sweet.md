@@ -1,8 +1,11 @@
 ---
+album: Level Headed Tour Rehearsals 1977
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:20ZYiBQ5MqHjqOM4u9a98m
 features: []
-genres: []
+first_released_as_single: false
 key: california-nights-sweet
 lyrics_url: https://genius.com/Sweet-california-nights-lyrics
 name: California Nights
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1977
+runtime: 253800
 ---
 The New York girls, they've gone down to California
 Don't say they didn't warn ya

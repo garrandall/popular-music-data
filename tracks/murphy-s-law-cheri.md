@@ -1,8 +1,11 @@
 ---
+album: Murphy's Law
 artists:
 - Cheri
+external_ids:
+  spotify: spotify:track:2Rl0U4CdWcWm1ww8WNxlvQ
 features: []
-genres: []
+first_released_as_single: false
 key: murphy-s-law-cheri
 lyrics_url: https://genius.com/Cheri-murphys-law-lyrics
 name: Murphy's Law
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 383760
 ---
 I hate to tell you, but I got a bit of bad news
 I don't love you no more

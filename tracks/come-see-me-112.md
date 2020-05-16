@@ -1,8 +1,11 @@
 ---
+album: '112'
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:6gKIZayDlvb6tdhZggOHH0
 features: []
-genres: []
+first_released_as_single: true
 key: come-see-me-112
 lyrics_url: https://genius.com/112-come-see-me-lyrics
 name: Come See Me
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 265760
 ---
 Baby, you can come see me 'cause I need you here with me
 And I'll show you what love is made of

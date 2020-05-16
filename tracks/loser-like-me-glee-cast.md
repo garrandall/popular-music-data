@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3iAvTn62s7rvE6hm6fFodt
 features: []
-genres: []
+first_released_as_single: false
 key: loser-like-me-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/loserlikeme.html
 name: Loser Like Me
@@ -19,9 +22,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-04-16'
+release_year: 2011
+runtime: 199000
 ---
-
-
 Yeah, you may think that I'm a zero
 But, hey, everyone you wanna be
 Probably started off like me
@@ -97,6 +100,3 @@ You wanna be
 A loser like me (A loser like me)
 A loser like me (A loser like me)
 A loser like me
-
-
-

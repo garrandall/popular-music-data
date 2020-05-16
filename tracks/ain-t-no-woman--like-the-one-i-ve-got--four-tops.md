@@ -1,8 +1,11 @@
 ---
+album: Keeper Of The Castle
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6q8NBpF6twALMb86FBpLgQ
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-woman--like-the-one-i-ve-got--four-tops
 lyrics_url: https://genius.com/The-four-tops-aint-no-woman-like-the-one-ive-got-lyrics
 name: Ain't No Woman (Like The One I've Got)
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1972
+runtime: 187773
 ---
 (Ain't no woman like the one I've got.)
 (Ain't no woman like the one I've got.)

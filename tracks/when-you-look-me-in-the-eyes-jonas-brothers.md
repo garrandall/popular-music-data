@@ -1,8 +1,11 @@
 ---
+album: Jonas Brothers
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:4kf33kU0KAlkNBK9pNbYNU
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-look-me-in-the-eyes-jonas-brothers
 lyrics_url: https://genius.com/Jonas-brothers-when-you-look-me-in-the-eyes-lyrics
 name: When You Look Me In The Eyes
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 249693
 ---
 Oh, oh, yeah
 Oh-oh, yeah

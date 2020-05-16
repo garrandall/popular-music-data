@@ -1,8 +1,11 @@
 ---
+album: To The Faithful Departed
 artists:
 - The Cranberries
+external_ids:
+  spotify: spotify:track:5Yphe2G9Qx9zSDFphJrRxg
 features: []
-genres: []
+first_released_as_single: true
 key: when-you-re-gone-the-cranberries
 lyrics_url: https://genius.com/The-cranberries-when-youre-gone-lyrics
 name: When You're Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1997-04-05'
+release_year: 1996
+runtime: 272160
 ---
 Do-be-da, do-be-da
 Do-be-da, do-be-da

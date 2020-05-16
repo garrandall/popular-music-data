@@ -1,8 +1,11 @@
 ---
+album: All of It
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:5Z19ylxppfnfdP4JH0u8oj
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-in-the-end-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/breakupintheend.html
 name: Break Up In The End
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 199693
 ---
-
 I still walk in that bar a little drunk
 I still ask you what you're drinking, what's your name
 I still kiss you by the shuffleboard, last call at 2am
@@ -112,6 +116,3 @@ But you know if you come over, I can't not let you in
 Even though we'll break up in the end
 I'd do it over and over, again and again
 Even though we break up in the end
-
-
-

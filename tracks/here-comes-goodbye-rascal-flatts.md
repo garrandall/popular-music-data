@@ -1,8 +1,11 @@
 ---
+album: The Vault
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:4lhajjgcICdfhRkvWj9Tud
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-goodbye-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/herecomesgoodbye.html
 name: Here Comes Goodbye
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2009
+runtime: 245373
 ---
-
 I can hear the truck tires coming up the gravel road
 And its not like her to drive that slow, nothin's on the radio
 Footsteps on the front porch, I hear my doorbell
@@ -117,6 +121,3 @@ Here comes me wishing things had never changed
 And she was right here in my arms tonight, but here comes goodbye
 
 Oh-oo
-
-
-

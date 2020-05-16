@@ -1,8 +1,11 @@
 ---
+album: Ladies & Gentlemen
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:3EMwCbvaeyWVZb3ae0roHt
 features: []
-genres: []
+first_released_as_single: false
 key: killer-george-michael
 lyrics_url: https://genius.com/George-michael-killer-lyrics
 name: Killer
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
+release_year: 1993
+runtime: 255373
 ---
 So you want, to be free
 To live your life, the way you wanna be

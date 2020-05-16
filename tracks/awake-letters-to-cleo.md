@@ -1,8 +1,11 @@
 ---
+album: Wholesale Meats And Fish
 artists:
 - Letters To Cleo
+external_ids:
+  spotify: spotify:track:3tcnMlMoipbsAv52IXWWsV
 features: []
-genres: []
+first_released_as_single: false
 key: awake-letters-to-cleo
 lyrics_url: https://www.azlyrics.com/lyrics/letterstocleo/awake.html
 name: Awake
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1995
+runtime: 234626
 ---
-
 I guess it's been a while 
 And a long time too
 Everything's still the same and 
@@ -76,6 +80,3 @@ You're asleep and I'm awake and
 Everything is so great 
 Everything is so great 
 Yeah
-
-
-

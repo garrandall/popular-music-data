@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:4poiyBHriQQsGSf2Ukg2Sy
 features: []
-genres: []
+first_released_as_single: false
 key: coming-back-to-you-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/Coming-Back-to-You
 name: Coming Back To You
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1964
+runtime: 180906
 ---
 I walked away and I left you cold
 

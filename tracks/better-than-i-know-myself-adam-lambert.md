@@ -1,8 +1,11 @@
 ---
+album: Trespassing (Deluxe Version)
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:3Fsjt1h1p2o86pC2lQopJc
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-i-know-myself-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/betterthaniknowmyself.html
 name: Better Than I Know Myself
@@ -11,8 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2012
+runtime: 216173
 ---
-
 Cold as ice
 And more bitter than a december
 Winter night
@@ -80,6 +84,3 @@ Keep my mind off the edge
 If I wanted to leave I would have left by now
 But you're the only one that knows me
 Better than I know myself
-
-
-

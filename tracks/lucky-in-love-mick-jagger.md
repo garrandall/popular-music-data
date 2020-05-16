@@ -1,8 +1,11 @@
 ---
+album: She's The Boss
 artists:
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:0NTk9120h5oAiJPuR9GRcY
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-in-love-mick-jagger
 lyrics_url: https://www.azlyrics.com/lyrics/mickjagger/luckyinlove.html
 name: Lucky In Love
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1985
+runtime: 373693
 ---
-
 A betting fool, a gambling man
 No sooner up you're down again
 Mama said you won't get hurt
@@ -124,6 +128,3 @@ Twenty thousand and twenty thousand more
 Okay! You want to see me? Well I got, I got a full house
 What's that? A royal flush?
 Well, ain't that a bust, I'm broke!
-
-
-

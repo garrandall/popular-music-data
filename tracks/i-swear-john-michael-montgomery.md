@@ -1,8 +1,11 @@
 ---
+album: Kickin' It Up
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:2hGnBy1lm03W58vb4JONsD
 features: []
-genres: []
+first_released_as_single: true
 key: i-swear-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/all4one/iswearjohnmichaelmontgomeryversion.html
 name: I Swear
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1994
+runtime: 268746
 ---
-
 I see the questions in your eyes
 I know what's weighing on your mind
 You can be sure I know my part
@@ -124,6 +128,3 @@ I'll love you with every single beat of my heart
 I swear
 I swear
 I swear
-
-
-

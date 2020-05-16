@@ -1,8 +1,11 @@
 ---
+album: Fanmail
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:1KGi9sZVMeszgZOWivFpxs
 features: []
-genres: []
+first_released_as_single: false
 key: no-scrubs-tlc
 lyrics_url: https://genius.com/Tlc-no-scrubs-lyrics
 name: No Scrubs
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
+release_year: 1999
+runtime: 214400
 ---
 A scrub is a guy that thinks he's fly
 He's also known as a busta (Busta, busta)

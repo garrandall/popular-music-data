@@ -1,9 +1,12 @@
 ---
+album: Fool On The Hill
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:470j7INFa1OlpSABpxwYxE
 features: []
-genres: []
+first_released_as_single: false
 key: the-fool-on-the-hill-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-the-fool-on-the-hill-lyrics
 name: The Fool On The Hill
@@ -56,6 +59,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 194880
 ---
 Day after day alone on the hill
 The man with the foolish grin

@@ -1,8 +1,11 @@
 ---
+album: Wired For Sound
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:1poOBovnEnvMX1N83GNqG1
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-s-home-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-daddys-home-lyrics
 name: Daddy's Home
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 183773
 ---
 You're my love, you're my angel
 You're the girl of my dreams

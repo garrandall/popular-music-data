@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:74vEXsXVLRDPw7e1R7zkjC
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--bicycle-fats-domino
 lyrics_url: https://genius.com/Fats-domino-rockin-bicycle-lyrics
 name: Rockin' Bicycle
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
+release_year: 1961
+runtime: 130733
 ---
 Ain't got a Cadillac or big old De Ville
 I'm just a little guy not a big tire wheel

@@ -1,8 +1,11 @@
 ---
+album: I'm Coming Home
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:6xfgwRJKa4poB9tZ0KZtXT
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-home-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-im-coming-home-lyrics
 name: I'm Coming Home
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 204120
 ---
 Sittin' in a railway station with my suitcase in my hand
 Goin' back where I came from, I've had more than I can stand

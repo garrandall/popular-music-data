@@ -1,8 +1,11 @@
 ---
+album: Mony Mony
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:2rtivYPWuNSPipbAizfp7s
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-cares-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/somebodycares.html
 name: Somebody Cares
@@ -27,8 +30,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 161893
 ---
-
 If you think I'd ever leave you,
 Girl, you're wrong, I'd never want to.
 And how could you know that my love is real?
@@ -49,4 +53,3 @@ So give me a smile and you'll know that our love's true.
 Don't be in doubt, 'cause I'd never hurt you.
 A-trust in me and you'll know the reason
 That our love will last through many a season.
-

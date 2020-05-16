@@ -1,9 +1,12 @@
 ---
+album: It's Your Night
 artists:
 - James Ingram
+external_ids:
+  spotify: spotify:track:5edioRF5SIeNzZafgd1Py1
 features:
 - Michael McDonald
-genres: []
+first_released_as_single: false
 key: yah-mo-b-there-james-ingram-with-michael-mcdonald
 lyrics_url: https://genius.com/James-ingram-yah-mo-b-there-lyrics
 name: Yah Mo B There
@@ -80,6 +83,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1983
+runtime: 279413
 ---
 Heavenly Father watchin' us fall
 We take from each other and give nothing at all

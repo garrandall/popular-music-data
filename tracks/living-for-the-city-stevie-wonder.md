@@ -1,8 +1,11 @@
 ---
+album: Innervisions
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:3qvuhGBr6BSdGPQsdf2gLr
 features: []
-genres: []
+first_released_as_single: false
 key: living-for-the-city-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-living-for-the-city-lyrics
 name: Living For The City
@@ -75,6 +78,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 442866
 ---
 A boy is born in hard time Mississippi
 Surrounded by four walls that ain't so pretty

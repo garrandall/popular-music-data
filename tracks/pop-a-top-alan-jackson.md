@@ -1,8 +1,11 @@
 ---
+album: Under The Influence
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:3KIUKvwteP1HFA5UcvvL11
 features: []
-genres: []
+first_released_as_single: false
 key: pop-a-top-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/popatop.html
 name: Pop A Top
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1989
+runtime: 185426
 ---
-
 Pop a top, again.
 I just got time for one more round.
 Set em' up my friend.
@@ -103,6 +107,3 @@ I think I'll have another round.
 Set em' up my friend.
 Then I'll be gone and you can let some other fool sit down.
 Pop a top, again.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Date With The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:27bw4i8LnECzVlbMZ4kFHw
 features: []
-genres: []
+first_released_as_single: false
 key: cathy-s-clown-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-cathys-clown-lyrics
 name: Cathy's Clown
@@ -75,6 +78,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 145933
 ---
 Don't want your love any more
 Don't want your kisses, that's for sure

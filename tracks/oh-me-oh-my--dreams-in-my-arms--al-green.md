@@ -1,8 +1,11 @@
 ---
+album: Al Green Is Love
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:55tv2auMZGJsEHnCKSQBfn
 features: []
-genres: []
+first_released_as_single: false
 key: oh-me-oh-my--dreams-in-my-arms--al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/ohmeohmydreamsinmyarms.html
 name: Oh Me Oh My (Dreams In My Arms)
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 168853
 ---
-
 I had a dream
 Thinking that you were gone
 Leaving me on my own
@@ -82,6 +86,3 @@ About you, baby
 Oh, me, oh, my
 Dreams in my arms
 Ever since you been gone...
-
-
-

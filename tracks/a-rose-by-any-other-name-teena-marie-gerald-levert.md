@@ -1,9 +1,12 @@
 ---
+album: La Dona
 artists:
 - Teena Marie
+external_ids:
+  spotify: spotify:track:5czO1qonoydMKYqyEqWVL3
 features:
 - Gerald Levert
-genres: []
+first_released_as_single: false
 key: a-rose-by-any-other-name-teena-marie-gerald-levert
 lyrics_url: https://www.azlyrics.com/lyrics/teenamarie/arosebyanyothername.html
 name: A Rose By Any Other Name
@@ -16,8 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
+release_year: 2004
+runtime: 327160
 ---
-
 Lately all the flowers seem to be so plain
 Can u tell a rose by any other name
 
@@ -60,6 +64,3 @@ Can you call a rose by any other name(any other name)
  Girl
  I can make a change
  Can you call a rose by any other name
-
-
-

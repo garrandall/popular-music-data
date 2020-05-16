@@ -1,10 +1,13 @@
 ---
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
 artists:
 - SZA
 - The Weeknd
 - Travis Scott
+external_ids:
+  spotify: spotify:track:4cbdPT6uaBOgOQe3fLMofl
 features: []
-genres: []
+first_released_as_single: false
 key: power-is-power-sza-the-weeknd-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/sza/powerispower.html
 name: Power Is Power
@@ -17,9 +20,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2019
+runtime: 211266
 ---
-
-
 I was born of the ice and snow
 With the winter wolves, in the dark, alone
 The wildest night, I became the one
@@ -81,6 +84,3 @@ Nothing hurts me now (Nothing hurts me now)
 'Cause power is power ('Cause power is power)
 Now watch me burn it down (Oh, yeah, yeah)
 Now watch me burn it down
-
-
-

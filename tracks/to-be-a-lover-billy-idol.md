@@ -1,8 +1,11 @@
 ---
+album: Vital Idol
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:2itcWSXgY2DseFhuSz2vpn
 features: []
-genres: []
+first_released_as_single: false
 key: to-be-a-lover-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/tobealover.html
 name: To Be A Lover
@@ -79,8 +82,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1985
+runtime: 410666
 ---
-
 Have I told you
 Lately that I love you
 If I din't, darlin',
@@ -165,6 +169,3 @@ Oo, make it through.
 Well, when I realized that you need love too,
 I'm gonna spend my life,
 Gotta spend my life makin' love to you.
-
-
-

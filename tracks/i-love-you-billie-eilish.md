@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:6CcJMwBtXByIz4zQLzFkKc
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-i-love-you-lyrics
 name: I Love You
@@ -11,6 +14,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2019
+runtime: 291796
 ---
 It's not true
 Tell me I’ve been lied to

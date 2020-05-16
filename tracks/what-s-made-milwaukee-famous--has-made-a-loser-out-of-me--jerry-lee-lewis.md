@@ -1,8 +1,11 @@
 ---
+album: Another Place Another Time
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:43Q9GI0n2kQRRNsM7y4ZwS
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-made-milwaukee-famous--has-made-a-loser-out-of-me--jerry-lee-lewis
 lyrics_url: https://genius.com/Jerry-lee-lewis-whats-made-milwaukee-famous-has-made-a-loser-out-of-me-lyrics
 name: What's Made Milwaukee Famous (Has Made A Loser Out Of Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 157720
 ---
 It's late and she's waiting
 And I know I should go home

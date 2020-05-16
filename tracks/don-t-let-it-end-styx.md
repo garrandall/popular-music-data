@@ -1,8 +1,11 @@
 ---
+album: Kilroy Was Here
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:0huaODTI1xKsfJJk8EJEkf
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-it-end-styx
 lyrics_url: https://genius.com/Styx-dont-let-it-end-lyrics
 name: Don't Let It End
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 296106
 ---
 What can I do pictures of you still make me cry
 Trying to live without your love, it's so hard to do

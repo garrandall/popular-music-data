@@ -1,8 +1,11 @@
 ---
+album: E. 1999 Eternal
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:1dF5Y2dd7Wm4wZKvVjWBpr
 features: []
-genres: []
+first_released_as_single: false
 key: 1st-of-tha-month-bone-thugs-n-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/bonethugsnharmony/1stofthamonth.html
 name: 1st Of Tha Month
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-01-06'
+release_year: 1995
+runtime: 314680
 ---
-
 Wake up, wake up, wake up it's the 1st of the month
 To get up, get up, get up so cash your checks and get up
 Wake up, wake up, wake up it's the 1st of the month
@@ -148,7 +152,7 @@ Get a bag of dope and a quarter roll, oh
 Most all of my niggas got the same, and we gonna roll it all up to smoke
 Hittin' that reefer hydro, you know the cut, so fuck them po-po
 Toss all that yayo, and we're gonna say no
-Runnin' through the alley and into the mÃªlÃ©e
+Runnin' through the alley and into the mÃªlée
 Up on the second the sundown
 Those run from January, November, December I'm loving the 1st of the month
 
@@ -222,6 +226,3 @@ On the 1st
 
 Wake up, wake up, wake up it's the 1st of the month
 To get up, get up, get up so cash your checks and get up
-
-
-

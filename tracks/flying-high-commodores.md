@@ -1,8 +1,11 @@
 ---
+album: Natural High
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:4Kv3j9bve9akCwmuWex9nh
 features: []
-genres: []
+first_released_as_single: false
 key: flying-high-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/flyinghigh.html
 name: Flying High
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 309266
 ---
-
 Flyin' high on a feelin'
 Flyin' high
 Flyin' high on a good thing
@@ -92,6 +96,3 @@ Yeah
 
 Flyin' (Whoa, oh)
 Higher, higher (Woo), higher (High), higher, (Yeah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Baby Workout
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0KQolPzEP07EMfBug5LZCK
 features: []
-genres: []
+first_released_as_single: false
 key: shake--shake--shake--jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-shake-shake-shake-lyrics
 name: Shake! Shake! Shake!
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 131720
 ---
 Come on and shake awhile
 Come on and drive me wild

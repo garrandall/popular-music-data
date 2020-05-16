@@ -1,8 +1,11 @@
 ---
+album: The Best Of Surface...A Nice Time 4 Lovin
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:4V0s4tCAluvZWPEAIodihi
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-let-you-down-surface
 lyrics_url: https://genius.com/Surface-never-gonna-let-you-down-lyrics
 name: Never Gonna Let You Down
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1986
+runtime: 227226
 ---
 We don't have to say good bye no no
 Our love will last forever girl

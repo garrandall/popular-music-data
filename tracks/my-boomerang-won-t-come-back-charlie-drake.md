@@ -1,8 +1,11 @@
 ---
+album: Children Classics
 artists:
 - Charlie Drake
+external_ids:
+  spotify: spotify:track:115WODgX0QxVa8Zn7MTSk2
 features: []
-genres: []
+first_released_as_single: false
 key: my-boomerang-won-t-come-back-charlie-drake
 lyrics_url: https://genius.com/Charlie-drake-my-boomerang-wont-come-back-lyrics
 name: My Boomerang Won't Come Back
@@ -55,6 +58,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 220173
 ---
 Oom, yacka, wurka
 Oom, yacka, wurka

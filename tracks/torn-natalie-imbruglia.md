@@ -1,8 +1,11 @@
 ---
+album: Left Of The Middle
 artists:
 - Natalie Imbruglia
+external_ids:
+  spotify: spotify:track:0KDaN0HL3TcJVTbXlQCEsS
 features: []
-genres: []
+first_released_as_single: false
 key: torn-natalie-imbruglia
 lyrics_url: https://www.azlyrics.com/lyrics/natalieimbruglia/torn.html
 name: Torn
@@ -15,8 +18,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1998-12-12'
+release_year: 1998
+runtime: 244666
 ---
-
 I thought I saw a man brought to life
 He was warm, he came around like he was dignified
 He showed me what it was to cry
@@ -83,6 +87,3 @@ This is how I feel
 I'm cold and I'm ashamed
 Bound and broken on the floor
 You're a little late, I'm already torn, torn
-
-
-

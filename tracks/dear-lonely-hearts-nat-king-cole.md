@@ -1,8 +1,11 @@
 ---
+album: Dear Lonely Hearts
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:1xLzzA9PPPaJhsNiM00olS
 features: []
-genres: []
+first_released_as_single: false
 key: dear-lonely-hearts-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/dearlonelyhearts.html
 name: Dear Lonely Hearts
@@ -51,8 +54,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 190066
 ---
-
 Dear Lonely Hearts
 I'm a-writing to you
 You said you could help
@@ -94,6 +98,3 @@ If you know someone
 Please tell me who
 Dear Lonely Hearts
 I'd be so grateful to you (grateful to you)
-
-
-

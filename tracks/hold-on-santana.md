@@ -1,8 +1,11 @@
 ---
+album: Shango
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:1NZAeh2a8Y6Ry5hGBPGP1e
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-santana
 lyrics_url: https://genius.com/Santana-hold-on-lyrics
 name: Hold On
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
+release_year: 1982
+runtime: 261026
 ---
 Don't rush me just this once
 I want to make this moment last

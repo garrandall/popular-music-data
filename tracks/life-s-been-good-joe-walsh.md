@@ -1,8 +1,11 @@
 ---
+album: But Seriously, Folks...
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:2wvMC5EyaaYQwBfiwwY2xE
 features: []
-genres: []
+first_released_as_single: false
 key: life-s-been-good-joe-walsh
 lyrics_url: https://genius.com/Joe-walsh-lifes-been-good-lyrics
 name: Life's Been Good
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 536226
 ---
 I have a mansion, forget the price
 Ain't never been there, they tell me it's nice

@@ -1,8 +1,11 @@
 ---
+album: 'Bring Back The Love: Classic Dells Soul'
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:71F1pn0x6du73Hx45mtCH3
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-do-enough-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/I-Can-t-Do-Enough
 name: I Can't Do Enough
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 214426
 ---
 (CHORUS)
 I can't do enough

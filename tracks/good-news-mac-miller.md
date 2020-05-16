@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:1DWZUa5Mzf2BwzpHtgbHPY
 features: []
-genres: []
+first_released_as_single: false
 key: good-news-mac-miller
 lyrics_url: https://genius.com/Mac-miller-good-news-lyrics
 name: Good News
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 342040
 ---
 I spent the whole day in my head
 Do a little spring cleanin'

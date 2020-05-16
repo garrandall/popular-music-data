@@ -1,9 +1,12 @@
 ---
+album: Goodies
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:6hspsQYK9iO15rNYnklsYm
 features:
 - Petey Pablo
-genres: []
+first_released_as_single: true
 key: goodies-ciara-petey-pablo
 lyrics_url: https://www.azlyrics.com/lyrics/ciara/goodies.html
 name: Goodies
@@ -160,9 +163,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 225000
 ---
-
-
 My Goodies, My Goodies, My Goodies
 Not my goodies!
 
@@ -249,6 +252,3 @@ Just respect the play I'm callin'.
 
 
 Uh...Yeah...Uh...Yeah Uh Uh Uh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Hemingway's Whiskey
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1t2hJFgJyUPD2crOafMUEk
 features:
 - Grace Potter
-genres: []
+first_released_as_single: false
 key: you-and-tequila-kenny-chesney-grace-potter
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/youandtequilalive.html
 name: You And Tequila
@@ -88,8 +91,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2010
+runtime: 242840
 ---
-
 Baby, here I am again
 Kicking dust in the Canyon wind
 Waiting for that sun to go down
@@ -127,6 +131,3 @@ One is one too many, one more is never enough
 Never enough
 You and Tequila
 You and Tequila
-
-
-

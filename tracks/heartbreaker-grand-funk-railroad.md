@@ -1,8 +1,11 @@
 ---
+album: Closer To Home
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:0ibNbJysTUZ7NZA7hJhbik
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreaker-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/heartbreaker.html
 name: Heartbreaker
@@ -31,8 +34,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1970
+runtime: 437138
 ---
-
 Once I had a little girl, sometimes I think about her
 Buddy, you know she's not really there
 When memories do call and I just can't live without her, no, no
@@ -60,6 +64,3 @@ Heartbreaker, can't take her
 Heartbreaker, bringing me down
 Heartbreaker, can't take her
 Heartbreaker, bringing me down
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: El Camino
 artists:
 - The Black Keys
+external_ids:
+  spotify: spotify:track:5G1sTBGbZT5o4PNRc75RKI
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-boy-the-black-keys
 lyrics_url: https://genius.com/The-black-keys-lonely-boy-lyrics
 name: Lonely Boy
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2011
+runtime: 193653
 ---
 Well, I'm so above you and it's plain to see
 But I came to love you anyway

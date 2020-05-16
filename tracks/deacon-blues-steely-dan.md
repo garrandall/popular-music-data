@@ -1,8 +1,11 @@
 ---
+album: Aja
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:7Hx2EA4wGaxtsiZCVVLV1i
 features: []
-genres: []
+first_released_as_single: false
 key: deacon-blues-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/deaconblues.html
 name: Deacon Blues
@@ -71,8 +74,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1977
+runtime: 456640
 ---
-
 This is the day
 Of the expanding man
 That shape is my shade
@@ -146,6 +150,3 @@ They got a name for the winners in the world
 I want a name when I lose
 They call Alabama the Crimson Tide
 Call me Deacon Blues
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Fancy Dancer (Reissue)
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:4mtDa9p56P0kQgg63zWRJB
 features: []
-genres: []
+first_released_as_single: false
 key: so-good-b-o-b
 lyrics_url: https://genius.com/Bob-so-good-lyrics
 name: So Good
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
+release_year: 1975
+runtime: 373893
 ---
 Drinking a German beer, with a Cuban cigar
 In the middle of Paris with a Dominican broad

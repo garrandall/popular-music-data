@@ -1,8 +1,13 @@
 ---
+album: "\u30AB\u30D5\u30A7\u30FB\u30C9\u30E9\u30A4\u30D6\u30FB\u30B9\u30BF\u30F3\u30C0\
+  \u30FC\u30C9 2\u30FB\u30FB\u30FBAOR\u30FB\u30C9\u30E9\u30A4\u30D6\u30FB\u30DF\u30E5\
+  \u30FC\u30B8\u30C3\u30AF\u6C7A\u5B9A\u76E4"
 artists:
 - Jim Photoglo
+external_ids:
+  spotify: spotify:track:1muJrdP8puQiqT26EDBvDS
 features: []
-genres: []
+first_released_as_single: false
 key: fool-in-love-with-you-jim-photoglo
 lyrics_url: https://genius.com/Jim-photoglo-fool-in-love-with-you-lyrics
 name: Fool In Love With You
@@ -71,6 +76,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 226080
 ---
 When you said goodbye
 I didn't need to cry

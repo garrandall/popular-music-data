@@ -1,8 +1,12 @@
 ---
+album: 'The Singles Vol. 5: 1967-1969'
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:2pgEabdcVmCfEbhd5MnKJ7
+features:
+- The Famous Flames
+first_released_as_single: false
 key: america-is-my-home---pt-1-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-america-is-my-home-pt-1-lyrics
 name: America Is My Home - Pt 1
@@ -35,6 +39,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 201706
 ---
 Haha
 Talking 'bout me leaving America

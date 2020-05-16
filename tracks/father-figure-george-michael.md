@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:0L0T4tMAaGqLgIVj1MOj9t
 features: []
-genres: []
+first_released_as_single: false
 key: father-figure-george-michael
 lyrics_url: https://genius.com/George-michael-father-figure-lyrics
 name: Father Figure
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1987
+runtime: 336666
 ---
 That's all I wanted
 Something special, someone sacred in your eyes

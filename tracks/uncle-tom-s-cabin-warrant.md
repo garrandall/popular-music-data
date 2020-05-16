@@ -1,8 +1,11 @@
 ---
+album: Cherry Pie
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:01EE19A34FoehGnVosOFes
 features: []
-genres: []
+first_released_as_single: false
 key: uncle-tom-s-cabin-warrant
 lyrics_url: https://www.azlyrics.com/lyrics/warrant/uncletomscabin.html
 name: Uncle Tom's Cabin
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 240893
 ---
-
 Just for the record let's get the story straight
 Me and Uncle Tom were fishin' it was gettin' pretty late
 Out on a cypress limb above the wishin' well
@@ -74,6 +78,3 @@ I know a secret down at Uncle Tom's Cabin
 Know who put the bodies, know who put the bodies
 In the wishin well
 Oh yea
-
-
-

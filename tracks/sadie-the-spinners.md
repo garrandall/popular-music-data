@@ -1,8 +1,11 @@
 ---
+album: New And Improved
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:75p30ULq3zCo7QnIPMh6xy
 features: []
-genres: []
+first_released_as_single: false
 key: sadie-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/sadie.html
 name: Sadie
@@ -35,8 +38,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1974
+runtime: 327772
 ---
-
 In a world like today
 It's a rare occasion to be able
 To see young mothers like the ones
@@ -105,6 +109,3 @@ Sweet Sadie
 Living in the past
 Ain't it funny that in the end it's not money
 It's just the love you gave us all
-
-
-

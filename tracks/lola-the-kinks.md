@@ -1,8 +1,11 @@
 ---
+album: Lola Versus Powerman and the Moneygoround, Pt. One
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:0UAJH0k4k3slcE83a9UGCe
 features: []
-genres: []
+first_released_as_single: false
 key: lola-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/lola.html
 name: Lola
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1970
+runtime: 241040
 ---
-
 I met her in a club down in old Soho
 Where you drink champagne and it tastes just like cherry-cola 
 C O L A cola
@@ -134,6 +138,3 @@ But I know what I am and I'm glad I'm a man
 And so is Lola
 La-la-la-la Lola la-la-la-la Lola
 Lola la-la-la-la Lola la-la-la-la Lola
-
-
-

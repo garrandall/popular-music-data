@@ -1,9 +1,12 @@
 ---
+album: Cyclone
 artists:
 - Baby Bash
+external_ids:
+  spotify: spotify:track:27mhCGdAA8gM7b33KIiB3k
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: cyclone-baby-bash-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/babybash/cyclone.html
 name: Cyclone
@@ -128,8 +131,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 2007
+runtime: 222026
 ---
-
 (Oh oh oh its fud a dud a nine)
 
 
@@ -234,6 +238,3 @@ A mighty cyclone
 
 (rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew rew)
 Oh
-
-
-

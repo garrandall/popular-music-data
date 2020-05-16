@@ -1,9 +1,12 @@
 ---
+album: Nasty The Album
 artists:
 - Bandit Gang Marco
+external_ids:
+  spotify: spotify:track:7elqCt2W4CoSXQmNFHlbA9
 features:
 - Dro
-genres: []
+first_released_as_single: true
 key: nasty-bandit-gang-marco-dro
 lyrics_url: https://genius.com/Bandit-gang-marco-nasty-lyrics
 name: Nasty
@@ -44,6 +47,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2014
+runtime: 189884
 ---
 Oh oh that's my song ho
 Oh oh that's my song ho

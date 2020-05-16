@@ -1,8 +1,11 @@
 ---
+album: Revolver
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5GjPQ0eI7AgmOnADn1EO6Q
 features: []
-genres: []
+first_released_as_single: false
 key: eleanor-rigby-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/eleanorrigby.html
 name: Eleanor Rigby
@@ -39,8 +42,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 126533
 ---
-
 Ah, look at all the lonely people
 Ah, look at all the lonely people
 
@@ -78,6 +82,3 @@ Where do they all come from?
 All the lonely people
 (Ah, look at all the lonely people)
 Where do they all belong?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 1 Touch 2 Much
 artists:
 - Mai Tai
+external_ids:
+  spotify: spotify:track:57RpYNriGgrpP7aa4dchR7
 features: []
-genres: []
+first_released_as_single: false
 key: female-intuition-mai-tai
 lyrics_url: https://genius.com/Mai-tai-female-intuition-lyrics
 name: Female Intuition
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1986
+runtime: 244493
 ---
 I hardly even knew you
 You called me on the phone

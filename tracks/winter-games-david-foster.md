@@ -1,8 +1,11 @@
 ---
+album: The Symphony Sessions
 artists:
 - David Foster
+external_ids:
+  spotify: spotify:track:1FxhasstsR49mNQAfh3qYI
 features: []
-genres: []
+first_released_as_single: false
 key: winter-games-david-foster
 name: Winter Games
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1988
+runtime: 246160
 ---
 

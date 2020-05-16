@@ -1,8 +1,11 @@
 ---
+album: Music From The Edge Of Heaven
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:39DqTVfPph3ec294yrTKn7
 features: []
-genres: []
+first_released_as_single: false
 key: a-different-corner-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/adifferentcorner.html
 name: A Different Corner
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 270000
 ---
-
 I'd say love was a magical thing
 I'd say love would keep us from pain
 Had I been there?
@@ -113,6 +117,3 @@ I should go back to being lonely and confused
 If I could I would. I swear
 
 Whoa, I swear
-
-
-

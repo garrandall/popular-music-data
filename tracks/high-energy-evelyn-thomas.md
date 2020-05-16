@@ -1,8 +1,11 @@
 ---
+album: High Energy (Almighty Mixes)
 artists:
 - Evelyn Thomas
+external_ids:
+  spotify: spotify:track:5I2VqBikAqn0dvLRDMFSOr
 features: []
-genres: []
+first_released_as_single: false
 key: high-energy-evelyn-thomas
 lyrics_url: https://genius.com/Evelyn-thomas-high-energy-lyrics
 name: High Energy
@@ -27,10 +30,12 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
+release_year: 1984
+runtime: 308013
 ---
 High energy, your love is lifting me-ah
 Hoh-oh-oh-oh, high energy, your love is lifting me
-Lifting me hiiiiiiiiiigher, hi-hi-hiiiiiiiigher
+Lifting me higher, hi-hi-higher
 
 It was only last week that we first met
 When I was a-walking' down the street
@@ -45,7 +50,7 @@ Lo-ove hit me right between the eye-eyes
 Oh yeah, high energy, your love is lifting me
 Woh-oh-woh-oh-oh, high energy, yeah
 Your love is lifting me
-Lifting me hiiiiiiiiiigher, hi-hiiiiiiiiigher
+Lifting me higher, hi-higher
 
 When you call me on the phone
 You make my spirits rise
@@ -63,4 +68,4 @@ Your love is lifting me
 Lifting me hi-i-i-igh (high energy)
 Oh-high-high, (your love is lifting me)
 Wooooh-hooo-hooo-hoo (high energy), high-yeah-yeah-eah
-(Your love is lifting me) Lifting me hiiiiiiiiiigher, hiiiiiiiiiigher
+(Your love is lifting me) Lifting me higher, higher

@@ -1,8 +1,11 @@
 ---
+album: Beach Boys Party!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:6V3pSJx1q21RN8GkklooKe
 features: []
-genres: []
+first_released_as_single: false
 key: barbara-ann-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-barbara-ann-lyrics
 name: Barbara Ann
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1965
+runtime: 207200
 ---
 A bar bar bar bar Barbara Ann
 Bar bar bar bar Barbara Ann

@@ -1,8 +1,11 @@
 ---
+album: Piece By Piece (Deluxe Version)
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:15P4Osep3FIiZvDoccy1HK
 features: []
-genres: []
+first_released_as_single: true
 key: piece-by-piece-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/piecebypiece.html
 name: Piece By Piece
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 257746
 ---
-
 And all I remember is your back
 Walking towards the airport, leaving us all in your past
 I traveled fifteen hundred miles to see you
@@ -125,6 +129,3 @@ That a man can be kind and a father should be great
 Piece by piece
 Piece by piece
 Piece by piece
-
-
-

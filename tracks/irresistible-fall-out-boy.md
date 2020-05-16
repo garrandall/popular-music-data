@@ -1,8 +1,11 @@
 ---
+album: American Beauty/American Psycho
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:3znPiywA0q1VK2jgAZFDoI
 features: []
-genres: []
+first_released_as_single: false
 key: irresistible-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/irresistible.html
 name: Irresistible
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 206506
 ---
-
 Coming in unannounced, drag my nails on the tile
 I just followed your scent, you can just follow my smile
 All of your flaws are aligned with this mood of mine
@@ -100,7 +104,7 @@ I love the way you hurt me, baby
 
 You're second hand smoke, second hand smoke
 I breathe you in, but, honey, I don't know what you're doing to me
-Mon chÃ©ri, but the truth catches up with us eventually
+Mon chéri, but the truth catches up with us eventually
 Try to say live, live and let live
 But I'm no good, good at lip service
 Except when they're yours, mi amor
@@ -113,6 +117,3 @@ I love the way, I love the way
 I love the way you hurt me, baby
 I love the way, I love the way
 I love the way you hurt me, baby
-
-
-

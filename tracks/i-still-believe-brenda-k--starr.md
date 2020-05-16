@@ -1,8 +1,11 @@
 ---
+album: No Lo Voy A Olvidar
 artists:
 - Brenda K. Starr
+external_ids:
+  spotify: spotify:track:50Jw3MgxKswkkfpmppngOf
 features: []
-genres: []
+first_released_as_single: false
 key: i-still-believe-brenda-k--starr
 lyrics_url: https://genius.com/Brenda-k-starr-i-still-believe-lyrics
 name: I Still Believe
@@ -111,6 +114,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 285493
 ---
 You look in my eyes
 And I get emotional inside

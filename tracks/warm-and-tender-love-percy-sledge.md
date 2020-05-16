@@ -1,8 +1,11 @@
 ---
+album: Warm & Tender Soul
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:3AcmG9xPYVeir8E6StWIQO
 features: []
-genres: []
+first_released_as_single: false
 key: warm-and-tender-love-percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/warmandtenderlove.html
 name: Warm And Tender Love
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
+release_year: 1966
+runtime: 201573
 ---
-
 Let me wrap you in my warm and tender love, yeah
 Let me wrap you in my warm and tender love
 Oh, I loved you for a long, long time
@@ -67,6 +71,3 @@ Oh baby, come on and let me
 Let me wrap you in my warm and tender love
 I said it'll be alright if you just let me
 Wrap you in my warm and tender love, yeah
-
-
-

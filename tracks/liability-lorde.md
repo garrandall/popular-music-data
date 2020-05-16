@@ -1,8 +1,11 @@
 ---
+album: Melodrama
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:6Kkt27YmFyIFrcX3QXFi2o
 features: []
-genres: []
+first_released_as_single: false
 key: liability-lorde
 lyrics_url: https://www.azlyrics.com/lyrics/lorde/liability.html
 name: Liability
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 171727
 ---
-
 One, two
 
 Baby really hurt me
@@ -63,6 +67,3 @@ They're gonna watch me
 Disappear into the sun
 You're all gonna watch me
 Disappear into the sun
-
-
-

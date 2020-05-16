@@ -1,8 +1,11 @@
 ---
+album: Cuz I Love You (Super Deluxe)
 artists:
 - Lizzo
+external_ids:
+  spotify: spotify:track:4jXTQ3JP6wnsLrTDg2KZ5p
 features: []
-genres: []
+first_released_as_single: true
 key: truth-hurts-lizzo
 lyrics_url: https://www.azlyrics.com/lyrics/lizzo/truthhurts.html
 name: Truth Hurts
@@ -175,8 +178,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2016
+runtime: 173325
 ---
-
 Why're men great 'til they gotta be great?
 Woo
 
@@ -236,6 +240,3 @@ Fresh photos with the bomb lighting
 New man on the Minnesota Vikings
 Truth hurts, needed something more exciting
 Bom bom bi bom bi dum bum bay
-
-
-

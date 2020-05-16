@@ -1,10 +1,13 @@
 ---
+album: Ray, Goodman, & Brown Live In Concert
 artists:
 - Ray
 - Goodman
 - Brown
+external_ids:
+  spotify: spotify:track:62Wx66Lydp3jc8OaBrKeik
 features: []
-genres: []
+first_released_as_single: false
 key: inside-of-you-ray-goodman-brown
 lyrics_url: https://genius.com/Ray-goodman-and-brown-inside-of-you-lyrics
 name: Inside Of You
@@ -25,6 +28,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1980
+runtime: 296240
 ---
 Sometimes it seems like
 I just can't get close enough to you

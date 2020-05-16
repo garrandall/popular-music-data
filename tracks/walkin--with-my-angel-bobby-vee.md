@@ -1,8 +1,11 @@
 ---
+album: Take Good Care Of My Baby
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:7FqeFkv4rz4JO4eVo9OJwn
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--with-my-angel-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/walkinwithmyangel.html
 name: Walkin' With My Angel
@@ -43,8 +46,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 139240
 ---
-
 Ain't no guy in town
 Who would ever try to put me down
 When I'm walkin' walkin' with my angel, whoa-uh-oh
@@ -73,6 +77,3 @@ When I'm walkin' walkin' with my angel
 
 Aww, when I'm walkin' walkin' with my angel
 Yeah, when I'm walkin' walkin' with my angel
-
-
-

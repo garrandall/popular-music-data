@@ -1,8 +1,11 @@
 ---
+album: So Full Of Love
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:7H2hjTOsebKijBFaHeGo24
 features: []
-genres: []
+first_released_as_single: true
 key: use-ta-be-my-girl-the-o-jays
 lyrics_url: https://www.musixmatch.com/lyrics/The-O-Jays-2/Use-Ta-Be-My-Girl
 name: Use Ta Be My Girl
@@ -83,6 +86,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1972
+runtime: 198706
 ---
 Oh, good lovin'
 The girl's got plenty good lovin'

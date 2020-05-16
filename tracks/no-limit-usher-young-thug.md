@@ -1,9 +1,12 @@
 ---
+album: Hard II Love
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:1CDBn2Lm7E63XKQDsdCq6O
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: no-limit-usher-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/usher/nolimit.html
 name: No Limit
@@ -88,8 +91,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 228613
 ---
-
 Make you say uh, no limit
 Got that Master P, no limit, baby
 Give you that Black Card, no limit
@@ -183,6 +187,3 @@ I C-Murder that, no limit, baby
 Give you that ghetto D girl, no limit
 Just know when you roll with a nigga like me
 There's no limit, baby
-
-
-

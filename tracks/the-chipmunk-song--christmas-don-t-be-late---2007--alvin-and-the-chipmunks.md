@@ -1,8 +1,11 @@
 ---
+album: Let's All Sing With The Chipmunks
 artists:
 - Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:7mZwaEEaHSeTYC2hTAjUki
 features: []
-genres: []
+first_released_as_single: false
 key: the-chipmunk-song--christmas-don-t-be-late---2007--alvin-and-the-chipmunks
 lyrics_url: https://genius.com/Alvin-and-the-chipmunks-the-chipmunk-song-lyrics
 name: The Chipmunk Song (Christmas Don't Be Late) (2007)
@@ -15,6 +18,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 1961
+runtime: 141906
 ---
 Alright you Chipmunks, Ready to sing your song?
  I'd say we are

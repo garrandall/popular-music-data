@@ -1,8 +1,11 @@
 ---
+album: Take Your Time
 artists:
 - Max-A-Million
+external_ids:
+  spotify: spotify:track:4eeq2yQUeYn8Us9JwPS46y
 features: []
-genres: []
+first_released_as_single: false
 key: sexual-healing-max-a-million
 lyrics_url: https://www.musixmatch.com/lyrics/Max-A-Million/Sexual-Healing
 name: Sexual Healing
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 243613
 ---
 Ooooooo baby, I'm hot just like an oven
 I need some lovin'

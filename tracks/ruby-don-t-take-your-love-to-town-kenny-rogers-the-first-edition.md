@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits
 artists:
 - Kenny Rogers
 - The First Edition
+external_ids:
+  spotify: spotify:track:0B1fRIcKLfi5HQRAJsswXe
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-don-t-take-your-love-to-town-kenny-rogers-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-ruby-dont-take-your-love-to-town-lyrics
 name: Ruby Don't Take Your Love To Town
@@ -60,9 +63,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 180800
 ---
-
-
 You've painted up your lips and rolled and curled your tinted hair
 Ruby are you contemplating going out somewhere?
 The shadows on the wall tell me the sun is going down
@@ -84,5 +87,3 @@ And if I could move I'd get my gun and put her in the ground
 Oh Ruby, don't take your love to town
 
 Oh Ruby, for God's sake, turn around
-
-

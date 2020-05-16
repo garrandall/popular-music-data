@@ -1,8 +1,11 @@
 ---
+album: Doin' the Hully Gully
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:75WAqt84ld3HPu0yKfxY3e
 features: []
-genres: []
+first_released_as_single: false
 key: -baby--hully-gully-the-olympics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/Baby-Hully-Gully
 name: (Baby) Hully Gully
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1960
+runtime: 124173
 ---
 A-there's a dance spreadin' round
 Like an awful disease
@@ -146,8 +151,6 @@ Auntie, Hully Gully
 Brother, sisters, nephews, nieces
 Gramma, too!
 (With the Hully Gully)
-
-FADES
 
 'Oh, shake that thing'
 (With the Hully Gully)

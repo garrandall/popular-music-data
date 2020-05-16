@@ -1,8 +1,11 @@
 ---
+album: Rock Around The Clock
 artists:
 - Bill Haley And His Comets
+external_ids:
+  spotify: spotify:track:1uRKT2LRANv4baowBWHfDS
 features: []
-genres: []
+first_released_as_single: false
 key: rock-around-the-clock-bill-haley-and-his-comets
 lyrics_url: https://genius.com/Bill-haley-and-his-comets-rock-around-the-clock-lyrics
 name: Rock Around The Clock
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1955
+runtime: 129893
 ---
 One, Two, Three O'clock, Four O'clock rock
 Five, Six, Seven O'clock, Eight O'clock rock

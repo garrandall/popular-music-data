@@ -1,8 +1,11 @@
 ---
+album: Fantastic Voyage
 artists:
 - Lakeside
+external_ids:
+  spotify: spotify:track:0rc9Uwm4vmnQEfx5omLWWF
 features: []
-genres: []
+first_released_as_single: false
 key: fantastic-voyage-lakeside
 lyrics_url: https://genius.com/Lakeside-fantastic-voyage-lyrics
 name: Fantastic Voyage
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 370893
 ---
 Hey, come on, come along take a ride
 There's a party over there, that ain't no jive

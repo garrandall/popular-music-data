@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:1AZQxYkqHKPagjHyqfaYtg
 features: []
-genres: []
+first_released_as_single: false
 key: plastic-man-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/plasticman.html
 name: Plastic Man
@@ -20,8 +23,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 213040
 ---
-
 He's out there tripping in the streets
 The sidewalk floats beneath his feet
 He's shaking ever body's hand
@@ -45,4 +49,3 @@ He's hip to psychedelic light
 He even does the puk-a-lu
 But he's not disclosing
 He's recruiting you
-

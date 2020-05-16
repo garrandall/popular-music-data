@@ -1,8 +1,11 @@
 ---
+album: Summer Forever
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:0iA1unTbTbDOWUSlbwJ1pS
 features: []
-genres: []
+first_released_as_single: false
 key: it-don-t-hurt-like-it-used-to-billy-currington
 lyrics_url: https://genius.com/Billy-currington-it-dont-hurt-like-it-used-to-lyrics
 name: It Don't Hurt Like It Used To
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2015
+runtime: 184506
 ---
 I had a couple beers with one of my friends
 ​Told him just how our story ends

@@ -1,8 +1,11 @@
 ---
+album: Souvenirs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:3dwSjp4LuPQfQeO0UZLsfB
 features: []
-genres: []
+first_released_as_single: false
 key: part-of-the-plan-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/partoftheplan.html
 name: Part Of The Plan
@@ -43,8 +46,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1974
+runtime: 198133
 ---
-
 I have these moments
 All steady and strong
 I'm feeling so holy and humble
@@ -117,6 +121,3 @@ But all of the answers
 You seek can be found
 In the dreams that
 You dream on the way
-
-
-

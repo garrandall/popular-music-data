@@ -1,8 +1,11 @@
 ---
+album: Blurryface
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:1s9xuJxhYM0LdVqksjegcg
 features: []
-genres: []
+first_released_as_single: false
 key: fairly-local-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/fairlylocal.html
 name: Fairly Local
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 207160
 ---
-
 I'm fairly local, I've been around
 I've seen the streets, you're walking down
 I'm fairly local, good people now
@@ -80,6 +84,3 @@ Good people now
 Oh, oh, oh, oh, oh, oh, oh
 Good people now
 Oh, oh, oh, oh, oh, oh, oh
-
-
-

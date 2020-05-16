@@ -1,8 +1,11 @@
 ---
+album: Tattoos & Scars
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:2ejOa0TU0VtVPIudXaBTU2
 features: []
-genres: []
+first_released_as_single: false
 key: hillbilly-shoes-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/hillbillyshoes.html
 name: Hillbilly Shoes
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
+release_year: 1999
+runtime: 192960
 ---
-
 I was there when the men came, and told us all the news
 Father forgive them for they know not what they do
 Till they walk a while, a country mile
@@ -78,6 +82,3 @@ Oh, you don't know me, you don't know, you don't know you don't know
 Till you walk a while, a country mile
 In my hillbilly shoes
 In my hillbilly shoes
-
-
-

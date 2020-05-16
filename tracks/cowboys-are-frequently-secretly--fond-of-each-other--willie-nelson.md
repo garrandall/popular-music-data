@@ -1,8 +1,11 @@
 ---
+album: Lost Highway
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:5GRFyKCYXXXlImIY8zhBmV
 features: []
-genres: []
+first_released_as_single: false
 key: cowboys-are-frequently-secretly--fond-of-each-other--willie-nelson
 lyrics_url: https://genius.com/Willie-nelson-cowboys-are-frequently-secretly-fond-of-each-other-lyrics
 name: Cowboys Are Frequently Secretly (Fond Of Each Other)
@@ -11,6 +14,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
+release_year: 2006
+runtime: 212853
 ---
 Well, there's many a strange impulse out on the plains of West Texas
 There's many a young boy who feels things he can't comprehend

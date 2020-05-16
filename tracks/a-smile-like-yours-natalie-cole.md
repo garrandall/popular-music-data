@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits, Vol. 1
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:5Q3XHXl6tTmHwZcXcITjfb
 features: []
-genres: []
+first_released_as_single: false
 key: a-smile-like-yours-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/asmilelikeyours.html
 name: A Smile Like Yours
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
+release_year: 1997
+runtime: 262933
 ---
-
 Hm, thought I'd seen everything there was to see in this world
 Now I'm not so sure I've really seen anything at all
 I thought life could show me no surprises
@@ -56,6 +60,3 @@ Oh, I've seen the wonders of this world (wonders of the world)
 But I've never seen a smile (never seen a smile before as beautiful as yours)
 Oh, I've never seen a smile before, (never seen a smile before as beautiful)
 As beautiful as yours.
-
-
-

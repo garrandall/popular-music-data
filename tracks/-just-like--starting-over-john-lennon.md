@@ -1,8 +1,11 @@
 ---
+album: Double Fantasy Stripped Down
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:5y0YreEOnQiKFAnCrcFIXz
 features: []
-genres: []
+first_released_as_single: false
 key: -just-like--starting-over-john-lennon
 lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/justlikestartingover.html
 name: (Just Like) Starting Over
@@ -95,8 +98,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
+release_year: 1980
+runtime: 236546
 ---
-
 Our life together is so precious together,
 We have grown - we have grown,
 Although our love is still special,
@@ -132,6 +136,3 @@ Our life together is so precious together,
 We have grown - we have grown,
 Although our love is still special,
 Let's take a chance and fly away somewhere alone.
-
-
-

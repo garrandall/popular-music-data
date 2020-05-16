@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:75ahOfIxXqHJWMQUK8ce1l
 features: []
-genres: []
+first_released_as_single: false
 key: my-claire-de-lune-steve-lawrence
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence/My-Claire-De-Lune
 name: My Claire De Lune
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 164243
 ---
 I call her Clair de Lune
 She walks be moonlight

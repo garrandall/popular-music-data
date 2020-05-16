@@ -1,8 +1,11 @@
 ---
+album: 14 Shots To The Dome
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:6eQUbcFlNAMCUw6ULiiDPp
 features: []
-genres: []
+first_released_as_single: false
 key: back-seat--of-my-jeep--ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/backseat.html
 name: Back Seat (Of My Jeep)
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 271600
 ---
-
 ah yeah
 I wanna send this one out to all the jeep lovers worldwide
 city to city, ghetto to ghetto
@@ -152,4 +156,3 @@ you love a good waxin', it's so relaxin'
 
 unh, give me a hug
 see what I'm sayin' love?
-

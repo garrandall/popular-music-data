@@ -1,9 +1,12 @@
 ---
+album: Back to Tennessee
 artists:
 - Miley Cyrus
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:2ZTCl6wQMDSMfY4s8GHZdj
 features: []
-genres: []
+first_released_as_single: false
 key: butterfly-fly-away-miley-cyrus-billy-ray-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-butterfly-fly-away-lyrics
 name: Butterfly Fly Away
@@ -20,6 +23,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2009
+runtime: 189240
 ---
 You tucked me in, turned out the light
 Kept me safe and sound at night

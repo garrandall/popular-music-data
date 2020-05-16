@@ -1,8 +1,11 @@
 ---
+album: Swamp Rock and Pop
 artists:
 - The Honeydrippers
+external_ids:
+  spotify: spotify:track:0VMGij4wSGBM5pSTcqjxeD
 features: []
-genres: []
+first_released_as_single: true
 key: sea-of-love-the-honeydrippers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Honeydrippers-3/Sea-of-Love-1
 name: Sea Of Love
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1984
+runtime: 183880
 ---
 Do you remember when we met
 That's the day I knew you were my pair

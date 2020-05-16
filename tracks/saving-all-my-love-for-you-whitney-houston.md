@@ -1,8 +1,11 @@
 ---
+album: Whitney Houston
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:1lx8ddGT5wCD6W2xmLeRKG
 features: []
-genres: []
+first_released_as_single: false
 key: saving-all-my-love-for-you-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/savingallmyloveforyou.html
 name: Saving All My Love For You
@@ -95,8 +98,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 238466
 ---
-
 A few stolen moments is all that we share 
 You've got your family, and they need you there 
 Though I've tried to resist, being last on your list 
@@ -132,6 +136,3 @@ So I'm saving all my love
 Yeah, I'm saving all my loving
 Yes, I'm saving all my love for you 
 For you, for you
-
-
-

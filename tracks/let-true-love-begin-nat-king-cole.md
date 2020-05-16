@@ -1,8 +1,11 @@
 ---
+album: Sincerely
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:1jTrURLfV3NZJoSk9kBdTw
 features: []
-genres: []
+first_released_as_single: false
 key: let-true-love-begin-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/lettruelovebegin.html
 name: Let True Love Begin
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 156506
 ---
-
 When you're young
 You're afraid of the dark
 Then you grow up
@@ -70,6 +74,3 @@ Don't be afraid
 Let true love begin
 Don't be afraid
 Let true love begin
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: For Your Precious Love
 artists:
 - Oscar Toney
 - Jr.
+external_ids:
+  spotify: spotify:track:16kGJLufac8UtAGULFHRD0
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-precious-love-oscar-toney-jr-
 lyrics_url: https://www.musixmatch.com/lyrics/Oscar-Toney-Jr/For-Your-Precious-Love
 name: For Your Precious Love
@@ -44,6 +47,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 192600
 ---
 Into each life
 A little rain must fall

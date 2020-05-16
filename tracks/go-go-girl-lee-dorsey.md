@@ -1,8 +1,11 @@
 ---
+album: Ride Your Pony
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:4qrkxnQx4hEBKzB64Z6ppj
 features: []
-genres: []
+first_released_as_single: false
 key: go-go-girl-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-go-go-girl-lyrics
 name: Go-Go Girl
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 143200
 ---
 Go-go, go-go girl, you drive me wild
 Shake it, shake it, shake it, child

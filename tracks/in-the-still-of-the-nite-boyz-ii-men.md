@@ -1,8 +1,11 @@
 ---
+album: Cooleyhighharmony (Bonus Tracks Version)
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:2tbSiDmrerPi24rEIBwtkh
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-still-of-the-nite-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-in-the-still-of-the-nite-ill-remember-lyrics
 name: In The Still Of The Nite
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
+release_year: 1991
+runtime: 169840
 ---
 Shoo doop shooby doo
 Shoo doop shooby doo

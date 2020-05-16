@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - The Union Gap
+external_ids:
+  spotify: spotify:track:6kni0aRaJX8NNu63sfKTmr
 features:
 - Gary Puckett
-genres: []
+first_released_as_single: false
 key: woman-woman-the-union-gap-gary-puckett
 lyrics_url: https://www.azlyrics.com/lyrics/garypucketttheuniongap/womanwoman.html
 name: Woman Woman
@@ -76,8 +79,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1967
+runtime: 196000
 ---
-
 Woman
 Woman
 Have you got cheating on your mind?
@@ -127,6 +131,3 @@ Oh, ho, woman
 Have you got cheating on your mind?
 
 Oh
-
-
-

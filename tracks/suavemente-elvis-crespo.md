@@ -1,8 +1,11 @@
 ---
+album: Suavemente
 artists:
 - Elvis Crespo
+external_ids:
+  spotify: spotify:track:7cpFmkNmh3MM0WqXPSbs9f
 features: []
-genres: []
+first_released_as_single: false
 key: suavemente-elvis-crespo
 lyrics_url: https://www.azlyrics.com/lyrics/elviscrespo/suavemente.html
 name: Suavemente
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 267000
 ---
-
 Suavemente, besame
 Que quiero sentir tus labios
 Besandome otra vez
@@ -91,6 +95,3 @@ Acercate, acercate no tengas miedo
 Solamente yo te digo, una cosa quiero
 (Suave) besame
 Pequena, cojelo (suave)
-
-
-

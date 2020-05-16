@@ -1,8 +1,11 @@
 ---
+album: 12 Of His Biggest Hits
 artists:
 - Eddie Cochran
+external_ids:
+  spotify: spotify:track:58Genya9wsQXqfiCYdd5qT
 features: []
-genres: []
+first_released_as_single: false
 key: somethin-else-eddie-cochran
 lyrics_url: https://genius.com/Eddie-cochran-somethin-else-lyrics
 name: Somethin Else
@@ -43,6 +46,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 130066
 ---
 A look a-there, here she comes
 There comes that girl again

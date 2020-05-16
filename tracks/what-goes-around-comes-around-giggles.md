@@ -1,8 +1,11 @@
 ---
+album: He Loves Me...He Loves Me Not
 artists:
 - Giggles
+external_ids:
+  spotify: spotify:track:2dOb3DaZRbiGfruiDODvdd
 features: []
-genres: []
+first_released_as_single: false
 key: what-goes-around-comes-around-giggles
 lyrics_url: https://www.musixmatch.com/lyrics/Giggles/What-Goes-Around-Comes-Around
 name: What Goes Around Comes Around
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1992
+runtime: 223466
 ---
 You came into my life and said you'd give me love
 You promised I would never hurt again
@@ -142,4 +147,3 @@ You better think before you speak
 Don't go putting the blame on me
 
 Tell him why girlfriend
-

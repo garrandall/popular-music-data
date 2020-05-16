@@ -1,8 +1,11 @@
 ---
+album: Be Yourself Tonight
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:0P2fNRXSFMksVXe2OW2PpU
 features: []
-genres: []
+first_released_as_single: false
 key: there-must-be-an-angel-eurythmics
 lyrics_url: https://genius.com/Eurythmics-there-must-be-an-angel-playing-with-my-heart-lyrics
 name: There Must Be An Angel
@@ -51,6 +54,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 325240
 ---
 No-one on earth could feel like this
 I'm thrown and overblown with bliss

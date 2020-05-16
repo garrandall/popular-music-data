@@ -1,8 +1,11 @@
 ---
+album: Seal
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:4mFkf4tw0HzBRxY1bgdyZa
 features: []
-genres: []
+first_released_as_single: true
 key: crazy-seal
 lyrics_url: https://genius.com/Seal-crazy-lyrics
 name: Crazy
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 269426
 ---
 In a church, by the face
 He talks about the people going under

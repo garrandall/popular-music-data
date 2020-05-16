@@ -1,8 +1,11 @@
 ---
+album: Plastic Bertrand
 artists:
 - Plastic Bertrand
+external_ids:
+  spotify: spotify:track:71yCMlsD6qbD7NmNUEoVNR
 features: []
-genres: []
+first_released_as_single: false
 key: ca-plane-pour-moi-plastic-bertrand
 lyrics_url: https://www.azlyrics.com/lyrics/plasticbertrand/caplanepourmoi.html
 name: Ca Plane Pour Moi
@@ -47,12 +50,13 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1978
+runtime: 182133
 ---
-
 Yam! Bam! Mon chat Splash
 Git sur mon lit a bouffe
 Sa langue en buvant tout mon whisky
-Quant a moi peu dormi, vidÃ©, brimÃ©
+Quant a moi peu dormi, vidé, brimé
 J'ai dÃ» dormir dans la gouttiÃ¨re
 Ou j'ai eu un flash
 Oooo-oo-oo-oo!
@@ -75,7 +79,7 @@ Oooo-oo-oo-oo!
 Allez hop! La nana quel panard!
 Quelle vibration!
 De s'envoyer sur le paillasson
-LimÃ©e, ruinÃ©e, vidÃ©e, comblÃ©e
+Limée, ruinée, vidée, comblée
 You are the King of the divan!
 Qu'elle me dit en passant
 Oooo-oo-oo-oo!
@@ -95,8 +99,8 @@ Et que la colle me manquera
 Oooo-oo-oo-oo!
 Ãa plane pour moi
 
-Allez hop! ma nana s'est tirÃ©e
-S'est barrÃ©e enfin c'est marre Ã  tout cassÃ©
+Allez hop! ma nana s'est tirée
+S'est barrée enfin c'est marre Ã  tout cassé
 L'evier, le bar me laissant seul
 Comme un grand connard
 Oooo-oo-oo-oo!
@@ -109,6 +113,3 @@ Oooo-oo-oo-oo!
 Ãa plane pour moi
 Ãa plane pour moi Ã§a plane pour moi
 Ãa plane pour moi moi moi moi moi
-
-
-

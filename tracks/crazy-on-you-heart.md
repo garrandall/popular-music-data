@@ -1,8 +1,11 @@
 ---
+album: Dreamboat Annie
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:5zH710lFSLtkHbMkslLDjR
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-on-you-heart
 lyrics_url: https://genius.com/Heart-crazy-on-you-lyrics
 name: Crazy On You
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1975
+runtime: 293440
 ---
 If we still have time, we might still get by
 Every time I think about it, I wanna cry

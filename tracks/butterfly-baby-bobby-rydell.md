@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:2d1NLWc2wHDZWjKkgIjdls
 features: []
-genres: []
+first_released_as_single: false
 key: butterfly-baby-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-butterfly-baby-lyrics
 name: Butterfly Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1963
+runtime: 134866
 ---
 Butterfly Baby
 Bobby Rydell

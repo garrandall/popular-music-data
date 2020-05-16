@@ -1,8 +1,11 @@
 ---
+album: My Boyfriend's Back
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:2NGANvM9qjeqrD9Yo9uNHR
 features: []
-genres: []
+first_released_as_single: false
 key: i-adore-him-the-angels
 lyrics_url: https://genius.com/The-angels-usa-i-adore-him-lyrics
 name: I Adore Him
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
+release_year: 1963
+runtime: 167506
 ---
 They say he doesn't love me
 But they don't know

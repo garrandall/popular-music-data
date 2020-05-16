@@ -1,8 +1,11 @@
 ---
+album: Headquarters
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:5zTsDNoTAa6IDsMGjyxe1A
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-i-knew-somewhere-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/thegirliknewsomewhere.html
 name: The Girl I Knew Somewhere
@@ -27,8 +30,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 175200
 ---
-
 You tell me that you've never been this way before.
 You tell me things I know that I've heard somewhere.
 You're standing in the places and you're
@@ -51,6 +55,3 @@ And if your love was not a game, I only have myself to blame.
 That's as may be, I can't explain.
 
 Just ask the girl that I knew somewhere.
-
-
-

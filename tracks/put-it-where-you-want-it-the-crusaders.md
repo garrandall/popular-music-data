@@ -1,8 +1,11 @@
 ---
+album: Crusaders 1
 artists:
 - The Crusaders
+external_ids:
+  spotify: spotify:track:0KyYrq0cy5Tqy0u56aDU7h
 features: []
-genres: []
+first_released_as_single: false
 key: put-it-where-you-want-it-the-crusaders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Crusaders/Put-It-Where-You-Want-It
 name: Put It Where You Want It
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 320253
 ---
 I thought that I've been hurt before
 But no one's ever left me quite this sore

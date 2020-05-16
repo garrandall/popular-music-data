@@ -1,8 +1,11 @@
 ---
+album: Flicker
 artists:
 - Niall Horan
+external_ids:
+  spotify: spotify:track:5dTJMpqiELczVuHJP3OAEu
 features: []
-genres: []
+first_released_as_single: true
 key: this-town-niall-horan
 lyrics_url: https://genius.com/Niall-horan-this-town-lyrics
 name: This Town
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2016
+runtime: 232600
 ---
 Waking up to kiss you and nobody’s there
 The smell of your perfume still stuck in the air

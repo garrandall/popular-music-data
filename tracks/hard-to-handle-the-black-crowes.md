@@ -1,8 +1,11 @@
 ---
+album: Shake Your Money Maker
 artists:
 - The Black Crowes
+external_ids:
+  spotify: spotify:track:05NYcsjJwOYq4jIiKPVj9p
 features: []
-genres: []
+first_released_as_single: false
 key: hard-to-handle-the-black-crowes
 lyrics_url: https://genius.com/The-black-crowes-hard-to-handle-lyrics
 name: Hard To Handle
@@ -123,6 +126,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1990
+runtime: 188066
 ---
 Baby, here I am, I'm a man on the scene
 I can give you what you want but you got to come home with me

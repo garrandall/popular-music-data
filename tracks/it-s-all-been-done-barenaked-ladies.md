@@ -1,8 +1,11 @@
 ---
+album: Stunt
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:1VBRdl1sT4DGckQaTzKEB9
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-been-done-barenaked-ladies
 lyrics_url: https://genius.com/Barenaked-ladies-its-all-been-done-lyrics
 name: It's All Been Done
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
+release_year: 1998
+runtime: 206000
 ---
 I met you before the fall of Rome
 And I begged you to let me take you home

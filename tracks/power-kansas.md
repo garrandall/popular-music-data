@@ -1,8 +1,11 @@
 ---
+album: Power
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:0a0AgpXGzXsIRztBZHyw0j
 features: []
-genres: []
+first_released_as_single: false
 key: power-kansas
 lyrics_url: https://genius.com/Kansas-power-lyrics
 name: Power
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
+release_year: 1986
+runtime: 266400
 ---
 Sometimes a smile can deceive the one who has made you promise
 Suddenly you can't believe, the truth only leaves you cold

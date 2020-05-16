@@ -1,8 +1,11 @@
 ---
+album: Vagabond Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6SxbEd5bMcRwgYwlBJ3aT0
 features: []
-genres: []
+first_released_as_single: false
 key: the-motown-song-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/themotownsong.html
 name: The Motown Song
@@ -75,8 +78,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 240400
 ---
-
 Bring over some of your old Motown records
 We'll put the speakers in the window and we'll go
 on the roof and listen to the Miracles
@@ -131,6 +135,3 @@ Bring over some of you old Motown records
 We'll put the speakers in the window and we'll go
 on the roof and listen to the Miracles
 echo to the alley down below
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Encore
 artists:
 - DJ Snake
+external_ids:
+  spotify: spotify:track:3pvmxgEalEj7KKROvY8yTu
 features:
 - Bipolar Sunshine
-genres: []
+first_released_as_single: true
 key: middle-dj-snake-bipolar-sunshine
 lyrics_url: https://www.azlyrics.com/lyrics/djsnake/middle.html
 name: Middle
@@ -92,8 +95,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 175613
 ---
-
 Staring at two different views on your window ledge
 Coffee has gone cold, it's like time froze
 There you go wishing, floating down our wishing well
@@ -131,6 +135,3 @@ Just thank the children
 You
 Thank the children
 Just thank the children
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I met you when I was 18. (the extras)
 artists:
 - Lauv
+external_ids:
+  spotify: spotify:track:2uQNcZYa0SEbfW4cj0d9OS
 features: []
-genres: []
+first_released_as_single: true
 key: i-like-me-better-lauv
 lyrics_url: https://www.azlyrics.com/lyrics/lauv/ilikemebetter.html
 name: I Like Me Better
@@ -171,8 +174,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2017
+runtime: 202684
 ---
-
 To be young and in love in New York City
 To not know who I am but still know that I'm good long as you're here with me
 To be drunk and in love in New York City
@@ -221,6 +225,3 @@ Look who you made me, made me, oh no
 Better when
 
 I like me better when I'm with you
-
-
-

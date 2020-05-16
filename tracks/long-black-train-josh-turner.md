@@ -1,8 +1,11 @@
 ---
+album: Long Black Train
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:2HqCaO7BV010qXS5FuiTED
 features: []
-genres: []
+first_released_as_single: false
 key: long-black-train-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/longblacktrain.html
 name: Long Black Train
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
+release_year: 2003
+runtime: 250626
 ---
-
 There's a long black train comin' down the line,
 Feeding off the souls that are lost and cryin'.
 Rails of sin, only evil remains.
@@ -120,6 +124,3 @@ And don't go ridin' on that long black train.
 
 Yeah, watch out brother for that long black train.
 That devil's drivin' that long black train.
-
-
-

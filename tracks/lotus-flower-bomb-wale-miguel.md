@@ -1,9 +1,12 @@
 ---
+album: Ambition
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:3MAgQuClHcAV8E9CbeBS6f
 features:
 - Miguel
-genres: []
+first_released_as_single: false
 key: lotus-flower-bomb-wale-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/wale/lotusflowerbomb.html
 name: Lotus Flower Bomb
@@ -88,9 +91,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 213253
 ---
-
-
 I'mma rap to you real quick
 I wanna enjoy the luxury of like, not knowing each other for real. Hold up
 
@@ -176,6 +179,3 @@ Let me teach you all the sounds of love
 Ah, ay, ee, ah oh oh
 Baby, this was for you
 Lotus
-
-
-

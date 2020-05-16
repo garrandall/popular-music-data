@@ -1,8 +1,11 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:6ts0IMQShgewfRUrz3ck9W
 features: []
-genres: []
+first_released_as_single: true
 key: mood-swings-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-mood-swings-lyrics
 name: Mood Swings
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 211227
 ---
 Wheezy outta here
 Beast, beast

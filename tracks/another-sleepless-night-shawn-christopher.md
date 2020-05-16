@@ -1,8 +1,11 @@
 ---
+album: 'Suite 102: House Connection, Vol.1'
 artists:
 - Shawn Christopher
+external_ids:
+  spotify: spotify:track:0ANYIwC1huiN3b2vhOcPwM
 features: []
-genres: []
+first_released_as_single: true
 key: another-sleepless-night-shawn-christopher
 lyrics_url: https://www.musixmatch.com/lyrics/Shawn-Christopher/Another-Sleepless-Night
 name: Another Sleepless Night
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1991
+runtime: 325000
 ---
 With Mike 'The Hitman' Wilson
 

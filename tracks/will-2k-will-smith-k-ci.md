@@ -1,9 +1,12 @@
 ---
+album: Willennium
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:59xpdlaIK1l5hiYP1KsBxK
 features:
 - K-Ci
-genres: []
+first_released_as_single: false
 key: will-2k-will-smith-k-ci
 lyrics_url: https://www.azlyrics.com/lyrics/willsmith/will2k.html
 name: Will 2K
@@ -60,9 +63,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
+release_year: 1999
+runtime: 233906
 ---
-
-
 Its here and I like it
 
 Whoo! Ha-ha! Ha-ha!
@@ -208,6 +211,3 @@ Hey Tokyo, come on
 Everybody say what now
 Say what now, saw what now
 Come on, come on, come on
-
-
-

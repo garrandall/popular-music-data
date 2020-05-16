@@ -1,8 +1,11 @@
 ---
+album: Cosmic Hallelujah
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:0XN2BcoaKE4Z2hnq1ZeDY1
 features: []
-genres: []
+first_released_as_single: false
 key: noise-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/noise.html
 name: Noise
@@ -63,8 +66,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2016
+runtime: 203760
 ---
-
 Wrecking balls, downtown construction
 Bottles breaking, jukebox buzzing
 Cardboard sign says "The Lord is Coming"
@@ -106,6 +110,3 @@ Can't take the noise
 Can't take the noise
 Can't stand the noise
 Can't take the noise
-
-
-

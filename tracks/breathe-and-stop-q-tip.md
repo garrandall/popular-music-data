@@ -1,8 +1,11 @@
 ---
+album: Amplified
 artists:
 - Q-Tip
+external_ids:
+  spotify: spotify:track:7nDtDxsKJ3fho8xEmU65JJ
 features: []
-genres: []
+first_released_as_single: false
 key: breathe-and-stop-q-tip
 lyrics_url: https://genius.com/Q-tip-breathe-and-stop-lyrics
 name: Breathe And Stop
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 243866
 ---
 Uh uh uh uh uh get up
 Uh uh for real uh uh

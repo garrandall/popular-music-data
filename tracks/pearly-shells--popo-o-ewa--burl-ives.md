@@ -1,8 +1,11 @@
 ---
+album: A Little Bitty Tear
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:7v2ez5Mg07iQjUBcnSpoA0
 features: []
-genres: []
+first_released_as_single: false
 key: pearly-shells--popo-o-ewa--burl-ives
 lyrics_url: https://www.musixmatch.com/lyrics/Burl-Ives/Pearly-Shells
 name: Pearly Shells (Popo O Ewa)
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 145800
 ---
 Pearly shells (pearly shells)
 From the ocean (from the ocean)
@@ -45,7 +50,6 @@ I've got a kiss for you
 For each star that twinkles in the blue
 
 For every grain of sand upon the beach
-Lyrics courtesy Top40db.
 I've got a kiss for you
 And I've got more left over
 For each star that twinkles in the blue

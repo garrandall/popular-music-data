@@ -1,8 +1,11 @@
 ---
+album: It's Too Late
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:1VqrflVEiHi8rDSyo6tEZ5
 features: []
-genres: []
+first_released_as_single: false
 key: blue-autumn-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/blueautumn.html
 name: Blue Autumn
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 188093
 ---
-
 Blue Autumn, falling leaves with red and gold
 Pretty colors, I am told
 But I only see only shades of blue
@@ -68,6 +72,3 @@ Blue Autumn, a love like yours I'll never know
 Other girls may come and go
 But I only see shades of you
 And all my autumns will be blue
-
-
-

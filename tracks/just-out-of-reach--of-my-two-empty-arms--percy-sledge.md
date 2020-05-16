@@ -1,8 +1,11 @@
 ---
+album: The Percy Sledge Way
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:3KFfEIcTcoNr1aAWRBaQGR
 features: []
-genres: []
+first_released_as_single: false
 key: just-out-of-reach--of-my-two-empty-arms--percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/justoutofreachofmytwoemptyarms.html
 name: Just Out Of Reach (Of My Two Empty Arms)
@@ -23,8 +26,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 214466
 ---
-
 (Just out of reach
 Of my two empty arms)
 
@@ -59,6 +63,3 @@ And all your charm
 Just out of reach
 Of my two empty arms
 (Empty arms)
-
-
-

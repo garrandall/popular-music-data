@@ -1,8 +1,11 @@
 ---
+album: Our Time In Eden
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:32xXojNvbRTQ9qfb3mWR69
 features: []
-genres: []
+first_released_as_single: false
 key: candy-everybody-wants-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-candy-everybody-wants-lyrics
 name: Candy Everybody Wants
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1992
+runtime: 185960
 ---
 Hey, hey, give 'em what they want
 

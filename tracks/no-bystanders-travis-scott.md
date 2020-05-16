@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:6OaVWaGfhXn70ZJfdVcabn
 features: []
-genres: []
+first_released_as_single: false
 key: no-bystanders-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/nobystanders.html
 name: No Bystanders
@@ -15,9 +18,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 218283
 ---
-
-
 The party never ends
 In a motel, laying with my sins, yeah
 I'm tryna get revenge
@@ -141,6 +144,3 @@ Fuck the club up, fuck the club up (bitch)
 Fuck the club up, fuck the club up
 They know me when they see me, nigga, ah!
 Fuck the club up, fuck the club up (yeah)
-
-
-

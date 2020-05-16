@@ -1,8 +1,11 @@
 ---
+album: Live "Now Appearing" At Ole Miss
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:06ZtadDrAH9relGrmwGmre
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-baby-b-b--king
 lyrics_url: https://genius.com/Bb-king-rock-me-baby-lyrics
 name: Rock Me Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 236386
 ---
 Rock me baby, rock me all night long
 Rock me baby, honey, rock me all night long

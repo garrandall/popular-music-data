@@ -1,9 +1,12 @@
 ---
+album: Stranger In Town
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:5EOoMWIB9iK4ZpcSex9Ec7
 features: []
-genres: []
+first_released_as_single: false
 key: old-time-rock---roll-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Old-Time-Rock-Roll
 name: Old Time Rock & Roll
@@ -96,6 +99,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1978
+runtime: 194146
 ---
 Just take those old records off the shelf
 I'll sit and listen to 'em by myself

@@ -1,8 +1,11 @@
 ---
+album: Some People's Lives
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:48eiLW57CqSmCYNZRM2J8M
 features: []
-genres: []
+first_released_as_single: false
 key: from-a-distance-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/fromadistance.html
 name: From A Distance
@@ -111,8 +114,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1990
+runtime: 276346
 ---
-
 From a distance the world looks blue and green,
 and the snow-capped mountains white.
 From a distance the ocean meets the stream,
@@ -151,6 +155,3 @@ And God is watching us, God is watching us,
 God is watching us from a distance.
 Oh, God is watching us, God is watching.
 God is watching us from a distance.
-
-
-

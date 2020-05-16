@@ -1,9 +1,13 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Jr. Walker & The
+  All Stars'
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:0G9Fw7UD13Cxfs2rXm46zF
 features: []
-genres: []
+first_released_as_single: false
 key: these-eyes-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-these-eyes-lyrics
 name: These Eyes
@@ -60,6 +64,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 214693
 ---
 These eyes, these eyes, these eyes
 These eyes, these eyes, these eyes

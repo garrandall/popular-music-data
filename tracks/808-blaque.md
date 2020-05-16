@@ -1,8 +1,11 @@
 ---
+album: Blaque
 artists:
 - Blaque
+external_ids:
+  spotify: spotify:track:16sXnyBP4fKaR9RMmhDlla
 features: []
-genres: []
+first_released_as_single: false
 key: 808-blaque
 lyrics_url: https://www.azlyrics.com/lyrics/blaque/808.html
 name: '808'
@@ -87,9 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
+release_year: 1999
+runtime: 250533
 ---
-
-
 Oh (yea yea yea yea)
 Oh (yea yea yea yea)
 Oh (yea yea yea yea)
@@ -168,6 +171,3 @@ You'll be goin' boom baby boom baby boom
 And I'll be goin' oh baby oohaby ohohheck it out)
 
 Cause I'll be goin' boom like an 808...
-
-
-

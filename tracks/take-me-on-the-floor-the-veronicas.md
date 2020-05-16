@@ -1,8 +1,11 @@
 ---
+album: Hook Me Up (US Version)
 artists:
 - The Veronicas
+external_ids:
+  spotify: spotify:track:7MFvqBJ3ozTwDrf5VfoW8U
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-on-the-floor-the-veronicas
 lyrics_url: https://www.azlyrics.com/lyrics/veronicas/takemeonthefloor.html
 name: Take Me On The Floor
@@ -15,8 +18,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2007
+runtime: 210480
 ---
-
 The lights are out and I barely know you
 We're going up and the place is slowing down
 I knew you'd come around
@@ -75,6 +79,3 @@ Just take me on the floor (dadada da dadadada)
 I can give you more (dadada da dadadada)
 You kill me, you kill me, you kill me
 Please don't stop!
-
-
-

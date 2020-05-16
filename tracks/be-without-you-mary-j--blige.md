@@ -1,8 +1,11 @@
 ---
+album: The Breakthrough
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:2YegxR5As7BeQuVp2U6pek
 features: []
-genres: []
+first_released_as_single: false
 key: be-without-you-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-be-without-you-lyrics
 name: Be Without You
@@ -139,6 +142,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-07-08'
+release_year: 2005
+runtime: 246333
 ---
 I wanna be with you
 Gotta be with you

@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:4N3stlRuz5cBNI4J4vDJ18
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-chic
 lyrics_url: https://genius.com/Chic-good-times-lyrics
 name: Good Times
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1977
+runtime: 486186
 ---
 Good times
 These are the good times

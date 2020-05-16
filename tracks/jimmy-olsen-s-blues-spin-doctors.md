@@ -1,8 +1,11 @@
 ---
+album: Pocket Full Of Kryptonite
 artists:
 - Spin Doctors
+external_ids:
+  spotify: spotify:track:0xG0R8KUwRcXgmveVvbnwn
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-olsen-s-blues-spin-doctors
 lyrics_url: https://www.azlyrics.com/lyrics/spindoctors/jimmyolsensblues.html
 name: Jimmy Olsen's Blues
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1991
+runtime: 278706
 ---
-
 Well, I don't think I can handle this
 A cloudy day in Metropolis
 I think I'll talk to my analyst
@@ -95,6 +99,3 @@ I got a pocket full of kryptonite
 Oh, Miss Lois Lane
 
 I got a pocket full of...
-
-
-

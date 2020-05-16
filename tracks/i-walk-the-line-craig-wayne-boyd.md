@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Craig Wayne Boyd
+external_ids:
+  spotify: spotify:track:7LA65XN3XINyDpn454otUO
 features: []
-genres: []
+first_released_as_single: false
 key: i-walk-the-line-craig-wayne-boyd
 lyrics_url: https://www.azlyrics.com/lyrics/craigwayneboyd/iwalktheline.html
 name: I Walk The Line
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2014
+runtime: 187721
 ---
-
 I keep a close watch on this heart of mine
 I keep my eyes wide open all the time
 I keep the ends out for the tie that binds
@@ -37,6 +41,3 @@ I keep a close watch on this heart of mine
 I keep my eyes wide open all the time
 I keep the ends out for the tie that binds
 Because you're mine, I walk the line
-
-
-

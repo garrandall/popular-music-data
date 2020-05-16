@@ -1,8 +1,11 @@
 ---
+album: The Real Thing
 artists:
 - Faith No More
+external_ids:
+  spotify: spotify:track:20nb0Wl1yqoEERbUSILuG1
 features: []
-genres: []
+first_released_as_single: false
 key: falling-to-pieces-faith-no-more
 lyrics_url: https://genius.com/Faith-no-more-falling-to-pieces-lyrics
 name: Falling To Pieces
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1989
+runtime: 313573
 ---
 Back and forth, I sway with the wind
 Resolution slips away again

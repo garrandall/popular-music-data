@@ -1,8 +1,11 @@
 ---
+album: It Matters to Me
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:3rXdABev6vQtBCElztIl7m
 features: []
-genres: []
+first_released_as_single: false
 key: it-matters-to-me-faith-hill
 lyrics_url: https://genius.com/Faith-hill-it-matters-to-me-lyrics
 name: It Matters To Me
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-04-06'
+release_year: 1995
+runtime: 197666
 ---
 Baby, tell me where'd you ever learn
 To fight without saying a word

@@ -1,8 +1,11 @@
 ---
+album: Lover Please/The Complete MGM & Mercury Singles
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:6nLTEE7AW97ECxq5WQxyXW
 features: []
-genres: []
+first_released_as_single: false
 key: i-told-myself-a-lie-clyde-mcphatter
 name: I Told Myself A Lie
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 126760
 ---
 

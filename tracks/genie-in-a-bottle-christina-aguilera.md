@@ -1,8 +1,11 @@
 ---
+album: Christina Aguilera
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:11mwFrKvLXCbcVGNxffGyP
 features: []
-genres: []
+first_released_as_single: false
 key: genie-in-a-bottle-christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-genie-in-a-bottle-lyrics
 name: Genie In A Bottle
@@ -107,6 +110,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1999
+runtime: 217573
 ---
 Come on, come on
 Uh, yeah

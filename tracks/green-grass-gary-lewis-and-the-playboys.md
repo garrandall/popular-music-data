@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:3FJ3H9sDzeCbEv7hgEaOV3
 features: []
-genres: []
+first_released_as_single: false
 key: green-grass-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-green-grass-lyrics
 name: Green Grass
@@ -39,6 +42,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 132600
 ---
 GREEN GRASS
 (R.Greenaway/R.Cook)

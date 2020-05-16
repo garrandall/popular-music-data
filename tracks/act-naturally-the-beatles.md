@@ -1,8 +1,11 @@
 ---
+album: Help!
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0IxxqsYBcCHEQ1HqLYJnwx
 features: []
-genres: []
+first_released_as_single: false
 key: act-naturally-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/actnaturally.html
 name: Act Naturally
@@ -35,8 +38,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 150373
 ---
-
 They're gonna put me in the movies
 They're gonna make a big star out of me
 We'll make a film about a man that's sad and lonely
@@ -66,6 +70,3 @@ Well I hope you'll come and see me in the movies
 Then I'll know that you will plainly see
 The biggest fool that ever hit the big time
 And all I gotta do is act naturally
-
-
-

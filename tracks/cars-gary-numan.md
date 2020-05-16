@@ -1,8 +1,11 @@
 ---
+album: The Pleasure Principle
 artists:
 - Gary Numan
+external_ids:
+  spotify: spotify:track:6HZ67VImxqr8aMBEEhblzf
 features: []
-genres: []
+first_released_as_single: false
 key: cars-gary-numan
 lyrics_url: https://genius.com/Gary-numan-cars-lyrics
 name: Cars
@@ -107,6 +110,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1979
+runtime: 238906
 ---
 Here in my car
 I feel safest of all

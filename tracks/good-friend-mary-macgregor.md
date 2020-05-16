@@ -1,8 +1,11 @@
 ---
+album: Just Mary
 artists:
 - Mary Macgregor
+external_ids:
+  spotify: spotify:track:5ub9ngy3atXzJ3VmJ0MDqJ
 features: []
-genres: []
+first_released_as_single: false
 key: good-friend-mary-macgregor
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-MacGregor/Good-Friend
 name: Good Friend
@@ -55,6 +58,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 162142
 ---
 If you let me,
 I could be your good friend

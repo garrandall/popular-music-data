@@ -1,8 +1,11 @@
 ---
+album: I'm Nearly Famous
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:3WlbqDmUw05koiOZYq9LZ0
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-ask-for-anymore-than-you-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-i-cant-ask-for-anymore-than-you-lyrics
 name: I Can't Ask For Anymore Than You
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-01-08'
+release_year: 1976
+runtime: 170533
 ---
 You could have been a bad girl
 And wasted all my time

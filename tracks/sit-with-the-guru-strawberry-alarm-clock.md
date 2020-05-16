@@ -1,8 +1,11 @@
 ---
+album: Wake Up...It's Tomorrow
 artists:
 - Strawberry Alarm Clock
+external_ids:
+  spotify: spotify:track:0PKrvcdX7PUgubTWn0LDQ7
 features: []
-genres: []
+first_released_as_single: false
 key: sit-with-the-guru-strawberry-alarm-clock
 lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/sitwiththeguru.html
 name: Sit With The Guru
@@ -27,8 +30,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 182906
 ---
-
 Life's created, automated
 Yesterday's invalidated
 Hip mankind on, turn your mind on
@@ -60,6 +64,3 @@ Leave today untouched in the sky
 Stretch out your mind to humanity
 How many tomorrows can you see?
 How many tomorrows can you see?
-
-
-

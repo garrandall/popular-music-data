@@ -1,8 +1,11 @@
 ---
+album: The Complete Columbia Recording Sessions, Vol. 6 - 1959-1963
 artists:
 - Lefty Frizzell
+external_ids:
+  spotify: spotify:track:1VzApULxp3sCFwyf0MNyp1
 features: []
-genres: []
+first_released_as_single: false
 key: saginaw-michigan-lefty-frizzell
 lyrics_url: https://genius.com/Lefty-frizzell-saginaw-michigan-lyrics
 name: Saginaw Michigan
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1950
+runtime: 180760
 ---
 I was born in Saginaw, Michigan
 I grew up in a house on Saginaw bay

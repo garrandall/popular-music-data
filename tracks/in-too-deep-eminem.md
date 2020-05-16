@@ -1,8 +1,11 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7Dj2wqPYXfSRFwa6qyOztr
 features: []
-genres: []
+first_released_as_single: false
 key: in-too-deep-eminem
 lyrics_url: https://genius.com/Eminem-in-too-deep-lyrics
 name: In Too Deep
@@ -11,6 +14,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 194706
 ---
 "This could never work," is what we said at first
 But whatever this is, it's working

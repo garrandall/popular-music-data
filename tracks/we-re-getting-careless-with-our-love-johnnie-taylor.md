@@ -1,8 +1,11 @@
 ---
+album: Taylored In Silk
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:7Fv6sa45rC3qDHz4sBqgVy
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-getting-careless-with-our-love-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-were-getting-careless-with-our-love-lyrics
 name: We're Getting Careless With Our Love
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
+release_year: 1973
+runtime: 242500
 ---
 Wake up, little darling
 It's time to go home

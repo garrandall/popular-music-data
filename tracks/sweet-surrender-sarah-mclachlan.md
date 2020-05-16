@@ -1,8 +1,11 @@
 ---
+album: Surfacing
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:46ShsS3tyqJAJdxUjPezdI
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-surrender-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/sweetsurrender.html
 name: Sweet Surrender
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1997
+runtime: 240613
 ---
-
 It doesn't mean much
 It doesn't mean anything at all
 The life I've left behind me
@@ -116,6 +120,3 @@ Is all that I have to give
 
 Sweet surrender
 Is all that I have to give
-
-
-

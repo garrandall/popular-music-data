@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:3QAkevtri76hEcI6bi1iQj
 features: []
-genres: []
+first_released_as_single: false
 key: the-mess-around-bobby-freeman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Freeman/The-Mess-Around
 name: The Mess Around
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 150200
 ---
 New dance that just hit town
 New dance that just hit town

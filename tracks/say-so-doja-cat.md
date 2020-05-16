@@ -1,8 +1,11 @@
 ---
+album: Hot Pink
 artists:
 - Doja Cat
+external_ids:
+  spotify: spotify:track:3Dv1eDb0MEgF93GpLXlucZ
 features: []
-genres: []
+first_released_as_single: false
 key: say-so-doja-cat
 lyrics_url: https://genius.com/Doja-cat-say-so-lyrics
 name: Say So
@@ -47,6 +50,8 @@ rankings:
   rank: 19
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 237893
 ---
 Day to night to morning, keep with me in the moment
 I'd let you had I known it, why don't you say so?

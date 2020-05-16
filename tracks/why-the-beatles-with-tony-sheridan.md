@@ -1,7 +1,8 @@
 ---
 artists:
-- The Beatles With Tony Sheridan
-features: []
+- The Beatles
+features:
+- Tony Sheridan
 genres: []
 key: why-the-beatles-with-tony-sheridan
 name: Why

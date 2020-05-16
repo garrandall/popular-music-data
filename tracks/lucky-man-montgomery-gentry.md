@@ -1,8 +1,11 @@
 ---
+album: Some People Change
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:1e0Pmif2OxVjXSPpsE40HX
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-man-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/luckyman.html
 name: Lucky Man
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 1999
+runtime: 196426
 ---
-
 I have days where I hate my job
 This little town and the whole world too
 Last Sunday when my Bengals lost
@@ -122,6 +126,3 @@ I got supper in the oven, a good woman's loving
 And even my bad days ain't that bad
 Yeah, I'm a lucky man
 I'm a lucky lucky man
-
-
-

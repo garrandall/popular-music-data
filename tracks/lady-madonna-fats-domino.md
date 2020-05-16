@@ -1,8 +1,11 @@
 ---
+album: Fats Is Back
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:3d2oazUoRicGpjOviHE6wg
 features: []
-genres: []
+first_released_as_single: false
 key: lady-madonna-fats-domino
 lyrics_url: https://genius.com/Fats-domino-lady-madonna-lyrics
 name: Lady Madonna
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 139320
 ---
 Lady Madonna, children at your feet
 Wonder how you manage to make ends meet

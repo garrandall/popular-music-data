@@ -1,8 +1,11 @@
 ---
+album: Get On Up And Dance
 artists:
 - Quad City DJ's
+external_ids:
+  spotify: spotify:track:2KREBZyheFidQxkmZzvL8n
 features: []
-genres: []
+first_released_as_single: false
 key: c-mon-n--ride-it--the-train--quad-city-dj-s
 lyrics_url: https://genius.com/Quad-city-djs-cmon-n-ride-it-the-train-lyrics
 name: C'mon N' Ride It (The Train)
@@ -175,6 +178,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
+release_year: 1996
+runtime: 234013
 ---
 (Woo woo) x 4
 

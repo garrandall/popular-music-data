@@ -1,8 +1,11 @@
 ---
+album: Let's Keep It That Way
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:5d4E1hgkLyb7sXr5J3InnM
 features: []
-genres: []
+first_released_as_single: false
 key: you-needed-me-anne-murray
 lyrics_url: https://genius.com/Anne-murray-you-needed-me-lyrics
 name: You Needed Me
@@ -111,6 +114,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
+release_year: 1978
+runtime: 220266
 ---
 I cried a tear, you wiped it dry
 I was confused, you cleared my mind

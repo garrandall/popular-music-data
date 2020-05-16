@@ -1,9 +1,12 @@
 ---
+album: One More Love
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:4MKzCHlZvkwJOQRNkdw4zq
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: sexy-chick-david-guetta-akon
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/sexychick.html
 name: Sexy Chick
@@ -168,8 +171,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2009
+runtime: 194346
 ---
-
 Yes I can see her
 Cause every girl in here wanna be her
 Oh shes a diva
@@ -237,6 +241,3 @@ Damn you'se a sexy chick
 A sexy chick
 Damn you'se a sexy chick
 Damn you'se a sexy chick
-
-
-

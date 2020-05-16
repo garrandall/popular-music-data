@@ -1,8 +1,11 @@
 ---
+album: Leave A Mark
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:6dIbdBKUEfsiK6GiyX8Kas
 features: []
-genres: []
+first_released_as_single: false
 key: cover-you-in-kisses-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/coveryouinkisses.html
 name: Cover You In Kisses
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1998
+runtime: 236666
 ---
-
 You say it's cold back there in Denver
 A foot of new snow on the ground
 You're all bundled up in blankets
@@ -79,6 +83,3 @@ So I can cover you in kisses
 And wrap you in my love
 I wanna cover you in kisses
 And wrap you in my love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rats
 artists:
 - Sass Jordan
+external_ids:
+  spotify: spotify:track:0Xm3kkDIvzhm4ZDsvCa6bl
 features: []
-genres: []
+first_released_as_single: false
 key: sun-s-gonna-rise-sass-jordan
 lyrics_url: https://genius.com/Sass-jordan-suns-gonna-rise-lyrics
 name: Sun's Gonna Rise
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
+release_year: 1994
+runtime: 173313
 ---
 You know I've seen that face before
 I'm not sure if I want it to be

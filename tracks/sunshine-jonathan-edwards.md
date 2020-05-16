@@ -1,8 +1,11 @@
 ---
+album: Jonathan Edwards
 artists:
 - Jonathan Edwards
+external_ids:
+  spotify: spotify:track:3Xd39NB1rifow2RDNVgSFp
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-jonathan-edwards
 lyrics_url: https://www.azlyrics.com/lyrics/jonathanedwards/youaremysunshinesunshinegoawaytoday.html
 name: Sunshine
@@ -71,8 +74,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 138733
 ---
-
 You are my sunshine
 You are my only sunshine
 And you make me happy
@@ -122,6 +126,3 @@ And brand new bells had better be ring, hear them ringing, yeah
 Thank you very much
 Al Anderson, Orphan, Stuart Schulman, Bill Keith, Bill Elliot
 All you people, thank you
-
-
-

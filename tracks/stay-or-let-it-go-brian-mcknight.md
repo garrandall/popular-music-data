@@ -1,8 +1,11 @@
 ---
+album: Back At One
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:6OCkJHVoGoWOMymzjzdOHX
 features: []
-genres: []
+first_released_as_single: false
 key: stay-or-let-it-go-brian-mcknight
 lyrics_url: https://www.azlyrics.com/lyrics/brianmcknight/stayorletitgo.html
 name: Stay Or Let It Go
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 279893
 ---
-
 What's up girl?
 I need to talk to you for a minute
 I can't keep playing myself like this
@@ -92,6 +96,3 @@ I don't see how you'll do it when I walk out the door
 
 
 Should I stay, or should I go?
-
-
-

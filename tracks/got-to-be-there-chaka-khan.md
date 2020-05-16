@@ -1,8 +1,11 @@
 ---
+album: Chaka Khan
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:2FtmoFvYo1zBsoxqchpzJC
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-be-there-chaka-khan
 lyrics_url: https://genius.com/Chaka-khan-got-to-be-there-lyrics
 name: Got To Be There
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 230626
 ---
 Got to be there
 Be there in the mornin'

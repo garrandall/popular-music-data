@@ -1,8 +1,11 @@
 ---
+album: Wheels Of Fire
 artists:
 - Cream
+external_ids:
+  spotify: spotify:track:3Xls4cNOwy01dtrNXb1inG
 features: []
-genres: []
+first_released_as_single: false
 key: white-room-cream
 lyrics_url: https://genius.com/Cream-white-room-lyrics
 name: White Room
@@ -51,6 +54,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 298333
 ---
 In a white room with black curtains near the station
 Black roof country, no gold pavements, tired starlings

@@ -1,8 +1,11 @@
 ---
+album: 2nd II None
 artists:
 - 2nd II None
+external_ids:
+  spotify: spotify:track:7eH6rFngQor2A08suABvGI
 features: []
-genres: []
+first_released_as_single: false
 key: be-true-to-yourself-2nd-ii-none
 lyrics_url: https://genius.com/2nd-ii-none-be-true-to-yourself-lyrics
 name: Be True To Yourself
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 164960
 ---
 Let's take a trip, on the other side of the land
 With things ain't planned for the average man

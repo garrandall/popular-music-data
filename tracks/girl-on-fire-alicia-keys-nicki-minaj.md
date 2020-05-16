@@ -1,9 +1,12 @@
 ---
+album: Girl On Fire
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:3mP4hWYzeZTC4VLrUgSy7R
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: girl-on-fire-alicia-keys-nicki-minaj
 lyrics_url: https://genius.com/Alicia-keys-girl-on-fire-inferno-version-lyrics
 name: Girl On Fire
@@ -128,6 +131,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2012
+runtime: 270360
 ---
 Spirit of Marilyn callin' me, audibly
 Bawling, she said that she would never leave, continued to torture me

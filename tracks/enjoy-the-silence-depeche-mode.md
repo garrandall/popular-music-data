@@ -1,8 +1,11 @@
 ---
+album: Violator
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:1YwNlWLf8auhazSQUDQLFU
 features: []
-genres: []
+first_released_as_single: true
 key: enjoy-the-silence-depeche-mode
 lyrics_url: https://www.musixmatch.com/lyrics/Depeche-Mode/Enjoy-the-Silence
 name: Enjoy The Silence
@@ -103,6 +106,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
+release_year: 1990
+runtime: 257333
 ---
 Words like violence
 Break the silence

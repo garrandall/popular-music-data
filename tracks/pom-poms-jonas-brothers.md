@@ -1,8 +1,11 @@
 ---
+album: Pom Poms
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:4ZtnkM504iN0eeCLfGew2W
 features: []
-genres: []
+first_released_as_single: true
 key: pom-poms-jonas-brothers
 lyrics_url: https://genius.com/Jonas-brothers-pom-poms-lyrics
 name: Pom Poms
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2013
+runtime: 198053
 ---
 More to love when your hands are free
 Baby put your pom poms down for me

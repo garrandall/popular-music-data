@@ -1,11 +1,14 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:1W6wxOOYyJyyok8fqYSZ3m
 features:
 - JAY Z
 - Future
 - B
-genres: []
+first_released_as_single: true
 key: top-off-dj-khaled-jay-z-future-b
 lyrics_url: https://genius.com/Dj-khaled-top-off-lyrics
 name: Top Off
@@ -38,6 +41,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 230712
 ---
 And all that shit real too, ah
 I ain't gon' stop

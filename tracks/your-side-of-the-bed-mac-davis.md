@@ -1,8 +1,11 @@
 ---
+album: The Best Of Mac Davis
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:6Zl3dAhehPa3wcqSRoEV6W
 features: []
-genres: []
+first_released_as_single: false
 key: your-side-of-the-bed-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/yoursideofthebed.html
 name: Your Side Of The Bed
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 176840
 ---
-
 Lord, I miss you
 I just can't get it
 Through my weary head
@@ -84,6 +88,3 @@ Lord, I woke up on your side
 Of the bed again this morning
 With my old alarm clock
 Ringing half past eight...
-
-
-

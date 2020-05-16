@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of Olivia Newton-John'
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:7hC5ldHtZLbjNERkRFFcqp
 features: []
-genres: []
+first_released_as_single: false
 key: heart-attack-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/heartattack.html
 name: Heart Attack
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 186400
 ---
-
 (S. Kipner/P. Bliss)
 My mouth is dry, my legs are weak
 I'm thinking this cause I can't speak
@@ -126,6 +130,3 @@ Heart attack
 You're giving me a heart attack
 You're giving me a heart attack
 You're giving me a heart attack
-
-
-

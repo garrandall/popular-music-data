@@ -1,9 +1,12 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:5fyIGoaaKelzdyW8ELhYJZ
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: feeling-myself-nicki-minaj-beyonce
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/feelingmyself.html
 name: Feeling Myself
@@ -88,9 +91,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2014
+runtime: 237840
 ---
-
-
 Yo B, they ready
 Let's go
 
@@ -192,6 +195,3 @@ Just on this song alone, bitch is on her fourth flow
 Rrrrrrrrrr!
 You like it don't you? Snitches!
 Young money
-
-
-

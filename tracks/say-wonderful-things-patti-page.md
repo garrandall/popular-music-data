@@ -1,8 +1,11 @@
 ---
+album: Say Wonderful Things
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:0WTWaSVHWQ498deUiEN2Ln
 features: []
-genres: []
+first_released_as_single: false
 key: say-wonderful-things-patti-page
 lyrics_url: https://genius.com/Patti-page-say-wonderful-things-lyrics
 name: Say Wonderful Things
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 139773
 ---
 Say wonderful things to me
 I think you're wonderful too

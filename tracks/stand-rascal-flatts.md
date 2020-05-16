@@ -1,8 +1,11 @@
 ---
+album: Me And My Gang
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:0xhiQVCz22skOX51jsrfyE
 features: []
-genres: []
+first_released_as_single: false
 key: stand-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-stand-lyrics
 name: Stand
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2006
+runtime: 208133
 ---
 You feel like a candle in a hurricane
 Just like a picture with a broken frame

@@ -1,9 +1,12 @@
 ---
+album: Black Star Elephant
 artists:
 - Nico
 - Vinz
+external_ids:
+  spotify: spotify:track:1fidCEsYlaVE3pHwKCvpFZ
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-wrong-nico-vinz
 lyrics_url: https://genius.com/Nico-and-vinz-am-i-wrong-lyrics
 name: Am I Wrong
@@ -132,6 +135,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 245866
 ---
 Oh oh
 Oh oh

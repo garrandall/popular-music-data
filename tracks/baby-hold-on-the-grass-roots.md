@@ -1,8 +1,11 @@
 ---
+album: Symphonic Hits
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:51ABZgksUv3qpjWqg1rYjP
 features: []
-genres: []
+first_released_as_single: false
 key: baby-hold-on-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/babyholdon.html
 name: Baby Hold On
@@ -47,8 +50,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
+release_year: 1970
+runtime: 158506
 ---
-
 You're such a natural woman
 But you're so far away baby
 Your love is driving me crazy, coming home
@@ -76,6 +80,3 @@ Cause I'm coming home
 You gotta hold on baby, I'm coming home
 So baby hold on, don't throw your love away
 Cause I'm coming home so baby hold on, baby hold on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nat King Cole
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:7D0ikxrlXjydzEIxzIcl5S
 features: []
-genres: []
+first_released_as_single: false
 key: that-sunday-that-summer-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-that-sunday-that-summer-lyrics
 name: That Sunday That Summer
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 192200
 ---
 -Artist: Nat King Cole
 -peak Billboard position # 12 in 1963

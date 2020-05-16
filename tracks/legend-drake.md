@@ -1,8 +1,11 @@
 ---
+album: Tersanjung
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:16nYl5snm9DKAsFj75i3ps
 features: []
-genres: []
+first_released_as_single: false
 key: legend-drake
 lyrics_url: https://genius.com/Drake-legend-lyrics
 name: Legend
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-05-16'
+release_year: 2009
+runtime: 297000
 ---
 Yeah
 

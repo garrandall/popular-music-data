@@ -1,8 +1,11 @@
 ---
+album: Hits For The Road
 artists:
 - Del Reeves
+external_ids:
+  spotify: spotify:track:44FH4zxdR4rBSJnx23xx1r
 features: []
-genres: []
+first_released_as_single: false
 key: girl-on-the-billboard-del-reeves
 lyrics_url: https://genius.com/Del-reeves-girl-on-the-billboard-lyrics
 name: Girl On The Billboard
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 172133
 ---
 Doo da doo doo doo doo da doo doo doo
 

@@ -1,8 +1,11 @@
 ---
+album: Konvicted
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:11FLXIjJOGzx7H0n1bu5wz
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-blame-it-on-me-akon
 lyrics_url: https://www.azlyrics.com/lyrics/akon/sorryblameitonme.html
 name: Sorry Blame It On Me
@@ -83,8 +86,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2006
+runtime: 295720
 ---
-
 As life goes on I'm starting to learn more and more about responsibility
 And I realize that everything I do is affecting the people around me
 So I want to take this time out to apologize for things that I've done
@@ -203,6 +207,3 @@ And you can put that blame on me
 
 And you can put that blame on me
 And you can put that blame on me
-
-
-

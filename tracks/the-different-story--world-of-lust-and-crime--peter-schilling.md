@@ -1,8 +1,11 @@
 ---
+album: The Different Story (World Of Lust And Crime)
 artists:
 - Peter Schilling
+external_ids:
+  spotify: spotify:track:1jP0CImX4WDx8jGfzrMTkV
 features: []
-genres: []
+first_released_as_single: false
 key: the-different-story--world-of-lust-and-crime--peter-schilling
 lyrics_url: https://genius.com/Peter-schilling-the-different-story-a-world-of-lust-and-crime-german-translate-lyrics
 name: The Different Story (World Of Lust And Crime)
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1989
+runtime: 232773
 ---
 Ich bin so einsam auf meinem Weg
 Warte auf einen besseren Tag

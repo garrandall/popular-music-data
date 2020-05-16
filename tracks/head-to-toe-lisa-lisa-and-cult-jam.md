@@ -1,8 +1,11 @@
 ---
+album: Spanish Fly
 artists:
 - Lisa Lisa And Cult Jam
+external_ids:
+  spotify: spotify:track:1hx5XSk2uGFGBuUIROLGHN
 features: []
-genres: []
+first_released_as_single: false
 key: head-to-toe-lisa-lisa-and-cult-jam
 lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-head-to-toe-lyrics
 name: Head To Toe
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1985
+runtime: 302000
 ---
 Head to toe
 I know

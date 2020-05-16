@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of: Gary Toms Empire'
 artists:
 - Gary Toms Empire
+external_ids:
+  spotify: spotify:track:157ESNUvJI8NeHjV9hcDEd
 features: []
-genres: []
+first_released_as_single: false
 key: 7-6-5-4-3-2-1--blow-your-whistle--gary-toms-empire
 name: 7-6-5-4-3-2-1 (Blow Your Whistle)
 rankings:
@@ -74,5 +77,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 306973
 ---
 

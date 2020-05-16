@@ -1,8 +1,11 @@
 ---
+album: The Paradons & The Trend Tones
 artists:
 - The Paradons
+external_ids:
+  spotify: spotify:track:0hGhHPEbcJ9HDidLgpT890
 features: []
-genres: []
+first_released_as_single: true
 key: diamonds-and-pearls-the-paradons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Paradons/Diamonds-and-Pearls
 name: Diamonds And Pearls
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 143933
 ---
 There are diamonds pearls emeralds and rings
 None of these jewels show me a thing

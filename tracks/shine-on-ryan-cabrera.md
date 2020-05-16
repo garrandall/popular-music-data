@@ -1,8 +1,11 @@
 ---
+album: You Stand Watching (U.S. Version)
 artists:
 - Ryan Cabrera
+external_ids:
+  spotify: spotify:track:6wTfglWRUmlv843ecGJwFq
 features: []
-genres: []
+first_released_as_single: true
 key: shine-on-ryan-cabrera
 lyrics_url: https://www.azlyrics.com/lyrics/ryancabrera/shineon.html
 name: Shine On
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
+release_year: 2005
+runtime: 183093
 ---
-
 I've given every moment I had
 Still I can never seem to keep up with you
 You're done with one mile, and on to another one thousand
@@ -82,6 +86,3 @@ You're gonna be just fine
 You're gonna be alright love
 You're gonna be just fine
 You're gonna be alright love
-
-
-

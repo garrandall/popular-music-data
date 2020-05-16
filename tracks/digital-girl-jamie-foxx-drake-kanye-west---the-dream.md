@@ -1,10 +1,13 @@
 ---
+album: Digital Girl Remix
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:2tYzBN5rGuA6qVwxDKk1Ip
 features:
 - Drake
 - Kanye West + The-Dream
-genres: []
+first_released_as_single: true
 key: digital-girl-jamie-foxx-drake-kanye-west---the-dream
 lyrics_url: https://genius.com/Jamie-foxx-digital-girl-remix-lyrics
 name: Digital Girl
@@ -13,6 +16,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2009
+runtime: 278786
 ---
 I wanna see what's under therrrrrrrre...baby
 
@@ -74,7 +79,7 @@ My digital girl, girl, girl, girl, girl, girl
 
 
 Baby, not a day goes byyyy... (Whoaaaaa...) (Eh, shawty)
-Without you on my miiiind... (Whoaaaaa...) (Eh, shawty)
+Without you on my mind... (Whoaaaaa...) (Eh, shawty)
 Donna Karan underweaaaaar... (Whoooa-HOA..) (Eh shwaty)
 (Babe, I swear you have nothing to worry about)
 Baby, I wanna see what's under therrrre...

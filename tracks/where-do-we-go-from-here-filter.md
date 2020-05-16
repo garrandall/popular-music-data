@@ -1,8 +1,11 @@
 ---
+album: The Amalgamut (PA Version)
 artists:
 - Filter
+external_ids:
+  spotify: spotify:track:4T1Dz6BRAxk1BnSXxsbxGA
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-we-go-from-here-filter
 lyrics_url: https://genius.com/Filter-where-do-we-go-from-here-lyrics
 name: Where Do We Go From Here
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-08-24'
+release_year: 2002
+runtime: 334933
 ---
 These half-truths you're telling me
 Won't bring me to my knees

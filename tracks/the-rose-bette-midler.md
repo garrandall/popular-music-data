@@ -1,8 +1,11 @@
 ---
+album: The Rose
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:562JrM9b7jiu8LgzV62x3o
 features: []
-genres: []
+first_released_as_single: false
 key: the-rose-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/therose.html
 name: The Rose
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1979
+runtime: 221373
 ---
-
 Some say, "Love. It is a river
 That drowns the tender reed"
 Some say, "Love. It is a razor
@@ -135,6 +139,3 @@ Just remember in the winter
 Far beneath the bitter snow
 Lies the seed that with the sun's love
 In the spring becomes the rose
-
-
-

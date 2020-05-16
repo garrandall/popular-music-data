@@ -1,8 +1,11 @@
 ---
+album: I'm a Writer, Not a Fighter
 artists:
 - Gilbert O'Sullivan
+external_ids:
+  spotify: spotify:track:4GjIIjBM20NhaBrvQKkQ5I
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-gilbert-o-sullivan
 lyrics_url: https://genius.com/Gilbert-osullivan-get-down-lyrics
 name: Get Down
@@ -67,6 +70,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 159866
 ---
 Told you once before
 And I won't tell you no more

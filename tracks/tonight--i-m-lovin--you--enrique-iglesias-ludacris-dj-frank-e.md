@@ -1,10 +1,13 @@
 ---
+album: Greatest Hits
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:3rDFqo8yv93PtTmdOYOPzX
 features:
 - Ludacris
 - DJ Frank E
-genres: []
+first_released_as_single: true
 key: tonight--i-m-lovin--you--enrique-iglesias-ludacris-dj-frank-e
 lyrics_url: https://genius.com/Enrique-iglesias-tonight-im-fuckin-you-lyrics
 name: Tonight (I'm Lovin' You)
@@ -109,6 +112,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2010
+runtime: 231653
 ---
 You-oh-oh-oh-oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh

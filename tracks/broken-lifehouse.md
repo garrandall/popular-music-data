@@ -1,8 +1,11 @@
 ---
+album: Who We Are
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:5f6cTFoUenDiCJDGecYiuB
 features: []
-genres: []
+first_released_as_single: false
 key: broken-lifehouse
 lyrics_url: https://genius.com/Lifehouse-broken-lyrics
 name: Broken
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2007
+runtime: 286480
 ---
 The broken clock is a comfort, it helps me sleep tonight
 Maybe it can stop tomorrow from stealing all my time

@@ -1,8 +1,11 @@
 ---
+album: Wow !
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:2qjWA8QruRCkoFZUQJR4SQ
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-the-first-degree-bananarama
 lyrics_url: https://genius.com/Bananarama-love-in-the-first-degree-lyrics
 name: Love In The First Degree
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1987
+runtime: 211409
 ---
 Last night I was dreaming
 I was locked in a prison cell

@@ -1,9 +1,12 @@
 ---
+album: James & Bobby Purify
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:21yKY6JxjiR83hwhwe2VgR
 features: []
-genres: []
+first_released_as_single: false
 key: wish-you-didn-t-have-to-go-james-bobby-purify
 lyrics_url: https://www.musixmatch.com/lyrics/James-Bobby-Purify/Wish-You-Didn-t-Have-To-Go
 name: Wish You Didn't Have To Go
@@ -32,6 +35,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1967
+runtime: 136373
 ---
 Hey, hey, hey
 Hey, hey, hey

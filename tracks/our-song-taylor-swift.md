@@ -1,8 +1,11 @@
 ---
+album: Taylor Swift
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:15DeqWWQB4dcEWzJg15VrN
 features: []
-genres: []
+first_released_as_single: false
 key: our-song-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-our-song-lyrics
 name: Our Song
@@ -151,6 +154,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2006
+runtime: 201106
 ---
 I was riding shotgun with my hair undone
 In the front seat of his car

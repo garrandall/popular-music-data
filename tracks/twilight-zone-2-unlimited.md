@@ -1,8 +1,11 @@
 ---
+album: Get Ready
 artists:
 - 2 Unlimited
+external_ids:
+  spotify: spotify:track:5ETofZQAgToMKCaCXE6FGF
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-zone-2-unlimited
 lyrics_url: https://www.azlyrics.com/lyrics/2unlimited/twilightzone.html
 name: Twilight Zone
@@ -87,9 +90,10 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 246675
 ---
-
- First to the bass in to the jam
+First to the bass in to the jam
 Then let the music take command
 Back to back to another dimension
 Stop the force and pay some attention
@@ -130,4 +134,3 @@ Me and the lady howl megatone
 Fuck you up in the "Twilight Zone"
 
  Woow
-

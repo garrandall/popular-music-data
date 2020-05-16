@@ -1,8 +1,11 @@
 ---
+album: 'Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll'
 artists:
 - Skip And Flip
+external_ids:
+  spotify: spotify:track:3ManMR2GV4W6xD9KQnDZHe
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-pie-skip-and-flip
 lyrics_url: https://genius.com/Skip-and-flip-cherry-pie-lyrics
 name: Cherry Pie
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 140382
 ---
 Nah, nah, nah
 Nah, nah, nah, whoa-oh, whoa-oh

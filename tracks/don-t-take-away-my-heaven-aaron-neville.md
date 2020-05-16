@@ -1,8 +1,11 @@
 ---
+album: The Grand Tour
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:5h9qfyTvCxYlmm0ZSry6SN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-away-my-heaven-aaron-neville
 lyrics_url: https://genius.com/Aaron-neville-dont-take-away-my-heaven-lyrics
 name: Don't Take Away My Heaven
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 278466
 ---
 Oh, baby, I found heaven when I found you
 And this heaven is somethin' I don't wanna lose

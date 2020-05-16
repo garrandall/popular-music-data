@@ -1,7 +1,8 @@
 ---
 artists:
-- Iggy Pop With Kate Pierson
-features: []
+- Iggy Pop
+features:
+- Kate Pierson
 genres: []
 key: candy-iggy-pop-with-kate-pierson
 name: Candy

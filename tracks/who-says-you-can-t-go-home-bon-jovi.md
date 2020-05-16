@@ -1,8 +1,11 @@
 ---
+album: Have A Nice Day
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:5439qJTu5mVH9aeriwp03u
 features: []
-genres: []
+first_released_as_single: false
 key: who-says-you-can-t-go-home-bon-jovi
 lyrics_url: https://www.musixmatch.com/lyrics/Bon-Jovi/Who-Says-You-Can-t-Go-Home
 name: Who Says You Can't Go Home
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2005
+runtime: 230280
 ---
 I spent 20 years trying to get out of this place
 I was looking for something I couldn't replace

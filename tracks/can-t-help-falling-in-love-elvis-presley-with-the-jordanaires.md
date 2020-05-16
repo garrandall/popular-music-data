@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:0JP6f45MpZO3srKpEAZyUl
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-falling-in-love-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Can-t-Help-Falling-In-Love-2003-Sony-Remaster
 name: Can't Help Falling In Love
@@ -64,6 +67,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1961
+runtime: 109293
 ---
 Wise men say
 Only fools rush in

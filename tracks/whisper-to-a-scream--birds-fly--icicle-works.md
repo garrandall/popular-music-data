@@ -1,8 +1,11 @@
 ---
+album: Dance Vault Mixes - Whisper To A Scream (Birds Fly)
 artists:
 - Icicle Works
+external_ids:
+  spotify: spotify:track:1uiktZkzFSVDhp7i73faz2
 features: []
-genres: []
+first_released_as_single: true
 key: whisper-to-a-scream--birds-fly--icicle-works
 lyrics_url: https://genius.com/The-icicle-works-birds-fly-whisper-to-a-scream-lyrics
 name: Whisper To A Scream (Birds Fly)
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
+release_year: 1984
+runtime: 228613
 ---
 Some things take forever
 But with building bricks of trust and love

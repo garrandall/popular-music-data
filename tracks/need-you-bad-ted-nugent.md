@@ -1,8 +1,11 @@
 ---
+album: Weekend Warriors
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:4363q2V1UHzgbUDItJ7KZH
 features: []
-genres: []
+first_released_as_single: false
 key: need-you-bad-ted-nugent
 lyrics_url: https://www.azlyrics.com/lyrics/tednugent/needyoubad.html
 name: Need You Bad
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1978
+runtime: 256800
 ---
-
 Musta been the way that you touched me
 Coulda been the way that you looked
 Musta been the way that you loved me
@@ -30,6 +34,3 @@ Musta been a true desperation
 Couldn't put a feeling aside
 Maybe I was just getting horny
 It's a feelin that I just can't hide
-
-
-

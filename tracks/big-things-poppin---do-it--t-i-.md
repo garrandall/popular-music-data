@@ -1,8 +1,11 @@
 ---
+album: T.I. vs. T.I.P. (Instrumental)
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:0eMdAjfAfGS1AoeXgiyGXP
 features: []
-genres: []
+first_released_as_single: false
 key: big-things-poppin---do-it--t-i-
 lyrics_url: https://www.musixmatch.com/lyrics/T-I/Big-Things-Poppin-Do-It
 name: Big Things Poppin' (Do It)
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
+release_year: 2007
+runtime: 289986
 ---
 Hey, hey what you waitin' for?
 Do it, you better do it, you better do it

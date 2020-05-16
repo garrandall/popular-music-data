@@ -1,8 +1,11 @@
 ---
+album: For Your Precious Love...
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:2o9vG7A4qomnaSzmK5KSOB
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-the-impressions
 lyrics_url: https://genius.com/The-impressions-as-long-as-you-love-me-lyrics
 name: Love Me
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1963
+runtime: 171306
 ---
 Ah ah ah hah hah hah
 Just to see you

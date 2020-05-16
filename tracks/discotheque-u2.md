@@ -1,8 +1,11 @@
 ---
+album: Pop
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:3IrhUrZKAkJ8LsFtH71fOT
 features: []
-genres: []
+first_released_as_single: false
 key: discotheque-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/discotheque.html
 name: Discotheque
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1997
+runtime: 318666
 ---
-
 you can reach but you can't grab it 
 you can't hold it control it you can't bag it 
 you can push but you can't direct it 
@@ -142,6 +146,3 @@ and it looks like the sun
 but it feels like the rain 
 and there's heat in the sun 
 to see us through the rain
-
-
-

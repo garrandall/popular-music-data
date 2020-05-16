@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:3KJqlKmYp1YdhzYjq46KFB
 features: []
-genres: []
+first_released_as_single: false
 key: yah-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-yah-lyrics
 name: Yah
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2017
+runtime: 160293
 ---
 New shit, new Kung Fu Kenny
 

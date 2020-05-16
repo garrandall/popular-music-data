@@ -1,8 +1,11 @@
 ---
+album: Learn To Live
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:1J4HTEFSDx9DWyJVH5uv1b
 features: []
-genres: []
+first_released_as_single: false
 key: history-in-the-making-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/historyinthemaking.html
 name: History In The Making
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
+release_year: 2008
+runtime: 209480
 ---
-
 Don't move, baby don't move
 Ah, look at you, I just wanna take this in
 The moonlight dancing off your skin
@@ -126,6 +130,3 @@ Baby this could be our last first kiss, the door to forever
 What if this was that moment, that chance we're takin'?
 History in the makin'
 History in the makin', this is a chance worth takin'
-
-
-

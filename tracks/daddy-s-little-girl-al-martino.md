@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:2b8sqtEfTU0EKTZJxm1Isd
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-s-little-girl-al-martino
 lyrics_url: https://genius.com/Al-martino-daddys-little-girl-lyrics
 name: Daddy's Little Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 152666
 ---
 And you're Daddy's Little Girl
 You're the end of the rainbow

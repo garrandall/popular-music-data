@@ -1,8 +1,11 @@
 ---
+album: Wheels
 artists:
 - The String-A-Longs
+external_ids:
+  spotify: spotify:track:3Sp7BnFTClcfz3N9g36y5b
 features: []
-genres: []
+first_released_as_single: false
 key: brass-buttons-the-string-a-longs
 name: Brass Buttons
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 124760
 ---
 

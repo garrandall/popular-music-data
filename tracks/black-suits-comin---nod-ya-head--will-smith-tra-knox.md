@@ -1,9 +1,12 @@
 ---
+album: Men In Black II - Music From The Motion Picture
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:78anXxsiDyodBnpL7AbJE2
 features:
 - Tra-Knox
-genres: []
+first_released_as_single: false
 key: black-suits-comin---nod-ya-head--will-smith-tra-knox
 lyrics_url: https://www.musixmatch.com/lyrics/Will-Smith-feat-Tra-Knox/Black-Suits-Comin-Nod-Ya-Head-radio-edit
 name: Black Suits Comin' (Nod Ya Head)
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
+release_year: 2002
+runtime: 260040
 ---
 Come, come on
 Come on, come, come on

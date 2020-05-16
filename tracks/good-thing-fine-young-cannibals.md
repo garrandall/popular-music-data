@@ -1,8 +1,11 @@
 ---
+album: The Raw & The Cooked
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:6lRkdG1HurVS72F9GoBeWJ
 features: []
-genres: []
+first_released_as_single: false
 key: good-thing-fine-young-cannibals
 lyrics_url: https://genius.com/Fine-young-cannibals-good-thing-lyrics
 name: Good Thing
@@ -75,6 +78,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1988
+runtime: 201866
 ---
 The one good thing in my life
 Has gone away, I don't know why

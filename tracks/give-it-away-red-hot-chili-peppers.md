@@ -1,8 +1,11 @@
 ---
+album: Blood Sugar Sex Magik
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:0uppYCG86ajpV2hSR3dJJ0
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-away-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-give-it-away-lyrics
 name: Give It Away
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1991
+runtime: 282906
 ---
 Oh, oh
 

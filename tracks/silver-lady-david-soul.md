@@ -1,8 +1,11 @@
 ---
+album: Playing to an Audience of One
 artists:
 - David Soul
+external_ids:
+  spotify: spotify:track:0aOkjSqYLGDljwtUNvAnoS
 features: []
-genres: []
+first_released_as_single: false
 key: silver-lady-david-soul
 lyrics_url: https://genius.com/David-soul-silver-lady-lyrics
 name: Silver Lady
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1977
+runtime: 224426
 ---
 Tired of drifting, searching, shifting through town to town
 Every time I slip and slide a little further down

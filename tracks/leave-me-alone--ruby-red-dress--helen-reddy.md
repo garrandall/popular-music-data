@@ -1,8 +1,11 @@
 ---
+album: Long Hard Climb
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:1Am9G7F2qJq4EtD65ALTEf
 features: []
-genres: []
+first_released_as_single: false
 key: leave-me-alone--ruby-red-dress--helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/leavemealonerubyreddress.html
 name: Leave Me Alone (ruby Red Dress)
@@ -71,8 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 207826
 ---
-
 Big old Ruby Red Dress
 Wanders 'round the town
 Talking to herself now
@@ -160,6 +164,3 @@ Leave me
 Leave me alone
 Won't you leave me alone
 Please leave me alone
-
-
-

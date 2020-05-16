@@ -1,9 +1,12 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:6JOlNkT0QdHeZB0wPbI9IR
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: turn-me-on-david-guetta-nicki-minaj
 lyrics_url: https://genius.com/David-guetta-turn-me-on-lyrics
 name: Turn Me On
@@ -116,6 +119,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
+release_year: 2011
+runtime: 199680
 ---
 Doctor, doctor, need you back home, baby
 Doctor, doctor, where ya at? Give me something

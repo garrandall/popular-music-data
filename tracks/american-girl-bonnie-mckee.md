@@ -1,8 +1,11 @@
 ---
+album: American Girl
 artists:
 - Bonnie McKee
+external_ids:
+  spotify: spotify:track:0vvG0VEN6l2fbIEUtq3mQD
 features: []
-genres: []
+first_released_as_single: true
 key: american-girl-bonnie-mckee
 lyrics_url: https://genius.com/Bonnie-mckee-american-girl-lyrics
 name: American Girl
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 224106
 ---
 I fell in love in a 7/11 parkin' lot
 Sat on the curb drinking Slurpees we mixed with alcohol

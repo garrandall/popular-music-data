@@ -1,9 +1,12 @@
 ---
+album: Meet The Orphans
 artists:
 - Don Omar
 - Lucenzo
+external_ids:
+  spotify: spotify:track:2a1o6ZejUi8U3wzzOtCOYw
 features: []
-genres: []
+first_released_as_single: false
 key: danza-kuduro-don-omar-lucenzo
 lyrics_url: https://www.azlyrics.com/lyrics/donomar/danzakuduro.html
 name: Danza Kuduro
@@ -28,8 +31,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2010
+runtime: 198773
 ---
-
 A&X
 El Orfanato
 Danza Kuduro (Plop, Plop, Plop...)
@@ -64,13 +68,13 @@ No Te Quites Ahora
 Que Esto SÃ³lo Empieza
 Mueve La Cabeza
 Sacude Duro
-BalanÃ§ar que Ã© uma loucura
+BalanÃ§ar que é uma loucura
 Morena vem o meu lado
-NinguÃ©m vai ficar parado
+Ninguém vai ficar parado
 Quero ver mexe cÃº duro
-BalanÃ§ar que Ã© uma loucura
+BalanÃ§ar que é uma loucura
 Morena vem o meu lado
-NinguÃ©m vai ficar parado
+Ninguém vai ficar parado
 Oi, oi, oi, oi, oi, oi, oi...
 Vem para quebrar kuduro, vamos danÃ§ar kuduro
 Oi, oi, oi, oi, oi, oi, oi...
@@ -94,13 +98,13 @@ No Te Canses Ahora
 Que Esto SÃ³lo Empieza
 Mueve La Cabeza
 Danza Kuduro
-BalanÃ§ar que Ã© uma loucura
+BalanÃ§ar que é uma loucura
 Morena vem o meu lado
-NinguÃ©m vai ficar parado
+Ninguém vai ficar parado
 Quero ver mexe cÃº duro
-BalanÃ§ar que Ã© uma loucura
+BalanÃ§ar que é uma loucura
 Morena vem o meu lado
-NinguÃ©m vai ficar parado
+Ninguém vai ficar parado
 Oi, oi, oi, oi, oi, oi, oi...
 Vem para quebrar kuduro, vamos danÃ§ar kuduro
 Oi, oi, oi, oi, oi, oi, oi...
@@ -125,6 +129,3 @@ Que Esto SÃ³lo Empieza
 Mueve La Cabeza
 Danza Kuduro
 A&X...
-
-
-

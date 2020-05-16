@@ -1,8 +1,11 @@
 ---
+album: Wish It Would Rain
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:1tjpccwiGZTMDfHr5VGCmT
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-it-would-rain-the-temptations
 lyrics_url: https://genius.com/The-temptations-i-wish-it-would-rain-lyrics
 name: I Wish It Would Rain
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 162706
 ---
 Sunshine, blue skies, please go away
 My girl has found another and gone away

@@ -1,8 +1,11 @@
 ---
+album: Femme Fatale (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:6T689Jvh5KrSXyaPtUWZtQ
 features: []
-genres: []
+first_released_as_single: false
 key: criminal-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/criminal.html
 name: Criminal
@@ -31,9 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 225080
 ---
-
-
 He is a hustler, he's no good at all
 He is a loser, he's a bum, bum, bum, bum
 He lies, he bluffs, he's unreliable
@@ -94,6 +97,3 @@ Mama please don't cry, I will be alright
 All reason aside
 (But no)
 I just can't deny, love the guy
-
-
-

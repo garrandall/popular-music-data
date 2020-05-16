@@ -1,8 +1,11 @@
 ---
+album: Stand By Your Man
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:3zIiZrCROmhS9ERPdEHXYa
 features: []
-genres: []
+first_released_as_single: false
 key: he-called-me-baby-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/hecalledmebaby.html
 name: He Called Me Baby
@@ -47,8 +50,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 213026
 ---
-
 He called me baby, baby
 All night long
 Used to hold and kiss me
@@ -105,6 +109,3 @@ Squeeze me, baby
 All night long
 
 I just wanna hear you say baby
-
-
-

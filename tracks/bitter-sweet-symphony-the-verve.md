@@ -1,8 +1,11 @@
 ---
+album: Urban Hymns (Remastered 2016)
 artists:
 - The Verve
+external_ids:
+  spotify: spotify:track:57iDDD9N9tTWe75x6qhStw
 features: []
-genres: []
+first_released_as_single: false
 key: bitter-sweet-symphony-the-verve
 lyrics_url: https://genius.com/The-verve-bitter-sweet-symphony-lyrics
 name: Bitter Sweet Symphony
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
+release_year: 1997
+runtime: 357266
 ---
 'Cause it's a bitter sweet symphony that's life
 Trying to make ends meet, you're a slave to money then you die

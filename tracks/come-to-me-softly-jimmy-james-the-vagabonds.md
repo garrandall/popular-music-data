@@ -1,9 +1,12 @@
 ---
+album: Sock It to 'Em J.J. - The Soul Years
 artists:
 - Jimmy James
 - The Vagabonds
+external_ids:
+  spotify: spotify:track:5DqDDxSBUjo3WCl48jY2FC
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-me-softly-jimmy-james-the-vagabonds
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-James-Jimmy-James-The-Vagabonds-The-Vagabonds/Come-to-Me-Softly
 name: Come To Me Softly
@@ -20,6 +23,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 200120
 ---
 Jimmy James & The Vagabonds
 

@@ -1,8 +1,11 @@
 ---
+album: Obsessed
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:4n0xztUAbHPUV8G3NQvF30
 features: []
-genres: []
+first_released_as_single: false
 key: how-not-to-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/hownotto.html
 name: How Not To
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2016
+runtime: 192000
 ---
-
 I can honestly understand why it's over
 I can go through the motions of walking away
 I can give you the key and take my things back
@@ -100,7 +104,4 @@ But I probably turn down your road, knock knock on your door
 Fall back in your arms, wake up in the morning
 Hating myself for the way that I can't help the way I still want you
 
-I just don't know how not to, how not to, how not to 
-
-
-
+I just don't know how not to, how not to, how not to

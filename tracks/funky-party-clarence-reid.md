@@ -1,8 +1,11 @@
 ---
+album: 'The Legendary Henry Stone Presents Weird World: Funky Party'
 artists:
 - Clarence Reid
+external_ids:
+  spotify: spotify:track:1PlhGfkT2GB7rx2zHmXPHb
 features: []
-genres: []
+first_released_as_single: false
 key: funky-party-clarence-reid
 lyrics_url: https://genius.com/Clarence-reid-funky-party-lyrics
 name: Funky Party
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1974
+runtime: 209815
 ---
 Party, funky party
 Party, funky party

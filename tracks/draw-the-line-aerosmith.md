@@ -1,8 +1,11 @@
 ---
+album: Draw The Line
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:6wAt7QG4nA9DpVUTgfAfuh
 features: []
-genres: []
+first_released_as_single: false
 key: draw-the-line-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/drawtheline.html
 name: Draw The Line
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 203893
 ---
-
 Checkmate honey, beat you at your own damn game
 No dice honey, I'm livin' on a astral plane
 Feet's on the ground, and your head's goin' down the drain
@@ -80,6 +84,3 @@ You're the boss of the toss
 The dice, the price
 Grab yourself a slice
 Know where to draw the line
-
-
-

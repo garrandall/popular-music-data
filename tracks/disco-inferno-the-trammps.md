@@ -1,8 +1,11 @@
 ---
+album: Disco Inferno
 artists:
 - The Trammps
+external_ids:
+  spotify: spotify:track:5jUA1njy3h6ynHLvPdEVHt
 features: []
-genres: []
+first_released_as_single: false
 key: disco-inferno-the-trammps
 lyrics_url: https://www.azlyrics.com/lyrics/trammps/discoinferno.html
 name: Disco Inferno
@@ -123,8 +126,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1976
+runtime: 659000
 ---
-
 (Burn baby burn)
 (Burn baby burn)
 (Burn baby burn)
@@ -174,6 +178,3 @@ I heard somebody say
 (Burn baby burn) burn that mother down
 (Burn baby burn) disco Inferno
 (Burn baby burn) burn that mother down
-
-
-

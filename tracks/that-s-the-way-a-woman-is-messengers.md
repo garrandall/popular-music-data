@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 11B: 1971'
 artists:
 - Messengers
+external_ids:
+  spotify: spotify:track:6TtFPqCPoaZQDRijZ3jr1K
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-a-woman-is-messengers
 lyrics_url: https://genius.com/The-messengers-thats-the-way-a-woman-is-lyrics
 name: That's The Way A Woman Is
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 115786
 ---
 Uh, huh, uh, huh, huh
 Huh, huh, huh, huh

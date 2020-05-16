@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:12FqwXODb5jvuOfWEe6BWs
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-boomerang-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-do-the-boomerang-lyrics
 name: Do The Boomerang
@@ -36,6 +39,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 142160
 ---
 Now, you step to the left, baby
 You step to the right, now

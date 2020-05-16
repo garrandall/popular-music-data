@@ -1,8 +1,11 @@
 ---
+album: 'The Archies: Greatest Hits'
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:44f5NSi76Qc45cLT5WJpnQ
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--so-good--skooby-doo--the-archies
 lyrics_url: https://genius.com/The-archies-feelin-so-good-lyrics
 name: Feelin' So Good (Skooby-Doo)
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 187364
 ---
 Bow bow whompa bow bow
 Bow bow whompa bow bow

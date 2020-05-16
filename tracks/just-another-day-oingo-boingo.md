@@ -1,8 +1,11 @@
 ---
+album: Dead Man's Party
 artists:
 - Oingo Boingo
+external_ids:
+  spotify: spotify:track:6w6I3AFRv7tQMmUTgAghUB
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-oingo-boingo
 lyrics_url: https://genius.com/Oingo-boingo-just-another-day-lyrics
 name: Just Another Day
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1985
+runtime: 312466
 ---
 There's life underground
 

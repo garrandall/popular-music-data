@@ -1,9 +1,12 @@
 ---
+album: Be a Winner
 artists:
 - Yarbrough
 - Peoples
+external_ids:
+  spotify: spotify:track:6HCAvDSaFft5KL0ozPFgLs
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-waste-your-time-yarbrough-peoples
 lyrics_url: https://genius.com/Yarbrough-and-peoples-dont-waste-your-time-lyrics
 name: Don't Waste Your Time
@@ -56,6 +59,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 449960
 ---
 Don't waste your time
 She’s my friend

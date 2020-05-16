@@ -1,8 +1,11 @@
 ---
+album: I Tried to Tell 'Em
 artists:
 - Young Greatness
+external_ids:
+  spotify: spotify:track:0j1mFxc2VUkxeOQyKZM2cp
 features: []
-genres: []
+first_released_as_single: false
 key: moolah-young-greatness
 lyrics_url: https://genius.com/Young-greatness-moolah-lyrics
 name: Moolah
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 204669
 ---
 Yeah, yeah, yeah, yeah, yeah, yeah
 

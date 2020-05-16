@@ -1,8 +1,11 @@
 ---
+album: The Best of The Kingsmen
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:4OncTbCLRRozq30FZfx2Tc
 features: []
-genres: []
+first_released_as_single: false
 key: money-the-kingsmen
 lyrics_url: https://genius.com/The-kingsmen-money-lyrics
 name: Money
@@ -51,6 +54,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 139546
 ---
 You know the best things in life are free
 But you can give 'em to the birds and bees

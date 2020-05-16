@@ -1,8 +1,11 @@
 ---
+album: Red Headed Stranger
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:2hvRFAxb8qykeMnX3UbCD0
 features: []
-genres: []
+first_released_as_single: false
 key: blue-eyes-crying-in-the-rain-willie-nelson
 lyrics_url: https://genius.com/Willie-nelson-blue-eyes-crying-in-the-rain-lyrics
 name: Blue Eyes Crying In The Rain
@@ -79,6 +82,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1972
+runtime: 165973
 ---
 In the twilight glow I see them
 Blue eyes crying in the rain

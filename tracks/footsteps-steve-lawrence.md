@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:2z1mnBJRjXUpD2RFXRBm2p
 features: []
-genres: []
+first_released_as_single: false
 key: footsteps-steve-lawrence
 lyrics_url: https://genius.com/Steve-lawrence-footsteps-lyrics
 name: Footsteps
@@ -59,6 +62,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1960
+runtime: 134626
 ---
 Why did you say goodbye to me
 Now I'm as lonely as could be

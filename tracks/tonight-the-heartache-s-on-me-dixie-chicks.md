@@ -1,8 +1,11 @@
 ---
+album: Wide Open Spaces
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:5K4Dl7nz6NSUONT4fl4sJV
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-the-heartache-s-on-me-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-tonight-the-heartaches-on-me-lyrics
 name: Tonight The Heartache's On Me
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
+release_year: 1998
+runtime: 206617
 ---
 You could've heard a pin drop
 When they walked trough the door

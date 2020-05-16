@@ -1,8 +1,11 @@
 ---
+album: This Is Fame 1964-1968
 artists:
 - Jimmy Hughes
+external_ids:
+  spotify: spotify:track:1tG3zCppK6MN013nd36B3E
 features: []
-genres: []
+first_released_as_single: false
 key: steal-away-jimmy-hughes
 lyrics_url: https://genius.com/Jimmy-hughes-steal-away-lyrics
 name: Steal Away
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 147426
 ---
 I've got to see you, somehow
 Not tomorrow, right now

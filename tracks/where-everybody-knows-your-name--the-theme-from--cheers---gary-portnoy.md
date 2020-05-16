@@ -1,8 +1,11 @@
 ---
+album: Keeper
 artists:
 - Gary Portnoy
+external_ids:
+  spotify: spotify:track:7GfyRnOeyhA950v90Wz0F9
 features: []
-genres: []
+first_released_as_single: true
 key: where-everybody-knows-your-name--the-theme-from--cheers---gary-portnoy
 lyrics_url: https://genius.com/Gary-portnoy-where-everybody-knows-your-name-cheers-theme-lyrics
 name: Where Everybody Knows Your Name (The Theme From "Cheers")
@@ -23,6 +26,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1982
+runtime: 145483
 ---
 Making your way in the world today
 Takes everything you've got

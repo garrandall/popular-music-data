@@ -1,9 +1,12 @@
 ---
+album: The Official Live Bootleg 2000
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:6LxXdrEUMYbizBez6g2TLJ
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-was-young-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-when-i-was-young-lyrics
 name: When I Was Young
@@ -44,6 +47,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1965
+runtime: 180306
 ---
 The rooms were so much colder then
 My father was a soldier then

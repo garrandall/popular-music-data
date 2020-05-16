@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:6cMBpazQUSw6xYiLNYvQzf
 features: []
-genres: []
+first_released_as_single: false
 key: -til-the-angels
 lyrics_url: https://genius.com/The-angels-aus-til-lyrics
 name: '''Til'
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 148440
 ---
 Till the moon deserts the sky
 Till the all the seas run dry

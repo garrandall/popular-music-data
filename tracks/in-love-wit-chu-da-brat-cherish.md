@@ -1,9 +1,12 @@
 ---
+album: Limelite, Luv & Niteclubz
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:4BrBsISwB9az1O2yXdVL6A
 features:
 - Cherish
-genres: []
+first_released_as_single: false
 key: in-love-wit-chu-da-brat-cherish
 lyrics_url: https://www.musixmatch.com/lyrics/Da-Brat-featuring-Cherish/In-Love-Wit-Chu
 name: In Love Wit Chu
@@ -72,6 +75,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 1967
+runtime: 248506
 ---
 Yeah LT
 And it's the brat tat tat yall

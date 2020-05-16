@@ -1,8 +1,11 @@
 ---
+album: Tattoo You (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5HcTLesmMaPr0CkwdbtK0o
 features: []
-genres: []
+first_released_as_single: false
 key: hang-fire-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-hang-fire-lyrics
 name: Hang Fire
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1981
+runtime: 141093
 ---
 In the sweet old country where I come from
 Nobody ever works

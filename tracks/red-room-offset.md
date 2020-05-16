@@ -1,8 +1,11 @@
 ---
+album: FATHER OF 4
 artists:
 - Offset
+external_ids:
+  spotify: spotify:track:2MJdgSby3DtSS7bUJx2cly
 features: []
-genres: []
+first_released_as_single: true
 key: red-room-offset
 lyrics_url: https://www.azlyrics.com/lyrics/offset/redroom.html
 name: Red Room
@@ -19,8 +22,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2019
+runtime: 241440
 ---
-
 I'm a maniac go crazy for the cash (Hey, crazy)
 Green Lamborghini, paper tags (Skrrt)
 Ridin' through the city, thirty mags (Brrt, bow)
@@ -135,6 +139,3 @@ Prayin' to the Lord, my soul to keep (Keep)
 Controllin' me (Me), take a hold of me (Hold)
 Bitches ain't shit, got exposed by E ('Sposed)
 So naive, cold in the streets (Streets)
-
-
-

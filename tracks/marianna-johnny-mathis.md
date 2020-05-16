@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:2xnZ93pkD3wc3XSwdHbT9K
 features: []
-genres: []
+first_released_as_single: false
 key: marianna-johnny-mathis
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Mathis/Marianna
 name: Marianna
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 173146
 ---
 Hello, hello Marianna
 I took a trip on you, do you remember me?

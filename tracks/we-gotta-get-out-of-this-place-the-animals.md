@@ -1,8 +1,11 @@
 ---
+album: Animal Tracks
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:1wuYtOBWGsQYVmaBKsqgpk
 features: []
-genres: []
+first_released_as_single: false
 key: we-gotta-get-out-of-this-place-the-animals
 lyrics_url: https://genius.com/The-animals-we-gotta-get-out-of-this-place-lyrics
 name: We Gotta Get Out Of This Place
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 193586
 ---
 In this dirty old part of the city
 Where the sun refused to shine

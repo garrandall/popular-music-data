@@ -1,8 +1,11 @@
 ---
+album: Parsley, Sage, Rosemary And Thyme
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:1tQy2AqgFc0AdddmIboIfX
 features: []
-genres: []
+first_released_as_single: false
 key: the-dangling-conversation-simon-garfunkel
 lyrics_url: https://genius.com/Simon-and-garfunkel-the-dangling-conversation-lyrics
 name: The Dangling Conversation
@@ -35,6 +38,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
+release_year: 1966
+runtime: 158773
 ---
 It's a still life water color
 Of a now late afternoon

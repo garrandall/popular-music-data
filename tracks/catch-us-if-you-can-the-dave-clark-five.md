@@ -1,8 +1,11 @@
 ---
+album: Having a Wild Weekend (Original Motion Picture Soundtrack)
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:7d91GO9HafgZuRUA2NjLTj
 features: []
-genres: []
+first_released_as_single: false
 key: catch-us-if-you-can-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/catchusifyoucan.html
 name: Catch Us If You Can
@@ -51,8 +54,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 114733
 ---
-
 Here they come again,
 Catch us if you can,
 Time to get a move on,
@@ -83,6 +87,3 @@ Catch us if you can
 Catch us if you can
 Catch us if you can
 Catch us if you can
-
-
-

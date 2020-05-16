@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 11A: 1971'
 artists:
 - Kiki Dee
+external_ids:
+  spotify: spotify:track:7Hpn7BlPmjBvwBRwqZ7OiW
 features: []
-genres: []
+first_released_as_single: false
 key: love-makes-the-world-go-round-kiki-dee
 lyrics_url: https://genius.com/Kiki-dee-love-makes-the-world-go-round-lyrics
 name: Love Makes The World Go Round
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
+release_year: 1971
+runtime: 166280
 ---
 You know love makes the world go round
 And love makes the see-saw go up and down

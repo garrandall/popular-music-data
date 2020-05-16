@@ -1,8 +1,11 @@
 ---
+album: Classic Hits
 artists:
 - John Paul Young
+external_ids:
+  spotify: spotify:track:4o98ObfzbtD12rDiBiPnLn
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-your-love-john-paul-young
 lyrics_url: https://www.azlyrics.com/lyrics/johnpaulyoung/lostinyourlove.html
 name: Lost In Your Love
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 190240
 ---
-
 I'm lost in your love
 Drowning in you
 I'm North and I'm South
@@ -76,6 +80,3 @@ Drownin' in you...
 Oh lost in your love
 Lost in your love
 Lost in your love
-
-
-

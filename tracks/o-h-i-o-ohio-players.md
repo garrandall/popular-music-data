@@ -1,8 +1,11 @@
 ---
+album: Angel
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:5qF3j54Bq3DMmjfjjernjL
 features: []
-genres: []
+first_released_as_single: false
 key: o-h-i-o-ohio-players
 lyrics_url: https://genius.com/Ohio-players-o-h-i-o-lyrics
 name: O-H-I-O
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 188933
 ---
 O-H-I-O, O-H-I-O
 O-H-I-O, O-H-I-O

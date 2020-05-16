@@ -1,10 +1,13 @@
 ---
+album: Racks in the Middle
 artists:
 - Nipsey Hussle
+external_ids:
+  spotify: spotify:track:0LRU7ixJP9PUNZcCTsdSVF
 features:
 - Roddy Ricch
 - Hit-Boy
-genres: []
+first_released_as_single: true
 key: racks-in-the-middle-nipsey-hussle-roddy-ricch-hit-boy
 lyrics_url: https://www.azlyrics.com/lyrics/nipseyhussle/racksinthemiddle.html
 name: Racks In The Middle
@@ -53,9 +56,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2019
+runtime: 233924
 ---
-
-
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 Yeah, I was rounding 'round in the V-12 with the racks in the middle
@@ -139,6 +142,3 @@ Look, just like money know money, nigga, shooters respect
 Other shooters we was both, don't want my crew on your neck
 I'm on the freeway in a drop, it got me losing my breath
 I do the dash with the blues on the deck
-
-
-

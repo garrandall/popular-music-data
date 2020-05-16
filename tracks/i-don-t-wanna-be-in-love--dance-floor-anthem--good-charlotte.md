@@ -1,8 +1,11 @@
 ---
+album: Good Morning Revival
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:36UVZPoK8a1Oxh13cY8kOp
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-be-in-love--dance-floor-anthem--good-charlotte
 lyrics_url: https://genius.com/Good-charlotte-i-dont-wanna-be-in-love-dance-floor-anthem-lyrics
 name: I Don't Wanna Be In Love (Dance Floor Anthem)
@@ -91,6 +94,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 244000
 ---
 She's going out to forget they were together
 All that time he was taking her for granted

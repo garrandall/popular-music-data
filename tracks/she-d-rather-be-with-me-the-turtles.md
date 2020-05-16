@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:7Ko8eQ58gmHF8m3drHGUZT
 features: []
-genres: []
+first_released_as_single: false
 key: she-d-rather-be-with-me-the-turtles
 lyrics_url: https://genius.com/The-turtles-shed-rather-be-with-me-lyrics
 name: She'd Rather Be With Me
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 141840
 ---
 Some girls love to run around
 Love to handle everything they see

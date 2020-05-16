@@ -1,8 +1,11 @@
 ---
+album: Thanksgiving Live - The Ultra Chrome, Latex and Steel Tour
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:6I4snLrVOrJsLdd43isc27
 features: []
-genres: []
+first_released_as_single: false
 key: a-view-to-a-kill-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/aviewtoakill.html
 name: A View To A Kill
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
+release_year: 1985
+runtime: 217693
 ---
-
 Meeting you, with a view to a kill
 Face to face in secret places, feel the chill
 Night fall covers me, but you know the plans I'm making
@@ -100,6 +104,3 @@ But can we dance into the fire, that fatal kiss is all we need
 Dance into the fire, to fatal sounds of broken dreams
 Dance into the fire, that fatal kiss is all we need
 Dance into the fire, when all we see is the view to a kill
-
-
-

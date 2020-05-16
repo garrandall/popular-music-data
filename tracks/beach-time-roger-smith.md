@@ -1,8 +1,11 @@
 ---
+album: Go Crazy! Hard To Find Jukebox Hits
 artists:
 - Roger Smith
+external_ids:
+  spotify: spotify:track:3LKalvoWN4x2nfuWHNtAgj
 features: []
-genres: []
+first_released_as_single: false
 key: beach-time-roger-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Roger-Smith-5/Beach-Time-1
 name: Beach Time
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1959
+runtime: 119466
 ---
 I was gettin' in beach time
 Lyin' on the san

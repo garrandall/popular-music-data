@@ -1,8 +1,11 @@
 ---
+album: Happy Medium
 artists:
 - Spose
+external_ids:
+  spotify: spotify:track:1qsoQzhJM3eHiF6EFjajZL
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-awesome-spose
 lyrics_url: https://genius.com/Spose-im-awesome-lyrics
 name: I'm Awesome
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 249160
 ---
 Awesome, awesome, awesome, awesome
 I don't necessarily have to be here for this

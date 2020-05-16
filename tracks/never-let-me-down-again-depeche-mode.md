@@ -1,8 +1,11 @@
 ---
+album: Music For The Masses
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:4pLWKQTxzR0kFoDeDAJvVk
 features: []
-genres: []
+first_released_as_single: true
 key: never-let-me-down-again-depeche-mode
 lyrics_url: https://genius.com/Depeche-mode-never-let-me-down-again-lyrics
 name: Never Let Me Down Again
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
+release_year: 1987
+runtime: 262000
 ---
 I'm taking a ride with my best friend
 I hope he never lets me down again

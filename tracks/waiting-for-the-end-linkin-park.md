@@ -1,8 +1,11 @@
 ---
+album: A Thousand Suns
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:1V4Bq9kYHMk9yILUp5z3o3
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-the-end-linkin-park
 lyrics_url: https://genius.com/Linkin-park-waiting-for-the-end-lyrics
 name: Waiting For The End
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2010
+runtime: 231680
 ---
 This is not the end, this is not the beginning
 Just a voice like a riot rocking every revision

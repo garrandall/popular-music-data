@@ -1,8 +1,11 @@
 ---
+album: Crying
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:6eLL7QTdMWdhhG4i3jHDR9
 features: []
-genres: []
+first_released_as_single: false
 key: crying-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/crying237003.html
 name: Crying
@@ -71,9 +74,10 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 166466
 ---
-
- I was all right for a while 
+I was all right for a while 
 I could smile for a while 
  THEN I saw you last night 
 You held my hand so tight 
@@ -96,6 +100,3 @@ And I'll always be crying over you, crying over you
  Yes now you're gone 
  And from this moment on, I'll be crying, crying, crying, crying 
 Yeah, crying, crying over you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Welcome Home
 artists:
 - '''Til Tuesday'
+external_ids:
+  spotify: spotify:track:4m93xuZfcJtnhjjoCpw3UC
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-love--til-tuesday
 lyrics_url: https://genius.com/Til-tuesday-what-about-love-lyrics
 name: What About Love
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1985
+runtime: 236440
 ---
 Living on silence
 Living by the book

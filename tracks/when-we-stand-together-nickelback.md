@@ -1,8 +1,11 @@
 ---
+album: Here and Now (Audio Only Version)
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4bCOAuhvjsxbVBM5MM8oik
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-stand-together-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/whenwestandtogether.html
 name: When We Stand Together
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2011
+runtime: 190786
 ---
-
 One more depending on a prayer
 And we all look away
 People pretending everywhere
@@ -136,6 +140,3 @@ That's when we all win
 Hey, yeah, yeah, hey, yeah
 That's, that's, that's when we all win
 That's, that's, that's when we all win
-
-
-

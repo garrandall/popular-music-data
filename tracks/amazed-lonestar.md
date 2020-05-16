@@ -1,8 +1,11 @@
 ---
+album: Lonely Grill
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:6iNcyWk5iUEY7P9zeTc5hm
 features: []
-genres: []
+first_released_as_single: false
 key: amazed-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/amazed.html
 name: Amazed
@@ -227,8 +230,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 1995
+runtime: 239986
 ---
-
 Every time our eyes meet
 This feeling inside me
 Is almost more than I can take
@@ -277,6 +281,3 @@ Forever and ever
 Every little thing that you do
 Oh, yeah every little thing that you do
 Baby, I'm amazed by you
-
-
-

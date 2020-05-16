@@ -1,8 +1,11 @@
 ---
+album: Jade To The Max
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:1PaoWpjqzkbHu29LrSStO9
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-love-you-jade
 lyrics_url: https://genius.com/Jade-i-wanna-love-you-lyrics
 name: I Wanna Love You
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
+release_year: 1992
+runtime: 271400
 ---
 Your reputation caught my attention
 I just can't help myself

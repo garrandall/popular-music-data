@@ -1,8 +1,11 @@
 ---
+album: Get Lifted
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:051NZ3rr3HXTULCEySJRX3
 features: []
-genres: []
+first_released_as_single: false
 key: used-to-love-u-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/usedtoloveu.html
 name: Used To Love U
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
+release_year: 2004
+runtime: 210866
 ---
-
 La La La
 La La La
 
@@ -137,7 +141,4 @@ Oh but I don't luv u
 
 Oh but you're gonna miss me now
 
-Oh but I don't luv uuuuuuuuuuu
-
-
-
+Oh but I don't luv u

@@ -1,9 +1,12 @@
 ---
+album: Sing The Great Songs
 artists:
 - Nino Tempo
 - April Stevens
+external_ids:
+  spotify: spotify:track:0oR4XiH7xD3rEaJcQSeS2c
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-confessin---that-i-love-you--nino-tempo-april-stevens
 lyrics_url: https://www.musixmatch.com/lyrics/Nino-Tempo-feat-April-Stevens/I-m-Confessin-That-I-Love-You
 name: I'm Confessin' (That I Love You)
@@ -12,6 +15,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 129080
 ---
 Sweet lover
 I'm confessing that I love you

@@ -1,8 +1,11 @@
 ---
+album: Every Picture Tells A Story
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6rovOdp3HgK1DeAMYDzoA7
 features: []
-genres: []
+first_released_as_single: false
 key: maggie-may-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/maggiemay.html
 name: Maggie May
@@ -91,8 +94,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 350266
 ---
-
 Wake up Maggie I think I got something to say to you
 It's late September and I really should be back at school
 I know I keep you amused but I feel I'm being used
@@ -126,6 +130,3 @@ You stole my heart but I love you anyway
 
 Maggie I wish I'd never seen your face
 I'll get on back home one of these days
-
-
-

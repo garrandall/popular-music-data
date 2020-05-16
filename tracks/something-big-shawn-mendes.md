@@ -1,8 +1,11 @@
 ---
+album: Handwritten
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:4eQznxonJdR6NEksFNHMCT
 features: []
-genres: []
+first_released_as_single: false
 key: something-big-shawn-mendes
 lyrics_url: https://www.azlyrics.com/lyrics/shawnmendes/somethingbig.html
 name: Something Big
@@ -19,9 +22,10 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 161440
 ---
-
- 1, 2, 3, 4
+1, 2, 3, 4
 
 Oh, whoa, oh oh oh oh whoa oh oh oh oh oh oh whoa oh oh oh oh whoa oh oh oh oh oh oh
 
@@ -94,6 +98,3 @@ Oh oh oh oh whoa oh oh oh oh oh oh Oh oh oh oh whoa oh oh oh oh oh oh
 Something big is happening whoa
 Oh oh oh oh whoa oh oh oh oh oh oh Oh oh oh oh whoa oh oh oh oh oh oh
 Something big I feel it happening oh
-
-
-

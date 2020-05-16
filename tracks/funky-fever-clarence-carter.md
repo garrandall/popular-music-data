@@ -1,8 +1,11 @@
 ---
+album: This Is Clarence Carter
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:3I7d155tjVsLKnqmMcqi8J
 features: []
-genres: []
+first_released_as_single: false
 key: funky-fever-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-funky-fever-lyrics
 name: Funky Fever
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 167880
 ---
 There's a thing that's going around
 Everybody's getting it, y'all

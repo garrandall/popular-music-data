@@ -1,8 +1,11 @@
 ---
+album: Of A Simple Man
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:71CXzHYYOyNqgtVFpNdeCS
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-love-you-to-want-me-lobo
 lyrics_url: https://genius.com/Lobo-singer-id-love-you-to-want-me-lyrics
 name: I'd Love You To Want Me
@@ -63,6 +66,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 247640
 ---
 When I saw you standing there
 I'bout fell off my chair

@@ -1,8 +1,11 @@
 ---
+album: Scream
 artists:
 - Rockwell
+external_ids:
+  spotify: spotify:track:6hci8n9UowepjRmCc6CKTv
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-watching-me-rockwell
 lyrics_url: https://genius.com/Rockwell-somebodys-watching-me-lyrics
 name: Somebody's Watching Me
@@ -83,6 +86,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1984
+runtime: 238773
 ---
 Who's watching?
 Tell me, who's watching?

@@ -1,8 +1,11 @@
 ---
+album: The Car Over The Lake Album
 artists:
 - Ozark Mountain Daredevils
+external_ids:
+  spotify: spotify:track:66mtlL5so9j2JctA8JV4xF
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-only-knew-ozark-mountain-daredevils
 lyrics_url: https://genius.com/Ozark-mountain-daredevils-if-i-only-knew-lyrics
 name: If I Only Knew
@@ -35,9 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1975
+runtime: 204960
 ---
-(INTRO)
-
 If I only knew what wakes me
 
 If I only knew
@@ -62,8 +65,6 @@ It shouldn't be too hard
 
 It shouldn't be hard to see, to see, to see
 
-(SAX SOLO)
-
 Hey you
 
 Put some funny looking clothes on
@@ -83,7 +84,3 @@ That I usually do with you
 It shouldn't be too hard
 
 It shouldn't be hard to do, to do, to do, to do
-
-(GUITAR SOLO)
-
-Lyrics are copyright 1975, Larry Lee & Steve Cash

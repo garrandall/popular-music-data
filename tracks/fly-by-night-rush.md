@@ -1,8 +1,11 @@
 ---
+album: Fly By Night
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:54TaGh2JKs1pO9daXNXI5q
 features: []
-genres: []
+first_released_as_single: false
 key: fly-by-night-rush
 lyrics_url: https://genius.com/Rush-fly-by-night-lyrics
 name: Fly By Night
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1975
+runtime: 202200
 ---
 Airport scurry flurry faces
 Parade of passers by

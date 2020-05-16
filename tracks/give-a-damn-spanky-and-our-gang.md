@@ -1,8 +1,11 @@
 ---
+album: Anything You Choose B/W Without Rhyme Or Reason
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:2zEvB5gYtH1wICRBST2Qlg
 features: []
-genres: []
+first_released_as_single: false
 key: give-a-damn-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-give-a-damn-lyrics
 name: Give A Damn
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 215906
 ---
 If you'd take the train with me
 Uptown, thru the misery

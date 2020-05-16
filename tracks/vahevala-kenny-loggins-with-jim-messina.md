@@ -1,7 +1,8 @@
 ---
 artists:
-- Kenny Loggins With Jim Messina
-features: []
+- Kenny Loggins
+features:
+- Jim Messina
 genres: []
 key: vahevala-kenny-loggins-with-jim-messina
 name: Vahevala

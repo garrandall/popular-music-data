@@ -1,8 +1,12 @@
 ---
+album: James Brown Sings Raw Soul
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:5XmJpUKK9SYm4GQr1tJQBD
+features:
+- The Famous Flames
+first_released_as_single: false
 key: bring-it-up-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-bring-it-up-lyrics
 name: Bring It Up
@@ -39,6 +43,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1967
+runtime: 166133
 ---
 Hi everybody, this is James Brown
 Reminding you that you're listening to the swinginest station in the nation

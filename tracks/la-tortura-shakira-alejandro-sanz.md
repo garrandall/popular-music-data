@@ -1,9 +1,12 @@
 ---
+album: "Fijaci\xF3n Oral, Vol. 1"
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:5BSclXJTa9B0iURhUjZo50
 features:
 - Alejandro Sanz
-genres: []
+first_released_as_single: false
 key: la-tortura-shakira-alejandro-sanz
 lyrics_url: https://genius.com/Genius-english-translations-shakira-la-tortura-ft-alejandro-sanz-english-translation-lyrics
 name: La Tortura
@@ -132,6 +135,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2005
+runtime: 212893
 ---
 Hey baby, save the poetry
 Keep your happiness to yourself

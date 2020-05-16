@@ -1,8 +1,11 @@
 ---
+album: The Best Of Barry McGuire
 artists:
 - Barry McGuire
+external_ids:
+  spotify: spotify:track:2OzNYmuerhhV0FVX97UJrb
 features: []
-genres: []
+first_released_as_single: false
 key: child-of-our-times-barry-mcguire
 lyrics_url: https://www.azlyrics.com/lyrics/barrymcguire/childofourtimes.html
 name: Child Of Our Times
@@ -23,8 +26,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 202986
 ---
-
 Take your first look around
 And see the world you're coming into
 Ah, have a good cry
@@ -101,6 +105,3 @@ In your burning, turning mind
 You are your own worst enemy
 
 Child of our times
-
-
-

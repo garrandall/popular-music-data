@@ -1,10 +1,13 @@
 ---
+album: Descendants 2 (Original TV Movie Soundtrack)
 artists:
 - China Anne McClain
 - Thomas Doherty
 - Dylan Playfair
+external_ids:
+  spotify: spotify:track:53xAT6jud1w0NqlBjSW4VB
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-my-name-china-anne-mcclain-thomas-doherty-dylan-playfair
 lyrics_url: https://www.azlyrics.com/lyrics/chinaannemcclain/whatsmyname.html
 name: What's My Name
@@ -21,8 +24,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-08-26'
+release_year: 2017
+runtime: 190720
 ---
-
 This is all hands on deck
 Calling out to lost boys and girls
 I'm gettin' tired of the disrespect
@@ -46,9 +50,9 @@ What's my name?
 What's it! What's it!
 Say it loud!
 
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 All eyes on me, let me see 'em
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 What's it! What's it!
 Say it! Say it!
 (Uma-ah-ah-ah!)
@@ -116,14 +120,14 @@ Soon the world will be ours
 What's my name?
 What's my name?
 
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 All eyes on me, let me see 'em
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 What's it!, what's it!
 Say it! Say it!
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 Oh, say it louder!
-(Uuuuuuma, Uuuuuuma)
+(Uuma, Uuma)
 Oh, say it louder!
 What's it! What's it!
 Say it! Say it!
@@ -137,6 +141,3 @@ Say it! Say it!
 (Uma, Uma, la la Um-)
 (Uma, Uma, la la Uma)
 Uma!
-
-
-

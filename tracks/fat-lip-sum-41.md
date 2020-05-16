@@ -1,8 +1,11 @@
 ---
+album: All Killer, No Filler
 artists:
 - Sum 41
+external_ids:
+  spotify: spotify:track:4KacUpvbA3Mfo05gttTjhN
 features: []
-genres: []
+first_released_as_single: false
 key: fat-lip-sum-41
 lyrics_url: https://genius.com/Sum-41-fat-lip-lyrics
 name: Fat Lip
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
+release_year: 2001
+runtime: 178266
 ---
 Storming through the party like my name was El Niño
 When I'm hangin' out drinking in the back of an El Camino

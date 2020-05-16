@@ -1,8 +1,11 @@
 ---
+album: Music From The Edge Of Heaven
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:5AhRNIjYPBleR1lfHphcrE
 features: []
-genres: []
+first_released_as_single: false
 key: the-edge-of-heaven-wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/theedgeofheaven.html
 name: The Edge Of Heaven
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 270800
 ---
-
 I would lock you up
 But I could not bear to hear you
 Screaming to be set free
@@ -125,6 +129,3 @@ I ain't got no more worries
 I ain't got no more time for you
 Loving you takes such courage
 And don't you think that I know it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Tommy Hunt
+external_ids:
+  spotify: spotify:track:7encACbtTCKvlRrl3hPQHa
 features: []
-genres: []
+first_released_as_single: false
 key: human-tommy-hunt
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Hunt/Human
 name: Human
@@ -47,6 +50,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 161175
 ---
 Oh lord
 Why did you make me (human) human

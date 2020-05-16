@@ -1,8 +1,11 @@
 ---
+album: The First 10 Years
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:0kQmH9SFtYjlvat2XzL5mx
 features: []
-genres: []
+first_released_as_single: false
 key: there-but-for-fortune-joan-baez
 lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/therebutforfortune.html
 name: There But For Fortune
@@ -35,8 +38,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 195106
 ---
-
 Show me the prison, show me the jail
 Show me the prisoner, whose life has gone stale
 And I'll show you a young man
@@ -60,6 +64,3 @@ Show me the ruins of the buildings, once so tall
 And I'll show you a young land
 With so many reasons why
 And there but for fortune go you and I, you and I.
-
-
-

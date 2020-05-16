@@ -1,8 +1,11 @@
 ---
+album: Alannah Myles
 artists:
 - Alannah Myles
+external_ids:
+  spotify: spotify:track:3IYb8pVjQG77awbkC4CuBV
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-alannah-myles
 lyrics_url: https://genius.com/Alannah-myles-love-is-lyrics
 name: Love Is
@@ -59,6 +62,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1989
+runtime: 216106
 ---
 Hard to get
 Impossible to hold

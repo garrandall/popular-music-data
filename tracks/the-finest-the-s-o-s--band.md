@@ -1,8 +1,11 @@
 ---
+album: Sands Of Time
 artists:
 - The S.O.S. Band
+external_ids:
+  spotify: spotify:track:63DTXKZi7YdJ4tzGti1Dtr
 features: []
-genres: []
+first_released_as_single: false
 key: the-finest-the-s-o-s--band
 lyrics_url: https://genius.com/The-sos-band-the-finest-lyrics
 name: The Finest
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 366266
 ---
 The finest...
 

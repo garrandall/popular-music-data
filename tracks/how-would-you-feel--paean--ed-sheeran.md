@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:1lyNFzcCl9kXCof6GV32fV
 features: []
-genres: []
+first_released_as_single: true
 key: how-would-you-feel--paean--ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/howwouldyoufeelpaean.html
 name: How Would You Feel (Paean)
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 280533
 ---
-
 You are the one girl
 And you know that it's true
 I'm feeling younger
@@ -56,6 +60,3 @@ Falling deeper in love with you
 So tell me that you love me too
 Tell me that you love me too
 Tell me that you love me too
-
-
-

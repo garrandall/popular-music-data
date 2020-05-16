@@ -1,8 +1,11 @@
 ---
+album: After Bathing At Baxters
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:4zcELnhoX8Ux9K8NeAldiH
 features: []
-genres: []
+first_released_as_single: false
 key: ballad-of-you---me---pooneil-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/theballadofyoumepooneil.html
 name: Ballad Of You & Me & Pooneil
@@ -31,8 +34,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 275280
 ---
-
 If you were a bird and you lived very high,
 knew even the wind as the breeze came by,
 say to the wind as it took you away,
@@ -59,6 +63,3 @@ If you were a cloud and you sailed up there,
 You sail on water as blue as air,
 You'd see me here in the fields and say,
 "Doesn't the sky look green today?"
-
-
-

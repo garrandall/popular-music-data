@@ -1,8 +1,11 @@
 ---
+album: Pass Me By
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:35vT44zSoPmupJ7SwLse0c
 features: []
-genres: []
+first_released_as_single: false
 key: pass-me-by-peggy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/peggylee/passmeby.html
 name: Pass Me By
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1965
+runtime: 145773
 ---
-
 I got me ten fine toes to wiggle in the sand
 Lots of idle fingers snap to my command
 A loverly pair of heels that kick to beat the band
@@ -60,6 +64,3 @@ Thank you, kindly pass me by
 
 Pass me by, pass me by
 If you don't happen to like it pass me by
-
-
-

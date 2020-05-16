@@ -1,8 +1,11 @@
 ---
+album: Sings His Favorites
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:7eqNATKM78MkWP6aHGXHEV
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-head-on-my-shoulder-paul-anka
 lyrics_url: https://genius.com/Paul-anka-put-your-head-on-my-shoulder-lyrics
 name: Put Your Head On My Shoulder
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1959
+runtime: 155080
 ---
 Put your head on my shoulder
 Hold me in your arms, baby

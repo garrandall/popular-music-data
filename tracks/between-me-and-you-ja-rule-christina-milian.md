@@ -1,9 +1,12 @@
 ---
+album: Rule 3:36
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:4xwRtK6tfMp4yZwcDvY0gT
 features:
 - Christina Milian
-genres: []
+first_released_as_single: false
 key: between-me-and-you-ja-rule-christina-milian
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/betweenmeandyou.html
 name: Between Me And You
@@ -88,8 +91,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 2000
+runtime: 250173
 ---
-
 Murder Inc. shit
 Uh... uh, uh, uh
 
@@ -133,8 +137,8 @@ We could go there, me and you, creep off all night
 If you love it, in the mornin, awake with new light
 If you lookin like I ain't gonna handle his
 Let me handle my bizzz, it is what it is
-Nigga livin his liiiife, and that's my bitch
-You know I gotta wiiiife, let's keep this thing tight, ba-byyy
+Nigga livin his life, and that's my bitch
+You know I gotta wife, let's keep this thing tight, ba-byyy
 
 Don't let the word get out (shhh), ba-byyy
 This is - strictly between me and you, ba-byyy
@@ -167,6 +171,3 @@ But, it's been between me and you, ba-byyy
 (Me and you)
 (That we do)
 (Me and you)
-
-
-

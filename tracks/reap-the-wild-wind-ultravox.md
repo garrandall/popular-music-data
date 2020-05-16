@@ -1,8 +1,11 @@
 ---
+album: Quartet
 artists:
 - Ultravox
+external_ids:
+  spotify: spotify:track:2hDqgFWpPRIW6FqsS6PsYi
 features: []
-genres: []
+first_released_as_single: true
 key: reap-the-wild-wind-ultravox
 lyrics_url: https://www.azlyrics.com/lyrics/ultravox/reapthewildwind.html
 name: Reap The Wild Wind
@@ -27,8 +30,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 285586
 ---
-
 Reap the wild wind
 Reap the wild wind
 
@@ -70,6 +74,3 @@ Give me an inch, and I'll make the best of it
 Take all you want and leave all the rest to die
 
 Reap the wild wind
-
-
-

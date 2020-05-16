@@ -1,8 +1,11 @@
 ---
+album: Paul Simon
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:6vxHp3CDNo0afgKGp2yi1E
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-julio-down-by-the-schoolyard-paul-simon
 lyrics_url: https://genius.com/Paul-simon-me-and-julio-down-by-the-schoolyard-lyrics
 name: Me And Julio Down By The Schoolyard
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1972
+runtime: 164813
 ---
 The Mama pajama rolled outta bed
 And she ran to the police station

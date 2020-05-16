@@ -1,8 +1,11 @@
 ---
+album: Move To Move
 artists:
 - Kon Kan
+external_ids:
+  spotify: spotify:track:0AajTAAbk8xBbVVST0wwl0
 features: []
-genres: []
+first_released_as_single: false
 key: puss-n--boots-kon-kan
 lyrics_url: https://genius.com/Kon-kan-puss-n-boots-these-boots-are-made-for-walking-lyrics
 name: Puss N' Boots
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1989
+runtime: 226586
 ---
 Ah ah ah ah)
 (Ah ah ah ah ah)

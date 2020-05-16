@@ -1,8 +1,11 @@
 ---
+album: The Emancipation of Mimi
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0sNY3XS9Tz1P957KZrQ6GZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-like-that-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-its-like-that-lyrics
 name: It's Like That
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2005
+runtime: 203360
 ---
 This is the point when I need everybody get to the dance floor
 It's like that, y'all (That, y'all), that, y'all (That, y'all)

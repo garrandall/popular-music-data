@@ -1,8 +1,11 @@
 ---
+album: McGuinness Flint
 artists:
 - McGuinness Flint
+external_ids:
+  spotify: spotify:track:78lRnpdXrfyzxTa4RxnuAt
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-dead-and-gone-mcguinness-flint
 lyrics_url: https://genius.com/Mcguinness-flint-when-im-dead-and-gone-lyrics
 name: When I'm Dead And Gone
@@ -43,6 +46,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 221786
 ---
 Oh, I love you, baby
 I love you night and day

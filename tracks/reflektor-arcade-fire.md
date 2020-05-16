@@ -1,8 +1,11 @@
 ---
+album: Reflektor
 artists:
 - Arcade Fire
+external_ids:
+  spotify: spotify:track:2LWMF10STZqYY9a3YqBiOG
 features: []
-genres: []
+first_released_as_single: false
 key: reflektor-arcade-fire
 lyrics_url: https://www.azlyrics.com/lyrics/arcadefire/reflektor.html
 name: Reflektor
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 453949
 ---
-
 Trapped in a prison,
 in a prism of light.
 Alone in the darkness, 
@@ -115,6 +119,3 @@ We all got things to hide. (Reflector)
 Just a reflector.
 
 But I see you on the other side.
-
-
-

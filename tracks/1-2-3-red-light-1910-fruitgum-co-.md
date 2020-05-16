@@ -1,8 +1,11 @@
 ---
+album: Bubblegum's Best
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:70Fh5TuuER28hcq407Xxqc
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-red-light-1910-fruitgum-co-
 lyrics_url: https://genius.com/1910-fruitgum-company-1-2-3-red-light-lyrics
 name: 1 2 3 Red Light
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 154293
 ---
 Every time I try to prove I love you
 1, 2, 3, Red Light

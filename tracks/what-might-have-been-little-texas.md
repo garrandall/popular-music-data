@@ -1,8 +1,11 @@
 ---
+album: Big Time
 artists:
 - Little Texas
+external_ids:
+  spotify: spotify:track:04F6rARD2mv4JiT8WglIDz
 features: []
-genres: []
+first_released_as_single: false
 key: what-might-have-been-little-texas
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Texas/What-Might-Have-Been
 name: What Might Have Been
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 238800
 ---
 Sure I think about you now and then
 But it's been a long, long time

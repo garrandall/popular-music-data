@@ -1,8 +1,11 @@
 ---
+album: Mind, Body & Soul
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:1uToI39Qaj1w6JxpaGYY9t
 features: []
-genres: []
+first_released_as_single: false
 key: 5-4-3-2--yo--time-is-up--jade
 lyrics_url: https://www.azlyrics.com/lyrics/jade/5432yotimeisup.html
 name: 5-4-3-2 (Yo! Time Is Up)
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
+release_year: 1994
+runtime: 316973
 ---
-
 5-4-3-2, your time is up
 5-4-3-2, your time is up
 5-4-3-2, your time is up
@@ -125,6 +129,3 @@ I got a count down for you, send you on your way
 5-4-3-2, your time is up
 5-4-3-2, your time is up
 ...
-
-
-

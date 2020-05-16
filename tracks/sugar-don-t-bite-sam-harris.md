@@ -1,8 +1,11 @@
 ---
+album: Sam Harris
 artists:
 - Sam Harris
+external_ids:
+  spotify: spotify:track:1JeKf3GejlFeXlpaAfo2p0
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-don-t-bite-sam-harris
 lyrics_url: https://genius.com/Sam-harris-80s-sugar-dont-bite-lyrics
 name: Sugar Don't Bite
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 245680
 ---
 The floors are all made out of wood
 The price is sure worth the admission

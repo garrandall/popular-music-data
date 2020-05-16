@@ -1,8 +1,11 @@
 ---
+album: Laundry Service
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:15f8Cv8RXUlOOCIf2oaceN
 features: []
-genres: []
+first_released_as_single: false
 key: underneath-your-clothes-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/underneathyourclothes.html
 name: Underneath Your Clothes
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 2001
+runtime: 224066
 ---
-
 You're a song 
 Written by the hands of God
 Don't get me wrong cause 
@@ -135,7 +139,4 @@ There's an endless story
 There's the man I chose 
 There's my territory
 And all the things I deserve
-For being such a good girl honey 
-
-
-
+For being such a good girl honey

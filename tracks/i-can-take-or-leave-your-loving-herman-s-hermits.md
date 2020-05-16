@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:7nxUD7qBjQnCqQ84UvfMdW
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-take-or-leave-your-loving-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/icantakeorleaveyourloving.html
 name: I Can Take Or Leave Your Loving
@@ -51,8 +54,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1966
+runtime: 154146
 ---
-
 I don't need her
 Don't need her kind of heartache and pain
 She's gonna have to see
@@ -83,6 +87,3 @@ Baby baby, don't you believe it?
 When it comes to your lovin', I can take it or leave it
 I can take or leave your lovin'
 I can take or leave your lovin'
-
-
-

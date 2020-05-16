@@ -1,8 +1,11 @@
 ---
+album: Paul Anka Sings His Big Ten, Vol. 2
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:0gsa1CsxuCJ8dtFVXeerPn
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-so-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/imissyouso.html
 name: I Miss You So
@@ -43,8 +46,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 143240
 ---
-
 Those happy hours I spent with you
 That lovely afterglow
 Most of all I miss you so
@@ -66,6 +70,3 @@ I'll always love you and want you, too
 How much you'll never know
 Most of all I miss you so
 (Ah, ah, ah, ah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: South Shore Commission
 artists:
 - South Shore Commission
+external_ids:
+  spotify: spotify:track:3OgGwqxevY650JJL5CMlXF
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-on-the-right-track-south-shore-commission
 lyrics_url: https://genius.com/South-shore-commission-were-on-the-right-track-now-lyrics
 name: We're On The Right Track
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 292000
 ---
 We're on the right track
 We're  on the right track now

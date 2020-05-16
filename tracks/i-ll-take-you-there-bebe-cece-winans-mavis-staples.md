@@ -1,10 +1,13 @@
 ---
+album: Greatest Hits
 artists:
 - BeBe
 - CeCe Winans
+external_ids:
+  spotify: spotify:track:5qMQzEYFnVJMuOgsC6F7SJ
 features:
 - Mavis Staples
-genres: []
+first_released_as_single: false
 key: i-ll-take-you-there-bebe-cece-winans-mavis-staples
 lyrics_url: https://genius.com/Bebe-and-cece-winans-ill-take-you-there-lyrics
 name: I'll Take You There
@@ -33,6 +36,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
+release_year: 1992
+runtime: 259573
 ---
 Oh, oh, take me there
 Sing

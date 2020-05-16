@@ -1,8 +1,11 @@
 ---
+album: Blue Slide Park
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:24YpJsdgTYhUmVbAE8spH4
 features: []
-genres: []
+first_released_as_single: true
 key: frick-park-market-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/frickparkmarket.html
 name: Frick Park Market
@@ -15,9 +18,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 197559
 ---
-
-
 Uh let me get, uh turkey sandwich
 Uh, lettuce, tomato (bitch)
 
@@ -83,6 +86,3 @@ Anything you need you can find it at the market
 
 
 Yeah, and this is Blue Slide Park
-
-
-

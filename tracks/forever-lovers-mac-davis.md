@@ -1,8 +1,11 @@
 ---
+album: The Best Of Mac Davis
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:5jsDEUau5fHgA3PNMFbLKa
 features: []
-genres: []
+first_released_as_single: false
 key: forever-lovers-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/foreverlovers.html
 name: Forever Lovers
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-05-08'
+release_year: 1976
+runtime: 221866
 ---
-
 Forever lovers, forever friends
 A lifetime's a short time
 When love never ends
@@ -93,6 +97,3 @@ I knew I'd see you again
 Forever lovers, forever friends
 A lifetime's a short time
 When love never ends
-
-
-

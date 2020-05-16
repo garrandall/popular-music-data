@@ -1,9 +1,12 @@
 ---
+album: Dr. Heckle & Mr. Jive
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:0QtxaUosKLQBEHf7bFhl1z
 features: []
-genres: []
+first_released_as_single: false
 key: what-can-i-do-with-this-broken-heart-england-dan-john-ford-coley
 lyrics_url: https://www.azlyrics.com/lyrics/englanddanjohnfordcoley/whatcanidowiththisbrokenheart.html
 name: What Can I Do With This Broken Heart
@@ -32,8 +35,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1978
+runtime: 195666
 ---
-
 I've been saving the things you gave me
 I've been holding em close to me
 All the letters that said you loved me
@@ -81,6 +85,3 @@ What can I do with this broken heart
 And a goodbye that leaves me nowhere
 What can I do with this broken heart
 And a love I can't get over
-
-
-

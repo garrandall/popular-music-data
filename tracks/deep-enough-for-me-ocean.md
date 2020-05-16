@@ -1,8 +1,11 @@
 ---
+album: Put Your Hand in the Hand
 artists:
 - Ocean
+external_ids:
+  spotify: spotify:track:0gAqFooKo1eAybPvN1AboF
 features: []
-genres: []
+first_released_as_single: false
 key: deep-enough-for-me-ocean
 lyrics_url: https://genius.com/Ocean-deep-enough-for-me-lyrics
 name: Deep Enough For Me
@@ -23,6 +26,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1971
+runtime: 186965
 ---
 I'm gonna wade in the water
 I'm gonna walk in the sea

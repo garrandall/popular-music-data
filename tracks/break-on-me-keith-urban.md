@@ -1,8 +1,11 @@
 ---
+album: Ripcord
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2wu2C3Tij2Prb7LIbutDqB
 features: []
-genres: []
+first_released_as_single: false
 key: break-on-me-keith-urban
 lyrics_url: https://genius.com/Keith-urban-break-on-me-lyrics
 name: Break On Me
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
+release_year: 2016
+runtime: 208360
 ---
 There'll be days your heart don't wanna beat
 You pray more than you breathe

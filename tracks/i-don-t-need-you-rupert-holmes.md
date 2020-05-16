@@ -1,8 +1,11 @@
 ---
+album: Adventure
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:5TkvgwfIwMQOOHNmSm41zC
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-need-you-rupert-holmes
 lyrics_url: https://genius.com/Rupert-holmes-i-dont-need-you-lyrics
 name: I Don't Need You
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 206800
 ---
 I don't need you
 I don't need you half as much

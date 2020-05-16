@@ -1,8 +1,11 @@
 ---
+album: Waking Up
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:1NhPKVLsHhFUHIOZ32QnS2
 features: []
-genres: []
+first_released_as_single: false
 key: secrets-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/secrets.html
 name: Secrets
@@ -139,8 +142,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2009
+runtime: 224693
 ---
-
 I need another story
 Something to get off my chest
 My life gets kinda boring
@@ -203,6 +207,3 @@ This time, don't need another perfect lie
 Don't care if critics ever jump in line
 I'm gonna give all my secrets away
 All my secrets away, all my secrets away
-
-
-

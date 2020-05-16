@@ -1,8 +1,11 @@
 ---
+album: Living In Oz
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:6VtP2yma4hAdriyLHAunYN
 features: []
-genres: []
+first_released_as_single: false
 key: affair-of-the-heart-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/affairoftheheart.html
 name: Affair Of The Heart
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1981
+runtime: 227213
 ---
-
 Heart in my mouth
 Pulse in my head 
 Mercury rising into the red 
@@ -149,6 +153,3 @@ You better know
 it's an affair of the heart
 Have a little blind faith, believe 
 It's an affair of the heart
-
-
-

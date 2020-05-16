@@ -1,8 +1,11 @@
 ---
+album: With You
 artists:
 - Stacy Lattisaw
+external_ids:
+  spotify: spotify:track:1UGnjirP3yLwH8HemYj4i6
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-a-two-way-street-stacy-lattisaw
 lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/loveonatwowaystreet.html
 name: Love On A Two Way Street
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1981
+runtime: 251346
 ---
-
 I found love on a two way street and lost it on a lonely highway
 Love on a two way street and lost it on a lonely highway
 
@@ -101,6 +105,3 @@ Love on a two way street and lost it on a lonely highway
 
 I found love on a two way street and lost it on a lonely highway
 Love on a two way street and lost it on a lonely highway
-
-
-

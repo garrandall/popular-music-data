@@ -1,8 +1,11 @@
 ---
+album: Bonafide
 artists:
 - Maxi Priest
+external_ids:
+  spotify: spotify:track:33I3oS8UkebR3KRvqxD9X0
 features: []
-genres: []
+first_released_as_single: false
 key: close-to-you-maxi-priest
 lyrics_url: https://www.azlyrics.com/lyrics/maxipriest/closetoyou.html
 name: Close To You
@@ -127,8 +130,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-01-19'
+release_year: 1990
+runtime: 325800
 ---
-
 She was a jezebel, this Brixtonqueen
 Livin' the life like a back street dream
 Tellin' me lies when the truth was clear
@@ -223,6 +227,3 @@ I wanna be close to you (baby)
 And do all the things you want me to
 I just wanna be close to you
 And show you the way I feel
-
-
-

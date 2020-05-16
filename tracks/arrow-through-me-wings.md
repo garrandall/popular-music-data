@@ -1,6 +1,6 @@
 ---
 artists:
-- Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: arrow-through-me-wings

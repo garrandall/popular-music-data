@@ -1,8 +1,11 @@
 ---
+album: Dusk And Summer
 artists:
 - Dashboard Confessional
+external_ids:
+  spotify: spotify:track:1fZhHANKVFNZ9W8iSh76gF
 features: []
-genres: []
+first_released_as_single: false
 key: stolen-dashboard-confessional
 lyrics_url: https://www.azlyrics.com/lyrics/dashboardconfessional/stolen.html
 name: Stolen
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2006
+runtime: 199106
 ---
-
 We watch the season pull up its own stakes
 And catch the last weekend of the last week
 Before the gold and the glimmer have been replaced
@@ -92,6 +96,3 @@ We all look like we feel
 You have stolen my
 You have stolen my
 You have stolen my heart
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tonight's The Night
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:36f5xtZ2CXIc1WOirnnD3j
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-to-the-one-i-love-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/dedicatedtotheoneilove.html
 name: Dedicated To The One I Love
@@ -87,8 +90,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1959
+runtime: 120306
 ---
-
 This is dedicated to the one I love
 
 While I'm far away from you, my baby
@@ -112,6 +116,3 @@ And tell all the stars above
 This is dedicated to the one I love
 This is dedicated to the one I love
 This is dedicated to the one I love
-
-
-

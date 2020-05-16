@@ -1,8 +1,11 @@
 ---
+album: 'The New York Shuffle: Radio Broadcast (Live)'
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5JhhKOk4yal5SeOrnVVM4s
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-to-know-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-i-need-to-know-lyrics
 name: I Need To Know
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1977
+runtime: 157693
 ---
 Well, the talk on the street says you might go solo
 Good friend of mine saw you leavin' by your back door

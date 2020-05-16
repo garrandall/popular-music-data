@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:3Ywx8JnFzaoZcjf6NronPF
 features: []
-genres: []
+first_released_as_single: false
 key: heavenly-lover-teresa-brewer
 lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/Heavenly-Lover-Al-Chiar-Di-Luna-Fortuna
 name: Heavenly Lover
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 144426
 ---
 Heavenly lover, heavenly lover
 Somebody sent you from heaven

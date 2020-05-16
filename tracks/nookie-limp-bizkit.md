@@ -1,8 +1,11 @@
 ---
+album: Significant Other
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:1TEZWG1FdjzDdercCguTwj
 features: []
-genres: []
+first_released_as_single: false
 key: nookie-limp-bizkit
 lyrics_url: https://www.musixmatch.com/lyrics/Limp-Bizkit/Nookie
 name: Nookie
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1999
+runtime: 289560
 ---
 Check 1, 1, 2
 

@@ -1,8 +1,11 @@
 ---
+album: Cocked And Loaded
 artists:
 - L.A. Guns
+external_ids:
+  spotify: spotify:track:0gTEvnqaTPmrDvzbKZtQuw
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-jayne-l-a--guns
 lyrics_url: https://www.azlyrics.com/lyrics/laguns/theballadofjayne.html
 name: The Ballad Of Jayne
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1989
+runtime: 274106
 ---
-
 She was always something special
 A diamond shining bright in the rain
 Everybody dreams of angels
@@ -142,6 +146,3 @@ Things ain't always what they seem
 What a shame
 What happened to Jayne
 What happened to Jayne
-
-
-

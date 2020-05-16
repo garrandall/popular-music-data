@@ -1,9 +1,12 @@
 ---
+album: El Farsante (Remix)
 artists:
 - Ozuna
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:7uYgVgRSgqluZclLS7wpp4
 features: []
-genres: []
+first_released_as_single: true
 key: el-farsante-ozuna-romeo-santos
 lyrics_url: https://genius.com/Ozuna-el-farsante-remix-lyrics
 name: El Farsante
@@ -88,6 +91,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 258000
 ---
 This is a Golden Remix
 King

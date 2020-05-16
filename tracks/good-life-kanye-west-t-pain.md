@@ -1,9 +1,12 @@
 ---
+album: Graduation
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:14blxrgE0VWAgv5aF2wWmx
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: good-life-kanye-west-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/goodlife.html
 name: Good Life
@@ -92,9 +95,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-02-16'
+release_year: 2007
+runtime: 207000
 ---
-
-
 Like we always do at this time
 I go for mine, I got to shine
 Now throw your hands up in the sky
@@ -175,6 +178,3 @@ And now my grandmama ain't the only girl calling me baby
 And if you feeling' me now then put your hands up in the sky
 And let me hear you say hey, hey, hey, oh
 I'm good
-
-
-

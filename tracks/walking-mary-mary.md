@@ -1,8 +1,11 @@
 ---
+album: Go Get It
 artists:
 - Mary Mary
+external_ids:
+  spotify: spotify:track:7JeHDFvVl3idIVMvZYab5X
 features: []
-genres: []
+first_released_as_single: false
 key: walking-mary-mary
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-Mary/Walking
 name: Walking
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2000
+runtime: 202413
 ---
 Tell me what you see when I pass by
 Shadow, a cloud or a line in the sky

@@ -1,8 +1,11 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:1AGPmw3QJBNfOK6XioDhZp
 features: []
-genres: []
+first_released_as_single: false
 key: never-stop-future
 lyrics_url: https://genius.com/Future-never-stop-lyrics
 name: Never Stop
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2019
+runtime: 291333
 ---
 I will never stop, never stop
 Keep goin', keep goin'

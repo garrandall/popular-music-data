@@ -1,8 +1,11 @@
 ---
+album: The Incredible Machine
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:1hiIyiFaVmFvYKDnEWGzvb
 features: []
-genres: []
+first_released_as_single: false
 key: little-miss-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/littlemiss.html
 name: Little Miss
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
+release_year: 2010
+runtime: 271266
 ---
-
 Little miss done on love
 Little miss, I give up
 Little miss, I'll get tough, don't you worry about me anymore
@@ -110,6 +114,3 @@ It'll be alright again
 It'll be alright again, I'm okay
 It'll be alright again, I'm okay (I'm okay, it'll be alright again)
 I'm okay! (It'll be alright again)
-
-
-

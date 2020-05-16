@@ -1,8 +1,11 @@
 ---
+album: Night Shift
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:0OqOjNbEnT66jbDnWfff9q
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-standing-by-foghat
 lyrics_url: https://genius.com/Foghat-ill-be-standing-by-lyrics
 name: I'll Be Standing By
@@ -19,6 +22,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1976
+runtime: 353333
 ---
 Price / Peverett - Riff Bros. Music - ASCAP
 

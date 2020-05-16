@@ -1,8 +1,11 @@
 ---
+album: '15'
 artists:
 - Buckcherry
+external_ids:
+  spotify: spotify:track:5XfQTbialQHn9PhDb0p85H
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-bitch-buckcherry
 lyrics_url: https://genius.com/Buckcherry-crazy-bitch-lyrics
 name: Crazy Bitch
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2006
+runtime: 204960
 ---
 All right
 

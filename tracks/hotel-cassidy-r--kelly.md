@@ -1,9 +1,12 @@
 ---
+album: Split Personality
 artists:
 - Cassidy
+external_ids:
+  spotify: spotify:track:4hHXhCRSnOKd6nMGaivmD0
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: hotel-cassidy-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/cassidy/hotel.html
 name: Hotel
@@ -104,9 +107,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2004-05-29'
+release_year: 2003
+runtime: 247040
 ---
-
-
 Ladies and gentlemen, you are listening to the sounds of swiss beats.
 We got cassidy in here. Kels! We in our throwbacks.
 This is for the ladies, we got room keys.
@@ -176,6 +179,3 @@ You've just heard, a classic, featuring the one and only, Kels, Cassidy, Swiss b
 Full service the label, Rock***the family, Ruff ryders the family.
 This one's for the ladies y'all. The baby, believe it! Get your hands up!
 It's over.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4cRBqWBjuccCowYVHFlXK6
 features: []
-genres: []
+first_released_as_single: false
 key: redemption-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/redemption.html
 name: Redemption
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 333946
 ---
-
 Yeah, I get it
 I get it
 Yeah
@@ -120,6 +124,3 @@ Redemption on your mind, I'll never be forgiven
 
 Yeah
 I know
-
-
-

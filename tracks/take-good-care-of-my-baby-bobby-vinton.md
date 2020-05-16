@@ -1,8 +1,11 @@
 ---
+album: Take Good Care of My Baby
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:2QjaKrAbNsCfnyOIhPiQzT
 features: []
-genres: []
+first_released_as_single: false
 key: take-good-care-of-my-baby-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/takegoodcareofmybaby.html
 name: Take Good Care Of My Baby
@@ -39,8 +42,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 165266
 ---
-
 My tears are fallin' 
 'cause you've taken her away 
 And though it really hurts me so 
@@ -77,6 +81,3 @@ Just send my baby back home to me
 Aww, take good care of my baby
 Well, take good care of my baby
 Just, take good care of my baby
-
-
-

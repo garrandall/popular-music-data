@@ -1,8 +1,11 @@
 ---
+album: Up
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:7chTzkbpS16xJqyhJWQlmt
 features: []
-genres: []
+first_released_as_single: false
 key: daysleeper-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/daysleeper.html
 name: Daysleeper
@@ -19,8 +22,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 219600
 ---
-
 Receiving department, 3 A.M.
 Staff cuts have socked up the overage
 Directives are posted, no callbacks, complaints
@@ -66,6 +70,3 @@ Daysleeper
 Daysleeper
 Daysleeper
 Daysleeper
-
-
-

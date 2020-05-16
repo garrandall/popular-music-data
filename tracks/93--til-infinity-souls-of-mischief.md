@@ -1,8 +1,11 @@
 ---
+album: 93 'til Infinity
 artists:
 - Souls Of Mischief
+external_ids:
+  spotify: spotify:track:0PV1TFUMTBrDETzW6KQulB
 features: []
-genres: []
+first_released_as_single: false
 key: 93--til-infinity-souls-of-mischief
 lyrics_url: https://genius.com/Souls-of-mischief-93-til-infinity-lyrics
 name: 93 'til Infinity
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-01-08'
+release_year: 1993
+runtime: 286440
 ---
 Yo, whassup? This is Tajai of the mighty Souls of Mischief crew
 I'm chillin' with my man Phesto, my man A-Plus

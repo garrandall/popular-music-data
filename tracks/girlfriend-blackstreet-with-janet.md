@@ -1,10 +1,13 @@
 ---
 artists:
-- BLACKstreet With Janet
-features: []
+- BLACKstreet
+features:
+- Eve
+- Janet Jackson
+- Ja Rule
 genres: []
 key: girlfriend-blackstreet-with-janet
-name: Girlfriend
+name: Girlfriend/Boyfriend
 rankings:
 - end_date: '1999-03-19'
   rank: 76

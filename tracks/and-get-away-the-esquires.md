@@ -1,8 +1,11 @@
 ---
+album: Get On Up And Get Away
 artists:
 - The Esquires
+external_ids:
+  spotify: spotify:track:7Iay1Q5jEjHPxJbmGPOLzV
 features: []
-genres: []
+first_released_as_single: false
 key: and-get-away-the-esquires
 lyrics_url: https://genius.com/The-esquires-and-get-away-lyrics
 name: And Get Away
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 160801
 ---
 Wait
 Got to get away

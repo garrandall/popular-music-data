@@ -1,8 +1,11 @@
 ---
+album: Angel Baby
 artists:
 - Angelica
+external_ids:
+  spotify: spotify:track:58BXnNOqUXH167HH3dEA9R
 features: []
-genres: []
+first_released_as_single: false
 key: angel-baby-angelica
 lyrics_url: https://genius.com/Angelica-rock-angel-baby-lyrics
 name: Angel Baby
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1991
+runtime: 240866
 ---
 It's just like heaven
 Being with you

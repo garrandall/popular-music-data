@@ -1,8 +1,11 @@
 ---
+album: Return Of The Rentals
 artists:
 - The Rentals
+external_ids:
+  spotify: spotify:track:5NjIog0vXS0VBWa5a94vzJ
 features: []
-genres: []
+first_released_as_single: false
 key: friends-of-p-the-rentals
 lyrics_url: https://genius.com/The-rentals-friends-of-p-lyrics
 name: Friends Of P
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
+release_year: 1995
+runtime: 212266
 ---
 (Oh woo hoo hoo)
 I'm a good guy for a gal

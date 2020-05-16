@@ -1,8 +1,11 @@
 ---
+album: Part III
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:2SLZ2rX5773RS16mcqBxG7
 features: []
-genres: []
+first_released_as_single: false
 key: peaches---cream-112
 lyrics_url: https://genius.com/112-peaches-and-cream-lyrics
 name: Peaches & Cream
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-10-27'
+release_year: 2001
+runtime: 193093
 ---
 So hot, hot
 It's the S the L the I the M

@@ -1,8 +1,11 @@
 ---
+album: Something To Be
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:3Voz5vnFfMu8nrVP6hIYte
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-how-a-heart-breaks-rob-thomas
 lyrics_url: https://genius.com/Rob-thomas-this-is-how-a-heart-breaks-lyrics
 name: This Is How A Heart Breaks
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2005
+runtime: 230960
 ---
 Don't you wanna go for a ride
 Just keep your hands inside

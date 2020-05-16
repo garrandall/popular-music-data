@@ -1,8 +1,11 @@
 ---
+album: Norman Fucking Rockwell!
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:6ECwimRuwOxwQv5VXoN5Mt
 features: []
-genres: []
+first_released_as_single: true
 key: doin--time-lana-del-rey
 lyrics_url: https://genius.com/Lana-del-rey-doin-time-lyrics
 name: Doin' Time
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 201996
 ---
 Summertime, and the livin's easy
 Bradley's on the microphone with Ras MG

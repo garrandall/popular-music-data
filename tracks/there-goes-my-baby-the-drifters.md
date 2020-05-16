@@ -1,8 +1,11 @@
 ---
+album: Hits and Rarities
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:2s4B4fUlVIkE4ELgoupjXL
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-baby-the-drifters
 lyrics_url: https://genius.com/The-drifters-there-goes-my-baby-lyrics
 name: There Goes My Baby
@@ -83,6 +86,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1959
+runtime: 129613
 ---
 (Bo-bo) (doo-doot-doo-doo-doo-doo)
 (There she goes) (doo-doot-doo-doo-doo-doo)

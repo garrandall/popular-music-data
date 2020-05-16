@@ -1,8 +1,11 @@
 ---
+album: Working Class Dog
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:2L51ByCm8ugVheFc8UklzS
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-done-everything-for-you-rick-springfield
 lyrics_url: https://genius.com/Rick-springfield-ive-done-everything-for-you-lyrics
 name: I've Done Everything For You
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 197053
 ---
 This one way love affair ain't fair
 It ain't no affair to me

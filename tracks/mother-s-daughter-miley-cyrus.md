@@ -1,8 +1,11 @@
 ---
+album: SHE IS COMING
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2WyRfGeHo97VC5mP1BBSzr
 features: []
-genres: []
+first_released_as_single: true
 key: mother-s-daughter-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/mothersdaughter.html
 name: Mother's Daughter
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2019
+runtime: 219080
 ---
-
 Hallelujah, I'm a freak, I'm a freak
 Hallelujah, every day of the week
 I'mma do yeah, like I want ah
@@ -92,6 +96,3 @@ Don't fuck with my freedom
 Oh my God, oh my God
 
 Swish swish, motherfucker
-
-
-

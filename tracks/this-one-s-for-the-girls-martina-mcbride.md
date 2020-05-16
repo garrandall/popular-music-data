@@ -1,8 +1,11 @@
 ---
+album: Martina
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:01CnYyPXMFRzOFVQBU8WMb
 features: []
-genres: []
+first_released_as_single: false
 key: this-one-s-for-the-girls-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/thisonesforthegirls.html
 name: This One's For The Girls
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
+release_year: 2003
+runtime: 243160
 ---
-
 This one's for all you girls about thirteen
 High school can be so rough, can be so mean
 Hold onto, on to your innocence
@@ -139,6 +143,3 @@ Who dream with everything they have
 All around the world
 This one's for the girls
 Yeah, this one's for the girls
-
-
-

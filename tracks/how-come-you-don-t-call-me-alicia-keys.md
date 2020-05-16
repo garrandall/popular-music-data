@@ -1,8 +1,11 @@
 ---
+album: Songs In A Minor
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:5bAEFsQjo0DEJalVwFVmsW
 features: []
-genres: []
+first_released_as_single: false
 key: how-come-you-don-t-call-me-alicia-keys
 lyrics_url: https://www.musixmatch.com/lyrics/Alicia-Keys/How-Come-You-Don-t-Call-Me
 name: How Come You Don't Call Me
@@ -43,6 +46,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
+release_year: 2001
+runtime: 237626
 ---
 But all I wanna know baby is,
 If what we had was good

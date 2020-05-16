@@ -1,8 +1,11 @@
 ---
+album: By the Way
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:1f2V8U1BiWaC9aJWmpOARe
 features: []
-genres: []
+first_released_as_single: false
 key: by-the-way-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-by-the-way-lyrics
 name: By The Way
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2002
+runtime: 216933
 ---
 Standing in line to see the show tonight
 And there's a light on, heavy glow

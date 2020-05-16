@@ -1,8 +1,11 @@
 ---
+album: Get It Together
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:0ye4SyttW1cOT8KLWrBRN5
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-machine-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/dancingmachine.html
 name: Dancing Machine
@@ -95,8 +98,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1973
+runtime: 204960
 ---
-
 Dancing, dancing, dancing
 She's a dancing machine
 Ah babe
@@ -166,6 +170,3 @@ Right on the scene
 
 She's a dance, dance, dance, dance, dancing machine
 Watch her get down, watch her get down
-
-
-

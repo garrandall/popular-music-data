@@ -1,8 +1,11 @@
 ---
+album: The Whole Shebang
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:4vYKeidaDqMW4dEuJDklxV
 features: []
-genres: []
+first_released_as_single: false
 key: this-woman-needs-shedaisy
 lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/thiswomanneeds.html
 name: This Woman Needs
@@ -43,8 +46,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2000-04-01'
+release_year: 1999
+runtime: 200400
 ---
-
 This woman that takes on the world
 And picks up your shirts, keeps it together somehow
 This same woman, that melts with your touch
@@ -79,6 +83,3 @@ What this woman needs
 Yeah, what this woman needs
 Yeah, yeah, yeah - 
 What this woman needs
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Supposed Former Infatuation Junkie
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:1pLbd91sslN51VJL83pm51
 features: []
-genres: []
+first_released_as_single: false
 key: unsent-alanis-morissette
 lyrics_url: https://www.azlyrics.com/lyrics/alanismorissette/unsent.html
 name: Unsent
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
+release_year: 1998
+runtime: 250066
 ---
-
 dear matthew I like you a lot I realize you're in a relationship 
 with someone right now and I respect
 that I would like you to know that if you're ever single 
@@ -67,6 +71,3 @@ the long distance thing was the hardest and we did as well as we could
 we were together during a very tumultuous time
 in our lives I will always have your back and be curious about you 
 about your career about your whereabouts
-
-
-

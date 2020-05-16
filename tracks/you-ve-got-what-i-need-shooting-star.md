@@ -1,8 +1,11 @@
 ---
+album: Shooting Star
 artists:
 - Shooting Star
+external_ids:
+  spotify: spotify:track:4GXGei2PzU1KpPm5NfzrX8
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-what-i-need-shooting-star
 lyrics_url: https://www.musixmatch.com/lyrics/Shooting-Star/You-ve-Got-What-I-Need
 name: You've Got What I Need
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1980
+runtime: 227800
 ---
 Been down and depressed, my body's aching
 Trembling hands, cold feet, and shaking knees

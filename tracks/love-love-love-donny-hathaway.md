@@ -1,8 +1,11 @@
 ---
+album: 'Never My Love: The Anthology'
 artists:
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:3Tc6dHggtSaZqlKRhzkeub
 features: []
-genres: []
+first_released_as_single: false
 key: love-love-love-donny-hathaway
 lyrics_url: https://genius.com/Donny-hathaway-love-love-love-lyrics
 name: Love Love Love
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 204055
 ---
 Love love love why'd you take so long to come to me aww baby
 Love love yo love tell me where you hiding from me

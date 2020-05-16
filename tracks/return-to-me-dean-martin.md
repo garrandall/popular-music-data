@@ -1,8 +1,11 @@
 ---
+album: 'Dean Martin: The Capitol Recordings, Vol. 12 (1961)'
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:1vfL0PxFqd9vBzXfBxGjIs
 features: []
-genres: []
+first_released_as_single: false
 key: return-to-me-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/returntome.html
 name: Return To Me
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1956
+runtime: 166626
 ---
-
 Return to me
 Oh my dear I'm so lonely
 Hurry back, hurry back
@@ -47,6 +51,3 @@ Retorna me
 Cara mia ti amo
 Solo tu, solo tu, solo tu, solo tu
 Mio cuore
-
-
-

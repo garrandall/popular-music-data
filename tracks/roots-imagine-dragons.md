@@ -1,8 +1,11 @@
 ---
+album: Roots
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:4GITtbZtRCQXhWLMXrWXHt
 features: []
-genres: []
+first_released_as_single: true
 key: roots-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/roots.html
 name: Roots
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2015-09-19'
+release_year: 2015
+runtime: 174506
 ---
-
 Don't throw stones at me
 Don't tell anybody
 Trouble finds me
@@ -61,6 +65,3 @@ Another day, another door
 Another high, another low
 Rock bottom, rock bottom, rock bottom
 I'm going back to my roots
-
-
-

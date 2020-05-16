@@ -1,8 +1,11 @@
 ---
+album: Moments (Expanded)
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:1IYdTpAbqZRBXj52qvzKxl
 features: []
-genres: []
+first_released_as_single: false
 key: we-were-always-sweethearts-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/wewerealwayssweethearts.html
 name: We Were Always Sweethearts
@@ -31,8 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1971
+runtime: 208333
 ---
-
 We were always sweethearts
 Different in our ways
 Together we spent happy hours
@@ -87,6 +91,3 @@ Happy days will never be the same
 na na na na na na yeah...
 na na na na na na yeah...
 na na na na na na... yeah...
-
-
-

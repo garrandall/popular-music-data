@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:3JNEXPTnSxqlxNqhTW61D2
 features: []
-genres: []
+first_released_as_single: false
 key: all-bad-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-all-bad-lyrics
 name: All Bad
@@ -11,6 +14,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2013
+runtime: 182746
 ---
 It's another, if it ain't one thing
 Instigators, like putting fire on propane

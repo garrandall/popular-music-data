@@ -1,8 +1,11 @@
 ---
+album: RIFF
 artists:
 - Riff
+external_ids:
+  spotify: spotify:track:1moqVeiFEOxtXaPNEtS3md
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-serious-riff
 lyrics_url: https://genius.com/Riff-if-youre-serious-lyrics
 name: If You're Serious
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1991
+runtime: 220706
 ---
 If you really mean what you said to me
 And you got to have me in your life

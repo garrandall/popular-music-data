@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:7DjCRhhFo9PPzca1BjMLcf
 features: []
-genres: []
+first_released_as_single: false
 key: long-live-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/longlive.html
 name: Long Live
@@ -11,8 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 317453
 ---
-
 I said remember this moment
 In the back of my mind
 The time we stood with our shaking hands
@@ -92,6 +96,3 @@ I had the time of my life fighting dragons with you
 And long, long live that look on your face
 And bring on all the pretenders
 One day, we will be remembered
-
-
-

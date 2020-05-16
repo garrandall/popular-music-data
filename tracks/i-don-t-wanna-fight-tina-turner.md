@@ -1,8 +1,11 @@
 ---
+album: What's Love Got to Do with It?
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7IUTUjBJ8mzMwZpyxcI5g0
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-fight-tina-turner
 lyrics_url: https://genius.com/Tina-turner-i-dont-wanna-fight-lyrics
 name: I Don't Wanna Fight
@@ -103,6 +106,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1993
+runtime: 369066
 ---
 There's a pale moon in the sky
 The kind you make your wishes on

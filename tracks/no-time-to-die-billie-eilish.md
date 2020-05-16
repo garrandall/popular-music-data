@@ -1,8 +1,11 @@
 ---
+album: No Time To Die
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:73SpzrcaHk0RQPFP73vqVR
 features: []
-genres: []
+first_released_as_single: true
 key: no-time-to-die-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-no-time-to-die-lyrics
 name: No Time To Die
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 242265
 ---
 I should have known
 I'd leave alone

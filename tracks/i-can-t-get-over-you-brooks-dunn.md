@@ -1,9 +1,12 @@
 ---
+album: If You See Her
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:5lcPrZifqOjOoykjCSUVEP
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-get-over-you-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-i-cant-get-over-you-lyrics
 name: I Can't Get Over You
@@ -52,6 +55,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1998
+runtime: 248466
 ---
 I forget where I'm going in my own house
 I got myself in this, I'll get myself out

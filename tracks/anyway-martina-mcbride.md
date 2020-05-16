@@ -1,8 +1,11 @@
 ---
+album: Waking Up Laughing
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:6fiAVbqr1DWWQQxvnMsxWr
 features: []
-genres: []
+first_released_as_single: true
 key: anyway-martina-mcbride
 lyrics_url: https://genius.com/Martina-mcbride-anyway-lyrics
 name: Anyway
@@ -71,6 +74,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2007
+runtime: 286200
 ---
 You can spend your whole life buildin', somethin' from nothin'
 One storm can come and blow it all away, build it anyway

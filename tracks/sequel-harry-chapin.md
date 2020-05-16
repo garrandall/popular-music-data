@@ -1,8 +1,11 @@
 ---
+album: The Gold Medal Collection
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:0HFW81AR9sO7FiCBy75O5b
 features: []
-genres: []
+first_released_as_single: false
 key: sequel-harry-chapin
 lyrics_url: https://www.azlyrics.com/lyrics/harrychapin/sequel.html
 name: Sequel
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 398266
 ---
-
 Hey, she's actin' happy, inside her handsome home
 And me, I'm flyin' in my taxi, takin' tips
 
@@ -149,6 +153,3 @@ With half the time thinking of what might have been
 And half thinkin' just as well
 
 I guess only time will tell
-
-
-

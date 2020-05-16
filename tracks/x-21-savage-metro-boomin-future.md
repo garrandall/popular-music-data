@@ -1,10 +1,13 @@
 ---
+album: Savage Mode
 artists:
 - 21 Savage
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:6fwdbPMwP1zVStm8FybmkO
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: x-21-savage-metro-boomin-future
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-21-savage-and-metro-boomin-x-ft-future-traduccion-al-espanol-lyrics
 name: X
@@ -93,6 +96,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2016
+runtime: 258880
 ---
 Diez putas malas en una mansión
 El Wrist se me ve mucho cuando bailo Milly Rock, los diamantes me quedan bien

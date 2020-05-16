@@ -1,8 +1,11 @@
 ---
+album: Bat Out Of Hell
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:2ph0hzV1kCVhR82E2La4q5
 features: []
-genres: []
+first_released_as_single: false
 key: two-out-of-three-ain-t-bad-meat-loaf
 lyrics_url: https://genius.com/Meat-loaf-two-out-of-three-aint-bad-lyrics
 name: Two Out Of Three Ain't Bad
@@ -99,6 +102,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1977
+runtime: 324440
 ---
 Baby we can talk all night
 But that ain't getting us nowhere

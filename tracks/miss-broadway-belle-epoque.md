@@ -1,8 +1,11 @@
 ---
+album: Miss Broadway
 artists:
 - Belle Epoque
+external_ids:
+  spotify: spotify:track:60gE7FQ7hbGKCEqlp2hRm1
 features: []
-genres: []
+first_released_as_single: false
 key: miss-broadway-belle-epoque
 lyrics_url: https://genius.com/Belle-epoque-miss-broadway-lyrics
 name: Miss Broadway
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-04-01'
+release_year: 1976
+runtime: 444629
 ---
 Well, I'm gonna get a job 'cause I need the bread
 But somehow I know it's gonna affect my head

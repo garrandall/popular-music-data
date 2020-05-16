@@ -1,8 +1,11 @@
 ---
+album: Chariot
 artists:
 - Gavin DeGraw
+external_ids:
+  spotify: spotify:track:4dygMGhvfENVhwRXmAscbl
 features: []
-genres: []
+first_released_as_single: false
 key: chariot-gavin-degraw
 lyrics_url: https://www.azlyrics.com/lyrics/gavindegraw/chariot.html
 name: Chariot
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2003
+runtime: 239173
 ---
-
 Staring at a maple leaf
 Leaning on the mother tree
 I said to myself we all lost touch
@@ -123,4 +127,3 @@ You know what I want
 Holding that cup,
 It's pouring over the sides
 Make me wanna spread my arms and fly
-

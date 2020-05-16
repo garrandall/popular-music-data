@@ -1,8 +1,11 @@
 ---
+album: Mann Made Hits
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:6TVWJ44dmJbeYb2p1bb6t5
 features: []
-genres: []
+first_released_as_single: true
 key: sha-la-la-manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-sha-la-la-lyrics
 name: Sha La La
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 151693
 ---
 Sha la la la la la la sha la la la la la la la
 Sha la la la la la la la la la

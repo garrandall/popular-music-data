@@ -1,8 +1,11 @@
 ---
+album: Nantucket Sleighride
 artists:
 - Mountain
+external_ids:
+  spotify: spotify:track:07SJwKCUx5n1LCscH2cPkA
 features: []
-genres: []
+first_released_as_single: false
 key: the-animal-trainer-and-the-toad-mountain
 lyrics_url: https://www.azlyrics.com/lyrics/mountain/theanimaltrainerandthetoad.html
 name: The Animal Trainer And The Toad
@@ -35,8 +38,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1969
+runtime: 206506
 ---
-
 Many a year I was so confused
 and didn't know what to play
 But then I met a man who picked up his horn
@@ -69,6 +73,3 @@ We had an idea so we put it in gear
 and soon we were out on the road
 We did it to play and they started to say
 The Animal Trainer and the Toad
-
-
-

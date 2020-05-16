@@ -1,8 +1,11 @@
 ---
+album: Tossin' and Turnin'
 artists:
 - Bobby Lewis
+external_ids:
+  spotify: spotify:track:6VFtCu4u6NeANjWZO131Sl
 features: []
-genres: []
+first_released_as_single: false
 key: one-track-mind-bobby-lewis
 lyrics_url: https://genius.com/Bobby-lewis-one-track-mind-lyrics
 name: One Track Mind
@@ -47,6 +50,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 125021
 ---
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah

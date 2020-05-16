@@ -1,8 +1,11 @@
 ---
+album: Little Voice
 artists:
 - Sara Bareilles
+external_ids:
+  spotify: spotify:track:4E6cwWJWZw2zWf7VFbH7wf
 features: []
-genres: []
+first_released_as_single: false
 key: love-song-sara-bareilles
 lyrics_url: https://genius.com/Sara-bareilles-love-song-lyrics
 name: Love Song
@@ -171,6 +174,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2007
+runtime: 258826
 ---
 Head under water
 And they tell me to breathe easy for a while

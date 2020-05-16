@@ -1,10 +1,13 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:1Hd2XLitkt1PYCWSbfF5qV
 features:
 - Cardi B
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: wish-wish-dj-khaled-cardi-b-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/wishwish.html
 name: Wish Wish
@@ -69,8 +72,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 202625
 ---
-
 (Tay Keith, fuck these niggas up!)
 
 Cardi, Cardi bops, Cardi, Cardi in the spot (We The Best Music)
@@ -150,6 +154,3 @@ It be hard not to kill a hoe 'cause I be tempted
 (What's that on your wrist?)
 (I call her a chandelier)
 (Another one)
-
-
-

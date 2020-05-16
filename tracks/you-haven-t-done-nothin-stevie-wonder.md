@@ -1,8 +1,11 @@
 ---
+album: Fulfillingness' First Finale
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:1inwt0v9a4ib9yS6Y4KsdM
 features: []
-genres: []
+first_released_as_single: false
 key: you-haven-t-done-nothin-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-you-havent-done-nothin-lyrics
 name: You Haven't Done Nothin
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1974
+runtime: 202706
 ---
 We are amazed but not amused
 By all the things you say that you'll do

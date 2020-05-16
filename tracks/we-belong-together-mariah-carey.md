@@ -1,8 +1,11 @@
 ---
+album: The Emancipation of Mimi
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:3LmvfNUQtglbTrydsdIqFU
 features: []
-genres: []
+first_released_as_single: false
 key: we-belong-together-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-we-belong-together-lyrics
 name: We Belong Together
@@ -179,6 +182,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 201400
 ---
 Oh oh oh
 Sweet love, yeah

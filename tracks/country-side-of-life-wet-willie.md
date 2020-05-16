@@ -1,8 +1,11 @@
 ---
+album: Keep On Smilin'
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:2qQusZC1YyZSLzhkffY9IG
 features: []
-genres: []
+first_released_as_single: false
 key: country-side-of-life-wet-willie
 lyrics_url: https://genius.com/Wet-willie-country-side-of-life-lyrics
 name: Country Side Of Life
@@ -23,6 +26,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 210426
 ---
 You can have your buildings and your heavy arithmetic
 I don't need no crowded streets or city slicker tricks

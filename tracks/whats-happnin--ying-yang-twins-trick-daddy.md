@@ -1,12 +1,15 @@
 ---
+album: 'Legendary Status: Ying Yang Twins Greatest Hits'
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:6QVDBajBKQAz7RSS66k4vF
 features:
 - Trick Daddy
-genres: []
-key: whats-happnin--ying-yang-twins-trick-daddy
-lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/whatshappnin.html
-name: Whats Happnin!
+first_released_as_single: false
+key: whats-happenin--ying-yang-twins-trick-daddy
+lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/whatshappenin.html
+name: Whats happenin!
 rankings:
 - end_date: '2004-05-14'
   rank: 99
@@ -88,21 +91,21 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2004-09-18'
+release_year: 2004
+runtime: 259733
 ---
-
-
-Miiiaaammmmiiii...
+Miami
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 
 
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 
 
 Half step pussy ass nigga
@@ -119,7 +122,7 @@ So now that you set you ready, YO!
 If this shit get silly I'm lettin' it go
 First scrito in the front seat
 You ever come my way, it's gon' be gunplay
-HEEEYYY.. I ride wit' a AK, get high and spit five out the AK
+Hey I ride wit' a AK, get high and spit five out the AK
 Ok, let a nigga play and watch T-Double-D knock ya ass of the free seat
 All my Dade County Chevy boys, who drive candy toys and tolt guns galore
 And treat the Hummer like a Tonka toy
@@ -127,11 +130,11 @@ Got shit you niggas ain't seen before
 
 
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 
 
 Ying Yang and the T-Double-D
@@ -151,21 +154,19 @@ And the third time yo' ass is mine
 Go down for the count, "He can't get up!"
 DAMN! he fell and he can't get up!
 
-
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
-
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 
 You a soft mo'fucka, kind of gay mo'fucka
 If you mad 'cause you like you never had mo'fucka
 Fuck yo' ass mo'fucka, that's the past mo'fucka
 And I know the fact make ya mad mo'fucka
-It iiiss.. what I thought nigga think it ain't
-For reeeaall... you lame and we off the chain
+It is what I thought nigga think it ain't
+For real you lame and we off the chain
 And the T-Double-D, we bolo
 FUCK hoes niggas ride by my Dolo
 Get the keys to my car, and I jump in
@@ -173,19 +174,17 @@ Hit the Liquor store, buy my Cigars and 'gen
 Get drunk and I'm off in the wind
 Lookin' for a itty bitty pretty that could hold a sin
 
-
 We smokin', and ridin'
 Don't tell nobody be quiet
 Might cut it lil' butt it
 Can't let this shit get ugly
 
-
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 BOOM! It's on, bitch nigga we'll rock yo' dome
-BOOM! Bitch what's happnin'? (WHAT?!)
-BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
+BOOM! Bitch what's happenin'? (WHAT?!)
 
 
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
@@ -197,6 +196,3 @@ Collipark Music Incorperated
 This that next level right here, it's that crunk party
 All these niggas doin' crunk music, we crunk party nigga
 Be original wit' it, Hey man who really run the south?
-
-
-

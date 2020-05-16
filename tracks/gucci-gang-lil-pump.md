@@ -1,8 +1,11 @@
 ---
+album: Lil Pump
 artists:
 - Lil Pump
+external_ids:
+  spotify: spotify:track:6foxplXS0YEq8cO374Lty4
 features: []
-genres: []
+first_released_as_single: true
 key: gucci-gang-lil-pump
 lyrics_url: https://genius.com/Lil-pump-gucci-gang-lyrics
 name: Gucci Gang
@@ -103,6 +106,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 124055
 ---
 Yuh, oh, brr, brr
 Gucci gang, oh

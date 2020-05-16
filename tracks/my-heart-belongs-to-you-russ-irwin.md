@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 90's
 artists:
 - Russ Irwin
+external_ids:
+  spotify: spotify:track:1s0VBhLgxZJpC6M9uncj4e
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-belongs-to-you-russ-irwin
 lyrics_url: https://genius.com/Russ-irwin-my-heart-belongs-to-you-lyrics
 name: My Heart Belongs To You
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
+release_year: 1991
+runtime: 240933
 ---
 Love will bring all the things
 That we choose to give it

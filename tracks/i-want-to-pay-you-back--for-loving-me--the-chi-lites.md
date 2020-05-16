@@ -1,8 +1,11 @@
 ---
+album: The Chi-Lites (Live)
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:4wzBhn22HZObuGDhFrXBrE
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-pay-you-back--for-loving-me--the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/iwanttopayyoubackforlovingme.html
 name: I Want To Pay You Back (For Loving Me)
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 178666
 ---
-
 There's something that I want to give you
 
 I'm gonna give you a five pound box of love
@@ -69,6 +73,3 @@ I want to pay you back for loving me
 I want to pay you back (I want to pay you back)
 I want to pay you back for loving me, me
 ...
-
-
-

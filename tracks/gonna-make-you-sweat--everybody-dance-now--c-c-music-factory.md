@@ -1,8 +1,11 @@
 ---
+album: Gonna Make You Sweat (Everybody Dance Now)
 artists:
 - C+C Music Factory
+external_ids:
+  spotify: spotify:track:2zeGpMojbMPSmLngK2Ojf7
 features: []
-genres: []
+first_released_as_single: true
 key: gonna-make-you-sweat--everybody-dance-now--c-c-music-factory
 lyrics_url: https://genius.com/C-c-music-factory-gonna-make-you-sweat-everybody-dance-now-lyrics
 name: Gonna Make You Sweat (Everybody Dance Now)
@@ -107,6 +110,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1990
+runtime: 299933
 ---
 Everybody dance now!
 Everybody dance now!

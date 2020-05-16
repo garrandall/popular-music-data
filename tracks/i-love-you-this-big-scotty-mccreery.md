@@ -1,8 +1,11 @@
 ---
+album: Clear As Day
 artists:
 - Scotty McCreery
+external_ids:
+  spotify: spotify:track:3wtKovRRtvu6wbTjeKA26Q
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-this-big-scotty-mccreery
 lyrics_url: https://www.azlyrics.com/lyrics/scottymccreery/iloveyouthisbig.html
 name: I Love You This Big
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
+release_year: 2011
+runtime: 246120
 ---
-
 I know I'm still young
 But, I know how I feel
 I might not have too much experience
@@ -125,6 +129,3 @@ No-one's ever dreamed... this big
 And I'll spend the rest of my life
 Explaining what words cannot describe but, I'll try
 I love you this big
-
-
-

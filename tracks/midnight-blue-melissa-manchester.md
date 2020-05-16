@@ -1,8 +1,11 @@
 ---
+album: Melissa
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:0N3qcAXZM06zaTKm7JCtIh
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-blue-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/midnightblue.html
 name: Midnight Blue
@@ -75,8 +78,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 235000
 ---
-
 Whatever it is, it'll keep till the morning
 Haven't we both got better things to do?
 Midnight blue
@@ -120,6 +124,3 @@ Looks like we're gonna make it
 If we try
 I think we can make it
 ...
-
-
-

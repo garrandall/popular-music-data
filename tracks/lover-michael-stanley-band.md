@@ -1,8 +1,11 @@
 ---
+album: Heartland
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:2nf3nOax2P7jf7kIlxBgIP
 features: []
-genres: []
+first_released_as_single: false
 key: lover-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/Lover
 name: Lover
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1980
+runtime: 290000
 ---
 Well the glow from the bars and a
 Thousand stars

@@ -1,9 +1,12 @@
 ---
+album: Suicidal (Remix)
 artists:
 - YNW Melly
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:7s9n7XfmciHiupK42ZhiUr
 features: []
-genres: []
+first_released_as_single: true
 key: suicidal-ynw-melly-juice-wrld
 lyrics_url: https://genius.com/Ynw-melly-suicidal-remix-lyrics
 name: Suicidal
@@ -68,6 +71,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 225857
 ---
 Suicidal
 Your love is suicidal

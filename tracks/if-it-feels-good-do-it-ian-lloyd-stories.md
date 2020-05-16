@@ -1,9 +1,12 @@
 ---
+album: Traveling Underground
 artists:
 - Ian Lloyd
 - Stories
+external_ids:
+  spotify: spotify:track:3gLYqxcJ7zgUHd7dyocSAm
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-feels-good-do-it-ian-lloyd-stories
 name: If It Feels Good Do It
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1973
+runtime: 171200
 ---
 

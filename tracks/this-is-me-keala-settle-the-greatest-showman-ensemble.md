@@ -1,9 +1,12 @@
 ---
+album: This Is Me
 artists:
 - Keala Settle
 - The Greatest Showman Ensemble
+external_ids:
+  spotify: spotify:track:2xGjteMU3E1tkEPVFBO08U
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-me-keala-settle-the-greatest-showman-ensemble
 lyrics_url: https://www.musixmatch.com/lyrics/Keala-Settle-feat-The-Greatest-Showman-Ensemble/This-Is-Me
 name: This Is Me
@@ -64,6 +67,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2017
+runtime: 234706
 ---
 I am not a stranger to the dark
 Hide away, they say

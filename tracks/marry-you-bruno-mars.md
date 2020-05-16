@@ -1,8 +1,11 @@
 ---
+album: Doo-Wops & Hooligans
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:22PMfvdz35fFKYnJyMn077
 features: []
-genres: []
+first_released_as_single: false
 key: marry-you-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/brunomars/marryyou.html
 name: Marry You
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 230120
 ---
-
 It's a beautiful night
 We're looking for something dumb to do
 Hey baby
@@ -116,6 +120,3 @@ Is it the look in your eyes
 Or is it this dancing juice?
 Who cares baby
 I think I wanna marry you
-
-
-

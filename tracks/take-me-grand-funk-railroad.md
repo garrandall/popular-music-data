@@ -1,8 +1,11 @@
 ---
+album: '30 Years Of Funk: 1969-1999 The Anthology'
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:1PCzNe0Ol2hZRmhZWQjPlb
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-grand-funk-railroad
 lyrics_url: https://genius.com/Grand-funk-railroad-take-me-lyrics
 name: Take Me
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1976
+runtime: 310266
 ---
 Come and dance with me, take me all the higher
 Put your arms around me, make me feel much righter

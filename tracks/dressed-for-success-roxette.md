@@ -1,8 +1,11 @@
 ---
+album: Look Sharp!
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:7dOyP04azUFikPvAkhRBeJ
 features: []
-genres: []
+first_released_as_single: false
 key: dressed-for-success-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/dressedforsuccess.html
 name: Dressed For Success
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1988
+runtime: 249840
 ---
-
 Tried to make it little by little,
 tried to make it bit by bit on my own.
 Quit the job, the grey believers,
@@ -108,6 +112,3 @@ Get dressed for success
 shaping it up for your love.
 
 Look sharp!
-
-
-

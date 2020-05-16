@@ -1,9 +1,12 @@
 ---
+album: The Sensational Ike & Tina Turner
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7xHKR0iIlyr5G8MhVkZumZ
 features: []
-genres: []
+first_released_as_single: false
 key: nutbush-city-limits-ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-nutbush-city-limits-lyrics
 name: Nutbush City Limits
@@ -68,6 +71,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1973
+runtime: 178893
 ---
 A church house gin house
 A school house outhouse

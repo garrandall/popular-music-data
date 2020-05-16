@@ -1,8 +1,11 @@
 ---
+album: 100 Greatest Christmas Songs Ever (Top Xmas Pop Hits)
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:4fzyvSu73BhGvi96p2zwjL
 features: []
-genres: []
+first_released_as_single: true
 key: christmas-lights-coldplay
 lyrics_url: https://genius.com/Coldplay-christmas-lights-lyrics
 name: Christmas Lights
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 242495
 ---
 Christmas night, another fight
 Tears, we cried a flood

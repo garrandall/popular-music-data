@@ -1,9 +1,12 @@
 ---
+album: Allure
 artists:
 - Allure
+external_ids:
+  spotify: spotify:track:3Vqi9EyGo1G38Klj6vt4bM
 features:
 - '112'
-genres: []
+first_released_as_single: true
 key: all-cried-out-allure-112
 lyrics_url: https://genius.com/Allure-all-cried-out-lyrics
 name: All Cried Out
@@ -108,6 +111,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1997
+runtime: 222333
 ---
 All alone on a Sunday mornin'
 Outside I see the rain is fallin', whoa oh

@@ -1,9 +1,12 @@
 ---
+album: Droptopwop
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:2XaInsPPUkZRkY4uFJ3AHK
 features:
 - Offset
-genres: []
+first_released_as_single: false
 key: met-gala-gucci-mane-offset
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/metgala.html
 name: Met Gala
@@ -16,9 +19,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-06-24'
+release_year: 2017
+runtime: 209142
 ---
-
-
 Hey
 Southside
 Wizop
@@ -136,6 +139,3 @@ I was that nigga locked up in the cell
 And they treated me like I was normal (normal)
 Thankin' the Lord for them blessings
 I just left the met gala dress up formal (formal)
-
-
-

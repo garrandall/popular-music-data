@@ -1,8 +1,11 @@
 ---
+album: The Unavailable 16 & The Original Nitty Gritty
 artists:
 - The Quin-Tones
+external_ids:
+  spotify: spotify:track:4zQEF5XYxKYA7cZnWmQmjh
 features: []
-genres: []
+first_released_as_single: false
 key: down-the-aisle-of-love-the-quin-tones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Quin-Tones/Down-the-Aisle-of-Love
 name: Down The Aisle Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 173996
 ---
 When we walk down the aisle he gives me a smile
 When we walk, as we walk down the aisle of love

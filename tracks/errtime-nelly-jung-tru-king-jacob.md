@@ -1,10 +1,13 @@
 ---
+album: The Longest Yard
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:4ibOHfQK8Zdea6ZI0ANZx4
 features:
 - Jung Tru
 - King Jacob
-genres: []
+first_released_as_single: false
 key: errtime-nelly-jung-tru-king-jacob
 lyrics_url: https://genius.com/Nelly-errtime-feat-jung-tru-and-king-jacob-lyrics
 name: Errtime
@@ -33,6 +36,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
+release_year: 2005
+runtime: 249506
 ---
 You see errtime that beat go (beat go) I need you to shake that thang, girl
 (uh) yea errtime that beat go

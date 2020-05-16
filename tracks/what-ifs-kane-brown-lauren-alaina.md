@@ -1,9 +1,12 @@
 ---
+album: Kane Brown
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:7zVCrzzEJU7u24sbJPXA5W
 features:
 - Lauren Alaina
-genres: []
+first_released_as_single: false
 key: what-ifs-kane-brown-lauren-alaina
 lyrics_url: https://genius.com/Kane-brown-what-ifs-lyrics
 name: What Ifs
@@ -100,6 +103,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2016
+runtime: 188253
 ---
 You say what if I hurt you, what if I leave you
 What if I find somebody else and I don't need you?

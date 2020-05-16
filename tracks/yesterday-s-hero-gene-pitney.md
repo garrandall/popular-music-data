@@ -1,8 +1,11 @@
 ---
+album: Blue Gene
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:77HCco7fzc834OoV3XNzW2
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-hero-gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-yesterdays-hero-lyrics
 name: Yesterday's Hero
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 153120
 ---
 Here I stand I'm just a shell of a man
 And only a kiss ago I was yesterday's hero

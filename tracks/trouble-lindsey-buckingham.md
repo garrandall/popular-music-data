@@ -1,8 +1,11 @@
 ---
+album: Law and Order
 artists:
 - Lindsey Buckingham
+external_ids:
+  spotify: spotify:track:04ijIUVdT4Qy1SBWFUPROY
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-lindsey-buckingham
 lyrics_url: https://www.azlyrics.com/lyrics/lindseybuckingham/trouble.html
 name: Trouble
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1981
+runtime: 236533
 ---
-
 I really should be saying goodnight
 I really shouldn't stay anymore
 It's been so long since I held you
@@ -102,6 +106,3 @@ I've forgotten what love is for
 I should run on the double
 I think I'm in trouble
 I think I'm in trouble
-
-
-

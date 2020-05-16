@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:3grxgV6Ot8KqtysApjYLs1
 features: []
-genres: []
+first_released_as_single: true
 key: sorry-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-sorry-lyrics
 name: Sorry
@@ -175,6 +178,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2015
+runtime: 219986
 ---
 You gotta go and get angry at all of my honesty
 You know I try but I don't do too well with apologies

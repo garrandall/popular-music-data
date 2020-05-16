@@ -1,8 +1,11 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:1IAzD1muglOxOcPbUHs70R
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-you-like-t-i-
 lyrics_url: https://genius.com/Ti-whatever-you-like-lyrics
 name: Whatever You Like
@@ -131,6 +134,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2008
+runtime: 249533
 ---
 Aye, Jim, you know the ol' sugar daddies?
 They be trickin', they tell them girls

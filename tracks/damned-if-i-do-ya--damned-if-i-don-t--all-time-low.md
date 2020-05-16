@@ -1,8 +1,11 @@
 ---
+album: Nothing Personal (Deluxe Version)
 artists:
 - All Time Low
+external_ids:
+  spotify: spotify:track:1vMcM8TZL9eUPXQtWoD6gB
 features: []
-genres: []
+first_released_as_single: true
 key: damned-if-i-do-ya--damned-if-i-don-t--all-time-low
 lyrics_url: https://genius.com/All-time-low-damned-if-i-do-ya-damned-if-i-dont-lyrics
 name: Damned If I Do Ya (Damned If I Don't)
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2009
+runtime: 207520
 ---
 I've fought it for a long time now
 While drowning in a river of denial

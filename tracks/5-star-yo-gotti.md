@@ -1,8 +1,11 @@
 ---
+album: Live From The Kitchen
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:3pqs84AH87dMvHTvE1eckd
 features: []
-genres: []
+first_released_as_single: true
 key: 5-star-yo-gotti
 lyrics_url: https://genius.com/Yo-gotti-5-star-lyrics
 name: 5 Star
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 223946
 ---
 If ya credit score high
 And ya nails stay fly

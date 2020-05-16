@@ -1,8 +1,11 @@
 ---
+album: Long Distance
 artists:
 - Night
+external_ids:
+  spotify: spotify:track:3p2L6phu8fR5QMtxrHTo6U
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-the-airwaves-night
 lyrics_url: https://genius.com/Night-love-on-the-airwaves-lyrics
 name: Love On The Airwaves
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1981
+runtime: 239080
 ---
 Lucy gets home late at night
 She gropes in the dark and flicks on the light

@@ -1,8 +1,11 @@
 ---
+album: Got To Be There
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:08QvVJT8y6b0i2nH9mUeMj
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-be-there-michael-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Jackson-The-Jackson-5/Got-to-Be-There
 name: Got To Be There
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 204906
 ---
 Got to be there, got to be there
 In the morning
